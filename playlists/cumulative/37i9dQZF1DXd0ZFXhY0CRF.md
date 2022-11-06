@@ -4,7 +4,7 @@
 
 > These women rock our worlds with their music and influence\. Cover: Alanis Morissette
 
-156 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/4puxHH16U8QMCFkFLBLCLa)
+158 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/4puxHH16U8QMCFkFLBLCLa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [All Around Me](https://open.spotify.com/track/7k9iVpyeR5ybSPSkvmAP6K) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf \(Re\-Release\)](https://open.spotify.com/album/0XvHcGX9MJXt9Cx1Iml7WS) | 3:18 | 2020-03-11 | 2022-07-29 |
 | [All Around Me](https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 3:18 | 2020-03-11 |  |
 | [Alligator](https://open.spotify.com/track/797qMUoU74C6xc45n2vAMK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [FEVER DREAM](https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa) | 3:04 | 2020-07-17 |  |
-| [Anarchy](https://open.spotify.com/track/0osszNZH6LSuk4AzVNh7KC) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/5a0aj6PFt8bFu2Pg3KWPzW) | 3:54 | 2021-05-07 |  |
+| [Anarchy](https://open.spotify.com/track/0osszNZH6LSuk4AzVNh7KC) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/5a0aj6PFt8bFu2Pg3KWPzW) | 3:54 | 2021-05-07 | 2022-11-06 |
+| [Anarchy](https://open.spotify.com/track/7hhEE2RYqGIXl5u8rB1G70) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/3wrOixk8SLnjk4siR58e8q) | 3:54 | 2021-05-07 |  |
 | [Atta Blues](https://open.spotify.com/track/1szDKbUMeO9mGFG4YEGCJ4) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha) | [Atta Blues](https://open.spotify.com/album/4MrwLAfWx5UderzcPA7ExA) | 3:28 | 2020-03-11 | 2022-03-09 |
 | [Baby I Call Hell](https://open.spotify.com/track/3LBkRFoMoyWzhdUeIMJKrc) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Sistrionix](https://open.spotify.com/album/3OSEuYClxGH6gW7vvqBj04) | 3:00 | 2021-02-01 | 2022-03-09 |
 | [Back To Black](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:00 | 2020-03-11 |  |
@@ -110,7 +111,8 @@
 | [Portions for Foxes](https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [More Adventurous \(U.S\. Release\)](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) | 4:44 | 2020-03-11 | 2022-03-09 |
 | [Power Lines](https://open.spotify.com/track/7KJIL45j1D1aKhartXceUW) | [Tigress](https://open.spotify.com/artist/4wJ6pekF4hqpKdlXco2rJN) | [Power Lines](https://open.spotify.com/album/3cT2uVnhyfKyyLrWpgqKuN) | 3:04 | 2020-03-11 | 2022-03-09 |
 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 | 2020-03-11 |  |
-| [Pretty Waste](https://open.spotify.com/track/1j6XqVdSE5KlgfOxfXwiGX) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/3oGWjFc2ol3g4iIiCAXav3) | 2:50 | 2020-03-11 |  |
+| [Pretty Waste](https://open.spotify.com/track/1j6XqVdSE5KlgfOxfXwiGX) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/3oGWjFc2ol3g4iIiCAXav3) | 2:50 | 2020-03-11 | 2022-11-06 |
+| [Pretty Waste](https://open.spotify.com/track/71HZdwtSopDs87RvpI8ip2) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/6YkF6eWFU0EhVHBnYzAgqv) | 2:50 | 2020-03-11 |  |
 | [Proud Mary](https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 5:27 | 2021-02-01 |  |
 | [Raise Hell](https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Raise Hell](https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb) | 3:01 | 2020-03-11 | 2022-07-29 |
 | [Raise Hell](https://open.spotify.com/track/2NPHU2WJaI3rrtCNNuQ8L1) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 3:01 | 2020-03-11 |  |

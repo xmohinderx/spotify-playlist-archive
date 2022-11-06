@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2031,
+  "num_followers": 2033,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMGZhMjU4OGViMDYwZDkwMzAwYWExZTkzOGU4YmU5NmQ2",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDdiMzM0M2FlZDlkNTgyYWFlOTNlYmQwYWY4NGU1Yzhh",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -423,22 +423,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Dirty Spanish",
-        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
-      },
-      "artists": [
-        {
-          "name": "Sam Blans",
-          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
-        }
-      ],
-      "duration_ms": 274833,
-      "name": "Dirty Spanish",
-      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Alma Roja (DJ CHUS Remix)",
         "url": "https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 184320,
       "name": "Alma Roja - DJ Chus Remix",
       "url": "https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Dirty Spanish",
+        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
+      },
+      "artists": [
+        {
+          "name": "Sam Blans",
+          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
+        }
+      ],
+      "duration_ms": 274833,
+      "name": "Dirty Spanish",
+      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -589,26 +589,6 @@
       "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
     },
     {
-      "added_at": "2021-11-26 07:27:00",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk"
-      },
-      "artists": [
-        {
-          "name": "Sam Blans",
-          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
-        },
-        {
-          "name": "Jayson Alanzo",
-          "url": "https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5"
-        }
-      ],
-      "duration_ms": 175252,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy"
-    },
-    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "Brisas Del Mar",
@@ -627,6 +607,26 @@
       "duration_ms": 196500,
       "name": "Brisas Del Mar",
       "url": "https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k"
+    },
+    {
+      "added_at": "2021-11-26 07:27:00",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk"
+      },
+      "artists": [
+        {
+          "name": "Sam Blans",
+          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
+        },
+        {
+          "name": "Jayson Alanzo",
+          "url": "https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5"
+        }
+      ],
+      "duration_ms": 175252,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -871,6 +871,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Ay Papi",
+        "url": "https://open.spotify.com/album/1JcwtK5OXj8916nJVIdoES"
+      },
+      "artists": [
+        {
+          "name": "Local Singles",
+          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Ay Papi",
+      "url": "https://open.spotify.com/track/6cc30Sq9sWfhlsIL8DC0jw"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
       },
@@ -885,20 +901,20 @@
       "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
+      "added_at": "2021-11-05 06:05:00",
       "album": {
-        "name": "Ay Papi",
-        "url": "https://open.spotify.com/album/1JcwtK5OXj8916nJVIdoES"
+        "name": "Cumbia Tropical",
+        "url": "https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn"
       },
       "artists": [
         {
-          "name": "Local Singles",
-          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+          "name": "Ilary Montanari",
+          "url": "https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Ay Papi",
-      "url": "https://open.spotify.com/track/6cc30Sq9sWfhlsIL8DC0jw"
+      "duration_ms": 381899,
+      "name": "Cumbia Tropical",
+      "url": "https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW"
     },
     {
       "added_at": "2021-10-29 16:47:33",
@@ -919,22 +935,6 @@
       "duration_ms": 178079,
       "name": "Colombiana",
       "url": "https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc"
-    },
-    {
-      "added_at": "2021-11-05 06:05:00",
-      "album": {
-        "name": "Cumbia Tropical",
-        "url": "https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn"
-      },
-      "artists": [
-        {
-          "name": "Ilary Montanari",
-          "url": "https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA"
-        }
-      ],
-      "duration_ms": 381899,
-      "name": "Cumbia Tropical",
-      "url": "https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW"
     }
   ],
   "unique_name": "Alma",

@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-154 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/5lFt6f9bgWuVMt1UoMEajh)
+155 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/5lFt6f9bgWuVMt1UoMEajh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [I Had a Heart](https://open.spotify.com/track/5TRyTuddHqiyP9MN2Wv7Zr) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Punk Goes Christmas](https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3) | 2:39 | 2021-11-26 | 2022-07-29 |
 | [I Won't Be Home For Christmas](https://open.spotify.com/track/41olw7iIGVyds8dnSR9pb0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [I Won't Be Home For Christmas](https://open.spotify.com/album/6aXNm9ZaI6eKoRvaVBwU9j) | 3:18 | 2021-11-26 |  |
 | [I Won't Be Home For Christmas](https://open.spotify.com/track/5yxIYEuXnys1K0SwVQZRAM) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Not Now \(International Version\)](https://open.spotify.com/album/1Jh2TqntWdc1VI635F7Qny) | 3:18 | 2021-11-26 | 2022-07-29 |
-| [I'll Be Home for Christmas](https://open.spotify.com/track/5USadsgGdOzClXhRq63Vhn) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Cup of Cheer \(Original Movie Soundtrack\)](https://open.spotify.com/album/6JYh3icuxH3reygo7HRUYY) | 2:06 | 2021-11-26 |  |
+| [I'll Be Home for Christmas](https://open.spotify.com/track/5USadsgGdOzClXhRq63Vhn) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Cup of Cheer \(Original Movie Soundtrack\)](https://open.spotify.com/album/6JYh3icuxH3reygo7HRUYY) | 2:06 | 2021-11-26 | 2022-11-06 |
+| [I'll Be Home for Christmas](https://open.spotify.com/track/7LvKH4GCLnHIB5kVthP0DA) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Cup of Cheer \(Original Movie Soundtrack\)](https://open.spotify.com/album/6TbA8AzpmI44P4IxOyXXih) | 2:06 | 2021-11-26 |  |
 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 | 2021-11-26 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/4DAWtJ9AtRjOMRKJYzdFKW) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [Cole Rolland](https://open.spotify.com/artist/2TV1zBJZ3hQaJpTt46DBIc) | [Jingle Bell Rock / Dance of the Sugar Plum Fairy](https://open.spotify.com/album/4XaF5rkbxBH0PArJqK6kFp) | 2:03 | 2021-11-26 |  |
 | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk) | 2:22 | 2021-11-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 9144,
+  "num_followers": 9211,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDA3ZTUzYjk2YzQxZGU5N2I3MTIzOGE2ZGQ5NDRlYTQ2",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGVlNjgzMmQxZTkwMmRkYWRmNDk0MzQ3NzRlMDJmNjk2",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1"
+        "name": "Spafford",
+        "url": "https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05"
       },
       "artists": [
         {
-          "name": "Aqueous",
-          "url": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
+          "name": "Spafford",
+          "url": "https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV"
         }
       ],
-      "duration_ms": 579373,
-      "name": "Kitty Chaser (Explosions)",
-      "url": "https://open.spotify.com/track/31prZotiPV46jh06xCTop4"
+      "duration_ms": 263198,
+      "name": "Electric Taco Stand",
+      "url": "https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Spafford",
-        "url": "https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05"
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1"
       },
       "artists": [
         {
-          "name": "Spafford",
-          "url": "https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV"
+          "name": "Aqueous",
+          "url": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
         }
       ],
-      "duration_ms": 263198,
-      "name": "Electric Taco Stand",
-      "url": "https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu"
+      "duration_ms": 579373,
+      "name": "Kitty Chaser (Explosions)",
+      "url": "https://open.spotify.com/track/31prZotiPV46jh06xCTop4"
     },
     {
       "added_at": "2022-06-23 13:45:43",

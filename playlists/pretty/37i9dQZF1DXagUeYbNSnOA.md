@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Paty B on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,456 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,457 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 30 | [POKITO](https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [POKITO](https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T) | 4:12 |
 | 31 | [Nuestro amor](https://open.spotify.com/track/3K5z6tNpQfD8GT3BWgSRK6) | [Chago](https://open.spotify.com/artist/5aQK13za62lrxQASWuHMbG) | [Tristelandia!](https://open.spotify.com/album/6R2tvA4USRyvNgPPONtV1I) | 2:55 |
 | 32 | [Esperanza verbena](https://open.spotify.com/track/5EkSCUTjc5JkOI6EtJ5gSt) | [Sofía Comas](https://open.spotify.com/artist/4W8QcZ9XWkdnFcMFVwL6Rb) | [Esperanza verbena](https://open.spotify.com/album/4SzOzuwAoK3fXfEiLGAGYs) | 4:15 |
-| 33 | [Dos](https://open.spotify.com/track/1mUbtSADhtduD8wDAsp5d3) | [Flavia Marsano](https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [Dos](https://open.spotify.com/album/3CZAEDPl0NPom8kZskSk3n) | 2:54 |
-| 34 | [Mil Palabras](https://open.spotify.com/track/5VmQzCqiEd9JOtTvuI0rar) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Paso a Paso](https://open.spotify.com/album/36uCYKas4A1NhJ5RnP3zeb) | 4:03 |
+| 33 | [Mil Palabras](https://open.spotify.com/track/5VmQzCqiEd9JOtTvuI0rar) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Paso a Paso](https://open.spotify.com/album/36uCYKas4A1NhJ5RnP3zeb) | 4:03 |
+| 34 | [Dos](https://open.spotify.com/track/1mUbtSADhtduD8wDAsp5d3) | [Flavia Marsano](https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [Dos](https://open.spotify.com/album/3CZAEDPl0NPom8kZskSk3n) | 2:54 |
 | 35 | [Bambi](https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT) | [Koi Pali](https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33) | [Bambi](https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG) | 3:10 |
-| 36 | [Yendo](https://open.spotify.com/track/2z5SxI5c7V2KeZvLhWdZij) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Yendo](https://open.spotify.com/album/77NMPAtfaEyFCPfOSOQBSj) | 3:14 |
-| 37 | [Cuando Estemos Juntos](https://open.spotify.com/track/2ikii4lglZTRIKvBJDwUnq) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t), [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G) | [Cuando Estemos Juntos](https://open.spotify.com/album/2IhW85V6DWFSaz3NCEA4gz) | 3:03 |
-| 38 | [lily](https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [fluye](https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb) | 3:45 |
+| 36 | [lily](https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [fluye](https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb) | 3:45 |
+| 37 | [Yendo](https://open.spotify.com/track/2z5SxI5c7V2KeZvLhWdZij) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Yendo](https://open.spotify.com/album/77NMPAtfaEyFCPfOSOQBSj) | 3:14 |
+| 38 | [Cuando Estemos Juntos](https://open.spotify.com/track/2ikii4lglZTRIKvBJDwUnq) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t), [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G) | [Cuando Estemos Juntos](https://open.spotify.com/album/2IhW85V6DWFSaz3NCEA4gz) | 3:03 |
 | 39 | [Perico](https://open.spotify.com/track/5OdPwVjE7NN9Gu43JoeVyK) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Perico](https://open.spotify.com/album/5ZUqoR5HMtZJv2kUsjSUca) | 3:24 |
 | 40 | [Flow Natty](https://open.spotify.com/track/7EDf9zG0Xan6ZT7QatIsYq) | [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl), [Relax Buay](https://open.spotify.com/artist/3BRqgBejceV380iCe3RPAq), [Darnelt](https://open.spotify.com/artist/4LLUyAiSXJwDzoSCDa1q51), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [Flow Natty](https://open.spotify.com/album/0STCOjnotffOUHHmUnWzm7) | 3:06 |
 | 41 | [Entre Dioses y Hombres](https://open.spotify.com/track/5t3X8GvRNmJswMbgqYf28v) | [Anna Zechini](https://open.spotify.com/artist/05ZopzejPjuBllmjBPWTKL) | [Entre Dioses y Hombres](https://open.spotify.com/album/4ogy8je9zEM76AP3ZLRAwC) | 3:33 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 50 | [Todos Los Santos](https://open.spotify.com/track/5QLjbGLCGssN55oxPrd9km) | [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [Todos Los Santos](https://open.spotify.com/album/0vHw6Q8lqxb4GcXdhUKOiR) | 3:33 |
 | 51 | [Quiero](https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx) | [El Espacio Interior](https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b) | [Un poco más de lo normal](https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj) | 2:58 |
 | 52 | [El Juego](https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP) | [Dante Ouviña](https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7) | [El Juego](https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH) | 2:48 |
-| 53 | [Reíte](https://open.spotify.com/track/1VWmj6TYc1UdEsamBt1VLf) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Reíte](https://open.spotify.com/album/2GvYbgbsVHC4SVDhqyFt2q) | 3:37 |
-| 54 | [Cambio](https://open.spotify.com/track/2Wx2d8OODeBcsE3YvuOzGw) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [Cambio](https://open.spotify.com/album/4vailhGtYloRy0jxzbQMB6) | 3:41 |
+| 53 | [Cambio](https://open.spotify.com/track/2Wx2d8OODeBcsE3YvuOzGw) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [Cambio](https://open.spotify.com/album/4vailhGtYloRy0jxzbQMB6) | 3:41 |
+| 54 | [Reíte](https://open.spotify.com/track/1VWmj6TYc1UdEsamBt1VLf) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Reíte](https://open.spotify.com/album/2GvYbgbsVHC4SVDhqyFt2q) | 3:37 |
 | 55 | [AGUA CON SAL](https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [AGUA CON SAL](https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m) | 3:18 |
 | 56 | [Inconsciencia](https://open.spotify.com/track/4Dm11rwqGsTvDLml88JyIL) | [La Honte](https://open.spotify.com/artist/4Irt9HPbh6MbM90waVOFiA) | [Inconsciencia](https://open.spotify.com/album/10PYCHUMNWA4vfuXR8DByd) | 3:32 |
 | 57 | [Sombras](https://open.spotify.com/track/01nlKVa79FmkgQ9oYTQzcC) | [Kids Are Fine](https://open.spotify.com/artist/61BZt7XBK4I6rBigflezos) | [Sombras](https://open.spotify.com/album/3dp6pcPCn6wJ08AyUuAy4F) | 3:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 59 | [Curarire](https://open.spotify.com/track/0FYXJKkWdtKffPfPDu7omA) | [puertoazul](https://open.spotify.com/artist/0iCY5VtcfIWlryZ0RioQZ7), [Hilandera](https://open.spotify.com/artist/74PfPEOPKfB85LC1Sb4lwO) | [Curarire](https://open.spotify.com/album/1AyjQmNVdv7HcFAP282See) | 3:22 |
 | 60 | [CHEKE\-CHEKE](https://open.spotify.com/track/3f7QZgD4hF83S97OOyqFx2) | [Nico Legon](https://open.spotify.com/artist/61Le1rJ93LGe5oLoe7sGRv), [Julián Barneix](https://open.spotify.com/artist/42MtpIBsOfvk3WbTcFKH4W) | [CHEKE\-CHEKE](https://open.spotify.com/album/6CmWee1b2NwxX3S6xVC9qt) | 4:21 |
 
-Snapshot ID: `MTY2Njg3ODI5NSwwMDAwMDAwMDFlNzkzMTExN2E2Y2IyY2ZiNzRiODBiMGE5MWRiZWMw`
+Snapshot ID: `MTY2Njg3ODI5NSwwMDAwMDAwMDM1ZTQyYzkxYjk4ZDUzYTkxNDBhZTMwZDQ2YWUzNzBh`

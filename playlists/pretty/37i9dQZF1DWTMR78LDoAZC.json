@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQQIA+ artists. Cover: serpentwithfeet",
-  "num_followers": 106186,
+  "num_followers": 106188,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzOTI2MSwwMDAwMDAwMDM3NGIyMjRjZTc3MTVhNDY3Y2RkYmQ2ODJmZGRjY2U3",
+  "snapshot_id": "MTY2MDIzOTI2MSwwMDAwMDAwMDZjNTBiYWE3ZTlmOWQ5NTNjZGQ0ZGIzNDZmMWVmNGNm",
   "tracks": [
     {
       "added_at": "2022-06-06 14:47:44",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 213611,
-      "name": "She",
-      "url": "https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -207,18 +191,18 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Crawlers - EP",
-        "url": "https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE"
+        "name": "Human",
+        "url": "https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17"
       },
       "artists": [
         {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 254418,
-      "name": "Come Over (Again)",
-      "url": "https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf"
+      "duration_ms": 213611,
+      "name": "She",
+      "url": "https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -239,6 +223,22 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Crawlers - EP",
+        "url": "https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "duration_ms": 254418,
+      "name": "Come Over (Again)",
+      "url": "https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 272813,
       "name": "I Know A Place",
       "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Holdly",
-        "url": "https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 227139,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+        "name": "Holdly",
+        "url": "https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
         }
       ],
-      "duration_ms": 223413,
-      "name": "Eugene",
-      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+      "duration_ms": 227139,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -503,6 +487,38 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 223413,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Lovestained",
+        "url": "https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Lovestained",
+      "url": "https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
         "name": "Good At Falling",
         "url": "https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 233247,
       "name": "Tilted",
       "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
-        "name": "Lovestained",
-        "url": "https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Lovestained",
-      "url": "https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe"
     },
     {
       "added_at": "2022-06-08 23:02:27",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
+        "name": "Before The World Was Big",
+        "url": "https://open.spotify.com/album/7KW051jqBSX1pFOyLwIQw7"
+      },
+      "artists": [
+        {
+          "name": "Girlpool",
+          "url": "https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ"
+        }
+      ],
+      "duration_ms": 141190,
+      "name": "Before the World Was Big",
+      "url": "https://open.spotify.com/track/2rBquuYxu3ShGWQgIvnNHK"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
         "name": "Set My Heart On Fire Immediately",
         "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Mad",
-        "url": "https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "if we lived on the moon",
         "url": "https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a"
       },
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Before The World Was Big",
-        "url": "https://open.spotify.com/album/7KW051jqBSX1pFOyLwIQw7"
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa"
       },
       "artists": [
         {
-          "name": "Girlpool",
-          "url": "https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ"
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 141190,
-      "name": "Before the World Was Big",
-      "url": "https://open.spotify.com/track/2rBquuYxu3ShGWQgIvnNHK"
+      "duration_ms": 228040,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "How Many Times Have You Driven By",
-        "url": "https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 164169,
-      "name": "Crying on the Subway",
-      "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "nice",
         "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 176318,
       "name": "death proof",
       "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "How Many Times Have You Driven By",
+        "url": "https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 164169,
+      "name": "Crying on the Subway",
+      "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
+        "name": "In Waiting",
+        "url": "https://open.spotify.com/album/3lUUNYKTsf9J1P1YneO8n2"
+      },
+      "artists": [
+        {
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+        }
+      ],
+      "duration_ms": 259217,
+      "name": "Liffey",
+      "url": "https://open.spotify.com/track/7f2KXS3p7hnuY7DoUrHWVN"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
         "name": "First Time In A Long Time: The Reprise Recordings",
         "url": "https://open.spotify.com/album/2BkEkcphy0liqTVRSBEEpC"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 261941,
       "name": "Don't Go Puttin Wishes in My Head",
       "url": "https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
-        "name": "In Waiting",
-        "url": "https://open.spotify.com/album/3lUUNYKTsf9J1P1YneO8n2"
-      },
-      "artists": [
-        {
-          "name": "Pillow Queens",
-          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
-        }
-      ],
-      "duration_ms": 259217,
-      "name": "Liffey",
-      "url": "https://open.spotify.com/track/7f2KXS3p7hnuY7DoUrHWVN"
     }
   ],
   "unique_name": "Alternative Pride",

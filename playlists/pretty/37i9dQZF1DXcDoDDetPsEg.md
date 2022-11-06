@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,847 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,896 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 12 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 |
 | 13 | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 |
 | 14 | [I Really Miss You](https://open.spotify.com/track/1WVS5kZMCHqwIoepXZtZtw) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:07 |
-| 15 | [Covering My Ears](https://open.spotify.com/track/1M3VBabFRFPZnO3FB0P4JA) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Covering My Ears](https://open.spotify.com/album/3SqdodwZEZ4nFcwbw2Vvnj) | 2:27 |
+| 15 | [Covering My Ears \(feat\. Naughty Boy & wewantwraiths\)](https://open.spotify.com/track/1M3VBabFRFPZnO3FB0P4JA) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Covering My Ears \(feat\. Naughty Boy & wewantwraiths\)](https://open.spotify.com/album/3SqdodwZEZ4nFcwbw2Vvnj) | 2:27 |
 | 16 | [Cardboard Box \- Happi Remix](https://open.spotify.com/track/0VGEXZO5nkh701P96U8Rer) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Cardboard Box \(Happi Remix\)](https://open.spotify.com/album/4OEt3YmstjCdjPy6jFXXU5) | 2:30 |
 | 17 | [LA Leakers Freestyle](https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LA Leakers Freestyle](https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH) | 2:58 |
 | 18 | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe) | 2:34 |

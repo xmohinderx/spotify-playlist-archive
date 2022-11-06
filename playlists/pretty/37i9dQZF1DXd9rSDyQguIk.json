@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 972774,
+  "num_followers": 973447,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMDU0MjRiYTc0ZWIxZmE0YjA0YzU4MjJjZjc5MDgwMzgx",
+  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMGZhMjM2MjYyM2VlZjkyY2JjM2Y1ODIwYWZjNzYxZTQ4",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Chains And Things",
-      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Taj Mahal",
@@ -251,6 +235,22 @@
       "duration_ms": 289560,
       "name": "Leaving Trunk",
       "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -337,22 +337,6 @@
       "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "To Know You Is To Love You",
-        "url": "https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 515000,
-      "name": "To Know You Is To Love You",
-      "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "The Fabulous Thunderbirds",
@@ -367,22 +351,6 @@
       "duration_ms": 232706,
       "name": "Scratch My Back",
       "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -403,6 +371,22 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 178440,
       "name": "Do Right Woman, Do Right Man",
       "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "To Know You Is To Love You",
+        "url": "https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 515000,
+      "name": "To Know You Is To Love You",
+      "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Live And Well",
-        "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 517400,
-      "name": "Why I Sing The Blues",
-      "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Somebody Loan Me A Dime",
@@ -575,6 +559,22 @@
       "duration_ms": 147800,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Live And Well",
+        "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 517400,
+      "name": "Why I Sing The Blues",
+      "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Stumble",
-      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "The Essential Little Walter",
@@ -671,6 +655,22 @@
       "duration_ms": 164893,
       "name": "Juke",
       "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -785,6 +785,26 @@
       "url": "https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX"
     },
     {
+      "added_at": "2022-11-03 15:56:12",
+      "album": {
+        "name": "Inflation",
+        "url": "https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD"
+      },
+      "artists": [
+        {
+          "name": "Earnest Jackson",
+          "url": "https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm"
+        },
+        {
+          "name": "Sugar Daddy and the Gumbo Roux",
+          "url": "https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6"
+        }
+      ],
+      "duration_ms": 199734,
+      "name": "Inflation",
+      "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
+    },
+    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Born Under A Bad Sign (Mono)",
@@ -819,22 +839,6 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Bloomfield-A Retrospective",
-        "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        }
-      ],
-      "duration_ms": 414960,
-      "name": "Albert's Shuffle",
-      "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
         "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
       },
@@ -851,22 +855,6 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "This Is Clarence Carter",
-        "url": "https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx"
-      },
-      "artists": [
-        {
-          "name": "Clarence Carter",
-          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
-        }
-      ],
-      "duration_ms": 161520,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
         "name": "Easy Blues (France, 1978) [Blues Reference]",
         "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
       },
@@ -879,6 +867,38 @@
       "duration_ms": 252133,
       "name": "Short Dressed Woman",
       "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Bloomfield-A Retrospective",
+        "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        }
+      ],
+      "duration_ms": 414960,
+      "name": "Albert's Shuffle",
+      "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "This Is Clarence Carter",
+        "url": "https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx"
+      },
+      "artists": [
+        {
+          "name": "Clarence Carter",
+          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
+        }
+      ],
+      "duration_ms": 161520,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -1007,26 +1027,6 @@
       "duration_ms": 214520,
       "name": "Give Me Back My Wig - Remastered",
       "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
-    },
-    {
-      "added_at": "2022-11-03 15:56:12",
-      "album": {
-        "name": "Inflation",
-        "url": "https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD"
-      },
-      "artists": [
-        {
-          "name": "Earnest Jackson",
-          "url": "https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm"
-        },
-        {
-          "name": "Sugar Daddy and the Gumbo Roux",
-          "url": "https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6"
-        }
-      ],
-      "duration_ms": 199734,
-      "name": "Inflation",
-      "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
     },
     {
       "added_at": "2020-01-15 21:29:46",

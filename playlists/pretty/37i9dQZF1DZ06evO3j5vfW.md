@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,764 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,776 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 35 | [Legacy \- Radio Edit](https://open.spotify.com/track/3SGebd91gbpKanqQ2Yg9F1) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy \(Radio Edit\)](https://open.spotify.com/album/5LQcfsPc0lQMkXhvIPG94y) | 3:15 |
 | 36 | [Dynamite](https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Dynamite](https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR) | 3:22 |
 | 37 | [Drown \(feat\. Clinton Kane\) \- Nicky Romero Remix](https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Drown \(feat\. Clinton Kane\) \[Nicky Romero Remix\]](https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza) | 3:07 |
-| 38 | [You Don't Know](https://open.spotify.com/track/4sXrwNmYfg5x5CCfKpxYiO) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Don't Know](https://open.spotify.com/album/2U506HHxpTv7cpl4v7zUpN) | 3:15 |
-| 39 | [Awakening](https://open.spotify.com/track/7vmI0ZeIjndCcohHfJex0m) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Awakening](https://open.spotify.com/album/4PgoalLTxvrc4vPsDdstqE) | 3:25 |
+| 38 | [Awakening](https://open.spotify.com/track/7vmI0ZeIjndCcohHfJex0m) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Awakening](https://open.spotify.com/album/4PgoalLTxvrc4vPsDdstqE) | 3:25 |
+| 39 | [You Don't Know](https://open.spotify.com/track/4sXrwNmYfg5x5CCfKpxYiO) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Don't Know](https://open.spotify.com/album/2U506HHxpTv7cpl4v7zUpN) | 3:15 |
 | 40 | [Love Me Better](https://open.spotify.com/track/5gs8HdtvlvLyVKCWQQ4mbl) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Love Me Better](https://open.spotify.com/album/39b0O5JheGmKYPV9K8z785) | 2:55 |
 | 41 | [Distance](https://open.spotify.com/track/15czHLdg2X2XbtSNxXIo09) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Distance](https://open.spotify.com/album/3OOvbFMJScD4X9ROgtLFZw) | 2:48 |
 | 42 | [Destiny](https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Alexander Tidebrink](https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC) | [Destiny](https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [Iron](https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:39 |
 | 50 | [Be Somebody](https://open.spotify.com/track/2xsx8DRlmbGJlxY4msANSB) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:18 |
 
-Snapshot ID: `Mjc3OTM0MTUsMDAwMDAwMDA1M2ZjNDRlMTkzYTMyNzJkMDEwOGUxNjFmMDE2OGYxZg==`
+Snapshot ID: `Mjc3OTQ0MzYsMDAwMDAwMDA2ODgzZWJmNjA2YjczYzg1M2MyYmE2MGQ4MjY3Mzg3YQ==`

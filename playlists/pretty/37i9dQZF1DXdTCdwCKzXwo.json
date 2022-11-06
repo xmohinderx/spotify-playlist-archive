@@ -1,12 +1,12 @@
 {
   "description": "Early pioneers that brought the underground to the foreground. Cover: Nico",
-  "num_followers": 989093,
+  "num_followers": 989685,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTkyNCwwMDAwMDAwMDE1YzQ3MjcxZDNmNThiOTRmMjBkY2Q1MzU2NzExNTE3",
+  "snapshot_id": "MTY2MjY0OTkyNCwwMDAwMDAwMDQ5ZmU5MWFlNzMxYWRhMDQwNWNlMzdkZTRjZGM5MGRi",
   "tracks": [
     {
       "added_at": "2022-09-08 15:12:04",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-05-26 22:19:37",
       "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
-    },
-    {
-      "added_at": "2022-05-26 22:19:37",
-      "album": {
         "name": "It's A Shame About Ray (Expanded Edition)",
         "url": "https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 224480,
       "name": "Mrs. Robinson - Remastered",
       "url": "https://open.spotify.com/track/5EugXICXL06waHgP4iTI58"
+    },
+    {
+      "added_at": "2022-05-26 22:19:37",
+      "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "added_at": "2022-05-26 22:19:37",

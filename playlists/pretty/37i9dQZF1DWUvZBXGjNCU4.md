@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,325 likes - 141 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,432 likes - 141 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 69 | [Low Valleys](https://open.spotify.com/track/7dYhKDt0CuvY007Ftb1YLx) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Low Valleys](https://open.spotify.com/album/52XySoOJ3cX9Pyb8oYYOXO) | 2:43 |
 | 70 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 |
 | 71 | [Featherlight](https://open.spotify.com/track/2TVL6DZBZh2kqTalIKspbn) | [Tom Retnikoff](https://open.spotify.com/artist/0bJDHQakbAm5Ymjux31AgO) | [Featherlight](https://open.spotify.com/album/4hUgipvuMuSRfOFfeNTDi4) | 2:17 |
-| 72 | [Moments](https://open.spotify.com/track/5nTHryNER0Teyaa4Y6XLa7) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/1nVjd0D1TypRpB7Xjet07j) | 2:23 |
+| 72 | [Moments](https://open.spotify.com/track/12zsDIcTZiDOhFFSI7UeD4) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/4dOW4Qu0bwy54ArQWj9oga) | 2:23 |
 | 73 | [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 |
 | 74 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 |
 | 75 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 140 | [Journey Home](https://open.spotify.com/track/1n8JIhb5wq50ZNvuas4ceq) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Journey Home](https://open.spotify.com/album/2KGpAwyPvctqPpcpzLpRwh) | 3:08 |
 | 141 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 |
 
-Snapshot ID: `MTY2Njk2NTAxNSwwMDAwMDAwMDNkMWIzNjIzYzU3NmE1ZTMyM2UxZjcyYzc1ZGUxMjJm`
+Snapshot ID: `MTY2Njk2NTAxNSwwMDAwMDAwMDBmMmRlMTE1ZTZiYTEzZDBmNjI0ZWIxN2I5ZjQ0NTQ5`

@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Baladilla De Los Tres R\u00edos",
+        "url": "https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh"
+      },
+      "artists": [
+        {
+          "name": "Pasion Vega",
+          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192627,
+      "name": "Baladilla De Los Tres R\u00edos",
+      "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
+    },
+    {
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW"
       },

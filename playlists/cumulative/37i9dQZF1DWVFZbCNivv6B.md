@@ -4,7 +4,7 @@
 
 > Hip\-hop mexicano, rimas de la calle, en viva voz de Eme MalaFe.
 
-221 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+222 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Polvo Blanco](https://open.spotify.com/track/5LuH2MoN2dsA3PAZvIJ6So) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Polvo Blanco](https://open.spotify.com/album/1rCMFdeaDoAQmYbufZNk4O) | 4:29 | 2022-06-14 | 2022-09-10 |
 | [Por Andar Acelerado](https://open.spotify.com/track/4UbkQQN65WPr4rEep7DjIe) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Por Andar Acelerado](https://open.spotify.com/album/4oj3WaIATAHls1B22nsFT7) | 3:41 | 2022-05-20 |  |
 | [Por Unos Centavos](https://open.spotify.com/track/3cTmJcHYrOKRadRRuD4TGp) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Por Unos Centavos](https://open.spotify.com/album/4L7tjJ5ChwXcY4jYCsaHHm) | 3:12 | 2022-04-29 |  |
-| [Prendela](https://open.spotify.com/track/1MnLTbh7Srl2neGR8UwQJA) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Prendela](https://open.spotify.com/album/56oOdm4WHANOUObn6aMYQm) | 5:32 | 2022-04-24 |  |
+| [Prendela](https://open.spotify.com/track/1MnLTbh7Srl2neGR8UwQJA) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Prendela](https://open.spotify.com/album/56oOdm4WHANOUObn6aMYQm) | 5:32 | 2022-04-24 | 2022-11-06 |
+| [Prendela](https://open.spotify.com/track/2zcVJPOipL5iezq3PNRM3X) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Prendela](https://open.spotify.com/album/0vDACZjkqwt1pj0a7yXGU7) | 5:32 | 2022-10-28 |  |
 | [Prendidos](https://open.spotify.com/track/0cuTI8LcUh9uADmQBTTQUg) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Prendidos](https://open.spotify.com/album/3N5jY3d2kmZ28RGL9j0l2y) | 3:42 | 2022-03-18 | 2022-10-15 |
 | [Problemático](https://open.spotify.com/track/3D3ek5Ts78bkWEopL6zIjv) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Problemático](https://open.spotify.com/album/490OSKw7jSVNmS31iOXXQc) | 4:22 | 2022-01-28 | 2022-03-18 |
 | [Puesta a Punto](https://open.spotify.com/track/2s7PgpafvRvsBGOAgJN6Pd) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Puesta a Punto](https://open.spotify.com/album/1iZWwAhTs7yRvC29yIiX8r) | 2:12 | 2022-04-15 | 2022-05-14 |

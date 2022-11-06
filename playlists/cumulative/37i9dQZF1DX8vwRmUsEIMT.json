@@ -2328,20 +2328,28 @@
     },
     {
       "album": {
-        "name": "Covering My Ears",
+        "name": "Covering My Ears (feat. Naughty Boy & wewantwraiths)",
         "url": "https://open.spotify.com/album/3SqdodwZEZ4nFcwbw2Vvnj"
       },
       "artists": [
         {
           "name": "M24",
           "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        },
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "wewantwraiths",
+          "url": "https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2"
         }
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 147512,
-      "name": "Covering My Ears",
+      "name": "Covering My Ears (feat. Naughty Boy & wewantwraiths)",
       "url": "https://open.spotify.com/track/1M3VBabFRFPZnO3FB0P4JA"
     },
     {

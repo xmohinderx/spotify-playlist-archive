@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 187200,
       "name": "Air Max",
       "url": "https://open.spotify.com/track/3OGv5aAfxKGmkstUtsfFUC"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -1743,7 +1743,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 201521,
       "name": "Aya",
       "url": "https://open.spotify.com/track/1oa2VjfQHY3jOMhr4INBOf"
@@ -1787,6 +1787,24 @@
       "duration_ms": 219714,
       "name": "Baby",
       "url": "https://open.spotify.com/track/7goj1fS7fV4dvc91RvuoBw"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152961,
+      "name": "BackOutsideBoyz",
+      "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
     },
     {
       "album": {
@@ -2151,7 +2169,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 192989,
       "name": "BELLA",
       "url": "https://open.spotify.com/track/2z4kjQGOaN9TEQ6uYgS21l"
@@ -2335,7 +2353,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -2926,6 +2944,28 @@
     },
     {
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225439,
+      "name": "Broke Boys",
+      "url": "https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8"
+    },
+    {
+      "album": {
         "name": "Money and Drugs Can't Live In Poverty",
         "url": "https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC"
       },
@@ -3469,6 +3509,28 @@
       "duration_ms": 251550,
       "name": "Cinema Galaxias",
       "url": "https://open.spotify.com/track/53VPahkLdnHiosHBKcaDZ6"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236795,
+      "name": "Circo Loco",
+      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
     },
     {
       "album": {
@@ -4555,7 +4617,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 161333,
       "name": "Diko Mas",
       "url": "https://open.spotify.com/track/6lQn5ARNFgrfFZNH8iubFY"
@@ -5183,7 +5245,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 170550,
       "name": "El Telephone",
       "url": "https://open.spotify.com/track/1zB8iM97STLlKaweWhtasO"
@@ -5400,10 +5462,14 @@
     },
     {
       "album": {
-        "name": "Emmonh",
+        "name": "EMMONH",
         "url": "https://open.spotify.com/album/7oYpjEf9RT33LNM7MSKIlc"
       },
       "artists": [
+        {
+          "name": "City Center",
+          "url": "https://open.spotify.com/artist/0V0TEffOhc8TSKqNyC0sjr"
+        },
         {
           "name": "RICTA",
           "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
@@ -5413,7 +5479,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 236470,
-      "name": "Emmonh",
+      "name": "EMMONH",
       "url": "https://open.spotify.com/track/3xo0AJj0gWlp51SqoGaGDv"
     },
     {
@@ -7552,6 +7618,28 @@
     },
     {
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399153,
+      "name": "Hours In Silence",
+      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -7785,7 +7873,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -8201,7 +8289,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 184782,
       "name": "Intro (Apo Tous Yponomous)",
       "url": "https://open.spotify.com/track/60YhDtk1pz5MI3boHGMN37"
@@ -9412,6 +9500,44 @@
     },
     {
       "album": {
+        "name": "Lamogia (Remix)",
+        "url": "https://open.spotify.com/album/6Y6eo3iutcunqsAZExd1Hr"
+      },
+      "artists": [
+        {
+          "name": "Jitano",
+          "url": "https://open.spotify.com/artist/3xmY7evutapMbhcZva0xkn"
+        },
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Alitiz",
+          "url": "https://open.spotify.com/artist/27GVB6iRSOAcSejSw3BaPM"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269387,
+      "name": "Lamogia - Remix",
+      "url": "https://open.spotify.com/track/49aqCqLiSWpG8Rgk0iHYeu"
+    },
+    {
+      "album": {
         "name": "Lampo",
         "url": "https://open.spotify.com/album/3oI4R5AiT5vhSI6eaX8MPD"
       },
@@ -9869,7 +9995,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 166000,
       "name": "Ligo Ligo",
       "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
@@ -10537,6 +10663,28 @@
       "duration_ms": 188238,
       "name": "Magic City",
       "url": "https://open.spotify.com/track/3WCNhnsjZvgRySLpsr4SCu"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170501,
+      "name": "Major Distribution",
+      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
     },
     {
       "album": {
@@ -11526,6 +11674,24 @@
     },
     {
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356389,
+      "name": "Middle of the Ocean",
+      "url": "https://open.spotify.com/track/410TZrK18uRjtsTunG14cl"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi"
       },
@@ -12015,6 +12181,28 @@
       "duration_ms": 175942,
       "name": "Mordor",
       "url": "https://open.spotify.com/track/0bhrPL81L7LUzscwnjjqgb"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221406,
+      "name": "More M\u2019s",
+      "url": "https://open.spotify.com/track/29YW2xXlo6Pc6M0SBTCXYN"
     },
     {
       "album": {
@@ -13066,6 +13254,28 @@
     },
     {
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261543,
+      "name": "On BS",
+      "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
+    },
+    {
+      "album": {
         "name": "Saskepticism Vol. 2",
         "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
       },
@@ -13529,7 +13739,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 182000,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/21xcnEC8ZIr8nTtI8xyDeS"
@@ -14089,7 +14299,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 182400,
       "name": "Platina",
       "url": "https://open.spotify.com/track/0qQiT7KDAZGP1WdkWvqNah"
@@ -14382,6 +14592,24 @@
     },
     {
       "album": {
+        "name": "Prepi Den Prepi",
+        "url": "https://open.spotify.com/album/1bGhNFOKbGhb69EZCz0hHI"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Prepi Den Prepi",
+      "url": "https://open.spotify.com/track/4iKWPfPRUAneWDTuq9iIi7"
+    },
+    {
+      "album": {
         "name": "Presidente",
         "url": "https://open.spotify.com/album/0hbWTOMKVRPDj9SbJ7X1ID"
       },
@@ -14449,6 +14677,28 @@
       "duration_ms": 301714,
       "name": "Prince",
       "url": "https://open.spotify.com/track/4M8I7zcnQYsGH5thn1J0sC"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160821,
+      "name": "Privileged Rappers",
+      "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
     },
     {
       "album": {
@@ -14653,6 +14903,32 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242026,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
     },
     {
       "album": {
@@ -14943,6 +15219,28 @@
       "duration_ms": 245333,
       "name": "Rendevouz",
       "url": "https://open.spotify.com/track/6YWBMAu8EGTp4a27pKUSQf"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
       "album": {
@@ -15533,7 +15831,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 196457,
       "name": "Selfmade",
       "url": "https://open.spotify.com/track/2ZrtlDFHOqPVN3fBJyvoaH"
@@ -15851,7 +16149,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
@@ -16133,6 +16431,28 @@
       "duration_ms": 198857,
       "name": "Spike Lee",
       "url": "https://open.spotify.com/track/4hzoisriVP221xVoKj7MBy"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "Spin Bout U",
+      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
     },
     {
       "album": {
@@ -18022,6 +18342,28 @@
     },
     {
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180098,
+      "name": "Treacherous Twins",
+      "url": "https://open.spotify.com/track/4Flfb4fGscN9kXPOduQLrv"
+    },
+    {
+      "album": {
         "name": "Trifila (Remix)",
         "url": "https://open.spotify.com/album/2P8JfHVG4Kgwx8ZvoOq8yq"
       },
@@ -18333,7 +18675,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"

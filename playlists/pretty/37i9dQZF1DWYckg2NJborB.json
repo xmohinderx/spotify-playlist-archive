@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53232,
+  "num_followers": 53225,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDljNjhmYzdlMTE5OGM0M2QzMmVlMTU1NmVhNjYxMzhj",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDk0Yjg4ZDYzNjAyNWMyNjc1NGRmMjIyNjY2ZDFhMWU3",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -27,22 +27,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Oh, Inverted World (20th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 230866,
       "name": "New Slang - 2021 Remaster",
       "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -651,22 +651,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Clarity (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 973173,
-      "name": "Goodbye Sky Harbor",
-      "url": "https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Cultosaurus Erectus",
         "url": "https://open.spotify.com/album/2w9ox8f1PSz30Ayanrm9C4"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 399106,
       "name": "Black Blade",
       "url": "https://open.spotify.com/track/4Nyx3c0IPFITNo42yodlrh"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 973173,
+      "name": "Goodbye Sky Harbor",
+      "url": "https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v"
     },
     {
       "added_at": "2018-12-10 14:56:06",

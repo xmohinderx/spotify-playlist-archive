@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-202 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
+203 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Masodik](https://open.spotify.com/track/3K6esDtEDOfx9boe94z0Y2) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Masodik](https://open.spotify.com/album/1mImGcb3xJHoHFc9VmXT0I) | 3:07 | 2022-05-13 |  |
 | [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 | 2022-07-15 |  |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2022-05-13 | 2022-06-10 |
-| [Moments](https://open.spotify.com/track/5nTHryNER0Teyaa4Y6XLa7) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/1nVjd0D1TypRpB7Xjet07j) | 2:23 | 2022-07-22 |  |
+| [Moments](https://open.spotify.com/track/12zsDIcTZiDOhFFSI7UeD4) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/4dOW4Qu0bwy54ArQWj9oga) | 2:23 | 2022-10-28 |  |
+| [Moments](https://open.spotify.com/track/5nTHryNER0Teyaa4Y6XLa7) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/1nVjd0D1TypRpB7Xjet07j) | 2:23 | 2022-07-22 | 2022-11-06 |
 | [More Than Yesterday](https://open.spotify.com/track/2rdQdrAeQkyO5X6kfwfWO5) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [More Than Yesterday](https://open.spotify.com/album/27MZUFtc98oIebovnNxmVp) | 2:34 | 2022-10-07 |  |
 | [Morgennebel](https://open.spotify.com/track/5YPSO5fyF5nDOrwzCseb4L) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Morgennebel](https://open.spotify.com/album/26ILwVN6wmnxHlG19fRrTl) | 2:20 | 2022-05-13 |  |
 | [Morning Mist](https://open.spotify.com/track/3a6sXii4VwApu2WTxYMBtn) | [Staffan Carlén](https://open.spotify.com/artist/1KBpWE9XJDISBwQ0PKkf0g) | [Morning Mist](https://open.spotify.com/album/7j3yVrwdKhzMs1rQIIuHQP) | 2:44 | 2022-05-13 | 2022-06-10 |

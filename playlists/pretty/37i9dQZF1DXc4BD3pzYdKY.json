@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover: \nKB\n",
-  "num_followers": 106959,
+  "num_followers": 106991,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNTMwMCwwMDAwMDAwMDAzODVmYmUwYzdjMWVjZWZhYjhhNWNlZmJjOTg3ZGI5",
+  "snapshot_id": "MTY2NzUzNTMwMCwwMDAwMDAwMGJhODc1NmNmN2M1ZDkyZmYyZTUxZmRiNDA3YjgyMDE3",
   "tracks": [
     {
       "added_at": "2022-11-04 04:15:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 240357,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/5NYaJAEfV6DHTpOjVLnq75"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 160941,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 240357,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -955,6 +955,26 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
+        "name": "Proverbs & Beats",
+        "url": "https://open.spotify.com/album/2HHVupGrQUPFx2SIa5wZhl"
+      },
+      "artists": [
+        {
+          "name": "Still Shadey",
+          "url": "https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV"
+        },
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 187862,
+      "name": "Proverbs & Beats",
+      "url": "https://open.spotify.com/track/4zQESthz8AqH8zrKd7Jew2"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
         "name": "WAY MAKER",
         "url": "https://open.spotify.com/album/1LdX5o7JHm0pujCgSkahI9"
       },
@@ -971,42 +991,6 @@
       "duration_ms": 163578,
       "name": "WAY MAKER",
       "url": "https://open.spotify.com/track/6uCuqwcNem1t2usnC0g6tG"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "Hold Me Back",
-        "url": "https://open.spotify.com/album/7j3AwRPzTy00HODBozut4E"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        },
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 187820,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "Fight for It",
-        "url": "https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 153046,
-      "name": "Fight for It",
-      "url": "https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1035,22 +1019,22 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "Proverbs & Beats",
-        "url": "https://open.spotify.com/album/2HHVupGrQUPFx2SIa5wZhl"
+        "name": "Hold Me Back",
+        "url": "https://open.spotify.com/album/7j3AwRPzTy00HODBozut4E"
       },
       "artists": [
         {
-          "name": "Still Shadey",
-          "url": "https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV"
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         },
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
         }
       ],
-      "duration_ms": 187862,
-      "name": "Proverbs & Beats",
-      "url": "https://open.spotify.com/track/4zQESthz8AqH8zrKd7Jew2"
+      "duration_ms": 187820,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1079,22 +1063,34 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "Hit My Line",
-        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
+        "name": "Fight for It",
+        "url": "https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM"
       },
       "artists": [
         {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 147492,
-      "name": "Hit My Line",
-      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
+      "duration_ms": 153046,
+      "name": "Fight for It",
+      "url": "https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "Child of the King",
+        "url": "https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 101406,
+      "name": "Child of the King",
+      "url": "https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1115,6 +1111,26 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
+        "name": "Hit My Line",
+        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 147492,
+      "name": "Hit My Line",
+      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
         "name": "HELLO KIZZY & COMPANY",
         "url": "https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 187918,
       "name": "REST",
       "url": "https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "Child of the King",
-        "url": "https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 101406,
-      "name": "Child of the King",
-      "url": "https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "I Will Not",
-        "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
-      },
-      "artists": [
-        {
-          "name": "Datin",
-          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
-        },
-        {
-          "name": "Bryann T",
-          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
-        },
-        {
-          "name": "Dax Hamma",
-          "url": "https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "I Will Not",
-      "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "Stuff Back",
         "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
       },
@@ -1259,22 +1235,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "NOW OR LATER",
-        "url": "https://open.spotify.com/album/7v6MWI0jpzxnv5pe7jsIqp"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 146401,
-      "name": "LOOK AT ME NOW",
-      "url": "https://open.spotify.com/track/6EGlBFBeMGPg7I40tkEtPe"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "Pressure 2 - EP",
         "url": "https://open.spotify.com/album/5Ib3sPqWEX9Hc2EUeGFDsk"
       },
@@ -1295,6 +1255,30 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
+        "name": "I Will Not",
+        "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
+      },
+      "artists": [
+        {
+          "name": "Datin",
+          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
+        },
+        {
+          "name": "Bryann T",
+          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
+        },
+        {
+          "name": "Dax Hamma",
+          "url": "https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "I Will Not",
+      "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
         "name": "No Loss",
         "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 175018,
       "name": "No Loss",
       "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "NOW OR LATER",
+        "url": "https://open.spotify.com/album/7v6MWI0jpzxnv5pe7jsIqp"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 146401,
+      "name": "LOOK AT ME NOW",
+      "url": "https://open.spotify.com/track/6EGlBFBeMGPg7I40tkEtPe"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "SIX THIRTY",
-        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
-      },
-      "artists": [
-        {
-          "name": "Sean C. Johnson",
-          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
-        }
-      ],
-      "duration_ms": 222375,
-      "name": "SIX THIRTY",
-      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "Growing Up, Pt.2",
         "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
@@ -1355,6 +1339,38 @@
       "duration_ms": 193685,
       "name": "Good News",
       "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "Ram in the Bush",
+        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 148754,
+      "name": "Ram in the Bush",
+      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "SIX THIRTY",
+        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
+      },
+      "artists": [
+        {
+          "name": "Sean C. Johnson",
+          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "SIX THIRTY",
+      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1415,8 +1431,24 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "Ram in the Bush",
-        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        }
+      ],
+      "duration_ms": 172313,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "You Already Know",
+        "url": "https://open.spotify.com/album/27SPJ5FLfDryur5qRKbUhW"
       },
       "artists": [
         {
@@ -1424,53 +1456,9 @@
           "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 148754,
-      "name": "Ram in the Bush",
-      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "His Side",
-        "url": "https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM"
-      },
-      "artists": [
-        {
-          "name": "Nu Tone",
-          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
-        },
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        },
-        {
-          "name": "Donovan S Davis",
-          "url": "https://open.spotify.com/artist/0TFdFr9txM1H9eKYfjLnrG"
-        }
-      ],
-      "duration_ms": 168003,
-      "name": "His Side",
-      "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/4iwaGwvXlj1kwJFQZvKNWT"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 141610,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/4UbnBTANJcMsvAq8cc3hQe"
+      "duration_ms": 135131,
+      "name": "You Already Know",
+      "url": "https://open.spotify.com/track/2aoKQriMD3ukMvGVylzMGs"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1495,18 +1483,22 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/4iwaGwvXlj1kwJFQZvKNWT"
       },
       "artists": [
         {
-          "name": "MTM Isaiah",
-          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 172313,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
+      "duration_ms": 141610,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/4UbnBTANJcMsvAq8cc3hQe"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1523,6 +1515,30 @@
       "duration_ms": 153495,
       "name": "CEMENT",
       "url": "https://open.spotify.com/track/6Effoyth74yU2TCd6dduDJ"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "His Side",
+        "url": "https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        },
+        {
+          "name": "Donovan S Davis",
+          "url": "https://open.spotify.com/artist/0TFdFr9txM1H9eKYfjLnrG"
+        }
+      ],
+      "duration_ms": 168003,
+      "name": "His Side",
+      "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "You Already Know",
-        "url": "https://open.spotify.com/album/27SPJ5FLfDryur5qRKbUhW"
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
       "artists": [
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
         }
       ],
-      "duration_ms": 135131,
-      "name": "You Already Know",
-      "url": "https://open.spotify.com/track/2aoKQriMD3ukMvGVylzMGs"
+      "duration_ms": 260708,
+      "name": "Jesus Called My Name",
+      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "THESE DAYS",
-        "url": "https://open.spotify.com/album/3kQr0KUMAAqR6AoeKaokpN"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 215725,
-      "name": "THESE DAYS",
-      "url": "https://open.spotify.com/track/4Z8HzMnxUf6Ka3ItlTduyM"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/4yhrYvq3KBDsFGrtqM6ATh"
       },
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
+        "name": "THESE DAYS",
+        "url": "https://open.spotify.com/album/3kQr0KUMAAqR6AoeKaokpN"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 215725,
+      "name": "THESE DAYS",
+      "url": "https://open.spotify.com/track/4Z8HzMnxUf6Ka3ItlTduyM"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
         "name": "WINGS OF AN ANGEL",
         "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
       },
@@ -1679,6 +1695,26 @@
       "duration_ms": 120888,
       "name": "butterfly vibes 2",
       "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "The Bottom Line",
+        "url": "https://open.spotify.com/album/1CAS074eX1UHOVehsuIhDy"
+      },
+      "artists": [
+        {
+          "name": "BrvndonP",
+          "url": "https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy"
+        },
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Hottest In The City (feat. EmanuelDaProphet)",
+      "url": "https://open.spotify.com/track/5nz7NodXphguBQbfhYp5rE"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1719,22 +1755,42 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "The Bottom Line",
-        "url": "https://open.spotify.com/album/1CAS074eX1UHOVehsuIhDy"
+        "name": "keep that light on.",
+        "url": "https://open.spotify.com/album/4Zwr0KOOK38f4Jn16ZrRtL"
       },
       "artists": [
         {
-          "name": "BrvndonP",
-          "url": "https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy"
-        },
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Hottest In The City (feat. EmanuelDaProphet)",
-      "url": "https://open.spotify.com/track/5nz7NodXphguBQbfhYp5rE"
+      "duration_ms": 186407,
+      "name": "keep that light on.",
+      "url": "https://open.spotify.com/track/1aU0zvTi5t7p7tJIlN1T75"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        },
+        {
+          "name": "2J Mako",
+          "url": "https://open.spotify.com/artist/4PW8LhWM1NaETYEzlYTpqV"
+        },
+        {
+          "name": "GQ DASTEPPA",
+          "url": "https://open.spotify.com/artist/6FJTRJCbi7oGB9n8CyLMNU"
+        }
+      ],
+      "duration_ms": 251306,
+      "name": "Life I Chose (feat. 2J Mako & GQ Dasteppa)",
+      "url": "https://open.spotify.com/track/4Nz5ui2QPkUXo1BfFI0PJg"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1755,18 +1811,42 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "keep that light on.",
-        "url": "https://open.spotify.com/album/4Zwr0KOOK38f4Jn16ZrRtL"
+        "name": "Chokehold",
+        "url": "https://open.spotify.com/album/7FUSpmEDLyQlhvtDT2v5sE"
       },
       "artists": [
         {
-          "name": "tylerhateslife",
-          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
         }
       ],
-      "duration_ms": 186407,
-      "name": "keep that light on.",
-      "url": "https://open.spotify.com/track/1aU0zvTi5t7p7tJIlN1T75"
+      "duration_ms": 134123,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/4zSSSXwurah8BSvbKlH5vc"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        }
+      ],
+      "duration_ms": 123478,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1807,82 +1887,6 @@
       "duration_ms": 202022,
       "name": "Some Mud Mud",
       "url": "https://open.spotify.com/track/5ee2r5Iy9PkyIkfsomb97Y"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 123478,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "Catch These Hands (Remix)",
-        "url": "https://open.spotify.com/album/7APamlqElimCKW62z0yKFf"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "KJ-52",
-          "url": "https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP"
-        },
-        {
-          "name": "Pettidee",
-          "url": "https://open.spotify.com/artist/0qehlCsv0Di0jyb9tWOmvO"
-        }
-      ],
-      "duration_ms": 144506,
-      "name": "Catch These Hands - Remix",
-      "url": "https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 150875,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "NO WEAPON",
-        "url": "https://open.spotify.com/album/1dCQ5hg9mhPYH59HCPwGJF"
-      },
-      "artists": [
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 224465,
-      "name": "NO WEAPON",
-      "url": "https://open.spotify.com/track/6gLLWeqFXGYQ5BHzKhM5y5"
     }
   ],
   "unique_name": "The Flow",

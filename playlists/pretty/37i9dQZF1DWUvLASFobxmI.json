@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Dorados en portada.",
-  "num_followers": 333737,
+  "num_followers": 334307,
   "original_name": "Norte\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MTYwMCwwMDAwMDAwMGY5ODhhOWI3NDU0ZWZkMTYzZjlkMmU1MmFlMWIzODlk",
+  "snapshot_id": "MTY2NzU0MTYwMCwwMDAwMDAwMDE0Y2Q3YzkzMzNlYmYxMjhkYzc2MDM4OWI4NThhMzNk",
   "tracks": [
     {
       "added_at": "2022-11-04 06:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "No",
-      "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
         "name": "Si Es Posible",
         "url": "https://open.spotify.com/album/1PogP2XZKpfOBGgIuGk9Iu"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 255401,
       "name": "Si Es Posible",
       "url": "https://open.spotify.com/track/1uQhUupvikvunqykML6NPd"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "No",
+      "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
+        "name": "El Jami",
+        "url": "https://open.spotify.com/album/1nRul8PMSoyoLfdJ2JDgne"
+      },
+      "artists": [
+        {
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+        }
+      ],
+      "duration_ms": 179610,
+      "name": "El Jami",
+      "url": "https://open.spotify.com/track/0v4ySxml0fwgYJAYazBBJB"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
         "name": "M\u00e1s Muerto Que Vivo",
         "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "El Jami",
-        "url": "https://open.spotify.com/album/1nRul8PMSoyoLfdJ2JDgne"
+        "name": "Tan Bella y Tan Presumida",
+        "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
       },
       "artists": [
         {
-          "name": "Grupo Descarga Del 3030",
-          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "duration_ms": 179610,
-      "name": "El Jami",
-      "url": "https://open.spotify.com/track/0v4ySxml0fwgYJAYazBBJB"
+      "duration_ms": 181264,
+      "name": "Tan Bella y Tan Presumida",
+      "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -695,22 +711,6 @@
       "duration_ms": 193666,
       "name": "Qu\u00e9date Conmigo",
       "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
-        "name": "Tan Bella y Tan Presumida",
-        "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 181264,
-      "name": "Tan Bella y Tan Presumida",
-      "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
+        "name": "Cuervo Sierra",
+        "url": "https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj"
+      },
+      "artists": [
+        {
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+        }
+      ],
+      "duration_ms": 175674,
+      "name": "Cuervo Sierra",
+      "url": "https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
         "name": "Seguimos M\u00e1s Fuertes",
         "url": "https://open.spotify.com/album/6xliwTuuud43NH2EhqxXrP"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 200682,
       "name": "Seguimos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/64fKfz7LgBeIUrPBhLrtj7"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
-        "name": "Cuervo Sierra",
-        "url": "https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj"
-      },
-      "artists": [
-        {
-          "name": "Los Austeros De Durango",
-          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
-        }
-      ],
-      "duration_ms": 175674,
-      "name": "Cuervo Sierra",
-      "url": "https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/7jwqJhuyPK50TcltlkI7NF"
     },
     {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "A Bailar Huapangos",
-        "url": "https://open.spotify.com/album/3HwzYVu702BGntM846aF8T"
-      },
-      "artists": [
-        {
-          "name": "Los Igualados",
-          "url": "https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "El P\u00e1vido N\u00e1vido",
-      "url": "https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR"
-    },
-    {
       "added_at": "2022-08-29 18:05:53",
       "album": {
         "name": "EL INFIERNO",
@@ -1363,6 +1347,22 @@
       "duration_ms": 217066,
       "name": "EL INFIERNO",
       "url": "https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "A Bailar Huapangos",
+        "url": "https://open.spotify.com/album/3HwzYVu702BGntM846aF8T"
+      },
+      "artists": [
+        {
+          "name": "Los Igualados",
+          "url": "https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "El P\u00e1vido N\u00e1vido",
+      "url": "https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 238779,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
         "name": "Siempre Estoy Pa\u00b4Ti",
         "url": "https://open.spotify.com/album/4xYCQogPWyemOhsaSLQkre"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 233812,
       "name": "Siempre Estoy Pa\u00b4Ti",
       "url": "https://open.spotify.com/track/7tdu9DVtHAxWapgPtnuZkM"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 238779,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1601,6 +1601,22 @@
       "url": "https://open.spotify.com/track/6VhVObyMiMZFF9tsByo6F3"
     },
     {
+      "added_at": "2022-11-04 06:00:00",
+      "album": {
+        "name": "Mi Amor Por Ti",
+        "url": "https://open.spotify.com/album/5r1ngyoVvPgfgYeUl5nZ8K"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 227380,
+      "name": "Mi Amor Por Ti",
+      "url": "https://open.spotify.com/track/0IGpYzIRYza9qAdhFUQrU9"
+    },
+    {
       "added_at": "2022-08-29 18:05:53",
       "album": {
         "name": "Cu\u00e9ntame",
@@ -1667,22 +1683,6 @@
       "duration_ms": 185987,
       "name": "Por Ella Tomo",
       "url": "https://open.spotify.com/track/0FkATCT3LOTcMaDh6nwFsl"
-    },
-    {
-      "added_at": "2022-11-04 06:00:00",
-      "album": {
-        "name": "Mi Amor Por Ti",
-        "url": "https://open.spotify.com/album/5r1ngyoVvPgfgYeUl5nZ8K"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 227380,
-      "name": "Mi Amor Por Ti",
-      "url": "https://open.spotify.com/track/0IGpYzIRYza9qAdhFUQrU9"
     }
   ],
   "unique_name": "Norte\u00f1o 2022",

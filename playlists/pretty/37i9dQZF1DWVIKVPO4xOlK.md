@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: 2DEEP
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,470 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,496 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 92 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
 | 93 | [Risk Taker](https://open.spotify.com/track/0NfG30rZJDLi9oO6P8XV3Z) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Risk Taker](https://open.spotify.com/album/1zkmSFV82BqYQSit5K9fyu) | 2:36 |
 | 94 | [Me Acostumbre A Lo Bueno \(Remix\)](https://open.spotify.com/track/31BLeQC9tZ4hTFoAhg3oBw) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Corridos 100% Callejeros \(Vol\. 1\)](https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP) | 2:18 |
-| 95 | [Soy Nacido En LA](https://open.spotify.com/track/4upkNwyr8C3WvglPL6xXqw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos 100% Callejeros \(Vol\. 1\)](https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP) | 3:25 |
-| 96 | [Un Momento](https://open.spotify.com/track/5xtBpogt0Id3kcnj7fP1nK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:09 |
+| 95 | [Un Momento](https://open.spotify.com/track/5xtBpogt0Id3kcnj7fP1nK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:09 |
+| 96 | [Soy Nacido En LA](https://open.spotify.com/track/4upkNwyr8C3WvglPL6xXqw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos 100% Callejeros \(Vol\. 1\)](https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP) | 3:25 |
 | 97 | [Swap For A Swap \(feat\. Kodak Black\)](https://open.spotify.com/track/6zWUG46uJdW4OensV1Oo7B) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Bighead](https://open.spotify.com/artist/47rYP3OnFecFuino5DXte1), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Swap For A Swap \(feat\. Kodak Black\)](https://open.spotify.com/album/6SaGt9q4tJi6HSFRbahDHh) | 3:50 |
 | 98 | [Ando Giro](https://open.spotify.com/track/304bR3emWsKkqk9QaBeAX7) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Corridos 100% Callejeros \(Vol\. 1\)](https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP) | 3:19 |
 | 99 | [Que Es Eso \(feat\. Young Eiby\)](https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Young Eiby](https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:40 |
 | 100 | [Pistol Packin](https://open.spotify.com/track/6Cel5MA3hUownZYYp13pO6) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Parkside Baby](https://open.spotify.com/album/40xueAJsLMp79qy7VqLz2P) | 2:03 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDIyMDY1ZmVhZmJhMjEyZDU5ODc5ZWQyNjM1ZmUyMTJk`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGE5NzA0NTAxYWNiYTYzMzJiZjExZmVhMTAzZDE4NjMw`

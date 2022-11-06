@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > só hit bombado e viralizado na net! confia
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,200 likes - 70 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,889 likes - 70 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

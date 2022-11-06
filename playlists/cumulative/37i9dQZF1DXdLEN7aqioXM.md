@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-360 songs - 1 day 1 hr 59 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+361 songs - 1 day 2 hr 2 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Days Like This](https://open.spotify.com/track/3DJpNRfGFjXv0F3RKKgWvN) | [Mark Dee](https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z) | [Days Like This](https://open.spotify.com/album/7CAn6RPVDLHNKm180Kbdmc) | 4:24 | 2022-06-17 | 2022-06-30 |
 | [Days Of The Running Man \- Original Mix](https://open.spotify.com/track/6Vsww35AUGBew98FOc91v1) | [Droid Bishop](https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe) | [Retro Future](https://open.spotify.com/album/7LkDO9Yr7ZadQlOTBv92XG) | 5:41 | 2022-04-08 | 2022-07-29 |
 | [Daytona](https://open.spotify.com/track/1RWMydoqnPlMiHV7oEPwHo) | [Russ Chimes](https://open.spotify.com/artist/5L1ueznqwXIHAimfnhfftF) | [Valerie and Friends](https://open.spotify.com/album/4mpzuBJYmwO7fzkMr43oT7) | 5:07 | 2022-04-01 | 2022-04-19 |
-| [Defender](https://open.spotify.com/track/2umQRNsUUMGAlbFFRoLzIx) | [Tiën](https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh) | [Defender](https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U) | 3:44 | 2022-02-04 | 2022-07-29 |
+| [Defender](https://open.spotify.com/track/2umQRNsUUMGAlbFFRoLzIx) | [Tiën](https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh) | [Defender](https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U) | 3:44 | 2022-02-04 |  |
 | [Delorean Dynamite \- Disco Mix](https://open.spotify.com/track/5WJEShsmfEDZramr8OKrHJ) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Delorean Dynamite](https://open.spotify.com/album/3v0SOK6IrTMgza0l6Aqs5H) | 6:40 | 2022-04-01 | 2022-04-09 |
 | [Delusive Bunker \- Live Version](https://open.spotify.com/track/7gszCJRsbb0baUr58th2Qt) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Delusive Bunker \(Live Version\)](https://open.spotify.com/album/6Aqfd6vOumuBEXGCmr96j0) | 6:11 | 2021-10-15 |  |
 | [Diabolic](https://open.spotify.com/track/68ngtC3pGiTjXcFwxYCJ7Z) | [Dance With the Dead](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm) | [The Shape](https://open.spotify.com/album/6FrmsWgHEf8JGco0YPFOjJ) | 4:19 | 2021-10-15 | 2022-04-08 |
@@ -92,6 +92,7 @@
 | [Doomsday Codex](https://open.spotify.com/track/5QOgrmfD4UWwjknWXPXPFx) | [3FORCE](https://open.spotify.com/artist/0FHXyAFKLg02mIUpNApPgo) | [Doomsday Codex](https://open.spotify.com/album/7uAqxu1CteveOdlvFZCGha) | 5:36 | 2022-02-04 | 2022-05-25 |
 | [Dreams](https://open.spotify.com/track/2jbtkmkMgu0QzuaWi1boGI) | [Peaking Lights](https://open.spotify.com/artist/54ECAJjvSyZGTWUgyt5tqc) | [E S C A P E](https://open.spotify.com/album/0MWNTj4Vy7FpJdDaFq3yl2) | 5:28 | 2022-04-01 | 2022-04-09 |
 | [Drift](https://open.spotify.com/track/5FqMFN6enobvl6ojiTt98J) | [DEADLIFE](https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX) | [Drift](https://open.spotify.com/album/6KqNzVNnKYzhkHYVnFxirn) | 5:07 | 2021-10-15 |  |
+| [Drive](https://open.spotify.com/track/2JcBe9Zdgsmv5lVXxCBi6C) | [Mezhdunami](https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw) | [Drive](https://open.spotify.com/album/7LMWsIsL8HQ9K86boDvkyC) | 2:49 | 2022-11-04 |  |
 | [Drive\-by Stalking](https://open.spotify.com/track/6ME1VoSzgeICC3LERDfq0d) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Drive\-by Stalking](https://open.spotify.com/album/06rUenebSdb4u81wj4tK8H) | 5:20 | 2022-02-04 | 2022-07-29 |
 | [Drive\-by Stalking](https://open.spotify.com/track/2Vmbg2UweixrXClJeIE1xz) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Drive\-by Stalking](https://open.spotify.com/album/2uM7nC8LLABOWiami4Ipw9) | 5:20 | 2022-07-22 |  |
 | [Droid Rage](https://open.spotify.com/track/6BzXcsB6HhmO7yQ7qBjK48) | [OGRE Sound](https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj) | [195](https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC) | 1:51 | 2021-10-15 |  |
@@ -136,7 +137,7 @@
 | [Ghost \(feat\. Power Glove\)](https://open.spotify.com/track/0G8G0D50AZldBbHrbruYxv) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [Power Glove](https://open.spotify.com/artist/0dalJaAT80lKfkZsC86lnW) | [Ghost \(feat\. Power Glove\)](https://open.spotify.com/album/4ixAvzyx5cHavWAbpUAsRn) | 4:22 | 2022-10-28 |  |
 | [Ghost Ship](https://open.spotify.com/track/56N8p428pdGMvLHRWmklzH) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [S A Z E R](https://open.spotify.com/artist/4ITqwIiGfTR7LWAuLLuaaL) | [Ghost Ship](https://open.spotify.com/album/6x7BjhCKuTsCnO5WbH348z) | 4:19 | 2021-10-15 | 2022-07-29 |
 | [Golden Hour](https://open.spotify.com/track/75sLIs9n3Odv5YxXe9VIrw) | [Balcony Sunrise](https://open.spotify.com/artist/18fGpvh05JqB697yJxo5mF) | [Golden Hour](https://open.spotify.com/album/7z7cyWuCDqW8PxQ0luSVb5) | 4:13 | 2022-07-22 | 2022-10-27 |
-| [Golden Taurus](https://open.spotify.com/track/4yR6KeaGWGEDpVRiDFXeR7) | [Vercetti Technicolor](https://open.spotify.com/artist/28qRQnzpymzgyB5QxvioKO) | [Golden Taurus EP](https://open.spotify.com/album/3rBTMGNErkX6ia4TGBvsqq) | 5:45 | 2022-04-01 |  |
+| [Golden Taurus](https://open.spotify.com/track/4yR6KeaGWGEDpVRiDFXeR7) | [Vercetti Technicolor](https://open.spotify.com/artist/28qRQnzpymzgyB5QxvioKO) | [Golden Taurus EP](https://open.spotify.com/album/3rBTMGNErkX6ia4TGBvsqq) | 5:45 | 2022-04-01 | 2022-11-06 |
 | [Gorwel](https://open.spotify.com/track/28L1PMK9pGoujuvl91DwEo) | [Carw](https://open.spotify.com/artist/7AaeIQ8PJitJJcScxTWL13) | [Gorwel](https://open.spotify.com/album/37peSNX9tLt9iy3UFYOeF3) | 3:29 | 2022-02-04 | 2022-02-16 |
 | [Gravity \(Of U & I\)](https://open.spotify.com/track/5phvikd8m1kALvoBuKfnIO) | [HELIXIRx](https://open.spotify.com/artist/3k8Yy0uBrm0uDy3P6Txzgc) | [Authenticity: The Instrumentals](https://open.spotify.com/album/4PFdNLbzmXK25Ui4SfQJpw) | 4:49 | 2022-02-04 | 2022-02-19 |
 | [Gunshot](https://open.spotify.com/track/781UsdIGZ2ce8qLJQOpgGT) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Gunshot](https://open.spotify.com/album/5R1pqh68glbrzZMJWiOjQw) | 3:49 | 2022-02-04 | 2022-04-20 |
@@ -281,7 +282,7 @@
 | [Shape Of Your Heart](https://open.spotify.com/track/0imHx7hSqyhe4IuMR9QYc5) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [Shape Of Your Heart](https://open.spotify.com/album/0tCTCy2HRhWKY3uKC31A2u) | 4:55 | 2022-07-01 | 2022-08-27 |
 | [She Is Young, She Is Beautiful, She Is Next](https://open.spotify.com/track/2MBJZgztmtwcIsKXXwLxZI) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [Dangerous Days](https://open.spotify.com/album/0GzBfwarPFhAdfLNHfgaRT) | 5:04 | 2022-02-25 | 2022-04-02 |
 | [Shift](https://open.spotify.com/track/0aBLmDTJtueByhtIZGBQWs) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Shift](https://open.spotify.com/album/6GmUprnsv6t2ASxGndTjJ0) | 3:38 | 2022-10-14 |  |
-| [Shimmer Isle](https://open.spotify.com/track/4MaEEuFFPYgOQQ2ibvcCsY) | [Shikimo](https://open.spotify.com/artist/322yxVmKeH1lKYRKEAXGhe), [Richard Alfaro](https://open.spotify.com/artist/4fQSVfiu7jVEHsMTdAPols) | [Shimmer Isle](https://open.spotify.com/album/3JHqSgeaDvreMmVXz5ajjU) | 4:00 | 2021-10-15 |  |
+| [Shimmer Isle](https://open.spotify.com/track/4MaEEuFFPYgOQQ2ibvcCsY) | [Shikimo](https://open.spotify.com/artist/322yxVmKeH1lKYRKEAXGhe), [Richard Alfaro](https://open.spotify.com/artist/4fQSVfiu7jVEHsMTdAPols) | [Shimmer Isle](https://open.spotify.com/album/3JHqSgeaDvreMmVXz5ajjU) | 4:00 | 2021-10-15 | 2022-11-06 |
 | [Shoulder of Orion](https://open.spotify.com/track/7AkQVlVzkZMCCHLtIzUT9d) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Visitors](https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK) | 5:02 | 2022-04-01 |  |
 | [Shout \- The Forgotten Remix](https://open.spotify.com/track/5aa8TV2mnOYHhHl0t9ymMu) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [The Forgotten](https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t) | [Shout \(The Forgotten Remix\)](https://open.spotify.com/album/5Uo5qoMvjUBeLQflHk2u7w) | 3:41 | 2022-04-22 |  |
 | [Sideways in Dreams](https://open.spotify.com/track/7bquaJAoCaaUbCvgPa4Uln) | [BVSMV](https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF) | [Sideways in Dreams](https://open.spotify.com/album/1T9LIBX20FwLtO0DA3Mu7T) | 3:57 | 2022-02-25 | 2022-04-24 |

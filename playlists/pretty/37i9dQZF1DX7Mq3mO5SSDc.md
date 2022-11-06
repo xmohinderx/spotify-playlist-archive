@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 
 > An homage to the iconic label’s 1980s and 1990s roots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,309 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,422 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 9 | [Hard Knock Life \(Ghetto Anthem\)](https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 3:58 |
 | 10 | [This D.J.](https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [O.G.L.B.](https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 3:23 |
 | 11 | [Bring The Pain](https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Tical](https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf) | 3:09 |
-| 12 | [Slam](https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Bacdafucup](https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K) | 3:38 |
+| 12 | [Doin' It](https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 4:53 |
 | 13 | [No Sleep Till Brooklyn](https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 4:06 |
-| 14 | [Doin' It](https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 4:53 |
+| 14 | [Slam](https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Bacdafucup](https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K) | 3:38 |
 | 15 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
 | 16 | [Fight The Power](https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Fear Of A Black Planet](https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz) | 4:42 |
 | 17 | [Slippin'](https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Flesh Of My Flesh, Blood Of My Blood](https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T) | 5:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 49 | [Deeper](https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK) | [Boss](https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT), [Papa Juggy](https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf) | [Def Jam's Greatest Hits \- Hardcore](https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR) | 4:01 |
 | 50 | [Headbanger](https://open.spotify.com/track/17GdAx0kHOFNXZiCj8HuOW) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [K\-Solo](https://open.spotify.com/artist/0knb2mXB2y0L44J05Nj6zX) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 4:51 |
 
-Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMDQ0OGY2NWEzOTViOTFmZTY4Y2E1MTFiNWNiZTFiYTZl`
+Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMDhjYzJiYWQzYmQ2YTNiOTVlMDUzNjdmZmQ4MWJhNjg3`

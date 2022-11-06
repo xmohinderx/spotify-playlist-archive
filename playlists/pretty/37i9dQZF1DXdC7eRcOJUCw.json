@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Adriana R\u00edos en portada.",
-  "num_followers": 96968,
+  "num_followers": 97018,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYzOTU1NiwwMDAwMDAwMGRhYWNjMjVmMmZhNjFiNTY2YWYwZGMxNTIyNTEyOTBj",
+  "snapshot_id": "MTY2NjYzOTU1NiwwMDAwMDAwMDg5YTcwMmE4YzViZGYyMWQ1YTE2NTRkODU0NTYzNjg1",
   "tracks": [
     {
       "added_at": "2022-10-07 15:31:27",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     },
     {
-      "added_at": "2022-11-05 01:56:00",
+      "added_at": "2022-11-06 01:52:42",
       "album": {
         "name": "Qu\u00e9 Agon\u00eda",
         "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn"
     },
     {
-      "added_at": "2022-11-05 01:56:00",
+      "added_at": "2022-11-06 01:52:42",
       "album": {
         "name": "T\u00f3mbola",
         "url": "https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g"
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "Fruta Prohibida",
         "url": "https://open.spotify.com/album/186sbJdKHVH7OM5MuBtdUv"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 165610,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/7wzBcwQYUyboa2w56LWlIP"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "Ayer Y Hoy",
         "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 208066,
       "name": "Qu\u00e9 Manera de Perder",
       "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Tres Veces Te Enga\u00f1e",
-        "url": "https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz"
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
       "artists": [
         {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 199656,
-      "name": "Tres Veces Te Enga\u00f1e",
-      "url": "https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT"
+      "duration_ms": 170685,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+        "name": "Tres Veces Te Enga\u00f1e",
+        "url": "https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 170685,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
+      "duration_ms": 199656,
+      "name": "Tres Veces Te Enga\u00f1e",
+      "url": "https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 287277,
+      "name": "Te Quiero para Mi\u0301",
+      "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
         "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 178584,
       "name": "Amanec\u00ed En Tus Brazos",
       "url": "https://open.spotify.com/track/6Yzyvz6Pujj7a3FgdNlSuD"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 287277,
-      "name": "Te Quiero para Mi\u0301",
-      "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "Serie Platino",
         "url": "https://open.spotify.com/album/4kCW29zMjnbmK9jUDtgCry"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 151040,
       "name": "Tus Maletas En La Puerta",
       "url": "https://open.spotify.com/track/2aZhicClWLsJFQSkbLFMbL"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 135733,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "15 \u00c9xitos De Oro",
         "url": "https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
+        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
+        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "La Feria de las Flores",
+      "url": "https://open.spotify.com/track/1tBz9r3XIP2qRhEmrFUj4J"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
         "name": "Taco Placero",
         "url": "https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh"
       },
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
-        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
       },
       "artists": [
         {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 187893,
-      "name": "La Feria de las Flores",
-      "url": "https://open.spotify.com/track/1tBz9r3XIP2qRhEmrFUj4J"
+      "duration_ms": 135733,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -1029,26 +1029,10 @@
       "url": "https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O"
     },
     {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 183906,
-      "name": "T\u00fa a M\u00ed No Me Hundes",
-      "url": "https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy"
-    },
-    {
       "added_at": "2022-10-07 15:31:27",
       "album": {
-        "name": "No Te Apartes De M\u00ed",
-        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
       "artists": [
         {
@@ -1056,25 +1040,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 239880,
-      "name": "No Te Apartes De M\u00ed",
-      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
-        "name": "Cuando Caiga la Noche",
-        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 201802,
-      "name": "Cuando Caiga la Noche",
-      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
+      "duration_ms": 203813,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -1115,6 +1083,22 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
+        "name": "Cuando Caiga la Noche",
+        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Cuando Caiga la Noche",
+      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
         "name": "Entiende Que Ya",
         "url": "https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "T\u00fa a M\u00ed No Me Hundes",
+      "url": "https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
         "name": "\u00a1 Ora pues !",
         "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
@@ -1165,26 +1165,10 @@
       "url": "https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22"
     },
     {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
-        "name": "Lucha Villa Interpreta a Jos\u00e9 Alfredo Jimenez",
-        "url": "https://open.spotify.com/album/1Weu2CZyvIIvuSZ9RAPJHF"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Te Solt\u00e9 La Rienda",
-      "url": "https://open.spotify.com/track/6x6IUdWGMh5N3Is2WjmLcE"
-    },
-    {
       "added_at": "2022-10-07 15:31:27",
       "album": {
-        "name": "Una Buena Ranchera",
-        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+        "name": "No Te Apartes De M\u00ed",
+        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
       },
       "artists": [
         {
@@ -1192,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
+      "duration_ms": 239880,
+      "name": "No Te Apartes De M\u00ed",
+      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
+        "name": "Lucha Villa Interpreta a Jos\u00e9 Alfredo Jimenez",
+        "url": "https://open.spotify.com/album/1Weu2CZyvIIvuSZ9RAPJHF"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Te Solt\u00e9 La Rienda",
+      "url": "https://open.spotify.com/track/6x6IUdWGMh5N3Is2WjmLcE"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
         "name": "Qu\u00e9 Iron\u00eda",
         "url": "https://open.spotify.com/album/0t0aSpLPZ8jaJ498eog6Lr"
       },
@@ -1315,38 +1315,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Mi Reflejo",
-      "url": "https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
-        "name": "La Reina de la Canci\u00f3n Mexicana",
-        "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 178782,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "La Tari\u00e1curi",
         "url": "https://open.spotify.com/album/5p8WmAnz98OGqYig1OB9iU"
       },
@@ -1363,6 +1331,22 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Mi Reflejo",
+      "url": "https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
         "name": "Chelo Interpreta A Jos\u00e9 Alfredo Jim\u00e9nez",
         "url": "https://open.spotify.com/album/5cXbDdjm9NeZDhpJ2xYxHo"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 145194,
       "name": "Por Si Me Olvidas",
       "url": "https://open.spotify.com/track/1io5WvDEVRlnPVJl7hYJZI"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "La Reina de la Canci\u00f3n Mexicana",
+        "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 178782,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z"
     },
     {
       "added_at": "2022-06-08 17:57:52",

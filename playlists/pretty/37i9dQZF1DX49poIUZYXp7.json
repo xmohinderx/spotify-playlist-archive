@@ -1,12 +1,12 @@
 {
   "description": "The extraordinary women making great country music today. Cover: Mickey Guyton",
-  "num_followers": 427597,
+  "num_followers": 427667,
   "original_name": "Women of Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzMzMDA2OSwwMDAwMDAwMDA3NjJmOGEzMTYzOTNkMmRiMzNlOTUyNDJmYjEyMjQ5",
+  "snapshot_id": "MTY2NzMzMDA2OSwwMDAwMDAwMGZhZTg2ZWE4MWUwNTM1NTUwOWYxNzU2M2IzYjdiZDlh",
   "tracks": [
     {
       "added_at": "2022-11-01 19:14:29",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-11-01 19:14:29",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
-    },
-    {
-      "added_at": "2022-11-01 19:14:29",
-      "album": {
         "name": "Everything She Ain\u2019t",
         "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 151973,
       "name": "Everything She Ain\u2019t",
       "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
+    },
+    {
+      "added_at": "2022-11-01 19:14:29",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "The Bones",
+      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
     },
     {
       "added_at": "2022-11-01 19:14:29",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-01 19:14:29",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Wilder Days",
-      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
-    },
-    {
-      "added_at": "2022-11-01 19:14:29",
-      "album": {
         "name": "JoDee Messina",
         "url": "https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 209760,
       "name": "Heads Carolina, Tails California",
       "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
+    },
+    {
+      "added_at": "2022-11-01 19:14:29",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Wilder Days",
+      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
     },
     {
       "added_at": "2022-11-01 19:14:29",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-11-01 19:14:29",
       "album": {
-        "name": "Love You a Little Bit",
-        "url": "https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1"
-      },
-      "artists": [
-        {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
-        }
-      ],
-      "duration_ms": 210813,
-      "name": "Love You a Little Bit",
-      "url": "https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM"
-    },
-    {
-      "added_at": "2022-11-01 19:14:29",
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 255233,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/0rK4HCKzv2r1IXqKX3DKpq"
+    },
+    {
+      "added_at": "2022-11-01 19:14:29",
+      "album": {
+        "name": "Love You a Little Bit",
+        "url": "https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "duration_ms": 210813,
+      "name": "Love You a Little Bit",
+      "url": "https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM"
     },
     {
       "added_at": "2022-11-01 19:14:29",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-11-01 19:14:29",
       "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Lady Like",
-      "url": "https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4"
-    },
-    {
-      "added_at": "2022-11-01 19:14:29",
-      "album": {
         "name": "Us",
         "url": "https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 183736,
       "name": "Us",
       "url": "https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t"
+    },
+    {
+      "added_at": "2022-11-01 19:14:29",
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "Lady Like",
+      "url": "https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4"
     },
     {
       "added_at": "2022-11-01 19:14:29",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-11-01 19:14:29",
       "album": {
-        "name": "F-150",
-        "url": "https://open.spotify.com/album/09m2n7rJs6daBxySqetJ9R"
-      },
-      "artists": [
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 168786,
-      "name": "F-150",
-      "url": "https://open.spotify.com/track/1k090Cp4kVflIXkQTcqIT9"
-    },
-    {
-      "added_at": "2022-11-01 19:14:29",
-      "album": {
         "name": "I Don't Go Back",
         "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2022-11-01 19:14:29",
       "album": {
-        "name": "LOVE IS A COWBOY",
-        "url": "https://open.spotify.com/album/2DNSEaiDOlocUHvQn37ylQ"
+        "name": "F-150",
+        "url": "https://open.spotify.com/album/09m2n7rJs6daBxySqetJ9R"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
         }
       ],
-      "duration_ms": 163531,
-      "name": "LOVE IS A COWBOY",
-      "url": "https://open.spotify.com/track/0syI1uKOPmjaRAdnpC1LUr"
+      "duration_ms": 168786,
+      "name": "F-150",
+      "url": "https://open.spotify.com/track/1k090Cp4kVflIXkQTcqIT9"
     },
     {
       "added_at": "2022-11-01 19:14:29",
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2022-11-01 19:14:29",
       "album": {
+        "name": "LOVE IS A COWBOY",
+        "url": "https://open.spotify.com/album/2DNSEaiDOlocUHvQn37ylQ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 163531,
+      "name": "LOVE IS A COWBOY",
+      "url": "https://open.spotify.com/track/0syI1uKOPmjaRAdnpC1LUr"
+    },
+    {
+      "added_at": "2022-11-01 19:14:29",
+      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-11-01 19:14:29",
       "album": {
-        "name": "I Don't Believe We've Met",
-        "url": "https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 206826,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/5APWbHdwUCA08ZLl0meDCh"
-    },
-    {
-      "added_at": "2022-11-01 19:14:29",
-      "album": {
         "name": "Greener Pasture",
         "url": "https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 189442,
       "name": "Greener Pasture",
       "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
+    },
+    {
+      "added_at": "2022-11-01 19:14:29",
+      "album": {
+        "name": "I Don't Believe We've Met",
+        "url": "https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 206826,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/5APWbHdwUCA08ZLl0meDCh"
     },
     {
       "added_at": "2022-11-01 19:14:29",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-11-01 19:14:29",
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 164677,
-      "name": "Next Girl",
-      "url": "https://open.spotify.com/track/2nkKBegmLjGjCZ0cP9xA09"
-    },
-    {
-      "added_at": "2022-11-01 19:14:29",
-      "album": {
         "name": "Dates In Pickup Trucks",
         "url": "https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 179189,
       "name": "Never Been in Love",
       "url": "https://open.spotify.com/track/3gq98hzXfMGQ5VFIGJ1DoB"
+    },
+    {
+      "added_at": "2022-11-01 19:14:29",
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 164677,
+      "name": "Next Girl",
+      "url": "https://open.spotify.com/track/2nkKBegmLjGjCZ0cP9xA09"
     },
     {
       "added_at": "2022-11-01 19:14:29",

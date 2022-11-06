@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Field Medic
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,501 likes - 125 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,573 likes - 125 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,18 +61,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 51 | [As You Are](https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [As You Are](https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w) | 2:21 |
 | 52 | [Ignore Tenderness](https://open.spotify.com/track/1IasTdHJGNPLxpKdJIjbri) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 3:08 |
 | 53 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 |
-| 54 | [Plum](https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:24 |
-| 55 | [i only sing about food](https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [i only sing about food](https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa) | 2:24 |
-| 56 | [Falling Apart](https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 2:46 |
+| 54 | [Falling Apart](https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 2:46 |
+| 55 | [Plum](https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:24 |
+| 56 | [i only sing about food](https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [i only sing about food](https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa) | 2:24 |
 | 57 | [Air Forces](https://open.spotify.com/track/5NYwjzQXE8ug35TRHoDeuW) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/7aRQJlM2xsWAvVJPxIcnxn) | 2:58 |
 | 58 | [Wind On Tin](https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6) | 3:06 |
 | 59 | [Campfire](https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 5:19 |
 | 60 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 |
 | 61 | [Polly](https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 3:38 |
 | 62 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
-| 63 | [Oh Canada](https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:47 |
-| 64 | [Dr\. Johann Averies](https://open.spotify.com/track/0FXTj56OeM7A1FDV6N3bmw) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Dr\. Johann Averies](https://open.spotify.com/album/1t2aKCQheAqrUtItw1T2K3) | 3:53 |
-| 65 | [Every Once In A While](https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 4:37 |
+| 63 | [Every Once In A While](https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 4:37 |
+| 64 | [Oh Canada](https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:47 |
+| 65 | [Dr\. Johann Averies](https://open.spotify.com/track/0FXTj56OeM7A1FDV6N3bmw) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Dr\. Johann Averies](https://open.spotify.com/album/1t2aKCQheAqrUtItw1T2K3) | 3:53 |
 | 66 | [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 |
 | 67 | [For Props](https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy) | 3:43 |
 | 68 | [Sucker](https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker's Lunch](https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ) | 4:43 |
@@ -90,12 +90,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 80 | [needy](https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [needy](https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB) | 3:52 |
 | 81 | [Hunter](https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:49 |
 | 82 | [A Thread to Find](https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Geist](https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel) | 3:48 |
-| 83 | [stoned](https://open.spotify.com/track/2lHLhy71ZIqedHum50FhvF) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [i don’t know who needs to hear this...](https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak) | 4:45 |
-| 84 | [Gossamer](https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Gossamer](https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z) | 3:55 |
+| 83 | [Gossamer](https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Gossamer](https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z) | 3:55 |
+| 84 | [stoned](https://open.spotify.com/track/2lHLhy71ZIqedHum50FhvF) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [i don’t know who needs to hear this...](https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak) | 4:45 |
 | 85 | [Truth Nugget](https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 4:41 |
-| 86 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 |
-| 87 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 |
-| 88 | [Helena](https://open.spotify.com/track/2BsSqz6lCeJl8tErM2ZlL4) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [The Monster Who Hated Pennsylvania](https://open.spotify.com/album/13qO35v1fPlEsvctgnCMrs) | 2:47 |
+| 86 | [Helena](https://open.spotify.com/track/2BsSqz6lCeJl8tErM2ZlL4) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [The Monster Who Hated Pennsylvania](https://open.spotify.com/album/13qO35v1fPlEsvctgnCMrs) | 2:47 |
+| 87 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 |
+| 88 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 |
 | 89 | [Let It Be](https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Let It Be](https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9) | 3:42 |
 | 90 | [Rare to Wake](https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Geist](https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel) | 4:38 |
 | 91 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
@@ -125,13 +125,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 115 | [Avalanche](https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67) | [Maja Lena](https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0) | [Avalanche](https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP) | 2:59 |
 | 116 | [Cady Road](https://open.spotify.com/track/1ANTgkucU94X8WNLWtzAyq) | [Routine](https://open.spotify.com/artist/0u2fToDTRacRkAYleHznQS), [Annie Truscott](https://open.spotify.com/artist/0trxEg1if3MeWAt66UNfGo), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Cady Road](https://open.spotify.com/album/7ncOxJlRQGqWHcTeXXe3mz) | 3:10 |
 | 117 | [Pareidolia](https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 4:07 |
-| 118 | [Memory of a Cut off Head](https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN) | [OCS](https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa) | [Memory of a Cut off Head](https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS) | 4:47 |
-| 119 | [Swimming](https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:12 |
-| 120 | [Blue](https://open.spotify.com/track/4Kh8MmGnvZqBHZbhiE2rpT) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Blue](https://open.spotify.com/album/0ZNXAy99guu3JVPMjaOARW) | 5:55 |
-| 121 | [The Things We Build](https://open.spotify.com/track/4qAMGjxNpkBYcGQ2Y1qLPJ) | [Aerial East](https://open.spotify.com/artist/7ivkYuFP3YZtNylAbefMgi) | [Try Harder](https://open.spotify.com/album/01H9OXsnnSzhNhYEgGtqFg) | 3:26 |
+| 118 | [Swimming](https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:12 |
+| 119 | [Memory of a Cut off Head](https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN) | [OCS](https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa) | [Memory of a Cut off Head](https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS) | 4:47 |
+| 120 | [The Things We Build](https://open.spotify.com/track/4qAMGjxNpkBYcGQ2Y1qLPJ) | [Aerial East](https://open.spotify.com/artist/7ivkYuFP3YZtNylAbefMgi) | [Try Harder](https://open.spotify.com/album/01H9OXsnnSzhNhYEgGtqFg) | 3:26 |
+| 121 | [Blue](https://open.spotify.com/track/4Kh8MmGnvZqBHZbhiE2rpT) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Blue](https://open.spotify.com/album/0ZNXAy99guu3JVPMjaOARW) | 5:55 |
 | 122 | [Better Now](https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance \(Deluxe Version\)](https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr) | 2:53 |
 | 123 | [Spitting Image](https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O) | [Sharon Silva](https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S) | [Spitting Image](https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb) | 4:19 |
 | 124 | [Let's Move To The Country](https://open.spotify.com/track/7DDOKDN5Z1MzAi6KWpTJjn) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 3:19 |
 | 125 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDJkYzEzMmJjNGZkYjkzZGVmMmE2MTQ5ZmU3N2RjZjgy`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDUyYWY0MDcwZDNiOTk0NmJjYmE1ZGM5OWFkNWM1Zjcx`

@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women that like it loud & heavy. Cover: Poppy",
-  "num_followers": 538662,
+  "num_followers": 538869,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1ODg3MiwwMDAwMDAwMDFjZDY2NDJmOWMzMDE2YzVhNWMyYzgxMjMxMGE4MTNk",
+  "snapshot_id": "MTY2Njk1ODg3MiwwMDAwMDAwMDUyMzRmZTQyNWQ5ODg5ZDk2MmEyMTA0MTFmMjQ1OTM1",
   "tracks": [
     {
       "added_at": "2022-10-28 12:07:52",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
         "name": "Death By Rock And Roll",
         "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
       },
@@ -659,18 +675,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
       },
       "artists": [
         {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+          "name": "Unleash The Archers",
+          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
         }
       ],
-      "duration_ms": 225692,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
+      "duration_ms": 404093,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -687,22 +703,6 @@
       "duration_ms": 233472,
       "name": "Lay All Your Love on Me",
       "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
-      },
-      "artists": [
-        {
-          "name": "Unleash The Archers",
-          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
-        }
-      ],
-      "duration_ms": 404093,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Stigmata Itch",
-        "url": "https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7"
-      },
-      "artists": [
-        {
-          "name": "Rave The Reqviem",
-          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Colossvs",
-      "url": "https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 210848,
       "name": "Yeah Right",
       "url": "https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Stigmata Itch",
+        "url": "https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7"
+      },
+      "artists": [
+        {
+          "name": "Rave The Reqviem",
+          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Colossvs",
+      "url": "https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/6lw1mTt5OLU02aOwTp7NSk"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 95693,
       "name": "Real Wild Child",
       "url": "https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op"
     },
     {
       "added_at": "2022-10-28 12:07:52",

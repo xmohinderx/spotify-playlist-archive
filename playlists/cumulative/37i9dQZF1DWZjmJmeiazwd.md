@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-400 songs - 1 day 0 hr 8 min - [published](https://open.spotify.com/playlist/4hjyqOv4pr58cwOYvnLuVE)
+401 songs - 1 day 0 hr 12 min - [published](https://open.spotify.com/playlist/4hjyqOv4pr58cwOYvnLuVE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [He's So Good](https://open.spotify.com/track/7pKobU7htR1875GflYkkd2) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Don't You Feel Amazing?](https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3) | 3:46 | 2022-04-22 | 2022-05-21 |
 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 | 2020-06-29 |  |
 | [Heartache Melody](https://open.spotify.com/track/3SiZI9CQ5wjl79gs0gem6Q) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Heartache Melody](https://open.spotify.com/album/5vgjMsTYIGUJe9D46PANW4) | 2:52 | 2022-04-22 | 2022-05-21 |
-| [Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Heat Seeker](https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM) | 2:55 | 2020-06-29 |  |
+| [Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Heat Seeker](https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM) | 2:55 | 2020-06-29 | 2022-11-06 |
 | [Heaven Knows](https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going To Hell \(Deluxe Edition\)](https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4) | 3:44 | 2022-07-28 |  |
 | [Heaven Knows](https://open.spotify.com/track/0c9buzCUcKXCH7Aa4gpTAu) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going to Hell](https://open.spotify.com/album/4BgfwxJn5S5U1Qb3LrzdZX) | 3:44 | 2020-06-29 | 2022-07-27 |
 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2020-06-29 | 2022-02-06 |
@@ -381,6 +381,7 @@
 | [Vagabond \(feat\. Czarface\)](https://open.spotify.com/track/1jvaq9OAx9RmQj9AN0AGpZ) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [CZARFACE](https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr) | [Can You Feel The Sun](https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq) | 3:49 | 2022-04-22 | 2022-05-21 |
 | [Vampires \(Occult Archives\)](https://open.spotify.com/track/2CzUJJ00WjBuwbcjorxfxg) | [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE) | [Vampires \(Occult Archives\)](https://open.spotify.com/album/1LVAJaCZc8WmvPSB5jaVu7) | 3:54 | 2022-07-15 | 2022-07-27 |
 | [Waiting On A War](https://open.spotify.com/track/3NUmUIyzNLBp8bCFMH8Mif) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Waiting On A War](https://open.spotify.com/album/3BsK8KLf8uwzdHmWS051vT) | 4:13 | 2021-02-10 | 2022-07-29 |
+| [Waiting On A War](https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:13 | 2022-09-03 |  |
 | [Warrior \(feat\. Travis Barker\)](https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Warrior / Underrated](https://open.spotify.com/album/1hBDgB1L6iCtV8i5p1Mhq4) | 2:45 | 2021-04-19 | 2022-07-29 |
 | [Wasteland](https://open.spotify.com/track/2SD2zj8W5zKMdjCCJFF0vQ) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum](https://open.spotify.com/album/13lnqlgmaRHQF54C9iiOWO) | 3:59 | 2022-04-22 | 2022-05-21 |
 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 | 2022-07-28 |  |

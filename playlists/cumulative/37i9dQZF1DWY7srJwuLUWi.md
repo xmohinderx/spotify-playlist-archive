@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of MBC's drama Golden Spoon and the 'Songs with Ambition & Emotions to Become a Golden Spoon' selected by the actors themselves! Music Production by SLL \(MBC 드라마 금수저의 사운드 트랙들과 배우진들이 직접 뽑은 '금수저가 되기 위한 야망 & 감성이 담긴 노래들'을 들어보세요!\) 음원제작사: SLL
 
-27 songs - 1 hr 40 min - not published yet
+28 songs - 1 hr 43 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Limousine \(Feat\. MINO\) \(Prod\. GRAY\)](https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:40 | 2022-10-05 |  |
 | [Lost](https://open.spotify.com/track/2SmLMEusGr41TShndvKjRr) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/5njq9jUSKw10HsTy7ZkdhS) | 3:40 | 2022-10-28 |  |
 | [METEOR](https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:17 | 2022-10-05 |  |
+| [Only You](https://open.spotify.com/track/5pzjzjlcEjiMdFgKZhI6fz) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/25C7dgrlL7Rcqahfa4soWA) | 3:38 | 2022-11-05 |  |
 | [Porsche](https://open.spotify.com/track/1dvfI3ftaPV7odcMps3L3Q) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [Porsche](https://open.spotify.com/album/1js77EUM2hyIE0lcPhWgxB) | 2:20 | 2022-10-05 |  |
 | [remember Remix \(with Chin, Uneducated Kid, Paul Blanco\)](https://open.spotify.com/track/51Je7qQ5Ee0LOyRwUWYlfX) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [remember Remix](https://open.spotify.com/album/6B8gLgbZWKKtv0xGUfDxBG) | 3:43 | 2022-10-05 |  |
 | [StrOngerrr \(Feat\. Loco, MINO\)](https://open.spotify.com/track/6mzxQgOkdymXCCz8A7wyz9) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [MUGGLES' MANSION](https://open.spotify.com/album/4SUzNglOur6GH4IGIbNGcr) | 4:45 | 2022-10-05 |  |

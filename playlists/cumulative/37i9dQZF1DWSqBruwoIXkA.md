@@ -4,7 +4,7 @@
 
 > Somehow heartbreak feels good in a place like this\. Cover: Taylor Swift
 
-377 songs - 21 hr 6 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
+378 songs - 21 hr 10 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-02 |  |
 | [How Do You Dress for the Rain?](https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [How Do You Dress for the Rain?](https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh) | 2:40 | 2022-03-11 | 2022-04-23 |
 | [Hurt Again](https://open.spotify.com/track/3gdiyrJ3d1FGnYnCrVKwph) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Hurt Again](https://open.spotify.com/album/5CAl06ROTsSgP4z0ysJOmQ) | 2:06 | 2021-12-17 | 2022-10-15 |
-| [hurt so bad](https://open.spotify.com/track/4DLgDYAX6lsGXlrUmKJex8) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [started in college \(mixtape\)](https://open.spotify.com/album/3HfPgsV9182o2KraJHNQ83) | 4:02 | 2022-09-16 |  |
+| [hurt so bad](https://open.spotify.com/track/4DLgDYAX6lsGXlrUmKJex8) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [started in college \(mixtape\)](https://open.spotify.com/album/3HfPgsV9182o2KraJHNQ83) | 4:02 | 2022-09-16 | 2022-11-06 |
 | [hurt so bad](https://open.spotify.com/track/5c1gKtJkR8dPjki25BU7Qz) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [hurt so bad](https://open.spotify.com/album/2btlqRkfHY0u4IZdKk1lcC) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-01 |  |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-09-15 |
@@ -197,6 +197,7 @@
 | [It's Raining, It's Pouring](https://open.spotify.com/track/0dhw2WjJZBsbBDv0Ipdgbw) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [It's Raining, It's Pouring](https://open.spotify.com/album/7LJY01gIYwchl8f83rFv7g) | 3:03 | 2021-12-17 | 2022-01-22 |
 | [It's You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [YOU](https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa) | 3:32 | 2022-07-22 | 2022-10-01 |
 | [It's You](https://open.spotify.com/track/6moU77g9RQyMzHNuKEaQKq) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [It's You](https://open.spotify.com/album/40vQONzvJb6sKejDN3eWza) | 3:32 | 2022-01-07 | 2022-07-08 |
+| [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 | 2022-11-04 |  |
 | [Jealous of Paris](https://open.spotify.com/track/3R5pd8Z7X3MxaFQphHSUaH) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Jealous of Paris](https://open.spotify.com/album/6slQOvDiXKwmytNy4vKIuK) | 2:21 | 2022-04-29 | 2022-05-19 |
 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 | 2021-12-17 | 2022-07-29 |
 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 | 2022-07-22 |  |

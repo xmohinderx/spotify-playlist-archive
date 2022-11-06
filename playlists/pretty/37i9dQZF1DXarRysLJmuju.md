@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Keep up with all the latest pop hits\. Photo: Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,835 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,889 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 65 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
 | 66 | [Recharge My Heart](https://open.spotify.com/track/7ltvazcssAldoNhI5W6bYc) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Recharge My Heart](https://open.spotify.com/album/4mJOcfahsF3JULnHQiVUWV) | 2:41 |
 | 67 | [Eggshells](https://open.spotify.com/track/7wGwYO5EkMa9sakdoNjOhT) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Eggshells](https://open.spotify.com/album/1EBnNmxQlf3CRbYKgCBO0h) | 3:03 |
-| 68 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 |
+| 68 | [Give Me a Kiss](https://open.spotify.com/track/0OXdfW3Q6VJGpg1k5Ik1SW) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me a Kiss](https://open.spotify.com/album/0CafPkGhvLKbSwto8FQJq1) | 2:49 |
 | 69 | [boohoo](https://open.spotify.com/track/51kJeBoHeHcji1fNsSIHZV) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [debbie downer](https://open.spotify.com/album/0h5j78YPHOMhUD1PNLlmp9) | 3:04 |
 | 70 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 |
 | 71 | [PSYCHO](https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [PSYCHO](https://open.spotify.com/album/7qUT6ERWHp2U6RdUkuYZ3O) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Do I make you nervous?](https://open.spotify.com/track/1FC511SYR7SXb1qrBr3oq0) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Do I make you nervous?](https://open.spotify.com/album/5zjEJwtQGYfo08aaYiZsYZ) | 2:32 |
 | 100 | [WHEN WE WERE KIDS](https://open.spotify.com/track/08RcqKgGxRBnaqAsgm07DI) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [WHEN WE WERE KIDS](https://open.spotify.com/album/3umxF4s0UtsmJ1yOjDBICp) | 3:18 |
 
-Snapshot ID: `MTY2NzU0MTYwMCwwMDAwMDAwMDNiMDcxMTYzZjVkOTk3NmU2YmMwNmU1ZTdjZTJiYWIz`
+Snapshot ID: `MTY2NzU0MTYwMCwwMDAwMDAwMGIxZTFhNjRiMzc4NWE0N2QwNDk5Yzc3NTMzNjc0MzY3`

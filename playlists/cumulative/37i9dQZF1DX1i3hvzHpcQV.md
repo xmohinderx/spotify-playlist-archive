@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Ponniyin Selvan 1
 
-79 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
+80 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Porkanda Singam \(EDM Version\) \[From "Vikram"\]](https://open.spotify.com/track/12LE4Omy9ze8xTOMofMVB3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Porkanda Singam \(EDM Version\) \[From "Vikram"\]](https://open.spotify.com/album/4GU1vqDAiySfL0K3sXLpT2) | 2:29 | 2022-07-23 |  |
 | [Private Party](https://open.spotify.com/track/5OotwkHgMpNYfsCwAOs4jP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kNAeOCtoLHlxTsokhiR1u) | 3:36 | 2022-05-25 |  |
 | [Rakita Rakita Rakita \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/2oNRoniEFnPdaCfkOQ9m0C) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Rakita Rakita Rakita \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3YSoAYHmI70SD6Wb7f4k1q) | 4:07 | 2021-11-15 | 2022-06-07 |
+| [Ranjithame \(From "Varisu"\)](https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W) | 4:47 | 2022-11-05 |  |
 | [Ratchasa Maamaney](https://open.spotify.com/track/26aOnndLckt8uAsk6odL5n) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Palakad Sreeram](https://open.spotify.com/artist/4kFcACv63ngx7w0d5HGeMR), [Mahesh Vinayakram](https://open.spotify.com/artist/3dLyuHSyFYR1OeWA67LBUC) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 4:49 | 2022-09-26 |  |
 | [Rolex Theme \- Background Score](https://open.spotify.com/track/3Vb8KkT6Ub5fFGPYJCJyLh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:53 | 2022-07-08 | 2022-10-11 |
 | [Saami Saami](https://open.spotify.com/track/397k2vS0xPDxKKVXV46KtV) | [Rajalakshmi Senthiganesh](https://open.spotify.com/artist/1JIPdCqj5nSYLwHHD4vS5v) | [Pushpa \- The Rise](https://open.spotify.com/album/602rAkHAZiAsKB8BcxEiCM) | 3:44 | 2022-01-04 |  |

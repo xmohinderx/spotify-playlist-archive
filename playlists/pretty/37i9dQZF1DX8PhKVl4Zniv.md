@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 
 > So you think you got pocket? Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,380 likes - 65 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,404 likes - 65 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 2 | [Watch Your Step](https://open.spotify.com/track/0DbfH3U4JrA8oyoCOyy0jI) | [Dave Weckl Band](https://open.spotify.com/artist/6P05VbVOUyn8swXrrFCLI9) | [Multiplicity](https://open.spotify.com/album/1ociuLesR6fsSFdoZFSrvG) | 5:29 |
 | 3 | [True Praise](https://open.spotify.com/track/7Ct3wjPwP6vIXyeRufcZJz) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [The Origin Band](https://open.spotify.com/artist/3SraEi0YIuNzqMRMEngmoG) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:27 |
 | 4 | [The Lost Foot](https://open.spotify.com/track/4tlQXwwmPcemImLrSFxD89) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Multiple Faces](https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB) | 6:24 |
-| 5 | [Bounce: pts I + II](https://open.spotify.com/track/2Xt6ANxPp2Ds41E3CWYiSV) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ZZ16e0qQpQRMWeHc6uAnl) | 5:33 |
+| 5 | [Bounce, Pts\. I + II](https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9) | 5:33 |
 | 6 | [タイム・リミット](https://open.spotify.com/track/0MaM0yE9EdQEJwDfs6EAZ9) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [CASIOPEA](https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb) | 3:07 |
 | 7 | [Bad Kids To The Back](https://open.spotify.com/track/3nvREfeASA91U3atMsVO3H) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Immigrance](https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge) | 5:45 |
 | 8 | [Snake Soda](https://open.spotify.com/track/3CzE9dKwc3twdA6jFnytCY) | [Steve Smith](https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Vital Techtones](https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed) | 5:35 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 64 | [Schizophrenic](https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Anton Fig](https://open.spotify.com/artist/5xeqgtq9Fkg7XBHuPEm9pf), [Keith Carlock](https://open.spotify.com/artist/1YWzPk73P8Qa1sHvlBEadR), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk) | [Schizophrenic](https://open.spotify.com/album/2HWoSy3RtGX0KzDWGtMY6e) | 7:12 |
 | 65 | [When the Cat's Away](https://open.spotify.com/track/4MbNQBtfQlIwVrU48IelTS) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Ernest Tibbs](https://open.spotify.com/artist/2IZegJTs1JKp5ymiufjYeD), [Otmaro Ruiz](https://open.spotify.com/artist/1FWrmABS5NEpmqdsHfXj2N), [Jacob Scesney](https://open.spotify.com/artist/4mjIZ1lfDoQsRv2wJT6Ojr), [Alex Sill](https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs) | [Protocol V](https://open.spotify.com/album/6K7GPOwmyHmGgu6J4g0ASl) | 6:12 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDZiZTQ4NWVlNmM0YmUzY2FjZjhlNTE3MDc5NGY5OTI3`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDFjNjcyNTJkNDQyYTk5NTAxMGM1YzI1ODc1MTRjMDkx`

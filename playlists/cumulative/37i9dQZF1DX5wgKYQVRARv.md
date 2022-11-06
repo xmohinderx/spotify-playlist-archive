@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Polyphia
 
-559 songs - 2 day 0 hr 43 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+561 songs - 2 day 0 hr 50 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Gone Sour Doomed](https://open.spotify.com/track/1bUygMyPDD8ezYTlY7a0Ee) | [The Monolith Deathcult](https://open.spotify.com/artist/30R1cSs562qWPmRHZtmZom) | [Gone Sour Doomed](https://open.spotify.com/album/2R4IMdqhxEy9oGZttcflWL) | 5:03 | 2021-12-17 | 2022-07-29 |
 | [Goodbye Divinity](https://open.spotify.com/track/4cCoWTdjeDw42O9ZXVsUCE) | [Sons Of Apollo](https://open.spotify.com/artist/3oBGGy1VOs6IHOa1ZdUx2f) | [MMXX](https://open.spotify.com/album/7Fjm76WFhPzLF2Dd103Dvz) | 7:13 | 2021-12-17 | 2022-09-03 |
 | [Gordian Naught](https://open.spotify.com/track/6QD6PReeaIZ5iZXVEntcKE) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Gordian Naught](https://open.spotify.com/album/4NZVjgBQQw9iscGkydO5J2) | 4:48 | 2022-02-25 | 2022-11-05 |
+| [Gordian Naught](https://open.spotify.com/track/7uhwNvGV8LaWoHsrawt6jD) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Parrhesia](https://open.spotify.com/album/1mIiGxlTjTnNMTS9HYwsuB) | 4:48 | 2022-10-28 |  |
 | [Grasping Time \- Single Version](https://open.spotify.com/track/27DIYmcXxMNNVztsjiCApl) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Grasping Time](https://open.spotify.com/album/5z4BnCZGs1JX8oIhUyedjW) | 4:20 | 2021-12-17 | 2022-06-26 |
 | [Great Escape, Pt\. 1](https://open.spotify.com/track/5wpH4Co0ugsFB7D6DUdlyQ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Great Escape, Pt\. 1](https://open.spotify.com/album/3FhlQbfXg8ZpHjJ9M6Z30B) | 7:36 | 2021-12-17 | 2022-01-27 |
 | [Gula](https://open.spotify.com/track/6JJ22tCYd0nuCNNBT1VgNc) | [The Great Discord](https://open.spotify.com/artist/3KWOkq7nrD0UybEUMj4Ryt) | [Gula](https://open.spotify.com/album/2P6ERbEJH2eVTmnoGd9qZh) | 3:30 | 2021-12-17 | 2022-07-28 |
@@ -349,7 +350,7 @@
 | [Perennial Philosophy](https://open.spotify.com/track/2PSI1KGrynoogbYLnoTybJ) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Hidden Worship](https://open.spotify.com/album/7fHg4wRjf0m5MA6e3IuROT) | 4:03 | 2021-12-17 |  |
 | [Periscope](https://open.spotify.com/track/77nsctL8EWneiHnnyTBXl5) | [Andromeda](https://open.spotify.com/artist/46U3e36KOitRTJchc1SqFu) | [Chimera](https://open.spotify.com/album/5N1vbVOrAyU7qqTTkpNc5u) | 6:11 | 2021-12-17 | 2022-01-23 |
 | [Phantom Pain](https://open.spotify.com/track/1hqS8MM45QraOjbvXHgBSR) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Phantom Pain](https://open.spotify.com/album/5fLICMZIvdl3hgnF5u8Ef8) | 4:07 | 2022-07-13 | 2022-07-25 |
-| [Physical Education](https://open.spotify.com/track/0JGuSgtmWyfuxLGBs2wX0C) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Joy of Motion](https://open.spotify.com/album/3BfAgyF1AdYKaOO7EBoDw4) | 4:40 | 2022-07-13 |  |
+| [Physical Education](https://open.spotify.com/track/0JGuSgtmWyfuxLGBs2wX0C) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Joy of Motion](https://open.spotify.com/album/3BfAgyF1AdYKaOO7EBoDw4) | 4:40 | 2022-07-13 | 2022-11-06 |
 | [Picayune](https://open.spotify.com/track/5JPqKVQvEaSbYjDg56i8UX) | [Satyr](https://open.spotify.com/artist/5ktYe9ZQMyLivSJbjEEEXy) | [Picayune](https://open.spotify.com/album/2mb4WfrUOHJYu6qlFu0CRQ) | 3:51 | 2022-07-13 |  |
 | [Pixelate](https://open.spotify.com/track/5ITT2UsqV9R5jRnpUYebcA) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Pixelate](https://open.spotify.com/album/5ab3fPnGY6OV34Swm5ffI0) | 3:10 | 2022-07-13 |  |
 | [Pleistocene](https://open.spotify.com/track/4FtvYfpO7Hy4AuH61nmLCi) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Pleistocene](https://open.spotify.com/album/0vJscqHMO7nYxpPFvr11gR) | 6:40 | 2021-12-17 | 2022-07-29 |
@@ -453,7 +454,7 @@
 | [The Day That The World Breaks Down](https://open.spotify.com/track/7y7H6uAx3sA900GD3ZPHzx) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [The Day That The World Breaks Down](https://open.spotify.com/album/6A6Zvde3UBL3Y0hlKYooHW) | 12:34 | 2021-12-17 | 2022-01-29 |
 | [The Demoness](https://open.spotify.com/track/7epasvZxGClnOSQ4xNCtg8) | [Auras](https://open.spotify.com/artist/58EhqkLf0O4vTU5hSTxOqk) | [The Demoness](https://open.spotify.com/album/5PHoDJsuAoNTVfJRDwNedK) | 4:18 | 2022-07-13 | 2022-07-20 |
 | [The End](https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Stoned Statues](https://open.spotify.com/album/0NpgStIxQiQV5TmEmu7UJK) | 3:45 | 2022-04-22 |  |
-| [The Future Is Behind Us](https://open.spotify.com/track/6MbEg5jNahQ4pMcMM0ClQ6) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [Colors II](https://open.spotify.com/album/0pR2aVMa03OjgroeQcDwQQ) | 5:22 | 2021-12-17 |  |
+| [The Future Is Behind Us](https://open.spotify.com/track/6MbEg5jNahQ4pMcMM0ClQ6) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [Colors II](https://open.spotify.com/album/0pR2aVMa03OjgroeQcDwQQ) | 5:22 | 2021-12-17 | 2022-11-06 |
 | [The Gates Wide Open](https://open.spotify.com/track/3BYwOh9FOnSvWJlI1U1yxD) | [Mercury Circle](https://open.spotify.com/artist/4eoKVJpON0h27e6bPLcoM8) | [The Gates Wide Open](https://open.spotify.com/album/0u9vnyKeIKq6BV2O6D51Y0) | 7:42 | 2021-12-17 | 2022-07-29 |
 | [The Ghost Xperiment](https://open.spotify.com/track/1FQyYONqrtEzaBxkYcAa4T) | [Vanden Plas](https://open.spotify.com/artist/1ke5Q2ijh6Tm31kH2HELEe) | [The Ghost Xperiment](https://open.spotify.com/album/49ItMBhB4bQGwVKy1a8VkR) | 5:54 | 2022-01-28 | 2022-07-26 |
 | [The Gift](https://open.spotify.com/track/6fKx8ycmMNbGI7P61xo6Q0) | [Daniel Tompkins](https://open.spotify.com/artist/5n5iBDC9dOljWGwj7BrdZt), [Matthew K\. Heafy](https://open.spotify.com/artist/3Hh1mC4otxuWeOSRhksMVJ) | [The Gift](https://open.spotify.com/album/26eZTH62Keh9EXY8Rwoasq) | 3:53 | 2021-12-17 | 2022-07-28 |
@@ -476,6 +477,7 @@
 | [The Passage of Time](https://open.spotify.com/track/6S2Tx1E2ZibjMF2B4lddyU) | [Liquid Tension Experiment](https://open.spotify.com/artist/0r1s1XoxdoXECGfyChzb2v) | [The Passage of Time](https://open.spotify.com/album/1HfJ05T9bMOBLEPlp1i0dw) | 7:33 | 2021-12-17 | 2022-09-03 |
 | [The Persistence](https://open.spotify.com/track/7w5b2cV7DdVko8qzbpD3LV) | [Kingcrow](https://open.spotify.com/artist/3nnSgQo8TIgiO5M5pv3mlV) | [The Persistence](https://open.spotify.com/album/3v3MDjebMDevyDsv7JohTx) | 7:09 | 2021-12-17 | 2022-01-25 |
 | [The Problem of Other Minds](https://open.spotify.com/track/2r7FNt9OKoMxqHvMakXWOj) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Problem of Other Minds](https://open.spotify.com/album/6eORPuiaqSBDXcFGW626kj) | 2:32 | 2022-07-13 | 2022-11-05 |
+| [The Problem of Other Minds](https://open.spotify.com/track/6NUQhf20QwI2h66k1PTH7t) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Parrhesia](https://open.spotify.com/album/1mIiGxlTjTnNMTS9HYwsuB) | 2:32 | 2022-10-28 |  |
 | [The Quartz Grave](https://open.spotify.com/track/6XHpv3Ll4amR9EwrMeYm50) | [V3ctors](https://open.spotify.com/artist/6cRxCrWwfxBaBKBJW1WOI8) | [Amarna, Pt\. 1](https://open.spotify.com/album/1LPdLI78lK9xttgvopL1P5) | 4:19 | 2022-07-13 | 2022-07-25 |
 | [The Rat & The Snake](https://open.spotify.com/track/6I1HQ1fAggIDm17CXJo6aq) | [Ghost Iris](https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka), [Tyler Shelton](https://open.spotify.com/artist/05te9cG7cEF5EuxU9JqnCk) | [Apple of Discord](https://open.spotify.com/album/71AN4Bro8X57lLN90tfelX) | 4:06 | 2022-07-13 |  |
 | [The Regress](https://open.spotify.com/track/0MA6RvZ7cIJLVkREkEJmvX) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Lena Scissorhands](https://open.spotify.com/artist/5FEXEjkn7RZM0XycCEkSvP) | [The Regress](https://open.spotify.com/album/5Yxr8ohf1xJPXlIAwbkODu) | 4:52 | 2021-12-17 |  |

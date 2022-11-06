@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-561 songs - 22 hr 4 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+563 songs - 22 hr 9 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,8 @@
 | [Rain On Me](https://open.spotify.com/track/0XjBGhw51yUMQMZ8ftgJdr) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Rain On Me](https://open.spotify.com/album/1XC002Q49QhVnYvKhWeAY4) | 2:27 | 2022-04-15 | 2022-07-08 |
 | [rain on us](https://open.spotify.com/track/479kmYiQl2QL7SVeRAS3TO) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [rain on us](https://open.spotify.com/album/3quSGC6EbfpwVqZiXaR0kQ) | 2:27 | 2022-05-13 |  |
 | [Rainbow Dragon Waterfall](https://open.spotify.com/track/2VEaXzY3365EVAOB3ktamQ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Rainbow Dragon Waterfall](https://open.spotify.com/album/3mSSqe5wkfk6n18x9RWDBn) | 2:24 | 2022-04-15 |  |
-| [Rainy Nights](https://open.spotify.com/track/4mnhygv21Qe8j5JKSiomYa) | [Kwaii Fong](https://open.spotify.com/artist/2XiGTV6HOhZc4D5ymPxWP4), [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH) | [Rainy Nights](https://open.spotify.com/album/5bB4JZSe15XaR8XkbKSipH) | 2:13 | 2022-10-14 |  |
+| [Rainy Nights](https://open.spotify.com/track/4mnhygv21Qe8j5JKSiomYa) | [Kwaii Fong](https://open.spotify.com/artist/2XiGTV6HOhZc4D5ymPxWP4), [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH) | [Rainy Nights](https://open.spotify.com/album/5bB4JZSe15XaR8XkbKSipH) | 2:13 | 2022-10-14 | 2022-11-06 |
+| [Rainy Nights](https://open.spotify.com/track/6msJ3cZLOJRjU3z8vKY2h3) | [Kwaii Fong](https://open.spotify.com/artist/2XiGTV6HOhZc4D5ymPxWP4), [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH) | [Rainy Nights](https://open.spotify.com/album/6YOHAD5mpoIWyIBu1UMxHR) | 2:13 | 2022-10-28 |  |
 | [Raw Takes](https://open.spotify.com/track/04DVUpEzu58MzRgtDwkMbj) | [Nova Calma](https://open.spotify.com/artist/732aFMojr4rC3Q2DAstddk) | [Raw Takes](https://open.spotify.com/album/6BE59ToxBekXRmNmIFj35W) | 2:01 | 2022-04-15 |  |
 | [Really Get Going](https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi) | [Steefann](https://open.spotify.com/artist/6bQY0OdvrUz4BUlajKcLfF) | [Really Get Going](https://open.spotify.com/album/4MACdcvjpSigHwHLxWDhyx) | 2:35 | 2022-04-15 |  |
 | [Redefine](https://open.spotify.com/track/3myirb6fcmRT8eeSZV1poe) | [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Redefine](https://open.spotify.com/album/3I2ZTGS4Pqk6xPvN3MrN6Y) | 2:24 | 2022-04-15 |  |
@@ -514,7 +515,8 @@
 | [Trading Bikes](https://open.spotify.com/track/58eukN93h5b7rBlbcR6owz) | [Ewert](https://open.spotify.com/artist/1ZUxK62OchtduzQOHN86Di) | [Trading Bikes](https://open.spotify.com/album/1ElL26L8Fo4svRK6FrBrEh) | 2:57 | 2022-04-15 | 2022-04-22 |
 | [Train Ride](https://open.spotify.com/track/4mHEsCjfyA1vKlIIgsMDrU) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 2:31 | 2022-04-15 | 2022-07-29 |
 | [Troddin](https://open.spotify.com/track/3Oa0UO0zfKhdxNcHmLrHkO) | [LoFinga](https://open.spotify.com/artist/2KZlWqMCvoXIGnLKjfS3jz), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Troddin](https://open.spotify.com/album/5qoDrb9kFVsXYJNoWwi4Se) | 2:30 | 2022-05-13 |  |
-| [Tropical Getaway](https://open.spotify.com/track/2P2viSJbMTHTapFmk7sAfb) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Tropical Getaway](https://open.spotify.com/album/7mTl9iwpIv9dov6F9YU440) | 2:36 | 2022-10-14 |  |
+| [Tropical Getaway](https://open.spotify.com/track/2P2viSJbMTHTapFmk7sAfb) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Tropical Getaway](https://open.spotify.com/album/7mTl9iwpIv9dov6F9YU440) | 2:36 | 2022-10-14 | 2022-11-06 |
+| [Tropical Getaway](https://open.spotify.com/track/3ZLsiAI1wMmG5FEtJ8yjwl) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Tropical Getaway](https://open.spotify.com/album/0s9K9GMT5Sk6tdKUTYoDCS) | 2:36 | 2022-10-28 |  |
 | [Try Again](https://open.spotify.com/track/7wrXYrhwg4MfjowXE87GsW) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Sixth Degree](https://open.spotify.com/album/7lD5tqgt3RULe8A2YCSR1h) | 2:42 | 2022-04-15 | 2022-05-20 |
 | [tubulars](https://open.spotify.com/track/2FDXqN9DvsbafzQjp0e32T) | [rob aspen](https://open.spotify.com/artist/51acBWR9xEgFguEAEj3jqV) | [tubulars](https://open.spotify.com/album/43cQfbyKgAQ6wNLs45gPcr) | 1:50 | 2022-04-15 | 2022-05-27 |
 | [Turntable Tale](https://open.spotify.com/track/01L7KnIlkQVwAVpxbh3TKr) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Turntable Tale](https://open.spotify.com/album/4XacEvaFzX4GdDkUV6x1E9) | 2:59 | 2022-04-15 | 2022-09-09 |

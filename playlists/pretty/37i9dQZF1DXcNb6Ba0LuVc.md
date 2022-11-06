@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,486 likes - 203 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,828 likes - 203 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,7 +185,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 175 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 |
 | 176 | [keyless](https://open.spotify.com/track/4b7vbNg9x0cgHjquvvhhZC) | [artoban](https://open.spotify.com/artist/3sQE7gxylG2AydTX4UutZT) | [dry&high](https://open.spotify.com/album/1mVUu7fnWB58ld4PTUd8dQ) | 1:41 |
 | 177 | [meeting the dawn](https://open.spotify.com/track/0bnRhmmGCWZAqwGHvjL5TA) | [RenBoz](https://open.spotify.com/artist/4EtruNo3qv5ML5tiXQopqT) | [Meeting the Dawn](https://open.spotify.com/album/6mc6HieAYfKA1ybnAnqGog) | 1:44 |
-| 178 | [A New Life](https://open.spotify.com/track/6rZuVZc47SHsS6uIbTtgN8) | [Taloha Beats](https://open.spotify.com/artist/18QVRutrl0pcjLKv6yYleC) | [A New Life](https://open.spotify.com/album/0XTVIiOyi1QvuCjfZasJec) | 2:54 |
+| 178 | [A New Life](https://open.spotify.com/track/11MUQKaRB8LwM5kB5SPGjT) | [Taloha Beats](https://open.spotify.com/artist/18QVRutrl0pcjLKv6yYleC) | [A New Life](https://open.spotify.com/album/7K7sAzmHrPeHNdeklNTCA2) | 2:54 |
 | 179 | [Faith Basket](https://open.spotify.com/track/7bjJRSF3xts6D99aJ5DN1X) | [Jack Dean](https://open.spotify.com/artist/0bCEZwHpCgEfOd5M2ye5mw) | [Faith Basket](https://open.spotify.com/album/2kSlxWw2YAZqwp69iSHy9s) | 1:15 |
 | 180 | [Lush Lush Lake](https://open.spotify.com/track/0Dl6gERwFQMIEl2br6Dmcn) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Lush Lush Lake](https://open.spotify.com/album/6UZspmwJnmXPbVg4ilUvtB) | 2:27 |
 | 181 | [The Love Pool](https://open.spotify.com/track/0S4I0Y3T6DiQFbF7Mh9TZl) | [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl), [Rigid Moods](https://open.spotify.com/artist/1RQFHOfP3K3mIBNr6xjgy7) | [The Love Pool](https://open.spotify.com/album/4Y8QUPvEtBLx6nJ2R0aU7z) | 3:12 |
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 202 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 |
 | 203 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 |
 
-Snapshot ID: `MTY2Njk1ODYyMiwwMDAwMDAwMDg1ODBkZjg4YWFkNmMwODI5ZDdmYmMyYzEzZjhiNDA5`
+Snapshot ID: `MTY2Njk1ODYyMiwwMDAwMDAwMGE1YjRiY2FmYzE2OTc3MzIzOWRhZDlmYzllMDhkNDE4`

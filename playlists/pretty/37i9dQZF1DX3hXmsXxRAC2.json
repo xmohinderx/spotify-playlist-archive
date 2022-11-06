@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 305917,
+  "num_followers": 305957,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMGY3Y2M5ZTY3ZjYzZDg1MDY0MjMzOTI5MGI0MTE0MjRm",
+  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDEyYjAzZTBhYmM3ZjMxMGFmZmE3ODlkNjM5NDRjMmE3",
   "tracks": [
     {
       "added_at": "2021-12-29 23:38:25",
@@ -291,6 +291,26 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "Los D\u00fao 2",
+        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 139906,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "Amor Eterno",
         "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
       },
@@ -343,26 +363,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Los D\u00fao 2",
-        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 139906,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "La Voz de un \u00c1ngel",
         "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
@@ -395,6 +395,26 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "Los D\u00fao (Deluxe)",
+        "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 374106,
+      "name": "Ya No Vivo Por Vivir",
+      "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob"
       },
@@ -411,22 +431,6 @@
       "duration_ms": 294760,
       "name": "Siempre en Mi Mente",
       "url": "https://open.spotify.com/track/15MLfT6zSKytzwO7X6saIE"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Ya No Insistas Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 204056,
-      "name": "Ya No Insistas Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -451,22 +455,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Los D\u00fao (Deluxe)",
-        "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
+        "name": "Ya No Insistas Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 374106,
-      "name": "Ya No Vivo Por Vivir",
-      "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
+      "duration_ms": 204056,
+      "name": "Ya No Insistas Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -503,6 +503,22 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 284665,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "Las Rancheras De Juan Gabriel",
         "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 239733,
       "name": "Ma\u00f1ana, Ma\u00f1ana - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 284665,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -583,22 +583,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 273453,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 246520,
       "name": "Yo S\u00e9 Que Est\u00e1 En Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0NaXrQAuxiWXpKDOPb40WM"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 273453,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -719,18 +719,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/5wgoakbtZTAfjJrDebDUvS"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 205346,
-      "name": "La Muerte del Palomo",
-      "url": "https://open.spotify.com/track/2DS9ddKznwPNgG5Dt4w2ph"
+      "duration_ms": 333115,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4DKrfqRJPORFWSPOzV7peB"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -751,18 +751,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/5wgoakbtZTAfjJrDebDUvS"
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 333115,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/4DKrfqRJPORFWSPOzV7peB"
+      "duration_ms": 205346,
+      "name": "La Muerte del Palomo",
+      "url": "https://open.spotify.com/track/2DS9ddKznwPNgG5Dt4w2ph"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "La Vargas Ritual Chavela",
-        "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 188567,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Juan Gabriel y Lo Mas Romantico De",
         "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Las Caras Lindas",
-        "url": "https://open.spotify.com/album/5nvczVKzNf2cqvpL2BNNfr"
+        "name": "La Vargas Ritual Chavela",
+        "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
       },
       "artists": [
         {
-          "name": "Flor de Toloache",
-          "url": "https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         }
       ],
-      "duration_ms": 299035,
-      "name": "Juan Ga: Se Me Olvid\u00f3 Otra Vez / Costumbres / Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/0M2uDMzj1fL1qhPposUjYF"
+      "duration_ms": 188567,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL"
+        "name": "Las Caras Lindas",
+        "url": "https://open.spotify.com/album/5nvczVKzNf2cqvpL2BNNfr"
       },
       "artists": [
         {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+          "name": "Flor de Toloache",
+          "url": "https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD"
         }
       ],
-      "duration_ms": 188480,
-      "name": "Fue Un Placer Conocerte",
-      "url": "https://open.spotify.com/track/3EcuE8L4CBYZUlDgb9GZXU"
+      "duration_ms": 299035,
+      "name": "Juan Ga: Se Me Olvid\u00f3 Otra Vez / Costumbres / Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/0M2uDMzj1fL1qhPposUjYF"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1235,6 +1219,22 @@
       "duration_ms": 154706,
       "name": "No Se Ha Dado Cuenta",
       "url": "https://open.spotify.com/track/2eMkbfrDfi9cQB7TTZvlsI"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 188480,
+      "name": "Fue Un Placer Conocerte",
+      "url": "https://open.spotify.com/track/3EcuE8L4CBYZUlDgb9GZXU"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Amor Eterno al Divo / Tributo de Rock",
-        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "Siempre en Mi Mente",
-      "url": "https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Juan Gabriel y Lo Mas Romantico De",
         "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 150100,
       "name": "Si Quieres Verme Llorar",
       "url": "https://open.spotify.com/track/54fKo3mRZqO1nriQ8j3sqr"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 244626,
+      "name": "Siempre en Mi Mente",
+      "url": "https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Querida",
-        "url": "https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7"
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
       },
       "artists": [
         {
-          "name": "Donata Antoni",
-          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 193670,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
+      "duration_ms": 328018,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
+        "name": "Querida",
+        "url": "https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Donata Antoni",
+          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
         }
       ],
-      "duration_ms": 328018,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
+      "duration_ms": 193670,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
     },
     {
       "added_at": "2021-12-29 23:38:25",

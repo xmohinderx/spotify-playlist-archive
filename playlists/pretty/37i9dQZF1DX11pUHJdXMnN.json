@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 52376,
+  "num_followers": 52407,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDY5Yjg2MTVlMmY5MTNjMThjYmFhMTE1YTA5MzAwZjVj",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDAxMTJiM2M2MDIwMTI3ZDVmYTgwMWE4MzFmNWIxNjk0",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -67,6 +67,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Lille Vals",
+        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
+      },
+      "artists": [
+        {
+          "name": "Storken",
+          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
+        }
+      ],
+      "duration_ms": 235176,
+      "name": "Lille Vals",
+      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Groove Society",
         "url": "https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 183372,
       "name": "Groove Society",
       "url": "https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Lille Vals",
-        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
-      },
-      "artists": [
-        {
-          "name": "Storken",
-          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
-        }
-      ],
-      "duration_ms": 235176,
-      "name": "Lille Vals",
-      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Queen of Hearts",
-        "url": "https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque"
-      },
-      "artists": [
-        {
-          "name": "Monki",
-          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Queen of Hearts",
-      "url": "https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Ardore (feat. Tobias Bernstrup)",
         "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Queen of Hearts",
+        "url": "https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque"
+      },
+      "artists": [
+        {
+          "name": "Monki",
+          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Queen of Hearts",
+      "url": "https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Know You",
         "url": "https://open.spotify.com/album/6skZFW6NdHUwCgWhgRJUCm"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Hymnotic",
-        "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
-      },
-      "artists": [
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 262677,
-      "name": "Hymnotic",
-      "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Net Loss",
         "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 376271,
       "name": "Listen to the Band - Club Mix",
       "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Hymnotic",
+        "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
+      },
+      "artists": [
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 262677,
+      "name": "Hymnotic",
+      "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Forgive Me",
-        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
-      },
-      "artists": [
-        {
-          "name": "Scuba",
-          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
-        }
-      ],
-      "duration_ms": 339391,
-      "name": "Forgive Me",
-      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Solar Nights - The Remixes",
         "url": "https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 227019,
       "name": "Faccia a faccia - Italoconnection Remix Radio",
       "url": "https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
+      },
+      "artists": [
+        {
+          "name": "Scuba",
+          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+        }
+      ],
+      "duration_ms": 339391,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
     },
     {
       "added_at": "2021-08-27 15:45:01",

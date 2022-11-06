@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,054 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,071 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,18 +88,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 78 | [I Wish](https://open.spotify.com/track/1mG53WSquMx8mz2s6eytXb) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [I Wish](https://open.spotify.com/album/5bD9iZ8X5SoXJDZfVy3gXn) | 3:27 |
 | 79 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 |
 | 80 | [I Didn't Love You](https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [12/12 \(Acoustic\)](https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT) | 2:59 |
-| 81 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
-| 82 | [Faithfully \- Acoustic](https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Faithfully \(Acoustic\)](https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh) | 4:37 |
+| 81 | [Faithfully \- Acoustic](https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Faithfully \(Acoustic\)](https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh) | 4:37 |
+| 82 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
 | 83 | [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 |
 | 84 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 |
 | 85 | [I Should Probably Go To Bed \- Acoustic](https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed \(Acoustic\)](https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc) | 2:57 |
 | 86 | [What A Song Can Do \- Stripped Down](https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Stripped Down\)](https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd) | 3:57 |
-| 87 | [I Wanna Remember \(feat\. Carrie Underwood\) \- Acoustic](https://open.spotify.com/track/34eeqKzBs5jWOPRoLaagrz) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I Wanna Remember \(feat\. Carrie Underwood\) \[Acoustic\]](https://open.spotify.com/album/11r0mt27sHJJi8RVhH4Urn) | 3:26 |
-| 88 | [Turning Stones](https://open.spotify.com/track/7zjWrzJRAkH9u4a8mwF1iH) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [Turning Stones](https://open.spotify.com/album/2fKyVtIYCmqUOyNJHIBjVE) | 2:26 |
+| 87 | [Turning Stones](https://open.spotify.com/track/7zjWrzJRAkH9u4a8mwF1iH) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [Turning Stones](https://open.spotify.com/album/2fKyVtIYCmqUOyNJHIBjVE) | 2:26 |
+| 88 | [I Wanna Remember \(feat\. Carrie Underwood\) \- Acoustic](https://open.spotify.com/track/34eeqKzBs5jWOPRoLaagrz) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I Wanna Remember \(feat\. Carrie Underwood\) \[Acoustic\]](https://open.spotify.com/album/11r0mt27sHJJi8RVhH4Urn) | 3:26 |
 | 89 | [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 |
-| 90 | [Sunrise Tells The Story \- Acoustic](https://open.spotify.com/track/4IXILY7BOCehZjc5axsn1C) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story \(Acoustic\)](https://open.spotify.com/album/5jrgfI0K2Z8jllFP84V40z) | 3:25 |
+| 90 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 |
 | 91 | [What If I Never Get Over You \- Piano Version](https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What If I Never Get Over You \(Piano Version\)](https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib) | 3:24 |
-| 92 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 |
+| 92 | [Sunrise Tells The Story \- Acoustic](https://open.spotify.com/track/4IXILY7BOCehZjc5axsn1C) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story \(Acoustic\)](https://open.spotify.com/album/5jrgfI0K2Z8jllFP84V40z) | 3:25 |
 | 93 | [First Goodbye](https://open.spotify.com/track/61x7KwsjSYc5dXFhJ23sS6) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [First Goodbye](https://open.spotify.com/album/1TGvUDIdFBHxTIuVwO4s4p) | 3:52 |
 | 94 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 |
 | 95 | [Wildfire \- Acoustic](https://open.spotify.com/track/3NxGlVBbrjPw3jRdhLdsZI) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire \(Acoustic\)](https://open.spotify.com/album/46tIToUxEQ6TN29LG7KPDW) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 |
 | 100 | [Thought This Through](https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Thought This Through](https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC) | 2:52 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDNmM2FjOGRmZGMxNDRmZTk2NjZmNThhYzdiMzZjNWRm`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGYyZTQ3YjJkMjAwYzAwM2U3N2MzOTBkMmQwYTc5ZWJm`

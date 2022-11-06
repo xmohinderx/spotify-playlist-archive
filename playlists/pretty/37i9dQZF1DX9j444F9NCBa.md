@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,688 likes - 179 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,020 likes - 179 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 20 | [When You Believe](https://open.spotify.com/track/2EfjVCYTSVGWtBFh75r99F) | [Stephen Thorpe](https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD) | [When You Believe](https://open.spotify.com/album/0CIUvoJOwQMIjVTAXDGKLI) | 4:03 |
 | 21 | [Children](https://open.spotify.com/track/1HK3acWRuxitbvqiHuzDeB) | [Caio Ghisi](https://open.spotify.com/artist/2nPDE1Hn3O6VYxJAjHLcsp) | [Children](https://open.spotify.com/album/14SHD5kzW5k7DHfHYmbN24) | 3:06 |
 | 22 | [Without you](https://open.spotify.com/track/1Pplkqiz45fRq73OxgrHQL) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Without you](https://open.spotify.com/album/1zyivnqvuiBNnVS8YoAmtK) | 3:11 |
-| 23 | [I Can't Make You Love Me](https://open.spotify.com/track/1n4ExWaFfgudUSyGVlH5nE) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [I Can't Make You Love Me](https://open.spotify.com/album/4uWU5s11VFZySwedeqOFuD) | 2:37 |
+| 23 | [I Can't Make You Love Me](https://open.spotify.com/track/1n4ExWaFfgudUSyGVlH5nE) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [I Can't Make You Love Me](https://open.spotify.com/album/4uWU5s11VFZySwedeqOFuD) | 2:36 |
 | 24 | [Don't Kill My Vibe](https://open.spotify.com/track/6vB8QDhABiypQcVNpEOuQV) | [Franz Schröder](https://open.spotify.com/artist/5eK0TWmJd1D9tqBEVUe7xf) | [Don't Kill My Vibe](https://open.spotify.com/album/1Rv2l98pHdPeY1P2a76264) | 3:07 |
 | 25 | [Cold Heart](https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Cold Heart](https://open.spotify.com/album/2MiytJKrSJKjN8pdleNbyS) | 3:02 |
 | 26 | [Sacrifice](https://open.spotify.com/track/44633u1bq8n7f4q3yU1hSX) | [Maximizer SE](https://open.spotify.com/artist/7KytdkKiffW17VMUFo7Kys) | [Sacrifice](https://open.spotify.com/album/50VFoLMFlnDjLrvuMmJSAJ) | 3:56 |

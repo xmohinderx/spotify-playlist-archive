@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Mase
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,883 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,079 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 42 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
 | 43 | [Liquid Swords](https://open.spotify.com/track/4dmh3OPtAhbEybhGoOG9TE) | [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO) | [Liquid Swords](https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P) | 4:30 |
 | 44 | [Renee](https://open.spotify.com/track/71mNLAZsr1frFhpCa3JI8G) | [Lost Boyz](https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5) | [Legal Drug Money](https://open.spotify.com/album/6DciMZgZkLpqsjJUd5XgpF) | 4:53 |
-| 45 | [Dipset Anthem](https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:09 |
-| 46 | [What Up Gangsta](https://open.spotify.com/track/1CYyIsAaTrnmJ8MO2rec5f) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 2:59 |
+| 45 | [What Up Gangsta](https://open.spotify.com/track/1CYyIsAaTrnmJ8MO2rec5f) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 2:59 |
+| 46 | [Dipset Anthem](https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:09 |
 | 47 | [Temperature's Rising \(feat\. Crystal Johnson\)](https://open.spotify.com/track/0Y1wsOHYGbNNNGeYjQJ8BL) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Crystal Johnson](https://open.spotify.com/artist/1MlPgLXb3K58qQLfg88lUZ) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:00 |
 | 48 | [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 3:57 |
 | 49 | [MC's Act Like They Don't Know](https://open.spotify.com/track/0snDRsjNRMJhm7SVja8l6J) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [KRS\-One](https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x) | 4:55 |
 | 50 | [Next Level \- Nyte Time Mix](https://open.spotify.com/track/2mehHNForRahnPueLQAgfv) | [Showbiz & A.G.](https://open.spotify.com/artist/1U0EFT6jsUpEXAaWesmxAz) | [Goodfellas](https://open.spotify.com/album/1DKIWe0KC9j4psJ7pi7CDu) | 4:09 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGZkZDUyOGVhNzg3ZjJkOWRmMTMxYTJhNTc0ZGQxODY5`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGUwMmNkODgyMzZjMzc5ZGYwMDM0Nzc0NTVjZDhlOTA1`

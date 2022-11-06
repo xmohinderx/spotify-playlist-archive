@@ -291,6 +291,24 @@
     {
       "album": {
         "name": "Salvatore",
+        "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Auto tedesca",
+      "url": "https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK"
+    },
+    {
+      "album": {
+        "name": "Salvatore",
         "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
       },
       "artists": [
@@ -719,7 +737,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 115200,
       "name": "Deep End Freestyle",
       "url": "https://open.spotify.com/track/4zTPYAf5scZdp0LnwPPeWK"

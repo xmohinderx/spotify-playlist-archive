@@ -4,7 +4,7 @@
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-124 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/2QwlzrEjUwHNpvdCZVIDMX)
+125 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/2QwlzrEjUwHNpvdCZVIDMX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 | 2022-03-04 |  |
 | [Vibra](https://open.spotify.com/track/4v5V92B2AHjaoJ2DnY6M8j) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Vibra](https://open.spotify.com/album/6x0BGz3cZQ68FMbMtHScOJ) | 3:18 | 2022-03-04 |  |
 | [Vivan los Humanos](https://open.spotify.com/track/3RpwYqWAH2Za8mWowJmyyi) | [La Rumorosa](https://open.spotify.com/artist/3IEgTdEwMmfG1JxfAr7tGK), [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Vivan los Humanos](https://open.spotify.com/album/1LS1ghliTvyePiYAASwxII) | 3:21 | 2022-03-04 |  |
-| [Voy al Mar](https://open.spotify.com/track/2WhxGPakyxJMmcn4gRsF42) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Voy al Mar](https://open.spotify.com/album/6iHwza5JGSuSMRaDvQh5Uw) | 4:18 | 2022-03-04 |  |
+| [Voy al Mar](https://open.spotify.com/track/2WhxGPakyxJMmcn4gRsF42) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Voy al Mar](https://open.spotify.com/album/6iHwza5JGSuSMRaDvQh5Uw) | 4:18 | 2022-03-04 | 2022-11-06 |
+| [Voy al Mar](https://open.spotify.com/track/4iyo325AOznajzj3tDQMLK) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Voy al Mar](https://open.spotify.com/album/1swHkrkE64ymuBJ4A7mai5) | 4:18 | 2022-03-04 |  |
 | [Voy al Mar](https://open.spotify.com/track/7hbTfsMaPKPZp3uzmDusRG) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Voy al Mar](https://open.spotify.com/album/6JL75TkpdsrLrEeAyiBfrN) | 4:18 | 2022-03-04 | 2022-07-29 |
 | [Vuelvo A Comenzar](https://open.spotify.com/track/5wUj9rEsOX8cqpkhBJCSCD) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Cybertropic Chilango Power](https://open.spotify.com/album/5oZPMmTNAyvo2H0Yfav5en) | 4:37 | 2022-03-04 |  |
 | [Zapata Se Queda](https://open.spotify.com/track/3JzRq89QAf4aLxpJWoDr8q) | [La Colmena](https://open.spotify.com/artist/16sUEYkZHZMNFXt7hUhh0x) | [Zapata Se Queda](https://open.spotify.com/album/4qH7TQH3z003P4yjM9P79I) | 4:09 | 2022-03-04 |  |

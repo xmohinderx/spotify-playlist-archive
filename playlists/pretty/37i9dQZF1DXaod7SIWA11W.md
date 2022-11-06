@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,959 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,056 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 41 | [Easy!](https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Easy!](https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU) | 2:45 |
 | 42 | [Wrong About You \(Live\)](https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Wrong About You \(Live\)](https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT) | 6:33 |
 | 43 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 |
-| 44 | [I's On Him](https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan) | [Jay Violet](https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [I's On Him](https://open.spotify.com/album/1331lQw385FSkpj02K7pOF) | 3:01 |
-| 45 | [Build My Life](https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [The Encounter](https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS) | 6:37 |
+| 44 | [Build My Life](https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [The Encounter](https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS) | 6:37 |
+| 45 | [I's On Him](https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan) | [Jay Violet](https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [I's On Him](https://open.spotify.com/album/1331lQw385FSkpj02K7pOF) | 3:01 |
 | 46 | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM) | 4:11 |
 | 47 | [New Me](https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [New Me](https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj) | 2:46 |
 | 48 | [Start Over](https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p) | [Matthews Ntlele](https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX) | [Start Over](https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr) | 3:22 |
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 51 | [Not Forgotten](https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo) | [Be Amplified](https://open.spotify.com/artist/0M9z0hJwlhOvDLlMy4jE7W), [Anaysha Figueroa\-Cooper](https://open.spotify.com/artist/2ZM5AiydGQHpCdkkwS9dOB) | [Not Forgotten](https://open.spotify.com/album/0NQK05D18EsBmnCsPo4ynv) | 4:44 |
 | 52 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 |
 | 53 | [The Divide](https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [The Divide](https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx) | 3:13 |
-| 54 | [Elevate](https://open.spotify.com/track/7j2k5JHS33pKmDMIGEmfuU) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Elevate](https://open.spotify.com/album/5n3FPfLJXtdDTYplGuj7JO) | 2:40 |
-| 55 | [Look At You](https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Look At You](https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17) | 6:24 |
-| 56 | [Prosper \(Remix\)](https://open.spotify.com/track/2Y4cXBo6kSAG30RdrhoBxe) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [Shopé](https://open.spotify.com/artist/539ZsoCQY3Y24f38ZuIBgp) | [Prosper \(Remix\)](https://open.spotify.com/album/03mIIdpF3q6VF1f23dGwzF) | 3:10 |
-| 57 | [Nobody](https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN) | [Robyn McGhee](https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8) | [Nobody](https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0) | 4:28 |
+| 54 | [Look At You](https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Look At You](https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17) | 6:24 |
+| 55 | [Elevate](https://open.spotify.com/track/7j2k5JHS33pKmDMIGEmfuU) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Elevate](https://open.spotify.com/album/5n3FPfLJXtdDTYplGuj7JO) | 2:40 |
+| 56 | [Nobody](https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN) | [Robyn McGhee](https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8) | [Nobody](https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0) | 4:28 |
+| 57 | [Prosper \(Remix\)](https://open.spotify.com/track/2Y4cXBo6kSAG30RdrhoBxe) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [Shopé](https://open.spotify.com/artist/539ZsoCQY3Y24f38ZuIBgp) | [Prosper \(Remix\)](https://open.spotify.com/album/03mIIdpF3q6VF1f23dGwzF) | 3:10 |
 | 58 | [Take Me to the Fire](https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Take Me to the Fire](https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2) | 3:02 |
 | 59 | [Some Mud Mud](https://open.spotify.com/track/5ee2r5Iy9PkyIkfsomb97Y) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [theBeatbreaker](https://open.spotify.com/artist/6QJCYAKI6fPSDmXHeliNNu) | [Some Mud Mud](https://open.spotify.com/album/4VPgVqmIQaKSnyWhGkVviF) | 3:22 |
 | 60 | [Our Psalm 23](https://open.spotify.com/track/0BJsVtSnHdhzKIWDwJ0cub) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Sharon Irving](https://open.spotify.com/artist/2pvdIgrTL1DsTSg1ipptEt) | [Praise and Protest](https://open.spotify.com/album/5wU3uNmNLd7crGbr8yM175) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [Bounty](https://open.spotify.com/track/69pC0FHQlUTuYSxAkKxvGb) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Bounty](https://open.spotify.com/album/5d5dXAc2WAwAzLEWEYrJ7h) | 3:30 |
 | 80 | [We Can All Be Free](https://open.spotify.com/track/3z5BLeXOBSomYHCK0RXA7P) | [Gabriel Day](https://open.spotify.com/artist/03QHwCv3kjVYnwkoizE86a) | [Stripped](https://open.spotify.com/album/7MnaZrnMBKSP2VJdPAV0ed) | 3:51 |
 
-Snapshot ID: `MTY2NDU3Mzk3NiwwMDAwMDAwMDRhZmYyOThiOTdhNTNmMzkzNjY2ODE4YmRiNzIzYWJk`
+Snapshot ID: `MTY2NDU3Mzk3NiwwMDAwMDAwMGE3MDkxYjQyMWM3NzYwNjE4OGM5ZGMwOWY4MGI3YWU5`

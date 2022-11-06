@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,331 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,369 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 20 | [Rapture](https://open.spotify.com/track/0CNxWAkG4ysu9Z3eCfknWK) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [Rapture](https://open.spotify.com/album/7Lot6c8rqaZdDeeAIL6KM5) | 2:46 |
 | 21 | [Wake Up With You](https://open.spotify.com/track/543VnS905CHArJ2oFm17p5) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Magnificence](https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N) | [Wake Up With You](https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E) | 3:03 |
 | 22 | [Sweet Munchies](https://open.spotify.com/track/6sxPpL5WehUjoxQ0o5hf6w) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Sweet Munchies](https://open.spotify.com/album/0e3nx8tl0cwLOzEJ6zQ72h) | 2:09 |
-| 23 | [Las Chicas](https://open.spotify.com/track/7pgPk50uMallAw6rGYlqgp) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Las Chicas](https://open.spotify.com/album/6H7aIWUr3asorKwbRpih3m) | 2:03 |
-| 24 | [Creep](https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz) | 2:41 |
+| 23 | [Creep](https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz) | 2:41 |
+| 24 | [Las Chicas](https://open.spotify.com/track/7pgPk50uMallAw6rGYlqgp) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Las Chicas](https://open.spotify.com/album/6H7aIWUr3asorKwbRpih3m) | 2:03 |
 | 25 | [Dance and Chant](https://open.spotify.com/track/26LrcfQvosoKyUiLV0057Q) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Dance and Chant](https://open.spotify.com/album/6zdC2SBKX4WLLSztigHAJ0) | 3:09 |
 | 26 | [La Música](https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [La Música](https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc) | 3:30 |
 | 27 | [Dawn](https://open.spotify.com/track/4hpDoKsVsjCTC5pbTgyUyG) | [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Dawn](https://open.spotify.com/album/6al3sqwfmUAOSSucHsyy1U) | 3:32 |
-| 28 | [Let You Down](https://open.spotify.com/track/1niAie0JRjlHg1id7hFCfS) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [Let You Down](https://open.spotify.com/album/0SIxLZVzSBT22y2s8Iw4X6) | 3:25 |
-| 29 | [Turn On the Bass](https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Turn On the Bass](https://open.spotify.com/album/4VAt1w3oStAsuT1Gh3g84o) | 3:40 |
-| 30 | [One A Day](https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [One A Day](https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx) | 3:12 |
-| 31 | [Pump up the Volume](https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Juarez](https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN) | [Pump up the Volume](https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8) | 3:28 |
+| 28 | [Turn On the Bass](https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Turn On the Bass](https://open.spotify.com/album/4VAt1w3oStAsuT1Gh3g84o) | 3:40 |
+| 29 | [One A Day](https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [One A Day](https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx) | 3:12 |
+| 30 | [Pump up the Volume](https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Juarez](https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN) | [Pump up the Volume](https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8) | 3:28 |
+| 31 | [Let You Down](https://open.spotify.com/track/1niAie0JRjlHg1id7hFCfS) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [Let You Down](https://open.spotify.com/album/0SIxLZVzSBT22y2s8Iw4X6) | 3:25 |
 | 32 | [Silencio](https://open.spotify.com/track/33UmrviWxUiiXGUotGuKi9) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n), [Tony Dark Eyes](https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP) | [Unite](https://open.spotify.com/album/0V1uXFisZk2rhJrkNPZVAD) | 3:40 |
 | 33 | [Day N' Night](https://open.spotify.com/track/1UI2XoFQxOm7ufFoXQhkhb) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Day N' Night](https://open.spotify.com/album/2Cb1nGPZtIKEoNUjDhiZw0) | 2:41 |
 | 34 | [Somebody Like You](https://open.spotify.com/track/5AObadnwUbTjOtpJf6X10i) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Somebody Like You](https://open.spotify.com/album/30yJH2QfFDdEyEpGoHxujc) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 49 | [Change](https://open.spotify.com/track/7uHh8SlhRmPwxmm2jwu4Ph) | [Lemarroy](https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Change](https://open.spotify.com/album/4qEQg7gOeQlsp61IjSTQ69) | 2:56 |
 | 50 | [Vampiro \(Pyura Remix\)](https://open.spotify.com/track/4XGyifnRty1FI3qQe8bhet) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Vampiro \(Pyura Remix\)](https://open.spotify.com/album/2IcmfBYtzX45pZmlo8yV0q) | 3:40 |
 
-Snapshot ID: `MTYxOTIxOTY3MywwMDAwMDAwMDdkNDZhYmQzM2RiYjY2NTA5YjMzMmM5NTZmYjAwM2Y3`
+Snapshot ID: `MTYxOTIxOTY3MywwMDAwMDAwMDE0NjBmMzMyMTA3YjAwZjU1Y2M2NjZmNWEwMzBhNzdl`

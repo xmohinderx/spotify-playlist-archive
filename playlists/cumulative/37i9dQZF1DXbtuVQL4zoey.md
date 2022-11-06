@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-403 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+404 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [bad habit](https://open.spotify.com/track/5TZjQUcJwhqlDfQ4BApbYy) | [cingie](https://open.spotify.com/artist/3LRWwnmhuhlhZilHht5dYw) | [bad habit](https://open.spotify.com/album/5Y67fTLxbnk8hgscy8nEB9) | 2:02 | 2022-05-20 |  |
 | [Baller](https://open.spotify.com/track/1fhjWT1MnTzmVvVpOzkSJQ) | [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj) | [Baller](https://open.spotify.com/album/40buThWjpoGKJ4s6vzqn7M) | 2:07 | 2022-09-02 |  |
 | [Ballroom Samba](https://open.spotify.com/track/3OzKdBTO77CznB7mmxWheV) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Ballroom Samba](https://open.spotify.com/album/41M22LDCY7NgRbfLmySeLr) | 2:27 | 2022-09-23 |  |
-| [Bar in Barça](https://open.spotify.com/track/0hLF3hANNCEmiOrD2hPFaN) | [HBeat](https://open.spotify.com/artist/689VJXhPdLWIUG0QxOBH90), [Diago Skybeats](https://open.spotify.com/artist/64pYS920bJPWycbRAIdUDu) | [Bar in Barça](https://open.spotify.com/album/3VBskUJWLu5TYEqMI5hDhi) | 2:18 | 2022-07-22 |  |
+| [Bar in Barça](https://open.spotify.com/track/0hLF3hANNCEmiOrD2hPFaN) | [HBeat](https://open.spotify.com/artist/689VJXhPdLWIUG0QxOBH90), [Diago Skybeats](https://open.spotify.com/artist/64pYS920bJPWycbRAIdUDu) | [Bar in Barça](https://open.spotify.com/album/3VBskUJWLu5TYEqMI5hDhi) | 2:18 | 2022-07-22 | 2022-11-06 |
+| [Bar in Barça](https://open.spotify.com/track/1DpyOwJrijeqzrtXMX2txF) | [HBeat](https://open.spotify.com/artist/689VJXhPdLWIUG0QxOBH90), [Diago Skybeats](https://open.spotify.com/artist/64pYS920bJPWycbRAIdUDu) | [Bar in Barça](https://open.spotify.com/album/002ZiVwLuoxz3T4x7hwHAZ) | 2:18 | 2022-10-28 |  |
 | [Barbizon](https://open.spotify.com/track/4O4Ti02mZ5mAb9nZhWup8B) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Barbizon](https://open.spotify.com/album/1ASrsg7s6KOE7l2KQFuhcD) | 2:45 | 2022-06-24 | 2022-10-14 |
 | [beach break](https://open.spotify.com/track/6o47WpgYCPCk4bY6XaK2Vj) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF) | [beach break](https://open.spotify.com/album/0U48WayykaFKIHHS3EadnA) | 2:08 | 2022-07-15 |  |
 | [Beach Party](https://open.spotify.com/track/2w1n84MTAF3FJx5KEsPjAH) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII) | [Beach Party](https://open.spotify.com/album/24gf2fnyKA9GEzTv4875W7) | 1:43 | 2022-05-20 | 2022-08-19 |

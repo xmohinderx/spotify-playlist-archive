@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: SKALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,486 likes - 78 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,706 likes - 78 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beide alleine \- Radio Edit](https://open.spotify.com/track/4rW2mF4NZX5BrhMQP62kun) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Beide alleine](https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte) | 3:16 |
 | 2 | [Your Eyes](https://open.spotify.com/track/1CAaDJOqduOgx6CwazkMBH) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Your Eyes](https://open.spotify.com/album/1CuL8wEn70rVlgsRz6AuQC) | 3:52 |
-| 3 | [Monolith](https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Monolith](https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD) | 6:33 |
+| 3 | [Monolith](https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Monolith](https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD) | 6:31 |
 | 4 | [Simulacrum](https://open.spotify.com/track/2TcoUEsQN4EIMUAHghPfxe) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Simulacrum](https://open.spotify.com/album/08NA6Z43B2Mte6Zu6rxOlt) | 6:06 |
 | 5 | [Escape](https://open.spotify.com/track/6WQcjT6uoPf1zUQRYNo3fZ) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Escape](https://open.spotify.com/album/3K0oeE9JISZIsZRclm2RCy) | 7:17 |
 | 6 | [Luzifer \- feat\. Ufo361](https://open.spotify.com/track/5UnIFgOpnUaKsukuB66GXg) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [RK5](https://open.spotify.com/album/4wxcLVfRrCebsZaBdBctne) | 5:29 |
 | 7 | [Reflections](https://open.spotify.com/track/5oo1HNNzaCiEn8IF57Ysbe) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv), [Nina Nst](https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q) | [Reflections](https://open.spotify.com/album/4vHMhqhM0wqzaxNACySpec) | 4:58 |
 | 8 | [Rapture](https://open.spotify.com/track/5k5dE3ib5d0txYuKaKTPst) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Rapture](https://open.spotify.com/album/4k8rnZ5cxMushmU90hWgnX) | 6:42 |
-| 9 | [Go Back](https://open.spotify.com/track/66Ofs7OCzCTBVyq6J0oef0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Sant Jordi 02](https://open.spotify.com/album/0ZvrMbXUFxckG4gp1NEkMh) | 5:40 |
+| 9 | [GO BACK](https://open.spotify.com/track/66Ofs7OCzCTBVyq6J0oef0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Sant Jordi 02](https://open.spotify.com/album/0ZvrMbXUFxckG4gp1NEkMh) | 5:40 |
 | 10 | [Stellar Interpretation Of A Heartbreaking Sci\-Fi Theme](https://open.spotify.com/track/0wTVDW5nJ2LZfqVp1fFd0Y) | [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX), [Ninsa](https://open.spotify.com/artist/1hyVEtn2U4zlDtjZkTGyq8) | [Stellar Interpretation Of A Heartbreaking Sci\-Fi Theme](https://open.spotify.com/album/6Tb5RJoeTt7h4wLNocSXs5) | 7:15 |
 | 11 | [Inochi](https://open.spotify.com/track/40qMnVCrSqMSuFWooAzqB3) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Inochi](https://open.spotify.com/album/1pE7OXufKgypbJL2C81nvp) | 5:54 |
 | 12 | [Techno Cat](https://open.spotify.com/track/21amtP6z3VyP6alx74ise0) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Techno Cat](https://open.spotify.com/album/086ZUe2w4gXGwk0U4X0en6) | 4:24 |

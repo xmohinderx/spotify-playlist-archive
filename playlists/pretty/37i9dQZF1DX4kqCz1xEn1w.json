@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 65655,
+  "num_followers": 65713,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTMxNSwwMDAwMDAwMDEyNDhkZjZjMmE3NTk4YzM2NDU5MzljZDY1N2Y3NWMy",
+  "snapshot_id": "MTY1MDE3NTMxNSwwMDAwMDAwMGEzMDhhOWVjNDI5YjZmYmMwNGJhZDY5YjdmZTZmYjkz",
   "tracks": [
     {
       "added_at": "2022-04-17 06:01:52",
@@ -47,18 +47,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "The Ultimate Playlist",
-        "url": "https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2"
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 293398,
-      "name": "Good Good Father",
-      "url": "https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB"
+      "duration_ms": 398333,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -75,22 +75,6 @@
       "duration_ms": 247294,
       "name": "Always",
       "url": "https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 398333,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -171,6 +155,26 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Worthy Of Your Name (Live)",
+        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 298520,
+      "name": "Glorious Day - Live",
+      "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "Behold (The King Is Calling) [Live]",
         "url": "https://open.spotify.com/album/6z8l97hpcXTNVvFp1rpjQP"
       },
@@ -199,6 +203,26 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Death Was Arrested (feat. Seth Condrey)",
+        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Death Was Arrested (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "See A Victory",
         "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
       },
@@ -211,6 +235,22 @@
       "duration_ms": 363230,
       "name": "See A Victory",
       "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "The Ultimate Playlist",
+        "url": "https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 293398,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -231,42 +271,6 @@
       "duration_ms": 411000,
       "name": "So Will I (100 Billion X)",
       "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 305426,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Worthy Of Your Name (Live)",
-        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "Glorious Day - Live",
-      "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -335,26 +339,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Death Was Arrested (feat. Seth Condrey)",
-        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Death Was Arrested (feat. Seth Condrey)",
-      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
       },
@@ -391,6 +375,26 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "All The Earth (Live)",
+        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 486944,
+      "name": "Peace Be Still - Live",
+      "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "At Easter",
         "url": "https://open.spotify.com/album/6XzwtfJOB0jf9FQDUw4cnN"
       },
@@ -423,28 +427,24 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "All The Earth (Live)",
-        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 486944,
-      "name": "Peace Be Still - Live",
-      "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
     },
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "And If Our God Is For Us...",
-        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 285160,
-      "name": "Our God",
-      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
+      "duration_ms": 305426,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "Battle Belongs",
         "url": "https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0"
       },
@@ -555,22 +539,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 498426,
-      "name": "Break Every Chain - Live",
-      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "No Other Name (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
@@ -583,6 +551,22 @@
       "duration_ms": 401760,
       "name": "This I Believe (The Creed) - Live",
       "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 498426,
+      "name": "Break Every Chain - Live",
+      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -623,6 +607,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "Better Word - Single Version",
+      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "Here (Live)",
         "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
       },
@@ -643,8 +643,8 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Love Ran Red",
-        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+        "name": "And If Our God Is For Us...",
+        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 250626,
-      "name": "At The Cross (Love Ran Red)",
-      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
+      "duration_ms": 285160,
+      "name": "Our God",
+      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "Better Word - Single Version",
-      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "Majestic (Live)",
         "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 315253,
       "name": "Set A Fire - Live",
       "url": "https://open.spotify.com/track/0WFaQNCdmyONO7GIWL8mDZ"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "Love Ran Red",
+        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "At The Cross (Love Ran Red)",
+      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Our God Will See Us Through (Live)",
+        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        }
+      ],
+      "duration_ms": 253652,
+      "name": "This Is My Song - Live",
+      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "Passion Collection",
         "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 239628,
       "name": "One Thing Remains - Radio Version",
       "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Our God Will See Us Through (Live)",
-        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        }
-      ],
-      "duration_ms": 253652,
-      "name": "This Is My Song - Live",
-      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Peace Be Still",
-        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
-      },
-      "artists": [
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "Promise Keeper",
-      "url": "https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "To The One (Live)",
         "url": "https://open.spotify.com/album/2VzCv3uGlbmxPj3WYvXYHX"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 448808,
       "name": "To The One - Live",
       "url": "https://open.spotify.com/track/2IyccYJpcoIkl0Bps1JdFS"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "Peace Be Still",
+        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 300733,
+      "name": "Promise Keeper",
+      "url": "https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Behold Him",
-        "url": "https://open.spotify.com/album/1lKIY0hKw9fU7EWfnGDOZy"
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu"
       },
       "artists": [
         {
-          "name": "Paul Baloche",
-          "url": "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
         }
       ],
-      "duration_ms": 281413,
-      "name": "Behold Him",
-      "url": "https://open.spotify.com/track/7E4dSIsKxMAGT6BuVlbFlw"
+      "duration_ms": 273439,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1483,18 +1479,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu"
+        "name": "Behold Him",
+        "url": "https://open.spotify.com/album/1lKIY0hKw9fU7EWfnGDOZy"
       },
       "artists": [
         {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+          "name": "Paul Baloche",
+          "url": "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 273439,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p"
+      "duration_ms": 281413,
+      "name": "Behold Him",
+      "url": "https://open.spotify.com/track/7E4dSIsKxMAGT6BuVlbFlw"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Love Came Down - Live Acoustic Worship In The Studio",
-        "url": "https://open.spotify.com/album/7vG2Shcrvtlud8HsEopI3h"
-      },
-      "artists": [
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 333626,
-      "name": "Love Came Down (If My Heart Is Overwhelmed) - Live",
-      "url": "https://open.spotify.com/track/27Ao1nh2vh3y82VZ7Yd67R"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "The Darker The Night / The Brighter The Morning",
         "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 254840,
       "name": "The Cross Has The Final Word",
       "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "Love Came Down - Live Acoustic Worship In The Studio",
+        "url": "https://open.spotify.com/album/7vG2Shcrvtlud8HsEopI3h"
+      },
+      "artists": [
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "duration_ms": 333626,
+      "name": "Love Came Down (If My Heart Is Overwhelmed) - Live",
+      "url": "https://open.spotify.com/track/27Ao1nh2vh3y82VZ7Yd67R"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Love Letters From An Empty Tomb",
-        "url": "https://open.spotify.com/album/1N8BcblNLY3GiYcmj0gQRw"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 284234,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/141EdaMGKO3MQDianGTnss"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "Upon Him",
         "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 241901,
       "name": "Upon Him",
       "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "Love Letters From An Empty Tomb",
+        "url": "https://open.spotify.com/album/1N8BcblNLY3GiYcmj0gQRw"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 284234,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/141EdaMGKO3MQDianGTnss"
     },
     {
       "added_at": "2022-04-17 06:01:52",

@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 59968,
+  "num_followers": 59986,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMGYyM2I4NTRhMjFhZDdhOWI0MWZhYzFhNTE1ZjRiMWY1",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDRiMjZiZTdhNjI2YTM2YWU2OTRmMDMzZmNlN2FkNWI2",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -79,22 +79,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 125093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -631,26 +631,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Chico Buarque",
-        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
       },
       "artists": [
         {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        },
-        {
-          "name": "MPB4",
-          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
-        },
-        {
-          "name": "Quarteto Em Cy",
-          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
         }
       ],
-      "duration_ms": 235546,
-      "name": "Apesar De Voc\u00ea",
-      "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
+      "duration_ms": 214026,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -687,18 +679,26 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Odessey and Oracle",
-        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
+        "name": "Chico Buarque",
+        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
       "artists": [
         {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        },
+        {
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+        },
+        {
+          "name": "Quarteto Em Cy",
+          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
         }
       ],
-      "duration_ms": 214026,
-      "name": "Time of the Season - Mono Version",
-      "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
+      "duration_ms": 235546,
+      "name": "Apesar De Voc\u00ea",
+      "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/74o1pFywinH2eEPxbbaLqc"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Luiz Gonzaga Canta Seus Sucessos Com Z\u00e9 Dantas",
-        "url": "https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw"
-      },
-      "artists": [
-        {
-          "name": "Luiz Gonzaga",
-          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
-        }
-      ],
-      "duration_ms": 171040,
-      "name": "O Xote das Meninas",
-      "url": "https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5"
-    },
-    {
       "added_at": "2022-06-07 14:45:28",
       "album": {
         "name": "Nossa Hist\u00f3ria (Ao Vivo)",
@@ -1359,6 +1343,22 @@
       "duration_ms": 199754,
       "name": "N\u00e3o D\u00e1 Pra N\u00e3o Pensar - Ao Vivo",
       "url": "https://open.spotify.com/track/1bWJPIOQXBcIl5GKuElFap"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Luiz Gonzaga Canta Seus Sucessos Com Z\u00e9 Dantas",
+        "url": "https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw"
+      },
+      "artists": [
+        {
+          "name": "Luiz Gonzaga",
+          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
+        }
+      ],
+      "duration_ms": 171040,
+      "name": "O Xote das Meninas",
+      "url": "https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5"
     },
     {
       "added_at": "2021-08-18 22:14:03",

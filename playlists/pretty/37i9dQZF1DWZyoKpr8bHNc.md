@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Classici Ya Habibi! This is why Tata always says, "fish ba'ed ayam zamaan."
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,172 likes - 50 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,275 likes - 50 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 19 | [Al Bostah](https://open.spotify.com/track/46R7cZ3s7Mhj85PgFW19j0) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairuz \- Modern Favorites](https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO) | 8:57 |
 | 20 | [لكتب ع وراق الشجر](https://open.spotify.com/track/2mpt58YGh6hdfCTCA1uHAw) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [أغانى فيلم حكايه العمر كله زمان ياحب](https://open.spotify.com/album/79Y0LRI9Ym75MOMiYy27Gk) | 7:37 |
 | 21 | [Yana Yana](https://open.spotify.com/track/5hUQKHs3lnt0dU5UO5ozZV) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 5:05 |
-| 22 | [Ya Habebty Ya Masr](https://open.spotify.com/track/66Ol2298fi5ca4KWcCVsOD) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Sahra Maa Shadya](https://open.spotify.com/album/1CeCerIXXHVOkRFIKGOynN) | 5:45 |
+| 22 | [Ya habibi taala \(Mon amour, viens vite\)](https://open.spotify.com/track/0tOQdr6q6NZFHrywSQSVJP) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Le cœur a ses raisons \(The Voices of Maghreb 1935\-1944\)](https://open.spotify.com/album/3M7Ns6HMsPgSh71r9S6NJj) | 5:33 |
 | 23 | [Khosara](https://open.spotify.com/track/2sM3SQwxMsIkAtftW7Fl4w) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Abd El Halim Hafez](https://open.spotify.com/album/2wTqfVOxxvqZmLeIgT9cbh) | 7:00 |
-| 24 | [Ya habibi taala \(Mon amour, viens vite\)](https://open.spotify.com/track/0tOQdr6q6NZFHrywSQSVJP) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Le cœur a ses raisons \(The Voices of Maghreb 1935\-1944\)](https://open.spotify.com/album/3M7Ns6HMsPgSh71r9S6NJj) | 5:33 |
+| 24 | [Ya Habebty Ya Masr](https://open.spotify.com/track/66Ol2298fi5ca4KWcCVsOD) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Sahra Maa Shadya](https://open.spotify.com/album/1CeCerIXXHVOkRFIKGOynN) | 5:45 |
 | 25 | [My Mother](https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Promises of the Storm](https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk) | 9:17 |
 | 26 | [Fakarouny](https://open.spotify.com/track/4ejiWxKQCKiv184LTpA6ym) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 3](https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy) | 59:37 |
 | 27 | [Fouq annakhl](https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Rawae'a Sabah Fakhri](https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg) | 6:14 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 32 | [La Mosh Ana Ely Abky](https://open.spotify.com/track/0uJDPlP8M8GX3rtkN42zmw) | [Mohammed Abdel Wahab](https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG) | [Agmal Oghneyat Mohamed Abd El Wahab](https://open.spotify.com/album/35GA4JraTNn23ovQjTWgcP) | 9:40 |
 | 33 | [يا حبايبى يا غايبين](https://open.spotify.com/track/1P1PnCp10v113ANU6WUfHa) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [أغانى فيلم نغم فى حياتى](https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9) | 8:25 |
 | 34 | [Nwina Al Jazi Nwina](https://open.spotify.com/track/5mpZxwwqAxzuE5Br0Tzznv) | [Rabih El Khawli](https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV) | [Nwina Al Jaze](https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO) | 5:08 |
-| 35 | [Bahlam Bek](https://open.spotify.com/track/4aiGuFZXJUKJZYvc19g7M7) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Abd El Halim Hafez](https://open.spotify.com/album/2wTqfVOxxvqZmLeIgT9cbh) | 9:01 |
+| 35 | [علي رمش عيونها](https://open.spotify.com/track/1oEVDEISjcVi6vfgoxRDKQ) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [احلي ما غني وديع الصافي](https://open.spotify.com/album/4VGKoa5R2usWUVP3H1OPkv) | 5:44 |
 | 36 | [Baeed Annak](https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Best Of Umm Kulthum 1](https://open.spotify.com/album/5Y0Gq6g4awj8woRvOiJZ3I) | 38:22 |
-| 37 | [علي رمش عيونها](https://open.spotify.com/track/1oEVDEISjcVi6vfgoxRDKQ) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [احلي ما غني وديع الصافي](https://open.spotify.com/album/4VGKoa5R2usWUVP3H1OPkv) | 5:44 |
+| 37 | [Bahlam Bek](https://open.spotify.com/track/4aiGuFZXJUKJZYvc19g7M7) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Abd El Halim Hafez](https://open.spotify.com/album/2wTqfVOxxvqZmLeIgT9cbh) | 9:01 |
 | 38 | [Ounadikom](https://open.spotify.com/track/5SkF2r40ozsKsA4Ahf0bJc) | [Ahmad Kaabour](https://open.spotify.com/artist/297v5fJss3Pj6tJafnw8yi) | [Ounadikom](https://open.spotify.com/album/7J30KDq7DX8jra38lPKNur) | 4:58 |
 | 39 | [Esaal Alaya](https://open.spotify.com/track/3w6LdvrXM4a8C4cJrBa6M9) | [Layla Mourad](https://open.spotify.com/artist/4XmfbuyoQBGIMMbDXdFZJZ) | [Laila Mourad](https://open.spotify.com/album/4kFNwqFKfPw3FGqBNcpbfc) | 6:23 |
 | 40 | [Ya Sarek Makatibi](https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN) | [Pascale Sakr](https://open.spotify.com/artist/3C0eerDETbEk4rjuAjss0B) | [Pascale Sakr Sings Elias Rahbani](https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab) | 6:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 49 | [Rah Holmak Ya Teir](https://open.spotify.com/track/3GMKUo0YBF4rFWrMaQ7rHd) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Wadi El Safi, Vol\. 9](https://open.spotify.com/album/7MdroN5DBbFexfyS1EiJbL) | 6:29 |
 | 50 | [El Atlal](https://open.spotify.com/track/7rZPVMXSYn63KC2Fco2vr6) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Best Of Umm Kulthum 1](https://open.spotify.com/album/5Y0Gq6g4awj8woRvOiJZ3I) | 39:54 |
 
-Snapshot ID: `MTYwMjYxMDcyOCwwMDAwMDAwMDE3ZmY3OGQ5MzZlMjBjZThmNzI4Njk1MGJlOTdlNWE2`
+Snapshot ID: `MTYwMjYxMDcyOCwwMDAwMDAwMGE3MmQ2OWNmZDhmNzUxNDMxMmI1MDU2NjliZWRjNjEx`

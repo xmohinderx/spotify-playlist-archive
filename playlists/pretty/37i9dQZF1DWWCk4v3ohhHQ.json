@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 131227,
+  "num_followers": 131383,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjIwMywwMDAwMDAwMDFkOTkwYTg1Y2UzYzQwNzJjZTViYzFhYzc3ZThmOTVh",
+  "snapshot_id": "MTY1MzQyMjIwMywwMDAwMDAwMDBhOTAzOWU4NjdhOTVkMDA2OTk3YTI4MzU5MDEwMmZh",
   "tracks": [
     {
       "added_at": "2021-12-02 09:05:08",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Summer Of Love",
-      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "Baptized (Deluxe Version)",
         "url": "https://open.spotify.com/album/6UTadUeCxnizkSKAS1VHs4"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 232133,
       "name": "Battleships",
       "url": "https://open.spotify.com/track/0YpzP03QziAgqcZSCtjbl2"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
     },
     {
       "added_at": "2021-12-02 09:05:08",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "Fallen Empires",
-        "url": "https://open.spotify.com/album/56D3j08rASJg9ZGAyoq2ZZ"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Called Out In The Dark",
-      "url": "https://open.spotify.com/track/4BBt0kc625eUAdG2XpWPHm"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 240600,
       "name": "Love Is Bigger Than Anything In Its Way",
       "url": "https://open.spotify.com/track/7EAthm9rv2LKuLifv3K6nt"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "Fallen Empires",
+        "url": "https://open.spotify.com/album/56D3j08rASJg9ZGAyoq2ZZ"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Called Out In The Dark",
+      "url": "https://open.spotify.com/track/4BBt0kc625eUAdG2XpWPHm"
     },
     {
       "added_at": "2021-12-02 09:05:08",

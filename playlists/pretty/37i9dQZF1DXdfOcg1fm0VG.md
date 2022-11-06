@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,024 likes - 106 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,277 likes - 106 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Halo](https://open.spotify.com/track/4xbrgqQF8bzy22K8JhtFM9) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo: Combat Evolved \(Original Soundtrack\)](https://open.spotify.com/album/78tWR5P0I53edR7PeXpDfF) | 4:22 |
 | 2 | [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:35 |
 | 3 | [The Last of Us](https://open.spotify.com/track/285ieonEuLkll3zknYK2TY) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 3:03 |
-| 4 | [God of War: Ragnarök \(feat\. Eivør\)](https://open.spotify.com/track/1K6kU7xS4BbYabECcpTA5O) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War: Ragnarök / Svartalfheim](https://open.spotify.com/album/0QqigrkIqIlzIz2Vk6mnhQ) | 4:34 |
+| 4 | [God of War Ragnarök \(feat\. Eivør\)](https://open.spotify.com/track/1K6kU7xS4BbYabECcpTA5O) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök / Svartalfheim](https://open.spotify.com/album/0QqigrkIqIlzIz2Vk6mnhQ) | 4:34 |
 | 5 | [Dragonborn](https://open.spotify.com/track/2gaZJDgE71VL9PzzUUlpMg) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 3:55 |
 | 6 | [Elden Ring](https://open.spotify.com/track/2iiJOgkKOCyb7ZPeqUNpud) | [Tsukasa Saitoh](https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 1:38 |
 | 7 | [Ezio's Family](https://open.spotify.com/track/05UMQXFCsa9oPnLgfJHVyF) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) | 3:57 |

@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 396813,
+  "num_followers": 396979,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDg2MTFiMDljODFjNzA1NjhlMTJhMDNmMjBkNmFlYzdk",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDFhMjQ0NjRlMTdkZWExZjNhYjM4YWVmNDBiOWQxMmVi",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -647,6 +647,26 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/0NJRlSmi5q6ekPkm77OCgj"
+      },
+      "artists": [
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        },
+        {
+          "name": "Emerson Leif",
+          "url": "https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0"
+        }
+      ],
+      "duration_ms": 251279,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/6PmsHVre2N9yOjDge00r9c"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Pizza Guy / Show Me",
         "url": "https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 197894,
       "name": "Luv Is Not Enough",
       "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Hesitate",
-        "url": "https://open.spotify.com/album/0NJRlSmi5q6ekPkm77OCgj"
-      },
-      "artists": [
-        {
-          "name": "Golden Vessel",
-          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
-        },
-        {
-          "name": "Emerson Leif",
-          "url": "https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0"
-        }
-      ],
-      "duration_ms": 251279,
-      "name": "Hesitate",
-      "url": "https://open.spotify.com/track/6PmsHVre2N9yOjDge00r9c"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -881,20 +881,20 @@
       "url": "https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
+      "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
         }
       ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
+      "duration_ms": 212346,
+      "name": "Up To Something",
+      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -921,20 +921,20 @@
       "url": "https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
+      "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Must Be Nice",
-        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
       },
       "artists": [
         {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         }
       ],
-      "duration_ms": 212346,
-      "name": "Up To Something",
-      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/2g8y0qpGaM3HTWWJZiInKA"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Oh Uncertainty! A Universe Despairs",
-        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "Best for You",
-      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
-    },
-    {
       "added_at": "2020-12-22 20:57:01",
       "album": {
         "name": "What Falling in Love Is For",
@@ -1083,6 +1067,22 @@
       "duration_ms": 174791,
       "name": "What Falling in Love Is For",
       "url": "https://open.spotify.com/track/7mLzduqXIyJ8bXxjE6fJUf"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Oh Uncertainty! A Universe Despairs",
+        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "Best for You",
+      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1289,36 +1289,24 @@
       "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
+      "added_at": "2021-08-30 22:51:44",
       "album": {
-        "name": "I Can Change",
-        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
+        "name": "Circmvnt",
+        "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
       },
       "artists": [
         {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 331525,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/7crhe15k1Qn72AWzAHMVOt"
-      },
-      "artists": [
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
         {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+          "name": "HXNS",
+          "url": "https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0"
         }
       ],
-      "duration_ms": 216032,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2EEZdCeGp095urJDE3wEpS"
+      "duration_ms": 153076,
+      "name": "1080p",
+      "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
     },
     {
       "added_at": "2021-03-08 18:24:23",
@@ -1335,6 +1323,22 @@
       "duration_ms": 166909,
       "name": "Blue Ceiling",
       "url": "https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "I Can Change",
+        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 331525,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1357,24 +1361,20 @@
       "url": "https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW"
     },
     {
-      "added_at": "2021-08-30 22:51:44",
+      "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Circmvnt",
-        "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7crhe15k1Qn72AWzAHMVOt"
       },
       "artists": [
         {
-          "name": "Elujay",
-          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
-        },
-        {
-          "name": "HXNS",
-          "url": "https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
         }
       ],
-      "duration_ms": 153076,
-      "name": "1080p",
-      "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
+      "duration_ms": 216032,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2EEZdCeGp095urJDE3wEpS"
     },
     {
       "added_at": "2020-12-22 17:15:29",

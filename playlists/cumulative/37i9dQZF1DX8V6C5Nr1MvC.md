@@ -4,7 +4,7 @@
 
 > Unwind and drink up these awesome Rock slow songs
 
-117 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/497y8NFRf0FN68176BW58p)
+118 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/497y8NFRf0FN68176BW58p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Running To Stand Still](https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:17 | 2020-09-15 |  |
 | [Say Hello 2 Heaven](https://open.spotify.com/track/4L2S9GbwEgwfSbHjTCvNQX) | [Temple Of The Dog](https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd) | [Temple Of The Dog](https://open.spotify.com/album/63HdXCn0Xz1pRZc2GzMw7k) | 6:24 | 2020-09-15 |  |
 | [Seasons](https://open.spotify.com/track/1xRUR651GIJoKbu0dqm0uW) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Chris Cornell \(Deluxe Edition\)](https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe) | 5:45 | 2020-09-15 |  |
-| [Shame Shame](https://open.spotify.com/track/0wGv595Z2XDF9ZFbrbQqqH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Shame Shame](https://open.spotify.com/album/4bMgI05AysPH4EdwWaWORy) | 4:17 | 2020-11-13 |  |
+| [Shame Shame](https://open.spotify.com/track/21Qmkbvp6GvZdO0IMQtae5) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:17 | 2022-05-24 |  |
+| [Shame Shame](https://open.spotify.com/track/0wGv595Z2XDF9ZFbrbQqqH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Shame Shame](https://open.spotify.com/album/4bMgI05AysPH4EdwWaWORy) | 4:17 | 2020-11-13 | 2022-11-06 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2020-09-15 |  |
 | [Sorry](https://open.spotify.com/track/6rAXHPd18PZ6W8m9EectzH) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 | 2022-05-24 |  |
 | [Sorry](https://open.spotify.com/track/11lKpjKmpkrwy2Qbw3FBRW) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine](https://open.spotify.com/album/55hoOb6LdOdWvSTuA56oJO) | 3:34 | 2020-09-15 | 2022-07-29 |

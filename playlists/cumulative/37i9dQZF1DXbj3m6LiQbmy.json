@@ -1538,6 +1538,28 @@
     },
     {
       "album": {
+        "name": "W",
+        "url": "https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "EMMANUELLE",
+          "url": "https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493760,
+      "name": "Flores No Mar - Album Edit",
+      "url": "https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy"
+    },
+    {
+      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/34R04tqrMt0LOU7uwRYqQS"
       },
@@ -2881,7 +2903,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 363986,
       "name": "Painted Eyes - Original Mix",
       "url": "https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw"

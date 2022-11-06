@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-282 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/54I04EmnPnUUEk8lPEzRH1)
+283 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/54I04EmnPnUUEk8lPEzRH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Life Goes On](https://open.spotify.com/track/6XrWIKoIwqomse4ZmBnjQd) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [Life Goes On](https://open.spotify.com/album/4R9XQ0jz7PgVJ82UtIZFaM) | 3:30 | 2022-06-24 | 2022-07-22 |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2022-04-05 | 2022-07-29 |
 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 | 2022-07-29 |  |
+| [Like the Movies](https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:42 | 2022-09-29 |  |
 | [Like the Movies](https://open.spotify.com/track/4crdHmkZQmNd2hucSIk7dA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:42 | 2022-07-29 | 2022-10-13 |
 | [Lonely Nights](https://open.spotify.com/track/3r2gkWP543cstcUihobGBn) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Side A](https://open.spotify.com/album/0G3BWFNa1mpmu0PmYwljm8) | 3:20 | 2022-06-24 | 2022-07-11 |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2022-06-24 |  |
@@ -176,7 +177,7 @@
 | [Motion Sickness](https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 3:49 | 2022-04-05 | 2022-07-29 |
 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 | 2022-07-29 |  |
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2022-07-29 |  |
-| [Mykonos](https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:35 | 2022-09-29 |  |
+| [Mykonos](https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:35 | 2022-09-29 | 2022-11-06 |
 | [Never Give Up On Your Love](https://open.spotify.com/track/53FKnaxZGy2MTZGCdhragN) | [Louis TM](https://open.spotify.com/artist/1Xk8BmjYwcGOGiYuQFzpOn) | [Never Give Up On Your Love](https://open.spotify.com/album/4tuNBs7f06qpkOvcksUi9D) | 3:17 | 2022-04-05 | 2022-07-18 |
 | [Nicotine](https://open.spotify.com/track/2f50Hox3osvMd0n6zdyb1b) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Nicotine](https://open.spotify.com/album/2Cn4CuYLHuVIMzTZUmfvgf) | 3:41 | 2022-04-05 | 2022-06-25 |
 | [No More Regrets](https://open.spotify.com/track/0H5ymF4M4epwaUkcXxy9uV) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Just Kids \(Mixtape\)](https://open.spotify.com/album/3gMFPlMlKEBGLxWdbjQy4A) | 3:00 | 2022-04-05 | 2022-07-01 |

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3971029,
+  "num_followers": 3971440,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY3OTA5MCwwMDAwMDAwMGI5N2U4MzI0OWMzODQ2MzJlODViOGRhZGRiZDdjYjc1",
+  "snapshot_id": "MTY2MzY3OTA5MCwwMDAwMDAwMDRmZGU0ZWVlNDM1MTYxM2E4Yzk1MzZmZTYwYWNiZGM0",
   "tracks": [
     {
       "added_at": "2022-09-06 16:36:27",
@@ -119,22 +119,6 @@
     {
       "added_at": "2022-09-06 16:36:27",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
-    },
-    {
-      "added_at": "2022-09-06 16:36:27",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 193826,
       "name": "Todo Cambi\u00f3",
       "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
+    },
+    {
+      "added_at": "2022-09-06 16:36:27",
+      "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2022-09-06 16:36:27",
@@ -475,18 +475,18 @@
     {
       "added_at": "2022-09-06 16:36:27",
       "album": {
-        "name": "Voy",
-        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
+        "name": "Mi Vida Sin Tu Amor",
+        "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
       },
       "artists": [
         {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 233493,
-      "name": "Te amo",
-      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
+      "duration_ms": 272200,
+      "name": "Por Amarte As\u00ed",
+      "url": "https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa"
     },
     {
       "added_at": "2022-09-06 16:36:27",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-09-06 16:36:27",
       "album": {
-        "name": "Mi Vida Sin Tu Amor",
-        "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
+        "name": "Voy",
+        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
         }
       ],
-      "duration_ms": 272200,
-      "name": "Por Amarte As\u00ed",
-      "url": "https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa"
+      "duration_ms": 233493,
+      "name": "Te amo",
+      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
     },
     {
       "added_at": "2022-09-06 16:36:27",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-09-06 16:36:27",
       "album": {
-        "name": "Hasta Ahora",
-        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Te Vi Venir",
-      "url": "https://open.spotify.com/track/45xU99QgWETDFGhgivpYce"
-    },
-    {
-      "added_at": "2022-09-06 16:36:27",
-      "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 300600,
       "name": "Hey - Spanish",
       "url": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
+    },
+    {
+      "added_at": "2022-09-06 16:36:27",
+      "album": {
+        "name": "Hasta Ahora",
+        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Te Vi Venir",
+      "url": "https://open.spotify.com/track/45xU99QgWETDFGhgivpYce"
     },
     {
       "added_at": "2022-09-06 16:36:27",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-09-06 16:36:27",
       "album": {
+        "name": "Agust\u00edn",
+        "url": "https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/0UDnTve3eqcCqBDLbHhX1k"
+    },
+    {
+      "added_at": "2022-09-06 16:36:27",
+      "album": {
         "name": "Una Estrella En El Cielo",
         "url": "https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY"
       },
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2022-09-06 16:36:27",
       "album": {
-        "name": "Agust\u00edn",
-        "url": "https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/0UDnTve3eqcCqBDLbHhX1k"
-    },
-    {
-      "added_at": "2022-09-06 16:36:27",
-      "album": {
         "name": "Nido de \u00e1guilas",
         "url": "https://open.spotify.com/album/32WuCQwrBEno4ofZMvr0tC"
       },
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-09-06 16:36:27",
       "album": {
-        "name": "Extra\u00f1os",
-        "url": "https://open.spotify.com/album/3VgQqkogbq1J5tNxz0Cbbj"
-      },
-      "artists": [
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
-        }
-      ],
-      "duration_ms": 225428,
-      "name": "As\u00ed Te Ped\u00ed",
-      "url": "https://open.spotify.com/track/79Le7RyHdaPC1eEZBpFm4x"
-    },
-    {
-      "added_at": "2022-09-06 16:36:27",
-      "album": {
         "name": "Camino a Encontrarte (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/25WLz1zNyzbXZnAMFZXpKW"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 181280,
       "name": "Antes Que al M\u00edo",
       "url": "https://open.spotify.com/track/69VfaraLe5onolFj90bgyj"
+    },
+    {
+      "added_at": "2022-09-06 16:36:27",
+      "album": {
+        "name": "Extra\u00f1os",
+        "url": "https://open.spotify.com/album/3VgQqkogbq1J5tNxz0Cbbj"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 225428,
+      "name": "As\u00ed Te Ped\u00ed",
+      "url": "https://open.spotify.com/track/79Le7RyHdaPC1eEZBpFm4x"
     },
     {
       "added_at": "2022-09-06 16:36:27",

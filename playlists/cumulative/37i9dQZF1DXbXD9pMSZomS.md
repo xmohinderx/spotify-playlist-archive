@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-176 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
+177 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Alfa \- Original Mix](https://open.spotify.com/track/1UabDxiLk78adOCYuQzhpu) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa EP](https://open.spotify.com/album/6nHbGBXnZxCP0PAq2Wt4rd) | 4:45 | 2021-12-17 |  |
 | [All That Remains](https://open.spotify.com/track/6SWbKY7mrtDJnMq3yriudU) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [LTDUBS001](https://open.spotify.com/album/0NqWkCFbmkcU4ZePJogaHO) | 8:56 | 2021-12-17 | 2022-07-27 |
 | [Aloha](https://open.spotify.com/track/7ErdU4gaT6KTzQDZaH67we) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [Aloha](https://open.spotify.com/album/6mTQvHG9JABhUFBZPEesTd) | 5:45 | 2022-03-25 | 2022-04-21 |
-| [Alone Girl](https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Alone Girl](https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8) | 3:08 | 2022-08-12 |  |
+| [Alone Girl](https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Alone Girl](https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8) | 3:08 | 2022-08-12 | 2022-11-06 |
 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 | 2021-12-17 | 2022-07-26 |
 | [An Other One For Me](https://open.spotify.com/track/4LWiFuehm2uY3GK8q8sduT) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Be Mine LP](https://open.spotify.com/album/4iJzbjMFVcfN3mgcdB1jWQ) | 7:08 | 2022-01-07 | 2022-07-29 |
 | [And That's the Story of Their Love](https://open.spotify.com/track/60Yu5b3337hvIZEt0vqtTW) | [Prequel](https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys) | [And That's the Story of Their Love](https://open.spotify.com/album/2c3S9YJYTgNOZE47WOE66H) | 9:06 | 2021-12-17 | 2022-07-25 |
@@ -119,6 +119,7 @@
 | [No Place](https://open.spotify.com/track/5M1AHTCbv994PaCdqtsnHw) | [Sumluv](https://open.spotify.com/artist/4CDA4KlCgj3KRnis6eX0Dq) | [Balance](https://open.spotify.com/album/5iaCxLWuC5xVuDPXHDzxi1) | 5:00 | 2021-12-17 | 2022-07-29 |
 | [Nogueira](https://open.spotify.com/track/2RJItWtvRHnixZvNEeX4yb) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Nogueira](https://open.spotify.com/album/0gNPNf2lNBAy9Q5b1ket5I) | 4:42 | 2022-03-25 | 2022-07-29 |
 | [Nunca Mais](https://open.spotify.com/track/7aB7N3XsgHhkAb9sULXsdn) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Nunca Mais](https://open.spotify.com/album/7D3xxINz3rlq2of2T5AVb0) | 4:08 | 2022-10-14 |  |
+| [Obscure](https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY) | [LYANE](https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK) | [Obscure](https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F) | 2:33 | 2022-10-21 |  |
 | [Obscure](https://open.spotify.com/track/7Ln2bQ2njWjOOj5LAzL4bq) | [LYANE](https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK) | [Obscure](https://open.spotify.com/album/75Fb0oLWo0qGh7RQZYNbzv) | 2:33 | 2022-03-25 | 2022-04-21 |
 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 | 2022-01-07 |  |
 | [Ode to Ipse](https://open.spotify.com/track/5gcjlg6RtrnSz5mtk3kvi0) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [Ode to Ipse](https://open.spotify.com/album/5Ki88XhcuWUk8WlXmaKrwS) | 5:38 | 2021-12-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,257 likes - 70 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,273 likes - 70 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 56 | [Feelings](https://open.spotify.com/track/45NI7zJYwbY7iEvkgRl1y6) | [N&W](https://open.spotify.com/artist/5TFFHlKvP8IUtum3TB4ZmR) | [Feelings](https://open.spotify.com/album/3yCPWKHja3fYgXAV2MNYfB) | 4:35 |
 | 57 | [Lush Life](https://open.spotify.com/track/4XkuBnhvrRLJg3TvHay3W8) | [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5), [Fantastic Twins](https://open.spotify.com/artist/6da8OOYjq640zH3b4e4wci) | [Lush Life](https://open.spotify.com/album/7wAG08EkVojJORs48iThNm) | 9:42 |
 | 58 | [Praise & Sin](https://open.spotify.com/track/1x65MtQJuPcbZX8LEggAyr) | [Count Van Delicious](https://open.spotify.com/artist/1MRNQb9yUQonegcr2megMX) | [Praise & Sin](https://open.spotify.com/album/2oaYdzfdB0HNu9b15Ouqey) | 5:53 |
-| 59 | [Reflections](https://open.spotify.com/track/4oS2LzBpg7JuQ5DOJJvTZF) | [Yula Kasp](https://open.spotify.com/artist/1cXDO8VdC7Sc9AHASLlrRQ), [MI.RO](https://open.spotify.com/artist/3EvSyrNwdcAjq0mta8OoOa) | [Mayumi](https://open.spotify.com/album/7peYFDBJBpBtYoeOIYlOg9) | 5:59 |
+| 59 | [Reflections](https://open.spotify.com/track/1LigxFYsVRME24HgP9KT7q) | [Yula Kasp](https://open.spotify.com/artist/1cXDO8VdC7Sc9AHASLlrRQ), [MI.RO](https://open.spotify.com/artist/3EvSyrNwdcAjq0mta8OoOa) | [Mayumi](https://open.spotify.com/album/2R8j2oW0mt3ZqsTjRrr23J) | 5:59 |
 | 60 | [Blissful Lie](https://open.spotify.com/track/500vxfAi1qqsU5emL6WWaO) | [Ludwig A.F.](https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5) | [Blissful Lie](https://open.spotify.com/album/7Lw1WefAo5Yu3vuepibdFl) | 6:52 |
 | 61 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
 | 62 | [Supernova](https://open.spotify.com/track/2HtTNkqYB8vvJEf6e4uUG0) | [Alen Skanner](https://open.spotify.com/artist/34DjyfohleZ08Z2W0jB0yC) | [Supernova](https://open.spotify.com/album/4zeBxtJGmssW8KCqtV74Sg) | 6:41 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 |
 | 70 | [Eternal September](https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [Eternal September](https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs) | 5:33 |
 
-Snapshot ID: `MTY2NTczNzAwNywwMDAwMDAwMDhmYTI2ZDZkZjQ0ZmM0YzRmZTZlZTc5NGY1NDExN2E5`
+Snapshot ID: `MTY2NTczNzAwNywwMDAwMDAwMGZkOThiNzZhYzA5ZjBhZmE5ZGFhYjhjOWRlY2RiM2E5`

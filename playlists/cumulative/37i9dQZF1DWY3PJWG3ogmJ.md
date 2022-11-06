@@ -4,7 +4,7 @@
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-229 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/42zmCNqmVhMbS7GsNCf9fQ)
+230 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/42zmCNqmVhMbS7GsNCf9fQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Chance](https://open.spotify.com/track/7KXQXLe2Ocz0bVvD6gjOqp) | [Wrong Answer](https://open.spotify.com/artist/1ojBlwQXvlKyXzXY2uNEEo) | [Circle of Blood](https://open.spotify.com/album/07ixHVVwCh3xFvuqWo8LyE) | 2:33 | 2022-01-14 |  |
 | [Choke](https://open.spotify.com/track/1BW2QdLe6RtJTMJDSYmg9w) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Choke](https://open.spotify.com/album/5DmqJ0pRpRSJ210dLGNiGK) | 3:47 | 2022-01-14 |  |
 | [Choose Your Side](https://open.spotify.com/track/4Hbvtobp1tDBmNvZ2MHEpt) | [Nothing Left](https://open.spotify.com/artist/0g64mavk16xqgYfQrO1YUn) | [Choose Your Side](https://open.spotify.com/album/1aG2IbwCA2tKzJnx101qMS) | 3:01 | 2022-01-14 | 2022-07-28 |
+| [Collapse](https://open.spotify.com/track/1AlUK9pR34wYRrufm5vCA9) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/5Y34qlvVSVLWVNr5cyLB4K) | 4:12 | 2022-10-28 |  |
 | [Collapse](https://open.spotify.com/track/6oBjnOBqngXWsRuYY5eTnz) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:12 | 2022-01-14 | 2022-11-05 |
 | [Collapse](https://open.spotify.com/track/2lRlt0aNT2q7UU5WIhlFTp) | [Heart Of A Coward](https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ) | [Collapse](https://open.spotify.com/album/2JNh5Cr39keuBH7cJn3I7F) | 4:40 | 2022-01-14 |  |
 | [Conquer All](https://open.spotify.com/track/2MYdLzcBnDnk97PutLCRWP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/7cNc742gxDcixwJcg3Jtm2) | 3:31 | 2022-01-14 | 2022-07-28 |
@@ -167,7 +168,7 @@
 | [Pressure Point](https://open.spotify.com/track/6dSMTj7IJuQc8rgKO10l0E) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Pressure Point](https://open.spotify.com/album/2PfBk5UnG3vgfgB018u2Ib) | 3:50 | 2022-01-14 |  |
 | [Protector](https://open.spotify.com/track/24lq7iazH1xoHKCXRgl3La) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Protector](https://open.spotify.com/album/3zp6F2teb7pJ4NrGJvzNcW) | 5:21 | 2022-01-14 | 2022-07-29 |
 | [Protector](https://open.spotify.com/track/6upsBSeTbXQqJzN67uG5Ie) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Of Truth and Sacrifice](https://open.spotify.com/album/4L3BnmC12YtCM7B4WrCM6M) | 5:21 | 2022-04-22 |  |
-| [R!ot](https://open.spotify.com/track/0zAb3JhZbExyPZxiGq9cky) | [Spoil Engine](https://open.spotify.com/artist/6nQqTxjWcBSDpjvVKRTfig) | [Renaissance Noire](https://open.spotify.com/album/62cj4fAYeia8TRD8VqrpbD) | 3:16 | 2022-04-22 |  |
+| [R!ot](https://open.spotify.com/track/0zAb3JhZbExyPZxiGq9cky) | [Spoil Engine](https://open.spotify.com/artist/6nQqTxjWcBSDpjvVKRTfig) | [Renaissance Noire](https://open.spotify.com/album/62cj4fAYeia8TRD8VqrpbD) | 3:16 | 2022-04-22 | 2022-11-06 |
 | [R!OT](https://open.spotify.com/track/4tNBsgJMPMQv4yyPbTV9Dm) | [Spoil Engine](https://open.spotify.com/artist/6nQqTxjWcBSDpjvVKRTfig) | [R!OT](https://open.spotify.com/album/2AxUYLvLgmvLooZErifrGw) | 3:16 | 2022-01-14 | 2022-07-29 |
 | [Rebirth](https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Rebirth](https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm) | 4:01 | 2022-01-14 |  |
 | [Redneck Stomp](https://open.spotify.com/track/2fSYadDsbWMtIVqX7flKIc) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Frozen In Time](https://open.spotify.com/album/1fzDounFHdiVT5Zg9MKcFh) | 3:32 | 2022-01-14 |  |

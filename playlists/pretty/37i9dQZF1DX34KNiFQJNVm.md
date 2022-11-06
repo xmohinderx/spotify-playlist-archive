@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Yasmin Santos, Selena Gomez, Israel & Rodolffo e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,789,456 likes - 76 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,790,008 likes - 76 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quero Ver se Defender \- Ao Vivo](https://open.spotify.com/track/2UrU9un6h0bZXTqCYisLlo) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 2:51 |
-| 2 | [Cuida da Sua Vida](https://open.spotify.com/track/32VQZLCxicDl0Up6hHxCsm) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Influências 1](https://open.spotify.com/album/4ACEsLV2aib14wCZtv2om8) | 2:37 |
+| 2 | [Cuida da Sua Vida](https://open.spotify.com/track/32VQZLCxicDl0Up6hHxCsm) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Influências EP 1](https://open.spotify.com/album/4ACEsLV2aib14wCZtv2om8) | 2:37 |
 | 3 | [Esse B.O é Meu \- Ao Vivo](https://open.spotify.com/track/2YAOJkRWy382bRMXaj48FP) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Esse B.O é Meu \(Ao Vivo\)](https://open.spotify.com/album/6SDCa2NjLlLHcYXJ2fF523) | 2:40 |
 | 4 | [Bombonzinho \- Ao Vivo](https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Bombonzinho \(Ao Vivo\)](https://open.spotify.com/album/2VXbLDxcWq4K4gsAEtLbBs) | 2:34 |
 | 5 | [Quero Tu](https://open.spotify.com/track/0OelLDCEf1M1Da59CZJDiR) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Quero Tu](https://open.spotify.com/album/7jVqHprjjDpixYn3v8HoaR) | 2:36 |

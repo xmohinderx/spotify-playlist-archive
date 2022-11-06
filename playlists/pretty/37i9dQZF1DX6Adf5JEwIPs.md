@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Jenni Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,125 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,204 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 3 | [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 |
 | 4 | [Loco Enamorado](https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Loco Enamorado](https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N) | 3:46 |
 | 5 | [Cuando Yo Me Muera](https://open.spotify.com/track/4V927V1JIlJkE7nVU4UBsF) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cuando Yo Me Muera](https://open.spotify.com/album/5hBljEaghOwnONYAlISqOi) | 3:00 |
-| 6 | [El Rubio](https://open.spotify.com/track/739MV7Ktw9R8PSR3wA2oQD) | [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Cuadro De Honor](https://open.spotify.com/album/6GlamPnvbbGkaNwysZFNhS) | 4:44 |
+| 6 | [El Rubio](https://open.spotify.com/track/739MV7Ktw9R8PSR3wA2oQD) | [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [Cuadro De Honor](https://open.spotify.com/album/6GlamPnvbbGkaNwysZFNhS) | 4:44 |
 | 7 | [Noviembre Sin Ti](https://open.spotify.com/track/73rmJ3RqpV6zwvRAO14LxZ) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Noviembre Sin Ti](https://open.spotify.com/album/6POn9jRURGGpBdTGUNao0I) | 3:09 |
 | 8 | [Me La Escondieron Sus Padres](https://open.spotify.com/track/4s7vSk3ybcBZzH3YOdRxNn) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Me La Escondieron Sus Padres](https://open.spotify.com/album/3VfjUPykQViNzu2nIBAW4j) | 3:55 |
 | 9 | [El Beso De La Muerte](https://open.spotify.com/track/6EzJ16WE55odkcEv47jGiC) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [El Beso De La Muerte](https://open.spotify.com/album/1mwDKfRMl7e6XmIyvln2SZ) | 3:34 |

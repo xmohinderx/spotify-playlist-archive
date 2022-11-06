@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 108198,
+  "num_followers": 108310,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGE3ZTNjZjU5N2RlMDBkYjM1MTE3ZGMwMzczMTI3ZWY2",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDEzNTQ0MjRlZmIzYmFiNGQ1NTU3MzdmMWE5NzdjNWIz",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 213717,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Burn The Ships (R3HAB Remix)",
         "url": "https://open.spotify.com/album/637sa0MubVLyJ8al6duftV"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 146020,
       "name": "Burn The Ships (R3HAB Remix)",
       "url": "https://open.spotify.com/track/4uQcfhLIZNpiWJKS9nPz3z"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 213717,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -575,26 +575,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Coming In Hot - Wuki Remix",
-        "url": "https://open.spotify.com/album/3H748cRUjynjpcaBmmd9qz"
+        "name": "SIMPLE (feat. Joe L Barnes)",
+        "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
       },
       "artists": [
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         },
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 179541,
-      "name": "Coming In Hot - Wuki Remix",
-      "url": "https://open.spotify.com/track/2F9jc4l18skWHn6GsjbN5L"
+      "duration_ms": 152769,
+      "name": "SIMPLE (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -615,22 +611,26 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "SIMPLE (feat. Joe L Barnes)",
-        "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
+        "name": "Coming In Hot - Wuki Remix",
+        "url": "https://open.spotify.com/album/3H748cRUjynjpcaBmmd9qz"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         },
         {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 152769,
-      "name": "SIMPLE (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
+      "duration_ms": 179541,
+      "name": "Coming In Hot - Wuki Remix",
+      "url": "https://open.spotify.com/track/2F9jc4l18skWHn6GsjbN5L"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -695,26 +695,6 @@
       "duration_ms": 213373,
       "name": "perfection",
       "url": "https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Never Land II",
-        "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
-      },
-      "artists": [
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 193809,
-      "name": "Working On It",
-      "url": "https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -787,6 +767,26 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Never Land II",
+        "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 193809,
+      "name": "Working On It",
+      "url": "https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Who Says?",
         "url": "https://open.spotify.com/album/60mgib427tgTcQiBP5na0y"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Godsend",
+        "url": "https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 177920,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "WILD LOVE",
         "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 167499,
       "name": "WILD LOVE",
       "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Never Have I Ever",
-      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -887,6 +887,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 175292,
       "name": "Millionaire (Good Like That)",
       "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Stages",
-        "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 188473,
-      "name": "Stages",
-      "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -947,18 +947,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Godsend",
-        "url": "https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2"
+        "name": "Stages",
+        "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
       },
       "artists": [
         {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
         }
       ],
-      "duration_ms": 177920,
-      "name": "Headspace",
-      "url": "https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl"
+      "duration_ms": 188473,
+      "name": "Stages",
+      "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "January Flower (Deluxe)",
+        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 203874,
+      "name": "Save Me - Bonus Track",
+      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Eyes On You (Live)",
         "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 233947,
       "name": "Eyes On You - Live",
       "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "January Flower (Deluxe)",
-        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 203874,
-      "name": "Save Me - Bonus Track",
-      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Better View",
-        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Better View",
-      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "GENESIS",
         "url": "https://open.spotify.com/album/3g9G4l7NCOiuKeiIVtMaB5"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 202057,
       "name": "STICKS & STONES",
       "url": "https://open.spotify.com/track/1XsVqOChsThIrhuLZcSCkT"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Better View",
+        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Better View",
+      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
     },
     {
       "added_at": "2021-10-31 00:47:30",

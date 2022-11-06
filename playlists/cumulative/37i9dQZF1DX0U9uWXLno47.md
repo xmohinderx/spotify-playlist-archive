@@ -4,7 +4,7 @@
 
 > Clásicos que no sabías que eran covers para disfrutar con papá.
 
-127 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/0xa56MXGmyMkeCUbUQIGYD)
+128 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/0xa56MXGmyMkeCUbUQIGYD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Gloria](https://open.spotify.com/track/1pW5qCqDVDtCtDVYDPev1c) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Gloria](https://open.spotify.com/album/22pfkoRaSV0uZ9E9WOF42h) | 4:37 | 2021-10-29 | 2022-07-22 |
 | [God Only Knows](https://open.spotify.com/track/6FMugTU3p1eJQjkvZyRGpS) | [MILO](https://open.spotify.com/artist/0Fxdc5pxm29HWHgbgnDT6i) | [God Only Knows](https://open.spotify.com/album/7eLRJzsWMvLuskuQoBm6GY) | 3:36 | 2021-10-29 | 2022-07-29 |
 | [Golden Years](https://open.spotify.com/track/34PRFgMjpf1mTiIDIve6Sz) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [MADLO: Influences](https://open.spotify.com/album/4iIgfgwD4rgVNpGhOkAwyd) | 4:34 | 2021-10-29 |  |
+| [Grease](https://open.spotify.com/track/0fJleeHFEPJaPQLQYw5DT5) | [Flo Morrissey](https://open.spotify.com/artist/3qM2kgxt87sXgP2ytxZZv2), [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4) | [Gentlewoman, Ruby Man](https://open.spotify.com/album/6CNgs4YV5rxsOjADfpUCg3) | 4:21 | 2021-10-29 |  |
 | [Grease](https://open.spotify.com/track/2a2apdi8RxYyUgMkHWIbM6) | [Flo Morrissey](https://open.spotify.com/artist/3qM2kgxt87sXgP2ytxZZv2), [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4) | [Gentlewoman, Ruby Man](https://open.spotify.com/album/4F0zRJTpOsSvHQdtqdw6h5) | 4:21 | 2021-10-29 | 2022-10-13 |
 | [Higher Ground \- Remastered](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 | 2021-10-29 |  |
 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 | 2021-10-29 |  |
@@ -72,7 +73,7 @@
 | [Landslide \- Remastered](https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Pisces Iscariot \(Deluxe\)](https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53) | 3:10 | 2021-10-29 |  |
 | [Les Cactus](https://open.spotify.com/track/2Ok6i60k4GEaBo5ttz5b7o) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/5XzlHFXbvM8PHoBsZ7Jju8) | 3:20 | 2021-10-29 | 2022-07-28 |
 | [Les Cactus](https://open.spotify.com/track/4Wg7fFccdDBL1sJGiu14w7) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:20 | 2021-10-29 |  |
-| [Let's Spend the Night Together \- 2013 Remaster](https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Aladdin Sane \(2013 Remaster\)](https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz) | 3:10 | 2021-10-29 |  |
+| [Let's Spend the Night Together \- 2013 Remaster](https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Aladdin Sane \(2013 Remaster\)](https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz) | 3:10 | 2021-10-29 | 2022-11-06 |
 | [Like A Rolling Stone \- Live](https://open.spotify.com/track/0oXnmfo2kW3joSeiXoazdV) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Totally Stripped \(Live\)](https://open.spotify.com/album/1I4PYVYWsa22ELVcjCszrx) | 6:10 | 2021-10-29 | 2022-07-29 |
 | [Like A Virgin \- Spotify Singles](https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Spotify Singles](https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci) | 3:11 | 2021-10-29 |  |
 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 | 2021-10-29 |  |

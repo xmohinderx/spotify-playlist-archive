@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,554 likes - 290 songs - 4 day 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,615 likes - 290 songs - 4 day 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 87 | [Meditation: I\. Part I](https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW) | [Eberhard Schoener](https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz) | [Schoener, Eberhard: Meditation](https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb) | 17:29 |
 | 88 | [above the northern skies shown, Pt\. 2](https://open.spotify.com/track/6WfCPjQVIdPHJGEHaMcrzT) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [above the northern skies shown](https://open.spotify.com/album/6ix0ytl7g6oX25BhW6omzW) | 18:49 |
 | 89 | [Part One](https://open.spotify.com/track/7CQFDhAbz7zLvtNcsl3qAB) | [Master Wilburn Burchette](https://open.spotify.com/artist/2EefjxRUX7kaLEifrs6jG1) | [Transcendental Music for Meditation](https://open.spotify.com/album/7MBKtyZEbWaoHfKbXbD8bB) | 15:10 |
-| 90 | [Pagnifico](https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 17:21 |
+| 90 | [Pagnifico \- Remastered](https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 17:21 |
 | 91 | [Phaedra \- Remastered 2018](https://open.spotify.com/track/6Qx7IRv8VmRTppmnks6fDm) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 17:39 |
 | 92 | [Hergest Ridge Part One \- 2010 Mix / Previously Unreleased](https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Hergest Ridge \(Deluxe Edition\)](https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG) | 19:21 |
 | 93 | [Uselessness Of the Caused](https://open.spotify.com/track/3I3WLa8UWoY1icDkyK1DJC) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Malaria](https://open.spotify.com/album/2YWwUS2xq9GmfisVW7sItQ) | 51:21 |

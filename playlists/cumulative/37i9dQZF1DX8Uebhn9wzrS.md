@@ -4,7 +4,7 @@
 
 > The perfect study beats, twenty four seven.
 
-979 songs - 1 day 13 hr 19 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
+982 songs - 1 day 13 hr 26 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,7 +659,8 @@
 | [Palm Breeze](https://open.spotify.com/track/5gm3EF9cktGnOPkTnK3SNe) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Palm Breeze](https://open.spotify.com/album/5kTR2SstqSeZm39niVH0jc) | 1:49 | 2022-04-15 | 2022-09-02 |
 | [Paper Heart](https://open.spotify.com/track/1Hc3WJFNoEVScMuJ8ofDxB) | [Gael Rico](https://open.spotify.com/artist/7792K7G74q2ZpczQiXdvlX) | [Paper Heart](https://open.spotify.com/album/5cmzgPNKOMs9bWGWbullff) | 1:37 | 2022-09-02 |  |
 | [Paper Plane](https://open.spotify.com/track/7C3jWjgrThp6qP0KS6zZwy) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE) | [Paper Plane](https://open.spotify.com/album/4MAjQfYWQYYzkFaVrt7jGD) | 2:08 | 2022-04-15 | 2022-07-08 |
-| [Parades](https://open.spotify.com/track/2ApTu6hFTnNI4OgspbovcK) | [Maxømøa](https://open.spotify.com/artist/2XfqCD3Rlv8LxJ0p05QNXa), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t) | [Parades](https://open.spotify.com/album/31LiiyocxjrRlfQS5jRoPx) | 2:17 | 2022-06-10 |  |
+| [Parades](https://open.spotify.com/track/2ApTu6hFTnNI4OgspbovcK) | [Maxømøa](https://open.spotify.com/artist/2XfqCD3Rlv8LxJ0p05QNXa), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t) | [Parades](https://open.spotify.com/album/31LiiyocxjrRlfQS5jRoPx) | 2:17 | 2022-06-10 | 2022-11-06 |
+| [Parades](https://open.spotify.com/track/0AxZVTvTZqjC6lGDfELZkY) | [Maxømøa](https://open.spotify.com/artist/2XfqCD3Rlv8LxJ0p05QNXa), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t) | [Parades](https://open.spotify.com/album/04XbkOcu8kPYzD58sUv5Wc) | 2:17 | 2022-10-28 |  |
 | [Paris, 6am](https://open.spotify.com/track/5E7uJCas10EoTpYrUpSHGw) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Paris, 6am](https://open.spotify.com/album/42LhDRO7i0ewJ1mmhQSkYa) | 1:50 | 2022-04-15 | 2022-05-27 |
 | [Park Life](https://open.spotify.com/track/6TrmKrBHA1UcepoLAoCa7A) | [Mooseplant](https://open.spotify.com/artist/41f1LonnqCGklJb2ewxewh) | [Park Life](https://open.spotify.com/album/5bCGymt5IOhp1ankpc5K5l) | 2:18 | 2022-10-28 |  |
 | [parking lot](https://open.spotify.com/track/5oOq7LVY5RDNkZeajlOhgo) | [Beltiner](https://open.spotify.com/artist/4DzyAL1nvxYKEEavnXxVVm) | [parking lot](https://open.spotify.com/album/0fnroq8pifWBkuAX1bWsKj) | 2:19 | 2022-04-15 | 2022-09-17 |
@@ -772,7 +773,8 @@
 | [Singing In The Sun](https://open.spotify.com/track/6gksRXjdLpmjotIM7m0S2R) | [galaxx](https://open.spotify.com/artist/1CzuRZH2SFZgmKRxXHZawo) | [Singing In The Sun](https://open.spotify.com/album/2Qp4HMhHwUlSxLOvRXp43S) | 2:45 | 2022-10-28 |  |
 | [Siren](https://open.spotify.com/track/5ABg7s1BVIqBqqJ3zId6VK) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Siren](https://open.spotify.com/album/7rFHp3AWElsfkdn427krtl) | 2:25 | 2022-09-16 |  |
 | [Sketchy Dreamers](https://open.spotify.com/track/5nxEHnue5hDtbbubvyZRUe) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Sketchy Dreamers](https://open.spotify.com/album/5CWACW6EISOrtIaNFZxJkN) | 2:40 | 2022-04-15 |  |
-| [Skipping In The Rain](https://open.spotify.com/track/5Fkm4JZU99RStqDvVkQuX4) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Skipping In The Rain](https://open.spotify.com/album/3Z5VU26eLsSkXf3B6iBn3H) | 2:27 | 2022-09-09 |  |
+| [Skipping In The Rain](https://open.spotify.com/track/00rzg0wWKaQoOrYOZOY1ug) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Skipping In The Rain](https://open.spotify.com/album/4beFIK146RDX8LHXUobl3T) | 2:27 | 2022-10-28 |  |
+| [Skipping In The Rain](https://open.spotify.com/track/5Fkm4JZU99RStqDvVkQuX4) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Skipping In The Rain](https://open.spotify.com/album/3Z5VU26eLsSkXf3B6iBn3H) | 2:27 | 2022-09-09 | 2022-11-06 |
 | [Skipping Stones](https://open.spotify.com/track/4H8O62CuQn5B0Gix3ZLrIH) | [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li), [LE MAZ](https://open.spotify.com/artist/0yITOpZhxV9Ln8l3oMsSei), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Skipping Stones](https://open.spotify.com/album/2PUhBQ1MJ7mUE7nvJ4zyGn) | 2:37 | 2022-07-29 | 2022-08-12 |
 | [Sky Deluxe](https://open.spotify.com/track/56bfl2XfxukUYbrHqZb7rc) | [deadxbeat](https://open.spotify.com/artist/7mFjcuFvOr6TzHj0cqLX3J) | [Perennial Hill](https://open.spotify.com/album/57gGSOdFnTy3yYyEgC3d0c) | 2:56 | 2022-10-01 |  |
 | [Sky Lullaby](https://open.spotify.com/track/3cQHsfwhxsdJJABkWO1N5U) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Sky Lullaby](https://open.spotify.com/album/6jo7r1HGaDlUBBgNUUue8G) | 3:07 | 2022-04-15 |  |
@@ -956,7 +958,8 @@
 | [Wecki](https://open.spotify.com/track/4FgEcQBlEHG8JyKdYgL8uz) | [Sabo Tan](https://open.spotify.com/artist/3XkkVh8jU3QiGPiC8N5RBS) | [Wecki](https://open.spotify.com/album/1QsoRzYNsWn1eqOkVNvLC3) | 2:07 | 2022-04-15 | 2022-04-22 |
 | [Weird Folks](https://open.spotify.com/track/1BMieBWqghjmpz28GiDkq9) | [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV) | [The Spaceship](https://open.spotify.com/album/4jLrmKCgM04AqELWslYDOE) | 2:11 | 2022-04-15 | 2022-09-23 |
 | [Well, I Guess It Has Been a Vibe](https://open.spotify.com/track/643CczHWSpBvDOGSn78CDw) | [PETITE FESSE](https://open.spotify.com/artist/6Eb1zj0M4u2a3hrP2ndXRb) | [Well, I Guess It Has Been a Vibe](https://open.spotify.com/album/45YnKJoeZlsHO3UCeAbdoa) | 1:37 | 2022-04-15 | 2022-09-02 |
-| [Wellspring](https://open.spotify.com/track/0aTxYRuDgt957kEznA87yw) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Wellspring](https://open.spotify.com/album/3w0KTyQTLn79f276D7AMj2) | 1:56 | 2022-04-22 |  |
+| [Wellspring](https://open.spotify.com/track/0aTxYRuDgt957kEznA87yw) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Wellspring](https://open.spotify.com/album/3w0KTyQTLn79f276D7AMj2) | 1:56 | 2022-04-22 | 2022-11-06 |
+| [Wellspring](https://open.spotify.com/track/2LPiMy2ePIzegv5EhkQrVR) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Wellspring](https://open.spotify.com/album/340App2IyAkJ6WssIM8AJm) | 1:56 | 2022-10-28 |  |
 | [What Matters](https://open.spotify.com/track/2LjUTOfZNTXuNfFZbhEdoA) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [What Matters](https://open.spotify.com/album/5sCxBnzKBpeh7HuiQgPIKz) | 1:54 | 2022-09-16 |  |
 | [What When Why](https://open.spotify.com/track/0i0Q5eFr909SFwCzvoKWLY) | [Jonny Where How](https://open.spotify.com/artist/1ZpSXCUCMP3E5GPFmI1VMc) | [What When Why](https://open.spotify.com/album/6lbNaHUgHOKA7jytgTfIB4) | 2:17 | 2022-04-15 |  |
 | [What's Up](https://open.spotify.com/track/5G5SdyJn3gZi1nv1xFKlgv) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [What's Up](https://open.spotify.com/album/2vu4V8wFYvlEclre1q0t92) | 2:42 | 2022-10-01 |  |

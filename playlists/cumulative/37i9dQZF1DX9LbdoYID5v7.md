@@ -4,7 +4,7 @@
 
 > Music that created modern indie as we know it\. Cover: MGMT
 
-155 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/1TmwbF2mvZkA61FjUDdoHe)
+156 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/1TmwbF2mvZkA61FjUDdoHe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [We Used To Be Friends](https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 3:19 | 2022-07-28 |  |
 | [Welcome Home, Son](https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ghost](https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr) | 4:47 | 2022-07-28 |  |
 | [What You Know](https://open.spotify.com/track/1qfYG2JrchEyJiqKnkE7YQ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/4V1rQRHuuOWs8fXRl16OMY) | 3:09 | 2021-01-12 | 2022-07-29 |
+| [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 | 2022-10-11 |  |
 | [What You Know](https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 3:11 | 2022-07-28 | 2022-11-02 |
 | [When Did Your Heart Go Missing?](https://open.spotify.com/track/60okmgzrYnFh2nXfi0XxWR) | [Rooney](https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7) | [Calling The World](https://open.spotify.com/album/1qnCc35z3I85Igk8l7crK1) | 3:33 | 2021-01-12 | 2022-07-29 |
 | [When I'm Small](https://open.spotify.com/track/21nf6u3sQbfViHX7wNZmhK) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/5aSsh4n7DFK3ngOCwa6ecp) | 4:09 | 2021-01-12 |  |
@@ -156,7 +157,7 @@
 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2022-07-28 |  |
 | [White Winter Hymnal](https://open.spotify.com/track/3QVtICc8ViNOy4I5K14d8Z) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/6XzZ5pg9buAKNYg293KOQ8) | 2:27 | 2021-01-12 | 2022-07-29 |
 | [With Arms Outstretched](https://open.spotify.com/track/4AnNE7nPSshznEi1WCBfFI) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/23EqcK0ZR1ravQaEsGpQyH) | 3:43 | 2021-01-12 | 2022-07-29 |
-| [Wraith Pinned to the Mist and Other Games](https://open.spotify.com/track/24HPkbkXJsIFC4eyg63zgQ) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/3KiG3LEjXyAt9IPEcjreia) | 4:15 | 2021-01-12 |  |
+| [Wraith Pinned to the Mist and Other Games](https://open.spotify.com/track/24HPkbkXJsIFC4eyg63zgQ) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/3KiG3LEjXyAt9IPEcjreia) | 4:15 | 2021-01-12 | 2022-11-06 |
 | [You! Me! Dancing! \- Remastered](https://open.spotify.com/track/0BiYKvf5gJ9bGNJnngyDkU) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [Hold On Now, Youngster..\. \(Remastered Deluxe Edition\)](https://open.spotify.com/album/3l0njASnHN0qcO4iMXJVNj) | 6:45 | 2021-01-12 | 2022-07-29 |
 | [Young Folks](https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/3FDYmCinR2Mx94ukKJKDew) | 4:39 | 2021-01-12 | 2022-07-29 |
 | [Young Folks](https://open.spotify.com/track/6TfWHHxBSPhfszuwEuNdwX) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/1T6VJl3OCkvbKYzvWjzhQd) | 4:39 | 2021-01-12 | 2022-07-27 |

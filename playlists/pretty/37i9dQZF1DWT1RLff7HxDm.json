@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 142755,
+  "num_followers": 142838,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDJkYjZlMzNjOWY5NDc0YjhiZWRkZGMwNGZlODRkZThi",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDAwMWU2ZmRkODlkY2RhOGJmYmE0MGQ4NDVjYzAxOTFm",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Touch My Blues Away",
-        "url": "https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR"
-      },
-      "artists": [
-        {
-          "name": "Jessy Martens and Band",
-          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
-        }
-      ],
-      "duration_ms": 544640,
-      "name": "Touch My Blues Away - Live",
-      "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Front And Center: Live From New York",
         "url": "https://open.spotify.com/album/485jKzcn4ZPRxB5Sc4PUx8"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 396682,
       "name": "Tell Her You Belong To Me - Live",
       "url": "https://open.spotify.com/track/6DMUEb4IFTZoG1dhPUXzZT"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Touch My Blues Away",
+        "url": "https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR"
+      },
+      "artists": [
+        {
+          "name": "Jessy Martens and Band",
+          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
+        }
+      ],
+      "duration_ms": 544640,
+      "name": "Touch My Blues Away - Live",
+      "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
     },
     {
       "added_at": "2020-10-30 17:47:12",

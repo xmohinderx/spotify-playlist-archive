@@ -4,12 +4,12 @@
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-184 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/21ccch0oSyRxb8T4kGUPOS)
+185 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/21ccch0oSyRxb8T4kGUPOS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(This Is Our\) House](https://open.spotify.com/track/3GJWE7h5Maov5ZiA8UAmaL) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [\(This Is Our\) House](https://open.spotify.com/album/6Q2n3poyBZofloxREzVeE3) | 4:18 | 2021-12-15 | 2022-07-27 |
-| [1234](https://open.spotify.com/track/19T79JA6PgqCbYOYZ3e1bV) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [A Million Degrees](https://open.spotify.com/album/1aqmmK0ORKz719r7MLMHQO) | 3:22 | 2022-07-05 |  |
+| [1234](https://open.spotify.com/track/19T79JA6PgqCbYOYZ3e1bV) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [A Million Degrees](https://open.spotify.com/album/1aqmmK0ORKz719r7MLMHQO) | 3:22 | 2022-07-05 | 2022-11-06 |
 | [1234](https://open.spotify.com/track/4Mbj2NKklmBRfs0ekO6cQ5) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [1234](https://open.spotify.com/album/55qWVcSQBFn5odd33hc1Ie) | 3:22 | 2021-12-15 | 2022-07-29 |
 | [365](https://open.spotify.com/track/6NgdiN6wiPU7a3bgU85tKV) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [365](https://open.spotify.com/album/5OIeDqGRB3hbUOf7bbubEJ) | 3:28 | 2022-04-01 | 2022-04-21 |
 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 | 2021-12-15 |  |
@@ -78,6 +78,7 @@
 | [Gunpowder](https://open.spotify.com/track/1VsD2j8Zt6zCNpQlNYxiPq) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [Gunpowder](https://open.spotify.com/album/4ZX1nPgiTZOHZSRSHBKe2s) | 3:37 | 2021-12-15 | 2022-07-27 |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2021-12-15 |  |
 | [Hand On Heart](https://open.spotify.com/track/65Q94Z3Cbu1kCxPocTs0OT) | [Psychework](https://open.spotify.com/artist/4uKphGSJb3SgI2gsAbcCPp) | [The Dragon's Year](https://open.spotify.com/album/6QVwM3sm5CNrIYi0ayqcXu) | 5:30 | 2022-04-01 | 2022-04-17 |
+| [Hell to Pay](https://open.spotify.com/track/6J97fOUqgVLcb1eg21QXjg) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:07 | 2022-10-18 |  |
 | [Hell To Pay](https://open.spotify.com/track/6NLo99mFXv20aHcPRi8LRq) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/4Lujxftn2mPfDJUd2nTk6U) | 3:07 | 2021-12-15 | 2022-07-29 |
 | [Hollywood](https://open.spotify.com/track/5ns4Dobpei2ze7NJvgigNT) | [After Midnight Project](https://open.spotify.com/artist/1CCtRpOlg6EL0HP9DdEtk4) | [Let's Build Something To Break](https://open.spotify.com/album/1VbvHqARu0WjoXRiF2yak7) | 3:02 | 2021-12-15 | 2022-07-29 |
 | [Home Is Where the Sty Is](https://open.spotify.com/track/2BYMBnZVHxxtwcnqpBfY2f) | [Poisonblack](https://open.spotify.com/artist/1mBXJUab9jbcHhYxMuWbxO) | [Lyijy](https://open.spotify.com/album/0oWgdeYC6ikpEbhV1bxqNK) | 3:36 | 2022-02-17 | 2022-06-28 |

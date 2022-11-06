@@ -1,12 +1,12 @@
 {
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2013736,
+  "num_followers": 2013751,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNjUwMSwwMDAwMDAwMGVlYmZlNWM3YmEzMjhhMWJmMjA0MGY3ZjQ3YTMzODRl",
+  "snapshot_id": "MTY1OTcxNjUwMSwwMDAwMDAwMGY1MTJlMjg5ZTExMzZkYjk0NWZjYjUxMDNlMjNhZjc5",
   "tracks": [
     {
       "added_at": "2022-08-05 16:21:41",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 148370,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "No Valgo Pa' Ciudad",
         "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 186440,
       "name": "No Valgo Pa' Ciudad",
       "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
+        "name": "Te acuerdas?",
+        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Te acuerdas?",
+      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
         "name": "Al otro lado del rio",
         "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 230000,
       "name": "La Bilirrubina",
       "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
-        "name": "Te acuerdas?",
-        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Te acuerdas?",
-      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 182453,
-      "name": "Pongamos que hablo de Mart\u00ednez",
-      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
+      "duration_ms": 344666,
+      "name": "Vivir Sin Aire - Unplugged",
+      "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 344666,
-      "name": "Vivir Sin Aire - Unplugged",
-      "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
+      "duration_ms": 182453,
+      "name": "Pongamos que hablo de Mart\u00ednez",
+      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Tiempo Para Perder",
-        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
-      },
-      "artists": [
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
-        }
-      ],
-      "duration_ms": 220862,
-      "name": "Tiempo Para Perder",
-      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Planeando Madrid",
         "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 252736,
       "name": "Planeando Madrid",
       "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Tiempo Para Perder",
+        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 220862,
+      "name": "Tiempo Para Perder",
+      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 400826,
-      "name": "No Ha Parado De Llover - Unplugged",
-      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Un T\u00e9 de Tilo por Favor",
-        "url": "https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
       "artists": [
         {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 207893,
-      "name": "Lo Que Perdimos",
-      "url": "https://open.spotify.com/track/2azwoxY0rbAgn1ZeiYGcdK"
+      "duration_ms": 400826,
+      "name": "No Ha Parado De Llover - Unplugged",
+      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1035,6 +1019,22 @@
       "duration_ms": 153564,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Un T\u00e9 de Tilo por Favor",
+        "url": "https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "Lo Que Perdimos",
+      "url": "https://open.spotify.com/track/2azwoxY0rbAgn1ZeiYGcdK"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Mp3",
-        "url": "https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        }
-      ],
-      "duration_ms": 181368,
-      "name": "Mp3",
-      "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
+        "name": "Mp3",
+        "url": "https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd"
       },
       "artists": [
         {
-          "name": "Ale Aguirre",
-          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
         }
       ],
-      "duration_ms": 238817,
-      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
+      "duration_ms": 181368,
+      "name": "Mp3",
+      "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1279,6 +1263,22 @@
       "duration_ms": 298773,
       "name": "Estoy Aqu\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
+      },
+      "artists": [
+        {
+          "name": "Ale Aguirre",
+          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
+        }
+      ],
+      "duration_ms": 238817,
+      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
         "name": "creo que todo estar\u00e1 bien",
         "url": "https://open.spotify.com/album/6vSBWbTdWml9R4Tr6mSoBR"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 250200,
       "name": "Me Quem\u00e9",
       "url": "https://open.spotify.com/track/2HqDV3t9ImPT7P9UWVNRzz"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -2007,6 +2007,26 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
+        "name": "NTN",
+        "url": "https://open.spotify.com/album/0iSx1yoFUpRmXrS2C8099U"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        },
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 184336,
+      "name": "NTN",
+      "url": "https://open.spotify.com/track/1O8wZHsmHtrjVehbTTC5yM"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
         "name": "Covers II",
         "url": "https://open.spotify.com/album/1FzhLun9l0Z3gSrk00nUhQ"
       },
@@ -2035,22 +2055,6 @@
       "duration_ms": 231458,
       "name": "Cuando Ya No Me Recuerdes",
       "url": "https://open.spotify.com/track/3JAYhusD43HVOilH1VarKS"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
-        "name": "#ElMundoFuera (Improvisaci\u00f3n)",
-        "url": "https://open.spotify.com/album/0aeEduveGwn87AfHFnwFPM"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 142436,
-      "name": "#ElMundoFuera (Improvisaci\u00f3n)",
-      "url": "https://open.spotify.com/track/7HqU2puNgziwgTZ7NcVKlY"
     },
     {
       "added_at": "2022-08-05 16:21:41",

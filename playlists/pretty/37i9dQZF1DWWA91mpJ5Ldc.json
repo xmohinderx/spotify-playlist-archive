@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 104530,
+  "num_followers": 104574,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU3MDg3OSwwMDAwMDAwMDM1MjAyMTlhMDUwNTk3YzlmNjI3MDhkY2UyZTQ4Y2Yy",
+  "snapshot_id": "MTY2NzU3MDg3OSwwMDAwMDAwMDQzZGU2ZWFiYzdiNzBmYzYwNzk0YzUwMmUxYjQ4MmNm",
   "tracks": [
     {
       "added_at": "2022-11-04 14:07:59",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-11-04 14:07:59",
       "album": {
+        "name": "Al\u00f4 Al\u00f4, Como Vai?",
+        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Olha a Pipa",
+      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
+    },
+    {
+      "added_at": "2022-11-04 14:07:59",
+      "album": {
         "name": "Alumi\u00f4",
         "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 204116,
       "name": "Alumi\u00f4",
       "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
-    },
-    {
-      "added_at": "2022-11-04 14:07:59",
-      "album": {
-        "name": "Al\u00f4 Al\u00f4, Como Vai?",
-        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Olha a Pipa",
-      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
     },
     {
       "added_at": "2022-11-04 14:07:59",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-11-04 14:07:59",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
-    },
-    {
-      "added_at": "2022-11-04 14:07:59",
-      "album": {
         "name": "Samba de Novela",
         "url": "https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 198018,
       "name": "Samba de Novela",
       "url": "https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0"
+    },
+    {
+      "added_at": "2022-11-04 14:07:59",
+      "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     },
     {
       "added_at": "2022-11-04 14:07:59",

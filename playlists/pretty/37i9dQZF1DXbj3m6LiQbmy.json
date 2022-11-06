@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4793,
+  "num_followers": 4799,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGYzMThhMTA0NjE4MDMzZTgzNmNjZDNkNWIxY2IyYjA3",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDZlMzU5NjRkN2YzNDVjNGExOWI2NGFkNjBjMjA0Mjg5",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "La terza estate dell'amore",
+        "url": "https://open.spotify.com/album/7ePIYYUhWiw1bPKPj31DCa"
+      },
+      "artists": [
+        {
+          "name": "Cosmo",
+          "url": "https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX"
+        }
+      ],
+      "duration_ms": 224013,
+      "name": "La musica illegale",
+      "url": "https://open.spotify.com/track/1NWBuL5RKNJpsdN56inHKr"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Variations",
         "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 429000,
       "name": "Parola - Rework",
       "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "La terza estate dell'amore",
-        "url": "https://open.spotify.com/album/7ePIYYUhWiw1bPKPj31DCa"
-      },
-      "artists": [
-        {
-          "name": "Cosmo",
-          "url": "https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX"
-        }
-      ],
-      "duration_ms": 224013,
-      "name": "La musica illegale",
-      "url": "https://open.spotify.com/track/1NWBuL5RKNJpsdN56inHKr"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -835,18 +835,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Tocco di Lusso",
-        "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
+        "name": "W",
+        "url": "https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa"
       },
       "artists": [
         {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "EMMANUELLE",
+          "url": "https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5"
         }
       ],
-      "duration_ms": 203684,
-      "name": "Tocco di Lusso",
-      "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
+      "duration_ms": 493760,
+      "name": "Flores No Mar - Album Edit",
+      "url": "https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -875,6 +879,22 @@
       "duration_ms": 385296,
       "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
       "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Tocco di Lusso",
+        "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "Tocco di Lusso",
+      "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1135,26 +1155,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Malcostume",
-        "url": "https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN"
-      },
-      "artists": [
-        {
-          "name": "Immanuel Casto",
-          "url": "https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F"
-        },
-        {
-          "name": "Romina Falconi",
-          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
-        }
-      ],
-      "duration_ms": 238074,
-      "name": "Insegnami la vita",
-      "url": "https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "BatBox",
         "url": "https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q"
       },
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Malcostume",
+        "url": "https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Casto",
+          "url": "https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F"
+        },
+        {
+          "name": "Romina Falconi",
+          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
+        }
+      ],
+      "duration_ms": 238074,
+      "name": "Insegnami la vita",
+      "url": "https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
@@ -1231,6 +1251,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/6ZLXYQf0NaF6ee53eHbsYn"
+      },
+      "artists": [
+        {
+          "name": "Andrea Di Giovanni",
+          "url": "https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/6eRMQ7PgYqLA9gRBDtK8Yj"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Dulce de Leche (feat. M\u00a5SS KETA) [M\u00a5SS KETA remix]",
         "url": "https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla"
       },
@@ -1251,42 +1287,6 @@
       "duration_ms": 186234,
       "name": "Dulce de Leche (feat. M\u00a5SS KETA) - M\u00a5SS KETA remix",
       "url": "https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Blue Songs",
-        "url": "https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P"
-      },
-      "artists": [
-        {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
-        },
-        {
-          "name": "Aerea Negrot",
-          "url": "https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ"
-        }
-      ],
-      "duration_ms": 363986,
-      "name": "Painted Eyes - Original Mix",
-      "url": "https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/6ZLXYQf0NaF6ee53eHbsYn"
-      },
-      "artists": [
-        {
-          "name": "Andrea Di Giovanni",
-          "url": "https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/6eRMQ7PgYqLA9gRBDtK8Yj"
     }
   ],
   "unique_name": "Pride Italia",

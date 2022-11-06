@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-268 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
+269 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [KMS \- A COLORS SHOW](https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [KMS \- A COLORS SHOW](https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt) | 2:26 | 2022-06-30 |  |
 | [kometostai.aintreallynootherwaytoputitro](https://open.spotify.com/track/2VUMXJ651NZmzUcJvPEhit) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Hud Dreems](https://open.spotify.com/album/5pkzBdjGwsm3D6EE4PPEQ2) | 1:13 | 2021-12-15 | 2022-04-07 |
 | [kometostai.aintreallynootherwaytoputitro](https://open.spotify.com/track/7oeNO6HoCTIHIuoNUp2Ur4) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Hud Dreems](https://open.spotify.com/album/7udRpnIdi1SS0oaLFsVwrD) | 1:13 | 2022-02-11 |  |
-| [Later](https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Later](https://open.spotify.com/album/5Xv4mbW5nQ7LIvSZ2LIWzC) | 4:30 | 2021-12-15 |  |
+| [Later](https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Later](https://open.spotify.com/album/5Xv4mbW5nQ7LIvSZ2LIWzC) | 4:30 | 2021-12-15 | 2022-11-06 |
 | [Lava/Treacle](https://open.spotify.com/track/227jTRlttZd3Qjoe1cdtmb) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/6jPzSHELKtpjfV9GOnTy1k) | 3:21 | 2022-09-05 |  |
 | [Lava/Treacle](https://open.spotify.com/track/3U8dhK8wiVtsdmj7jwUJlB) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/56BXeYf8Xp3zxKSuQmbOet) | 3:21 | 2021-12-15 | 2022-07-31 |
 | [Let It Go](https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7) | 3:43 | 2021-12-15 | 2022-10-22 |
@@ -149,6 +149,7 @@
 | [Lock My Door](https://open.spotify.com/track/0UeHMHVqM0eesT4f984vCP) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l), [Eauxby](https://open.spotify.com/artist/1m3MSOi9y9DRexRUuTsA14) | [Lock My Door](https://open.spotify.com/album/4MOAoml4xfTj9Civ9580re) | 3:35 | 2021-12-15 | 2022-04-08 |
 | [Lose Control](https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Bittersweet](https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0) | 3:01 | 2022-02-11 |  |
 | [Love and Hate in a Different Time \- Demo](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 | 2021-12-15 |  |
+| [Loverboy](https://open.spotify.com/track/1x9UiIdgnqRr9weFqFD8Pb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/6b4zVp76pVqlDU7WQrho22) | 3:58 | 2022-10-19 |  |
 | [Loverboy](https://open.spotify.com/track/7DHrin6fl2RV6ND1k3MF9y) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/7w3ggwVB0OqAGFkboiozRS) | 3:58 | 2021-12-15 | 2022-10-13 |
 | [Luxury: Cococure \- Remastered 2018](https://open.spotify.com/track/2M8tI5gnzbtV2Cy4jejI7e) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Embrya](https://open.spotify.com/album/2yIqLIxn5gbKogYGcNdbxF) | 5:32 | 2021-12-15 | 2022-04-08 |
 | [LăVĭNDŭR](https://open.spotify.com/track/5TfndFjdJY502LOhS4S9wX) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [TheKAMAUU\-CASSETTE: ŭRTH GōLD](https://open.spotify.com/album/4qxxcHeWbjCYTiXVTeHArq) | 4:00 | 2021-12-15 |  |

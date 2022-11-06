@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Drake & 21 Savage \(pictured\), Selena Gomez, Tiësto & Tate McRae, Joji, P!nk, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,399 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,464 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 12 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 |
 | 13 | [Never Let You Go](https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Never Let You Go](https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0) | 2:58 |
 | 14 | [If I Died Last Night](https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [If I Died Last Night](https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5) | 2:44 |
-| 15 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/6GDDxhe281I5aNSgCYphex) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
+| 15 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
 | 16 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 |
 | 17 | [Sorry](https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Russell Dickerson](https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8) | 3:08 |
 | 18 | [People Don't Talk About](https://open.spotify.com/track/0eqXdfkqgNsDadNb7juAE0) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Good Ol' Days](https://open.spotify.com/album/3qHNYgJtAHuEC1tuDrG3Y4) | 3:17 |

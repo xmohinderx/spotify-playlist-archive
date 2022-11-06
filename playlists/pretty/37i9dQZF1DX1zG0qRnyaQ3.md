@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,331 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,445 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 36 | [The Disease](https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Disease](https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx) | 2:55 |
 | 37 | [Question Authority](https://open.spotify.com/track/5TS4qrO34nNrCMV5VKIIFq) | [Circle Jerks](https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl) | [Wild in the Streets](https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh) | 2:02 |
 | 38 | [Tyranny](https://open.spotify.com/track/6S3MqV49f09I4IFwwhKR7B) | [Drones](https://open.spotify.com/artist/0GZkYbJkke2SkmdLdtuPUB) | [Exiled: B\-Sides](https://open.spotify.com/album/2OifzgPrUPg9b6WdOaCJEk) | 2:41 |
-| 39 | [If There Was Ever a Time](https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE) | [Armstrongs](https://open.spotify.com/artist/3DMwn9lJozTHbeI85XA08W) | [If There Was Ever a Time](https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM) | 2:41 |
-| 40 | [Everyone Is Digital](https://open.spotify.com/track/6BIukdclzBSvAHP5rNfdN0) | [The Motorleague](https://open.spotify.com/artist/0mMfUMeFxdsH5ijLeGYPdc) | [Everyone Is Digital](https://open.spotify.com/album/7nJBv7fe2lPx79sAKtKGGz) | 3:40 |
+| 39 | [Everyone Is Digital](https://open.spotify.com/track/6BIukdclzBSvAHP5rNfdN0) | [The Motorleague](https://open.spotify.com/artist/0mMfUMeFxdsH5ijLeGYPdc) | [Everyone Is Digital](https://open.spotify.com/album/7nJBv7fe2lPx79sAKtKGGz) | 3:40 |
+| 40 | [If There Was Ever a Time](https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE) | [Armstrongs](https://open.spotify.com/artist/3DMwn9lJozTHbeI85XA08W) | [If There Was Ever a Time](https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM) | 2:41 |
 | 41 | [American Futbol](https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ) | [MakeWar](https://open.spotify.com/artist/0dZUiHIO2BUomz0xwglFiW) | [Get It Together](https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD) | 3:19 |
 | 42 | [Fish in a Gun Barrel](https://open.spotify.com/track/4pdBfPfMtp214dfD5lLV8y) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Fish in a Gun Barrel](https://open.spotify.com/album/5ntU0kpYol6245JVzljUeo) | 3:38 |
 | 43 | [Trust No One](https://open.spotify.com/track/5Z7xS2nswfBaO0u5itfwad) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Bears, Mayors, Scraps, & Bones \(Remastered\) \[10 Year Anniversary Editio\]](https://open.spotify.com/album/7IbxwkOPTz4RDtwK4FPnqc) | 2:43 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 46 | [20/20 Vision](https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 2:26 |
 | 47 | [The Left is Right](https://open.spotify.com/track/2bS83HL9u0Wg31zwUlp7ut) | [Desaparecidos](https://open.spotify.com/artist/1H8myCcRyST1S5CcXNHiYM) | [Payola](https://open.spotify.com/album/0znk4I7BChCGG8SZ5nRneU) | 2:25 |
 | 48 | [Accelerate](https://open.spotify.com/track/1H7dmgvLTkgfrlXzZckp4u) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Body Bag Your Scene](https://open.spotify.com/album/5Pa9fiKgIHnciDv8wdiCw0) | 3:47 |
-| 49 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
-| 50 | [Our Great Divide](https://open.spotify.com/track/70uib2Tdquyh4JDqvgUhZx) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:16 |
+| 49 | [Our Great Divide](https://open.spotify.com/track/70uib2Tdquyh4JDqvgUhZx) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:16 |
+| 50 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
 
-Snapshot ID: `MTY2NDcxMTI3MCwwMDAwMDAwMDllODZlYmFlMDMyZGNkZmNlYmZkNGJjNzE5M2VkZGE0`
+Snapshot ID: `MTY2NDcxMTI3MCwwMDAwMDAwMDFhNzlkYmUwZmU3ZGZlN2UwODA2MmJmMjY1OWQzOWY1`

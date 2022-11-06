@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: TOKIODK
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,615 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,625 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 7 | [Vida Bandida](https://open.spotify.com/track/7D6AtgWoXk6jfIruYHBmK7) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Da Lama ao Topo](https://open.spotify.com/album/7IGtw0TWJc1PnSeGf2jp5m) | 2:32 |
 | 8 | [Não Vou Voltar pro Inicio](https://open.spotify.com/track/11RdOd0rsmo2J84Dtv45zk) | [OG BRITTO](https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [808luc](https://open.spotify.com/artist/5rNKi6Cbr4REKCYw6IBApD) | [Não Vou Voltar pro Inicio](https://open.spotify.com/album/0nbu08GyM6WxVJQRLw3sZU) | 3:04 |
 | 9 | [Dia de Baile](https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 2:58 |
-| 10 | [Namorada Nova](https://open.spotify.com/track/65gAkSz41YfDQ4S70TG9Jd) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [Namorada Nova](https://open.spotify.com/album/3SggglQj8jp2Jgaf8sMTkX) | 3:46 |
+| 10 | [Namorada Nova](https://open.spotify.com/track/65gAkSz41YfDQ4S70TG9Jd) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX) | [Namorada Nova](https://open.spotify.com/album/3SggglQj8jp2Jgaf8sMTkX) | 3:46 |
 | 11 | [Direção](https://open.spotify.com/track/4hecOYH9nKVShk5gKu8OAC) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB) | [Top Boy Face, Vol\. 1](https://open.spotify.com/album/3NfBoZkmkSrABQ18BtghlM) | 2:43 |
 | 12 | [Sr das Armas](https://open.spotify.com/track/6xvmP4g3WaL4ptWSQMDXqo) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Sr das Armas](https://open.spotify.com/album/6l84Z5HurSE3ILSOPrsSly) | 2:26 |
 | 13 | [Midio](https://open.spotify.com/track/48x2oAieb2KwWhab3vhifB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u) | [Midio](https://open.spotify.com/album/0XiqFoJpqkH0DOHbq5bBlY) | 2:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Dan Shake
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,625 likes - 95 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,716 likes - 95 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 21 | [More Love](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [More Love](https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx) | 3:11 |
 | 22 | [Love Me Better \(feat\. Leah Guest\)](https://open.spotify.com/track/08BdwDsjgDp9N3ALRaKuYJ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Love Me Better \(feat\. Leah Guest\)](https://open.spotify.com/album/09PyXeLOshCAxaVs56KcMN) | 3:20 |
 | 23 | [Tom Tune](https://open.spotify.com/track/4K7597R5TJY28eIzoepPKo) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Tom Tune](https://open.spotify.com/album/4aodqYsMI5eX2BcI4DhAol) | 4:00 |
-| 24 | [Ride or Die](https://open.spotify.com/track/6uX3HDedpfYWZVrbqRwrjq) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [Ride or Die](https://open.spotify.com/album/61b6xkMZAHTklSFvQo7aax) | 3:17 |
+| 24 | [Ride or Die \(feat\. Roses Gabor\)](https://open.spotify.com/track/6uX3HDedpfYWZVrbqRwrjq) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Ride or Die \(feat\. Roses Gabor\)](https://open.spotify.com/album/61b6xkMZAHTklSFvQo7aax) | 3:17 |
 | 25 | [Organ Belta](https://open.spotify.com/track/0Uo3ri0yFn2iUh2c3Z54uO) | [Jamie Roy](https://open.spotify.com/artist/79ABJJGvLA87FSIayREkBM) | [Organ Belta](https://open.spotify.com/album/4DuqITm0UJZ2HQTpJ6gMga) | 6:00 |
 | 26 | [Don’t Walk Away](https://open.spotify.com/track/2TNkWEQkEj1ksOydBwurwF) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Don’t Walk Away](https://open.spotify.com/album/3YnMECirAZJqx2e40IiEC2) | 2:33 |
 | 27 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 |

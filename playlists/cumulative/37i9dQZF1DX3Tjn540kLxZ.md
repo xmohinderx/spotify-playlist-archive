@@ -4,7 +4,7 @@
 
 > bops you can always rely on ◡̈
 
-337 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
+338 songs - 19 hr 7 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Hollywood Swinging \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/1esVNOL8As1eKmdRl1JH6X) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [Minions: The Rise Of Gru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN) | 2:30 | 2022-07-04 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/0cBPuDA3xUjR4Vh9o7CKy8) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below](https://open.spotify.com/album/7wsYh6yS6jeVu4kDfIVD6U) | 5:06 | 2022-03-31 | 2022-04-17 |
 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 | 2022-07-04 |  |
-| [Honey Sweet](https://open.spotify.com/track/4D2rEIyYw0meeh8AOXqfxK) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Blossoms](https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk) | 3:35 | 2022-03-31 |  |
+| [Honey Sweet](https://open.spotify.com/track/4D2rEIyYw0meeh8AOXqfxK) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Blossoms](https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk) | 3:35 | 2022-03-31 | 2022-11-06 |
 | [How Can I Make It OK?](https://open.spotify.com/track/4esseJdxrcatxtl7Zk8Q5V) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/5OxxXTUecFQgCVqztbcynb) | 4:47 | 2021-12-22 | 2022-07-28 |
 | [How Do I Know?](https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [How Do I Know?](https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf) | 3:18 | 2022-02-04 | 2022-07-29 |
 | [How Not To Drown \(feat\. Robert Smith\)](https://open.spotify.com/track/0Z5lJxM6ongiaJ1z2ERwY3) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [How Not To Drown](https://open.spotify.com/album/4riAgQVKToWatpRuVplVH6) | 5:31 | 2022-03-31 | 2022-04-16 |
@@ -180,6 +180,7 @@
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2021-12-22 |  |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-12-22 | 2022-07-23 |
 | [Lost Cause](https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:32 | 2022-07-04 |  |
+| [Lots of Nothing](https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 3:16 | 2022-10-21 |  |
 | [Lots of Nothing](https://open.spotify.com/track/5A8f466QhliXjJxJ7h6LFB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lots of Nothing](https://open.spotify.com/album/2NqlE6CoTzeRYRYMVEab6H) | 3:16 | 2021-12-22 | 2022-07-29 |
 | [Love on the Weekend](https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:32 | 2022-03-31 |  |
 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 | 2021-12-22 |  |

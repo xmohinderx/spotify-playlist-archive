@@ -3511,10 +3511,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 170500,
       "name": "Pretty Waste",
       "url": "https://open.spotify.com/track/1j6XqVdSE5KlgfOxfXwiGX"
+    },
+    {
+      "album": {
+        "name": "Bones UK",
+        "url": "https://open.spotify.com/album/6YkF6eWFU0EhVHBnYzAgqv"
+      },
+      "artists": [
+        {
+          "name": "BONES UK",
+          "url": "https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Pretty Waste",
+      "url": "https://open.spotify.com/track/71HZdwtSopDs87RvpI8ip2"
     },
     {
       "album": {

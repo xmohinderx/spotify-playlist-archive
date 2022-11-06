@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
-  "num_followers": 9867,
+  "num_followers": 9898,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1ODg1MCwwMDAwMDAwMDk1MGFkNTkzYjg3MDc1NWIzNDliOWMxNGZmNGZiY2Nl",
+  "snapshot_id": "MTY2Njg1ODg1MCwwMDAwMDAwMGIxMzE3MTgzNmZlZmFjMmZjZjM0MGU0ZDQ3YmQ4MWUz",
   "tracks": [
     {
       "added_at": "2022-10-11 13:06:46",
@@ -139,18 +139,18 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Leapin' And Lopin'",
-        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
       "artists": [
         {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 402799,
-      "name": "Deep In A Dream",
-      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
+      "duration_ms": 266226,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
+        "name": "Leapin' And Lopin'",
+        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
         }
       ],
-      "duration_ms": 266226,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
+      "duration_ms": 402799,
+      "name": "Deep In A Dream",
+      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -235,6 +235,26 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
+        "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
+        "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 394173,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
         "name": "Soular Energy",
         "url": "https://open.spotify.com/album/35X3ykw0Ysj1Epv9Vx8uo8"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 345520,
       "name": "Exactly Like You",
       "url": "https://open.spotify.com/track/4gogxeItIt50DZFZrzCqqt"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
-        "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
-        "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        },
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 394173,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Pick up Sticks",
-      "url": "https://open.spotify.com/track/0XugQpP1aeQwpdGKHpjcci"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "Nights Of Ballads & Blues",
         "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 322560,
       "name": "Blue Monk",
       "url": "https://open.spotify.com/track/56XCdW9tzLtnbtupTLoBVJ"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Pick up Sticks",
+      "url": "https://open.spotify.com/track/0XugQpP1aeQwpdGKHpjcci"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "When Farmer Met Gryce",
         "url": "https://open.spotify.com/album/2ztfNhKe4VD2diiLMkR19a"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 365066,
       "name": "Social Call",
       "url": "https://open.spotify.com/track/2BiFCCFFXt9iIzEo4hnuoy"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+        }
+      ],
+      "duration_ms": 390666,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 334866,
+      "name": "Lonely Town",
+      "url": "https://open.spotify.com/track/3cv1Wq9k7OZq2oBb352J05"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -743,18 +759,18 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+        "name": "You Better Know It!!!",
+        "url": "https://open.spotify.com/album/6uGX7ozBLgPKWwKEhxm5pV"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
         }
       ],
-      "duration_ms": 334866,
-      "name": "Lonely Town",
-      "url": "https://open.spotify.com/track/3cv1Wq9k7OZq2oBb352J05"
+      "duration_ms": 307813,
+      "name": "Vibraphone Blues",
+      "url": "https://open.spotify.com/track/1ClCgQ5wG7US1Q8U7YOokD"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -787,22 +803,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "You Better Know It!!!",
-        "url": "https://open.spotify.com/album/6uGX7ozBLgPKWwKEhxm5pV"
-      },
-      "artists": [
-        {
-          "name": "Lionel Hampton",
-          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
-        }
-      ],
-      "duration_ms": 307813,
-      "name": "Vibraphone Blues",
-      "url": "https://open.spotify.com/track/1ClCgQ5wG7US1Q8U7YOokD"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "Everybody Gets the Blues",
         "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 229226,
       "name": "Everybody Gets the Blues",
       "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
-        "name": "Blue Serge",
-        "url": "https://open.spotify.com/album/5i1fTxPtjfONNBEuIStYIM"
-      },
-      "artists": [
-        {
-          "name": "Serge Chaloff",
-          "url": "https://open.spotify.com/artist/1Ic9vseHq7wmDPdsZyjMdv"
-        }
-      ],
-      "duration_ms": 335933,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/5KchCZytpApt4oW8f9rkLI"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -855,6 +839,38 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
+        "name": "Blue Serge",
+        "url": "https://open.spotify.com/album/5i1fTxPtjfONNBEuIStYIM"
+      },
+      "artists": [
+        {
+          "name": "Serge Chaloff",
+          "url": "https://open.spotify.com/artist/1Ic9vseHq7wmDPdsZyjMdv"
+        }
+      ],
+      "duration_ms": 335933,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/5KchCZytpApt4oW8f9rkLI"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "In Pursuit Of The 27th Man",
+        "url": "https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Summer In Central Park - Remastered",
+      "url": "https://open.spotify.com/track/20ZALyUySircoAOgNfp3Cs"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
         "name": "Legacy Of A Legend",
         "url": "https://open.spotify.com/album/0F2bmdj2Dm8zDnBRjmFpTN"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 301080,
       "name": "Ode To A Cowboy",
       "url": "https://open.spotify.com/track/6Oci0KLr1huChKVkO5MUVP"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
-        "name": "In Pursuit Of The 27th Man",
-        "url": "https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Summer In Central Park - Remastered",
-      "url": "https://open.spotify.com/track/20ZALyUySircoAOgNfp3Cs"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Blowin' The Blues Away",
-        "url": "https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 362280,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/5XjjmKaKGBgPuwOgm1Ux1j"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "Bass On Top (2007 Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4wKkVSHqJDGjSAOfULYoZf"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 404826,
       "name": "Dear Old Stockholm - Rudy Van Gelder Edition; 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/4C64gYHQq6JKrKmw70QkLq"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "Like Someone In Love",
+        "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 484333,
+      "name": "Like Someone In Love - Rudy Van Gelder Edition, 2004 Remaster",
+      "url": "https://open.spotify.com/track/5oEUptjKIrQ4eVMdwTiYcM"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Like Someone In Love",
-        "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
+        "name": "Blowin' The Blues Away",
+        "url": "https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc"
       },
       "artists": [
         {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 484333,
-      "name": "Like Someone In Love - Rudy Van Gelder Edition, 2004 Remaster",
-      "url": "https://open.spotify.com/track/5oEUptjKIrQ4eVMdwTiYcM"
+      "duration_ms": 362280,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/5XjjmKaKGBgPuwOgm1Ux1j"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Somebody Loves Me",
-      "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "Rollins Plays For Bird",
         "url": "https://open.spotify.com/album/7xdC42wA0bImc44aPgC6GW"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 292426,
       "name": "I've Grown Accustomed To Your Face",
       "url": "https://open.spotify.com/track/48VD2hFqAloMuDn9fLRp43"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Somebody Loves Me",
+      "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "The Lionel Hampton Quintet",
-        "url": "https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh"
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
       },
       "artists": [
         {
-          "name": "Lionel Hampton Quintet",
-          "url": "https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 382773,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
+      "duration_ms": 204200,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/3V2IgdbFSyoAYBwTujQ7GL"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+        "name": "The Lionel Hampton Quintet",
+        "url": "https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Lionel Hampton Quintet",
+          "url": "https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd"
         }
       ],
-      "duration_ms": 204200,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/3V2IgdbFSyoAYBwTujQ7GL"
+      "duration_ms": 382773,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1271,22 +1271,6 @@
       "duration_ms": 494440,
       "name": "Interplay",
       "url": "https://open.spotify.com/track/49AFmEeq9Ulx4YXA24yNKJ"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
-        "name": "Down With It",
-        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
-      },
-      "artists": [
-        {
-          "name": "Blue Mitchell",
-          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
-        }
-      ],
-      "duration_ms": 376333,
-      "name": "March On Selma - Remastered",
-      "url": "https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1311,6 +1295,22 @@
       "duration_ms": 402573,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/2XuM2irHH6kaHk4np8VIHL"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "Down With It",
+        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+      },
+      "artists": [
+        {
+          "name": "Blue Mitchell",
+          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+        }
+      ],
+      "duration_ms": 376333,
+      "name": "March On Selma - Remastered",
+      "url": "https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/3JKnr1nLxocKNQMpmpAhpt"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "The Dancing Monk",
         "url": "https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 287840,
       "name": "Light Blue",
       "url": "https://open.spotify.com/track/49TAOnpGdf97IhLd6g4SaG"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/3JKnr1nLxocKNQMpmpAhpt"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
+        "name": "Jump For Joy",
+        "url": "https://open.spotify.com/album/0A5J6BzWSkpp8l4ju04hCu"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Two Left Feet",
+      "url": "https://open.spotify.com/track/1USso5XOEXTvwWTwW5zS2V"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
         "name": "Etudes",
         "url": "https://open.spotify.com/album/6Y7tgGIv5fI0EQZbOxL45s"
       },
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Jump For Joy",
-        "url": "https://open.spotify.com/album/0A5J6BzWSkpp8l4ju04hCu"
+        "name": "Cliff Craft",
+        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Clifford Jordan",
+          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
         }
       ],
-      "duration_ms": 195333,
-      "name": "Two Left Feet",
-      "url": "https://open.spotify.com/track/1USso5XOEXTvwWTwW5zS2V"
+      "duration_ms": 511093,
+      "name": "Soul-Lo Blues - Remastered 1997",
+      "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1655,22 +1671,6 @@
       "duration_ms": 365304,
       "name": "S.N.C.F.",
       "url": "https://open.spotify.com/track/2QjzDjDawaDWHnN7KkJHhc"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
-        "name": "Cliff Craft",
-        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
-      },
-      "artists": [
-        {
-          "name": "Clifford Jordan",
-          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
-        }
-      ],
-      "duration_ms": 511093,
-      "name": "Soul-Lo Blues - Remastered 1997",
-      "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
     },
     {
       "added_at": "2022-10-11 13:06:46",

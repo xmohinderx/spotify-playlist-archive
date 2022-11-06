@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-114 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
+115 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 | 2018-12-11 |  |
 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 | 2019-09-16 |  |
 | [Canyon](https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX) | [Glded](https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH) | [Canyon](https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT) | 3:09 | 2018-12-11 |  |
-| [CARE](https://open.spotify.com/track/3VAdf6BXxTA7EpkaMvLxG4) | [Aaron Sayre](https://open.spotify.com/artist/5nFlxnPm75iO0XQTbmwxNZ) | [CARE](https://open.spotify.com/album/7AIKjTBeXLL1CseXezoqOp) | 3:28 | 2019-05-24 |  |
+| [CARE](https://open.spotify.com/track/3VAdf6BXxTA7EpkaMvLxG4) | [Aaron Sayre](https://open.spotify.com/artist/5nFlxnPm75iO0XQTbmwxNZ) | [CARE](https://open.spotify.com/album/7AIKjTBeXLL1CseXezoqOp) | 3:28 | 2019-05-24 | 2022-11-06 |
 | [Cycle](https://open.spotify.com/track/20Ugh1BvRxLSRiOmNylQoA) | [Su Na](https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s) | [Cycle](https://open.spotify.com/album/2PzYL5a3De3BZIvJPCCitP) | 3:08 | 2018-12-11 | 2022-07-29 |
 | [Cycle](https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR) | [Su Na](https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s) | [Cycle](https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS) | 3:08 | 2018-12-11 |  |
 | [Daydream](https://open.spotify.com/track/6DEDhjTllUrPw29BivTvn2) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [Joba](https://open.spotify.com/artist/2t64CHsmWouJNyXSwy5q2q) | [Daydream feat\. Joba](https://open.spotify.com/album/0WRsSZMzGnH9f4HOfzTybZ) | 3:20 | 2018-12-11 |  |
@@ -62,6 +62,7 @@
 | [I'm Right Here](https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0), [E\. Mosseri](https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI) | [Unusable Love](https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p) | 4:41 | 2018-12-11 |  |
 | [I'm Right Here](https://open.spotify.com/track/1P6nShfHtDMPeX9ioSpuDB) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0), [E\. Mosseri](https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI) | [I'm Right Here](https://open.spotify.com/album/40FBsidorGc3bClqQAvXYe) | 4:41 | 2018-12-11 | 2022-07-29 |
 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 | 2018-12-11 | 2022-11-04 |
+| [I'm sorry](https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Theres Still Us](https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3) | 2:37 | 2018-12-11 |  |
 | [I've Always Been](https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Zach Berro](https://open.spotify.com/artist/6t13QrSLbiVtlvksmoBgfH) | [I've Always Been](https://open.spotify.com/album/1p0q7Jmjsqwkt8xXmE9OcV) | 1:54 | 2018-12-11 |  |
 | [In Silence](https://open.spotify.com/track/0BsFp2sJPOdtRg3oUVWuh8) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [In Silence](https://open.spotify.com/album/5rTCzfuf6vmgD08IQBJlsx) | 4:18 | 2018-12-11 | 2022-07-29 |
 | [In Your Eyes \(feat\. Charlotte Day Wilson\) \- Nosaj Thing Remix](https://open.spotify.com/track/7rcbHVWq8rCgpC6dO93kyl) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [In Your Eyes \(feat\. Charlotte Day Wilson\) \[Nosaj Thing Remix\]](https://open.spotify.com/album/7fSFSItBNFLhjgH1c4F59R) | 3:20 | 2018-12-11 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Best Bollywood love songs from last 10 years\. Cover\- Arijit Singh
 
-107 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
+108 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Aashiqui Aa Gayi\(From "Radhe Shyam"\)](https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Aashiqui Aa Gayi \(From "Radhe Shyam"\)](https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd) | 4:20 | 2022-05-19 |  |
 | [Ae Dil Hai Mushkil Title Track](https://open.spotify.com/track/1UWacd8x8tPPwmrPB1MoBI) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 4:29 | 2022-05-19 |  |
 | [Agar Tum Saath Ho](https://open.spotify.com/track/3hkC9EHFZNQPXrtl8WPHnX) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tamasha](https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA) | 5:41 | 2022-05-19 |  |
+| [Apna Bana Le \(From "Bhediya"\)](https://open.spotify.com/track/7Els4IIFYa4P4RxBkZkxdd) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Apna Bana Le \(From "Bhediya"\)](https://open.spotify.com/album/7fL3C5d4cFW7XLZHq4jPwX) | 4:21 | 2022-11-05 |  |
 | [Atak Gaya \- Arijit Singh](https://open.spotify.com/track/5WzfGg2ueNoOS5aIkaR9qX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Badhaai Do \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2g7GkmjF2onRnLexy9cUiC) | 3:19 | 2022-05-19 |  |
 | [Baliye Re \(From "Jersey"\)](https://open.spotify.com/track/5akb3M2p00EhXATJpHbUFD) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Baliye Re \(From "Jersey"\)](https://open.spotify.com/album/766Nv5EoEPjfsS5ONUoUja) | 3:07 | 2022-05-19 |  |
 | [Bandeya \(feat\. Arijit Singh\) \- From "Dil Juunglee"](https://open.spotify.com/track/6gwnKOvdBKkTU4CQ7KpIAu) | [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Bandeya \(feat\. Arijit Singh\) \[From "Dil Juunglee"\]](https://open.spotify.com/album/0eBjbMAR0N7knX6hBT6c3h) | 3:04 | 2022-05-19 |  |

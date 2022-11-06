@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 417217,
+  "num_followers": 417288,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDE1MjM4OWQ5ODcyYTM1MTYyNDE4MmU5NzViYmE2NWYw",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGE5MWE0MzI1NGMwNzc4NGM2MmMxN2Q4Y2YxMDFmOTJl",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "The Angels In Heaven Done Signed My Name",
-        "url": "https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa"
-      },
-      "artists": [
-        {
-          "name": "Leo \"Bud\" Welch",
-          "url": "https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd"
-        }
-      ],
-      "duration_ms": 165727,
-      "name": "Don't Let The Devil Ride",
-      "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "There's a Light",
         "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 277675,
       "name": "Empty Me Out",
       "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "The Angels In Heaven Done Signed My Name",
+        "url": "https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa"
+      },
+      "artists": [
+        {
+          "name": "Leo \"Bud\" Welch",
+          "url": "https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd"
+        }
+      ],
+      "duration_ms": 165727,
+      "name": "Don't Let The Devil Ride",
+      "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Ice Cream & Cigarettes",
         "url": "https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 172240,
       "name": "Ice Cream & Cigarettes",
       "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Magnolia Blues",
@@ -931,6 +915,22 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Hitchin' a Ride",
-        "url": "https://open.spotify.com/album/52GMS1garIMItzvmogm1MF"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 270820,
-      "name": "Hitchin' a Ride",
-      "url": "https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Hands To Myself",
@@ -1169,20 +1153,20 @@
       "url": "https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
+      "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+        "name": "Hitchin' a Ride",
+        "url": "https://open.spotify.com/album/52GMS1garIMItzvmogm1MF"
       },
       "artists": [
         {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
         }
       ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
+      "duration_ms": 270820,
+      "name": "Hitchin' a Ride",
+      "url": "https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1199,6 +1183,22 @@
       "duration_ms": 223182,
       "name": "Freedom Road",
       "url": "https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
       "added_at": "2022-01-28 05:01:00",

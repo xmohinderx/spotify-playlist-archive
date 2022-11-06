@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 856 likes - 25 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 857 likes - 25 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 24 | [Forgotten Paths](https://open.spotify.com/track/2PUjmpblg9f1Cy9KItnQSJ) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 1:46 |
 | 25 | [Immediate Horizon 4](https://open.spotify.com/track/3sVoD2TNyGarLfFMKAHSVi) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 11:59 |
 
-Snapshot ID: `Mjc3OTM0MTQsMDAwMDAwMDBkMjE3YzI4YTVkNGUxODlhMTljOTY4ZWZlODY1MzM1Yw==`
+Snapshot ID: `Mjc3OTQ0MzUsMDAwMDAwMDA0N2NjMmI2NGZlYjZmOTg5OTZjNGQ5ZjljNTZhM2VhMA==`

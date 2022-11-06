@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in
 
-341 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/4ErUvcpZdUGk4GTDxGrgwc)
+342 songs - 17 hr 42 min - [published](https://open.spotify.com/playlist/4ErUvcpZdUGk4GTDxGrgwc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Love Sosa](https://open.spotify.com/track/4IowQDUOzUvNtp72HMDcKO) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich \(Deluxe\)](https://open.spotify.com/album/6VML3yX1WR5pXtg6fmwdzZ) | 4:06 | 2021-09-02 | 2022-07-29 |
 | [Lucky You \(feat\. Joyner Lucas\)](https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:04 | 2021-09-02 |  |
 | [Lurkin](https://open.spotify.com/track/1hXFmRJcLVmp1rRMwzgnKE) | [Funk Flex](https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Lurkin](https://open.spotify.com/album/7jhAXcVm0HAIZxoLRVlJWH) | 1:40 | 2021-09-02 |  |
+| [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-04 |  |
 | [Make It Rain](https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Make It Rain](https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC) | 3:24 | 2021-09-02 |  |
 | [Many Men \(Wish Death\)](https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:16 | 2021-09-02 |  |
 | [March Madness](https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 4:04 | 2022-06-24 |  |
@@ -190,7 +191,7 @@
 | [Middle of It \(feat\. Vory\)](https://open.spotify.com/track/7pAx4fG3EJzPyZkqPVvy4n) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [QUARANTINE PACK](https://open.spotify.com/album/5VOW9zYV8KoErvgrLYqKR2) | 3:26 | 2021-09-02 | 2022-06-25 |
 | [Millidelphia \(feat\. Swizz Beatz\)](https://open.spotify.com/track/1dQ84P0W0lOckT02lPEhhP) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Legends of the Summer](https://open.spotify.com/album/10VeHPWU3210DSCq0uQ9uN) | 3:35 | 2021-09-02 | 2022-06-25 |
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2021-09-02 |  |
-| [Mob Ties](https://open.spotify.com/track/7rC5Pl8rQSX4myONQHYPBK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:25 | 2021-09-02 |  |
+| [Mob Ties](https://open.spotify.com/track/7rC5Pl8rQSX4myONQHYPBK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:25 | 2021-09-02 | 2022-11-06 |
 | [Money In The Grave \(Drake ft\. Rick Ross\)](https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Best In The World Pack](https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4) | 3:25 | 2021-09-02 |  |
 | [Money Mouf](https://open.spotify.com/track/2ab4xGVMBb14NpPrj4xDq5) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Money Mouf](https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG) | 3:31 | 2021-09-02 | 2022-06-25 |
 | [Money To Get](https://open.spotify.com/track/1lyOiMOEBnENIyIUJI3Lx6) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [Wish Me Well 3](https://open.spotify.com/album/4ZAcg9Y4vCRGrkTWroSKsk) | 2:45 | 2021-09-02 | 2022-06-21 |

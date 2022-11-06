@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 43586,
+  "num_followers": 43720,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2Mjk0NSwwMDAwMDAwMGZmNjg2MDY2NGFiYTJlOGIzYzM3YmY1ZjI2YWQzZDVl",
+  "snapshot_id": "MTY2NTc2Mjk0NSwwMDAwMDAwMGJhM2U5MmYyMjZiMjMzOGYxNWMyMmE3MGY1MThmZWNk",
   "tracks": [
     {
       "added_at": "2022-10-10 12:52:23",
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/6lPmuDm7kvUcdK2omu6B38"
     },
     {
-      "added_at": "2022-11-05 01:29:31",
+      "added_at": "2022-11-06 01:27:03",
       "album": {
         "name": "Sisters & Brothers",
         "url": "https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz"
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Extraordinary Times (The Duo Sessions)",
-        "url": "https://open.spotify.com/album/6hnHx3h7NFAkWE7EbseSHk"
-      },
-      "artists": [
-        {
-          "name": "Natural Blues",
-          "url": "https://open.spotify.com/artist/0Uiywt2Agresj5Su8OxALd"
-        }
-      ],
-      "duration_ms": 206606,
-      "name": "Sweet Goddess Blues",
-      "url": "https://open.spotify.com/track/3XMPpennPuz3oZnOZx193p"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Heavy Load Blues",
         "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+        "name": "Extraordinary Times (The Duo Sessions)",
+        "url": "https://open.spotify.com/album/6hnHx3h7NFAkWE7EbseSHk"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Natural Blues",
+          "url": "https://open.spotify.com/artist/0Uiywt2Agresj5Su8OxALd"
         }
       ],
-      "duration_ms": 339600,
-      "name": "One Room Country Shack",
-      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
+      "duration_ms": 206606,
+      "name": "Sweet Goddess Blues",
+      "url": "https://open.spotify.com/track/3XMPpennPuz3oZnOZx193p"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -623,6 +607,22 @@
       "duration_ms": 271000,
       "name": "Woke up This Morning",
       "url": "https://open.spotify.com/track/5dAoQMVA2jwl1hCTJGeWAm"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 339600,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Rory Gallagher (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "For The Last Time - Alternate Take 1",
-      "url": "https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "High Flying Bird",
         "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 187893,
       "name": "Till the Real Thing Comes Along",
       "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "Rory Gallagher (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "For The Last Time - Alternate Take 1",
+      "url": "https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -943,6 +943,38 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
+        "name": "The Beginning (Remastered)",
+        "url": "https://open.spotify.com/album/5CijRmgFDpNamMyRoRGoZf"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 304026,
+      "name": "Who You Gonna Hoo-Doo Now",
+      "url": "https://open.spotify.com/track/65LUKFzNaTOChsZPAZIUq2"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "Blues Kingpins",
+        "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 179813,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
         "name": "The Natch'l Blues",
         "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
@@ -975,38 +1007,6 @@
       "duration_ms": 182761,
       "name": "Been Worryin'",
       "url": "https://open.spotify.com/track/088kWm2bfPw22I3jIa6Yll"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
-        "name": "The Beginning (Remastered)",
-        "url": "https://open.spotify.com/album/5CijRmgFDpNamMyRoRGoZf"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 304026,
-      "name": "Who You Gonna Hoo-Doo Now",
-      "url": "https://open.spotify.com/track/65LUKFzNaTOChsZPAZIUq2"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
-        "name": "Blues Kingpins",
-        "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Great God Almighty (Demo, Summer 2018)",
-        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
+        "name": "Simple Truths",
+        "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
       },
       "artists": [
         {
-          "name": "Mike Trask",
-          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
+          "name": "The Holmes Brothers",
+          "url": "https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW"
         }
       ],
-      "duration_ms": 178276,
-      "name": "Great God Almighty - Demo, Summer 2018",
-      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
+      "duration_ms": 280306,
+      "name": "I'm So Lonely",
+      "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
     }
   ],
   "unique_name": "Morning Blues",

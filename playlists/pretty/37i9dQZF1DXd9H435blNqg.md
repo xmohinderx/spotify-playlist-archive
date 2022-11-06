@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,867 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,957 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 47 | [Them That Matter Don't Mind](https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:49 |
 | 48 | [Reaching](https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Reaching](https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ) | 3:15 |
 | 49 | [Bottom Shelf Gin](https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bottom Shelf Gin](https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC) | 3:02 |
-| 50 | [29 Gold Stars](https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Demons](https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj) | 2:25 |
+| 50 | [Going Down](https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Going Down](https://open.spotify.com/album/3Gvjf4FDSIqcBScnLI2Kw5) | 3:28 |
 
-Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMDI5NmYwNzVkMGQzMjdkZDhkZDdkYmEyYjUxMTkwZWZj`
+Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMDRjMzljYjMyMTI0YjIwZGI5OTYxYTc1NWMxOTVmMTQz`

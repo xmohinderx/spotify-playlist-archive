@@ -4,7 +4,7 @@
 
 > A playlist to get you through your whole workday.
 
-350 songs - 20 hr 2 min - [published](https://open.spotify.com/playlist/3C6WbDdRTToG5FIYL3Fv3Q)
+351 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/3C6WbDdRTToG5FIYL3Fv3Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Someday](https://open.spotify.com/track/5sh7DKRH3YICFDDAVHVcUs) | [Jackie Lipson](https://open.spotify.com/artist/6b99BX40EX6IVdqKwS1by1) | [Someday](https://open.spotify.com/album/1ppMHkpfwUZKRAxBXOJ1fV) | 3:40 | 2021-04-30 | 2022-07-29 |
 | [Something About You](https://open.spotify.com/track/63HPS15Kvde81RVcgTe8aR) | [Alec Baker](https://open.spotify.com/artist/6LiCSW2S9Lj5JbKzmCTAoC), [MANX](https://open.spotify.com/artist/74WNgPQ4D1MxnrXdQjTylg) | [Something About You](https://open.spotify.com/album/1NLuoL6Z8P3uE8DEIEwA20) | 2:47 | 2021-04-30 | 2022-07-26 |
 | [Somewhere in Ann Arbor](https://open.spotify.com/track/7EurJLsr9GPEp8Aq5LJvOK) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Somewhere in Ann Arbor](https://open.spotify.com/album/7zt3lJbBlBnA58fYD619Me) | 3:32 | 2021-04-30 | 2022-07-29 |
+| [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 | 2021-04-30 |  |
 | [spark](https://open.spotify.com/track/3S8ltNG88j9u6JHGa0b7um) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [Spark](https://open.spotify.com/album/3lEcbe0Mua4mPnYcaPt3Nl) | 3:25 | 2021-04-30 | 2022-07-29 |
 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 | 2021-04-30 |  |
 | [Stay The Way I Left You \(feat\. Dahl\)](https://open.spotify.com/track/4Eyid2OjeyXZ2fQ8eELXMi) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [Late Teens / Early Twenties… Stay The Way I Left You](https://open.spotify.com/album/0dhxCW84HD7542YTTuxSce) | 2:12 | 2021-04-30 | 2022-07-29 |
@@ -353,7 +354,7 @@
 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 | 2021-04-30 | 2022-07-29 |
 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 | 2021-04-30 |  |
 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 | 2021-04-30 |  |
-| [You Said You'd Grow Old With Me](https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Wide Awake](https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn) | 3:44 | 2021-04-30 |  |
+| [You Said You'd Grow Old With Me](https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Wide Awake](https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn) | 3:44 | 2021-04-30 | 2022-11-06 |
 | [You Say](https://open.spotify.com/track/3ngc7rGlfeFaskU90EWl4R) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1) | 4:34 | 2021-04-30 | 2022-07-25 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2021-04-30 |  |
 | [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 | 2021-04-30 | 2022-07-29 |

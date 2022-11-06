@@ -1,12 +1,12 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 154019,
+  "num_followers": 154066,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDdmMTVkYzllNWE5N2VlYjk5MzcwMDQ4OGYzODliMzFk",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGNmMTcwNzEzODQ1NTEyZGM4OGJmYzNjN2EyZTM3NWQw",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "On My Side",
+        "url": "https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 284946,
+      "name": "Throne Room",
+      "url": "https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Moments (Live)",
         "url": "https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "On My Side",
-        "url": "https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 284946,
-      "name": "Throne Room",
-      "url": "https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Miracle or Not",
         "url": "https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 243269,
       "name": "My Prayer For You",
       "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Yeshua (Spontaneous) [Live]",
-        "url": "https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj"
-      },
-      "artists": [
-        {
-          "name": "Eleni Baker",
-          "url": "https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3"
-        }
-      ],
-      "duration_ms": 417230,
-      "name": "Yeshua (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -779,22 +763,34 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+        "name": "Yeshua (Spontaneous) [Live]",
+        "url": "https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Eleni Baker",
+          "url": "https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3"
         }
       ],
-      "duration_ms": 510795,
-      "name": "Nothing Else - Live",
-      "url": "https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE"
+      "duration_ms": 417230,
+      "name": "Yeshua (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS"
+      },
+      "artists": [
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 241613,
+      "name": "For The One",
+      "url": "https://open.spotify.com/track/1ddwacpPT1g1cA2WhL40sI"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -823,6 +819,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 510795,
+      "name": "Nothing Else - Live",
+      "url": "https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/2xcM934KYzqGv2gQTtm5CH"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 296365,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/54rJa67IrktOcXKYw7wGTR"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS"
-      },
-      "artists": [
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 241613,
-      "name": "For The One",
-      "url": "https://open.spotify.com/track/1ddwacpPT1g1cA2WhL40sI"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -935,6 +935,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Isn't He (This Jesus)",
+        "url": "https://open.spotify.com/album/6RjmjrxlN18E8vR04zwfMu"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 590437,
+      "name": "Isn't He (This Jesus)",
+      "url": "https://open.spotify.com/track/3ehg0c0FEpEA2lxc8R4j6N"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 431933,
       "name": "To The End",
       "url": "https://open.spotify.com/track/7qKk8olaMUdcOTcU3Txl34"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Isn't He (This Jesus)",
-        "url": "https://open.spotify.com/album/6RjmjrxlN18E8vR04zwfMu"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 590437,
-      "name": "Isn't He (This Jesus)",
-      "url": "https://open.spotify.com/track/3ehg0c0FEpEA2lxc8R4j6N"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1067,22 +1067,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
-        "url": "https://open.spotify.com/album/0bQNI1uTT20rFfRCscEOQE"
+        "name": "All The Earth (Live)",
+        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
       },
       "artists": [
         {
-          "name": "Iron Bell Music",
-          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
         },
         {
-          "name": "Stephen McWhirter",
-          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+          "name": "Maggie Reed",
+          "url": "https://open.spotify.com/artist/3a0meM2g0dprjKcoYVDc3C"
         }
       ],
-      "duration_ms": 315946,
-      "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
-      "url": "https://open.spotify.com/track/7Mz7SHTiO35YhJCixHoIqN"
+      "duration_ms": 317205,
+      "name": "You're Not Finished Yet - Live",
+      "url": "https://open.spotify.com/track/5P0VnOO7uBkiCAjvS4xJfG"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1139,22 +1139,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "All The Earth (Live)",
-        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
+        "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
+        "url": "https://open.spotify.com/album/0bQNI1uTT20rFfRCscEOQE"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+          "name": "Iron Bell Music",
+          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
         },
         {
-          "name": "Maggie Reed",
-          "url": "https://open.spotify.com/artist/3a0meM2g0dprjKcoYVDc3C"
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
         }
       ],
-      "duration_ms": 317205,
-      "name": "You're Not Finished Yet - Live",
-      "url": "https://open.spotify.com/track/5P0VnOO7uBkiCAjvS4xJfG"
+      "duration_ms": 315946,
+      "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
+      "url": "https://open.spotify.com/track/7Mz7SHTiO35YhJCixHoIqN"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "How Can It Be (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Now is Forever - Bonus Track",
+      "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "More Like Jesus (Live)",
         "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 338694,
       "name": "More Like Jesus - Live",
       "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "How Can It Be (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Now is Forever - Bonus Track",
-      "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1387,30 +1387,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "God, You're So Good (Live)",
-        "url": "https://open.spotify.com/album/60oSR3Ij3WnoVvZGPqD12G"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        },
-        {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
-        }
-      ],
-      "duration_ms": 426699,
-      "name": "God, You\u2019re So Good - Live",
-      "url": "https://open.spotify.com/track/3OBG99yPHZwjhPpALz17jm"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Here (Live)",
         "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
       },
@@ -1459,6 +1435,30 @@
       "duration_ms": 326706,
       "name": "Mention Of Your Name",
       "url": "https://open.spotify.com/track/1uXkEGf3fmK2OkdoDvJdH0"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "God, You're So Good (Live)",
+        "url": "https://open.spotify.com/album/60oSR3Ij3WnoVvZGPqD12G"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "duration_ms": 426699,
+      "name": "God, You\u2019re So Good - Live",
+      "url": "https://open.spotify.com/track/3OBG99yPHZwjhPpALz17jm"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The War Is Over",
-        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8"
       },
       "artists": [
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 362746,
-      "name": "You Deserve It All",
-      "url": "https://open.spotify.com/track/2e5gy7g1ZNm1VgIds9PC0E"
+      "duration_ms": 227093,
+      "name": "Sing My Way Back",
+      "url": "https://open.spotify.com/track/6h5pFZKZMvobTx6UVceeyX"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8"
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
       },
       "artists": [
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 227093,
-      "name": "Sing My Way Back",
-      "url": "https://open.spotify.com/track/6h5pFZKZMvobTx6UVceeyX"
+      "duration_ms": 362746,
+      "name": "You Deserve It All",
+      "url": "https://open.spotify.com/track/2e5gy7g1ZNm1VgIds9PC0E"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS"
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
       },
       "artists": [
         {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 293986,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6"
+      "duration_ms": 297320,
+      "name": "The Cause Of Christ",
+      "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
         }
       ],
-      "duration_ms": 297320,
-      "name": "The Cause Of Christ",
-      "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
+      "duration_ms": 293986,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The War Is Over",
-        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
       "artists": [
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         }
       ],
-      "duration_ms": 340426,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/0NWIUe3LhNeILtOv5fWmpA"
+      "duration_ms": 282293,
+      "name": "Heart Wide Open",
+      "url": "https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh"
     }
   ],
   "unique_name": "Signs & Wonders",

@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 94819,
+  "num_followers": 94843,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMGQ0NjI0NjYwMjMzYjVhZGY1MzRkZWE5ZjczOTdjNzgx",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDYwYmIyOTdmMTNhM2RjMmNhODYyNTc4ZTM4YjEwNjIy",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -655,18 +655,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+        "name": "Under the Influence: Holiday Edition",
+        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
       },
       "artists": [
         {
           "name": "Straight No Chaser",
           "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        },
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
         }
       ],
-      "duration_ms": 167933,
-      "name": "Shut up and Dance",
-      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
+      "duration_ms": 160840,
+      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
+      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -751,22 +755,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Under the Influence: Holiday Edition",
-        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
       },
       "artists": [
         {
           "name": "Straight No Chaser",
           "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        },
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
         }
       ],
-      "duration_ms": 160840,
-      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
-      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
+      "duration_ms": 167933,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
     },
     {
       "added_at": "2021-12-24 05:00:00",

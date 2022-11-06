@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Javiera Mena
 
-451 songs - 1 day 2 hr 4 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+452 songs - 1 day 2 hr 7 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 | 2022-10-28 |  |
 | [PSILOCIBINA](https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99) | 3:17 | 2022-07-15 | 2022-10-30 |
 | [PSILOCIBINA](https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm) | 3:17 | 2022-01-14 | 2022-07-27 |
+| [PSILOCIBINA](https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1) | 3:17 | 2022-10-28 |  |
 | [PSILOCIBINA](https://open.spotify.com/track/7FEvlCsK8J6IWyRvog7V2O) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/00RQtUO8IFXb2XMb66xV1w) | 3:17 | 2022-01-21 | 2022-07-29 |
 | [Puedo Esperar](https://open.spotify.com/track/7wFoL9zlaGUuzc4myS2TM1) | [Caravanchela](https://open.spotify.com/artist/647pAP1QqIu4XzEYuuR26c), [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Puedo Esperar](https://open.spotify.com/album/4EPcvJ1Z8VjkQKYD1LpXr7) | 3:50 | 2022-01-21 | 2022-04-21 |
 | [Puta](https://open.spotify.com/track/1Ckm84P3YA0OHp4fgOrGDQ) | [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Puta](https://open.spotify.com/album/3OgATgCeOhZICDDVyX1cLK) | 2:03 | 2022-07-15 | 2022-07-19 |
@@ -361,7 +362,7 @@
 | [Roma](https://open.spotify.com/track/6x5GX0efAvoP7UPREJZ7JO) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Roma](https://open.spotify.com/album/4T10MaEXDPURJu82rNHHjp) | 3:25 | 2022-04-01 | 2022-06-17 |
 | [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 | 2022-07-30 |
 | [Rush](https://open.spotify.com/track/0XSKYcnq53sJMPBH3pp8wL) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Rush](https://open.spotify.com/album/58vRiAOoBIOR091LSSvJau) | 3:15 | 2022-01-14 | 2022-07-29 |
-| [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 | 2022-07-15 |  |
+| [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 | 2022-07-15 | 2022-11-06 |
 | [Santiago](https://open.spotify.com/track/1hVYdvPaE54bVdAXP5wqev) | [Maria Perlita](https://open.spotify.com/artist/6CggKxKQ8oV0vt93nmYMRj) | [Santiago](https://open.spotify.com/album/43rnbuJiVS8gUnInXlPJox) | 3:19 | 2022-04-01 | 2022-04-28 |
 | [Se Veía Venir](https://open.spotify.com/track/66beGFF4xXL7U8cwJASEj0) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Se Veía Venir](https://open.spotify.com/album/7hWv3HzsI7iGsCnDjo9Ovb) | 3:00 | 2022-01-21 | 2022-07-26 |
 | [Secretos](https://open.spotify.com/track/1NdnraK92SRP3xp54zJbum) | [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Amala](https://open.spotify.com/album/3yiIXKQwT5SN7RmOP2Xnkn) | 6:43 | 2022-04-01 | 2022-07-05 |
@@ -376,7 +377,7 @@
 | [Siguiendo Cometas](https://open.spotify.com/track/7ab9X86hyUZIA62pV4Hu23) | [Laurela](https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP) | [Siguiendo Cometas](https://open.spotify.com/album/6N568XnPFKOsCNpX1lA1Xd) | 3:40 | 2022-04-20 | 2022-07-20 |
 | [Sin control](https://open.spotify.com/track/4yNonlwveBYAglVu6lO4hw) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Sin control](https://open.spotify.com/album/55UvtCx5rsi1djBrqEJ7tb) | 3:46 | 2022-01-14 | 2022-07-21 |
 | [Sin Miradas](https://open.spotify.com/track/7J5HcxpEn4FZ42Bndakwau) | [Fenna Frei](https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw) | [Sin Miradas](https://open.spotify.com/album/674JFXLCHOc7By7JFZJCOG) | 3:38 | 2022-04-01 | 2022-06-01 |
-| [sin tu fuego](https://open.spotify.com/track/0Kwclo1cdzghNqwyKpHX2a) | [Mia Zeta](https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH), [Chiara Parravicini](https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas) | [Hasta en los sueños...](https://open.spotify.com/album/2XROkO1mV6lmieLcEovpwL) | 4:18 | 2022-09-02 |  |
+| [sin tu fuego](https://open.spotify.com/track/0Kwclo1cdzghNqwyKpHX2a) | [Mia Zeta](https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH), [Chiara Parravicini](https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas) | [Hasta en los sueños...](https://open.spotify.com/album/2XROkO1mV6lmieLcEovpwL) | 4:18 | 2022-09-02 | 2022-11-06 |
 | [Solo quiero sentirme bien](https://open.spotify.com/track/6jFJ0ss3vSt4vuVYY1wbVf) | [Keid](https://open.spotify.com/artist/10DNn9HHT42zKRdYGCr7Yd) | [Solo quiero sentirme bien](https://open.spotify.com/album/53t64PvlmaFmw8mhD45tU5) | 2:21 | 2022-01-14 | 2022-06-04 |
 | [Soltera](https://open.spotify.com/track/54eU7KkafnxQUioXKrWCNm) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Soltera](https://open.spotify.com/album/0Y2d8ymerPASyiF6pDKjO1) | 2:58 | 2022-02-11 | 2022-06-19 |
 | [Somos](https://open.spotify.com/track/6IKHJSEh5a8ATDGHrJYh3j) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Somos](https://open.spotify.com/album/5UEYKixtSCS2c8qiXDJFPc) | 3:41 | 2022-01-21 | 2022-04-09 |
@@ -423,7 +424,7 @@
 | [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 | 2022-07-15 |  |
 | [Un Día Planté una Rosa](https://open.spotify.com/track/3BvyDuC2IhlSpG3DfnnXMR) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 2:41 | 2022-01-21 | 2022-07-26 |
 | [Un Gatito](https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Un Gatito](https://open.spotify.com/album/37mDIREfofAksvorhbC64M) | 3:05 | 2022-01-14 |  |
-| [Una explicación ♡](https://open.spotify.com/track/39EG6Am3ngPyFR6D0RvlPv) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Una explicación ♡](https://open.spotify.com/album/6ojhXYnBSJikw6ad2RECVR) | 3:03 | 2022-06-03 | 2022-10-18 |
+| [Una explicación ♡](https://open.spotify.com/track/39EG6Am3ngPyFR6D0RvlPv) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Una explicación ♡](https://open.spotify.com/album/6ojhXYnBSJikw6ad2RECVR) | 3:03 | 2022-06-03 |  |
 | [una mierda](https://open.spotify.com/track/4LHhCe6lsP0SjHCc9p4JUz) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [una mierda](https://open.spotify.com/album/5k0nwJYBXi7ThDotmYzjuq) | 3:09 | 2022-01-21 | 2022-07-27 |
 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 | 2022-01-21 | 2022-07-28 |
 | [Uuu](https://open.spotify.com/track/0n6GBjCRWTuUx1tJkks68A) | [Ruidas](https://open.spotify.com/artist/6hBhlnqFApSOZe6ZQlYwlC) | [Multisensual](https://open.spotify.com/album/4IMqOie0AAZ5zfWgzzPJW7) | 3:29 | 2022-04-01 | 2022-04-20 |

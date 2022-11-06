@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Lila Tirando a Violeta Artwork: Thami Nabil",
-  "num_followers": 95197,
+  "num_followers": 95252,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkzMjM5OCwwMDAwMDAwMDhmZDJiNzRhYWU3MzNmNGIyZTQ5NDYyYmYwZDc0NTc1",
+  "snapshot_id": "MTY2NDkzMjM5OCwwMDAwMDAwMGUzMGZlNDg1ODAyMDVhNjMxZGRhYTJlMzU3ZWY0YTBm",
   "tracks": [
     {
       "added_at": "2022-09-14 04:00:00",
@@ -421,22 +421,6 @@
       "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
-      "added_at": "2022-09-27 23:34:16",
-      "album": {
-        "name": "Right to Riot",
-        "url": "https://open.spotify.com/album/6ao74P19GgK7yXjUZvAbbT"
-      },
-      "artists": [
-        {
-          "name": "Hagop Tchaparian",
-          "url": "https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW"
-        }
-      ],
-      "duration_ms": 300392,
-      "name": "Right to Riot",
-      "url": "https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt"
-    },
-    {
       "added_at": "2022-09-21 02:54:10",
       "album": {
         "name": "caso de estudio",
@@ -451,6 +435,22 @@
       "duration_ms": 225822,
       "name": "to all the plants i loved",
       "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
+    },
+    {
+      "added_at": "2022-09-27 23:34:16",
+      "album": {
+        "name": "Right to Riot",
+        "url": "https://open.spotify.com/album/6ao74P19GgK7yXjUZvAbbT"
+      },
+      "artists": [
+        {
+          "name": "Hagop Tchaparian",
+          "url": "https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW"
+        }
+      ],
+      "duration_ms": 300392,
+      "name": "Right to Riot",
+      "url": "https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt"
     },
     {
       "added_at": "2022-08-31 04:02:01",
@@ -485,38 +485,6 @@
       "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
     },
     {
-      "added_at": "2022-09-14 04:00:00",
-      "album": {
-        "name": "Heaven Come Crashing",
-        "url": "https://open.spotify.com/album/15hyxv55DQ8mUaqQVLlrBP"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Our Wretched Fantasy",
-      "url": "https://open.spotify.com/track/5lstHySnldFN68oPjVdp4E"
-    },
-    {
-      "added_at": "2022-09-21 02:54:10",
-      "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Trececerotres",
-      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
-    },
-    {
       "added_at": "2022-09-21 02:54:10",
       "album": {
         "name": "The Metallic Index / Pulsion (Nurse on Train)",
@@ -537,20 +505,36 @@
       "url": "https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
+      "added_at": "2022-09-21 02:54:10",
       "album": {
-        "name": "Theory",
-        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
       },
       "artists": [
         {
-          "name": "TAKA",
-          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
-      "duration_ms": 238846,
-      "name": "deaf",
-      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
+      "duration_ms": 135773,
+      "name": "Trececerotres",
+      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
+    },
+    {
+      "added_at": "2022-09-14 04:00:00",
+      "album": {
+        "name": "Heaven Come Crashing",
+        "url": "https://open.spotify.com/album/15hyxv55DQ8mUaqQVLlrBP"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Our Wretched Fantasy",
+      "url": "https://open.spotify.com/track/5lstHySnldFN68oPjVdp4E"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -569,6 +553,22 @@
       "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
     },
     {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "Theory",
+        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
+      },
+      "artists": [
+        {
+          "name": "TAKA",
+          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
+        }
+      ],
+      "duration_ms": 238846,
+      "name": "deaf",
+      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
+    },
+    {
       "added_at": "2022-09-27 23:34:16",
       "album": {
         "name": "1994",
@@ -583,6 +583,22 @@
       "duration_ms": 645372,
       "name": "Ola De Luz",
       "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
+    },
+    {
+      "added_at": "2022-09-27 23:34:16",
+      "album": {
+        "name": "First Fall",
+        "url": "https://open.spotify.com/album/7JBiWEAj1vO4zIY5q0WzF5"
+      },
+      "artists": [
+        {
+          "name": "Surgeons Girl",
+          "url": "https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP"
+        }
+      ],
+      "duration_ms": 250562,
+      "name": "First Fall",
+      "url": "https://open.spotify.com/track/6AN0JXPYfKBBt0448z4gIo"
     },
     {
       "added_at": "2022-09-21 02:54:10",
@@ -603,22 +619,6 @@
       "duration_ms": 494686,
       "name": "Castlefields",
       "url": "https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov"
-    },
-    {
-      "added_at": "2022-09-27 23:34:16",
-      "album": {
-        "name": "First Fall",
-        "url": "https://open.spotify.com/album/7JBiWEAj1vO4zIY5q0WzF5"
-      },
-      "artists": [
-        {
-          "name": "Surgeons Girl",
-          "url": "https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP"
-        }
-      ],
-      "duration_ms": 250562,
-      "name": "First Fall",
-      "url": "https://open.spotify.com/track/6AN0JXPYfKBBt0448z4gIo"
     },
     {
       "added_at": "2022-09-21 02:54:10",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy"
     },
     {
+      "added_at": "2022-09-21 02:54:10",
+      "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Exile on \u00c6r\u00f8",
+      "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
+    },
+    {
       "added_at": "2022-09-07 04:00:00",
       "album": {
         "name": "UMMA (Remix)",
@@ -707,22 +723,6 @@
       "duration_ms": 197142,
       "name": "UMMA - Arssalendo Remix",
       "url": "https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0"
-    },
-    {
-      "added_at": "2022-09-21 02:54:10",
-      "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 265200,
-      "name": "Exile on \u00c6r\u00f8",
-      "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
     },
     {
       "added_at": "2022-08-31 04:02:01",

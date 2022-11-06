@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > The biggest Progressive House anthems of 2022\. \| Energetic and emotional festival music.
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,055 likes - 80 songs - 4 hr 13 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,049 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

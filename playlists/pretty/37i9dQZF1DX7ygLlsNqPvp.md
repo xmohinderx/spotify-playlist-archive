@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd?si=unNoBURgRqamgVK4iFpzqQ" > Yaw TOG </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,258 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,273 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 27 | [BASELINE](https://open.spotify.com/track/4jWFICufHHnaCDrtCeUGyV) | [Damy](https://open.spotify.com/artist/6Rd7l8PLs9gpbqEQ9hSpmP), [YokeeGilla](https://open.spotify.com/artist/3Y54NinYYRIlsNUzu39We4) | [BASELINE](https://open.spotify.com/album/5GUeHyG26KMyh1kKEejzcZ) | 3:13 |
 | 28 | [Fre Me](https://open.spotify.com/track/5jOjRAFGcCLd0gMUyviyM4) | [Thomas the Great](https://open.spotify.com/artist/4DaWXLEMSsQWHrkshW0IDc), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Fre Me](https://open.spotify.com/album/5vpZvekXCaEXVDqSuN7vMW) | 2:51 |
 | 29 | [Sinner](https://open.spotify.com/track/6miftk872yxPKve9CdKaQO) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Lp2loose](https://open.spotify.com/artist/6PvcxssrQ0QaJVaBWHD07l) | [Sinner](https://open.spotify.com/album/1sODnxd2EWcvRsMkfeBL3z) | 3:52 |
-| 30 | [No Time](https://open.spotify.com/track/6tM66AR9ivNL1CaiznuE8I) | [Dottcom Bless](https://open.spotify.com/artist/50bmYII1MHCUYA9A3OGtEl), [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW), [Xnaiq](https://open.spotify.com/artist/4lCUv4U30YkkIAmVPfcTXR) | [No Time](https://open.spotify.com/album/0rtdViHV14ahmFiLkbLdce) | 3:13 |
+| 30 | [No Time](https://open.spotify.com/track/6tM66AR9ivNL1CaiznuE8I) | [Dottcom Bless](https://open.spotify.com/artist/50bmYII1MHCUYA9A3OGtEl), [Xnaiq](https://open.spotify.com/artist/4lCUv4U30YkkIAmVPfcTXR), [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [No Time](https://open.spotify.com/album/0rtdViHV14ahmFiLkbLdce) | 3:13 |
 | 31 | [Hmm \- Remix](https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/1ti1eoBDoZtKJVZSkCUY8h) | [Hmm \(Remix\)](https://open.spotify.com/album/7w1vWwOOr64HhVRTGIscTb) | 3:30 |
 | 32 | [Vawulence](https://open.spotify.com/track/7oNKjJYsdUUmshMyxjKHTl) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Vawulence](https://open.spotify.com/album/119mHn5zmu5HNlZhQKcuVB) | 3:05 |
 | 33 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |

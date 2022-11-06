@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,131 likes - 125 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,208 likes - 125 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 119 | [No Beef \- Original Mix](https://open.spotify.com/track/52Y9VvRfnKjdM0MvAM21cR) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U) | [No Beef](https://open.spotify.com/album/7oQGR9TBbk3m9Nuc2CPR08) | 6:01 |
 | 120 | [Last Chance](https://open.spotify.com/track/1ags60Iq9M0vFlvSLAOZE4) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Atmosphere](https://open.spotify.com/album/6poiDDI8corGzWMXUechzZ) | 4:18 |
 | 121 | [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 |
-| 122 | [Million Voices \- Extended Original Mix](https://open.spotify.com/track/70R53Oq9IegG1kwhxo2Lxm) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 5:57 |
-| 123 | [Illmerica](https://open.spotify.com/track/3ERVrhNx8p2I3xY9RomH9t) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Weekend In America](https://open.spotify.com/album/5pIPewOu9MCZVSQt7FLMim) | 5:37 |
-| 124 | [Calling \(Lose My Mind\) \- Radio Edit](https://open.spotify.com/track/7sarPDq8wLcuqFZJTCSJsZ) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Gaming EDM 2022](https://open.spotify.com/album/6XMMd2hjfBRulH7UezOav0) | 3:25 |
+| 122 | [Calling \(Lose My Mind\) \- Radio Edit](https://open.spotify.com/track/7sarPDq8wLcuqFZJTCSJsZ) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Gaming EDM 2022](https://open.spotify.com/album/6XMMd2hjfBRulH7UezOav0) | 3:25 |
+| 123 | [Million Voices \- Extended Original Mix](https://open.spotify.com/track/70R53Oq9IegG1kwhxo2Lxm) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 5:57 |
+| 124 | [Illmerica](https://open.spotify.com/track/3ERVrhNx8p2I3xY9RomH9t) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Weekend In America](https://open.spotify.com/album/5pIPewOu9MCZVSQt7FLMim) | 5:37 |
 | 125 | [Teenage Crime \- Radio Edit](https://open.spotify.com/track/3WeOzaQI5ukIzBOiHv3TWh) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Adrian Lux](https://open.spotify.com/album/1BrunRBB6h877zDUxep7eh) | 2:48 |
 
-Snapshot ID: `MTY1NDgwNDc2NiwwMDAwMDAwMDIzMTliOWFiNmMwMzJmNGQ5MDhiZTEyYmQwODAzOTE5`
+Snapshot ID: `MTY1NDgwNDc2NiwwMDAwMDAwMDhjZDY3OWRiZTNhNDQ4MjQyMmY2NDBjOTliYzcxODUw`

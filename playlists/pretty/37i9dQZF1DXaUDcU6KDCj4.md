@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: First Aid Kit
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,722 likes - 160 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,103 likes - 160 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

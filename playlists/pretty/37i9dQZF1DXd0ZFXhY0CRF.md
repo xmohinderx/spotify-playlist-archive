@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > These women rock our worlds with their music and influence\. Cover: Alanis Morissette
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,845 likes - 90 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,019 likes - 90 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 81 | [You and I](https://open.spotify.com/track/4xJWfVNC52PSK5ObyOKQsw) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [White Noise \(Deluxe Version\)](https://open.spotify.com/album/7za8qVGR3wUEJ01pLFcnPB) | 4:30 |
 | 82 | [i can't get high](https://open.spotify.com/track/1tbGWHbbPihDSinp2Xg7Uz) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [searching for nirvana](https://open.spotify.com/album/6KvpjWttWb04l9Goe07g28) | 3:08 |
 | 83 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 |
-| 84 | [Pretty Waste](https://open.spotify.com/track/1j6XqVdSE5KlgfOxfXwiGX) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/3oGWjFc2ol3g4iIiCAXav3) | 2:50 |
-| 85 | [Anarchy](https://open.spotify.com/track/0osszNZH6LSuk4AzVNh7KC) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/5a0aj6PFt8bFu2Pg3KWPzW) | 3:54 |
+| 84 | [Pretty Waste](https://open.spotify.com/track/71HZdwtSopDs87RvpI8ip2) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/6YkF6eWFU0EhVHBnYzAgqv) | 2:50 |
+| 85 | [Anarchy](https://open.spotify.com/track/7hhEE2RYqGIXl5u8rB1G70) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/3wrOixk8SLnjk4siR58e8q) | 3:54 |
 | 86 | [Love's Not Enough](https://open.spotify.com/track/5JRPwkRjSVFOJzeTuIAtFf) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Love's Not Enough EP](https://open.spotify.com/album/4srLIyIqXQ0hbSdMqiQN7B) | 3:48 |
 | 87 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
 | 88 | [The Rush](https://open.spotify.com/track/0GY2MWZBsPjHJetTPAacuG) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Wilde Eyes, Steady Hands](https://open.spotify.com/album/4PNTQIrZzdj2FJEVzyrxTP) | 3:07 |
 | 89 | [Stuck](https://open.spotify.com/track/0x8VeSHmhbRl9EUAdsEx6A) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I Don't Like Being Honest](https://open.spotify.com/album/5kZtMQfFg0BMibHRGi6ghX) | 3:26 |
 | 90 | [I Like The Way You Die](https://open.spotify.com/track/13HPn0OyGLPtJ6iUNiwLYg) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [I Like The Way You Die](https://open.spotify.com/album/4jGP8NOGoSlrHKfVcU1IVn) | 3:08 |
 
-Snapshot ID: `MTY1MzkxNzcxMywwMDAwMDAwMDA2MjJhOTMwZDUwNGIyZjdjMTgzNGQ2ZTJhZDhlNDU1`
+Snapshot ID: `MTY1MzkxNzcxMywwMDAwMDAwMDBjMjcxN2YwOTM2ZmY0N2JiNjYyYzc3NzVhNDYxOWJi`

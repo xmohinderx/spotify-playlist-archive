@@ -1,12 +1,12 @@
 {
   "description": "\"Women at full volume\" - H\u00f6re hier K\u00fcnstlerinnen aus Deutschland, \u00d6sterreich und der Schweiz. Cover: BABYJOY",
-  "num_followers": 18328,
+  "num_followers": 18326,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkyMDgwMCwwMDAwMDAwMDc2MTRlNTU3MDdmNzM2YmY0OGVlNGY1MTMxZjI0MWFi",
+  "snapshot_id": "MTY2NDkyMDgwMCwwMDAwMDAwMDA5ZjhmNGRlMTE0ZTMyYmM1MzJlZmIyMDkxM2NiNzg1",
   "tracks": [
     {
       "added_at": "2022-10-04 22:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Where Did You Sleep?",
-        "url": "https://open.spotify.com/album/7m2X0vbsdPF2mUIHDcugYv"
-      },
-      "artists": [
-        {
-          "name": "Lisa Pac",
-          "url": "https://open.spotify.com/artist/2S0EVJD6SOdp3uHsSkZObE"
-        }
-      ],
-      "duration_ms": 208655,
-      "name": "Where Did You Sleep?",
-      "url": "https://open.spotify.com/track/0z1lz4gVf6XoACzgev1CQ5"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Baby Blue",
         "url": "https://open.spotify.com/album/1HJwfNfuif6iPDd30CWXKV"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 175133,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/6JRJGwyd0H8psrKffseilw"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Where Did You Sleep?",
+        "url": "https://open.spotify.com/album/7m2X0vbsdPF2mUIHDcugYv"
+      },
+      "artists": [
+        {
+          "name": "Lisa Pac",
+          "url": "https://open.spotify.com/artist/2S0EVJD6SOdp3uHsSkZObE"
+        }
+      ],
+      "duration_ms": 208655,
+      "name": "Where Did You Sleep?",
+      "url": "https://open.spotify.com/track/0z1lz4gVf6XoACzgev1CQ5"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Delikat",
-        "url": "https://open.spotify.com/album/004XfNY0Dw7e6O2aVSJsxO"
-      },
-      "artists": [
-        {
-          "name": "TASHAN",
-          "url": "https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Delikat",
-      "url": "https://open.spotify.com/track/7jhhp9QvHGDmWPYSMiO04O"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Harlequin",
         "url": "https://open.spotify.com/album/4KWRSlFGJVcctCYzwyII38"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 268568,
       "name": "Schweden Espresso",
       "url": "https://open.spotify.com/track/0LokKpZ75o151vBOJpDS8b"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Delikat",
+        "url": "https://open.spotify.com/album/004XfNY0Dw7e6O2aVSJsxO"
+      },
+      "artists": [
+        {
+          "name": "TASHAN",
+          "url": "https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Delikat",
+      "url": "https://open.spotify.com/track/7jhhp9QvHGDmWPYSMiO04O"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
+        "name": "PYROLYSE",
+        "url": "https://open.spotify.com/album/5SAviVYGk0Koj6TmzahOuE"
+      },
+      "artists": [
+        {
+          "name": "AYMZ",
+          "url": "https://open.spotify.com/artist/7yq3RsSN2IXYprxdcxmp7z"
+        }
+      ],
+      "duration_ms": 162900,
+      "name": "Ich Tanze Alleine",
+      "url": "https://open.spotify.com/track/7rYdtD94gYmpBQpX3G1zo8"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
         "name": "The Hills",
         "url": "https://open.spotify.com/album/6nKFDsf5NNxLdDhhWoeMky"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "PYROLYSE",
-        "url": "https://open.spotify.com/album/5SAviVYGk0Koj6TmzahOuE"
+        "name": "Romeo Must Die",
+        "url": "https://open.spotify.com/album/3EIVFvcT8DPj35kUU4oyXL"
       },
       "artists": [
         {
-          "name": "AYMZ",
-          "url": "https://open.spotify.com/artist/7yq3RsSN2IXYprxdcxmp7z"
+          "name": "Gaddafi Gals",
+          "url": "https://open.spotify.com/artist/0UuEu6YKx0pHwf3ZHd3c0l"
         }
       ],
-      "duration_ms": 162900,
-      "name": "Ich Tanze Alleine",
-      "url": "https://open.spotify.com/track/7rYdtD94gYmpBQpX3G1zo8"
+      "duration_ms": 186760,
+      "name": "Tearz",
+      "url": "https://open.spotify.com/track/4SljM2mMcA8t7wqJU1rhye"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -675,22 +691,6 @@
       "duration_ms": 142620,
       "name": "Bl\u00fctenregen",
       "url": "https://open.spotify.com/track/3bMhFzRu1Ys5dmQlFENXgZ"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "Romeo Must Die",
-        "url": "https://open.spotify.com/album/3EIVFvcT8DPj35kUU4oyXL"
-      },
-      "artists": [
-        {
-          "name": "Gaddafi Gals",
-          "url": "https://open.spotify.com/artist/0UuEu6YKx0pHwf3ZHd3c0l"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Tearz",
-      "url": "https://open.spotify.com/track/4SljM2mMcA8t7wqJU1rhye"
     },
     {
       "added_at": "2022-10-04 22:00:00",

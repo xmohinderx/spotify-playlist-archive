@@ -4,7 +4,7 @@
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-225 songs - 13 hr 41 min - [published](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
+226 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [FINIMONDO](https://open.spotify.com/track/0JbzHTWp24Fe1l7NBzzp4p) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [FINIMONDO](https://open.spotify.com/album/5v0DjHceNOVZGIqtNzR8i2) | 2:51 | 2022-05-25 | 2022-06-13 |
 | [FINIMONDO](https://open.spotify.com/track/0RFRr1i6USZRE66r5vB9OT) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 2:51 | 2022-06-12 | 2022-06-27 |
 | [Flores no Mar](https://open.spotify.com/track/7eNSgICl11uh6hzLfDXV6d) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [W](https://open.spotify.com/album/6QW0AjRzQmHoUxwT570bJX) | 8:13 | 2021-11-19 | 2022-07-29 |
+| [Flores No Mar \- Album Edit](https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [W](https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa) | 8:13 | 2022-09-08 |  |
 | [Fuckboys](https://open.spotify.com/track/0qkHQKoedwwPWsW6SvDfcz) | [GESS](https://open.spotify.com/artist/4rWV3JAgD6JrUiq5mpEJxY) | [Tangerine](https://open.spotify.com/album/34R04tqrMt0LOU7uwRYqQS) | 2:06 | 2022-06-26 | 2022-07-28 |
 | [FUORI!!!](https://open.spotify.com/track/3ujQOSC1tMc3sQUMppJQkK) | [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Francesco Urbano Ragazzi](https://open.spotify.com/artist/1vPNjv1tf5kA9bSQAeyRlw) | [FUORI!!!](https://open.spotify.com/album/6VFWixoW1lG2MXlyPC4fRt) | 2:20 | 2022-06-26 | 2022-09-26 |
 | [GANG! \- prod\. Strage](https://open.spotify.com/track/1ZCzbEj3F8SqqtKSupWaBo) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Hell Raton](https://open.spotify.com/artist/6g5SF1Yz63eoPUnJgRHfrz) | [MACHETE MIXTAPE 4](https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz) | 2:42 | 2022-06-12 | 2022-06-27 |
@@ -151,7 +152,7 @@
 | [Oro](https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Odissea](https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI) | 4:30 | 2022-06-26 |  |
 | [OSCENO](https://open.spotify.com/track/12W5ZS8wfY2Y6ujUgdqyGr) | [Lilly Meraviglia](https://open.spotify.com/artist/3BVrBQOg6F6UtsnsF5E1A7) | [OSCENO](https://open.spotify.com/album/1Oojbbxjob29dwZGHGUezC) | 2:50 | 2022-06-12 | 2022-06-27 |
 | [Painted Eyes](https://open.spotify.com/track/0YKFG6iCL1Nn5y7aLLy7qA) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/1DBdOP00GcAqZO67GUZDV9) | 6:01 | 2022-06-26 | 2022-07-19 |
-| [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 | 2022-07-21 |  |
+| [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 | 2022-07-21 | 2022-11-06 |
 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/4yDG7Q9kemM7LS2AfxcFs9) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Le città](https://open.spotify.com/album/6VCWcupYXk4UdIeXJNjC07) | 4:24 | 2021-11-19 | 2022-07-29 |
 | [Parlate di moralità \- 2016 Remastered](https://open.spotify.com/track/6vDp1QyfCJxPBB0sZvYFjx) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Streaking \(Remastered\)](https://open.spotify.com/album/1zxOsO2mcs1zmSzNLftC00) | 3:55 | 2022-06-26 | 2022-07-28 |
 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 | 2021-11-19 |  |

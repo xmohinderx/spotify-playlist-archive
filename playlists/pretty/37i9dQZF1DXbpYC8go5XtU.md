@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,055 likes - 126 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,083 likes - 126 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 79 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
 | 80 | [Rain on Ancient Quays](https://open.spotify.com/track/3b0kZgg4HfHy2eOmGcd1Kv) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 7:23 |
 | 81 | [Simple Retreat](https://open.spotify.com/track/6UzDYojpXWsuPcI4HZmJyU) | [Eiden Carl](https://open.spotify.com/artist/6UmlzYjrIhJUwj0D3CxYUi) | [Equanimity](https://open.spotify.com/album/52xMZto4FqEu09Vzrp7NHm) | 2:33 |
-| 82 | [First Light](https://open.spotify.com/track/2aUkNmO4g5iSCxly4bPKuj) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 5:13 |
+| 82 | [First Light \- Remastered](https://open.spotify.com/track/2aUkNmO4g5iSCxly4bPKuj) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 5:13 |
 | 83 | [Primitive Associations/Great Mass Above](https://open.spotify.com/track/106ijoJLCBU8fhosegfx1x) | [Growing](https://open.spotify.com/artist/57SlFijfkLdoiN09FSueTI) | [The Soul of the Rainbow and the Harmony of Light](https://open.spotify.com/album/2JSUhFkv27CejriQWOzF88) | 12:35 |
 | 84 | [Puddle](https://open.spotify.com/track/6n2mvV2UE8yfIGl5TlqOF5) | [Yuichiro Fujimoto](https://open.spotify.com/artist/2P0IReI87eMGenUXZjnnAP) | [Speaks Melodies](https://open.spotify.com/album/4SmlzePYPZdnOgDnVnk3P8) | 3:19 |
 | 85 | [Aru](https://open.spotify.com/track/3imnDatPTaEg1Y1SuBlvEs) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Hibi](https://open.spotify.com/album/2ilbAhaYpdlFGe5e3FzRhS) | 2:46 |

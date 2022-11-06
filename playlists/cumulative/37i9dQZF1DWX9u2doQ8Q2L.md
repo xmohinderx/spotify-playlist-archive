@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-378 songs - 23 hr 31 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+379 songs - 23 hr 34 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Sherbet](https://open.spotify.com/track/56jXepSKHL0ZiIstrSpoMz) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Tio](https://open.spotify.com/artist/7LzfAWU6jvqg8fVeNc0fqB), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Sherbet](https://open.spotify.com/album/4KhKPafupvHCvSb8lt6CAj) | 3:25 | 2022-09-13 | 2022-10-22 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-09-27 |  |
 | [Shower](https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shower](https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP) | 3:12 | 2022-08-04 | 2022-08-25 |
-| [SIGN\(feat\. Takashi Fujii\)](https://open.spotify.com/track/14TZGguim8BIjve3NWCheW) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12) | [SIGN\(feat\. Takashi Fujii\)](https://open.spotify.com/album/2OmjMU3x4n7j9PMP9Lf1Uw) | 3:15 | 2022-11-04 |  |
+| [SIGN\(feat\. Takashi Fujii\)](https://open.spotify.com/track/14TZGguim8BIjve3NWCheW) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12) | [SIGN\(feat\. Takashi Fujii\)](https://open.spotify.com/album/2OmjMU3x4n7j9PMP9Lf1Uw) | 3:15 | 2022-11-04 | 2022-11-06 |
 | [SIGN\(feat\. 藤井隆\)](https://open.spotify.com/track/63NQpVrXhqcBdadRd9KSa4) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12) | [SIGN\(feat\. 藤井隆\)](https://open.spotify.com/album/5qeENl6yRGzVIvvqgChw6p) | 3:15 | 2022-11-04 | 2022-11-05 |
 | [Silhouette Burn](https://open.spotify.com/track/2RnFiTJllgS1AqSvdJ8zqw) | [Leon Top](https://open.spotify.com/artist/7fTmuayg1NszroLSD3TGpf), [Sorato](https://open.spotify.com/artist/1qKcWNZYG8jaquH1yDnG4T) | [Silhouette Burn](https://open.spotify.com/album/5OoGb7rmVfrglTFDt9Jg0S) | 3:12 | 2022-09-13 | 2022-10-21 |
 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 | 2022-08-03 | 2022-09-15 |
@@ -365,6 +365,7 @@
 | [未来のこと](https://open.spotify.com/track/6cYzQkwsO6StfGaSdH1nmk) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [未来のこと](https://open.spotify.com/album/6IZcWgH4YcB4ydbxDVZ9Fc) | 5:53 | 2022-08-24 | 2022-09-15 |
 | [未来時代](https://open.spotify.com/track/3rMVgn486bfoyJEvkb6xmX) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [未来時代](https://open.spotify.com/album/1VCSBg9Vf3jNgRZfgFVwTS) | 4:41 | 2022-05-26 | 2022-06-29 |
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-07-28 | 2022-10-05 |
+| [東京宣言](https://open.spotify.com/track/4UJ6oEkjMSHNXaN3HHnQis) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [東京宣言](https://open.spotify.com/album/25FZu1HO24irASqorZEyB6) | 3:02 | 2022-11-05 |  |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-08-24 | 2022-09-29 |
 | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/track/1PvDnTxwVndr7bOrbtI2Zx) | [池田智子 × TENDRE](https://open.spotify.com/artist/3fakwzQVQaFb8QNhRNttmt) | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/album/1mMru6AAyUijyh3vMMjJpk) | 5:01 | 2022-05-26 | 2022-06-08 |
 | [流星群](https://open.spotify.com/track/4G1Kk1S5y5SKFFJ9Bwn35U) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [流星群](https://open.spotify.com/album/1NVfNGKoeTlThe7SMCooXT) | 3:09 | 2022-05-26 | 2022-06-22 |

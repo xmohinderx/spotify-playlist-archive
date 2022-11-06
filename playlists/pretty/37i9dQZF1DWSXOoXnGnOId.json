@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14536,
+  "num_followers": 14541,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDNhMTg4NzAxYjJiNWJjYjE1NTAxODAzMWRiNTYzY2U5",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGNlMjRiMDRlMzhjMDQ2ZTUzZjQ2MTJmZjgxNzQyYmUy",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -215,26 +215,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Roses (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/6XcYTEonLIpg9NpAbJnqrC"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 176218,
-      "name": "Roses - Imanbek Remix",
-      "url": "https://open.spotify.com/track/2Wo6QQD1KMDWeFkkjLqwx5"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Sweet Dreams (feat. Imanbek) [Remixes]",
         "url": "https://open.spotify.com/album/5LKrGd8oU56PLe793imghr"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 140500,
       "name": "Sweet Dreams (feat. Imanbek) - With Alok",
       "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Roses (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/6XcYTEonLIpg9NpAbJnqrC"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 176218,
+      "name": "Roses - Imanbek Remix",
+      "url": "https://open.spotify.com/track/2Wo6QQD1KMDWeFkkjLqwx5"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -591,6 +591,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Neon Jungle Remixes",
+        "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 249919,
+      "name": "Neon Jungle - Lane 8 Remix",
+      "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Stay (Blinkie Remix)",
         "url": "https://open.spotify.com/album/4E2XszIl63rkDrfwBkA3Ef"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 151820,
       "name": "Stay (Blinkie Remix)",
       "url": "https://open.spotify.com/track/0HQlgAyTXnZ9TJU7SA4xj6"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Neon Jungle Remixes",
-        "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 249919,
-      "name": "Neon Jungle - Lane 8 Remix",
-      "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -1567,6 +1567,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
+        "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Jarvis Cocker",
+          "url": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
+      "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Oops (I'm Sorry) (Remixes)",
         "url": "https://open.spotify.com/album/0CYWtgfYNiTjAvyc9NU0rr"
       },
@@ -1591,30 +1615,6 @@
       "duration_ms": 205645,
       "name": "Oops (I'm Sorry) - KC Lights Remix",
       "url": "https://open.spotify.com/track/6GdfTrSKxEYefdOp3l3JRL"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
-        "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Jarvis Cocker",
-          "url": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
-      "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1899,6 +1899,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "tell me what you\u2019re thinking (Remixes)",
+        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
+      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Hadal Ahbek (R3HAB Club Remix)",
         "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
       },
@@ -1935,26 +1955,6 @@
       "duration_ms": 209959,
       "name": "Purple Hat - KC Lights Remix",
       "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "tell me what you\u2019re thinking (Remixes)",
-        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
-      },
-      "artists": [
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
-      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2143,6 +2143,50 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Keleketla! Remixes",
+        "url": "https://open.spotify.com/album/4ZRyrLDXFUoVopvJ5ZKnMh"
+      },
+      "artists": [
+        {
+          "name": "Keleketla!",
+          "url": "https://open.spotify.com/artist/7jIuM7cuEe0bBfoNhISVXU"
+        },
+        {
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+        },
+        {
+          "name": "The Lani Singers",
+          "url": "https://open.spotify.com/artist/05YSVaivb7p7TMX75xo3nC"
+        },
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Tamar Osborn",
+          "url": "https://open.spotify.com/artist/6HdadX6rv2g0EWghE5KkPj"
+        },
+        {
+          "name": "Dele Sosimi",
+          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
+        },
+        {
+          "name": "Afla Sackey",
+          "url": "https://open.spotify.com/artist/6HbtkYhKlvY9R1m2PkW6YS"
+        },
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        }
+      ],
+      "duration_ms": 336954,
+      "name": "Papua Merdeka - Machinedrum Remix",
+      "url": "https://open.spotify.com/track/1yfVygcEjrdjTp5LEi71at"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Thing Called Love (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
       },
@@ -2187,50 +2231,6 @@
       "duration_ms": 221032,
       "name": "Jaiye (Aluna and Sigag Lauren Remix)",
       "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Keleketla! Remixes",
-        "url": "https://open.spotify.com/album/4ZRyrLDXFUoVopvJ5ZKnMh"
-      },
-      "artists": [
-        {
-          "name": "Keleketla!",
-          "url": "https://open.spotify.com/artist/7jIuM7cuEe0bBfoNhISVXU"
-        },
-        {
-          "name": "Coldcut",
-          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
-        },
-        {
-          "name": "The Lani Singers",
-          "url": "https://open.spotify.com/artist/05YSVaivb7p7TMX75xo3nC"
-        },
-        {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
-        },
-        {
-          "name": "Tamar Osborn",
-          "url": "https://open.spotify.com/artist/6HdadX6rv2g0EWghE5KkPj"
-        },
-        {
-          "name": "Dele Sosimi",
-          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
-        },
-        {
-          "name": "Afla Sackey",
-          "url": "https://open.spotify.com/artist/6HbtkYhKlvY9R1m2PkW6YS"
-        },
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        }
-      ],
-      "duration_ms": 336954,
-      "name": "Papua Merdeka - Machinedrum Remix",
-      "url": "https://open.spotify.com/track/1yfVygcEjrdjTp5LEi71at"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2351,26 +2351,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
-        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
-      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Pomegranate (Jay Robinson Remix)",
         "url": "https://open.spotify.com/album/4IyaI98lEWwR2RJTveVmHW"
       },
@@ -2391,6 +2371,26 @@
       "duration_ms": 332691,
       "name": "Pomegranate - Jay Robinson Remix",
       "url": "https://open.spotify.com/track/29i8kD96bdT1yjkdcuTawb"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
+        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
+      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
     }
   ],
   "unique_name": "mint Remix",

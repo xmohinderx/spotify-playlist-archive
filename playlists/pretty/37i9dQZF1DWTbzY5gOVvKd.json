@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1136787,
+  "num_followers": 1136984,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjcwMzM5NiwwMDAwMDAwMDAzMGQ4ZWE4Y2U3ZWU2ZWI1M2NhNjliNThlNmYzZTU1",
+  "snapshot_id": "MTY2NjcwMzM5NiwwMDAwMDAwMDA2YjlmYTFhN2VhZWE3NWI1N2QxYzAxZjhkOTY2OTY1",
   "tracks": [
     {
       "added_at": "2022-10-11 07:26:50",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "French Fries & Champagne",
-        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
-      },
-      "artists": [
-        {
-          "name": "The Hot Sardines",
-          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
-        }
-      ],
-      "duration_ms": 141640,
-      "name": "Sweet Pea",
-      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
-    },
-    {
-      "added_at": "2022-10-11 07:26:50",
-      "album": {
         "name": "Around The City",
         "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 240413,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
+    },
+    {
+      "added_at": "2022-10-11 07:26:50",
+      "album": {
+        "name": "French Fries & Champagne",
+        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
+      },
+      "artists": [
+        {
+          "name": "The Hot Sardines",
+          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
+        }
+      ],
+      "duration_ms": 141640,
+      "name": "Sweet Pea",
+      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -779,18 +779,30 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "Best Love Ballads",
-        "url": "https://open.spotify.com/album/04HiwRR7Ct1A4qkZnLQF8n"
+        "name": "At Long Last Love (Live)",
+        "url": "https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Barry Stephenson",
+          "url": "https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
         }
       ],
-      "duration_ms": 353723,
-      "name": "If Love Is Overrated",
-      "url": "https://open.spotify.com/track/3iLubgTcHY4ozbOLgfE8ZN"
+      "duration_ms": 171760,
+      "name": "At Long Last Love - Live",
+      "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -811,18 +823,18 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "Night Songs II",
-        "url": "https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV"
+        "name": "Best Love Ballads",
+        "url": "https://open.spotify.com/album/04HiwRR7Ct1A4qkZnLQF8n"
       },
       "artists": [
         {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 207733,
-      "name": "Moonlight Becomes You",
-      "url": "https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q"
+      "duration_ms": 353723,
+      "name": "If Love Is Overrated",
+      "url": "https://open.spotify.com/track/3iLubgTcHY4ozbOLgfE8ZN"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -859,30 +871,18 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "At Long Last Love (Live)",
-        "url": "https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1"
+        "name": "Night Songs II",
+        "url": "https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV"
       },
       "artists": [
         {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Barry Stephenson",
-          "url": "https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
         }
       ],
-      "duration_ms": 171760,
-      "name": "At Long Last Love - Live",
-      "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
+      "duration_ms": 207733,
+      "name": "Moonlight Becomes You",
+      "url": "https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -927,6 +927,22 @@
       "duration_ms": 135421,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
+    },
+    {
+      "added_at": "2022-10-11 07:26:50",
+      "album": {
+        "name": "I Know I Dream: The Orchestral Sessions (Deluxe Version)",
+        "url": "https://open.spotify.com/album/02o5Ry59Ocv0UskowTlrlZ"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 369200,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/2XDNzwJkyFfqqnc1FP8UJg"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -983,22 +999,6 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "I Know I Dream: The Orchestral Sessions (Deluxe Version)",
-        "url": "https://open.spotify.com/album/02o5Ry59Ocv0UskowTlrlZ"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 369200,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/2XDNzwJkyFfqqnc1FP8UJg"
-    },
-    {
-      "added_at": "2022-10-11 07:26:50",
-      "album": {
         "name": "Love For Sale (Deluxe)",
         "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
       },
@@ -1051,6 +1051,26 @@
       "duration_ms": 262106,
       "name": "It Had to Be You (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/3tRdPcBfIQrJnadxPuVoMJ"
+    },
+    {
+      "added_at": "2022-10-11 07:26:50",
+      "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Jim Tomlinson",
+          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
+        }
+      ],
+      "duration_ms": 208373,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/1PZAvwzzhQrK85uQhUXIR4"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -1151,26 +1171,6 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "Tenderly",
-        "url": "https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "Jim Tomlinson",
-          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
-        }
-      ],
-      "duration_ms": 208373,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/1PZAvwzzhQrK85uQhUXIR4"
-    },
-    {
-      "added_at": "2022-10-11 07:26:50",
-      "album": {
         "name": "The Silver Lining - The Songs of Jerome Kern",
         "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 229365,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
+    },
+    {
+      "added_at": "2022-10-11 07:26:50",
+      "album": {
         "name": "An Evening with/ Andy James & John Patitucci",
         "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "Nat \"King\" Cole & Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 257533,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP"
-    },
-    {
-      "added_at": "2022-10-11 07:26:50",
-      "album": {
         "name": "True Love: A Celebration Of Cole Porter",
         "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 209040,
       "name": "Mind If I Make Love To You",
       "url": "https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0"
-    },
-    {
-      "added_at": "2022-10-11 07:26:50",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 229365,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -1303,22 +1287,6 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "Dear Blossom,",
-        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
-      },
-      "artists": [
-        {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
-    },
-    {
-      "added_at": "2022-10-11 07:26:50",
-      "album": {
         "name": "Li'l Darlin",
         "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
       },
@@ -1331,6 +1299,38 @@
       "duration_ms": 195706,
       "name": "Li'l Darlin",
       "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
+    },
+    {
+      "added_at": "2022-10-11 07:26:50",
+      "album": {
+        "name": "Nat \"King\" Cole & Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP"
+    },
+    {
+      "added_at": "2022-10-11 07:26:50",
+      "album": {
+        "name": "Dear Blossom,",
+        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "An Englishman in Love in LA",
-        "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
       },
       "artists": [
         {
-          "name": "Richard Shelton",
-          "url": "https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         }
       ],
-      "duration_ms": 176573,
-      "name": "The Touch of Your Lips",
-      "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
+      "duration_ms": 222106,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+        "name": "An Englishman in Love in LA",
+        "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Richard Shelton",
+          "url": "https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t"
         }
       ],
-      "duration_ms": 222106,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
+      "duration_ms": 176573,
+      "name": "The Touch of Your Lips",
+      "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -1651,38 +1651,18 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "A New Path",
-        "url": "https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q"
+        "name": "My Funny Valentine: The Chet Baker Songbook",
+        "url": "https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB"
       },
       "artists": [
         {
-          "name": "Elisabeth Melander",
-          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
-        },
-        {
-          "name": "Martin Berggren",
-          "url": "https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj"
-        },
-        {
-          "name": "David Andersson",
-          "url": "https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A"
-        },
-        {
-          "name": "Andreas Baw",
-          "url": "https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI"
-        },
-        {
-          "name": "Inge Petersson-Lindb\u00e4ck",
-          "url": "https://open.spotify.com/artist/3sF12c1sk1dw0igDvK7EK2"
-        },
-        {
-          "name": "Bergdalakvartetten",
-          "url": "https://open.spotify.com/artist/4WMeBii3eR8cZJ0kP0SP1C"
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
         }
       ],
-      "duration_ms": 348740,
-      "name": "A New Path",
-      "url": "https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k"
+      "duration_ms": 245666,
+      "name": "Deep in a Dream",
+      "url": "https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -1731,18 +1711,38 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "JetSetJazz",
-        "url": "https://open.spotify.com/album/3AHn8d2XYYLNCPO4BKbMaW"
+        "name": "A New Path",
+        "url": "https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q"
       },
       "artists": [
         {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+          "name": "Elisabeth Melander",
+          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
+        },
+        {
+          "name": "Martin Berggren",
+          "url": "https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj"
+        },
+        {
+          "name": "David Andersson",
+          "url": "https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A"
+        },
+        {
+          "name": "Andreas Baw",
+          "url": "https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI"
+        },
+        {
+          "name": "Inge Petersson-Lindb\u00e4ck",
+          "url": "https://open.spotify.com/artist/3sF12c1sk1dw0igDvK7EK2"
+        },
+        {
+          "name": "Bergdalakvartetten",
+          "url": "https://open.spotify.com/artist/4WMeBii3eR8cZJ0kP0SP1C"
         }
       ],
-      "duration_ms": 215666,
-      "name": "All Because Of You",
-      "url": "https://open.spotify.com/track/7bZTJI3YNXUnC6Hpqk2wpX"
+      "duration_ms": 348740,
+      "name": "A New Path",
+      "url": "https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "In The Moonlight",
-        "url": "https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL"
+        "name": "Jamison",
+        "url": "https://open.spotify.com/album/6JQxB9qntPmPkJF3vD1fIz"
       },
       "artists": [
         {
-          "name": "Sophie Milman",
-          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
         }
       ],
-      "duration_ms": 276013,
-      "name": "Prelude To A Kiss",
-      "url": "https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87"
+      "duration_ms": 263106,
+      "name": "These Things You Are To Me",
+      "url": "https://open.spotify.com/track/22rek75QknVrI85tEIUF7a"
     }
   ],
   "unique_name": "Jazzy Romance",

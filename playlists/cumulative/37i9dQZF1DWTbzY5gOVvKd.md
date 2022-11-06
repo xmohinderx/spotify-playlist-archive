@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-174 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/70IqB6MweM6qsbIR6Kn9aT)
+175 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/70IqB6MweM6qsbIR6Kn9aT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Time For Love](https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:59 | 2019-05-26\* | 2022-07-29 |
 | [A Time For Love](https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 5:01 | 2022-06-22 |  |
 | [All Because Of You](https://open.spotify.com/track/6jV9QS9mBYFoiZF8GA6uKk) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [JetSetJazz](https://open.spotify.com/album/2KqHT8JmV2HI8tMXn7XIZs) | 3:33 | 2020-03-26 | 2022-07-29 |
-| [All Because Of You](https://open.spotify.com/track/7bZTJI3YNXUnC6Hpqk2wpX) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [JetSetJazz](https://open.spotify.com/album/3AHn8d2XYYLNCPO4BKbMaW) | 3:35 | 2022-06-22 |  |
+| [All Because Of You](https://open.spotify.com/track/7bZTJI3YNXUnC6Hpqk2wpX) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [JetSetJazz](https://open.spotify.com/album/3AHn8d2XYYLNCPO4BKbMaW) | 3:35 | 2022-06-22 | 2022-11-06 |
 | [All of Me](https://open.spotify.com/track/3ts3nBCGF7K9JvSjWVQfX8) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 3:07 | 2022-05-02 |  |
 | [All The Things You Are](https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 4:37 | 2022-05-02 |  |
 | [All the Way](https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 3:55 | 2019-05-26\* |  |
@@ -40,6 +40,7 @@
 | [Come Rain or Come Shine \(with John Mayer\)](https://open.spotify.com/track/2d02A2eoTYHOnI162zeAKQ) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Partners](https://open.spotify.com/album/1IgRzhudBVPtta2jDVa1en) | 4:10 | 2022-08-10 | 2022-10-08 |
 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 | 2019-05-26\* |  |
 | [Deep in a Dream](https://open.spotify.com/track/0QR4BgqJvmtqQH7OoTQWIJ) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/3AMHrE4rMoeNdtjS6s7zIY) | 4:05 | 2019-05-27 | 2022-10-21 |
+| [Deep in a Dream](https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB) | 4:05 | 2022-10-11 |  |
 | [Don't Take Your Love from Me](https://open.spotify.com/track/0yU5Oa00MqxV6GvVQ0CQu6) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem on My Mind](https://open.spotify.com/album/4ke3olYfrnMtMkYORPzGO5) | 4:52 | 2019-05-26\* | 2022-10-08 |
 | [Dream](https://open.spotify.com/track/6hKvRPUWKXik0wl3EW7TW2) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:03 | 2022-06-22 |  |
 | [Dream](https://open.spotify.com/track/1ULuglVRXbgfd5LlzSkegz) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Dream](https://open.spotify.com/album/1YwZHpA5BjEhBqImNbdvpR) | 4:03 | 2019-05-26\* | 2022-07-29 |
@@ -138,7 +139,7 @@
 | [Photograph](https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [I Know I Dream : The Orchestral Sessions \(Deluxe Version\)](https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH) | 6:07 | 2019-05-26\* | 2022-10-22 |
 | [Photograph](https://open.spotify.com/track/2XDNzwJkyFfqqnc1FP8UJg) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [I Know I Dream: The Orchestral Sessions \(Deluxe Version\)](https://open.spotify.com/album/02o5Ry59Ocv0UskowTlrlZ) | 6:09 | 2022-10-11 |  |
 | [Prelude to a Kiss](https://open.spotify.com/track/60wOZ1b6EFfnSa4eXyLDwl) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In the Moonlight](https://open.spotify.com/album/4fxUiKusGBrkfnP7t5WoL5) | 4:35 | 2019-05-26\* | 2022-07-22 |
-| [Prelude To A Kiss](https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In The Moonlight](https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL) | 4:36 | 2022-09-13 |  |
+| [Prelude To A Kiss](https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In The Moonlight](https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL) | 4:36 | 2022-09-13 | 2022-11-06 |
 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 | 2022-05-02 |  |
 | [Smile](https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO) | 4:17 | 2022-06-22 |  |
 | [Smile](https://open.spotify.com/track/3CPhIqN93yTKFdAKSo3FXh) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Smile](https://open.spotify.com/album/4knZD1tqBLuQv3VkT8JCLP) | 4:17 | 2019-05-26\* | 2022-07-29 |
@@ -165,7 +166,7 @@
 | [There You Are \(Second Chance\)](https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love](https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1) | 3:33 | 2022-06-22 |  |
 | [There You Are \(Second Chance\)](https://open.spotify.com/track/4oFYpRn9QZbc7toso38diA) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [This Masquerade / There You Are](https://open.spotify.com/album/2NA3EgaSJy1FW1czeaDPzD) | 3:33 | 2020-02-16 | 2022-02-24 |
 | [THERE YOU ARE \(SECOND CHANCE\)](https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [LANGUAGE OF LOVE](https://open.spotify.com/album/1aZI6dE6paumZHjfgzwyjS) | 3:33 | 2020-03-11 | 2022-07-29 |
-| [These Things You Are To Me](https://open.spotify.com/track/22rek75QknVrI85tEIUF7a) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Jamison](https://open.spotify.com/album/6JQxB9qntPmPkJF3vD1fIz) | 4:23 | 2019-05-26\* | 2022-11-05 |
+| [These Things You Are To Me](https://open.spotify.com/track/22rek75QknVrI85tEIUF7a) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Jamison](https://open.spotify.com/album/6JQxB9qntPmPkJF3vD1fIz) | 4:23 | 2019-05-26\* |  |
 | [Time Alone](https://open.spotify.com/track/7Jt9DpsKlKRcR3RI9qUl9w) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 6:36 | 2019-05-26\* | 2022-07-29 |
 | [Time Alone](https://open.spotify.com/track/1hYd1uyB9HQpf4icjtBQoB) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 6:40 | 2022-09-13 | 2022-10-08 |
 | [Too Marvelous For Words](https://open.spotify.com/track/4OMCEhWBZrNE3Gfa1pJxse) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 4:03 | 2022-05-02 | 2022-07-29 |

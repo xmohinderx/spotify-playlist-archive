@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Herbal Candy\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,599 likes - 64 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,604 likes - 64 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

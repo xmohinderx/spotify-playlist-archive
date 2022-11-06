@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 190337,
+  "num_followers": 190482,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0OTA1NywwMDAwMDAwMDdhMWRjZTNlNTgzMzExZmI3YmM5MDJkZmUyNjczOGMx",
+  "snapshot_id": "MTY1NzA0OTA1NywwMDAwMDAwMDZjZmZmZTE0ZDAzMzdjMWE3ZmMwYzY1ZDAzNWVmNDZi",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "On the Border (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 274891,
-      "name": "The Best of My Love - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Sleeper Catcher (Remastered 2022)",
         "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 257868,
       "name": "Reminiscing - Remastered 2022",
       "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 274891,
+      "name": "The Best of My Love - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Something / Anything?",
-        "url": "https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr"
-      },
-      "artists": [
-        {
-          "name": "Todd Rundgren",
-          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
-        }
-      ],
-      "duration_ms": 264093,
-      "name": "Hello It's Me",
-      "url": "https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Endless Flight",
         "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 253226,
       "name": "When I Need You - Remastered",
       "url": "https://open.spotify.com/track/2TcwEYyydQuEMJwdmSgVLD"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Something / Anything?",
+        "url": "https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr"
+      },
+      "artists": [
+        {
+          "name": "Todd Rundgren",
+          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+        }
+      ],
+      "duration_ms": 264093,
+      "name": "Hello It's Me",
+      "url": "https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc"
     },
     {
       "added_at": "2020-01-07 15:31:11",

@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 144800,
+  "num_followers": 145010,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGRiMjVlYzliZjQ0MGZjZTQwODI0OTI1MWY1ZTc1YWM3",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDYzYTVkYWQxMjQ5NzcyMDVlYjUzYTVkYjkzYTUwM2Y0",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Nothing Left to Love",
         "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
       "artists": [
         {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 194954,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5jZAtF5byijpW7UCJsUYK8"
+      "duration_ms": 275133,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 254500,
       "name": "ANTI-SOCIAL",
       "url": "https://open.spotify.com/track/5XExne04zgnDeAN8aIvMvM"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 194954,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5jZAtF5byijpW7UCJsUYK8"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "I Won't Give In",
+      "url": "https://open.spotify.com/track/7scGzRwZMeHzFNuEJgnzvh"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -1027,8 +1043,8 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "The Black",
-        "url": "https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V"
+        "name": "From Death To Destiny",
+        "url": "https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D"
       },
       "artists": [
         {
@@ -1036,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         }
       ],
-      "duration_ms": 229600,
-      "name": "I Won't Give In",
-      "url": "https://open.spotify.com/track/7scGzRwZMeHzFNuEJgnzvh"
+      "duration_ms": 242593,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 209680,
       "name": "Ripple Water Shine",
       "url": "https://open.spotify.com/track/7rPpErLCzp22gTrEmx4XYb"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "From Death To Destiny",
-        "url": "https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 242593,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 328133,
-      "name": "Perish",
-      "url": "https://open.spotify.com/track/2SsrRygE0VPkjFrtcV4PL8"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "All That Is Left of the Blue Sky",
         "url": "https://open.spotify.com/album/2uqJYiKPfh8bECEnZ7nYkw"
       },
@@ -1231,6 +1215,38 @@
       "duration_ms": 204211,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/2UfhoAL6KofiiqDVFLub1W"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "American Noir",
+        "url": "https://open.spotify.com/album/4ddTgrLBjiaQbjcDeWtrUg"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "duration_ms": 203271,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/5LcFvZSd8baqx1StsIitZ1"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 328133,
+      "name": "Perish",
+      "url": "https://open.spotify.com/track/2SsrRygE0VPkjFrtcV4PL8"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1263,22 +1279,6 @@
       "duration_ms": 211254,
       "name": "Background Sad",
       "url": "https://open.spotify.com/track/3QgcFagmjAErgUjXXZldZc"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "American Noir",
-        "url": "https://open.spotify.com/album/4ddTgrLBjiaQbjcDeWtrUg"
-      },
-      "artists": [
-        {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
-        }
-      ],
-      "duration_ms": 203271,
-      "name": "One Of Us",
-      "url": "https://open.spotify.com/track/5LcFvZSd8baqx1StsIitZ1"
     },
     {
       "added_at": "2022-08-25 23:00:00",

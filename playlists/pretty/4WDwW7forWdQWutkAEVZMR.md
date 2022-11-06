@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Hozier, Harry Styles &amp; more!
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,319 likes - 23 songs - 1 hr 7 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,321 likes - 23 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [If I Died Last Night](https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [If I Died Last Night](https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5) | 2:44 |
 | 2 | [Palomino](https://open.spotify.com/track/0zosLtbwbykpbPRyZMCeL5) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:17 |
 | 3 | [O Holy Night](https://open.spotify.com/track/2pPxYMrlAlXQlO9qqFlqcd) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [O Holy Night](https://open.spotify.com/album/4qJnnyMQ9ScGwaE0Y96gnG) | 3:22 |
-| 4 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/6GDDxhe281I5aNSgCYphex) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
+| 4 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
 | 5 | [Today](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Today](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 |
 | 6 | [itch](https://open.spotify.com/track/5RZb7SkH0lDPWyIFgFTvxo) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [itch](https://open.spotify.com/album/44qiPtIwkpzB1CWjyD2JxE) | 3:45 |
 | 7 | [Mine](https://open.spotify.com/track/1FYbKJI9kRofsRgOVYciic) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Mine](https://open.spotify.com/album/759xTRwjc0HF1m64zkRm0L) | 3:14 |

@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 238118,
+  "num_followers": 238228,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMGUwMmM2MjY2MjUxOWEyNjRiNWMyZGU2NjkzZGMzNmIz",
+  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMDg5NGFlOTU1Y2ZhMTRjNGExZGRkMGY0OTc3MDk2N2Yz",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -647,18 +647,18 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "We Do What We Want",
-        "url": "https://open.spotify.com/album/5DLu0Cem636nRBXkqhjDIh"
+        "name": "It's the Arps",
+        "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
       },
       "artists": [
         {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+          "name": "Todd Terje",
+          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
         }
       ],
-      "duration_ms": 505577,
-      "name": "We Do What We Want",
-      "url": "https://open.spotify.com/track/18DjkS5pjqCBROtTVH4GK6"
+      "duration_ms": 400751,
+      "name": "Inspector Norse",
+      "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -683,6 +683,22 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
+        "name": "We Do What We Want",
+        "url": "https://open.spotify.com/album/5DLu0Cem636nRBXkqhjDIh"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "duration_ms": 505577,
+      "name": "We Do What We Want",
+      "url": "https://open.spotify.com/track/18DjkS5pjqCBROtTVH4GK6"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
         "name": "Welcome Reality +",
         "url": "https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 257360,
       "name": "Promises",
       "url": "https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "It's the Arps",
-        "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
-      },
-      "artists": [
-        {
-          "name": "Todd Terje",
-          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
-        }
-      ],
-      "duration_ms": 400751,
-      "name": "Inspector Norse",
-      "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
     },
     {
       "added_at": "2020-11-06 16:59:04",

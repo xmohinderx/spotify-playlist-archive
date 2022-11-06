@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iwDddhmfW.md) - [plain]
 
 > Doorbells and sleigh bells and schnitzel with noodles
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,579 likes - 71 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,066 likes - 71 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

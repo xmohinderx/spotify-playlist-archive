@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-140 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
+141 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,9 +80,10 @@
 | [Manhattan Skyline \- JN Spirit of '77 Extended Mix](https://open.spotify.com/track/7i6jzIErXC8cnYhgpCt7b9) | [AC Soul Symphony](https://open.spotify.com/artist/5DsFurQjk8iOOLwG3uj4wQ), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Manhattan Skyline](https://open.spotify.com/album/4YHDGOswqmUbLbPjmDA5lb) | 11:06 | 2021-09-01 | 2022-07-29 |
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-09-01 |  |
 | [Minnoch](https://open.spotify.com/track/6GdyEMYwaCWCPFKTUCsBjF) | [Hunee](https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy) | [Tide / Minnoch](https://open.spotify.com/album/5xlIE5AFZb7p6eIK4exIKU) | 5:44 | 2021-09-01 | 2022-07-29 |
-| [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 | 2021-09-01 |  |
+| [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 | 2021-09-01 | 2022-11-06 |
 | [Modern Romance](https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Modern Romance](https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz) | 3:34 | 2021-09-01 |  |
 | [Morning Shift](https://open.spotify.com/track/0DtvmA9qyTtrcCW4CcobHl) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko) | [Scented Trip](https://open.spotify.com/album/1c9o8AiaQTSCCmJw81GRxO) | 6:20 | 2021-09-01 | 2022-10-05 |
+| [Morning Shift](https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Scented Trip](https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha) | 6:20 | 2021-09-01 |  |
 | [Most Precious Love](https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [RE//CHOIRED](https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka) | 3:54 | 2021-09-01 |  |
 | [Music Trance](https://open.spotify.com/track/3iLXg9PLuHxFNGQrNv2vlZ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Music Trance](https://open.spotify.com/album/7gr9gLflbW5DrgGQB9kcen) | 5:56 | 2021-09-01 | 2022-07-29 |
 | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 | 2021-09-01 |  |

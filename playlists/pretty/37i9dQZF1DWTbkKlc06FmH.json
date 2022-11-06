@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 106299,
+  "num_followers": 106363,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MTAxMSwwMDAwMDAwMDMzZTU0NjJhMWY3NWQ4YzViMjg3MGM5ZGU1MjVkOGE2",
+  "snapshot_id": "MTY2NzU0MTAxMSwwMDAwMDAwMGE3ZjkzNTJjMTUyNmVjYmEwYTEzYTNjZWMwMTM1Yzhj",
   "tracks": [
     {
       "added_at": "2022-10-27 15:21:46",
@@ -347,26 +347,30 @@
     {
       "added_at": "2022-10-27 15:21:46",
       "album": {
-        "name": "Funk Wav Bounces Vol. 2",
-        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+        "name": "Where I Go (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
         },
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         },
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
         }
       ],
-      "duration_ms": 226497,
-      "name": "Obsessed (with Charlie Puth & Shenseea)",
-      "url": "https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2"
+      "duration_ms": 201026,
+      "name": "Where I Go (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
     },
     {
       "added_at": "2022-10-27 15:21:46",
@@ -407,30 +411,26 @@
     {
       "added_at": "2022-10-27 15:21:46",
       "album": {
-        "name": "Where I Go (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
+        "name": "Funk Wav Bounces Vol. 2",
+        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },
       "artists": [
         {
-          "name": "NxWorries",
-          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 201026,
-      "name": "Where I Go (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+      "duration_ms": 226497,
+      "name": "Obsessed (with Charlie Puth & Shenseea)",
+      "url": "https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2"
     },
     {
       "added_at": "2022-10-27 15:21:46",
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7"
     },
     {
-      "added_at": "2022-11-05 01:13:30",
+      "added_at": "2022-11-06 01:11:49",
       "album": {
         "name": "Good Lovin",
         "url": "https://open.spotify.com/album/3UhvdOKBVUwsTtihw50T4K"
@@ -719,22 +719,22 @@
     {
       "added_at": "2022-10-27 15:21:46",
       "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         },
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+      "duration_ms": 274391,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
       "added_at": "2022-10-27 15:21:46",
@@ -755,22 +755,22 @@
     {
       "added_at": "2022-10-27 15:21:46",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         },
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 274391,
-      "name": "B-Side",
-      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
     },
     {
       "added_at": "2022-10-27 15:21:46",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-10-27 15:21:46",
       "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
-    },
-    {
-      "added_at": "2022-10-27 15:21:46",
-      "album": {
         "name": "The Sun Is Up Forever",
         "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 224739,
       "name": "The Sun Is Up Forever",
       "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
+    },
+    {
+      "added_at": "2022-10-27 15:21:46",
+      "album": {
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
     },
     {
       "added_at": "2022-10-27 15:21:46",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-10-27 15:21:46",
       "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 286640,
-      "name": "\u30ed\u30f3\u30ea\u30fc\u30e9\u30d7\u30bd\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/2T2PRhaEQLPoo78E8zyVgw"
-    },
-    {
-      "added_at": "2022-10-27 15:21:46",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 214468,
       "name": "erase me",
       "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
+    },
+    {
+      "added_at": "2022-10-27 15:21:46",
+      "album": {
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 286640,
+      "name": "\u30ed\u30f3\u30ea\u30fc\u30e9\u30d7\u30bd\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/2T2PRhaEQLPoo78E8zyVgw"
     },
     {
       "added_at": "2022-10-27 15:21:46",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-10-27 15:21:46",
       "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+    },
+    {
+      "added_at": "2022-10-27 15:21:46",
+      "album": {
         "name": "Y4",
         "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 150700,
       "name": "Body & Soul (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
-    },
-    {
-      "added_at": "2022-10-27 15:21:46",
-      "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
     },
     {
       "added_at": "2022-10-27 15:21:46",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-10-27 15:21:46",
       "album": {
-        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 249254,
-      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
-      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
-    },
-    {
-      "added_at": "2022-10-27 15:21:46",
-      "album": {
         "name": "Mercurial World",
         "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 245897,
       "name": "Secrets (Your Fire)",
       "url": "https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb"
+    },
+    {
+      "added_at": "2022-10-27 15:21:46",
+      "album": {
+        "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+        "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 249254,
+      "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
+      "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
     },
     {
       "added_at": "2022-10-27 15:21:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,532 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,537 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 49 | [El Disgusto \- En Vivo](https://open.spotify.com/track/0tYh79KyyAMOWl32wsAT4T) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Grandes Éxitos \(En Vivo\)](https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0) | 4:36 |
 | 50 | [Voy A Pedirte Perdón](https://open.spotify.com/track/4sZTj0NhsOlDUeoWT1FS1R) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Voy A Pedirte Perdón](https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6) | 3:38 |
 
-Snapshot ID: `Mjc3OTM0MTUsMDAwMDAwMDA0OGIxNGRkNDE4OTBlNWNhMTBhNDA0MDZlMzJiZGZiOQ==`
+Snapshot ID: `Mjc3OTQ0MzUsMDAwMDAwMDBlZTc0MzRhNGE2MjE2ZmNmMjAxMGZhMTIwMTJmOWQyOA==`

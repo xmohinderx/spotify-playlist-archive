@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > Are you a day 1 fan of your favourite rapper? Prove it!\. Rap UK Day 1 Club has just launched\. <a href='https://day1club\-uk.byspotify.com/'>Check it out.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,364 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,724 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 13 | [Public Figure](https://open.spotify.com/track/0PeQk3MMmnfBMmP1EvDOP4) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Public Figure](https://open.spotify.com/album/1lyEFQfl8xQE0ylIzWHQJL) | 2:55 |
 | 14 | [Too Many Lies](https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Too Many Lies](https://open.spotify.com/album/6KqC49BW6eS59XkmzHpc71) | 3:19 |
 | 15 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 |
-| 16 | [Covering My Ears](https://open.spotify.com/track/1M3VBabFRFPZnO3FB0P4JA) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Covering My Ears](https://open.spotify.com/album/3SqdodwZEZ4nFcwbw2Vvnj) | 2:27 |
+| 16 | [Covering My Ears \(feat\. Naughty Boy & wewantwraiths\)](https://open.spotify.com/track/1M3VBabFRFPZnO3FB0P4JA) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Covering My Ears \(feat\. Naughty Boy & wewantwraiths\)](https://open.spotify.com/album/3SqdodwZEZ4nFcwbw2Vvnj) | 2:27 |
 | 17 | [White Wine](https://open.spotify.com/track/3Wpxp6H9X7VQ2Rqfa5QcQN) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [White Wine](https://open.spotify.com/album/053mF3dEpiT5s7qtj04hqS) | 2:42 |
 | 18 | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe) | 2:34 |
 | 19 | [Back 2 Back](https://open.spotify.com/track/4o48inbA3UIzhN6bXmw7mq) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [LB](https://open.spotify.com/artist/2A5oMEmokluGIjElBMgcmV), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Cold Feet](https://open.spotify.com/album/4PoW2QPYyGG7KqLYffTtym) | 3:08 |

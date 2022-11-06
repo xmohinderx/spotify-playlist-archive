@@ -1,12 +1,12 @@
 {
   "description": "The perfect uptempo tracks for your Party.\nCover : Nithiin",
-  "num_followers": 26413,
+  "num_followers": 26427,
   "original_name": "EDM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMGI3OWI5Mzc3Mzk0YjBkOTYwZWYxZDBkNGQ2NWFkYzg5",
+  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMDk4OWE2YzI1YTEyOTNmNDhkZjUwZmE4YzlkNzUxNzhl",
   "tracks": [
     {
       "added_at": "2022-06-03 13:02:58",
@@ -315,6 +315,22 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "Dhruva",
+        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
+      },
+      "artists": [
+        {
+          "name": "Amit Mishra",
+          "url": "https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU"
+        }
+      ],
+      "duration_ms": 207217,
+      "name": "Dhruva Dhruva",
+      "url": "https://open.spotify.com/track/4JPr25ag4mVbYtNEZ3QGVE"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "Swing Zara (From \"Jai Lava Kusa\")",
         "url": "https://open.spotify.com/album/6GEMkqLNtpGvCicpkWRQv5"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 261387,
       "name": "Swing Zara",
       "url": "https://open.spotify.com/track/1SJOGijQV7cRrfLstfZHzE"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Dhruva",
-        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
-      },
-      "artists": [
-        {
-          "name": "Amit Mishra",
-          "url": "https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU"
-        }
-      ],
-      "duration_ms": 207217,
-      "name": "Dhruva Dhruva",
-      "url": "https://open.spotify.com/track/4JPr25ag4mVbYtNEZ3QGVE"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Jawaan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5DfsGKVbm4zYOnEiGmJMW0"
-      },
-      "artists": [
-        {
-          "name": "Saketh",
-          "url": "https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ"
-        },
-        {
-          "name": "Mohana Bhogaraju",
-          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
-        }
-      ],
-      "duration_ms": 212822,
-      "name": "Bomma Adirindhi",
-      "url": "https://open.spotify.com/track/6C973InqBs20JEt5n71BY6"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Mahanubhavudu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1yqvJA4WwJQlyiUR1lwKvh"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 210396,
       "name": "Kiss Me Baby",
       "url": "https://open.spotify.com/track/3aM2juY0azR4PZ9BtQdq29"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Jawaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5DfsGKVbm4zYOnEiGmJMW0"
+      },
+      "artists": [
+        {
+          "name": "Saketh",
+          "url": "https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ"
+        },
+        {
+          "name": "Mohana Bhogaraju",
+          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
+        }
+      ],
+      "duration_ms": 212822,
+      "name": "Bomma Adirindhi",
+      "url": "https://open.spotify.com/track/6C973InqBs20JEt5n71BY6"
     },
     {
       "added_at": "2021-06-24 14:44:57",

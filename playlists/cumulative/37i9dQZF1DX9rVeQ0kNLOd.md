@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-55 songs - 3 hr 16 min - not published yet
+56 songs - 3 hr 19 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [idoshiyo](https://open.spotify.com/track/4HXOB4iLo2O86YNzp7ksH1) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [SARA\-J](https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL) | [idoshiyo](https://open.spotify.com/album/4SW8buxuzDa9pc1Pv3fGfk) | 2:18 | 2022-10-20 |  |
 | [kid feat\. Yuga](https://open.spotify.com/track/7GMbDO1vB3nbUrPXnYeqkA) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [優河](https://open.spotify.com/artist/4Oy3S7MObkSt60p6D1qrua) | [from here to there](https://open.spotify.com/album/17kSaiO4qU3vigvTKPUJWU) | 4:13 | 2022-10-20 |  |
 | [Lazy](https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 3:53 | 2022-10-20 |  |
-| [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 | 2022-10-20 |  |
+| [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 | 2022-10-20 | 2022-11-06 |
 | [Lullaby](https://open.spotify.com/track/0kMurvK2rcbHQseXMjBJTT) | [ZIW](https://open.spotify.com/artist/7ijz6PFdK9juJmaKs75KHa), [Fukumoto Nao](https://open.spotify.com/artist/1QLZ0b7wV4GzLfIrDscnET), [Kannon Price](https://open.spotify.com/artist/40DqpvTke3kuyArabmopRw) | [Lullaby](https://open.spotify.com/album/4O4LEkNJwNQhXOojYRNJcM) | 4:01 | 2022-10-20 |  |
 | [made my day feat\. Takuya Kuroda / Marcus D](https://open.spotify.com/track/6ogEQHLfCtEozEqTDI0PmD) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [made my day feat\. Takuya Kuroda / Marcus D](https://open.spotify.com/album/6MxRGKcSWjnBdn1ywHfu7Y) | 3:25 | 2022-10-25 |  |
 | [madoromiyurumi](https://open.spotify.com/track/3eyti6C0dpOaFKv01GMUn9) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [madoromiyurumi](https://open.spotify.com/album/5QPr7Gbmbfjw3AxXPyHoJb) | 4:04 | 2022-10-20 | 2022-10-26 |
@@ -52,6 +52,7 @@
 | [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 | 2022-10-20 |  |
 | [こんにちは](https://open.spotify.com/track/46ffXVe06tGBKlfwWRig2z) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Impossible Isle](https://open.spotify.com/album/02USyfjHAF5ISwxoM1uCgZ) | 2:52 | 2022-10-20 |  |
 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 | 2022-10-20 |  |
+| [イタズラなKiss](https://open.spotify.com/track/2Ngw4fbjRDUemjt3y5ofPH) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [イタズラなKiss](https://open.spotify.com/album/5zHx02UPVQDtT6BEj1JZCr) | 3:05 | 2022-10-25 |  |
 | [カタコト](https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [カタコト](https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7) | 2:38 | 2022-10-20 |  |
 | [サイダー](https://open.spotify.com/track/3XyMgMwiakVHJGrXquBRU7) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [サイダー](https://open.spotify.com/album/5lWC0kWqYgIUem8aSfKfpu) | 3:39 | 2022-10-20 |  |
 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-10-20 |  |

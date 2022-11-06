@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: The Weeknd
 
-501 songs - 1 day 3 hr 58 min - [published](https://open.spotify.com/playlist/2gY4599r7wEcpzuQThQTVi)
+502 songs - 1 day 4 hr 1 min - [published](https://open.spotify.com/playlist/2gY4599r7wEcpzuQThQTVi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,8 @@
 | [hot girl bummer](https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [hot girl bummer](https://open.spotify.com/album/37CqAwxTungNxKpIK5vSgE) | 3:05 | 2022-04-01 | 2022-04-17 |
 | [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:08 | 2022-07-28 | 2022-08-12 |
 | [How You Want It?](https://open.spotify.com/track/0rbnYyj0Zq2pNJSzWqtf4g) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [How You Want It?](https://open.spotify.com/album/3dPk7WASa1GmL7vluAP4ff) | 3:42 | 2022-04-01 | 2022-04-21 |
-| [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-07-28 |  |
+| [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-07-28 | 2022-11-06 |
+| [Hrs & Hrs](https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:24 | 2022-11-04 |  |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-04-15 | 2022-07-29 |
 | [huge mood](https://open.spotify.com/track/0OcLB88ZuFFKjCJIc2D7gC) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [modern breakups](https://open.spotify.com/album/0FWQlepaI5ZA2Kkeik8RZY) | 3:02 | 2022-04-01 | 2022-04-21 |
 | [I Believed It \(feat\. Mac Miller\)](https://open.spotify.com/track/0BKuCr5M2nggLQnUjllayK) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Cheers to the Best Memories](https://open.spotify.com/album/1WNwlBvoohUFZcJt3uLrd4) | 4:06 | 2022-03-11 | 2022-07-18 |

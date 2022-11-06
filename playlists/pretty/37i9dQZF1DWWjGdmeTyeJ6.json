@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Saint Harison",
-  "num_followers": 1139422,
+  "num_followers": 1139363,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5MDcwMCwwMDAwMDAwMDAzMWUyNDJjMjY4ZTQ3ODc0MGE5ZDQ1MDdiYTEyYmRk",
+  "snapshot_id": "MTY2NzM5MDcwMCwwMDAwMDAwMDM4ZTVmY2JmZjU4YjhhZWZjYTU2ZWJlYzBlYTk4N2Vi",
   "tracks": [
     {
       "added_at": "2022-11-02 12:05:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 196056,
+      "name": "best",
+      "url": "https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/3GZ4zjIs4s20QTTfv3VkTM"
       },
@@ -299,6 +315,30 @@
       "duration_ms": 190906,
       "name": "Chemical Emotion",
       "url": "https://open.spotify.com/track/1CKcGabeLVfIuAWNBbhGDL"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/32qr91TrfqvLaHackgWu8T"
+      },
+      "artists": [
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "Sattalite",
+          "url": "https://open.spotify.com/artist/5niYxHk8papS8g9sJ1cCSc"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/2PoBcXVafvD2yIO4ynXtuu"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -355,46 +395,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 196056,
-      "name": "best",
-      "url": "https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/32qr91TrfqvLaHackgWu8T"
-      },
-      "artists": [
-        {
-          "name": "Misha",
-          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
-        },
-        {
-          "name": "Sattalite",
-          "url": "https://open.spotify.com/artist/5niYxHk8papS8g9sJ1cCSc"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/2PoBcXVafvD2yIO4ynXtuu"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Over & Out",
         "url": "https://open.spotify.com/album/1sikjvOUTHaQYcoPUjC3me"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 164600,
       "name": "Over & Out",
       "url": "https://open.spotify.com/track/76M5por1Z1EIqZQ3K0fA1X"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Nice Guy But",
+        "url": "https://open.spotify.com/album/4XSMbB9TbKYikmr5D5w5sM"
+      },
+      "artists": [
+        {
+          "name": "KTJ & CARLY",
+          "url": "https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Nice Guy But",
+      "url": "https://open.spotify.com/track/10c0FbEwZqw3xs8yzIJYnH"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -443,22 +459,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Nice Guy But",
-        "url": "https://open.spotify.com/album/4XSMbB9TbKYikmr5D5w5sM"
-      },
-      "artists": [
-        {
-          "name": "KTJ & CARLY",
-          "url": "https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Nice Guy But",
-      "url": "https://open.spotify.com/track/10c0FbEwZqw3xs8yzIJYnH"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Joan",
         "url": "https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3"
       },
@@ -471,26 +471,6 @@
       "duration_ms": 318560,
       "name": "Joan",
       "url": "https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/2xZ3xXZrw9fdBiIYorJXVw"
-      },
-      "artists": [
-        {
-          "name": "Eva Gadd",
-          "url": "https://open.spotify.com/artist/3P0VkEuicITtHCxwQeYaMJ"
-        },
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/1PloZcN6tfeJFFUanqbrgh"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -511,6 +491,26 @@
       "duration_ms": 141813,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/7hYj1SSQACeWWr1QzNxQd0"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/2xZ3xXZrw9fdBiIYorJXVw"
+      },
+      "artists": [
+        {
+          "name": "Eva Gadd",
+          "url": "https://open.spotify.com/artist/3P0VkEuicITtHCxwQeYaMJ"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/1PloZcN6tfeJFFUanqbrgh"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "i hate 1st dates",
-        "url": "https://open.spotify.com/album/3oohxGSBp3TZzox2F69jMN"
-      },
-      "artists": [
-        {
-          "name": "valentina cy",
-          "url": "https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx"
-        }
-      ],
-      "duration_ms": 176992,
-      "name": "i hate 1st dates",
-      "url": "https://open.spotify.com/track/5hRMLeMCXo7EC7uJfe9kQH"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "papercuts",
         "url": "https://open.spotify.com/album/5pOt2aPHSirpOt9voInHZv"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
+        "name": "i hate 1st dates",
+        "url": "https://open.spotify.com/album/3oohxGSBp3TZzox2F69jMN"
+      },
+      "artists": [
+        {
+          "name": "valentina cy",
+          "url": "https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx"
+        }
+      ],
+      "duration_ms": 176992,
+      "name": "i hate 1st dates",
+      "url": "https://open.spotify.com/track/5hRMLeMCXo7EC7uJfe9kQH"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
         "name": "Better in My Bed",
         "url": "https://open.spotify.com/album/6NqTWeRCZNHX8Qt12SYyU4"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 120789,
       "name": "Better in My Bed",
       "url": "https://open.spotify.com/track/1OHQMTnq6xp44ScQQlM4Ts"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "Break",
-        "url": "https://open.spotify.com/album/6QsBDIZ6CRltVA7wTpjdoU"
-      },
-      "artists": [
-        {
-          "name": "Calista Del Toro",
-          "url": "https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc"
-        }
-      ],
-      "duration_ms": 151741,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/4xPb3jN1lrnKE5ivMlNubW"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -647,18 +631,18 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Will it be worth it",
-        "url": "https://open.spotify.com/album/7Le37oYpZm1tJkh5HFd92I"
+        "name": "Break",
+        "url": "https://open.spotify.com/album/6QsBDIZ6CRltVA7wTpjdoU"
       },
       "artists": [
         {
-          "name": "Heriti\u00e9r",
-          "url": "https://open.spotify.com/artist/6ruC0tY4s55IWpTmCO9COD"
+          "name": "Calista Del Toro",
+          "url": "https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc"
         }
       ],
-      "duration_ms": 148783,
-      "name": "Will it be worth it",
-      "url": "https://open.spotify.com/track/2vOpxGjvmdp3CzjfKOBY8J"
+      "duration_ms": 151741,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/4xPb3jN1lrnKE5ivMlNubW"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -679,6 +663,22 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
+        "name": "Will it be worth it",
+        "url": "https://open.spotify.com/album/7Le37oYpZm1tJkh5HFd92I"
+      },
+      "artists": [
+        {
+          "name": "Heriti\u00e9r",
+          "url": "https://open.spotify.com/artist/6ruC0tY4s55IWpTmCO9COD"
+        }
+      ],
+      "duration_ms": 148783,
+      "name": "Will it be worth it",
+      "url": "https://open.spotify.com/track/2vOpxGjvmdp3CzjfKOBY8J"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
         "name": "New Occasion",
         "url": "https://open.spotify.com/album/7mPuG1ZP41IW1A7X4pNzPf"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Take Me Under",
-        "url": "https://open.spotify.com/album/0Gpt7EN8k5NY7qwk0fXHbn"
-      },
-      "artists": [
-        {
-          "name": "Volaris",
-          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
-        }
-      ],
-      "duration_ms": 178165,
-      "name": "Take Me Under",
-      "url": "https://open.spotify.com/track/4DmtkAs0rigHeNhVCR2OGr"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Henrietta\u2019s",
         "url": "https://open.spotify.com/album/3fDVyQ1UFd15mD10T4jDGy"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 133714,
       "name": "Henrietta\u2019s",
       "url": "https://open.spotify.com/track/6GRsmpkN66rvxNSKsHYi7E"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Take Me Under",
+        "url": "https://open.spotify.com/album/0Gpt7EN8k5NY7qwk0fXHbn"
+      },
+      "artists": [
+        {
+          "name": "Volaris",
+          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
+        }
+      ],
+      "duration_ms": 178165,
+      "name": "Take Me Under",
+      "url": "https://open.spotify.com/track/4DmtkAs0rigHeNhVCR2OGr"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Dance Like You",
-        "url": "https://open.spotify.com/album/5JC0yvulg2b6jmqnZWh2n3"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/2Xydp4g98KSJPiS7lmB0WV"
       },
       "artists": [
         {
-          "name": "LewRaz",
-          "url": "https://open.spotify.com/artist/0DVmpGjL5wcDKpkRFmsvhA"
+          "name": "KT Laine",
+          "url": "https://open.spotify.com/artist/45bWAmOWm6pQPdV3yH9s13"
         }
       ],
-      "duration_ms": 181133,
-      "name": "Dance Like You",
-      "url": "https://open.spotify.com/track/2TAHGGbmtwtlH47hZLYWzu"
+      "duration_ms": 193758,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/7ATrAYmFMpfADYCYoDu221"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -907,34 +907,18 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/2Xydp4g98KSJPiS7lmB0WV"
+        "name": "Dance Like You",
+        "url": "https://open.spotify.com/album/5JC0yvulg2b6jmqnZWh2n3"
       },
       "artists": [
         {
-          "name": "KT Laine",
-          "url": "https://open.spotify.com/artist/45bWAmOWm6pQPdV3yH9s13"
+          "name": "LewRaz",
+          "url": "https://open.spotify.com/artist/0DVmpGjL5wcDKpkRFmsvhA"
         }
       ],
-      "duration_ms": 193758,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/7ATrAYmFMpfADYCYoDu221"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "blood moon",
-        "url": "https://open.spotify.com/album/7s8NmuQASuHTKRjpUDeoxv"
-      },
-      "artists": [
-        {
-          "name": "Fantasy Camp",
-          "url": "https://open.spotify.com/artist/5EOdFuP5qy3DOB7EQKyo2j"
-        }
-      ],
-      "duration_ms": 165802,
-      "name": "blood moon",
-      "url": "https://open.spotify.com/track/5X2SBiyCzGiCZCsQQkpaPI"
+      "duration_ms": 181133,
+      "name": "Dance Like You",
+      "url": "https://open.spotify.com/track/2TAHGGbmtwtlH47hZLYWzu"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -963,6 +947,22 @@
       "duration_ms": 268961,
       "name": "BEETGOZON",
       "url": "https://open.spotify.com/track/7mRv0BMqcUihPgEeXSDO3z"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "blood moon",
+        "url": "https://open.spotify.com/album/7s8NmuQASuHTKRjpUDeoxv"
+      },
+      "artists": [
+        {
+          "name": "Fantasy Camp",
+          "url": "https://open.spotify.com/artist/5EOdFuP5qy3DOB7EQKyo2j"
+        }
+      ],
+      "duration_ms": 165802,
+      "name": "blood moon",
+      "url": "https://open.spotify.com/track/5X2SBiyCzGiCZCsQQkpaPI"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Loosey",
-        "url": "https://open.spotify.com/album/2nCJxgGHGeRUZz8HzhIvJd"
-      },
-      "artists": [
-        {
-          "name": "Sun Spots",
-          "url": "https://open.spotify.com/artist/5dLUdWCHNf1zrQoAiXlB8w"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Never Gonna Change",
-      "url": "https://open.spotify.com/track/3VHDLnaAtSuxamz3rXqO35"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Love Is A Road",
         "url": "https://open.spotify.com/album/6OE9qKLG2FtkVsbhh9Rfr4"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 152500,
       "name": "Love Is A Road",
       "url": "https://open.spotify.com/track/0FwVd5oQKYw0KEnceGqIcI"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Loosey",
+        "url": "https://open.spotify.com/album/2nCJxgGHGeRUZz8HzhIvJd"
+      },
+      "artists": [
+        {
+          "name": "Sun Spots",
+          "url": "https://open.spotify.com/artist/5dLUdWCHNf1zrQoAiXlB8w"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Never Gonna Change",
+      "url": "https://open.spotify.com/track/3VHDLnaAtSuxamz3rXqO35"
     },
     {
       "added_at": "2022-11-02 12:05:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica, con Blessd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,704,007 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,704,635 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 9 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 |
 | 10 | [Instagram \- Remix](https://open.spotify.com/track/6yMJejrOneyPtkDnrZkEVQ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Instagram \(Remix\)](https://open.spotify.com/album/2VJLr9Szd9xv7Dcrey5oOd) | 4:03 |
 | 11 | [Nadie Nos Vio \- Spotify Singles](https://open.spotify.com/track/0BibHMUWAVk5R4R0EpUOfX) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Nadie Nos Vio \- Spotify Singles](https://open.spotify.com/album/5TCDz405Ejfs2yEK9Mgu8c) | 2:40 |
-| 12 | [DOMINGO DE BOTE](https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAISO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 |
+| 12 | [DOMINGO DE BOTE](https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 |
 | 13 | [Pico y Pala](https://open.spotify.com/track/1AWefrQG0I0OtvatTB01EZ) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [Pico y Pala](https://open.spotify.com/album/2W3jyJZSprQ0fxlOpEGH7H) | 2:54 |
 | 14 | [Ella y Yo \(feat\. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers\)](https://open.spotify.com/track/2opYh9ZmKbiVrzEuPgrCTX) | [Pepe Quintana](https://open.spotify.com/artist/7LXdYckhvHWU4ejXbkHa3N), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Ella y Yo \(feat\. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers\)](https://open.spotify.com/album/1ZriaC9kT8i4L51al45sgZ) | 5:08 |
 | 15 | [MANIAKA](https://open.spotify.com/track/4sJTFwiiFLa8xtRp3GtDQl) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [MANIAKA](https://open.spotify.com/album/4qS3CNS00fkzgzW39Pfy05) | 2:34 |

@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-394 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
+395 songs - 15 hr 5 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [collecting atoms](https://open.spotify.com/track/16nQiePcYcp0yTzJ0B6eea) | [gamuri shun](https://open.spotify.com/artist/3t8zcW41Vd0F7ddGBwUZ4N) | [collecting atoms](https://open.spotify.com/album/0dKEvHRw7ptv0H7id0blyB) | 2:13 | 2022-10-28 |  |
 | [Colours of Morning](https://open.spotify.com/track/0VCX4S2oVF0xTQ4RlIYZO9) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM), [Arbee](https://open.spotify.com/artist/4jO3BZbmJcXOlIrIsWPSqo) | [Merging Day Into Night](https://open.spotify.com/album/4BVIzjIvLHYp5L9L6sZAMd) | 2:00 | 2022-10-28 |  |
 | [Contemplation](https://open.spotify.com/track/0mrMtZYcXTmQZJomdf3zRz) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa) | [Contemplation](https://open.spotify.com/album/3f4PF164QqbIdTOBCobxFV) | 1:58 | 2022-07-22 |  |
-| [Cosmopolitan](https://open.spotify.com/track/3jHbK3uTQjttMi4dWlbqZI) | [Roses](https://open.spotify.com/artist/3abdd92dF9ZxywaIBWKKcp) | [Cosmopolitan](https://open.spotify.com/album/0YJNMf0gGQNg04r5Ss6mgA) | 2:07 | 2022-10-14 |  |
+| [Cosmopolitan](https://open.spotify.com/track/2i7vxIrgWcIXLpfrvRCsKW) | [Roses](https://open.spotify.com/artist/3abdd92dF9ZxywaIBWKKcp) | [Cosmopolitan](https://open.spotify.com/album/3hWHWhODUML6dSiGhsLJFZ) | 2:07 | 2022-10-28 |  |
+| [Cosmopolitan](https://open.spotify.com/track/3jHbK3uTQjttMi4dWlbqZI) | [Roses](https://open.spotify.com/artist/3abdd92dF9ZxywaIBWKKcp) | [Cosmopolitan](https://open.spotify.com/album/0YJNMf0gGQNg04r5Ss6mgA) | 2:07 | 2022-10-14 | 2022-11-06 |
 | [cotton candy clouds](https://open.spotify.com/track/34VlfUUS5Ogo3IM5lb7EZY) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [4WHEELS](https://open.spotify.com/album/2GWBGGSlEczxqONStHkB5I) | 2:13 | 2022-08-19 |  |
 | [cozy night](https://open.spotify.com/track/2EaWfgTwX273s5TSpzX46n) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK) | [cozy night](https://open.spotify.com/album/3Vu7ShhWQsOT0rx8A8IU6t) | 2:26 | 2022-05-20 |  |
 | [Cozy Nights](https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Cozy Nights](https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B) | 2:03 | 2022-09-09 |  |

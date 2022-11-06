@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jas
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,442 likes - 143 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,512 likes - 143 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nawa Nawa Pyaar](https://open.spotify.com/track/50DyjmQxDUAygFT31rD1kT) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Tanu Grewal](https://open.spotify.com/artist/1eineiKpO6pp1nt22iwu47) | [Nawa Nawa Pyaar \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/2UbFUgSQy4u09v1jzah7qy) | 2:19 |
-| 2 | [Chad Gayi Chad Gayi](https://open.spotify.com/track/19YcxEcS0mhP7WUd8XzAwv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Chad Gayi Chad Gayi \(From "Oye Makhna"\)](https://open.spotify.com/album/6mWCWNkxapUEzmXyAC8xu4) | 3:47 |
+| 2 | [Chad Gayi Chad Gayi](https://open.spotify.com/track/2CedZ4QHpSM8mQ3D9y0YNd) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Ammy Virk](https://open.spotify.com/artist/1YjvDuENxcoM8rUMee9ky1), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Oye Makhna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Dz88sSDuIomJiExDPmfQu) | 3:47 |
 | 3 | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/track/6UCOYYKgwCJpENkEFHjw50) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/album/0NpT6q3W06PVHcCnE5Ifyl) | 3:55 |
 | 4 | [Dekhya Kite](https://open.spotify.com/track/07X7p4jFhHEECps5IBKQ3c) | [Davy](https://open.spotify.com/artist/53DGPAJOq7aJrvYGrumUOV), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Dekhya Kite](https://open.spotify.com/album/2zPnY5L7hwCjuYmpuCCAO5) | 3:02 |
 | 5 | [Snowfall](https://open.spotify.com/track/33rfzVxhNEBh0tnt2KXbXI) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Snowfall](https://open.spotify.com/album/2YMwWwivQX7z4n3913TPZh) | 3:01 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 142 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
 | 143 | [Aj Kal Ve](https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 3:23 |
 
-Snapshot ID: `MTY2Njk0NjAwNywwMDAwMDAwMDdmYzJlYjdkYzIwYWI1NzBmZmI4NmU3MDU0M2Y3OWFk`
+Snapshot ID: `MTY2Njk0NjAwNywwMDAwMDAwMGUwY2IxZDAwZTc5YWY0MzgxMTAzMTI3YWFjODQ1ZDE1`

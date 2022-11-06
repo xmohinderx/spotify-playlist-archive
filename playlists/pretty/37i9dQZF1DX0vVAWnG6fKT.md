@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,112 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,209 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 5 | [Pistol Packin' Mama \- Single Version](https://open.spotify.com/track/2Pn1HP6ZTVpBaew1jHcs87) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 3:03 |
 | 6 | [Smoke! Smoke! Smoke! \(That Cigarette\)](https://open.spotify.com/track/05HBDnASISMJN46VxzDafK) | [Tex Williams](https://open.spotify.com/artist/7DCIJOYaG1Yj8uVlR4QGlu) | [Smoke Smoke Smoke](https://open.spotify.com/album/6z4tvzPeLyP3vFFVGOcH0s) | 2:43 |
 | 7 | [Too Old To Cut The Mustard](https://open.spotify.com/track/6uaFrJlwnX79ZPz6xyzhrl) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9), [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS) | [Retrospective \(Volume 2\)](https://open.spotify.com/album/1NwdehvDYJrG3gmyPkZ9fs) | 2:52 |
-| 8 | [Walking The Floor Over You \- 1941 Edit](https://open.spotify.com/track/7vDYwBSPs5Wpn3XI6oqMM9) | [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS) | [Retrospective, Vol\. 1](https://open.spotify.com/album/3NBmNvF2zHDafsRjPejumd) | 2:39 |
+| 8 | [Cross Road Blues \- Take 1](https://open.spotify.com/track/33hrofhwmIk6hrnkpbCsmq) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues](https://open.spotify.com/album/3TxhWz2Fr7wKECfx8Ii8ch) | 2:37 |
 | 9 | [Cold, Cold Heart](https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Memorial Album \(Expanded Edition\)](https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS) | 2:45 |
 | 10 | [Slipping Around \- 1949 Single](https://open.spotify.com/track/0y9SSRXRLA9cAbRd4rxL8O) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87), [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [The Complete Capitol Hits Of Margaret Whiting](https://open.spotify.com/album/3Zm1rm9czcHwe6kWvErjUm) | 2:11 |
-| 11 | [Cross Road Blues \- Take 1](https://open.spotify.com/track/33hrofhwmIk6hrnkpbCsmq) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues](https://open.spotify.com/album/3TxhWz2Fr7wKECfx8Ii8ch) | 2:37 |
+| 11 | [Walking The Floor Over You \- 1941 Edit](https://open.spotify.com/track/7vDYwBSPs5Wpn3XI6oqMM9) | [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS) | [Retrospective, Vol\. 1](https://open.spotify.com/album/3NBmNvF2zHDafsRjPejumd) | 2:39 |
 | 12 | [Headin' Down The Wrong Highway](https://open.spotify.com/track/7KF5iHhrwT1kZL22nyRdKi) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [Country and Western](https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB) | 1:38 |
 | 13 | [Riders In The Sky](https://open.spotify.com/track/5kI7vpum3qPDB8ZT6rSPNV) | [Sons of the Pioneers](https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68) | [Cool Water \(With Bonus Tracks\)](https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7) | 2:21 |
 | 14 | [Wildwood Flower](https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [Can The Circle Be Unbroken: Country Music's First Family](https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd) | 3:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Sioux city sue](https://open.spotify.com/track/0qHMIiiuMFcZD5UaxyUBzv) | [Hoosier Hot Shots](https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph) | [Everybody Stomp \- Rag Time](https://open.spotify.com/album/5sERGlazXrWducJ81Ro3nL) | 2:52 |
 | 70 | [Wine, Women and Song](https://open.spotify.com/track/0FnC7ilW0ONEWTsu6LyPHx) | [Al Dexter](https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO) | [Presenting Al Dexter](https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W) | 2:49 |
 
-Snapshot ID: `MTY1ODY5MzA5OSwwMDAwMDAwMGE3MTQ2YWNlM2RjMTBlNGQ2ODE2NmQ3MzFiMmZiOWM0`
+Snapshot ID: `MTY1ODY5MzA5OSwwMDAwMDAwMDBiZWVkYjI2OWY3MTA5MzkyY2E0NjEyMTJhMzY0MjZh`

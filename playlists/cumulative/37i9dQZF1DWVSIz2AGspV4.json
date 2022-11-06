@@ -1418,6 +1418,24 @@
     },
     {
       "album": {
+        "name": "Hatha Elshog",
+        "url": "https://open.spotify.com/album/26MNNiLNBmJ51vGRYuX9Df"
+      },
+      "artists": [
+        {
+          "name": "Dumooa Tahseen",
+          "url": "https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Hatha Elshog",
+      "url": "https://open.spotify.com/track/1lUCqzlZvfi2aFS5EZMwJb"
+    },
+    {
+      "album": {
         "name": "Hawel Taof",
         "url": "https://open.spotify.com/album/0jUrAi8X3csj7B7BRIaVU1"
       },

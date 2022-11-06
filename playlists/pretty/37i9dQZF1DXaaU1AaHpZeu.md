@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Clara Yolks
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,709 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,751 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 2 | [Bienvenido al Caos](https://open.spotify.com/track/1ssOoVHCoUOAr1n63bQOW5) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [El Arte de Morir muy Despacio](https://open.spotify.com/album/2gG6tiHAfxVwPxPe6GL86p) | 4:37 |
 | 3 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
 | 4 | [Frágiles](https://open.spotify.com/track/4t5Yt1Lj0KcpR5nEmxTsiL) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [BESMAYA](https://open.spotify.com/album/1a73JYf6TbU0grseooCu4T) | 3:05 |
-| 5 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9) | 2:47 |
+| 5 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9) | 3:07 |
 | 6 | [Ley de Atracción](https://open.spotify.com/track/3Hg8KE0DQjo6aFJwFp2A8D) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Ley de Atracción](https://open.spotify.com/album/1uFe6wvy8CAtjsszaOVwNW) | 3:37 |
 | 7 | [LUCKY](https://open.spotify.com/track/1BFwDysUateL81z6GucHp0) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [LUCKY](https://open.spotify.com/album/6zr5JDvStd21IUNTFA4Vmo) | 3:29 |
 | 8 | [Chica Huracán](https://open.spotify.com/track/5NjqgpwOu4xy1Y6lIskVUP) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [Chica Huracán](https://open.spotify.com/album/1r3lMq14QD9qAoJSpMHKih) | 4:53 |

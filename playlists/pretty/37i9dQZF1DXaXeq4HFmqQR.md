@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > ¡Shirel y más mujeres a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,661 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,665 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 12 | [Stefany](https://open.spotify.com/track/2itkoR7NhZ71ORPGweN2WS) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Saito ape](https://open.spotify.com/artist/0panVaEhbJCPqIRJfLuwap) | [Stefany](https://open.spotify.com/album/74vpSPUywXW5tWyCz7WWYx) | 3:43 |
 | 13 | [No Se Quemará](https://open.spotify.com/track/2OcchFUAOGEsWbMiP6cUgU) | [Mikaela](https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew) | [No Se Quemará](https://open.spotify.com/album/6zI7XS07dE4mlh5c7OX7uO) | 2:55 |
 | 14 | [Histeria](https://open.spotify.com/track/0oLzsLhd5K4vki6X1TTz03) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Histeria](https://open.spotify.com/album/633XRt6rpAhtLqQx4aBsNc) | 2:52 |
-| 15 | [Chapetona](https://open.spotify.com/track/3AABdDoOGKLRKdU2Zplxk6) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Chapetona](https://open.spotify.com/album/4TwsAH4xDqyv2MK8pm2ULw) | 2:27 |
-| 16 | [Eso Ta Perfecto](https://open.spotify.com/track/2sC0GlXccYYlRfian9JVsY) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Eso Ta Perfecto](https://open.spotify.com/album/3rkeqmoFs3k8SmnZwZwnA9) | 2:17 |
+| 15 | [Eso Ta Perfecto](https://open.spotify.com/track/2sC0GlXccYYlRfian9JVsY) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Eso Ta Perfecto](https://open.spotify.com/album/3rkeqmoFs3k8SmnZwZwnA9) | 2:17 |
+| 16 | [Chapetona](https://open.spotify.com/track/3AABdDoOGKLRKdU2Zplxk6) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Chapetona](https://open.spotify.com/album/4TwsAH4xDqyv2MK8pm2ULw) | 2:27 |
 | 17 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 |
 | 18 | [Mon Amour](https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Mon Amour](https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu) | 2:54 |
 | 19 | [Chanel](https://open.spotify.com/track/0jKqTPDMe4esa5OhdHxUHp) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Chanel](https://open.spotify.com/album/5hDAb0WyAfstchaz1jGSf0) | 2:52 |
 | 20 | [KATANA](https://open.spotify.com/track/5JkPjSbLQDkyXWei94y0x5) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Los Reyes Del Parque](https://open.spotify.com/artist/1b7hyZ1cAfabiMqIx72gzR) | [KATANA](https://open.spotify.com/album/5OOFz37iRTtEwoYYf2bMbg) | 1:33 |
-| 21 | [TDCOAK](https://open.spotify.com/track/0shitVbfDawP2EFNcfeCrA) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [TDCOAK](https://open.spotify.com/album/4GKgzhSKFZrQoghSRwCJTr) | 3:22 |
-| 22 | [Brillando Alto](https://open.spotify.com/track/57C9tAaIytHcO1ntxGohxc) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Judubre](https://open.spotify.com/artist/0hu94twCEudpR1Zj2qOHWC) | [À PLUS](https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr) | 3:10 |
+| 21 | [Brillando Alto](https://open.spotify.com/track/57C9tAaIytHcO1ntxGohxc) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Judubre](https://open.spotify.com/artist/0hu94twCEudpR1Zj2qOHWC) | [À PLUS](https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr) | 3:10 |
+| 22 | [TDCOAK](https://open.spotify.com/track/0shitVbfDawP2EFNcfeCrA) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [TDCOAK](https://open.spotify.com/album/4GKgzhSKFZrQoghSRwCJTr) | 3:22 |
 | 23 | [Money](https://open.spotify.com/track/7EjkDOse4oGeeZHjG8JN9C) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Money](https://open.spotify.com/album/1UoiFGmShHYzW6Oa1CZcYA) | 3:13 |
 | 24 | [XULA](https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Saito ape](https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1) | [XULA](https://open.spotify.com/album/08isqualO1ZcEKPVWl2e4L) | 2:17 |
 | 25 | [Las Mafiosas \- Revolution](https://open.spotify.com/track/11TD45Bo0OCt1dvreTMyLi) | [Vivete La Music](https://open.spotify.com/artist/5vMKVyztww8zTjXIJZhxl9), [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X), [Itsdee](https://open.spotify.com/artist/6Ug0x3zvAWHMuhZYxTT8Hn), [Blue Mary](https://open.spotify.com/artist/2GPEaK0AzTsnUJHSFVTPjh), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [S4vage 23](https://open.spotify.com/artist/6srOoh3o8UamTOxF1GjIGm) | [Las Mafiosas \- Revolution](https://open.spotify.com/album/5kz0JDJCVSq2KqNIZbBasp) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Fogata](https://open.spotify.com/track/7iKzuR5UUmV4u7K7cPCXKM) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh), [Nacho Delgado](https://open.spotify.com/artist/4HtmjOcdAJLITnN4KFpZHI) | [EP Agua](https://open.spotify.com/album/4PCgmB23blDBm7y8orvLpk) | 3:02 |
 | 50 | [Luz](https://open.spotify.com/track/1VCR3tKkne22xzGKH3jQzb) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Camila Bañados](https://open.spotify.com/artist/70PLmIOAULXzPlvKP8Zliq) | [EP Agua](https://open.spotify.com/album/4PCgmB23blDBm7y8orvLpk) | 3:50 |
 
-Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMGY5YmU1OWQ2ZWNmN2YxZjRiNDBkYWQ4ZDI3MjZmOTYx`
+Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMDE0MTgyODhmNjc3ZDhlMzQ2MmVmMmZiZjUzMWQyNDMy`

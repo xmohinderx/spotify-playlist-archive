@@ -2352,6 +2352,24 @@
     },
     {
       "album": {
+        "name": "Hypnotic EP",
+        "url": "https://open.spotify.com/album/3YX26AlAsr09SsX7adaLwY"
+      },
+      "artists": [
+        {
+          "name": "PIERCE",
+          "url": "https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/6Zm9SrQT7fzlI7HGOx0ARg"
+    },
+    {
+      "album": {
         "name": "I Can Feel It",
         "url": "https://open.spotify.com/album/1MPcz9Fd6Rce6zUV17Vwxe"
       },
@@ -4829,7 +4847,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 178993,
       "name": "Tekno",
       "url": "https://open.spotify.com/track/6hYN3gHSUms5zLX8LuYSBQ"

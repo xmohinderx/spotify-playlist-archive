@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > Me and bae = love
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,603 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,612 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 40 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 |
 | 41 | [Ontario](https://open.spotify.com/track/2j6fiu6QWePcgeRC35clyl) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ontario](https://open.spotify.com/album/23ETlzwro3wfkTWhI6sZxi) | 3:03 |
 | 42 | [River](https://open.spotify.com/track/0vXQyArM2NgDjaL48aO8Ha) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [From the Heart](https://open.spotify.com/album/61lKZn6WGuakiPrd6j8i9f) | 3:44 |
-| 43 | [With You](https://open.spotify.com/track/0WalbrXul6HzHOwp2grdRp) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Satellites](https://open.spotify.com/album/4mMaqnpAO3WPwBhT4DIRS1) | 3:44 |
+| 43 | [With You](https://open.spotify.com/track/5rIG2y6JHX8Xxy023ZiEml) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Satellites](https://open.spotify.com/album/0bX49paIIrFiHe3ajPKWk0) | 3:44 |
 | 44 | [5EVER](https://open.spotify.com/track/2RGBEXic4VNloxU1PPa6K8) | [Julian](https://open.spotify.com/artist/4vYj7nah6DyidXoeKEDRy7) | [Silver Spoons](https://open.spotify.com/album/5AVrwKZ7nMhmVTOr6DibIU) | 2:47 |
 | 45 | [love is just a word](https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [love is just a word](https://open.spotify.com/album/6c7hlhcoeifiXU0NlHTPhg) | 3:46 |
 | 46 | [Let’s Go Home Together](https://open.spotify.com/track/53fP1JzpjywHdJKx1flKCA) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together](https://open.spotify.com/album/7DrqGKIDV8xq1LwSTlEqlv) | 3:28 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 100 | [Say Yes \(Turquoise\) \(feat\. Joshua J\)](https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:41 |
 | 101 | [Take Mine](https://open.spotify.com/track/1aE7IyH98sfj1GjpzitNfE) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [City Of Our Lives](https://open.spotify.com/album/3vWGsppgWED2VQZxBSh56t) | 3:05 |
 
-Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMDU0ZTNhNjAzMTY2OTk4M2ExMzQ2ZWJlZTZiMmNkNjJh`
+Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMGY0OWVmYzY1ODgyNmY2OTNiOTA0MzNiYWY1ZDRmNGIy`

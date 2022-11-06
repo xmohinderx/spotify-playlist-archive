@@ -4,7 +4,7 @@
 
 > Cutting edge LGBTQQIA+ artists from around the world\. Cover: Nakhane
 
-100 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/6tZ9oOtL1fmmsmHpgOrWJQ)
+101 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/6tZ9oOtL1fmmsmHpgOrWJQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Buena Suerte Muchacha](https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Buena Suerte Muchacha](https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0) | 3:13 | 2022-05-31 |  |
 | [Cara de Gitana](https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La Caldera](https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg) | 3:36 | 2022-05-31 |  |
 | [Cassandra](https://open.spotify.com/track/2IzvvXVObhaZgyKQF6ajkU) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe) | [Everything Burns](https://open.spotify.com/album/0IjZeZ1jjg3cguTdjhLhQP) | 4:01 | 2022-05-31 | 2022-10-23 |
+| [Cassandra](https://open.spotify.com/track/46UkHlPLkyPBePpEW9i26a) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe) | [Everything Burns](https://open.spotify.com/album/4hafVynEHNLuadYVKA3A0f) | 4:01 | 2022-05-31 |  |
 | [Child Of The Government](https://open.spotify.com/track/2c9bXyhZiAco7lXNyugSl6) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Child Of The Government](https://open.spotify.com/album/6ivfvK9CGo2SbdOMsRag5L) | 3:41 | 2022-05-31 |  |
 | [Cicada \(feat\. Arca\)](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2022-05-31 |  |
 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 | 2022-05-31 |  |
@@ -32,7 +33,7 @@
 | [Flores No Mar \- Album Edit](https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [W](https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa) | 4:23 | 2022-05-31 | 2022-11-05 |
 | [Flores No Mar \- Radio Edit](https://open.spotify.com/track/7Bi5S5rbQIGe57Ckq95AR1) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Flores No Mar \(Radio Edit\)](https://open.spotify.com/album/13pN5e0Jmu4CiQFJPHLJ4S) | 4:23 | 2022-05-31 |  |
 | [Focus](https://open.spotify.com/track/0mgsHH0BTeyTDNunw18xXO) | [Edsun](https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk) | [Focus](https://open.spotify.com/album/3yxVt38ouvkpZh2AYTx65z) | 3:19 | 2022-05-31 | 2022-10-05 |
-| [Focus](https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4) | [Edsun](https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk) | [Focus](https://open.spotify.com/album/5cw3mf2ErmCJ1M3HnOlrzd) | 3:19 | 2022-05-31 |  |
+| [Focus](https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4) | [Edsun](https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk) | [Focus](https://open.spotify.com/album/5cw3mf2ErmCJ1M3HnOlrzd) | 3:19 | 2022-05-31 | 2022-11-06 |
 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 | 2022-05-31 |  |
 | [Fool](https://open.spotify.com/track/0f11SeNBfLiQPaOmPOCpNx) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Fool](https://open.spotify.com/album/17ohhtU5qAkiGtgkGmvndK) | 3:30 | 2022-05-31 |  |
 | [For You](https://open.spotify.com/track/2XmbjslL9zkGfs2UoR2xxf) | [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [For You](https://open.spotify.com/album/1PdyqDAp7Dc9yFQHTjY8qp) | 3:26 | 2022-05-31 | 2022-10-13 |

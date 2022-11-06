@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6319,
+  "num_followers": 6324,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDhjMmFkOWUyNzYzYmFiMGQxMzNmMDdjY2FmMWRhOGNh",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDI0OWRmNjFkYTQ1YjY0YWU2NTkzYmVjY2RhODEwNGIx",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -567,6 +567,38 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "30 Jahre Black Bottom Stompers",
+        "url": "https://open.spotify.com/album/622kT8j41pEKEflwXna9lF"
+      },
+      "artists": [
+        {
+          "name": "Black Bottom Stompers",
+          "url": "https://open.spotify.com/artist/2Ojk9nhFgHi2M8rn5DaPMe"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Clarinete Marmelade",
+      "url": "https://open.spotify.com/track/5DM8ancodZVJhxloNqEqUh"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Dukes At Disneyland",
+        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 362973,
+      "name": "Royal Garden Blues",
+      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "George Girard's Band",
         "url": "https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr"
       },
@@ -603,38 +635,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Dukes At Disneyland",
-        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 362973,
-      "name": "Royal Garden Blues",
-      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "30 Jahre Black Bottom Stompers",
-        "url": "https://open.spotify.com/album/622kT8j41pEKEflwXna9lF"
-      },
-      "artists": [
-        {
-          "name": "Black Bottom Stompers",
-          "url": "https://open.spotify.com/artist/2Ojk9nhFgHi2M8rn5DaPMe"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Clarinete Marmelade",
-      "url": "https://open.spotify.com/track/5DM8ancodZVJhxloNqEqUh"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Marie Laveau",
         "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 250986,
       "name": "Ain't She Sweet",
       "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Dixieland Jubilee",
-        "url": "https://open.spotify.com/album/0jWy8Z5C5iAYDEMFS0Q6Z8"
-      },
-      "artists": [
-        {
-          "name": "The Dixieland All Stars",
-          "url": "https://open.spotify.com/artist/5F3AMgFU3r77TapncUH7Tb"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "There Is a Tavern in the Town",
-      "url": "https://open.spotify.com/track/2p5CwEAle0quZEownXxEu1"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -731,6 +715,38 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Dixieland Jubilee",
+        "url": "https://open.spotify.com/album/0jWy8Z5C5iAYDEMFS0Q6Z8"
+      },
+      "artists": [
+        {
+          "name": "The Dixieland All Stars",
+          "url": "https://open.spotify.com/artist/5F3AMgFU3r77TapncUH7Tb"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "There Is a Tavern in the Town",
+      "url": "https://open.spotify.com/track/2p5CwEAle0quZEownXxEu1"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Mardi Gras Parade Music from New Orleans",
+        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
+      },
+      "artists": [
+        {
+          "name": "Sharkey Bonano",
+          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
+        }
+      ],
+      "duration_ms": 285139,
+      "name": "While We Danced at Mardi Gras",
+      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Jam Session in Connecticut, Vol. 1",
         "url": "https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 316186,
       "name": "Oh Dem Golden Slippers",
       "url": "https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Mardi Gras Parade Music from New Orleans",
-        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
-      },
-      "artists": [
-        {
-          "name": "Sharkey Bonano",
-          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
-        }
-      ],
-      "duration_ms": 285139,
-      "name": "While We Danced at Mardi Gras",
-      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -851,30 +851,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
-        "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
-      },
-      "artists": [
-        {
-          "name": "Frank Teschemacher feat. McKenzie and Condons Chicagoans",
-          "url": "https://open.spotify.com/artist/1v7KpWrDzfMXDJFQAdyCQf"
-        },
-        {
-          "name": "Frank Teschemacher",
-          "url": "https://open.spotify.com/artist/1BCIGVImYhfnEafy4sZZQA"
-        },
-        {
-          "name": "McKenzie and Condon's Chicagoans",
-          "url": "https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Nobody's Sweetheart",
-      "url": "https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
         "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 167627,
       "name": "Lassa's Trombone",
       "url": "https://open.spotify.com/track/40GGKzPCqYCqhydSjk3d6Y"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
+        "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
+      },
+      "artists": [
+        {
+          "name": "Frank Teschemacher feat. McKenzie and Condons Chicagoans",
+          "url": "https://open.spotify.com/artist/1v7KpWrDzfMXDJFQAdyCQf"
+        },
+        {
+          "name": "Frank Teschemacher",
+          "url": "https://open.spotify.com/artist/1BCIGVImYhfnEafy4sZZQA"
+        },
+        {
+          "name": "McKenzie and Condon's Chicagoans",
+          "url": "https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Nobody's Sweetheart",
+      "url": "https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu"
     },
     {
       "added_at": "2020-08-19 17:19:14",

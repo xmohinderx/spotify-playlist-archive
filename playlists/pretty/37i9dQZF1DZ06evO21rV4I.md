@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,230 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,267 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [Daddy Yo](https://open.spotify.com/track/2hKLu5akQZ9BbrCQVXM2cZ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 2:40 |
 | 50 | [Caro](https://open.spotify.com/track/7vECrNzGTrvUSAl2pT9Oft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 4:06 |
 
-Snapshot ID: `Mjc3OTM0MTQsMDAwMDAwMDAyMDI3ZWY4ZTcxM2JkYmNkMzAwNWQyMzlhMjY2MTA3OA==`
+Snapshot ID: `Mjc3OTQ0MzUsMDAwMDAwMDBhZDg0NTNiMzBlMWFhOGM5MjRhNjU2MDY3MGZlN2VjZA==`

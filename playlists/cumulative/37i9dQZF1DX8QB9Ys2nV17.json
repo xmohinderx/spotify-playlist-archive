@@ -445,6 +445,24 @@
     {
       "album": {
         "name": "Handle Me with Care",
+        "url": "https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x"
+      },
+      "artists": [
+        {
+          "name": "Jade Macrae",
+          "url": "https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435426,
+      "name": "Handle Me with Care",
+      "url": "https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s"
+    },
+    {
+      "album": {
+        "name": "Handle Me with Care",
         "url": "https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI"
       },
       "artists": [
@@ -563,7 +581,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 349066,
       "name": "If Trouble Was Money",
       "url": "https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv"

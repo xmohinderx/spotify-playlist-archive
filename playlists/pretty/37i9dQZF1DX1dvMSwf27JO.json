@@ -1,12 +1,12 @@
 {
   "description": "Music to get fly to. Cover: Thom Browne SS 2023",
-  "num_followers": 468924,
+  "num_followers": 468894,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwOTA0NCwwMDAwMDAwMGE5YTQ0ZmRiNWQ5OTY2NTQ3MTFmODhkY2M1MzU3YTcy",
+  "snapshot_id": "MTY2NjgwOTA0NCwwMDAwMDAwMDMxYWQzZWMyNjVmOTA2MmZmMGE5MTU0ZTIzMmVlNWIz",
   "tracks": [
     {
       "added_at": "2022-10-26 17:46:30",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
+        "name": "Kauai",
+        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -547,18 +563,18 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Kauai",
-        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
+        "name": "striptease",
+        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "carwash",
+          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
         }
       ],
-      "duration_ms": 252013,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
+      "duration_ms": 160659,
+      "name": "striptease",
+      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -591,22 +607,6 @@
       "duration_ms": 257560,
       "name": "Imma Be",
       "url": "https://open.spotify.com/track/0oJMv049q8hEkes9w0L1J4"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
-        "name": "striptease",
-        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
-      },
-      "artists": [
-        {
-          "name": "carwash",
-          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
-        }
-      ],
-      "duration_ms": 160659,
-      "name": "striptease",
-      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "LOUIE",
-        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
-      },
-      "artists": [
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-        }
-      ],
-      "duration_ms": 133546,
-      "name": "Family Tree",
-      "url": "https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Dog Food (feat. Denzel Curry)",
         "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 184123,
       "name": "Dog Food (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "LOUIE",
+        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
+      },
+      "artists": [
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 133546,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 225653,
-      "name": "oh my love",
-      "url": "https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 263920,
       "name": "Alright - Remastered",
       "url": "https://open.spotify.com/track/2WkHXAVVMgRnBmQ3HYAVla"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 225653,
+      "name": "oh my love",
+      "url": "https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "orange juice",
-        "url": "https://open.spotify.com/album/4bmluZugh54DkReHoghYGu"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "orange juice",
-      "url": "https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "LOVE BLACK",
         "url": "https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA"
       },
@@ -1067,22 +1051,18 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
+        "name": "orange juice",
+        "url": "https://open.spotify.com/album/4bmluZugh54DkReHoghYGu"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
         }
       ],
-      "duration_ms": 147187,
-      "name": "Breath Control (feat. Wiz Khalifa)",
-      "url": "https://open.spotify.com/track/7Bi5CtEcDIduA53TdPHMLF"
+      "duration_ms": 163333,
+      "name": "orange juice",
+      "url": "https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1107,18 +1087,22 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "If This Is House I Want My Money Back 3",
-        "url": "https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn"
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         }
       ],
-      "duration_ms": 285440,
-      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
-      "url": "https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz"
+      "duration_ms": 147187,
+      "name": "Breath Control (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/7Bi5CtEcDIduA53TdPHMLF"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1135,6 +1119,22 @@
       "duration_ms": 134750,
       "name": "Tell Me Your Fears",
       "url": "https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 201697,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Heaven To A Tortured Mind",
         "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 185560,
       "name": "Super Stars",
       "url": "https://open.spotify.com/track/4chSRXrdadYm2ujaCyP3Cf"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 201697,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 318917,
-      "name": "Dancing Elephants",
-      "url": "https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Campfire",
         "url": "https://open.spotify.com/album/4qnFzeNKngsi0ZoOW7qtcm"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 135013,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/4U5ovGD4My7MOISvUEtYaf"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 318917,
+      "name": "Dancing Elephants",
+      "url": "https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 134142,
+      "name": "Shimmy",
+      "url": "https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
         "name": "The Red Light District",
         "url": "https://open.spotify.com/album/1KushUovbraTDRu9sbO5fg"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Sad B!tch",
         "url": "https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB"
       },
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
         "name": "STAY UP / SWEET",
         "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 229765,
       "name": "STAY UP",
       "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 134142,
-      "name": "Shimmy",
-      "url": "https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK"
     },
     {
       "added_at": "2022-10-26 17:46:30",

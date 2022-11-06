@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-348 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+349 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [1999](https://open.spotify.com/track/5ROGipdo5HwRSp3olANTFa) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG) | [Nostalgia](https://open.spotify.com/album/5p9RXLrMutf2dBgcIxczp2) | 1:24 | 2022-10-15 |  |
 | [5 Years, 8 Months, 3 Days](https://open.spotify.com/track/1VcTBO0lHjCI2tiq0Juq3Q) | [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [5 Years, 8 Months, 3 Days](https://open.spotify.com/album/6F5IYuBjkR9eiZISmuW5RD) | 2:01 | 2022-07-22 |  |
 | [A Costa](https://open.spotify.com/track/009s8MccQSXM4pAQwsP59s) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [A Costa](https://open.spotify.com/album/0w5RQ9HUb2vv1WqSzm9lME) | 2:12 | 2021-11-11 |  |
-| [A New Life](https://open.spotify.com/track/6rZuVZc47SHsS6uIbTtgN8) | [Taloha Beats](https://open.spotify.com/artist/18QVRutrl0pcjLKv6yYleC) | [A New Life](https://open.spotify.com/album/0XTVIiOyi1QvuCjfZasJec) | 2:54 | 2022-08-05 |  |
+| [A New Life](https://open.spotify.com/track/11MUQKaRB8LwM5kB5SPGjT) | [Taloha Beats](https://open.spotify.com/artist/18QVRutrl0pcjLKv6yYleC) | [A New Life](https://open.spotify.com/album/7K7sAzmHrPeHNdeklNTCA2) | 2:54 | 2022-10-28 |  |
+| [A New Life](https://open.spotify.com/track/6rZuVZc47SHsS6uIbTtgN8) | [Taloha Beats](https://open.spotify.com/artist/18QVRutrl0pcjLKv6yYleC) | [A New Life](https://open.spotify.com/album/0XTVIiOyi1QvuCjfZasJec) | 2:54 | 2022-08-05 | 2022-11-06 |
 | [A Trip for You](https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju) | [Roboflex](https://open.spotify.com/artist/4EoR3Th3E98nSMzwPPeZZg) | [A Trip for You](https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR) | 2:14 | 2021-11-11 |  |
 | [Aloha Vera](https://open.spotify.com/track/2qpkNIVyjNbh9MYUkSz7Yh) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Myrthe van de Weetering](https://open.spotify.com/artist/7qUsU9xkEpbdImTvJGfB99) | [Aloha Vera](https://open.spotify.com/album/21pDqAXBNOPv1s3oJSFk3r) | 2:53 | 2022-05-13 |  |
 | [alpha centauri jam](https://open.spotify.com/track/4l8wjOPB3ccThnxSacAkME) | [one life extra](https://open.spotify.com/artist/4TCGJnVlQrUiXtlovH97jP) | [intergalactic soundscapes](https://open.spotify.com/album/3jXQD9hyRGTCi6sTx3142y) | 1:30 | 2021-11-11 | 2022-06-10 |

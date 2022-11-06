@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,398 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,401 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 | 29 | [Sugar On Sunday](https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Sunday Music](https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl) | 3:22 |
 | 30 | [Contact](https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:33 |
 | 31 | [Lonelier Are Fools](https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 |
-| 32 | [Together](https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:37 |
-| 33 | [Free Ride \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 2:43 |
+| 32 | [Free Ride \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 2:43 |
+| 33 | [Together](https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:37 |
 | 34 | [The Magic Door](https://open.spotify.com/track/5B94YFQfQ42lnEoOn3tA7M) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:33 |
 | 35 | [La chanson poupulaire](https://open.spotify.com/track/42qwcVwoXW3rQgQS4BxgkQ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 |
-| 36 | [Another Heartache](https://open.spotify.com/track/5EBOybVHa8xRsFYqZtOfQU) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:11 |
-| 37 | [No, No Not Again](https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [60's Girl Groups](https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP) | 2:45 |
+| 36 | [No, No Not Again](https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [60's Girl Groups](https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP) | 2:45 |
+| 37 | [Another Heartache](https://open.spotify.com/track/5EBOybVHa8xRsFYqZtOfQU) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:11 |
 | 38 | [I Do Take You](https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:16 |
 | 39 | [Loving Cup](https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:07 |
 | 40 | [T.S.O.P\. \(The Sound Of Philadelphia\) \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/45zlvuzYYe5jcG8VX9XXEZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 3:48 |
 | 41 | [Who Is She and What Is She to You](https://open.spotify.com/track/5pzpxn3XvxtVeCNSBm8zys) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 3:17 |
-| 42 | [Stardust](https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:55 |
+| 42 | [Gotta Draw the Line](https://open.spotify.com/track/7HNVtnLuq2lmKMPB9kFj1A) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Close Your Eyes / Gotta Draw the Line](https://open.spotify.com/album/4SkEdHeraLeqe5stv41pq9) | 3:02 |
 | 43 | [Distant Lover](https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 |
-| 44 | [I'm Gonna Need You](https://open.spotify.com/track/1PEscRoDcbLjlLHqIYkynY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [I'm Gonna Need You / Just Right for Love](https://open.spotify.com/album/37upZER0zdrc3EUCOlV2zR) | 2:52 |
-| 45 | [Gotta Draw the Line](https://open.spotify.com/track/7HNVtnLuq2lmKMPB9kFj1A) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Close Your Eyes / Gotta Draw the Line](https://open.spotify.com/album/4SkEdHeraLeqe5stv41pq9) | 3:02 |
+| 44 | [Stardust](https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:55 |
+| 45 | [I'm Gonna Need You](https://open.spotify.com/track/1PEscRoDcbLjlLHqIYkynY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [I'm Gonna Need You / Just Right for Love](https://open.spotify.com/album/37upZER0zdrc3EUCOlV2zR) | 2:52 |
 | 46 | [There's So Much Love All Around Me](https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Uplifting Soul Classics](https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd) | 2:39 |
-| 47 | [You're the One](https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:24 |
-| 48 | [I Wanna Be Your Baby](https://open.spotify.com/track/7jyu10lLeLdV1dWtFmn9Yw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Tales Are True / I Wanna Be Your Baby](https://open.spotify.com/album/5m0vIwKgbBqhDKQ1s3yeiW) | 2:51 |
-| 49 | [Ebb Tide](https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:55 |
+| 47 | [Ebb Tide](https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:55 |
+| 48 | [You're the One](https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:24 |
+| 49 | [I Wanna Be Your Baby](https://open.spotify.com/track/7jyu10lLeLdV1dWtFmn9Yw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Tales Are True / I Wanna Be Your Baby](https://open.spotify.com/album/5m0vIwKgbBqhDKQ1s3yeiW) | 2:51 |
 | 50 | [Here I Am](https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:54 |
 
-Snapshot ID: `Mjc3OTM0MTQsMDAwMDAwMDA0NWFhYjkwNTBiYjNiMGU0NjAyMGExZDkwODEwMzk1NQ==`
+Snapshot ID: `Mjc3OTQ0MzUsMDAwMDAwMDA1YjgxYjgxMTBmYjdlZjIwZWI2ZGY2NzY3MzFmNTU0Mg==`

@@ -4,7 +4,7 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Soledad, Lali & Natalia Oreiro.
 
-102 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/1cEBRYgZgK9KzFILZUB2YC)
+103 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/1cEBRYgZgK9KzFILZUB2YC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Quién la Juna](https://open.spotify.com/track/1SRB1DWfs5AQgnYrzRYY93) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [De Mi Barrio Con Pasión](https://open.spotify.com/album/6qfu3pbFZPTpftQEr7qBNp) | 2:46 | 2022-07-08 |  |
 | [Quién la Juna](https://open.spotify.com/track/4r5Y8uK7CVWaJWePSrQaao) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [De Mi Barrio Con Pasión](https://open.spotify.com/album/2L2NLext0MnAOfP6joonRH) | 2:46 | 2022-01-14 | 2022-07-29 |
 | [Qué bello](https://open.spotify.com/track/3uFzGWv0sQIB7oLu1tIPuI) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Años de Cumbia](https://open.spotify.com/album/4RaI12fLyzj0c9FU5jdUIq) | 4:27 | 2022-01-14 | 2022-07-29 |
-| [Raúl en el Baúl](https://open.spotify.com/track/12TuXFsOKO9IvdQJn3OxXv) | [India Marte](https://open.spotify.com/artist/36T8vQZYZQcyUi7VFIJcEu) | [Raúl en el Baúl](https://open.spotify.com/album/4VrsT5Km3cwglOgZWzsm1e) | 3:07 | 2022-01-14 |  |
+| [Raúl en el Baúl](https://open.spotify.com/track/12TuXFsOKO9IvdQJn3OxXv) | [India Marte](https://open.spotify.com/artist/36T8vQZYZQcyUi7VFIJcEu) | [Raúl en el Baúl](https://open.spotify.com/album/4VrsT5Km3cwglOgZWzsm1e) | 3:07 | 2022-01-14 | 2022-11-06 |
 | [Señor Mentira](https://open.spotify.com/track/0Lwv86uXopDNobWyASNPLK) | [Verónica Ávila](https://open.spotify.com/artist/0kER6HwNAQQBCrJcJvVeug) | [Valiente](https://open.spotify.com/album/2XcMiM1YvsBUvbXLFSuo8J) | 3:05 | 2022-07-08 |  |
 | [Señor Mentira](https://open.spotify.com/track/2aRIGuUAW6agcFE7czXq7H) | [Verónica Ávila](https://open.spotify.com/artist/0kER6HwNAQQBCrJcJvVeug) | [Señor Mentira](https://open.spotify.com/album/1LrXgOguVqJapzoYXu303k) | 3:05 | 2022-01-14 | 2022-07-27 |
 | [Si se fue, se fue](https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Pobre perro](https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc) | 4:22 | 2022-01-14 |  |
@@ -108,6 +108,7 @@
 | [Y Que De Mí](https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Por Amor A La Música](https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW) | 3:21 | 2022-01-14 |  |
 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/0geHUwG0LuDwBNslfp4c4Z) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/1l4XveoWd3QGnLC4yjJwlL) | 3:31 | 2022-07-08 | 2022-10-30 |
 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/1EmFnAYjHBmAPi5TMPIzxg) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/2ijXizRTAsOwAF1aYo0Amy) | 3:31 | 2022-01-14 | 2022-07-29 |
+| [Ya No Cabes en Mi Vida](https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf) | 3:31 | 2022-09-23 |  |
 | [Yo Tonta, No](https://open.spotify.com/track/4rQzRzx3ljt9gOYGpbc3xH) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/3XzGt66BYB6j1Kz7zLGiKe) | 4:00 | 2022-01-14 | 2022-07-28 |
 | [Yo Tonta, No](https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep) | 4:00 | 2022-07-08 |  |
 

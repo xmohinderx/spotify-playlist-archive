@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: The Golden Spoon \(금수저\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,473,429 likes - 101 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,473,628 likes - 101 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 2 | [Close to You \(SEUNGMIN of Stray Kids\)](https://open.spotify.com/track/6JWBfjrCBDXKtFM1ViEAYU) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Love in Contract, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/7ySPnI7trS0YQkVN0B3yMk) | 3:48 |
 | 3 | [Don't be late](https://open.spotify.com/track/7moKmzq8aYQo9ohANhG2wv) | [CHANGHA](https://open.spotify.com/artist/5JIeS2L8GRcbgnzNFLdx1b) | [1000won Lawyer \(Original Soundtrack\), Pt\. 6](https://open.spotify.com/album/7r6M8y77ga4L1mKbGcp4MB) | 4:00 |
 | 4 | [Bite](https://open.spotify.com/track/5SVGGGHyZaRPwvJtVMgCgr) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Bad Prosecutor \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4b2cSq7UmDqQOCWFNzkAVw) | 3:21 |
-| 5 | [Love Sailing](https://open.spotify.com/track/5P16LnT953KPtZr54vSpkl) | [Cha Eun Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [Love Sailing \(Decibel OST X Cha Eun Woo\)](https://open.spotify.com/album/4MjcD0zBOqCsHXMq8BAECb) | 3:10 |
+| 5 | [Love Sailing](https://open.spotify.com/track/5P16LnT953KPtZr54vSpkl) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [Love Sailing \(Decibel OST X Cha Eun\-Woo\)](https://open.spotify.com/album/4MjcD0zBOqCsHXMq8BAECb) | 3:10 |
 | 6 | [This Summer, Summer](https://open.spotify.com/track/3RLyv1gL1jV6GhVQk6i9dK) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Love is for Suckers, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0cU0EtrgRpBGMULVPwd80y) | 3:50 |
 | 7 | [Beyond Blue](https://open.spotify.com/track/5RArpS0WIQincM7yYikwvy) | [MOOK](https://open.spotify.com/artist/5Sqk710FhqXdb9YNDjM66Y) | [Fall for you, Pt.2 \(Original Soundtrack\)](https://open.spotify.com/album/5CVFVtbmc8rMKxUu9m5F3H) | 3:31 |
 | 8 | [Lost](https://open.spotify.com/track/2SmLMEusGr41TShndvKjRr) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/5njq9jUSKw10HsTy7ZkdhS) | 3:40 |

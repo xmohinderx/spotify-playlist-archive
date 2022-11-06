@@ -4,7 +4,7 @@
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-115 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/4JXldDdcRr0IB1N0GH17pC)
+116 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/4JXldDdcRr0IB1N0GH17pC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All The Highs](https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [All The Highs](https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI) | 3:26 | 2022-09-22 |  |
 | [Aquamarine \(feat\. Michael Kiwanuka\)](https://open.spotify.com/track/1WS1Q9G8vj0gPN2aOkZ80A) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cheat Codes](https://open.spotify.com/album/0rEbmIQjHTKzKraH4UqiDy) | 3:58 | 2022-09-23 |  |
 | [Aquamarine \(feat\. Michael Kiwanuka\)](https://open.spotify.com/track/4qlZZSn05FRqzEexW9N6OP) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 3:58 | 2022-09-22 | 2022-09-24 |
+| [Baby Queen](https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Baby Queen](https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt) | 3:40 | 2022-11-04 |  |
 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 | 2022-09-30 |  |
 | [Behind The Sun](https://open.spotify.com/track/0dhKGbQFIUnfjozzISQvuj) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 4:10 | 2022-09-22 |  |
 | [Better](https://open.spotify.com/track/5zaDzuxKea73orX9RodvRU) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Better](https://open.spotify.com/album/55RZv5u9hsPT7QMwioGIvY) | 2:34 | 2022-09-22 |  |
@@ -40,7 +41,7 @@
 | [Firepit](https://open.spotify.com/track/598YYFar90QPnyGE3jmgGo) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Firepit](https://open.spotify.com/album/7tc649AUN4dKzigGFICXR9) | 4:03 | 2022-09-22 |  |
 | [First Flight To Mars](https://open.spotify.com/track/6UKz34hAzN9swLxG4Fz9i4) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e) | [First Flight To Mars](https://open.spotify.com/album/450XgNiRqk6pdeKSIY504s) | 3:07 | 2022-09-22 |  |
 | [FIX YOUR FACE](https://open.spotify.com/track/14LbLNzYGpdL9pbUvvPaD5) | [seeyousoon](https://open.spotify.com/artist/2QFne35yv8Kjaey8tbYiT1) | [HZLIKEHELL](https://open.spotify.com/album/6c780M4Nn8V9F3MaY2Wlqo) | 3:06 | 2022-09-22 | 2022-10-13 |
-| [FIX YOUR FACE](https://open.spotify.com/track/5KAO2QUiNjO3uM12aexykO) | [seeyousoon](https://open.spotify.com/artist/2QFne35yv8Kjaey8tbYiT1) | [HZLIKEHELL](https://open.spotify.com/album/5UVEFi6wgeWexY88Kka9AD) | 3:06 | 2022-09-22 |  |
+| [FIX YOUR FACE](https://open.spotify.com/track/5KAO2QUiNjO3uM12aexykO) | [seeyousoon](https://open.spotify.com/artist/2QFne35yv8Kjaey8tbYiT1) | [HZLIKEHELL](https://open.spotify.com/album/5UVEFi6wgeWexY88Kka9AD) | 3:06 | 2022-09-22 | 2022-11-06 |
 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 | 2022-09-22 |  |
 | [forever&more](https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:56 | 2022-09-22 |  |
 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 | 2022-09-22 |  |

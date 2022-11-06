@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 928917,
+  "num_followers": 929417,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2MTY1NSwwMDAwMDAwMGNkYzBkOGRlMzFmYjRlMTc5Zjc4ODAzNWQxNWRhNDFi",
+  "snapshot_id": "MTY2NDQ2MTY1NSwwMDAwMDAwMDE0M2UzYWQzY2RjNzQ0NmNhN2MwNWI5YjFlNGJhMDlk",
   "tracks": [
     {
       "added_at": "2022-09-27 17:54:23",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
+        "name": "Untitled (Black Is)",
+        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 206947,
+      "name": "Wildfires",
+      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
         "name": "Fever To Tell (Deluxe Remastered)",
         "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
-        "name": "Untitled (Black Is)",
-        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 206947,
-      "name": "Wildfires",
-      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "Window",
-        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 139293,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 181400,
       "name": "The Bottom of It",
       "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 139293,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "A Little Lift",
-        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "Empress",
-      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
         "name": "The Suburbs (Deluxe)",
         "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 315026,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "A Little Lift",
+        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "Empress",
+      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "Fetch The Bolt Cutters",
-        "url": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 201352,
-      "name": "Under The Table",
-      "url": "https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/35KiiILklye1JRRctaLUb4"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "Fetch The Bolt Cutters",
+        "url": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 201352,
+      "name": "Under The Table",
+      "url": "https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "Great Big Blue",
-        "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
-      },
-      "artists": [
-        {
-          "name": "Geowulf",
-          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
-        }
-      ],
-      "duration_ms": 247280,
-      "name": "Saltwater",
-      "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
         "name": "We Were Dead Before The Ship Even Sank",
         "url": "https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 264813,
       "name": "Missed the Boat",
       "url": "https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "Great Big Blue",
+        "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
+      },
+      "artists": [
+        {
+          "name": "Geowulf",
+          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
+        }
+      ],
+      "duration_ms": 247280,
+      "name": "Saltwater",
+      "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
     },
     {
       "added_at": "2022-09-02 09:10:00",

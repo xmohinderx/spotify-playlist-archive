@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,407 likes - 60 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,772 likes - 60 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 50 | [Prisma \- Klanglos Remix \- Radio Edit](https://open.spotify.com/track/512m11L55vWoUbqrkObdCz) | [Girlwoman](https://open.spotify.com/artist/24rqTvJDFy2t2xgCxsN2f0), [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Prisma \(Klanglos Remix\)](https://open.spotify.com/album/147QdcYieTKdMrzIvs2X8h) | 3:28 |
 | 51 | [Tantrum](https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tantrum](https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF) | 3:49 |
 | 52 | [Don't Give Up \- Radio Edit](https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Talal](https://open.spotify.com/artist/4FahFgHbYW6tRpEwCQqQTz), [Amy Wawn](https://open.spotify.com/artist/2LfqKoz9RFoKwyCs3s2OLf) | [Don't Give Up \(Radio Edit\)](https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN) | 3:28 |
-| 53 | [Pulsing](https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Pulsing](https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E) | 3:57 |
-| 54 | [Tarcu](https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Tarcu](https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA) | 3:58 |
+| 53 | [Tarcu](https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Tarcu](https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA) | 3:58 |
+| 54 | [Pulsing](https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Pulsing](https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E) | 3:57 |
 | 55 | [Bring You Back \- Edit](https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Bring You Back](https://open.spotify.com/album/6fPDCt9pyi6QYzde4O9O2Y) | 3:18 |
 | 56 | [Between Two Worlds](https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Between Two Worlds](https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy) | 7:44 |
-| 57 | [FAST LAND](https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [FAST LAND](https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb) | 3:39 |
-| 58 | [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 |
-| 59 | [Untold](https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk) | 6:42 |
+| 57 | [Untold](https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk) | 6:42 |
+| 58 | [FAST LAND](https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [FAST LAND](https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb) | 3:39 |
+| 59 | [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 |
 | 60 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 |
 
-Snapshot ID: `MTY2Njk2MzQ2MCwwMDAwMDAwMGYyNDBlMTgwODI3OGUxOGQwYzkzZjVlYjg3NWM3YWI3`
+Snapshot ID: `MTY2Njk2MzQ2MCwwMDAwMDAwMDY1ZjQzMjIwNWE5NTYzNmE2ZTQ3MzczYzBmNzMyYjRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,493 likes - 85 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,555 likes - 85 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 63 | [In The Navy \- Single Version](https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West](https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb) | 5:40 |
 | 64 | [Shame \- 12" Disco Mix](https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [The Essential Evelyn "Champagne" King](https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI) | 6:31 |
 | 65 | [Love Is in Control \(Finger on the Trigger\) \[2014 Remaster\]](https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Donna Summer \(Re\-Mastered & Expanded\)](https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z) | 4:22 |
-| 66 | [No One Gets The Prize](https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:40 |
-| 67 | [Dance A Little Bit Closer \- 12" Mix](https://open.spotify.com/track/3cwMDPUQ0Y8PQSg68HV2Fn) | [Charo](https://open.spotify.com/artist/0WKIRXNWr6cYlm8ZYVXD1I), [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4) | [Cuchi\-Cuchi](https://open.spotify.com/album/6chDvBqfNYlYh6NtGAo8ht) | 6:17 |
+| 66 | [Dance A Little Bit Closer \- 12" Mix](https://open.spotify.com/track/3cwMDPUQ0Y8PQSg68HV2Fn) | [Charo](https://open.spotify.com/artist/0WKIRXNWr6cYlm8ZYVXD1I), [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4) | [Cuchi\-Cuchi](https://open.spotify.com/album/6chDvBqfNYlYh6NtGAo8ht) | 6:17 |
+| 67 | [No One Gets The Prize](https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:40 |
 | 68 | [Doctor Love \- Tom Moulton 12" Mix](https://open.spotify.com/track/0zewaxyhaiad2J2V8X12GL) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg) | 7:37 |
 | 69 | [This Time Baby \- Special 12" Version](https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI) | [Jackie Moore](https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 7:13 |
 | 70 | [Lady America](https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd) | [Voyage](https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6) | [Twelve Inch Classics from the 70s, Vol\. 2](https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa) | 6:47 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 84 | [It's a Better Than Good Time](https://open.spotify.com/track/07HoKinMluYrInnQoMj4zu) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0) | [Miss Gladys Knight](https://open.spotify.com/album/2mY1RyBSnE7tkjh7EVJNNc) | 5:51 |
 | 85 | [Stay Free](https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 5:22 |
 
-Snapshot ID: `MTY2MzAyMTY3OSwwMDAwMDAwMDVjNThkMWY1ZjAxZjMwZGViYjg2YjliODc0YzAzMTAy`
+Snapshot ID: `MTY2MzAyMTY3OSwwMDAwMDAwMDZjYmI2NWY0MGQ2NWI1ZTA2MjE0ZWMxZmNkZWU0NGY5`

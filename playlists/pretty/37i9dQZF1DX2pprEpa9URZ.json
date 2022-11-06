@@ -1,12 +1,12 @@
 {
   "description": "A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 655067,
+  "num_followers": 655359,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU2MTc0MCwwMDAwMDAwMDVlMGNhYzZkNjlmY2Y4NTg1Y2RjMWRjYWRjMjhhODhk",
+  "snapshot_id": "MTY2NDU2MTc0MCwwMDAwMDAwMDgwODBmY2Y5ZTJkY2I3NmQ3OGNkNDUxNTRiMmMyMjFj",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Global Entry 2",
-        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
-      },
-      "artists": [
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 469335,
-      "name": "State the Obvious",
-      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Can You See What I See",
         "url": "https://open.spotify.com/album/0CSbzLZKijkGdVgl4u4REk"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 400000,
       "name": "Can You See What I See",
       "url": "https://open.spotify.com/track/1HRKQf25EU09i3IvNuJRd4"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Global Entry 2",
+        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
+      },
+      "artists": [
+        {
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+        }
+      ],
+      "duration_ms": 469335,
+      "name": "State the Obvious",
+      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Circadia",
+        "url": "https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE"
+      },
+      "artists": [
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "duration_ms": 408400,
+      "name": "Circadia",
+      "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Beli",
         "url": "https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW"
       },
@@ -859,18 +875,34 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Circadia",
-        "url": "https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE"
+        "name": "Ay vora",
+        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
       },
       "artists": [
         {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+          "name": "Essex",
+          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
         }
       ],
-      "duration_ms": 408400,
-      "name": "Circadia",
-      "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
+      "duration_ms": 273142,
+      "name": "Ay vora",
+      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -895,38 +927,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Quem Sou Eu",
-        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 328912,
-      "name": "Quem Sou Eu",
-      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Graceland",
         "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
       },
@@ -943,22 +943,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
+        "name": "Quem Sou Eu",
+        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
       },
       "artists": [
         {
-          "name": "Urban Village",
-          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
-        },
-        {
-          "name": "Chlo\u00e9 (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         }
       ],
-      "duration_ms": 384330,
-      "name": "Izivunguvungu - Chlo\u00e9 Remix",
-      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
+      "duration_ms": 328912,
+      "name": "Quem Sou Eu",
+      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -987,6 +983,42 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
+      },
+      "artists": [
+        {
+          "name": "Urban Village",
+          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
+        },
+        {
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "duration_ms": 384330,
+      "name": "Izivunguvungu - Chlo\u00e9 Remix",
+      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Minimuzikhol Benefit Compilation",
+        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
+      },
+      "artists": [
+        {
+          "name": "TUTAN",
+          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
+        }
+      ],
+      "duration_ms": 366886,
+      "name": "Mazbata",
+      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Voodoo Guitar",
         "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
       },
@@ -1007,38 +1039,6 @@
       "duration_ms": 637455,
       "name": "Voodoo Guitar - Timboletti Remix",
       "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Ay vora",
-        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
-      },
-      "artists": [
-        {
-          "name": "Essex",
-          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
-        }
-      ],
-      "duration_ms": 273142,
-      "name": "Ay vora",
-      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Minimuzikhol Benefit Compilation",
-        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
-      },
-      "artists": [
-        {
-          "name": "TUTAN",
-          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
-        }
-      ],
-      "duration_ms": 366886,
-      "name": "Mazbata",
-      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Endless Forest",
-        "url": "https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb"
+        "name": "AKKAN",
+        "url": "https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3"
       },
       "artists": [
         {
-          "name": "Zuma Dionys",
-          "url": "https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd"
+          "name": "Akkan",
+          "url": "https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze"
         }
       ],
-      "duration_ms": 436857,
-      "name": "Gamora",
-      "url": "https://open.spotify.com/track/3urFlzQr5f0jlGMGt84m76"
+      "duration_ms": 270992,
+      "name": "Bananat",
+      "url": "https://open.spotify.com/track/69NmsHtvnzA6sMu1bEAFcA"
     }
   ],
   "unique_name": "Org\u00e1nica",

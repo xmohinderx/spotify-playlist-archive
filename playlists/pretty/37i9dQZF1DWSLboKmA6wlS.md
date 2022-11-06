@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: MANASSAVEE\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,670 likes - 55 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,687 likes - 55 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 13 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
 | 14 | [No.1 \(โปรดเลือกฉันเป็นความรักอีกครั้ง\)](https://open.spotify.com/track/3rqUnxDMRgFxpxEndsHTpY) | [Hiwwhee](https://open.spotify.com/artist/1oo8Xnp5XgrWYL8NyZmLSW) | [No.1 \(โปรดเลือกฉันเป็นความรักอีกครั้ง\)](https://open.spotify.com/album/5c3fKpneFORRCQm6XZkCqf) | 4:17 |
 | 15 | [รู้ดี \(Loop exit\)](https://open.spotify.com/track/7tIlRfGhVosCHfYUcwQ1MV) | [Fahlithh](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [รู้ดี \(Loop exit\)](https://open.spotify.com/album/51uRuY13KJIKwmxhEWyoEt) | 3:38 |
-| 16 | [หาร](https://open.spotify.com/track/7f55BmPmLgL1xfY49yLeTt) | [Champa](https://open.spotify.com/artist/2s10iZMYENf3VE33sHx65f) | [หาร](https://open.spotify.com/album/4NmfYPsVvl1Iv1SaJamCE7) | 5:03 |
+| 16 | [หาร](https://open.spotify.com/track/7f55BmPmLgL1xfY49yLeTt) | [Champa](https://open.spotify.com/artist/16t9HUD9tmaaoJDfswoGcd) | [หาร](https://open.spotify.com/album/4NmfYPsVvl1Iv1SaJamCE7) | 5:03 |
 | 17 | [วนอยู่อย่างนั้น](https://open.spotify.com/track/4DFvI5rLC6aa1EIELHTMg2) | [New Travelers](https://open.spotify.com/artist/3tJziImX37vJBUO8ZBgYT5) | [วนอยู่อย่างนั้น](https://open.spotify.com/album/54r3TTN1Ybbin4lHLKVUCD) | 4:16 |
 | 18 | [ตัวละครหลักที่รักไม่ได้](https://open.spotify.com/track/3NqiDKqmXuZJsprTa3ZdD2) | [SAPAPSUPAP](https://open.spotify.com/artist/2OnR15nxVkDhGdSy6e4Gpn) | [If you gaze into the abyss, the abyss gazes also into you.](https://open.spotify.com/album/33t2McFHV2PDfla1WcMz96) | 4:42 |
 | 19 | [ข้อความ](https://open.spotify.com/track/0ZD2Otlg7Z9NJtIZQnvWZu) | [Dex Holla](https://open.spotify.com/artist/0qoYD3LoulvfjqT31vMZ6e) | [ข้อความ](https://open.spotify.com/album/2ym2mWwdEWTZmcLJKafy2W) | 3:22 |

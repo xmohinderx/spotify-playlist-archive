@@ -4,7 +4,7 @@
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 17 min - not published yet
+52 songs - 3 hr 21 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Dejad que las niñas se acerquen a mí](https://open.spotify.com/track/37TcCbtkvz2Vd4mfMTDlvY) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:07 | 2022-10-26 |  |
 | [Devuélveme a mi chica](https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:14 | 2022-10-26 |  |
 | [Devuélveme a mi chica \- 2015 Remaster](https://open.spotify.com/track/1fAnXKGZR1iRAS9GAfkbIs) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [30 años y un día](https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p) | 3:13 | 2022-10-26 |  |
-| [Dos imanes \- Las Ventas 2015](https://open.spotify.com/track/3syySMQzMdQI0lJQHEra4v) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [En la arena \(Gira 30 años y un día / Las Ventas 26 de junio de 2015\)](https://open.spotify.com/album/4CDz2IXJSPEwS42yZUWGYU) | 4:24 | 2022-10-26 |  |
+| [Dos imanes](https://open.spotify.com/track/3mm5ug2SRIATyOG0ea0PXt) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:58 | 2022-11-05 |  |
+| [Dos imanes \- Las Ventas 2015](https://open.spotify.com/track/3syySMQzMdQI0lJQHEra4v) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [En la arena \(Gira 30 años y un día / Las Ventas 26 de junio de 2015\)](https://open.spotify.com/album/4CDz2IXJSPEwS42yZUWGYU) | 4:24 | 2022-10-26 | 2022-11-06 |
 | [El ataque de las chicas cocodrilo](https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:04 | 2022-10-26 |  |
 | [El Extraño del Pelo Largo \(En Vivo\)](https://open.spotify.com/track/6go0J0ItPTaHpqKLVA4MxJ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 2:56 | 2022-10-26 |  |
 | [En la playa](https://open.spotify.com/track/1wOsSDOOXIx01XstsQXxp2) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 4:09 | 2022-10-26 |  |

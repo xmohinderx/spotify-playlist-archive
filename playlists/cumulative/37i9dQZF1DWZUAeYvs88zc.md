@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-443 songs - 1 day 1 hr 3 min - [published](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
+444 songs - 1 day 1 hr 6 min - [published](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [No Reason](https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 7:28 | 2019-07-27 | 2019-08-10 |
 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 | 2021-08-07 | 2021-10-23 |
 | [No Romeo](https://open.spotify.com/track/2GNH6YhM2rBaJoxYKy0iF8) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/09ItArIl88LxU5InoksUTo) | 3:11 | 2022-07-28 | 2022-10-13 |
+| [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 | 2022-10-24 |  |
 | [No Romeo](https://open.spotify.com/track/4qnZCHbYsdUzjeyRXPDjlB) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo](https://open.spotify.com/album/3uCOV1a01TIpU0BOr2B0CX) | 3:11 | 2022-02-14 | 2022-07-29 |
 | [Normal](https://open.spotify.com/track/64sp7I8wf70B7OLOpih6XJ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [sad girl](https://open.spotify.com/album/1uKkqozFkKpyjynnTdRqLB) | 3:12 | 2019-05-26\* | 2021-10-01 |
 | [not cool anymore,](https://open.spotify.com/track/4iabzEk5WL3yipdTR7uohI) | [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [not cool anymore,](https://open.spotify.com/album/59rErSG1epNkuycKrGf44A) | 3:25 | 2021-11-26 | 2022-07-29 |
@@ -419,7 +420,7 @@
 | [Undrunk](https://open.spotify.com/track/5SHhPFh68OhUmuRPymKX9d) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Undrunk](https://open.spotify.com/album/5Skgz8BwS0Lfw2zlQSy1EB) | 3:03 | 2019-05-26\* | 2021-10-02 |
 | [Until We Bleed \(feat\. Lykke Li\)](https://open.spotify.com/track/4R9tl76Nf4xr8GMhcpaNDm) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Longing for Lullabies \(feat\. Titiyo\)](https://open.spotify.com/album/1mSVeWzQxYeVY2SQUqqGzx) | 4:24 | 2019-07-28 | 2019-08-08 |
 | [Vertigo](https://open.spotify.com/track/2Aqg6jGRbrpyX3Pms61Q9o) | [Kisnou](https://open.spotify.com/artist/3Co4gT2U5SSLRcqcaArvBF), [Amethyst](https://open.spotify.com/artist/4rWVnoVdnBxs0C1o9RNIhg) | [Glow to Last](https://open.spotify.com/album/6uF3BZA5Hi002BbTERqshy) | 4:17 | 2019-05-26\* | 2021-05-27 |
-| [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 | 2022-07-01 |  |
+| [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 | 2022-07-01 | 2022-11-06 |
 | [Wait](https://open.spotify.com/track/6AvfZXpbb6r35DfF7gHPRq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:10 | 2019-05-26\* | 2021-05-28 |
 | [waiting on nothing](https://open.spotify.com/track/1KQy9bivMyVPi4LRW9xbAd) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [waiting on nothing \(bye\)](https://open.spotify.com/album/69AGCvDt5nAEIyXFEyTuxy) | 4:07 | 2021-08-07 | 2021-10-23 |
 | [Walking Away](https://open.spotify.com/track/3VVLOvm3AV7quKn7gN9szx) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Walking Away](https://open.spotify.com/album/75KOL2hRVtFhYmpFNKOCFF) | 2:56 | 2021-07-17 | 2021-07-23 |

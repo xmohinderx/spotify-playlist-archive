@@ -206,6 +206,28 @@
     },
     {
       "album": {
+        "name": "Ash (feat. KURO)",
+        "url": "https://open.spotify.com/album/0Mwvqjpntcqy8uz2UgMjvf"
+      },
+      "artists": [
+        {
+          "name": "Shoi",
+          "url": "https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x"
+        },
+        {
+          "name": "KURO",
+          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137250,
+      "name": "Ash (feat. KURO)",
+      "url": "https://open.spotify.com/track/2aJN7TLwQRTxEtvSfvBLbE"
+    },
+    {
+      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },

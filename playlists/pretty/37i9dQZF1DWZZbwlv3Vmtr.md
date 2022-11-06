@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,377 likes - 307 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,699 likes - 307 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,9 +138,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 128 | [Cold](https://open.spotify.com/track/52ySoNs47RPsBJEEjUvnQe) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Cold](https://open.spotify.com/album/6EXP2j4i43fQjPy1qdIecE) | 2:15 |
 | 129 | [Sounds From The Park](https://open.spotify.com/track/55uqa2dZDFoy45LNi2c0Da) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Sounds From The Park](https://open.spotify.com/album/1hZjugixYJQrlemnJEwnLE) | 1:54 |
 | 130 | [Horizon Butterfly](https://open.spotify.com/track/0vdB56ot3Tp0xHxnU7kyCy) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [HoriZon Butterfly](https://open.spotify.com/album/1eMCCzTeBEiYL5cInuxSmp) | 2:00 |
-| 131 | [Rainy Nights](https://open.spotify.com/track/4mnhygv21Qe8j5JKSiomYa) | [Kwaii Fong](https://open.spotify.com/artist/2XiGTV6HOhZc4D5ymPxWP4), [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH) | [Rainy Nights](https://open.spotify.com/album/5bB4JZSe15XaR8XkbKSipH) | 2:13 |
+| 131 | [Rainy Nights](https://open.spotify.com/track/6msJ3cZLOJRjU3z8vKY2h3) | [Kwaii Fong](https://open.spotify.com/artist/2XiGTV6HOhZc4D5ymPxWP4), [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH) | [Rainy Nights](https://open.spotify.com/album/6YOHAD5mpoIWyIBu1UMxHR) | 2:13 |
 | 132 | [Memories](https://open.spotify.com/track/22GM0cTeCmReAppLUQRN6N) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Memories](https://open.spotify.com/album/2Y9R59Hk5KdAPFtsOIik2G) | 1:42 |
-| 133 | [Tropical Getaway](https://open.spotify.com/track/2P2viSJbMTHTapFmk7sAfb) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Tropical Getaway](https://open.spotify.com/album/7mTl9iwpIv9dov6F9YU440) | 2:36 |
+| 133 | [Tropical Getaway](https://open.spotify.com/track/3ZLsiAI1wMmG5FEtJ8yjwl) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Tropical Getaway](https://open.spotify.com/album/0s9K9GMT5Sk6tdKUTYoDCS) | 2:36 |
 | 134 | [Soft Sunset](https://open.spotify.com/track/4zoTRhVK2M3az746QLPXWc) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Soft Sunset](https://open.spotify.com/album/14sTyMyKwCbggVKdixdX3K) | 2:05 |
 | 135 | [Lazy Wave](https://open.spotify.com/track/0NnNuDaIWS2aPRkKCgTDvE) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z) | [Lazy Wave](https://open.spotify.com/album/1gXyrT30rMvmePGUziVIVO) | 2:26 |
 | 136 | [Space Ride](https://open.spotify.com/track/39fJNs8HZ93gIW5wVzGdP3) | [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI), [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [Space Ride](https://open.spotify.com/album/31QdWn6mzEFvbNKLsHxbF7) | 2:42 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 306 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 |
 | 307 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 |
 
-Snapshot ID: `MTY2Njk1ODQ5NSwwMDAwMDAwMGY3MmIwNzRjZWY3MDM3YjE1OTJlY2M2MTNlODQwMDUx`
+Snapshot ID: `MTY2Njk1ODQ5NSwwMDAwMDAwMDJkNzI2ZmQ0MWExZDFhOGZjOGUzMjNhNmE3YTNiYjg3`

@@ -4,7 +4,7 @@
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-62 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/2SpHtSX2j1FtmOf5J7jAfu)
+63 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/2SpHtSX2j1FtmOf5J7jAfu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [ギミギミコール \-instrumental\-](https://open.spotify.com/track/5PQG6VsDpAjUk0BvkZDt0O) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ミスター・ダーリン / ギミギミコール \(Complete Edition\)](https://open.spotify.com/album/5AIDbavUjnXZPQk4VZ6AeL) | 4:04 | 2022-06-09 | 2022-10-13 |
 | [サイダー](https://open.spotify.com/track/3hgxa6MGGjpQ8VQ7kbPHk2) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul) | 4:49 | 2022-06-09 |  |
 | [サイダー \-instrumental\-](https://open.spotify.com/track/5rq97nPdq1Dc2AAVqXM459) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul) | 4:47 | 2022-06-09 | 2022-08-01 |
-| [スーパーアイドル\(笑\)](https://open.spotify.com/track/4qbHYNkIDsOeYvJL9oBH8P) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [冒険のVLOG](https://open.spotify.com/album/1mCByfIZcBllKkPmG11r3h) | 4:17 | 2022-06-22 |  |
+| [スーパーアイドル\(笑\)](https://open.spotify.com/track/4qbHYNkIDsOeYvJL9oBH8P) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [冒険のVLOG](https://open.spotify.com/album/1mCByfIZcBllKkPmG11r3h) | 4:17 | 2022-06-22 | 2022-11-06 |
+| [スーパーアイドル\(笑\)](https://open.spotify.com/track/6pU09WpP6VxX8mPYd3hxo1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 4:14 | 2022-11-05 |  |
 | [ツインズ](https://open.spotify.com/track/03NKMpabqVFe6hy5UUcs5j) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:57 | 2022-06-11 |  |
 | [ノスタルジックレインフォール](https://open.spotify.com/track/5mwLIUyGIg6QioPbyHgt2s) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:58 | 2022-06-09 |  |
 | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/track/5hlg8974tilNuXIrwWiVKH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/album/15DJ4J10gLGb4eELHikgB1) | 1:30 | 2022-06-09 |  |

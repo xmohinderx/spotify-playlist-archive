@@ -28,6 +28,32 @@
     },
     {
       "album": {
+        "name": "Better Thangs (Remix)",
+        "url": "https://open.spotify.com/album/3atBxuFcUVkdnXTsMehmHT"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215060,
+      "name": "Better Thangs (with Summer Walker & GloRilla) - Remix",
+      "url": "https://open.spotify.com/track/12dDT2AnpscZ1zL72RvPGR"
+    },
+    {
+      "album": {
         "name": "Big Shit",
         "url": "https://open.spotify.com/album/47iTiC280nbUCYKSexLoAO"
       },

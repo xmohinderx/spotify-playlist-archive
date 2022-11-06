@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: NxWorries (Anderson .Paak, Knxwledge)",
-  "num_followers": 750731,
+  "num_followers": 750963,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDkxNjUyYjk4NzQ4NmQ3ODA5OGE0YmRlNDM1ODVhMjgy",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDQ5NjNlMDQ0YTY2NDUyZmM2ZmNiMmQ3YWZjZDYyNDUx",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -199,22 +199,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "The Forever Story",
-        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
+        "name": "The Exciting Sounds of Menahan Street Band",
+        "url": "https://open.spotify.com/album/0X9oLn2APMvGOIsogM1TSp"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Yasiin Bey",
-          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 258243,
-      "name": "Stars (feat. Yasiin Bey)",
-      "url": "https://open.spotify.com/track/3umzAtRU8JW5uXDPwPq8eE"
+      "duration_ms": 67720,
+      "name": "Queens Highway",
+      "url": "https://open.spotify.com/track/2Y3x5VcEAxLNmVHxQOE0jB"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -247,18 +243,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "The Exciting Sounds of Menahan Street Band",
-        "url": "https://open.spotify.com/album/0X9oLn2APMvGOIsogM1TSp"
+        "name": "The Forever Story",
+        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
       },
       "artists": [
         {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Yasiin Bey",
+          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
         }
       ],
-      "duration_ms": 67720,
-      "name": "Queens Highway",
-      "url": "https://open.spotify.com/track/2Y3x5VcEAxLNmVHxQOE0jB"
+      "duration_ms": 258243,
+      "name": "Stars (feat. Yasiin Bey)",
+      "url": "https://open.spotify.com/track/3umzAtRU8JW5uXDPwPq8eE"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 298160,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Exscape",
         "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 142285,
       "name": "Exscape",
       "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 298160,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 171756,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 263360,
       "name": "I Love You More Than You Know (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 171756,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Now, You Know",
-        "url": "https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR"
-      },
-      "artists": [
-        {
-          "name": "Rosie Lowe",
-          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "Paris, Texas",
-      "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Watch The Sun (Deluxe)",
         "url": "https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 271807,
       "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Now, You Know",
+        "url": "https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR"
+      },
+      "artists": [
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "Paris, Texas",
+      "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Athletic Progression",
-        "url": "https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6"
-      },
-      "artists": [
-        {
-          "name": "Athletic Progression",
-          "url": "https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I"
-        }
-      ],
-      "duration_ms": 271250,
-      "name": "WHITE CRAYON",
-      "url": "https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Circmvnt",
         "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 220781,
       "name": "Luvaroq",
       "url": "https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Athletic Progression",
+        "url": "https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6"
+      },
+      "artists": [
+        {
+          "name": "Athletic Progression",
+          "url": "https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I"
+        }
+      ],
+      "duration_ms": 271250,
+      "name": "WHITE CRAYON",
+      "url": "https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Red To Violet (Feat. Jamila Woods)",
-        "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Red To Violet - Feat. Jamila Woods",
-      "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "PPL",
         "url": "https://open.spotify.com/album/1xpCtREzKaMD49H0qoeaGk"
       },
@@ -1151,6 +1131,38 @@
       "duration_ms": 194307,
       "name": "PPL",
       "url": "https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "LET IT RAIN EP",
+        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "TEARS OF JOY",
+      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Get it Got it",
+        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Get it Got it",
+      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1227,18 +1239,42 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "LET IT RAIN EP",
-        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 203064,
-      "name": "TEARS OF JOY",
-      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Red To Violet (Feat. Jamila Woods)",
+        "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Red To Violet - Feat. Jamila Woods",
+      "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1295,22 +1331,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Get it Got it",
-        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Get it Got it",
-      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "I'll Be Loving You",
         "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
       },
@@ -1343,22 +1363,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "SUNRISE (feat. Arlo Parks)",
         "url": "https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb"
       },
@@ -1379,22 +1383,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "EEK",
-        "url": "https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg"
-      },
-      "artists": [
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 247468,
-      "name": "EEK",
-      "url": "https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Current Blues",
         "url": "https://open.spotify.com/album/0eLcH4iKjPc7Hx10C6UpWB"
       },
@@ -1411,6 +1399,38 @@
       "duration_ms": 266120,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/37z4KRlnEhRforTs0t23Pa"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "EEK",
+        "url": "https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 247468,
+      "name": "EEK",
+      "url": "https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1463,26 +1483,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 262466,
-      "name": "Compassion (feat. Chiiild)",
-      "url": "https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "MOVIN'",
         "url": "https://open.spotify.com/album/0Oe48uUpgy05WBgAdYqthi"
       },
@@ -1507,22 +1507,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         },
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
         }
       ],
-      "duration_ms": 269413,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+      "duration_ms": 262466,
+      "name": "Compassion (feat. Chiiild)",
+      "url": "https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Wu Hen",
+        "url": "https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        },
+        {
+          "name": "Lauren Faith",
+          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
+        }
+      ],
+      "duration_ms": 200596,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -1707,22 +1727,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Wu Hen",
-        "url": "https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb"
+        "name": "Take Me Away (feat. EARTHGANG)",
+        "url": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
       },
       "artists": [
         {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
         },
         {
-          "name": "Lauren Faith",
-          "url": "https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd"
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 200596,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
+      "duration_ms": 172493,
+      "name": "Take Me Away (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1743,22 +1763,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Take Me Away (feat. EARTHGANG)",
-        "url": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
+        "name": "Monologues",
+        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
         }
       ],
-      "duration_ms": 172493,
-      "name": "Take Me Away (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
+      "duration_ms": 247133,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1799,26 +1815,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Law of Automata: Valid",
-        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
-      },
-      "artists": [
-        {
-          "name": "High Klassified",
-          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "3 Words (feat. Leven Kali)",
-      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Small Moments",
         "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
@@ -1835,18 +1831,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "One More Kiss",
-        "url": "https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R"
+        "name": "Law of Automata: Valid",
+        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
       },
       "artists": [
         {
-          "name": "Kenneth Whalum",
-          "url": "https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16"
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 226629,
-      "name": "One More Kiss",
-      "url": "https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa"
+      "duration_ms": 200000,
+      "name": "3 Words (feat. Leven Kali)",
+      "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
     }
   ],
   "unique_name": "BUTTER",

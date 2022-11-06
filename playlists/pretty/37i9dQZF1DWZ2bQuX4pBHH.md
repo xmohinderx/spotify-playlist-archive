@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,931 likes - 60 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,119 likes - 60 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 33 | [BIBA](https://open.spotify.com/track/1gt8YXWknKt4sRNZ6SirVW) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [BIBA](https://open.spotify.com/album/0E3lOC2gnWVFMoXwKwkbQ8) | 2:55 |
 | 34 | [Tere Naina](https://open.spotify.com/track/3hoXhwP0ub9LdSJV4olDIc) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK) | 4:38 |
 | 35 | [Say "Shava Shava"](https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3) | [Aadesh Shrivastava](https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q), [Sudesh Bhosale](https://open.spotify.com/artist/7u7mPDD1KXN9mfJ7EsBmET), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Kabhi Khushi Kabhie Gham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh) | 6:48 |
-| 36 | [Yun Hi Chala Chal](https://open.spotify.com/track/3GrTI5vAoDD3VE24VTBJAc) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Swades](https://open.spotify.com/album/72oHSx1OrxR0gig6JcVAEW) | 7:26 |
-| 37 | [Hum to Deewane Huye \(From "Baadshah"\)](https://open.spotify.com/track/5qG6jYnBmGMdKS1WiZBgj5) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Sensational Duets \(Abhijeet & Alka Yagnik\)](https://open.spotify.com/album/2oUWSHubOyXXSFN7gzLlkq) | 7:00 |
+| 36 | [Hum to Deewane Huye \(From "Baadshah"\)](https://open.spotify.com/track/5qG6jYnBmGMdKS1WiZBgj5) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Sensational Duets \(Abhijeet & Alka Yagnik\)](https://open.spotify.com/album/2oUWSHubOyXXSFN7gzLlkq) | 7:00 |
+| 37 | [Yun Hi Chala Chal](https://open.spotify.com/track/3GrTI5vAoDD3VE24VTBJAc) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Swades](https://open.spotify.com/album/72oHSx1OrxR0gig6JcVAEW) | 7:26 |
 | 38 | [Ye Kaali Kaali Aankhen](https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:48 |
 | 39 | [Kabhi Khushi Kabhie Gham](https://open.spotify.com/track/0eGtFJBfYUKF2CvNZJEu3M) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Kabhi Khushi Kabhie Gham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh) | 7:51 |
 | 40 | [Dance Pe Chance](https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Labh Janjua](https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7) | [Rab Ne Bana Di Jodi \(Original\)](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 4:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 59 | [Ruk Ja O Dil Deewane](https://open.spotify.com/track/619BqiArColRhmckgCGoG3) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:12 |
 | 60 | [Tujhe Dekha To \(From "Dilwale Dulhania Le Jayenge"\)](https://open.spotify.com/track/6FZrX6epdqcaQHx9LFRcuf) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 5:03 |
 
-Snapshot ID: `MTY1ODEyNDY5NCwwMDAwMDAwMGU4ZDljMThiNDFmY2YzNTA5N2M0MmJiNzAxZjM2YWMz`
+Snapshot ID: `MTY1ODEyNDY5NCwwMDAwMDAwMGMwNDNjMmQ5ZjI4YjUzNzg2MzM3NTFhYjUwMDc1N2Mw`

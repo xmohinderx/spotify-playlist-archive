@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Nino Josele & Rubén Blades en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,825 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,868 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 21 | [Como Un Juego](https://open.spotify.com/track/13HUVby1YtDYnNjmVYRYdW) | [Siete Notas](https://open.spotify.com/artist/5fg2m6zsICS3ZbQXeyoSwT), [Los Dora 2](https://open.spotify.com/artist/4waUZg7jQgyZE9odZgglJy), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Como Un Juego](https://open.spotify.com/album/4boH6tYAeuetS6eV8XgwFq) | 3:00 |
 | 22 | [Aquí es Así](https://open.spotify.com/track/7n29NQRvmDuJsGoBs2Z8aI) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv), [Los Dioses Del Ritmo](https://open.spotify.com/artist/3SB8QuuxVULg4nFHoWJ5vj) | [Aquí es Así](https://open.spotify.com/album/3G159iZOpNpuKfkGj16uGW) | 2:54 |
 | 23 | [Tu y Yo](https://open.spotify.com/track/5S9mqdZW3zgcwYI4mdmnf8) | [Charly El Cumbiero](https://open.spotify.com/artist/5R8NeeSoWnyXhaUffi1umV) | [Tu y Yo](https://open.spotify.com/album/3hlrr2zCa1Cv276sjCjv15) | 2:50 |
-| 24 | [Se Que Me Enamoro](https://open.spotify.com/track/0gtPqvFAY3CxvvpcFhQy2q) | [Sudor Marika](https://open.spotify.com/artist/0RA00V1O1yXoBBJTV0S7xQ), [Romea](https://open.spotify.com/artist/6giHZxgJuxN5p9N39ypUvL) | [Se Que Me Enamoro](https://open.spotify.com/album/7GSWLHae2Fhw5e3szhf7yx) | 2:58 |
+| 24 | [Se Que Me Enamoro](https://open.spotify.com/track/0gtPqvFAY3CxvvpcFhQy2q) | [Sudor Marika](https://open.spotify.com/artist/0RA00V1O1yXoBBJTV0S7xQ), [ROMEA](https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1) | [Se Que Me Enamoro](https://open.spotify.com/album/7GSWLHae2Fhw5e3szhf7yx) | 2:58 |
 | 25 | [FOR SALE](https://open.spotify.com/track/0ZQuLDHTb6xo5y8UQb2T9X) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Debut y Segunda Tanda \(Deluxe\)](https://open.spotify.com/album/4uBIS6rAEZQX8NCDgoLKq2) | 4:18 |
 | 26 | [Me Levanté](https://open.spotify.com/track/0VyS8re7IhTDbpZmKrKfv2) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Me Levanté](https://open.spotify.com/album/2mHs7EdBXg7dMkFvDMZC9d) | 3:28 |
 | 27 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 |

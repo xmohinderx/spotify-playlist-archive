@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,301 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,335 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 9 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 |
 | 10 | [Hot Trash](https://open.spotify.com/track/0xeF71L11dLbzglIPMvvj1) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Hot Trash](https://open.spotify.com/album/5cw2LuvYSjOIRZUBzzMRLo) | 2:46 |
 | 11 | [My People](https://open.spotify.com/track/7LI7D9mKjw5nadfq41LkRr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [My People](https://open.spotify.com/album/4vy5JvUyxYs2O0X8dzxfBe) | 3:12 |
-| 12 | [Caroline](https://open.spotify.com/track/6XsHCb84EyPvLvWFpVqZay) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Caroline](https://open.spotify.com/album/2xOUnwncSmfhcZIdrOMe3p) | 3:20 |
+| 12 | [Caroline](https://open.spotify.com/track/4cTxlJ8GbvlEKJSHBjSmX3) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Caroline](https://open.spotify.com/album/0hiyVukTWwoABzyyzq03fN) | 3:20 |
 | 13 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:05 |
 | 14 | [Lustre Parfait](https://open.spotify.com/track/2InlQJPPUWByvRzK3LCmUQ) | [Gord Downie](https://open.spotify.com/artist/0hhEcYduSsklQIaMFAgaMc), [Bob Rock](https://open.spotify.com/artist/5gxuCnnGw2WIj5LHKDVueg) | [Lustre Parfait](https://open.spotify.com/album/3COm2ocWxMY5cupg6hLcRk) | 3:53 |
 | 15 | [Sans Soleil](https://open.spotify.com/track/2HxHylSuO7W9hLL2t1Dk3s) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 5:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [SKODEN](https://open.spotify.com/track/3ssxyKEYJgkZxPjrmniL5w) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [SKODEN](https://open.spotify.com/album/4bQcsJ1UJGeyg1PPjA3I3i) | 3:33 |
 | 100 | [Never Said I Love You](https://open.spotify.com/track/1CTvIWh1mje3HTU3jMSCRf) | [Envy Of None](https://open.spotify.com/artist/2wwArB2zsZyIIThkewLBaZ) | [Envy of None](https://open.spotify.com/album/23Iuy4cXEOCOdmbnkb8ZIy) | 4:06 |
 
-Snapshot ID: `MTY2NzUzODAwMCwwMDAwMDAwMDkyNDY4NmMyNmU5YjkwYTgyMjNmYTMyOGNmMTM1MmU4`
+Snapshot ID: `MTY2NzUzODAwMCwwMDAwMDAwMGY0NThkNmNjZTBlMTkwZGFkMWQxN2EwZDBiYTVmOGI4`

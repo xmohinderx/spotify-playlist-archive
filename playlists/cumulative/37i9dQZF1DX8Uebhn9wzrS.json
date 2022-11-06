@@ -12413,10 +12413,32 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 137380,
       "name": "Parades",
       "url": "https://open.spotify.com/track/2ApTu6hFTnNI4OgspbovcK"
+    },
+    {
+      "album": {
+        "name": "Parades",
+        "url": "https://open.spotify.com/album/04XbkOcu8kPYzD58sUv5Wc"
+      },
+      "artists": [
+        {
+          "name": "Max\u00f8m\u00f8a",
+          "url": "https://open.spotify.com/artist/2XfqCD3Rlv8LxJ0p05QNXa"
+        },
+        {
+          "name": "Coloured Rocks",
+          "url": "https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137769,
+      "name": "Parades",
+      "url": "https://open.spotify.com/track/0AxZVTvTZqjC6lGDfELZkY"
     },
     {
       "album": {
@@ -14545,6 +14567,24 @@
     {
       "album": {
         "name": "Skipping In The Rain",
+        "url": "https://open.spotify.com/album/4beFIK146RDX8LHXUobl3T"
+      },
+      "artists": [
+        {
+          "name": "BestPaul",
+          "url": "https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Skipping In The Rain",
+      "url": "https://open.spotify.com/track/00rzg0wWKaQoOrYOZOY1ug"
+    },
+    {
+      "album": {
+        "name": "Skipping In The Rain",
         "url": "https://open.spotify.com/album/3Z5VU26eLsSkXf3B6iBn3H"
       },
       "artists": [
@@ -14555,7 +14595,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 147200,
       "name": "Skipping In The Rain",
       "url": "https://open.spotify.com/track/5Fkm4JZU99RStqDvVkQuX4"
@@ -18075,10 +18115,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 116086,
       "name": "Wellspring",
       "url": "https://open.spotify.com/track/0aTxYRuDgt957kEznA87yw"
+    },
+    {
+      "album": {
+        "name": "Wellspring",
+        "url": "https://open.spotify.com/album/340App2IyAkJ6WssIM8AJm"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116086,
+      "name": "Wellspring",
+      "url": "https://open.spotify.com/track/2LPiMy2ePIzegv5EhkQrVR"
     },
     {
       "album": {

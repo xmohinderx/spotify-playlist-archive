@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 26628,
+  "num_followers": 26627,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMGYxNjBhNjg0NmY2NmM4OTVmZDI5MjFhYjUzMDcyMmQw",
+  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMGMxNjBhNmM3NzNmZmJlMTMxYmU1ZDBkNjk4NDdmZjUw",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 286920,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Dance With My Father",
-        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Dance With My Father",
-      "url": "https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Unplugged (Deluxe Edition) [Live]",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 280000,
       "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
       "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Dance With My Father",
+        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Dance With My Father",
+      "url": "https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Introspect (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0efmkx26DQ4OSiPCdKsQgB"
-      },
-      "artists": [
-        {
-          "name": "Joe South",
-          "url": "https://open.spotify.com/artist/7s2L0cftC6UBVVxADuyfwS"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Games People Play",
-      "url": "https://open.spotify.com/track/50t8gshcAtXiUdk7nHfYDp"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Complete Clapton",
         "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 234866,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/79bdDFqZUcZcmmnC5aPmoh"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Introspect (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0efmkx26DQ4OSiPCdKsQgB"
+      },
+      "artists": [
+        {
+          "name": "Joe South",
+          "url": "https://open.spotify.com/artist/7s2L0cftC6UBVVxADuyfwS"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Games People Play",
+      "url": "https://open.spotify.com/track/50t8gshcAtXiUdk7nHfYDp"
     },
     {
       "added_at": "2022-02-16 05:37:41",

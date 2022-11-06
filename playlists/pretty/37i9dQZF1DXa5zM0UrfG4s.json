@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Hagle",
-  "num_followers": 90123,
+  "num_followers": 90170,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMGFmOGE2NDE3OTUzMmNiMDU1ZDQ5N2MzNTgxY2U4ZDU2",
+  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMDcwOWM0OGY5ZDZiM2MxNjFkZTg1YWYzODRjNzU1Nzcy",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -419,26 +419,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Ha Mer",
-        "url": "https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to"
+        "name": "R\u00f6d Chevrolet",
+        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
       },
       "artists": [
         {
-          "name": "Oskar Westerlin",
-          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
-        },
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
-        },
-        {
-          "name": "ZL-Project",
-          "url": "https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA"
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Ha Mer",
-      "url": "https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8"
+      "duration_ms": 222533,
+      "name": "Det regnar och regnar",
+      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -479,6 +471,30 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Ha Mer",
+        "url": "https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to"
+      },
+      "artists": [
+        {
+          "name": "Oskar Westerlin",
+          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
+        },
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        },
+        {
+          "name": "ZL-Project",
+          "url": "https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Ha Mer",
+      "url": "https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Sju Fjell",
         "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 205666,
       "name": "Polare",
       "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "R\u00f6d Chevrolet",
-        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
-      },
-      "artists": [
-        {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Det regnar och regnar",
-      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Supa",
-        "url": "https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "Supa",
-      "url": "https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Levva Livet!",
         "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 274053,
       "name": "Levva Livet",
       "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Supa",
+        "url": "https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "Supa",
+      "url": "https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Ole Ivars i 2000",
+        "url": "https://open.spotify.com/album/4rz3lOFwmGVZuaX7yvOm0s"
+      },
+      "artists": [
+        {
+          "name": "Ole Ivars",
+          "url": "https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6"
+        }
+      ],
+      "duration_ms": 202292,
+      "name": "Jag trodde \u00e4nglarna fanns",
+      "url": "https://open.spotify.com/track/64oHVnVsMxtKyhJ8zpj4QU"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Ba Chill",
         "url": "https://open.spotify.com/album/1u0IQI0Dz0W9HSs2R1HgTw"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 132613,
       "name": "Ba Chill",
       "url": "https://open.spotify.com/track/0CjLBFXEzaBRL6Uos9OPPs"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Ole Ivars i 2000",
-        "url": "https://open.spotify.com/album/4rz3lOFwmGVZuaX7yvOm0s"
-      },
-      "artists": [
-        {
-          "name": "Ole Ivars",
-          "url": "https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6"
-        }
-      ],
-      "duration_ms": 202292,
-      "name": "Jag trodde \u00e4nglarna fanns",
-      "url": "https://open.spotify.com/track/64oHVnVsMxtKyhJ8zpj4QU"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Tv\u00e5 T\u00f6lver",
-        "url": "https://open.spotify.com/album/4X7kcwcsUFzrIxtYuWZlEp"
-      },
-      "artists": [
-        {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
-        }
-      ],
-      "duration_ms": 138581,
-      "name": "Tv\u00e5 T\u00f6lver",
-      "url": "https://open.spotify.com/track/2UpB2xTnTenWwxTVg87msr"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Er det lov \u00e5 leva",
         "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 131835,
       "name": "Er det lov \u00e5 leva",
       "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Tv\u00e5 T\u00f6lver",
+        "url": "https://open.spotify.com/album/4X7kcwcsUFzrIxtYuWZlEp"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+        }
+      ],
+      "duration_ms": 138581,
+      "name": "Tv\u00e5 T\u00f6lver",
+      "url": "https://open.spotify.com/track/2UpB2xTnTenWwxTVg87msr"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

@@ -4,7 +4,7 @@
 
 > Music by female\-identifying musicians ONLY! Cover: <a href=“spotify:artist:1GDbiv3spRmZ1XdM1jQbT7”>Natti Natasha</a>.
 
-604 songs - 1 day 8 hr 41 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
+605 songs - 1 day 8 hr 44 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Layover](https://open.spotify.com/track/3WAEgZaWze1ulMIMjvwD4S) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Layover](https://open.spotify.com/album/2UEEPDhXskCbrm1syJTSGc) | 3:23 | 2022-04-06 | 2022-05-05 |
 | [Le temps de l'amour](https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 2:24 | 2022-07-06 | 2022-08-04 |
 | [Left You For Me](https://open.spotify.com/track/2c6RxNOmFQ5Vfnay17glsh) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Left You For Me](https://open.spotify.com/album/03gbxBbvrYa9tfMtBOorEj) | 3:50 | 2022-07-06 | 2022-08-04 |
+| [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 | 2022-11-02 |  |
 | [Lightning To Strike](https://open.spotify.com/track/4wc6fFKSf4opxdNajyHPc4) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Lightning To Strike](https://open.spotify.com/album/1aNnUYONYEnpd5jhZactiH) | 2:58 | 2022-11-02 |  |
 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 | 2022-02-02 | 2022-03-09 |
 | [Little Lies](https://open.spotify.com/track/7ujsReaRoHzJFde8qboCDF) | [Mighloe](https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov) | [Little Lies](https://open.spotify.com/album/5b2CXLUI4uGTsP59SbI1By) | 3:10 | 2022-03-08 | 2022-04-07 |
@@ -517,7 +518,7 @@
 | [TELLY BAG](https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [TELLY BAG](https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn) | 1:54 | 2022-06-01 | 2022-07-07 |
 | [temporary funeral](https://open.spotify.com/track/2o2Wgw4z8P4ZGaR0bMcvmj) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [loneliest b!tch in america](https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af) | 2:59 | 2022-07-06 | 2022-08-04 |
 | [tendencies.](https://open.spotify.com/track/6AIAtvZ7dBr06SmhrPRTSQ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 3:12 | 2022-08-03 | 2022-09-09 |
-| [Thank You Very Much](https://open.spotify.com/track/1dImzi5IhVREgUQYl8kW35) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Thank You Very Much](https://open.spotify.com/album/4hjgLe9m4EOUo17Ors1BQv) | 5:27 | 2022-11-02 |  |
+| [Thank You Very Much](https://open.spotify.com/track/1dImzi5IhVREgUQYl8kW35) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Thank You Very Much](https://open.spotify.com/album/4hjgLe9m4EOUo17Ors1BQv) | 5:27 | 2022-11-02 | 2022-11-06 |
 | [THAT](https://open.spotify.com/track/6arwyWT9aIkzj7jRedpRN0) | [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [JACKIE EXTREME](https://open.spotify.com/album/2EgLkW1shKJc43nqvzToYN) | 2:12 | 2022-02-02 | 2022-03-09 |
 | [That Girl](https://open.spotify.com/track/0bMuCogMMHhNSq4fd3z1gA) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [That Girl](https://open.spotify.com/album/43C2nwKBVQEe5Eo2SZbi1i) | 2:20 | 2022-08-03 | 2022-09-09 |
 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 | 2022-06-01 | 2022-07-07 |

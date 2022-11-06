@@ -4,7 +4,7 @@
 
 > We outside\. Cover: Popcaan
 
-143 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/0nXnbXLtoVs6mNjweF97BG)
+144 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/0nXnbXLtoVs6mNjweF97BG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Roll It Gal](https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 3:58 | 2021-07-19 |  |
 | [Romie](https://open.spotify.com/track/4KlnHq8kW2k1RisegiOg0I) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [From Kingston To King Of The Dancehall: A Collection Of Dancehall Favorites](https://open.spotify.com/album/3DFVychHEHSGoVtzuFP2cQ) | 3:49 | 2021-07-19 | 2022-07-29 |
 | [Romie](https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Maestro](https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1) | 3:51 | 2022-03-21 |  |
-| [Romping Shop](https://open.spotify.com/track/6qd2ehzEHv1Tl5pJ3itpKx) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [World of Reggae Music \(Edited\)](https://open.spotify.com/album/6qLRxF0gy9GFyoRMCKlJr7) | 3:32 | 2022-03-21 |  |
+| [Romping Shop](https://open.spotify.com/track/6qd2ehzEHv1Tl5pJ3itpKx) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [World of Reggae Music \(Edited\)](https://open.spotify.com/album/6qLRxF0gy9GFyoRMCKlJr7) | 3:32 | 2022-03-21 | 2022-11-06 |
+| [Romping Shop](https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Romping Shop](https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE) | 3:33 | 2022-09-09 |  |
 | [Romping Shop](https://open.spotify.com/track/0yLPOW2XL85YT0wJ7fdIGY) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Pon Di Gaza 2.0 \(Edited\)](https://open.spotify.com/album/1rhC3i7wRdcG0Oj6dsEHSV) | 3:34 | 2022-03-21 | 2022-07-30 |
 | [Romping Shop](https://open.spotify.com/track/6ssIV33VYOndfPBS7eUVTu) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Pon Di Gaza 2.0](https://open.spotify.com/album/2pTUtEJ2jNFBIL6rC3MHKz) | 3:34 | 2021-07-19 | 2022-07-29 |
 | [Rum & Redbull](https://open.spotify.com/track/2MJof9aFrAmLyQjyEp4VXR) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Future Fambo](https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI) | [Rum & Redbull](https://open.spotify.com/album/6d7teuEYNA6pWYK6vDZIBW) | 2:15 | 2021-07-19 | 2022-07-29 |

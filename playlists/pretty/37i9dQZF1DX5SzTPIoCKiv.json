@@ -1,12 +1,12 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
-  "num_followers": 549566,
+  "num_followers": 549676,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDI5NzQ1MywwMDAwMDAwMGQwYmM3MDI0YjE0ZTkzN2Q0NGM0MzEwMjdjMzQzZThj",
+  "snapshot_id": "MTYzNDI5NzQ1MywwMDAwMDAwMGM0NmQxNWI5ZmZiOTUyNWRmMWJkZGUzZWU3ZGNjNDcx",
   "tracks": [
     {
       "added_at": "2021-10-15 11:30:53",
@@ -43,18 +43,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 349586,
-      "name": "O Come to the Altar (Live)",
-      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
+      "duration_ms": 206400,
+      "name": "Nobody (feat. Matthew West)",
+      "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -91,22 +95,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        },
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Nobody (feat. Matthew West)",
-      "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Followers",
-        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
-      },
-      "artists": [
-        {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
-        }
-      ],
-      "duration_ms": 248733,
-      "name": "Control (Somehow You Want Me)",
-      "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Love Remains",
         "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 236200,
       "name": "Thy Will",
       "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "duration_ms": 248733,
+      "name": "Control (Somehow You Want Me)",
+      "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -899,6 +899,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Love Moved First",
+      "url": "https://open.spotify.com/track/4vkeAHQBXmUTgMOfaT94CR"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 393360,
       "name": "Another In The Fire - Live",
       "url": "https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Love Moved First",
-      "url": "https://open.spotify.com/track/4vkeAHQBXmUTgMOfaT94CR"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "No Impossible with You",
+      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Reckless Love",
         "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 228480,
       "name": "Fires",
       "url": "https://open.spotify.com/track/3rY3CMg06pvfMdqt04PgZU"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "No Impossible with You",
-      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Jordan St. Cyr",
-        "url": "https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK"
-      },
-      "artists": [
-        {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Weary Traveler",
-      "url": "https://open.spotify.com/track/4GvaupCSw4gKdfP0h9H9AB"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Symphony",
         "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
       },
@@ -1447,18 +1431,38 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "CHOOSE TO WORSHIP",
-        "url": "https://open.spotify.com/album/2YkuRwXmz9uCPklzmKZ69L"
+        "name": "Jordan St. Cyr",
+        "url": "https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK"
       },
       "artists": [
         {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
         }
       ],
-      "duration_ms": 266946,
-      "name": "I CHOOSE TO WORSHIP",
-      "url": "https://open.spotify.com/track/4lVkwkjR27tEl9i8ZG7MTb"
+      "duration_ms": 200333,
+      "name": "Weary Traveler",
+      "url": "https://open.spotify.com/track/4GvaupCSw4gKdfP0h9H9AB"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Over And Over",
+        "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/5AjM1AF3Gy3W5Mr4ZG7zgI"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1495,22 +1499,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Over And Over",
-        "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
+        "name": "CHOOSE TO WORSHIP",
+        "url": "https://open.spotify.com/album/2YkuRwXmz9uCPklzmKZ69L"
       },
       "artists": [
         {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 218813,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/5AjM1AF3Gy3W5Mr4ZG7zgI"
+      "duration_ms": 266946,
+      "name": "I CHOOSE TO WORSHIP",
+      "url": "https://open.spotify.com/track/4lVkwkjR27tEl9i8ZG7MTb"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1543,6 +1543,22 @@
       "duration_ms": 226300,
       "name": "He Is",
       "url": "https://open.spotify.com/track/1INYG1Ln9PE0F1QHTjMzzO"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "For The Good",
+        "url": "https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 206496,
+      "name": "For The Good",
+      "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1639,22 +1655,6 @@
       "duration_ms": 209965,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/2VXNUklng1AswoKNgjiKJy"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "For The Good",
-        "url": "https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 206496,
-      "name": "For The Good",
-      "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
     },
     {
       "added_at": "2021-10-15 11:30:53",

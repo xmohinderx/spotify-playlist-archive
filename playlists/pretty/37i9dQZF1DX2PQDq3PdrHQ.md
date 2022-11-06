@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,264 likes - 269 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,767 likes - 269 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 130 | [a soft storm](https://open.spotify.com/track/0DXnOFTqbfl1pfddteGhs8) | [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [and the rain fell slow](https://open.spotify.com/album/5wPQHvfVceXmWIb8fdwLXa) | 2:00 |
 | 131 | [Nightfall](https://open.spotify.com/track/3gxDVr7qudtnQbBpVs2Q3v) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Nightfall](https://open.spotify.com/album/1YRKNXXgVr5Z2XcbrT1JiY) | 1:30 |
 | 132 | [low spirits](https://open.spotify.com/track/4DQGBbczwjoW0gqEhVC7WT) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [low spirits](https://open.spotify.com/album/5DeqIVKsD4SzPNPYssdYIg) | 2:06 |
-| 133 | [Cosmopolitan](https://open.spotify.com/track/3jHbK3uTQjttMi4dWlbqZI) | [Roses](https://open.spotify.com/artist/3abdd92dF9ZxywaIBWKKcp) | [Cosmopolitan](https://open.spotify.com/album/0YJNMf0gGQNg04r5Ss6mgA) | 2:07 |
+| 133 | [Cosmopolitan](https://open.spotify.com/track/2i7vxIrgWcIXLpfrvRCsKW) | [Roses](https://open.spotify.com/artist/3abdd92dF9ZxywaIBWKKcp) | [Cosmopolitan](https://open.spotify.com/album/3hWHWhODUML6dSiGhsLJFZ) | 2:07 |
 | 134 | [Deep Sleep](https://open.spotify.com/track/3ffUhM7JoSLQJnCxtxdpdq) | [KioKo](https://open.spotify.com/artist/1QCUosyjrXG8kXxVpnSRgi), [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw) | [Deep Sleep](https://open.spotify.com/album/4iR1yk1zxGaExDuxHKgPWB) | 2:12 |
 | 135 | [Creatures of Light](https://open.spotify.com/track/5xSStEolYgOteKxDDWtoUU) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Creatures of Light](https://open.spotify.com/album/2A8wMYxaQzcBefrhWwZ0kZ) | 2:22 |
 | 136 | [lakeside](https://open.spotify.com/track/1zerNNDM4V9TezIY3QVUnv) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [lakeside](https://open.spotify.com/album/7g7wFG6VYXzQuQshgyU8Rd) | 2:07 |
@@ -278,4 +278,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 268 | [The right way](https://open.spotify.com/track/3ARJRdBJRpWr21xER2FgXr) | [Deep In A Dream](https://open.spotify.com/artist/3WOrrOBvpsk3noSkNQgRxj), [leo.drummer](https://open.spotify.com/artist/7gwqxYpgDJabcweudcwoUd) | [Dreamy Waves](https://open.spotify.com/album/5Gsb3ipeljvyBgi3aJBVMs) | 2:03 |
 | 269 | [Dawn](https://open.spotify.com/track/36BMjs8wDcpQZjRcipxlgx) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Dawn](https://open.spotify.com/album/0kPlC8bFxLBcTsdavgWq2j) | 1:44 |
 
-Snapshot ID: `MTY2Njk1NjQxNCwwMDAwMDAwMDdkMWEwNjY2MTg5NzRiN2Q2M2VlYjg1MzViNzI3ZGI2`
+Snapshot ID: `MTY2Njk1NjQxNCwwMDAwMDAwMGJmNjQ1M2RjNzk1MWM5YWY1MjE2MDZjZjg4ODhmNDVh`

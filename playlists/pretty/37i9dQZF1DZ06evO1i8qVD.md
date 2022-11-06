@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,421 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,441 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 49 | [I Smell A Rat](https://open.spotify.com/track/567qPkLuj3z5rouyu5ZcQC) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Stone Crazy](https://open.spotify.com/album/1olv8nxTRKYNDUhDJlUfbG) | 9:13 |
 | 50 | [Doo Doo Doo Doo Doo \(Heartbreaker\)](https://open.spotify.com/track/0owGTle1xBp2AZIchl6fp6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Chicago Plays the Stones](https://open.spotify.com/album/0vjdJ6AWmF5G4gsSx53UlI) | 4:53 |
 
-Snapshot ID: `Mjc3OTM0MTQsMDAwMDAwMDA3YzE4ZTRhZDY5NDZlOWMwYTZjNmI3NzNlNmZlYjlmOQ==`
+Snapshot ID: `Mjc3OTQ0MzUsMDAwMDAwMDAyZWQyZjIyMzBiMDAzM2EwOWIyYmI0N2YyNmJmYWRjNw==`

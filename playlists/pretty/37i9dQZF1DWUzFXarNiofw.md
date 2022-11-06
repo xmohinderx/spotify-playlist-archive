@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Kenyon Dixon
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,264 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,609 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 4 | [Satisfied](https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Satisfied](https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn) | 2:38 |
 | 5 | [Never](https://open.spotify.com/track/14ABt5PRAULFoVVVUsQV0J) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [No Longer in the Suburbs \(Deluxe\)](https://open.spotify.com/album/2j2XtfzuhGKNxsmM4rI3xi) | 3:54 |
 | 6 | [dialtone.](https://open.spotify.com/track/6QSDAKIZetBwAyfrjVhuSo) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [dialtone.](https://open.spotify.com/album/51xVyHmgajtEEMJ8vt0jy9) | 3:12 |
-| 7 | [Safe](https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Private Suite 4: The Mixtape](https://open.spotify.com/album/3pizVvi3ZP6mzletymu6WS) | 2:37 |
+| 7 | [Safe](https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Private Suite 4: The Mixtape](https://open.spotify.com/album/3pizVvi3ZP6mzletymu6WS) | 3:40 |
 | 8 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
 | 9 | [Scared](https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:51 |
 | 10 | [Today](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Today](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 |

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 272721,
+  "num_followers": 272726,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0NjQ3MiwwMDAwMDAwMDI0NzhjNWQyYTQ0ZGEzYzYzZDg3ZmExNmJmOTQ5M2Y4",
+  "snapshot_id": "MTY2NDU0NjQ3MiwwMDAwMDAwMGFjNjY0MGFmYzEwODM5ZWM0MDJkMTZlYzI0NDIyNmFi",
   "tracks": [
     {
       "added_at": "2022-09-30 14:01:12",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 282744,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "The Acoustics",
         "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 161724,
       "name": "Walking With Shadows - Acoustic Version",
       "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 282744,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Surrender - Acoustic",
-      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Recognise (Remixes)",
         "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 169466,
       "name": "Recognise - Acoustic Version",
       "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Surrender - Acoustic",
+      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Kids in Love (Remixes)",
-        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "The Night Game",
-          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
-      "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
         "url": "https://open.spotify.com/album/3hKRY4DD8oIvlKOsfaMqcM"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 161146,
       "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
       "url": "https://open.spotify.com/track/5SaWCxHm3nONtaL0pNxiJZ"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Kids in Love (Remixes)",
+        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "The Night Game",
+          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
+      "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Another Chance (Remixes)",
-        "url": "https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt"
-      },
-      "artists": [
-        {
-          "name": "Big Pineapple",
-          "url": "https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 217043,
-      "name": "Another Chance - Don Diablo Chill Mix",
-      "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Here Tonight (Acoustic Version)",
         "url": "https://open.spotify.com/album/3riI0LyX9QUpboMEgjGgju"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 167619,
       "name": "Here Tonight - Acoustic Version",
       "url": "https://open.spotify.com/track/6EJAP09tSNsp7kBhtC8Fcg"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Another Chance (Remixes)",
+        "url": "https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt"
+      },
+      "artists": [
+        {
+          "name": "Big Pineapple",
+          "url": "https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 217043,
+      "name": "Another Chance - Don Diablo Chill Mix",
+      "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "How to Love (feat. Sofia Reyes) [Spanish & Acoustic]",
-        "url": "https://open.spotify.com/album/3MsD918JVOTgVAAGYw94Uy"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 201468,
-      "name": "How to Love (feat. Sofia Reyes) - Acoustic",
-      "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Watch the World",
         "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
       },
@@ -1891,22 +1871,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
+        "name": "How to Love (feat. Sofia Reyes) [Spanish & Acoustic]",
+        "url": "https://open.spotify.com/album/3MsD918JVOTgVAAGYw94Uy"
       },
       "artists": [
         {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
         },
         {
-          "name": "Roxanne Emery",
-          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 169846,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
+      "duration_ms": 201468,
+      "name": "How to Love (feat. Sofia Reyes) - Acoustic",
+      "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1923,6 +1903,26 @@
       "duration_ms": 139701,
       "name": "Long Time Coming",
       "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Roxanne Emery",
+          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
     },
     {
       "added_at": "2022-09-30 14:01:12",

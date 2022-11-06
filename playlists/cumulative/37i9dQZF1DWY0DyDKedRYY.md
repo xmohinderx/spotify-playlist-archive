@@ -4,7 +4,7 @@
 
 > Doechii is our newest RADAR artist.
 
-344 songs - 17 hr 56 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
+345 songs - 17 hr 59 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [gimme all ur luv](https://open.spotify.com/track/7bKMO3og5pWUJV5g6VtZwp) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gimme all ur luv](https://open.spotify.com/album/16pAkASl0bdyOQrVyTvuBF) | 2:53 | 2022-07-26 | 2022-09-07 |
 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-09-06 |  |
 | [girls \(feat\. phem\)](https://open.spotify.com/track/2zIxK13yUttVriKeFu4cE9) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [searching for nirvana](https://open.spotify.com/album/1M1PKj1f22TovEZmC6yKel) | 2:06 | 2021-12-01 | 2022-04-09 |
-| [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-09-06 |  |
+| [Give Me a Kiss](https://open.spotify.com/track/0OXdfW3Q6VJGpg1k5Ik1SW) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me a Kiss](https://open.spotify.com/album/0CafPkGhvLKbSwto8FQJq1) | 2:49 | 2022-09-06 |  |
+| [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-09-06 | 2022-11-06 |
 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 | 2022-07-26 | 2022-09-07 |
 | [Give Up](https://open.spotify.com/track/4JPRGPlrVo6AgLkZTWPVJg) | [Dachelle](https://open.spotify.com/artist/4PRJTfLzvOCcq26dgs9dcJ) | [Give Up](https://open.spotify.com/album/7zWiRSdJGANP09OFVb8syh) | 3:20 | 2022-06-14 | 2022-07-27 |
 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:27 | 2021-12-01 | 2022-04-09 |

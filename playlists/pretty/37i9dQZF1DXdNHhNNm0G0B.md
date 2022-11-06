@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk...
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,802 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,852 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mississippi Phone Booth](https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:06 |
 | 2 | [Hesitation Theme and Variation Blues](https://open.spotify.com/track/2h4KmvKPMxvZjTpHTpq2FE) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 2:22 |
 | 3 | [Sligo River Blues \- Original Recording](https://open.spotify.com/track/5U9mObciLrrnJC0hE84SIu) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [The Legend Of Blind Joe Death](https://open.spotify.com/album/5dPdHCE2QcT3FZqNAfMJO8) | 3:05 |
-| 4 | [Heavy Load](https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:18 |
-| 5 | [Here Too Far](https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 0:55 |
+| 4 | [Here Too Far](https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 0:55 |
+| 5 | [Heavy Load](https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:18 |
 | 6 | [Static Orphans](https://open.spotify.com/track/0tdhaGcTo8XtIpizS2sXm9) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 2:04 |
 | 7 | [Tumbling Tumbleweeds](https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS) | [Leo Kottke](https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx) | [Guitar Music](https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj) | 2:44 |
 | 8 | [Cumberland Gap](https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 49 | [Detroit Blues](https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq) | [Danny Kroha](https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb) | [Detroit Blues](https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70) | 2:49 |
 | 50 | [Imaginational Anthem](https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W) | [Max Ochs](https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI) | [Hooray For Another Day](https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx) | 4:24 |
 
-Snapshot ID: `MTY2NTQwNjQwNywwMDAwMDAwMDJjZGJmMGQxNTVmMDEzNzU0NGNjNmMyZmFiNzM0ZjQ4`
+Snapshot ID: `MTY2NTQwNjQwNywwMDAwMDAwMDU5NzY2OGVhNGNiZTVkNDEyYWViZDM5YTQ3NDJmODJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Dom Corleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,925 likes - 49 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,939 likes - 49 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

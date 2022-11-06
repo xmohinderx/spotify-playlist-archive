@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 14208,
+  "num_followers": 14212,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDJmYTkyZDU2NTNiNmM5Yzc5NWMyZTdhNmZhYWZmNmNj",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGJlMzFiN2E5N2IyZjViM2YyYjEzN2ExMWJmMWEzOTgy",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Soledad",
-        "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
-      },
-      "artists": [
-        {
-          "name": "Carolina Winograd",
-          "url": "https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO"
-        }
-      ],
-      "duration_ms": 231373,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
         "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 165982,
       "name": "La canci\u00f3n de Buenos Aires",
       "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
+      },
+      "artists": [
+        {
+          "name": "Carolina Winograd",
+          "url": "https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO"
+        }
+      ],
+      "duration_ms": 231373,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Vientos del Sur",
+        "url": "https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1"
+      },
+      "artists": [
+        {
+          "name": "Elena Roger",
+          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
+        }
+      ],
+      "duration_ms": 198437,
+      "name": "Siempre Se Vuelve a Buenos Aires",
+      "url": "https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Martingala",
         "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Vientos del Sur",
-        "url": "https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1"
-      },
-      "artists": [
-        {
-          "name": "Elena Roger",
-          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
-        }
-      ],
-      "duration_ms": 198437,
-      "name": "Siempre Se Vuelve a Buenos Aires",
-      "url": "https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
       },
@@ -847,26 +847,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tal Vez Ser\u00e1 Su Voz",
-        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        },
-        {
-          "name": "Orquesta El Arranque",
-          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
-        }
-      ],
-      "duration_ms": 265679,
-      "name": "Tal vez ser\u00e1 su voz",
-      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Temas Pendientes",
         "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 155280,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Tal Vez Ser\u00e1 Su Voz",
+        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        },
+        {
+          "name": "Orquesta El Arranque",
+          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
+        }
+      ],
+      "duration_ms": 265679,
+      "name": "Tal vez ser\u00e1 su voz",
+      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Pu\u00f1al de Sombra",
-        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
+        "name": "Tiempo Mariposa",
+        "url": "https://open.spotify.com/album/4mwdsJlML3Qi566J5t21Ef"
       },
       "artists": [
         {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+          "name": "Elena Roger",
+          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
         }
       ],
-      "duration_ms": 213476,
-      "name": "Mano a Mano",
-      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
+      "duration_ms": 249481,
+      "name": "O Mundo",
+      "url": "https://open.spotify.com/track/0ecuK8cOglsgeUYCcnDttb"
     }
   ],
   "unique_name": "Mujeres del Tango",

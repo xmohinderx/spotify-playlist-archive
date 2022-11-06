@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,350 likes - 1,201 songs - 3 day 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,394 likes - 1,201 songs - 3 day 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -824,7 +824,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 814 | [Cumbia Del Puerto](https://open.spotify.com/track/6GzE6gVVu35Bzpro5zRO11) | [Conjunto Los Rumberos](https://open.spotify.com/artist/79K5AdwMm6o4W6AIVk6Zds) | [La Edad De Oro De La Cumbia Colombiana](https://open.spotify.com/album/0azeVssPPbqdN4QjZSQBLS) | 2:43 |
 | 815 | [Mahlalela](https://open.spotify.com/track/30qQIKaWcWn5U5h724YDDv) | [Letta Mbulu](https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [The Chisa Years 1965\-1975 \(Rare and Unreleased\)](https://open.spotify.com/album/3GWyP7C2a9aydvTavoMtgZ) | 4:28 |
 | 816 | [Judith](https://open.spotify.com/track/2RtB72NnXkwCCVQxHtV0NH) | [Lucho Peréz](https://open.spotify.com/artist/5wpftV0otFlqs8t04aWONu) | [La Edad De Oro De La Cumbia Colombiana, Vol\. 2](https://open.spotify.com/album/1sJyr6gkGhXkMP9DvYqREB) | 2:36 |
-| 817 | [Amor Ideal](https://open.spotify.com/track/5ccpau4h7F2lGLWCttwbpp) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Éxitos, Éxitos, Éxitos](https://open.spotify.com/album/7JyWytKQNPceXS6DUop61a) | 3:10 |
+| 817 | [Amor Ideal](https://open.spotify.com/track/3tfhPCPL0EpFYOmsRiYoLv) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Grandes Éxitos 1976 \- 1981](https://open.spotify.com/album/7uz2m6BmJUY9fMrPqv5cXI) | 3:11 |
 | 818 | [Sembrando Café](https://open.spotify.com/track/0QY6SzfzeLWGMcqLEzEnKt) | [Alberto Pacheco y su Conjunto](https://open.spotify.com/artist/61R8wfRpM4jDesYAuzgKv0) | [La Edad De Oro De La Cumbia Colombiana](https://open.spotify.com/album/0azeVssPPbqdN4QjZSQBLS) | 2:49 |
 | 819 | [Barbwire](https://open.spotify.com/track/08AgWZrFlRzUVNkQbY5o0Y) | [Nora Dean](https://open.spotify.com/artist/3NxhFOw203F1FEjmOzK74Z) | [Barbwire](https://open.spotify.com/album/7Au8Fs09ToyanFlD9vHNBe) | 2:19 |
 | 820 | [Nubia En La Playa](https://open.spotify.com/track/4ATGJUTvpfbl8h3jQoNLaR) | [Rafeal Yepes Crespo con sus Negros de la Región](https://open.spotify.com/artist/6o8nlifRKfzPSNyR2E3Kiw) | [La Edad De Oro De La Cumbia Colombiana](https://open.spotify.com/album/0azeVssPPbqdN4QjZSQBLS) | 2:49 |
@@ -1210,4 +1210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1200 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1201 | [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 |
 
-Snapshot ID: `MTY2NzIwNjgwMCwwMDAwMDAwMDU2MWU4NmM0YThmMjg1YzVlZDlkN2UzNzZjMTlkMzVj`
+Snapshot ID: `MTY2NzIwNjgwMCwwMDAwMDAwMGMwZWZmYWYxNjYzMTJmM2E0MzFjYjk0NDBiN2NkNTg2`

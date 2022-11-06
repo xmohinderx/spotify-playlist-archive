@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Luke Bryan, Russell Dickerson, Mickey Guyton and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,560 likes - 35 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,800 likes - 35 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prayin' In A Deer Stand](https://open.spotify.com/track/6udBM5TJkTp1uupH4Y5ReF) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Prayin' In A Deer Stand](https://open.spotify.com/album/3PGB7yyY9f50st2g7PQuKY) | 3:24 |
 | 2 | [Sorry](https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Russell Dickerson](https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8) | 3:08 |
 | 3 | [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 |
-| 4 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/6GDDxhe281I5aNSgCYphex) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
+| 4 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
 | 5 | [Mama, Dolly, Jesus](https://open.spotify.com/track/7zggetlqMBzNpdCM0mdfzS) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 2:45 |
 | 6 | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS) | 5:22 |
 | 7 | [Let It Slide](https://open.spotify.com/track/070COw4EEG0Tp2jSv4NLc2) | [Leslie Jordan](https://open.spotify.com/artist/7rYLqyGeyCnraP6vBfhfFn), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Let It Slide](https://open.spotify.com/album/5JOcU4LKsqaEHSRCM8od8T) | 2:54 |

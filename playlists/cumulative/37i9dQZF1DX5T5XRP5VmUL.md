@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-219 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
+220 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Maybe This Christmas](https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Maybe This Christmas](https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY) | 1:52 | 2021-12-24 |  |
 | [Merry Christmas](https://open.spotify.com/track/6B8tOwbbbvRkGBrFw2PJB1) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Merry Christmas](https://open.spotify.com/album/4e4Amgi25FhDCFIYhbyuEh) | 2:30 | 2021-12-24 |  |
 | [Merry Christmas Everybody](https://open.spotify.com/track/5y4tLbaZJ4Yzy5W5Flksmk) | [Eleven Past One](https://open.spotify.com/artist/3nkE7E51pOn9kif5cyC2eb) | [Merry Christmas Everybody](https://open.spotify.com/album/1yupCayowArixzFoXupKoz) | 3:16 | 2021-12-24 | 2022-07-27 |
+| [Merry Christmas, Happy New Year](https://open.spotify.com/track/5rvi6rttNhcEfEpCQqFKLE) | [Moonalice](https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e) | [Merry Christmas, Happy New Year](https://open.spotify.com/album/1TRyUUDjB1rKdtGN60dwhl) | 4:08 | 2022-11-04 |  |
 | [Miss Christmas](https://open.spotify.com/track/5atM92gismXIqb3IVRIEov) | [Damien Robitaille](https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu) | [Bientôt ce sera Noël](https://open.spotify.com/album/4VQhmcigTJIL2XljKIzeva) | 3:32 | 2021-12-24 | 2022-10-30 |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-12-24 |  |
 | [Mistress Claus](https://open.spotify.com/track/4Vs5gIqRFuWhPYIzTIzbug) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Mistress Claus](https://open.spotify.com/album/2HZNKFYwCjhX4KxGQBUmB3) | 3:05 | 2021-12-24 |  |
@@ -189,7 +190,7 @@
 | [Steal Your Heart](https://open.spotify.com/track/7kousDSHeHfE6TTbioVW26) | [Command Sisters](https://open.spotify.com/artist/7a9gjtMIZFHN1NB1Dndyed) | [Steal Your Heart](https://open.spotify.com/album/1xeyU7RnO7CgH3Sh8tdmcu) | 3:27 | 2021-12-24 |  |
 | [Takin' Care Of Christmas](https://open.spotify.com/track/0BLHp2n7sdosXiGYAcN14m) | [Randy Bachman](https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg), [Beverley Mahood](https://open.spotify.com/artist/2Ur7EJdq2Lv5rOAQDNbCl7) | [Takin' Care Of Christmas](https://open.spotify.com/album/0X1Wx7SfxHbjHXH7A8MKI1) | 3:33 | 2021-12-24 | 2022-07-29 |
 | [Takin' Care Of Christmas](https://open.spotify.com/track/1KCFZtY7YZA610dHQTSG8z) | [Randy Bachman](https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg), [Beverley Mahood](https://open.spotify.com/artist/2Ur7EJdq2Lv5rOAQDNbCl7) | [Takin' Care Of Christmas](https://open.spotify.com/album/55HArZ8d6oaHrv2NTZWyYG) | 3:33 | 2021-12-24 |  |
-| [The Ballad of Mrs\. Claus](https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [The Ballad of Mrs\. Claus](https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs) | 3:41 | 2021-12-24 |  |
+| [The Ballad of Mrs\. Claus](https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [The Ballad of Mrs\. Claus](https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs) | 3:41 | 2021-12-24 | 2022-11-06 |
 | [The Banister Bough](https://open.spotify.com/track/6AlGiqQMmOKEhUAopzUwFm) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [A very chilly christmas](https://open.spotify.com/album/4VmSYtqSfucZcMF2u5eDZK) | 4:09 | 2021-12-24 |  |
 | [The Bells Are Ringing](https://open.spotify.com/track/3XFi8n3O6QSERa7XgQHMvr) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [The Bells Are Ringing](https://open.spotify.com/album/3y1sleegQriGphZgglsih2) | 3:18 | 2021-12-24 |  |
 | [The Christmas Song](https://open.spotify.com/track/2EowIji0K5nyZv3PLt2q3F) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Together For The Holidays](https://open.spotify.com/album/0aWP95Ex1gAuaoN9T9S6p5) | 3:16 | 2021-12-24 | 2022-07-28 |

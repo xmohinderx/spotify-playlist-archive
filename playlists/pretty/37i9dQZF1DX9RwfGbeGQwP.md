@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,112 likes - 500 songs - 19 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,354 likes - 500 songs - 19 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 69 | [New Canary in Town](https://open.spotify.com/track/0kDJu1vVdvQd8zgoGMTjNr) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [New Canary in Town](https://open.spotify.com/album/5krBS3qtNJngoj6GKJwmtq) | 3:17 |
 | 70 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 |
 | 71 | [L A P I S L A Z U L I](https://open.spotify.com/track/6dxxq8txtOlSMwZwZPHScG) | [Joel Loopez](https://open.spotify.com/artist/3l7zH3g5Z7QnHAiIYKZu6u) | [舎](https://open.spotify.com/album/2Knj3Ym8f7FWeZSQV8APA9) | 3:05 |
-| 72 | [Jupiter](https://open.spotify.com/track/3IfselKUxMOLNMBD7U3liE) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Jupiter](https://open.spotify.com/album/6vJTw0ncJ68KY0kK1k2lpi) | 1:57 |
+| 72 | [Jupiter](https://open.spotify.com/track/5jT5sIQECE9clU4sFN6tDo) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Jupiter](https://open.spotify.com/album/3vUF1ShmQPXJ2ZnaMz59MJ) | 1:57 |
 | 73 | [Nostalgia](https://open.spotify.com/track/1KURe9cp0LSD5hKMwP6Opj) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Nostalgia](https://open.spotify.com/album/4jiL3huicySFF2n56ch3vN) | 2:24 |
 | 74 | [Jam Session](https://open.spotify.com/track/7JdntyivTxgRfo8znylPhG) | [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h), [Kjetil Jerve](https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A) | [Jam Session](https://open.spotify.com/album/1XUxUYJYSdLWB4fGsgMtl0) | 2:44 |
 | 75 | [Silky Pleasure](https://open.spotify.com/track/6rQLn8guB7YKWIzLqPHtDc) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Silky Pleasure](https://open.spotify.com/album/3w0R961rJLP7OLMJsKdPIo) | 2:22 |
@@ -149,9 +149,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 139 | [My Time](https://open.spotify.com/track/7tsdmsTis9koDeF4l0eZZ5) | [Rachelle Pertu](https://open.spotify.com/artist/4BtIZRedZ2qqlF6jBuwMIx) | [My Time](https://open.spotify.com/album/5H7f4wXCsSwqN6AhwZDBJL) | 1:39 |
 | 140 | [Stewart brunch](https://open.spotify.com/track/73O4hg0NPZUAShQOmzb1aT) | [Euphoric](https://open.spotify.com/artist/1bwMazAmHtSVXFislONO1i) | [Stewart Brunch](https://open.spotify.com/album/6GxYAimSYBqW9wzWA4BF1f) | 1:44 |
 | 141 | [Colored Drumsticks](https://open.spotify.com/track/3258U6VvLSH68WAyZ1X0yM) | [Geo Boman](https://open.spotify.com/artist/7hHwpEqRmw6D1kVrPXeuEQ) | [Colored Drumsticks](https://open.spotify.com/album/6m0GMR5nl3nzAoGtPUQWM5) | 1:41 |
-| 142 | [Coral Sea](https://open.spotify.com/track/2oFYTpXSwprSjZUflMnOZn) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Coral Sea](https://open.spotify.com/album/3PIyYWe2rAaqEVruPOCewu) | 1:41 |
+| 142 | [Coral Sea](https://open.spotify.com/track/2H2bIL9FXy9uWAP5xsrbtY) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Coral Sea](https://open.spotify.com/album/1GLXiFRUUL39B3YDH50sza) | 1:41 |
 | 143 | [In My Mind](https://open.spotify.com/track/79Qncq9X02HoE3AvSz7HZt) | [Raven Paradox](https://open.spotify.com/artist/6kOg93cYVJ8rQile4irBtc) | [In My Mind](https://open.spotify.com/album/3xrXU507RQMBgeqPo54hha) | 1:38 |
-| 144 | [Happiness](https://open.spotify.com/track/4Lcu2NFzlus8gLq6t6KiNl) | [Kwaii Fong](https://open.spotify.com/artist/2XiGTV6HOhZc4D5ymPxWP4), [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH) | [Happiness](https://open.spotify.com/album/68rZjCtruzjIe2tFi85Fkv) | 2:15 |
+| 144 | [Happiness](https://open.spotify.com/track/2xOlZY60JgiSVVyMKcAZ6l) | [Kwaii Fong](https://open.spotify.com/artist/2XiGTV6HOhZc4D5ymPxWP4), [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH) | [Happiness](https://open.spotify.com/album/7p7hHJFexhvS5anAXBtFCp) | 2:15 |
 | 145 | [alone with you](https://open.spotify.com/track/2ZWLObitgvOk90ICZIHInu) | [Pines](https://open.spotify.com/artist/1ueoZoYkwA7lpzlcc4yhPB) | [alone with you](https://open.spotify.com/album/3Lyx5hcnLFFYNliIYyVABW) | 1:56 |
 | 146 | [cup of tea](https://open.spotify.com/track/5Y8v5zLDeZScavCNJgtUGj) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [cup of tea](https://open.spotify.com/album/04haX32duXxjRwN5zDWQEL) | 2:15 |
 | 147 | [Magical Dreams](https://open.spotify.com/track/1IJ6kStfmEO702IvVLNQcN) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII) | [Magical Dreams](https://open.spotify.com/album/6NxXFjCTLS3PbzGucGOAM5) | 1:39 |
@@ -275,7 +275,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 265 | [Saturday Morning Rain](https://open.spotify.com/track/28JFjvMQvokJsMdmBAzttE) | [Tempelhof Sayonara](https://open.spotify.com/artist/2PTjVOmUzd0987OTsTYpld) | [Saturday Morning Rain](https://open.spotify.com/album/3noi1QWebW9jiydrtjKB6E) | 2:12 |
 | 266 | [Flowers](https://open.spotify.com/track/1PwpHX9TXeeImQJlYGoxVm) | [Opas](https://open.spotify.com/artist/7wJofd34ZURYOt5kFrCE9M), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Flowers](https://open.spotify.com/album/7gM0G6VELwfyWiiYzmYKDS) | 1:32 |
 | 267 | [Shades of Green](https://open.spotify.com/track/4xNpWcO2uakY0PKYwtyKig) | [Azuku](https://open.spotify.com/artist/45JKsJ0fN2Ur7q9hAG6g5s) | [Shades of Green](https://open.spotify.com/album/6u1Tb0zpE4XDg19QgMOsBb) | 2:29 |
-| 268 | [Fulfilled](https://open.spotify.com/track/6bRvpqOdsOGYFjZKulfE0o) | [Rivizion](https://open.spotify.com/artist/1esGPYEd8HVgZnwtDicKoJ) | [Fulfilled](https://open.spotify.com/album/5w1QsJHtT4DQ8eGsyuFhMO) | 2:39 |
+| 268 | [Fulfilled](https://open.spotify.com/track/5I7Xbhwv80MVviThR3uzh1) | [Rivizion](https://open.spotify.com/artist/1esGPYEd8HVgZnwtDicKoJ) | [Fulfilled](https://open.spotify.com/album/2zj8x5799IdNG5pYQNBM2d) | 2:39 |
 | 269 | [Mint](https://open.spotify.com/track/6sDI56JekLq6SfnBMY8013) | [marble](https://open.spotify.com/artist/4sZdWOEKygrWDsv8EvaBFa) | [Mint](https://open.spotify.com/album/0H4RzCNCRgZFXdTPku3QAl) | 1:39 |
 | 270 | [Similes](https://open.spotify.com/track/3ndjOcHGZ924UKDneWdstW) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [Similes](https://open.spotify.com/album/4cwCYkwltW2xf5KNRQTc6k) | 2:50 |
 | 271 | [Billie's Bar](https://open.spotify.com/track/1z4KRB9o5YR5O3JlIBh0Sj) | [dean.](https://open.spotify.com/artist/0mTHQbJ5kQuR1NBUSMcTuM), [Grisp](https://open.spotify.com/artist/4Ss8Vh1dqwdci0DqaNycZM) | [Billie's Bar](https://open.spotify.com/album/5sT02BUovRejCrQuxseS2E) | 2:24 |
@@ -351,7 +351,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 341 | [1 Step Ahead](https://open.spotify.com/track/0UkpfwUKYe6uzYxhH3KnIB) | [Oyh!](https://open.spotify.com/artist/3md8n0ymZHbXmwbLocvzuJ) | [1 Step Ahead](https://open.spotify.com/album/2dP3R7ovDc4shHmI4ALjiR) | 2:00 |
 | 342 | [The Warmup](https://open.spotify.com/track/1EgG7IPC4yKKERNx9caeck) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [The Warmup](https://open.spotify.com/album/6xTEwiGet96XGYpkLoWf2j) | 2:30 |
 | 343 | [los beachos](https://open.spotify.com/track/3ZVLP49KrKZakJz9w55ef7) | [Lobby Lingu!n!](https://open.spotify.com/artist/3PmqglMO0kO7kkmhGHrxkv) | [los beachos](https://open.spotify.com/album/2ZzWNf6dEX51b6RHlgnFEe) | 2:12 |
-| 344 | [City Lights](https://open.spotify.com/track/4YA6ev6o8aUv8oGVSlHaLY) | [Drive](https://open.spotify.com/artist/58Z10RWlUsSA6UkgOnmHM1) | [City Lights](https://open.spotify.com/album/6FcBduPSJSOV25xOkgW3lS) | 2:16 |
+| 344 | [City Lights](https://open.spotify.com/track/5OKDWbd1H8uHuQZAsgDRBO) | [Drive](https://open.spotify.com/artist/58Z10RWlUsSA6UkgOnmHM1) | [City Lights](https://open.spotify.com/album/7CXQzFbxZXeERQUXePoPpr) | 2:16 |
 | 345 | [beija flor](https://open.spotify.com/track/40RvOH5G640YZe3ZtSUZyZ) | [mockfly](https://open.spotify.com/artist/0Ur2p5PWdMOHeidtUvsYb2) | [beija flor](https://open.spotify.com/album/4j5TEd9tIv4j5GoXt9tjof) | 1:54 |
 | 346 | [starry night](https://open.spotify.com/track/4CvWJJdqIkE03l4P6PcXLc) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Honeycrisp](https://open.spotify.com/album/25exJu8A2PIVrDg2kXRwov) | 1:41 |
 | 347 | [The Med](https://open.spotify.com/track/4VF59BuLMgBFg3FQF6ledx) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [The Med](https://open.spotify.com/album/4MxgexE1L8Ve0BbPtHIoQX) | 1:57 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 499 | [Snow](https://open.spotify.com/track/7gDD63ZLoB08QdUkamY9cc) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS), [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Snow](https://open.spotify.com/album/5FHTW00QwPLbDBa3uJZHqp) | 2:34 |
 | 500 | [Sunburn](https://open.spotify.com/track/5YZOHVXgS3khDYFARvAUzh) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Zephyr](https://open.spotify.com/album/3o1AjNSUqYbysJbeinEb7c) | 2:14 |
 
-Snapshot ID: `MTY2Njk1NzA4MSwwMDAwMDAwMDc0ZTZmZTBjZDNlZWY4NWEzMDQ1MDZjNWY5ZjBhMzIy`
+Snapshot ID: `MTY2Njk1NzA4MSwwMDAwMDAwMGZjNDI0M2Y3YzhhODcxNjY1YWQ5NDQxYTEzYzVkZGQ5`

@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 30422,
+  "num_followers": 30477,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDM0MGE0ZmM3OTYzYzg4MThhNTlmZmI5ZmViYWJmMjc4",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDUyNThkYTNlNzg1ZWM3NDNjZmEyMzc0YmYyYzcxZDEw",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
-      },
-      "artists": [
-        {
-          "name": "Kneebody",
-          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
-        }
-      ],
-      "duration_ms": 280666,
-      "name": "Lowell",
-      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "Love Devotion Surrender",
         "url": "https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 568893,
       "name": "The Life Divine",
       "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
+      },
+      "artists": [
+        {
+          "name": "Kneebody",
+          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
+        }
+      ],
+      "duration_ms": 280666,
+      "name": "Lowell",
+      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -581,6 +581,22 @@
       "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
+      },
+      "artists": [
+        {
+          "name": "Cameron Graves",
+          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
+        }
+      ],
+      "duration_ms": 261506,
+      "name": "Sons of Creation",
+      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
+    },
+    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Fear Not",
@@ -599,22 +615,6 @@
       "duration_ms": 475818,
       "name": "Fear Not",
       "url": "https://open.spotify.com/track/7FDaEE1FwngGOXeqza7mOS"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
-      },
-      "artists": [
-        {
-          "name": "Cameron Graves",
-          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
-        }
-      ],
-      "duration_ms": 261506,
-      "name": "Sons of Creation",
-      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -721,6 +721,22 @@
       "url": "https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Bundles (Remastered And Expanded Edition)",
+        "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
+      },
+      "artists": [
+        {
+          "name": "Soft Machine",
+          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
+        }
+      ],
+      "duration_ms": 323520,
+      "name": "Hazard Profile, Pt. 5 - 2022 Remaster",
+      "url": "https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9"
+    },
+    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Chaos Companion",
@@ -739,22 +755,6 @@
       "duration_ms": 300739,
       "name": "Dormammu (Featuring the Shady Horns)",
       "url": "https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Bundles (Remastered And Expanded Edition)",
-        "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
-      },
-      "artists": [
-        {
-          "name": "Soft Machine",
-          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
-        }
-      ],
-      "duration_ms": 323520,
-      "name": "Hazard Profile, Pt. 5 - 2022 Remaster",
-      "url": "https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9"
     },
     {
       "added_at": "2021-04-16 05:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Little Big",
-        "url": "https://open.spotify.com/album/1go9cgw6AMhHv9Zcn9Xj3t"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/0Q9sfhxPWLBoM0zYWiAhwA"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "Two Drink Minimum",
         "url": "https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP"
       },
@@ -837,22 +821,6 @@
       "url": "https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Casting for Gravity (feat. Jason Lindner, Tim Lefebvre & Mark Guiliana)",
-        "url": "https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki"
-      },
-      "artists": [
-        {
-          "name": "Donny McCaslin",
-          "url": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M"
-        }
-      ],
-      "duration_ms": 437607,
-      "name": "Stadium Jazz",
-      "url": "https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE"
-    },
-    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "Improvisations Vol II",
@@ -867,6 +835,22 @@
       "duration_ms": 171008,
       "name": "Apocahop",
       "url": "https://open.spotify.com/track/6ZmEv6dHADpoHDFSxIZSzh"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Casting for Gravity (feat. Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+        "url": "https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki"
+      },
+      "artists": [
+        {
+          "name": "Donny McCaslin",
+          "url": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M"
+        }
+      ],
+      "duration_ms": 437607,
+      "name": "Stadium Jazz",
+      "url": "https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -903,6 +887,22 @@
       "duration_ms": 544186,
       "name": "Radio School",
       "url": "https://open.spotify.com/track/7dKllKoKw2hddcsyMEDG90"
+    },
+    {
+      "added_at": "2021-04-23 04:01:00",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "duration_ms": 305858,
+      "name": "Truck Fump",
+      "url": "https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic"
     }
   ],
   "unique_name": "Prog Jazz",

@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: SEB
 
-237 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
+238 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All That I Need](https://open.spotify.com/track/7ziBvMT017ycfAxit7j7kf) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [All That I Need](https://open.spotify.com/album/2qfFZJTEuNg6YSpNzoUiIc) | 3:41 | 2022-06-08 | 2022-10-14 |
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-06-08 | 2022-09-30 |
 | [Animal Farm](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Animal Farm](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 3:23 | 2022-09-29 | 2022-10-08 |
+| [Ash \(feat\. KURO\)](https://open.spotify.com/track/2aJN7TLwQRTxEtvSfvBLbE) | [Shoi](https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Ash \(feat\. KURO\)](https://open.spotify.com/album/0Mwvqjpntcqy8uz2UgMjvf) | 2:17 | 2022-11-03 |  |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-06-30 | 2022-07-08 |
 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 | 2022-06-08 | 2022-07-15 |
 | [Ballroom Extravaganza](https://open.spotify.com/track/1KoAKmbSdx172NnEn6rV9F) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Ballroom Extravaganza](https://open.spotify.com/album/0rbFTWzM6EtmYd61kpV1ke) | 3:09 | 2022-07-28 | 2022-08-05 |

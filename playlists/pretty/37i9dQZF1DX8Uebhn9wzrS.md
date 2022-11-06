@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,664 likes - 530 songs - 19 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,597 likes - 530 songs - 19 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -280,7 +280,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 270 | [Enchanté](https://open.spotify.com/track/2DrgL0r61Hen8m0pV3zyW1) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Enchanté](https://open.spotify.com/album/4i8j7sK7dQ6ESbIDopluL8) | 2:36 |
 | 271 | [Urban Sunsets](https://open.spotify.com/track/5pEDDmOo2f7jm2Vtw8I1Ms) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Urban Sunsets](https://open.spotify.com/album/1WyMhhHMhnyqwG2fe7Xkdu) | 2:10 |
 | 272 | [haha yeah ok \(lofi remix\)](https://open.spotify.com/track/18wRLqDBZQGNCBeiECoJ5s) | [sancy j](https://open.spotify.com/artist/3UVxi5LYbngFziA6ots019), [braj mahal](https://open.spotify.com/artist/2uHJReWme1oJ0jaXD1fiHT), [West Bestern](https://open.spotify.com/artist/7zOLbjVjQZPAldCJ6K9Nha) | [haha yeah ok \(lofi remix\)](https://open.spotify.com/album/771hb2ACwe9f8Fd34jBRIX) | 2:20 |
-| 273 | [Parades](https://open.spotify.com/track/2ApTu6hFTnNI4OgspbovcK) | [Maxømøa](https://open.spotify.com/artist/2XfqCD3Rlv8LxJ0p05QNXa), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t) | [Parades](https://open.spotify.com/album/31LiiyocxjrRlfQS5jRoPx) | 2:17 |
+| 273 | [Parades](https://open.spotify.com/track/0AxZVTvTZqjC6lGDfELZkY) | [Maxømøa](https://open.spotify.com/artist/2XfqCD3Rlv8LxJ0p05QNXa), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t) | [Parades](https://open.spotify.com/album/04XbkOcu8kPYzD58sUv5Wc) | 2:17 |
 | 274 | [Open All Night](https://open.spotify.com/track/6Dt6AytHdXimlTCONkV95z) | [Danny Ghost](https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF) | [Open All Night](https://open.spotify.com/album/1QcHc5DY3LS2MZNMhlgjCz) | 2:50 |
 | 275 | [Slow Down](https://open.spotify.com/track/4MkSW2NZdEL4AiOlPT1m1V) | [Max Wilman](https://open.spotify.com/artist/1Z6xW9vdFuGcaVhxLOGRTl) | [Slow Down](https://open.spotify.com/album/5qjG9PP6cva8U9CQPaeF1i) | 2:15 |
 | 276 | [Maya](https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Niña](https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2) | 2:02 |
@@ -325,7 +325,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 315 | [Thoughts](https://open.spotify.com/track/5A9BhOGp4Xz71QwcXRpef3) | [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q) | [Thoughts](https://open.spotify.com/album/5RwYUk1Uh68n1DkauBHmQf) | 2:54 |
 | 316 | [Jazzalottie](https://open.spotify.com/track/0T4eUCl7GlOJ4rqWNUzzkg) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [Jazzalottie](https://open.spotify.com/album/6hX5IDYWMivRsR8M3kxcAG) | 2:17 |
 | 317 | [Violet](https://open.spotify.com/track/5ef8IbRrcVziFxriCF1q3o) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [Violet](https://open.spotify.com/album/56ja5PFmZotIYyyq2dt4dC) | 2:44 |
-| 318 | [Wellspring](https://open.spotify.com/track/0aTxYRuDgt957kEznA87yw) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Wellspring](https://open.spotify.com/album/3w0KTyQTLn79f276D7AMj2) | 1:56 |
+| 318 | [Wellspring](https://open.spotify.com/track/2LPiMy2ePIzegv5EhkQrVR) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Wellspring](https://open.spotify.com/album/340App2IyAkJ6WssIM8AJm) | 1:56 |
 | 319 | [I.](https://open.spotify.com/track/6A5EYxkV7gzZv3PW96u3Jf) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [I.](https://open.spotify.com/album/0vBKiSgFfpnnAD37wjuicI) | 2:07 |
 | 320 | [Aviate](https://open.spotify.com/track/532CHPJ8XDomggcCqh9kyr) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Aviate](https://open.spotify.com/album/2aj5Rcvstgx3xt0CNviHE3) | 2:08 |
 | 321 | [Icecoffee Season](https://open.spotify.com/track/5TeLSirV20P8TpjjCvDpfd) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Icecoffee Season](https://open.spotify.com/album/2SIQj1Mn0RROzHSCQaH17b) | 1:59 |
@@ -340,7 +340,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 330 | [One Nap At a Time](https://open.spotify.com/track/1HPkUkxIEVAyc4AcEUIqIA) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [One Nap At a Time](https://open.spotify.com/album/0Kz8fdcYlkHRYYJVoIQaYT) | 2:20 |
 | 331 | [Blue and Yellow](https://open.spotify.com/track/0wcWZTGYcsExq65e7Yexf1) | [Scarabeetz](https://open.spotify.com/artist/5Jh56uhWBGydHRgEwCMjqr) | [Blue and Yellow](https://open.spotify.com/album/17J7VL0I0YDggyq0QRaMzU) | 2:16 |
 | 332 | [Say No More](https://open.spotify.com/track/6wTdbCMWhg6jbD3jvFTWO4) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow), [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Say No More](https://open.spotify.com/album/7dQMzfFTgtQuQ48xRYFUO6) | 2:08 |
-| 333 | [Skipping In The Rain](https://open.spotify.com/track/5Fkm4JZU99RStqDvVkQuX4) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Skipping In The Rain](https://open.spotify.com/album/3Z5VU26eLsSkXf3B6iBn3H) | 2:27 |
+| 333 | [Skipping In The Rain](https://open.spotify.com/track/00rzg0wWKaQoOrYOZOY1ug) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx) | [Skipping In The Rain](https://open.spotify.com/album/4beFIK146RDX8LHXUobl3T) | 2:27 |
 | 334 | [Gentle Reminder](https://open.spotify.com/track/3b5ITorrbofQImuabZtMwP) | [Angie Nicole](https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws), [Chill Station](https://open.spotify.com/artist/1FPxSBB6vJ21iKzCblbl1u) | [Gentle Reminder](https://open.spotify.com/album/6cW1exCQCEkjIgBoO5qYnI) | 2:24 |
 | 335 | [Abrázame mucho estos días](https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Abrázame mucho estos días](https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq) | 2:42 |
 | 336 | [Oklahoma](https://open.spotify.com/track/6xL1JFz5IOxBucnC2NGEa2) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Oklahoma](https://open.spotify.com/album/5SJOYrQY3wN7o1hEASYD8j) | 2:21 |
@@ -539,4 +539,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 529 | [Flippant](https://open.spotify.com/track/3NKlu0qfwPt55dmaWBHQIq) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Flippant](https://open.spotify.com/album/2qnYGVaRprhma6n88eF4Yp) | 2:21 |
 | 530 | [Hold My Juice Box](https://open.spotify.com/track/7KnK3G54x4Mgb8Lk5XU1yf) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Hold My Juice Box](https://open.spotify.com/album/0zpCLxjCHmuKEbDvRAAaGc) | 2:41 |
 
-Snapshot ID: `MTY2Njk0ODU1MiwwMDAwMDAwMGY4YTAyYjA2ZjJlYTZjNDdmMzA0NWIzNjljYmYxMTg4`
+Snapshot ID: `MTY2Njk0ODU1MiwwMDAwMDAwMGUwMWM4MTE2ZDI5MmY0ZGYxZTg1ZjAyY2UxNmM4MzUy`

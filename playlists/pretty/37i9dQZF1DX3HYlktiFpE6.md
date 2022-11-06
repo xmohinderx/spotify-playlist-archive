@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,819 likes - 57 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,843 likes - 57 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 34 | [Surface Pressure](https://open.spotify.com/track/2YePcRCovlBZ0wIYX7bXAa) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Surface Pressure](https://open.spotify.com/album/7aNLvoaHB7xqpqssKfQuJ2) | 3:14 |
 | 35 | [Chandelier](https://open.spotify.com/track/5QxAO4f3EuP40hhHkiRcO1) | [Twisted Measure](https://open.spotify.com/artist/3mXcNgD2MC7GIMvIoefa4T) | [Black & Red](https://open.spotify.com/album/0pXdLROrVJzxlxtWc77lW1) | 4:05 |
 | 36 | [Kennedy Center Performance \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/379pQhTWVBdSEe8cfUmlHy) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 2:26 |
-| 37 | [Shut up and Dance](https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:47 |
+| 37 | [Text Me Merry Christmas \(feat\. Kristen Bell\)](https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 2:40 |
 | 38 | [Let It Go](https://open.spotify.com/track/3bodx5kX7N9H6ReZCq3jfW) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [Fixate](https://open.spotify.com/album/0oEzIkczK5Il84fdaxVpfK) | 4:23 |
 | 39 | [Bad Romance](https://open.spotify.com/track/7EZjj4CRzBfeEAVfQMDqWu) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Sing On](https://open.spotify.com/album/5UPAYGrQMGmGO3vPUXF1ou) | 4:36 |
 | 40 | [Misty Mountains](https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:19 |
 | 41 | [Set Fire to the Rain](https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq) | [Cornell Class Notes](https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF) | [Full Disclosure](https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu) | 3:56 |
 | 42 | [Circle of Life/He Lives in You](https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Circle of Life/He Lives in You](https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27) | 3:38 |
-| 43 | [Text Me Merry Christmas \(feat\. Kristen Bell\)](https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 2:40 |
+| 43 | [Shut up and Dance](https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:47 |
 | 44 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 |
 | 45 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 |
 | 46 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 56 | [Pumped Up Kicks](https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Morning Warriors](https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs) | 3:53 |
 | 57 | [Disney's Broadway Is Back Medley](https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Disney's Broadway Is Back Medley](https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh) | 2:28 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMGQ0NjI0NjYwMjMzYjVhZGY1MzRkZWE5ZjczOTdjNzgx`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDYwYmIyOTdmMTNhM2RjMmNhODYyNTc4ZTM4YjEwNjIy`

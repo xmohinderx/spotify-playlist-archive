@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Xavi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,196 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,223 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 42 | [Viaje Verde](https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Brian Landa](https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI) | [Viaje Verde](https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88) | 3:14 |
 | 43 | [Tres Veces Te Engañé](https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tres Veces Te Engañé](https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN) | 3:13 |
 | 44 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 |
-| 45 | [Mario Aguirre \(En Vivo\)](https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Mario Aguirre \(En Vivo\)](https://open.spotify.com/album/57eBE9Vtn8Xpeyqts4aeEU) | 2:58 |
-| 46 | [SRT](https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [SRT](https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei) | 2:58 |
+| 45 | [SRT](https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [SRT](https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei) | 2:58 |
+| 46 | [Mario Aguirre \(En Vivo\)](https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Mario Aguirre \(En Vivo\)](https://open.spotify.com/album/57eBE9Vtn8Xpeyqts4aeEU) | 2:58 |
 | 47 | [Sombrero Vaquero](https://open.spotify.com/track/25GDHtmzIzmfxxuwPVw5qA) | [GOHN](https://open.spotify.com/artist/7KiKSecWZrDV4n3oD0sX6W) | [Sombrero Vaquero](https://open.spotify.com/album/5tvRh6JRYFbFauFFDiSz67) | 3:29 |
 | 48 | [Era Mia](https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Era Mia](https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI) | 3:46 |
 | 49 | [Loko \(with Los Primos Del Este\)](https://open.spotify.com/track/3KHRKLRl85jnsNSLICgy7t) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Loko \(with Los Primos Del Este\)](https://open.spotify.com/album/27xtTUsTfkXQgDPbaVNMQ3) | 2:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [Bella Mujer](https://open.spotify.com/track/4UdElq0dpUVS6fNyhLYwYM) | [Grupo Nueva Liga](https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk) | [Bella Mujer](https://open.spotify.com/album/7AyFGqdzc3zqoW68XI8SA3) | 2:26 |
 | 75 | [Nuestras Noches](https://open.spotify.com/track/05np5qqF0I9dukvYweal2A) | [Shia Aldair](https://open.spotify.com/artist/07Fa79I3tdHSTFwNQhi0uX) | [Desventura](https://open.spotify.com/album/1Fp1Oy7agN1VYfy4clJiDi) | 3:32 |
 
-Snapshot ID: `MTY2NTcyMzYwMCwwMDAwMDAwMGI0ODZhMmE0OGU3NWUyMTlkMTY1ZDRmNmQyN2UxN2Ux`
+Snapshot ID: `MTY2NTcyMzYwMCwwMDAwMDAwMGMzNjljYWEzYjViMDk0YzYyZjliOTk1OTVlMjUyODNk`

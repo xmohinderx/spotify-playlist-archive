@@ -6127,7 +6127,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 198978,
       "name": "Don't Have the Heart",
       "url": "https://open.spotify.com/track/6sTy9DMAYghQnFFUhfpTx7"
@@ -10811,7 +10811,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 177247,
       "name": "how dare you",
       "url": "https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS"
@@ -16704,6 +16704,24 @@
     },
     {
       "album": {
+        "name": "Off Season",
+        "url": "https://open.spotify.com/album/5tuM41hpJ7kDZo5Twts4TE"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190549,
+      "name": "Off Season",
+      "url": "https://open.spotify.com/track/5idfBD8B8uTN0dDIoTkAhB"
+    },
+    {
+      "album": {
         "name": "Oh Please (APRE Remix)",
         "url": "https://open.spotify.com/album/5CNgptw1SOnGoNjc7JCeW9"
       },
@@ -22533,6 +22551,24 @@
       "duration_ms": 214790,
       "name": "Take Me (feat. Mariana Thielen)",
       "url": "https://open.spotify.com/track/3kxH7rqUBK8uYOyfIuWT7z"
+    },
+    {
+      "album": {
+        "name": "Bummer",
+        "url": "https://open.spotify.com/album/6qQ2gWYEYmikgGm6qSBYmz"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195782,
+      "name": "Take My Picture",
+      "url": "https://open.spotify.com/track/6kYMoYJnbXVuiqVMCkL2Pe"
     },
     {
       "album": {

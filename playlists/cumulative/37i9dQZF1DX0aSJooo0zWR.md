@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea & Nino Josele
 
-133 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
+134 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Even Song](https://open.spotify.com/track/54nbMd4MHkfhCxJ425ANJi) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Even Song](https://open.spotify.com/album/1M43rju5xutOMHXO2jj6BP) | 8:23 | 2021-02-12 | 2022-07-29 |
 | [Face First](https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 7:04 | 2021-02-12 |  |
 | [Far And Distant Things \(feat\. Frank Gambale\)](https://open.spotify.com/track/7hUfeFl3SpwWli75e0VA1j) | [Benjamin Croft](https://open.spotify.com/artist/6DrVJByeJgHqJ7A3SsBnFE), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [Far and Distant Things \(feat\. Frank Gambale\)](https://open.spotify.com/album/39Opdt7XBmjgKFfbdlH8De) | 6:13 | 2021-08-06 | 2022-07-29 |
-| [Fire](https://open.spotify.com/track/3On2Z61FnTpoqwNwljhAqE) | [Alina Bzhezhinska](https://open.spotify.com/artist/4ziDIu5XdfA2rQpEAvs0BN), [HipHarpCollective](https://open.spotify.com/artist/22qVoqkMA3F9iviFEx4W5e) | [Reflections](https://open.spotify.com/album/7vm57UmS0tpc8zaAV0rSUR) | 7:10 | 2022-09-02 |  |
+| [Fire](https://open.spotify.com/track/3On2Z61FnTpoqwNwljhAqE) | [Alina Bzhezhinska](https://open.spotify.com/artist/4ziDIu5XdfA2rQpEAvs0BN), [HipHarpCollective](https://open.spotify.com/artist/22qVoqkMA3F9iviFEx4W5e) | [Reflections](https://open.spotify.com/album/7vm57UmS0tpc8zaAV0rSUR) | 7:10 | 2022-09-02 | 2022-11-06 |
 | [Friction](https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:00 | 2021-02-12 |  |
 | [Fuel City](https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 4:52 | 2022-09-30 |  |
 | [Funkdombe \- edit](https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU) | [Hector Bingert](https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Funkdombe \- edit](https://open.spotify.com/album/283Munji1hx8ykXv5sY57R) | 3:50 | 2022-04-08 | 2022-10-04 |
@@ -113,6 +113,7 @@
 | [Seventh String](https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 3:05 | 2022-09-30 |  |
 | [Silk](https://open.spotify.com/track/0iYX1Xf1jihHuZOwW6YEJ1) | [Alexei Orechin](https://open.spotify.com/artist/0hpvhki3LNILjAIhOfcKAc) | [Mirages](https://open.spotify.com/album/6QKhPgKAdOdZ19Ueqy5GMa) | 6:59 | 2021-02-12 | 2022-07-29 |
 | [Silver Lining](https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/5kR7t1B8wTKFKi6kfyKyiv) | 3:42 | 2021-06-04 | 2022-11-02 |
+| [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2021-06-04 |  |
 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 | 2021-02-12 |  |
 | [Some Skunk Funk](https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD) | [The Brecker Brothers](https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l) | [The Brecker Bros](https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ) | 5:50 | 2021-02-12 |  |
 | [Sons of Creation](https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Seven](https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX) | 4:21 | 2021-02-12 |  |

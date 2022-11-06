@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Deize Tigrona e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,943 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,939 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 11 | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/track/67MzL6NnggPqvBfJVzoYwX) | [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Hoje Eu Vou Dar uma Sentadinha](https://open.spotify.com/album/2ERJxD3rl7r66fHJURjCon) | 2:25 |
 | 12 | [Dar Uma Deitchada](https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Dar Uma Deitchada](https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3) | 3:12 |
 | 13 | [Privê](https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Privê](https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO) | 3:06 |
-| 14 | [AINDA](https://open.spotify.com/track/3VNrud6PPcf7y0Eg7PpOZe) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [AINDA](https://open.spotify.com/album/7vNhEXnxTFxeSDbWgLViMC) | 2:08 |
-| 15 | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy) | 3:17 |
+| 14 | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy) | 3:17 |
+| 15 | [AINDA](https://open.spotify.com/track/3VNrud6PPcf7y0Eg7PpOZe) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [AINDA](https://open.spotify.com/album/7vNhEXnxTFxeSDbWgLViMC) | 2:08 |
 | 16 | [Que Tiro Foi Esse](https://open.spotify.com/track/7g9l2KZ1IsxJReWQeMzqX2) | [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [Que Tiro Foi Esse](https://open.spotify.com/album/3G3VEfeCybeGdKbeBkQaGH) | 2:42 |
 | 17 | [Set Ajc](https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Set Ajc](https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh) | 5:43 |
 | 18 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Tocar Você](https://open.spotify.com/track/5VRB711STIp9w5qEDtuotz) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Tocar Você](https://open.spotify.com/album/1j9NHpnPLuqZiJrHCwpuwS) | 4:34 |
 | 50 | [Lapada](https://open.spotify.com/track/4JeA5kNJWxSANl8zA5sLeZ) | [Mc Baby Perigosa](https://open.spotify.com/artist/4cozwOHA4R5HtklxTTV4o6), [Mc Naninha](https://open.spotify.com/artist/2LuUSYYh2XcCrNvqAMzZzy) | [Lapada](https://open.spotify.com/album/00u4bXJOPPOigGBdhzEorC) | 2:14 |
 
-Snapshot ID: `MTY2NzM1ODAwMCwwMDAwMDAwMGQ0NzFlMGEyMzk1YzQwOGRmZDk2ZGZmMjkwNDRiOWFm`
+Snapshot ID: `MTY2NzM1ODAwMCwwMDAwMDAwMGU4NDYyZjMzZWJiN2E0ZWNlNjMzMmE0MmRkNjRhZTA3`

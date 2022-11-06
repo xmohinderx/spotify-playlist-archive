@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites.
 
-279 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
+280 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Message to Myself](https://open.spotify.com/track/1ekPZ9Hap8myGdLqFHcza2) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [A Message to Myself](https://open.spotify.com/album/4mGJ34ZkeoUfHLzyjQ0oN5) | 3:08 | 2019-08-09 | 2019-08-30 |
 | [Aeroplane](https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Xenos](https://open.spotify.com/album/1hCLthnc6Q0zrfJxknU93h) | 3:16 | 2019-06-16\* |  |
 | [Ain't Scared](https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO) | [The Tragic Thrills](https://open.spotify.com/artist/6Xk7kGyfSdpeuvIlMHx8ys) | [Ain't Scared](https://open.spotify.com/album/2YTCtKjAHW0Vefyv3KmGIw) | 4:20 | 2019-06-16\* | 2022-07-29 |
-| [All For You](https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt) | 3:55 | 2019-06-16\* |  |
+| [All For You](https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt) | 3:55 | 2019-06-16\* | 2022-11-06 |
 | [All I Need](https://open.spotify.com/track/6VIU2Lj8k114mUsxtYzZHO) | [Cape Cub](https://open.spotify.com/artist/4xbJS00sHh5wBd5nYgsk8z) | [All I Need](https://open.spotify.com/album/37aLvaAV7WyCbSTjYrufg3) | 3:44 | 2019-06-16\* | 2022-07-29 |
 | [All Over](https://open.spotify.com/track/70V9RSsIt4EoUTVWpbKIFX) | [Shelbi](https://open.spotify.com/artist/78c3wnb5LAQ39y1tdCEsIj) | [All Over](https://open.spotify.com/album/0LVUXkhtlU8y6uYZqrvyH3) | 3:20 | 2020-07-21 | 2022-07-29 |
 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 | 2019-06-16\* |  |
@@ -220,6 +220,7 @@
 | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/track/2Y5v72rZR7ym6LRbh5NilJ) | [Alvarez Kings](https://open.spotify.com/artist/1lGiUJqrkVkPL9auz3Fmcf) | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/album/391n9gKodK0NZ0riyymIzK) | 3:21 | 2019-06-16\* |  |
 | [Smoke](https://open.spotify.com/track/1Ncfo3Q2IT4oc3RG719AIz) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Smoke](https://open.spotify.com/album/6TUWxFFYv4cPkgU9HuYGCJ) | 3:47 | 2019-06-16\* | 2022-07-29 |
 | [Smoke](https://open.spotify.com/track/35WUQVTAFS9mLNynSnRsAR) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Smoke](https://open.spotify.com/album/6B79nTDPvYv9apEMexlJg2) | 3:47 | 2022-09-16 | 2022-10-24 |
+| [Smoke](https://open.spotify.com/track/6rTZiRHLPidlAirSd4yNd8) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Talking in Circles](https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx) | 3:47 | 2022-10-28 |  |
 | [Smoke](https://open.spotify.com/track/7HkD4vJjuVbCyL9dxaGmmd) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Smoke](https://open.spotify.com/album/4QhthLfnfq02ux4FPpcALI) | 3:47 | 2022-04-11 | 2022-09-15 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-15 | 2022-09-17 |
 | [Solemn Oath](https://open.spotify.com/track/3TeXDqGghnzdjkYjr5Ukkk) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Solemn Oath](https://open.spotify.com/album/65F4MYzYqVKre6uyJprwji) | 4:00 | 2019-06-16\* | 2022-04-19 |

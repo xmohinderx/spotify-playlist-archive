@@ -1243,6 +1243,24 @@
     {
       "album": {
         "name": "Caroline",
+        "url": "https://open.spotify.com/album/0hiyVukTWwoABzyyzq03fN"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200337,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/4cTxlJ8GbvlEKJSHBjSmX3"
+    },
+    {
+      "album": {
+        "name": "Caroline",
         "url": "https://open.spotify.com/album/2xOUnwncSmfhcZIdrOMe3p"
       },
       "artists": [
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 200337,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6XsHCb84EyPvLvWFpVqZay"

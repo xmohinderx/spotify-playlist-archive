@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123866,
+  "num_followers": 123871,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDUyNjgwZGVkOGU4NjVmNWZmOGM5NTllNGQ5MWZmZTEz",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGQ3NWZiOWU4ZGE5NTRkOGM0ZGVkNmRmNGE2YmY4YzJl",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Solita",
-        "url": "https://open.spotify.com/album/1SvuC2OLkAJnuNhZNDohIR"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 177726,
-      "name": "Solita",
-      "url": "https://open.spotify.com/track/555ix1gW9A1QtXoVfCPbfB"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Plata Ta T\u00e1",
         "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 255506,
       "name": "Plata Ta T\u00e1",
       "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Solita",
+        "url": "https://open.spotify.com/album/1SvuC2OLkAJnuNhZNDohIR"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 177726,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/555ix1gW9A1QtXoVfCPbfB"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Vol. S\u00fabele",
+        "url": "https://open.spotify.com/album/0zwzY98dQ3cwJKSvnZ8iX6"
+      },
+      "artists": [
+        {
+          "name": "Maria Daniela Y Su Sonido Lasser",
+          "url": "https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4"
+        }
+      ],
+      "duration_ms": 225719,
+      "name": "Soy el Hit",
+      "url": "https://open.spotify.com/track/5eZcNtcQYhCk1drbSvzkrK"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 190642,
       "name": "Man's World (Empress Of Remix) [feat. Pabllo Vittar]",
       "url": "https://open.spotify.com/track/6cLfN8cCTh7x4Mu6DpEtfL"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Vol. S\u00fabele",
-        "url": "https://open.spotify.com/album/0zwzY98dQ3cwJKSvnZ8iX6"
-      },
-      "artists": [
-        {
-          "name": "Maria Daniela Y Su Sonido Lasser",
-          "url": "https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4"
-        }
-      ],
-      "duration_ms": 225719,
-      "name": "Soy el Hit",
-      "url": "https://open.spotify.com/track/5eZcNtcQYhCk1drbSvzkrK"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "D.I.V.A",
-        "url": "https://open.spotify.com/album/3XgtO4AI9o0PAO88WFcDwh"
-      },
-      "artists": [
-        {
-          "name": "La Divaza",
-          "url": "https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "D.I.V.A",
-      "url": "https://open.spotify.com/track/3nvivXDY8cGXwLncIkOCYw"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Contragolpe",
         "url": "https://open.spotify.com/album/09og5AoFa5Qq8Tlny8t0BG"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 167954,
       "name": "Nosotras",
       "url": "https://open.spotify.com/track/4nFDjLt6B26zHLmc1Tz8rn"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "D.I.V.A",
+        "url": "https://open.spotify.com/album/3XgtO4AI9o0PAO88WFcDwh"
+      },
+      "artists": [
+        {
+          "name": "La Divaza",
+          "url": "https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "D.I.V.A",
+      "url": "https://open.spotify.com/track/3nvivXDY8cGXwLncIkOCYw"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Mandinga Times",
-        "url": "https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6"
-      },
-      "artists": [
-        {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
-        }
-      ],
-      "duration_ms": 190209,
-      "name": "Toy en la Calle",
-      "url": "https://open.spotify.com/track/7LWqY2F8ACMsVY0R778xMs"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Brillo",
         "url": "https://open.spotify.com/album/704X09kwq2A7jPVFAZMHF7"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 170375,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/3hPgU45si92VnVuNyFFVFF"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Mandinga Times",
+        "url": "https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6"
+      },
+      "artists": [
+        {
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
+        }
+      ],
+      "duration_ms": 190209,
+      "name": "Toy en la Calle",
+      "url": "https://open.spotify.com/track/7LWqY2F8ACMsVY0R778xMs"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 193340,
-      "name": "Buena Suerte Muchacha",
-      "url": "https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "TODOELORO",
         "url": "https://open.spotify.com/album/0EZYcrne4QFOaWsoJlBICV"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 171500,
       "name": "TODOELORO",
       "url": "https://open.spotify.com/track/1aqCFWZIR1i8AMh5mpUNLY"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 193340,
+      "name": "Buena Suerte Muchacha",
+      "url": "https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2467,6 +2467,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Ruido",
+        "url": "https://open.spotify.com/album/2T5rf0qgV9RnkxdnuKEHhf"
+      },
+      "artists": [
+        {
+          "name": "La Prohibida",
+          "url": "https://open.spotify.com/artist/1sHPujXeed3zTvHlpbqdtl"
+        }
+      ],
+      "duration_ms": 297544,
+      "name": "Ruido",
+      "url": "https://open.spotify.com/track/1MQsLLmZ6tyJ88Fuwjwcx8"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "La Mala Introducci\u00f3n",
         "url": "https://open.spotify.com/album/2rXmqm76mF6qneMLib4xiw"
       },
@@ -2483,22 +2499,6 @@
       "duration_ms": 220800,
       "name": "Llama A Tu Novio",
       "url": "https://open.spotify.com/track/29xiEKkbavb1wM1NTHxmq7"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Ruido",
-        "url": "https://open.spotify.com/album/2T5rf0qgV9RnkxdnuKEHhf"
-      },
-      "artists": [
-        {
-          "name": "La Prohibida",
-          "url": "https://open.spotify.com/artist/1sHPujXeed3zTvHlpbqdtl"
-        }
-      ],
-      "duration_ms": 297544,
-      "name": "Ruido",
-      "url": "https://open.spotify.com/track/1MQsLLmZ6tyJ88Fuwjwcx8"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2555,6 +2555,26 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "P\u00e1jaro Malo",
+        "url": "https://open.spotify.com/album/2xZv0ov3TVEDQMfBxugoo9"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/6iw4g0olqFqUdAGjkxjeAI"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "duration_ms": 154024,
+      "name": "Sink Feel",
+      "url": "https://open.spotify.com/track/2TLfVWcLhWVK4Jl4Dlx113"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Feeling Good (Pauza Remix)",
         "url": "https://open.spotify.com/album/7EOBTLrvjTNFnD5Oil88v1"
       },
@@ -2575,26 +2595,6 @@
       "duration_ms": 326557,
       "name": "Feeling Good - PAUZA Remix",
       "url": "https://open.spotify.com/track/0IRwdJpyUYeBdn3DGJHkF5"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "P\u00e1jaro Malo",
-        "url": "https://open.spotify.com/album/2xZv0ov3TVEDQMfBxugoo9"
-      },
-      "artists": [
-        {
-          "name": "Rubby",
-          "url": "https://open.spotify.com/artist/6iw4g0olqFqUdAGjkxjeAI"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        }
-      ],
-      "duration_ms": 154024,
-      "name": "Sink Feel",
-      "url": "https://open.spotify.com/track/2TLfVWcLhWVK4Jl4Dlx113"
     },
     {
       "added_at": "2022-07-05 19:20:04",

@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 333092,
+  "num_followers": 333144,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMGMwZWQ3YjMzNWU4NDM3NGU5NmQ1OTc1YmQzYzBmMzZl",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDNkYzBkZDBkNGQyZjU2YzM0YTEyZGRhYzg1YzY4MTQ4",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "It Is What It Is (feat. Elise LeGrow)",
         "url": "https://open.spotify.com/album/1d08A5A1LezktJMhoWCqDq"
       },
@@ -319,6 +335,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "White Rabbit (Moxy Club Mix)",
+        "url": "https://open.spotify.com/album/1F3pHJB16ExPcfcLfZpJQZ"
+      },
+      "artists": [
+        {
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        }
+      ],
+      "duration_ms": 164878,
+      "name": "White Rabbit - Moxy Club Mix",
+      "url": "https://open.spotify.com/track/2Zp0oCiV6xQZjLHUzrTJxv"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/6DDIXVjy8q4auRGcDRtFjv"
       },
@@ -335,18 +367,18 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "White Rabbit (Moxy Club Mix)",
-        "url": "https://open.spotify.com/album/1F3pHJB16ExPcfcLfZpJQZ"
+        "name": "Organ",
+        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
       },
       "artists": [
         {
-          "name": "Darius Syrossian",
-          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
         }
       ],
-      "duration_ms": 164878,
-      "name": "White Rabbit - Moxy Club Mix",
-      "url": "https://open.spotify.com/track/2Zp0oCiV6xQZjLHUzrTJxv"
+      "duration_ms": 216774,
+      "name": "Organ (DJ-Kicks) - Edit",
+      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -371,38 +403,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Organ",
-        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Organ (DJ-Kicks) - Edit",
-      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Under The Yellow Arch",
         "url": "https://open.spotify.com/album/6ngoLgezBzURPAgzcyXAZ5"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 201043,
       "name": "Rise",
       "url": "https://open.spotify.com/track/4zSTri8oBAAPhsQsPNfGue"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "50//50",
-        "url": "https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        }
-      ],
-      "duration_ms": 129059,
-      "name": "50//50 - Edit",
-      "url": "https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -451,6 +435,22 @@
       "duration_ms": 141000,
       "name": "My Own Way",
       "url": "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "50//50",
+        "url": "https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 129059,
+      "name": "50//50 - Edit",
+      "url": "https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Voodoo Babe",
-        "url": "https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 249002,
-      "name": "Voodoo Babe",
-      "url": "https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "R\u00f3is\u00edn Machine",
         "url": "https://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 225494,
       "name": "Incapable",
       "url": "https://open.spotify.com/track/02CkWazM7YqypIxYKy3iSy"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Voodoo Babe",
+        "url": "https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 249002,
+      "name": "Voodoo Babe",
+      "url": "https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -883,26 +883,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "You Ain't Love (feat. Teni Tinks)",
-        "url": "https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        },
-        {
-          "name": "Teni Tinks",
-          "url": "https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "You Ain't Love (feat. Teni Tinks)",
-      "url": "https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "It\u2019s Alright",
         "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 210181,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Second Chance (feat. Kimberly Davis)",
+        "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        },
+        {
+          "name": "Kimberly Davis",
+          "url": "https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ"
+        }
+      ],
+      "duration_ms": 204132,
+      "name": "Second Chance (feat. Kimberly Davis)",
+      "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1007,8 +1007,8 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Second Chance (feat. Kimberly Davis)",
-        "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
+        "name": "You Ain't Love (feat. Teni Tinks)",
+        "url": "https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA"
       },
       "artists": [
         {
@@ -1016,13 +1016,13 @@
           "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
         },
         {
-          "name": "Kimberly Davis",
-          "url": "https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ"
+          "name": "Teni Tinks",
+          "url": "https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs"
         }
       ],
-      "duration_ms": 204132,
-      "name": "Second Chance (feat. Kimberly Davis)",
-      "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
+      "duration_ms": 271475,
+      "name": "You Ain't Love (feat. Teni Tinks)",
+      "url": "https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN"
     },
     {
       "added_at": "2022-03-11 16:22:05",

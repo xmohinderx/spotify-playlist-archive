@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 57753,
+  "num_followers": 57819,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY4NzU5NSwwMDAwMDAwMDEyMzhlN2QxNjBmY2FhZjU2ODEzYzEzODZmMjg4Y2Iy",
+  "snapshot_id": "MTY2MDY4NzU5NSwwMDAwMDAwMDkyNTE4NjM3MDk1MjIzZjMwNWMxYmJhMDJmNTY1YzFm",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "DIE.",
-        "url": "https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB"
-      },
-      "artists": [
-        {
-          "name": "Johnny Goth",
-          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "DIE.",
-      "url": "https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Nothing is True & Everything is Possible",
         "url": "https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH"
       },
@@ -791,18 +775,34 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "plague town",
-        "url": "https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6"
+        "name": "DIE.",
+        "url": "https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB"
       },
       "artists": [
         {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
         }
       ],
-      "duration_ms": 165539,
-      "name": "hangar",
-      "url": "https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ"
+      "duration_ms": 170000,
+      "name": "DIE.",
+      "url": "https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "I'd Rather Die",
+        "url": "https://open.spotify.com/album/6ILcBWgSSwWJaD6kBkjvRW"
+      },
+      "artists": [
+        {
+          "name": "TRAMP STAMPS",
+          "url": "https://open.spotify.com/artist/27dC1hPiY4d4MVVFyBSC9W"
+        }
+      ],
+      "duration_ms": 132946,
+      "name": "I'd Rather Die",
+      "url": "https://open.spotify.com/track/5f8v9LU1xMnkYRCRuepklb"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "I'd Rather Die",
-        "url": "https://open.spotify.com/album/6ILcBWgSSwWJaD6kBkjvRW"
+        "name": "plague town",
+        "url": "https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6"
       },
       "artists": [
         {
-          "name": "TRAMP STAMPS",
-          "url": "https://open.spotify.com/artist/27dC1hPiY4d4MVVFyBSC9W"
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
         }
       ],
-      "duration_ms": 132946,
-      "name": "I'd Rather Die",
-      "url": "https://open.spotify.com/track/5f8v9LU1xMnkYRCRuepklb"
+      "duration_ms": 165539,
+      "name": "hangar",
+      "url": "https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ"
     },
     {
       "added_at": "2022-08-16 22:06:35",

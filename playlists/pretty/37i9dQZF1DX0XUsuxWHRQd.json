@@ -1,12 +1,12 @@
 {
   "description": "New music from Drake and 21 Savage.",
-  "num_followers": 14758724,
+  "num_followers": 14762034,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzMzg1OCwwMDAwMDAwMDE5M2E3OGUyMjc5MTgxNWI1NjVmMDJjMWM1OTFlMjVl",
+  "snapshot_id": "MTY2NzY4MTg0NSwwMDAwMDAwMGEyYTM1MmFkNzJjOTJhMzFkOTBkMDFkZDg0ZmFmN2U3",
   "tracks": [
     {
       "added_at": "2022-11-04 03:50:58",
@@ -22,11 +22,15 @@
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 170501,
-      "name": "Major Distribution",
-      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
+      "duration_ms": 242026,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -90,15 +94,11 @@
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Pussy & Millions (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+      "duration_ms": 170501,
+      "name": "Major Distribution",
+      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
     },
     {
       "added_at": "2022-10-21 04:00:00",

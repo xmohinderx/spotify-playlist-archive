@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Las mejores canciones de octubre 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,501,032 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,501,278 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 26 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 |
 | 27 | [La Pelikula \- Remix](https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [La Pelikula \(Remix\)](https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX) | 4:13 |
 | 28 | [Mañana](https://open.spotify.com/track/2OrgdmsWkqPiC4MNDnPHx0) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Mañana](https://open.spotify.com/album/2Tz8MX5wGPqD70sxFkiCbK) | 3:12 |
-| 29 | [Sigo Feliz](https://open.spotify.com/track/3xw2pT79X8xgCzivqeLXnb) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Sigo Feliz](https://open.spotify.com/album/5gaIGETcYdjX2XdBFJRGEZ) | 3:40 |
-| 30 | [Climaxxx](https://open.spotify.com/track/2KGJrjtOxnwfudK2lzVLOn) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Todo Es Mental](https://open.spotify.com/album/0yAA8WlOoYVB08rLOMncnm) | 3:21 |
+| 29 | [Climaxxx](https://open.spotify.com/track/2KGJrjtOxnwfudK2lzVLOn) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Todo Es Mental](https://open.spotify.com/album/0yAA8WlOoYVB08rLOMncnm) | 3:21 |
+| 30 | [Sigo Feliz](https://open.spotify.com/track/3xw2pT79X8xgCzivqeLXnb) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Sigo Feliz](https://open.spotify.com/album/5gaIGETcYdjX2XdBFJRGEZ) | 3:40 |
 | 31 | [Distancia](https://open.spotify.com/track/078SF4DC2Jf6qalzlFIi2J) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Distancia](https://open.spotify.com/album/2gqjUsHgffcCdtkAy44PWE) | 2:43 |
 | 32 | [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Salvaje](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 |
 | 33 | [Nazareno \- Remix](https://open.spotify.com/track/0RE6QKlznWDuPzG5n0MOMS) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Nazareno \(Remix\)](https://open.spotify.com/album/7bkJ3sRXUoazTaz4QDkdUk) | 4:59 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 41 | [MMM](https://open.spotify.com/track/2lv9KJdfFVZN9voT6zwSEj) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [MMM](https://open.spotify.com/album/0G3vkCth2P8SOIytPw1e5P) | 3:31 |
 | 42 | [Personal](https://open.spotify.com/track/2DkZmgOhYX5m4mOgORqIzq) | [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Thyago](https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy) | [Personal](https://open.spotify.com/album/3Q0J5O5iugt4arPomuIIyB) | 3:24 |
 | 43 | [La Botella](https://open.spotify.com/track/31Brw4p0l0BIfIH3R2MtR6) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [De Camino a Palomino, Vol\. 2](https://open.spotify.com/album/5HHEUcChwJwMKrJdsiZyn1) | 4:07 |
-| 44 | [que nos pasó](https://open.spotify.com/track/4ySWl81DqiuN3GFH9UZQAf) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [que nos pasó](https://open.spotify.com/album/0ByNmiSLoHJAvQN3dXZPqM) | 2:50 |
-| 45 | [SLEEPY](https://open.spotify.com/track/438FudqtdyJXYGyCDK88KN) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [SLEEPY](https://open.spotify.com/album/3OxvL7utgOEE91QQg84VEs) | 3:07 |
+| 44 | [SLEEPY](https://open.spotify.com/track/438FudqtdyJXYGyCDK88KN) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [SLEEPY](https://open.spotify.com/album/3OxvL7utgOEE91QQg84VEs) | 3:07 |
+| 45 | [que nos pasó](https://open.spotify.com/track/4ySWl81DqiuN3GFH9UZQAf) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [que nos pasó](https://open.spotify.com/album/0ByNmiSLoHJAvQN3dXZPqM) | 2:50 |
 | 46 | [Juqueando](https://open.spotify.com/track/252ZimoPcGSFYaS6TfjBEG) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Juqueando](https://open.spotify.com/album/59p1PfGyRrCgeHtCuqDxGP) | 3:14 |
 | 47 | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ) | 3:31 |
 | 48 | [Real](https://open.spotify.com/track/6o1lbf1Y5zdZfhhdloOgKZ) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [Real](https://open.spotify.com/album/3Q7g2iBYVBDOghZcNOuVK0) | 3:58 |
 | 49 | [Ella y Yo](https://open.spotify.com/track/1NnfVCcWRT2rVlCS0x44cZ) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:24 |
 | 50 | [Con To'](https://open.spotify.com/track/3mesqg1ztOmGuZIjQcszCX) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Con To'](https://open.spotify.com/album/7lpYfSfvsIkfRZphob0YWr) | 2:44 |
 
-Snapshot ID: `MTY2NjYzNDk3MSwwMDAwMDAwMDNmNzBhNmRmYWZlYmIwNWZhMDc4ZjA3MmRjODVhNGNm`
+Snapshot ID: `MTY2NjYzNDk3MSwwMDAwMDAwMDAyZmI5NTMyNzAxMDg2N2UwNDM0NzhiY2QzNWJiMDQz`

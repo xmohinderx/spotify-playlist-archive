@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Ebony
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,592 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,614 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 22 | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD) | 2:01 |
 | 23 | [Pimenta](https://open.spotify.com/track/12LpEgxl7XLiuvv0PXj1DT) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Pimenta](https://open.spotify.com/album/4uNMPFLGmrvLhMWGgT8fT7) | 2:44 |
 | 24 | [Euro](https://open.spotify.com/track/2wWxjsBUYA4DjzWEPNyiCG) | [Morenna](https://open.spotify.com/artist/562XNv9p1lt4n74KBe0oV1), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Euro](https://open.spotify.com/album/6hrAJ2kTg8D9HlxyLAf29O) | 3:37 |
-| 25 | [T SHIRT \(feat\. Jé Santiago\)](https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ONNiKA](https://open.spotify.com/album/6KTGjKqOhXcHTUKb1EqeLd) | 2:19 |
+| 25 | [Corpo Suado](https://open.spotify.com/track/5K8azpRkjYY9p2OQhpU0dk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq), [O DOBRO](https://open.spotify.com/artist/1tCDW5YntrQPoGAKo52edW) | [Lado B](https://open.spotify.com/album/6Wrug9lSTcq08LQBrFCa7E) | 2:48 |
 | 26 | [Potranca](https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:36 |
 | 27 | [Ashley Banks](https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Ashley Banks](https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY) | 3:28 |
 | 28 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 |
 | 29 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
-| 30 | [Corpo Suado](https://open.spotify.com/track/5K8azpRkjYY9p2OQhpU0dk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq), [O DOBRO](https://open.spotify.com/artist/1tCDW5YntrQPoGAKo52edW) | [Lado B](https://open.spotify.com/album/6Wrug9lSTcq08LQBrFCa7E) | 2:48 |
+| 30 | [T SHIRT \(feat\. Jé Santiago\)](https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ONNiKA](https://open.spotify.com/album/6KTGjKqOhXcHTUKb1EqeLd) | 2:19 |
 | 31 | [Malvadeza](https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvadeza](https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy) | 2:00 |
 | 32 | [Se Envolver](https://open.spotify.com/track/5Mu7uE5PxXJsGLOpjMUjYJ) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [VV Clã](https://open.spotify.com/artist/2ekFq5fQY5a5UX7mEu17s1), [Ene Jhow](https://open.spotify.com/artist/6cRMSFgsQR4EobqdJpBkmR) | [Black Queen Vol\. 1](https://open.spotify.com/album/5xcl6VWdjYK4OGaPNCFFP1) | 2:46 |
 | 33 | [Só Você Pelada](https://open.spotify.com/track/1SLmJ8RDHertaYpp2i4OYt) | [Alinega](https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6), [Brisa Flow](https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO) | [Feita para Ser Amada](https://open.spotify.com/album/2LqqEDyWEE79mLy2LSJbAb) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Piranha que tu ama](https://open.spotify.com/track/27mhyMrwmrL8Lg1JW020tN) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1), [Sevenbeatss](https://open.spotify.com/artist/2AGE5qgJXFkjBc8uEG67iu) | [Piranha que tu ama](https://open.spotify.com/album/76vv8DefzU75LlL0Jym40w) | 2:43 |
 | 50 | [A Cara do Enquadro](https://open.spotify.com/track/1m519cv6g3gPO5JYuYV3al) | [Bia e Bella](https://open.spotify.com/artist/31Ji2zYJgTY2bgyUgxl2wW), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA) | [A Cara do Enquadro](https://open.spotify.com/album/6NlI7bsdFuGsVVYmmWwoCk) | 2:46 |
 
-Snapshot ID: `MTY2NzU3Njg3OCwwMDAwMDAwMGNlNmFmZTY3YjZiMjJkMmVjZjMzMGE2MDc5MDc5OGVj`
+Snapshot ID: `MTY2NzU3Njg3OCwwMDAwMDAwMDlhZjZhZGFjMjgzMDBmMTQyNTZjMWEyZTBhYmZjZGM1`

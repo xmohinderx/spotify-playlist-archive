@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 
 > The best Piano House tracks out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,686 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,720 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 4 | [Pjanoo \- Radio Edit](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 2:37 |
 | 5 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 |
 | 6 | [Switch It](https://open.spotify.com/track/2wOPoAiNCFiIWBKpUxyUUL) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Switch It](https://open.spotify.com/album/6CVpSsEWucJQ0bG9R9Px6f) | 3:18 |
-| 7 | [17](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [17](https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5) | 3:16 |
-| 8 | [Mad Love \- Blinkie Remix](https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [Mad Love \(Remixes\)](https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW) | 3:20 |
+| 7 | [Mad Love \- Blinkie Remix](https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [Mad Love \(Remixes\)](https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW) | 3:20 |
+| 8 | [17](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [17](https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5) | 3:16 |
 | 9 | [Mirrors \(feat\. Stee Downes\)](https://open.spotify.com/track/3PmclnSYRASSXiZrLLfnYy) | [System.Inc](https://open.spotify.com/artist/5CfCAv52QCxLv9bdlGIyUD), [Stee Downes](https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ) | [Mirrors \(feat\. Stee Downes\)](https://open.spotify.com/album/138sW0b2HrKKwMG0QVyg8j) | 3:08 |
 | 10 | [Stop This Flame \- Celeste x MK](https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Stop This Flame \(Celeste x MK\)](https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK) | 3:23 |
 | 11 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 28 | [One Night \(feat\. Raphaella\)](https://open.spotify.com/track/4QUA94c3ycZm8dnpPih4sf) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [One Night \(feat\. Raphaella\)](https://open.spotify.com/album/7yA2y59fjfh7VaIuwg3sfZ) | 2:41 |
 | 29 | [Real Life](https://open.spotify.com/track/6jz9EMWHffNKVlZQVXOLoz) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Real Life](https://open.spotify.com/album/55pLHOPxFKEi82Z15IeHxq) | 3:25 |
 | 30 | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR) | 2:49 |
-| 31 | [There For You](https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [There For You](https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK) | 3:06 |
-| 32 | [Make Luv](https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Make Luv](https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy) | 2:48 |
+| 31 | [Make Luv](https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Make Luv](https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy) | 2:48 |
+| 32 | [There For You](https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [There For You](https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK) | 3:06 |
 | 33 | [HEAT](https://open.spotify.com/track/4x0yfBUpGWpovUxJqj20p0) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [HEAT](https://open.spotify.com/album/3K2K785SdN3wozTA3krazb) | 3:07 |
 | 34 | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/5FDdviWQzhw7NWH2TiDl9d) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/17qrrXvZu8TdkH4xrIjaRr) | 2:49 |
 | 35 | [I Feel It](https://open.spotify.com/track/5FzuDFYmUFcvjraadJXv28) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [I Feel It](https://open.spotify.com/album/45DCBEkvzjYfjpZNaphhg3) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 49 | [Always](https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4) | [Waze & Odyssey](https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Tommy Theo](https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B) | [Always](https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu) | 3:06 |
 | 50 | [Don't Stop Movin' \- Radio Mix](https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu), [A\. Manetta](https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:35 |
 
-Snapshot ID: `MTYzODcyNjkyNiwwMDAwMDAwMGZjYjRiOGM1MDBmZjk5OGFlMDAxMTM5MTFlYWNkYjA4`
+Snapshot ID: `MTYzODcyNjkyNiwwMDAwMDAwMDcyZGFhMTE4ODc2NGI1NmRkZmM2NTQyMzAyNWQ2Y2E1`

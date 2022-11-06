@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,985 likes - 229 songs - 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,986 likes - 229 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 67 | [Dream On Me](https://open.spotify.com/track/6vHE5zEPYdb0HUKRaIQ6tI) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Dream On Me](https://open.spotify.com/album/6YR3EVz9Cd981Vss9jl3AN) | 3:02 |
 | 68 | [Feelings \(Wifey\) \[feat\. Yungen\]](https://open.spotify.com/track/5CuMr1KC8oMHIBbyduLqI5) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Feelings \(Wifey\) \[feat\. Yungen\]](https://open.spotify.com/album/3cTOYq7PwnToTmevhPJ67K) | 2:48 |
 | 69 | [Who You Are](https://open.spotify.com/track/52qHwayfvn9tOjQN0bbCLc) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [22 \(Deluxe\)](https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd) | 3:25 |
-| 70 | [My Love 4 U \(feat\. A\*M\*E\)](https://open.spotify.com/track/0na0lYafx97flwjhS0dNIR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [My Love 4 U \(feat\. A\*M\*E\)](https://open.spotify.com/album/1LbJj3VpL4nL4xOjX4aCdb) | 3:06 |
-| 71 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 |
+| 70 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 |
+| 71 | [My Love 4 U \(feat\. A\*M\*E\)](https://open.spotify.com/track/0na0lYafx97flwjhS0dNIR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [My Love 4 U \(feat\. A\*M\*E\)](https://open.spotify.com/album/1LbJj3VpL4nL4xOjX4aCdb) | 3:06 |
 | 72 | [More Than Words \(feat\. MNEK\)](https://open.spotify.com/track/36h65e9IteCo7PPvkBZUyl) | [Sleepwalkrs](https://open.spotify.com/artist/6yVrZt8f3TB1NXP5fIT193), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [More Than Words \(feat\. MNEK\)](https://open.spotify.com/album/3Yv1WJDoIjO4zI1y3Ypr92) | 2:47 |
 | 73 | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/track/2iBm8zv7d3qUKphL0FgVog) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr) | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/album/28yED9i2j4hJHx4NPlRSXP) | 3:07 |
 | 74 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 195 | [THE SECOND I'M RICH](https://open.spotify.com/track/1PXp44geCGN7CAYx2Wvgv9) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [22 MINUTES LATER](https://open.spotify.com/album/6XKzZUj9aeS1YygwyVVrG7) | 3:31 |
 | 196 | [18](https://open.spotify.com/track/2QbbUFIQwpTutcyGaMwcPt) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [18](https://open.spotify.com/album/7yKSrXrzR1AyTYJv74zAsk) | 3:28 |
 | 197 | [Obsessive](https://open.spotify.com/track/2yAMjZcxepb11bPIuEJIBq) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Suburb Superhero: The Villain Within](https://open.spotify.com/album/4rRbuLIqkwT2gAMfhKuXNq) | 3:04 |
-| 198 | [I Heard Love](https://open.spotify.com/track/1ZKbC4vkxqFEsWCqKCcJ6y) | [IV Rox](https://open.spotify.com/artist/6r1dwRRUw0Kta4L2r9jE1g), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [I Heard Love](https://open.spotify.com/album/3bfp1AZpIfWWw1cmkbB67h) | 2:42 |
-| 199 | [Rather Be Single](https://open.spotify.com/track/1xVYqzftGrWQ0QcC1SYaaq) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Rather Be Single](https://open.spotify.com/album/3l2UEtcC6gVB8fexmte74D) | 2:51 |
+| 198 | [Rather Be Single](https://open.spotify.com/track/1xVYqzftGrWQ0QcC1SYaaq) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Rather Be Single](https://open.spotify.com/album/3l2UEtcC6gVB8fexmte74D) | 2:51 |
+| 199 | [I Heard Love](https://open.spotify.com/track/1ZKbC4vkxqFEsWCqKCcJ6y) | [IV Rox](https://open.spotify.com/artist/6r1dwRRUw0Kta4L2r9jE1g), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [I Heard Love](https://open.spotify.com/album/3bfp1AZpIfWWw1cmkbB67h) | 2:42 |
 | 200 | [Stay Up Late](https://open.spotify.com/track/6HwcP5hOF6tEshbe7TK1v7) | [Monsieur Adi](https://open.spotify.com/artist/4KF0B66rZU4yV2hruz7YN4), [Red](https://open.spotify.com/artist/0c40kUZxVfkOXQe2mGaSY4) | [Stay Up Late](https://open.spotify.com/album/1eyjlAkoMsxOWfetHbNgyD) | 3:38 |
 | 201 | [High](https://open.spotify.com/track/65rSUZKkb2OnQOJhTmq9Qs) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho), [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi) | [High](https://open.spotify.com/album/2fUlrZ4s1trBJmugEvpz1u) | 3:45 |
 | 202 | [Skin Deep](https://open.spotify.com/track/0GxWui7IvDrzcbdI4HqYb3) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 4:13 |
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 228 | [Be \- Interlude](https://open.spotify.com/track/0dnBbRsly9KvuxI8x6FJqT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:17 |
 | 229 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 
-Snapshot ID: `Mjc3OTM1MDUsMDAwMDAwMDAyMzliMWQwOTk3OTg5NWRhNmZlYTE4MWI1NTE1YTU0Yg==`
+Snapshot ID: `Mjc3OTQ5NDUsMDAwMDAwMDA1OGIyNDQ1OGZlODEzMGVhODkyMzU5OGE3NDRlZGVkZA==`

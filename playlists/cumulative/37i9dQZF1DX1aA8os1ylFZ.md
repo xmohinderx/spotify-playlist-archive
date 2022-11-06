@@ -4,7 +4,7 @@
 
 > Me and bae = love
 
-162 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
+163 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Why We Love](https://open.spotify.com/track/6hYPE8tc5yc6Vd9yR3cVH1) | [Raffie](https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh) | [Why We Love](https://open.spotify.com/album/3CXMLXwgCKKpF9GV8dqqvf) | 3:09 | 2021-12-16 |  |
 | [wish you were here](https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/30ssp982Ym9GCQstBVvEve) | 3:22 | 2021-12-16 | 2022-11-03 |
 | [wish you were here](https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ) | 3:22 | 2022-10-27 |  |
-| [With You](https://open.spotify.com/track/0WalbrXul6HzHOwp2grdRp) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Satellites](https://open.spotify.com/album/4mMaqnpAO3WPwBhT4DIRS1) | 3:44 | 2022-07-22 |  |
+| [With You](https://open.spotify.com/track/0WalbrXul6HzHOwp2grdRp) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Satellites](https://open.spotify.com/album/4mMaqnpAO3WPwBhT4DIRS1) | 3:44 | 2022-07-22 | 2022-11-06 |
+| [With You](https://open.spotify.com/track/5rIG2y6JHX8Xxy023ZiEml) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Satellites](https://open.spotify.com/album/0bX49paIIrFiHe3ajPKWk0) | 3:44 | 2022-10-27 |  |
 | [With You](https://open.spotify.com/track/7F4tdzXomvS7biLOJojIjs) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Satellites](https://open.spotify.com/album/0MXooTq2cGzeGgbg0WDLFm) | 3:44 | 2021-12-16 | 2022-07-29 |
 | [With You](https://open.spotify.com/track/0Ew7NkseJTFtiFselBmFg1) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [With You](https://open.spotify.com/album/4y8kGaY6DtdPQ6xWVbzKh4) | 3:39 | 2021-12-16 |  |
 | [YOU got what i need](https://open.spotify.com/track/12rGDE4wphOzVLLeWzBWJr) | [The Cool Quest](https://open.spotify.com/artist/7eW7XlHPEaGBY5JION7Vw9) | [YOU got what i need](https://open.spotify.com/album/6O8CA5GZVKn3WopaOmKXEm) | 3:02 | 2021-12-16 | 2022-03-25 |

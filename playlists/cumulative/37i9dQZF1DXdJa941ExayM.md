@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: WHOKILLEDXIX
 
-172 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
+173 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [FAMOUS ON THE INTERNET](https://open.spotify.com/track/2Bv5kb0dgXjWMu0kujn0TD) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [FAMOUS ON THE INTERNET](https://open.spotify.com/album/4SKKceJCjDXlUx8NG3UHHG) | 2:54 | 2022-08-05 |  |
 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 | 2021-12-20 | 2022-08-06 |
 | [Finger My Heart](https://open.spotify.com/track/4P2dzCa69sLHk1QmlAVayX) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Finger My Heart](https://open.spotify.com/album/0S7mEp3sUtWTU4GXIcrDQt) | 3:13 | 2022-06-15 |  |
-| [Flux](https://open.spotify.com/track/59yzTH5FEyyaDXs5Qo5aq7) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/1q959WGOu0ZDfrJnnWRNgD) | 5:00 | 2021-12-20 |  |
+| [Flux](https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 5:00 | 2022-09-29 |  |
+| [Flux](https://open.spotify.com/track/59yzTH5FEyyaDXs5Qo5aq7) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/1q959WGOu0ZDfrJnnWRNgD) | 5:00 | 2021-12-20 | 2022-11-06 |
 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 | 2022-08-05 |  |
 | [G.A.F.F\. \- Edit](https://open.spotify.com/track/0XKak5xVKPYWe6iUP0I8vj) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [G.A.F.F.](https://open.spotify.com/album/0LBGanhBP3hehp5Gy1gF9l) | 4:32 | 2021-12-20 | 2022-02-16 |
 | [Gang](https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Gang](https://open.spotify.com/album/5fCav9SPGNUqATcT0xyA1g) | 3:00 | 2022-09-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 53683,
+  "num_followers": 53766,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMGM2ZGFkZmNlYjU0MzFhOTY4ZmIxNDNkMDMxYzU0Mjk2",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDM4YjY5NWZhZGMxMDU0NDk0OThmZmM0NDcyODBlOTFm",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Lonesome Dreams",
-        "url": "https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "(III)",
         "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 192000,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Lonesome Dreams",
+        "url": "https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 356946,
-      "name": "Apocalypse Dreams",
-      "url": "https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Master of My Make-Believe",
         "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 284400,
       "name": "Disparate Youth",
       "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 356946,
+      "name": "Apocalypse Dreams",
+      "url": "https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Mondo",
-        "url": "https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al"
-      },
-      "artists": [
-        {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "This Head I Hold",
-      "url": "https://open.spotify.com/track/1tzPSule9WZ9B8SujHv8fp"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Born To Die \u2013 Paradise Edition (Special Version)",
         "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 209440,
       "name": "Blue Jeans - Remastered 2011",
       "url": "https://open.spotify.com/track/77XvocHaWXkG39G4qag6BG"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Mondo",
+        "url": "https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "This Head I Hold",
+      "url": "https://open.spotify.com/track/1tzPSule9WZ9B8SujHv8fp"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW"
-      },
-      "artists": [
-        {
-          "name": "Youngblood Hawke",
-          "url": "https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "We Come Running",
-      "url": "https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Allah-Las",
         "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 212986,
       "name": "Catamaran",
       "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW"
+      },
+      "artists": [
+        {
+          "name": "Youngblood Hawke",
+          "url": "https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "We Come Running",
+      "url": "https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Delta Spirit",
-        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
-      },
-      "artists": [
-        {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "California",
-      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Colour Of The Trap",
         "url": "https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 209106,
       "name": "Rearrange",
       "url": "https://open.spotify.com/track/6f4V3llGPLYgv49ro7vXSE"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Delta Spirit",
+        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
+      },
+      "artists": [
+        {
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Fear Fun",
-        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+        "name": "Beacon",
+        "url": "https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 219259,
-      "name": "Funtimes in Babylon",
-      "url": "https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU"
+      "duration_ms": 236440,
+      "name": "Sleep Alone",
+      "url": "https://open.spotify.com/track/5nZTvs242o6FWluCfmZZAM"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 219259,
+      "name": "Funtimes in Babylon",
+      "url": "https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Royal",
         "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 204226,
       "name": "Gimme Twice",
       "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Beacon",
-        "url": "https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Sleep Alone",
-      "url": "https://open.spotify.com/track/5nZTvs242o6FWluCfmZZAM"
     },
     {
       "added_at": "2022-05-19 08:11:23",

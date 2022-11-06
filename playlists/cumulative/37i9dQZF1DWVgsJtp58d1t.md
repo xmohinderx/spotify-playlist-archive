@@ -4,7 +4,7 @@
 
 > New music from Drake, 21 Savage, NLE Choppa, Masego, Rican Da Menace, Mickey Guyton, and many more.
 
-1,246 songs - 2 day 13 hr 52 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
+1,246 songs - 2 day 13 hr 53 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 | 2022-07-22 | 2022-08-13 |
 | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/track/1OdXwV1ZqMDuMKsPThVfSB) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/album/55lsB4N2SNet2krI1SBXht) | 3:37 | 2022-08-26 | 2022-09-24 |
 | [Bikini Bottom](https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl) | 1:46 | 2022-10-28 |  |
-| [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/6GDDxhe281I5aNSgCYphex) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 | 2022-11-04 |  |
+| [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 | 2022-11-04 |  |
 | [Bitch I'm Nice](https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bitch I'm Nice](https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg) | 1:27 | 2022-07-09 | 2022-08-06 |
 | [Bittersweet](https://open.spotify.com/track/6YIXb5R1nJ6DbSucyvAXYg) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Bittersweet](https://open.spotify.com/album/3YPSBfBdzyeOoQU72r1RH8) | 3:20 | 2022-04-08 | 2022-04-29 |
 | [Bittersweet Goodbyes](https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 3:07 | 2022-10-07 | 2022-10-22 |
@@ -930,7 +930,7 @@
 | [SABABISHA](https://open.spotify.com/track/0CEI8Si1kO0UwxhFSCSiBZ) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 4:00 | 2022-02-25 | 2022-03-26 |
 | [Sad Song \(with Spinabenz\)](https://open.spotify.com/track/4aPRR0I9gIDJGJxlez3WE0) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Rae Rae's Son](https://open.spotify.com/album/5GptyXvoJ2Zg260GOvmsJy) | 3:15 | 2022-05-20 | 2022-06-11 |
 | [Sade](https://open.spotify.com/track/611Rq9CpEz7eB06CxPmCfq) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Sade](https://open.spotify.com/album/2oAmZjh4LQwtbCVOrimmVt) | 2:13 | 2022-09-16 | 2022-10-08 |
-| [Safe](https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Private Suite 4: The Mixtape](https://open.spotify.com/album/3pizVvi3ZP6mzletymu6WS) | 2:37 | 2022-11-04 |  |
+| [Safe](https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Private Suite 4: The Mixtape](https://open.spotify.com/album/3pizVvi3ZP6mzletymu6WS) | 3:40 | 2022-11-04 |  |
 | [Safehouse \(Remix\)](https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Safehouse \(Remix\)](https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE) | 3:02 | 2022-09-23 | 2022-10-15 |
 | [Sailor Moon \- 2.0](https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Sailor Moon \(2.0\)](https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz) | 3:17 | 2022-09-09 | 2022-10-01 |
 | [Same Ole](https://open.spotify.com/track/1I5jWUS5ItnNE7eBV2HuPl) | [Kelechief](https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR) | [Same Ole Different](https://open.spotify.com/album/0LkYoTX91lInW8Gu6EYm7r) | 3:21 | 2022-09-09 | 2022-10-01 |

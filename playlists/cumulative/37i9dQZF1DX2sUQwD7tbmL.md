@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-487 songs - 1 day 3 hr 45 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+488 songs - 1 day 3 hr 47 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 | 2022-04-13 |  |
 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2022-04-13 |  |
 | [Gloom](https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Gloom](https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz) | 2:00 | 2022-07-29 | 2022-10-14 |
+| [Gloom](https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:00 | 2022-10-14 |  |
 | [Go Wild](https://open.spotify.com/track/0H39cYgfekuFluOgGPUicR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8) | 3:17 | 2021-05-01 | 2022-04-14 |
 | [Going up the Coast](https://open.spotify.com/track/2bTvNKT8bxyyPhzHu4A2Wx) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Going up the Coast](https://open.spotify.com/album/229OwGf2JaBsr2DFw9ixjy) | 2:54 | 2021-05-01 | 2022-04-20 |
 | [Gold Rush](https://open.spotify.com/track/4QcqzYDzMFvDSf6pyjOzET) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [Gold Rush](https://open.spotify.com/album/2bdAXLoO6ESOHzA8O0pFZL) | 2:35 | 2021-05-01 | 2022-04-14 |
@@ -278,7 +279,7 @@
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-05-01 | 2022-07-29 |
 | [Marinade](https://open.spotify.com/track/2N60TAtXaCbmi7zqdUoW61) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/3diCjjzTaCODKwH1OOmrWf) | 3:57 | 2021-05-01 | 2022-04-14 |
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2021-05-26 |  |
-| [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 | 2022-06-08 | 2022-11-02 |
+| [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 | 2022-06-08 |  |
 | [Mary](https://open.spotify.com/track/5T0Ib1Hjhsua7qbGTczU7j) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 3:17 | 2022-04-13 | 2022-07-30 |
 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 | 2022-08-08 |  |
 | [Mexican Holiday](https://open.spotify.com/track/6E8XDoU8B9MbYbcAQ2IUBl) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Mexican Holiday](https://open.spotify.com/album/7LMpGPGgeAsK7aO4AgmEah) | 3:22 | 2021-05-01 | 2022-04-13 |
@@ -339,7 +340,7 @@
 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 | 2022-07-22 |  |
 | [Peach Pit](https://open.spotify.com/track/4W8iitrK5csxU1kqBeT5Js) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/3Ab4CfKIqTQdJPCrz6U0Ka) | 4:47 | 2022-04-13 | 2022-06-21 |
 | [Personal Lies](https://open.spotify.com/track/3BjQX42wrf1Ie1AopSnUGV) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:59 | 2021-05-01 | 2022-10-13 |
-| [Pictures of Girls](https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:24 | 2022-10-07 |  |
+| [Pictures of Girls](https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:24 | 2022-10-07 | 2022-11-06 |
 | [Pity Party](https://open.spotify.com/track/755ZtEcRE6wHKnqWMsDzWK) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Pity Party](https://open.spotify.com/album/69Ezb3xqAZREwiNLdm1JFq) | 1:31 | 2022-04-13 | 2022-04-20 |
 | [Poor Boy \(Radio Edit\)](https://open.spotify.com/track/5Z6DxJNKw4jUiSDy95A0fp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Poor Boy \(Radio Edit\)](https://open.spotify.com/album/0QtXSzonmfOkR6jWtle4T5) | 3:25 | 2021-05-01 | 2022-04-14 |
 | [Poor Grammar](https://open.spotify.com/track/1Tdcb66Gwr5sczO5CJhmPc) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I'm Not Here to Make Friends](https://open.spotify.com/album/3DjTiR2VRYtZgPeK660iO8) | 2:36 | 2022-04-14 | 2022-10-08 |
@@ -393,7 +394,7 @@
 | [Something](https://open.spotify.com/track/5etvVR36xgYO9VawprrrkI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Something](https://open.spotify.com/album/7qFX9i911Rrls92EdkJcKL) | 1:54 | 2021-05-01 | 2022-07-29 |
 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 | 2022-04-13 | 2022-04-21 |
 | [Something to Lose](https://open.spotify.com/track/3ymNP4eOqyE6Ci7depianP) | [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF) | [Something to Lose](https://open.spotify.com/album/5x9hoO80ZMOmWkvL76IpSm) | 3:42 | 2021-05-01 | 2022-04-13 |
-| [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 | 2021-05-01 |  |
+| [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 | 2021-05-01 | 2022-11-06 |
 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 | 2021-05-01 | 2022-07-29 |
 | [Spiders](https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Spiders](https://open.spotify.com/album/2GJEykJCMASS4ffX4ObWuJ) | 3:18 | 2021-05-01 | 2022-07-29 |
 | [Sports](https://open.spotify.com/track/77G0k1La0c5Dw8bAFANcyp) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/4AJbHyDx1Fu8mYxlcj6K8F) | 2:44 | 2022-07-22 |  |

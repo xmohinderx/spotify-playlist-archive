@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 
 > This is Pennywise\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,744 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,759 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 49 | [Keep Moving On](https://open.spotify.com/track/6G49UJ2IFAgMQemGNZW2lL) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:31 |
 | 50 | [Waste Another Day](https://open.spotify.com/track/3AHfywvWVPevgC7mrB43g1) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 2:22 |
 
-Snapshot ID: `Mjc3OTM0MTUsMDAwMDAwMDBiZjdlMGNhMTNlMGJlM2NlNjJhMzJlYTkzMzk4NTRjMA==`
+Snapshot ID: `Mjc3OTQ0MzYsMDAwMDAwMDA4ZWE4MjNmMWNiMDBiYjllNzRlYTA5ZTRmN2ZlMjE1MA==`

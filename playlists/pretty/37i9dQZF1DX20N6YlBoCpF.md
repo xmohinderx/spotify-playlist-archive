@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek Cover: <a href="https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw?si=5GyYCl9TR1inmSlWVghwgw">Samantha Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,809 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,240 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 3 | [Foto's](https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Foto's](https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU) | 3:14 |
 | 4 | [Sweef](https://open.spotify.com/track/5OdKyaUItAU0bJZbeopN8d) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic) | [Sweef](https://open.spotify.com/album/6HXf7BiE38LR73n1f8QDMk) | 2:52 |
 | 5 | [Wie's Jou Kat?](https://open.spotify.com/track/1cpPxUeohprGjsQInKBggX) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Wie's Jou Kat?](https://open.spotify.com/album/1eQFe82cj7zrCeh3R0XizG) | 3:25 |
-| 6 | [Hartklop REMIX](https://open.spotify.com/track/29GFGVkl82QZXJHjdcDwGZ) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [Shokbasse](https://open.spotify.com/artist/6mS4VeH3GNYWMRO4RGJJky) | [Hartklop REMIX](https://open.spotify.com/album/1QiiEeFLAM14do17g5PTpA) | 2:35 |
+| 6 | [Hartklop REMIX](https://open.spotify.com/track/29GFGVkl82QZXJHjdcDwGZ) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Hartklop REMIX](https://open.spotify.com/album/1QiiEeFLAM14do17g5PTpA) | 2:35 |
 | 7 | [As die Plaas Byt](https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK) | [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [As die Plaas Byt](https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z) | 3:33 |
 | 8 | [Wanneer Laas](https://open.spotify.com/track/1oLfVuGQBnWcoBZWD2Xe8W) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Wanneer Laas](https://open.spotify.com/album/5rF1zihcBSMixLjYiOChxL) | 2:42 |
 | 9 | [Plaaslewe](https://open.spotify.com/track/45dV2UvbpsG4pvWqzNLHOL) | [Anlia Star](https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm) | [Plaaslewe](https://open.spotify.com/album/6TO27C8sqynfu2ymExD6Kf) | 3:03 |

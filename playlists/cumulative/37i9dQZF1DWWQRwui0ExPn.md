@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-4,192 songs - 6 day 15 hr 44 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+4,194 songs - 6 day 15 hr 48 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1854,7 +1854,8 @@
 | [Jatoba](https://open.spotify.com/track/23YwIqf1aZd62i9Cr1PwT9) | [MagFi](https://open.spotify.com/artist/7cP4a4wJ4c2u9zTEi7g8xs), [David Armann](https://open.spotify.com/artist/3SICpa7mqqcHvQZDLxhSYV) | [Jatoba](https://open.spotify.com/album/3wH2JMVBtpzG6PQFSabex0) | 2:40 | 2022-05-27 | 2022-09-23 |
 | [Jaunt](https://open.spotify.com/track/4GKfKfhNYRCIqnhAzUII4q) | [Lizlov](https://open.spotify.com/artist/4Pw2vYKFHNUEacLKc6K4Fy) | [Coziness](https://open.spotify.com/album/6F8iQfdAzMB06WwGu8AYzy) | 2:06 | 2021-12-17 | 2022-07-01 |
 | [Jazz](https://open.spotify.com/track/3LkmrB45KwmI3pgBNv5qKX) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD), [Retrogott](https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll) | [One For: Two](https://open.spotify.com/album/1mrm4vTTNxy0c2caYq54NP) | 2:28 | 2022-07-29 |  |
-| [Jazz Cafe](https://open.spotify.com/track/4hTEdSxohydCBMSFHEqEHN) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Jazz Cafe](https://open.spotify.com/album/4FyZ7JEoVLDiVykMUKnTAc) | 1:51 | 2022-09-02 |  |
+| [Jazz Cafe](https://open.spotify.com/track/2adHWVld1fu2TkXm6ueTnH) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Jazz Cafe](https://open.spotify.com/album/4Yo9jdV2Mk0YSo93TEOZsZ) | 1:51 | 2022-10-28 |  |
+| [Jazz Cafe](https://open.spotify.com/track/4hTEdSxohydCBMSFHEqEHN) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Jazz Cafe](https://open.spotify.com/album/4FyZ7JEoVLDiVykMUKnTAc) | 1:51 | 2022-09-02 | 2022-11-06 |
 | [Jazz Hands](https://open.spotify.com/track/5q2atGfcFptWfDwoHk7IYI) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Low Cap Records](https://open.spotify.com/artist/2JE8UJ1kM38Jut3VGRhyEw) | [Jazz Hands](https://open.spotify.com/album/7zW0HkTUxyMojrd5x4LdAj) | 1:38 | 2022-10-14 |  |
 | [Jazz Heat](https://open.spotify.com/track/6ook1AIRMvfcqHpn74xgxs) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Jazz Heat](https://open.spotify.com/album/7uHy3Dtd5gLSatgoJqJbN9) | 1:36 | 2022-07-08 | 2022-10-14 |
 | [Jazz Notes](https://open.spotify.com/track/53r5ab959W328twV4P5p9v) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [OG Nuage](https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd) | [Jazz Notes](https://open.spotify.com/album/08I5CwGgfg1AlXgTz19mkd) | 2:29 | 2022-06-03 | 2022-09-23 |
@@ -2255,7 +2256,8 @@
 | [Marine Layer](https://open.spotify.com/track/3hLpmctBpLCnbEsTyWsDeT) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr) | [Marine Layer](https://open.spotify.com/album/6S8vCWhbLpeSfhIFRxq0RG) | 2:14 | 2021-07-11 | 2022-03-08 |
 | [Marmots Dance](https://open.spotify.com/track/7f0yp8R3c26SxsnUftN1iG) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Chillhop Essentials Spring 2019](https://open.spotify.com/album/0FBkB6e7deadNGBxQCpQc0) | 2:24 | 2019-05-27 | 2020-06-12 |
 | [Marrakech](https://open.spotify.com/track/4YLbQGnk6iIgelpUIwbmxm) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Beat Tape 1](https://open.spotify.com/album/2FVfODkF1inBzSwB2plsYk) | 2:08 | 2019-12-30 | 2020-01-17 |
-| [Mars](https://open.spotify.com/track/42eIHDLRVcNhjrm0U9ANWO) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Mars](https://open.spotify.com/album/0V76WBX6CoF0c7XI12XVJM) | 2:03 | 2022-09-16 |  |
+| [Mars](https://open.spotify.com/track/1dFpdcIkB9bus13OUZth5h) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Mars](https://open.spotify.com/album/3iIBGks9996ctmagpzCFoR) | 2:03 | 2022-10-28 |  |
+| [Mars](https://open.spotify.com/track/42eIHDLRVcNhjrm0U9ANWO) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Mars](https://open.spotify.com/album/0V76WBX6CoF0c7XI12XVJM) | 2:03 | 2022-09-16 | 2022-11-06 |
 | [marseille](https://open.spotify.com/track/2VsK4AJRb1Fnsx1Zk3w7NM) | [connor](https://open.spotify.com/artist/10TEwmyEErv40xMg2QDCCQ) | [france](https://open.spotify.com/album/0da5EsgLJLNZ6NaRdunoDI) | 1:30 | 2021-02-14 | 2022-01-14 |
 | [Marseilles](https://open.spotify.com/track/73A8iMUJT1zWv2UKLek1NX) | [French Connection](https://open.spotify.com/artist/65psUobejSe9ZkjPgtCtZW) | [Marseilles](https://open.spotify.com/album/7wnGFOJcyyMdb3WIYKHM6w) | 2:03 | 2020-10-16 | 2021-10-20 |
 | [martians](https://open.spotify.com/track/72hEB8TdTaOPEEBMoZYTLI) | [MVCO](https://open.spotify.com/artist/3yzpAIlHPXZ2ieFL1J8Ozj), [Mareaux](https://open.spotify.com/artist/4VFYWiP5DA651ekOhEiO54) | [coffee & chill](https://open.spotify.com/album/3AoPPDsCbbXyEszzJIWCq5) | 2:55 | 2022-06-10 | 2022-06-17 |

@@ -4,7 +4,7 @@
 
 > Indie tunes for t\-shirt weather.
 
-293 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
+295 songs - 16 hr 49 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 | 2022-08-25 |  |
 | [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 | 2022-05-06 | 2022-10-13 |
 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 | 2021-08-13 |  |
-| [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-11 |  |
+| [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-11 | 2022-11-06 |
 | [Cheer Up Baby](https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 3:53 | 2021-08-13 |  |
 | [Cigarette Daydreams](https://open.spotify.com/track/0lkQOB949M2gLyut86aJ1b) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4kb0lu1IA0KLuwOrw7uD78) | 3:28 | 2021-08-13 | 2022-05-05 |
 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 | 2021-08-13 |  |
@@ -136,6 +136,7 @@
 | [JUNO](https://open.spotify.com/track/5eGnzWOwLq7zhnj9XsTFY4) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [JUNO](https://open.spotify.com/album/0K0zA9j4dAYRTSzO4OoRp0) | 2:53 | 2021-08-13 | 2022-07-29 |
 | [Just Go](https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:06 | 2021-08-13 | 2022-07-29 |
 | [Just My Luck](https://open.spotify.com/track/2yfGhoCrtI3gqTcms6F6zl) | [Just Wondering](https://open.spotify.com/artist/3cYJRMfmmDpWgSolJyNVwV) | [Just My Luck](https://open.spotify.com/album/2kQ2dZy07RATYwoEBGsEei) | 2:42 | 2022-08-18 | 2022-08-26 |
+| [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 | 2022-08-25 |  |
 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 | 2021-08-13 | 2022-10-13 |
 | [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2022-08-25 | 2022-11-02 |
 | [Keep Your Faith](https://open.spotify.com/track/4hyzBYXpXBEs3j8yjzvVmT) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Keep Your Faith](https://open.spotify.com/album/63F0Xx83CUttdn170MG7sW) | 3:01 | 2021-08-13 | 2022-07-29 |
@@ -271,7 +272,8 @@
 | [Truth](https://open.spotify.com/track/0gOA1SWEZhRECJRguyxFFZ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Truth](https://open.spotify.com/album/5l710vNzBqEqWo7KaXvBr1) | 2:51 | 2021-08-13 | 2022-07-29 |
 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 | 2022-07-14 | 2022-10-14 |
 | [Up To Something](https://open.spotify.com/track/1GcVyRrHS4g76on0l09DpX) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Up To Something](https://open.spotify.com/album/5m6zW9ofJz4uH2ZLfdlx8H) | 3:32 | 2022-07-14 | 2022-07-28 |
-| [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 | 2022-06-10 |  |
+| [Up To Something](https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:32 | 2022-08-25 |  |
+| [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 | 2022-06-10 | 2022-11-06 |
 | [wachito rico](https://open.spotify.com/track/0OYf62rdwDouKohtCALD55) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 3:34 | 2021-08-13 |  |
 | [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 | 2022-03-22 | 2022-10-15 |
 | [Want](https://open.spotify.com/track/5yCnQBVvUXg4f3GHGCuc3Y) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Want](https://open.spotify.com/album/4QECHmiMhtkrT06Z1A6pTf) | 4:24 | 2021-08-13 | 2022-06-21 |

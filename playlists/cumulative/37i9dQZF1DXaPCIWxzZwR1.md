@@ -4,7 +4,7 @@
 
 > next gen pop cover: Jessie Murph
 
-1,206 songs - 2 day 10 hr 38 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,207 songs - 2 day 10 hr 41 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,8 @@
 | [Girls Like Us](https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:09 | 2021-02-16\* | 2021-05-29 |
 | [Girls Like You](https://open.spotify.com/track/6gEEbYgqjT46HsA9YBdztt) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Girls Like You](https://open.spotify.com/album/7kXtm7yPm2cDGJDB67IZ2o) | 3:01 | 2022-06-10 | 2022-07-02 |
 | [girl’s girl \- Spotify Singles](https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [girl’s girl \- Spotify Singles](https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3) | 3:17 | 2022-10-28 |  |
-| [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-08-05 |  |
+| [Give Me a Kiss](https://open.spotify.com/track/0OXdfW3Q6VJGpg1k5Ik1SW) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me a Kiss](https://open.spotify.com/album/0CafPkGhvLKbSwto8FQJq1) | 2:49 | 2022-10-07 |  |
+| [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-08-05 | 2022-11-06 |
 | [GLAM!](https://open.spotify.com/track/4IazlP0NMBXhS1hF6H7et6) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [GLAM!](https://open.spotify.com/album/3oJkESCEfG0Q1M2xYIK63U) | 3:41 | 2021-02-16\* | 2021-02-26 |
 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:26 | 2021-08-04 | 2021-08-25 |
 | [Go Bad \- From The Netflix Film “He’s All That"](https://open.spotify.com/track/0KrxLbZ5Ii6o6PmDgcWii8) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [He's All That \(Music From The Netflix Film\)](https://open.spotify.com/album/0Avy6QPpUbn3rJ5f76yimK) | 2:07 | 2021-08-28 | 2021-09-11 |

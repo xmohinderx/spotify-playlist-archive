@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > Doechii is our newest RADAR artist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,339 likes - 56 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,337 likes - 56 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 18 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 |
 | 19 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 |
 | 20 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 |
-| 21 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 |
+| 21 | [Give Me a Kiss](https://open.spotify.com/track/0OXdfW3Q6VJGpg1k5Ik1SW) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me a Kiss](https://open.spotify.com/album/0CafPkGhvLKbSwto8FQJq1) | 2:49 |
 | 22 | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/track/7trjNYF5ek7zX4GKSHQZbP) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/album/2WEFdKzGuoE8eVWCqeC5SA) | 4:37 |
 | 23 | [Safe Place](https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD) | [Pauline Zoe Park](https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T) | [Safe Place](https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx) | 3:31 |
 | 24 | [ME WITHOUT U](https://open.spotify.com/track/6aEtOtuVYBDfR07qJm8wB3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [ME WITHOUT U](https://open.spotify.com/album/1ZiNaETb1Usa0jcYEmxfob) | 2:36 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 55 | [Lock&Key](https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Lock&Key](https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo) | 2:57 |
 | 56 | [bodies](https://open.spotify.com/track/4kXdLQaiCpqSdM9OTpvfZe) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c) | [bodies](https://open.spotify.com/album/6nJVoyXol3qPhMdBS4VaFh) | 3:02 |
 
-Snapshot ID: `MTY2NTYzMzYwMCwwMDAwMDAwMGMwYjk4ZTZiZTQ0YTE2NDg2ZGI4Yzc1MzhjNGQ0NGVl`
+Snapshot ID: `MTY2NTYzMzYwMCwwMDAwMDAwMGI0MzFiYzAzOTY0OGZhNGU4YmEyODQxYzVhZGQ4Njc0`

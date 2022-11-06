@@ -1,12 +1,12 @@
 {
   "description": "Emo rap feels for the misunderstood. Cover: iann dior",
-  "num_followers": 1352778,
+  "num_followers": 1353376,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk3MzEwMCwwMDAwMDAwMDA1OGY4NTE5NTBiNGVmNTQ4MjQyMDIwZDFmMWEzY2Mz",
+  "snapshot_id": "MTY2NzY3NzAxNiwwMDAwMDAwMDRhZjQ2MWQ5NWQ5OGIwYTIxNDYyY2VkMGY5NTE0MjBl",
   "tracks": [
     {
       "added_at": "2022-10-28 16:05:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "right here",
+        "url": "https://open.spotify.com/album/4UDIkdymlERIIdW744hTmY"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "Horsehead",
+          "url": "https://open.spotify.com/artist/07NLoddXdBEh9nmUH7tYVq"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "right here",
+      "url": "https://open.spotify.com/track/1FY8LJWKivOdoxZX5TSLpm"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Can't Love Myself",
         "url": "https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 181496,
       "name": "9 lives",
       "url": "https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "right here",
-        "url": "https://open.spotify.com/album/4UDIkdymlERIIdW744hTmY"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        },
-        {
-          "name": "Horsehead",
-          "url": "https://open.spotify.com/artist/07NLoddXdBEh9nmUH7tYVq"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "right here",
-      "url": "https://open.spotify.com/track/1FY8LJWKivOdoxZX5TSLpm"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
     },
     {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "dream girl",
+        "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
+      },
+      "artists": [
+        {
+          "name": "8percent",
+          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
+        }
+      ],
+      "duration_ms": 87408,
+      "name": "dream girl",
+      "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
+    },
+    {
       "added_at": "2022-10-21 16:57:49",
       "album": {
         "name": "A Love Letter To You 4",
@@ -815,22 +831,6 @@
       "duration_ms": 199436,
       "name": "6 Kiss",
       "url": "https://open.spotify.com/track/7tgjDlQsMR8RvkdlNCJA58"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "dream girl",
-        "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
-      },
-      "artists": [
-        {
-          "name": "8percent",
-          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
-        }
-      ],
-      "duration_ms": 87408,
-      "name": "dream girl",
-      "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "You Don't Want Me Anymore",
-        "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
-      },
-      "artists": [
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        },
-        {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "You Don't Want Me Anymore",
-      "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "tell me your feelings and i won't tell you mine",
         "url": "https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 187500,
       "name": "snowflake (feat. Jaden & Sarcastic Sounds)",
       "url": "https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "You Don't Want Me Anymore",
+        "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
+      },
+      "artists": [
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        },
+        {
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "You Don't Want Me Anymore",
+      "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1081,6 +1081,42 @@
       "url": "https://open.spotify.com/track/6a23CwL8bVeizmNRR9AACs"
     },
     {
+      "added_at": "2022-10-28 16:05:00",
+      "album": {
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 151318,
+      "name": "Fuck Around and Find Out (feat. $NOT)",
+      "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 155673,
+      "name": "BETTER OFF DEAD",
+      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
+    },
+    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "EAT YOUR HEART OUT",
@@ -1099,22 +1135,6 @@
       "duration_ms": 249475,
       "name": "KILL CUPID",
       "url": "https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Tell Me About Tomorrow",
-        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 155673,
-      "name": "BETTER OFF DEAD",
-      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1147,26 +1167,6 @@
       "duration_ms": 86749,
       "name": "say goodbye",
       "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
-    },
-    {
-      "added_at": "2022-10-28 16:05:00",
-      "album": {
-        "name": "Remember That You Will Die",
-        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
-      },
-      "artists": [
-        {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 151318,
-      "name": "Fuck Around and Find Out (feat. $NOT)",
-      "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "The OC Season 3",
+        "url": "https://open.spotify.com/album/1zkV84STH54WfqwcUvE9F0"
+      },
+      "artists": [
+        {
+          "name": "Cold Hart",
+          "url": "https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4"
+        },
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 209583,
+      "name": "Dying",
+      "url": "https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Pegasus: Neon Shark vs Pegasus Presented By Travis Barker (Deluxe)",
         "url": "https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 177058,
       "name": "PILL BREAKER (feat. blackbear & Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/7jjnn6K7p5MgOFuqLypAcM"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "The OC Season 3",
-        "url": "https://open.spotify.com/album/1zkV84STH54WfqwcUvE9F0"
-      },
-      "artists": [
-        {
-          "name": "Cold Hart",
-          "url": "https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4"
-        },
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 209583,
-      "name": "Dying",
-      "url": "https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1571,18 +1571,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Tell Me Why I'm Waiting",
-        "url": "https://open.spotify.com/album/3XqC5Id2B3Ak8fGawP8NQt"
+        "name": "would you be my baby",
+        "url": "https://open.spotify.com/album/5SGRuYzOCSloOXnKGv73ki"
       },
       "artists": [
         {
-          "name": "creamy",
-          "url": "https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu"
+          "name": "Enzo Iwamura",
+          "url": "https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
         }
       ],
-      "duration_ms": 139357,
-      "name": "Tell Me Why I'm Waiting",
-      "url": "https://open.spotify.com/track/7gu0zaym9C9Kp1va4ZeYXR"
+      "duration_ms": 73421,
+      "name": "would you be my baby",
+      "url": "https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1607,22 +1611,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "would you be my baby",
-        "url": "https://open.spotify.com/album/5SGRuYzOCSloOXnKGv73ki"
+        "name": "Tell Me Why I'm Waiting",
+        "url": "https://open.spotify.com/album/3XqC5Id2B3Ak8fGawP8NQt"
       },
       "artists": [
         {
-          "name": "Enzo Iwamura",
-          "url": "https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+          "name": "creamy",
+          "url": "https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu"
         }
       ],
-      "duration_ms": 73421,
-      "name": "would you be my baby",
-      "url": "https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox"
+      "duration_ms": 139357,
+      "name": "Tell Me Why I'm Waiting",
+      "url": "https://open.spotify.com/track/7gu0zaym9C9Kp1va4ZeYXR"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Story",
-        "url": "https://open.spotify.com/album/71lnv01Ng6NGMfoEI76hNs"
+        "name": "I Didn't Realize How Empty My Bed Was Until You Left",
+        "url": "https://open.spotify.com/album/6YvAY8KhVZFB5y5NPdSR5S"
       },
       "artists": [
         {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
         }
       ],
-      "duration_ms": 140778,
-      "name": "Story",
-      "url": "https://open.spotify.com/track/5IMkbCh7AAUFfiN37a0ExL"
+      "duration_ms": 170906,
+      "name": "I Didn't Realize How Empty My Bed Was Until You Left",
+      "url": "https://open.spotify.com/track/7pmLi2drbQTrVAjd8NCeDs"
     }
   ],
   "unique_name": "tear drop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 
 > Bailando de caballito, aunque se enoje tu mamá\. Mi Banda El Mexicano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,345 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,513 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 | 22 | [El alacrán](https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:33 |
 | 23 | [Tri Triki Tri Traka](https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [A Bailar Quebradita Y De Caballito](https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie) | 2:38 |
 | 24 | [El Llanero Solitario \- Guillermo Tell](https://open.spotify.com/track/3NUYbovgQcsNGE3O3IYHtz) | [Banda Rodeo de Morelos](https://open.spotify.com/artist/3DEQJ5z6j6scYrOHNfbPpu) | [Lo Mejor De..\. \(18 Exitos\)](https://open.spotify.com/album/6nAtdGbuJzkgMTsz1ZYsHj) | 3:39 |
-| 25 | [El Camaron Pelao](https://open.spotify.com/track/3a9zDfvyuEDTjFl89AvdMc) | [Banda Pachuco](https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb) | [Infierno y Gloria](https://open.spotify.com/album/6aKMQkJLlw0IskUHAPCQmJ) | 2:13 |
-| 26 | [La Danza del Coyote](https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:07 |
+| 25 | [La Danza del Coyote](https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:07 |
+| 26 | [El Camaron Pelao](https://open.spotify.com/track/3a9zDfvyuEDTjFl89AvdMc) | [Banda Pachuco](https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb) | [Infierno y Gloria](https://open.spotify.com/album/6aKMQkJLlw0IskUHAPCQmJ) | 2:13 |
 | 27 | [La cuca](https://open.spotify.com/track/6fAgsEWreF327VmKHhKQYf) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Mix movidas románticas \(USA\)](https://open.spotify.com/album/6XhzyrKMawpGgrMm32F70e) | 2:55 |
 | 28 | [Mambo Lupita](https://open.spotify.com/track/5WXizCxqmrlovOExcVmaFE) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 3:34 |
 | 29 | [Casimira](https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 2:52 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 | 36 | [El Bigotón](https://open.spotify.com/track/2cG5hI7Zwuee0Trkwlvxah) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Íconos 25 Éxitos](https://open.spotify.com/album/7MxfcnVjT4jO4WmVrIUP22) | 2:47 |
 | 37 | [La Bota](https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:28 |
 | 38 | [Al gato y al ratón](https://open.spotify.com/track/65sJkvRkCMid2JRJIVHLdJ) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 2:42 |
-| 39 | [Arrempujala Arremangala](https://open.spotify.com/track/5erRHg0WJ7YnEXJmOkUNy6) | [Hechizeros Band](https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx) | [Las Más Bailables Del Sonidito](https://open.spotify.com/album/1Mufgf4ErotgU9eJbdrtlv) | 3:39 |
-| 40 | [El Caracol](https://open.spotify.com/track/6EhUL5fqcXGaOpZUnfQJHO) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Lo Mejor De Vaquero's Musical](https://open.spotify.com/album/3yC1k23JItT5mo6Qoi6Sx3) | 2:43 |
+| 39 | [El Caracol](https://open.spotify.com/track/6EhUL5fqcXGaOpZUnfQJHO) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Lo Mejor De Vaquero's Musical](https://open.spotify.com/album/3yC1k23JItT5mo6Qoi6Sx3) | 2:43 |
+| 40 | [Arrempujala Arremangala](https://open.spotify.com/track/5erRHg0WJ7YnEXJmOkUNy6) | [Hechizeros Band](https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx) | [Las Más Bailables Del Sonidito](https://open.spotify.com/album/1Mufgf4ErotgU9eJbdrtlv) | 3:39 |
 | 41 | [El Gato y Yo](https://open.spotify.com/track/6iNAKM878gy83Y3ZuXYyyQ) | [Super Banda Radar](https://open.spotify.com/artist/1nSIbeSfS5HTPrYDiPza0e) | [El Gato y Yo](https://open.spotify.com/album/5ZmXWGOZmCIK1mcUC9IWKk) | 3:01 |
 | 42 | [Esa Chica Me Vacila](https://open.spotify.com/track/0Kq767bcSdi2VKJsIzAfb9) | [Banda Boom](https://open.spotify.com/artist/00608sMSbuz1IpmDzSrFZk) | [Quebraditas Y Mas.., Vol\. 1](https://open.spotify.com/album/72xv8aJFPrt6WhGHPQCMWf) | 3:35 |
 | 43 | [Muévete morena](https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 | 59 | [Las Nachas \- a dúo con Celso Piña](https://open.spotify.com/track/4HWFs2YLsP9lPfRSr5EjlF) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La Reunión](https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J) | 3:17 |
 | 60 | [Te Lavaste la Cara y el Mono No \(El Mono de Marciana\)](https://open.spotify.com/track/1BW73Xmnb6d2JkqnAYjLEi) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Mis Favoritas](https://open.spotify.com/album/19sUt3izOtuq4tRI5iSwe7) | 2:56 |
 
-Snapshot ID: `MTY0OTg4OTQwNSwwMDAwMDAwMDNjOTdkMGYxMzI5MGViMzM0N2U3YTg3MTRhOTExNmRj`
+Snapshot ID: `MTY0OTg4OTQwNSwwMDAwMDAwMGExYzc4YTQ3ZjdmNTI0OWNiYmViNTViMjJjOWI2YzFl`

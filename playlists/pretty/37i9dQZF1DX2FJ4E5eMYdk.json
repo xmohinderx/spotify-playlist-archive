@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 122922,
+  "num_followers": 122982,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGE0ZjZmODU2ZDQ0NDJhZGQ1OWRmOWFmYmI1MTViM2Nh",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDRjNmNjN2YyNDM2NTljMTcyYzI5MDA1ODk4OTBlOWIz",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "The Alien Coast",
+        "url": "https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 204548,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Liz Cooper & the Stampede | Audiotree Far Out",
         "url": "https://open.spotify.com/album/1EjCdmwjYApHKhSRmaXSpR"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 331879,
       "name": "Motions - Far Out Version",
       "url": "https://open.spotify.com/track/3An6qpudDbeAHGDyFUVrUB"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "The Alien Coast",
-        "url": "https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 204548,
-      "name": "The Last Dance",
-      "url": "https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp"
     },
     {
       "added_at": "2022-07-22 04:00:00",

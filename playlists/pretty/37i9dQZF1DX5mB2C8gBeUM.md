@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Walker Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,508 likes - 167 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,697 likes - 167 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 22 | [Sunday Toasted](https://open.spotify.com/track/7trnSmH2rP4Dz9EWCigzhz) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Sunday Toasted](https://open.spotify.com/album/7FtqnNR1z6z0nqEyinGd5F) | 2:43 |
 | 23 | [Mile a Minute](https://open.spotify.com/track/3ZId83LVU8njcHXP8ZiMvr) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Mile a Minute](https://open.spotify.com/album/1XyZaEQP7xLclmVg5ni3fk) | 3:15 |
 | 24 | [Behind](https://open.spotify.com/track/3u0UQ8hnA9eWkHgeYLPGEe) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Behind](https://open.spotify.com/album/18eV6taRZHwWvZLNg4sfhz) | 3:00 |
-| 25 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/6GDDxhe281I5aNSgCYphex) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
+| 25 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
 | 26 | [W+W](https://open.spotify.com/track/57Feadv9wz81gOtQFVsdH3) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [A.J.](https://open.spotify.com/artist/7qaAY5NJfS75zs9Z4XG0Dx) | [Boots x Beats](https://open.spotify.com/album/6yTa2jxGNCiQsdsLAu3888) | 2:47 |
 | 27 | [Different Man](https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:55 |
 | 28 | [Short Hills Rd](https://open.spotify.com/track/4Tz2IuV1BvvvYrdIlcNLST) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Hungover High](https://open.spotify.com/album/5vwpBehIqllJQB4xMrQV0W) | 3:14 |

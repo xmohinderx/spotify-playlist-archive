@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-460 songs - 1 day 10 hr 12 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+461 songs - 1 day 10 hr 15 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Mirage](https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/2QBoYsuINGsfFvp4BGk0SK) | 4:50 | 2021-10-06 | 2022-07-29 |
 | [Mon Cheri](https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Mon Cheri](https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ) | 4:08 | 2021-10-06 |  |
 | [Money Music](https://open.spotify.com/track/5AJQebZSTWvdcMlHCmMNhg) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Money Music](https://open.spotify.com/album/77Ivo83GRiFoQckirVxPYM) | 2:49 | 2022-08-03 | 2022-11-04 |
+| [Money Music](https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 2:49 | 2022-08-03 |  |
 | [Mother & Child](https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld) | [\)zzidi](https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C), [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:50 | 2021-10-06 | 2022-07-25 |
 | [Move On](https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS) | [Isaac Chambers](https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP), [Dub Princess](https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ) | [Isaac Chambers & Dub Princess](https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW) | 5:36 | 2022-03-17 |  |
 | [Move on Up](https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h) | [Devon Russell](https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz) | [Darker Than Blue](https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7) | 3:55 | 2022-02-11 |  |
@@ -401,7 +402,7 @@
 | [Teen Etus](https://open.spotify.com/track/0CEslFNe6rY0pmHaksb9vW) | [Cedric Pytel](https://open.spotify.com/artist/11ls4fvCxj7Lwa7FBF7EnB), [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Teen Etus](https://open.spotify.com/album/4WJwqsOGhFoR2EessviVrV) | 2:52 | 2022-04-17 | 2022-06-23 |
 | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/track/2telsvYtSRHVlj8kWqrB6A) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/album/5QemzvXDdZw3BAEyjcgPWD) | 4:39 | 2021-10-06 | 2022-05-26 |
 | [Teu sorriso \- 56 Mix](https://open.spotify.com/track/4bOlBoY9gcHSIPew1Sbi3F) | [Paraíso](https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0) | [Teu sorriso](https://open.spotify.com/album/2PjHbUJ1FaYtEPO5JsmRDs) | 5:33 | 2022-03-29 | 2022-04-21 |
-| [Thank You](https://open.spotify.com/track/024X0CCgxFHrgGKY1WTFcA) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 5:51 | 2022-04-26 |  |
+| [Thank You](https://open.spotify.com/track/024X0CCgxFHrgGKY1WTFcA) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 5:51 | 2022-04-26 | 2022-11-06 |
 | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D) | 7:00 | 2021-10-06 |  |
 | [The Duke](https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Duke](https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9) | 2:46 | 2021-10-06 | 2022-07-26 |
 | [The Ocean](https://open.spotify.com/track/0CfCygNUYJHOPcBAx0GUeL) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/2mQ765VXi6upoFrj3JbgMD) | [Mirage](https://open.spotify.com/album/7svw0efuI6ZCFD61Vj2DWF) | 4:02 | 2022-04-17 | 2022-10-26 |

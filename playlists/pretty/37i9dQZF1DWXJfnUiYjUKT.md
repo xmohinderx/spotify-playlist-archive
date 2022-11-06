@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Drake & 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,505 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,664 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 29 | [Never Be The One](https://open.spotify.com/track/6JF0rThWWZ1KDOAA2GC0T8) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Never Be The One](https://open.spotify.com/album/3SRCDfQSwLNwCoBcYznuNg) | 3:21 |
 | 30 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 |
 | 31 | [Baby Queen](https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Baby Queen](https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt) | 3:40 |
-| 32 | [DOMINGO DE BOTE](https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAISO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 |
+| 32 | [DOMINGO DE BOTE](https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 |
 | 33 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
 | 34 | [Lovesick](https://open.spotify.com/track/5hB6UN3hxca8CP6dqs67On) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Lovesick](https://open.spotify.com/album/2WYETJesea0OP320GV0e3e) | 2:09 |
 | 35 | [Prayin' In A Deer Stand](https://open.spotify.com/track/6udBM5TJkTp1uupH4Y5ReF) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Prayin' In A Deer Stand](https://open.spotify.com/album/3PGB7yyY9f50st2g7PQuKY) | 3:24 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 39 | [Punto G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Punto G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 |
 | 40 | [Tra Tra](https://open.spotify.com/track/0UFJLWij7K8AXM5sVDFCLj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Tra Tra](https://open.spotify.com/album/5CTxLQdrDgcvEXuqEFOnPt) | 2:06 |
 | 41 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 |
-| 42 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/6GDDxhe281I5aNSgCYphex) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
+| 42 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
 | 43 | [Mama, Dolly, Jesus](https://open.spotify.com/track/7zggetlqMBzNpdCM0mdfzS) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 2:45 |
 | 44 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
 | 45 | [itch](https://open.spotify.com/track/5RZb7SkH0lDPWyIFgFTvxo) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [itch](https://open.spotify.com/album/44qiPtIwkpzB1CWjyD2JxE) | 3:45 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 90 | [Love To Be \(feat\. sadie\)](https://open.spotify.com/track/3s3YpmM0CxA8viLMpXkHBu) | [Dominic Sen](https://open.spotify.com/artist/152t0HrYcs72GHrhM6x5gF), [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [Love To Be \(feat\. sadie\)](https://open.spotify.com/album/2ahcsSMOqGlOufMH4CsCCr) | 3:03 |
 | 91 | [Jazzercise](https://open.spotify.com/track/7lL9XfMH1tfL2c4BiFOYJq) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [SAP](https://open.spotify.com/album/4vd4vJaDeWAqAWKvMJ0ZLT) | 3:16 |
 | 92 | [Friend Zone](https://open.spotify.com/track/0oeUZMYfI06i4OXVUXBJwv) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer \(Deluxe\)](https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj) | 3:41 |
-| 93 | [Safe](https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Private Suite 4: The Mixtape](https://open.spotify.com/album/3pizVvi3ZP6mzletymu6WS) | 2:37 |
+| 93 | [Safe](https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Private Suite 4: The Mixtape](https://open.spotify.com/album/3pizVvi3ZP6mzletymu6WS) | 3:40 |
 | 94 | [cursive](https://open.spotify.com/track/6pckcHCsndTKLy8Y1TPuq8) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rainbow music](https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J) | 2:13 |
 | 95 | [My Argentina](https://open.spotify.com/track/5CYkymD2AqbSFGG2KQr88n) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [My Argentina](https://open.spotify.com/album/3riMHTE10EiZmMqW9ZfO28) | 5:01 |
 | 96 | [Pretty Boy](https://open.spotify.com/track/0HLUNrbWZdyUDWVKy3X9JH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Pretty Boy](https://open.spotify.com/album/0H47zdiavh551uJHvO4Nfx) | 4:55 |

@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 565294,
+  "num_followers": 565461,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTY4NDMwOSwwMDAwMDAwMDE4NDkyZTEzYjNlOThhZjNlMTk2NDUzYTQ5NTJiMzJm",
+  "snapshot_id": "MTY1MTY4NDMwOSwwMDAwMDAwMDAyODVmM2ZjNDEzMmJiZGYyZTg2MzIxNDQ2MzFkMjcw",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "She Bangs the Drums - Remastered",
-      "url": "https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "His N Hers",
         "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 244826,
       "name": "Babies",
       "url": "https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "She Bangs the Drums - Remastered",
+      "url": "https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 492946,
-      "name": "I Am the Resurrection - Remastered",
-      "url": "https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Let It Ride",
         "url": "https://open.spotify.com/album/6CET3JYJyXlmfVLLQx2XeG"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 222440,
       "name": "You're Gorgeous",
       "url": "https://open.spotify.com/track/5COBer69wpwkCPPaLr1gFb"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 492946,
+      "name": "I Am the Resurrection - Remastered",
+      "url": "https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy"
     },
     {
       "added_at": "2022-05-04 17:11:49",

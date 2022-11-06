@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Drake & 21 Savage \(pictured\), Selena Gomez, Joji and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,186 likes - 108 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,245 likes - 108 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 11 | [Warm \- Remix](https://open.spotify.com/track/3Hha9pVZsWGwQiFKvsMrwS) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Warm \(Remix\)](https://open.spotify.com/album/1kiTzXHYN9CC5BfKrkjKbT) | 3:07 |
 | 12 | [Baby Queen](https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Baby Queen](https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt) | 3:40 |
 | 13 | [Lifetime](https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lifetime](https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR) | 4:46 |
-| 14 | [Covering My Ears](https://open.spotify.com/track/1M3VBabFRFPZnO3FB0P4JA) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Covering My Ears](https://open.spotify.com/album/3SqdodwZEZ4nFcwbw2Vvnj) | 2:27 |
+| 14 | [Covering My Ears \(feat\. Naughty Boy & wewantwraiths\)](https://open.spotify.com/track/1M3VBabFRFPZnO3FB0P4JA) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Covering My Ears \(feat\. Naughty Boy & wewantwraiths\)](https://open.spotify.com/album/3SqdodwZEZ4nFcwbw2Vvnj) | 2:27 |
 | 15 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 |
 | 16 | [Never Let You Go](https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Never Let You Go](https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0) | 2:58 |
 | 17 | [I’m Back](https://open.spotify.com/track/1ebJAxhKOxFERhAGs3phuD) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [I’m Back](https://open.spotify.com/album/6Zbdr0vAj2d1BpZu6k06KY) | 6:32 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 51 | [Kane & Undertaker](https://open.spotify.com/track/1EMUDkfMIFFU4kxnpUemy0) | [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Kane & Undertaker](https://open.spotify.com/album/53HeiZecznBlsRShxGv3nt) | 2:55 |
 | 52 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 |
 | 53 | [Never Be The One](https://open.spotify.com/track/6JF0rThWWZ1KDOAA2GC0T8) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Never Be The One](https://open.spotify.com/album/3SRCDfQSwLNwCoBcYznuNg) | 3:21 |
-| 54 | [Ride or Die](https://open.spotify.com/track/6uX3HDedpfYWZVrbqRwrjq) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [Ride or Die](https://open.spotify.com/album/61b6xkMZAHTklSFvQo7aax) | 3:17 |
+| 54 | [Ride or Die \(feat\. Roses Gabor\)](https://open.spotify.com/track/6uX3HDedpfYWZVrbqRwrjq) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Ride or Die \(feat\. Roses Gabor\)](https://open.spotify.com/album/61b6xkMZAHTklSFvQo7aax) | 3:17 |
 | 55 | [Time In Our Lives](https://open.spotify.com/track/7Gbit25MiuKzmybIw1bDBr) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Time In Our Lives](https://open.spotify.com/album/13iVhxOwGBTV46Wat0jZpK) | 2:38 |
 | 56 | [Seraphim](https://open.spotify.com/track/7E4JPpdMzKn6ZXVufMDUX7) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Seraphim](https://open.spotify.com/album/4fYwW7rl4iKdhJIlpOgow2) | 5:13 |
 | 57 | [Ruins](https://open.spotify.com/track/5i0SbswKCzrooxqFgfrLFi) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Ruins](https://open.spotify.com/album/36qLQvej2MNoAOGQq8zXlQ) | 3:00 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 86 | [ARMS \(Edit\)](https://open.spotify.com/track/1PWOdHUiBFiT4hJJ8DBSnh) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [ARMS](https://open.spotify.com/album/28gNtcHwTNJ5BJspX50iMq) | 3:33 |
 | 87 | [BREATHE \(SLOW IT DOWN\)](https://open.spotify.com/track/3zPpQMtl5B56vUjQxzs7fj) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [BREATHE \(SLOW IT DOWN\)](https://open.spotify.com/album/0gk9mWj1WrbPGffm2tu5yj) | 1:30 |
 | 88 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
-| 89 | [Now and Then](https://open.spotify.com/track/5LIguFOu7nFgk579aXXEdP) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [EP2](https://open.spotify.com/album/3SnjcJy7zSYZNmcnBz0OZ8) | 3:21 |
+| 89 | [Now and Then](https://open.spotify.com/track/5LIguFOu7nFgk579aXXEdP) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Ep2](https://open.spotify.com/album/3SnjcJy7zSYZNmcnBz0OZ8) | 3:21 |
 | 90 | [CYAN1DE \(feat\. Pete Wentz\)](https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Pete Wentz](https://open.spotify.com/artist/6eNCYcluBDxyf0kkn4j7rD) | [CYAN1DE \(feat\. Pete Wentz\)](https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR) | 3:51 |
 | 91 | [Sold My Soul](https://open.spotify.com/track/5uJsixlCztoW9USzUh3zuQ) | [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW) | [Sold My Soul](https://open.spotify.com/album/0B9BnMtV7MuRlR7X5NTUQH) | 2:59 |
 | 92 | [Title](https://open.spotify.com/track/1dsgCQbZkhlNNCMNyKJXta) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Title](https://open.spotify.com/album/5IGnDNnVAqM2p38PlsTktc) | 2:48 |

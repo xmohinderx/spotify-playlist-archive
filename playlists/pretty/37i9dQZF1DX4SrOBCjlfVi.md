@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring A Boogie, NLE Choppa and more\. Cover: Drake & 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,673 likes - 52 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,798 likes - 52 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 
 > That real hip\-hop\. Cover: Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,749 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,843 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

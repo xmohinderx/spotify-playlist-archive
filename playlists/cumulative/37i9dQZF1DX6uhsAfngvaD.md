@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-315 songs - 19 hr 34 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
+316 songs - 19 hr 38 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Never Enough](https://open.spotify.com/track/7bogCrQMfTovtzuHx0Nszr) | [Low Hummer](https://open.spotify.com/artist/2bI3bjQZZKrlKYfiBczobD) | [Never Enough](https://open.spotify.com/album/07ac7JEnYJ2PeAsZPSuo7h) | 3:48 | 2021-02-06 | 2022-07-28 |
 | [never had a place](https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [never had a place](https://open.spotify.com/album/7r1I04mtKaXE6UwZSH23DX) | 2:53 | 2022-04-01 |  |
 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 | 2022-02-24 |  |
-| [Now It's Gone](https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Now It's Gone](https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr) | 4:05 | 2021-08-01 |  |
+| [Now It's Gone](https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Now It's Gone](https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr) | 4:05 | 2021-08-01 | 2022-11-06 |
 | [Ocho Domingos](https://open.spotify.com/track/4Z3kYIFtzf69vXdRDGTLfP) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [não não](https://open.spotify.com/album/1YGOwQRrbTILIXICx0KiGz) | 2:34 | 2021-04-30 | 2022-04-18 |
 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 | 2020-11-06 | 2022-11-02 |
 | [Old Canvas](https://open.spotify.com/track/5JREM5ZdkL20Yeiv71nssh) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Old Canvas](https://open.spotify.com/album/6ITW1wLstKHkOUMin1G3ew) | 4:30 | 2021-07-19 | 2022-07-29 |
@@ -303,6 +303,7 @@
 | [What Does It Mean To Me?](https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Smothered](https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC) | 2:46 | 2022-07-06 |  |
 | [What Does It Mean To Me?](https://open.spotify.com/track/4kDqNIQiBwkqDs6jWWcHAM) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [What Does It Mean To Me?](https://open.spotify.com/album/40IbEerrh6DeFhhedn5DQx) | 2:46 | 2021-07-30 | 2022-07-29 |
 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 | 2021-07-05 |  |
+| [What We Left Behind](https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv) | 3:55 | 2022-07-06 |  |
 | [What We Left Behind](https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/4Kjh2sUqAaTT49bUglqrW5) | 3:55 | 2021-03-26 | 2022-10-19 |
 | [Whatever You Told Her](https://open.spotify.com/track/0AACjaI0rxjufqxmsu6OfF) | [Youth Portal](https://open.spotify.com/artist/2kVgqhZLV3FxkiJfjN6Vdp), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Whatever You Told Her](https://open.spotify.com/album/1BjbeBsXQYRPNNnYgVuHWF) | 2:34 | 2019-11-19\* | 2020-08-09 |
 | [When I Look Back](https://open.spotify.com/track/0NyE3z63bQpiqDkx6DSjl0) | [Lev Snowe](https://open.spotify.com/artist/2lRRqJBopJfhZswiXar3a5) | [When I Look Back](https://open.spotify.com/album/4xACcBNQ48OYJPrsyjnEwL) | 4:39 | 2019-11-19\* | 2020-11-06 |

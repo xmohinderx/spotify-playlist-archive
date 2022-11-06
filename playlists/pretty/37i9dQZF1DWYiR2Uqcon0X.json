@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 692949,
+  "num_followers": 693117,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMDAxYzcxNzA1ZWMzNWUwMzY0ZWJiZTM4MDY0YjM4Njc1",
+  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMDczNTkwNTcyOWM4YTY0NWE0NGFkZmY3MDhlYWU3NGEy",
   "tracks": [
     {
       "added_at": "2022-10-12 19:05:09",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Homeland Insecurity",
-        "url": "https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 230826,
-      "name": "Sleeping Alone",
-      "url": "https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Hemingway's Whiskey",
         "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 242840,
       "name": "You and Tequila (feat. Grace Potter)",
       "url": "https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Homeland Insecurity",
+        "url": "https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 230826,
+      "name": "Sleeping Alone",
+      "url": "https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Mountain Song",
-        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Small Town Hypocrite",
         "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 243898,
       "name": "Where You Are - Acoustic",
       "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
+        "name": "Greenbroke",
+        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 264161,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/0UU1opJqwJtFvHpCrWK1Mq"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
         "name": "Girl Going Nowhere",
         "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Greenbroke",
-        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 264161,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/0UU1opJqwJtFvHpCrWK1Mq"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 206986,
-      "name": "MARILYN",
-      "url": "https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "They Are Going Away",
         "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 182805,
       "name": "It'll Work Itself Out",
       "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 206986,
+      "name": "MARILYN",
+      "url": "https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Johnny Cash: Forever Words Expanded",
-        "url": "https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        }
-      ],
-      "duration_ms": 297746,
-      "name": "The Captain's Daughter",
-      "url": "https://open.spotify.com/track/7tAmmKQz5aR8B7aFuhRkab"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "KING",
         "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 205840,
       "name": "20/10 TN",
       "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Johnny Cash: Forever Words Expanded",
+        "url": "https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        }
+      ],
+      "duration_ms": 297746,
+      "name": "The Captain's Daughter",
+      "url": "https://open.spotify.com/track/7tAmmKQz5aR8B7aFuhRkab"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
+        "name": "KING",
+        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
+      },
+      "artists": [
+        {
+          "name": "Tucker Beathard",
+          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Find Me Here - Broke Down",
+      "url": "https://open.spotify.com/track/5gMiQ72iAqzzqWqrKvTWbO"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
         "name": "Coming Down the Mountain",
         "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 238560,
       "name": "Without A Word",
       "url": "https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
-        "name": "KING",
-        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
-      },
-      "artists": [
-        {
-          "name": "Tucker Beathard",
-          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Find Me Here - Broke Down",
-      "url": "https://open.spotify.com/track/5gMiQ72iAqzzqWqrKvTWbO"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
+        "name": "Glasshouse Children",
+        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
+      },
+      "artists": [
+        {
+          "name": "Sam Williams",
+          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
+        }
+      ],
+      "duration_ms": 91554,
+      "name": "Bulleit Blues",
+      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
         "name": "ballerini",
         "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Glasshouse Children",
-        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
+        "name": "Moments that mattered",
+        "url": "https://open.spotify.com/album/1FFVMjftTGqNyNGkDBMOaS"
       },
       "artists": [
         {
-          "name": "Sam Williams",
-          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
         }
       ],
-      "duration_ms": 91554,
-      "name": "Bulleit Blues",
-      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
+      "duration_ms": 223776,
+      "name": "what do i",
+      "url": "https://open.spotify.com/track/2rtdxI8tTfBfPk6D28YSUv"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -1135,22 +1151,6 @@
       "duration_ms": 188541,
       "name": "Time Is Cold (Coffee House Version)",
       "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
-        "name": "Moments that mattered",
-        "url": "https://open.spotify.com/album/1FFVMjftTGqNyNGkDBMOaS"
-      },
-      "artists": [
-        {
-          "name": "Emily James",
-          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
-        }
-      ],
-      "duration_ms": 223776,
-      "name": "what do i",
-      "url": "https://open.spotify.com/track/2rtdxI8tTfBfPk6D28YSUv"
     },
     {
       "added_at": "2022-10-12 19:05:09",

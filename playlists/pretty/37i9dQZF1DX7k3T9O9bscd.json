@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world.",
-  "num_followers": 314572,
+  "num_followers": 314736,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzMzIwMCwwMDAwMDAwMDRkNDZjNDdhMmE1NWQ3OTExMzczMjc3MGYwNjZjNDk4",
+  "snapshot_id": "MTY2NjkzMzIwMCwwMDAwMDAwMDE3YTgwZmRmMzE0YmQxMzU0YWQxZWFkYzU5OWQ5ZTA0",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Desert Island",
-        "url": "https://open.spotify.com/album/7AZL0M9Hn8gwLw6RyUgxEB"
-      },
-      "artists": [
-        {
-          "name": "Mystic Braves",
-          "url": "https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js"
-        }
-      ],
-      "duration_ms": 252160,
-      "name": "Bright Blue Day Haze",
-      "url": "https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Sonidos De Karm\u00e1tica Resonancia",
         "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 258680,
       "name": "Bestiario",
       "url": "https://open.spotify.com/track/0JOkNtA6xYd1A7H7XTryS5"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Desert Island",
+        "url": "https://open.spotify.com/album/7AZL0M9Hn8gwLw6RyUgxEB"
+      },
+      "artists": [
+        {
+          "name": "Mystic Braves",
+          "url": "https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "Bright Blue Day Haze",
+      "url": "https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4"
     },
     {
       "added_at": "2022-04-12 18:03:13",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/1LlK2ubpG3rHStn7ZGav3j"
     },
     {
-      "added_at": "2022-04-22 19:18:57",
-      "album": {
-        "name": "Spin",
-        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
-      },
-      "artists": [
-        {
-          "name": "Triathalon",
-          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
-        }
-      ],
-      "duration_ms": 212203,
-      "name": "Spin",
-      "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
-    },
-    {
       "added_at": "2022-04-22 19:38:56",
       "album": {
         "name": "SongBook",
@@ -633,20 +617,20 @@
       "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
+      "added_at": "2022-04-22 19:18:57",
       "album": {
-        "name": "Sleeping Through The War",
-        "url": "https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw"
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
       },
       "artists": [
         {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+          "name": "Triathalon",
+          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
         }
       ],
-      "duration_ms": 400853,
-      "name": "Bulls",
-      "url": "https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX"
+      "duration_ms": 212203,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -667,18 +651,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Fuckin Whatever",
-        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
+        "name": "Sleeping Through The War",
+        "url": "https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw"
       },
       "artists": [
         {
-          "name": "Fuckin Whatever",
-          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
         }
       ],
-      "duration_ms": 213211,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
+      "duration_ms": 400853,
+      "name": "Bulls",
+      "url": "https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -695,6 +679,22 @@
       "duration_ms": 312360,
       "name": "I'll Gladly Place Myself Below You",
       "url": "https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Fuckin Whatever",
+        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
+      },
+      "artists": [
+        {
+          "name": "Fuckin Whatever",
+          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
+        }
+      ],
+      "duration_ms": 213211,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -747,6 +747,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Who dreams of cats?",
+      "url": "https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Sacred Drugs",
         "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
+        "name": "Planet Caravan",
+        "url": "https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS"
       },
       "artists": [
         {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
         }
       ],
-      "duration_ms": 214533,
-      "name": "Who dreams of cats?",
-      "url": "https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx"
+      "duration_ms": 551138,
+      "name": "Planet Caravan",
+      "url": "https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -807,22 +823,6 @@
       "duration_ms": 325015,
       "name": "The Rat Catcher",
       "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Planet Caravan",
-        "url": "https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS"
-      },
-      "artists": [
-        {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
-        }
-      ],
-      "duration_ms": 551138,
-      "name": "Planet Caravan",
-      "url": "https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU"
     },
     {
       "added_at": "2022-04-12 17:55:21",
@@ -923,6 +923,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Sancocho Stereo",
+        "url": "https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "Todo Bien",
+      "url": "https://open.spotify.com/track/6aKI6d7NkTPqHoElel3TnI"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "D\u00f6ng\u00fcm",
         "url": "https://open.spotify.com/album/5LlPU1YsCMCIDhqQgjWmz7"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 270027,
       "name": "D\u00f6ng\u00fcm",
       "url": "https://open.spotify.com/track/2OvQx1RIx6Ymys51lH87xJ"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Sancocho Stereo",
-        "url": "https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Todo Bien",
-      "url": "https://open.spotify.com/track/6aKI6d7NkTPqHoElel3TnI"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
     },
     {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Jukebox Babe",
+        "url": "https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV"
+      },
+      "artists": [
+        {
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+        }
+      ],
+      "duration_ms": 384895,
+      "name": "Jukebox Babe",
+      "url": "https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV"
+    },
+    {
       "added_at": "2022-09-03 03:45:18",
       "album": {
         "name": "Los Estimados",
@@ -1023,38 +1039,6 @@
       "duration_ms": 277589,
       "name": "Los Estimados",
       "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Sophomore",
-        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
-      },
-      "artists": [
-        {
-          "name": "Speck Joliet",
-          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
-        }
-      ],
-      "duration_ms": 332335,
-      "name": "Time Frame",
-      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Elwan",
-        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "N\u00e0nnufl\u00e0y",
-      "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1075,18 +1059,34 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Jukebox Babe",
-        "url": "https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV"
+        "name": "Elwan",
+        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
       },
       "artists": [
         {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
         }
       ],
-      "duration_ms": 384895,
-      "name": "Jukebox Babe",
-      "url": "https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV"
+      "duration_ms": 303106,
+      "name": "N\u00e0nnufl\u00e0y",
+      "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Sophomore",
+        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
+      },
+      "artists": [
+        {
+          "name": "Speck Joliet",
+          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
+        }
+      ],
+      "duration_ms": 332335,
+      "name": "Time Frame",
+      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
     },
     {
       "added_at": "2021-11-12 05:23:58",

@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Ashe",
-  "num_followers": 400990,
+  "num_followers": 401028,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGY4NDlkZDMzMWNjZmZkNmRmNWY4OWQ2NGQyYWFkNjA3",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDU2NDNlMmMwYTU1NzZkZDM5OTA2Nzc1ODIxZTRiNTAx",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -917,6 +917,22 @@
       "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Back the Way We Came: Vol. 1 (2011 - 2021)",
+        "url": "https://open.spotify.com/album/2aq32TQZkWO7wWGTWrINHr"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "We're On Our Way Now",
+      "url": "https://open.spotify.com/track/3PwJ7f9g2BEmAfyuLfDZlk"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "about time",
@@ -935,22 +951,6 @@
       "duration_ms": 193047,
       "name": "about time",
       "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Back the Way We Came: Vol. 1 (2011 - 2021)",
-        "url": "https://open.spotify.com/album/2aq32TQZkWO7wWGTWrINHr"
-      },
-      "artists": [
-        {
-          "name": "Noel Gallagher's High Flying Birds",
-          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "We're On Our Way Now",
-      "url": "https://open.spotify.com/track/3PwJ7f9g2BEmAfyuLfDZlk"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Black Is Golden",
-        "url": "https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK"
-      },
-      "artists": [
-        {
-          "name": "Wyn Starks",
-          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
-        }
-      ],
-      "duration_ms": 184848,
-      "name": "Dancing My Way",
-      "url": "https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Magical Thinking",
@@ -1187,6 +1171,22 @@
       "duration_ms": 173985,
       "name": "Magical Thinking",
       "url": "https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Black Is Golden",
+        "url": "https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK"
+      },
+      "artists": [
+        {
+          "name": "Wyn Starks",
+          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
+        }
+      ],
+      "duration_ms": 184848,
+      "name": "Dancing My Way",
+      "url": "https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1397,20 +1397,20 @@
       "url": "https://open.spotify.com/track/1x05ZRPr2FprwUP7MjWefh"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2022-07-22 04:02:00",
       "album": {
-        "name": "Dance For Love",
-        "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ"
       },
       "artists": [
         {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+          "name": "Spencer Sutherland",
+          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
         }
       ],
-      "duration_ms": 262536,
-      "name": "Dance For Love",
-      "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
+      "duration_ms": 197290,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1433,6 +1433,38 @@
       "url": "https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Dance For Love",
+        "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "duration_ms": 262536,
+      "name": "Dance For Love",
+      "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Higher",
@@ -1447,38 +1479,6 @@
       "duration_ms": 275817,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY"
-    },
-    {
-      "added_at": "2022-07-22 04:02:00",
-      "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ"
-      },
-      "artists": [
-        {
-          "name": "Spencer Sutherland",
-          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
-        }
-      ],
-      "duration_ms": 197290,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Drippin' In Love",
-        "url": "https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K"
-      },
-      "artists": [
-        {
-          "name": "Frankie Zulferino",
-          "url": "https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Drippin' In Love",
-      "url": "https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Drippin' In Love",
+        "url": "https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K"
+      },
+      "artists": [
+        {
+          "name": "Frankie Zulferino",
+          "url": "https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC"
+        }
+      ],
+      "duration_ms": 245901,
+      "name": "Drippin' In Love",
+      "url": "https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z"
+    },
+    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Good Man (First Love)",
@@ -1511,22 +1527,6 @@
       "duration_ms": 160361,
       "name": "Good Man (First Love)",
       "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1567,22 +1567,6 @@
       "duration_ms": 230101,
       "name": "Where the Light Is",
       "url": "https://open.spotify.com/track/73Jp82FaQRWl6iii1Gl0lw"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1629,6 +1613,22 @@
       "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Don't Lose Sight",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "On Top of the World",
-        "url": "https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 239044,
-      "name": "On Top of the World",
-      "url": "https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Love Is Love",
         "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Italian Ice",
-        "url": "https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV"
+        "name": "On Top of the World",
+        "url": "https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj"
       },
       "artists": [
         {
-          "name": "Nicole Atkins",
-          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
         }
       ],
-      "duration_ms": 243769,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
+      "duration_ms": 239044,
+      "name": "On Top of the World",
+      "url": "https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -1723,6 +1707,22 @@
       "duration_ms": 216866,
       "name": "Face The River",
       "url": "https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Italian Ice",
+        "url": "https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV"
+      },
+      "artists": [
+        {
+          "name": "Nicole Atkins",
+          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
+        }
+      ],
+      "duration_ms": 243769,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
     },
     {
       "added_at": "2021-12-03 05:01:00",

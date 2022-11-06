@@ -4,7 +4,7 @@
 
 > Pintamos toooda la casa, sin dejar caer una sola gota de pintura 💀
 
-275 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
+276 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [Pass the Dutchie](https://open.spotify.com/track/0Z5J7G9K6yeNUBiTJZ033b) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:22 | 2022-06-14 | 2022-07-29 |
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-06-14 | 2022-10-07 |
 | [Phonky Tribu](https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK) | 4:46 | 2022-09-22 | 2022-10-13 |
-| [Phonky Tribu](https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx) | 4:46 | 2022-09-22 |  |
+| [Phonky Tribu](https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx) | 4:46 | 2022-09-22 | 2022-11-06 |
+| [Phonky Tribu](https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW) | 4:46 | 2022-10-31 |  |
 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 | 2021-12-15 |  |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2022-08-19 |  |
 | [play date \- sped up + reverb](https://open.spotify.com/track/6uAy1eN2ljjWGz8zR0p25V) | [sped up + reverb tazzy](https://open.spotify.com/artist/0oUvRAt9hv96E6akDwgWCI), [sped up songs](https://open.spotify.com/artist/54pWRW9zJ4FRTQLBiEOJ7T), [Tazzy](https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo) | [play date \- sped up + reverb](https://open.spotify.com/album/0Bvx6XorWFdF3Iwt9wJ7G6) | 2:38 | 2022-08-16 | 2022-10-26 |

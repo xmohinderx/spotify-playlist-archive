@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 628932,
+  "num_followers": 628991,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM3OTc4NCwwMDAwMDAwMGQ2ZmQ2NjlmMTJmOGU0YjU1NTFjMTRjY2E5ZGZkM2Q2",
+  "snapshot_id": "MTY2NjM3OTc4NCwwMDAwMDAwMGUxNDEyODc3ZjkxYjdkMDM3ZGM3OGQ4YmZlNzExMjhm",
   "tracks": [
     {
       "added_at": "2022-10-21 19:16:24",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Prana",
-        "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
-      },
-      "artists": [
-        {
-          "name": "Najia",
-          "url": "https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1"
-        }
-      ],
-      "duration_ms": 157724,
-      "name": "Ocean Breath",
-      "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 192309,
       "name": "Entirely",
       "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Prana",
+        "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
+      },
+      "artists": [
+        {
+          "name": "Najia",
+          "url": "https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1"
+        }
+      ],
+      "duration_ms": 157724,
+      "name": "Ocean Breath",
+      "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Sphere",
-        "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
-      },
-      "artists": [
-        {
-          "name": "Osterous",
-          "url": "https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Sphere",
-      "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Jubran's Lake (432hz)",
         "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 240000,
       "name": "Jubran's Lake (432hz) - No Ambience",
       "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Sphere",
+        "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
+      },
+      "artists": [
+        {
+          "name": "Osterous",
+          "url": "https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Sphere",
+      "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Neend",
-        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
-      },
-      "artists": [
-        {
-          "name": "Asanah",
-          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "Neend",
-      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Meadow / Forests",
         "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 140878,
       "name": "Forests",
       "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Neend",
+        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
+      },
+      "artists": [
+        {
+          "name": "Asanah",
+          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "Neend",
+      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Floating Hearts",
-        "url": "https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg"
-      },
-      "artists": [
-        {
-          "name": "Julyan Brynn",
-          "url": "https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v"
-        }
-      ],
-      "duration_ms": 199831,
-      "name": "Svalbard",
-      "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Frozen Sunlight",
         "url": "https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 210277,
       "name": "Frozen Sunlight - Music Only",
       "url": "https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Floating Hearts",
+        "url": "https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg"
+      },
+      "artists": [
+        {
+          "name": "Julyan Brynn",
+          "url": "https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v"
+        }
+      ],
+      "duration_ms": 199831,
+      "name": "Svalbard",
+      "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Ver Weg",
-        "url": "https://open.spotify.com/album/4AxpA6SoCBa7cWqMVrIrQO"
-      },
-      "artists": [
-        {
-          "name": "Pauline Huijbers",
-          "url": "https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Ver Weg",
-      "url": "https://open.spotify.com/track/1UbYOb8VDHmEyDO6S3UtGU"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Tenebris",
         "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 233174,
       "name": "Aragorn",
       "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Ver Weg",
+        "url": "https://open.spotify.com/album/4AxpA6SoCBa7cWqMVrIrQO"
+      },
+      "artists": [
+        {
+          "name": "Pauline Huijbers",
+          "url": "https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Ver Weg",
+      "url": "https://open.spotify.com/track/1UbYOb8VDHmEyDO6S3UtGU"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1315,38 +1315,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Ambientes",
-        "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 120172,
-      "name": "Lagrima",
-      "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
-        "name": "Dramatique Musique Classique",
-        "url": "https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4"
-      },
-      "artists": [
-        {
-          "name": "Marcel Depuis",
-          "url": "https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Pavane, Op. 50",
-      "url": "https://open.spotify.com/track/2cvTKsArRvSBWid2gRrJxo"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "The Seasons",
         "url": "https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF"
       },
@@ -1363,6 +1331,22 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
+        "name": "Ambientes",
+        "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 120172,
+      "name": "Lagrima",
+      "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
         "name": "Inch Of You",
         "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 147299,
       "name": "Backwaters",
       "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Dramatique Musique Classique",
+        "url": "https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4"
+      },
+      "artists": [
+        {
+          "name": "Marcel Depuis",
+          "url": "https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa"
+        }
+      ],
+      "duration_ms": 208596,
+      "name": "Pavane, Op. 50",
+      "url": "https://open.spotify.com/track/2cvTKsArRvSBWid2gRrJxo"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
+        "name": "Conifer",
+        "url": "https://open.spotify.com/album/2DFrfDDsktqqW94ZgPFEtS"
+      },
+      "artists": [
+        {
+          "name": "Permaculti",
+          "url": "https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "Conifer",
+      "url": "https://open.spotify.com/track/6gVrAqhSIPSh9iVRa6lgPH"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
         "name": "Are You Out There",
         "url": "https://open.spotify.com/album/01uIomsf3OpfVR0KiikG29"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 243200,
       "name": "Are You Out There",
       "url": "https://open.spotify.com/track/6TN8WHj5iZZRmmjbnJNOOt"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
-        "name": "Lucent Path",
-        "url": "https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d"
-      },
-      "artists": [
-        {
-          "name": "NAYAT",
-          "url": "https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Enter Stillness - Studio Edit",
-      "url": "https://open.spotify.com/track/0jeANkHM2w3JzKS7kx39yN"
     }
   ],
   "unique_name": "DayDreamer",

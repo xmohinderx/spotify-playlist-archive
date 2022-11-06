@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-269 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+270 songs - 16 hr 44 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Stay](https://open.spotify.com/track/2WS83LPXX6angsFsmUHies) | [Carolyn Miller](https://open.spotify.com/artist/6LkLlXe5Moqo1X9uyBLLdH) | [Stay](https://open.spotify.com/album/4RQynGVaqBsnvntk8Dap5r) | 4:48 | 2022-03-25 | 2022-04-15 |
 | [Stay](https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Stay](https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n) | 3:45 | 2022-07-29 |  |
 | [Storms Never Last](https://open.spotify.com/track/4eFO9eib4mPZYKAWCl2zKa) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Storms Never Last](https://open.spotify.com/album/5FaXoAFB95CiYsxkJAOrIc) | 3:22 | 2022-04-15 | 2022-07-12 |
-| [Straight Tequila Night](https://open.spotify.com/track/6rM6byRRxL2BZEKJ4UMNBl) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 3:23 | 2022-08-05 |  |
+| [Straight Tequila Night](https://open.spotify.com/track/6rM6byRRxL2BZEKJ4UMNBl) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 3:23 | 2022-08-05 | 2022-11-06 |
 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 | 2021-12-10 |  |
 | [Streets of Bakersfield](https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Buenas Noches From a Lonely Room](https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx) | 2:48 | 2021-12-10 | 2022-09-10 |
 | [Stuck in the Middle](https://open.spotify.com/track/73t1lXdxQNxiPbPAQPzCu4) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Speed of Life](https://open.spotify.com/album/3MjcswHYmTHkQYkTbfG9je) | 3:42 | 2022-01-07 | 2022-07-20 |
@@ -224,6 +224,7 @@
 | [Suspicious Minds](https://open.spotify.com/track/4GodBGiUwjcXkDB8i3OAMW) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Everlasting](https://open.spotify.com/album/3ftsdPLG1aVrGMOEK1WoZB) | 3:50 | 2021-12-10 | 2022-07-29 |
 | [Take It Easy \- 2006 Remaster](https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Very Best of Travis Tritt](https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx) | 3:33 | 2021-12-10 |  |
 | [Take Me Back to Tulsa \(feat\. George Strait and Willie Nelson\)](https://open.spotify.com/track/6ggNjeHvyMtEMSe7Es3EUB) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Take Me Back to Tulsa \(feat\. George Strait and Willie Nelson\)](https://open.spotify.com/album/6eLAOiOvVLfjNGkUv0wRMl) | 4:01 | 2021-12-10 | 2022-07-26 |
+| [Teenage Dream](https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7), [The 615 House](https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q) | [Teenage Dream](https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0) | 3:37 | 2022-11-04 |  |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2021-12-10 |  |
 | [Tequila](https://open.spotify.com/track/5vJq4IOPmNXBYa4sxuowNr) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/0nlQDrmzmr6aLzw3TkkEze) | 3:22 | 2022-03-25 | 2022-04-21 |
 | [Thank God I'm A Country Boy](https://open.spotify.com/track/00ICqiFJafsHkpJa5N9XSF) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Let Them Be Little](https://open.spotify.com/album/0nXljlBNfJjeiFgN8L6o2f) | 2:54 | 2022-01-07 | 2022-07-23 |

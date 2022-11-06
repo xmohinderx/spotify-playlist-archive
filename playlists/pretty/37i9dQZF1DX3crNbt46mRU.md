@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Drake, 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,662 likes - 98 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,675 likes - 98 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 92 | [Kein Weltuntergang](https://open.spotify.com/track/3li37dNIATWvbri6ji2l8u) | [Alien Surf Girl](https://open.spotify.com/artist/5HJnjbg0jin1bXgPVKewQi) | [Kein Weltuntergang](https://open.spotify.com/album/4GA0GXR2uZJvUAWTQ1q50I) | 3:44 |
 | 93 | [Devil in a Dress](https://open.spotify.com/track/0zfMZJZNxoER4XroNWn9nA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Devil in a Dress](https://open.spotify.com/album/31fkCinqLPXkUfZKyp4rtW) | 2:55 |
 | 94 | [TRADE](https://open.spotify.com/track/5uu5sFyGia3nZjC6WClmtn) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [TRADE](https://open.spotify.com/album/4q3zUHMIWeMqRq4Wwrbym4) | 3:07 |
-| 95 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/6GDDxhe281I5aNSgCYphex) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
+| 95 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
 | 96 | [Milky Way](https://open.spotify.com/track/7zoc0j6BjiWh7DCeyfZvDA) | [Mirco Kima](https://open.spotify.com/artist/30RwqXb05doFA1yZM7HURb) | [Milky Way](https://open.spotify.com/album/5MxCSitYMqquLOr2FOHJb8) | 3:12 |
 | 97 | [Kafala Kafala \(This Time For Qatar\)](https://open.spotify.com/track/3OMf3WULKdVuxfSygVafTZ) | [BLUTHUND](https://open.spotify.com/artist/6GTlPOFGjXUOE9fg8tNNdf) | [Kafala Kafala \(This Time For Qatar\)](https://open.spotify.com/album/6hzGerR5z5PTXhblpzvsOC) | 3:17 |
 | 98 | [Keine Angst](https://open.spotify.com/track/5Dr6MGRFzlahj0JwSJqXtV) | [Maite Kelly](https://open.spotify.com/artist/67e4k4hUdeTb0UIm878liJ), [Giovanni Zarrella](https://open.spotify.com/artist/5KbxDPo9oNgtxFy3qd7qln) | [Keine Angst](https://open.spotify.com/album/2aTkvLRAD1b8FrOTOcdwlP) | 4:02 |

@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Magnolia Park
 
-850 songs - 1 day 21 hr 25 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+851 songs - 1 day 21 hr 27 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Heaven's Sake](https://open.spotify.com/track/5BDIfc3cF8SNCBs1arNNb7) | [Subcon](https://open.spotify.com/artist/1wXwnup2lmyDhzqM9ZEZ7K) | [Heaven's Sake](https://open.spotify.com/album/3QMtFSMdMCqAYnydNswv0A) | 3:14 | 2022-02-04 | 2022-07-29 |
 | [Heaven, We're Already Here](https://open.spotify.com/track/48Kt0Zugeset3zlvhLPJmz) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [You Are OK](https://open.spotify.com/album/0DRUOQBsax8QLUVctbEIAT) | 4:39 | 2022-01-14 | 2022-05-16 |
 | [Heavy \(feat\. blackbear\)](https://open.spotify.com/track/4xD908nOSNCQwAWfLgv3Vk) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Heavy \(feat\. blackbear\)](https://open.spotify.com/album/67LeSfcBb82sUrETmSGTkJ) | 2:47 | 2021-12-10 | 2022-05-20 |
+| [HEAVYWEIGHT](https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9) | 2:49 | 2022-11-04 |  |
 | [HELLO//GOODBYE](https://open.spotify.com/track/0qbljrZfzWKZiBHlSKVay7) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv) | [HELLO//GOODBYE](https://open.spotify.com/album/3cHlK9W4aabTv21Arf0xmb) | 2:19 | 2022-08-26 |  |
 | [Here for War](https://open.spotify.com/track/7hxYTLsBilhqFM3B5wy5n4) | [Losers Club](https://open.spotify.com/artist/2qTzOTZEnY4BwtFVAry5iR) | [Here for War](https://open.spotify.com/album/1tKEiXjpNpvtRIorJFkzES) | 3:22 | 2022-03-25 | 2022-04-15 |
 | [Heroin](https://open.spotify.com/track/74drJLr20XF1f4yqyNPRSZ) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Heroin](https://open.spotify.com/album/05AOz993WTdQcAox3vPcjv) | 4:41 | 2021-12-10 | 2022-04-21 |
@@ -589,7 +590,7 @@
 | [Prayers](https://open.spotify.com/track/6yuPyWu2I5RvuYgDIdaHWp) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Interrobang](https://open.spotify.com/album/1GYrUGqVBmMSA5W1WiAqLX) | 3:30 | 2022-02-04 | 2022-07-05 |
 | [pretend](https://open.spotify.com/track/0EdYGWGB9PfKIm5MU0Mk6x) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [pretend](https://open.spotify.com/album/7y7OzPOsYk7eXeNwwGECvn) | 2:59 | 2021-12-10 | 2022-07-28 |
 | [pretend](https://open.spotify.com/track/27HkyZkH0wo1Y0bvC8UxjU) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Trauma Factory](https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY) | 2:59 | 2022-07-08 |  |
-| [Problem](https://open.spotify.com/track/0LYvntdyZiGuy6HvFp2kHF) | [FRND](https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Problem](https://open.spotify.com/album/69vgQKuL4alaiEshd7my6c) | 2:57 | 2022-06-24 |  |
+| [Problem](https://open.spotify.com/track/0LYvntdyZiGuy6HvFp2kHF) | [FRND](https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Problem](https://open.spotify.com/album/69vgQKuL4alaiEshd7my6c) | 2:57 | 2022-06-24 | 2022-11-06 |
 | [Projector](https://open.spotify.com/track/3gMptGImK6XHJhFuWwmqtE) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Projector](https://open.spotify.com/album/1ouxhpfQNDh5SoSIZCbCXb) | 3:12 | 2022-01-28 | 2022-06-23 |
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-10-07 |  |
 | [R.I.P](https://open.spotify.com/track/37PZSNSxLG6iuJAlUo8Wqv) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [R.I.P](https://open.spotify.com/album/2PkakWXe2YnTBVv0QsRyNc) | 3:05 | 2022-03-25 | 2022-07-07 |

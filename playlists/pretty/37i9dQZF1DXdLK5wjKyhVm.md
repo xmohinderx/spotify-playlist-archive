@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,909 likes - 167 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,339 likes - 167 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 80 | [Flannel Ballad](https://open.spotify.com/track/5ML2EJhOo795DQdu9vlnkA) | [funLabor](https://open.spotify.com/artist/0bzltcLBQqC7wTDefQutkc) | [Flannel Ballad](https://open.spotify.com/album/1ZDYdlP14ukhfHIVGUeDm9) | 1:49 |
 | 81 | [Tea Time](https://open.spotify.com/track/6XYaIOhT9WYBo5PXcVL567) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Tea Time](https://open.spotify.com/album/2OlDVuUHQTg8JM4DjPYxxL) | 1:43 |
 | 82 | [hyperōon](https://open.spotify.com/track/5If8IfFFoKb0gAiT7OHV10) | [solae](https://open.spotify.com/artist/0k8mD0prjdPcC9HRtTuRr4) | [pneuma](https://open.spotify.com/album/3uKoJL14ttBrgoSNAvOjJt) | 1:25 |
-| 83 | [Cadillac Moon](https://open.spotify.com/track/6L0akuFYGDxpuqhcbMBX37) | [Juna](https://open.spotify.com/artist/1v8lZNkqxJzsn8KsRGDsUm) | [Cadillac Moon](https://open.spotify.com/album/6De3gGKyllrv8bn01ihpds) | 1:33 |
+| 83 | [Cadillac Moon](https://open.spotify.com/track/5FL8WNc3o0Y457aP6P2XxF) | [Juna](https://open.spotify.com/artist/1v8lZNkqxJzsn8KsRGDsUm) | [Cadillac Moon](https://open.spotify.com/album/2ZGsDR8rXrJxINXoM4KIxs) | 1:33 |
 | 84 | [It's Okay](https://open.spotify.com/track/7hC1AToOztuiOSfgav9qLd) | [Swik](https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai) | [Growing](https://open.spotify.com/album/0WGhfrtGpcK8YhyMvoGw6I) | 3:03 |
 | 85 | [Pond Jumping](https://open.spotify.com/track/3Sy7c30lh7w6L9olCcm1FE) | [Ippi](https://open.spotify.com/artist/5Apq17wh3bdYdX52rCYkQK) | [Pond Jumping](https://open.spotify.com/album/7z1hKpabLTophAUB2oGTq2) | 2:19 |
 | 86 | [Freediving](https://open.spotify.com/track/4wdLAE3i6t3tCqE6WBn7bY) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8), [The Retune Project](https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr) | [Freediving](https://open.spotify.com/album/3nztq8SQNVbhtvwxBU3GGL) | 2:00 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 166 | [Sun Day](https://open.spotify.com/track/5EIrJ59T18nnpxDBBn1yjJ) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Sun Day](https://open.spotify.com/album/1VjeX2hkfm4FZxixjy4I9A) | 1:54 |
 | 167 | [Remember That](https://open.spotify.com/track/7eCNgZU8r9GmyOJYA9q5oS) | [Tino Tapes](https://open.spotify.com/artist/6317TasPoXGpLcmnwqwB6y) | [Remember That](https://open.spotify.com/album/1iRAG8gw95qM7v6PGz18qH) | 2:21 |
 
-Snapshot ID: `MTY2Njk0NzkwOCwwMDAwMDAwMDVlZWZjNDJhMjg1Yjg5NDY4MjM4YTAzMWIwMWQzZGM2`
+Snapshot ID: `MTY2Njk0NzkwOCwwMDAwMDAwMDhmYzNmZDE2NTI1NGFkNGUzZDE3NzAxNzVjM2ZkMWFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: WHOKILLEDXIX
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,846 likes - 82 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,931 likes - 82 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 35 | [Car Crash](https://open.spotify.com/track/5dXIrAUNLOcN2mYkCSeO3k) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Car Crash](https://open.spotify.com/album/2F4bQLWNLz55akGbkwu7BB) | 3:53 |
 | 36 | [Go Get A Tattoo \(feat\. Lynks\)](https://open.spotify.com/track/6jlelDSfxfbXHcvecHirda) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Go Get A Tattoo \(feat\. Lynks\)](https://open.spotify.com/album/20Jc5OznITldQ6pJPjxO5m) | 2:38 |
 | 37 | [Bet My Blood](https://open.spotify.com/track/3k148B0XDmtKhGjC2fBgND) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 2:59 |
-| 38 | [Flux](https://open.spotify.com/track/59yzTH5FEyyaDXs5Qo5aq7) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/1q959WGOu0ZDfrJnnWRNgD) | 5:00 |
+| 38 | [Flux](https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 5:00 |
 | 39 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 |
 | 40 | [A$$A$$IN](https://open.spotify.com/track/3sA3QDurusOs0paKSUZ4I6) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [We Made Plans & God Laughed](https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd) | 3:09 |
 | 41 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 81 | [Date With Death](https://open.spotify.com/track/51JGjj0xewUWWCLKr152nU) | [Paris Shadows](https://open.spotify.com/artist/2mxplErmRMbGaSiAsDONkT), [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Date With Death](https://open.spotify.com/album/53APyRUyeCXI7jislWMpRA) | 1:59 |
 | 82 | [you can't blame me](https://open.spotify.com/track/25qPKjzyzuWiXGmjLerWhU) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 2:05 |
 
-Snapshot ID: `MTY2NDQ5MjQwMCwwMDAwMDAwMDJiOWJmYWI1Y2IxNDQ5ODIwOTViZTllMGFhMTk2MDVk`
+Snapshot ID: `MTY2NDQ5MjQwMCwwMDAwMDAwMDIyZWM1NTVlMWY4ZjUwNzg1Y2U2MDM0Zjc2Nzc3ZWU1`

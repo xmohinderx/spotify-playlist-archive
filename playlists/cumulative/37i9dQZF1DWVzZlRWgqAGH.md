@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: NxWorries \(Anderson .Paak, Knxwledge\)
 
-749 songs - 1 day 20 hr 16 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+750 songs - 1 day 20 hr 20 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Energy](https://open.spotify.com/track/3FWAZJPK3fMv7eCSfvO8Ux) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Energy](https://open.spotify.com/album/6lGWjPfB4OjBWwOl2KQcpc) | 3:07 | 2020-04-14 | 2020-05-25 |
 | [Enough](https://open.spotify.com/track/2MWB1BgmEVO4vON45QlIIS) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Enough](https://open.spotify.com/album/5y5O7y1TM0ONBskzwfavtG) | 3:53 | 2020-09-11 | 2020-10-23 |
 | [Envy](https://open.spotify.com/track/1r5Wy0mdNNjrQ4ZDsfeluz) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Envy](https://open.spotify.com/album/6rGn9CWP5MHpGCh3muc5ax) | 4:07 | 2022-05-13 | 2022-10-29 |
+| [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 | 2022-10-28 |  |
 | [Escape Room](https://open.spotify.com/track/3PqfIzjdXFkes2nqnJZVyL) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Cavalier](https://open.spotify.com/album/4sDfTf3lEeIwkGW4roChzj) | 3:21 | 2020-06-29 | 2020-10-21 |
 | [Escondida](https://open.spotify.com/track/0ajYUR68w2YUe2bXWDVCWB) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Escondida](https://open.spotify.com/album/0YzIkLsyNOIRQ6xwVXVC2L) | 2:55 | 2020-09-04 | 2020-10-09 |
 | [ET Part II: Venus](https://open.spotify.com/track/28yIw3mv4M0sgu98X3j2xc) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [TiKA](https://open.spotify.com/artist/7rBEyjzKmTmWrrhSOhxspU), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [ET Part II: Venus](https://open.spotify.com/album/6755q50S9kzuDSswSL3mvf) | 2:59 | 2021-03-14 | 2021-05-10 |
@@ -474,7 +475,7 @@
 | [On A Beach](https://open.spotify.com/track/2L5C7PD6XsSVDv7RLhoh4i) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [2 METRES APART](https://open.spotify.com/album/4aZ3411k7YWqlKH0wKAQW9) | 3:19 | 2020-06-19 | 2020-09-04 |
 | [On a Blue Sunny Day](https://open.spotify.com/track/2WEidJAW3jMLM0mtpmh0ya) | [Leo Pesci](https://open.spotify.com/artist/2JRSgE22ZVQ7pdqnv46QGQ) | [On a Blue Sunny Day](https://open.spotify.com/album/76rPJkqnXHmwgWhsVAWUUR) | 3:22 | 2020-12-11 | 2022-05-27 |
 | [On Repeat](https://open.spotify.com/track/3HXdqRgJq1PxhPyERUPx1d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Osiris EP](https://open.spotify.com/album/6yRrlH2Lw1Zlu0hxd6vq7n) | 3:01 | 2021-09-09 | 2022-05-10 |
-| [One More Kiss](https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R) | 3:46 | 2022-07-22 |  |
+| [One More Kiss](https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R) | 3:46 | 2022-07-22 | 2022-11-06 |
 | [One More Kiss](https://open.spotify.com/track/5Tfhu1RyUKxxkrurEBGPuj) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/3OfRIGjI51gWg7oA9wMsHB) | 3:46 | 2021-02-22 | 2022-07-27 |
 | [Ooowee \(feat\. Elijah Dax\)](https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Elijah Dax](https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 4:13 | 2022-04-22 | 2022-10-20 |
 | [Open](https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 2:54 | 2022-05-13 |  |

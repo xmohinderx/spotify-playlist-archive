@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1704934,
+  "num_followers": 1705133,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMGFkYmM2ZjRjMTUxYWY3YTU3OGQ0OWJhMDBhNmMxZDAy",
+  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMGFlYWE2ODNhOTMzMmJjOGM5ZmVlZGJiMjNlMzgzMWU2",
   "tracks": [
     {
       "added_at": "2022-08-31 06:52:27",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/5wUOStQ3CWOvHKMYAguLRN"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 92539,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/1twVzpotI6HwGVOT00m3ml"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "D\u00e9jame Ir",
         "url": "https://open.spotify.com/album/5MAHn88iqWSOsfXQ1GBLby"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 232743,
       "name": "D\u00e9jame Ir",
       "url": "https://open.spotify.com/track/3nymR2pRbiDq89qS2osIVX"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/5wUOStQ3CWOvHKMYAguLRN"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 92539,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/1twVzpotI6HwGVOT00m3ml"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Te echo de menos",
         "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 194986,
       "name": "Te echo de menos",
       "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 209221,
+      "name": "Hablemos de amor",
+      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -851,6 +851,26 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "Lo siento (feat. Sof\u00eda Reyes)",
+        "url": "https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 232655,
+      "name": "Lo siento (feat. Sof\u00eda Reyes)",
+      "url": "https://open.spotify.com/track/5dITA6jTX7f1gHwEAyS3YZ"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "PAUSA",
         "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
       },
@@ -867,22 +887,6 @@
       "duration_ms": 232331,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/7zh0PdIYt6HxXoPvfb30MU"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "Colecci\u00f3n Definitiva",
-        "url": "https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -923,6 +927,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "Montaner",
         "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 253760,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "Lo siento (feat. Sof\u00eda Reyes)",
-        "url": "https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 232655,
-      "name": "Lo siento (feat. Sof\u00eda Reyes)",
-      "url": "https://open.spotify.com/track/5dITA6jTX7f1gHwEAyS3YZ"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "20 -- 21",
+        "url": "https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 164380,
+      "name": "Con la Falta Que Me Haces",
+      "url": "https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "Lo Que Me D\u00e9 la Gana",
         "url": "https://open.spotify.com/album/7wtZmmV9IngZcM71QUBUgL"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 229630,
       "name": "Avioncito de Papel",
       "url": "https://open.spotify.com/track/3NotbAoyN09CuKaqWQP48U"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "20 -- 21",
-        "url": "https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 164380,
-      "name": "Con la Falta Que Me Haces",
-      "url": "https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd"
     },
     {
       "added_at": "2022-08-31 06:52:27",

@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Kenyon Dixon
 
-571 songs - 1 day 6 hr 53 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
+571 songs - 1 day 6 hr 54 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,7 +438,7 @@
 | [Rollercoaster](https://open.spotify.com/track/5nDNj7aBdekBb9X7h2Nugi) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Rollercoaster](https://open.spotify.com/album/4iS0UU37Huv1EJCRoZ0Ppx) | 3:33 | 2022-07-09 | 2022-09-03 |
 | [Rose \- Stripped](https://open.spotify.com/track/6v7VKACk6oVhfX7vw4kVLo) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV), [Gregory Edwards](https://open.spotify.com/artist/6DZH1JLOEFPPxXUu5Gj1fD) | [Rose \(Stripped\)](https://open.spotify.com/album/5J7uK1xTiq5Osg6nNXOzwz) | 3:47 | 2022-07-29 | 2022-08-27 |
 | [Roster](https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:39 | 2022-02-11 | 2022-03-18 |
-| [Safe](https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Private Suite 4: The Mixtape](https://open.spotify.com/album/3pizVvi3ZP6mzletymu6WS) | 2:37 | 2022-11-04 |  |
+| [Safe](https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Private Suite 4: The Mixtape](https://open.spotify.com/album/3pizVvi3ZP6mzletymu6WS) | 3:40 | 2022-11-04 |  |
 | [Sailor Moon \- 2.0](https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Sailor Moon \(2.0\)](https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz) | 3:17 | 2022-09-09 | 2022-10-01 |
 | [Satisfied](https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Satisfied](https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn) | 2:38 | 2022-11-04 |  |
 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 | 2022-05-20 | 2022-06-25 |

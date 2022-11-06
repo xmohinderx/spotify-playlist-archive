@@ -4,7 +4,7 @@
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-391 songs - 19 hr 48 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
+392 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Inside Out](https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7) | [Bonray](https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg) | [Inside Out](https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U) | 3:13 | 2022-03-23 |  |
 | [It Could Be Worse](https://open.spotify.com/track/1pn9N05evZd09npQBnsC31) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [It Could Be Worse](https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw) | 2:24 | 2022-02-04 |  |
 | [It's Not a Game](https://open.spotify.com/track/4ZldPUIhCbTdvGsMHN7Ubk) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [It's Not a Game](https://open.spotify.com/album/4w112nlXlKhCRxMqCICFF3) | 2:54 | 2022-02-04 |  |
+| [Jesus Called My Name](https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 4:20 | 2022-11-04 |  |
 | [Jesus Called My Name](https://open.spotify.com/track/749CMDRkLnWFXTYGT123S4) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Jesus Called My Name](https://open.spotify.com/album/53KVcS6ZFxmvtXbNxamie3) | 4:20 | 2022-09-03 | 2022-11-05 |
 | [Jonah](https://open.spotify.com/track/4cWDgGTClNmfdscTIjPUy8) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Jonah](https://open.spotify.com/album/3dymiggXTLt85VuUagBcjH) | 3:18 | 2022-05-28 | 2022-07-25 |
 | [josiah.](https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [josiah.](https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J) | 2:09 | 2022-10-01 |  |
@@ -236,7 +237,7 @@
 | [New](https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [New](https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE) | 3:15 | 2022-05-28 |  |
 | [Night Club](https://open.spotify.com/track/2ie1cOWQet91iWwmAQVkWB) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9) | [Night Club](https://open.spotify.com/album/1KS3JLb1BNIQbAITY60fZr) | 3:22 | 2022-09-03 | 2022-10-21 |
 | [Night Owl \(feat\. EmanuelDaProphet\)](https://open.spotify.com/track/7427pV9FeySxcylAzIjYW1) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC) | [Night Owl \(feat\. EmanuelDaProphet\)](https://open.spotify.com/album/3JKe0MAkNTUH7bbsk2CjEP) | 2:47 | 2022-07-17 | 2022-08-08 |
-| [Nino Brown](https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Nino Brown](https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6) | 2:24 | 2022-07-17 |  |
+| [Nino Brown](https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Nino Brown](https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6) | 2:24 | 2022-07-17 | 2022-11-06 |
 | [No Breaks](https://open.spotify.com/track/4k9w07M7tTgZuhc1zu3rgT) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye) | [Beautiful Chaos](https://open.spotify.com/album/1S5f8d3lHI9WlvG8G63yZY) | 3:06 | 2022-02-04 | 2022-07-29 |
 | [No Ceilings](https://open.spotify.com/track/1gp0U9OhufHHgoDl5qNJsp) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [No Limits](https://open.spotify.com/album/2miXyGveSEG0bGayLr9Q9T) | 1:53 | 2022-02-04 | 2022-09-03 |
 | [No Chains](https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [No Chains](https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr) | 3:42 | 2022-02-04 |  |

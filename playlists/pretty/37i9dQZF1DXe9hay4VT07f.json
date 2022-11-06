@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Popcaan",
-  "num_followers": 335995,
+  "num_followers": 336212,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyNTA3MywwMDAwMDAwMDkxMTRhMGMzMzk0ZTBmYTJhZTYzNGJlZjc4NzBkNmQ3",
+  "snapshot_id": "MTY2MjcyNTA3MywwMDAwMDAwMDYxOGY2ZjViMTE2NDNlNmI2NjZjMmU2ZDRiYTFhZWM0",
   "tracks": [
     {
       "added_at": "2022-09-09 12:04:33",
@@ -299,34 +299,22 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
       },
       "artists": [
         {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 171092,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
-        "name": "Rumors",
-        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
-      },
-      "artists": [
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
         {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+          "name": "Ms. Thing",
+          "url": "https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen"
         }
       ],
-      "duration_ms": 222893,
-      "name": "Nobody Has to Know",
-      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
+      "duration_ms": 255360,
+      "name": "Dude",
+      "url": "https://open.spotify.com/track/746nPV2NXSoxW3imGpG8gk"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -351,22 +339,34 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
       },
       "artists": [
         {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        },
-        {
-          "name": "Ms. Thing",
-          "url": "https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen"
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
         }
       ],
-      "duration_ms": 255360,
-      "name": "Dude",
-      "url": "https://open.spotify.com/track/746nPV2NXSoxW3imGpG8gk"
+      "duration_ms": 222893,
+      "name": "Nobody Has to Know",
+      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 171092,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
         "name": "Ambala",
         "url": "https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 217106,
       "name": "King Of The Dancehall",
       "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -687,22 +687,6 @@
       "duration_ms": 215920,
       "name": "Too Many Man",
       "url": "https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
-        "name": "World of Reggae Music (Edited)",
-        "url": "https://open.spotify.com/album/6qLRxF0gy9GFyoRMCKlJr7"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Romping Shop",
-      "url": "https://open.spotify.com/track/6qd2ehzEHv1Tl5pJ3itpKx"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -967,22 +951,6 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
-        "name": "Strictly The Best Vol 33",
-        "url": "https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV"
-      },
-      "artists": [
-        {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Willie Bounce",
-      "url": "https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
         "name": "Bookshelf Riddim",
         "url": "https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc"
       },
@@ -1015,6 +983,22 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
+        "name": "Strictly The Best Vol 33",
+        "url": "https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Willie Bounce",
+      "url": "https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
         "name": "Forgive Me",
         "url": "https://open.spotify.com/album/3420tn1FpPedT6tGRhe01X"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 233125,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/6KDUXVgS7Fifk8NsBT7i9S"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
+        "name": "Soul Survivor Riddim",
+        "url": "https://open.spotify.com/album/7acAQDsVCREjceQG3ZcT9o"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Ocean Wave",
+      "url": "https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -1063,22 +1063,6 @@
       "duration_ms": 225706,
       "name": "Press Trigger",
       "url": "https://open.spotify.com/track/27GiOlVbVjPaN8wco4d9m2"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
-        "name": "Soul Survivor Riddim",
-        "url": "https://open.spotify.com/album/7acAQDsVCREjceQG3ZcT9o"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Ocean Wave",
-      "url": "https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
+        "name": "Riddim Driven: Applause",
+        "url": "https://open.spotify.com/album/0Oy4Q9QsoRFxdzcMVwF0Rm"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "TEMPERATURE",
+      "url": "https://open.spotify.com/track/6zSThntwhPtWU3my2y9I1F"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
         "name": "Boom Bang (with Davido)",
         "url": "https://open.spotify.com/album/0HRvp6uFFEX8fbALXV3ten"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 161684,
       "name": "Boom Bang",
       "url": "https://open.spotify.com/track/437B7MVyS4cRTtwIBCDp39"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
-        "name": "Riddim Driven: Applause",
-        "url": "https://open.spotify.com/album/0Oy4Q9QsoRFxdzcMVwF0Rm"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "TEMPERATURE",
-      "url": "https://open.spotify.com/track/6zSThntwhPtWU3my2y9I1F"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -1243,22 +1227,6 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
-        "name": "Buzz Riddim",
-        "url": "https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Give Me the Light",
-      "url": "https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
         "name": "Man a Star (Remix)",
         "url": "https://open.spotify.com/album/3hlpUSqZ8zVJ7tcvOg0LlR"
       },
@@ -1275,6 +1243,22 @@
       "duration_ms": 192941,
       "name": "Man a Star - Remix",
       "url": "https://open.spotify.com/track/4uBjlrTaTTnhNQAGMIB982"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
+        "name": "Buzz Riddim",
+        "url": "https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Give Me the Light",
+      "url": "https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9"
     },
     {
       "added_at": "2022-09-09 12:04:33",
@@ -1299,6 +1283,42 @@
     {
       "added_at": "2022-09-09 12:04:33",
       "album": {
+        "name": "Hot Wuk 12\"",
+        "url": "https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Hot Wuk (Album Clean)",
+      "url": "https://open.spotify.com/track/2da3Y5CAzX4IZtuXnCD8DN"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
+        "name": "Romping Shop",
+        "url": "https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Romping Shop",
+      "url": "https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz"
+    },
+    {
+      "added_at": "2022-09-09 12:04:33",
+      "album": {
         "name": "Original Nuttah",
         "url": "https://open.spotify.com/album/3z68B1FAnvehe5zSdLhNCO"
       },
@@ -1315,22 +1335,6 @@
       "duration_ms": 312000,
       "name": "Original Nuttah",
       "url": "https://open.spotify.com/track/53mh7POQqTXj2Cfh7phP5b"
-    },
-    {
-      "added_at": "2022-09-09 12:04:33",
-      "album": {
-        "name": "Hot Wuk 12\"",
-        "url": "https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Hot Wuk (Album Clean)",
-      "url": "https://open.spotify.com/track/2da3Y5CAzX4IZtuXnCD8DN"
     },
     {
       "added_at": "2022-09-09 12:04:33",

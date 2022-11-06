@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-183 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
+184 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Butterflies](https://open.spotify.com/track/3HPS8Nh23hatP7iZ3E7qEz) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H) | 3:17 | 2022-07-22 |  |
 | [Butterflies](https://open.spotify.com/track/5XGJj8eIm5tSdxkIm6GBal) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Butterflies](https://open.spotify.com/album/5pzzVGspnxIYiGqqYyxstR) | 3:18 | 2022-02-18 | 2022-07-29 |
 | [Call My Name](https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Call My Name](https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn) | 3:21 | 2022-02-18 |  |
+| [Carry It Well](https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Carry It Well](https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy) | 3:35 | 2022-11-04 |  |
 | [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 | 2022-07-22 |  |
 | [Carry Me Away](https://open.spotify.com/track/6TL3MOcVW8i1UiJkvhpDbR) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Carry Me Away](https://open.spotify.com/album/5KvmuOTWNRFPAQdz0KRPcf) | 2:39 | 2022-02-18 | 2022-07-29 |
 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 | 2022-02-18 |  |
@@ -119,7 +120,7 @@
 | [Other Side](https://open.spotify.com/track/23PpvHwxa535ru2yN69Oly) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 4:15 | 2022-07-22 | 2022-10-16 |
 | [Over the Moon](https://open.spotify.com/track/4zJHWlJRhgIXCZ1B7a1Egu) | [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [Over the Moon](https://open.spotify.com/album/731CeqLpZMYbPQotXv9aKi) | 3:28 | 2022-02-18 | 2022-05-07 |
 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-08 |  |
-| [Problems \(feat\. Grady\)](https://open.spotify.com/track/3mTcmCSROO6CPW50vHN7Et) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Problems \(feat\. Grady\)](https://open.spotify.com/album/2b8AWTnpb1Z4ilTXRlK1KE) | 3:23 | 2022-07-22 |  |
+| [Problems \(feat\. Grady\)](https://open.spotify.com/track/3mTcmCSROO6CPW50vHN7Et) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Problems \(feat\. Grady\)](https://open.spotify.com/album/2b8AWTnpb1Z4ilTXRlK1KE) | 3:23 | 2022-07-22 | 2022-11-06 |
 | [Problems \(feat\. Grady\)](https://open.spotify.com/track/4GbZ9vQSgE3lmQ5dcxpKSl) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Problems \(feat\. Grady\)](https://open.spotify.com/album/78R8twPAoAHiix5OspTCPp) | 3:23 | 2022-02-18 | 2022-07-29 |
 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2022-02-18 |  |
 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 | 2022-02-18 |  |

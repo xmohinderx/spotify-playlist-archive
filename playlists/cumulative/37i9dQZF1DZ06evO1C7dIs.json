@@ -883,10 +883,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 284533,
       "name": "Swanheart",
       "url": "https://open.spotify.com/track/5NULYChw0sL9RUVAxKkTQP"
+    },
+    {
+      "album": {
+        "name": "Imaginaerum",
+        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250386,
+      "name": "The Crow, the Owl and the Dove",
+      "url": "https://open.spotify.com/track/6udzPCAaSWZ1dIE8VwX67z"
     },
     {
       "album": {

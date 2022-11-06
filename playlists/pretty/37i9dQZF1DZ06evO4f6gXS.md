@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,808 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,811 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 47 | [The More I Get To Know You](https://open.spotify.com/track/69VxpJEzI5FQnsMi9oKx4Y) | [Richard Anthony Davis](https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL), [Emmanuel](https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o), [Chris Ballin](https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W), [Dean Edwards](https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh), [Anthony Drakes](https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza), [Julianne](https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR), [The Sound Principle](https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw) | [Soul Central, Vol\. 1](https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya) | 4:31 |
 | 48 | [If You Don't Start Nothing](https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Luxury Soul 2018](https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L) | 2:37 |
 | 49 | [Taster of the Honey \(Not Keeper of the Bee\)](https://open.spotify.com/track/6sjotJtpxuxZ3h2J9j65nI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 2:53 |
-| 50 | [My Own Special Way](https://open.spotify.com/track/1tg9bmIvnUnxyFSI1f1q05) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Soul On Fire \(The Detroit Soul Story 1957\-1977\)](https://open.spotify.com/album/0DouGS8KhNCjbs3wrjcrCT) | 3:08 |
+| 50 | [Don't Be Sorry Be Careful](https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant B\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu) | 2:48 |
 
-Snapshot ID: `Mjc3OTM0MTUsMDAwMDAwMDAyOTE4MGQ1OWQxMDU2YjZhNTM3NTdjZjk3MThlY2MyMA==`
+Snapshot ID: `Mjc3OTQ0MzYsMDAwMDAwMDBhYTNhNTkyZTVjMTM1N2E2OGRmNWE0NDE2NDc5ZTdlZg==`

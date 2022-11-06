@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Drake, 21 Savage, NLE Choppa, Masego, Rican Da Menace, Mickey Guyton, and many more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,855 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,926 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 18 | [They Want It, But No](https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:37 |
 | 19 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 |
 | 20 | [MUDPIES \- Live on MajorStage](https://open.spotify.com/track/1dQwILrc52hfyf7Mp1w1nK) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MajorStage](https://open.spotify.com/artist/3H3bgktdv4JjIrdl9py6CI) | [MUDPIES \(Live on MajorStage\)](https://open.spotify.com/album/70BBg9e4HYTBLe0Uz1eGXb) | 1:57 |
-| 21 | [Safe](https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Private Suite 4: The Mixtape](https://open.spotify.com/album/3pizVvi3ZP6mzletymu6WS) | 2:37 |
+| 21 | [Safe](https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Private Suite 4: The Mixtape](https://open.spotify.com/album/3pizVvi3ZP6mzletymu6WS) | 3:40 |
 | 22 | [Outside Lookin In](https://open.spotify.com/track/2E0GPxxASUGBkgZevrhr3V) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Outside Lookin In](https://open.spotify.com/album/5i4bMLcHAgno1DeDLa0FkP) | 2:07 |
 | 23 | [Never](https://open.spotify.com/track/14ABt5PRAULFoVVVUsQV0J) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [No Longer in the Suburbs \(Deluxe\)](https://open.spotify.com/album/2j2XtfzuhGKNxsmM4rI3xi) | 3:54 |
 | 24 | [Block Got Hot](https://open.spotify.com/track/3c5sMCpE82iR3IwLdFDFHX) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [Block Got Hot](https://open.spotify.com/album/0G0YgvVvJTZEocIX1QVeDv) | 1:54 |
 | 25 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 |
-| 26 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/6GDDxhe281I5aNSgCYphex) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
+| 26 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 |
 | 27 | [GRIND MENTALITY](https://open.spotify.com/track/6aI4MA6H6otZNVLVO73o02) | [Ctrlgang](https://open.spotify.com/artist/4bMX90q14BwLcwOZPe9hZV) | [GRIND MENTALITY](https://open.spotify.com/album/0PbWvjvhfdD9IC0T6SP6b5) | 1:35 |
 | 28 | [RBT](https://open.spotify.com/track/6pK0FMFD0Q0GtsiZ5laA8W) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF) | [Down In The Valley \(Mixtape\)](https://open.spotify.com/album/7nxBJnr6HvLAf5MNxh1nm5) | 2:58 |
 | 29 | [Higher 3](https://open.spotify.com/track/05jCSDW9GCgwR0XkYvs7gY) | [NASCAR P 13k](https://open.spotify.com/artist/06tQPaqB8PniGzJoXlby0R), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Higher 3](https://open.spotify.com/album/3Jqa73q5FJbF4GFmDvO6pY) | 1:33 |

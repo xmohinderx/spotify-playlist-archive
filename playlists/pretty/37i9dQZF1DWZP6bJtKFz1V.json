@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: Blu DeTiger",
-  "num_followers": 82335,
+  "num_followers": 82357,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGM1NmQ0MWYyNzE4ODhmYWMxMzk4ZmNmZWUxNGMzNTE0",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDViM2U1OTY4YjViMTNiMGFjMzg3MmYyMmU5OTVmNzBj",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "I Can't Help But Feel",
-        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 178780,
-      "name": "I Can't Help But Feel",
-      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "how deep?",
         "url": "https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 154506,
       "name": "how deep?",
       "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Stereo Driver",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Stereo Driver",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 188520,
       "name": "Want Want",
       "url": "https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+        "name": "Stereo Driver",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
       },
       "artists": [
         {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 183440,
-      "name": "Then It All Goes Away",
-      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+      "duration_ms": 231533,
+      "name": "Stereo Driver",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "What, Me Worry?",
-        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 177397,
-      "name": "What, Me Worry?",
-      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "u turn me on (but u give me depression)",
         "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 147535,
       "name": "u turn me on (but u give me depression)",
       "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "What, Me Worry?",
+        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 177397,
+      "name": "What, Me Worry?",
+      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "OTT",
-        "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 157817,
-      "name": "OTT",
-      "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 138894,
       "name": "I Do",
       "url": "https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "OTT",
+        "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 157817,
+      "name": "OTT",
+      "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Wet Cement",
+        "url": "https://open.spotify.com/album/09nVh8buc4n4lewLvRpSQG"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 273299,
+      "name": "Wet Cement",
+      "url": "https://open.spotify.com/track/5RQcH5zJ6moLeBX3ZA2A0W"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "3 outfits",
         "url": "https://open.spotify.com/album/0SFK4Bn2QtKOi1bJieGPZ1"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Angry Woman",
-        "url": "https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 153002,
-      "name": "Angry Woman",
-      "url": "https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "2am",
         "url": "https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe"
       },
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Wet Cement",
-        "url": "https://open.spotify.com/album/09nVh8buc4n4lewLvRpSQG"
+        "name": "Angry Woman",
+        "url": "https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 273299,
-      "name": "Wet Cement",
-      "url": "https://open.spotify.com/track/5RQcH5zJ6moLeBX3ZA2A0W"
+      "duration_ms": 153002,
+      "name": "Angry Woman",
+      "url": "https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Puffer",
+        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 152998,
+      "name": "Puffer",
+      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Way of Life (with Slightly Stoopid)",
         "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 253794,
       "name": "Way of Life (with Slightly Stoopid)",
       "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Puffer",
-        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 152998,
-      "name": "Puffer",
-      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171842,
-      "name": "THREE HEADS*",
-      "url": "https://open.spotify.com/track/3MzD5pFnJqESdvPfvhU6kM"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "pretty kids",
         "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 159417,
       "name": "pretty kids",
       "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/3MzD5pFnJqESdvPfvhU6kM"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "INTO THE BLUE",
-        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 310840,
-      "name": "We're Not In Orbit Yet\u2026",
-      "url": "https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Mellow Moon",
         "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Love Brand New",
-        "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
       "artists": [
         {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 198480,
-      "name": "Love Brand New",
-      "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
+      "duration_ms": 310840,
+      "name": "We're Not In Orbit Yet\u2026",
+      "url": "https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1207,6 +1191,22 @@
       "duration_ms": 189202,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Love Brand New",
+        "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "Love Brand New",
+      "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Splinter",
-        "url": "https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 148173,
-      "name": "Splinter",
-      "url": "https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Shotgun",
         "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "Splinter",
+      "url": "https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Bumblebee",
         "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Martian Man",
-        "url": "https://open.spotify.com/album/2coz3m9rwxsZXdjJWdExI9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Malcolm",
-          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
-        }
-      ],
-      "duration_ms": 124564,
-      "name": "Martian Man",
-      "url": "https://open.spotify.com/track/3BHXBrDpZSRhmNWExBfYGZ"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "fmk (with blackbear)",
         "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 146769,
       "name": "indieedgycool",
       "url": "https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Martian Man",
+        "url": "https://open.spotify.com/album/2coz3m9rwxsZXdjJWdExI9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "duration_ms": 124564,
+      "name": "Martian Man",
+      "url": "https://open.spotify.com/track/3BHXBrDpZSRhmNWExBfYGZ"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Pastlife",
-        "url": "https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        },
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "See You When The End's Near",
-      "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "10 Tracks to Echo in the Dark",
         "url": "https://open.spotify.com/album/4aHwEq65yWoM0KQkaE1Dsv"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 183586,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/3GxL646ciwj2Wtf0RwgOG3"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Pastlife",
+        "url": "https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        },
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "See You When The End's Near",
+      "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"
     },
     {
       "added_at": "2022-10-28 04:00:00",

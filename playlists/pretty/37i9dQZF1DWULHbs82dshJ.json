@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.",
-  "num_followers": 46833,
+  "num_followers": 46854,
   "original_name": "Dia de Chuva",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMDJlZDlkMjZkNjFkYmZjYjZiYTVhZWNlN2Q4OWE4YmJk",
+  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMDlkNDUyOTg1ZWE2NDE1NWZkY2RlMjY1YzczZTJhYTZk",
   "tracks": [
     {
       "added_at": "2021-12-15 15:42:19",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 185979,
-      "name": "Issues/Hold On",
-      "url": "https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "Barry White - The Collection",
         "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 289106,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 185979,
+      "name": "Issues/Hold On",
+      "url": "https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "Diana Ross Presents The Jackson 5",
-        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Who's Lovin' You",
-      "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 276093,
       "name": "Brown Eyes",
       "url": "https://open.spotify.com/track/1urmwhtXPiakhcqvqUi3rp"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Who's Lovin' You",
+      "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
     },
     {
       "added_at": "2021-12-15 15:42:19",

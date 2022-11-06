@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > Prendete con tu lista favorita de Dembow\. Foto: Aleesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,517 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,552 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 64 | [La Chapa Que Vibran](https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6) | [Trayectoria](https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh) | 3:35 |
 | 65 | [Bum Bam Ven \- Remix](https://open.spotify.com/track/7u3QrlRfJChzwic9Hoimiq) | [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t), [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Bum Bam Ven \(Remix\)](https://open.spotify.com/album/4LTrtFWbK563S7QVD9Zxz9) | 3:50 |
 | 66 | [Mensaje Directo \(DM\)](https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6) | [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF) | [Mensaje Directo \(DM\)](https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9) | 3:40 |
-| 67 | [Háblale de Cualto](https://open.spotify.com/track/4zRITqNT5onefyu56kOI9W) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Llegó el Domi](https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC) | 2:55 |
-| 68 | [Klok Con Klok](https://open.spotify.com/track/4VthUTifCMlgzYkfQX1LQV) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Klok Con Klok](https://open.spotify.com/album/712hXpuMGoq1KPEI1RxoW6) | 2:43 |
+| 67 | [Klok Con Klok](https://open.spotify.com/track/4VthUTifCMlgzYkfQX1LQV) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Klok Con Klok](https://open.spotify.com/album/712hXpuMGoq1KPEI1RxoW6) | 2:43 |
+| 68 | [Háblale de Cualto](https://open.spotify.com/track/4zRITqNT5onefyu56kOI9W) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Llegó el Domi](https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC) | 2:55 |
 | 69 | [Knock Out](https://open.spotify.com/track/6YRH8zh2KMbltmbSf4Qe1d) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU), [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV) | [Knock Out](https://open.spotify.com/album/3gnvNadSEuwYy86yDc7j7n) | 3:15 |
 | 70 | [Desacatate](https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Desacatate](https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV) | 2:41 |
 | 71 | [El Que No Salta Es Paco \- Remix](https://open.spotify.com/track/5WXnRHsxuuTKVzEbLT1Lnn) | [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo), [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Tracy McGrady](https://open.spotify.com/artist/1hIultpwJP5CAVoT4qeNGH) | [El Que No Salta Es Paco \(Remix\)](https://open.spotify.com/album/1JQPIPt2Ml2ALdzYUNMfLc) | 4:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 74 | [Caliente](https://open.spotify.com/track/7lhZb7Mc2QCXtetUjVljjl) | [El Tonto](https://open.spotify.com/artist/747fHzctsAyoa4k6CrtsQl) | [Caliente](https://open.spotify.com/album/294ruoBKloLVSccE7WMdbg) | 3:01 |
 | 75 | [Calle](https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Calle](https://open.spotify.com/album/69UK8GlVtjwme70scA812r) | 2:32 |
 
-Snapshot ID: `MTY2NTc3MTI0MCwwMDAwMDAwMDhkNmViZDBjYzU1ZTIzY2E3MTYzMDNjMjYyZjlhNzU1`
+Snapshot ID: `MTY2NTc3MTI0MCwwMDAwMDAwMDBiZWJmOWIxOTgyNjVmNmUyOGJjYzE3NDJhMjQ5OTk0`

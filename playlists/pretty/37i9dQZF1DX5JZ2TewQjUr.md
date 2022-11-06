@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: hirsk
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,737 likes - 79 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,744 likes - 79 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 129334,
+  "num_followers": 129376,
   "original_name": "Summer Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg4MTg5OCwwMDAwMDAwMDhkNDg5ZjZkNmVhNzg3YjI4ZTliM2UxYTcyZGUyNDEy",
+  "snapshot_id": "MTY2Njg4MTg5OCwwMDAwMDAwMDAyNTg4OGU2MzdmOTBkZTBiODAwZmYyZDYyMjhkMTgz",
   "tracks": [
     {
       "added_at": "2022-10-27 14:44:58",
@@ -879,6 +879,26 @@
     {
       "added_at": "2022-10-27 14:44:58",
       "album": {
+        "name": "Lionheart (Fearless)",
+        "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 186689,
+      "name": "Lionheart (Fearless)",
+      "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
+    },
+    {
+      "added_at": "2022-10-27 14:44:58",
+      "album": {
         "name": "Memories (feat. Kid Cudi) [2021 Remix]",
         "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 157205,
       "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
-    },
-    {
-      "added_at": "2022-10-27 14:44:58",
-      "album": {
-        "name": "Lionheart (Fearless)",
-        "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 186689,
-      "name": "Lionheart (Fearless)",
-      "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
     },
     {
       "added_at": "2022-10-27 14:44:58",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2022-10-27 14:44:58",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV"
-      },
-      "artists": [
-        {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF"
-    },
-    {
-      "added_at": "2022-10-27 14:44:58",
-      "album": {
         "name": "Stop This Flame (Celeste x MK)",
         "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 203946,
       "name": "Stop This Flame - Celeste x MK",
       "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
+    },
+    {
+      "added_at": "2022-10-27 14:44:58",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV"
+      },
+      "artists": [
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF"
     },
     {
       "added_at": "2022-10-27 14:44:58",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2022-10-27 14:44:58",
       "album": {
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/11JYg34EBPsGBnvvYc8wrU"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS"
+    },
+    {
+      "added_at": "2022-10-27 14:44:58",
+      "album": {
         "name": "Come Around Again",
         "url": "https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 169108,
       "name": "Come Around Again",
       "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
-    },
-    {
-      "added_at": "2022-10-27 14:44:58",
-      "album": {
-        "name": "Madan (King)",
-        "url": "https://open.spotify.com/album/11JYg34EBPsGBnvvYc8wrU"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 183609,
-      "name": "Madan (King)",
-      "url": "https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS"
     },
     {
       "added_at": "2022-10-27 14:44:58",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2022-10-27 14:44:58",
       "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2022-10-27 14:44:58",
+      "album": {
         "name": "Pyramids",
         "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
       },
@@ -2159,18 +2175,22 @@
     {
       "added_at": "2022-10-27 14:44:58",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+        "name": "Temptation (feat. Elise LeGrow)",
+        "url": "https://open.spotify.com/album/2SerB9WFHD9HekA6tX95cb"
       },
       "artists": [
         {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
         }
       ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+      "duration_ms": 192614,
+      "name": "Temptation (feat. Elise LeGrow)",
+      "url": "https://open.spotify.com/track/5nz5inh9IXoP7wwi2hi8kO"
     },
     {
       "added_at": "2022-10-27 14:44:58",
@@ -2195,26 +2215,6 @@
       "duration_ms": 168196,
       "name": "Runaway (with Sigala and JP Cooper)",
       "url": "https://open.spotify.com/track/6tS1Fm9z3UKuLSxrinY3pC"
-    },
-    {
-      "added_at": "2022-10-27 14:44:58",
-      "album": {
-        "name": "Temptation (feat. Elise LeGrow)",
-        "url": "https://open.spotify.com/album/2SerB9WFHD9HekA6tX95cb"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 192614,
-      "name": "Temptation (feat. Elise LeGrow)",
-      "url": "https://open.spotify.com/track/5nz5inh9IXoP7wwi2hi8kO"
     },
     {
       "added_at": "2022-10-27 14:44:58",
@@ -2287,26 +2287,6 @@
     {
       "added_at": "2022-10-27 14:44:58",
       "album": {
-        "name": "Paper Planes",
-        "url": "https://open.spotify.com/album/5qdXy87BeaWnK0vXiX5VI4"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/4mrAArfFEIqpH6myouJb03"
-    },
-    {
-      "added_at": "2022-10-27 14:44:58",
-      "album": {
         "name": "Heaven On My Mind (with Sigala)",
         "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
       },
@@ -2323,6 +2303,26 @@
       "duration_ms": 192573,
       "name": "Heaven On My Mind (with Sigala)",
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
+    },
+    {
+      "added_at": "2022-10-27 14:44:58",
+      "album": {
+        "name": "Paper Planes",
+        "url": "https://open.spotify.com/album/5qdXy87BeaWnK0vXiX5VI4"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/4mrAArfFEIqpH6myouJb03"
     },
     {
       "added_at": "2022-10-27 14:44:58",

@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 191229,
+  "num_followers": 191528,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2NDE2MCwwMDAwMDAwMDYwMmQ0MjUzNDE5OGVjOGYzNTMxMjdjYzdhMWQwMWRl",
+  "snapshot_id": "MTY2Njk2NDE2MCwwMDAwMDAwMDY0MDhiY2NjYTJkNGU2YzcyM2NmODVjMGYzMjU5YTMx",
   "tracks": [
     {
       "added_at": "2022-09-26 15:51:30",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Division",
-        "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Baby Powder",
-      "url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Division",
+        "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Baby Powder",
+      "url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Pang",
-        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 183861,
-      "name": "So Hot You're Hurting My Feelings",
-      "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 234369,
       "name": "Casio",
       "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Pang",
+        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 183861,
+      "name": "So Hot You're Hurting My Feelings",
+      "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "Think About Things",
+        "url": "https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs"
+      },
+      "artists": [
+        {
+          "name": "Da\u00f0i Freyr",
+          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
+        }
+      ],
+      "duration_ms": 173385,
+      "name": "Think About Things",
+      "url": "https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 175416,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "Think About Things",
-        "url": "https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs"
-      },
-      "artists": [
-        {
-          "name": "Da\u00f0i Freyr",
-          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
-        }
-      ],
-      "duration_ms": 173385,
-      "name": "Think About Things",
-      "url": "https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1389,7 +1389,7 @@
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
-      "added_at": "2022-11-05 01:38:01",
+      "added_at": "2022-11-06 01:34:47",
       "album": {
         "name": "Tell Me Your Fears",
         "url": "https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS"
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
+        "name": "Heybb!",
+        "url": "https://open.spotify.com/album/5CfgvNG8Y0ZGXAx3rNvjC8"
       },
       "artists": [
         {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
         }
       ],
-      "duration_ms": 220550,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
+      "duration_ms": 148607,
+      "name": "Heybb!",
+      "url": "https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1471,34 +1471,18 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Heybb!",
-        "url": "https://open.spotify.com/album/5CfgvNG8Y0ZGXAx3rNvjC8"
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
       },
       "artists": [
         {
-          "name": "binki",
-          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 148607,
-      "name": "Heybb!",
-      "url": "https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "CRISIS",
-        "url": "https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G"
-      },
-      "artists": [
-        {
-          "name": "Sam Ezeh",
-          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
-        }
-      ],
-      "duration_ms": 193285,
-      "name": "CRISIS",
-      "url": "https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5"
+      "duration_ms": 220550,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Wildin'",
-        "url": "https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i"
+        "name": "CRISIS",
+        "url": "https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G"
       },
       "artists": [
         {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+          "name": "Sam Ezeh",
+          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
         }
       ],
-      "duration_ms": 139613,
-      "name": "Wildin'",
-      "url": "https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl"
+      "duration_ms": 193285,
+      "name": "CRISIS",
+      "url": "https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1547,6 +1531,22 @@
       "duration_ms": 215786,
       "name": "Baby I'm Yours - feat. Irfrane",
       "url": "https://open.spotify.com/track/7oGwQOTkMB9Sk3DIKJLd5F"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Wildin'",
+        "url": "https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 139613,
+      "name": "Wildin'",
+      "url": "https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "Dream in Colour",
+        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 183896,
+      "name": "Skin on Skin",
+      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "Dream in Colour",
-        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183896,
-      "name": "Skin on Skin",
-      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "Are We Going Too Slow?",
+        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "duration_ms": 188380,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "Too Much (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 215397,
       "name": "Too Much (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "Are We Going Too Slow?",
-        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
-      },
-      "artists": [
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
-        }
-      ],
-      "duration_ms": 188380,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
     },
     {
       "added_at": "2022-09-26 15:51:30",

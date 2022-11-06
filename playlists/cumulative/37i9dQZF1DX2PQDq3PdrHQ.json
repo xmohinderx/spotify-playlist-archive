@@ -863,6 +863,24 @@
     {
       "album": {
         "name": "Cosmopolitan",
+        "url": "https://open.spotify.com/album/3hWHWhODUML6dSiGhsLJFZ"
+      },
+      "artists": [
+        {
+          "name": "Roses",
+          "url": "https://open.spotify.com/artist/3abdd92dF9ZxywaIBWKKcp"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127151,
+      "name": "Cosmopolitan",
+      "url": "https://open.spotify.com/track/2i7vxIrgWcIXLpfrvRCsKW"
+    },
+    {
+      "album": {
+        "name": "Cosmopolitan",
         "url": "https://open.spotify.com/album/0YJNMf0gGQNg04r5Ss6mgA"
       },
       "artists": [
@@ -873,7 +891,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 127151,
       "name": "Cosmopolitan",
       "url": "https://open.spotify.com/track/3jHbK3uTQjttMi4dWlbqZI"

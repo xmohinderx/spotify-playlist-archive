@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,284 likes - 291 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,337 likes - 291 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,7 +286,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 276 | [One Day at a Time](https://open.spotify.com/track/3YzOBxLQQVvqKH8xR0XgNh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [One Day at a Time](https://open.spotify.com/album/7wqOTHoyjGvqRJ7ThxxdNk) | 2:01 |
 | 277 | [Group Study](https://open.spotify.com/track/5OxxVnONU85inGDHoRBs2M) | [Maoen](https://open.spotify.com/artist/1bKSEAwS6nhv0kTYWfRkZK), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Group Study](https://open.spotify.com/album/1cUyNhvm1u0k9TKeIswkoq) | 1:30 |
 | 278 | [Mint Conditions](https://open.spotify.com/track/1ikVVWpSAtnaEXoCf42m3I) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [On the Keys of Steel](https://open.spotify.com/album/3ZuaHM9zbQrNT23OG7I3bz) | 2:10 |
-| 279 | [Bar in Barça](https://open.spotify.com/track/0hLF3hANNCEmiOrD2hPFaN) | [HBeat](https://open.spotify.com/artist/689VJXhPdLWIUG0QxOBH90), [Diago Skybeats](https://open.spotify.com/artist/64pYS920bJPWycbRAIdUDu) | [Bar in Barça](https://open.spotify.com/album/3VBskUJWLu5TYEqMI5hDhi) | 2:18 |
+| 279 | [Bar in Barça](https://open.spotify.com/track/1DpyOwJrijeqzrtXMX2txF) | [HBeat](https://open.spotify.com/artist/689VJXhPdLWIUG0QxOBH90), [Diago Skybeats](https://open.spotify.com/artist/64pYS920bJPWycbRAIdUDu) | [Bar in Barça](https://open.spotify.com/album/002ZiVwLuoxz3T4x7hwHAZ) | 2:18 |
 | 280 | [Heels](https://open.spotify.com/track/6PGcmU02NxCXhMe0NoeImt) | [Bohèmiq](https://open.spotify.com/artist/7xJ7zpVHV5QcKdENl7caRI) | [Heels](https://open.spotify.com/album/3v67abR6XZMlTRIlQkSysv) | 3:10 |
 | 281 | [Mood Swing](https://open.spotify.com/track/4DjiY0WodlXPtDEj2wYm2s) | [Gxldxn Fxnch](https://open.spotify.com/artist/05mJfp9M0IpJ6k07ikXIkB) | [Mood Swing](https://open.spotify.com/album/3yrKeBJSeN1ZuUqnPC7Dg0) | 2:31 |
 | 282 | [It Takes Two](https://open.spotify.com/track/39CaGsdQPIFBA3EYFRFwSF) | [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G) | [It Takes Two](https://open.spotify.com/album/68OQPLk5mwFDd9r9B4wqRR) | 1:29 |
@@ -300,4 +300,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 290 | [Sunrise](https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Sunrise](https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB) | 2:48 |
 | 291 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 |
 
-Snapshot ID: `MTY2Njk1ODgwMiwwMDAwMDAwMDY3NjU0NTNlM2QxMWEyMjI0N2ZjNTYyZmMxM2I5MmY4`
+Snapshot ID: `MTY2Njk1ODgwMiwwMDAwMDAwMGMyMzY5ZWRjYWFlZmQwMWVlNDE2MDdhNTlmNGU5M2Fl`

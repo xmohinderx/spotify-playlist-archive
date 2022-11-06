@@ -4,7 +4,7 @@
 
 > A selection of the greatest funk & soul records ever made.
 
-167 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/2AjOW6a9C9C9LSslZhQe3k)
+168 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/2AjOW6a9C9C9LSslZhQe3k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 | 2020-09-10 |  |
 | [Hard to Handle](https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Dock of the Bay Sessions](https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1) | 2:21 | 2020-09-10 |  |
 | [Hold On, I'm Comin'](https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Hold On, I'm Comin'](https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO) | 2:35 | 2020-09-10 |  |
+| [How Do I Let a Good Man Down?](https://open.spotify.com/track/30lSYnB1aJjmxuJFXhJuhD) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 3:02 | 2022-09-23 |  |
 | [How Do I Let a Good Man Down?](https://open.spotify.com/track/7lWv5nVZoX3Dkk2KnZS2jV) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1ARyfw246YulT9j3B2qfXl) | 3:02 | 2020-09-10 | 2022-07-29 |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 | 2020-09-10 |  |
 | [How Long Do I Have To Wait For You?](https://open.spotify.com/track/4fMXQkXkfmO6KWKVwxvkWT) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1ARyfw246YulT9j3B2qfXl) | 4:03 | 2020-09-10 | 2022-07-29 |
@@ -161,7 +162,7 @@
 | [The Night](https://open.spotify.com/track/2RWjugJQW9FQbQeun7CXav) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 3:23 | 2020-09-10 | 2022-07-29 |
 | [The Snake](https://open.spotify.com/track/338Sl7svvkz6ihfAYn1kvI) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [The Snake](https://open.spotify.com/album/0jrvi8BZ1v5TBximaRfGzL) | 3:29 | 2020-09-10 | 2022-07-25 |
 | [Theme From Shaft](https://open.spotify.com/track/1VLLADzAWGr1IoeMPDLNDL) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [It's All In The Game](https://open.spotify.com/album/5ZMT0oGy8gXbBIxMY9q4ZW) | 4:40 | 2020-09-10 | 2022-06-12 |
-| [Theme From Shaft \- Remastered](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 | 2020-09-10 |  |
+| [Theme From Shaft \- Remastered](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 | 2020-09-10 | 2022-11-06 |
 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/455HSLQfOn9vxG6UjzoTWw) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [This Old Heart Of Mine](https://open.spotify.com/album/0TWtsGPvmioByGsm098Kh3) | 2:52 | 2020-09-10 | 2022-07-29 |
 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [This Old Heart Of Mine](https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN) | 2:52 | 2020-09-10 |  |
 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 | 2020-09-10 |  |

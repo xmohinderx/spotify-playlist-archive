@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-69 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
+70 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Barreleye](https://open.spotify.com/track/2Dc1pUBABcfMy42W6vxhC3) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Deep: The Baritone Sessions](https://open.spotify.com/album/2oo8dj4OFcDeioixQgtVgK) | 3:12 | 2022-06-01 |  |
 | [BC](https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:21 | 2022-06-01 |  |
 | [BELIEVIN'](https://open.spotify.com/track/0F79QAGawM9bMrK11YGHru) | [NANIWA EXPRESS](https://open.spotify.com/artist/7A5C2jFwT0lxjAYMsHDh3r) | [NO FUSE](https://open.spotify.com/album/1WzpfKD6z4ZYCiCv9dIaEY) | 4:27 | 2022-06-08 |  |
-| [Bounce: pts I + II](https://open.spotify.com/track/2Xt6ANxPp2Ds41E3CWYiSV) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ZZ16e0qQpQRMWeHc6uAnl) | 5:33 | 2022-06-01 |  |
+| [Bounce, Pts\. I + II](https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9) | 5:33 | 2022-06-01 |  |
+| [Bounce: pts I + II](https://open.spotify.com/track/2Xt6ANxPp2Ds41E3CWYiSV) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ZZ16e0qQpQRMWeHc6uAnl) | 5:33 | 2022-06-01 | 2022-11-06 |
 | [Bruise Cruise](https://open.spotify.com/track/0Z27rTTijg45gBZn56hBSa) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Scary Goldings IV](https://open.spotify.com/album/6nR9rJfgSR5U6ffU4vhv75) | 2:13 | 2022-06-01 |  |
 | [Can't Stop](https://open.spotify.com/track/5MZeACNzwzidxLfglyCspe) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Distractions](https://open.spotify.com/album/1tTj6jyy6LbOsio9saFf9L) | 2:48 | 2022-06-01 |  |
 | [Canine](https://open.spotify.com/track/7hTEStQeSnn0TxlaRsJLzv) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 6:23 | 2022-06-01 |  |

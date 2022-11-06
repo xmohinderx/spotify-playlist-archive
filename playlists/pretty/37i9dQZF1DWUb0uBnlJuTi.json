@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 219513,
+  "num_followers": 219715,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDU2MWMxMzA1MWY4M2NmN2VkZTYyMzg4OTk2OTEzYmEw",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDNmZTgwMmMxNDY3ZDE4ZTVmMmRmNWU3OGJiYjQ1MDVi",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Out Louder",
-        "url": "https://open.spotify.com/album/6CpU9BxpWBTXuD59ngzPBl"
-      },
-      "artists": [
-        {
-          "name": "Medeski Scofield Martin & Wood",
-          "url": "https://open.spotify.com/artist/4QlI67Mg3LbNH3VBcExNr4"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Little Walter Rides Again",
-      "url": "https://open.spotify.com/track/2fB7lE3uEUqXrV36jOSVYY"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "It Is Finished (Expanded Edition)",
         "url": "https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 320426,
       "name": "Funkier Than a Mosquito's Tweeter",
       "url": "https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Out Louder",
+        "url": "https://open.spotify.com/album/6CpU9BxpWBTXuD59ngzPBl"
+      },
+      "artists": [
+        {
+          "name": "Medeski Scofield Martin & Wood",
+          "url": "https://open.spotify.com/artist/4QlI67Mg3LbNH3VBcExNr4"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Little Walter Rides Again",
+      "url": "https://open.spotify.com/track/2fB7lE3uEUqXrV36jOSVYY"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
+        "name": "Blacks And Blues",
+        "url": "https://open.spotify.com/album/1zCeavwN7ZhPIGR5phKxJv"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Humphrey",
+          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
+        }
+      ],
+      "duration_ms": 470640,
+      "name": "Harlem River Drive",
+      "url": "https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
       },
@@ -483,38 +499,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Blacks And Blues",
-        "url": "https://open.spotify.com/album/1zCeavwN7ZhPIGR5phKxJv"
-      },
-      "artists": [
-        {
-          "name": "Bobbi Humphrey",
-          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
-        }
-      ],
-      "duration_ms": 470640,
-      "name": "Harlem River Drive",
-      "url": "https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "The Swedish Songbook",
-        "url": "https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Kronkvist",
-          "url": "https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Limu, Limu, Lima",
-      "url": "https://open.spotify.com/track/634sK2tugl3o7vXXilBJr3"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Places And Spaces",
         "url": "https://open.spotify.com/album/6btV6MDYhXZ2F6ZKKUfvdh"
       },
@@ -545,6 +529,38 @@
       "url": "https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx"
     },
     {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "The Swedish Songbook",
+        "url": "https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Kronkvist",
+          "url": "https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Limu, Limu, Lima",
+      "url": "https://open.spotify.com/track/634sK2tugl3o7vXXilBJr3"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Dark Side Riddim / Samuel L.Riddim",
+        "url": "https://open.spotify.com/album/3xx8mVv8jR6rzFMGcq0VWY"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 314811,
+      "name": "Dark Side Riddim",
+      "url": "https://open.spotify.com/track/5pIjTEPxQx4JJc14CkVlgf"
+    },
+    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "MXC.MMBL",
@@ -567,22 +583,6 @@
       "duration_ms": 157333,
       "name": "MXC.MMBL",
       "url": "https://open.spotify.com/track/6Sxnxm8dsA7SSNtT1TVtPK"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Dark Side Riddim / Samuel L.Riddim",
-        "url": "https://open.spotify.com/album/3xx8mVv8jR6rzFMGcq0VWY"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 314811,
-      "name": "Dark Side Riddim",
-      "url": "https://open.spotify.com/track/5pIjTEPxQx4JJc14CkVlgf"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf"
     },
     {
-      "added_at": "2021-04-30 04:01:00",
-      "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/7tZwLOlEKJkeaptUGyy7IL"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 160450,
-      "name": "Cold As Weiss",
-      "url": "https://open.spotify.com/track/4MqOTLIg1f6qomgOKkxkKp"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "SOURCE",
@@ -665,20 +649,20 @@
       "url": "https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2021-04-30 04:01:00",
       "album": {
-        "name": "A Town Called Earth",
-        "url": "https://open.spotify.com/album/2Y3OhEypr4fTgWhXI6hRny"
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/7tZwLOlEKJkeaptUGyy7IL"
       },
       "artists": [
         {
-          "name": "The Greyboy Allstars",
-          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
         }
       ],
-      "duration_ms": 263173,
-      "name": "Turnip's Big Move",
-      "url": "https://open.spotify.com/track/5crKy5IbHDYjzuvZbqUmNt"
+      "duration_ms": 160450,
+      "name": "Cold As Weiss",
+      "url": "https://open.spotify.com/track/4MqOTLIg1f6qomgOKkxkKp"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -701,20 +685,20 @@
       "url": "https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Looking Back / Paint It Black",
-        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
+        "name": "A Town Called Earth",
+        "url": "https://open.spotify.com/album/2Y3OhEypr4fTgWhXI6hRny"
       },
       "artists": [
         {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+          "name": "The Greyboy Allstars",
+          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
         }
       ],
-      "duration_ms": 221247,
-      "name": "Looking Back",
-      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
+      "duration_ms": 263173,
+      "name": "Turnip's Big Move",
+      "url": "https://open.spotify.com/track/5crKy5IbHDYjzuvZbqUmNt"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -731,6 +715,22 @@
       "duration_ms": 406960,
       "name": "Chank",
       "url": "https://open.spotify.com/track/0xCGbO3PTLLivhIkt47d0q"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Looking Back / Paint It Black",
+        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "duration_ms": 221247,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
+        "name": "The Best of the Light of the World",
+        "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
+      },
+      "artists": [
+        {
+          "name": "Light Of The World",
+          "url": "https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "London Town",
+      "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
         "name": "Long Live the King (Instrumental)",
         "url": "https://open.spotify.com/album/0DxnngpwW0L4DctzLXCSBf"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 841333,
       "name": "Miles Runs the Voodoo Down (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
       "url": "https://open.spotify.com/track/0n8sBhOtUb6pDFKjpxfakj"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "The Best of the Light of the World",
-        "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
-      },
-      "artists": [
-        {
-          "name": "Light Of The World",
-          "url": "https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "London Town",
-      "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
     },
     {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "YUNIK\u014dN",
-        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
-      },
-      "artists": [
-        {
-          "name": "New Cool Collective",
-          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Tokisan",
-      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Glide",
@@ -1121,20 +1105,36 @@
       "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Rhythm Of Life",
-        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+        "name": "YUNIK\u014dN",
+        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
       },
       "artists": [
         {
-          "name": "James Mason",
-          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
         }
       ],
-      "duration_ms": 326320,
-      "name": "Sweet Power of Your Embrace",
-      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
+      "duration_ms": 205160,
+      "name": "Tokisan",
+      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Mutual Attraction Vol. 2",
+        "url": "https://open.spotify.com/album/18hpk0Vz7PAcbKEPNsNfsq"
+      },
+      "artists": [
+        {
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+        }
+      ],
+      "duration_ms": 193598,
+      "name": "Presente Grego",
+      "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1153,20 +1153,20 @@
       "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
+      "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Mutual Attraction Vol. 2",
-        "url": "https://open.spotify.com/album/18hpk0Vz7PAcbKEPNsNfsq"
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
       },
       "artists": [
         {
-          "name": "High Pulp",
-          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
         }
       ],
-      "duration_ms": 193598,
-      "name": "Presente Grego",
-      "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
+      "duration_ms": 326320,
+      "name": "Sweet Power of Your Embrace",
+      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Doin' Something",
-        "url": "https://open.spotify.com/album/2WHbq7Vj0lFt2RnAwfcuNP"
-      },
-      "artists": [
-        {
-          "name": "Soulive",
-          "url": "https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO"
-        }
-      ],
-      "duration_ms": 316493,
-      "name": "One In Seven",
-      "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Placebo Years 1971 - 1974",
         "url": "https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 152400,
       "name": "Humpty Dumpty - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Doin' Something",
+        "url": "https://open.spotify.com/album/2WHbq7Vj0lFt2RnAwfcuNP"
+      },
+      "artists": [
+        {
+          "name": "Soulive",
+          "url": "https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO"
+        }
+      ],
+      "duration_ms": 316493,
+      "name": "One In Seven",
+      "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
     },
     {
       "added_at": "2020-10-09 04:01:00",

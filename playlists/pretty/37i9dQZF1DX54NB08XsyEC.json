@@ -1,12 +1,12 @@
 {
   "description": "pov: vai deixa eu te amar essa noite ou vai fica de gra\u00e7a??? inferno /Chl\u00f6e",
-  "num_followers": 235023,
+  "num_followers": 235107,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU4NTQwOSwwMDAwMDAwMDg2ZTlhMmE0YzYwYWY1MzdlM2YyMWU4MjZlNDdiZDQ1",
+  "snapshot_id": "MTY2NzU4NTQwOSwwMDAwMDAwMGM2OTVmOGU2ODY1NWNjOWFiNDkyZWQ1MWQyZjRkMmI0",
   "tracks": [
     {
       "added_at": "2022-11-04 18:10:09",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-11-04 18:10:09",
       "album": {
-        "name": "Pink Venom",
-        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Pink Venom",
-      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
-    },
-    {
-      "added_at": "2022-11-04 18:10:09",
-      "album": {
         "name": "Heat Waves",
         "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
+    },
+    {
+      "added_at": "2022-11-04 18:10:09",
+      "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "added_at": "2022-11-04 18:10:09",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-11-04 18:10:09",
       "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
+    },
+    {
+      "added_at": "2022-11-04 18:10:09",
+      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2022-11-04 18:10:09",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285935,
-      "name": "Love In The Dark",
-      "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
-    },
-    {
-      "added_at": "2022-11-04 18:10:09",
-      "album": {
         "name": "A QUEDA",
         "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 172500,
       "name": "A QUEDA",
       "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
+    },
+    {
+      "added_at": "2022-11-04 18:10:09",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285935,
+      "name": "Love In The Dark",
+      "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
     },
     {
       "added_at": "2022-11-04 18:10:09",
@@ -835,22 +851,6 @@
       "duration_ms": 186698,
       "name": "Por Supuesto",
       "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
-    },
-    {
-      "added_at": "2022-11-04 18:10:09",
-      "album": {
-        "name": "Dirt Femme",
-        "url": "https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Grapefruit",
-      "url": "https://open.spotify.com/track/0L06aZLoX6BRT0hUPh7O5g"
     }
   ],
   "unique_name": "pov",

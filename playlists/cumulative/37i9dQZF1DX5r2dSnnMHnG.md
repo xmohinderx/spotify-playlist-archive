@@ -4,7 +4,7 @@
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-145 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/3bTGjCbNqBInmwb7ojPDvw)
+146 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/3bTGjCbNqBInmwb7ojPDvw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 | 2022-05-11 |  |
 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 | 2022-07-04 |  |
 | [See you \- with Noair, Nason](https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG) | 3:06 | 2022-05-11 | 2022-07-29 |
-| [siot](https://open.spotify.com/track/77V2xdd8cabH0xbcoJEmrv) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Home](https://open.spotify.com/album/0IuRY4TAWOxBlqqK7CKG1x) | 3:06 | 2022-05-11 |  |
+| [siot](https://open.spotify.com/track/77V2xdd8cabH0xbcoJEmrv) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Home](https://open.spotify.com/album/0IuRY4TAWOxBlqqK7CKG1x) | 3:06 | 2022-05-11 | 2022-11-06 |
 | [SOME](https://open.spotify.com/track/29fqZVcnBDxZZaM5qOcQmR) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/67gYjBoR0VQZbe2wSN7ZfU) | 3:43 | 2022-05-11 | 2022-07-29 |
 | [SOME](https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU) | 3:43 | 2022-07-04 |  |
 | [Somehow you are 왠지 너는](https://open.spotify.com/track/17xYfVlgC5q36pXP7Eju4A) | [Jaejoo Boys](https://open.spotify.com/artist/6Z41VjRzi0cKNZAVp5u7VZ) | [Somehow you are 왠지 너는](https://open.spotify.com/album/5BvCMIM7DpDMVcd6k5bRRy) | 3:57 | 2022-05-11 | 2022-07-28 |
@@ -153,5 +153,6 @@
 | [예뻐](https://open.spotify.com/track/1CCuIPrykG6yC6XTz4S6Rn) | [Joonand](https://open.spotify.com/artist/3toxwqi4ajBu4gcnZebBAT), [Jihyeokwon](https://open.spotify.com/artist/0TD6GU8HRvlHAIMP7bPDRs) | [With](https://open.spotify.com/album/3vOKd7vvVvcYZhhaFvT8Fc) | 3:35 | 2022-05-11 | 2022-07-21 |
 | [원 Wish](https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [원 Wish](https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7) | 3:11 | 2022-10-10 |  |
 | [이미 난 행복한 사람](https://open.spotify.com/track/1OztdNXWqPxXemRYdXCnCu) | [Nadle](https://open.spotify.com/artist/4J3ruXeNKsZ11VHdlCfkCd) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 33](https://open.spotify.com/album/4b2tpuAJCGzQI3quBsGkxB) | 5:01 | 2022-05-11 | 2022-07-28 |
+| [헤어지기 싫어](https://open.spotify.com/track/7pKxsAxBtRJU19Qqij0P6y) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [re:](https://open.spotify.com/album/5iTH1fWDgfxSPkwJRBZiRE) | 3:46 | 2022-09-05 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

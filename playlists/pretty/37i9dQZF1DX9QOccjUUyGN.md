@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Thiago Kelbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,277 likes - 74 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,275 likes - 74 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 52 | [Deixa eu Surfar](https://open.spotify.com/track/1o7vCHc8IPRWqfjwo46SOv) | [Natu Rap](https://open.spotify.com/artist/0PtLgb2wKQeuLHaNftz0mk), [ÉoCROSSS](https://open.spotify.com/artist/48wUBdaDEv211RQW2OU9S0), [Oli Natu](https://open.spotify.com/artist/0JEd9Uq6MbSfxm0fSVi0DC), [Dave Natu](https://open.spotify.com/artist/5O8hHOA4QkxeEt5qMCesBR), [Jooj Natu](https://open.spotify.com/artist/1FfZwqHkk6TjvnHVGMcYHq) | [Deixa eu Surfar](https://open.spotify.com/album/5OBL36a1Sd2BD7sldSZU17) | 3:29 |
 | 53 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 |
 | 54 | [Casal 171](https://open.spotify.com/track/4SOomkThSZxyGjQOmZ7EUO) | [ike](https://open.spotify.com/artist/0S1SWWzZUhJk8CsjLI9YuN), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Casal 171](https://open.spotify.com/album/7hC9jL7eYPa1OwjCDu2SGH) | 3:21 |
-| 55 | [jovem carlos](https://open.spotify.com/track/3vBHy2FE4tBtKqCb1NudJg) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3) | [jovem carlos](https://open.spotify.com/album/2S79VWGQ0XpH00D4cXVVm3) | 3:00 |
+| 55 | [jovem carlos](https://open.spotify.com/track/3vBHy2FE4tBtKqCb1NudJg) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3) | [Jovem Carlos](https://open.spotify.com/album/2S79VWGQ0XpH00D4cXVVm3) | 3:00 |
 | 56 | [Samba pra Ela](https://open.spotify.com/track/7N2TRpu1Yf9Y5Zxy78HA0i) | [MAV](https://open.spotify.com/artist/29X9ETznpo90KEYmabHyqb), [Duda Raposo](https://open.spotify.com/artist/1lzfDKy3AeMGRKPQYQjONS) | [Samba pra Ela](https://open.spotify.com/album/4hkNExTU2gOnW4RZfnrRCa) | 2:59 |
 | 57 | [Pedaço de Mim](https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Pedaço de Mim](https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B) | 3:22 |
 | 58 | [Quanto Tempo](https://open.spotify.com/track/0n0OWbupyRBry4z3QVJmM1) | [BENÉ](https://open.spotify.com/artist/7LJwXNjD4WDrgTibppcOKk), [Coliseu](https://open.spotify.com/artist/5Ydr3k96ckQsVzAWEdHf6F), [Paulo Arthur](https://open.spotify.com/artist/1mM60Kn9oT7soffYbS1blg), [Vítor Rêgo](https://open.spotify.com/artist/3GfexUs7NHwpx7eP0VAXlS) | [Quanto Tempo](https://open.spotify.com/album/43eI1ai8gcFEYDOzH2ZZrd) | 2:49 |

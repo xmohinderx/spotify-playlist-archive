@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Jordana Bryant
 
-236 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+237 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [What I'm Missing](https://open.spotify.com/track/66GQoMh8QwUD8ogFEX2xxD) | [Tarrah](https://open.spotify.com/artist/7wAd2gJo5Hr8WUUgRiLu6l) | [What I'm Missing](https://open.spotify.com/album/5KBJHtly6fuSycf8Hou4mm) | 4:07 | 2021-12-31 | 2022-02-12 |
 | [When I Get Home](https://open.spotify.com/track/0pYO30NBbEZTqLzHj1eWww) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [When I Get Home](https://open.spotify.com/album/5Vx9kDNjXzjDyeOVajPWLA) | 3:13 | 2022-07-22 |  |
 | [When It Wasn't](https://open.spotify.com/track/2T4lQflLAaLiyXe4nVLAFL) | [Wild Fire](https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2) | [When It Wasn't](https://open.spotify.com/album/0fhQxTXDGEB3ahvmWLas0W) | 2:49 | 2022-07-08 | 2022-08-02 |
-| [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 | 2021-12-31 |  |
+| [When You Don't](https://open.spotify.com/track/3m1W8mCvokv36QHK5cXwtC) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/6Bcu7BwS7c5Lh5KqBsVu60) | 3:33 | 2022-11-02 |  |
+| [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 | 2021-12-31 | 2022-11-06 |
 | [Where Did All The Cowboys Go \(reimagined\)](https://open.spotify.com/track/0Mb7cQgxUHG1sv942JKRQN) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB), [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Where Did All The Cowboys Go \(reimagined\)](https://open.spotify.com/album/0oQTz1ECewqKTOYgkWbiIN) | 3:18 | 2022-04-22 |  |
 | [Why Can't You](https://open.spotify.com/track/35tF9YJnXqZqX0MFlGxKoN) | [Chance Tomke](https://open.spotify.com/artist/2wysL0FCBKVYBXk9seETxb) | [Why Can't You](https://open.spotify.com/album/4MTKjn8evMgQ6aSlUV2gOf) | 3:29 | 2022-02-18 |  |
 | [Why Don't We](https://open.spotify.com/track/2aRN0QN3BSUAd81TatzrMK) | [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Why Don't We](https://open.spotify.com/album/4PywMvltuqO7wSGwFxSmfY) | 3:00 | 2021-12-31 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vuelve el Cosqu\u00edn Rock! 12 y 13 de Febrero, Aer\u00f3dromo Santa Mar\u00eda de Punilla, C\u00f3rdoba.",
-  "num_followers": 23783,
+  "num_followers": 23804,
   "original_name": "Cosqu\u00edn Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMDlmMTA1Yzg3MjYxZGRhNWMwMDhlMWY2OTEwZmZkM2I0",
+  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMGZhZjk5NGE1NDk0YjAwMTI0NWQ5N2I5NGY0ZWRhMTI1",
   "tracks": [
     {
       "added_at": "2022-02-07 20:34:45",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 167638,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/2ttUrgPFiyWOHxbauXSVRo"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "Sigue Tu Camino",
         "url": "https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 289654,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 167638,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/2ttUrgPFiyWOHxbauXSVRo"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Yo estuve ahi",
-        "url": "https://open.spotify.com/album/6yFCUAjsoX0wcAdScK2BEH"
-      },
-      "artists": [
-        {
-          "name": "La Mississippi",
-          "url": "https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Un Trago Para Ver Mejor",
-      "url": "https://open.spotify.com/track/3Q8Jw1UCAQSMeGNIFfWNSd"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "ANIM4LES",
         "url": "https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 268135,
       "name": "Todas Esas Tardes",
       "url": "https://open.spotify.com/track/3LL4MggYG3ivfMbkkmmef4"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Yo estuve ahi",
+        "url": "https://open.spotify.com/album/6yFCUAjsoX0wcAdScK2BEH"
+      },
+      "artists": [
+        {
+          "name": "La Mississippi",
+          "url": "https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Un Trago Para Ver Mejor",
+      "url": "https://open.spotify.com/track/3Q8Jw1UCAQSMeGNIFfWNSd"
     },
     {
       "added_at": "2022-02-07 20:34:45",

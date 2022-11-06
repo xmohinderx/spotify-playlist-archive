@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,920 likes - 110 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,106 likes - 110 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 59 | [Shake Up Christmas](https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:52 |
 | 60 | [Oh, Holy Night](https://open.spotify.com/track/7vu44m5Z9nUQY4y3eWpXgD) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [The Christmas EP](https://open.spotify.com/album/09sySCP5nPgwgFRz0rJ0Nm) | 3:34 |
 | 61 | [30 Days \- Single Version](https://open.spotify.com/track/5kCXKe9NV9m9IvtQv1tmaq) | [Never Shout Never](https://open.spotify.com/artist/5pUmXBIQtqpvdV1HAy2xYC) | [Gift Wrapped: 20 Songs That Keep On Giving](https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY) | 3:11 |
-| 62 | [I'll Be Home for Christmas](https://open.spotify.com/track/5USadsgGdOzClXhRq63Vhn) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Cup of Cheer \(Original Movie Soundtrack\)](https://open.spotify.com/album/6JYh3icuxH3reygo7HRUYY) | 2:06 |
+| 62 | [I'll Be Home for Christmas](https://open.spotify.com/track/7LvKH4GCLnHIB5kVthP0DA) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Cup of Cheer \(Original Movie Soundtrack\)](https://open.spotify.com/album/6TbA8AzpmI44P4IxOyXXih) | 2:06 |
 | 63 | [Merry Christmas, Here's to Many More](https://open.spotify.com/track/2BdLkIvYNnwbhu3GuIdctP) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Gift Wrapped: 20 Songs That Keep On Giving](https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY) | 3:51 |
 | 64 | [Christmas Eve \(Soul Purpose\)](https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Christmas Eve \(Soul Purpose\) / It’s Going To Be A Cold Winter](https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT) | 3:45 |
 | 65 | [Break Up Holiday](https://open.spotify.com/track/4OXCHNJJdr4rO4uZyk0a2J) | [Dude York](https://open.spotify.com/artist/5AV475oA3v91U6e9tOGRm9) | [Halftime for the Holidays](https://open.spotify.com/album/78Cb0tfQg3CNI55yCKGePH) | 3:30 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 109 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
 | 110 | [Sally Sweet Tooth](https://open.spotify.com/track/3zQIGDsyha7U1oOqBI0tp2) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Sally Sweet Tooth](https://open.spotify.com/album/2SPl2Y34jBPaW7w1SlG8N3) | 2:39 |
 
-Snapshot ID: `MTYzOTQxNjgwMSwwMDAwMDAwMDI0YmExNWM0N2IzNjUwNDE5YzMwOTM3N2U5ZDVjN2Ew`
+Snapshot ID: `MTYzOTQxNjgwMSwwMDAwMDAwMDBlNjM5OTUzYjdkYjU1OGI5YzgyYmI0Yjk2NmM4NDc4`

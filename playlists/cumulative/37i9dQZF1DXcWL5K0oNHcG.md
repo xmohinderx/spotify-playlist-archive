@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Reginald Chapman Artwork: Joy Yamusangie
 
-841 songs - 2 day 19 hr 25 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
+842 songs - 2 day 19 hr 31 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,7 +604,8 @@
 | [RTN](https://open.spotify.com/track/56Uew7s6pjpCawwsSPH35o) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [RTN](https://open.spotify.com/album/3pwdbhLSg02izm7yTKrT1M) | 5:30 | 2022-01-19 | 2022-02-17 |
 | [Rush](https://open.spotify.com/track/5sD62sGY6Tq4Ll0ZsYdpgw) | [Franziska Loos](https://open.spotify.com/artist/2kRdxixo3sYS0W1MMxacCt) | [Rush](https://open.spotify.com/album/3yPPNNzWggiRLVigWDszhp) | 7:10 | 2022-09-21 | 2022-10-27 |
 | [Safe Way To Fall](https://open.spotify.com/track/6Y3x4MMpSImDwqP9Y2E9cB) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [John Psathas](https://open.spotify.com/artist/6DhDoOqFJ62yiSAdVrkNGr) | [Safe Way To Fall](https://open.spotify.com/album/6tN9HzBJLCmM5IeCBsWiPp) | 3:59 | 2022-05-25 | 2022-06-23 |
-| [Sambal](https://open.spotify.com/track/1Fk7G7nsQrRqDJZW2B5CuI) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Sambal](https://open.spotify.com/album/5bLeofMakqSrcOzSl70850) | 5:55 | 2022-10-19 |  |
+| [Sambal](https://open.spotify.com/track/19akqXe8ojkvh8PSTrA1yq) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 5:55 | 2022-10-19 |  |
+| [Sambal](https://open.spotify.com/track/1Fk7G7nsQrRqDJZW2B5CuI) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Sambal](https://open.spotify.com/album/5bLeofMakqSrcOzSl70850) | 5:55 | 2022-10-19 | 2022-11-06 |
 | [Sangre, 2022](https://open.spotify.com/track/4BxD9JeyFkqYCM2SKZ0Uce) | [Radamiz](https://open.spotify.com/artist/56UwW3oPU8t6IPhyiS1dju), [WASEEL](https://open.spotify.com/artist/2ErrNlzF0XXoN9ZyQUCqe6), [WhoGo](https://open.spotify.com/artist/2PsKKf7w104IQJB19E6Iqw) | [Sangre, 2022](https://open.spotify.com/album/77IuKrwC2HGjy9IQ3MgVNa) | 2:52 | 2022-03-02 | 2022-04-07 |
 | [Santa Cruz](https://open.spotify.com/track/0cXMulo0i9HVgyMUtH3iRs) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [Roll Forward](https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp) | 8:59 | 2022-04-20 | 2022-05-19 |
 | [Santi](https://open.spotify.com/track/2teXcO35doB1ag3daXwGeC) | [Eric Escanes](https://open.spotify.com/artist/4OZp27Cc1JZprOvcjuoOb9) | [Santi](https://open.spotify.com/album/4lHJNhXRg9vlqBnlBxXXVI) | 4:25 | 2022-05-25 | 2022-06-23 |

@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Maggie Lindemann
 
-270 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
+271 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [Petrichor](https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Petrichor](https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS) | 4:03 | 2021-09-10 | 2022-03-05 |
 | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/7A9JSq4XOYn9bhSFcGJxto) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/6MGaZYL2sKeycUQhWepQms) | 2:41 | 2022-01-14 | 2022-03-05 |
 | [Potions](https://open.spotify.com/track/1cr9oWjJsQkozgf9YF6zPi) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Potions](https://open.spotify.com/album/2xGVxlm41ungB9ZPzMJGuC) | 2:48 | 2021-07-30 | 2022-06-25 |
-| [Pretty Waste](https://open.spotify.com/track/1j6XqVdSE5KlgfOxfXwiGX) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/3oGWjFc2ol3g4iIiCAXav3) | 2:50 | 2021-07-30 |  |
+| [Pretty Waste](https://open.spotify.com/track/1j6XqVdSE5KlgfOxfXwiGX) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/3oGWjFc2ol3g4iIiCAXav3) | 2:50 | 2021-07-30 | 2022-11-06 |
+| [Pretty Waste](https://open.spotify.com/track/71HZdwtSopDs87RvpI8ip2) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/6YkF6eWFU0EhVHBnYzAgqv) | 2:50 | 2022-10-07 |  |
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-08-19 |  |
 | [Pure Androgyny](https://open.spotify.com/track/0xPLAq2c7zycsDTddXoF7r) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Pure Androgyny](https://open.spotify.com/album/6Hf0off8InwP1Y0cgT50dt) | 2:57 | 2022-06-24 |  |
 | [Queen Bitch](https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Queen Bitch](https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH) | 2:41 | 2022-10-07 |  |

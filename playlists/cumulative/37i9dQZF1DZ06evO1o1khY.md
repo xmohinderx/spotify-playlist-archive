@@ -4,11 +4,12 @@
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-15 songs - 42 min 58 sec - not published yet
+16 songs - 46 min 34 sec - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afford Me](https://open.spotify.com/track/6zNYUZJGEs70HIH40SFhYX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [JaTavia Akiaa](https://open.spotify.com/artist/2zanO9oR7cBRKmEdi4Gzll) | [Afford Me](https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ) | 3:29 | 2022-10-28 |  |
+| [Better Thangs \(with Summer Walker & GloRilla\) \- Remix](https://open.spotify.com/track/12dDT2AnpscZ1zL72RvPGR) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Better Thangs \(Remix\)](https://open.spotify.com/album/3atBxuFcUVkdnXTsMehmHT) | 3:35 | 2022-11-05 |  |
 | [Big Shit \- Prod\. by Sunny Gob](https://open.spotify.com/track/7LrEMRvMU0UnNWjuZuHacj) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sunny Gob](https://open.spotify.com/artist/78ZZffmlwqaR1NNoYKRnFo) | [Big Shit](https://open.spotify.com/album/47iTiC280nbUCYKSexLoAO) | 2:20 | 2022-10-28 |  |
 | [Blessed](https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Blessed](https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v) | 3:36 | 2022-10-28 |  |
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2022-10-28 |  |

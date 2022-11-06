@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,566 likes - 60 songs - 3 hr 19 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,568 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ride or Die](https://open.spotify.com/track/6uX3HDedpfYWZVrbqRwrjq) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [Ride or Die](https://open.spotify.com/album/61b6xkMZAHTklSFvQo7aax) | 3:17 |
+| 1 | [Ride or Die \(feat\. Roses Gabor\)](https://open.spotify.com/track/6uX3HDedpfYWZVrbqRwrjq) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Ride or Die \(feat\. Roses Gabor\)](https://open.spotify.com/album/61b6xkMZAHTklSFvQo7aax) | 3:17 |
 | 2 | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ) | 3:22 |
 | 3 | [No Love For You](https://open.spotify.com/track/2hXevSk7W1jBAO34M8XHdW) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Drop \- G](https://open.spotify.com/artist/3c655cBO0W2SlWOKLu2sqD) | [No Love For You](https://open.spotify.com/album/7uAhD8U1RGLZe3mqQ5rbKE) | 2:58 |
 | 4 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 |

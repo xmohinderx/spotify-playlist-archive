@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-169 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
+170 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Fill My Cup](https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Fill My Cup](https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O) | 3:27 | 2022-05-27 |  |
 | [For All My Life](https://open.spotify.com/track/6qKbhIsM00FFhI1OKi74V7) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [TAYA](https://open.spotify.com/album/5N03zjLUSu0iqsTitN5tt3) | 3:30 | 2022-05-27 |  |
 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 | 2022-10-29 |  |
+| [Free At Last](https://open.spotify.com/track/05PxyIJgvQSOtwWGymgsNj) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Free At Last](https://open.spotify.com/album/2IBcv1U7JHj4stGwDTInUG) | 3:46 | 2022-10-29 |  |
 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 | 2022-05-27 | 2022-10-30 |
 | [God Is On The Throne](https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [God Is On The Throne](https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ) | 4:44 | 2022-10-29 |  |
 | [God Really Loves Us](https://open.spotify.com/track/6SoXCKgKyM8sAn246k1m6E) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [The Kindness Of The Cross](https://open.spotify.com/album/1ry4KqnjXvicjKN5pjN7Pm) | 4:46 | 2022-10-29 |  |
@@ -75,7 +76,7 @@
 | [I Speak Jesus](https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Speak Jesus](https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo) | 3:53 | 2022-10-29 |  |
 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 | 2022-05-27 | 2022-10-30 |
 | [I'm Open](https://open.spotify.com/track/17o0aBdsS66NyCNNG8Jc6X) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [I'm Open](https://open.spotify.com/album/14km2XMe3pvQq2IsI9Q7dM) | 3:34 | 2022-05-27 | 2022-10-30 |
-| [I'm So Blessed](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 | 2022-10-29 |  |
+| [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 | 2022-10-29 |  |
 | [If The Lord Builds The House](https://open.spotify.com/track/7baAHpv91hJA3UEAv7qfLH) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/6V9WshsSiYxovVnq1MPuTQ) | 3:55 | 2022-10-29 |  |
 | [In You](https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [In You](https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO) | 3:25 | 2022-05-27 |  |
 | [In You](https://open.spotify.com/track/04i7lHNiTQfSnt0FTkL9Oc) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [In You](https://open.spotify.com/album/0dzyMrEMalmslY1kKOPkWG) | 3:25 | 2022-05-27 | 2022-07-29 |
@@ -120,7 +121,7 @@
 | [No One Loves Me Like You Do](https://open.spotify.com/track/2eHacqnJZnsfqEqcVyQdW2) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [No One Loves Me Like You Do](https://open.spotify.com/album/4AeePvM25cWPs8tkjpSAaU) | 3:05 | 2022-05-27 | 2022-10-30 |
 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 | 2022-10-29 |  |
 | [On And On \- Radio](https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [On And On](https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO) | 3:26 | 2022-10-29 |  |
-| [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 | 2022-10-29 |  |
+| [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 | 2022-10-29 | 2022-11-06 |
 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 | 2022-05-27 | 2022-10-30 |
 | [Open](https://open.spotify.com/track/0rsK51mo1xB9pNCPYFaPHA) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq) | [Steady Light](https://open.spotify.com/album/6mdjxXqWp8CeDmEs5q26pG) | 4:43 | 2022-10-29 |  |
 | [Over and Over](https://open.spotify.com/track/0llRdEbtFavEzGYkpJjfTg) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/6ZRdE0msjDHKGG076tz87A) | 3:35 | 2022-05-27 | 2022-09-22 |

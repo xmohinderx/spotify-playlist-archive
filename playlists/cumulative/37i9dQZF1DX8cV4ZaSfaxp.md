@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: SURAN\(수란\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-274 songs - 17 hr 5 min - [published](https://open.spotify.com/playlist/60gChNBvUMmws1lEdYPtTq)
+275 songs - 17 hr 9 min - [published](https://open.spotify.com/playlist/60gChNBvUMmws1lEdYPtTq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [GROOVY DRIVE](https://open.spotify.com/track/4eS52yKCJejvyn8CTzLcH4) | [Won Hyo Yeon](https://open.spotify.com/artist/1FcpyWileFdK2dkO6xmUq8), [Kim Suri](https://open.spotify.com/artist/55xAoTbTU6RGCOwNSS5hN2) | [GROOVY DRIVE](https://open.spotify.com/album/7JvCB9fgiPAAjSVfdKHYm4) | 3:55 | 2022-05-11 | 2022-06-09 |
 | [Guardian \(Feat\. KIM A REUM\)](https://open.spotify.com/track/78CBTuYALVOFENLsmR4f3H) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Guardian \(Feat\. KIM A REUM\)](https://open.spotify.com/album/3fyp8CcFGBggndD2XtnjdW) | 5:00 | 2022-05-11 | 2022-07-28 |
 | [Gwangalli 광안리](https://open.spotify.com/track/5vakmnmH8tXgOidOG0WGdS) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Gwangalli 광안리](https://open.spotify.com/album/3NCE1jWgZ6CB5tRNPEbevI) | 3:48 | 2022-05-11 | 2022-07-28 |
-| [HANGANG \- Remix](https://open.spotify.com/track/4Ywb56fwQEduZ6DN3wpLoB) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7) | [Submarine](https://open.spotify.com/album/55gSBSGI0ZMuLaCkXN9b4v) | 3:53 | 2022-09-05 |  |
+| [HANGANG \- Remix](https://open.spotify.com/track/4Ywb56fwQEduZ6DN3wpLoB) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7) | [Submarine](https://open.spotify.com/album/55gSBSGI0ZMuLaCkXN9b4v) | 3:53 | 2022-09-05 | 2022-11-06 |
 | [HANGANG Remix](https://open.spotify.com/track/0hUuSsc5Ej4yVbxd7khYFY) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7) | [Submarine](https://open.spotify.com/album/6z9lCCimp8FEG6az48jEik) | 3:53 | 2022-05-11 | 2022-07-29 |
 | [Haru](https://open.spotify.com/track/12mRAMsizxyLBIqiQj6Kog) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/68DQ72Ez9AhEtByI4k9i2Z) | 3:43 | 2022-05-11 | 2022-07-29 |
 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 | 2022-07-22 |  |
@@ -280,6 +280,7 @@
 | [아마추어 \(2017 월간 윤종신 9월호\)](https://open.spotify.com/track/3jK3rSwcTQLM4lf1JP38MZ) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [아마추어 \(2017 월간 윤종신 9월호\)](https://open.spotify.com/album/4x1neNaEBMPtImNK91ZXoT) | 5:16 | 2022-05-11 | 2022-07-26 |
 | [어떤 오후 One Afternoon](https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Lion Heart \- The 5th Album](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) | 3:35 | 2022-05-11 |  |
 | [오늘 너의 두 손을 잡고](https://open.spotify.com/track/5gOyLqY1Y9qQ768QSwMPI0) | [현성민](https://open.spotify.com/artist/47kUNrAocpuIOvyRHpfwxB), [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [오늘 너의 두 손을 잡고](https://open.spotify.com/album/11NsORdJyGvf2k2SQtCTQd) | 3:37 | 2022-05-11 | 2022-07-28 |
+| [오늘같은 밤 A Night Like This](https://open.spotify.com/track/4bHe5QKYH1sE5pQcBchQWB) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D) | [nokdu ep vol.1](https://open.spotify.com/album/1MinGctMxIwURKTr30BaKZ) | 3:52 | 2022-09-05 |  |
 | [우리 둘만 특별하게](https://open.spotify.com/track/7k5i9hzO4rq5Qk3NOTdjo2) | [Sugarbowl](https://open.spotify.com/artist/0SzEYg3WelMs62HakSDhPH) | [lovers 4/6](https://open.spotify.com/album/2heqZChEg4UgSBjLYjQ0UW) | 3:37 | 2022-06-09 | 2022-06-30 |
 | [이 순간 Remember](https://open.spotify.com/track/5RJWYPiBiEtqKDWLfHHr9B) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3qVG71ED0PeWluJVoJaROJ) | 3:45 | 2022-05-11 | 2022-07-26 |
 

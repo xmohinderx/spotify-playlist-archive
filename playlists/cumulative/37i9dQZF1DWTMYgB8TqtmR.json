@@ -1617,7 +1617,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 203472,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
@@ -1660,6 +1660,24 @@
     },
     {
       "album": {
+        "name": "f\u00f6r oss",
+        "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "f\u00f6r oss",
+      "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
+    },
+    {
+      "album": {
         "name": "F\u00f6rf\u00f6r mig",
         "url": "https://open.spotify.com/album/4Ocv8AAKKEe9YaE7B6FtMe"
       },
@@ -1675,6 +1693,24 @@
       "duration_ms": 159361,
       "name": "F\u00f6rf\u00f6r mig",
       "url": "https://open.spotify.com/track/5i8OzyvCnieyg5twoH0kMh"
+    },
+    {
+      "album": {
+        "name": "Genom Dalarna",
+        "url": "https://open.spotify.com/album/7qT77qFCP5oiA1PIb9eZeW"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162214,
+      "name": "Genom Dalarna",
+      "url": "https://open.spotify.com/track/2izd2Ke23axCcWGUkAyKyG"
     },
     {
       "album": {
@@ -3677,7 +3713,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 151900,
       "name": "PANG! BOOM!",
       "url": "https://open.spotify.com/track/5FTmPaZPNPL3RlxHBN0QID"
@@ -3925,6 +3961,28 @@
       "duration_ms": 177816,
       "name": "Queens",
       "url": "https://open.spotify.com/track/5y7P80dZWvvakgj89Gkekn"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
       "album": {
@@ -4441,7 +4499,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 191445,
       "name": "Som ett minne blott",
       "url": "https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e"
@@ -4850,6 +4908,24 @@
     },
     {
       "album": {
+        "name": "S\u00e4g N\u00e5t",
+        "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166773,
+      "name": "S\u00e4g N\u00e5t",
+      "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
+    },
+    {
+      "album": {
         "name": "S\u00d6DERMALM",
         "url": "https://open.spotify.com/album/4l331F1fTBQYuVufhFeaEZ"
       },
@@ -4899,7 +4975,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 154986,
       "name": "S\u00d6DERMALM - Remix",
       "url": "https://open.spotify.com/track/3tVnfy2EiiiEgLgkbQ1weS"

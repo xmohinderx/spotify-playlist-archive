@@ -4,7 +4,7 @@
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-171 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/5VEyXoyPv34EuLVwWwWH7G)
+172 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/5VEyXoyPv34EuLVwWwWH7G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Pokemon Theme](https://open.spotify.com/track/6xG2ZGudUgtV235xvDlSEt) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon X \- Ten Years Of Pokemon](https://open.spotify.com/album/3qW0KwoP8BdFzqZSDh1ScI) | 3:16 | 2022-03-25 | 2022-07-29 |
 | [Pokémon Theme](https://open.spotify.com/track/3OIHgTyQdiAGMmpjQaNxp3) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon \- 2.b.a\. Master \- Music From The Hit Tv Series](https://open.spotify.com/album/4R0boGQyiCUt3i7pAKCitR) | 3:18 | 2022-03-25 |  |
 | [Pretty Bird](https://open.spotify.com/track/6nxr7E82EAR951Zf3RAouH) | [Jemaine Clement](https://open.spotify.com/artist/1Ymky4GOgYA1NI96FCY8yE) | [Rio: Music From The Motion Picture](https://open.spotify.com/album/08a2YQK74YrxNclLmOrZF4) | 2:03 | 2022-03-25 |  |
-| [Rainbow](https://open.spotify.com/track/6j4zMbkadk8COLU0zu9vYV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [My Little Pony: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jaMuZugOn1ED05hWervYc) | 3:17 | 2022-03-25 |  |
+| [Rainbow](https://open.spotify.com/track/2xie0OhRzMjWE1Be82sC0k) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: The Movie \(Original Motion Picture Score\)](https://open.spotify.com/album/5L7cZeMTVwaJUt1NHJSuEm) | 3:17 | 2022-03-25 |  |
+| [Rainbow](https://open.spotify.com/track/6j4zMbkadk8COLU0zu9vYV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [My Little Pony: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jaMuZugOn1ED05hWervYc) | 3:17 | 2022-03-25 | 2022-11-06 |
 | [Rainbow \(From The Original Motion Picture Soundtrack 'My Little Pony: The Movie'\)](https://open.spotify.com/track/21OY1Hn3WdsvJM42lOpjL0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [My Little Pony: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kUJgoPA2iz9c2jzUr0y1x) | 3:17 | 2022-03-25 | 2022-07-29 |
 | [Rainbow Connection](https://open.spotify.com/track/1SJ4ycWow4yz6z4oFz8NAG) | [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu) | [The Muppets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50) | 3:08 | 2022-03-25 |  |
 | [Reflection \(2020\) \- From "Mulan"](https://open.spotify.com/track/437eNQXusBT4q9q3f34oW9) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Reflection \(2020\) \[From "Mulan"\]](https://open.spotify.com/album/7uuzR6IeZUaKzeExKYkk2Y) | 3:37 | 2022-03-25 |  |

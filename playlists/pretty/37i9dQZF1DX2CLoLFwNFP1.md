@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > The hustle king and worldwide multi talent of Korean hip\-hop/r&b.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,639 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,685 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 87 | [I Got This](https://open.spotify.com/track/5IQhpdzUUxk3WngtnrXv2P) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:46 |
 | 88 | [Yummy \(Prod\. by Cha Cha Malone\)](https://open.spotify.com/track/6EHY1kVGeoghDbj77BwMnq) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Nothing Matters](https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn) | 3:11 |
 | 89 | [FSU \(feat\. GASHI & Rich The Kid\)](https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:51 |
-| 90 | [Limousine \(Feat\. KRNFX\)](https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KRNFX](https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |
-| 91 | [Alone Tonight \(Feat\. Sik\-K\)](https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:11 |
+| 90 | [Alone Tonight \(Feat\. Sik\-K\)](https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:11 |
+| 91 | [Limousine \(Feat\. KRNFX\)](https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KRNFX](https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |
 | 92 | [Ain’t No Party Like an AOMG Party](https://open.spotify.com/track/6T9kR3QShDs0E8HCxxcEpA) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Scene Stealers](https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe) | 4:37 |
 | 93 | [Feature \(Feat\. Cha Cha Malone\)](https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:50 |
 | 94 | [ON IT](https://open.spotify.com/track/7itI01MnLETtK0rn2JR7o8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [Ride Me](https://open.spotify.com/track/5ZvRzu5RNxIwvyPGTx8plM) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Evolution](https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4) | 4:00 |
 | 100 | [FOREVER \(WITH DJ ALE MORA\) \(Feat\. Cha Cha Malone\)](https://open.spotify.com/track/7tWk2C8SSuwrebfMt3jCaj) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ale Mora](https://open.spotify.com/artist/6bsbLjG9kdODP0wVaM1WXM), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:10 |
 
-Snapshot ID: `MTY2NzI3NTM2OCwwMDAwMDAwMDIxYTI4MzY3Yzg2YmRhZDFmOWQ4MGY2YmY2NDZkNWNi`
+Snapshot ID: `MTY2NzI3NTM2OCwwMDAwMDAwMDEzMGQxNzE4OTY4MjA4YmRjZTU4MTkwMmMwMmYyYmEw`

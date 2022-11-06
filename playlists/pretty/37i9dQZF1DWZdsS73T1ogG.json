@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Ery, Nesi & Noriel",
-  "num_followers": 508274,
+  "num_followers": 508317,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGY5MmU1YmQ3NDg2ZjZiOTAwN2E1MzM1YTVlOWJhYWFm",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGRlMzk4OTU0NmU3Y2RhNWYwZTM1M2YxNmFjMWNiYTI5",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -747,6 +747,26 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Doxxis",
+        "url": "https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 186601,
+      "name": "Doxxis",
+      "url": "https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Condado",
         "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 174250,
       "name": "De Pari",
       "url": "https://open.spotify.com/track/2oYbmygoO3gzLychByw297"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Doxxis",
-        "url": "https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 186601,
-      "name": "Doxxis",
-      "url": "https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "SALVAJE",
+      "url": "https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "PRENDE OTRO",
         "url": "https://open.spotify.com/album/6JnAfvezZhCZU6Lzg96Jai"
       },
@@ -1155,26 +1175,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "SALVAJE",
-      "url": "https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Hit$ Mu$ic (VOL. 1)",
         "url": "https://open.spotify.com/album/5jPDhWUbfyTeUTPSdHdrff"
       },
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Baby Glock",
+        "url": "https://open.spotify.com/album/4QRoMdDeTyYizr9Jfo6knv"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Hydro",
+          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
+        }
+      ],
+      "duration_ms": 165298,
+      "name": "Baby Glock",
+      "url": "https://open.spotify.com/track/3hNah4zjim0HfKVIXlJVCC"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "The Love & Sex Tape (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 213831,
       "name": "La Mini",
       "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Baby Glock",
-        "url": "https://open.spotify.com/album/4QRoMdDeTyYizr9Jfo6knv"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Hydro",
-          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
-        }
-      ],
-      "duration_ms": 165298,
-      "name": "Baby Glock",
-      "url": "https://open.spotify.com/track/3hNah4zjim0HfKVIXlJVCC"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Las Cartas",
+        "url": "https://open.spotify.com/album/4j1Es14amPfi0udZJV5Oyu"
+      },
+      "artists": [
+        {
+          "name": "Kamm",
+          "url": "https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "Las Cartas",
+      "url": "https://open.spotify.com/track/3F3zfGooJ4r6D18Bb9IunL"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Aprovechame BB",
         "url": "https://open.spotify.com/album/3F5VD1oinu70b2B9WWQ4ZU"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 192705,
       "name": "Aprovechame BB",
       "url": "https://open.spotify.com/track/29VflI9cjsWbGfEkvu0Tyk"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Las Cartas",
-        "url": "https://open.spotify.com/album/4j1Es14amPfi0udZJV5Oyu"
-      },
-      "artists": [
-        {
-          "name": "Kamm",
-          "url": "https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "Las Cartas",
-      "url": "https://open.spotify.com/track/3F3zfGooJ4r6D18Bb9IunL"
     },
     {
       "added_at": "2022-10-28 04:00:00",

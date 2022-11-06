@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1234,
+  "num_followers": 1235,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMGY4YjYzNTdlNjY4MjZhYjcxNmU2NzRiM2JlNTM4MmY2",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMGE0NGJmYzUxZWQ2NTA5MGU3ZTlkODk0YTA1NjdkMTll",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -407,22 +407,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Miss Patylu, vol. 1",
-        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Leche Con Pan",
-      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Leoncito Alado",
         "url": "https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 83018,
       "name": "El Ba\u00f1o del Elefantito",
       "url": "https://open.spotify.com/track/1poO0BVtZGS6ISJPgL2iKC"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 155193,
+      "name": "Leche Con Pan",
+      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -523,6 +523,22 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Rocknoceros",
         "url": "https://open.spotify.com/album/4eub8hBkToROharOKy0U6s"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 92173,
       "name": "Fixin' My Hair",
       "url": "https://open.spotify.com/track/34AjttGzdQFz3rXmQakgR7"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "El Primer D\u00eda de Escuela",
-        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "El Primer D\u00eda de Escuela",
-      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
     },
     {
       "added_at": "2020-04-22 19:35:42",

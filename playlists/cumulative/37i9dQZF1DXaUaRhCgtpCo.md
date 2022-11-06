@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Find more great Star Wars music <a href="https://open.spotify.com/user/official\_star\_wars">here</a>.
 
-115 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/1VWBxYYjYIwYYr2cZZuEqM)
+120 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/1VWBxYYjYIwYYr2cZZuEqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,11 @@
 | [Andor \(Main Title Theme\) \- Episode 2](https://open.spotify.com/track/6U3O3ecHuLSiBQYLuc5dK8) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 1 \(Episodes 1\-4\) \[Original Score\]](https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81) | 0:51 | 2022-10-26 |  |
 | [Andor \(Main Title Theme\) \- Episode 3](https://open.spotify.com/track/3nN7Ayfj2ukwgnprat3JjI) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Main Title Themes \(Episodes 1\-3\) \[From "Andor"\]](https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md) | 0:39 | 2022-09-22 | 2022-11-04 |
 | [Andor \(Main Title Theme\) \- Episode 3](https://open.spotify.com/track/38SyCdeH9rPBzsAwnrqDW1) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 1 \(Episodes 1\-4\) \[Original Score\]](https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81) | 0:39 | 2022-10-26 |  |
+| [Andor \(Main Title Theme\) \- Episode 4](https://open.spotify.com/track/5ZONUuFfVPVp7tfqvyB4Bx) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 1 \(Episodes 1\-4\) \[Original Score\]](https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81) | 0:46 | 2022-11-05 |  |
+| [Andor \(Main Title Theme\) \- Episode 5](https://open.spotify.com/track/0zTw9ipJFr3JrVfPtQYoap) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 2 \(Episodes 5\-8\) \[Original Score\]](https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT) | 1:08 | 2022-11-05 |  |
+| [Andor \(Main Title Theme\) \- Episode 6](https://open.spotify.com/track/436gHcmjvyp6GkwfWcJc9Z) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 2 \(Episodes 5\-8\) \[Original Score\]](https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT) | 0:50 | 2022-11-05 |  |
+| [Andor \(Main Title Theme\) \- Episode 7](https://open.spotify.com/track/4pFFwznYDDnaNSdsRTN2pn) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 2 \(Episodes 5\-8\) \[Original Score\]](https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT) | 0:58 | 2022-11-05 |  |
+| [Andor \(Main Title Theme\) \- Episode 8](https://open.spotify.com/track/6LRpn5LdxiVy9tNXraTamS) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 2 \(Episodes 5\-8\) \[Original Score\]](https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT) | 0:50 | 2022-11-05 |  |
 | [Anthem of Imperial \(Am's Theme\)](https://open.spotify.com/track/4nVX4iK27SpoFaPDqh7CFZ) | [Michiru Oshima](https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr) | [Star Wars: Visions \- THE TWINS \(Original Soundtrack\)](https://open.spotify.com/album/3vJFJpgsuEWp09Pv0Ae9J2) | 2:00 | 2021-10-14 |  |
 | [Bad Batch Heroics](https://open.spotify.com/track/664NeBjmpNyEXPNPjB3Zvl) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Clone Wars \- The Final Season \(Episodes 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/10YZRQdDel04sE4hn2UGRg) | 2:09 | 2021-05-14 |  |
 | [Bad Batch Theme \- From "Star Wars: The Clone Wars \- The Final Season"](https://open.spotify.com/track/5u4B5vUi7cVqcuoKjgCVkg) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Bad Batch Theme \(From "Star Wars: The Clone Wars \- The Final Season"\)](https://open.spotify.com/album/7cTFtIj93bFLmGxhgpEZ6i) | 2:00 | 2021-05-14 |  |

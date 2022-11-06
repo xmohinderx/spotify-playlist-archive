@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: BIG THE KIID",
-  "num_followers": 95003,
+  "num_followers": 95046,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzNTQ5NywwMDAwMDAwMGFjMGU4OTZhOWE4NjZlYzExYjU0MDA1N2JiYjAzOTc1",
+  "snapshot_id": "MTY2NjkzNTQ5NywwMDAwMDAwMGYxNGI2Y2UyYzMwNDkyNjIzOTdkNDgyMTE5ZjhhMjY4",
   "tracks": [
     {
       "added_at": "2022-10-28 05:38:17",
@@ -351,26 +351,18 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "Vai Ficar Tudo Bem",
-        "url": "https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS"
+        "name": "Voc\u00ea Acredita?",
+        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
       },
       "artists": [
         {
-          "name": "Ca\u00edque Ribeiro",
-          "url": "https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7"
-        },
-        {
-          "name": "Asaph",
-          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
         }
       ],
-      "duration_ms": 220279,
-      "name": "Vai Ficar Tudo Bem",
-      "url": "https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH"
+      "duration_ms": 194623,
+      "name": "Voc\u00ea Acredita?",
+      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -411,18 +403,26 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "Voc\u00ea Acredita?",
-        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
+        "name": "Vai Ficar Tudo Bem",
+        "url": "https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS"
       },
       "artists": [
         {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+          "name": "Ca\u00edque Ribeiro",
+          "url": "https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7"
+        },
+        {
+          "name": "Asaph",
+          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         }
       ],
-      "duration_ms": 194623,
-      "name": "Voc\u00ea Acredita?",
-      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
+      "duration_ms": 220279,
+      "name": "Vai Ficar Tudo Bem",
+      "url": "https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "Possivel \u00c9",
-        "url": "https://open.spotify.com/album/0Bz5jyWKCtu3bcQQF3AoBo"
-      },
-      "artists": [
-        {
-          "name": "KJ",
-          "url": "https://open.spotify.com/artist/2C8xiQfIDWO4nKxfMZoL2c"
-        },
-        {
-          "name": "DJ Alle Mark",
-          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Possivel \u00c9",
-      "url": "https://open.spotify.com/track/7Gn9M2Gt4wcjzW9Se0esmO"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
         "name": "O Pre\u00e7o",
         "url": "https://open.spotify.com/album/4dpgxFCXibZZsHqZhc07yU"
       },
@@ -1215,6 +1195,42 @@
       "duration_ms": 202105,
       "name": "O Pre\u00e7o",
       "url": "https://open.spotify.com/track/75ElCpWWG587b1qVhW4uun"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
+        "name": "Possivel \u00c9",
+        "url": "https://open.spotify.com/album/0Bz5jyWKCtu3bcQQF3AoBo"
+      },
+      "artists": [
+        {
+          "name": "KJ",
+          "url": "https://open.spotify.com/artist/2C8xiQfIDWO4nKxfMZoL2c"
+        },
+        {
+          "name": "DJ Alle Mark",
+          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Possivel \u00c9",
+      "url": "https://open.spotify.com/track/7Gn9M2Gt4wcjzW9Se0esmO"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -1283,22 +1299,6 @@
       "duration_ms": 162162,
       "name": "N\u00e3o Temerei",
       "url": "https://open.spotify.com/track/14X9dYqmcMRLBr0fr2aUxC"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
     },
     {
       "added_at": "2022-10-28 05:38:17",

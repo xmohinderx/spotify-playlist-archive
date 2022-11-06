@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 651387,
+  "num_followers": 651524,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDdhMzM0MTJhODkyNmU2YmVkNWExMWZmN2RlMjhiMmZi",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDFhMjc1M2UyYmJkODllZGEwZWNhYzhmNWJlYmU3OTBi",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "I Melt with You",
-        "url": "https://open.spotify.com/album/2LtZ92MK0h2C1zJofjUMaQ"
-      },
-      "artists": [
-        {
-          "name": "Daulton Hopkins",
-          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "I Melt with You",
-      "url": "https://open.spotify.com/track/6uYFQyxZtCZih0aUfk1XdQ"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Sunshine on a Cloudy Day",
         "url": "https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 166438,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/4unFohIcd9kN5SeeYrqtXk"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "I Melt with You",
+        "url": "https://open.spotify.com/album/2LtZ92MK0h2C1zJofjUMaQ"
+      },
+      "artists": [
+        {
+          "name": "Daulton Hopkins",
+          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
+        }
+      ],
+      "duration_ms": 217344,
+      "name": "I Melt with You",
+      "url": "https://open.spotify.com/track/6uYFQyxZtCZih0aUfk1XdQ"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Love Goes: Live at Abbey Road Studios",
         "url": "https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 232128,
       "name": "Time After Time - Live At Abbey Road Studios",
       "url": "https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "You Are My Sunshine (with Chris Stapleton)",
         "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "I Can Help",
-        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
       },
       "artists": [
         {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 218225,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -979,6 +963,22 @@
       "duration_ms": 251889,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "I Can Help",
+        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 218225,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU"
-      },
-      "artists": [
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 185755,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Judah & The Lion (Unplugged)",
         "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 251805,
       "name": "Soak up the Sun - Unplugged",
       "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU"
+      },
+      "artists": [
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 185755,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "I Won't Back Down - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 248013,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "I Won't Back Down - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Right Down the Line",
-        "url": "https://open.spotify.com/album/6cHcoPe1ZExlEv2YppIT6Y"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 206508,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/1gD8qr4YKd16C2tV1bnXOc"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Greatest Hits And Others",
         "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 140000,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Right Down the Line",
+        "url": "https://open.spotify.com/album/6cHcoPe1ZExlEv2YppIT6Y"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 206508,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/1gD8qr4YKd16C2tV1bnXOc"
     },
     {
       "added_at": "2022-09-30 04:00:00",

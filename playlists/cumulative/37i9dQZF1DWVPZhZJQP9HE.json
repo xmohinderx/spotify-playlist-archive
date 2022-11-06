@@ -840,6 +840,28 @@
     },
     {
       "album": {
+        "name": "Gandhari (Tamil)",
+        "url": "https://open.spotify.com/album/0xlkH2wMrUW0Xzy09fE6bo"
+      },
+      "artists": [
+        {
+          "name": "Pawan Ch",
+          "url": "https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK"
+        },
+        {
+          "name": "Vaish",
+          "url": "https://open.spotify.com/artist/3UUCWlU2bPEuKMAoUeiJBD"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197488,
+      "name": "Gandhari - Tamil",
+      "url": "https://open.spotify.com/track/1cwF0UONpG1sy5mqqb5RRL"
+    },
+    {
+      "album": {
         "name": "Ketta Kelu",
         "url": "https://open.spotify.com/album/0lIvorfxIaF4QK3LFQwrje"
       },
@@ -1765,6 +1787,24 @@
       "duration_ms": 255464,
       "name": "Kannadi Valayal",
       "url": "https://open.spotify.com/track/0gDy4cpCWmx0FLKxFqL3zS"
+    },
+    {
+      "album": {
+        "name": "Kannala Kadhal",
+        "url": "https://open.spotify.com/album/5I62z1epRIXimxc3ejWc8f"
+      },
+      "artists": [
+        {
+          "name": "Sanathan Shree Krishnan",
+          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Kannala Kadhal",
+      "url": "https://open.spotify.com/track/4lzgIXbT9hQ0HVlWd4w4Dd"
     },
     {
       "album": {

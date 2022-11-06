@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,998 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,259 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 31 | [Raconteur](https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Raconteur](https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T) | 1:47 |
 | 32 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 |
 | 33 | [Pour Vous](https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Pour Vous](https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD) | 2:30 |
-| 34 | [Om än bara för en stund](https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Om än bara för en stund](https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH) | 2:38 |
-| 35 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 |
-| 36 | [Adesso](https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Adesso](https://open.spotify.com/album/33kzMmushokneJ49TH7O7K) | 2:27 |
-| 37 | [Al buio con te](https://open.spotify.com/track/2xU7HfHYdDO8T4TVRJwvHJ) | [Nicola Conti](https://open.spotify.com/artist/6vfIB4LyqkmDQevucWiiif) | [Al buio con te](https://open.spotify.com/album/6emKARrpD8jsPvjXkZdQOs) | 2:16 |
+| 34 | [Al buio con te](https://open.spotify.com/track/2xU7HfHYdDO8T4TVRJwvHJ) | [Nicola Conti](https://open.spotify.com/artist/6vfIB4LyqkmDQevucWiiif) | [Al buio con te](https://open.spotify.com/album/6emKARrpD8jsPvjXkZdQOs) | 2:16 |
+| 35 | [Om än bara för en stund](https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Om än bara för en stund](https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH) | 2:38 |
+| 36 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 |
+| 37 | [Adesso](https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Adesso](https://open.spotify.com/album/33kzMmushokneJ49TH7O7K) | 2:27 |
 | 38 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 |
-| 39 | [We were the hook](https://open.spotify.com/track/5EcZL9ug4iU6C7Dqqfixgt) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [We were the hook](https://open.spotify.com/album/5qtASuu0vG7fEmdjnb9ytb) | 2:07 |
-| 40 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 |
-| 41 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
+| 39 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 |
+| 40 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
+| 41 | [We were the hook](https://open.spotify.com/track/5EcZL9ug4iU6C7Dqqfixgt) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [We were the hook](https://open.spotify.com/album/5qtASuu0vG7fEmdjnb9ytb) | 2:07 |
 | 42 | [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 |
 | 43 | [Trust](https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Trust](https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv) | 2:23 |
 | 44 | [Mind Like Water](https://open.spotify.com/track/4fcdZ4bM6DgVGOs9y13KIk) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Mind Like Water](https://open.spotify.com/album/5IKvJmKiZqUke2c6AaydA0) | 2:00 |
@@ -66,21 +66,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 56 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 |
 | 57 | [Wake with me](https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj) | [Brian Lyndon](https://open.spotify.com/artist/1F24KoavEHiou99P9SlyBY) | [Wake with me](https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy) | 2:15 |
 | 58 | [D'émeraude](https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB) | [Daniel Joaví](https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT) | [D'émeraude](https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ) | 2:06 |
-| 59 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 |
-| 60 | [Il lago](https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Il lago](https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582) | 2:30 |
-| 61 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 |
+| 59 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 |
+| 60 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 |
+| 61 | [Il lago](https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Il lago](https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582) | 2:30 |
 | 62 | [La Ballerine](https://open.spotify.com/track/4oQi1BbH2g3V3s7lluq8vy) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [La Ballerine](https://open.spotify.com/album/2xmXYtmCj2ipIXy6CPUaGv) | 2:33 |
 | 63 | [Desenlace](https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Emociones](https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88) | 2:50 |
-| 64 | [San Siro](https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [San Remo](https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA) | 2:50 |
-| 65 | [Matin](https://open.spotify.com/track/1TWlhhICPR0UpyIJhxPiEx) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Matin](https://open.spotify.com/album/0HVGfqOjUcn2HKQcND27hR) | 1:54 |
-| 66 | [Fade away](https://open.spotify.com/track/2kBKYE62rFAbdrr9KllA2v) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Fade away](https://open.spotify.com/album/6jQTgfNl2JUJm2IwVlwvI7) | 2:11 |
+| 64 | [Con Cariño](https://open.spotify.com/track/5Wp5IP3REfgDJnxKeUOfb3) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Con Cariño](https://open.spotify.com/album/5J12GR7RKMZGO96J7JIZnp) | 2:26 |
+| 65 | [San Siro](https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [San Remo](https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA) | 2:50 |
+| 66 | [Matin](https://open.spotify.com/track/1TWlhhICPR0UpyIJhxPiEx) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Matin](https://open.spotify.com/album/0HVGfqOjUcn2HKQcND27hR) | 1:54 |
 | 67 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
-| 68 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 |
-| 69 | [The Midnight Sun](https://open.spotify.com/track/73WwLsqz0sZQucwkeyybus) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [The Midnight Sun](https://open.spotify.com/album/6ST5jKASoHoEU1T7pgq5cE) | 2:58 |
-| 70 | [Longest days](https://open.spotify.com/track/1fyoUmAZLx9tLmXA99Uxs4) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Longest days](https://open.spotify.com/album/5jQDQGF85HaPrqvrVQBAMi) | 2:45 |
-| 71 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
-| 72 | [My Absence](https://open.spotify.com/track/60aQ47g6775vmbN3yMntql) | [Giselle Guarezi](https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy) | [My Absence](https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV) | 1:58 |
-| 73 | [Con Cariño](https://open.spotify.com/track/5Wp5IP3REfgDJnxKeUOfb3) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Con Cariño](https://open.spotify.com/album/5J12GR7RKMZGO96J7JIZnp) | 2:26 |
+| 68 | [Fade away](https://open.spotify.com/track/2kBKYE62rFAbdrr9KllA2v) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Fade away](https://open.spotify.com/album/6jQTgfNl2JUJm2IwVlwvI7) | 2:11 |
+| 69 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 |
+| 70 | [The Midnight Sun](https://open.spotify.com/track/73WwLsqz0sZQucwkeyybus) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [The Midnight Sun](https://open.spotify.com/album/6ST5jKASoHoEU1T7pgq5cE) | 2:58 |
+| 71 | [Longest days](https://open.spotify.com/track/1fyoUmAZLx9tLmXA99Uxs4) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Longest days](https://open.spotify.com/album/5jQDQGF85HaPrqvrVQBAMi) | 2:45 |
+| 72 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
+| 73 | [My Absence](https://open.spotify.com/track/60aQ47g6775vmbN3yMntql) | [Giselle Guarezi](https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy) | [My Absence](https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV) | 1:58 |
 | 74 | [Il Colibrì](https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Il Colibrì](https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS) | 2:30 |
 | 75 | [Places](https://open.spotify.com/track/4Wvikn2Ltcfa8yhBM7Wblk) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Places](https://open.spotify.com/album/1A8hQLxcKBLqsXXzqMIaKI) | 2:34 |
 | 76 | [Travelling](https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Travelling](https://open.spotify.com/album/3OLjWTVE7j1i2pWoBDRhoR) | 2:40 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 88 | [Not a Number](https://open.spotify.com/track/4nncPBsmSPNNeZ2nbd0QR7) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Not a Number](https://open.spotify.com/album/3d0tZ74PLQQyArqWi96Pqw) | 2:33 |
 | 89 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
 | 90 | [Cavtat](https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Cavtat](https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2) | 1:59 |
-| 91 | [Ellipses](https://open.spotify.com/track/28GCsymrcDUXXLC12nkhp3) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Ellipses](https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM) | 2:31 |
-| 92 | [I'll Be There \(In Time\)](https://open.spotify.com/track/5TU3nGBwp32iI4ZuA9OFSf) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [I'll Be There \(In Time\)](https://open.spotify.com/album/1zpi4qDUINUCPILwaJZJuO) | 2:59 |
+| 91 | [I'll Be There \(In Time\)](https://open.spotify.com/track/5TU3nGBwp32iI4ZuA9OFSf) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [I'll Be There \(In Time\)](https://open.spotify.com/album/1zpi4qDUINUCPILwaJZJuO) | 2:59 |
+| 92 | [Ellipses](https://open.spotify.com/track/28GCsymrcDUXXLC12nkhp3) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Ellipses](https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM) | 2:31 |
 | 93 | [Sakteligen](https://open.spotify.com/track/3l7MIilW80gHnwhoV75y2m) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Sakteligen](https://open.spotify.com/album/22yjb9dD0nwsLdEBjRNUd2) | 2:11 |
 | 94 | [Ala](https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Ala](https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa) | 2:00 |
 | 95 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 |
 | 100 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 |
 
-Snapshot ID: `MTY2NjY3ODM1NSwwMDAwMDAwMDhkYmQyYTVkMjRkODNlMmQxNmM1M2IwZWRmOTQyNWVi`
+Snapshot ID: `MTY2NjY3ODM1NSwwMDAwMDAwMDlkNWY2YzYxM2MyYTBlOWJiZTI5ZmRlZTE2YjNhZWU2`

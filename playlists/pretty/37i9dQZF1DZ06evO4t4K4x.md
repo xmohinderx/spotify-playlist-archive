@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846 likes - 33 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 847 likes - 33 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 21 | [Hannett and Delia synth exchanges track 1](https://open.spotify.com/track/1BhubvIhpbae9mlwxFAQce) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 0:46 |
 | 22 | [Shock Chords](https://open.spotify.com/track/5WcHBV1Wzac0UCRy3ZseBc) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 0:34 |
 | 23 | [Doctor Who \(Closing Theme\)](https://open.spotify.com/track/12eaGTQ57QR7E1XhAevAXo) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [The BBC Radiophonic Workshop](https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa) | [Doctor Who \- The Caves of Androzani \(Original Television Soundtrack\)](https://open.spotify.com/album/4b80quImIGtQGnlNuDUlqm) | 1:20 |
-| 24 | [Doctor Who Closing Title Theme \- 53'' Version](https://open.spotify.com/track/6j0lGczgs13shAl0iFHfN2) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The Sun Makers \(Original Television Soundtrack\)](https://open.spotify.com/album/3veythdmOIq5kZLK5HAG1b) | 0:55 |
+| 24 | [Doctor Who Closing Title Theme \- 53" Version](https://open.spotify.com/track/0423txeQ20yYT91cnKYzLI) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- the Sun Makers \(Original Television Soundtrack\)](https://open.spotify.com/album/5CI2PWZGvmov9hh1PFh4j3) | 0:55 |
 | 25 | [Hannett and Delia synth exchanges track 14](https://open.spotify.com/track/4HdrI3r3t0t4VwikGGhovW) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:01 |
 | 26 | [Computermatic](https://open.spotify.com/track/3O8IUG7HPVvLbp993DDdvU) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 1:14 |
 | 27 | [Know Your Car \(Get out and Get Under\)](https://open.spotify.com/track/5mFAUxtxUKV8HbNjhyqoGd) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:59 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 32 | [Environmental Studies](https://open.spotify.com/track/6SH4xRo7J9eGtzZTvUIM2w) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:31 |
 | 33 | [Great Zoos of the World](https://open.spotify.com/track/39fgw4eQFh7AFDXNkchxrJ) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:37 |
 
-Snapshot ID: `Mjc3OTM0MTQsMDAwMDAwMDBhOGQ0ZDg4NjY1NmUxNWExYzkyNGNkZGIyMWJkN2NlNw==`
+Snapshot ID: `Mjc3OTQ0MzUsMDAwMDAwMDBmMTE4ZmUyODM0NTAwYWU1YWRhNjcyYmZmOWIyNGNmMA==`

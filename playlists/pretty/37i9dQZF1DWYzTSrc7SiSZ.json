@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing. Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 637141,
+  "num_followers": 637230,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg3ODM0OCwwMDAwMDAwMGIxMzFlZmVlMDM4NThkOTE2M2ZjZDY3YzVlYWY5MmRj",
+  "snapshot_id": "MTY2Njg3ODM0OCwwMDAwMDAwMGViOTdhNGVkZTQyNTFiYWE1NmYxYTBhNWU1MWJkMDMx",
   "tracks": [
     {
       "added_at": "2022-10-27 13:45:48",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Girasoles",
-        "url": "https://open.spotify.com/album/4R22TlmVh28LeA4J3vohVn"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "Girasoles",
-      "url": "https://open.spotify.com/track/4LdtAljggvH4qzlxNxo559"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Paranoia Pop",
         "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 219386,
       "name": "Sin Se\u00f1al",
       "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Girasoles",
+        "url": "https://open.spotify.com/album/4R22TlmVh28LeA4J3vohVn"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "Girasoles",
+      "url": "https://open.spotify.com/track/4LdtAljggvH4qzlxNxo559"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
+        "name": "VELOZzzz",
+        "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 184888,
+      "name": "VELOZzzz",
+      "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
         "name": "Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 126984,
       "name": "Cafeliko",
       "url": "https://open.spotify.com/track/0mzvDQW1IgLuXAwD5YMN6i"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
-        "name": "VELOZzzz",
-        "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "VELOZzzz",
-      "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -571,6 +571,26 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
+        "name": "17 (feat. Giulia Be)",
+        "url": "https://open.spotify.com/album/4wDCjWGkL360hLUkiBadgC"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 160722,
+      "name": "17 (feat. Giulia Be)",
+      "url": "https://open.spotify.com/track/6HzoyVSUu5MSYZikhYQ8u7"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
         "name": "Marea (feat. legallyrxx)",
         "url": "https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 166036,
       "name": "Marea (feat. legallyrxx)",
       "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
-        "name": "17 (feat. Giulia Be)",
-        "url": "https://open.spotify.com/album/4wDCjWGkL360hLUkiBadgC"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 160722,
-      "name": "17 (feat. Giulia Be)",
-      "url": "https://open.spotify.com/track/6HzoyVSUu5MSYZikhYQ8u7"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Amiga M\u00eda",
-        "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 212877,
-      "name": "Amiga M\u00eda",
-      "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 153564,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 212877,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "no est\u00e1s",
-        "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 164369,
-      "name": "no est\u00e1s",
-      "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "fr\u00edo",
         "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 278490,
       "name": "fr\u00edo",
       "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "no est\u00e1s",
+        "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 164369,
+      "name": "no est\u00e1s",
+      "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Pastelitos De Guayaba",
-        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Yan",
-          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
-        }
-      ],
-      "duration_ms": 191671,
-      "name": "Pastelitos De Guayaba",
-      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Conf\u00eden En M\u00ed",
         "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 108586,
       "name": "No Eres T\u00fa, Soy Yo",
       "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Pastelitos De Guayaba",
+        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Yan",
+          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
+        }
+      ],
+      "duration_ms": 191671,
+      "name": "Pastelitos De Guayaba",
+      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
-        "url": "https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
-      "url": "https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 235102,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
+        "url": "https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
+      "url": "https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1339,6 +1339,22 @@
       "duration_ms": 217399,
       "name": "No Te Voy a Ver",
       "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "duermo sin pijama",
+        "url": "https://open.spotify.com/album/48RwFsfdrq3EOs0LP8HE2y"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "duermo sin pijama",
+      "url": "https://open.spotify.com/track/5UL2BK6DLcqjTeORNJZrrH"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1503,8 +1519,8 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "duermo sin pijama",
-        "url": "https://open.spotify.com/album/48RwFsfdrq3EOs0LP8HE2y"
+        "name": "GOTEO",
+        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
       },
       "artists": [
         {
@@ -1512,9 +1528,9 @@
           "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
         }
       ],
-      "duration_ms": 153786,
-      "name": "duermo sin pijama",
-      "url": "https://open.spotify.com/track/5UL2BK6DLcqjTeORNJZrrH"
+      "duration_ms": 230540,
+      "name": "MI TODO",
+      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Qu\u00edtame",
-        "url": "https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8"
-      },
-      "artists": [
-        {
-          "name": "Michi",
-          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Qu\u00edtame",
-      "url": "https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Qu\u00edtame",
+        "url": "https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8"
+      },
+      "artists": [
+        {
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "Qu\u00edtame",
+      "url": "https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1675,22 +1691,6 @@
       "duration_ms": 196909,
       "name": "Hace Mucho",
       "url": "https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
-        "name": "GOTEO",
-        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 230540,
-      "name": "MI TODO",
-      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
     },
     {
       "added_at": "2022-10-27 13:45:48",

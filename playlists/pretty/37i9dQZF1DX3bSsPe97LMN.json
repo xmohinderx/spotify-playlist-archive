@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Xavi en portada.",
-  "num_followers": 45196,
+  "num_followers": 45223,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMGI0ODZhMmE0OGU3NWUyMTlkMTY1ZDRmNmQyN2UxN2Ux",
+  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMGMzNjljYWEzYjViMDk0YzYyZjliOTk1OTVlMjUyODNk",
   "tracks": [
     {
       "added_at": "2022-10-14 05:00:00",
@@ -781,6 +781,22 @@
       "url": "https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV"
     },
     {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "SRT",
+        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 178748,
+      "name": "SRT",
+      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
+    },
+    {
       "added_at": "2022-10-07 15:36:37",
       "album": {
         "name": "Mario Aguirre (En Vivo)",
@@ -799,22 +815,6 @@
       "duration_ms": 178979,
       "name": "Mario Aguirre (En Vivo)",
       "url": "https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "SRT",
-        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
-      },
-      "artists": [
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 178748,
-      "name": "SRT",
-      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
     },
     {
       "added_at": "2022-10-07 15:36:37",

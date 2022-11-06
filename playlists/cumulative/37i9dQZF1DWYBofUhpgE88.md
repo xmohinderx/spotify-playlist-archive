@@ -4,7 +4,7 @@
 
 > La carica giusta per i tuoi allenamenti!
 
-151 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/3Ey8aCYd3dXZSoSdUAPFlu)
+152 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/3Ey8aCYd3dXZSoSdUAPFlu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [ALYX \(feat\. Capo Plaza\)](https://open.spotify.com/track/39XG4fTadjyZtPYybMqvZA) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [J](https://open.spotify.com/album/5cmbVE8sridz5LqFNEAWwy) | 3:03 | 2022-05-03 | 2022-07-29 |
 | [Amici](https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Scialla Semper](https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX) | 3:00 | 2022-05-03 |  |
 | [AMY \(feat\. Rkomi\)](https://open.spotify.com/track/4RmbBOcricHnqiCrkl3JuO) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [DJUNGLE](https://open.spotify.com/album/3v8q233zGqlp3hW7BPC8K1) | 2:58 | 2022-05-03 | 2022-07-29 |
+| [Auto tedesca](https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:39 | 2022-09-28 |  |
 | [Auto tedesca](https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:39 | 2022-09-08 | 2022-10-26 |
 | [Barking](https://open.spotify.com/track/7amMgNDcObIDkIXv4xcvc2) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Barking](https://open.spotify.com/album/5ZyO9Yu6zYWcGcU1CwTu0X) | 3:22 | 2022-05-03 | 2022-07-29 |
 | [Barking](https://open.spotify.com/track/2JbO1rep5Um3RAKB8szQrR) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Blockbuster](https://open.spotify.com/album/5gHmCqjB4VVbYzaoxTokGA) | 3:24 | 2022-07-04 |  |
@@ -42,7 +43,7 @@
 | [COSPLAYER](https://open.spotify.com/track/09FMFnWC5RYkvvvsjOus9B) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:41 | 2022-05-03 | 2022-05-28 |
 | [Cracovia, Pt\. 3](https://open.spotify.com/track/18dt6tNw8hpNUdthOJf0lI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Cracovia, Pt\. 3](https://open.spotify.com/album/4wQbkZfAr6QpI9AdrQOqcn) | 2:54 | 2022-05-03 | 2022-07-29 |
 | [Cyborg \(feat\. Geolier\)](https://open.spotify.com/track/54wRUYPMEHLttFdLImOlAt) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:25 | 2022-05-03 | 2022-07-27 |
-| [Deep End Freestyle](https://open.spotify.com/track/4zTPYAf5scZdp0LnwPPeWK) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Deep End Freestyle](https://open.spotify.com/album/39sypxAyq6TZFqz8CMK3tJ) | 1:55 | 2022-07-04 |  |
+| [Deep End Freestyle](https://open.spotify.com/track/4zTPYAf5scZdp0LnwPPeWK) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Deep End Freestyle](https://open.spotify.com/album/39sypxAyq6TZFqz8CMK3tJ) | 1:55 | 2022-07-04 | 2022-11-06 |
 | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/album/58UfZvPf388nNXT6nnszRp) | 3:51 | 2022-05-03 | 2022-07-21 |
 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 | 2022-05-03 |  |
 | [Elastic](https://open.spotify.com/track/4MAADpR6MjelkaZqe3Mgnv) | [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [QUARTERTHING](https://open.spotify.com/album/0ffPsL9V1eNMi54MEHMehn) | 2:06 | 2022-07-04 |  |

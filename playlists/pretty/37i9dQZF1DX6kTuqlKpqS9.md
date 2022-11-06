@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,069 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,128 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 51 | [Sufriendo a Solas](https://open.spotify.com/track/253straZSUiYbEJ6Oorc6B) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Mariachi Ranchera Y Tradicional](https://open.spotify.com/album/4ON3WQPvu6TI22DnBiF9Pg) | 5:07 |
 | 52 | [Tatuajes \- En Vivo](https://open.spotify.com/track/0TchGuutCU00E8sw8E6XWX) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo Desde La Plaza El Progreso De Guadalajara](https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j) | 3:56 |
 | 53 | [Cartas Marcadas \- En Vivo](https://open.spotify.com/track/3oRknjYGTdRmvhHVuYdoNI) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 4:10 |
-| 54 | [Que Te Ruegue Quien Te Quiera \- En Vivo Auditorio Nacional](https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 3:07 |
-| 55 | [La Gran Señora \- Live](https://open.spotify.com/track/7tdHYlgbQJUTXACQ1I9cqk) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mujeres con Mariachi](https://open.spotify.com/album/5HOlH78OGhLQx35UudXbPY) | 3:50 |
+| 54 | [La Gran Señora \- Live](https://open.spotify.com/track/7tdHYlgbQJUTXACQ1I9cqk) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mujeres con Mariachi](https://open.spotify.com/album/5HOlH78OGhLQx35UudXbPY) | 3:50 |
+| 55 | [Que Te Ruegue Quien Te Quiera \- En Vivo Auditorio Nacional](https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 3:07 |
 | 56 | [Adicto a ti \- En vivo](https://open.spotify.com/track/76C7mwUjz3AvECGmC24oXK) | [Los Valedores de la Sierra](https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy) | [Los Valedores de la Sierra con Mariachi \(En vivo\)](https://open.spotify.com/album/5rBdxOzPkKkV7dpcc47M3y) | 3:56 |
 | 57 | [Cielo Rojo \- En Vivo Auditorio Nacional](https://open.spotify.com/track/6MXu4vPjcCVKJdPsU0vhyc) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 4:26 |
 | 58 | [Tristes Recuerdos \- En Vivo](https://open.spotify.com/track/4pILiOmw8YQpcxH7XCVJO9) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada En Vivo](https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ) | 4:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 74 | [Gracias Por Tanto Amor \- En Vivo](https://open.spotify.com/track/0OiTHFIm12ConCiZlsPjGH) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo Desde La Plaza El Progreso De Guadalajara](https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j) | 3:44 |
 | 75 | [Medley Kumbia \- En Vivo Auditorio Nacional](https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 7:21 |
 
-Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMGZiMDZjZTM1ZGQ4M2FiMmExYjBkZjcxODRkMDA3NTg5`
+Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMDk0MDNhZTRkYjdlMDk0ZTU4N2M2ZmIwMTVlOGVhZDFl`

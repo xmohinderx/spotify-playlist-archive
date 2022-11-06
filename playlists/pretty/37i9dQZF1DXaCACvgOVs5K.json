@@ -1,12 +1,12 @@
 {
   "description": "Ibiza season is back for 2022. Let's dance!",
-  "num_followers": 68800,
+  "num_followers": 69012,
   "original_name": "Ibiza 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUzNzc2MCwwMDAwMDAwMDYyZTBhOWFjNDY3YzNkOGY4ZGM2NzQ3M2Y5MzNiYTFm",
+  "snapshot_id": "MTY2MTUzNzc2MCwwMDAwMDAwMDU5NmYyODQyODQ1ZWRmYmQwNDhlY2JjMDkzNTYzYmE4",
   "tracks": [
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
         "name": "Love Tonight (Vintage Culture & Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/1X71912aX0L37dW0eW3QgE"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 208536,
       "name": "Love Tonight - Vintage Culture & Kiko Franco Remix Edit",
       "url": "https://open.spotify.com/track/53ICqRSyTfhrrvNwVSP6am"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
+        "name": "Know My Name",
+        "url": "https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Know My Name",
+      "url": "https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
         "name": "Tears In Ibiza (feat. AR/CO)",
         "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "Know My Name",
-        "url": "https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Know My Name",
-      "url": "https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
         "name": "Say It Again",
         "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
       },
@@ -1251,26 +1251,6 @@
       "duration_ms": 207272,
       "name": "Say It Again",
       "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
-        "name": "079",
-        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
-      },
-      "artists": [
-        {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
-        },
-        {
-          "name": "Block Notice",
-          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "079",
-      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1291,6 +1271,26 @@
       "duration_ms": 242333,
       "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
       "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
+        "name": "079",
+        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
+      },
+      "artists": [
+        {
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+        },
+        {
+          "name": "Block Notice",
+          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "079",
+      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
       },
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
         }
       ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
+      "duration_ms": 190512,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1579,22 +1595,6 @@
       "duration_ms": 206971,
       "name": "La Murga - Michael's Midnight Mix",
       "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 190512,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "Shake My Booty",
-        "url": "https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi"
-      },
-      "artists": [
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        }
-      ],
-      "duration_ms": 202943,
-      "name": "Shake My Booty",
-      "url": "https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
         "name": "Plastic Smiling",
         "url": "https://open.spotify.com/album/4bEqr1qELvLFgTUm1LIQFP"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 177142,
       "name": "Plastic Smiling",
       "url": "https://open.spotify.com/track/2Ns6oTwpUGA9zdcS6BEwU7"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
+        "name": "Shake My Booty",
+        "url": "https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "duration_ms": 202943,
+      "name": "Shake My Booty",
+      "url": "https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
+        "name": "Insomnia 2021",
+        "url": "https://open.spotify.com/album/04zGytx3eRCDR7JEQB9GSX"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 288238,
+      "name": "Insomnia 2021 - Epic Edit",
+      "url": "https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -1815,26 +1835,6 @@
       "duration_ms": 199768,
       "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
       "url": "https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
-        "name": "Insomnia 2021",
-        "url": "https://open.spotify.com/album/04zGytx3eRCDR7JEQB9GSX"
-      },
-      "artists": [
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        },
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 288238,
-      "name": "Insomnia 2021 - Epic Edit",
-      "url": "https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1903,18 +1903,22 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "Is It You",
-        "url": "https://open.spotify.com/album/0slFvrkkV4qgU8HPsDZDSh"
+        "name": "O Retha",
+        "url": "https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ"
       },
       "artists": [
         {
-          "name": "PAX",
-          "url": "https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Crush Club",
+          "url": "https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc"
         }
       ],
-      "duration_ms": 159010,
-      "name": "Is It You",
-      "url": "https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi"
+      "duration_ms": 228407,
+      "name": "O Retha",
+      "url": "https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW"
     }
   ],
   "unique_name": "Ibiza 2022",

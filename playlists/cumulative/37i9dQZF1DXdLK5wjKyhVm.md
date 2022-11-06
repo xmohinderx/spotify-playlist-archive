@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-185 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/3E2lh7nVWayN4spRzw9dBo)
+186 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/3E2lh7nVWayN4spRzw9dBo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [british backyard](https://open.spotify.com/track/5crBNn90VF3IITkb4aizaJ) | [Eli Fischer](https://open.spotify.com/artist/353udVYVvXRQfXeuFUKQ2e), [Adam Panek](https://open.spotify.com/artist/4irDpwU4JhKKCu4r1yRbR9) | [british backyard](https://open.spotify.com/album/21OGJZZoaLqrjdsZimFr9u) | 1:15 | 2022-09-23 |  |
 | [Butterfly Effect](https://open.spotify.com/track/0ROikBVoB0U7TvrZzrHqmo) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Romanticizing the Ordinary / Butterfly Effect](https://open.spotify.com/album/10u1BfdNizSelcrXTc4p8B) | 1:49 | 2022-10-14 |  |
 | [Bye Bye Love](https://open.spotify.com/track/2X3AvZ5i1s43gmmO2MWGA3) | [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN) | [Bye Bye Love](https://open.spotify.com/album/5lVuEMCIGGyDIVbm6s1FP0) | 1:38 | 2022-09-09 |  |
-| [Cadillac Moon](https://open.spotify.com/track/6L0akuFYGDxpuqhcbMBX37) | [Juna](https://open.spotify.com/artist/1v8lZNkqxJzsn8KsRGDsUm) | [Cadillac Moon](https://open.spotify.com/album/6De3gGKyllrv8bn01ihpds) | 1:33 | 2022-10-07 |  |
+| [Cadillac Moon](https://open.spotify.com/track/5FL8WNc3o0Y457aP6P2XxF) | [Juna](https://open.spotify.com/artist/1v8lZNkqxJzsn8KsRGDsUm) | [Cadillac Moon](https://open.spotify.com/album/2ZGsDR8rXrJxINXoM4KIxs) | 1:33 | 2022-10-28 |  |
+| [Cadillac Moon](https://open.spotify.com/track/6L0akuFYGDxpuqhcbMBX37) | [Juna](https://open.spotify.com/artist/1v8lZNkqxJzsn8KsRGDsUm) | [Cadillac Moon](https://open.spotify.com/album/6De3gGKyllrv8bn01ihpds) | 1:33 | 2022-10-07 | 2022-11-06 |
 | [Cali Peaches](https://open.spotify.com/track/3B4lZKo6Frgf95qDlyA8AI) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Cali Peaches](https://open.spotify.com/album/13IqbnA73xUku7mVjqCIxl) | 2:27 | 2022-09-09 |  |
 | [Celebration](https://open.spotify.com/track/0y24Qeb2mGihz9ERJwtlpc) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Celebration](https://open.spotify.com/album/550VtRQGZY1mpTSmZkq6iw) | 2:12 | 2022-09-09 | 2022-09-16 |
 | [Cheeky](https://open.spotify.com/track/5C0rxK7SXpM9OOld3gXgmH) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Cheeky](https://open.spotify.com/album/7BI2Lr8IqREw66MYWpMHEB) | 2:30 | 2022-09-09 |  |

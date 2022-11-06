@@ -4,14 +4,15 @@
 
 > It's just us—and this awesome alt soundtrack.
 
-191 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/2Ni00bI0Uwu2mjVXmNScYr)
+192 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/2Ni00bI0Uwu2mjVXmNScYr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1435](https://open.spotify.com/track/0DWEV5NfYKtp0WCUWCGShs) | [Selfish Things](https://open.spotify.com/artist/4iQ7b56FZ0A06oJ0rt0paz) | [1435](https://open.spotify.com/album/0Kr4ion4pdBMtnzfaGYUAG) | 4:52 | 2019-05-26\* | 2022-07-29 |
 | [1435](https://open.spotify.com/track/4aIoSHvifFFzGMOeZbztDh) | [Selfish Things](https://open.spotify.com/artist/4iQ7b56FZ0A06oJ0rt0paz) | [1435](https://open.spotify.com/album/3rFfVyVxJzpKiZmoRgjy5e) | 4:52 | 2022-05-27 |  |
 | [Adore](https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Adore](https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx) | 3:04 | 2019-05-26\* |  |
-| [All For You](https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt) | 3:55 | 2019-05-26\* |  |
+| [All For You](https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7) | 3:55 | 2022-08-26 |  |
+| [All For You](https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt) | 3:55 | 2019-05-26\* | 2022-11-06 |
 | [All These Girls](https://open.spotify.com/track/5d3HKoKvqtN0gRDjt3RcBL) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now \(Deluxe Edition\)](https://open.spotify.com/album/5Ix8zXCxsX8YCGAThyBVE8) | 3:24 | 2019-05-26\* | 2020-02-13 |
 | [Anemone](https://open.spotify.com/track/0geaQiAZN8AhkxLfyAiUXe) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Koda Vista](https://open.spotify.com/album/3fufxe1NmkhSbQUISPFHrb) | 4:15 | 2019-05-26\* | 2021-04-23 |
 | [Astronaut \(Something About Your Love\)](https://open.spotify.com/track/1XXqmnOgL9k9lcRT3hncTf) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q) | 3:22 | 2022-05-27 | 2022-09-15 |

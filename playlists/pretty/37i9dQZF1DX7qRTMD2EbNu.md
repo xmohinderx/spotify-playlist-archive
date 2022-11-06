@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd?si=\-AL74FKhRRmrcve4i1U40Q"> Yaw TOG </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,220 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,231 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Jordana Bryant
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,335 likes - 147 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,341 likes - 147 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 7 | [Eyes Wide Open](https://open.spotify.com/track/5pYg8qll5inckV7GI3VNcd) | [Jeston Cade](https://open.spotify.com/artist/2mJNGAPfePeKRLanONzfcU) | [Eyes Wide Open](https://open.spotify.com/album/3YJNpxClcsc5qMmcZSgFHe) | 3:48 |
 | 8 | [If We Ever Break Up](https://open.spotify.com/track/1cCB9LEPx68LUmMV86P9Js) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [If We Ever Break Up](https://open.spotify.com/album/5wIsBD8oAgYtwozFInMeIy) | 2:33 |
 | 9 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 |
-| 10 | [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 |
+| 10 | [When You Don't](https://open.spotify.com/track/3m1W8mCvokv36QHK5cXwtC) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/6Bcu7BwS7c5Lh5KqBsVu60) | 3:33 |
 | 11 | [Something Good To Miss](https://open.spotify.com/track/7sFn9QneuaujkjFOiumatu) | [Juna N Joey](https://open.spotify.com/artist/7sFEaRrD84U9n0GHI4CmO8) | [Something Good To Miss](https://open.spotify.com/album/1li3OPa9nsQHeR0SmtYk3I) | 3:23 |
 | 12 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 |
 | 13 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 146 | [Couldn't Care Less](https://open.spotify.com/track/6Rk9YL0M14ofFwYKJKwUTc) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Thank God For All The Boys](https://open.spotify.com/album/6XEhHN6bknsDNn0Y8OCP0Z) | 3:08 |
 | 147 | [Broke It Down](https://open.spotify.com/track/6ZdihJGxUzaM8BHCpSWLxO) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Broke It Down](https://open.spotify.com/album/6qRYlTlWMwzlhGqiE9w7yR) | 3:21 |
 
-Snapshot ID: `MTY2NzQwMDY4NiwwMDAwMDAwMGVmYmVlODlmNDBmNjI2MWNjZWU3MTY4Y2QzYjFhZjU0`
+Snapshot ID: `MTY2NzQwMDY4NiwwMDAwMDAwMDRiNDJmNWI1NzI0MTdkNTYyYjFhNGQyMTJmMGFlYzFj`

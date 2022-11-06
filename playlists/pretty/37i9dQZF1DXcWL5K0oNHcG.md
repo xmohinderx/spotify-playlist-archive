@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Reginald Chapman Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,340 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,390 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 21 | [小邋遢](https://open.spotify.com/track/6j9ASsXxCdkF2SOLkuM0O9) | [Sleeping Dogs](https://open.spotify.com/artist/1NIHMd33oCizUGYIPSudK1) | [Blunt Razor](https://open.spotify.com/album/7cps5P5q1Lw56aV35EoLt1) | 2:59 |
 | 22 | [Ta confiance](https://open.spotify.com/track/15I9lqolpj7AgRaLD8bETA) | [Kham Meslien](https://open.spotify.com/artist/3QhhX2z9QPnigL2PPANC0m) | [Fantômes..\. Futurs](https://open.spotify.com/album/1D9axOGORyXV8UuM1ukX5n) | 5:15 |
 | 23 | [Updraft](https://open.spotify.com/track/7fMdiwexApJxjJExjROAB7) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Updraft](https://open.spotify.com/album/3iOt45C9u1vMP0DLiO2riF) | 3:10 |
-| 24 | [Sambal](https://open.spotify.com/track/1Fk7G7nsQrRqDJZW2B5CuI) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Sambal](https://open.spotify.com/album/5bLeofMakqSrcOzSl70850) | 5:55 |
+| 24 | [Sambal](https://open.spotify.com/track/19akqXe8ojkvh8PSTrA1yq) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 5:55 |
 | 25 | [Hummingbird](https://open.spotify.com/track/4jnY1m7dqVG9NMWbc9xG4g) | [Jesse Harris](https://open.spotify.com/artist/1SE144wEx5NYxXBKH5mOqy) | [Hummingbird](https://open.spotify.com/album/0YJ0rCt4rv488J75JHeGES) | 4:04 |
 | 26 | [Jelly Bean Jerry](https://open.spotify.com/track/5rPpX6UTb4Bot7xlvIkkf9) | [Jonny Kosmo](https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx) | [Jelly Bean Jerry](https://open.spotify.com/album/3MGq3hEPdYM4RH5nL7oiGN) | 5:31 |
 | 27 | [Krustikal](https://open.spotify.com/track/4KjlYiV0jIi3T0YCCFQChD) | [Triorität](https://open.spotify.com/artist/4Q9lS5h0MBIJGE5SqXoj2C) | [Krustikal](https://open.spotify.com/album/1mpin6DMO0L2NMx49vQkKJ) | 3:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 59 | [Since You Told Me](https://open.spotify.com/track/2se4ZFM1z1by0iUCsDN55r) | [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [Since You Told Me](https://open.spotify.com/album/7F2GyodxnmdlVXGbq8LO9r) | 3:24 |
 | 60 | [Astral Cowpoke](https://open.spotify.com/track/5yt7UWsCogqSHzztcxvPWF) | [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [Scry](https://open.spotify.com/album/41daUs4j8hlrHlWGPZ26bs) | 6:03 |
 
-Snapshot ID: `MTY2Njc1NjgwMCwwMDAwMDAwMDczNThlNDMxODQ3ZjJlOGE3ODdmZWQ4YWJkZDIzMmVj`
+Snapshot ID: `MTY2Njc1NjgwMCwwMDAwMDAwMDY2ZGY5MGU1ZDg1MTFlZjE1ZGEwNTRiOWM5YWM3YmRh`

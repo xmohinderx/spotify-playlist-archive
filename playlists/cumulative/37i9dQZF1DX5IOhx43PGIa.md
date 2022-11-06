@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: thuy.
 
-344 songs - 18 hr 5 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
+345 songs - 18 hr 9 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-01 | 2022-09-24 |
 | [chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:19 | 2022-05-27 |  |
 | [chances](https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:47 | 2022-05-27 |  |
-| [changes](https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast DELUXE](https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj) | 2:04 | 2022-05-27 |  |
+| [changes](https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast DELUXE](https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj) | 2:04 | 2022-05-27 | 2022-11-06 |
 | [Circles](https://open.spotify.com/track/3oRFASmKBxhLj1vlsyCJ3m) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Circles](https://open.spotify.com/album/7Mrf0iOJdb2suGyWSCq96u) | 3:37 | 2022-05-27 | 2022-07-06 |
 | [Close 2 U](https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:59 | 2022-09-23 | 2022-10-08 |
 | [CLOUDS](https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [CLOUDS](https://open.spotify.com/album/20oky0BNN8ohXkjRUL216l) | 2:58 | 2022-05-27 | 2022-09-21 |
@@ -61,6 +61,7 @@
 | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/track/0TtH1ocl5B20kKHiqPNELw) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/album/1SOyPMNJgR1RtmSJwJtT0b) | 3:36 | 2022-06-24 |  |
 | [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 | 2022-10-21 |  |
 | [Cougar](https://open.spotify.com/track/6vpbR7ppnFZ0OQ3QF3c6Jf) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [Cougar](https://open.spotify.com/album/3Muji1llzu5xew9ONMfsQD) | 2:50 | 2022-07-22 | 2022-09-23 |
+| [Could I Be Somebody](https://open.spotify.com/track/5EvZrVjfMe8Ie42gqwJXF9) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 3:51 | 2022-11-04 |  |
 | [Could I Be Somebody](https://open.spotify.com/track/6TvlnHlc0fTKhPso76QXH3) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Could I Be Somebody](https://open.spotify.com/album/3BER8UXEGBHmP9RFXKsugn) | 3:51 | 2022-05-27 | 2022-10-13 |
 | [CTM \(The Conversation\)](https://open.spotify.com/track/4VWQSKCPDyyr5YEFWc2m5Z) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K) | [CTM \(The Conversation\)](https://open.spotify.com/album/03bYP4Du4i6U2ZiJ3QKhF0) | 4:15 | 2022-08-19 | 2022-09-17 |
 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 | 2022-08-26 | 2022-10-21 |

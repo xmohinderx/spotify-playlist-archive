@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new Core at its finest\. Cover: I Prevail
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,490 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,532 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,17 +45,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 35 | [Heretic](https://open.spotify.com/track/6O6U83grucuxSktER0IbrM) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Heretic](https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y) | 3:22 |
 | 36 | [You Must Die](https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [You Must Die](https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj) | 2:42 |
 | 37 | [Venenosa](https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Venenosa](https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7) | 3:10 |
-| 38 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 |
-| 39 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 |
-| 40 | [Code of Honor](https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Fury](https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl) | 3:06 |
+| 38 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 |
+| 39 | [Code of Honor](https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Fury](https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl) | 3:06 |
+| 40 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 |
 | 41 | [Sol](https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Disparity](https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8) | 3:21 |
 | 42 | [Hotel Underground](https://open.spotify.com/track/0CoxiZuaRFycPJ0Xl1oSOJ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Hotel Underground](https://open.spotify.com/album/3GdgTYJ6MCD7nsQ8uZZly5) | 2:46 |
 | 43 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 |
 | 44 | [A Killing Word](https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Deathrattle Sing for Me](https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As) | 4:44 |
 | 45 | [Reflections](https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc) | [VENUES](https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd) | [Reflections](https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw) | 3:07 |
 | 46 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 |
-| 47 | [Deadly Potential](https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Deadly Potential](https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy) | 3:04 |
-| 48 | [Thick As Blood](https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Price Of Dreaming](https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4) | 4:40 |
+| 47 | [Thick As Blood](https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Price Of Dreaming](https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4) | 4:40 |
+| 48 | [Deadly Potential](https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Deadly Potential](https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy) | 3:04 |
 | 49 | [RE\-Animate](https://open.spotify.com/track/1swGkxWE39ddPCPLwWyWLw) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [RE\-Animate](https://open.spotify.com/album/4ivJq2bYddTsyWUjEtTBHJ) | 3:19 |
 | 50 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 |
 | 51 | [Aching Longing](https://open.spotify.com/track/49UQKQom802JUWPq63lxEb) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Coffin](https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz) | 4:24 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 68 | [Break Me Down](https://open.spotify.com/track/4Qgmwp20QeC0LFVK7cLo7v) | [Cemetery Sun](https://open.spotify.com/artist/2LiLNsS5rRWmnOSQM5F8Zz) | [Break Me Down](https://open.spotify.com/album/5rwNN6KSg9pngqKr3eu3wt) | 3:28 |
 | 69 | [No Hope 'Til Now](https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [No Hope 'Til Now](https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed) | 3:59 |
 | 70 | [Severance](https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [The Seed of Self\-Destruction](https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0) | 4:03 |
-| 71 | [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 |
-| 72 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 |
+| 71 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 |
+| 72 | [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 |
 | 73 | [Shadows in Time](https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Shadows in Time](https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT) | 3:44 |
 | 74 | [The Snow](https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [The Snow](https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo) | 3:44 |
 | 75 | [I Will Return](https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [I Will Return](https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS) | 3:29 |
 
-Snapshot ID: `MTY2NzU0NTIwMCwwMDAwMDAwMGQyZGJjYTAzN2EwNzQzY2Y5M2MwODI0YWM4OGY5YzM4`
+Snapshot ID: `MTY2NzU0NTIwMCwwMDAwMDAwMGM0YWI0NzUxZWZhNTNlYWIwOTAzYzc1YjYxY2JiZDc0`

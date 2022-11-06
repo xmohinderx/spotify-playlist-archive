@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover:Triple S\(트리플에스\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,045 likes - 544 songs - 1 day 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,649 likes - 544 songs - 1 day 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 87 | [RECEIPTS \(Prod\. by Slom\)](https://open.spotify.com/track/2uApb0K8SrbiHBU2NuefKl) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SHOW ME THE MONEY 11 Episode 0](https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ) | 2:01 |
 | 88 | [WOW \(Prod\. GroovyRoom\)](https://open.spotify.com/track/7ess2wDLy17GpjWSWJuIw0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [SHOW ME THE MONEY 11 Episode 0](https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ) | 2:25 |
 | 89 | [Be my](https://open.spotify.com/track/2KVjYR3u7p5MYXSX2BYxmq) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [SHOW ME THE MONEY 11 Episode 0](https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ) | 2:34 |
-| 90 | [Love Sailing](https://open.spotify.com/track/5P16LnT953KPtZr54vSpkl) | [Cha Eun Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [Love Sailing \(Decibel OST X Cha Eun Woo\)](https://open.spotify.com/album/4MjcD0zBOqCsHXMq8BAECb) | 3:10 |
+| 90 | [Love Sailing](https://open.spotify.com/track/5P16LnT953KPtZr54vSpkl) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [Love Sailing \(Decibel OST X Cha Eun\-Woo\)](https://open.spotify.com/album/4MjcD0zBOqCsHXMq8BAECb) | 3:10 |
 | 91 | [NG \(Feat\. pH\-1, Jay Park\)](https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [LOVE MAZE](https://open.spotify.com/album/7rOm15Kcboervh20RasQPp) | 3:47 |
 | 92 | [Cinderella's Love \(Daily JoJo\)](https://open.spotify.com/track/6nkoJCo2lwG3HBValDvApj) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Daily JoJo \(Original Webtoon Soundtrack\) Pt.2](https://open.spotify.com/album/0YGbevSnSPmsRyOoMAosrW) | 2:56 |
 | 93 | [This Summer, Summer](https://open.spotify.com/track/3RLyv1gL1jV6GhVQk6i9dK) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Love is for Suckers, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0cU0EtrgRpBGMULVPwd80y) | 3:50 |

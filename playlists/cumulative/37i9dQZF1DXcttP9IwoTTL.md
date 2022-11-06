@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-190 songs - 18 hr 57 min - [published](https://open.spotify.com/playlist/2Ef1pT9lprEUZ0GG1CMnv6)
+191 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/2Ef1pT9lprEUZ0GG1CMnv6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [Ravers Association \- Juan MacLean Remix](https://open.spotify.com/track/1BIfUaDakS2CL8QlKy6xhf) | [Elfenberg](https://open.spotify.com/artist/3rVvL036o05Y34SPRsW63P), [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [A Cow Called Belle](https://open.spotify.com/album/5nRf5zPGXgb4LhUdiYE03x) | 8:04 | 2022-05-13 | 2022-09-17 |
 | [Reach Out](https://open.spotify.com/track/5emeE8nW2jUYdITn8sQlpb) | [Luca dell’Orso](https://open.spotify.com/artist/1xKCNR4tilKz0Dq4Gtxg6t), [Jolisa](https://open.spotify.com/artist/7psktFmwXU67JWoT17nKQr) | [The Jolisa EP](https://open.spotify.com/album/3xKFz1KiCxe7mYy7bnaynS) | 5:30 | 2022-09-16 |  |
 | [Reboot Robot](https://open.spotify.com/track/7qAGC7jii13qBOYPjRai5C) | [Endrik Schroeder](https://open.spotify.com/artist/36iWQyhQMf8sGugNrftuxl) | [Reboot Robot](https://open.spotify.com/album/7FQuk7m3CURJxlgQc5zNqq) | 6:44 | 2022-05-13 |  |
-| [Reflections](https://open.spotify.com/track/4oS2LzBpg7JuQ5DOJJvTZF) | [Yula Kasp](https://open.spotify.com/artist/1cXDO8VdC7Sc9AHASLlrRQ), [MI.RO](https://open.spotify.com/artist/3EvSyrNwdcAjq0mta8OoOa) | [Mayumi](https://open.spotify.com/album/7peYFDBJBpBtYoeOIYlOg9) | 5:59 | 2021-12-10 |  |
+| [Reflections](https://open.spotify.com/track/1LigxFYsVRME24HgP9KT7q) | [Yula Kasp](https://open.spotify.com/artist/1cXDO8VdC7Sc9AHASLlrRQ), [MI.RO](https://open.spotify.com/artist/3EvSyrNwdcAjq0mta8OoOa) | [Mayumi](https://open.spotify.com/album/2R8j2oW0mt3ZqsTjRrr23J) | 5:59 | 2022-10-14 |  |
+| [Reflections](https://open.spotify.com/track/4oS2LzBpg7JuQ5DOJJvTZF) | [Yula Kasp](https://open.spotify.com/artist/1cXDO8VdC7Sc9AHASLlrRQ), [MI.RO](https://open.spotify.com/artist/3EvSyrNwdcAjq0mta8OoOa) | [Mayumi](https://open.spotify.com/album/7peYFDBJBpBtYoeOIYlOg9) | 5:59 | 2021-12-10 | 2022-11-06 |
 | [Relax](https://open.spotify.com/track/7IxyTcvSa940NrJPblxyLU) | [Ultraflex](https://open.spotify.com/artist/0GX25ns6c6gNoBmZyb0Sqg) | [Relax](https://open.spotify.com/album/6fuw1yrfnzX2KYeb6cokQZ) | 4:27 | 2022-10-14 |  |
 | [Ride the Night](https://open.spotify.com/track/5F14IAdMsxQE1NwkIvF5HY) | [Baldo](https://open.spotify.com/artist/4v335SBw5WxgrqJZCl4VWL) | [Saturdays Come and Gone](https://open.spotify.com/album/79MPTOxzwGyKszsGJIFwIL) | 5:30 | 2022-05-13 |  |
 | [Riding Through Kyoto](https://open.spotify.com/track/1NXw6xGEkqy2KIqxEI16Mw) | [Pablo Bozzi](https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL) | [Intermezzo Uno & Due](https://open.spotify.com/album/7chr3Q4riBG7BvAdP1fprF) | 7:11 | 2021-12-10 | 2022-05-14 |

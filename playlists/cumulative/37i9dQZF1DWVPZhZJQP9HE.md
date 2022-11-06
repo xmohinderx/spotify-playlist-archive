@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sandy
 
-218 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+220 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [En Paathi Neethanadi](https://open.spotify.com/track/47NnHnmjhZKDHk2CfieWFQ) | [Mejjo Josseph](https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [En Paathi Neethanadi](https://open.spotify.com/album/5F36QWvcT0HLaovulz4r6s) | 5:02 | 2022-07-05 | 2022-07-28 |
 | [Enaku ippo kadhali illa](https://open.spotify.com/track/04x9KikadQcNx3ZFECbU81) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Enaku ippo kadhali illa](https://open.spotify.com/album/4tdiOrBfjuqgM9u6x8k0Vt) | 3:35 | 2022-08-18 |  |
 | [Enjoy Enjaami](https://open.spotify.com/track/1baHxgYktT8eDdmtTozJF9) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami](https://open.spotify.com/album/3nfV4cQnlyNETxtXfKr3IT) | 4:39 | 2021-12-01 | 2022-08-12 |
+| [Gandhari \- Tamil](https://open.spotify.com/track/1cwF0UONpG1sy5mqqb5RRL) | [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK), [Vaish](https://open.spotify.com/artist/3UUCWlU2bPEuKMAoUeiJBD) | [Gandhari \(Tamil\)](https://open.spotify.com/album/0xlkH2wMrUW0Xzy09fE6bo) | 3:17 | 2022-11-05 |  |
 | [God Damn Money](https://open.spotify.com/track/7pTrmAGQTNJjigU122skdm) | [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [Bobo Shashi](https://open.spotify.com/artist/207e202Dz3barZ9ij9jGpR), [Yuki Praveen](https://open.spotify.com/artist/6Nke0y2Gwq2uESBYvuz7Qq) | [Ketta Kelu](https://open.spotify.com/album/0lIvorfxIaF4QK3LFQwrje) | 3:46 | 2021-12-01 | 2022-08-12 |
 | [Gumbala Suthuvom](https://open.spotify.com/track/6X7jmbWjNkgvIrNtrlOwsY) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gumbala Suthuvom](https://open.spotify.com/album/1lDXZ8L0DR5dfRWH2k63u3) | 4:06 | 2021-12-01 | 2022-08-12 |
 | [Gundumalli](https://open.spotify.com/track/2spwqh9U3q4hFdwzLIzz8W) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Nithyashree Venkataramanan](https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP) | [Gundumalli](https://open.spotify.com/album/3NV47pWn2ERWwWsWJPz4J8) | 3:35 | 2021-12-27 | 2022-07-08 |
@@ -88,6 +89,7 @@
 | [Kanmaniye \- 1 Min Music](https://open.spotify.com/track/4fpGDSMsi8h9gBk6jnpNMR) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0) | [Kanmaniye \- 1 Min Music](https://open.spotify.com/album/0yCyIlij2x1h1IxjDJLknt) | 1:00 | 2022-09-27 | 2022-10-07 |
 | [Kannadi Kannamma](https://open.spotify.com/track/4r7zOAAzRiL2keKpduBhmJ) | [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60) | [Kannadi Kannamma](https://open.spotify.com/album/0UvWqmEthmKkHKb00l6cdI) | 4:11 | 2022-06-23 | 2022-07-15 |
 | [Kannadi Valayal](https://open.spotify.com/track/0gDy4cpCWmx0FLKxFqL3zS) | [Gana Docomo Mani](https://open.spotify.com/artist/2MKDy9Gb6IP7bEyTjXLWj2) | [Kannadi Valayal](https://open.spotify.com/album/0y9CDFhebnfOj6HP0A3R9s) | 4:15 | 2022-08-11 | 2022-10-18 |
+| [Kannala Kadhal](https://open.spotify.com/track/4lzgIXbT9hQ0HVlWd4w4Dd) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Kannala Kadhal](https://open.spotify.com/album/5I62z1epRIXimxc3ejWc8f) | 2:49 | 2022-11-05 |  |
 | [Kannamma Eannamma](https://open.spotify.com/track/5nUqv6rpaZg5tnF3XnxIsA) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Kannamma Eannamma](https://open.spotify.com/album/4ZXmtvxSBtCQYJnBUe2qqm) | 3:20 | 2021-12-01 |  |
 | [Karupalagi](https://open.spotify.com/track/3RJmk287ux4AupXvBpqTUy) | [Kishore krishnan](https://open.spotify.com/artist/7lCO7RX3b2d22J0OUMYRXj) | [Karupalagi](https://open.spotify.com/album/5y7DrmRCHqXVWFkfq0B9DA) | 3:29 | 2022-06-30 |  |
 | [Karuppu Vellai](https://open.spotify.com/track/4ZlCVHcK4OEStP1MOMsddo) | [M.S\. Jones Rupert](https://open.spotify.com/artist/6QmUOk90Rs4SI07CNk7STk) | [Karuppu Vellai](https://open.spotify.com/album/0P2vswYZoJ7vuEbxF2eat6) | 4:10 | 2022-09-05 | 2022-10-07 |

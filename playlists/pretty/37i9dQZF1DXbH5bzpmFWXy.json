@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eme MalaFe en portada.",
-  "num_followers": 94915,
+  "num_followers": 95005,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzMzIwMCwwMDAwMDAwMGRhN2FhYWUwNDVjZDM3M2Y5ODU4ZDIzOWI5Yjg0OGFk",
+  "snapshot_id": "MTY2NjkzMzIwMCwwMDAwMDAwMDVmNWFjNGVlNTg1OTkzYjM3ZDZhZjk2YTVkMDk4Nzcw",
   "tracks": [
     {
       "added_at": "2022-10-28 05:00:00",
@@ -323,22 +323,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Party en el Barrio (feat. Duki)",
-        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 236143,
-      "name": "Party en el Barrio (feat. Duki)",
-      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -359,18 +355,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "El Hijo Mayor",
-        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+        "name": "Party en el Barrio (feat. Duki)",
+        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 196500,
-      "name": "El Hijo Mayor",
-      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
+      "duration_ms": 236143,
+      "name": "Party en el Barrio (feat. Duki)",
+      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1301,6 +1301,22 @@
       "url": "https://open.spotify.com/track/5MyEACD2kRFeh231Z6FkdE"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Viviendo Recio",
+        "url": "https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "duration_ms": 306744,
+      "name": "Sangre De Barrio",
+      "url": "https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX"
+    },
+    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "Te Invito a Mi Barrio",
@@ -1319,22 +1335,6 @@
       "duration_ms": 238285,
       "name": "Te Invito a Mi Barrio",
       "url": "https://open.spotify.com/track/64nRwgxwycVnTVnor7tgU6"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Viviendo Recio",
-        "url": "https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        }
-      ],
-      "duration_ms": 306744,
-      "name": "Sangre De Barrio",
-      "url": "https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX"
     },
     {
       "added_at": "2022-09-23 05:00:00",

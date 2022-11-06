@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 547949,
+  "num_followers": 548207,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg3NDM3MiwwMDAwMDAwMDUwN2RjNWFiZDY1MTBmZTdmOTg1NGRkOTIwNjVjZjhh",
+  "snapshot_id": "MTY2NDg3NDM3MiwwMDAwMDAwMDNjMzQ4ODVkMmM3N2YzMjY0NGY5YTBiOTFkZTI0YjEz",
   "tracks": [
     {
       "added_at": "2022-10-04 09:06:12",
@@ -2011,26 +2011,18 @@
     {
       "added_at": "2022-10-04 09:06:12",
       "album": {
-        "name": "Suave (Remix)",
-        "url": "https://open.spotify.com/album/3L9hvsc3Ga0I1EQVHHPZgh"
+        "name": "H\u00e1zmelo",
+        "url": "https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky"
       },
       "artists": [
         {
-          "name": "Jey Blessing",
-          "url": "https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Los Fantastikos",
-          "url": "https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Suave - Remix",
-      "url": "https://open.spotify.com/track/6K7V47wFpfam2aeE893rbL"
+      "duration_ms": 174952,
+      "name": "H\u00e1zmelo",
+      "url": "https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs"
     },
     {
       "added_at": "2022-10-04 09:06:12",
@@ -2055,22 +2047,6 @@
     {
       "added_at": "2022-10-04 09:06:12",
       "album": {
-        "name": "H\u00e1zmelo",
-        "url": "https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 174952,
-      "name": "H\u00e1zmelo",
-      "url": "https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs"
-    },
-    {
-      "added_at": "2022-10-04 09:06:12",
-      "album": {
         "name": "Hasta Abajo",
         "url": "https://open.spotify.com/album/2eM85kZYl1Lz7tjp0MTGo1"
       },
@@ -2091,6 +2067,30 @@
       "duration_ms": 229946,
       "name": "Hasta Abajo",
       "url": "https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq"
+    },
+    {
+      "added_at": "2022-10-04 09:06:12",
+      "album": {
+        "name": "Suave (Remix)",
+        "url": "https://open.spotify.com/album/3L9hvsc3Ga0I1EQVHHPZgh"
+      },
+      "artists": [
+        {
+          "name": "Jey Blessing",
+          "url": "https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Los Fantastikos",
+          "url": "https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Suave - Remix",
+      "url": "https://open.spotify.com/track/6K7V47wFpfam2aeE893rbL"
     },
     {
       "added_at": "2022-10-04 09:06:12",

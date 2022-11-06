@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,001 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,026 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 49 | [How Can You Mend a Broken Heart](https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Truly Blessed](https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog) | 4:39 |
 | 50 | [2 A.M.](https://open.spotify.com/track/4FX6NiquFvfYqSNzEUgPds) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy](https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu) | 5:26 |
 
-Snapshot ID: `Mjc3OTM0MTUsMDAwMDAwMDAwZGJiMGIwNWU2NTdiZGYyZmMxMzJiMDU2YjFjZTFiOQ==`
+Snapshot ID: `Mjc3OTQ0MzYsMDAwMDAwMDA3YmVhNjJjOWEwNzQxNTNhNGNmYmM3YmFlZmY1YmM1MQ==`

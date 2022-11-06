@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,094 likes - 78 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,133 likes - 78 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 22 | [Throw Down](https://open.spotify.com/track/7BrvrJ78kPJ9Ug9OgEyisJ) | [Dogg Master](https://open.spotify.com/artist/7D7OH1u01xndWNoeG153gy) | [Injection](https://open.spotify.com/album/3iFYspDpTbR31Fcr8x43WJ) | 3:47 |
 | 23 | [I Can Make Ya](https://open.spotify.com/track/5kkbdQmOMbSReknRRGi72G) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [I Can Make Ya](https://open.spotify.com/album/7nME0SUHAOYMtWxIyAanan) | 3:58 |
 | 24 | [She's drivin me crazy](https://open.spotify.com/track/6ehsvuQU6rrGTKBulK4TDP) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt) | [Sound of Tha Tube](https://open.spotify.com/album/43xWKRfPQtIzXdguOWiXjW) | 3:01 |
-| 25 | [With You](https://open.spotify.com/track/34RnMx1hRtypnn03BkTkHV) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4tfomAZjkkF736D6WTK7tC) | 4:08 |
+| 25 | [With You](https://open.spotify.com/track/079mLSjKkiSnpcSueMrNtQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4PCIOf8X75vWdD1PbLpg3c) | 4:08 |
 | 26 | [\(We Go Together Like\) Saturday & Sunday](https://open.spotify.com/track/40KwK6ekSsxLN1r2XG6ZNQ) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Loveline](https://open.spotify.com/album/3gIf24xmoiKSq3gVSisAz4) | 2:51 |
 | 27 | [Nunk \- New Wave Funk](https://open.spotify.com/track/5BVXwRFMuybkl3X1hRWZ53) | [Warp 9](https://open.spotify.com/artist/5V22HAzz3d8zQCbWdpJiJh) | [It's a Beat Wave](https://open.spotify.com/album/45lhligWbNdW3zGcgUm3Yl) | 7:13 |
 | 28 | [Heartbreaker \(Pt\. I, Pt\. II\)](https://open.spotify.com/track/487lDz6QPxnAgrVTpykRHb) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:15 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 77 | [All Yours](https://open.spotify.com/track/2Ve7DnsbG1TBmzSZUdVz0m) | [Ben Maxwell](https://open.spotify.com/artist/6OPUscoxZHZHQ2wUbiQhmR) | [All Yours](https://open.spotify.com/album/0dgErgADgR9uDN5dSaP29f) | 3:23 |
 | 78 | [Baby \- Short Version](https://open.spotify.com/track/0Wq4qAWGtK2mTX3ljg7Euw) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Baby](https://open.spotify.com/album/0ahizNeWVa0gfdTYyowEka) | 3:07 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGIyODk0NDFiMWUyM2MyMjcwN2Q1NDIyOWJhNTY1M2Iw`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDMzNDdkYjE1ZTc4MzlmODg0OTIxNThkYTdkYjExZThi`

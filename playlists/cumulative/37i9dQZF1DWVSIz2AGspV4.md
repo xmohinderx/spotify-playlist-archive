@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: محمد التركي
 
-168 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+169 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Hai El Resala](https://open.spotify.com/track/0YHeI00TOV6j4sb9F9fFN1) | [Ali Arnoos](https://open.spotify.com/artist/1ICLYRvDbaXOGR17fhTQKq) | [Hai El Resala](https://open.spotify.com/album/7e6FLXKMPWzRIdrUJmaW14) | 3:15 | 2021-12-23 | 2022-03-12 |
 | [Halaa Bel Ghali](https://open.spotify.com/track/725jIHfBfhBDhGiz4YbNIk) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Halaa Bel Ghali](https://open.spotify.com/album/7vXcEY4tHpE3aWjD8O28QG) | 3:30 | 2022-05-13 | 2022-10-24 |
 | [Halfatra](https://open.spotify.com/track/7l6G8GPGHbyobhz4RNAFQH) | [Ahmed Jawad](https://open.spotify.com/artist/4ZOVwS1XAGOXCKAqTFmsBP) | [Halfatra](https://open.spotify.com/album/3kqgvcKUopYj5jIi2HguUq) | 3:46 | 2021-12-23 | 2022-02-04 |
+| [Hatha Elshog](https://open.spotify.com/track/1lUCqzlZvfi2aFS5EZMwJb) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Hatha Elshog](https://open.spotify.com/album/26MNNiLNBmJ51vGRYuX9Df) | 3:38 | 2022-11-05 |  |
 | [Hawel Taof](https://open.spotify.com/track/5NRRB0hTDQQo953KAQvs0m) | [Karar Mohamed](https://open.spotify.com/artist/6Hl4Hv6nzDifw6SogShouS) | [Hawel Taof](https://open.spotify.com/album/0jUrAi8X3csj7B7BRIaVU1) | 3:45 | 2022-03-03 | 2022-07-20 |
 | [Henain](https://open.spotify.com/track/3suQDOXGODa1MrFFnvJtFv) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Henain](https://open.spotify.com/album/0sTZwBd1iLGi7BAraWy0ex) | 3:08 | 2021-12-23 | 2022-05-14 |
 | [Heya Ghalta](https://open.spotify.com/track/66OSm9VA64mWnW5y4TtxKa) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Sawaha](https://open.spotify.com/album/4SuZtMvNjMHag9xGnzbTrP) | 3:57 | 2021-12-23 | 2022-03-12 |

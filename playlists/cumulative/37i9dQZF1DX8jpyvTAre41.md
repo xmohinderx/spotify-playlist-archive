@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: blink\-182
 
-483 songs - 1 day 3 hr 7 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
+484 songs - 1 day 3 hr 11 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [CANDU](https://open.spotify.com/track/0pM2bHyWvJ3e3RRIXX4yVF) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [CANDU ::: AB Bride](https://open.spotify.com/album/5l4px2F0FtCMKhax1t9bF8) | 3:39 | 2022-07-22 | 2022-09-17 |
 | [Care Less](https://open.spotify.com/track/1eNg2eNeiyOapT3mWMNbrW) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Care Less](https://open.spotify.com/album/1kTKAAMN3zhg0NvCtzVJX2) | 3:04 | 2022-06-17 | 2022-10-15 |
 | [Care Less](https://open.spotify.com/track/7JETFxfHepiOV07rU9OCW9) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Care Less](https://open.spotify.com/album/6mhstVGAyRUooDNWihIDiP) | 3:04 | 2022-10-14 | 2022-11-05 |
-| [Caroline](https://open.spotify.com/track/6XsHCb84EyPvLvWFpVqZay) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Caroline](https://open.spotify.com/album/2xOUnwncSmfhcZIdrOMe3p) | 3:20 | 2022-08-05 |  |
+| [Caroline](https://open.spotify.com/track/4cTxlJ8GbvlEKJSHBjSmX3) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Caroline](https://open.spotify.com/album/0hiyVukTWwoABzyyzq03fN) | 3:20 | 2022-11-04 |  |
+| [Caroline](https://open.spotify.com/track/6XsHCb84EyPvLvWFpVqZay) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Caroline](https://open.spotify.com/album/2xOUnwncSmfhcZIdrOMe3p) | 3:20 | 2022-08-05 | 2022-11-06 |
 | [Change\#\#\#](https://open.spotify.com/track/1K5NKnljyNdL4E0M9BlrZB) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [Tunnel Vision](https://open.spotify.com/album/1kibsLL8e5KDlwT4qnzYw6) | 2:49 | 2022-09-09 |  |
 | [Changes](https://open.spotify.com/track/59cS8qsSylHFJAdIo2QSnt) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Changes](https://open.spotify.com/album/51Oc9zA07RUPajQqvFUQib) | 3:10 | 2022-04-15 | 2022-09-10 |
 | [CHAOS](https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [CHAOS](https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW) | 3:02 | 2022-02-25 | 2022-04-02 |

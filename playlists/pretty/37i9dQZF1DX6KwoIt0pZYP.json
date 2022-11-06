@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 127225,
+  "num_followers": 127364,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg5ODE1MiwwMDAwMDAwMDEyOTQ0Y2U2Y2U1YzUzYTVhNmNmNGZjMzFmZDdiN2Ji",
+  "snapshot_id": "MTY2Njg5ODE1MiwwMDAwMDAwMGM2ZTQ0ZTJlNzE0NmE4ZmYxMTc4MTMxYmRmZDZiYjVj",
   "tracks": [
     {
       "added_at": "2022-10-27 16:00:00",
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/5LAMww4MkUMihbOlKPFr09"
     },
     {
-      "added_at": "2022-11-05 01:42:18",
+      "added_at": "2022-11-06 01:39:20",
       "album": {
         "name": "Feelin'",
         "url": "https://open.spotify.com/album/0DFzivEqYeYcURlXDRzHks"
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-10-27 16:00:00",
       "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV"
-      },
-      "artists": [
-        {
-          "name": "Coldiac",
-          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh"
-    },
-    {
-      "added_at": "2022-10-27 16:00:00",
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 207013,
       "name": "Split",
       "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
+    },
+    {
+      "added_at": "2022-10-27 16:00:00",
+      "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV"
+      },
+      "artists": [
+        {
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh"
     },
     {
       "added_at": "2022-10-27 16:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-10-27 16:00:00",
       "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
+    },
+    {
+      "added_at": "2022-10-27 16:00:00",
+      "album": {
         "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
         "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 180722,
       "name": "the world could end with you",
       "url": "https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q"
-    },
-    {
-      "added_at": "2022-10-27 16:00:00",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "Falling Behind",
-      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
     },
     {
       "added_at": "2022-10-27 16:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-10-27 16:00:00",
       "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 186432,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz"
+    },
+    {
+      "added_at": "2022-10-27 16:00:00",
+      "album": {
         "name": "Give Me Your Forever",
         "url": "https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv"
       },
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2022-10-27 16:00:00",
       "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 186432,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz"
-    },
-    {
-      "added_at": "2022-10-27 16:00:00",
-      "album": {
         "name": "Whiskey Bottle",
         "url": "https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 150720,
       "name": "Whiskey Bottle",
       "url": "https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv"
-    },
-    {
-      "added_at": "2022-10-27 16:00:00",
-      "album": {
-        "name": "I Guess That Was Goodbye",
-        "url": "https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "I Guess That Was Goodbye",
-      "url": "https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg"
     },
     {
       "added_at": "2022-10-27 16:00:00",
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2022-10-27 16:00:00",
       "album": {
-        "name": "MAGIC MAN",
-        "url": "https://open.spotify.com/album/66k71qtTET4vXFJ6sAAU0U"
+        "name": "I Guess That Was Goodbye",
+        "url": "https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl"
       },
       "artists": [
         {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 159927,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0yWA2HMf5Mv3OxgQLUzCgd"
+      "duration_ms": 190243,
+      "name": "I Guess That Was Goodbye",
+      "url": "https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg"
     },
     {
       "added_at": "2022-10-27 16:00:00",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2022-10-27 16:00:00",
       "album": {
+        "name": "MAGIC MAN",
+        "url": "https://open.spotify.com/album/66k71qtTET4vXFJ6sAAU0U"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "duration_ms": 159927,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0yWA2HMf5Mv3OxgQLUzCgd"
+    },
+    {
+      "added_at": "2022-10-27 16:00:00",
+      "album": {
         "name": "Two Bottles of Wine",
         "url": "https://open.spotify.com/album/4JlWr9FBZx00tINFKzxixh"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-10-27 16:00:00",
       "album": {
-        "name": "Lay Your Head on Me",
-        "url": "https://open.spotify.com/album/3PrNEdp1ddGqaQiboDir4A"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 181256,
-      "name": "Lay Your Head on Me",
-      "url": "https://open.spotify.com/track/2TkHnzYwHEoTVgoyqf6UJ2"
-    },
-    {
-      "added_at": "2022-10-27 16:00:00",
-      "album": {
         "name": "Good For A Time (feat. Bea Lorenzo)",
         "url": "https://open.spotify.com/album/3KjBwYUsTtWGFVJ2IjV6qs"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 144250,
       "name": "Good For A Time (feat. Bea Lorenzo)",
       "url": "https://open.spotify.com/track/3uan6scrspVI9GQQWdtya2"
+    },
+    {
+      "added_at": "2022-10-27 16:00:00",
+      "album": {
+        "name": "Lay Your Head on Me",
+        "url": "https://open.spotify.com/album/3PrNEdp1ddGqaQiboDir4A"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 181256,
+      "name": "Lay Your Head on Me",
+      "url": "https://open.spotify.com/track/2TkHnzYwHEoTVgoyqf6UJ2"
     },
     {
       "added_at": "2022-10-27 16:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-10-27 16:00:00",
       "album": {
+        "name": "Baby Can You Stay",
+        "url": "https://open.spotify.com/album/12iY7dts3ziwGFq7na5C2L"
+      },
+      "artists": [
+        {
+          "name": "WNRDA",
+          "url": "https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ"
+        }
+      ],
+      "duration_ms": 178745,
+      "name": "Baby Can You Stay",
+      "url": "https://open.spotify.com/track/6ukZgsQtCTslc6cbxVd9yc"
+    },
+    {
+      "added_at": "2022-10-27 16:00:00",
+      "album": {
         "name": "Killer",
         "url": "https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2022-10-27 16:00:00",
       "album": {
-        "name": "Baby Can You Stay",
-        "url": "https://open.spotify.com/album/12iY7dts3ziwGFq7na5C2L"
-      },
-      "artists": [
-        {
-          "name": "WNRDA",
-          "url": "https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ"
-        }
-      ],
-      "duration_ms": 178745,
-      "name": "Baby Can You Stay",
-      "url": "https://open.spotify.com/track/6ukZgsQtCTslc6cbxVd9yc"
-    },
-    {
-      "added_at": "2022-10-27 16:00:00",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -1619,6 +1619,30 @@
       "duration_ms": 241458,
       "name": "grateful",
       "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
+    },
+    {
+      "added_at": "2022-10-27 16:00:00",
+      "album": {
+        "name": "Lost At Sea (Illa Illa 2)",
+        "url": "https://open.spotify.com/album/4bXCVyrR6VXm1XUx4Ux6Pb"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        },
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 205544,
+      "name": "Lost At Sea (Illa Illa 2)",
+      "url": "https://open.spotify.com/track/7BAhSCJrL3JTdVGFK9hEgh"
     },
     {
       "added_at": "2022-10-27 16:00:00",
@@ -1675,30 +1699,6 @@
       "duration_ms": 219692,
       "name": "Binibini (Last Day On Earth) (feat. James TW)",
       "url": "https://open.spotify.com/track/6j9kSGlYLZdZ9sZkY9DjzY"
-    },
-    {
-      "added_at": "2022-10-27 16:00:00",
-      "album": {
-        "name": "Lost At Sea (Illa Illa 2)",
-        "url": "https://open.spotify.com/album/4bXCVyrR6VXm1XUx4Ux6Pb"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        },
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 205544,
-      "name": "Lost At Sea (Illa Illa 2)",
-      "url": "https://open.spotify.com/track/7BAhSCJrL3JTdVGFK9hEgh"
     }
   ],
   "unique_name": "tapioca",

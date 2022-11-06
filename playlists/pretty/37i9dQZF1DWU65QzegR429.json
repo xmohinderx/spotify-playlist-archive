@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Jenn Morel",
-  "num_followers": 5148,
+  "num_followers": 5158,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3NTI5MCwwMDAwMDAwMDhhYzllY2VjMTQzYWE1MzVkODBjZTZmMTEzM2VjYTY3",
+  "snapshot_id": "MTY2MzA3NTI5MCwwMDAwMDAwMDk2YTliNjY1YjQ3YTkwNWI2NjU5YTllYWM5YTEwNmEy",
   "tracks": [
     {
       "added_at": "2022-09-13 13:21:30",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "They Love Us",
-        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
-      },
-      "artists": [
-        {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "Triple H",
-      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
         "name": "Spell 31",
         "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 195204,
       "name": "Sister 2 Sister",
       "url": "https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "They Love Us",
+        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "Triple H",
+      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "Bitcoin",
-        "url": "https://open.spotify.com/album/0hEC9LcZJT7HvZRzK4ysjC"
-      },
-      "artists": [
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        }
-      ],
-      "duration_ms": 201370,
-      "name": "Bitcoin",
-      "url": "https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
         "name": "Modelo",
         "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
       },
@@ -311,8 +295,24 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
+        "name": "Bitcoin",
+        "url": "https://open.spotify.com/album/0hEC9LcZJT7HvZRzK4ysjC"
+      },
+      "artists": [
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        }
+      ],
+      "duration_ms": 201370,
+      "name": "Bitcoin",
+      "url": "https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
         }
       ],
-      "duration_ms": 138626,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
+      "duration_ms": 151026,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -391,8 +391,8 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
         }
       ],
-      "duration_ms": 151026,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55"
+      "duration_ms": 138626,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "MIA BEACH",
-        "url": "https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "MIA BEACH",
-      "url": "https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
         "name": "Sin Aire",
         "url": "https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 120000,
       "name": "Sin Aire",
       "url": "https://open.spotify.com/track/4m93OTJad26zWgEFprZICX"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "MIA BEACH",
+        "url": "https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "MIA BEACH",
+      "url": "https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A"
     },
     {
       "added_at": "2022-09-13 13:21:30",
