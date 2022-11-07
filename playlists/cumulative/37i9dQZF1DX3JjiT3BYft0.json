@@ -1749,6 +1749,24 @@
     {
       "album": {
         "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240900,
+      "name": "ON YOUR MARK",
+      "url": "https://open.spotify.com/track/1879JEo8dy9KgWzhFwls6e"
+    },
+    {
+      "album": {
+        "name": "ONE OF US",
         "url": "https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn"
       },
       "artists": [
@@ -4235,7 +4253,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 307566,
       "name": "\u30ab\u30ca\u30e6\u30e1",
       "url": "https://open.spotify.com/track/4HnYTgVOCNihjBLzCOv8uQ"

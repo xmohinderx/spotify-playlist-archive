@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Polyphia
 
-561 songs - 2 day 0 hr 50 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+564 songs - 2 day 1 hr 3 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Abandoned](https://open.spotify.com/track/72VhOwh87q8c5RBoI10q73) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Abandoned](https://open.spotify.com/album/2qUkwghXIeS7qcjXNZHFYI) | 5:27 | 2022-07-13 |  |
 | [Abomination](https://open.spotify.com/track/41qbzmASxiYV8zgpkt2O9g) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Obsidian](https://open.spotify.com/album/6QRURYmqe56BojUuWgTpX6) | 4:10 | 2022-04-22 |  |
 | [Above Inhumanity](https://open.spotify.com/track/1h1d89D976cZnLidtSw4SM) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [Above Inhumanity](https://open.spotify.com/album/2wwjBIvFRXDExM2hwabGU7) | 4:33 | 2021-12-17 | 2022-07-29 |
-| [Above Inhumanity](https://open.spotify.com/track/53GitIARlTjjskpBOarbnO) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [SOMA SEMA](https://open.spotify.com/album/6DaAgBz5ypKXg7QZEF8xMU) | 4:33 | 2022-10-07 |  |
+| [Above Inhumanity](https://open.spotify.com/track/53GitIARlTjjskpBOarbnO) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [SOMA SEMA](https://open.spotify.com/album/6DaAgBz5ypKXg7QZEF8xMU) | 4:33 | 2022-10-07 | 2022-11-07 |
 | [Abyss](https://open.spotify.com/track/6ovlhMH6yaDcEUyM2Ggfxv) | [Atomic Symphony](https://open.spotify.com/artist/3LX11DL1d2GULjP82kQJ7p) | [Redemption](https://open.spotify.com/album/4BVIM7wC2uahNAOjMwc0ha) | 7:17 | 2021-12-17 | 2022-01-29 |
 | [ACCELERATOR](https://open.spotify.com/track/0dccQvzPhrZJvU8mmHbGuR) | [Pain of Salvation](https://open.spotify.com/artist/1uRpg2s2jNaxbmoNiJDGfd) | [ACCELERATOR](https://open.spotify.com/album/0MGMdmteGofN9WXxc7sPt8) | 5:31 | 2021-12-17 | 2022-07-29 |
 | [Acid Rain](https://open.spotify.com/track/7D1wLtyGaUppoqMleM6VqT) | [Liquid Tension Experiment](https://open.spotify.com/artist/0r1s1XoxdoXECGfyChzb2v), [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1), [Mike Portnoy](https://open.spotify.com/artist/0tXHekFgHjeLensP3Uf2b9), [Tony Levin](https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH), [Jordan Rudess](https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS) | [Liquid Tension Experiment 2](https://open.spotify.com/album/25JdFEbKXocMQyJdlBzD5d) | 6:36 | 2021-12-17 | 2022-01-29 |
@@ -336,8 +336,10 @@
 | [One](https://open.spotify.com/track/1SXaNlT88KkWotaPlJwosb) | [Fates Warning](https://open.spotify.com/artist/4S6URhg3PMKnCv9clR4ejE) | [Disconnected](https://open.spotify.com/album/6lNHGyqPf6b8qQxamd3uFw) | 4:26 | 2021-12-17 | 2022-01-28 |
 | [Opiate²](https://open.spotify.com/track/6iQDmWrbrMQ0vPfbKqqvKU) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate²](https://open.spotify.com/album/13sWe0tYKenwLd2t25bHIi) | 9:54 | 2022-03-01 |  |
 | [Outliers](https://open.spotify.com/track/2sRmAZqE51Mpi0V8R3uQBP) | [Aviations](https://open.spotify.com/artist/6dW9mkTQTr10cm2Lv4pPuY) | [Retrospect](https://open.spotify.com/album/7BDdYqybjtzbEpIDj9tM9p) | 11:36 | 2021-12-17 | 2022-09-03 |
+| [Outsider](https://open.spotify.com/track/2Hq9A0EbpApmncExOiG1oM) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outsider](https://open.spotify.com/album/1L6xcFfEIP4b8KUZCBj4jz) | 4:09 | 2022-10-28 |  |
 | [Outsider](https://open.spotify.com/track/2UJ7e55bObCYCqpBkehnsr) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outsider](https://open.spotify.com/album/7GO1IxJeKLxhsOiD6aag2r) | 4:09 | 2022-07-13 | 2022-11-05 |
 | [Overthrow](https://open.spotify.com/track/0LwFqTV1E8iK6mGGbbtqYQ) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [False Idol](https://open.spotify.com/album/3JyJacKuakMUOXiEgxdLEg) | 3:55 | 2022-07-13 | 2022-11-05 |
+| [Overthrow](https://open.spotify.com/track/3127U4kP1p1SxCkF3Q9czN) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [False Idol](https://open.spotify.com/album/5VXNPgPnZCHatPUthYpBMW) | 3:55 | 2022-10-28 |  |
 | [Pan](https://open.spotify.com/track/4S0iFqlxNbwThYQWRgvBDB) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Impulse Voices](https://open.spotify.com/album/36vhZCfOCcpgEk7tXWBUdZ) | 5:33 | 2021-12-17 | 2022-09-03 |
 | [PANTHER](https://open.spotify.com/track/5Wco0mExvgymfA9yNcpgUb) | [Pain of Salvation](https://open.spotify.com/artist/1uRpg2s2jNaxbmoNiJDGfd) | [PANTHER](https://open.spotify.com/album/4U3Ona4xZYeZV0xOUlWsGP) | 4:11 | 2021-12-17 | 2022-07-26 |
 | [Para](https://open.spotify.com/track/1ygXmSQzIQm4kqGiTod2h0) | [Rogue](https://open.spotify.com/artist/0dOZLZTANQlLMsenyYc1O6) | [Para](https://open.spotify.com/album/5kaDYE7WiHuPcfnJLU1X7h) | 3:49 | 2022-07-13 |  |
@@ -351,6 +353,7 @@
 | [Periscope](https://open.spotify.com/track/77nsctL8EWneiHnnyTBXl5) | [Andromeda](https://open.spotify.com/artist/46U3e36KOitRTJchc1SqFu) | [Chimera](https://open.spotify.com/album/5N1vbVOrAyU7qqTTkpNc5u) | 6:11 | 2021-12-17 | 2022-01-23 |
 | [Phantom Pain](https://open.spotify.com/track/1hqS8MM45QraOjbvXHgBSR) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Phantom Pain](https://open.spotify.com/album/5fLICMZIvdl3hgnF5u8Ef8) | 4:07 | 2022-07-13 | 2022-07-25 |
 | [Physical Education](https://open.spotify.com/track/0JGuSgtmWyfuxLGBs2wX0C) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Joy of Motion](https://open.spotify.com/album/3BfAgyF1AdYKaOO7EBoDw4) | 4:40 | 2022-07-13 | 2022-11-06 |
+| [Physical Education](https://open.spotify.com/track/4sr5OIyYOY3JXbFYSoJR0G) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Joy of Motion](https://open.spotify.com/album/6N9IuJzAOwbzPx9oM0ar0j) | 4:40 | 2022-10-28 |  |
 | [Picayune](https://open.spotify.com/track/5JPqKVQvEaSbYjDg56i8UX) | [Satyr](https://open.spotify.com/artist/5ktYe9ZQMyLivSJbjEEEXy) | [Picayune](https://open.spotify.com/album/2mb4WfrUOHJYu6qlFu0CRQ) | 3:51 | 2022-07-13 |  |
 | [Pixelate](https://open.spotify.com/track/5ITT2UsqV9R5jRnpUYebcA) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Pixelate](https://open.spotify.com/album/5ab3fPnGY6OV34Swm5ffI0) | 3:10 | 2022-07-13 |  |
 | [Pleistocene](https://open.spotify.com/track/4FtvYfpO7Hy4AuH61nmLCi) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Pleistocene](https://open.spotify.com/album/0vJscqHMO7nYxpPFvr11gR) | 6:40 | 2021-12-17 | 2022-07-29 |
@@ -403,7 +406,7 @@
 | [Severance](https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [The Seed of Self\-Destruction](https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0) | 4:03 | 2022-07-13 |  |
 | [Shapes](https://open.spotify.com/track/0twqNLMlaIECkRAK5leXQf) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Shapes](https://open.spotify.com/album/31s61x1TcS5JG7Jz80tMpa) | 2:58 | 2022-07-13 |  |
 | [Sickle and Peace](https://open.spotify.com/track/05eJpA9YX6C25tnJEOgEpH) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Sickle and Peace](https://open.spotify.com/album/2ppckPJjNgNhIjxJ2hIcrZ) | 6:17 | 2021-12-17 |  |
-| [Sidewinder](https://open.spotify.com/track/4Yvh6BVDGa48HbT0soGqmy) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Sidewinder](https://open.spotify.com/album/0oXXszGRrHIh2a86NNgMJ4) | 4:17 | 2021-12-17 |  |
+| [Sidewinder](https://open.spotify.com/track/4Yvh6BVDGa48HbT0soGqmy) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Sidewinder](https://open.spotify.com/album/0oXXszGRrHIh2a86NNgMJ4) | 4:17 | 2021-12-17 | 2022-11-07 |
 | [Siege](https://open.spotify.com/track/3EVEAywFGiKZj1D0XXD5HZ) | [Psychework](https://open.spotify.com/artist/4uKphGSJb3SgI2gsAbcCPp) | [Siege](https://open.spotify.com/album/2nzEL85q7ROc466dEOrz5W) | 6:06 | 2021-12-17 | 2022-01-27 |
 | [Singularity](https://open.spotify.com/track/1D2fvbNf4LpOGPPkJ4uqyV) | [Black Orchid Empire](https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1) | [Semaphore](https://open.spotify.com/album/0Wm6uBSaY1mRlXLammTLOs) | 2:52 | 2021-12-17 | 2022-09-03 |
 | [Skylights](https://open.spotify.com/track/71GzM7SRPM36zKoiRyW5vm) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Skylights](https://open.spotify.com/album/0dZAOahUNYJiUfX0uNqFGJ) | 3:57 | 2021-12-17 | 2022-05-11 |
@@ -540,7 +543,7 @@
 | [Vultures](https://open.spotify.com/track/7lc4fOtaWt59SrqfJHXZkW) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Vultures](https://open.spotify.com/album/796jrMHaFR0uKFd6R1Hr8K) | 3:59 | 2021-12-17 | 2022-05-14 |
 | [Wallflower](https://open.spotify.com/track/657pCrjmICGxzsMU8zPnAj) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Wallflower](https://open.spotify.com/album/4WUduyQqdZ5ihHSvDZ8ZYj) | 4:17 | 2022-07-13 |  |
 | [Wanderlust](https://open.spotify.com/track/5EmGW48BMC4rIVWqrG3YML) | [Arch/Matheos](https://open.spotify.com/artist/20FEgW8w3CzSuwHa88kVas) | [Wanderlust](https://open.spotify.com/album/7Ayz1KWInid3a6pm7l7WaJ) | 5:59 | 2021-12-17 | 2022-07-28 |
-| [Warriors](https://open.spotify.com/track/5XhMWeK5yDNcXOMww3BdHH) | [Seventh Wonder](https://open.spotify.com/artist/30nUQaYp91iDcRyhr1oNn0) | [Warriors](https://open.spotify.com/album/56Y1RzDhZwZof924rnCI2X) | 4:42 | 2022-04-01 |  |
+| [Warriors](https://open.spotify.com/track/5XhMWeK5yDNcXOMww3BdHH) | [Seventh Wonder](https://open.spotify.com/artist/30nUQaYp91iDcRyhr1oNn0) | [Warriors](https://open.spotify.com/album/56Y1RzDhZwZof924rnCI2X) | 4:42 | 2022-04-01 | 2022-11-07 |
 | [Wash Away](https://open.spotify.com/track/7mKPw6kIUcdDCMTiJcnP73) | [Helion Prime](https://open.spotify.com/artist/2lUdzoPUHo1zpRGDXTipi5) | [Question Everything: Special Edition](https://open.spotify.com/album/5EMdIZWyNElzD93WWrOn5g) | 7:24 | 2021-12-17 | 2022-07-24 |
 | [Wasteland](https://open.spotify.com/track/7ab6HM68QJh2ziPoZypldE) | [Rendezvous Point](https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp) | [Solar Storm](https://open.spotify.com/album/69J3uTLDvkSropblvR3MCw) | 4:58 | 2021-12-17 | 2022-01-29 |
 | [Waves of Extinction](https://open.spotify.com/track/2qtXsEIgJW5fvSIDfXu1jO) | [Fireproven](https://open.spotify.com/artist/0Vg3aFwJ6xgLTSuDrh1Ruw) | [Waves of Extinction](https://open.spotify.com/album/0XYtsnr7eYUHkaBP02M2xo) | 6:30 | 2021-12-17 | 2022-07-28 |

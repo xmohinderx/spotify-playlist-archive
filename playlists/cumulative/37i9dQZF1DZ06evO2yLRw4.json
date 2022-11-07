@@ -866,6 +866,24 @@
     },
     {
       "album": {
+        "name": "We Are All Insane",
+        "url": "https://open.spotify.com/album/5ymWKh4Tp382PsDDSimpNI"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "We Are All Insane",
+      "url": "https://open.spotify.com/track/2N175zTqPQhQ5FHOrgsW3h"
+    },
+    {
+      "album": {
         "name": "Wind of Change (feat. Brandon Boyd of Incubus & Portugal. The Man)",
         "url": "https://open.spotify.com/album/5Nu3B843pAWSp8gOCcVxkx"
       },

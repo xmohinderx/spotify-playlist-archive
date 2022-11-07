@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Morocco.",
-  "num_followers": 24402,
+  "num_followers": 24435,
   "original_name": "Top 50 - Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIwOTcxNDY1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIxMDYxOTUzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "\u0664in (Act 2)",
         "url": "https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3dovliAqBRD4CIhCD2uYyH"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "\u0664in (Act 2)",
         "url": "https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5ayUHqkpxxyBOWelJjnaTD"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "\u0664in (Act 2)",
         "url": "https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/54h4PQ3FhdVZl2AfFiEuAn"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "\u0664in (Act 2)",
         "url": "https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1"
@@ -73,7 +73,23 @@
       "url": "https://open.spotify.com/track/6UtKKdLfQr7qPyBrnVpjWH"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "FORSSA",
+        "url": "https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 197785,
+      "name": "FORSSA",
+      "url": "https://open.spotify.com/track/4ERqimtfCADVUI256ishDr"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "\u0664in (Act 2)",
         "url": "https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1"
@@ -89,7 +105,23 @@
       "url": "https://open.spotify.com/track/6VWOcNO4CECw3Gh8WCR2wh"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "\u0664in (Act 1)",
+        "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        }
+      ],
+      "duration_ms": 228520,
+      "name": "Arahmini",
+      "url": "https://open.spotify.com/track/3BbVF781ENNpsLyVlJdoAA"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "\u0664in (Act 2)",
         "url": "https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1"
@@ -109,71 +141,7 @@
       "url": "https://open.spotify.com/track/3M2CPAYS0Z9c8D3Q2TiO3N"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "FORSSA",
-        "url": "https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 197785,
-      "name": "FORSSA",
-      "url": "https://open.spotify.com/track/4ERqimtfCADVUI256ishDr"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "\u0664in (Act 2)",
-        "url": "https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1"
-      },
-      "artists": [
-        {
-          "name": "Don Bigg",
-          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
-        }
-      ],
-      "duration_ms": 113685,
-      "name": "Sanae (Skit)",
-      "url": "https://open.spotify.com/track/3MRdoQYIdAgWV4y0InHrws"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "\u0664in (Act 1)",
-        "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
-      },
-      "artists": [
-        {
-          "name": "Don Bigg",
-          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
-        }
-      ],
-      "duration_ms": 228520,
-      "name": "Arahmini",
-      "url": "https://open.spotify.com/track/3BbVF781ENNpsLyVlJdoAA"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "\u0664in (Act 2)",
-        "url": "https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1"
-      },
-      "artists": [
-        {
-          "name": "Don Bigg",
-          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
-        }
-      ],
-      "duration_ms": 103367,
-      "name": "Alae (Skit)",
-      "url": "https://open.spotify.com/track/0qxIA0Y0yeENO9fdOOmO2R"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "\u0664in (Act 1)",
         "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
@@ -193,7 +161,7 @@
       "url": "https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "\u0664in (Act 1)",
         "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
@@ -213,27 +181,7 @@
       "url": "https://open.spotify.com/track/4oaNLwmI55IVTiJUaO6zIc"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 239359,
-      "name": "Rich Flex",
-      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "Gueule tap\u00e9e",
         "url": "https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM"
@@ -249,27 +197,7 @@
       "url": "https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 170501,
-      "name": "Major Distribution",
-      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
@@ -289,23 +217,7 @@
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "\u0664in (Act 1)",
-        "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
-      },
-      "artists": [
-        {
-          "name": "Don Bigg",
-          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
-        }
-      ],
-      "duration_ms": 224941,
-      "name": "Lawal (3reft Trap)",
-      "url": "https://open.spotify.com/track/7hQXhzatw5gy7E0wfoDfyc"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "00:00",
         "url": "https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD"
@@ -321,7 +233,7 @@
       "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA"
@@ -337,31 +249,7 @@
       "url": "https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "Pussy & Millions (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -376,12 +264,12 @@
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 261543,
-      "name": "On BS",
-      "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "Lovini",
         "url": "https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES"
@@ -397,7 +285,107 @@
       "url": "https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "\u0664in (Act 1)",
+        "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        }
+      ],
+      "duration_ms": 224941,
+      "name": "Lawal (3reft Trap)",
+      "url": "https://open.spotify.com/track/7hQXhzatw5gy7E0wfoDfyc"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "Taline",
+        "url": "https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Taline",
+      "url": "https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "CHICHI",
+        "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "CHICHI",
+      "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "JRO7I",
+        "url": "https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA"
+      },
+      "artists": [
+        {
+          "name": "MA3IZ",
+          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "JRO7I",
+      "url": "https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "\u0664in (Act 2)",
+        "url": "https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        }
+      ],
+      "duration_ms": 113685,
+      "name": "Sanae (Skit)",
+      "url": "https://open.spotify.com/track/3MRdoQYIdAgWV4y0InHrws"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "\u0664in (Act 1)",
         "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
@@ -421,91 +409,7 @@
       "url": "https://open.spotify.com/track/3m9TzZ3tnaeMRC4dIrdrk9"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "Taline",
-        "url": "https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Taline",
-      "url": "https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "CHICHI",
-        "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "CHICHI",
-      "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 152961,
-      "name": "BackOutsideBoyz",
-      "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "Unholy (feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "JRO7I",
-        "url": "https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA"
-      },
-      "artists": [
-        {
-          "name": "MA3IZ",
-          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "JRO7I",
-      "url": "https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -520,15 +424,15 @@
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 160821,
-      "name": "Privileged Rappers",
-      "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
+      "duration_ms": 170501,
+      "name": "Major Distribution",
+      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
-        "name": "\u0664in (Act 1)",
-        "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
+        "name": "\u0664in (Act 2)",
+        "url": "https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1"
       },
       "artists": [
         {
@@ -536,12 +440,12 @@
           "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
         }
       ],
-      "duration_ms": 240353,
-      "name": "Libert\u00e9",
-      "url": "https://open.spotify.com/track/3Jt5CmH5Xq90qZJeDPA6aH"
+      "duration_ms": 103367,
+      "name": "Alae (Skit)",
+      "url": "https://open.spotify.com/track/0qxIA0Y0yeENO9fdOOmO2R"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
@@ -557,7 +461,31 @@
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "Dawk Lya",
         "url": "https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP"
@@ -573,43 +501,7 @@
       "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Spin Bout U",
-      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "BREDA",
-        "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
-      },
-      "artists": [
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "BREDA",
-      "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "Born To Be Free",
         "url": "https://open.spotify.com/album/2vAG98yZyBRSHHgrk95Ssv"
@@ -625,27 +517,7 @@
       "url": "https://open.spotify.com/track/3NxiLykyGpgdC82v2xUJij"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "Mots crois\u00e9s",
-        "url": "https://open.spotify.com/album/7MKGYeEG0mGVL39JcNywKK"
-      },
-      "artists": [
-        {
-          "name": "Demi Portion",
-          "url": "https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 193657,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1ThaPy4W188i5SFdjXl64J"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -660,12 +532,12 @@
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 236795,
-      "name": "Circo Loco",
-      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
+      "duration_ms": 261543,
+      "name": "On BS",
+      "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
         "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
@@ -685,7 +557,43 @@
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "Mots crois\u00e9s",
+        "url": "https://open.spotify.com/album/7MKGYeEG0mGVL39JcNywKK"
+      },
+      "artists": [
+        {
+          "name": "Demi Portion",
+          "url": "https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 193657,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1ThaPy4W188i5SFdjXl64J"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "\u0664in (Act 1)",
+        "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        }
+      ],
+      "duration_ms": 240353,
+      "name": "Libert\u00e9",
+      "url": "https://open.spotify.com/track/3Jt5CmH5Xq90qZJeDPA6aH"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
@@ -705,99 +613,55 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "Ta7t Jna7i",
+        "url": "https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
         }
       ],
-      "duration_ms": 399153,
-      "name": "Hours In Silence",
-      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
+      "duration_ms": 199706,
+      "name": "Ta7t Jna7i",
+      "url": "https://open.spotify.com/track/5aOWc0G39X0CAZejwoD3TQ"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 225439,
-      "name": "Broke Boys",
-      "url": "https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8"
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
-        "name": "\u0664in (Act 1)",
-        "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
+        "name": "BREDA",
+        "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
       },
       "artists": [
         {
-          "name": "Don Bigg",
-          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
-        },
-        {
-          "name": "Krizz Kaliko",
-          "url": "https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9"
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
         }
       ],
-      "duration_ms": 213865,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3dTSb5eSmON3lo7zGRB6uE"
+      "duration_ms": 112000,
+      "name": "BREDA",
+      "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "Sucr\u00e9 Sal\u00e9",
-        "url": "https://open.spotify.com/album/0sTkDmqOGFrx2bI3ilkHYS"
-      },
-      "artists": [
-        {
-          "name": "L'morphine",
-          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
-        }
-      ],
-      "duration_ms": 140649,
-      "name": "Sucr\u00e9 Sal\u00e9",
-      "url": "https://open.spotify.com/track/357H2ZL3Ml7OH0MCrp4mwi"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "Mouja",
-        "url": "https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw"
-      },
-      "artists": [
-        {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
-        }
-      ],
-      "duration_ms": 195195,
-      "name": "Mouja",
-      "url": "https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "MAAK",
         "url": "https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y"
@@ -817,55 +681,7 @@
       "url": "https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "Salade Coco",
-        "url": "https://open.spotify.com/album/4WMyOG6VuYgUJABGPES4iA"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 167730,
-      "name": "Salade Coco",
-      "url": "https://open.spotify.com/track/2BJh2IoGeq0UQVsLHUcbrK"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
-      "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
-    },
-    {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
         "name": "Hickey",
         "url": "https://open.spotify.com/album/6l0VWNBC0Oppta7L3WkWnj"
@@ -881,20 +697,196 @@
       "url": "https://open.spotify.com/track/3B67oAJr4acToGpR1S33g5"
     },
     {
-      "added_at": "2022-11-05 13:51:05",
+      "added_at": "2022-11-06 14:59:13",
       "album": {
-        "name": "Ta7t Jna7i",
-        "url": "https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "Abduh",
-          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 199706,
-      "name": "Ta7t Jna7i",
-      "url": "https://open.spotify.com/track/5aOWc0G39X0CAZejwoD3TQ"
+      "duration_ms": 152961,
+      "name": "BackOutsideBoyz",
+      "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "Sucr\u00e9 Sal\u00e9",
+        "url": "https://open.spotify.com/album/0sTkDmqOGFrx2bI3ilkHYS"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "duration_ms": 140649,
+      "name": "Sucr\u00e9 Sal\u00e9",
+      "url": "https://open.spotify.com/track/357H2ZL3Ml7OH0MCrp4mwi"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 160821,
+      "name": "Privileged Rappers",
+      "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "Salade Coco",
+        "url": "https://open.spotify.com/album/4WMyOG6VuYgUJABGPES4iA"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 167730,
+      "name": "Salade Coco",
+      "url": "https://open.spotify.com/track/2BJh2IoGeq0UQVsLHUcbrK"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "Mouja",
+        "url": "https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "duration_ms": 195195,
+      "name": "Mouja",
+      "url": "https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 236795,
+      "name": "Circo Loco",
+      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        },
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Lbaroud",
+      "url": "https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "\u0664in (Act 1)",
+        "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        },
+        {
+          "name": "Krizz Kaliko",
+          "url": "https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9"
+        }
+      ],
+      "duration_ms": 213865,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3dTSb5eSmON3lo7zGRB6uE"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "Trap Roumi V2",
+        "url": "https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "Trap Roumi V2",
+      "url": "https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9"
+    },
+    {
+      "added_at": "2022-11-06 14:59:13",
+      "album": {
+        "name": "Makhelaw magalou",
+        "url": "https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Makhelaw magalou",
+      "url": "https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw"
     }
   ],
   "unique_name": "Top 50 - Morocco",

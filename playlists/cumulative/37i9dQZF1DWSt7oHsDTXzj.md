@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-161 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
+162 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [If We Make It Through December](https://open.spotify.com/track/3a3q9YsTkgrG7dBF2ZdZfn) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/7xoBevaHIAcXvYiLdqhQMC) | 2:59 | 2021-11-12 | 2022-07-28 |
 | [In The Bleak Midwinter](https://open.spotify.com/track/59vU9HvjJx09uWeAC7wai5) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [In The Bleak Midwinter](https://open.spotify.com/album/7wVUdg2hmTl1GBYq6xSHT3) | 3:51 | 2021-11-12 | 2022-07-23 |
 | [It's All Gunna Go Wrong This Christmas](https://open.spotify.com/track/3nhFfJ2uGkKPW5AzU8YgNs) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [It's All Gunna Go Wrong This Christmas](https://open.spotify.com/album/2KAc30ScQ8fSAXzAvNSR4H) | 3:13 | 2021-11-12 | 2022-07-29 |
+| [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 2:29 | 2022-10-14 |  |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/7GBuc4Sh26BLDLCsLWuCde) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/55qxgy5RW3lwMxPlpOdlAC) | 2:29 | 2021-11-12 | 2022-07-27 |
 | [It's Christmas](https://open.spotify.com/track/3IDTHSXjwV2ngdJXGcoOuc) | [Cody](https://open.spotify.com/artist/4HGUydh9BtymmiwT62K7wT) | [It's Christmas](https://open.spotify.com/album/1spQ9drDNBcMtJBVTcxzZ8) | 3:47 | 2021-11-12 | 2022-07-20 |
 | [It's Christmas \(Snow is Falling\)](https://open.spotify.com/track/1lXkOnvzw4o6dncgSc9kwU) | [Jessicka](https://open.spotify.com/artist/69LuZP8tLC8m268w9sHj2i) | [It's Christmas \(Snow is Falling\)](https://open.spotify.com/album/4URQ2nU0Yy86AJ17phLBap) | 3:37 | 2021-11-12 | 2022-07-08 |
@@ -150,7 +151,7 @@
 | [two queens in a king sized bed](https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII) | 3:10 | 2021-11-12 |  |
 | [ugly xmas sweater party](https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [ugly xmas sweater party](https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI) | 3:28 | 2021-11-12 | 2022-07-28 |
 | [Vegetarian Christmas](https://open.spotify.com/track/56iWDgPeaauhH7C3EWEE7l) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Vegetarian Christmas](https://open.spotify.com/album/1RRAz0Fa380MOhzVgJylCP) | 3:31 | 2021-11-12 | 2022-07-28 |
-| [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 | 2021-11-12 |  |
+| [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 | 2021-11-12 | 2022-11-07 |
 | [We're The Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 | 2021-11-12 |  |
 | [When I Get Home for Christmas](https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [When I Get Home for Christmas](https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD) | 4:16 | 2021-11-12 | 2022-06-09 |
 | [Whiskey and Winter](https://open.spotify.com/track/64VCX56djfNzlTQ6yrI9ZF) | [Hushtones](https://open.spotify.com/artist/2kIChQGSFExLsYUfo0bSIB) | [Whiskey and Winter](https://open.spotify.com/album/10ExGQBrNuKJssOyOfvXcj) | 3:10 | 2022-01-07 | 2022-07-01 |
@@ -161,8 +162,8 @@
 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 | 2021-11-12 |  |
 | [Winter Wonderland](https://open.spotify.com/track/3TqG0HDrk8zP3y7Mh3GyHe) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Christmas Time](https://open.spotify.com/album/5eP1FZIB34PXwas58LAPCl) | 3:10 | 2021-11-12 | 2022-07-28 |
 | [Wonderful Christmastime](https://open.spotify.com/track/0Tt1xLhzap2izxxttXZdk1) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Christmas Rules](https://open.spotify.com/album/7a9xlXxD82eQGXaExYrChG) | 2:26 | 2021-11-12 | 2022-07-29 |
-| [Wonderful Christmastime](https://open.spotify.com/track/2WOxLQYZf9fZwElBgrFCB7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [A Very Cool Christmas](https://open.spotify.com/album/3dJwYksJQub7yM6nxhJAAh) | 2:26 | 2022-10-14 |  |
-| [Wonderful Christmastime](https://open.spotify.com/track/3OnZDfpaIbb2dBCCHtoYSX) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:26 | 2021-11-12 | 2022-11-04 |
+| [Wonderful Christmastime](https://open.spotify.com/track/2WOxLQYZf9fZwElBgrFCB7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [A Very Cool Christmas](https://open.spotify.com/album/3dJwYksJQub7yM6nxhJAAh) | 2:26 | 2022-10-14 | 2022-11-07 |
+| [Wonderful Christmastime](https://open.spotify.com/track/3OnZDfpaIbb2dBCCHtoYSX) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:26 | 2021-11-12 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/6g9jjIuFrgbVX8ahN7ejmQ) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Drunk Christmas Party 2022](https://open.spotify.com/album/2iup3SB38ceLUjOMHLrXfH) | 2:26 | 2021-11-12 | 2022-09-11 |
 | [xmas break](https://open.spotify.com/track/7lqyR5szlPkt9sz3dqDZYf) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [xmas break](https://open.spotify.com/album/7GVLN36yynco60XmAYmuSQ) | 3:04 | 2022-01-07 | 2022-07-29 |
 | [Yellow Bike](https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Phoenix](https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge) | 3:53 | 2021-11-12 | 2022-11-03 |

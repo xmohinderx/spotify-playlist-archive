@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Deize Tigrona e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,939 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,927 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 45 | [Bala](https://open.spotify.com/track/2SL69LfhYjGTnemCM568lJ) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Outro Lado](https://open.spotify.com/album/3sfi3GaNL0dJRDOgQSHbmr) | 2:44 |
 | 46 | [Na Jogadinha](https://open.spotify.com/track/2o7h5oCFihr3ubAE6GnbBM) | [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL) | [Na Jogadinha](https://open.spotify.com/album/0MSVGrdzdNGWaPb8aUKIrq) | 2:00 |
 | 47 | [Donas da Putaria](https://open.spotify.com/track/4ZeRK5k8FrS0YFcErINKrg) | [MC Katia](https://open.spotify.com/artist/1fswWDs9fyiaqFvs7ms5WG), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Donas da Putaria](https://open.spotify.com/album/5eDpNOdcSqPzGn2PkGbFF4) | 3:19 |
-| 48 | [Medley da Lina](https://open.spotify.com/track/7rpROwT1L9FyFBLywaAaPL) | [Mc Lina](https://open.spotify.com/artist/6V9TYyxua6RS2GXbt4E55Q) | [Medley da Lina](https://open.spotify.com/album/7uwKS8fAC3IL5wi4LEl55H) | 2:23 |
-| 49 | [Tocar Você](https://open.spotify.com/track/5VRB711STIp9w5qEDtuotz) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Tocar Você](https://open.spotify.com/album/1j9NHpnPLuqZiJrHCwpuwS) | 4:34 |
+| 48 | [Tocar Você](https://open.spotify.com/track/5VRB711STIp9w5qEDtuotz) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Tocar Você](https://open.spotify.com/album/1j9NHpnPLuqZiJrHCwpuwS) | 4:34 |
+| 49 | [Medley da Lina](https://open.spotify.com/track/7rpROwT1L9FyFBLywaAaPL) | [Mc Lina](https://open.spotify.com/artist/6V9TYyxua6RS2GXbt4E55Q) | [Medley da Lina](https://open.spotify.com/album/7uwKS8fAC3IL5wi4LEl55H) | 2:23 |
 | 50 | [Lapada](https://open.spotify.com/track/4JeA5kNJWxSANl8zA5sLeZ) | [Mc Baby Perigosa](https://open.spotify.com/artist/4cozwOHA4R5HtklxTTV4o6), [Mc Naninha](https://open.spotify.com/artist/2LuUSYYh2XcCrNvqAMzZzy) | [Lapada](https://open.spotify.com/album/00u4bXJOPPOigGBdhzEorC) | 2:14 |
 
-Snapshot ID: `MTY2NzM1ODAwMCwwMDAwMDAwMGU4NDYyZjMzZWJiN2E0ZWNlNjMzMmE0MmRkNjRhZTA3`
+Snapshot ID: `MTY2NzM1ODAwMCwwMDAwMDAwMDc1YzEyZmExMTI0YWI5YmQ2MWZjMWU4MjQxYWQ4Yjk5`

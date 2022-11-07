@@ -4,7 +4,7 @@
 
 > A salute to all of the women that like it loud & heavy\. Cover: Poppy
 
-237 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/2PwU7tbcMm117R21Ot8It9)
+238 songs - 15 hr 44 min - [published](https://open.spotify.com/playlist/2PwU7tbcMm117R21Ot8It9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A New Disaster](https://open.spotify.com/track/2Dacl6eI6cIwTcLtqpQcA0) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [A New Disaster](https://open.spotify.com/album/2bmZJfV07YUUnRJyLhqk6u) | 3:39 | 2020-12-07\* | 2021-05-15 |
 | [A Pain all Mine](https://open.spotify.com/track/3il4rTwrxEZjqkyakwsKga) | [Jaded Star](https://open.spotify.com/artist/1QPqC0I7ggY7Etb5JTV6LG) | [Realign](https://open.spotify.com/album/6wv7SNQ3j3Xe7zWjS7ruYT) | 3:42 | 2020-12-07\* | 2022-06-19 |
 | [A Return to the Earth Below](https://open.spotify.com/track/7wjFG8WltMzLjo8lVC6Rfe) | [Oceans of Slumber](https://open.spotify.com/artist/2JSza6IRxLr1Ez3wqKd0SY) | [A Return to the Earth Below](https://open.spotify.com/album/2vH9KhmMLvlH4DlPtdbB7z) | 5:39 | 2020-12-07\* | 2022-07-29 |
-| [A Villain's Monologue](https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [A Villain's Monologue](https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU) | 3:30 | 2021-06-05 |  |
+| [A Villain's Monologue](https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [A Villain's Monologue](https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU) | 3:30 | 2021-06-05 | 2022-11-07 |
 | [Abyss](https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Abyss](https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD) | 6:44 | 2022-03-11 |  |
 | [Abyss](https://open.spotify.com/track/6dGSXCf230k3YsEGOvXNAy) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Abyss](https://open.spotify.com/album/7FgdN0xNj5EfXUo0falBTN) | 6:44 | 2020-12-07\* | 2022-07-29 |
 | [Abyss of Time \- Countdown to Singularity \-](https://open.spotify.com/track/627pEZNVSQ3iUyvOoxXVUw) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:20 | 2022-03-11 |  |
@@ -106,6 +106,7 @@
 | [Human](https://open.spotify.com/track/55oKgX5jQ5dKoDaFgdKKWj) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Hørizøns \(Japan Edition\)](https://open.spotify.com/album/0VwikXNNIS52z30sDyuMBK) | 5:09 | 2020-12-07\* | 2022-07-29 |
 | [Human](https://open.spotify.com/track/3NEALaGbrMY1N1fwAlpCoy) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Human](https://open.spotify.com/album/0rqFVF08OKc6ChJMWEtn2f) | 4:11 | 2020-12-07\* | 2020-12-11 |
 | [Hurt You](https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Hurt You](https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW) | 3:46 | 2021-08-24 |  |
+| [I Disagree](https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN) | 3:13 | 2022-10-28 |  |
 | [I Disagree](https://open.spotify.com/track/61ypvgEm3ovCFbSIq2PsRX) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree \(more\)](https://open.spotify.com/album/0jTjzLGg15C48CJEfZ9pFJ) | 3:13 | 2020-12-07\* | 2022-11-05 |
 | [I Don't Know You](https://open.spotify.com/track/0038p5duwZ3euoTDxmizmF) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [I Don't Know You](https://open.spotify.com/album/3psICZrRJ4DyfrMhzXSStd) | 3:41 | 2020-12-07\* | 2022-07-29 |
 | [I Don't Know You](https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [I Don't Know You](https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT) | 3:41 | 2022-03-11 |  |

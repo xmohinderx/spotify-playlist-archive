@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > 🚨 it's november 🚨 Mariah Carey is officially defrosting 🎄❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,336 likes - 574 songs - 1 day 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,454 likes - 574 songs - 1 day 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 93 | [The One That Got Away](https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 |
 | 94 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 |
 | 95 | [The Promise](https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL) | [When In Rome](https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy) | [When In Rome](https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x) | 3:40 |
-| 96 | [With You All the Time \- \(from "Don't Worry Darling"\)](https://open.spotify.com/track/6bcWgQ2pMEKgvxCKGKb68g) | [Alice and Jack](https://open.spotify.com/artist/3nuzy35aOGrCBDNHPiFkH6) | [Don't Worry Darling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vd9ogxIg5CSBFuvHE60LZ) | 2:59 |
+| 96 | [With You All the Time \(From "Don't Worry Darling"\)](https://open.spotify.com/track/6bcWgQ2pMEKgvxCKGKb68g) | [Alice and Jack](https://open.spotify.com/artist/3nuzy35aOGrCBDNHPiFkH6) | [Don't Worry Darling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vd9ogxIg5CSBFuvHE60LZ) | 2:59 |
 | 97 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 |
 | 98 | [IBTC](https://open.spotify.com/track/4HAonty9m9FAvorRkSAiof) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [IBTC](https://open.spotify.com/album/7JG6V3mLxuQX0mPJlI6Kie) | 2:23 |
 | 99 | [Overcome](https://open.spotify.com/track/6NzO8H8HWe1hHaiZWiGpXH) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [A Letter from the Universe](https://open.spotify.com/album/6urF2OXed5Be4p4QlqG6lu) | 3:07 |

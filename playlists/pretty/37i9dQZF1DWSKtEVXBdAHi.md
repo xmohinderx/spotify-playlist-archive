@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,090 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,089 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 58 | [Pieces](https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Michel Fannoun](https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko) | [Pieces](https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE) | 3:00 |
 | 59 | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/track/7c5h27Ju8JE5xWKTQ88KhL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/album/3eQRZ9cftF0ezsRsynepNl) | 3:22 |
 | 60 | [Be Someone](https://open.spotify.com/track/4esEsg9IxiTAGMBQLe9XOu) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Be Someone](https://open.spotify.com/album/7x3X4EQy3RgIS4AGopCyEH) | 3:24 |
-| 61 | [All I Wanna Do](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [All I Wanna Do](https://open.spotify.com/album/49pOtXDkhfPJBwtlf5vrLm) | 3:14 |
-| 62 | [Living \(feat\. Alex Clare\)](https://open.spotify.com/track/63Qco1ncI5U4qEUnxL1DsH) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl) | [Living \(feat\. Alex Clare\)](https://open.spotify.com/album/0dHBCgs7zfH2mQXHTghume) | 3:17 |
+| 61 | [Living \(feat\. Alex Clare\)](https://open.spotify.com/track/63Qco1ncI5U4qEUnxL1DsH) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl) | [Living \(feat\. Alex Clare\)](https://open.spotify.com/album/0dHBCgs7zfH2mQXHTghume) | 3:17 |
+| 62 | [All I Wanna Do](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [All I Wanna Do](https://open.spotify.com/album/49pOtXDkhfPJBwtlf5vrLm) | 3:14 |
 | 63 | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/track/4cTo1wbzGiVJJiCG3BdZ64) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Eskeemo](https://open.spotify.com/artist/6c1KIrxttQDU6A31FwNlXg) | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/album/3GlialhdlVuLTrU3BGF4aj) | 2:24 |
 | 64 | [FOMO](https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Sylo Songs](https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR) | 2:07 |
 | 65 | [Hotel Walls](https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [We Were Young](https://open.spotify.com/track/1USj0dJqfBxnOiwiOuB7pU) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [We Were Young](https://open.spotify.com/album/3kZ0FRj4CvEhzvfAws1YfJ) | 3:34 |
 | 80 | [High On Your Love](https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68) | [The Waked](https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV), [Nora Andersson](https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq) | [High On Your Love](https://open.spotify.com/album/3gCgNvcccB3JTjF7KKkvlx) | 2:36 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDNkY2E5MmRmNGY1ZWMxNDQ5YjJkYzYyZjkxZDE3MWY2`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDI5MmY0YmI4NzlhYzJiNjNlZWJmZjlhYTAwYzM3OGE2`

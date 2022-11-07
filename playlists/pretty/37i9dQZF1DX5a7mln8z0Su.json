@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 4346,
+  "num_followers": 4356,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYzOTg3NiwwMDAwMDAwMGQ0ZjdjNjZjYTkzNTI5ZjNkMTVjNGFlYzY2NWQ0Yzdk",
+  "snapshot_id": "MTY2NTYzOTg3NiwwMDAwMDAwMGM4ZDBjMTFkZDk5ZWU5NjU4MTk5NDE3NzQ5NjliMGE4",
   "tracks": [
     {
       "added_at": "2022-10-13 05:44:36",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-10-13 05:44:36",
       "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 191793,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
+    },
+    {
+      "added_at": "2022-10-13 05:44:36",
+      "album": {
         "name": "Sool",
         "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 230560,
       "name": "Sool (Feat. THAMA)",
       "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
-    },
-    {
-      "added_at": "2022-10-13 05:44:36",
-      "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 191793,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
     },
     {
       "added_at": "2022-10-13 05:44:36",
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-10-13 05:44:36",
       "album": {
-        "name": "I thought it was love.",
-        "url": "https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW"
+        "name": "Like A Film : 4 Songs",
+        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
       },
       "artists": [
         {
-          "name": "Sagong",
-          "url": "https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 240000,
-      "name": "I thought it was love.",
-      "url": "https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU"
+      "duration_ms": 226000,
+      "name": "Smile, Wait For The Flash",
+      "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

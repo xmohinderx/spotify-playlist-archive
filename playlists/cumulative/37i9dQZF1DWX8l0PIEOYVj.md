@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Awakend.
 
-273 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
+274 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35) | 3:19 | 2022-07-08 |  |
 | [Colors \(with Eyelar\)](https://open.spotify.com/track/04ByQsyzXGuHYiUGBenErh) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(feat\. Eyelar\) \[Remixes\]](https://open.spotify.com/album/3ji2WEKdHvckf3bG8CMnpT) | 3:51 | 2022-07-29 | 2022-10-30 |
 | [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-29 | 2022-08-03 |
-| [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 | 2022-07-29 |  |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/6ur4bHIfXz7v38Ug4c7sb9) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Alive](https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v) | 3:51 | 2022-07-29 |  |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 | 2022-07-29 | 2022-11-07 |
 | [Come Clean \(feat\. Justin Jesso\)](https://open.spotify.com/track/4PyEdtiTEPNvsNSXPDQDDL) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Prince Fox](https://open.spotify.com/artist/1nf5yEVCfMbqm1OCYpntBT), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Love // Chaos](https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k) | 2:57 | 2022-07-08 |  |
 | [Coming Back To You](https://open.spotify.com/track/0eNZW0bb7bogNXoXwcJ0is) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Coming Back To You](https://open.spotify.com/album/6vcAf5aO6UjQKnVjkjZptX) | 3:33 | 2022-07-08 | 2022-09-15 |
 | [CRACKS](https://open.spotify.com/track/7o4hWcXufdfWcWCbh5O8kf) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs), [Slowpalace](https://open.spotify.com/artist/5OykEYbsyupQcKIoTH5Szu) | [CRACKS](https://open.spotify.com/album/1xl2Nj9aHqjB6J3AYvutqC) | 3:10 | 2022-07-08 | 2022-07-29 |

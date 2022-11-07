@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Ibrahim Maalouf
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,773 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,799 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 7 | [ALL 4 U \- Radio Edit](https://open.spotify.com/track/3jrVIohjKXXea0Of7LZcFx) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM) | [ALL 4 U](https://open.spotify.com/album/1dEIALXVIdQbwPHk1wafIa) | 4:20 |
 | 8 | [Us \- A COLORS SHOW](https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Us \- A COLORS SHOW](https://open.spotify.com/album/6c1sdchTFvL0jwHeKx725a) | 6:13 |
 | 9 | [Jimmy](https://open.spotify.com/track/6Z7lba4JYt48ztwt2bu7up) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [Erameld](https://open.spotify.com/artist/7onTqmjsNs182OQexatI7N) | [Jimmy](https://open.spotify.com/album/3SSySSNMkNqyYdXR208dRE) | 2:08 |
-| 10 | [Quiet Culture](https://open.spotify.com/track/2VKYTNg9r6bF9pBZouux68) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:38 |
+| 10 | [Quiet Culture \(feat\. Pos of De La Soul\)](https://open.spotify.com/track/2VKYTNg9r6bF9pBZouux68) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Pos of De La Soul](https://open.spotify.com/artist/0QJINgNjVXlG2aRED0jEx3) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:38 |
 | 11 | [BETTER \(arr\. Emawk\)](https://open.spotify.com/track/5kZhsoeFVmoLWOkRNx8YmB) | [Malika Tirolien](https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N), [emawk](https://open.spotify.com/artist/7gSZocK2o1aDYdXQcVZKJp) | [BETTER \(arr\. Emawk\)](https://open.spotify.com/album/1pTdZPhmgOd5rTJa7a1YtT) | 5:40 |
 | 12 | [Naturally Conspiring](https://open.spotify.com/track/035oBcRjSOLNXDklFrODdk) | [Badge Époque Ensemble](https://open.spotify.com/artist/08E0CO6MC1ykoQP5VQt4hL), [Lammping](https://open.spotify.com/artist/1ZrzRmbuxvCeFSpEbFpbXZ), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig) | [Naturally Conspiring](https://open.spotify.com/album/28zKMISoSA143WKaWeng3p) | 3:35 |
 | 13 | [The Sun \(feat\. Bran Movay\)](https://open.spotify.com/track/0TjxhONN1mFhhIwUnaVpcm) | [Kabwasa](https://open.spotify.com/artist/4n3BiuRU79B4qPqiqsnhQ4), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Bran Movay](https://open.spotify.com/artist/6qOnVqczf3XJzyy3eQazOu) | [The Sun \(feat\. Bran Movay\)](https://open.spotify.com/album/0sjw26JHZs8ETCZkMMYDRD) | 2:49 |

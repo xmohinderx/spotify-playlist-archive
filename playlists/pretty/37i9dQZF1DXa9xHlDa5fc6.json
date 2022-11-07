@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites.",
-  "num_followers": 418394,
+  "num_followers": 418445,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGI2NDU3ZTVkNzI4MWRmMjIzM2Q2NmY2Njc2YWU4YjY1",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDc2ZDYwNDY2ZDBlZGE5NjY2MTYzOTYxMmEwZTZkYzNm",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 127920,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Mechanical Bull (Expanded Edition)",
         "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 210133,
       "name": "Wait for Me",
       "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 127920,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "I'll Keep You In Mind, From Time to Time",
-        "url": "https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV"
-      },
-      "artists": [
-        {
-          "name": "Moose Blood",
-          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
-        }
-      ],
-      "duration_ms": 159711,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "twelvefour",
         "url": "https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 223520,
       "name": "Electric Indigo",
       "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "I'll Keep You In Mind, From Time to Time",
+        "url": "https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV"
+      },
+      "artists": [
+        {
+          "name": "Moose Blood",
+          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
+        }
+      ],
+      "duration_ms": 159711,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Stars Are on Your Side",
-        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
-      },
-      "artists": [
-        {
-          "name": "Ross Copperman",
-          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "Stars Are on Your Side",
-      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Good Old",
         "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
       },
@@ -1095,18 +1079,34 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Spinning the Truth Around",
-        "url": "https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP"
+        "name": "Stars Are on Your Side",
+        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
       },
       "artists": [
         {
-          "name": "Blue October",
-          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
         }
       ],
-      "duration_ms": 289165,
-      "name": "Spinning the Truth Around",
-      "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
+      "duration_ms": 218004,
+      "name": "Stars Are on Your Side",
+      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Candy Eyes",
+        "url": "https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX"
+      },
+      "artists": [
+        {
+          "name": "HOKO",
+          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "Candy Eyes",
+      "url": "https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Candy Eyes",
-        "url": "https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX"
+        "name": "Spinning the Truth Around",
+        "url": "https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP"
       },
       "artists": [
         {
-          "name": "HOKO",
-          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
+          "name": "Blue October",
+          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
         }
       ],
-      "duration_ms": 170600,
-      "name": "Candy Eyes",
-      "url": "https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd"
+      "duration_ms": 289165,
+      "name": "Spinning the Truth Around",
+      "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Young Blood EP",
         "url": "https://open.spotify.com/album/6rkpulKVwXAsc5Uuc7YlEi"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 228196,
       "name": "Cinema Love",
       "url": "https://open.spotify.com/track/28yYvFeocTDYzao76YVB75"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Friends I Barely Know",
-        "url": "https://open.spotify.com/album/51KS9zdT2oJWaRPEH1W6w5"
-      },
-      "artists": [
-        {
-          "name": "Windser",
-          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
-        }
-      ],
-      "duration_ms": 179946,
-      "name": "Friends I Barely Know",
-      "url": "https://open.spotify.com/track/4Yzy5bGrMOlLpYcOtWxGIM"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 230738,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Friends I Barely Know",
+        "url": "https://open.spotify.com/album/51KS9zdT2oJWaRPEH1W6w5"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "duration_ms": 179946,
+      "name": "Friends I Barely Know",
+      "url": "https://open.spotify.com/track/4Yzy5bGrMOlLpYcOtWxGIM"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Help Me to Feel Again",
+        "url": "https://open.spotify.com/album/656dTune8st7zgtyUljuGH"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 262383,
+      "name": "Help Me to Feel Again",
+      "url": "https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Fruit",
         "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 189080,
       "name": "Taking You There",
       "url": "https://open.spotify.com/track/6NYtqWYqMbnzoEU9jXla80"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Help Me to Feel Again",
-        "url": "https://open.spotify.com/album/656dTune8st7zgtyUljuGH"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 262383,
-      "name": "Help Me to Feel Again",
-      "url": "https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Youth is Only Ever Fun in Retrospect",
-        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
-      },
-      "artists": [
-        {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Lose the Feeling",
-      "url": "https://open.spotify.com/track/4Wj8YAiPnuleXJkJ1aEzLN"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Waking Up The Giants",
         "url": "https://open.spotify.com/album/6R6Xy2gwyTO6GS1Cs4K1cI"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 199360,
       "name": "Vagabonds",
       "url": "https://open.spotify.com/track/1kdSGyQyX0mxq75KSgcjic"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Youth is Only Ever Fun in Retrospect",
+        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Lose the Feeling",
+      "url": "https://open.spotify.com/track/4Wj8YAiPnuleXJkJ1aEzLN"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1939,6 +1939,26 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Killer Queen (What I Need)",
+        "url": "https://open.spotify.com/album/1tHCJdeRE4oRYKd93t1XCy"
+      },
+      "artists": [
+        {
+          "name": "Goldpark",
+          "url": "https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z"
+        },
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 198789,
+      "name": "Killer Queen (What I Need)",
+      "url": "https://open.spotify.com/track/02RJ5dskUzptI7vFRMKw3J"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/53BCrCrl3BENt20FFixjn9"
       },
@@ -1971,22 +1991,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "I Remember Way Too Much (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0Jyta4WQVQakKAKNGJnCQH"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 222540,
-      "name": "I Remember Way Too Much - Acoustic Version",
-      "url": "https://open.spotify.com/track/0cqHnXoMyt3ZMCb4IpPy4d"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Ocean by Ocean",
         "url": "https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55"
       },
@@ -2003,6 +2007,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "I Remember Way Too Much (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0Jyta4WQVQakKAKNGJnCQH"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 222540,
+      "name": "I Remember Way Too Much - Acoustic Version",
+      "url": "https://open.spotify.com/track/0cqHnXoMyt3ZMCb4IpPy4d"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Talking in Circles",
         "url": "https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx"
       },
@@ -2015,22 +2035,6 @@
       "duration_ms": 227121,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/6rTZiRHLPidlAirSd4yNd8"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Before the Waves",
-        "url": "https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un"
-      },
-      "artists": [
-        {
-          "name": "Magic Man",
-          "url": "https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/52h6tJhAz9MDyS8MSIDeIP"
     }
   ],
   "unique_name": "License To Chill",

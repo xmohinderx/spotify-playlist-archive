@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: nothing,nowhere.
 
-937 songs - 2 day 2 hr 0 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+938 songs - 2 day 2 hr 3 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -833,7 +833,8 @@
 | [These Drugs](https://open.spotify.com/track/3t1uQlpov2xgh0nePbzNDX) | [The Thing With Feathers](https://open.spotify.com/artist/3fJAImowfWb7c7e2Fy6hUF) | [These Drugs](https://open.spotify.com/album/57i8KtPiGv0iP0nio8Gcsl) | 2:44 | 2022-11-04 |  |
 | [They Only Love You When You're Dead](https://open.spotify.com/track/0dLITEw0amfRF87feCqrQS) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP) | [They Only Love You When You're Dead](https://open.spotify.com/album/5g364f47vu4CAoY5dRrNbx) | 2:42 | 2022-10-07 |  |
 | [Thin Thing](https://open.spotify.com/track/3DN8g2KmPKwvlyAWCM9mH7) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Thin Thing](https://open.spotify.com/album/7A7EYZELB9Ayjwrp6aWVn2) | 4:30 | 2022-05-13 | 2022-06-18 |
-| [Things You Make Me Do](https://open.spotify.com/track/5yRkLnZ3rcvnJUyE2MJie2) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Things You Make Me Do](https://open.spotify.com/album/6R7lEkunZZDznrlqQcxDxh) | 3:05 | 2022-09-30 |  |
+| [Things You Make Me Do](https://open.spotify.com/track/5WcN883THJww4LpyKN4hJK) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder \(Deluxe\)](https://open.spotify.com/album/3GsklSgrjsGXpon2kSFT5J) | 3:05 | 2022-11-04 |  |
+| [Things You Make Me Do](https://open.spotify.com/track/5yRkLnZ3rcvnJUyE2MJie2) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Things You Make Me Do](https://open.spotify.com/album/6R7lEkunZZDznrlqQcxDxh) | 3:05 | 2022-09-30 | 2022-11-07 |
 | [Think Big](https://open.spotify.com/track/4lX4jH7rruAPMuOwdSOaH9) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Think Big](https://open.spotify.com/album/5g1cXHCYzolOF8JiKd5C5v) | 3:27 | 2022-03-23 | 2022-05-28 |
 | [this might be our last december](https://open.spotify.com/track/0vKSOTSPy2SgcChNoBR77c) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [just in case the world ends](https://open.spotify.com/album/3X1H1Xq8rAcMQUE27sSSzi) | 3:26 | 2022-05-06 | 2022-06-25 |
 | [Three Chords](https://open.spotify.com/track/2jgTCZyFY6ZqhyIcSwpuWk) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Three Chords](https://open.spotify.com/album/4ksvsvLoQ7DwjMwDS3Uyvt) | 3:47 | 2021-11-19 | 2022-02-19 |

@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: First Aid Kit
 
-853 songs - 2 day 4 hr 30 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+854 songs - 2 day 4 hr 35 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,8 @@
 | [Mother](https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Mother](https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2) | 3:13 | 2022-10-28 |  |
 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-08-26 |  |
 | [mud](https://open.spotify.com/track/0OMwFyor1IPZonwGIoor3H) | [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4), [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [mud](https://open.spotify.com/album/1CfVw2N6usb51VKkjnSNsq) | 0:29 | 2022-03-25 | 2022-07-02 |
-| [My Argentina](https://open.spotify.com/track/5CYkymD2AqbSFGG2KQr88n) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [My Argentina](https://open.spotify.com/album/3riMHTE10EiZmMqW9ZfO28) | 5:01 | 2022-11-04 |  |
+| [My Argentina](https://open.spotify.com/track/5CYkymD2AqbSFGG2KQr88n) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [My Argentina](https://open.spotify.com/album/3riMHTE10EiZmMqW9ZfO28) | 5:01 | 2022-11-04 | 2022-11-07 |
+| [My Argentina](https://open.spotify.com/track/5thEuYF5DJK0KPk3eFUVXe) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 5:01 | 2022-11-04 |  |
 | [My Boy](https://open.spotify.com/track/4vQsC1A1LNqKenyh6UyoTN) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/1RS0vQwtq4DpNqb4eYALfP) | 2:43 | 2022-05-06 | 2022-07-16 |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2021-11-19 | 2022-02-26 |
 | [My Everything](https://open.spotify.com/track/3R7HVKI87LEglZelj5qLxI) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [My Everything](https://open.spotify.com/album/5FTKbBum46H9nCNmqzQzGE) | 3:14 | 2022-05-20 | 2022-07-09 |

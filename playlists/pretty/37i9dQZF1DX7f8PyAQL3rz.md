@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > sereia chegou
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,553 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 969,049 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 45 | [Tiffany](https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS) | 2:32 |
 | 46 | [Swing de Morro](https://open.spotify.com/track/0Bl8lSsNsJ6fx2cAqJ0vVC) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Coração Terra de Ninguém](https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy) | 5:13 |
 | 47 | [Festa de Maloka](https://open.spotify.com/track/6rVjToYxm3G5DkGCEOJg7S) | [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Kelvinho](https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615) | [Festa de Maloka](https://open.spotify.com/album/5EGaixCHsFcUoJY3rWWY9n) | 6:16 |
-| 48 | [M4ndr4k4](https://open.spotify.com/track/0dwr8PSsYkf0PaLbYIzRj4) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [M4ndr4k4](https://open.spotify.com/album/7EAkSlUVCawHN3DxDxjNeR) | 2:30 |
-| 49 | [Travessia \- Spotify Singles](https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Travessia \- Spotify Singles](https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL) | 3:25 |
+| 48 | [Travessia \- Spotify Singles](https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Travessia \- Spotify Singles](https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL) | 3:25 |
+| 49 | [M4ndr4k4](https://open.spotify.com/track/0dwr8PSsYkf0PaLbYIzRj4) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [M4ndr4k4](https://open.spotify.com/album/7EAkSlUVCawHN3DxDxjNeR) | 2:30 |
 | 50 | [Se Liga](https://open.spotify.com/track/5ETcXyXWTr9HlRIqpxKdxq) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Lágrimas do Tubarão "Contos e Fatos"](https://open.spotify.com/album/4s1ThdjkZTWKLX38Q41D5Z) | 5:10 |
 
-Snapshot ID: `MTY2NjkyNjE4MCwwMDAwMDAwMGNlZjg1MjM2OTFhYjAwN2M0Njc3YTAxYWQ4MWU5OTM1`
+Snapshot ID: `MTY2NjkyNjE4MCwwMDAwMDAwMGUzNmY1YTMzMTcwNzMzMzU3NzNkNDJhNzU5ZjExNGYz`

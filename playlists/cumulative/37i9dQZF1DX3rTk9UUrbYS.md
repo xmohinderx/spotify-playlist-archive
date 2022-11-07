@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-104 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/0VDNYH3pzGkgUvS5GusBo1)
+105 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/0VDNYH3pzGkgUvS5GusBo1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Prometheus](https://open.spotify.com/track/6McPJR3272275IfZti9RuC) | [Dejan Terzic](https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065), [Axiom](https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS), [Chris Speed](https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k), [Bojan Zulfikarpašić](https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD) | [Prometheus](https://open.spotify.com/album/5hDTAZ18Nidb0ZFV0Cyjhw) | 5:34 | 2020-08-25 |  |
 | [Puzzle](https://open.spotify.com/track/6AfsQO3JDAW1Gc8se9lJ4N) | [Abbey Rader](https://open.spotify.com/artist/0qOItf2jhJgVM1Dzbd2t0Q), [John Mcminn](https://open.spotify.com/artist/2iTriZI6FAZpS5qY53JCcE) | [Phenobarbital Sessions](https://open.spotify.com/album/1Tv3Q5NVv0wLntosUmUffA) | 5:53 | 2020-08-25 | 2022-07-29 |
 | [Quirks](https://open.spotify.com/track/1s6nin660S2ETTGJSGEnA6) | [Ideal Bread](https://open.spotify.com/artist/1H2L6E9sQ38VlIxstIGBW4) | [The Ideal Bread](https://open.spotify.com/album/6Th3T8v8Le7OHX9pKkqnce) | 6:41 | 2020-08-25 | 2022-07-29 |
+| [Ra Comm 43](https://open.spotify.com/track/0jnNk2OwmJzUlMf05xYmCu) | [Jairus Sharif](https://open.spotify.com/artist/4YdyabAhjPkZEJ77ML7q4x) | [Water & Tools](https://open.spotify.com/album/45SgGNuaRkSXVbkgyqTB0K) | 4:52 | 2022-10-21 |  |
 | [Refuge \- Rudy Van Gelder Edition/1999 Remaster](https://open.spotify.com/track/0j2XdkOJSneLHYevR6JpBP) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Point Of Departure \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS) | 12:16 | 2020-08-25 |  |
 | [Roar of the Lyons](https://open.spotify.com/track/3fvQYVKm4PFxOtHGVCfWOb) | [Piano Duo Trio](https://open.spotify.com/artist/6o3hf6noFqTFUyboaJOD7Y) | [The Art of It](https://open.spotify.com/album/06z73O9eHCki1W0obK08yA) | 16:09 | 2022-04-29 | 2022-09-11 |
 | [Round Trip](https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [New York Is Now](https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy) | 6:18 | 2020-08-25 |  |
@@ -103,7 +104,7 @@
 | [The Unidentifiable](https://open.spotify.com/track/6dO9SCydkLhqwSz2ayKiEH) | [Matthew Shipp Trio](https://open.spotify.com/artist/1TgqnAbUXzmLHEW0YFbROK) | [The Unidentifiable](https://open.spotify.com/album/1AM7DvvpZtwnfl7qZ1gwM0) | 7:10 | 2020-09-18 | 2022-07-29 |
 | [Third Planet](https://open.spotify.com/track/1P8fo6JhHVnAsoVI8JHjz2) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX), [Sun Ra & His Arkestra](https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw) | [Horizon](https://open.spotify.com/album/5qsSGj5K652dW4Pd1UQbgB) | 4:55 | 2020-11-14 | 2022-07-29 |
 | [Third Planet](https://open.spotify.com/track/1vgyXQyuvQHXWfQwprXBKc) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX), [Sun Ra & His Arkestra](https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw) | [Horizon](https://open.spotify.com/album/050YbB6NQItIjmOwthAdzN) | 4:55 | 2020-11-14 |  |
-| [Twombly at New Church](https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5) | [Rob Mazurek](https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs) | [Rome](https://open.spotify.com/album/6C3eLGlifDvM09GaJBu5tl) | 9:23 | 2020-08-25 |  |
+| [Twombly at New Church](https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5) | [Rob Mazurek](https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs) | [Rome](https://open.spotify.com/album/6C3eLGlifDvM09GaJBu5tl) | 9:23 | 2020-08-25 | 2022-11-07 |
 | [Waitin](https://open.spotify.com/track/0GKkrixGZCTZyMSZPQcBiQ) | [Gerry Hemingway Quartet](https://open.spotify.com/artist/1oD7M1SYTOaUsRAsxtPbZr), [Ellery Eskelin](https://open.spotify.com/artist/79CKjkgIoXOZB6Hwzg5vrz), [Gerry Hemingway](https://open.spotify.com/artist/3HXQYmafC5U58QeKtwdW1D), [Herb Robertson](https://open.spotify.com/artist/6GIuatS579tQok4b5wam14), [Mark Helias](https://open.spotify.com/artist/477gMnSsaTHsAIDlidg1Ra) | [The Whimbler](https://open.spotify.com/album/04Fd6i9nbEEPsyFSepMEN9) | 7:57 | 2020-08-25 | 2022-07-29 |
 | [Water Babies](https://open.spotify.com/track/097f4XZHrS0oMDBIm1DQpC) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [The Best Of Wayne Shorter](https://open.spotify.com/album/4jo7Y2Gk6RGH8CFUXKdMqi) | 4:52 | 2020-08-25 | 2022-07-27 |
 | [Way Beyond Cave](https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ) | [Albert Mangelsdorff](https://open.spotify.com/artist/6smduqXQTpYLxA6MKAJ7pw) | [Albert Mangelsdorff and His Friends](https://open.spotify.com/album/4RJhjS7m0WZqlXBss7dz8k) | 5:47 | 2020-08-25 | 2022-11-01 |

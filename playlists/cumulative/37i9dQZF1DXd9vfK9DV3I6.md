@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-217 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
+218 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Lalla Aicha \- Main Mix](https://open.spotify.com/track/184Z5prwuALXJ0j1SOk2jQ) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Habib Belk](https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc) | [Lalla Aicha Incl\. Remixes](https://open.spotify.com/album/2Y9aitVubUkzeF1ok6wRXp) | 5:38 | 2020-10-18\* |  |
 | [lamma bada yatathana](https://open.spotify.com/track/4Pz9TcBWMjH13vMbHItS0v) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Mia\-Maria](https://open.spotify.com/artist/3kzWp3weeysIkcanxwo43n) | [lamma bada yatathana](https://open.spotify.com/album/276Hm5lY9sd4Rf4hWnjfpU) | 7:01 | 2022-02-28 |  |
 | [Lamouni](https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Lamouni](https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ) | 3:37 | 2021-09-19 |  |
+| [Lane Moje \- Radio Edit](https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn) | [Lane Moje](https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE) | 2:59 | 2022-10-27 |  |
 | [Lane Moje \- Radio Edit](https://open.spotify.com/track/4At2bL7YpuWUQrRKZ6J1aO) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [Dj Iljano](https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd) | [Lane Moje](https://open.spotify.com/album/64OH2dv82ka6VT4PBH48S9) | 2:59 | 2020-10-24 | 2022-10-29 |
 | [Larg](https://open.spotify.com/track/66GUwtlP1t61yBOMwhBaAb) | [Elgit Doda](https://open.spotify.com/artist/4hRijRWd1vh3JX68IyZpfH) | [Larg](https://open.spotify.com/album/5ZuAQTHJWcgnUhk4YCK6RF) | 3:12 | 2021-04-26 |  |
 | [Le Beirut](https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS), [Samia](https://open.spotify.com/artist/4rcc50B4lBpvHrylYxv62s) | [Le Beirut](https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX) | 7:11 | 2020-11-06 |  |
@@ -162,7 +163,7 @@
 | [Orient Express](https://open.spotify.com/track/7tYOJVJoptDjtBvE1fHwfU) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Orient Express](https://open.spotify.com/album/75atJZdj78b77e6u29N10h) | 4:20 | 2022-10-15 |  |
 | [Origin](https://open.spotify.com/track/1519QNTFdjIgk7YWYOw59y) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Origin](https://open.spotify.com/album/6hnpvDAwZAokcIjPRli0wE) | 3:54 | 2022-02-24 |  |
 | [Ormila](https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91) | [Majed Zane](https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR), [Sam Abdullah](https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq) | [Ormila](https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX) | 4:58 | 2022-02-12 |  |
-| [OUD](https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [OUD](https://open.spotify.com/album/2DWVPYDAb0Zyxdh6ge6wWo) | 7:15 | 2020-11-19 |  |
+| [OUD](https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [OUD](https://open.spotify.com/album/2DWVPYDAb0Zyxdh6ge6wWo) | 7:15 | 2020-11-19 | 2022-11-07 |
 | [Oud Imperial](https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF) | [Michael Simon](https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj) | [Oud Imperial](https://open.spotify.com/album/7khYH0dkJQYr557uLisMal) | 8:36 | 2021-01-21 |  |
 | [Oud Love](https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO) | [Camil Kanouni](https://open.spotify.com/artist/2VeXGGayrfgFEFhI9EWqWC) | [O.M.M.A](https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe) | 3:41 | 2020-10-18\* |  |
 | [Oud Trip](https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ), [DJ A Ego](https://open.spotify.com/artist/6sgGeuWDu3L5HGx3IqHMo9) | [Oud Trip](https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF) | 4:32 | 2020-10-18\* |  |

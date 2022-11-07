@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Randy Rogers Band
 
-385 songs - 23 hr 0 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
+386 songs - 23 hr 3 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [All We Are Is Memories](https://open.spotify.com/track/5v2UMwQWKZOIBD4d7CFN5a) | [Houston Bernard](https://open.spotify.com/artist/47sMYU4wkPXThnOUOSqbXl) | [All We Are Is Memories](https://open.spotify.com/album/5Hz5PIPFSlJdTr9HJXmbGc) | 4:00 | 2021-12-17 | 2022-03-19 |
 | [All You Got](https://open.spotify.com/track/5e0QbyoJLhQUVtwmVqUqkI) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [All You Got](https://open.spotify.com/album/6t9hCUzNZ79wpGmXv4NAZg) | 3:13 | 2022-01-28 | 2022-07-29 |
 | [Alone In Your Mind](https://open.spotify.com/track/3q3hYhGxZNfPav2qgPewP7) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Alone In Your Mind](https://open.spotify.com/album/5HgZ4NjsrD5Yfr51CaElbn) | 4:52 | 2021-12-17 | 2022-07-29 |
-| [Anderson County](https://open.spotify.com/track/75VAQ0SRTBKzqzAZuIepN8) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Anderson County](https://open.spotify.com/album/7qT9Yz0XXRIQBvSHAYz8FI) | 3:07 | 2022-09-09 |  |
+| [Anderson County](https://open.spotify.com/track/13x5ByGTp5k2Eu1nFCM0cc) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [FREE](https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb) | 3:07 | 2022-11-04 |  |
+| [Anderson County](https://open.spotify.com/track/75VAQ0SRTBKzqzAZuIepN8) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Anderson County](https://open.spotify.com/album/7qT9Yz0XXRIQBvSHAYz8FI) | 3:07 | 2022-09-09 | 2022-11-07 |
 | [Another You](https://open.spotify.com/track/3OKan3IZFHAYCPd0DlsD96) | [Drew Fish Band](https://open.spotify.com/artist/0zYSaMFTNzN0Y8a8Zv5oD5) | [Another You](https://open.spotify.com/album/0dcheBteHIIiY9n6DBjTSI) | 4:27 | 2022-03-18 | 2022-07-29 |
 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 | 2021-12-17 | 2022-05-28 |
 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 | 2022-03-25 | 2022-10-29 |

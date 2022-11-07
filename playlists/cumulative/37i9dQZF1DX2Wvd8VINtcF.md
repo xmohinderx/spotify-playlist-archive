@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-116 songs - 6 hr 36 min - not published yet
+117 songs - 6 hr 40 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 | 2022-11-03 |  |
 | [No Ice](https://open.spotify.com/track/16O9e6M9Hfh0QeShTkw03e) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [No Ice](https://open.spotify.com/album/5qpXecFCLaykAZScf00XAh) | 3:08 | 2022-11-03 |  |
 | [No pasa nada](https://open.spotify.com/track/0oVWbi1hUJqpRCWF8ybG6g) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [No pasa nada](https://open.spotify.com/album/3RN6AfV0tx32GLLPxT4MVP) | 4:24 | 2022-11-03 |  |
-| [Nobody](https://open.spotify.com/track/6VxAoD31HVp9iOAlAjYwX6) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Nobody](https://open.spotify.com/album/0xpiM6xIxvVejWrdAGRp5o) | 3:48 | 2022-10-28 |  |
+| [Nobody](https://open.spotify.com/track/19SDHacvs49xXppoYt0Jog) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:48 | 2022-11-03 |  |
+| [Nobody](https://open.spotify.com/track/6VxAoD31HVp9iOAlAjYwX6) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Nobody](https://open.spotify.com/album/0xpiM6xIxvVejWrdAGRp5o) | 3:48 | 2022-10-28 | 2022-11-07 |
 | [Noodle Poodle \- Gemini Aaliyah Remix](https://open.spotify.com/track/4n8s8xGutaB1oDKQMdOO0v) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG), [Gemini Aaliyah](https://open.spotify.com/artist/22HH0b5ZPy0TwAbwUDhOfX) | [Noodle Poodle \(Gemini Aaliyah Remix\)](https://open.spotify.com/album/7IPVkFpXhPxqNfh1v9CT3E) | 3:17 | 2022-10-28 |  |
 | [Not There](https://open.spotify.com/track/7jzGqazzQJhp59zieSCwiG) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/32hsVbXUm5VbbWo9Qfs0An) | 3:22 | 2022-11-03 |  |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-28 |  |

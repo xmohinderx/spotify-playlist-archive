@@ -1,12 +1,12 @@
 {
   "description": "Some of the most beautiful French love songs. ",
-  "num_followers": 54779,
+  "num_followers": 54825,
   "original_name": "Je t'aime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDE1OTkxNDA3YmE3YTY4OWQ3MzNkYzQ4ZDJlMWViZTE3",
+  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDQwMmE3NGU3YjE5YzYxZDFlNTU1YmQzOTEzZGEyMjNk",
   "tracks": [
     {
       "added_at": "2022-01-18 23:00:02",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Le fantastique des astres",
-        "url": "https://open.spotify.com/album/4KqXulviLMNPbpvWbaKBOj"
-      },
-      "artists": [
-        {
-          "name": "Yann Perreau",
-          "url": "https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V"
-        }
-      ],
-      "duration_ms": 232377,
-      "name": "T'embellis ma vie",
-      "url": "https://open.spotify.com/track/6Ej9I1OaT13pHqHqjSn84i"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "Tu m'aimes-tu",
         "url": "https://open.spotify.com/album/3FsxgvoKpBzi9jgySKoF8f"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 289285,
       "name": "Tu m'aimes-tu",
       "url": "https://open.spotify.com/track/57perXY58eWG2ImKYyxyLJ"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Le fantastique des astres",
+        "url": "https://open.spotify.com/album/4KqXulviLMNPbpvWbaKBOj"
+      },
+      "artists": [
+        {
+          "name": "Yann Perreau",
+          "url": "https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V"
+        }
+      ],
+      "duration_ms": 232377,
+      "name": "T'embellis ma vie",
+      "url": "https://open.spotify.com/track/6Ej9I1OaT13pHqHqjSn84i"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Martha Wainwright (Special Edition)",
-        "url": "https://open.spotify.com/album/1j0yfKMVwRcOnIw0pXn9eh"
-      },
-      "artists": [
-        {
-          "name": "Martha Wainwright",
-          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Dis, Quand Reviendras-Tu?",
-      "url": "https://open.spotify.com/track/2GjULEQ7hmy05tOrUBcUQv"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "One Heart",
         "url": "https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 204440,
       "name": "Et je t'aime encore - English version",
       "url": "https://open.spotify.com/track/2Fp37ixPar6VZYhFhGaKg5"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Martha Wainwright (Special Edition)",
+        "url": "https://open.spotify.com/album/1j0yfKMVwRcOnIw0pXn9eh"
+      },
+      "artists": [
+        {
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Dis, Quand Reviendras-Tu?",
+      "url": "https://open.spotify.com/track/2GjULEQ7hmy05tOrUBcUQv"
     },
     {
       "added_at": "2021-01-30 03:13:15",

@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-4,194 songs - 6 day 15 hr 48 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+4,195 songs - 6 day 15 hr 49 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3021,7 +3021,8 @@
 | [Revolution](https://open.spotify.com/track/3E4dTWnLMaPDLSNj18hscR) | [ToMC Beatz](https://open.spotify.com/artist/6TF2oQqLYnYhqJdwQqE0im) | [Revolution](https://open.spotify.com/album/3WLwWHT4kiT8MB7Y9Vbfa1) | 3:31 | 2020-01-20 | 2021-08-22 |
 | [Revue](https://open.spotify.com/track/0zBAwsXFKs4lXZtZbY4reT) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv), [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Revue](https://open.spotify.com/album/7mROifGiZkvyelizTYLBUX) | 2:31 | 2022-01-14 | 2022-07-08 |
 | [Ribeira](https://open.spotify.com/track/2UVlhfJt8pv7mDcBzpVwbW) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Ribeira](https://open.spotify.com/album/2b5WX2ZzIIf7BOLVIFuuja) | 2:42 | 2022-10-28 |  |
-| [Rich Soul](https://open.spotify.com/track/2mEmxDyZMwUezHwSLHKJjB) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Rich Soul](https://open.spotify.com/album/00GK6byoprJKFtOrqYVLZf) | 1:07 | 2022-10-07 |  |
+| [Rich Soul](https://open.spotify.com/track/2mEmxDyZMwUezHwSLHKJjB) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Rich Soul](https://open.spotify.com/album/00GK6byoprJKFtOrqYVLZf) | 1:07 | 2022-10-07 | 2022-11-07 |
+| [Rich Soul](https://open.spotify.com/track/5j9DKjQjAUt55yKCTfkZxZ) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Rich Soul](https://open.spotify.com/album/05ZdLcdabRX0nmXalFrMxY) | 1:07 | 2022-10-28 |  |
 | [Rick and Morty Theme](https://open.spotify.com/track/10Y5kRDL2zG0QMkkKL20ZS) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Orange Stick](https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Rick and Morty Theme](https://open.spotify.com/album/1BLb4nImPgQVgOzDoJ8roE) | 1:50 | 2020-08-30 | 2021-01-11 |
 | [Ride With Me](https://open.spotify.com/track/77FTd4n7BA5IfSgihYGwou) | [Ublom](https://open.spotify.com/artist/1ZU8MfUtB2qGwN8DDnl7cQ), [Ash Blossom](https://open.spotify.com/artist/7buviqksQdfZQ9nx84wapJ) | [Ride With Me](https://open.spotify.com/album/2Jexw8kIWOyIgVzRzsJh3l) | 2:20 | 2022-06-10 | 2022-09-30 |
 | [rideon](https://open.spotify.com/track/30nQLDjbXKJL52DZUqjEKD) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [rideon](https://open.spotify.com/album/18MND2KM0MzMk9DRTiRqnM) | 2:29 | 2021-10-20 | 2022-04-24 |

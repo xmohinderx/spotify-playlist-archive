@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,493 likes - 113 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,511 likes - 113 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 36 | [Heather \- Acoustic](https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Heather](https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6) | 3:18 |
 | 37 | [Big Yellow Taxi \(Acoustic\)](https://open.spotify.com/track/4Q8tqm45ywADimlsmdWhf7) | [Nora & Will](https://open.spotify.com/artist/7cvGxq0fxExeN11zWh59OL) | [Big Yellow Taxi \(Acoustic\)](https://open.spotify.com/album/4EEcgGddPSiUJsqLmceGQQ) | 3:11 |
 | 38 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
-| 39 | [Annie’s Song](https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Annie's Song](https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o) | 2:55 |
+| 39 | [Annie’s Song](https://open.spotify.com/track/2GAK2qFjh7mOCE24RiGi7i) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Covers, Vol\. 1](https://open.spotify.com/album/0e1s7jQdJ0VsdzSnMXAPX9) | 2:55 |
 | 40 | [Dust in the Wind](https://open.spotify.com/track/61xloqK2WobSa8A9HhxR1T) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Dust in the Wind](https://open.spotify.com/album/58D2WGUEH9zfhjOBfwBy39) | 3:15 |
 | 41 | [One](https://open.spotify.com/track/1hoSHBbsZBNvv051EjQP5D) | [Castle Theater](https://open.spotify.com/artist/66DA1SaRhtBFQo4dQ8eF3e) | [One](https://open.spotify.com/album/0bSKEEtgOoaruEJ6NKvkCk) | 3:03 |
 | 42 | [I Want You Back \- Acoustic Version](https://open.spotify.com/track/5x6IkHDE01Nk0wYPjE3jg4) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Boys](https://open.spotify.com/album/17Pu6cgYlZuRulzKXeGt7S) | 2:48 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 112 | [Hallelujah](https://open.spotify.com/track/6AV1zIEKthWkvTQ2pWHydH) | [Thao & Mirah](https://open.spotify.com/artist/3cRmvX2dbq6zPFDCrogUlF), [Thao](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG), [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [Thao & Mirah](https://open.spotify.com/album/73gHZI1HuZBKRARYwCqqLC) | 4:08 |
 | 113 | [Don't Start Now](https://open.spotify.com/track/3HHzqOZpEHA7jc1zSaaGPJ) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [Don't Start Now](https://open.spotify.com/album/0lg04Mk7Y1oTsG1UaOD5Wj) | 3:31 |
 
-Snapshot ID: `MTY2MTc4NzQ2OCwwMDAwMDAwMDM3YzJjMjYyNGI4YjU0Yzc3OWUzYTA4NWI2ODNmNmRj`
+Snapshot ID: `MTY2MTc4NzQ2OCwwMDAwMDAwMGY0ZjljODZiMTJhMDcyOGU4OGE0YzE2NzFhNWZhNzUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: nothing,nowhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,553 likes - 125 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,655 likes - 125 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 65 | [Not Afraid](https://open.spotify.com/track/1f8ZnfsP7Q4yazdcfEN2XK) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Not Afraid](https://open.spotify.com/album/6x3eMbLCQXQQmYraRYTGaL) | 3:14 |
 | 66 | [Place Your Debts](https://open.spotify.com/track/29f4cPjqBi9n5lS8XQlKa3) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Place Your Debts](https://open.spotify.com/album/3I3kMVNvm0kT9RZGjeyNDl) | 5:10 |
 | 67 | [just you](https://open.spotify.com/track/0MO0SkmuADx47LbCiBwn3Y) | [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [just you](https://open.spotify.com/album/5wAInLjKAOcjUSpweZkuNE) | 3:31 |
-| 68 | [Things You Make Me Do](https://open.spotify.com/track/5yRkLnZ3rcvnJUyE2MJie2) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Things You Make Me Do](https://open.spotify.com/album/6R7lEkunZZDznrlqQcxDxh) | 3:05 |
+| 68 | [Things You Make Me Do](https://open.spotify.com/track/5WcN883THJww4LpyKN4hJK) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder \(Deluxe\)](https://open.spotify.com/album/3GsklSgrjsGXpon2kSFT5J) | 3:05 |
 | 69 | [Wasted on You](https://open.spotify.com/track/1ooipOkryJnMA85CNpZzUV) | [Homes at Night](https://open.spotify.com/artist/4KxAWQwGcTuJrLwamRGDaS) | [Wasted on You](https://open.spotify.com/album/7hi4Xy19HUpJ0xBBJlSMuR) | 3:20 |
 | 70 | [Overrated](https://open.spotify.com/track/2G4wx9rJZ5bkfR4cof9lZz) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Who Are You Now, Who Were You Then?](https://open.spotify.com/album/7t6WeUtPzEPJXjL0e7fp82) | 2:59 |
 | 71 | [Sentimental](https://open.spotify.com/track/4YCKwRXNXRXJMzRL1sg4kl) | [Magic Whatever](https://open.spotify.com/artist/1m02BQX2BPiqVzbaxBueXT), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Sentimental](https://open.spotify.com/album/5s3WFcfo9lPlrHMdVUH26F) | 2:27 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Same](https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Same](https://open.spotify.com/album/5xnwqBkujlYam87TmsD6qe) | 3:15 |
 | 125 | [Who's Laughing Now](https://open.spotify.com/track/2upp8DCqGyzL4UquAoy9Uf) | [DURRY](https://open.spotify.com/artist/6zpptMjiapn5PB0Y5k3xWN) | [Who's Laughing Now](https://open.spotify.com/album/7fpazXDPdgixjbdsfBzJ8u) | 3:52 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDJiYTFmYmYzNTU4YThlNDA2NWNmNDY1MTAzY2ZlZDBi`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGU4NDFjMzM1ZTA1Mjk1NmQxOWIxOGJjNTI5YWE5MGZh`

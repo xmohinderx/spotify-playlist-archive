@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 120922,
+  "num_followers": 120934,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMGU4NmE5Yzk5Yzc4MmNiZjBlYjNhNjI3NTVkMzEyYTA0",
+  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMDI0ZjFmOGIyYzAzZmVjYWVlOGVmOWY5ZWVjMGIyMmNh",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -471,26 +471,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Maelstrom",
-        "url": "https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI"
-      },
-      "artists": [
-        {
-          "name": "Fortu & Mendoza",
-          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
-        },
-        {
-          "name": "Catatonique",
-          "url": "https://open.spotify.com/artist/2MYL2t7eQ5DTL4HBQ7dL9q"
-        }
-      ],
-      "duration_ms": 342017,
-      "name": "Maelstrom",
-      "url": "https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Illusions of Shameless Abundance",
         "url": "https://open.spotify.com/album/5P1yIYyaRLTcdo3TPRzT5H"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 546693,
       "name": "Alucinao",
       "url": "https://open.spotify.com/track/37cNWcjPG6hXI94CsZOHje"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Maelstrom",
+        "url": "https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI"
+      },
+      "artists": [
+        {
+          "name": "Fortu & Mendoza",
+          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
+        },
+        {
+          "name": "Catatonique",
+          "url": "https://open.spotify.com/artist/2MYL2t7eQ5DTL4HBQ7dL9q"
+        }
+      ],
+      "duration_ms": 342017,
+      "name": "Maelstrom",
+      "url": "https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Give It To The Music",
-        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 294250,
-      "name": "Give It To The Music",
-      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Esta Noche",
         "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 234468,
       "name": "Coraz\u00f3n Lleno de Mil Inviernos",
       "url": "https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Give It To The Music",
+        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Give It To The Music",
+      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
     },
     {
       "added_at": "2022-08-18 23:29:09",

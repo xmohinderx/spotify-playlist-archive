@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Phoenix
 
-769 songs - 1 day 21 hr 19 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+770 songs - 1 day 21 hr 24 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,8 @@
 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 | 2022-07-01 | 2022-09-24 |
 | [Ideas of Space](https://open.spotify.com/track/35R4SlaNgOYGZ33J1ETEVz) | [Tess Roby](https://open.spotify.com/artist/6LRMOu9O4czC6WcNZWIpOh) | [Ideas of Space](https://open.spotify.com/album/5pN0iaal1Ob9KcIY9h5H4K) | 3:40 | 2022-02-11 | 2022-02-26 |
 | [If I Don’t Hear From You Tonight](https://open.spotify.com/track/661gsg4lHFXpeOGA6SUHNu) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [If I Don't Hear From You Tonight](https://open.spotify.com/album/2hgcgaZZ4dEZfIdq6X02pa) | 3:37 | 2021-12-31 | 2022-01-29 |
-| [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn) | 5:11 | 2022-09-16 |  |
+| [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 5:11 | 2022-11-04 |  |
+| [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn) | 5:11 | 2022-09-16 | 2022-11-07 |
 | [IF THERE’S NO SEAT IN THE SKY \(WILL YOU FORGIVE ME???\)](https://open.spotify.com/track/4a3Uc0VzhyittIPDoVVzNv) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [IF THERE’S NO SEAT IN THE SKY \(WILL YOU FORGIVE ME???\)](https://open.spotify.com/album/6JkGbrmwNwHGaxae377iFv) | 3:26 | 2022-03-18 | 2022-04-16 |
 | [If We Get Caught](https://open.spotify.com/track/3Gq6s5E6RKnQ4YVluGKd6u) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [If We Get Caught](https://open.spotify.com/album/1oaHw2W2H645sOxpsTWYuY) | 3:14 | 2022-03-25 | 2022-04-09 |
 | [If You Were Me](https://open.spotify.com/track/2MCwBbYNrpT0RTDIrOPHoE) | [Deanna Petcoff](https://open.spotify.com/artist/40wJiyTgK3egckAlDOp1ea) | [If You Were Me](https://open.spotify.com/album/7MmxPEfTJp1ZiHkbjVcLCR) | 3:45 | 2022-03-18 | 2022-04-09 |

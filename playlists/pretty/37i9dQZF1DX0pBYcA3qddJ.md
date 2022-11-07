@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,999 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,020 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 19 | [コルドバの午後](https://open.spotify.com/track/6BRJqVR4Ss91JApYNKYtUo) | [Mine Kawakami](https://open.spotify.com/artist/27AI6gU3hQimMQ2ywqFiGb) | [Nostalghia\~Kiyomizu\~](https://open.spotify.com/album/6kmGx5WxG7VQugcjdozNVL) | 4:18 |
 | 20 | [On the Nature of Daylight](https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:11 |
 | 21 | [夜想曲 第20番 嬰ハ短調「レント・コン・グラン・エスプレッシオーネ」\(遺作\)](https://open.spotify.com/track/1CDk88Mxf5tsjky4H8zzeR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hisako Kawamura](https://open.spotify.com/artist/49AcsFEdqWxwuQnTKA2pbq) | [夜想\(ノットゥルノ\)\~ショパンの世界](https://open.spotify.com/album/7BXkqS0HYTo1Oc9JwJlHrh) | 4:50 |
-| 22 | [Temple White](https://open.spotify.com/track/7elLKWtTEMCbOmYZ37ci9r) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 4:24 |
+| 22 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 |
 | 23 | [スカボロー・フェア](https://open.spotify.com/track/4arOaA68Hn65jpwWd5iQcu) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [角田隆太](https://open.spotify.com/artist/4dkZxyYDjevC6xNGRmrUyQ), [広田智之](https://open.spotify.com/artist/4GH4AR07jWn8wTGEvBkFxs), [Yasuji Ohagi](https://open.spotify.com/artist/1VMxb6VCRfw7GNnlIGRlnN) | [ケルト・スピリッツ](https://open.spotify.com/album/7cnkTkfziyo6NKtwHvs9OL) | 3:29 |
-| 24 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 |
+| 24 | [Temple White](https://open.spotify.com/track/7elLKWtTEMCbOmYZ37ci9r) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 4:24 |
 | 25 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
 | 26 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 |
 | 27 | [Voyage](https://open.spotify.com/track/6ayNdgQ7ISIGQW6TBelkKl) | [Ichiro Takamoto](https://open.spotify.com/artist/0e6KRrsS9hkrOFoj5fFvFa) | [シャコンヌ・オリエンターレ2](https://open.spotify.com/album/4nuVKjPj8d7HqX8VhOgJsh) | 5:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [Ise sonorite](https://open.spotify.com/track/4i9aNdBvZgUdZoWXvI8zth) | [齊藤桃子](https://open.spotify.com/artist/38rBUCUOs3mjE227Zh9znJ) | [Oto No Eiga](https://open.spotify.com/album/2VOWJSvAakSiq0fHX19rjF) | 6:55 |
 | 100 | [Ryukyu Kingdom](https://open.spotify.com/track/5UASeA7CGNFsNFMxJRKtf1) | [Akeboshi](https://open.spotify.com/artist/7whUoQAv5bVu2Cv4ZmgTyw) | [Day after day Original Soundtrack](https://open.spotify.com/album/0E3o3TQ2mHlm25Z2T8agJS) | 1:49 |
 
-Snapshot ID: `MTY2NzQ4NzYwMCwwMDAwMDAwMGNhZDE3MzMxYTM5MTg2Nzc1MjhjZGU2NzZmZTFjYzBk`
+Snapshot ID: `MTY2NzQ4NzYwMCwwMDAwMDAwMDEzMmY5OTIwMjRmNWZhNTA0MzQyZTJhZDQ1NzE1NzU1`

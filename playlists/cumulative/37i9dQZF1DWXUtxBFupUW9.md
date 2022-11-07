@@ -4,7 +4,7 @@
 
 > Exercise together with uplifting soul music.
 
-130 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
+131 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 | 2021-12-20 |  |
 | [Machine Gun](https://open.spotify.com/track/3mQTPYezPCB9uUM3WpkIff) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Machine Gun](https://open.spotify.com/album/4OghKaRV54hQKGhkpD5cLC) | 2:39 | 2022-05-12 |  |
 | [Machine Gun](https://open.spotify.com/track/6LU9Z9Sif4Lpu1B4PAwCuj) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Machine Gun](https://open.spotify.com/album/5ZH8WLX5Ta8zkTSiWQIpMx) | 2:39 | 2021-12-20 | 2022-07-28 |
-| [Mercy, Mercy](https://open.spotify.com/track/12w6nPwHLEwgdvJu3vHoRF) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [Mercy!](https://open.spotify.com/album/4DohPj1X1iG6UAyxrk4WNe) | 2:26 | 2022-08-12 |  |
+| [Mercy, Mercy](https://open.spotify.com/track/12w6nPwHLEwgdvJu3vHoRF) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [Mercy!](https://open.spotify.com/album/4DohPj1X1iG6UAyxrk4WNe) | 2:26 | 2022-08-12 | 2022-11-07 |
 | [Mercy, Mercy](https://open.spotify.com/track/6DrsaEo5LwVWywbmwNG3rI) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [See Saw](https://open.spotify.com/album/1LASXwYqGdkotrw6Gh83aX) | 2:26 | 2022-03-24 | 2022-04-17 |
 | [Mixed\-Up, Shook\-Up Girl](https://open.spotify.com/track/1pVFchEqnrpIEtuGrB4srT) | [Patty & The Emblems](https://open.spotify.com/artist/3YNciz35JttEP3tpD392Up) | [Mixed\-Up, Shook\-Up Girl](https://open.spotify.com/album/6THmxCmxzsOf1gbZZrsyrO) | 2:06 | 2022-03-24 | 2022-04-21 |
 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [The Collection](https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi) | 2:38 | 2021-12-20 |  |
@@ -108,6 +108,7 @@
 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 | 2022-03-24 | 2022-04-20 |
 | [Sugar Dumplin'](https://open.spotify.com/track/2BOw0dWszhNSkKRHSuvqOP) | [Maxine Brown](https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV) | [Out Of Sight](https://open.spotify.com/album/6Qpdl3QaU93V5Pi6eRdcC3) | 2:25 | 2022-03-24 | 2022-04-21 |
 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2021-12-20 | 2022-09-02 |
+| [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 | 2022-08-12 |  |
 | [Take Me Girl, I'm Ready](https://open.spotify.com/track/5LHHNatzxpJ9uxFVv4z9zZ) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [The Definitive Collection](https://open.spotify.com/album/6pDK4Z6EZy39RSvD4HWhTn) | 4:00 | 2022-01-21 | 2022-07-06 |
 | [Tally Ho!](https://open.spotify.com/track/4doVTABOiGV6XEytZtV2Dv) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun \- MotownSelect.com](https://open.spotify.com/album/00w16tADWvPLCdmN9WhQuu) | 4:42 | 2022-01-21 | 2022-04-18 |
 | [Tell Me Baby](https://open.spotify.com/track/4U3NxdMXeHIGph2gjDyQqK) | [Garnet Mimms & The Enchanters](https://open.spotify.com/artist/1ktvF9yU9iWgY0aGlKfTS4) | [The Best Of Barnet Mimms: Cry Baby](https://open.spotify.com/album/0Kj6PjTGFNnh8EsFPPj3cI) | 2:44 | 2022-03-24 | 2022-04-21 |

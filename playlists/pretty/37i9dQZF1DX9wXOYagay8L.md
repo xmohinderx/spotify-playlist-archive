@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM?si=wALkXQdlR4CuEzeJPArGAA">Nobuhle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,531 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,616 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 24 | [Langa Linye](https://open.spotify.com/track/56OeFbi7h1lX31zXpLc5yh) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Zakwe](https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd), [Zamo Cofi](https://open.spotify.com/artist/3NvuFbzWW4pgjO4L7uUEPv) | [Langa Linye](https://open.spotify.com/album/5SmgVjY1nTnyK8wil50fLx) | 4:53 |
 | 25 | [Ngifuna Ukuba](https://open.spotify.com/track/1XW3hfd2u94eSgetTjjO5h) | [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60), [nolly m](https://open.spotify.com/artist/1TL9pBRVj4qKOszCfIoyVZ), [Inkosi Yamagcokama](https://open.spotify.com/artist/0TO77YI4D7Bpo9JKDW2c6M) | [Uzuka](https://open.spotify.com/album/58GJD0Zy1H4cA6FLC0RFhk) | 4:20 |
 | 26 | [Sobonana Phambili](https://open.spotify.com/track/4VhK1iNLYOpdHLyzXc9NLQ) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr), [Thembi Mona](https://open.spotify.com/artist/3Nwjw7vLX4cButAEtqIhnZ), [Zintle Kwaaiman](https://open.spotify.com/artist/2ZAbMozUyRHkoHzcQqffZK) | [Love and Light](https://open.spotify.com/album/5uZSDxYI3OqMbBY8FzR5Dt) | 6:00 |
-| 27 | [Ndiringe](https://open.spotify.com/track/6wpNNSBOFYjYO9o6h7DC7U) | [OUT OF ORDER](https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs) | [Ndiringe](https://open.spotify.com/album/7gwxQBsXWcWeRgWRgXRtkm) | 3:27 |
+| 27 | [Ndi Linde](https://open.spotify.com/track/6wpNNSBOFYjYO9o6h7DC7U) | [OUT OF ORDER](https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs) | [Ndi Linde](https://open.spotify.com/album/7gwxQBsXWcWeRgWRgXRtkm) | 3:27 |
 | 28 | [Sizobambana](https://open.spotify.com/track/5sEroXGaxA40N3HQWX6snd) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Nhlonipho](https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW) | [Journey To Infinity](https://open.spotify.com/album/2kRJW6Hq4iZdXenCfXDJ2F) | 5:31 |
 | 29 | [Dream About You](https://open.spotify.com/track/05lM7Ep8UESoe3LV5yrew5) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Dream About You](https://open.spotify.com/album/01feIntmkFDFp5WXym3hHs) | 3:20 |
 | 30 | [Badimo \(feat\. DJ Maphorisa & Boohle\)](https://open.spotify.com/track/5LRdE3vW5Pb4zPXKOHZOa1) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Badimo \(feat\. DJ Maphorisa & Boohle\)](https://open.spotify.com/album/16T88ND5mXBOVElDNieKZq) | 4:14 |

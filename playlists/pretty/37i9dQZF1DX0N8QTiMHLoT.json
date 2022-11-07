@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 114937,
+  "num_followers": 115005,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMDIzYjkwYzgxYjkyYjY4OGMyOWRhYTdmODg4YWE1Zjhj",
+  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMDJmNTUyMGMwMjE5NzA1YWVkZTFjY2Y4NWMzODVkZTYx",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -275,30 +275,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Parato",
-          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
-        },
-        {
-          "name": "Lele Melotti",
-          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
-        },
-        {
-          "name": "Luca Scarpa",
-          "url": "https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG"
-        }
-      ],
-      "duration_ms": 272300,
-      "name": "The Sniper",
-      "url": "https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Not of This World",
         "url": "https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY"
       },
@@ -311,6 +287,30 @@
       "duration_ms": 397640,
       "name": "Cosmic Underground",
       "url": "https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Ostinato Bass",
+        "url": "https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Parato",
+          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
+        },
+        {
+          "name": "Scott Henderson",
+          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
+        },
+        {
+          "name": "Lele Melotti",
+          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "Inside My Memory",
+      "url": "https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -411,30 +411,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Ostinato Bass",
-        "url": "https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Parato",
-          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
-        },
-        {
-          "name": "Scott Henderson",
-          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
-        },
-        {
-          "name": "Lele Melotti",
-          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "Inside My Memory",
-      "url": "https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "The Gift Psychobass2",
         "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 118739,
       "name": "And Ya Know We're Missing You: Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom Petty, Chuck Berry & my good friend Larry Coryell",
       "url": "https://open.spotify.com/track/4yKpVDfezBjtyThrWEgTij"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Parato",
+          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
+        },
+        {
+          "name": "Lele Melotti",
+          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
+        },
+        {
+          "name": "Luca Scarpa",
+          "url": "https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG"
+        }
+      ],
+      "duration_ms": 272300,
+      "name": "The Sniper",
+      "url": "https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -583,6 +583,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "A Show of Hands 15",
+        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 317346,
+      "name": "Me & My Bass Guitar",
+      "url": "https://open.spotify.com/track/2bGlApShelovL2azxX0ksl"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Letter for Paul (feat. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato)",
         "url": "https://open.spotify.com/album/4oz7MSG5MJrIlxDLW7fF75"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "A Show of Hands 15",
-        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
-      },
-      "artists": [
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 317346,
-      "name": "Me & My Bass Guitar",
-      "url": "https://open.spotify.com/track/2bGlApShelovL2azxX0ksl"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Aneurythms",
         "url": "https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 384653,
       "name": "Porky & Beans",
       "url": "https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Multiple Faces",
-        "url": "https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB"
-      },
-      "artists": [
-        {
-          "name": "Alain Caron",
-          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
-        }
-      ],
-      "duration_ms": 413266,
-      "name": "Right After 4",
-      "url": "https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -679,6 +663,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Multiple Faces",
+        "url": "https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB"
+      },
+      "artists": [
+        {
+          "name": "Alain Caron",
+          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
+        }
+      ],
+      "duration_ms": 413266,
+      "name": "Right After 4",
+      "url": "https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "A Ray of Hope",
         "url": "https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1"
       },
@@ -695,18 +695,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "At The Jazz Base",
-        "url": "https://open.spotify.com/album/1pPAok1LQpSnl6IDYdugSU"
+        "name": "We Are All You (Extended Edition)",
+        "url": "https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr"
       },
       "artists": [
         {
-          "name": "Gerald Veasley",
-          "url": "https://open.spotify.com/artist/3YCLJVZoYJ2sgtAaNt9HPE"
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
         }
       ],
-      "duration_ms": 315360,
-      "name": "Valdez In The Country",
-      "url": "https://open.spotify.com/track/71Rf5dOGsVfBGPuWgWYA0V"
+      "duration_ms": 146750,
+      "name": "Aeon",
+      "url": "https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -727,18 +727,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "We Are All You (Extended Edition)",
-        "url": "https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr"
+        "name": "At The Jazz Base",
+        "url": "https://open.spotify.com/album/1pPAok1LQpSnl6IDYdugSU"
       },
       "artists": [
         {
-          "name": "Evan Marien",
-          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+          "name": "Gerald Veasley",
+          "url": "https://open.spotify.com/artist/3YCLJVZoYJ2sgtAaNt9HPE"
         }
       ],
-      "duration_ms": 146750,
-      "name": "Aeon",
-      "url": "https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb"
+      "duration_ms": 315360,
+      "name": "Valdez In The Country",
+      "url": "https://open.spotify.com/track/71Rf5dOGsVfBGPuWgWYA0V"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827"
-      },
-      "artists": [
-        {
-          "name": "Charles Berthoud",
-          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
-        }
-      ],
-      "duration_ms": 192361,
-      "name": "Don't Look Back Again",
-      "url": "https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 261866,
       "name": "P.A.C. Man",
       "url": "https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827"
+      },
+      "artists": [
+        {
+          "name": "Charles Berthoud",
+          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
+        }
+      ],
+      "duration_ms": 192361,
+      "name": "Don't Look Back Again",
+      "url": "https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7"
     },
     {
       "added_at": "2021-05-06 21:09:12",

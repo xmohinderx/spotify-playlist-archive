@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Smino
 
-1,747 songs - 4 day 2 hr 13 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,748 songs - 4 day 2 hr 15 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1343,7 +1343,8 @@
 | [School](https://open.spotify.com/track/2WIUbg8CiAsKuQMw9DzZ1d) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 4:02 | 2020-03-14 | 2020-06-12 |
 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 | 2019-09-06 | 2020-04-02 |
 | [Seasons Change](https://open.spotify.com/track/36ZL5lijTM6ohAOr2i5lnv) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/7nIw5wLwAftZ93OMrADwJK) | 2:29 | 2022-08-26 | 2022-10-14 |
-| [Seasons Change](https://open.spotify.com/track/50IEHYwAPhnGvoyD1gVZnS) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/6TNUuhA3pncZrkAtG5rh1u) | 2:29 | 2022-08-26 |  |
+| [Seasons Change](https://open.spotify.com/track/3XlKF7jaEQhVc3FcmN6ao1) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 2:29 | 2022-08-26 |  |
+| [Seasons Change](https://open.spotify.com/track/50IEHYwAPhnGvoyD1gVZnS) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/6TNUuhA3pncZrkAtG5rh1u) | 2:29 | 2022-08-26 | 2022-11-07 |
 | [Second Guessing](https://open.spotify.com/track/0RqVERbWbIT2fVvOOvqcjr) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Second Guessing](https://open.spotify.com/album/70V6CskkJwrwwVVuFYnfok) | 3:02 | 2019-09-26 | 2020-02-21 |
 | [Self Care](https://open.spotify.com/track/0jkTUqi2dO5SQLnnfTag4M) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Self Care](https://open.spotify.com/album/3MqLhEzKBRO4cwJYQCebwJ) | 2:59 | 2022-09-23 | 2022-10-13 |
 | [Self Care](https://open.spotify.com/track/4Ds6xHWHN5tU8Rxg7na56i) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Self Care](https://open.spotify.com/album/6o2MTShQYYTNBJj4LAK9xf) | 2:59 | 2022-09-23 |  |

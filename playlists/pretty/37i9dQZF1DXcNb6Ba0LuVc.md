@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,828 likes - 203 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,168 likes - 203 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 95 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 |
 | 96 | [Something Has Happened](https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Artifacts](https://open.spotify.com/album/5J0M15urtyOM5CxTjtgT8F) | 1:56 |
 | 97 | [Train Ride](https://open.spotify.com/track/4mHEsCjfyA1vKlIIgsMDrU) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 2:31 |
-| 98 | [love in the morning sun](https://open.spotify.com/track/4zOMo4Ues4LK2eWzfKwESR) | [connor](https://open.spotify.com/artist/10TEwmyEErv40xMg2QDCCQ) | [love in the morning sun](https://open.spotify.com/album/6LiSkiPDDbqeWnQUthrYKg) | 2:02 |
+| 98 | [love in the morning sun](https://open.spotify.com/track/6RWgGlkUfIb1DKR47S49T5) | [connor](https://open.spotify.com/artist/10TEwmyEErv40xMg2QDCCQ) | [love in the morning sun](https://open.spotify.com/album/3X32Fal5LpkL5DFOBL39BZ) | 2:02 |
 | 99 | [For a PEACE of mind](https://open.spotify.com/track/2ScMY1kpX6MZTeSBsOYtg5) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [For a PEACE of mind](https://open.spotify.com/album/66uqRIaXvvPVTlJMPJ0I09) | 2:16 |
 | 100 | [!Sunshine!](https://open.spotify.com/track/5v4j4LiqW49SnYAwnJugw5) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [Seven Hours](https://open.spotify.com/album/35tjstca6Mawcst5DoeXMN) | 3:03 |
 | 101 | [Pear Pressure](https://open.spotify.com/track/6Cr1O5VOD2QPYQWHTDRg3c) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/12EcN4Do1ydB2IPU5Wke1s) | 2:22 |
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 202 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 |
 | 203 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 |
 
-Snapshot ID: `MTY2Njk1ODYyMiwwMDAwMDAwMGE1YjRiY2FmYzE2OTc3MzIzOWRhZDlmYzllMDhkNDE4`
+Snapshot ID: `MTY2Njk1ODYyMiwwMDAwMDAwMDMwZTc2ZWZkYzdiN2YzMDZmNmVmODRkM2FlZWY5NTVm`

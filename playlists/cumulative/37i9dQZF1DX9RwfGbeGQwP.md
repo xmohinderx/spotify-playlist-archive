@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-888 songs - 1 day 9 hr 41 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+889 songs - 1 day 9 hr 43 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,8 @@
 | [last night](https://open.spotify.com/track/6yofOYr85Ur1seJDYCB76J) | [Mr\. Hong](https://open.spotify.com/artist/7tDDk9WbLrXl0DuDXH4sId) | [last night](https://open.spotify.com/album/4MAeVQqb6ZvNS73OhJk3L6) | 2:01 | 2022-08-05 |  |
 | [Latex](https://open.spotify.com/track/2IfYpqvhlKUQ7BcURXGWHo) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [Latex](https://open.spotify.com/album/6yKF2qc08283e2ooJrdawF) | 2:37 | 2022-01-27 |  |
 | [Latitude](https://open.spotify.com/track/1n1P8z2PYbMoODmwRyM72M) | [Xyla](https://open.spotify.com/artist/2iaMZQyl8mOWr1eCMpRTqN) | [Serenity](https://open.spotify.com/album/4dyoxieB2kYgipRy5xPuqr) | 1:20 | 2022-01-27 | 2022-06-10 |
-| [latte](https://open.spotify.com/track/2EpeEaCnnjrrIlI1flvdsq) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG) | [latte](https://open.spotify.com/album/2Zb7URpLsprOd8w0riHHaH) | 2:00 | 2022-06-10 |  |
+| [latte](https://open.spotify.com/track/2EpeEaCnnjrrIlI1flvdsq) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG) | [latte](https://open.spotify.com/album/2Zb7URpLsprOd8w0riHHaH) | 2:00 | 2022-06-10 | 2022-11-07 |
+| [latte](https://open.spotify.com/track/6f2j3y74n9nztWFvKuMwNb) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG) | [latte](https://open.spotify.com/album/1VkZdEEAkDyY3pYzFy7fsx) | 2:00 | 2022-10-28 |  |
 | [latte time](https://open.spotify.com/track/1XFeczt2nYur7cAxxnC1mG) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [latte time](https://open.spotify.com/album/1to60A5CYjiJKc7QLCsB48) | 1:46 | 2022-09-02 |  |
 | [Lazy Days](https://open.spotify.com/track/7suskOPZ8onOtynAzhT0Qg) | [My Ol' Man](https://open.spotify.com/artist/37j2MNjIAKO9lXKTXlhxJM) | [Lazy Days](https://open.spotify.com/album/66aCELdbiAYIzRN55S0SyN) | 2:43 | 2022-01-27 |  |
 | [Lean Back](https://open.spotify.com/track/2xrFmzSL2VKbf7PxIOE5s7) | [Slow Fidelity](https://open.spotify.com/artist/30g2s6KY7QIvSy004P2ZbX) | [Lean Back](https://open.spotify.com/album/6DuQ9alpD26asTgqRodl7D) | 1:57 | 2022-09-02 |  |

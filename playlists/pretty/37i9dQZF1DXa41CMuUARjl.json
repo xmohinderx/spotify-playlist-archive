@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from goddard. & Charlotte Haining.",
-  "num_followers": 408285,
+  "num_followers": 408364,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU4ODg1NSwwMDAwMDAwMGY1MWQ1NzUyNWMzZmI3ZWUwYmVlODVhZWM5MmZmMTMz",
+  "snapshot_id": "MTY2NzU4ODg1NSwwMDAwMDAwMGJmODBkYTRlYTdlMmFjNTNjOWM3ODdlNmFmY2Y2NDE2",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -247,7 +247,7 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Sant Jordi 02",
+        "name": "SANT JORDI 02",
         "url": "https://open.spotify.com/album/0ZvrMbXUFxckG4gp1NEkMh"
       },
       "artists": [
@@ -559,26 +559,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Spend It (feat. Circa Waves)",
-        "url": "https://open.spotify.com/album/31Idf7YAsQlyJQH6aews9S"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        },
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 202858,
-      "name": "Spend It (feat. Circa Waves)",
-      "url": "https://open.spotify.com/track/0GJAh8pOb6YoUcnyrPETnY"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "MK 3.5: Die Cuts | City Planning",
         "url": "https://open.spotify.com/album/1syG1kZ36G6xVnnsr6RjG2"
       },
@@ -603,18 +583,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "E-Motion / Higher / Antireal / The Flavor",
-        "url": "https://open.spotify.com/album/3GmPy6CTFaAli0kYfau7tH"
+        "name": "Spend It (feat. Circa Waves)",
+        "url": "https://open.spotify.com/album/31Idf7YAsQlyJQH6aews9S"
       },
       "artists": [
         {
-          "name": "The Glitch Mob",
-          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 337936,
-      "name": "E-Motion",
-      "url": "https://open.spotify.com/track/0zSqBdPMlyyY5AdBTne3uW"
+      "duration_ms": 202858,
+      "name": "Spend It (feat. Circa Waves)",
+      "url": "https://open.spotify.com/track/0GJAh8pOb6YoUcnyrPETnY"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -639,6 +623,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "E-Motion / Higher / Antireal / The Flavor",
+        "url": "https://open.spotify.com/album/3GmPy6CTFaAli0kYfau7tH"
+      },
+      "artists": [
+        {
+          "name": "The Glitch Mob",
+          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        }
+      ],
+      "duration_ms": 337936,
+      "name": "E-Motion",
+      "url": "https://open.spotify.com/track/0zSqBdPMlyyY5AdBTne3uW"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Not There",
         "url": "https://open.spotify.com/album/32hsVbXUm5VbbWo9Qfs0An"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 202076,
       "name": "Not There",
       "url": "https://open.spotify.com/track/7jzGqazzQJhp59zieSCwiG"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "To Last",
+        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 176283,
+      "name": "To Last",
+      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -671,18 +687,38 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "To Last",
-        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
+        "name": "As Long As We Got House",
+        "url": "https://open.spotify.com/album/5i2am7GXU3ROJFU8nOPnUz"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
         }
       ],
-      "duration_ms": 176283,
-      "name": "To Last",
-      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
+      "duration_ms": 173392,
+      "name": "As Long As We Got House",
+      "url": "https://open.spotify.com/track/1haSCrD5ejKJHEYH1gP6OW"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "New Age of House",
+        "url": "https://open.spotify.com/album/7zBY7JzAeooq0E8cMXmZ0X"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Dances With White Girls",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+        }
+      ],
+      "duration_ms": 171180,
+      "name": "Peanut Butter",
+      "url": "https://open.spotify.com/track/7F2xg9REyaMDf9JHMV8V9S"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -725,24 +761,32 @@
       "url": "https://open.spotify.com/track/41bfZihRdBEOsXz1JmfQEC"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-11-07 01:39:13",
       "album": {
-        "name": "New Age of House",
-        "url": "https://open.spotify.com/album/7zBY7JzAeooq0E8cMXmZ0X"
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
         },
         {
-          "name": "Dances With White Girls",
-          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Jaxx & Vega",
+          "url": "https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w"
+        },
+        {
+          "name": "The Black & White Brothers",
+          "url": "https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv"
         }
       ],
-      "duration_ms": 171180,
-      "name": "Peanut Butter",
-      "url": "https://open.spotify.com/track/7F2xg9REyaMDf9JHMV8V9S"
+      "duration_ms": 167460,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -763,22 +807,6 @@
       "duration_ms": 311250,
       "name": "Can't Find Her",
       "url": "https://open.spotify.com/track/6uHTykxbR6MInBeThBE8FV"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "As Long As We Got House",
-        "url": "https://open.spotify.com/album/5i2am7GXU3ROJFU8nOPnUz"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        }
-      ],
-      "duration_ms": 173392,
-      "name": "As Long As We Got House",
-      "url": "https://open.spotify.com/track/1haSCrD5ejKJHEYH1gP6OW"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -825,32 +853,20 @@
       "url": "https://open.spotify.com/track/6uX3HDedpfYWZVrbqRwrjq"
     },
     {
-      "added_at": "2022-11-06 01:46:13",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Pump It Up",
-        "url": "https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/4U3DiMnunPB7q9xvJORDfO"
       },
       "artists": [
         {
-          "name": "3 Are Legend",
-          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
-        },
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Jaxx & Vega",
-          "url": "https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w"
-        },
-        {
-          "name": "The Black & White Brothers",
-          "url": "https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 167460,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb"
+      "duration_ms": 187428,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/71EugQfDjs4kfRDuXKhWwP"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -867,22 +883,6 @@
       "duration_ms": 301982,
       "name": "One For Paradise",
       "url": "https://open.spotify.com/track/1JvQwv2KiykSo4vHUpwXBx"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/4U3DiMnunPB7q9xvJORDfO"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/71EugQfDjs4kfRDuXKhWwP"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -907,42 +907,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Purple Edge EP",
-        "url": "https://open.spotify.com/album/6dc9GE1Rkg4He3frvm4iEW"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 516643,
-      "name": "Purple Edge",
-      "url": "https://open.spotify.com/track/0KX1WIkJABs6laxaMR4PzQ"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Crush Me",
-        "url": "https://open.spotify.com/album/6UHUHBb9N9zPJ82G3V5HX6"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Kota Banks",
-          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
-        }
-      ],
-      "duration_ms": 242446,
-      "name": "Crush Me",
-      "url": "https://open.spotify.com/track/1g0LoTFshwdlf6hHlSmTQp"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Verde",
         "url": "https://open.spotify.com/album/4oXLvrJLs0TgvJgNL1KpxF"
       },
@@ -955,6 +919,74 @@
       "duration_ms": 292946,
       "name": "Verde",
       "url": "https://open.spotify.com/track/6Zr4nhKCUeAjttMntltVkk"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/4zbNMA8GFqxXVFYTItwJ7i"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/07uZdMZFPm4gtSIVIBAfw8"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Purple Edge EP",
+        "url": "https://open.spotify.com/album/6dc9GE1Rkg4He3frvm4iEW"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/4kHDGhQ8I0RnxFBr27RPHp"
+        }
+      ],
+      "duration_ms": 516643,
+      "name": "Purple Edge",
+      "url": "https://open.spotify.com/track/0KX1WIkJABs6laxaMR4PzQ"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Up & Down",
+        "url": "https://open.spotify.com/album/0zJsnrMWoi8UlKuwGuLdWH"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        }
+      ],
+      "duration_ms": 183948,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/5mMTWVF6rOsdpaCvkXJ5Jh"
+    },
+    {
+      "added_at": "2022-11-04 10:19:12",
+      "album": {
+        "name": "Something Stronger",
+        "url": "https://open.spotify.com/album/0qZnnUiTIYCCqO4mOujgtb"
+      },
+      "artists": [
+        {
+          "name": "MKJ",
+          "url": "https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0"
+        },
+        {
+          "name": "Camilia",
+          "url": "https://open.spotify.com/artist/58jQ9ySMbgsPyB4VkDjGrQ"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Something Stronger",
+      "url": "https://open.spotify.com/track/3b6QPNnAhqF376opkz6Xf8"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -979,18 +1011,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Up & Down",
-        "url": "https://open.spotify.com/album/0zJsnrMWoi8UlKuwGuLdWH"
+        "name": "Crush Me",
+        "url": "https://open.spotify.com/album/6UHUHBb9N9zPJ82G3V5HX6"
       },
       "artists": [
         {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Kota Banks",
+          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
         }
       ],
-      "duration_ms": 183948,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/5mMTWVF6rOsdpaCvkXJ5Jh"
+      "duration_ms": 242446,
+      "name": "Crush Me",
+      "url": "https://open.spotify.com/track/1g0LoTFshwdlf6hHlSmTQp"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1015,42 +1051,6 @@
       "duration_ms": 264978,
       "name": "Holiday - Fatboy Slim Dub Remix",
       "url": "https://open.spotify.com/track/0lP3Py6pxRnxGt55wjpFt6"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/4zbNMA8GFqxXVFYTItwJ7i"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/07uZdMZFPm4gtSIVIBAfw8"
-    },
-    {
-      "added_at": "2022-11-04 10:19:12",
-      "album": {
-        "name": "Something Stronger",
-        "url": "https://open.spotify.com/album/0qZnnUiTIYCCqO4mOujgtb"
-      },
-      "artists": [
-        {
-          "name": "MKJ",
-          "url": "https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0"
-        },
-        {
-          "name": "Camilia",
-          "url": "https://open.spotify.com/artist/58jQ9ySMbgsPyB4VkDjGrQ"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Something Stronger",
-      "url": "https://open.spotify.com/track/3b6QPNnAhqF376opkz6Xf8"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1095,22 +1095,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/7opTdafmhvA73DkrAJmxfM"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
       },
       "artists": [
         {
-          "name": "Enamour",
-          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
-        },
-        {
-          "name": "Warung",
-          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
         }
       ],
-      "duration_ms": 267358,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/3vRA721uK5h75UqA2iLHbo"
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1135,6 +1131,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/3qpPrjlMiwmU0zfMNYdr3N"
+      },
+      "artists": [
+        {
+          "name": "Boye & Sigvardt",
+          "url": "https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR"
+        }
+      ],
+      "duration_ms": 185943,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/0QdPsIOoJ7xQh2R53PXbWR"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "The Way To Do It",
         "url": "https://open.spotify.com/album/6aPgR1TbdugFtOjRXJKwcQ"
       },
@@ -1147,6 +1159,26 @@
       "duration_ms": 320653,
       "name": "The Way To Do It",
       "url": "https://open.spotify.com/track/18gn195iZFHDeLX7PiBkfp"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/7opTdafmhvA73DkrAJmxfM"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        },
+        {
+          "name": "Warung",
+          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
+        }
+      ],
+      "duration_ms": 267358,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/3vRA721uK5h75UqA2iLHbo"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1187,38 +1219,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 336504,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Balinha da Alegria",
-        "url": "https://open.spotify.com/album/0z0NBoZejHXlZKQFSP5YMJ"
-      },
-      "artists": [
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 160995,
-      "name": "Balinha da Alegria",
-      "url": "https://open.spotify.com/track/4zHsjExrJLvh0jYU0kAH0r"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Feels Like Us",
         "url": "https://open.spotify.com/album/03bOzXgSC5E8NJCzvxqrQZ"
       },
@@ -1231,6 +1231,38 @@
       "duration_ms": 201624,
       "name": "Feels Like Us",
       "url": "https://open.spotify.com/track/23Sr6e5e0JaqQNz1Dfl43h"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/0Z6pRj08RVXWE4RIZiRyIZ"
+      },
+      "artists": [
+        {
+          "name": "Dante Klein",
+          "url": "https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/2CNCsTkwWO9tf41GdGJNte"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1255,66 +1287,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+        "name": "Balinha da Alegria",
+        "url": "https://open.spotify.com/album/0z0NBoZejHXlZKQFSP5YMJ"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
         }
       ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/0Z6pRj08RVXWE4RIZiRyIZ"
-      },
-      "artists": [
-        {
-          "name": "Dante Klein",
-          "url": "https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/2CNCsTkwWO9tf41GdGJNte"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "2007",
-        "url": "https://open.spotify.com/album/2XOGsUkrk5gaMcflEdLq9J"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 268842,
-      "name": "2007",
-      "url": "https://open.spotify.com/track/5Qmy89XJap9wMfEZu3Mwg0"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/3qpPrjlMiwmU0zfMNYdr3N"
-      },
-      "artists": [
-        {
-          "name": "Boye & Sigvardt",
-          "url": "https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR"
-        }
-      ],
-      "duration_ms": 185943,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/0QdPsIOoJ7xQh2R53PXbWR"
+      "duration_ms": 160995,
+      "name": "Balinha da Alegria",
+      "url": "https://open.spotify.com/track/4zHsjExrJLvh0jYU0kAH0r"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1331,6 +1315,22 @@
       "duration_ms": 228767,
       "name": "When She Leaves",
       "url": "https://open.spotify.com/track/04fYEIYDY0fq6Id1GNFV29"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "2007",
+        "url": "https://open.spotify.com/album/2XOGsUkrk5gaMcflEdLq9J"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 268842,
+      "name": "2007",
+      "url": "https://open.spotify.com/track/5Qmy89XJap9wMfEZu3Mwg0"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1383,6 +1383,46 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Lights Go Down",
+        "url": "https://open.spotify.com/album/4uPXb2T5ovkJtFDuwyxkoX"
+      },
+      "artists": [
+        {
+          "name": "Echoes",
+          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
+        },
+        {
+          "name": "Marissa Anglin",
+          "url": "https://open.spotify.com/artist/0tHYEgMtgmk2yNDD5OwaUn"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Lights Go Down",
+      "url": "https://open.spotify.com/track/4YIfvhk2xXLEpCfdk4R0Y3"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "My Favourite Dream",
+        "url": "https://open.spotify.com/album/1a4ZSU5OGdzce2xLnbrwl4"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Tribe Alexander",
+          "url": "https://open.spotify.com/artist/1Rj7IzzqQVvx8HtZ1WfwCv"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "My Favourite Dream",
+      "url": "https://open.spotify.com/track/2UtkFuF09Bu0y7UIZnIx3I"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/11s19eDJJKMtjgLpWnY8Dx"
       },
@@ -1411,26 +1451,6 @@
       "duration_ms": 252836,
       "name": "Aruda",
       "url": "https://open.spotify.com/track/4PJThfd1HgQH2voP3wudW2"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "My Favourite Dream",
-        "url": "https://open.spotify.com/album/1a4ZSU5OGdzce2xLnbrwl4"
-      },
-      "artists": [
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        },
-        {
-          "name": "Tribe Alexander",
-          "url": "https://open.spotify.com/artist/1Rj7IzzqQVvx8HtZ1WfwCv"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "My Favourite Dream",
-      "url": "https://open.spotify.com/track/2UtkFuF09Bu0y7UIZnIx3I"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1467,6 +1487,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5pmPKOWQ4evmNDfYjl9MiP"
+      },
+      "artists": [
+        {
+          "name": "Monarke",
+          "url": "https://open.spotify.com/artist/5uPPX33s71WjX25P1DfqVk"
+        }
+      ],
+      "duration_ms": 448679,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/0jwWG0oSeKd5CefJa4jcbe"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "4u",
         "url": "https://open.spotify.com/album/2G8tgCIiwC3rPyYK0bLxKx"
       },
@@ -1499,58 +1535,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Lights Go Down",
-        "url": "https://open.spotify.com/album/4uPXb2T5ovkJtFDuwyxkoX"
-      },
-      "artists": [
-        {
-          "name": "Echoes",
-          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
-        },
-        {
-          "name": "Marissa Anglin",
-          "url": "https://open.spotify.com/artist/0tHYEgMtgmk2yNDD5OwaUn"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "Lights Go Down",
-      "url": "https://open.spotify.com/track/4YIfvhk2xXLEpCfdk4R0Y3"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Touching Plastic",
-        "url": "https://open.spotify.com/album/3GFutwH54uuCNhu4UIzbI5"
-      },
-      "artists": [
-        {
-          "name": "Helena Hauff",
-          "url": "https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN"
-        }
-      ],
-      "duration_ms": 317228,
-      "name": "Touching Plastic",
-      "url": "https://open.spotify.com/track/1XWxWCG0ojCRcMboNaA0Sr"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5pmPKOWQ4evmNDfYjl9MiP"
-      },
-      "artists": [
-        {
-          "name": "Monarke",
-          "url": "https://open.spotify.com/artist/5uPPX33s71WjX25P1DfqVk"
-        }
-      ],
-      "duration_ms": 448679,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/0jwWG0oSeKd5CefJa4jcbe"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "dance music for dancing, vol. 3",
         "url": "https://open.spotify.com/album/1QNXeJr28NVOMVaY2nNRM0"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 217920,
       "name": "show you how i feel",
       "url": "https://open.spotify.com/track/6wWCtq74zDnHwSclgA39ND"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Touching Plastic",
+        "url": "https://open.spotify.com/album/3GFutwH54uuCNhu4UIzbI5"
+      },
+      "artists": [
+        {
+          "name": "Helena Hauff",
+          "url": "https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN"
+        }
+      ],
+      "duration_ms": 317228,
+      "name": "Touching Plastic",
+      "url": "https://open.spotify.com/track/1XWxWCG0ojCRcMboNaA0Sr"
     }
   ],
   "unique_name": "New Music Friday Dance",

@@ -4,11 +4,11 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-534 songs - 1 day 5 hr 57 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+535 songs - 1 day 5 hr 59 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10:10](https://open.spotify.com/track/6hd1qFV2nSAOeFprnZbHGp) | [Xavi Jordan](https://open.spotify.com/artist/5H1dqpna1LZM58Estbgg6B), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [10:10](https://open.spotify.com/album/7b2yJGGSgLWMENS1LROLaN) | 3:10 | 2022-11-01 |  |
+| [10:10](https://open.spotify.com/track/6hd1qFV2nSAOeFprnZbHGp) | [Xavi Jordan](https://open.spotify.com/artist/5H1dqpna1LZM58Estbgg6B), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [10:10](https://open.spotify.com/album/7b2yJGGSgLWMENS1LROLaN) | 3:10 | 2022-11-01 | 2022-11-07 |
 | [1847\. Chile\. Himno Nacional Chileno\. National Anthems of Chile\. Patriotic Song](https://open.spotify.com/track/175MdDpe1gyifn5JaqTeDn) | [Hits Anthems Back Sound Effects Studio](https://open.spotify.com/artist/4pVrilnaFP6Jaolly2GCfu) | [30 Marches, Hymns and Army Songs\. World Military Bands](https://open.spotify.com/album/2IeLOLet5nFvk5efI6PymO) | 3:53 | 2022-09-20 | 2022-09-23 |
 | [2 Shipitia \(Tio Rene\)](https://open.spotify.com/track/5nWNZN5yHShizC96Ojs9wP) | [ImpactMusic](https://open.spotify.com/artist/2Zc3z0EdmPQk2YFczw0SOq) | [2 Shipitia \(Tio Rene\)](https://open.spotify.com/album/78OSmbJ65RpJAkTU2QFERt) | 2:36 | 2022-08-30 | 2022-10-05 |
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-11-01 |  |
@@ -211,6 +211,7 @@
 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 | 2022-11-01 |  |
 | [Himno Nacional De Chile](https://open.spotify.com/track/0HFwyeSuWD9I0JOuvLAmdu) | [Orquesta Filarmónica internacional](https://open.spotify.com/artist/5AMgYsDdeQ7Eu3xVYaWOkK) | [Himnos Nacionales De Latino America](https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q) | 3:52 | 2022-09-08 | 2022-09-24 |
 | [Hopelessly Devoted To You](https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [20th Century Masters: The Millennium Collection: Best Of Olivia Newton\-John](https://open.spotify.com/album/5wR3bNU1ycW52RrkP4aAXN) | 3:06 | 2022-08-09 | 2022-08-18 |
+| [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 2:22 | 2022-11-06 |  |
 | [Huella Letal](https://open.spotify.com/track/4aOobk7xXbsvhUFiLCUHOv) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Huella Letal](https://open.spotify.com/album/77Pk12zTQeHZDJBNMX1WjA) | 2:17 | 2022-04-26 | 2022-06-01 |
 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 | 2022-08-23 | 2022-09-15 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN?si=llxtqtQnSmuH2BLEFC3qYg">DJ Kent</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,054 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,093 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 33 | [Minamato](https://open.spotify.com/track/73X5KApLsp2GaIKEnJiDJu) | [HALU!](https://open.spotify.com/artist/71zjmlom6VeFdwJsqLSl2z), [Reverb7](https://open.spotify.com/artist/6eWzuNjgNPDhshDsIT0NAy), [Tina Masawi](https://open.spotify.com/artist/1waGvYdujmgKc9cNid89US) | [Reverb7 Vs HALU! \(The Remixes\)](https://open.spotify.com/album/7x9hZvWEiBeyZgpDDkV0T0) | 6:00 |
 | 34 | [011 to Paris](https://open.spotify.com/track/1ivk12zHrrW7gQZwQwij79) | [TiMO ODV](https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt), [Tyreik](https://open.spotify.com/artist/23EgkmAWDGB5uL6L0SEX1q) | [011 to Paris](https://open.spotify.com/album/0z2Y1xBkBx2NvdZD9BRpRY) | 3:24 |
 | 35 | [Ndauya](https://open.spotify.com/track/0zL7I0zTANptsTUnai3lQJ) | [WÄRM](https://open.spotify.com/artist/2ZUJitvsSBCkUsUnBjGm4y), [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Ndauya](https://open.spotify.com/album/6aeJFi78nopIORvYh4D330) | 3:25 |
-| 36 | [All We Need](https://open.spotify.com/track/0BX8McdXCfHgHrKizHIJRE) | [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo](https://open.spotify.com/artist/4aNbVHYo8CVwkN4UUt44C3), [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ) | [All We Need](https://open.spotify.com/album/3xuuzTuo9IWAwXQ0NyCHdn) | 3:09 |
+| 36 | [All We Need](https://open.spotify.com/track/0BX8McdXCfHgHrKizHIJRE) | [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo](https://open.spotify.com/artist/1QFkERAzKnyz7FUo6GmlYL), [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ) | [All We Need](https://open.spotify.com/album/3xuuzTuo9IWAwXQ0NyCHdn) | 3:09 |
 | 37 | [Back to You](https://open.spotify.com/track/5jHfCQYPv6OdMU3BaV17Jd) | [Mark DVB](https://open.spotify.com/artist/0nmXD5cuTDfvVHceT0bXb6) | [Back to You](https://open.spotify.com/album/6TwYVklJnjsP9lWaX2lw88) | 2:18 |
 | 38 | [Amira \- Original Mix](https://open.spotify.com/track/5Z9d6pGOaoChFuoDWpsxpi) | [Smalltown Collective](https://open.spotify.com/artist/49ExfG98Q4qrBaJ0q7brXn) | [Hive Audio Summer Slices 2022](https://open.spotify.com/album/6rVH0liTpvwgUDL9EzokPY) | 8:02 |
-| 39 | [Fall Away](https://open.spotify.com/track/3QYlfmOYcG8ZhkvzU63Riv) | [Aaron Suiss](https://open.spotify.com/artist/5Jl4yj7KU7jneqJ2KIepZA), [Mark Valsecchi](https://open.spotify.com/artist/1KkQpGzIc1ExuivTY4efGQ), [Montana](https://open.spotify.com/artist/5eeASeJYFLKl3XD62MWAef) | [Free](https://open.spotify.com/album/5Q9wkkuSwwmjBYS0l71xuy) | 6:32 |
+| 39 | [Fall Away](https://open.spotify.com/track/3QYlfmOYcG8ZhkvzU63Riv) | [Aaron Suiss](https://open.spotify.com/artist/5Jl4yj7KU7jneqJ2KIepZA), [Mark Valsecchi](https://open.spotify.com/artist/1KkQpGzIc1ExuivTY4efGQ), [Montana](https://open.spotify.com/artist/1oNwdZGvy5pA3QQ5CpowyG) | [Free](https://open.spotify.com/album/5Q9wkkuSwwmjBYS0l71xuy) | 6:32 |
 | 40 | [The Reason](https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Reason](https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4) | 3:24 |
 | 41 | [Black Heirs](https://open.spotify.com/track/0gmfpk6bZKowpKyBkcbPZL) | [Double Drop](https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr) | [Black Heirs](https://open.spotify.com/album/4EiKw9ZjnOhc97TqjG94aE) | 7:03 |
 | 42 | [Dj From Mount Bay](https://open.spotify.com/track/3hUFZHpABs47onM00CUckK) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU), [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Dj From Mount Bay](https://open.spotify.com/album/1EcqIdMBsLCQouFXp4lAjh) | 6:09 |

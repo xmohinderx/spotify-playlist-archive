@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 698514,
+  "num_followers": 698728,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU3MDg5MywwMDAwMDAwMDkyMWUyZmM2NmM4MmNjZThjM2U5YmY3N2NkOWNhZTE1",
+  "snapshot_id": "MTY2NzU3MDg5MywwMDAwMDAwMDcxNTE4N2QxN2NhMmUxZjcxODg3OWRiNWUzYTY4NGZm",
   "tracks": [
     {
       "added_at": "2022-11-04 14:08:13",
@@ -195,74 +195,6 @@
     {
       "added_at": "2022-11-04 14:08:13",
       "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "Andei S\u00f3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/7xMb0izMxYXFT0T7w0s9ir"
-    },
-    {
-      "added_at": "2022-11-04 14:08:13",
-      "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184267,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV"
-    },
-    {
-      "added_at": "2022-11-04 14:08:13",
-      "album": {
-        "name": "Compact Jazz: Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
-    },
-    {
-      "added_at": "2022-11-04 14:08:13",
-      "album": {
-        "name": "Travessia - Spotify Singles",
-        "url": "https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "Travessia - Spotify Singles",
-      "url": "https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg"
-    },
-    {
-      "added_at": "2022-11-04 14:08:13",
-      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK"
       },
@@ -287,6 +219,74 @@
       "duration_ms": 257644,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6"
+    },
+    {
+      "added_at": "2022-11-04 14:08:13",
+      "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184267,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV"
+    },
+    {
+      "added_at": "2022-11-04 14:08:13",
+      "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "Andei S\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7xMb0izMxYXFT0T7w0s9ir"
+    },
+    {
+      "added_at": "2022-11-04 14:08:13",
+      "album": {
+        "name": "Travessia - Spotify Singles",
+        "url": "https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 205128,
+      "name": "Travessia - Spotify Singles",
+      "url": "https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg"
+    },
+    {
+      "added_at": "2022-11-04 14:08:13",
+      "album": {
+        "name": "Compact Jazz: Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
     },
     {
       "added_at": "2022-11-04 14:08:13",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-11-04 14:08:13",
       "album": {
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 123386,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4"
+    },
+    {
+      "added_at": "2022-11-04 14:08:13",
+      "album": {
         "name": "Apesar de Querer",
         "url": "https://open.spotify.com/album/3JoqTBAWi9gnEt3UlNHZiR"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 244000,
       "name": "Apesar de Querer",
       "url": "https://open.spotify.com/track/6LDAUF7L1PhZh0utprIpe2"
-    },
-    {
-      "added_at": "2022-11-04 14:08:13",
-      "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 123386,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4"
     },
     {
       "added_at": "2022-11-04 14:08:13",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-11-04 14:08:13",
       "album": {
-        "name": "Reconstru\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 204895,
-      "name": "La\u00e7os",
-      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
-    },
-    {
-      "added_at": "2022-11-04 14:08:13",
-      "album": {
         "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
         "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 105253,
       "name": "Gostoso Demais - Ao Vivo",
       "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
+    },
+    {
+      "added_at": "2022-11-04 14:08:13",
+      "album": {
+        "name": "Reconstru\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 204895,
+      "name": "La\u00e7os",
+      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
     },
     {
       "added_at": "2022-11-04 14:08:13",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2022-11-04 14:08:13",
       "album": {
-        "name": "Ao Nordeste do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2QbOusxuxYro7NxiaRnSmk"
-      },
-      "artists": [
-        {
-          "name": "Rachell Luz",
-          "url": "https://open.spotify.com/artist/34DhScarDVDwmG4ieQ6HxN"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Flor da Pele",
-      "url": "https://open.spotify.com/track/4Y1lcFT9McR3GcLWXdNGPi"
-    },
-    {
-      "added_at": "2022-11-04 14:08:13",
-      "album": {
         "name": "12 Horas (Ao Vivo) (feat. Mar\u00edlia Mendon\u00e7a) [Ac\u00fastico]",
         "url": "https://open.spotify.com/album/2XJWP3wpipPyna8pFX68ZJ"
       },
@@ -1091,18 +1071,22 @@
     {
       "added_at": "2022-11-04 14:08:13",
       "album": {
-        "name": "Ciumeira",
-        "url": "https://open.spotify.com/album/1qqJHRn7GYlL0gpOSCA2A9"
+        "name": "Ao Nordeste do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2QbOusxuxYro7NxiaRnSmk"
       },
       "artists": [
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Rachell Luz",
+          "url": "https://open.spotify.com/artist/34DhScarDVDwmG4ieQ6HxN"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         }
       ],
-      "duration_ms": 151458,
-      "name": "Ciumeira",
-      "url": "https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ"
+      "duration_ms": 217573,
+      "name": "Flor da Pele",
+      "url": "https://open.spotify.com/track/4Y1lcFT9McR3GcLWXdNGPi"
     },
     {
       "added_at": "2022-11-04 14:08:13",
@@ -1119,6 +1103,22 @@
       "duration_ms": 185213,
       "name": "Gr\u00e3o de Amor",
       "url": "https://open.spotify.com/track/6WuPQbkxEi5xyBtlvvFjQm"
+    },
+    {
+      "added_at": "2022-11-04 14:08:13",
+      "album": {
+        "name": "Ciumeira",
+        "url": "https://open.spotify.com/album/1qqJHRn7GYlL0gpOSCA2A9"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 151458,
+      "name": "Ciumeira",
+      "url": "https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ"
     },
     {
       "added_at": "2022-11-04 14:08:13",
@@ -1211,22 +1211,22 @@
     {
       "added_at": "2022-11-04 14:08:13",
       "album": {
-        "name": "Rita Lee",
-        "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
+        "name": "postcard from Rio",
+        "url": "https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ"
       },
       "artists": [
         {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
         },
         {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 310760,
-      "name": "Lan\u00e7a Perfume",
-      "url": "https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl"
+      "duration_ms": 166916,
+      "name": "saudade",
+      "url": "https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5"
     }
   ],
   "unique_name": "Cafezinho",

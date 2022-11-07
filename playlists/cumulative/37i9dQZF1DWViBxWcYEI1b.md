@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Shania Twain
 
-456 songs - 1 day 1 hr 34 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
+457 songs - 1 day 1 hr 38 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,8 @@
 | [On My Way \(Marry Me\)](https://open.spotify.com/track/6p9gMpEXeT18L9zsY5w10h) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nm6u7mp61RmClng9Okg1t) | 3:12 | 2022-02-04 | 2022-08-07 |
 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 | 2022-05-27 |  |
 | [One Life](https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [One Life](https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8) | 3:25 | 2022-05-13 | 2022-06-25 |
-| [One Of You](https://open.spotify.com/track/4E3CLD8ovFxgySwZjzkKJr) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [One Of You](https://open.spotify.com/album/4wgSE6Bn2e7AglOJWIAk1T) | 3:45 | 2022-09-23 |  |
+| [One Of You](https://open.spotify.com/track/3Wcf28sYNe7uMnEo5JPg5R) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [What Tomorrow Brings](https://open.spotify.com/album/1w64Qy4uueDC8hItAkBV8Z) | 3:45 | 2022-10-28 |  |
+| [One Of You](https://open.spotify.com/track/4E3CLD8ovFxgySwZjzkKJr) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [One Of You](https://open.spotify.com/album/4wgSE6Bn2e7AglOJWIAk1T) | 3:45 | 2022-09-23 | 2022-11-07 |
 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 | 2022-04-08 | 2022-05-14 |
 | [ONLY ONE](https://open.spotify.com/track/3eOdplB2tlEsEfWd8WKf0e) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [ONLY ONE](https://open.spotify.com/album/6wDeULI9weCchekIbT3FKO) | 3:03 | 2022-09-16 |  |
 | [Open Arms](https://open.spotify.com/track/5zWJcSvfHDRuOqf0RrjwV7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/5ppWXVOvEfdqOwCW9h7fbh) | 2:32 | 2022-09-16 | 2022-10-08 |

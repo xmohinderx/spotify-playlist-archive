@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 113278,
+  "num_followers": 113781,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwNzI4OSwwMDAwMDAwMDlkNWY2MWIwYjUwMDkxMDdhYzA4NDMzNTc0YjAzYzNk",
+  "snapshot_id": "MTY2NjgwNzI4OSwwMDAwMDAwMGQ0MWQ5ZGE4YzhiZjMzNTA1YjBkMTQzMWYxZjQ3ZWQ5",
   "tracks": [
     {
       "added_at": "2022-10-14 18:43:11",
@@ -179,8 +179,8 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "A Very Cool Christmas",
-        "url": "https://open.spotify.com/album/3dJwYksJQub7yM6nxhJAAh"
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
       "artists": [
         {
@@ -190,7 +190,7 @@
       ],
       "duration_ms": 146520,
       "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/2WOxLQYZf9fZwElBgrFCB7"
+      "url": "https://open.spotify.com/track/3OnZDfpaIbb2dBCCHtoYSX"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "A Little Love (From The John Lewis & Waitrose Christmas Advert 2020)",
-        "url": "https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "A Little Love - From The John Lewis & Waitrose Christmas Advert 2020",
-      "url": "https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
         "name": "Christmas Party",
         "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 132453,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
+        "name": "A Little Love (From The John Lewis & Waitrose Christmas Advert 2020)",
+        "url": "https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "A Little Love - From The John Lewis & Waitrose Christmas Advert 2020",
+      "url": "https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Just Like Christmas",
-      "url": "https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
         "name": "O\u2019Holy Night",
         "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 180585,
       "name": "A Dreamer's Holiday",
       "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Just Like Christmas",
+      "url": "https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "Walking in the Air",
-        "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
       },
       "artists": [
         {
-          "name": "Mimicking Birds",
-          "url": "https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od"
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
         }
       ],
-      "duration_ms": 257842,
-      "name": "Walking in the Air",
-      "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
+      "duration_ms": 149080,
+      "name": "It's Beginning to Look a Lot Like Christmas",
+      "url": "https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn"
     }
   ],
   "unique_name": "Indie Christmas",

@@ -5904,6 +5904,24 @@
     },
     {
       "album": {
+        "name": "What Tomorrow Brings",
+        "url": "https://open.spotify.com/album/1w64Qy4uueDC8hItAkBV8Z"
+      },
+      "artists": [
+        {
+          "name": "Royal Wood",
+          "url": "https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225684,
+      "name": "One Of You",
+      "url": "https://open.spotify.com/track/3Wcf28sYNe7uMnEo5JPg5R"
+    },
+    {
+      "album": {
         "name": "One Of You",
         "url": "https://open.spotify.com/album/4wgSE6Bn2e7AglOJWIAk1T"
       },
@@ -5915,7 +5933,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 225684,
       "name": "One Of You",
       "url": "https://open.spotify.com/track/4E3CLD8ovFxgySwZjzkKJr"

@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-349 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+350 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [Loopty](https://open.spotify.com/track/6b1YS18G8w8lxOWh7oD9rx) | [Bonobobby](https://open.spotify.com/artist/400ESgigbovgd0bpWZHuvu) | [Loopty](https://open.spotify.com/album/1sN2FbISltW6SaptIQmPUr) | 2:34 | 2022-02-04 |  |
 | [Loose](https://open.spotify.com/track/2jL3urmIC1PepoT93Mskmm) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Loose](https://open.spotify.com/album/7pzAH2m3DrWbjgkMEBOQtB) | 2:39 | 2021-11-11 | 2022-09-17 |
 | [Lost World](https://open.spotify.com/track/5up5Dz71Pju2BhK6NffTg8) | [Avatron](https://open.spotify.com/artist/0c1cREViIuF4oj5BtpHo6t) | [Lost World](https://open.spotify.com/album/5Ep9azVs5xJpLVANGBaH6b) | 2:40 | 2021-11-11 | 2022-06-10 |
-| [love in the morning sun](https://open.spotify.com/track/4zOMo4Ues4LK2eWzfKwESR) | [connor](https://open.spotify.com/artist/10TEwmyEErv40xMg2QDCCQ) | [love in the morning sun](https://open.spotify.com/album/6LiSkiPDDbqeWnQUthrYKg) | 2:02 | 2022-07-29 |  |
+| [love in the morning sun](https://open.spotify.com/track/4zOMo4Ues4LK2eWzfKwESR) | [connor](https://open.spotify.com/artist/10TEwmyEErv40xMg2QDCCQ) | [love in the morning sun](https://open.spotify.com/album/6LiSkiPDDbqeWnQUthrYKg) | 2:02 | 2022-07-29 | 2022-11-07 |
+| [love in the morning sun](https://open.spotify.com/track/6RWgGlkUfIb1DKR47S49T5) | [connor](https://open.spotify.com/artist/10TEwmyEErv40xMg2QDCCQ) | [love in the morning sun](https://open.spotify.com/album/3X32Fal5LpkL5DFOBL39BZ) | 2:02 | 2022-10-28 |  |
 | [Low Key](https://open.spotify.com/track/2rdlNy8ioOeyHNzcgp5lRw) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Low Key](https://open.spotify.com/album/54hYfTvuY6nCGCV8E32qAP) | 2:35 | 2021-11-11 |  |
 | [Low Rake](https://open.spotify.com/track/3uxcX73X3YZlaGVeKzECjE) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh) | [Low Rake](https://open.spotify.com/album/2xEGZfG8okr9tQKmQLBuJx) | 1:56 | 2022-07-15 |  |
 | [Lucy Dreamer](https://open.spotify.com/track/0JczY880Kt9FviLxsimJd6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Luscious](https://open.spotify.com/album/1d5DMrZe0OUFwXOnpnZUQF) | 1:32 | 2021-11-11 | 2022-06-10 |

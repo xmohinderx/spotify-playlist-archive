@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Breakfast Road\. Artwork: Isu Kim
 
-1,393 songs - 3 day 5 hr 2 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
+1,394 songs - 3 day 5 hr 6 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1172,7 +1172,8 @@
 | [take me home](https://open.spotify.com/track/0XIpcWXGMI8JnFy4tvH5G5) | [Rosarrie](https://open.spotify.com/artist/7JGtDLeiMS8MXVZzbeDNCi) | [take me home](https://open.spotify.com/album/4ge9XlR3QGrPLvdwxntzLb) | 4:03 | 2022-04-13 | 2022-05-05 |
 | [Take Me Home](https://open.spotify.com/track/0MKq9pryJbJklXUXygOuHo) | [Taigh Wade](https://open.spotify.com/artist/2izy8SMmtv64GiXbCsub37) | [One Eighty](https://open.spotify.com/album/539A7Ium2nNVReO8HJAySC) | 2:19 | 2022-04-27 | 2022-05-12 |
 | [Take My Time](https://open.spotify.com/track/0nkUpI1i7xHcec4xWYzKQK) | [BERLYN](https://open.spotify.com/artist/34FNfdoojY6Cho0S4JoO4P) | [Take My Time](https://open.spotify.com/album/2mu5XTmsJJdrnV2I814UhC) | 3:23 | 2022-04-13 | 2022-05-05 |
-| [Take Off](https://open.spotify.com/track/3YVBd4kdQVkxDNXq0nm6F2) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf) | [Take Off](https://open.spotify.com/album/4EnQjaUD6S7fTOvHgJxWwx) | 3:18 | 2022-10-26 |  |
+| [Take Off](https://open.spotify.com/track/1i4to6HDLB4v41wPz9hUa1) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [SOLLYY](https://open.spotify.com/artist/5o3ky21CO5rHdwTNvLBMGo) | [Take Off](https://open.spotify.com/album/3baRS0atOGXgfCMHCxFjvW) | 3:18 | 2022-10-26 |  |
+| [Take Off](https://open.spotify.com/track/3YVBd4kdQVkxDNXq0nm6F2) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf) | [Take Off](https://open.spotify.com/album/4EnQjaUD6S7fTOvHgJxWwx) | 3:18 | 2022-10-26 | 2022-11-07 |
 | [Take The Crown](https://open.spotify.com/track/6TYNgEBLZnlJeNva2vQxJL) | [CLOE TERARE](https://open.spotify.com/artist/7FndscX6qPcyhuUgWlBHXf) | [Take The Crown](https://open.spotify.com/album/625H1nUTTAUU21xF9xyt7O) | 2:47 | 2021-12-28 | 2022-01-13 |
 | [Take Too Long](https://open.spotify.com/track/1JlCL0fublQBpOOjjWSdJG) | [J Verse](https://open.spotify.com/artist/4HGo8l4MbcAYghnxg5kZmB) | [Take Too Long](https://open.spotify.com/album/7IQmmHuioMlm7epp4ydlhh) | 2:16 | 2022-06-08 | 2022-06-30 |
 | [Take Yourself to the Movies](https://open.spotify.com/track/0lix2YNq3JpnxfFuL17AvV) | [Heaps Good Friends](https://open.spotify.com/artist/6Cy04iJLIYo0mQkNgJQoiV) | [Take Yourself to the Movies](https://open.spotify.com/album/0dbIdRBJSFPKpaiFY3JAtF) | 3:58 | 2022-06-08 | 2022-06-30 |

@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 117966,
+  "num_followers": 117990,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU5NDcwMCwwMDAwMDAwMGFkZDMwMjViOTZkN2M2MjYzYjg1NTQ2OGJhOWFjNjM3",
+  "snapshot_id": "MTY2NzU5NDcwMCwwMDAwMDAwMGRhMGNjYmZiZTFlMjQwNTBmNWExODU4MDYwMTRiMjU4",
   "tracks": [
     {
       "added_at": "2022-11-04 20:45:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-11-04 20:45:00",
       "album": {
-        "name": "Champagne",
-        "url": "https://open.spotify.com/album/0ph8WJ9gZSGnimj8QVkf6k"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 210264,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/2lIwPTpd2fhRq31jtFNBq1"
-    },
-    {
-      "added_at": "2022-11-04 20:45:00",
-      "album": {
         "name": "Till slutet av augusti (Live fr\u00e5n Benjamin's)",
         "url": "https://open.spotify.com/album/0wmrMW1NPeZvpPa3dKKypR"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 250635,
       "name": "Till slutet av augusti - Live fr\u00e5n Benjamin's",
       "url": "https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH"
+    },
+    {
+      "added_at": "2022-11-04 20:45:00",
+      "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/0ph8WJ9gZSGnimj8QVkf6k"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 210264,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/2lIwPTpd2fhRq31jtFNBq1"
     },
     {
       "added_at": "2022-11-04 20:45:00",
@@ -867,22 +867,18 @@
     {
       "added_at": "2022-11-04 20:45:00",
       "album": {
-        "name": "Komma \u00f6ver dig (feat. Benjamin Ingrosso)",
-        "url": "https://open.spotify.com/album/32HVqxhJDc732q8O1TeapO"
+        "name": "Iconic",
+        "url": "https://open.spotify.com/album/2odTVHhrNcmaKYnoiQ46yP"
       },
       "artists": [
         {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
         }
       ],
-      "duration_ms": 188037,
-      "name": "Komma \u00f6ver dig (feat. Benjamin Ingrosso)",
-      "url": "https://open.spotify.com/track/7ahokyY6O0NK0PnpFBxUHM"
+      "duration_ms": 148639,
+      "name": "Iconic",
+      "url": "https://open.spotify.com/track/4oVWH6Jo0vpDY3qusXMj5w"
     },
     {
       "added_at": "2022-11-04 20:45:00",
@@ -903,18 +899,38 @@
     {
       "added_at": "2022-11-04 20:45:00",
       "album": {
-        "name": "Iconic",
-        "url": "https://open.spotify.com/album/2odTVHhrNcmaKYnoiQ46yP"
+        "name": "Komma \u00f6ver dig (feat. Benjamin Ingrosso)",
+        "url": "https://open.spotify.com/album/32HVqxhJDc732q8O1TeapO"
       },
       "artists": [
         {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
         }
       ],
-      "duration_ms": 148639,
-      "name": "Iconic",
-      "url": "https://open.spotify.com/track/4oVWH6Jo0vpDY3qusXMj5w"
+      "duration_ms": 188037,
+      "name": "Komma \u00f6ver dig (feat. Benjamin Ingrosso)",
+      "url": "https://open.spotify.com/track/7ahokyY6O0NK0PnpFBxUHM"
+    },
+    {
+      "added_at": "2022-11-04 20:45:00",
+      "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/4NacRixpn1ImOnKmwlgBfc"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 81002,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/4UKu4kk8t9fTj9RsqxSMV5"
     },
     {
       "added_at": "2022-11-04 20:45:00",
@@ -963,22 +979,6 @@
       "duration_ms": 215818,
       "name": "Isabelle",
       "url": "https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv"
-    },
-    {
-      "added_at": "2022-11-04 20:45:00",
-      "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/4NacRixpn1ImOnKmwlgBfc"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 81002,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/4UKu4kk8t9fTj9RsqxSMV5"
     },
     {
       "added_at": "2022-11-04 20:45:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-11-04 20:45:00",
       "album": {
+        "name": "S\u00e4g N\u00e5t",
+        "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 166773,
+      "name": "S\u00e4g N\u00e5t",
+      "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
+    },
+    {
+      "added_at": "2022-11-04 20:45:00",
+      "album": {
         "name": "Policeman",
         "url": "https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft"
       },
@@ -1171,6 +1187,22 @@
       "duration_ms": 213061,
       "name": "Policeman",
       "url": "https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs"
+    },
+    {
+      "added_at": "2022-11-04 20:45:00",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/6yZ6emVn0iq4PG0pKKymVk"
+      },
+      "artists": [
+        {
+          "name": "Graham Lake",
+          "url": "https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/2XvvNyH2WkQjfpdkc8Lf5B"
     },
     {
       "added_at": "2022-11-04 20:45:00",
@@ -1263,22 +1295,6 @@
     {
       "added_at": "2022-11-04 20:45:00",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/6yZ6emVn0iq4PG0pKKymVk"
-      },
-      "artists": [
-        {
-          "name": "Graham Lake",
-          "url": "https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/2XvvNyH2WkQjfpdkc8Lf5B"
-    },
-    {
-      "added_at": "2022-11-04 20:45:00",
-      "album": {
         "name": "Djur och m\u00e4nniska",
         "url": "https://open.spotify.com/album/4Q6QpBgnx0XhGEgZHTC0hd"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2022-11-04 20:45:00",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 151816,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ"
-    },
-    {
-      "added_at": "2022-11-04 20:45:00",
-      "album": {
         "name": "Don't Lay It All On Me",
         "url": "https://open.spotify.com/album/6cXnkR2AXOQyAAnOLe3OfH"
       },
@@ -1323,22 +1323,6 @@
       "duration_ms": 231346,
       "name": "Don't Lay It All On Me",
       "url": "https://open.spotify.com/track/1HRqrNwbigZTSvx4F6zyOb"
-    },
-    {
-      "added_at": "2022-11-04 20:45:00",
-      "album": {
-        "name": "Once in a While [smile]",
-        "url": "https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 179954,
-      "name": "Once in a While [smile]",
-      "url": "https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm"
     },
     {
       "added_at": "2022-11-04 20:45:00",
@@ -1363,6 +1347,54 @@
     {
       "added_at": "2022-11-04 20:45:00",
       "album": {
+        "name": "\u00c4nnu mer",
+        "url": "https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 184482,
+      "name": "\u00c4nnu mer",
+      "url": "https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU"
+    },
+    {
+      "added_at": "2022-11-04 20:45:00",
+      "album": {
+        "name": "Once in a While [smile]",
+        "url": "https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 179954,
+      "name": "Once in a While [smile]",
+      "url": "https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm"
+    },
+    {
+      "added_at": "2022-11-04 20:45:00",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 151816,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ"
+    },
+    {
+      "added_at": "2022-11-04 20:45:00",
+      "album": {
         "name": "Blessed / Black Star",
         "url": "https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO"
       },
@@ -1375,22 +1407,6 @@
       "duration_ms": 191604,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s"
-    },
-    {
-      "added_at": "2022-11-04 20:45:00",
-      "album": {
-        "name": "S\u00e4g det som du menar det",
-        "url": "https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst"
-      },
-      "artists": [
-        {
-          "name": "Emilia Pantic",
-          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
-        }
-      ],
-      "duration_ms": 140973,
-      "name": "S\u00e4g det som du menar det",
-      "url": "https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj"
     },
     {
       "added_at": "2022-11-04 20:45:00",
@@ -1411,6 +1427,22 @@
     {
       "added_at": "2022-11-04 20:45:00",
       "album": {
+        "name": "S\u00e4g det som du menar det",
+        "url": "https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "duration_ms": 140973,
+      "name": "S\u00e4g det som du menar det",
+      "url": "https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj"
+    },
+    {
+      "added_at": "2022-11-04 20:45:00",
+      "album": {
         "name": "BACKYARD",
         "url": "https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4"
       },
@@ -1423,22 +1455,6 @@
       "duration_ms": 155085,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi"
-    },
-    {
-      "added_at": "2022-11-04 20:45:00",
-      "album": {
-        "name": "Stor p\u00e5 jorden/Sn\u00e4ll med John",
-        "url": "https://open.spotify.com/album/6HHh3OPNMzr7EwuA46fpm6"
-      },
-      "artists": [
-        {
-          "name": "Junior Brielle",
-          "url": "https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc"
-        }
-      ],
-      "duration_ms": 343426,
-      "name": "Stor p\u00e5 jorden",
-      "url": "https://open.spotify.com/track/4EHdsE2k1WiTJ4z7eCEUjB"
     },
     {
       "added_at": "2022-11-04 20:45:00",
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2022-11-04 20:45:00",
       "album": {
-        "name": "S\u00e4g N\u00e5t",
-        "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
+        "name": "Stor p\u00e5 jorden/Sn\u00e4ll med John",
+        "url": "https://open.spotify.com/album/6HHh3OPNMzr7EwuA46fpm6"
       },
       "artists": [
         {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+          "name": "Junior Brielle",
+          "url": "https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc"
         }
       ],
-      "duration_ms": 166773,
-      "name": "S\u00e4g N\u00e5t",
-      "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
+      "duration_ms": 343426,
+      "name": "Stor p\u00e5 jorden",
+      "url": "https://open.spotify.com/track/4EHdsE2k1WiTJ4z7eCEUjB"
     },
     {
       "added_at": "2022-11-04 20:45:00",
@@ -1599,6 +1615,22 @@
     {
       "added_at": "2022-11-04 20:45:00",
       "album": {
+        "name": "PART TWO",
+        "url": "https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 195913,
+      "name": "Poppis Visa",
+      "url": "https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1"
+    },
+    {
+      "added_at": "2022-11-04 20:45:00",
+      "album": {
         "name": "Got To Rise Up",
         "url": "https://open.spotify.com/album/4Y6RVWyqh58dRCxjw70X95"
       },
@@ -1615,18 +1647,26 @@
     {
       "added_at": "2022-11-04 20:45:00",
       "album": {
-        "name": "PART TWO",
-        "url": "https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j"
+        "name": "Korthus",
+        "url": "https://open.spotify.com/album/4JwYFYWEHacLDk0dV6emb8"
       },
       "artists": [
         {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "Maxida M\u00e4rak",
+          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
+        },
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        },
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
         }
       ],
-      "duration_ms": 195913,
-      "name": "Poppis Visa",
-      "url": "https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1"
+      "duration_ms": 182720,
+      "name": "Korthus",
+      "url": "https://open.spotify.com/track/19ILYbyW3BPeDUxH3TYBPU"
     },
     {
       "added_at": "2022-11-04 20:45:00",
@@ -1675,46 +1715,6 @@
       "duration_ms": 207142,
       "name": "Tar det som det kommer",
       "url": "https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx"
-    },
-    {
-      "added_at": "2022-11-04 20:45:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 221350,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY"
-    },
-    {
-      "added_at": "2022-11-04 20:45:00",
-      "album": {
-        "name": "Korthus",
-        "url": "https://open.spotify.com/album/4JwYFYWEHacLDk0dV6emb8"
-      },
-      "artists": [
-        {
-          "name": "Maxida M\u00e4rak",
-          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
-        },
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        },
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "Korthus",
-      "url": "https://open.spotify.com/track/19ILYbyW3BPeDUxH3TYBPU"
     }
   ],
   "unique_name": "Made in Sweden",

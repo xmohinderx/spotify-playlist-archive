@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-402 songs - 22 hr 33 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+403 songs - 22 hr 36 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [Kilby Girl](https://open.spotify.com/track/3fsaxdtRDMEvZu1XC3FN2i) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/0tIHVQTSqQB3DW6Nt7amsA) | 4:42 | 2021-03-10 | 2022-07-29 |
 | [Killer Whales](https://open.spotify.com/track/0qnOjNW04qpcgXqD9dwru2) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:42 | 2021-03-10 |  |
 | [Kombucha](https://open.spotify.com/track/7pGYQz0yMkm8rLdP6u1wZW) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Kombucha](https://open.spotify.com/album/4STKNQMCHzs7k8sEUwdAzL) | 3:15 | 2021-03-10 | 2022-07-29 |
-| [landline](https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [landline](https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op) | 3:03 | 2022-05-27 |  |
+| [landline](https://open.spotify.com/track/3OqP3uIygaUiuVzhVyk0X5) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:03 | 2022-10-07 |  |
+| [landline](https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [landline](https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op) | 3:03 | 2022-05-27 | 2022-11-07 |
 | [Last Forever](https://open.spotify.com/track/1M5P4fB2GpN3CP2P3zmPyE) | [Fenech\-Soler](https://open.spotify.com/artist/5GqAhBdaiG5StP2EHhmw8B) | [Last Forever](https://open.spotify.com/album/30nGwc6m89EN6wjbR2iXKc) | 4:54 | 2022-03-11 | 2022-04-20 |
 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 | 2022-03-22 |  |
 | [Let Down](https://open.spotify.com/track/6zvpLxTrTKDzdeQ9OLshpQ) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Let Down](https://open.spotify.com/album/2ZwK8x38X6dRgBTZNSACVU) | 2:56 | 2021-03-10 | 2022-07-30 |

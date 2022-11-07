@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 114304,
+  "num_followers": 114332,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMGIwYzkxMmRkNmIxOWM2MDE5MWY3ZTRkMGYwY2UwNTA4",
+  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMGM2YmQzZDMzN2FhOGRmODg4NmZjNjg4OTQwNGQ3NTA1",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -223,22 +223,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Inner Mystique",
-        "url": "https://open.spotify.com/album/59gjybUFPdD8weo8AOFjzd"
-      },
-      "artists": [
-        {
-          "name": "The Chocolate Watchband",
-          "url": "https://open.spotify.com/artist/0BNTrhhkZLsbcWAidMz98A"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/4f2kQCUusGjKrUeowAtUOc"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Easter Everywhere",
         "url": "https://open.spotify.com/album/5RQNjPQbqY82MBTwaQp3ik"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 482278,
       "name": "Slip Inside This House - Stereo LP Version",
       "url": "https://open.spotify.com/track/4GVRHAwABAV0v63YX9Go0p"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Inner Mystique",
+        "url": "https://open.spotify.com/album/59gjybUFPdD8weo8AOFjzd"
+      },
+      "artists": [
+        {
+          "name": "The Chocolate Watchband",
+          "url": "https://open.spotify.com/artist/0BNTrhhkZLsbcWAidMz98A"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/4f2kQCUusGjKrUeowAtUOc"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -319,22 +319,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "The Savage Resurrection",
-        "url": "https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu"
-      },
-      "artists": [
-        {
-          "name": "The Savage Resurrection",
-          "url": "https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Fox Is Sick",
-      "url": "https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
         "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 208493,
       "name": "The Train Kept A-Rollin'",
       "url": "https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "The Savage Resurrection",
+        "url": "https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu"
+      },
+      "artists": [
+        {
+          "name": "The Savage Resurrection",
+          "url": "https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Fox Is Sick",
+      "url": "https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI"
     },
     {
       "added_at": "2022-03-28 19:25:04",

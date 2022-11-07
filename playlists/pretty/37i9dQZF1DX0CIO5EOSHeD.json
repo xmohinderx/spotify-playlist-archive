@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 385196,
+  "num_followers": 385525,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkzMDA3MywwMDAwMDAwMGYwN2JjMjRiNDc0MTc3YWY4MTJiMWUxZjA0MDA4NjMw",
+  "snapshot_id": "MTY2MzkzMDA3MywwMDAwMDAwMDNlMDg2ODExMzY4ZjE2YTcxZTc1MWFkZmIwMGEyZmVk",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Huli Ka",
-        "url": "https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u"
-      },
-      "artists": [
-        {
-          "name": "Whatever, Dad",
-          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Death of the Phone Call",
-      "url": "https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "madhouse",
         "url": "https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 211075,
       "name": "madhouse",
       "url": "https://open.spotify.com/track/36fC4xtAucJ7KH6sdSDDo7"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Huli Ka",
+        "url": "https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u"
+      },
+      "artists": [
+        {
+          "name": "Whatever, Dad",
+          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Death of the Phone Call",
+      "url": "https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Good Morning It's Now Tomorrow",
+        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Big Day",
         "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 131618,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Good Morning It's Now Tomorrow",
-        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "There's Nothing But Pleasure",
+        "url": "https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc"
+      },
+      "artists": [
+        {
+          "name": "Bubble Tea and Cigarettes",
+          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
+        }
+      ],
+      "duration_ms": 341186,
+      "name": "5AM Empanada with You",
+      "url": "https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "There's Nothing But Pleasure",
-        "url": "https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc"
+        "name": "Maybe the Problem Is Me",
+        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
       },
       "artists": [
         {
-          "name": "Bubble Tea and Cigarettes",
-          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
         }
       ],
-      "duration_ms": 341186,
-      "name": "5AM Empanada with You",
-      "url": "https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM"
+      "duration_ms": 133090,
+      "name": "Maybe the Problem Is Me",
+      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1183,22 +1199,6 @@
       "duration_ms": 179141,
       "name": "Before the Fall",
       "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Maybe the Problem Is Me",
-        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
-      },
-      "artists": [
-        {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 133090,
-      "name": "Maybe the Problem Is Me",
-      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Body Jumper (Deluxe)",
+        "url": "https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        },
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Mystery Key - Eyedress Remix",
+      "url": "https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "wish i could see you again",
         "url": "https://open.spotify.com/album/6ub14KPnedemkpxkj0KNfB"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 243666,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Body Jumper (Deluxe)",
-        "url": "https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        },
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Mystery Key - Eyedress Remix",
-      "url": "https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN"
-      },
-      "artists": [
-        {
-          "name": "rainbow frog biscuits",
-          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Boys Cry",
         "url": "https://open.spotify.com/album/55hp8spWuKixazOfG5olQQ"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 198932,
       "name": "Half Eaten",
       "url": "https://open.spotify.com/track/0uD7KsA2g7cTBxFyk5Fo5M"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN"
+      },
+      "artists": [
+        {
+          "name": "rainbow frog biscuits",
+          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Avian",
-        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
       },
       "artists": [
         {
-          "name": "patchymate",
-          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
+          "name": "Launder",
+          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
         }
       ],
-      "duration_ms": 120000,
-      "name": "babyur2nice",
-      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
+      "duration_ms": 203444,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
     }
   ],
   "unique_name": "Lo-fi Indie",

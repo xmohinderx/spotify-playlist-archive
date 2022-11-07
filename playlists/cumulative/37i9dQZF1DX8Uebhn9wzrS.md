@@ -4,7 +4,7 @@
 
 > The perfect study beats, twenty four seven.
 
-982 songs - 1 day 13 hr 26 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
+983 songs - 1 day 13 hr 27 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -720,7 +720,8 @@
 | [Reminds Me of Me](https://open.spotify.com/track/2qz2QDD9p4P9PfbOZN0ngF) | [FØRTE](https://open.spotify.com/artist/46vhqe1g0BJGdspci0dwbF) | [Reminds Me of Me](https://open.spotify.com/album/6gM2Wpa6XZiRgjs0Adb0Hd) | 2:42 | 2022-10-07 |  |
 | [Restless](https://open.spotify.com/track/5xYTsbx3aGOGv3mvIxny97) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Restless](https://open.spotify.com/album/30DSkNqh7iM9CoxpoYhNde) | 1:55 | 2022-04-15 |  |
 | [Reverse](https://open.spotify.com/track/0gaIq6GppINTID6vCJsel1) | [St\. Vrain](https://open.spotify.com/artist/5JhftUX2nAHcXC5xX7bStW) | [Reverse](https://open.spotify.com/album/0cpqXXjTS0Xc5SBoNJJiBU) | 3:15 | 2022-06-10 |  |
-| [Rich Soul](https://open.spotify.com/track/2mEmxDyZMwUezHwSLHKJjB) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Rich Soul](https://open.spotify.com/album/00GK6byoprJKFtOrqYVLZf) | 1:07 | 2022-10-07 |  |
+| [Rich Soul](https://open.spotify.com/track/2mEmxDyZMwUezHwSLHKJjB) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Rich Soul](https://open.spotify.com/album/00GK6byoprJKFtOrqYVLZf) | 1:07 | 2022-10-07 | 2022-11-07 |
+| [Rich Soul](https://open.spotify.com/track/5j9DKjQjAUt55yKCTfkZxZ) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Rich Soul](https://open.spotify.com/album/05ZdLcdabRX0nmXalFrMxY) | 1:07 | 2022-10-28 |  |
 | [Ricochet](https://open.spotify.com/track/3a5cfttZFZ20nfTvzZ462L) | [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Ricochet](https://open.spotify.com/album/6boX8DHQXaCfF1rF1ph4Bz) | 2:44 | 2022-09-16 |  |
 | [Riff Raff](https://open.spotify.com/track/7tNVTkmMvif265BP6D5vs3) | [8track mind](https://open.spotify.com/artist/5Qak9B91vMGtkgP8y11sPA) | [Riff Raff](https://open.spotify.com/album/0sqzj74wNIb11uICs47JOE) | 2:38 | 2022-04-15 | 2022-05-27 |
 | [Ripples](https://open.spotify.com/track/3WeZQ5yOSPwWrZKONN0DCG) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [Ripples](https://open.spotify.com/album/2XBRBjmpfhSIvFBP0PpKqo) | 2:38 | 2022-08-12 |  |

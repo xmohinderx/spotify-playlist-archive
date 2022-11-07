@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 23438,
+  "num_followers": 23456,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDgxZWE2NDM2NTIwYTk4MGRmMWNiMGJkYTZmNmY1YzFm",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDI5YzNiNzI3OTU3YTUzMmQzZDNjMGY2ZDFhNzhiMTA0",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -359,6 +359,26 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Chica Ideal",
+        "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 183240,
+      "name": "Chica Ideal",
+      "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 241659,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Chica Ideal",
-        "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "Chica Ideal",
-      "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -571,22 +571,18 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Gangalee",
-        "url": "https://open.spotify.com/album/1PgFsarDcIwCvLX32DpcxB"
+        "name": "Reggaetonea",
+        "url": "https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 289906,
-      "name": "La Cartera",
-      "url": "https://open.spotify.com/track/1g2Z2lOrwayOzDqOc8EfbR"
+      "duration_ms": 142500,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/4jiYaQVHzMfKhEeLypWpNO"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -607,18 +603,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Reggaetonea",
-        "url": "https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni"
+        "name": "Gangalee",
+        "url": "https://open.spotify.com/album/1PgFsarDcIwCvLX32DpcxB"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Mujeriego",
-      "url": "https://open.spotify.com/track/4jiYaQVHzMfKhEeLypWpNO"
+      "duration_ms": 289906,
+      "name": "La Cartera",
+      "url": "https://open.spotify.com/track/1g2Z2lOrwayOzDqOc8EfbR"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Pare Cochero",
+        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
+      },
+      "artists": [
+        {
+          "name": "La Gloria Matancera",
+          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Con la Punta del Pie",
+      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Tiburones (Remix)",
         "url": "https://open.spotify.com/album/6DA3B00tS2tz6kaSlxyjrK"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 209373,
       "name": "Tiburones - Remix",
       "url": "https://open.spotify.com/track/73HSOVmGMA0Qfo4ujlM1GF"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Pare Cochero",
-        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
-      },
-      "artists": [
-        {
-          "name": "La Gloria Matancera",
-          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Con la Punta del Pie",
-      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1231,30 +1231,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "C\u00e1ntalo",
-        "url": "https://open.spotify.com/album/25a4WLnsIpQFbJ8d3SiF9y"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 218996,
-      "name": "C\u00e1ntalo",
-      "url": "https://open.spotify.com/track/7MkFd0UDHlILDrhBjGZH5K"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Imaginarme Sin Ti",
         "url": "https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8"
       },
@@ -1287,6 +1263,30 @@
       "duration_ms": 186440,
       "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
       "url": "https://open.spotify.com/track/0Upe0FIOS01lwUu7d4WSrR"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "C\u00e1ntalo",
+        "url": "https://open.spotify.com/album/25a4WLnsIpQFbJ8d3SiF9y"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 218996,
+      "name": "C\u00e1ntalo",
+      "url": "https://open.spotify.com/track/7MkFd0UDHlILDrhBjGZH5K"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Religi\u00f3n",
+        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 220903,
+      "name": "Religi\u00f3n",
+      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "DALE CINTURA (Kuliki) (feat. Steve Aoki, Kiko El Crazy & To\u00f1o Rosario)",
         "url": "https://open.spotify.com/album/0VZmqgg0wUKIIpIfzRqhUn"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 220031,
       "name": "DALE CINTURA (Kuliki) (feat. Steve Aoki, Kiko El Crazy & To\u00f1o Rosario)",
       "url": "https://open.spotify.com/track/7vpXKawR8GEUAz6FYPhbbO"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Religi\u00f3n",
-        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 220903,
-      "name": "Religi\u00f3n",
-      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1939,6 +1939,38 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Y Que\u0301 Paso\u0301?",
+        "url": "https://open.spotify.com/album/05ZSFYsMffZur7XPbJNMCM"
+      },
+      "artists": [
+        {
+          "name": "Chiquito Team Band",
+          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
+        }
+      ],
+      "duration_ms": 221559,
+      "name": "Y Qu\u00e9 Pas\u00f3?",
+      "url": "https://open.spotify.com/track/4BpOF7fEKoGStuMvqgia7R"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Cobarde",
+        "url": "https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Pues (with Luis Fonsi & Sean Paul)",
         "url": "https://open.spotify.com/album/03HdtkcGhFu7BdOGdFV3Hf"
       },
@@ -1959,22 +1991,6 @@
       "duration_ms": 127333,
       "name": "Pues (with Luis Fonsi & Sean Paul)",
       "url": "https://open.spotify.com/track/0H4olUjRf0vXXuQkpKnJmr"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Y Que\u0301 Paso\u0301?",
-        "url": "https://open.spotify.com/album/05ZSFYsMffZur7XPbJNMCM"
-      },
-      "artists": [
-        {
-          "name": "Chiquito Team Band",
-          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
-        }
-      ],
-      "duration_ms": 221559,
-      "name": "Y Qu\u00e9 Pas\u00f3?",
-      "url": "https://open.spotify.com/track/4BpOF7fEKoGStuMvqgia7R"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -2015,22 +2031,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Cobarde",
-        "url": "https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Cornettazos (Vol.2)",
         "url": "https://open.spotify.com/album/2rKPE4P2hCes0wCdZZzMkd"
       },
@@ -2043,22 +2043,6 @@
       "duration_ms": 164640,
       "name": "Mara Del Carmen",
       "url": "https://open.spotify.com/track/4uTVQlPkL2rlVDbNheskYx"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Pa' Que Te Duela",
-        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
-      },
-      "artists": [
-        {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
-        }
-      ],
-      "duration_ms": 234899,
-      "name": "Traiganme Alcohol",
-      "url": "https://open.spotify.com/track/483stYH6hNRad4b5qeyI9K"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -2079,6 +2063,22 @@
       "duration_ms": 197538,
       "name": "Goza Pelota",
       "url": "https://open.spotify.com/track/47ojnruXrJxBoc8R5XcvxR"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Pa' Que Te Duela",
+        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
+      },
+      "artists": [
+        {
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+        }
+      ],
+      "duration_ms": 234899,
+      "name": "Traiganme Alcohol",
+      "url": "https://open.spotify.com/track/483stYH6hNRad4b5qeyI9K"
     },
     {
       "added_at": "2022-08-31 07:37:37",

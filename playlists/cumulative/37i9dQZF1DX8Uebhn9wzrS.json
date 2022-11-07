@@ -13555,10 +13555,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 67852,
       "name": "Rich Soul",
       "url": "https://open.spotify.com/track/2mEmxDyZMwUezHwSLHKJjB"
+    },
+    {
+      "album": {
+        "name": "Rich Soul",
+        "url": "https://open.spotify.com/album/05ZdLcdabRX0nmXalFrMxY"
+      },
+      "artists": [
+        {
+          "name": "Siesta",
+          "url": "https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67852,
+      "name": "Rich Soul",
+      "url": "https://open.spotify.com/track/5j9DKjQjAUt55yKCTfkZxZ"
     },
     {
       "album": {

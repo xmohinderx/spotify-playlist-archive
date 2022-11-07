@@ -1,12 +1,12 @@
 {
   "description": "A collection of classics and recent tracks from the world of black and dark metal. Cover: Dimmu Borgir",
-  "num_followers": 402507,
+  "num_followers": 402637,
   "original_name": "Black & Dark Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1NDAwMCwwMDAwMDAwMDI3Zjc1NzIzZjg0ZmZhYzU4ZDRkYzlmZDc1MzZhNzRl",
+  "snapshot_id": "MTY2Njg1NDAwMCwwMDAwMDAwMDIxYzRiZjU2NWFkOTYzMmVhYWVjMjZhMDJkMjAwZmQ5",
   "tracks": [
     {
       "added_at": "2022-10-27 07:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Swamped XX",
-        "url": "https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 212826,
-      "name": "Swamped XX",
-      "url": "https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "From The Cradle To Enslave",
         "url": "https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp"
       },
@@ -251,6 +235,22 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
+        "name": "Swamped XX",
+        "url": "https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 212826,
+      "name": "Swamped XX",
+      "url": "https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
         "name": "Zeal & Ardor",
         "url": "https://open.spotify.com/album/4lh0rl7eI2w9Rik8JECk9l"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 183106,
       "name": "G\u00f6tterd\u00e4mmerung",
       "url": "https://open.spotify.com/track/6pXKSo89ne9mbPInCWk8dw"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Demigod",
+        "url": "https://open.spotify.com/album/0agVluQ3DkGd2dIec20gU6"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Conquer All",
+      "url": "https://open.spotify.com/track/5pKdvuth8EyC6pLxMu3aSr"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -295,22 +311,6 @@
       "duration_ms": 369760,
       "name": "Transilvanian Hunger - Studio",
       "url": "https://open.spotify.com/track/2JIRtFAIUkd86PQD12Hm7r"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "Demigod",
-        "url": "https://open.spotify.com/album/0agVluQ3DkGd2dIec20gU6"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Conquer All",
-      "url": "https://open.spotify.com/track/5pKdvuth8EyC6pLxMu3aSr"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -395,38 +395,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Compulsion for Cruelty",
-        "url": "https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL"
-      },
-      "artists": [
-        {
-          "name": "Dying Fetus",
-          "url": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie"
-        }
-      ],
-      "duration_ms": 277996,
-      "name": "Compulsion for Cruelty",
-      "url": "https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "Bathory",
-        "url": "https://open.spotify.com/album/7DMuOFuYQbzoVgw4Cawf6L"
-      },
-      "artists": [
-        {
-          "name": "Bathory",
-          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Hades",
-      "url": "https://open.spotify.com/track/1acx35894eJWiwnjN7faXD"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "Evangelion",
         "url": "https://open.spotify.com/album/6ZizJ3rk1Eok7JOKL6UMwv"
       },
@@ -443,6 +411,22 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
+        "name": "Compulsion for Cruelty",
+        "url": "https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL"
+      },
+      "artists": [
+        {
+          "name": "Dying Fetus",
+          "url": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie"
+        }
+      ],
+      "duration_ms": 277996,
+      "name": "Compulsion for Cruelty",
+      "url": "https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
         "name": "Panzerfaust",
         "url": "https://open.spotify.com/album/1WVwSy7kIQ5AmkVa1tPppg"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 456906,
       "name": "Quintessence",
       "url": "https://open.spotify.com/track/0h2KyPkIISeMMkA2X0eXU5"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Bathory",
+        "url": "https://open.spotify.com/album/7DMuOFuYQbzoVgw4Cawf6L"
+      },
+      "artists": [
+        {
+          "name": "Bathory",
+          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Hades",
+      "url": "https://open.spotify.com/track/1acx35894eJWiwnjN7faXD"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Nordland I",
-        "url": "https://open.spotify.com/album/7831vQlOH3NIwwC15R7oog"
-      },
-      "artists": [
-        {
-          "name": "Bathory",
-          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
-        }
-      ],
-      "duration_ms": 334973,
-      "name": "Ring of Gold",
-      "url": "https://open.spotify.com/track/35yrWddjHkq0FqDBitYZZT"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "Moonflowers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 379493,
       "name": "Moonflowers Bloom in Misery",
       "url": "https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "The Satanist",
+        "url": "https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 265440,
+      "name": "Blow Your Trumpets Gabriel",
+      "url": "https://open.spotify.com/track/4JynkH6Oa9cJ0zUTzYA2UP"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "The Satanist",
-        "url": "https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS"
+        "name": "Nordland I",
+        "url": "https://open.spotify.com/album/7831vQlOH3NIwwC15R7oog"
       },
       "artists": [
         {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+          "name": "Bathory",
+          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
         }
       ],
-      "duration_ms": 265440,
-      "name": "Blow Your Trumpets Gabriel",
-      "url": "https://open.spotify.com/track/4JynkH6Oa9cJ0zUTzYA2UP"
+      "duration_ms": 334973,
+      "name": "Ring of Gold",
+      "url": "https://open.spotify.com/track/35yrWddjHkq0FqDBitYZZT"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Under the Sign of the Black Mark",
-        "url": "https://open.spotify.com/album/5HT0xp5AqEzzAzzjj9gPZN"
-      },
-      "artists": [
-        {
-          "name": "Bathory",
-          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Call from the Grave",
-      "url": "https://open.spotify.com/track/2v74ik56b9FHNwdhoAEVOd"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "At The Heart Of Winter",
         "url": "https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 509640,
       "name": "Withstand The Fall Of Time",
       "url": "https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "To Violate the Obvious",
+        "url": "https://open.spotify.com/album/09hdLksOJb99vfLRACtw9C"
+      },
+      "artists": [
+        {
+          "name": "Xasthur",
+          "url": "https://open.spotify.com/artist/0nH9qzKJMfrJNnF37nDaVj"
+        }
+      ],
+      "duration_ms": 495000,
+      "name": "Screaming at Forgotten Tears",
+      "url": "https://open.spotify.com/track/62aAEJfIS8Vi5JCU9z4ZRl"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "To Violate the Obvious",
-        "url": "https://open.spotify.com/album/09hdLksOJb99vfLRACtw9C"
+        "name": "Under the Sign of the Black Mark",
+        "url": "https://open.spotify.com/album/5HT0xp5AqEzzAzzjj9gPZN"
       },
       "artists": [
         {
-          "name": "Xasthur",
-          "url": "https://open.spotify.com/artist/0nH9qzKJMfrJNnF37nDaVj"
+          "name": "Bathory",
+          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
         }
       ],
-      "duration_ms": 495000,
-      "name": "Screaming at Forgotten Tears",
-      "url": "https://open.spotify.com/track/62aAEJfIS8Vi5JCU9z4ZRl"
+      "duration_ms": 294266,
+      "name": "Call from the Grave",
+      "url": "https://open.spotify.com/track/2v74ik56b9FHNwdhoAEVOd"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -747,6 +747,22 @@
       "duration_ms": 313209,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Battles in the North",
+        "url": "https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 274586,
+      "name": "Blashyrkh - Mighty Ravendark",
+      "url": "https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -795,22 +811,6 @@
       "duration_ms": 290146,
       "name": "Coming Storm",
       "url": "https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "Battles in the North",
-        "url": "https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw"
-      },
-      "artists": [
-        {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "Blashyrkh - Mighty Ravendark",
-      "url": "https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
+        "name": "Pure Holocaust",
+        "url": "https://open.spotify.com/album/1oiueifrAKrGjrxZzpCYkQ"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "Unsilent Storms In The North Abyss",
+      "url": "https://open.spotify.com/track/2JzcrgG7EroPtXVTfSNo8G"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
         "name": "Enthrone Darkness Triumphant",
         "url": "https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 454920,
       "name": "Kagutsuchi",
       "url": "https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "Pure Holocaust",
-        "url": "https://open.spotify.com/album/1oiueifrAKrGjrxZzpCYkQ"
-      },
-      "artists": [
-        {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "Unsilent Storms In The North Abyss",
-      "url": "https://open.spotify.com/track/2JzcrgG7EroPtXVTfSNo8G"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Hamartia",
-        "url": "https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS"
-      },
-      "artists": [
-        {
-          "name": "Tribulation",
-          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
-        }
-      ],
-      "duration_ms": 363226,
-      "name": "Hamartia",
-      "url": "https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "Below The Lights",
         "url": "https://open.spotify.com/album/3uei5LFX4boIwVER1zdLD8"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
+        "name": "Hamartia",
+        "url": "https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS"
+      },
+      "artists": [
+        {
+          "name": "Tribulation",
+          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
+        }
+      ],
+      "duration_ms": 363226,
+      "name": "Hamartia",
+      "url": "https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
         "name": "Pentagram",
         "url": "https://open.spotify.com/album/7nrkez4pvM9W3nrHr7xHim"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 153240,
       "name": "Begravelsesnatt",
       "url": "https://open.spotify.com/track/1FLfUPKZDEyqVq1CkhJrlV"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Damned In Black",
+        "url": "https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 411400,
+      "name": "Damned In Black",
+      "url": "https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -1087,38 +1103,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Damned In Black",
-        "url": "https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau"
-      },
-      "artists": [
-        {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
-        }
-      ],
-      "duration_ms": 411400,
-      "name": "Damned In Black",
-      "url": "https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "Insides Out",
-        "url": "https://open.spotify.com/album/3S7FS6FPMQkV1WjZHONnsK"
-      },
-      "artists": [
-        {
-          "name": "Wednesday 13",
-          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
-        }
-      ],
-      "duration_ms": 212183,
-      "name": "Insides Out",
-      "url": "https://open.spotify.com/track/2HozqHMcda35hKU7nefbZP"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "Demon Entrails",
         "url": "https://open.spotify.com/album/0GTNfSLAYvb7Z7b0NDaafF"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 350053,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Insides Out",
+        "url": "https://open.spotify.com/album/3S7FS6FPMQkV1WjZHONnsK"
+      },
+      "artists": [
+        {
+          "name": "Wednesday 13",
+          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
+        }
+      ],
+      "duration_ms": 212183,
+      "name": "Insides Out",
+      "url": "https://open.spotify.com/track/2HozqHMcda35hKU7nefbZP"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Kingdom",
-        "url": "https://open.spotify.com/album/0YWKSnXJ6VUlc0rCGdfmZW"
-      },
-      "artists": [
-        {
-          "name": "Enslaved",
-          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
-        }
-      ],
-      "duration_ms": 351880,
-      "name": "Kingdom",
-      "url": "https://open.spotify.com/track/0DfUFmR3IAi6qqXyStk0y9"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "Defending the Throne of Evil",
         "url": "https://open.spotify.com/album/3L640gN3OxWwYVipxqerWA"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 281733,
       "name": "It's Darker than you Think",
       "url": "https://open.spotify.com/track/479lTQmXhnmGai0UGVxQpY"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/0YWKSnXJ6VUlc0rCGdfmZW"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        }
+      ],
+      "duration_ms": 351880,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/0DfUFmR3IAi6qqXyStk0y9"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Outstrider",
-        "url": "https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ"
-      },
-      "artists": [
-        {
-          "name": "Abbath",
-          "url": "https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx"
-        }
-      ],
-      "duration_ms": 252066,
-      "name": "Harvest Pyre",
-      "url": "https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "Hellfire",
         "url": "https://open.spotify.com/album/4qntR4s02MF97EkxAhcdr2"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 250506,
       "name": "I Am Abomination",
       "url": "https://open.spotify.com/track/1SBGE2wrNmiwHnnLSAiegd"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Outstrider",
+        "url": "https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ"
+      },
+      "artists": [
+        {
+          "name": "Abbath",
+          "url": "https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx"
+        }
+      ],
+      "duration_ms": 252066,
+      "name": "Harvest Pyre",
+      "url": "https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Arising Realm",
-        "url": "https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX"
+        "name": "Emperor / Wrath Of The Tyrant",
+        "url": "https://open.spotify.com/album/0kzYmtQyUN3WfoGsFZL9Jd"
       },
       "artists": [
         {
-          "name": "Ragnarok",
-          "url": "https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq"
+          "name": "Emperor",
+          "url": "https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y"
         }
       ],
-      "duration_ms": 258690,
-      "name": "God Is Wasted",
-      "url": "https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh"
+      "duration_ms": 382293,
+      "name": "Cosmic Keys To My Creations",
+      "url": "https://open.spotify.com/track/2FtV4xF6bDTesZBgDLSYkH"
     }
   ],
   "unique_name": "Black & Dark Metal",

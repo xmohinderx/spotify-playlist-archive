@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,354 likes - 500 songs - 19 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,641 likes - 500 songs - 19 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -454,7 +454,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 444 | [Mellow Soul](https://open.spotify.com/track/2PTqDoJuM3W9Z9Zn1ddJfU) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Highway](https://open.spotify.com/album/0mk205AAszddbq1ogyLECX) | 2:28 |
 | 445 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 |
 | 446 | [Spanish Tea](https://open.spotify.com/track/0crQI3ryIPyMbWxcI25mYf) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Spanish Tea](https://open.spotify.com/album/5hUlagOKj7afZAb2q09ZcK) | 2:03 |
-| 447 | [latte](https://open.spotify.com/track/2EpeEaCnnjrrIlI1flvdsq) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG) | [latte](https://open.spotify.com/album/2Zb7URpLsprOd8w0riHHaH) | 2:00 |
+| 447 | [latte](https://open.spotify.com/track/6f2j3y74n9nztWFvKuMwNb) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG) | [latte](https://open.spotify.com/album/1VkZdEEAkDyY3pYzFy7fsx) | 2:00 |
 | 448 | [Bluebells](https://open.spotify.com/track/0YqT8NJCJJxbvJwEMCoi9x) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Bluebells](https://open.spotify.com/album/699EswyF9GncBZLjtUDjm8) | 2:23 |
 | 449 | [Works of Fiction](https://open.spotify.com/track/4OIWPBw1keXcCsTBh1Jw39) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:48 |
 | 450 | [Lonely Mountain](https://open.spotify.com/track/2kxJbP2CXEZRCaCefWD721) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:48 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 499 | [Snow](https://open.spotify.com/track/7gDD63ZLoB08QdUkamY9cc) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS), [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Snow](https://open.spotify.com/album/5FHTW00QwPLbDBa3uJZHqp) | 2:34 |
 | 500 | [Sunburn](https://open.spotify.com/track/5YZOHVXgS3khDYFARvAUzh) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Zephyr](https://open.spotify.com/album/3o1AjNSUqYbysJbeinEb7c) | 2:14 |
 
-Snapshot ID: `MTY2Njk1NzA4MSwwMDAwMDAwMGZjNDI0M2Y3YzhhODcxNjY1YWQ5NDQxYTEzYzVkZGQ5`
+Snapshot ID: `MTY2Njk1NzA4MSwwMDAwMDAwMDQ0MzBkNGFkOTdkZTYxMzExMjUzMTEyNzcwZTQyMWQ1`

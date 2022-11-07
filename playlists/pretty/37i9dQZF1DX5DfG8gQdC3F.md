@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Drake & 21 Savage \(pictured\), Selena Gomez, Tiësto & Tate McRae, Joji, P!nk, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,464 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,535 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 54 | [DAMN RIGHT](https://open.spotify.com/track/3qsMusRYrSX3N6gR8jpnHU) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [DAMN RIGHT](https://open.spotify.com/album/14aHXW99J1Gsh1meBF8h9M) | 2:50 |
 | 55 | [Bitter](https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Bitter](https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp) | 2:18 |
 | 56 | [WE NEED SOME HELP](https://open.spotify.com/track/3YIyKhcLMfrO5zRMcFFnBk) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [WE NEED SOME HELP](https://open.spotify.com/album/7siEe1fqtHDnqHribtTFbb) | 2:59 |
-| 57 | [My Argentina](https://open.spotify.com/track/5CYkymD2AqbSFGG2KQr88n) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [My Argentina](https://open.spotify.com/album/3riMHTE10EiZmMqW9ZfO28) | 5:01 |
+| 57 | [My Argentina](https://open.spotify.com/track/5thEuYF5DJK0KPk3eFUVXe) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 5:01 |
 | 58 | [Show Me \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Show Me \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/21aMLKMyG5sZZPTBswkYuQ) | 2:57 |
 | 59 | [Sleazy F.M.](https://open.spotify.com/track/0tvC4lI9tMSZG7iGscj5KK) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Sleazy F.M.](https://open.spotify.com/album/4vUyQ6OwAR7H97UyBF5gXh) | 5:57 |
 | 60 | [Letter to Sidhu](https://open.spotify.com/track/4fkkP30XoD5APto9pgwO8u) | [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [Letter to Sidhu](https://open.spotify.com/album/2Bp2zaWyfZqr613JpB6HCj) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [My Favourite Dream](https://open.spotify.com/track/2UtkFuF09Bu0y7UIZnIx3I) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Tribe Alexander](https://open.spotify.com/artist/1Rj7IzzqQVvx8HtZ1WfwCv) | [My Favourite Dream](https://open.spotify.com/album/1a4ZSU5OGdzce2xLnbrwl4) | 3:52 |
 | 100 | [Bliss](https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Bliss](https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe) | 5:47 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDRlZWI5MDIwZjY3N2NhYmRmMmI2MDJiZTI2NmU4MDNi`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDViNmJjYTIwYWQxNGMyMzQzYjk3NDk4OGMzYzE3MTQ3`

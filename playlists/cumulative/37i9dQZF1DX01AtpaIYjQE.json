@@ -1986,6 +1986,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u6589\u30ce\u559d\u91c7",
+        "url": "https://open.spotify.com/album/4df4MRoP9eRvvx6TwnhRyK"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "\u4e00\u6589\u30ce\u559d\u91c7",
+      "url": "https://open.spotify.com/track/4XP3BtzCEjRYff2K0M1HkY"
+    },
+    {
+      "album": {
         "name": "\u518d\u4f1a (produced by Ayase)",
         "url": "https://open.spotify.com/album/5E725MGo2fLSl5Q6CYKevf"
       },

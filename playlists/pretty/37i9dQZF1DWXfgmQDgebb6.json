@@ -1,12 +1,12 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: Dopein)",
-  "num_followers": 6450,
+  "num_followers": 6464,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ2NzM2OCwwMDAwMDAwMDc2ZTA5YjQ2ZWQ0ZDc0YjRjMmRiOTRmYzNjMjU2MjVj",
+  "snapshot_id": "MTY2NzQ2NzM2OCwwMDAwMDAwMDhiZGRhODQ2YmUzNjNmZmI2YTlhOWFkYzIzZTk3YWY4",
   "tracks": [
     {
       "added_at": "2022-11-03 09:22:48",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-11-03 09:22:48",
       "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz"
+    },
+    {
+      "added_at": "2022-11-03 09:22:48",
+      "album": {
         "name": "CINEMA",
         "url": "https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 108562,
       "name": "Golden Mulan",
       "url": "https://open.spotify.com/track/3TyqYJXhWkEhSsewdc0XEF"
-    },
-    {
-      "added_at": "2022-11-03 09:22:48",
-      "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz"
     },
     {
       "added_at": "2022-11-03 09:22:48",
@@ -715,26 +715,6 @@
       "duration_ms": 197306,
       "name": "GO! (feat. Eelittlee)",
       "url": "https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1"
-    },
-    {
-      "added_at": "2022-11-03 09:22:48",
-      "album": {
-        "name": "SPACE TALK",
-        "url": "https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1"
-      },
-      "artists": [
-        {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
-        },
-        {
-          "name": "Jvcki Wai",
-          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
-        }
-      ],
-      "duration_ms": 159735,
-      "name": "GGOOM (feat. Jvcki Wai)",
-      "url": "https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL"
     },
     {
       "added_at": "2022-11-03 09:22:48",
@@ -827,6 +807,26 @@
       "duration_ms": 256643,
       "name": "OUTGROWN",
       "url": "https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW"
+    },
+    {
+      "added_at": "2022-11-03 09:22:48",
+      "album": {
+        "name": "SPACE TALK",
+        "url": "https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1"
+      },
+      "artists": [
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        },
+        {
+          "name": "Jvcki Wai",
+          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
+        }
+      ],
+      "duration_ms": 159735,
+      "name": "GGOOM (feat. Jvcki Wai)",
+      "url": "https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL"
     },
     {
       "added_at": "2022-11-03 09:22:48",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 238847,
+  "num_followers": 238993,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk0MDQwMCwwMDAwMDAwMDkyNmEzNWRiNWVmYzg0Y2JhZDNjYmY3ZDY1MGMyNmJh",
+  "snapshot_id": "MTY2Njk0MDQwMCwwMDAwMDAwMGQzYWE2YjhiZDU0MTMzMmEyNTRmNWQzZWRmMzdhMGFm",
   "tracks": [
     {
       "added_at": "2022-10-21 07:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
     },
     {
-      "added_at": "2022-11-06 01:29:28",
+      "added_at": "2022-11-07 01:25:04",
       "album": {
         "name": "Recoded",
         "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0"
     },
     {
-      "added_at": "2022-11-06 01:29:28",
+      "added_at": "2022-11-07 01:25:04",
       "album": {
         "name": "Vivien",
         "url": "https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh"
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+        "name": "Coal Chamber",
+        "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
       },
       "artists": [
         {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
         }
       ],
-      "duration_ms": 204626,
-      "name": "I'm With Stupid",
-      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
+      "duration_ms": 254693,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/1aiHmIlCiiHUTqS1CYzuTM"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Coal Chamber",
-        "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
       "artists": [
         {
-          "name": "Coal Chamber",
-          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 254693,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/1aiHmIlCiiHUTqS1CYzuTM"
+      "duration_ms": 204626,
+      "name": "I'm With Stupid",
+      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Lakes of Flame",
-        "url": "https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk"
-      },
-      "artists": [
-        {
-          "name": "Blue Stahli",
-          "url": "https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3"
-        }
-      ],
-      "duration_ms": 218203,
-      "name": "Lakes of Flame",
-      "url": "https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 240159,
       "name": "Golgotha Tenement Blues",
       "url": "https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Lakes of Flame",
+        "url": "https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk"
+      },
+      "artists": [
+        {
+          "name": "Blue Stahli",
+          "url": "https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3"
+        }
+      ],
+      "duration_ms": 218203,
+      "name": "Lakes of Flame",
+      "url": "https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Darkest Days",
-        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
-      },
-      "artists": [
-        {
-          "name": "Stabbing Westward",
-          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "The Thing I Hate",
-      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Chapter II",
         "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 394285,
       "name": "Jim Jones",
       "url": "https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Darkest Days",
+        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
+      },
+      "artists": [
+        {
+          "name": "Stabbing Westward",
+          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "The Thing I Hate",
+      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "MDFMK",
-        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
-      },
-      "artists": [
-        {
-          "name": "MDFMK",
-          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Torpedoes",
-      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Die H\u00f6lle muss warten",
         "url": "https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 201293,
       "name": "Verr\u00fcckt - Original Version",
       "url": "https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "MDFMK",
+        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
+      },
+      "artists": [
+        {
+          "name": "MDFMK",
+          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Torpedoes",
+      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
     },
     {
       "added_at": "2022-10-21 07:00:00",

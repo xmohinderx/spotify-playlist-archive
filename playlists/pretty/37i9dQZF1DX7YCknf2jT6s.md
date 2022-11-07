@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: <br/>Dhafer Youssef
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,787 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,953 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ondes of Chakras](https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR) | [Ondes of chakras](https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ) | 6:17 |
-| 2 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/album/6cEqbEv5wTsNkOGr7k3HTU) | 3:23 |
+| 2 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:23 |
 | 3 | [Black Alchemy/Hall of Mirrors](https://open.spotify.com/track/36tF6eoNw42PF9KsHV25wg) | [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [maassai](https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV), [Samora Pinderhughes](https://open.spotify.com/artist/6Of92bKNSsFuoNkF4nQ6Za) | [Black Alchemy/Hall of Mirrors](https://open.spotify.com/album/07wjW4FpbYbRCuIAxZVclK) | 6:00 |
 | 4 | [Us \- A COLORS SHOW](https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Us \- A COLORS SHOW](https://open.spotify.com/album/6c1sdchTFvL0jwHeKx725a) | 6:13 |
 | 5 | [Quiet as It's Kept](https://open.spotify.com/track/4ATFNWs31uk1dHTu5BnOx7) | [Tom Skinner](https://open.spotify.com/artist/6WUuwGEgtKowXDyQtfB8S7) | [Voices of Bishara](https://open.spotify.com/album/0zPEYIOStlPrrgvZGlCrBR) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Lonely](https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3) | [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Lonely](https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3) | 5:02 |
 | 100 | [Ereshkigal of the Underworld](https://open.spotify.com/track/7KVWQzXYf9m2xo2R7A1e38) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Secrets of Inanna](https://open.spotify.com/album/1ruDzWzQmOET51GQngt3f0) | 3:01 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDYyODI0ODE0ODg1ZDUwZDlkN2MwYmEzNGJmMjEzNTVm`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDM3OWRlZTU2NmI5M2ZhYTk2YjM1OTY1YWI5YTFjODJj`

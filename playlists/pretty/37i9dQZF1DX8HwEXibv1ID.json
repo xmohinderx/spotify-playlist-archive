@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 20862,
+  "num_followers": 20903,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMGFiZWM3NTZiNDUyNGNjMjNkNjkwYWU4MWZjNDY3NWRh",
+  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMGZhMmI3NGQyODhkNjhiM2Y2N2YwNGY5MDY3ZTA5Zjg1",
   "tracks": [
     {
       "added_at": "2022-04-22 13:30:43",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "The Sammy Davis Jr. Show with Special Guests Stars Frank Sinatra and Dean Martin",
-        "url": "https://open.spotify.com/album/4pBkKEwLMmRQAHLYEDAaZB"
-      },
-      "artists": [
-        {
-          "name": "The Rat Pack",
-          "url": "https://open.spotify.com/artist/75kHCUYCZGNvAfSyoEuJTz"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "We Open in Venice",
-      "url": "https://open.spotify.com/track/1SOKPop4Zk9mIHUKpAv6qm"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "Jeri Southern Meets Cole Porter",
         "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 151093,
       "name": "Let's Fly Away",
       "url": "https://open.spotify.com/track/23OvK9AlKo3Se4xcAMDwUY"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "The Sammy Davis Jr. Show with Special Guests Stars Frank Sinatra and Dean Martin",
+        "url": "https://open.spotify.com/album/4pBkKEwLMmRQAHLYEDAaZB"
+      },
+      "artists": [
+        {
+          "name": "The Rat Pack",
+          "url": "https://open.spotify.com/artist/75kHCUYCZGNvAfSyoEuJTz"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "We Open in Venice",
+      "url": "https://open.spotify.com/track/1SOKPop4Zk9mIHUKpAv6qm"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "You 'N Me",
-        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
-      },
-      "artists": [
-        {
-          "name": "The Al Cohn - Zoot Sims Quintet",
-          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "Charlie Parker With Strings (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 212386,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "You 'N Me",
+        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
+      },
+      "artists": [
+        {
+          "name": "The Al Cohn - Zoot Sims Quintet",
+          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
-        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
+        "name": "Sinatra Sings Cole Porter",
+        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
       },
       "artists": [
         {
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Why Can't You Behave?",
-      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
+      "duration_ms": 145533,
+      "name": "I Am Loved",
+      "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1175,8 +1175,8 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Sinatra Sings Cole Porter",
-        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
+        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
+        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
       },
       "artists": [
         {
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 145533,
-      "name": "I Am Loved",
-      "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
+      "duration_ms": 197800,
+      "name": "Why Can't You Behave?",
+      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 111306,
-      "name": "I Am Ashamed That Women Are so Simple",
-      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
+      "duration_ms": 169400,
+      "name": "Ours",
+      "url": "https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Ours",
-      "url": "https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX"
+      "duration_ms": 111306,
+      "name": "I Am Ashamed That Women Are so Simple",
+      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
     }
   ],
   "unique_name": "The Cole Porter Songbook",

@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 42882,
+  "num_followers": 42896,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGMxMTNjMWViNDJlOTE5NzI2MjA0M2IzZjU4NWY5ZTlh",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDU1MWNmMTJmNWE3ZWI0MTk1Nzg5MTY4OThlNGEwZWVm",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -575,22 +575,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Hollows",
-        "url": "https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l"
-      },
-      "artists": [
-        {
-          "name": "Lion & Bear",
-          "url": "https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g"
-        }
-      ],
-      "duration_ms": 266169,
-      "name": "Held by Your Love",
-      "url": "https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Loved by You",
         "url": "https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 294780,
       "name": "Loved by You",
       "url": "https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Hollows",
+        "url": "https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l"
+      },
+      "artists": [
+        {
+          "name": "Lion & Bear",
+          "url": "https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g"
+        }
+      ],
+      "duration_ms": 266169,
+      "name": "Held by Your Love",
+      "url": "https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -911,22 +911,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Leaving Shadowland",
-        "url": "https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE"
-      },
-      "artists": [
-        {
-          "name": "Seeker & Servant",
-          "url": "https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Where Would I Be",
-      "url": "https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Everything Is Possible",
         "url": "https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 269560,
       "name": "Yes and Amen",
       "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Leaving Shadowland",
+        "url": "https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE"
+      },
+      "artists": [
+        {
+          "name": "Seeker & Servant",
+          "url": "https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Where Would I Be",
+      "url": "https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm"
     },
     {
       "added_at": "2020-12-18 06:02:14",

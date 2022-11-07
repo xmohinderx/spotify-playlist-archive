@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-202 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+203 songs - 14 hr 20 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [I'm Finally a Ghost](https://open.spotify.com/track/5973GTo2ourdiDPVQuwwvf) | [Haepa](https://open.spotify.com/artist/2WTFWNdpppTNeGZmRZLaLi) | [Playing Dead](https://open.spotify.com/album/4d2mhZN25j5zY3ErTpfOBZ) | 2:55 | 2022-06-22 | 2022-08-13 |
 | [I'm Good at Not Crying](https://open.spotify.com/track/3Pc8BtId8AhXAWtWnu30Zp) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [GOLD](https://open.spotify.com/album/0AMgCqLxLasqfdch08R3OE) | 3:24 | 2022-03-30 | 2022-08-04 |
 | [Ice V](https://open.spotify.com/track/3B5G4Twkzamy4ZuOWJbbGk) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice V](https://open.spotify.com/album/5Al5fmTyzQNHel55Hc5O7q) | 10:15 | 2022-09-09 |  |
-| [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn) | 5:11 | 2022-08-31 |  |
+| [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 5:11 | 2022-08-31 |  |
+| [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn) | 5:11 | 2022-08-31 | 2022-11-07 |
 | [In Spring](https://open.spotify.com/track/4h7dxvwPyTPWZKETdjfo5A) | [Tara Clerkin Trio](https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F) | [In Spring](https://open.spotify.com/album/5ExOfOHnAdkjM83kB9Ljlw) | 5:06 | 2022-05-10 | 2022-09-29 |
 | [Inori](https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 8:37 | 2022-07-15 |  |
 | [Is It It Or Is It i?](https://open.spotify.com/track/1A5oNi89DMdE06Fsacn6k5) | [Astrel K](https://open.spotify.com/artist/206Opt8XsXddl0GcjHoESx) | [Is It It Or Is It i?](https://open.spotify.com/album/7dHPcjuc7P57AsuY43zYtP) | 5:56 | 2022-03-28 | 2022-09-29 |

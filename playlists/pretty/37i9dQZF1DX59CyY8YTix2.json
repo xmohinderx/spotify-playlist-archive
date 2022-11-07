@@ -1,12 +1,12 @@
 {
   "description": "Japanese female rock icons. Cover: GLIM SPANKY ",
-  "num_followers": 36096,
+  "num_followers": 36115,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ4NzYwMCwwMDAwMDAwMDhhNzVlZTIwODE0NTZlZGUxZjNmNmY0MjRkODg4NTg1",
+  "snapshot_id": "MTY2NzQ4NzYwMCwwMDAwMDAwMDg2MTk3NzVlMjdmNTJkMDE2MGNlYjc1NDVjNTQ3NjBl",
   "tracks": [
     {
       "added_at": "2022-11-03 15:00:00",
@@ -795,18 +795,22 @@
     {
       "added_at": "2022-11-03 15:00:00",
       "album": {
-        "name": "\u307e\u305f\u590f\u3092\u8ffd\u3046",
-        "url": "https://open.spotify.com/album/5p5ssxTw4ifdGrhjq4Q6pN"
+        "name": "\u83ef\u5962\u306a\u30ea\u30c3\u30d7 (feat. \u3061\u3083\u3093\u307f\u306a)",
+        "url": "https://open.spotify.com/album/7jvzFjCae8MXblb8lmeXCm"
       },
       "artists": [
         {
-          "name": "\u3042\u305f\u3089\u3088",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+          "name": "Genie High",
+          "url": "https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB"
+        },
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 287545,
-      "name": "\u307e\u305f\u590f\u3092\u8ffd\u3046",
-      "url": "https://open.spotify.com/track/4JyWjpfWLFqdbqPzhpLhzC"
+      "duration_ms": 268751,
+      "name": "\u83ef\u5962\u306a\u30ea\u30c3\u30d7 (feat. \u3061\u3083\u3093\u307f\u306a)",
+      "url": "https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP"
     }
   ],
   "unique_name": "She Rocks",

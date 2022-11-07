@@ -4,7 +4,7 @@
 
 > Hop in.
 
-292 songs - 18 hr 46 min - [published](https://open.spotify.com/playlist/6F0FKB0rzLUKWZk3Oa8sA0)
+293 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/6F0FKB0rzLUKWZk3Oa8sA0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [For No One](https://open.spotify.com/track/10tLmQStU0VkeZawCBohkO) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [For No One](https://open.spotify.com/album/0zAljNFRfXkJAz4OEGWKOz) | 3:49 | 2021-01-15 | 2022-07-29 |
 | [French Press](https://open.spotify.com/track/3xuTjTxGkMVtxnHCAntxTs) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The French Press](https://open.spotify.com/album/0Jw4EgPOvlImh3GQ9ohxqn) | 5:26 | 2020-10-29\* | 2022-05-05 |
 | [Friends of Friends](https://open.spotify.com/track/6kaPNiBCzWGzY2QoZl4PtR) | [Hospitality](https://open.spotify.com/artist/6xgfDCWKp5rIIO7sllJ6us) | [Hospitality](https://open.spotify.com/album/0CcRg0EwFcCKw99gLIcOCQ) | 3:07 | 2021-10-10 | 2021-10-14 |
-| [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 | 2020-10-29\* |  |
+| [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 | 2020-10-29\* | 2022-11-07 |
 | [Furr](https://open.spotify.com/track/6n1zT8W5EaIYvWIT2DyROL) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2X5LfrkRtEik2jGgaDDRMO) | 4:07 | 2021-01-18 | 2022-04-22 |
 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 | 2022-07-03 |  |
 | [Furr](https://open.spotify.com/track/7yLfnmaMV6Hq0wuPPpC94i) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/17KSATDlU5GkFWK3conZPv) | 4:07 | 2020-10-29\* | 2022-07-20 |
@@ -280,6 +280,7 @@
 | [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 | 2022-05-04 |  |
 | [West Coast](https://open.spotify.com/track/2nvZv4qatgsDIbEqqbQLUT) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Nighttiming](https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg) | 3:30 | 2022-07-03 |  |
 | [West Coast](https://open.spotify.com/track/1AtnxUR7yOlRsfjzF2kpuv) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Nighttiming](https://open.spotify.com/album/3nBX2HMsJZlhcPxdqu2Wjy) | 3:32 | 2021-01-16 | 2022-07-29 |
+| [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 | 2022-09-02 |  |
 | [What You Know](https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 3:11 | 2022-07-03 | 2022-11-02 |
 | [Wheat](https://open.spotify.com/track/32llT8SkveTa0gbqMTi204) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Latigo](https://open.spotify.com/album/1i3BxSvctee1L1zbPSOUBQ) | 3:46 | 2021-01-15 | 2022-07-26 |
 | [When My Time Comes](https://open.spotify.com/track/0kzfqqvipRSBQchrB3xX8D) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [North Hills](https://open.spotify.com/album/58XLXjaWRukUeT2GGQkNDf) | 5:08 | 2021-01-23 | 2022-03-17 |

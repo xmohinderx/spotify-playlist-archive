@@ -4,7 +4,7 @@
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: The Golden Spoon \(금수저\)\)
 
-445 songs - 1 day 3 hr 1 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
+446 songs - 1 day 3 hr 4 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Nuclear](https://open.spotify.com/track/1pK3JtFHhcP7yjkrVrGTcj) | [임윤성](https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq) | [A Superior Day, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/58VANxQ4mL62ACQqmh6z4w) | 3:03 | 2022-04-21 | 2022-06-29 |
 | [Ocean like me](https://open.spotify.com/track/7vNhQ4LdsNr41PCedRkqWY) | [Holland](https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP) | [Ocean like me \(Original Web Drama Soundtrack, Pt\. 1\)](https://open.spotify.com/album/4oYsqdSwKnyzdQaDsSmdTY) | 3:59 | 2022-05-03 | 2022-07-05 |
 | [OH NONONO](https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb) | [INYU](https://open.spotify.com/artist/3DGTTI7kUEwQUoBOykiS0t), [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed) | 3:01 | 2022-03-09 | 2022-06-10 |
+| [On My Way](https://open.spotify.com/track/3cVX33dhtE55B21yWWYiLJ) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/5FDxf9I2I6CpEYbp4hyfZn) | 2:48 | 2022-11-06 |  |
 | [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 | 2022-05-26 |  |
 | [Once In A Minute](https://open.spotify.com/track/6EBdUoWOLXWQAs9cKgdAdM) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Moonshine \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/3pUl9nRnHSW2j09Xa5Lcmt) | 3:37 | 2022-02-03 | 2022-05-04 |
 | [One & Only](https://open.spotify.com/track/0OscC9CHC43zGPjgBnPH0i) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Tracer \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3TKxlepvqeI5uEgePDUIxI) | 3:34 | 2022-02-03 | 2022-05-04 |

@@ -7833,10 +7833,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 120000,
       "name": "latte",
       "url": "https://open.spotify.com/track/2EpeEaCnnjrrIlI1flvdsq"
+    },
+    {
+      "album": {
+        "name": "latte",
+        "url": "https://open.spotify.com/album/1VkZdEEAkDyY3pYzFy7fsx"
+      },
+      "artists": [
+        {
+          "name": "hotpotatoes",
+          "url": "https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "latte",
+      "url": "https://open.spotify.com/track/6f2j3y74n9nztWFvKuMwNb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: SKALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,706 likes - 78 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,875 likes - 78 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 6 | [Luzifer \- feat\. Ufo361](https://open.spotify.com/track/5UnIFgOpnUaKsukuB66GXg) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [RK5](https://open.spotify.com/album/4wxcLVfRrCebsZaBdBctne) | 5:29 |
 | 7 | [Reflections](https://open.spotify.com/track/5oo1HNNzaCiEn8IF57Ysbe) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv), [Nina Nst](https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q) | [Reflections](https://open.spotify.com/album/4vHMhqhM0wqzaxNACySpec) | 4:58 |
 | 8 | [Rapture](https://open.spotify.com/track/5k5dE3ib5d0txYuKaKTPst) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Rapture](https://open.spotify.com/album/4k8rnZ5cxMushmU90hWgnX) | 6:42 |
-| 9 | [GO BACK](https://open.spotify.com/track/66Ofs7OCzCTBVyq6J0oef0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Sant Jordi 02](https://open.spotify.com/album/0ZvrMbXUFxckG4gp1NEkMh) | 5:40 |
+| 9 | [GO BACK](https://open.spotify.com/track/66Ofs7OCzCTBVyq6J0oef0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SANT JORDI 02](https://open.spotify.com/album/0ZvrMbXUFxckG4gp1NEkMh) | 5:40 |
 | 10 | [Stellar Interpretation Of A Heartbreaking Sci\-Fi Theme](https://open.spotify.com/track/0wTVDW5nJ2LZfqVp1fFd0Y) | [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX), [Ninsa](https://open.spotify.com/artist/1hyVEtn2U4zlDtjZkTGyq8) | [Stellar Interpretation Of A Heartbreaking Sci\-Fi Theme](https://open.spotify.com/album/6Tb5RJoeTt7h4wLNocSXs5) | 7:15 |
 | 11 | [Inochi](https://open.spotify.com/track/40qMnVCrSqMSuFWooAzqB3) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Inochi](https://open.spotify.com/album/1pE7OXufKgypbJL2C81nvp) | 5:54 |
 | 12 | [Techno Cat](https://open.spotify.com/track/21amtP6z3VyP6alx74ise0) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Techno Cat](https://open.spotify.com/album/086ZUe2w4gXGwk0U4X0en6) | 4:24 |

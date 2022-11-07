@@ -3676,6 +3676,24 @@
     },
     {
       "album": {
+        "name": "Just Kids",
+        "url": "https://open.spotify.com/album/56l79VQBjn3ro34d2ZLP9Z"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181220,
+      "name": "That's Why",
+      "url": "https://open.spotify.com/track/1l1quVPNxgMLUPQSS8lIFC"
+    },
+    {
+      "album": {
         "name": "That's Why",
         "url": "https://open.spotify.com/album/5cEt8pYzHBDPp9UeFEg3d5"
       },
@@ -3705,7 +3723,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 181220,
       "name": "That's Why",
       "url": "https://open.spotify.com/track/5o9OzeMgVLS1TPOp0fS5Y6"

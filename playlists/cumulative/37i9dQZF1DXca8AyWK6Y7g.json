@@ -8823,10 +8823,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 167666,
       "name": "Go The Distance",
       "url": "https://open.spotify.com/track/4HFi9NP66qdNOsgPGLqrm7"
+    },
+    {
+      "album": {
+        "name": "Go The Distance (Extended)",
+        "url": "https://open.spotify.com/album/2zxKTNd1Zj6y7E8JoyS7Le"
+      },
+      "artists": [
+        {
+          "name": "New Rules",
+          "url": "https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "Go The Distance",
+      "url": "https://open.spotify.com/track/5vFn0vKhnaDLk1gmj7ZA0i"
     },
     {
       "album": {

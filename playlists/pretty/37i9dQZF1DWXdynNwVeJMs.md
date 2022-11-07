@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,652 likes - 102 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,661 likes - 102 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 2 | [Quanked](https://open.spotify.com/track/4ScsbA64TjlH2szHkAW8Kz) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:02 |
 | 3 | [Palm](https://open.spotify.com/track/38ziPejDZl6scCf5FpX5pt) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [6](https://open.spotify.com/album/1blPxSk5fILBbLVUdaXu53) | 7:35 |
 | 4 | [galet](https://open.spotify.com/track/61iJHseE92EV2mXzFHWZ1n) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Urban Detox EP](https://open.spotify.com/album/5btzM3N10I3GvOPKTf9kdA) | 3:46 |
-| 5 | [Mammoet](https://open.spotify.com/track/4uAjMzGU1UGhiCy4dyvUxH) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou Claerhout](https://open.spotify.com/artist/02mNtFwmQg7xD5FHWGfNft) | [Sambal](https://open.spotify.com/album/5bLeofMakqSrcOzSl70850) | 8:55 |
+| 5 | [Mammoet](https://open.spotify.com/track/52rTIOyqlAOiRPFMbyewUb) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou](https://open.spotify.com/artist/1BwV1xO6KyJBmdx87xcJ08) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 8:55 |
 | 6 | [Odyssey](https://open.spotify.com/track/4E6HPS5yi8hh9obP37puOf) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 9:42 |
 | 7 | [Karsilama](https://open.spotify.com/track/1IkoV81e6472xAB2geGiTO) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 4:36 |
 | 8 | [Rhymes On Our Mind](https://open.spotify.com/track/4Ry0Lk8vLR3avAZpYbw6tp) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Gulliver](https://open.spotify.com/album/6gMzMxSQ5zwlOtlfuEFo5h) | 5:59 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 101 | [TinniT \- Edit](https://open.spotify.com/track/73ZtYoyKLM1f2KGfw7EO8Q) | [MDCIII](https://open.spotify.com/artist/1zjbmsA3Mq02lYg0Bk0YCU) | [TinniT](https://open.spotify.com/album/23AsEykb1SeQ2vBZ5Or0gm) | 4:26 |
 | 102 | [Grace Moment](https://open.spotify.com/track/7yzK4kdMW47v6CZUlScqFS) | [LG Jazz Collective](https://open.spotify.com/artist/4541P7mUvHtvsCPzy3Kg3F), [Guillaume Vierset](https://open.spotify.com/artist/00xZYrjS24ctWf6NcTEouF), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Laurent Barbier](https://open.spotify.com/artist/0QCzBAzR6DtGNvcO3suNK1), [Igor Gehenot](https://open.spotify.com/artist/4ucTplSqtePlPxNywuOf6p), [Félix Zurstrassen](https://open.spotify.com/artist/46btcyGzJKO2Y24kOhelTP), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [New Feel](https://open.spotify.com/album/2db4S9KTfkAEh5Wkhff0wH) | 6:52 |
 
-Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMGIwNmQzYzJhZjQ0OWExNDFkYmE4MTk1MzI1Mjk3YmQw`
+Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMDljNTlmNGFkNjA3ZTM0Y2Y1OWI5ODVjYTU5ZWY3YTc3`

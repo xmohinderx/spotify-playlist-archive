@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Magnolia Park
 
-707 songs - 1 day 11 hr 27 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+708 songs - 1 day 11 hr 32 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,8 @@
 | [Robot Writes A Love Song](https://open.spotify.com/track/2IL6235nJxKiKsBQykUk2M) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Robot Writes A Love Song](https://open.spotify.com/album/3eKWW3j4U5H4XiR1JDH351) | 3:36 | 2022-01-21 | 2022-03-18 |
 | [Room 156](https://open.spotify.com/track/31U2luPkRz8a8rMOp9n9aU) | [Crows](https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn) | [Room 156](https://open.spotify.com/album/1V4Jy2vEzGQwwJ9D34kJsr) | 4:00 | 2022-02-11 | 2022-03-04 |
 | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/track/0HBJYdY4dsF6vd7xqLLWxH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Deryck Whibley](https://open.spotify.com/artist/4qJK4cVUMM04auRU8oa4bf) | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/album/0ff0J1jhzWqDJDv5Cv03Dp) | 3:19 | 2022-02-18 | 2022-04-01 |
-| [Sainted](https://open.spotify.com/track/2lLApVvlXbLLPLeqbVH65R) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sainted](https://open.spotify.com/album/3EdSzlHNR5Kf73J5lgQPJb) | 4:57 | 2022-10-13 |  |
+| [Sainted](https://open.spotify.com/track/2lLApVvlXbLLPLeqbVH65R) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sainted](https://open.spotify.com/album/3EdSzlHNR5Kf73J5lgQPJb) | 4:57 | 2022-10-13 | 2022-11-07 |
+| [Sainted](https://open.spotify.com/track/514xG7c5ygps7lfctO30yP) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 4:57 | 2022-11-04 |  |
 | [Salt](https://open.spotify.com/track/6zYuVQdkZNbeqx5UMmoAOH) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Salt](https://open.spotify.com/album/6ups5M7odd5WAoRPBa6QVk) | 2:45 | 2022-05-26 | 2022-07-15 |
 | [Same](https://open.spotify.com/track/7bvRiYdF3iz7MTDYC4vVWs) | [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI) | [Same](https://open.spotify.com/album/1SARpFDdsDM4ZS2UWqH51s) | 3:38 | 2022-06-16 | 2022-07-29 |
 | [Same Difference](https://open.spotify.com/track/0fLB4BtBqarIqFattC2n8A) | [Future Teens](https://open.spotify.com/artist/4psGjIN7MDwMYJTlRjauKr) | [Same Difference](https://open.spotify.com/album/4KkYMIEwXR8QthqLAW0Kdb) | 2:55 | 2022-06-09 | 2022-07-08 |

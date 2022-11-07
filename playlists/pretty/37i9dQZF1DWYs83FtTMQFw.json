@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks of today...featuring Juice WRLD & Marshmello, Drake, and Lil Uzi Vert",
-  "num_followers": 2148109,
+  "num_followers": 2148448,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDg3OTU1MzZmYmFmOTNlNWE4ODVjZTY4ZjgxZmVmYzFk",
+  "snapshot_id": "MTY2NzcwMTU2MSwwMDAwMDAwMDM4N2E3NTVlNzc5OTgxNjE4MzBjNjNlMWZiMGIyZjZm",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -22,15 +22,11 @@
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Pussy & Millions (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+      "duration_ms": 236795,
+      "name": "Circo Loco",
+      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -102,11 +98,15 @@
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 236795,
-      "name": "Circo Loco",
-      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
+      "duration_ms": 242026,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
     },
     {
       "added_at": "2022-11-04 04:00:00",

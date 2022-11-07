@@ -4,13 +4,14 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-170 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
+171 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Thousand Shores](https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [A Thousand Shores](https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT) | 4:15 | 2022-10-29 |  |
 | [Ain't Nobody \- Radio Version](https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ain't Nobody](https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2) | 3:33 | 2022-10-29 |  |
 | [All Things New](https://open.spotify.com/track/48o0RHEBz13nEEAd7wE4Bk) | [The Vigil Project](https://open.spotify.com/artist/2Qtvrlcjx83rryARiEIPeI), [John Finch](https://open.spotify.com/artist/1mImDYSR7mM7wvH3dewoG3), [Andrea Thomas](https://open.spotify.com/artist/5iwn6MUdevcMCJ96CYVJZn) | [All Things New](https://open.spotify.com/album/4lPhR9VgNgWuPgNZEeuJJw) | 4:53 | 2022-05-27 | 2022-10-30 |
+| [All Things Well](https://open.spotify.com/track/6221ByWUvnTPaSMDpjgsfi) | [Justin Warren](https://open.spotify.com/artist/6bBzJpCoyyPxIZ6KooTqcU) | [All Things Well](https://open.spotify.com/album/27u6mmnkk26qEnXlKz5cIo) | 3:16 | 2022-10-29 |  |
 | [Already Blessed](https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Already Blessed](https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY) | 3:48 | 2022-05-27 | 2022-10-30 |
 | [Amen \(The Lord's Prayer\)](https://open.spotify.com/track/5ZHTFwzhEpa1OJMyrpdGE7) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Heaven's on the Move \(Deluxe\)](https://open.spotify.com/album/5VLaZK1eadF5WEd2N9q0Mc) | 5:50 | 2022-05-27 | 2022-10-30 |
 | [Amens and Hallelujahs](https://open.spotify.com/track/5AaN1OOez8L5uWQcLIL8W4) | [Nick Kish](https://open.spotify.com/artist/2Gixlcu4U2BRVEPHLIlzx9) | [Amens and Hallelujahs](https://open.spotify.com/album/6Mi4DjSQbIKECqLOdk5wGI) | 4:01 | 2022-05-27 | 2022-10-30 |
@@ -77,7 +78,7 @@
 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 | 2022-05-27 | 2022-10-30 |
 | [I'm Open](https://open.spotify.com/track/17o0aBdsS66NyCNNG8Jc6X) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [I'm Open](https://open.spotify.com/album/14km2XMe3pvQq2IsI9Q7dM) | 3:34 | 2022-05-27 | 2022-10-30 |
 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 | 2022-10-29 |  |
-| [If The Lord Builds The House](https://open.spotify.com/track/7baAHpv91hJA3UEAv7qfLH) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/6V9WshsSiYxovVnq1MPuTQ) | 3:55 | 2022-10-29 |  |
+| [If The Lord Builds The House](https://open.spotify.com/track/7baAHpv91hJA3UEAv7qfLH) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [If The Lord Builds The House](https://open.spotify.com/album/6V9WshsSiYxovVnq1MPuTQ) | 3:55 | 2022-10-29 | 2022-11-07 |
 | [In You](https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [In You](https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO) | 3:25 | 2022-05-27 |  |
 | [In You](https://open.spotify.com/track/04i7lHNiTQfSnt0FTkL9Oc) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [In You](https://open.spotify.com/album/0dzyMrEMalmslY1kKOPkWG) | 3:25 | 2022-05-27 | 2022-07-29 |
 | [Into The Wild](https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:48 | 2022-10-29 |  |

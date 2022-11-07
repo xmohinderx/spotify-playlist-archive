@@ -2,7 +2,7 @@
 
 ### [I Love My '00s R&B](https://open.spotify.com/playlist/37i9dQZF1DWYmmr74INQlb)
 
-> Check out these throwback R&B jams from the first decade of the 21st century\. Cover: Alicia Keys
+> Check out these throwback R&B jams from the first decade of the 21st century\. Cover: Chris Brown
 
 137 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/7MJ3ipEjnPWxpL2L6nZbav)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Drake & 21 Savage, Selena Gomez, Joji, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,982,701 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,982,992 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 89 | [Friend Zone](https://open.spotify.com/track/0oeUZMYfI06i4OXVUXBJwv) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer \(Deluxe\)](https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj) | 3:41 |
 | 90 | [Safe](https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Private Suite 4: The Mixtape](https://open.spotify.com/album/3pizVvi3ZP6mzletymu6WS) | 3:40 |
 | 91 | [cursive](https://open.spotify.com/track/6pckcHCsndTKLy8Y1TPuq8) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rainbow music](https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J) | 2:13 |
-| 92 | [My Argentina](https://open.spotify.com/track/5CYkymD2AqbSFGG2KQr88n) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [My Argentina](https://open.spotify.com/album/3riMHTE10EiZmMqW9ZfO28) | 5:01 |
+| 92 | [My Argentina](https://open.spotify.com/track/5thEuYF5DJK0KPk3eFUVXe) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 5:01 |
 | 93 | [Pretty Boy](https://open.spotify.com/track/0HLUNrbWZdyUDWVKy3X9JH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Pretty Boy](https://open.spotify.com/album/0H47zdiavh551uJHvO4Nfx) | 4:55 |
 | 94 | [Living Life Right](https://open.spotify.com/track/76rPAsb8KANsYYyAw8Vnyq) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:12 |
 | 95 | [i ain't rich, girl](https://open.spotify.com/track/5FjmQ13NVjaH2WvTXXTrii) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [BLOSSOM](https://open.spotify.com/album/19cwzfdUSjshrRghIuOqHd) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Feel Free](https://open.spotify.com/track/6iipFwVIBJwgmvRdLJ1trI) | [Piwa](https://open.spotify.com/artist/0wxGGIfXP7DaAtnCb4cQ7V) | [DEAD ENDS](https://open.spotify.com/album/34WQ7YxwSZiW0vTcnRUY86) | 2:46 |
 | 100 | [You Got This](https://open.spotify.com/track/6uI4xbZ7ASvRO9oEVZfZPF) | [Peter Collins](https://open.spotify.com/artist/7DpuhYociyFsr9lp4Ifmy8) | [enLIGHTened](https://open.spotify.com/album/4klK7oTdo6DCUIuttcEJrh) | 3:44 |
 
-Snapshot ID: `MTY2NzUzNDg1MCwwMDAwMDAwMGMzNmVjZTBlNWFhMmFhMjM1ZDJkNDAwMTJlMDQ1MGQz`
+Snapshot ID: `MTY2NzUzNDg1MCwwMDAwMDAwMGE5ZTE3NWMzNThiN2VmZDU4YzY0MDRhMDlmNjI3ZmNi`

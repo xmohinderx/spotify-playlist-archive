@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,542 likes - 94 songs - 5 hr 13 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,553 likes - 94 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 16 | [What Country Means](https://open.spotify.com/track/29OqdwUryNCG3HKh8NuRFx) | [Emily Hatton](https://open.spotify.com/artist/2qWqeGeNliXRQdHOOygnlM) | [What Country Means](https://open.spotify.com/album/7DWlMtrfPXHFBC0Wekx3uN) | 3:54 |
 | 17 | [I Would Cry](https://open.spotify.com/track/2Q80ElZZrRlqPvMRBLhhWf) | [JËVA](https://open.spotify.com/artist/2vCUQAwdE83viqTMXxy4R3) | [Typhoon](https://open.spotify.com/album/4G3SQTlZcjFtHkNtdEeF9k) | 3:32 |
 | 18 | [Mi Son Shain](https://open.spotify.com/track/2w8HAnagLIKZLb770oLe7s) | [Altoparlante](https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU), [Juan Soto](https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN) | [Mi Son Shain](https://open.spotify.com/album/2eIugC3Kz2Eu1QWINYMKue) | 3:51 |
-| 19 | [A Solas](https://open.spotify.com/track/1RErLmPDq1WJcjZTXSfehd) | [Kraneando Actividad](https://open.spotify.com/artist/6XOPgdlHkUR9FXE4Yg5WkL), [WEN](https://open.spotify.com/artist/1EJ6H4Wh3qAfi24c1RgE3B) | [VHS](https://open.spotify.com/album/0PuSMElT83W4PiSxWUVjYp) | 3:06 |
+| 19 | [A Solas](https://open.spotify.com/track/1RErLmPDq1WJcjZTXSfehd) | [Kraneando Actividad](https://open.spotify.com/artist/6XOPgdlHkUR9FXE4Yg5WkL), [Wen](https://open.spotify.com/artist/1gPjLXy387NEzeZZGGx45q) | [VHS](https://open.spotify.com/album/0PuSMElT83W4PiSxWUVjYp) | 3:06 |
 | 20 | [Pa' Menear](https://open.spotify.com/track/69RTpQJ45YEWDKy1cR9r9g) | [Melanina](https://open.spotify.com/artist/7FxM7hQ7S9oOKyIzthn4yT), [Lion Bigmao](https://open.spotify.com/artist/7bGp7qMPwSdqdcxA9qOl16), [Dee Master](https://open.spotify.com/artist/1Y49UEtniknrGz3dLRqBYf), [Jony Roy](https://open.spotify.com/artist/0i45a3fCG66fn6bmqO13Vc) | [Pa' Menear](https://open.spotify.com/album/0PDVXgw6z5G2TU4r1zxNya) | 2:38 |
 | 21 | [Pecado](https://open.spotify.com/track/07PBfTwL3CyT5n542EryMh) | [Marigaby](https://open.spotify.com/artist/6T1uXUwkOXS5v70yZduarI) | [Pecado](https://open.spotify.com/album/6OlHS6CXFqQ4dTEdx5rmIw) | 3:19 |
 | 22 | [Speyship](https://open.spotify.com/track/1mFnjODpMcVomFdoQGUKSt) | [jrald](https://open.spotify.com/artist/2mzUNagDlUNAipJU0XbJBo), [Kitong](https://open.spotify.com/artist/0qjrz1kPPUQmi88i4myjN3) | [Speyship](https://open.spotify.com/album/6P2n5xxfchxj7iYSqukk4L) | 3:20 |

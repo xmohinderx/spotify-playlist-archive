@@ -4,7 +4,7 @@
 
 > Welcome to the underground
 
-436 songs - 1 day 0 hr 43 min - [published](https://open.spotify.com/playlist/4PYEIAGZSBaHZFeTD19bqu)
+437 songs - 1 day 0 hr 46 min - [published](https://open.spotify.com/playlist/4PYEIAGZSBaHZFeTD19bqu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,8 @@
 | [Pam Grier](https://open.spotify.com/track/4COklyEUnipSInTyM61f56) | [Jamil Honesty](https://open.spotify.com/artist/2WRuYynkJNdmVhnEospDOz), [Rim DaVillin](https://open.spotify.com/artist/53WcG8QHW6FS40Rvf5b3rd), [P.U.R.E.](https://open.spotify.com/artist/2vLaBfiaxLVN8v8d4NoFUb) | [Pam Grier](https://open.spotify.com/album/2INhUjGUKgeWZdv9nIhFlY) | 4:32 | 2022-01-11 | 2022-07-29 |
 | [Paragon](https://open.spotify.com/track/7vmNuW2rWCrsA3Ho16fHFu) | [Ill Conscious](https://open.spotify.com/artist/47NnUYBRcPQZwS2ijGlTqt), [Mute Won](https://open.spotify.com/artist/61uVfQlX8m8i4c7IDc4QMN), [DJ TMB](https://open.spotify.com/artist/0zybSToL8vactYoAWicq70) | [Acres of Diamonds](https://open.spotify.com/album/5BzxhB16mFjDeovA4Zgv1p) | 3:02 | 2022-04-01 | 2022-07-27 |
 | [Paris, Tokyo](https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:30 | 2022-01-11 |  |
-| [Party and Bullshit \- 2008 Remaster](https://open.spotify.com/track/6jCGzZn0gFeRlbqdaJhw6T) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [NOTORIOUS Music From and Inspired by the Original Motion Picture](https://open.spotify.com/album/37pqxCN5TmoEc26GWYvol4) | 3:37 | 2022-01-11 |  |
+| [Party And Bullshit](https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Whos The Man ? Soundtrack](https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o) | 3:39 | 2022-05-10 |  |
+| [Party and Bullshit \- 2008 Remaster](https://open.spotify.com/track/6jCGzZn0gFeRlbqdaJhw6T) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [NOTORIOUS Music From and Inspired by the Original Motion Picture](https://open.spotify.com/album/37pqxCN5TmoEc26GWYvol4) | 3:37 | 2022-01-11 | 2022-11-07 |
 | [Pears](https://open.spotify.com/track/2DgWjZaS2NFzWrCaTp93cK) | [Cavalier](https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o) | [Pears](https://open.spotify.com/album/3cs0ppAAYmKZcWKG0pgxlx) | 3:09 | 2022-02-18 | 2022-04-29 |
 | [Peppas \(feat\. Black Star\)](https://open.spotify.com/track/0bKg2V6xY47U5UCU7QuoAX) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 4:04 | 2022-10-29 |  |
 | [Pigtails](https://open.spotify.com/track/6e60DjwKUL9wtqe1syBoqV) | [Defprez](https://open.spotify.com/artist/79O7rk4hqd1b1H5T4Ob81E) | [Sundays Sessions](https://open.spotify.com/album/3vf4JTF9W1Ln7MRluatDGI) | 2:00 | 2022-02-18 | 2022-07-27 |

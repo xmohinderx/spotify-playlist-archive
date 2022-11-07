@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 122982,
+  "num_followers": 123052,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDRjNmNjN2YyNDM2NTljMTcyYzI5MDA1ODk4OTBlOWIz",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGFlMTg5ZTQ5OTMyM2U0NzljMmNjOTI5ZGExOGFjZjMz",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -108,7 +108,7 @@
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "If I Were A Butterfly",
-        "url": "https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn"
+        "url": "https://open.spotify.com/album/11R59ESDiW114ngszKUkyH"
       },
       "artists": [
         {
@@ -118,7 +118,7 @@
       ],
       "duration_ms": 311948,
       "name": "If I Were A Butterfly - Single Version",
-      "url": "https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j"
+      "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 164245,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "The Unborn Capitalist From Limbo",
-        "url": "https://open.spotify.com/album/21UK10eBA1kdKwRDON3q7H"
-      },
-      "artists": [
-        {
-          "name": "Cory Hanson",
-          "url": "https://open.spotify.com/artist/2XG4LWrmKXFA1PqnUsuPj6"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "Replica",
-      "url": "https://open.spotify.com/track/6oWRYpDQbgl8N6gkb5KSkR"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "No Quit",
         "url": "https://open.spotify.com/album/1YhIJxRStr6P4klotOPv9N"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 193520,
       "name": "No Quit",
       "url": "https://open.spotify.com/track/3zGn3DuQSsh5g6o2r6IwJg"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "The Unborn Capitalist From Limbo",
+        "url": "https://open.spotify.com/album/21UK10eBA1kdKwRDON3q7H"
+      },
+      "artists": [
+        {
+          "name": "Cory Hanson",
+          "url": "https://open.spotify.com/artist/2XG4LWrmKXFA1PqnUsuPj6"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/6oWRYpDQbgl8N6gkb5KSkR"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Private Tales",
-        "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Sun",
-          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
-        }
-      ],
-      "duration_ms": 266946,
-      "name": "Seaquest",
-      "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "& I'm Fine Today",
         "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 218964,
       "name": "Far out Feeling",
       "url": "https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Private Tales",
+        "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Sun",
+          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
+        }
+      ],
+      "duration_ms": 266946,
+      "name": "Seaquest",
+      "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
     },
     {
       "added_at": "2022-07-22 04:00:00",

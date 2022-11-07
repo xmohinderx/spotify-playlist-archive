@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-127 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
+128 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Lambda](https://open.spotify.com/track/4Q0ndfrABOZ9OfaqMqLkf2) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Lambda](https://open.spotify.com/album/15CHatpLTNDCNRrjc9cXm6) | 2:37 | 2022-09-08 | 2022-09-25 |
 | [Last Dance](https://open.spotify.com/track/5AHYdlkvXQ4Lae83JZDm7K) | [Otto Kintet](https://open.spotify.com/artist/27CCZtAURerCD9yhrcJ3KE) | [Pico](https://open.spotify.com/album/5lZ2Y0VqVwjvxivPHlEYst) | 6:15 | 2022-09-08 |  |
 | [Lotus](https://open.spotify.com/track/66vGTK42BwvBUNV97qlYkt) | [Teun Verbruggen](https://open.spotify.com/artist/2eMZsuJlUdllW1yrtGWNDA), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Nathan Wouters](https://open.spotify.com/artist/6aF2zTGGmfSLFRms6tXsRT), [Bram de Looze](https://open.spotify.com/artist/32c6i6INQivcOe8y7zyKmG), [André Fernandes](https://open.spotify.com/artist/7bz7PGWzFOOl05qVo6EXU2) | [Chasing Penguins](https://open.spotify.com/album/4sISBgndNpI66M1LUs2CwF) | 6:15 | 2022-09-08 |  |
-| [Mammoet](https://open.spotify.com/track/4uAjMzGU1UGhiCy4dyvUxH) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou Claerhout](https://open.spotify.com/artist/02mNtFwmQg7xD5FHWGfNft) | [Sambal](https://open.spotify.com/album/5bLeofMakqSrcOzSl70850) | 8:55 | 2022-10-07 |  |
+| [Mammoet](https://open.spotify.com/track/52rTIOyqlAOiRPFMbyewUb) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou](https://open.spotify.com/artist/1BwV1xO6KyJBmdx87xcJ08) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 8:55 | 2022-10-20 |  |
+| [Mammoet](https://open.spotify.com/track/4uAjMzGU1UGhiCy4dyvUxH) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou Claerhout](https://open.spotify.com/artist/02mNtFwmQg7xD5FHWGfNft) | [Sambal](https://open.spotify.com/album/5bLeofMakqSrcOzSl70850) | 8:55 | 2022-10-07 | 2022-11-07 |
 | [Mammoet](https://open.spotify.com/track/6Oagzl7aiMMUInr98ICOD4) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou Claerhout](https://open.spotify.com/artist/02mNtFwmQg7xD5FHWGfNft) | [Mammoet](https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI) | 8:55 | 2022-09-08 | 2022-10-17 |
 | [Marshland IV \- Rays](https://open.spotify.com/track/1hLmjGsHWA5I2lTHIR9qoi) | [don Marsh V](https://open.spotify.com/artist/2YCbuLwPm1iABWCnpvTOuh) | [Marshland IV \- Rays](https://open.spotify.com/album/734QCAnoqrOPCbxUCHBmyT) | 7:24 | 2022-09-08 |  |
 | [Maryward](https://open.spotify.com/track/3DUcCDY04fWN1qv9OB46cN) | [Grand Picture Palace](https://open.spotify.com/artist/1nw3i2K0N8XZi916gV0E4l) | [Maryward](https://open.spotify.com/album/6ZIDG4fFZLYKLNHkqAYQt8) | 6:07 | 2022-09-08 |  |

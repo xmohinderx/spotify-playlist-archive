@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 103403,
       "name": "6 Ft",
       "url": "https://open.spotify.com/track/0kwtcexUeuGMmduCFp6x8H"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 208269,
       "name": "90 Proof (with J. Cole)",
       "url": "https://open.spotify.com/track/078lbDGGTqBuTKU3bypXxQ"
@@ -3515,7 +3515,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 222889,
       "name": "Dancing On My Own - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us"
@@ -7673,6 +7673,24 @@
       "duration_ms": 165994,
       "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
       "url": "https://open.spotify.com/track/72dLK7arP2GpXzj5tFd8d0"
+    },
+    {
+      "album": {
+        "name": "Aaron's Party (Come Get It)",
+        "url": "https://open.spotify.com/album/3BfvHVArGv1rIZgbOkdrbW"
+      },
+      "artists": [
+        {
+          "name": "Aaron Carter",
+          "url": "https://open.spotify.com/artist/5338fdSzGNOFD4cxAxDTeq"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/7sruBwHu4S0DIo8RXKxsAY"
     },
     {
       "album": {
@@ -13587,7 +13605,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 174746,
       "name": "Skeleton Sam",
       "url": "https://open.spotify.com/track/0zD8DcXmWQwWC5Bh78dXqY"
@@ -13917,7 +13935,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -15353,7 +15371,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 137960,
       "name": "The Purple People Eater",
       "url": "https://open.spotify.com/track/0WkZQPNC0c7yrsMX1arVAd"
@@ -15567,7 +15585,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 204133,
       "name": "Things That Go Bump In The Night",
       "url": "https://open.spotify.com/track/4dyoQtmjsgoTuF4VIReyE1"

@@ -190,6 +190,24 @@
     },
     {
       "album": {
+        "name": "28 Reasons - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189413,
+      "name": "28 Reasons",
+      "url": "https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex"
+    },
+    {
+      "album": {
         "name": "HOLY FVCK",
         "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
       },
@@ -619,7 +637,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 114887,
       "name": "Ai, Pedro",
       "url": "https://open.spotify.com/track/16ynDQ7sRgkEo85Rt7M4U0"
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 251259,
       "name": "Baile de Favela - Remix",
       "url": "https://open.spotify.com/track/70v2lrNsFa38VeEEWKCjLP"
@@ -3057,7 +3075,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 147983,
       "name": "Chora Pestista",
       "url": "https://open.spotify.com/track/2pRnBqG0J8FGcL8CbW6U1A"
@@ -3295,6 +3313,32 @@
       "duration_ms": 147702,
       "name": "Conto do Plug",
       "url": "https://open.spotify.com/track/3CDVijhs5pS7UPr9etzV2J"
+    },
+    {
+      "album": {
+        "name": "Controle Sem Pilha",
+        "url": "https://open.spotify.com/album/2GtneFiwF26S3BoPJaBW4b"
+      },
+      "artists": [
+        {
+          "name": "MC MENOR HR",
+          "url": "https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8"
+        },
+        {
+          "name": "DJ SCOBAR",
+          "url": "https://open.spotify.com/artist/4dLUYBVk0uGKdvPgXXQHn9"
+        },
+        {
+          "name": "Bellagi",
+          "url": "https://open.spotify.com/artist/4kocH0Bzv4FFzH8F6iuz6c"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "Controle Sem Pilha",
+      "url": "https://open.spotify.com/track/0p440TJqHnJ98G8nVK0DMV"
     },
     {
       "album": {
@@ -6098,6 +6142,24 @@
     },
     {
       "album": {
+        "name": "Haja Col\u00edrio Lambad\u00e3o",
+        "url": "https://open.spotify.com/album/09gOuHzc7yRC6sYZCuYJLd"
+      },
+      "artists": [
+        {
+          "name": "Seu Ramiro no Beat",
+          "url": "https://open.spotify.com/artist/5dgClI3mVK9xXLfl6tjPKo"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139691,
+      "name": "Haja Col\u00edrio Lambad\u00e3o",
+      "url": "https://open.spotify.com/track/45hY2L2lrx7EuYGSikrKVJ"
+    },
+    {
+      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
       },
@@ -6163,7 +6225,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 133328,
       "name": "Hino do Flamengo",
       "url": "https://open.spotify.com/track/2KGYg5LBQKpA4Js8BBcOkn"
@@ -7601,7 +7663,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 211373,
       "name": "Lula Voltando",
       "url": "https://open.spotify.com/track/5RbrVslJMKheZGFRMKKzZb"
@@ -7755,7 +7817,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Mal Sei Falar de Amor",
       "url": "https://open.spotify.com/track/1BoMpKPeITtg3HN9Ursz5T"
@@ -9485,7 +9547,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 148900,
       "name": "M\u00e9dia Boa - Ao Vivo",
       "url": "https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO"
@@ -9769,6 +9831,28 @@
       "duration_ms": 160946,
       "name": "Nobody Like U",
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
+    },
+    {
+      "album": {
+        "name": "Only Built For Infinity Links",
+        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "Nothing Changed",
+      "url": "https://open.spotify.com/track/37If4sC0Si28T6z63qhR5z"
     },
     {
       "album": {
@@ -14525,7 +14609,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI"
@@ -14979,7 +15063,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 149076,
       "name": "Tubar\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"
@@ -15429,7 +15513,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 110613,
       "name": "Vai Dar PT - Ao Vivo",
       "url": "https://open.spotify.com/track/3aD1casmkFBZRtBcTs33fL"
@@ -16077,7 +16161,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 125152,
       "name": "Votei Em Bolsonaro",
       "url": "https://open.spotify.com/track/7tsxZN3H8ETCoAxgSETgi9"
@@ -16483,7 +16567,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 183509,
       "name": "\u00c9 o Mito",
       "url": "https://open.spotify.com/track/72A8rHS99kqVlOg2nwI7q7"

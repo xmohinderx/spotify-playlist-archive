@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODg2NywwMDAwMDAwMDk1YTQ2MjEzMjQ4MDI2ZDkxMjZiNWQ1NDY3NmE3MGEx",
+  "snapshot_id": "MTY2NTExODg2NywwMDAwMDAwMDE2YjIwYjI4OTExMjRkMTU1ODgyNTUxOTgwYjMyYmZl",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:48",
@@ -883,26 +883,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
-        "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "An da eun",
-          "url": "https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9"
-        }
-      ],
-      "duration_ms": 207613,
-      "name": "Spring Is Come By Chance",
-      "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "D_iary page.2",
         "url": "https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 246653,
       "name": "Look & Spring (Feat. Ko Young Bae of Soran)",
       "url": "https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
+        "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "An da eun",
+          "url": "https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9"
+        }
+      ],
+      "duration_ms": 207613,
+      "name": "Spring Is Come By Chance",
+      "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1001,7 +1001,7 @@
       "url": "https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng"
     },
     {
-      "added_at": "2022-11-06 01:38:03",
+      "added_at": "2022-11-07 01:32:17",
       "album": {
         "name": "\uc6d0 Wish",
         "url": "https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7"
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
+      },
+      "artists": [
+        {
+          "name": "ROJO",
+          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "A daily adventurer",
         "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 182315,
       "name": "Paints (feat. 1ho)",
       "url": "https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "Cliche",
-        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
-      },
-      "artists": [
-        {
-          "name": "ROJO",
-          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "Cliche",
-      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "re:",
+        "url": "https://open.spotify.com/album/5iTH1fWDgfxSPkwJRBZiRE"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 226817,
+      "name": "\ud5e4\uc5b4\uc9c0\uae30 \uc2eb\uc5b4",
+      "url": "https://open.spotify.com/track/7pKxsAxBtRJU19Qqij0P6y"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "If I (with Yun DDanDDan)",
         "url": "https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 215981,
       "name": "Walk",
       "url": "https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "re:",
-        "url": "https://open.spotify.com/album/5iTH1fWDgfxSPkwJRBZiRE"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 226817,
-      "name": "\ud5e4\uc5b4\uc9c0\uae30 \uc2eb\uc5b4",
-      "url": "https://open.spotify.com/track/7pKxsAxBtRJU19Qqij0P6y"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of <a href="https://en.wikipedia.org/wiki/The\_Backrooms">reality</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,778 likes - 63 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,449 likes - 63 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

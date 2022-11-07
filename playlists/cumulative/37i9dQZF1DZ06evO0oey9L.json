@@ -1198,6 +1198,24 @@
     },
     {
       "album": {
+        "name": "Viniste, Viste y Venciste",
+        "url": "https://open.spotify.com/album/37tNYEbQrGJRh0gxC5Uca1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157248,
+      "name": "Viniste, Viste y Venciste",
+      "url": "https://open.spotify.com/track/0qpwTaBmwc6QMdFgnzr9zg"
+    },
+    {
+      "album": {
         "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
         "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },

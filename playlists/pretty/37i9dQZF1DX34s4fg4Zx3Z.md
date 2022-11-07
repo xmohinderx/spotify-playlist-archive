@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,670 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,689 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 70 | [daybyday](https://open.spotify.com/track/4PAZ3N5yObypeVI7KmHZZI) | [SIVAN](https://open.spotify.com/artist/0wJWawRvX8K9joiK9QqkX5) | [daybyday](https://open.spotify.com/album/3L3XlPYtzEGyT1MGPY2okb) | 3:25 |
 | 71 | [Sign Of Love](https://open.spotify.com/track/2c0YKwbBSzoNnDBtbQb1Cx) | [A.K](https://open.spotify.com/artist/0zj62uJifZjfTQiyDRODjc), [hieuhayho](https://open.spotify.com/artist/7iYleLkZ0KHUjGMoZZrv9S) | [Sign Of Love](https://open.spotify.com/album/4JQysgb6iqEuJe7nbyzzz5) | 2:29 |
 | 72 | [Mắt Em](https://open.spotify.com/track/0m8NaSL7F2AkPFCFx4WyRL) | [Fous](https://open.spotify.com/artist/2l6JnuA4jf2M5OTxmrEdAH), [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Mắt Em](https://open.spotify.com/album/0kvoGBsZCVe1wGKpjIT7xs) | 3:19 |
-| 73 | [Tháng 10](https://open.spotify.com/track/2CIxRhsTe26CKRIkb7NIdX) | [Thanh Flame](https://open.spotify.com/artist/5BIYaAkUzKMHjpraGoi0uo) | [Tháng 10](https://open.spotify.com/album/6vf3ZhjFDvS5iWGVOT64Fl) | 3:38 |
+| 73 | [Tháng 10](https://open.spotify.com/track/2CIxRhsTe26CKRIkb7NIdX) | [Thanh Flame](https://open.spotify.com/artist/5BIYaAkUzKMHjpraGoi0uo), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Tháng 10](https://open.spotify.com/album/6vf3ZhjFDvS5iWGVOT64Fl) | 3:38 |
 | 74 | [Đừng Scam Tim Em](https://open.spotify.com/track/1Bv1QfH1UnvjkAitOKBL1l) | [SASSY](https://open.spotify.com/artist/4S4bIRzJUtv95EX72sKM1i), [14 Casper](https://open.spotify.com/artist/0zo8kCJVktn7oPnzpkbC2p), [Hagii](https://open.spotify.com/artist/1DssaUxEkGQqdudezOKylI) | [Đừng Scam Tim Em](https://open.spotify.com/album/0A59ijoM3DytdO5xRtLWWa) | 3:45 |
 | 75 | [Từng Là Chúng Ta](https://open.spotify.com/track/73ikMsMoQ9yy0ex2ncCMxC) | [Ngọc Dolil](https://open.spotify.com/artist/6VLN4hTrGOZ5Le1TVTwDTg) | [Từng Là Chúng Ta](https://open.spotify.com/album/3ge04XkhedMdUOpMWsOwMk) | 3:46 |
 | 76 | [Muốn Em Làm Vợ Anh](https://open.spotify.com/track/7k8al8QjxMj3bb3jHzRFLR) | [Vang](https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW) | [Muốn Em Làm Vợ Anh](https://open.spotify.com/album/0DwBYylWqE5BMO4VppoKuv) | 3:33 |

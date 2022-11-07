@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,597 likes - 530 songs - 19 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,900 likes - 530 songs - 19 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 135 | [Disintegrate](https://open.spotify.com/track/6xvNZaAEtO0GqqdHi5CxOt) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Lucrative Behavior](https://open.spotify.com/album/2DMhX2hI5PcVHl1YGJHNui) | 2:14 |
 | 136 | [Rosé For Breakfast](https://open.spotify.com/track/7cO2sDDjsSG6altNBcy8h6) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rosé For Breakfast](https://open.spotify.com/album/0afijbIAtcutNiEJZRwinE) | 2:44 |
 | 137 | [Cookie Clouds](https://open.spotify.com/track/53A50XkJVLP2rACMyO8gCS) | [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU) | [Cookie Clouds](https://open.spotify.com/album/4UJbQ9EmFuLtmWAIb5xNvO) | 1:59 |
-| 138 | [Rich Soul](https://open.spotify.com/track/2mEmxDyZMwUezHwSLHKJjB) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Rich Soul](https://open.spotify.com/album/00GK6byoprJKFtOrqYVLZf) | 1:07 |
+| 138 | [Rich Soul](https://open.spotify.com/track/5j9DKjQjAUt55yKCTfkZxZ) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Rich Soul](https://open.spotify.com/album/05ZdLcdabRX0nmXalFrMxY) | 1:07 |
 | 139 | [Together](https://open.spotify.com/track/5ijJZ7nK5bzVk09wLloi5O) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [Together](https://open.spotify.com/album/4A3sriGvQTkrUY7G0l5Out) | 2:48 |
 | 140 | [Easy breath](https://open.spotify.com/track/2mqNw2TFosQlRp7QXplg4j) | [Faithvwl](https://open.spotify.com/artist/7bFyV2qQ7wkQLzAaHJli34), [SHEM](https://open.spotify.com/artist/5wL4hoQE1iJItzBTBUeUHi), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Easy breath](https://open.spotify.com/album/4jnq2DWiBX9rCw0Va42tWI) | 2:38 |
 | 141 | [Over My Head](https://open.spotify.com/track/3KdnmcIQAsKz6leGGvhziU) | [Halfspeed](https://open.spotify.com/artist/2R0QLg5yVU6Z5aGyhEjR0b), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Over My Head](https://open.spotify.com/album/0ksVtSB4NBXsQwLbHevVAX) | 1:07 |
@@ -539,4 +539,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 529 | [Flippant](https://open.spotify.com/track/3NKlu0qfwPt55dmaWBHQIq) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Flippant](https://open.spotify.com/album/2qnYGVaRprhma6n88eF4Yp) | 2:21 |
 | 530 | [Hold My Juice Box](https://open.spotify.com/track/7KnK3G54x4Mgb8Lk5XU1yf) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Hold My Juice Box](https://open.spotify.com/album/0zpCLxjCHmuKEbDvRAAaGc) | 2:41 |
 
-Snapshot ID: `MTY2Njk0ODU1MiwwMDAwMDAwMGUwMWM4MTE2ZDI5MmY0ZGYxZTg1ZjAyY2UxNmM4MzUy`
+Snapshot ID: `MTY2Njk0ODU1MiwwMDAwMDAwMDQyNGU3Y2EyODhmYzE0Y2Q5NzFkZjA5ZWIxMWZmZDIx`

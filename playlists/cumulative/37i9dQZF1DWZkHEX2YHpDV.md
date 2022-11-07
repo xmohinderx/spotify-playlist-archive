@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Magnolia Park
 
-851 songs - 1 day 21 hr 27 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+852 songs - 1 day 21 hr 31 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Bedroom Eyes](https://open.spotify.com/track/57p8gUFm53940CZaTxHB1m) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [Bedroom Eyes](https://open.spotify.com/album/1oyjqGKLyPlgL5nZDAqezq) | 2:33 | 2022-01-14 | 2022-06-12 |
 | [Beg](https://open.spotify.com/track/3s9oKWdvPOF7KMgtApYVE4) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [Beg](https://open.spotify.com/album/1gb1U1Rb3xqq6xMFGHrcSG) | 2:31 | 2021-12-10 | 2022-05-20 |
 | [Benchwarmer](https://open.spotify.com/track/4GrymHcT6DkUsbH5CoUmos) | [Shallowdiver](https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z) | [Benchwarmer](https://open.spotify.com/album/2rdvIq3fjQ2b286ufFTGcV) | 3:09 | 2022-08-22 |  |
-| [Best Kept Secret](https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Best Kept Secret](https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO) | 2:28 | 2022-11-04 |  |
+| [Best Kept Secret](https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Best Kept Secret](https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO) | 2:28 | 2022-11-04 | 2022-11-07 |
 | [Better Now](https://open.spotify.com/track/79HhaJyKuJyFGEgOlHrHiP) | [Sunsleeper](https://open.spotify.com/artist/3KHHh4WVfyUa9ZwE63jdir) | [Better Now](https://open.spotify.com/album/1CL8zLHtZY8d4w01m7RPV9) | 3:34 | 2021-12-10 | 2022-05-13 |
 | [Better Off](https://open.spotify.com/track/090fsR0klPUyKSrnNCnojO) | [Secret Eyes](https://open.spotify.com/artist/6pcymMubKlBFQ1H7gXzYmL) | [Holding On](https://open.spotify.com/album/7KhTFB6x7NHQ4t9P78ZxSY) | 3:50 | 2021-12-10 | 2022-05-26 |
 | [BETTER OFF DEAD](https://open.spotify.com/track/4ih3Y0t86lfK8m8pTgEx4I) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [BETTER OFF DEAD](https://open.spotify.com/album/3E1tSM6TIdeVmjDXZ0Xtsq) | 2:35 | 2021-12-10 | 2022-07-25 |
@@ -340,6 +340,7 @@
 | [Here for War](https://open.spotify.com/track/7hxYTLsBilhqFM3B5wy5n4) | [Losers Club](https://open.spotify.com/artist/2qTzOTZEnY4BwtFVAry5iR) | [Here for War](https://open.spotify.com/album/1tKEiXjpNpvtRIorJFkzES) | 3:22 | 2022-03-25 | 2022-04-15 |
 | [Heroin](https://open.spotify.com/track/74drJLr20XF1f4yqyNPRSZ) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Heroin](https://open.spotify.com/album/05AOz993WTdQcAox3vPcjv) | 4:41 | 2021-12-10 | 2022-04-21 |
 | [Hesitation](https://open.spotify.com/track/2rkY1tk2e2y7GzscvTrfVT) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Hesitation](https://open.spotify.com/album/4RfHjmJYU0kaHNivNBmzMI) | 2:43 | 2021-12-10 | 2022-07-27 |
+| [Hey Ben](https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Hey Ben](https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M) | 3:20 | 2022-11-04 |  |
 | [Hideaway](https://open.spotify.com/track/1W50cAU8tMURzLs2igq9pl) | [You vs Yesterday](https://open.spotify.com/artist/1PxE1tqEDHBQMGsV1K7Dwu) | [Hideaway](https://open.spotify.com/album/6EkHUaVHxshi2IPn6YtgPn) | 2:39 | 2022-01-14 | 2022-06-14 |
 | [High](https://open.spotify.com/track/437iVwXOYMp04oCq2XB4Wo) | [Anavae](https://open.spotify.com/artist/0JseT2AZzVMKsBlrAywFcO) | [High](https://open.spotify.com/album/7laPexrRfr1VnF7sL9aV0d) | 4:40 | 2022-03-25 | 2022-06-10 |
 | [High Again](https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [High Again](https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK) | 2:55 | 2022-04-01 | 2022-08-03 |

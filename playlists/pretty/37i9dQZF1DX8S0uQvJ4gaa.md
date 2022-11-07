@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Madeline Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,339 likes - 118 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,902 likes - 118 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Wolves](https://open.spotify.com/track/49hCqy60MNEdj8c0wNMRg6) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Wolves](https://open.spotify.com/album/6t5HN3jcj7XgD79SB0SrT5) | 2:54 |
+| 1 | [The Wolves](https://open.spotify.com/track/2v71B92AHjGB0FgfIB4bch) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 2:54 |
 | 2 | [Prayin' In A Deer Stand](https://open.spotify.com/track/6udBM5TJkTp1uupH4Y5ReF) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Prayin' In A Deer Stand](https://open.spotify.com/album/3PGB7yyY9f50st2g7PQuKY) | 3:24 |
 | 3 | [Good and Gone](https://open.spotify.com/track/5le2qyZpf6XHdHCgwdFUiZ) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Good and Gone](https://open.spotify.com/album/0mLeqPvkcUgwPj6GbkPjg1) | 3:18 |
 | 4 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 117 | [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 |
 | 118 | [Thinkin' We're In Love](https://open.spotify.com/track/1dQYswRaULYA9XfPc02FF1) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Thinkin' We're In Love](https://open.spotify.com/album/2xgnv0PA9ibnyNbjrksmww) | 3:48 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGRiNzA1NjUzNDZjOGI1YTBkMWU4NGQ1MzM3MGYzMTJh`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGMxYWRmNWYwZDc1MGNmZjc3ZWFhNTQ4MGQ2NTY1ZDI3`

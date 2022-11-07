@@ -4,7 +4,7 @@
 
 > The highest quality blend\. Cover: Rayland Baxter
 
-543 songs - 1 day 9 hr 3 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+544 songs - 1 day 9 hr 6 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,8 @@
 | [Roman Holiday](https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 4:28 | 2022-05-20 | 2022-10-08 |
 | [ROMEO 1000](https://open.spotify.com/track/12vZzCinJwBsRJlGdqyyMI) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [ROMEO 1000](https://open.spotify.com/album/5d0dLjvZVnlzyJr4qZCYXr) | 2:20 | 2022-10-28 |  |
 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 | 2022-01-07 | 2022-06-18 |
-| [Rubberband Man](https://open.spotify.com/track/1vlP24MDUyUxBb7X0Q42AE) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Rubberband Man](https://open.spotify.com/album/2VpwH6aLll433843htWOL6) | 2:30 | 2022-10-28 |  |
+| [Rubberband Man](https://open.spotify.com/track/1vlP24MDUyUxBb7X0Q42AE) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Rubberband Man](https://open.spotify.com/album/2VpwH6aLll433843htWOL6) | 2:30 | 2022-10-28 | 2022-11-07 |
+| [Rubberband Man](https://open.spotify.com/track/7Aj4lvqrOA29OVHLnTlRwQ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 2:30 | 2022-11-04 |  |
 | [Rubberneckers](https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Rubberneckers](https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2) | 3:28 | 2022-01-14 | 2022-06-25 |
 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 | 2022-08-19 |  |
 | [Sad](https://open.spotify.com/track/1K6dPwnP8alsRxVc5ET5Ft) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:24 | 2022-09-16 |  |

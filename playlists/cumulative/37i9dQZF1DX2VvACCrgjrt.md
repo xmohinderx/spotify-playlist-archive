@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: DJ Snake
 
-356 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+357 songs - 19 hr 7 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,11 +138,12 @@
 | [Get Down](https://open.spotify.com/track/5b8lJ9il0hbE1HFBIGgTit) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Night Bass](https://open.spotify.com/artist/5r8uFFa8SgWYY9otnRmLlw) | [Night Bass Freshmen Vol 7](https://open.spotify.com/album/7yWb9vlqKtOF1Mbdc3tIS9) | 3:33 | 2022-05-06 | 2022-09-10 |
 | [Get In](https://open.spotify.com/track/4ishNa3yuhYvCLBRhCjFiy) | [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2) | [Get In](https://open.spotify.com/album/69RX6uKhlhNJQ3jbdEuLnu) | 3:56 | 2021-10-29 | 2022-04-21 |
 | [Get It](https://open.spotify.com/track/4fF0io7XLVOSx5TD8DDMpc) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [Get It](https://open.spotify.com/album/3R0jtfmlb4Xd8zQOusrqNT) | 3:38 | 2022-03-25 |  |
+| [Get Twisted](https://open.spotify.com/track/1bp9JRk8v2Y6EoRvoPTnig) | [House Divided](https://open.spotify.com/artist/6Cq2iS9JhvjwEGwdVEWuti) | [Get Twisted](https://open.spotify.com/album/7Lqz9CLtfqIc4ZmubT1uMR) | 3:45 | 2022-07-22 |  |
 | [Get Twisted](https://open.spotify.com/track/3fRBE44FFj6EXPtn4gXjXw) | [House Divided](https://open.spotify.com/artist/6Cq2iS9JhvjwEGwdVEWuti) | [Get Twisted](https://open.spotify.com/album/29xrShNnE0LyzZgDJQsEJF) | 3:45 | 2022-03-18 | 2022-10-13 |
 | [Ghost](https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Ghost](https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM) | 2:52 | 2022-01-21 |  |
 | [Girls](https://open.spotify.com/track/3bT1QiVx8FcObFcDuBArth) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Girls](https://open.spotify.com/album/6dGns7nbpxDipRomnj6mgC) | 3:06 | 2021-10-29 | 2022-05-07 |
 | [Give It To Me](https://open.spotify.com/track/5Q6nl2QQGP4KTD24FIKM8G) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Night Bass Freshmen Vol 5](https://open.spotify.com/album/3OjXm3xqc8IsIKIdJ3nf8U) | 2:56 | 2021-10-29 | 2022-01-02 |
-| [Giving Up On Love](https://open.spotify.com/track/3WhW8hmR8tFQjpZBIFNLw6) | [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [Michael Malcolm](https://open.spotify.com/artist/2YHDC8kXCYzRA7DSJjNH8U), [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ) | [Giving Up On Love](https://open.spotify.com/album/0ZVqV79CTkqSGhGBXdUbO5) | 3:00 | 2022-06-24 |  |
+| [Giving Up On Love](https://open.spotify.com/track/3WhW8hmR8tFQjpZBIFNLw6) | [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [Michael Malcolm](https://open.spotify.com/artist/2YHDC8kXCYzRA7DSJjNH8U), [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ) | [Giving Up On Love](https://open.spotify.com/album/0ZVqV79CTkqSGhGBXdUbO5) | 3:00 | 2022-06-24 | 2022-11-07 |
 | [Godspeed](https://open.spotify.com/track/4NnLO3LzdT7vKxY1b6KTdK) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Godspeed](https://open.spotify.com/album/11fKSzXY7mhLxUjm6TfGTY) | 4:11 | 2021-10-29 | 2022-01-05 |
 | [Gold](https://open.spotify.com/track/2AZo3hWWkaJjfSLcHRxG41) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Gold](https://open.spotify.com/album/2a854nNydyqb4hkHeKqWEh) | 3:35 | 2022-02-18 | 2022-04-21 |
 | [Gold On My Crown \(feat\. Born I\)](https://open.spotify.com/track/19T0zMPlfewq1NL7FVuxii) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM) | [Gold On My Crown \(feat\. Born I\)](https://open.spotify.com/album/09mT14hpl7yACg6W6J1iB9) | 2:43 | 2021-10-29 | 2022-01-21 |

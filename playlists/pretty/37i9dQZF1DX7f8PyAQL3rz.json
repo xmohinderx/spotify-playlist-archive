@@ -1,12 +1,12 @@
 {
   "description": "sereia chegou",
-  "num_followers": 968553,
+  "num_followers": 969049,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyNjE4MCwwMDAwMDAwMGNlZjg1MjM2OTFhYjAwN2M0Njc3YTAxYWQ4MWU5OTM1",
+  "snapshot_id": "MTY2NjkyNjE4MCwwMDAwMDAwMGUzNmY1YTMzMTcwNzMzMzU3NzNkNDJhNzU5ZjExNGYz",
   "tracks": [
     {
       "added_at": "2022-10-28 03:03:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-10-28 03:03:00",
       "album": {
+        "name": "Travessia - Spotify Singles",
+        "url": "https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 205128,
+      "name": "Travessia - Spotify Singles",
+      "url": "https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg"
+    },
+    {
+      "added_at": "2022-10-28 03:03:00",
+      "album": {
         "name": "M4ndr4k4",
         "url": "https://open.spotify.com/album/7EAkSlUVCawHN3DxDxjNeR"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 150285,
       "name": "M4ndr4k4",
       "url": "https://open.spotify.com/track/0dwr8PSsYkf0PaLbYIzRj4"
-    },
-    {
-      "added_at": "2022-10-28 03:03:00",
-      "album": {
-        "name": "Travessia - Spotify Singles",
-        "url": "https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "Travessia - Spotify Singles",
-      "url": "https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg"
     },
     {
       "added_at": "2022-10-28 03:03:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Experience BTS' Yet To Come live concert with the playlist\. ARMY is unbeatable💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,135,449 likes - 32 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,136,883 likes - 32 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

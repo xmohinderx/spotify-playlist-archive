@@ -4868,6 +4868,24 @@
     },
     {
       "album": {
+        "name": "NATURE Special Album RICA RICA",
+        "url": "https://open.spotify.com/album/7LzUdQlqeFLiw1QnxvK2wW"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206840,
+      "name": "RICA RICA",
+      "url": "https://open.spotify.com/track/4bZTk4AT2azHqOzGoK5lNg"
+    },
+    {
+      "album": {
         "name": "RIDE",
         "url": "https://open.spotify.com/album/2ra6N1nUydQ9MtpuQwTZLa"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 207329,
+  "num_followers": 207359,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDA2Y2M5NzQzMjA5OThmYjM1NzA5ZmU5NTRlYjUzODFj",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGZhOTNmOWNjZTdjODAzMmMwZjJmZTJiMDU1MzVjNWQ0",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -367,6 +367,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs"
+      },
+      "artists": [
+        {
+          "name": "Thell Barrio",
+          "url": "https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59"
+        }
+      ],
+      "duration_ms": 202647,
+      "name": "A Toda Madre",
+      "url": "https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "Deceitful Idols",
         "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 237586,
       "name": "En la Jaula",
       "url": "https://open.spotify.com/track/4gTmUJIVkIBKIhuWcepu7q"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "A Toda Madre",
-        "url": "https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs"
-      },
-      "artists": [
-        {
-          "name": "Thell Barrio",
-          "url": "https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59"
-        }
-      ],
-      "duration_ms": 202647,
-      "name": "A Toda Madre",
-      "url": "https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME"
     },
     {
       "added_at": "2020-10-24 03:38:51",

@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53225,
+  "num_followers": 53230,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDk0Yjg4ZDYzNjAyNWMyNjc1NGRmMjIyNjY2ZDFhMWU3",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDhlYmU4NWY0ODYwYjY0NjVjMjczZmEwMzRiYzEzZjcx",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -27,22 +27,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Oh, Inverted World (20th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "New Slang - 2021 Remaster",
-      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "The Kick Inside",
         "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 269066,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Oh, Inverted World (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "New Slang - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -699,22 +699,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "And Don't The Kids Just Love It",
-        "url": "https://open.spotify.com/album/7n0jbzngXElnxdbQz2XibT"
-      },
-      "artists": [
-        {
-          "name": "Television Personalities",
-          "url": "https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh"
-        }
-      ],
-      "duration_ms": 131720,
-      "name": "A Picture Of Dorian Gray",
-      "url": "https://open.spotify.com/track/19YGRL40edzQmgxFILjVvB"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Winter Wheat",
         "url": "https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 203091,
       "name": "Postdoc Blues",
       "url": "https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "And Don't The Kids Just Love It",
+        "url": "https://open.spotify.com/album/7n0jbzngXElnxdbQz2XibT"
+      },
+      "artists": [
+        {
+          "name": "Television Personalities",
+          "url": "https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh"
+        }
+      ],
+      "duration_ms": 131720,
+      "name": "A Picture Of Dorian Gray",
+      "url": "https://open.spotify.com/track/19YGRL40edzQmgxFILjVvB"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -795,18 +795,18 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Beggars",
-        "url": "https://open.spotify.com/album/6ityCVIaAyndO2sKryuy2M"
+        "name": "Sonic Nurse",
+        "url": "https://open.spotify.com/album/7gA7xctF7tq62T2YooL6wS"
       },
       "artists": [
         {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
         }
       ],
-      "duration_ms": 290760,
-      "name": "Doublespeak",
-      "url": "https://open.spotify.com/track/4oE6WttjRSXWViKaiNcz37"
+      "duration_ms": 392506,
+      "name": "Pattern Recognition",
+      "url": "https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP"
     }
   ],
   "unique_name": "The Writer's Playlist",

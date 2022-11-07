@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by Indian Indie artists, updated every Wednesday\. Cover: Shrinidhi Ghatate, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,607 likes - 105 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,670 likes - 105 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 7 | [Indeed](https://open.spotify.com/track/3IA3GigpUfwEtgx2qh8G6a) | [Tannison Mathews](https://open.spotify.com/artist/05PYgkxUM4jXOe7trQa3A5) | [Indeed](https://open.spotify.com/album/3hkLQEjtxNMculqzth7Yr3) | 3:34 |
 | 8 | [That Guy](https://open.spotify.com/track/2RC78RMiwvHtZV2OP8CK2h) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [That Guy](https://open.spotify.com/album/2mIp846Cag0BsUsUVQEH1N) | 3:54 |
 | 9 | [If Rainbows Do Exist](https://open.spotify.com/track/0EGFMWYfn7kREI3CwcYbC3) | [Tasha Keswani](https://open.spotify.com/artist/7sPmISWt3dP9siKh7aJ20m) | [If Rainbows Do Exist](https://open.spotify.com/album/2HP872ekpPs5iriAwu78Kc) | 3:38 |
-| 10 | [Distance](https://open.spotify.com/track/3YbzKn0NmOwVSKx82BbTnb) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU) | [citipack](https://open.spotify.com/album/5v1yfgw1AKKi4RF4m6gGOg) | 2:26 |
+| 10 | [Distance \(feat\. Rizzy Rico\)](https://open.spotify.com/track/3YbzKn0NmOwVSKx82BbTnb) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU), [Rizzy Rico](https://open.spotify.com/artist/6JVX80nScDU70ZWnlZ48Aa) | [citipack](https://open.spotify.com/album/5v1yfgw1AKKi4RF4m6gGOg) | 2:26 |
 | 11 | [Sohbat Teri](https://open.spotify.com/track/4wpoXONUV3A4bYokUobJCZ) | [Jainam Mehta](https://open.spotify.com/artist/1Q2HavMMYVitje9y5sOWvC) | [Sohbat Teri](https://open.spotify.com/album/2HZhyf73va1G477F0ypWoE) | 3:18 |
 | 12 | [Dil Khuda Tu](https://open.spotify.com/track/39wfLOxVKYy5n8SnScagR9) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Dil Khuda Tu](https://open.spotify.com/album/0CClNhVaYM415ArYUq2Y9t) | 3:16 |
 | 13 | [Jo Tum Ho](https://open.spotify.com/track/2zTyNH7GCD99yqywgZg6rk) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Jo Tum Ho](https://open.spotify.com/album/0enBHmgJ2zbBGgx5EtrIM0) | 3:47 |

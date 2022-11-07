@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 92441,
+  "num_followers": 92569,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDU0NzFjYTA0NjVlNzA1ODQzOTZlODhlNWRiZjJkN2Fm",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGMxODY3ODY5MTBmZjc0ZmI1OWIyOGJlZTBjN2Y0YTkx",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
+      },
+      "artists": [
+        {
+          "name": "Poco",
+          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Heart Of The Night",
+      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "Time Passages",
         "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 322333,
       "name": "Heart to Heart",
       "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
-      },
-      "artists": [
-        {
-          "name": "Poco",
-          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Heart Of The Night",
-      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
     },
     {
       "added_at": "2022-06-29 18:13:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Dialogue",
-        "url": "https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK"
-      },
-      "artists": [
-        {
-          "name": "Michael Johnson",
-          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "This Night Won't Last Forever",
-      "url": "https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Nights Are Forever",
         "url": "https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 281293,
       "name": "Love Is the Answer (Single Version)",
       "url": "https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Dialogue",
+        "url": "https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK"
+      },
+      "artists": [
+        {
+          "name": "Michael Johnson",
+          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "This Night Won't Last Forever",
+      "url": "https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-01-26 21:27:23",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/49gYESUIs0Wk80IhUgnbsY"
+        "name": "Sleeping Gypsy",
+        "url": "https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry"
       },
       "artists": [
         {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
         }
       ],
-      "duration_ms": 191093,
-      "name": "You Belong to Me",
-      "url": "https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW"
+      "duration_ms": 285906,
+      "name": "The Lady Wants to Know",
+      "url": "https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2022-01-26 21:27:23",
       "album": {
-        "name": "Sleeping Gypsy",
-        "url": "https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry"
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/49gYESUIs0Wk80IhUgnbsY"
       },
       "artists": [
         {
-          "name": "Michael Franks",
-          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
         }
       ],
-      "duration_ms": 285906,
-      "name": "The Lady Wants to Know",
-      "url": "https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0"
+      "duration_ms": 191093,
+      "name": "You Belong to Me",
+      "url": "https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW"
     },
     {
       "added_at": "2021-04-22 18:12:12",

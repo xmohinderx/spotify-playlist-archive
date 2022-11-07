@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 4937,
+  "num_followers": 4955,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ2NzM4MSwwMDAwMDAwMGM1NTg1OWYzYmU3MWNlZTc4ZjAxNTkxYjFhNTkxZGQw",
+  "snapshot_id": "MTY2NzQ2NzM4MSwwMDAwMDAwMDY3NDE4ZWIzMDEzYWU1ZDFjNDAzN2Q3MmY5YjU0ZDBl",
   "tracks": [
     {
       "added_at": "2022-11-03 09:23:01",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-11-03 09:23:01",
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ"
+    },
+    {
+      "added_at": "2022-11-03 09:23:01",
+      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 212493,
       "name": "Dive into you",
       "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ"
     },
     {
       "added_at": "2022-11-03 09:23:01",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-11-03 09:23:01",
       "album": {
+        "name": "Adult Trainee, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "duration_ms": 191126,
+      "name": "Imagine Love",
+      "url": "https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy"
+    },
+    {
+      "added_at": "2022-11-03 09:23:01",
+      "album": {
         "name": "UH-RA? with KozyPop",
         "url": "https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 217320,
       "name": "UH-RA? (feat. dress)",
       "url": "https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Adult Trainee, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB"
-      },
-      "artists": [
-        {
-          "name": "MIYEON",
-          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
-        }
-      ],
-      "duration_ms": 191126,
-      "name": "Imagine Love",
-      "url": "https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy"
     },
     {
       "added_at": "2022-11-03 09:23:01",

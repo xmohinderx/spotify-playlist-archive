@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 77990,
+  "num_followers": 78027,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDg1MDZiY2RiMzZjMDU4NWQ3ZTU2NTJmYzJkNTliZmRj",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDM1MDQ0ZDJhYjkzZjllODJjNzZjNGVjYmNlYWZlN2Rl",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "The Sunrise Project",
-        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
-      },
-      "artists": [
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "A Teen",
         "url": "https://open.spotify.com/album/53iCPeqg2JYDQPj3z4qlsi"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 201290,
       "name": "A Teen",
       "url": "https://open.spotify.com/track/3N23avLnmgSKQEfMPub95G"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "The Sunrise Project",
+        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
     },
     {
       "added_at": "2022-08-02 15:42:28",

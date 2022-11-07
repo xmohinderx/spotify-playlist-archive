@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156977,
+  "num_followers": 156973,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMGQ0YTU1YThiMWRkZjI5ODRjZjRjMjkwMjFhMjJiM2M2",
+  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMGQ0YjhmNTgxMTE0ODk5NTMyZjFhOWZjYWMwYWE4MjVm",
   "tracks": [
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "One Last Time",
-        "url": "https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 240383,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Wanna Go",
         "url": "https://open.spotify.com/album/2XrgEnXG5bxZhEpAItTzm4"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 148200,
       "name": "Wanna Go",
       "url": "https://open.spotify.com/track/40L4n2A2AkMZGrTcEmS10x"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 240383,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/3aIJBaZpXCc2LFGVCmMODg"
-      },
-      "artists": [
-        {
-          "name": "Steerner",
-          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
-        },
-        {
-          "name": "Buster Moe",
-          "url": "https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/64pKbp9wq3fqFHBZ7lIU6P"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Creep (mint Singles)",
         "url": "https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3aIJBaZpXCc2LFGVCmMODg"
+      },
+      "artists": [
+        {
+          "name": "Steerner",
+          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
+        },
+        {
+          "name": "Buster Moe",
+          "url": "https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/64pKbp9wq3fqFHBZ7lIU6P"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -2083,6 +2083,30 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
+        "name": "Let\u2019s Go Home Together (MOTi Remix)",
+        "url": "https://open.spotify.com/album/29TEQj74Hb0FObdoPXY5IN"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Let\u2019s Go Home Together - MOTi Remix",
+      "url": "https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
         "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
         "url": "https://open.spotify.com/album/79asdi3oW71KmnjzoKQL7z"
       },
@@ -2107,26 +2131,6 @@
       "duration_ms": 226451,
       "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
       "url": "https://open.spotify.com/track/0mfTTKtgwz9QvGz5i1IG5r"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
-        "name": "When Someone Leaves (Sofus Wiene Remix)",
-        "url": "https://open.spotify.com/album/3kZnLF4J0m8pENkcGjB0C4"
-      },
-      "artists": [
-        {
-          "name": "Electrick Village",
-          "url": "https://open.spotify.com/artist/6oY0rvFRUyykIvmVTwcAGb"
-        },
-        {
-          "name": "Sofus Wiene",
-          "url": "https://open.spotify.com/artist/4k57Zo2aYhZ1zydL5jeAno"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "When Someone Leaves - Sofus Wiene Remix",
-      "url": "https://open.spotify.com/track/6b1P0WPHCgKBa7Dl3GHceJ"
     }
   ],
   "unique_name": "Tr\u00e4ning",

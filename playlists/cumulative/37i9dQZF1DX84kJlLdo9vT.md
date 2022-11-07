@@ -4,7 +4,7 @@
 
 > Relive the good ol' days with these cheery 60s and more.
 
-106 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/2gzlIXvEV3vDGhGFPIuGSf)
+107 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/2gzlIXvEV3vDGhGFPIuGSf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Daydream Believer](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Birds, The Bees, & The Monkees](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) | 2:59 | 2021-01-05 |  |
 | [Different Drum](https://open.spotify.com/track/3k63RLvRgkgPGx0keOH3P6) | [Stone Poneys](https://open.spotify.com/artist/2X9nnux4eS3CFBDSjcnoBQ), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Evergreen, Vol.2](https://open.spotify.com/album/2FrEXjdS2mZO6sx6pA5MbY) | 2:39 | 2021-01-05 | 2022-07-29 |
 | [Do Wah Diddy Diddy](https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Groovin' with Manfred Mann](https://open.spotify.com/album/24uIWywoZqArplgomqtvfW) | 2:23 | 2021-01-05 | 2022-07-29 |
+| [Do Wah Diddy Diddy \- 2007 Remaster](https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT) | 2:24 | 2022-07-26 |  |
 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 | 2021-01-05 |  |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5pKJtX4wBeby9qIfFhyOJj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:31 | 2021-01-05 | 2022-07-29 |
 | [Don't Pull Your Love](https://open.spotify.com/track/0AcuXI6KTCmLBoMQz3WKuS) | [Hamilton, Joe Frank & Reynolds](https://open.spotify.com/artist/7vpRSadEAzLs0ikY7gAESe) | [Hamilton, Joe Frank & Reynolds\-Greatest Hits](https://open.spotify.com/album/6G5D6j6dV3wPk3PRXKMvGb) | 2:42 | 2021-01-05 | 2022-07-29 |
@@ -101,7 +102,7 @@
 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 | 2022-07-26 |  |
 | [That'll Be The Day \- Decca Version](https://open.spotify.com/track/6w40zjwprgA1s99VUxvuMx) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [The Great Buddy Holly](https://open.spotify.com/album/2YFdtCUiNcDIPUNdazX2Mg) | 2:30 | 2021-01-05 | 2022-07-06 |
 | [The Loco\-Motion](https://open.spotify.com/track/78X60f17Lbn4zfN7gxQLSH) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Loco\-Motion](https://open.spotify.com/album/6tm67XDibv0P4PZPqRC2mf) | 2:25 | 2021-01-05 | 2022-07-24 |
-| [The Locomotion](https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Llllloco\-Motion](https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj) | 2:19 | 2022-07-26 |  |
+| [The Locomotion](https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Llllloco\-Motion](https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj) | 2:19 | 2022-07-26 | 2022-11-07 |
 | [Then He Kissed Me](https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Wall of Sound: The Very Best of Phil Spector 1961\-1966](https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i) | 2:38 | 2021-01-05 | 2022-07-29 |
 | [This Old Heart Of Mine \(Is Weak For You\) \- Single Version / Mono](https://open.spotify.com/track/0CPwNXw5qD9588d86nropo) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [20th Century Masters: The Millennium Collection: Best of The Isley Brothers\-The Motown Years](https://open.spotify.com/album/57CNwGt0hsLPUlMMNuxtRS) | 2:55 | 2021-01-05 | 2022-06-16 |
 | [This Will Be \(An Everlasting Love\) \- 2003 Remaster](https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Natalie Cole Anthology](https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb) | 2:51 | 2021-01-05 | 2022-10-21 |

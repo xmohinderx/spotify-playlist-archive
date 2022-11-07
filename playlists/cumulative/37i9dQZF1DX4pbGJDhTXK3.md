@@ -4,7 +4,7 @@
 
 > A celebration of Norway's dance scene!
 
-104 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/0oYpih27l6uvR8J5p8UEIk)
+105 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/0oYpih27l6uvR8J5p8UEIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Be A Man You Ant \- Original Mix](https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Be A Man You Ant](https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig) | 6:24 | 2022-06-02 |  |
 | [beefs, bad blood and burning vendettas](https://open.spotify.com/track/67q2kAzAD0xfJ4qvtwqmRc) | [dragongirl](https://open.spotify.com/artist/3WkDNb8ocbf9rd7Vr6m2DM) | [beefs, bad blood and burning vendettas](https://open.spotify.com/album/4ox6yvsuLchkGQjJ6nkuLm) | 3:21 | 2022-06-02 | 2022-07-29 |
 | [Blinded By The LEDs \- Edit](https://open.spotify.com/track/5tVGnPxbP3d6wwWq3HoZbt) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Blinded By The LEDs](https://open.spotify.com/album/3FjlEG9kLx0nfWM5D9kuZE) | 4:15 | 2022-06-02 | 2022-07-29 |
-| [Bommelom](https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Ramma EP](https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG) | 7:06 | 2022-06-02 |  |
+| [Bommelom](https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Ramma EP](https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG) | 7:06 | 2022-06-02 | 2022-11-07 |
 | [Boney M Down](https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Lindstrom & Prins Thomas](https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM) | 3:49 | 2022-06-02 |  |
 | [Borrowed Emotions](https://open.spotify.com/track/1HMG1SRBtyiZ9KN2fTG170) | [Of Norway](https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz) | [Borrowed Emotions](https://open.spotify.com/album/259kRda8p1CvXqQtw9baoS) | 4:54 | 2022-06-02 | 2022-07-29 |
 | [Clean Air](https://open.spotify.com/track/4EdyO4xkUucQiXbuLpSgmo) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Byen](https://open.spotify.com/album/1QBlMByP8mgFqlLPIzstKD) | 7:54 | 2022-07-28 |  |
@@ -110,6 +110,7 @@
 | [Tyrkisk Pepper \- Dolle Jolle Remix](https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL), [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Tyrkisk Pepper](https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt) | 8:02 | 2022-06-02 |  |
 | [ut i rommet](https://open.spotify.com/track/5XXXtLK8nNvVsylo9JTewt) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [ut i rommet](https://open.spotify.com/album/04A1xtX4Cp81M4YOEMi1J9) | 7:26 | 2022-06-02 | 2022-07-29 |
 | [ut i rommet](https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [Kløbb Ka2 \(Vol\. 3\)](https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N) | 7:26 | 2022-07-28 |  |
+| [View](https://open.spotify.com/track/0eiVc8xmZgqy2V92ye6eHU) | [Himmel](https://open.spotify.com/artist/2SaSegJV3zAzlLOiQTFXKm) | [View](https://open.spotify.com/album/6U8tCwy6JKrPmBwT4rb2CD) | 4:04 | 2022-11-03 |  |
 | [You Can't Do it Right](https://open.spotify.com/track/2cJaEaSKHHeK8YsmpTBcyc) | [Randaberg Ego Ensemble](https://open.spotify.com/artist/0hW8yQgCKkyQzoxKxm6dSp) | [10 Years of Full Pupp](https://open.spotify.com/album/6IZdTRzDKC8mlDQw4Tsy3m) | 6:00 | 2022-06-02 | 2022-07-20 |
 | [Zephyr \- Robert Solheim Solaris Remix](https://open.spotify.com/track/1psXs0ni8IySbY3AxcEeMG) | [Stereolynk](https://open.spotify.com/artist/6W2V2WS3Kr36kZjd2YjFOn), [Robert Solheim](https://open.spotify.com/artist/5Ewl7o6HfXIj36cP4zXkyn) | [Zephyr \(Unreleased Remixes\)](https://open.spotify.com/album/68GKYd7hqm3DLlYjsD4KgR) | 9:55 | 2022-06-02 | 2022-07-20 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri i tuoi nuovi artisti italiani preferiti! Cover: Sans Soucis
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,096 likes - 73 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,106 likes - 73 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

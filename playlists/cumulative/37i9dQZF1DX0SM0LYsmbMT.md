@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,093 songs - 4 day 23 hr 45 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,094 songs - 4 day 23 hr 47 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,7 +616,7 @@
 | [cuuurt](https://open.spotify.com/track/067IFuK8YLMVdi3LjgrZsr) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [cuuurt](https://open.spotify.com/album/0xfcolcImNKNMAr7bUTse9) | 2:28 | 2021-06-01 | 2021-07-16 |
 | [cycles](https://open.spotify.com/track/5qWtEiW3RdcnP1MFmObsYH) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [cycles](https://open.spotify.com/album/4qhlNGAtRLJ0hbMheZ8BvR) | 2:28 | 2021-07-09 | 2021-08-13 |
 | [Cypress](https://open.spotify.com/track/3oQPMwQ6eoAdfYmLSV54DW) | [Middle School](https://open.spotify.com/artist/6AjXxPL8C44rc1yJdi6RZB), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Chillhop Essentials Fall 2019](https://open.spotify.com/album/5rkRqokaqegqzawViUDpQT) | 3:30 | 2019-09-27 | 2020-03-04 |
-| [Cyprus Rain](https://open.spotify.com/track/4TvKpBIfYJEQH02nAknQEh) | [Butter](https://open.spotify.com/artist/2K113zxCwp0w4JrGBlbMHj) | [Drive Slow](https://open.spotify.com/album/3xyRycYwthOnMm3DqJge5k) | 1:48 | 2022-11-03 |  |
+| [Cyprus Rain](https://open.spotify.com/track/4TvKpBIfYJEQH02nAknQEh) | [Butter](https://open.spotify.com/artist/2K113zxCwp0w4JrGBlbMHj) | [Drive Slow](https://open.spotify.com/album/3xyRycYwthOnMm3DqJge5k) | 1:48 | 2022-11-03 | 2022-11-07 |
 | [Da Dozen](https://open.spotify.com/track/5x2qH4nCkcg5ZUjqSmyASL) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Da Dozen](https://open.spotify.com/album/6ApcrSGBfOEW4XOm3ElPVJ) | 1:44 | 2021-11-28 | 2022-03-11 |
 | [Da Wes Sht](https://open.spotify.com/track/2WOugRtzn1QKmCarSqavnM) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Da Wes Sht](https://open.spotify.com/album/2EBTIvmgYgyBaedPfL70ps) | 2:19 | 2021-09-11 |  |
 | [Dagobah \- b l o o p r Remix](https://open.spotify.com/track/5updpDErqzqA0n4d7ElZYB) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2), [b l o o p r](https://open.spotify.com/artist/3AtwKVMbgWCFvDsJRcN04A) | [Surprise! the Remixes, Pt\. 2](https://open.spotify.com/album/3YVn010iuZjxJ3edF1Kv9l) | 2:47 | 2019-10-26 | 2019-12-20 |
@@ -2169,6 +2169,7 @@
 | [Red Umbrella Girl](https://open.spotify.com/track/0LpgCkvQ37gGPK4welsHLX) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Red Umbrella Girl](https://open.spotify.com/album/0WAlh3bQotdxwUY6tT2naU) | 1:48 | 2020-10-16 | 2021-02-20 |
 | [red universe](https://open.spotify.com/track/0tkZ9dcBaVaexMcKAZ6qoN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Danae Greenfield](https://open.spotify.com/artist/0VB4muMnPmx8pvZWu9IFpR) | [Two Medicine Lake](https://open.spotify.com/album/5T6nM0gsr8PL6hVQmDRRFp) | 1:32 | 2020-08-30 | 2021-01-04 |
 | [Redemption](https://open.spotify.com/track/1Y3UXjEWRDRTeMn1KDKmGX) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Pitch 92](https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc) | [Redemption](https://open.spotify.com/album/6LGzB9e27J02kAnuGFKTQX) | 2:09 | 2021-05-14 | 2021-08-06 |
+| [Redwoods](https://open.spotify.com/track/1clRJvu6H1eZfz5jEMAThN) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Redwoods](https://open.spotify.com/album/5DtNK55pCnvnzFLEbsMq6E) | 1:30 | 2022-11-03 |  |
 | [Reflecting](https://open.spotify.com/track/4mYcMSgh3O5VCrPKalIBar) | [wielandwieland](https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Catch The Vibe Vol.1](https://open.spotify.com/album/1sLRBbLvPAS3l65OxGU8aP) | 2:53 | 2021-06-25 | 2021-10-16 |
 | [Reflection \- Instrumental](https://open.spotify.com/track/1TQ4eXjMR6Xpxc7PtUgT2i) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [Reflection \(Instrumental\)](https://open.spotify.com/album/6ezx47xHMUeiXBHmmIoDjs) | 1:34 | 2019-05-26\* | 2019-08-24 |
 | [Reflections](https://open.spotify.com/track/2GdodWfXXrHUF1yIn7Ogzj) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Reflections](https://open.spotify.com/album/4tNuVBIKwtLidKmqXtBU1d) | 2:08 | 2021-07-23 | 2021-08-20 |

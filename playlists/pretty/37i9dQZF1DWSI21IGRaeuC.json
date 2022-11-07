@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 10334,
+  "num_followers": 10385,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYwMDIxMCwwMDAwMDAwMGIyM2ZiYmFkYzYzNzQ3MmUwZjRlYjMwN2I2NDFjNDE2",
+  "snapshot_id": "MTY2NTYwMDIxMCwwMDAwMDAwMDJhNmVjZTJlMGM5MWRmYzhhNjM3MDYwNDM5MzVlOGYy",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Tonight EP",
-        "url": "https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y"
-      },
-      "artists": [
-        {
-          "name": "Latmun",
-          "url": "https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0"
-        }
-      ],
-      "duration_ms": 352500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Collide",
@@ -791,6 +775,22 @@
       "duration_ms": 255483,
       "name": "Collide",
       "url": "https://open.spotify.com/track/1sZw1rvxMeIacX91qTRYzr"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Tonight EP",
+        "url": "https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y"
+      },
+      "artists": [
+        {
+          "name": "Latmun",
+          "url": "https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0"
+        }
+      ],
+      "duration_ms": 352500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -893,6 +893,22 @@
       "url": "https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Welcome EP",
+        "url": "https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "DJ Lover - Original Mix",
+      "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
+    },
+    {
       "added_at": "2022-10-12 18:33:51",
       "album": {
         "name": "Untitled",
@@ -911,22 +927,6 @@
       "duration_ms": 348315,
       "name": "Untitled A",
       "url": "https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Welcome EP",
-        "url": "https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "DJ Lover - Original Mix",
-      "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
     }
   ],
   "unique_name": "Minimal Tech",

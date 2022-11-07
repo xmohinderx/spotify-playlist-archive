@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,680 likes - 96 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,711 likes - 96 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 35 | [Sweet One](https://open.spotify.com/track/5FgdsVE0cRgtmvhVo5E5dy) | [Elie G](https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd), [Verbb](https://open.spotify.com/artist/5W54k3Jf0X9uBRCdW8EEXO) | [Sweet One](https://open.spotify.com/album/0Zs9cCVItyv2Rk5RpJ3KAz) | 3:27 |
 | 36 | [PRETTY SUIT](https://open.spotify.com/track/0g3sERiGTPYQ0bM1mMlNt6) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [OUT:SIDE](https://open.spotify.com/album/3rPlEhJ2xkEM1zqrYczjzn) | 2:48 |
 | 37 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 |
-| 38 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/album/6cEqbEv5wTsNkOGr7k3HTU) | 3:23 |
+| 38 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:23 |
 | 39 | [Be Mine](https://open.spotify.com/track/6s7My7fMOhYiAl3XGhr4vp) | [Bvg Boi Jay](https://open.spotify.com/artist/3kT1Y27lqDx35NbU1jGR5J), [Specikinging](https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Be Mine](https://open.spotify.com/album/6DQgQrSLYTat76WqutBPUI) | 3:45 |
 | 40 | [Where You Been?](https://open.spotify.com/track/4HUMystaJMh6u6Voe2l1eQ) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Where You Been?](https://open.spotify.com/album/0BmWKhB9B89Vt12ETbXLmw) | 2:40 |
 | 41 | [Touch Di Road](https://open.spotify.com/track/367GcZRYfBuX9h9wkR0EL0) | [LEVi](https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ) | [DAAANGER](https://open.spotify.com/album/4wNknHHonRmTicJPAfhdkz) | 2:46 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 95 | [Slow Down](https://open.spotify.com/track/0XSNlIcAIhy6vqQzxi4mdv) | [TAB Family](https://open.spotify.com/artist/7bNpg0V11Af9JjLUU0pta9), [Ayo Busari](https://open.spotify.com/artist/0E4bv8ROKWeZdMIpmOuSaz), [Ayuba SOQS](https://open.spotify.com/artist/4sMp21LBxktmDQMm3yHYq0) | [From TAB, With Love.](https://open.spotify.com/album/7msf78vVyfOQOefVOmZXan) | 3:17 |
 | 96 | [Motion](https://open.spotify.com/track/2pu7aBbpoogkJPocdD9omI) | [Swish Music](https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [XPUNCH](https://open.spotify.com/artist/4UyFWogo0bZ0jWLWTcIvmr), [Lil Nafy](https://open.spotify.com/artist/1dwSEaXiwO5ggqNXQuReTS) | [AA Lil Sum](https://open.spotify.com/album/0IkizF0VoRj9eLLK9tlyn7) | 3:03 |
 
-Snapshot ID: `MTY2Njg3NTc1NiwwMDAwMDAwMDVkNjFlMzc5ZDZkYWQ3M2NlMTFjZjQ5ZWViYTdlODI2`
+Snapshot ID: `MTY2Njg3NTc1NiwwMDAwMDAwMDlhYTAyZTI2ZTIzZWMzODZjZTE0MTM3NDdiZDI2MDE2`

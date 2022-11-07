@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Giift
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,617 likes - 132 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,685 likes - 132 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

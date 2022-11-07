@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 335817,
+  "num_followers": 335866,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjU1MzA2MiwwMDAwMDAwMDNiNzA1NTZjNDgwMDhhZjc4OTQ5ZWQwYjYzNTY1ZTlh",
+  "snapshot_id": "MTY2NjU1MzA2MiwwMDAwMDAwMGJhZGMzYTRhNDI4ODQ0MzA5YzlkZWZiNzdjNzM2ZmUz",
   "tracks": [
     {
       "added_at": "2022-10-23 19:24:22",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-10-23 19:24:22",
       "album": {
+        "name": "soft thing",
+        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 186432,
+      "name": "raw",
+      "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
+    },
+    {
+      "added_at": "2022-10-23 19:24:22",
+      "album": {
         "name": "Cigarettes & Alcohol",
         "url": "https://open.spotify.com/album/5MLIpA3CQXoXukgGckiYdT"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 184090,
       "name": "Cigarettes & Alcohol",
       "url": "https://open.spotify.com/track/2A6vQ5l3fb9U1Ad7nKHUV0"
-    },
-    {
-      "added_at": "2022-10-23 19:24:22",
-      "album": {
-        "name": "Lost In June - EP",
-        "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 239767,
-      "name": "Heavenly Mother",
-      "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
     },
     {
       "added_at": "2022-10-23 19:24:22",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-10-23 19:24:22",
       "album": {
-        "name": "soft thing",
-        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
+        "name": "Lost In June - EP",
+        "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
       },
       "artists": [
         {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
         }
       ],
-      "duration_ms": 186432,
-      "name": "raw",
-      "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
+      "duration_ms": 239767,
+      "name": "Heavenly Mother",
+      "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
     },
     {
       "added_at": "2022-10-23 19:24:22",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-10-23 19:24:22",
       "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/7fUsf40ugmlvEjNj6uGrFq"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 151791,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/6GQTJDcxw4c4qHkk4CUDt8"
+    },
+    {
+      "added_at": "2022-10-23 19:24:22",
+      "album": {
         "name": "Be Right Back",
         "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 201942,
       "name": "Bussdown (feat. Shaybo)",
       "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
-    },
-    {
-      "added_at": "2022-10-23 19:24:22",
-      "album": {
-        "name": "New Light",
-        "url": "https://open.spotify.com/album/7fUsf40ugmlvEjNj6uGrFq"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 151791,
-      "name": "New Light",
-      "url": "https://open.spotify.com/track/6GQTJDcxw4c4qHkk4CUDt8"
     },
     {
       "added_at": "2022-10-23 19:24:22",

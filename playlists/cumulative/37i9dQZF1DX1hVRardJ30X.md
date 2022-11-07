@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Rels B
 
-2,711 songs - 5 day 23 hr 26 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+2,712 songs - 5 day 23 hr 29 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Bandolero](https://open.spotify.com/track/1pYqUJ6IMQWWlM290NxRrf) | [Paris Boy](https://open.spotify.com/artist/6ONwLtT6vOzlO3pfZNAOMw), [WE$T DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq) | [Bandolero](https://open.spotify.com/album/2FqPRPlwhkyxMAVqWabOKT) | 2:28 | 2022-01-21 | 2022-01-29 |
 | [Barranquilla Bajo Cero](https://open.spotify.com/track/02mhtclidb7Jpf1gwEasJh) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Barranquilla Bajo Cero](https://open.spotify.com/album/0TDGIoXeKDPhp1LpU4RMvf) | 4:06 | 2022-05-27 | 2022-06-04 |
 | [Barras y Berettas \(B.B.\)](https://open.spotify.com/track/3ipqtvM4cUoNCjmLeBnaEx) | [Shootter Ledo](https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Barras y Berettas \(B.B.\)](https://open.spotify.com/album/0BinHl5QNz4NornmuxQm2m) | 3:11 | 2022-09-09 | 2022-09-17 |
-| [Barrio Antioquia](https://open.spotify.com/track/6oPzWRP2VSZf8EMq5WeL03) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 2:50 | 2022-11-04 |  |
+| [Barrio Antioquia](https://open.spotify.com/track/6oPzWRP2VSZf8EMq5WeL03) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 2:50 | 2022-11-04 | 2022-11-07 |
 | [Barrio Fino](https://open.spotify.com/track/0B4sR5jBLUKaWbQzVjVznB) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Barrio Fino](https://open.spotify.com/album/00Kv7E6ZD4nHI3Nfc2AEPg) | 2:19 | 2022-02-04 | 2022-02-12 |
 | [BBB](https://open.spotify.com/track/6210ziGEzjh0YY2y9JlGfi) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [BBB](https://open.spotify.com/album/5RHyPiHNjAGcCq3KraVSYf) | 2:34 | 2022-04-22 | 2022-04-29 |
 | [Be Mine](https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Be Mine](https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm) | 2:44 | 2022-07-15 | 2022-07-23 |
@@ -2006,6 +2006,7 @@
 | [Que Cojones](https://open.spotify.com/track/22TyikLrwsaXhsL31mewls) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Que Cojones](https://open.spotify.com/album/1S4ZEZswAp0XrN5KuRNgbh) | 2:41 | 2022-08-05 | 2022-08-13 |
 | [Que Dios Me Libre](https://open.spotify.com/track/3uwtFVpCxVJI14ZVyzeSAI) | [Flowtiago](https://open.spotify.com/artist/51U0VfysnTpUUDwXgDjdfi) | [Que Dios Me Libre](https://open.spotify.com/album/2L9xpogN8c25dWjmJcL4So) | 3:08 | 2022-05-06 | 2022-05-14 |
 | [Que Dios Me Perdone](https://open.spotify.com/track/5sK0TZav4owPZoBPHh5Rlv) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Que Dios Me Perdone](https://open.spotify.com/album/3SugA1KsOVvgadbuDyEyFp) | 3:30 | 2022-06-03 | 2022-06-11 |
+| [Que Duro](https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:24 | 2022-11-06 |  |
 | [Que Locura](https://open.spotify.com/track/2DKyYH0AV19kMOjhqSqsgF) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Que Locura](https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8) | 3:17 | 2021-12-24 | 2022-01-15 |
 | [Que Mueran De Envidia \(feat\. Giovakartoons\)](https://open.spotify.com/track/5kR4PPvvcUCa53PRjMxiMK) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Giovakartoons](https://open.spotify.com/artist/1hspTSkv6cudGz0WfUBGfG) | [Que Mueran De Envidia \(feat\. Giovakartoons\)](https://open.spotify.com/album/3YyPmdFWilnpR1bvftggqK) | 3:49 | 2022-05-20 | 2022-05-28 |
 | [Que Pasaría](https://open.spotify.com/track/3BsCi8MKJcoO36EniFs1f7) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Que Pasaría](https://open.spotify.com/album/7L17MHmDXzJI4bkdQmShl4) | 3:18 | 2022-11-04 |  |

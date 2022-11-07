@@ -4,7 +4,7 @@
 
 > New music from Drake & 21 Savage \(pictured\), Selena Gomez, Tiësto & Tate McRae, Joji, P!nk, and more!
 
-4,528 songs - 10 day 1 hr 3 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
+4,529 songs - 10 day 1 hr 8 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2640,7 +2640,8 @@
 | [MUTUAL FRIEND](https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MUTUAL FRIEND](https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT) | 3:26 | 2022-08-12 | 2022-08-20 |
 | [MVP](https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [MVP](https://open.spotify.com/album/36zw4Ir1YqmiCUlhYpJuRx) | 2:26 | 2022-05-20 | 2022-05-28 |
 | [My 24th Birthday](https://open.spotify.com/track/5nXB98pCGSh1gXSovAlc0U) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [My 24th Birthday](https://open.spotify.com/album/5Q8Ac801if6yJwkbrFmV5D) | 6:23 | 2022-06-24 | 2022-07-02 |
-| [My Argentina](https://open.spotify.com/track/5CYkymD2AqbSFGG2KQr88n) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [My Argentina](https://open.spotify.com/album/3riMHTE10EiZmMqW9ZfO28) | 5:01 | 2022-11-04 |  |
+| [My Argentina](https://open.spotify.com/track/5CYkymD2AqbSFGG2KQr88n) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [My Argentina](https://open.spotify.com/album/3riMHTE10EiZmMqW9ZfO28) | 5:01 | 2022-11-04 | 2022-11-07 |
+| [My Argentina](https://open.spotify.com/track/5thEuYF5DJK0KPk3eFUVXe) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 5:01 | 2022-11-04 |  |
 | [My Bestfriend's House](https://open.spotify.com/track/73dTwGtVQDilt5jTR3SssO) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [My Bestfriend's House](https://open.spotify.com/album/6uO2vIng7p49nS0SAgcRnr) | 3:50 | 2022-02-04 | 2022-02-12 |
 | [My Cardiologist](https://open.spotify.com/track/2LSmGjGYWKPHKhzZSCrE4i) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Tarder\-Stoll](https://open.spotify.com/artist/2sPvH1xPHE8Ci36oCV7drd) | [My Cardiologist](https://open.spotify.com/album/63UkG5pD5GJyWACqQ1BVR1) | 4:47 | 2022-07-01 | 2022-07-09 |
 | [My Everything](https://open.spotify.com/track/3R7HVKI87LEglZelj5qLxI) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [My Everything](https://open.spotify.com/album/5FTKbBum46H9nCNmqzQzGE) | 3:14 | 2022-05-20 | 2022-05-28 |

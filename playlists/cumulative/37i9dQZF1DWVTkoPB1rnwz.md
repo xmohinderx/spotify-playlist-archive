@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-253 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+255 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Between the Floating Mist](https://open.spotify.com/track/2onHlrzBTERSDk1BJhQu6Y) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Between the Floating Mist](https://open.spotify.com/album/3ZhHzKQmAvyiTVs6QHehJQ) | 2:59 | 2021-10-16 | 2022-07-19 |
 | [Bird of Paradise](https://open.spotify.com/track/6H1CY0MUYusgj8KTsoRQRS) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/1wO5nsIQP1vDzJShd7BLgk) | 4:30 | 2021-10-16 | 2022-07-26 |
 | [Birds](https://open.spotify.com/track/21mBoSP0nJ6jRNkUZf8OZs) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Birds](https://open.spotify.com/album/7neCEFOLdrKgpvvd1k7Q3L) | 2:19 | 2021-10-16 | 2022-07-29 |
+| [Bittern](https://open.spotify.com/track/64qOH2bUXO1Lfl1Lr5fnC5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 1:21 | 2021-10-16 |  |
 | [blinding tunnel](https://open.spotify.com/track/14AP7MGqCLnJfLGsrwzrKR) | [Sownbones](https://open.spotify.com/artist/0gIMQx6hCQ9COuMORi6SWA) | [helpless](https://open.spotify.com/album/0tCBu2Dsa20w0msgy5IXsr) | 2:15 | 2022-01-19 | 2022-07-29 |
 | [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-16 | 2022-07-13 |
 | [Borren](https://open.spotify.com/track/1FLskas14MnoxOj3nyPL5i) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Underbelly](https://open.spotify.com/artist/0sRH4nJGFNV1pu9cutNw5O) | [Chillhop Daydreams](https://open.spotify.com/album/5Tv8LWNku2lmWXxAy4xYhI) | 2:51 | 2021-10-16 | 2022-10-01 |
@@ -59,6 +60,7 @@
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2022-01-07 |  |
 | [Constanța Beach](https://open.spotify.com/track/6XYYjo5M4r7YWkX4DR8llF) | [Seigo Aoyama](https://open.spotify.com/artist/4DKcECb5dOEsS7BwgLqaIJ) | [On the Drift](https://open.spotify.com/album/0ADeF5WS7SQaGCFI6NfhW5) | 6:18 | 2021-10-16 | 2022-07-29 |
 | [conversations with grandma](https://open.spotify.com/track/5GgoR6lurqxLpfMjNOMUmG) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [blue moon](https://open.spotify.com/album/665irKdzu7aptrhBycT5NJ) | 1:26 | 2021-10-16 |  |
+| [Cotorra Serrana Occidental](https://open.spotify.com/track/2qpJ5Se8JaDXiTAAPjwafO) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Cotorra Serrana Occidental](https://open.spotify.com/album/6sNIjO6X2ZASJHE2SezX4l) | 4:05 | 2021-10-16 |  |
 | [Cotorra Serrana Occidental](https://open.spotify.com/track/6AM73G2nArb4b9PQaIE2VZ) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Cotorra Serrana Occidental](https://open.spotify.com/album/7vRvlclOYYHnbP7Zqqz95x) | 4:05 | 2021-10-16 | 2022-06-02 |
 | [Crescent](https://open.spotify.com/track/78pD8Ejib9BtCKWeXqDr3t) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Crescent](https://open.spotify.com/album/5nIIDBRXFx30wdaoWiklDE) | 2:23 | 2022-02-25 |  |
 | [Cuckoo](https://open.spotify.com/track/21nmBBjOkUxLbeU8lmxmxA) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 2:25 | 2021-10-16 |  |
@@ -115,7 +117,7 @@
 | [In My Mind](https://open.spotify.com/track/0XQoOGwbUn930qZGji0885) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Nausea](https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj) | 3:06 | 2021-10-16 |  |
 | [Inner Balance](https://open.spotify.com/track/7eutjZvgO3DOz0HXbRvW6o) | [Sup Nasa](https://open.spotify.com/artist/4FlqZhoTqYt8tpct6QwgZR) | [Kula](https://open.spotify.com/album/5uHujIKsaQA1HFqt2cGCLM) | 2:06 | 2021-10-16 | 2022-07-29 |
 | [Islas Canarias](https://open.spotify.com/track/68s6d9iCLRhviPqL6NWA5U) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 3:10 | 2021-10-16 | 2022-07-29 |
-| [Jiyu](https://open.spotify.com/track/07Sx03dUY4jRXXtrM7zSs3) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Jiyu](https://open.spotify.com/album/6BU9l5h76Oei7yb2lmZIDf) | 2:18 | 2021-10-16 |  |
+| [Jiyu](https://open.spotify.com/track/07Sx03dUY4jRXXtrM7zSs3) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Jiyu](https://open.spotify.com/album/6BU9l5h76Oei7yb2lmZIDf) | 2:18 | 2021-10-16 | 2022-11-07 |
 | [June 15th](https://open.spotify.com/track/0KIRuP1CDEdn53hs0f0ich) | [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW), [The First Minute of a New Day](https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq), [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The First Minute of a New Day](https://open.spotify.com/album/0tC2JC67HViIMswO9iChcT) | 7:57 | 2021-10-16 | 2022-07-29 |
 | [June 21](https://open.spotify.com/track/2UTuWSjmIMSQDnvmV2et4U) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [June 21](https://open.spotify.com/album/4Hh8CxbhWH3nry86W2PHvX) | 2:09 | 2021-10-16 | 2022-07-29 |
 | [Kalimba Heart](https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 3:11 | 2021-10-16 |  |
@@ -139,7 +141,7 @@
 | [Marshmallow](https://open.spotify.com/track/6N2yBySX0VhCVlVHKngirs) | [The Sweet Enoughs](https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy) | [Marshmallow](https://open.spotify.com/album/79tfjRNKLemO4c2dNXqJFR) | 3:55 | 2021-12-07 |  |
 | [Meadows](https://open.spotify.com/track/1jIeBRTPTM94g9DRmxwtDY) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Chillhop Essentials Spring 2019](https://open.spotify.com/album/1vV4Hl5uDdMtKdKChSkjLG) | 2:30 | 2021-10-16 |  |
 | [Meandering Heights](https://open.spotify.com/track/3h9EGzRUNyuLSG2ip1snpH) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Meandering Heights](https://open.spotify.com/album/4C0Dn899cJz9Z5674IjVBy) | 2:46 | 2021-10-16 | 2022-07-28 |
-| [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 | 2021-10-16 |  |
+| [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 | 2021-10-16 | 2022-11-07 |
 | [memorial park](https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha) | 2:31 | 2021-10-16 | 2022-07-28 |
 | [Migrations](https://open.spotify.com/track/4oiwHTTaiLERMEEhHwqnq2) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T), [Marcus Fischer](https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9) | [Lowlands](https://open.spotify.com/album/5bd2paC7EFKOS6YJv4se2e) | 3:16 | 2021-10-16 | 2022-07-10 |
 | [mirage](https://open.spotify.com/track/5Sort7TKBLV8Mf5SiW85bw) | [\[zoethecat\]](https://open.spotify.com/artist/2a0He55lnQxr74EmQv8yyi) | [mirage](https://open.spotify.com/album/3X8ZJ5G96XzV3LBJpe8Qs3) | 2:02 | 2021-10-16 |  |
