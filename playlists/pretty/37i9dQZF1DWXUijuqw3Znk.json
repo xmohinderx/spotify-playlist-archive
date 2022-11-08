@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2372,
+  "num_followers": 2378,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ2NzA0OSwwMDAwMDAwMDM2MTkzYjE4OTYwMDNjYThjMTZjNjM2MmY0NDQyY2I5",
+  "snapshot_id": "MTY2NzQ2NzA0OSwwMDAwMDAwMGY4N2VmOTllYjNjMzI4YTQ4YmRlMmMxZjUwNDZmZGFl",
   "tracks": [
     {
       "added_at": "2022-11-03 09:17:29",
@@ -335,26 +335,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "Coming To You Live",
-        "url": "https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 204218,
-      "name": "Know Me (Feat. DEAN)",
-      "url": "https://open.spotify.com/track/0c0Gf3FpG1NKKThB434Qbl"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "Show Me the Money 777 Episode 1",
         "url": "https://open.spotify.com/album/6yr53YySD8G0GRwveBg835"
       },
@@ -419,6 +399,26 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "Coming To You Live",
+        "url": "https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 204218,
+      "name": "Know Me (Feat. DEAN)",
+      "url": "https://open.spotify.com/track/0c0Gf3FpG1NKKThB434Qbl"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "Unwanted Life",
         "url": "https://open.spotify.com/album/3PUy3iSMoPWXNLezd6bi3r"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 129896,
       "name": "last day",
       "url": "https://open.spotify.com/track/0ICkuRd0qNZDZY82kGhs89"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "DPR ARCHIVES",
-        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 103119,
-      "name": "just dream it",
-      "url": "https://open.spotify.com/track/0Iz4In7qPeiZXLvt6YhOwP"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -523,26 +507,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "grayground. 01",
-        "url": "https://open.spotify.com/album/0jR5mEh7PtD96CfXwkmem7"
-      },
-      "artists": [
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 228097,
-      "name": "Just Do It",
-      "url": "https://open.spotify.com/track/1RXMtaUUM2hyixi37Z7vA5"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
@@ -571,6 +535,26 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "grayground. 01",
+        "url": "https://open.spotify.com/album/0jR5mEh7PtD96CfXwkmem7"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 228097,
+      "name": "Just Do It",
+      "url": "https://open.spotify.com/track/1RXMtaUUM2hyixi37Z7vA5"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 221142,
       "name": "wish",
       "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "DPR ARCHIVES",
+        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 103119,
+      "name": "just dream it",
+      "url": "https://open.spotify.com/track/0Iz4In7qPeiZXLvt6YhOwP"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "Ghetto Kids",
+        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "Lighter in my blow fist",
+      "url": "https://open.spotify.com/track/7d4y4LRNCXexXRsVt9FqVi"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "BOYCOLD",
         "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
       },
@@ -759,38 +775,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 224856,
-      "name": "Flow Away",
-      "url": "https://open.spotify.com/track/2hBJqOLTrN6BFhHCmKZ6sO"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "Ghetto Kids",
-        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "Lighter in my blow fist",
-      "url": "https://open.spotify.com/track/7d4y4LRNCXexXRsVt9FqVi"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "2 4 : 2 6",
         "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 257919,
       "name": "If I Die Tomorrow",
       "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 224856,
+      "name": "Flow Away",
+      "url": "https://open.spotify.com/track/2hBJqOLTrN6BFhHCmKZ6sO"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "Man proposes God disposes",
+        "url": "https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Man proposes God disposes",
+      "url": "https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -851,6 +867,26 @@
       "duration_ms": 270500,
       "name": "Red Light (Feat. BIG Naughty) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/0dLsjLIoEpiBWVvYO0jfB3"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "ENGINE",
+        "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 220717,
+      "name": "ENGINE (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -919,26 +955,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "ENGINE",
-        "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 220717,
-      "name": "ENGINE (Prod. by CODE KUNST)",
-      "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/6p3oAwCl0uDTqxzTxDFMgb"
       },
@@ -971,6 +987,30 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 362314,
+      "name": "WORLDWIDE",
+      "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -999,22 +1039,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "Man proposes God disposes",
-        "url": "https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Man proposes God disposes",
-      "url": "https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -1039,30 +1063,6 @@
       "duration_ms": 216428,
       "name": "SUPERNOVA (Feat. CHANGMO, GSoul & DUT2)",
       "url": "https://open.spotify.com/track/0qaKZzxxFzRGnbvGmfcs5S"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 362314,
-      "name": "WORLDWIDE",
-      "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "MALIK THE CACTUS FLOWER",
+        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Infectious (Til Infinity)",
+      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 186644,
       "name": "Balance",
       "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "MALIK THE CACTUS FLOWER",
-        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Infectious (Til Infinity)",
-      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 161191,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "Independent Music",
         "url": "https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 218333,
       "name": "RAPSTAR - Remix",
       "url": "https://open.spotify.com/track/159MUi6v0n2o4f5PfzQ7Rn"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 161191,
-      "name": "A.O.M.G.",
-      "url": "https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 121425,
+      "name": "Be a pro",
+      "url": "https://open.spotify.com/track/6dyW3iGX7qLP4fiejy6gWy"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "Call Me Gray",
         "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
       },
@@ -1699,34 +1715,6 @@
       "duration_ms": 273267,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
-        "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
-      },
-      "artists": [
-        {
-          "name": "BOYCOLD",
-          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
-        },
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 206783,
-      "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
-      "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1755,18 +1743,30 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+        "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
+        "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
       },
       "artists": [
         {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "BOYCOLD",
+          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
+        },
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
         }
       ],
-      "duration_ms": 121425,
-      "name": "Be a pro",
-      "url": "https://open.spotify.com/track/6dyW3iGX7qLP4fiejy6gWy"
+      "duration_ms": 206783,
+      "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
+      "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
     },
     {
       "added_at": "2022-11-03 09:17:29",

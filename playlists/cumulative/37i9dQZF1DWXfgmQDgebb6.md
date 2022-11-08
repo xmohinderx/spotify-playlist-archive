@@ -2,9 +2,9 @@
 
 ### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
-> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Dopein\)
+> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: LIM KIM\)
 
-230 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
+231 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 | 2022-07-08 |  |
 | [Lustre](https://open.spotify.com/track/4XnUCJTdssEkFj1NiIQAp7) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/0zsXyoBNYf3hRMaSu5zdEj) | 3:34 | 2022-05-27 | 2022-07-29 |
 | [M.A.D\(More And Dare\)](https://open.spotify.com/track/7An9I90u0wHgOzqOLSLMuk) | [Twomyung](https://open.spotify.com/artist/6uENO0HTR2Tt1sZzQmPKst), [Trickyneko](https://open.spotify.com/artist/5UNMeC6UjnNmJRkpVZJsHd), [howaho](https://open.spotify.com/artist/4lEQCDab4fOSiY7r0SlOhi) | [M.A.D\(More And Dare\)](https://open.spotify.com/album/4ecOiOI9m7Ey1washio0rv) | 3:36 | 2022-05-27 | 2022-07-27 |
-| [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 | 2022-05-27 |  |
+| [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 | 2022-05-27 | 2022-11-08 |
 | [maldivian night](https://open.spotify.com/track/75kuXEhMGPeiv8fhiU4z2h) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [maldivian night](https://open.spotify.com/album/184u2TOIGw3XN21212Wp1j) | 3:11 | 2022-05-27 | 2022-07-23 |
 | [Matrix<3](https://open.spotify.com/track/1fVA0U2ed6LhGC9ADynsJ7) | [Noizeegu](https://open.spotify.com/artist/6eLjOr4BzLerxxVuzLClOe) | [Matrix<3](https://open.spotify.com/album/1KEfk7HWYLhkJcItcgpVNf) | 3:06 | 2022-06-09 | 2022-07-27 |
 | [Melting Point \(Feat\. Samuel Seo\)](https://open.spotify.com/track/0RaxRKVWQTnZ31L4LfUGXt) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Summer Soundcloud](https://open.spotify.com/album/03aZUdnQGIb9bnp2kY7d7X) | 4:36 | 2022-08-19 | 2022-10-22 |
@@ -211,6 +211,7 @@
 | [Turtle](https://open.spotify.com/track/2NYv3in6KzvY7u08GeAWXh) | [Uyeon](https://open.spotify.com/artist/5kWXcQClcPLU6G1TPW4tXM) | [Gonna out](https://open.spotify.com/album/5RHSk68hoJY9N1SoCIv1G9) | 3:16 | 2022-05-27 | 2022-07-29 |
 | [U\-Turn](https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 1:18 | 2022-05-27 | 2022-07-26 |
 | [Unconditional Love](https://open.spotify.com/track/7b2UByK5M5c2mwyWtr1gMc) | [THE ODOR](https://open.spotify.com/artist/2LwCsA1owJzBVwnLd5EuqC) | [Prototype](https://open.spotify.com/album/6Kj3DFhAmP20oPaXTFC0S4) | 4:07 | 2022-05-27 | 2022-07-26 |
+| [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 | 2022-11-08 |  |
 | [Wait](https://open.spotify.com/track/2ILuzHZ3x0KUctLIpYhVAg) | [Fisherman](https://open.spotify.com/artist/3VBZBLX807XsYkBcZqEGn4), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Format](https://open.spotify.com/album/7IVXJq84oVDxFmDQIHHkrR) | 4:00 | 2022-07-08 | 2022-10-29 |
 | [Wait 기다려](https://open.spotify.com/track/4Eo28FoXUwJa1V4S5qiC5e) | [Fisherman](https://open.spotify.com/artist/3VBZBLX807XsYkBcZqEGn4), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Format](https://open.spotify.com/album/7oIyZIfqaOu2uF2QGtB28i) | 4:00 | 2022-05-27 | 2022-07-28 |
 | [Want Love](https://open.spotify.com/track/1KxBDfItmBt3RXddeyu9p0) | [MOTIP](https://open.spotify.com/artist/20qBalVGALu6sj3UseuAcr) | [WANT LOVE!](https://open.spotify.com/album/6u2VjUDn8RHJegCSFhTjh9) | 3:41 | 2022-05-27 | 2022-07-28 |

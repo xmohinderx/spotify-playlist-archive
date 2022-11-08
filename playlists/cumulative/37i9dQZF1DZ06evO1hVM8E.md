@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/0ulNF6RkSGdPCKS5FTmAzk)
+93 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/0ulNF6RkSGdPCKS5FTmAzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,8 +76,9 @@
 | [No Dejes Que](https://open.spotify.com/track/729wxTN5RenV8HLAjXZhTo) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nos Vamos Juntos \- Un Tributo A Las Canciones De Caifanes Y Jaguares](https://open.spotify.com/album/2uk0BrQkXCpGFC0L4CQHVj) | 4:34 | 2022-06-04 | 2022-10-06 |
 | [No Me Dolió](https://open.spotify.com/track/6VFi3gg9YZYt9MBa2EiRgP) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Fin de Semana](https://open.spotify.com/album/4o0obEAe45w9aMgAx6fXqs) | 3:05 | 2022-06-01 |  |
 | [Pa'que Me Sirve la Vida](https://open.spotify.com/track/7tc9bte3gaVOUv8se6zKVt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:05 | 2022-06-01 | 2022-10-30 |
+| [Pacas de a Kilo](https://open.spotify.com/track/3TIZ20vC3CjlkYoeLXLmPN) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:25 | 2022-11-07 |  |
 | [Pelotero a la Bola](https://open.spotify.com/track/4tftetgzdzAkomjDyI65eK) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Su Majestad Mi Banda el Mexicano de Casimiro Zamudio](https://open.spotify.com/artist/6xpqO0zJHdy9pGoY7u0G8u) | [Pelotero a la Bola](https://open.spotify.com/album/60ImhtY4GfPH2J3gX0kCoR) | 2:59 | 2022-07-16 | 2022-08-01 |
-| [Pero Yo No Lo Conozco \(feat\. La Original Banda el Limón de Salvador Lizárraga\)](https://open.spotify.com/track/7DroPZbnPTJZSZtax3swP8) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Tributo a](https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR) | 2:32 | 2022-10-12 |  |
+| [Pero Yo No Lo Conozco \(feat\. La Original Banda el Limón de Salvador Lizárraga\)](https://open.spotify.com/track/7DroPZbnPTJZSZtax3swP8) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Tributo a](https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR) | 2:32 | 2022-10-12 | 2022-11-08 |
 | [Pídeme La Luna](https://open.spotify.com/track/61IAeLmwQm8trt765Xi6zu) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Pídeme La Luna](https://open.spotify.com/album/4fo8B3ZqdrkI3lUbyCPjsp) | 3:07 | 2022-11-06 |  |
 | [Pídeme la Luna \(En Vivo\) \(feat\. La Original Banda el Limón de Salvador Lizárraga\)](https://open.spotify.com/track/4zDzGZIdKG1PdvguOGET8D) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:49 | 2022-06-01 |  |
 | [Que Me Digan Loco](https://open.spotify.com/track/3JOxS04XfwGxJpyKwVeWrx) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Derecho De Antigüedad](https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT) | 3:41 | 2022-06-01 |  |

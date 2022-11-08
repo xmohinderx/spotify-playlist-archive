@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421263,
+  "num_followers": 421287,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMGI5YmNjMWNiN2IzMWU1ODYyYmZhOTMxYjEzMmI5YjQ3",
+  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMDQ5N2ZiMGZjZWU3OTAwOTY5ZjEzODIwOGU5MWM4ZWNk",
   "tracks": [
     {
       "added_at": "2022-10-14 20:28:37",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
+        "name": "vc \u00e9 msm t\u00e3o melhor que eu?",
+        "url": "https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "vc \u00e9 msm t\u00e3o melhor que eu?",
+      "url": "https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
         "name": "Te Deixo Crazy",
         "url": "https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 164908,
       "name": "Te Deixo Crazy",
       "url": "https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
-        "name": "vc \u00e9 msm t\u00e3o melhor que eu?",
-        "url": "https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 209520,
-      "name": "vc \u00e9 msm t\u00e3o melhor que eu?",
-      "url": "https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 166103,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
       },
@@ -1099,6 +1083,26 @@
       "duration_ms": 134264,
       "name": "Matem\u00e1tica",
       "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
+        "name": "Encruzilhada",
+        "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
+      },
+      "artists": [
+        {
+          "name": "Young Piva",
+          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "duration_ms": 151374,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -1127,22 +1131,18 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Encruzilhada",
-        "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
       },
       "artists": [
         {
-          "name": "Young Piva",
-          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         }
       ],
-      "duration_ms": 151374,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
+      "duration_ms": 166103,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
     },
     {
       "added_at": "2022-10-14 20:28:37",

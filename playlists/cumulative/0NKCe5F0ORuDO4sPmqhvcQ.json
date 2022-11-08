@@ -712,6 +712,28 @@
     },
     {
       "album": {
+        "name": "BLUE LIGHT",
+        "url": "https://open.spotify.com/album/4GqBH0grTle1DOFgB2Jlem"
+      },
+      "artists": [
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        },
+        {
+          "name": "Cleopold",
+          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282360,
+      "name": "BLUE LIGHT",
+      "url": "https://open.spotify.com/track/0lvb2AhHFswSk5p4eC9LMJ"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/66bKcYLcXwcWyDx3SS7rNE"
       },
@@ -3506,6 +3528,28 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211317,
+      "name": "Lose Your Love (with Matt Maeson)",
+      "url": "https://open.spotify.com/track/1PknqupRJmUOeOj0ghpwLZ"
+    },
+    {
+      "album": {
         "name": "Love Lost (AOBeats Remix)",
         "url": "https://open.spotify.com/album/4AfOj41E8CImDcEv3iwaDL"
       },
@@ -4123,6 +4167,24 @@
       "duration_ms": 224391,
       "name": "Never Easy",
       "url": "https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ"
+    },
+    {
+      "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/2yfsioyNrh9gQ2rYKM6cza"
+      },
+      "artists": [
+        {
+          "name": "Nightly Gatherings",
+          "url": "https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208750,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/2npBw5KVoE0yvwauKcr5SP"
     },
     {
       "album": {

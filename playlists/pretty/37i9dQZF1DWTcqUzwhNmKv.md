@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Lorna Shore on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,320,787 likes - 64 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,321,141 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,27 +50,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 40 | [Spillways](https://open.spotify.com/track/0WHtcCpZnoyFlQg3Mf2cdN) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 |
 | 41 | [Wicked Ways](https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:26 |
 | 42 | [Party in My Head](https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Party in My Head](https://open.spotify.com/album/7yiMd6l7NvEbDwgjfImxUp) | 3:08 |
-| 43 | [Without Me](https://open.spotify.com/track/1d46ed3h4U9ws3YsvUOMon) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Without Me](https://open.spotify.com/album/1ipW5HgZMdwxXFDNdTDePU) | 3:43 |
-| 44 | [HEAVEN DON'T CRY](https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [HEAVEN DON'T CRY](https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX) | 4:25 |
-| 45 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/0BIVeIl2HY2fElVxUCD9RV) | 3:06 |
-| 46 | [The Great Deceiver](https://open.spotify.com/track/1rnNJckSOjUlvoCw3gV5ob) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [The Great Deceiver](https://open.spotify.com/album/7z9CvBMKxahud7VulgomWT) | 3:45 |
-| 47 | [Silver Tongue](https://open.spotify.com/track/7l3WTEY9owUL3kRgna75Bd) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Silver Tongue](https://open.spotify.com/album/60gDJXh5wx8VyyvFkt7fbf) | 4:18 |
-| 48 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 |
-| 49 | [Gaddaar](https://open.spotify.com/track/3Kj2M9gRU1Lwf5eiNjBtBp) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Rakshak](https://open.spotify.com/album/24gOuJnIeGxz0eBrmgid2Q) | 4:44 |
-| 50 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
-| 51 | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/track/35S0Oh0JrXAhGzrLHzUvw8) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/album/0b2vVXjAlHWSyLfnQAUmtv) | 3:29 |
-| 52 | [Conduit](https://open.spotify.com/track/4sphH7zZfGeDGiVUzTh4Kf) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Gnosis](https://open.spotify.com/album/70f88hTacrgbDXCB8PkQhy) | 4:30 |
-| 53 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 |
-| 54 | [Heartache](https://open.spotify.com/track/2TBDweMyj3Wen6bu9gYwrn) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Heartache](https://open.spotify.com/album/1202mNUlTJufiL8oVbS7nO) | 3:45 |
-| 55 | [Be Someone](https://open.spotify.com/track/4iLBQIgE9PuT41Rf8M9bPw) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Future Lovers](https://open.spotify.com/album/4i8gvZZJAG88UAG4Jy7vEl) | 3:20 |
-| 56 | [Tight Rope XX](https://open.spotify.com/track/2ONKSAWBw6R4lwgzcpx8l7) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Tight Rope XX](https://open.spotify.com/album/7l8G0xgVOBgfYTYDrqmL4D) | 3:37 |
-| 57 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 |
-| 58 | [Worst Is On Its Way](https://open.spotify.com/track/1XYckecySdxfsF2ibuqtPR) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:03 |
-| 59 | [Rain Down](https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Rain Down](https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc) | 4:07 |
-| 60 | [SPIRITS](https://open.spotify.com/track/6YbDzTWROe5Jqs75sQZjUO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/0SZqkeTCVvOZEYhnMHIdO7) | 5:39 |
-| 61 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
-| 62 | [Heads Off](https://open.spotify.com/track/1eBYArl3XK56nWoARa5KYy) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/3okB1Cp9n0bKsUcjXWu3gu) | 4:31 |
-| 63 | [The Body](https://open.spotify.com/track/0YbvjDVsEYEASJI8gS9UJ3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [The Body](https://open.spotify.com/album/0EvhA9EF2gjiTAdQyubBfP) | 3:51 |
-| 64 | [Riptide](https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Riptide](https://open.spotify.com/album/5pq4qSf7QPmEu7F1IhhVmn) | 3:31 |
+| 43 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/0BIVeIl2HY2fElVxUCD9RV) | 3:06 |
+| 44 | [The Great Deceiver](https://open.spotify.com/track/1rnNJckSOjUlvoCw3gV5ob) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [The Great Deceiver](https://open.spotify.com/album/7z9CvBMKxahud7VulgomWT) | 3:45 |
+| 45 | [Silver Tongue](https://open.spotify.com/track/7l3WTEY9owUL3kRgna75Bd) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Silver Tongue](https://open.spotify.com/album/60gDJXh5wx8VyyvFkt7fbf) | 4:18 |
+| 46 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 |
+| 47 | [Gaddaar](https://open.spotify.com/track/3Kj2M9gRU1Lwf5eiNjBtBp) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Rakshak](https://open.spotify.com/album/24gOuJnIeGxz0eBrmgid2Q) | 4:44 |
+| 48 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
+| 49 | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/track/35S0Oh0JrXAhGzrLHzUvw8) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/album/0b2vVXjAlHWSyLfnQAUmtv) | 3:29 |
+| 50 | [Conduit](https://open.spotify.com/track/4sphH7zZfGeDGiVUzTh4Kf) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Gnosis](https://open.spotify.com/album/70f88hTacrgbDXCB8PkQhy) | 4:30 |
+| 51 | [Heartache](https://open.spotify.com/track/2TBDweMyj3Wen6bu9gYwrn) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Heartache](https://open.spotify.com/album/1202mNUlTJufiL8oVbS7nO) | 3:45 |
+| 52 | [Be Someone](https://open.spotify.com/track/4iLBQIgE9PuT41Rf8M9bPw) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Future Lovers](https://open.spotify.com/album/4i8gvZZJAG88UAG4Jy7vEl) | 3:20 |
+| 53 | [Tight Rope XX](https://open.spotify.com/track/2ONKSAWBw6R4lwgzcpx8l7) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Tight Rope XX](https://open.spotify.com/album/7l8G0xgVOBgfYTYDrqmL4D) | 3:37 |
+| 54 | [Worst Is On Its Way](https://open.spotify.com/track/1XYckecySdxfsF2ibuqtPR) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:03 |
+| 55 | [Rain Down](https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Rain Down](https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc) | 4:07 |
+| 56 | [SPIRITS](https://open.spotify.com/track/6YbDzTWROe5Jqs75sQZjUO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/0SZqkeTCVvOZEYhnMHIdO7) | 5:39 |
+| 57 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
+| 58 | [Heads Off](https://open.spotify.com/track/1eBYArl3XK56nWoARa5KYy) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/3okB1Cp9n0bKsUcjXWu3gu) | 4:31 |
+| 59 | [The Body](https://open.spotify.com/track/0YbvjDVsEYEASJI8gS9UJ3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [The Body](https://open.spotify.com/album/0EvhA9EF2gjiTAdQyubBfP) | 3:51 |
+| 60 | [Riptide](https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Riptide](https://open.spotify.com/album/5pq4qSf7QPmEu7F1IhhVmn) | 3:31 |
 
-Snapshot ID: `MTY2NzU0NTIwMCwwMDAwMDAwMDM3MTFmZDA1NTFiN2UzYjU4ZmU2YzZlNjM1ZjEzMjlm`
+Snapshot ID: `MTY2Nzg0MTk5NiwwMDAwMDAwMGJiOGU2YmRlYmZmZGRjZmJkYTRlYTExOGMwYjYyMWFi`

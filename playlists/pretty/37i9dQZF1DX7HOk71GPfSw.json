@@ -1,12 +1,12 @@
 {
   "description": "ft. angelus",
-  "num_followers": 348877,
+  "num_followers": 348959,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTkwMCwwMDAwMDAwMDJmYjU5ZWRkZjk5MTcyN2UxOWZlM2M4OWI5MTk5Yjhi",
+  "snapshot_id": "MTY2Nzg0NTczNCwwMDAwMDAwMDdkZWY5MzM2MDVlMzU0MWI2YjBmODAwNTIyYThmNjVk",
   "tracks": [
     {
       "added_at": "2022-10-28 04:05:00",
@@ -41,28 +41,24 @@
       "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
     },
     {
-      "added_at": "2022-10-28 04:05:00",
+      "added_at": "2022-11-07 16:13:32",
       "album": {
-        "name": "TINKERBELL",
-        "url": "https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI"
+        "name": "Love To Be (feat. sadie)",
+        "url": "https://open.spotify.com/album/2ahcsSMOqGlOufMH4CsCCr"
       },
       "artists": [
         {
-          "name": "Palmistry",
-          "url": "https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY"
+          "name": "Dominic Sen",
+          "url": "https://open.spotify.com/artist/152t0HrYcs72GHrhM6x5gF"
         },
         {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        },
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+          "name": "sadie",
+          "url": "https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc"
         }
       ],
-      "duration_ms": 103795,
-      "name": "Bad Vibes",
-      "url": "https://open.spotify.com/track/1F2E1UQbtiycMmOzOM5YIF"
+      "duration_ms": 183698,
+      "name": "Love To Be (feat. sadie)",
+      "url": "https://open.spotify.com/track/3s3YpmM0CxA8viLMpXkHBu"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -99,90 +95,26 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "hyperreality",
-        "url": "https://open.spotify.com/album/6hAdSOMl3z8WhGlmBpgeQF"
+        "name": "TINKERBELL",
+        "url": "https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI"
       },
       "artists": [
         {
-          "name": "Bhertuy",
-          "url": "https://open.spotify.com/artist/1D308M2j4qFABeJSQst91l"
-        }
-      ],
-      "duration_ms": 85190,
-      "name": "before i go to bed",
-      "url": "https://open.spotify.com/track/3vIJMMc5HapTkg4Oxvyjda"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "Forever (jamesjamesjames Remix)",
-        "url": "https://open.spotify.com/album/3CpRCfqpuB8thDdtsPETrN"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+          "name": "Palmistry",
+          "url": "https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY"
         },
         {
-          "name": "jamesjamesjames",
-          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
-        }
-      ],
-      "duration_ms": 229674,
-      "name": "Forever (jamesjamesjames Remix)",
-      "url": "https://open.spotify.com/track/6z24CmJ1eeJV8Wzkv24FKI"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "stay away (xs edition)",
-        "url": "https://open.spotify.com/album/5rKtStwZIclcxCkqoyDlBA"
-      },
-      "artists": [
-        {
-          "name": "Ravenna Golden",
-          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
-        }
-      ],
-      "duration_ms": 229714,
-      "name": "stay away (xs edition)",
-      "url": "https://open.spotify.com/track/4Wx2U1dhzMQBx9LoVSLSXq"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/4q9dptpAviBH63CHINtJrz"
-      },
-      "artists": [
-        {
-          "name": "JIMMY EDGAR",
-          "url": "https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M"
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
         },
         {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
         }
       ],
-      "duration_ms": 163931,
-      "name": "EUPHORIA",
-      "url": "https://open.spotify.com/track/6vjnpRLC6DbNlTZM4y2Nvo"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "SHOW ME",
-        "url": "https://open.spotify.com/album/2CBrPRPpEEdwxCeIjfMywh"
-      },
-      "artists": [
-        {
-          "name": "Tony Velour",
-          "url": "https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi"
-        }
-      ],
-      "duration_ms": 65031,
-      "name": "SHOW ME",
-      "url": "https://open.spotify.com/track/13TmrYGHFRTbF6aMGahtSN"
+      "duration_ms": 103795,
+      "name": "Bad Vibes",
+      "url": "https://open.spotify.com/track/1F2E1UQbtiycMmOzOM5YIF"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -199,22 +131,6 @@
       "duration_ms": 100602,
       "name": "zyzz",
       "url": "https://open.spotify.com/track/2zJ00hGWE9O5mZHKptZRlg"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "Demon",
-        "url": "https://open.spotify.com/album/1uaZjZ6LN9kaS8pJPp4o3H"
-      },
-      "artists": [
-        {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
-        }
-      ],
-      "duration_ms": 180571,
-      "name": "Demon",
-      "url": "https://open.spotify.com/track/5I9T8nD2r7GlFEs9p2AeRv"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -255,6 +171,26 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
+        "name": "miles",
+        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 162196,
+      "name": "miles (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
         "name": "so different",
         "url": "https://open.spotify.com/album/7oN0crPnZMnoZDnIR6Cf2K"
       },
@@ -271,6 +207,110 @@
       "duration_ms": 157161,
       "name": "so different",
       "url": "https://open.spotify.com/track/0dIdygeAOLbVX1dxYhEaJ6"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "stay away (xs edition)",
+        "url": "https://open.spotify.com/album/5rKtStwZIclcxCkqoyDlBA"
+      },
+      "artists": [
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        }
+      ],
+      "duration_ms": 229714,
+      "name": "stay away (xs edition)",
+      "url": "https://open.spotify.com/track/4Wx2U1dhzMQBx9LoVSLSXq"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "hyperreality",
+        "url": "https://open.spotify.com/album/6hAdSOMl3z8WhGlmBpgeQF"
+      },
+      "artists": [
+        {
+          "name": "Bhertuy",
+          "url": "https://open.spotify.com/artist/1D308M2j4qFABeJSQst91l"
+        }
+      ],
+      "duration_ms": 85190,
+      "name": "before i go to bed",
+      "url": "https://open.spotify.com/track/3vIJMMc5HapTkg4Oxvyjda"
+    },
+    {
+      "added_at": "2022-10-14 04:22:00",
+      "album": {
+        "name": "apartmnt",
+        "url": "https://open.spotify.com/album/1mqj22B6EL8FsqVOBfRtFJ"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "duration_ms": 94791,
+      "name": "apartmnt",
+      "url": "https://open.spotify.com/track/0dOY28G8B0lshppMnrs8vS"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/4q9dptpAviBH63CHINtJrz"
+      },
+      "artists": [
+        {
+          "name": "JIMMY EDGAR",
+          "url": "https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M"
+        },
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        }
+      ],
+      "duration_ms": 163931,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/6vjnpRLC6DbNlTZM4y2Nvo"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "SHOW ME",
+        "url": "https://open.spotify.com/album/2CBrPRPpEEdwxCeIjfMywh"
+      },
+      "artists": [
+        {
+          "name": "Tony Velour",
+          "url": "https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi"
+        }
+      ],
+      "duration_ms": 65031,
+      "name": "SHOW ME",
+      "url": "https://open.spotify.com/track/13TmrYGHFRTbF6aMGahtSN"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Demon",
+        "url": "https://open.spotify.com/album/1uaZjZ6LN9kaS8pJPp4o3H"
+      },
+      "artists": [
+        {
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+        }
+      ],
+      "duration_ms": 180571,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/5I9T8nD2r7GlFEs9p2AeRv"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -303,46 +343,6 @@
       "duration_ms": 131351,
       "name": "Devon Aoki",
       "url": "https://open.spotify.com/track/7yBNXt89UdBnPLxb85aajW"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "miles",
-        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 162196,
-      "name": "miles (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
-    },
-    {
-      "added_at": "2022-10-14 04:22:00",
-      "album": {
-        "name": "apartmnt",
-        "url": "https://open.spotify.com/album/1mqj22B6EL8FsqVOBfRtFJ"
-      },
-      "artists": [
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        },
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 94791,
-      "name": "apartmnt",
-      "url": "https://open.spotify.com/track/0dOY28G8B0lshppMnrs8vS"
     },
     {
       "added_at": "2022-10-07 04:56:00",

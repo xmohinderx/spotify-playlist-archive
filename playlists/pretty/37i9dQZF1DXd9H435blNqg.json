@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 25024,
+  "num_followers": 25104,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDQ4ZTgyNDhlOGFjODk5OGQyNDFjMDg5NjIwMzJjZjgw",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGFmNTc2ZjUyYzJiYTVkM2Y3MGU0YzJkYzU2NzExYzY0",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Holy Ghost Fire",
-        "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Stay Wild",
         "url": "https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 285653,
       "name": "Stay Wild",
       "url": "https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Holy Ghost Fire",
+        "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 202917,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Keep Diggin\u2019",
-      "url": "https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "In the Middle",
         "url": "https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 214818,
       "name": "In the Middle",
       "url": "https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 192351,
+      "name": "Tears Of Blue To Gold",
+      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 192351,
-      "name": "Tears Of Blue To Gold",
-      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "The Juice",
         "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
       },
@@ -559,22 +543,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 147904,
-      "name": "Switchup",
-      "url": "https://open.spotify.com/track/4Pt6kY4Q9wxiFj9QJspC1g"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Ain't Too Worried Yet",
         "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
       },
@@ -587,6 +555,38 @@
       "duration_ms": 212903,
       "name": "Ain't Too Worried Yet",
       "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Keep Diggin\u2019",
+      "url": "https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 147904,
+      "name": "Switchup",
+      "url": "https://open.spotify.com/track/4Pt6kY4Q9wxiFj9QJspC1g"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -623,6 +623,26 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "The Juice (feat. Marcus King)",
+      "url": "https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Tape V",
         "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
       },
@@ -639,22 +659,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Homemade Disaster",
-        "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 194564,
-      "name": "Homemade Disaster",
-      "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Howlin\u2019",
         "url": "https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd"
       },
@@ -667,6 +671,22 @@
       "duration_ms": 176026,
       "name": "Howlin'",
       "url": "https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Homemade Disaster",
+        "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 194564,
+      "name": "Homemade Disaster",
+      "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -703,26 +723,6 @@
       "duration_ms": 225133,
       "name": "Come On",
       "url": "https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "The Juice (feat. Marcus King)",
-      "url": "https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -807,6 +807,26 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Have You Lost Your Mind yet?",
+        "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 225551,
+      "name": "Searching for Captain Save a Hoe",
+      "url": "https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Reaching",
         "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
       },
@@ -835,22 +855,6 @@
       "duration_ms": 182293,
       "name": "Bottom Shelf Gin",
       "url": "https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Going Down",
-        "url": "https://open.spotify.com/album/3Gvjf4FDSIqcBScnLI2Kw5"
-      },
-      "artists": [
-        {
-          "name": "Black River Delta",
-          "url": "https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Going Down",
-      "url": "https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk"
     }
   ],
   "unique_name": "Alt-Blue",

@@ -1486,6 +1486,28 @@
     },
     {
       "album": {
+        "name": "Tell Me We're Ok - Single",
+        "url": "https://open.spotify.com/album/0YKav7VhBM8vUefVsGCNvT"
+      },
+      "artists": [
+        {
+          "name": "DJ Hardwerk",
+          "url": "https://open.spotify.com/artist/5eX67XYPPv11MhDIdIoCN4"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278740,
+      "name": "Tell Me We're Ok",
+      "url": "https://open.spotify.com/track/6gHG47OtyMngVSvRSw6tuH"
+    },
+    {
+      "album": {
         "name": "Last 2 Walk",
         "url": "https://open.spotify.com/album/0msDLgGPTbHmgPwY4yYRkn"
       },
@@ -1545,7 +1567,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 241906,
       "name": "The Sweet Escape - Konvict Remix",
       "url": "https://open.spotify.com/track/0ymJhXkz2lOige2zbloaYv"

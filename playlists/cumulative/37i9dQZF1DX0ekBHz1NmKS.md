@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-593 songs - 1 day 7 hr 33 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+595 songs - 1 day 7 hr 39 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-28 | 2022-08-14 |
 | [Bästa Vi Gjort](https://open.spotify.com/track/5ITfTyOipNdU9hammDtEk8) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/5lpnElAi4OHtsdAqDWMHwR) | 2:52 | 2022-09-15 |  |
 | [Can't Stay Away](https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/3OIvFO4C2CQGRxYUQ9D8yf) | 3:00 | 2021-12-16 | 2022-03-09 |
+| [Can’t Stay Away](https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Can’t Stay Away](https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5) | 2:59 | 2022-11-04 |  |
 | [Can’t Stop Loving You \(feat\. Theron Thomas\) \- Audio Video](https://open.spotify.com/track/5sHFbT3YHNi2QSn8L9nhdO) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Theron Thomas](https://open.spotify.com/artist/6ymA00Kh0SfzlSbYJjsY07) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 4:27 | 2021-12-16 | 2022-01-10 |
 | [CAPPUCCINO](https://open.spotify.com/track/3ug48HneByt6Ci1Vb4VQu9) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ), [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [CAPPUCCINO](https://open.spotify.com/album/0PsFUPiLYkZmelIdf0XocV) | 3:01 | 2021-12-16 | 2022-01-07 |
 | [Carefree \- Spotify Studio Oyster Recording](https://open.spotify.com/track/6hVWQIhhwl9JDgVIjTIgRw) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Carefree \(Spotify Studio Oyster Recording\)](https://open.spotify.com/album/0BJEn3fu5A8BYV7VQeod0R) | 3:35 | 2021-12-16 | 2022-01-31 |
@@ -419,6 +420,7 @@
 | [Rule the World](https://open.spotify.com/track/3wegijGUPhF7eHGCIST2Rz) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [A Letter from the Universe](https://open.spotify.com/album/1KVlwAn0aLqaqxzgU5zItL) | 2:59 | 2022-04-01 | 2022-04-21 |
 | [Rulla eftertexten](https://open.spotify.com/track/32DulelwqqHmiNS3k9Wyxn) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut](https://open.spotify.com/album/4NqV0pKjmtudnuZ7SArHtG) | 3:26 | 2021-12-16 | 2022-03-11 |
 | [Run To The Hills](https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Run To The Hills](https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0) | 2:55 | 2022-03-03 | 2022-09-16 |
+| [Rymden och tillbaks](https://open.spotify.com/track/3T66ZaObDiVo0XJxLqXoyY) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Rymden och tillbaks \(Space Invades My Mind\)](https://open.spotify.com/album/7qqzQse7Mkex7RT9FrtNF3) | 2:53 | 2022-11-04 |  |
 | [Räkna dagar](https://open.spotify.com/track/7GWtRLE1ZeFat9k9iauEef) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:55 | 2021-12-16 | 2022-09-16 |
 | [Sad boy](https://open.spotify.com/track/4PkP9bwUUDOy616Ve9qEid) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Sad boy](https://open.spotify.com/album/1zo36S5mDeSWKWF47P7a8U) | 2:41 | 2021-12-16 | 2022-03-09 |
 | [Safe](https://open.spotify.com/track/5YWHPx3STBbT1b5Xfn7hGU) | [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r) | [Safe](https://open.spotify.com/album/47aEkdMv1yTwN6MRJ3LuBl) | 3:07 | 2022-03-10 | 2022-05-30 |
@@ -504,10 +506,10 @@
 | [Säg vad du vill](https://open.spotify.com/track/6YpOcenS6bCTx7JG1OBY7X) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Säg vad du vill](https://open.spotify.com/album/09JUZALuWvwAN7No7W4lj7) | 3:28 | 2022-05-26 | 2022-07-28 |
 | [Ta på mig](https://open.spotify.com/track/3DFOoe2J49z0ZD1o74fq5x) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Ta på mig](https://open.spotify.com/album/79TfkDuxlL9r42jGcj2AL4) | 3:22 | 2021-12-16 | 2022-03-09 |
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-09-29 |  |
-| [Tar det som det kommer](https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Tar det som det kommer](https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU) | 3:27 | 2022-04-07 |  |
+| [Tar det som det kommer](https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Tar det som det kommer](https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU) | 3:27 | 2022-04-07 | 2022-11-08 |
 | [Taxin](https://open.spotify.com/track/6fVsYWoMw8kR0pudjjEUb0) | [Broder Jakob](https://open.spotify.com/artist/6O55JxNwObW4tmmL0jO9zy) | [Taxin](https://open.spotify.com/album/4z5n7zYUidCJA6enyihZ6F) | 2:53 | 2022-05-05 | 2022-07-23 |
 | [Tears](https://open.spotify.com/track/1KEXV4nhFG7lkOU7qqiQyi) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [What They'll Say About Us](https://open.spotify.com/album/4mdAcPpvearpFuQm4VZc6a) | 2:32 | 2021-12-16 | 2022-03-11 |
-| [Tears Are In Your Eyes](https://open.spotify.com/track/0ncmKS7QC4FIviZKZnIpXn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 4:07 | 2022-10-06 |  |
+| [Tears Are In Your Eyes](https://open.spotify.com/track/0ncmKS7QC4FIviZKZnIpXn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 4:07 | 2022-10-06 | 2022-11-08 |
 | [Tears Are In Your Eyes](https://open.spotify.com/track/7b9HJ8BAhLnl0FSRjXhQs1) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Tears Are In Your Eyes](https://open.spotify.com/album/198la3NlzDy41m0FRb5YoF) | 4:07 | 2022-09-08 | 2022-10-06 |
 | [Teenage Dirtbag](https://open.spotify.com/track/3y6sdyJDD4DxrzoFQVhudH) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Teenage Dirtbag](https://open.spotify.com/album/5eyTUJfoyaBZM2M69BXeOf) | 3:48 | 2021-12-16 | 2022-03-11 |
 | [Tell Me](https://open.spotify.com/track/02688X3Oo6uDQptLZDiqqp) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Tell Me](https://open.spotify.com/album/35ysKlLuG8CpXGCQbNFgKo) | 3:10 | 2022-03-17 | 2022-07-29 |

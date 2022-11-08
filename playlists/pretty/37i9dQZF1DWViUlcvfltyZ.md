@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: clauscalmo
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,975 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,990 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,23 +12,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 2 | [Pornolesbo](https://open.spotify.com/track/5RmgabbGvfVIr2Wtl3r75e) | [Baobab!](https://open.spotify.com/artist/0P9V5EdqoioSs6GYNliMTt) | [Pornolesbo](https://open.spotify.com/album/4YpQqDBJkMlpTPWBExpk03) | 2:24 |
 | 3 | [Record](https://open.spotify.com/track/7bJJKJtXIDYsz87fpRArOs) | [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR) | [Record](https://open.spotify.com/album/6gMEYik1cWddt2je1HT0n1) | 3:30 |
 | 4 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 |
-| 5 | [Il vento](https://open.spotify.com/track/6vO8miBm2egYQXiDcsJshV) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Sale \(Elas\)](https://open.spotify.com/album/1mZdqKhXnngN363k2kXdA0) | 2:46 |
-| 6 | [Il tempo è una bugia \(feat\. Ligabue\)](https://open.spotify.com/track/7tl8kzo4DM62We5mgJRYNx) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Il tempo è una bugia \(feat\. Ligabue\)](https://open.spotify.com/album/7oM4l6zPvDNo9WgT7J9pxq) | 3:58 |
-| 7 | [Storia di un bacio](https://open.spotify.com/track/06KPJCrNZmp1QwG0kJhyUe) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Dormi](https://open.spotify.com/album/0o43FP6kzT5GH7opmU9dCo) | 2:52 |
-| 8 | [Come mi divori](https://open.spotify.com/track/7uzsMb477hv1SzEMQUAmVd) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Come mi divori](https://open.spotify.com/album/4zAF5jahW8hxPJWfLsoyzk) | 3:11 |
-| 9 | [DIO](https://open.spotify.com/track/5rvSgBzvXLuRHNI6fAXArv) | [Mandark](https://open.spotify.com/artist/0Y6B1fQJ0pFHBzYRRN8Bp6) | [DIO](https://open.spotify.com/album/6wWyqa9Ry4Jxne32G7KN9p) | 2:02 |
-| 10 | [Nubifragio](https://open.spotify.com/track/2I3pXS5CzCm8sfgdMJYaTQ) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Nubifragio](https://open.spotify.com/album/5L9oWRa76veQN7AFo0KQhX) | 3:51 |
-| 11 | [Città foresta](https://open.spotify.com/track/4GPeaXpFwD2ju3fwnfZQ2Z) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Città foresta](https://open.spotify.com/album/7Mb7CHDVdLUflxd9pKX21w) | 3:53 |
+| 5 | [Il tempo è una bugia \(feat\. Ligabue\)](https://open.spotify.com/track/7tl8kzo4DM62We5mgJRYNx) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Il tempo è una bugia \(feat\. Ligabue\)](https://open.spotify.com/album/7oM4l6zPvDNo9WgT7J9pxq) | 3:58 |
+| 6 | [Storia di un bacio](https://open.spotify.com/track/06KPJCrNZmp1QwG0kJhyUe) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Dormi](https://open.spotify.com/album/0o43FP6kzT5GH7opmU9dCo) | 2:52 |
+| 7 | [Come mi divori](https://open.spotify.com/track/7uzsMb477hv1SzEMQUAmVd) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Come mi divori](https://open.spotify.com/album/4zAF5jahW8hxPJWfLsoyzk) | 3:11 |
+| 8 | [DIO](https://open.spotify.com/track/5rvSgBzvXLuRHNI6fAXArv) | [Mandark](https://open.spotify.com/artist/0Y6B1fQJ0pFHBzYRRN8Bp6) | [DIO](https://open.spotify.com/album/6wWyqa9Ry4Jxne32G7KN9p) | 2:02 |
+| 9 | [Nubifragio](https://open.spotify.com/track/2I3pXS5CzCm8sfgdMJYaTQ) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Nubifragio](https://open.spotify.com/album/5L9oWRa76veQN7AFo0KQhX) | 3:51 |
+| 10 | [Città foresta](https://open.spotify.com/track/4GPeaXpFwD2ju3fwnfZQ2Z) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Città foresta](https://open.spotify.com/album/7Mb7CHDVdLUflxd9pKX21w) | 3:53 |
+| 11 | [Il vento](https://open.spotify.com/track/6vO8miBm2egYQXiDcsJshV) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Sale \(Elas\)](https://open.spotify.com/album/1mZdqKhXnngN363k2kXdA0) | 2:46 |
 | 12 | [Vicenza](https://open.spotify.com/track/2UoqMxVRl4I5IgDRblSToW) | [Folks, stay home](https://open.spotify.com/artist/2HzkhtnJn3OBy557HAwDYH) | [La Tosca dei Cani](https://open.spotify.com/album/40Fngltav0uIo6x6cw20bM) | 4:44 |
-| 13 | [Stupido](https://open.spotify.com/track/1HbeSRRvgFWCRg7B6GAG7o) | [Voglio Tutto](https://open.spotify.com/artist/0l7l0zslmsXWkHCM6hZ34C) | [Stupido](https://open.spotify.com/album/3x5ls4mKI2qM6AGl4hPSCx) | 2:19 |
+| 13 | [RGRD](https://open.spotify.com/track/4gmxEVlGmX2brjJBEm4Fqy) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [RGRD](https://open.spotify.com/album/1EirmUuEp1El24sVa7Xf6s) | 3:53 |
 | 14 | [Chaise Longue](https://open.spotify.com/track/2oXs1w3ISiVPkz32vXJCCg) | [Verdena](https://open.spotify.com/artist/058thnz6odaxoAN4n3cMBN) | [Chaise Longue](https://open.spotify.com/album/2HtuyQa8ttY6Fn433FIs0s) | 3:40 |
 | 15 | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/album/0YFbYRdWVJ8bqvjOSZ1D2v) | 2:53 |
 | 16 | [EKOMOSTRO](https://open.spotify.com/track/1gPkmYuKbTfw5VdPCTpcNB) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [EKOMOSTRO](https://open.spotify.com/album/0ElZoCtcEi1ff0iSFIhG1j) | 3:23 |
 | 17 | [Canzone 10](https://open.spotify.com/track/4kgotZC0lTFDC9VxshW705) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Canzone 10](https://open.spotify.com/album/0na7MpYLhqiienk3tW9uSg) | 4:18 |
-| 18 | [Crystal Ball](https://open.spotify.com/track/4rJZeYt6ArHcnPova0Hgtw) | [Verdena](https://open.spotify.com/artist/058thnz6odaxoAN4n3cMBN) | [Volevo Magia](https://open.spotify.com/album/0ISl1KHwbmQIJBe0TOWqGk) | 2:54 |
-| 19 | [Milioni di strade](https://open.spotify.com/track/3WkO6y6Q8AAkoUkHgg4WqH) | [Il Corpo Docenti](https://open.spotify.com/artist/54fov0UfPlOOvOWid3VL7p), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [Milioni di strade](https://open.spotify.com/album/5RCjhOxheSBtZ7ezp1R7GM) | 3:12 |
-| 20 | [Neanche un'ora sveglio](https://open.spotify.com/track/5uIlaWEQjpztXgax3dhUWs) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Neanche un'ora sveglio](https://open.spotify.com/album/7pzaxpTYLbPw2SNlM1wstE) | 3:24 |
-| 21 | [RGRD](https://open.spotify.com/track/4gmxEVlGmX2brjJBEm4Fqy) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [RGRD](https://open.spotify.com/album/1EirmUuEp1El24sVa7Xf6s) | 3:53 |
+| 18 | [Stupido](https://open.spotify.com/track/1HbeSRRvgFWCRg7B6GAG7o) | [Voglio Tutto](https://open.spotify.com/artist/0l7l0zslmsXWkHCM6hZ34C) | [Stupido](https://open.spotify.com/album/3x5ls4mKI2qM6AGl4hPSCx) | 2:19 |
+| 19 | [Crystal Ball](https://open.spotify.com/track/4rJZeYt6ArHcnPova0Hgtw) | [Verdena](https://open.spotify.com/artist/058thnz6odaxoAN4n3cMBN) | [Volevo Magia](https://open.spotify.com/album/0ISl1KHwbmQIJBe0TOWqGk) | 2:54 |
+| 20 | [Milioni di strade](https://open.spotify.com/track/3WkO6y6Q8AAkoUkHgg4WqH) | [Il Corpo Docenti](https://open.spotify.com/artist/54fov0UfPlOOvOWid3VL7p), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [Milioni di strade](https://open.spotify.com/album/5RCjhOxheSBtZ7ezp1R7GM) | 3:12 |
+| 21 | [Neanche un'ora sveglio](https://open.spotify.com/track/5uIlaWEQjpztXgax3dhUWs) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Neanche un'ora sveglio](https://open.spotify.com/album/7pzaxpTYLbPw2SNlM1wstE) | 3:24 |
 | 22 | [Lo Sposo Sulla Torta](https://open.spotify.com/track/1K8eYXS6CJq9mzG9rzKDJV) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Ama il prossimo tuo come te stesso](https://open.spotify.com/album/4K2fWzhQxYSHcchOglHvSj) | 3:41 |
 | 23 | [Scattaci una foto dai](https://open.spotify.com/track/6rVd9LImuHUlRH4m4jZobg) | [Eleonora Toscani](https://open.spotify.com/artist/77d3usyZLz9TS7PBxGRVaD) | [Scattaci una foto dai](https://open.spotify.com/album/1B1CLdFA4LmD7aMnH45bTU) | 3:24 |
 | 24 | [Punk](https://open.spotify.com/track/69SfBtxar6Ld6Wg0dQSFkr) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Punk](https://open.spotify.com/album/6SYWYWGIBCQF0rUyjudbtc) | 2:58 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 54 | [Voglio invecchiare male \(feat\. Management\)](https://open.spotify.com/track/1UioMVlhDjrjJ3o6HP2Vhr) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Cari Fottutissimi Amici](https://open.spotify.com/album/43iU5QUL15hYLkbiZfk1aB) | 4:19 |
 | 55 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 |
 
-Snapshot ID: `MTY2NzUxNjQ2MCwwMDAwMDAwMGQxZTVkYWJmNGY1NTRkZjQ5MzgwODFlNDU0YWUyNzkw`
+Snapshot ID: `MTY2NzgyNTQ4NCwwMDAwMDAwMDA1ODNhNjU2NzMzMTBjNjlhZmI4MWZiYzg5N2NhNDNm`

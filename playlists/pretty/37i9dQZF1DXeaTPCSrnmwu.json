@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 19125,
+  "num_followers": 19133,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGVlOGQzZDA3MGIxOGY1NmNjNDdjYjFmZmQ5NTI4ZDli",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMDc4NmRlZjMxMzY5YzEwOGNkZWU4NDVmYTk0Y2Q5YWVk",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -471,22 +471,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Ev'rything I Love",
-        "url": "https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh"
-      },
-      "artists": [
-        {
-          "name": "Petra Britton",
-          "url": "https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2"
-        }
-      ],
-      "duration_ms": 138777,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
         "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 195120,
       "name": "La Paloma - Yradier",
       "url": "https://open.spotify.com/track/5z9sMwPllzSNYvac81Hdup"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Ev'rything I Love",
+        "url": "https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh"
+      },
+      "artists": [
+        {
+          "name": "Petra Britton",
+          "url": "https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2"
+        }
+      ],
+      "duration_ms": 138777,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -667,30 +667,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "R\u00edo de los Canasteros",
-        "url": "https://open.spotify.com/album/2KRIZ6ZIvuALWTnEGGCPZy"
-      },
-      "artists": [
-        {
-          "name": "Diego Amador",
-          "url": "https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT"
-        },
-        {
-          "name": "Raimundo Amador",
-          "url": "https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7"
-        },
-        {
-          "name": "Luis Salinas",
-          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
-        }
-      ],
-      "duration_ms": 548600,
-      "name": "Al Latin",
-      "url": "https://open.spotify.com/track/0eoyBmi8Zrg9clYB9P4ZXO"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Starlight EP",
         "url": "https://open.spotify.com/album/7m8ZtTAwuo43kLK41EsZ31"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 143386,
       "name": "Palabras De Mujer-Hojas Secas",
       "url": "https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "R\u00edo de los Canasteros",
+        "url": "https://open.spotify.com/album/2KRIZ6ZIvuALWTnEGGCPZy"
+      },
+      "artists": [
+        {
+          "name": "Diego Amador",
+          "url": "https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT"
+        },
+        {
+          "name": "Raimundo Amador",
+          "url": "https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7"
+        },
+        {
+          "name": "Luis Salinas",
+          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
+        }
+      ],
+      "duration_ms": 548600,
+      "name": "Al Latin",
+      "url": "https://open.spotify.com/track/0eoyBmi8Zrg9clYB9P4ZXO"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Boleros Inolvidables, Vol. 1",
-        "url": "https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O"
-      },
-      "artists": [
-        {
-          "name": "Piano Magico",
-          "url": "https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6"
-        }
-      ],
-      "duration_ms": 128986,
-      "name": "Acercate Mas-Nosotros",
-      "url": "https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Classic Jazz on the Piano",
         "url": "https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 137659,
       "name": "Bossa Nova Piano Jazz",
       "url": "https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Green In Blue EP",
+        "url": "https://open.spotify.com/album/7l6ZiMVmNuPZQ5Zs3pF4VZ"
+      },
+      "artists": [
+        {
+          "name": "Sara Florence",
+          "url": "https://open.spotify.com/artist/4qA1WfwP7qdDF0IGSfuWR8"
+        }
+      ],
+      "duration_ms": 312266,
+      "name": "Pensativa",
+      "url": "https://open.spotify.com/track/4rc7E9z2tn20daQb49JXmw"
     }
   ],
   "unique_name": "Cena con Piano",

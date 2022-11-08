@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 79470,
+  "num_followers": 79485,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIxMDYxOTUyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIxMTM1OTQzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "ERIMO",
         "url": "https://open.spotify.com/album/4CWvmTA99vjhd3sq0dpeEG"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2wuJWqcn6bJWIJCmb83Yeu"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "El Telephone (Remix)",
         "url": "https://open.spotify.com/album/5OYlXWtC3fZjrfW8pV41ME"
@@ -61,7 +61,27 @@
       "url": "https://open.spotify.com/track/5uKsIyOxbFPop0sZ7LmI9J"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "AKOMI",
+        "url": "https://open.spotify.com/album/22oawTZSHDtZmhKSESCxzE"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 177006,
+      "name": "AKOMI",
+      "url": "https://open.spotify.com/track/5dKi5wRWzTPWHmUxpq96Hf"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/4BlOpO1r4PS3zQ6pK5Otp1"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/24Zq6jOHkjoPOQn42ZyRJs"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Forema",
         "url": "https://open.spotify.com/album/7L0CPtSxiCvErPmV2O0VcA"
@@ -105,7 +125,47 @@
       "url": "https://open.spotify.com/track/2WmQtBy5wG8rdeqYhwljNK"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "ADRENALINA",
+        "url": "https://open.spotify.com/album/5llOuE82CLyPvoW9wzM1pb"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 219661,
+      "name": "ADRENALINA",
+      "url": "https://open.spotify.com/track/0v4BTk3Vlhmfduww4WFOwA"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "EMMONH",
+        "url": "https://open.spotify.com/album/7oYpjEf9RT33LNM7MSKIlc"
+      },
+      "artists": [
+        {
+          "name": "City Center",
+          "url": "https://open.spotify.com/artist/0V0TEffOhc8TSKqNyC0sjr"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "duration_ms": 236470,
+      "name": "EMMONH",
+      "url": "https://open.spotify.com/track/3xo0AJj0gWlp51SqoGaGDv"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Lamogia (Remix)",
         "url": "https://open.spotify.com/album/6Y6eo3iutcunqsAZExd1Hr"
@@ -141,67 +201,7 @@
       "url": "https://open.spotify.com/track/49aqCqLiSWpG8Rgk0iHYeu"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "AKOMI",
-        "url": "https://open.spotify.com/album/22oawTZSHDtZmhKSESCxzE"
-      },
-      "artists": [
-        {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 177006,
-      "name": "AKOMI",
-      "url": "https://open.spotify.com/track/5dKi5wRWzTPWHmUxpq96Hf"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "ADRENALINA",
-        "url": "https://open.spotify.com/album/5llOuE82CLyPvoW9wzM1pb"
-      },
-      "artists": [
-        {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 219661,
-      "name": "ADRENALINA",
-      "url": "https://open.spotify.com/track/0v4BTk3Vlhmfduww4WFOwA"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "EMMONH",
-        "url": "https://open.spotify.com/album/7oYpjEf9RT33LNM7MSKIlc"
-      },
-      "artists": [
-        {
-          "name": "City Center",
-          "url": "https://open.spotify.com/artist/0V0TEffOhc8TSKqNyC0sjr"
-        },
-        {
-          "name": "RICTA",
-          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
-        }
-      ],
-      "duration_ms": 236470,
-      "name": "EMMONH",
-      "url": "https://open.spotify.com/track/3xo0AJj0gWlp51SqoGaGDv"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Gaza",
         "url": "https://open.spotify.com/album/07yBePxzS3yEn1MOOrxu4K"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/0yHkbTORVndswYARPdzteN"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "G Walk",
         "url": "https://open.spotify.com/album/7GVxDeeFP1rDvu47uaYeIb"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/0cOGWQcGaMe5HsGO9AEw25"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "RACKATTACK 2",
         "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
@@ -265,27 +265,7 @@
       "url": "https://open.spotify.com/track/0OyiXp4CdjqOYDSpzgfEx7"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "RACKATTACK 2",
-        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
-      },
-      "artists": [
-        {
-          "name": "Rack",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Romeo",
         "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
@@ -305,23 +285,27 @@
       "url": "https://open.spotify.com/track/2QDibAx72jveQXPBXOKjx2"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
-        "name": "To Kserw",
-        "url": "https://open.spotify.com/album/18NI1OeqC1x8W3qaOPGXhu"
+        "name": "RACKATTACK 2",
+        "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
       },
       "artists": [
         {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
         }
       ],
-      "duration_ms": 177000,
-      "name": "To Kserw",
-      "url": "https://open.spotify.com/track/3vxOiWJAjI6ZS7zVlL6uT7"
+      "duration_ms": 194754,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/3HX0kjaTKaBiwaBhlZbGNc"
@@ -345,7 +329,23 @@
       "url": "https://open.spotify.com/track/29kTgA9pGo9RYwhED65ZrS"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "To Kserw",
+        "url": "https://open.spotify.com/album/18NI1OeqC1x8W3qaOPGXhu"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "To Kserw",
+      "url": "https://open.spotify.com/track/3vxOiWJAjI6ZS7zVlL6uT7"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Erotas",
         "url": "https://open.spotify.com/album/20dFOE5kiBCmzEf0GXrXqu"
@@ -361,27 +361,7 @@
       "url": "https://open.spotify.com/track/1O4LjNjQxnzqECfTKGkko6"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/2VZw5kZYY6ssrAlRyHGpcY"
-      },
-      "artists": [
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        },
-        {
-          "name": "Mike G",
-          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
-        }
-      ],
-      "duration_ms": 158999,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/6XK6R1ir3k0iPkwGbmVIEV"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "MEDITERRANEAN",
         "url": "https://open.spotify.com/album/6zKMZiFmgQC6GKiLMFtuyY"
@@ -405,7 +385,43 @@
       "url": "https://open.spotify.com/track/29GUBTed1wOd9TGkNYgz1n"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/2VZw5kZYY6ssrAlRyHGpcY"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "duration_ms": 158999,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/6XK6R1ir3k0iPkwGbmVIEV"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/2pSvQv3awiXJjw1IvSVSTY"
+      },
+      "artists": [
+        {
+          "name": "GMARK",
+          "url": "https://open.spotify.com/artist/1bf3cUHhTcwmhtGWKxLttn"
+        }
+      ],
+      "duration_ms": 203454,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/2Hl382Ahx7IV5i2Qfu5m2Q"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -425,31 +441,7 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "Romeo",
-        "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Melisses",
-          "url": "https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl"
-        },
-        {
-          "name": "Skive",
-          "url": "https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO"
-        }
-      ],
-      "duration_ms": 223076,
-      "name": "Epiloges",
-      "url": "https://open.spotify.com/track/5btENPtD4TAjRGkC4IXafe"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Apothimeno",
         "url": "https://open.spotify.com/album/0HCMFcYvI1k7DIRUyvguMS"
@@ -473,7 +465,31 @@
       "url": "https://open.spotify.com/track/5YxvdEAIKhCAPBZNNPnTGe"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Melisses",
+          "url": "https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl"
+        },
+        {
+          "name": "Skive",
+          "url": "https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO"
+        }
+      ],
+      "duration_ms": 223076,
+      "name": "Epiloges",
+      "url": "https://open.spotify.com/track/5btENPtD4TAjRGkC4IXafe"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Macarena",
         "url": "https://open.spotify.com/album/3GUaXfPTFlQnur4oWrRoXh"
@@ -497,23 +513,7 @@
       "url": "https://open.spotify.com/track/3jP6Yx6d8608AU4aIRJsE2"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/2pSvQv3awiXJjw1IvSVSTY"
-      },
-      "artists": [
-        {
-          "name": "GMARK",
-          "url": "https://open.spotify.com/artist/1bf3cUHhTcwmhtGWKxLttn"
-        }
-      ],
-      "duration_ms": 203454,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/2Hl382Ahx7IV5i2Qfu5m2Q"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Egw & Esy",
         "url": "https://open.spotify.com/album/1zRXNHNn9OahCcQdhG5zwH"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/3N2iBFazoTUIvgcqu2PdDZ"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Prepi Den Prepi",
         "url": "https://open.spotify.com/album/1bGhNFOKbGhb69EZCz0hHI"
@@ -549,7 +549,47 @@
       "url": "https://open.spotify.com/track/4iKWPfPRUAneWDTuq9iIi7"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "LIBERTA",
+        "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "duration_ms": 147288,
+      "name": "CELINE",
+      "url": "https://open.spotify.com/track/2oAoWaGzQeq8JMywmukQ8J"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Den Exw Sima",
         "url": "https://open.spotify.com/album/0ZAB0aiipoAR13uMikO0Si"
@@ -573,67 +613,7 @@
       "url": "https://open.spotify.com/track/0VfJj7Z3IQjF6lh5DhQYTs"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "LIBERTA",
-        "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
-      },
-      "artists": [
-        {
-          "name": "Hawk",
-          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
-        },
-        {
-          "name": "Baghdad",
-          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
-        }
-      ],
-      "duration_ms": 147288,
-      "name": "CELINE",
-      "url": "https://open.spotify.com/track/2oAoWaGzQeq8JMywmukQ8J"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "Unholy (feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 170501,
-      "name": "Major Distribution",
-      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Money and Drugs Can't Live In Poverty",
         "url": "https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC"
@@ -657,7 +637,7 @@
       "url": "https://open.spotify.com/track/61BaxNqs8df4B4Vtndb9DE"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -670,18 +650,14 @@
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Pussy & Millions (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+      "duration_ms": 170501,
+      "name": "Major Distribution",
+      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -701,27 +677,7 @@
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "Kales Douleies",
-        "url": "https://open.spotify.com/album/5QK1QDrX6wirdg6zJP8buo"
-      },
-      "artists": [
-        {
-          "name": "RICTA",
-          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
-        },
-        {
-          "name": "Night Grind",
-          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Salonikios",
-      "url": "https://open.spotify.com/track/718XWLo3fyDFH5RWp5Q5nN"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
@@ -745,7 +701,51 @@
       "url": "https://open.spotify.com/track/0PUzUn6NlCsVeomsUg9SKx"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "Kales Douleies",
+        "url": "https://open.spotify.com/album/5QK1QDrX6wirdg6zJP8buo"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Salonikios",
+      "url": "https://open.spotify.com/track/718XWLo3fyDFH5RWp5Q5nN"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "RACKATTACK 2",
         "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
@@ -769,27 +769,7 @@
       "url": "https://open.spotify.com/track/7I6fZpYaW9BjlXJEKFL1Su"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Spin Bout U",
-      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/6OqLxDFzcx4KrOsxZxG3VC"
@@ -809,67 +789,7 @@
       "url": "https://open.spotify.com/track/3gMkuoFyby1uUf7rR7y8Km"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "Bossidonas",
-        "url": "https://open.spotify.com/album/6BTux1NBoVY2xl7QGwkOMt"
-      },
-      "artists": [
-        {
-          "name": "Bossikan",
-          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
-        },
-        {
-          "name": "Roi 6/12",
-          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
-        },
-        {
-          "name": "WhiteShadow",
-          "url": "https://open.spotify.com/artist/0lNfBIsR4PHDhcqyNd2PXw"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "Bossidonas",
-      "url": "https://open.spotify.com/track/5tbMaO9qbA9dMQnoOtRAUR"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "Only 4 The Slimes",
-        "url": "https://open.spotify.com/album/3XWnL4yDFbjKAQNIeDzlKW"
-      },
-      "artists": [
-        {
-          "name": "Thug Slime",
-          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
-        }
-      ],
-      "duration_ms": 128386,
-      "name": "Erastes",
-      "url": "https://open.spotify.com/track/4p90sFRZyV7IPnuvaU1pp1"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 236795,
-      "name": "Circo Loco",
-      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Saskepticism Vol. 2",
         "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
@@ -893,7 +813,67 @@
       "url": "https://open.spotify.com/track/27GSRTfL7fEnLAEr3fB5YX"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "Bossidonas",
+        "url": "https://open.spotify.com/album/6BTux1NBoVY2xl7QGwkOMt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        },
+        {
+          "name": "WhiteShadow",
+          "url": "https://open.spotify.com/artist/0lNfBIsR4PHDhcqyNd2PXw"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "Bossidonas",
+      "url": "https://open.spotify.com/track/5tbMaO9qbA9dMQnoOtRAUR"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Spin Bout U",
+      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "Only 4 The Slimes",
+        "url": "https://open.spotify.com/album/3XWnL4yDFbjKAQNIeDzlKW"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "duration_ms": 128386,
+      "name": "Erastes",
+      "url": "https://open.spotify.com/track/4p90sFRZyV7IPnuvaU1pp1"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Gia Sena",
         "url": "https://open.spotify.com/album/4zkNC5w5xq9KFkLfXSlwGg"
@@ -913,63 +893,7 @@
       "url": "https://open.spotify.com/track/38doLxZXMnFU2rwImjshPY"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 225439,
-      "name": "Broke Boys",
-      "url": "https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 152961,
-      "name": "BackOutsideBoyz",
-      "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 160821,
-      "name": "Privileged Rappers",
-      "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Poli_Ploki",
         "url": "https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8"
@@ -989,23 +913,27 @@
       "url": "https://open.spotify.com/track/1oa2VjfQHY3jOMhr4INBOf"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
-        "name": "Big Moves (Vol. 3)",
-        "url": "https://open.spotify.com/album/4sfbTKBv85lKc3vbYtjZjb"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "VLOSPA",
-          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 157440,
-      "name": "Big Moves (Vol. 3)",
-      "url": "https://open.spotify.com/track/4CDw77LxjrgGlUhrUHfvD3"
+      "duration_ms": 236795,
+      "name": "Circo Loco",
+      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Ligo Ligo",
         "url": "https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN"
@@ -1021,7 +949,107 @@
       "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
     },
     {
-      "added_at": "2022-11-06 14:59:12",
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 225439,
+      "name": "Broke Boys",
+      "url": "https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "Big Moves (Vol. 3)",
+        "url": "https://open.spotify.com/album/4sfbTKBv85lKc3vbYtjZjb"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Big Moves (Vol. 3)",
+      "url": "https://open.spotify.com/track/4CDw77LxjrgGlUhrUHfvD3"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "BELLA",
+        "url": "https://open.spotify.com/album/3i2Z4o7h4po7bizb9T68wX"
+      },
+      "artists": [
+        {
+          "name": "Feisty",
+          "url": "https://open.spotify.com/artist/7wasuXDWKXAOq7jQvxEK3E"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Mateos Nps",
+          "url": "https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV"
+        },
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "BELLA",
+      "url": "https://open.spotify.com/track/2z4kjQGOaN9TEQ6uYgS21l"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 152961,
+      "name": "BackOutsideBoyz",
+      "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 160821,
+      "name": "Privileged Rappers",
+      "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
+    },
+    {
+      "added_at": "2022-11-07 11:32:23",
       "album": {
         "name": "Poli_Ploki",
         "url": "https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8"
@@ -1043,26 +1071,6 @@
       "duration_ms": 170550,
       "name": "El Telephone",
       "url": "https://open.spotify.com/track/1zB8iM97STLlKaweWhtasO"
-    },
-    {
-      "added_at": "2022-11-06 14:59:12",
-      "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     }
   ],
   "unique_name": "Top 50 - Greece",

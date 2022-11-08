@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Polyphia
 
-564 songs - 2 day 1 hr 3 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+565 songs - 2 day 1 hr 7 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Bridges](https://open.spotify.com/track/2eBdWSuKGDDYInmvWeK4AA) | [Arkentype](https://open.spotify.com/artist/4IzmDCzlwnl81Q2rwskK3g) | [Bridges](https://open.spotify.com/album/6lN0FkAKy6vIZA4Zm5WJQw) | 5:22 | 2021-12-17 | 2022-07-29 |
 | [Brutal Behavior](https://open.spotify.com/track/6wN8nayh7c9Gon16wLV5wv) | [Jack The Joker](https://open.spotify.com/artist/1lIjN6laJcdd6txiGXvZaq) | [Mors Volta](https://open.spotify.com/album/2mPSd4EHz8RCDYiRcUChGO) | 5:31 | 2021-12-17 | 2022-01-28 |
 | [brännmärkt](https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden under vatten](https://open.spotify.com/album/4l7vAsUopNRu08SAkp9m8u) | 5:48 | 2022-07-13 |  |
-| [Bugs \- Extended](https://open.spotify.com/track/4uvrlMOYncLAa1C4NEHvqu) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Brooke Dougherty](https://open.spotify.com/artist/6alTZVAzJlcTemFugbEjP2) | [Bugs \(Extended\)](https://open.spotify.com/album/78GIi7zGQZagdRRG8a9xG0) | 5:30 | 2021-12-17 |  |
+| [Bugs \- Extended](https://open.spotify.com/track/4uvrlMOYncLAa1C4NEHvqu) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Brooke Dougherty](https://open.spotify.com/artist/6alTZVAzJlcTemFugbEjP2) | [Bugs \(Extended\)](https://open.spotify.com/album/78GIi7zGQZagdRRG8a9xG0) | 5:30 | 2021-12-17 | 2022-11-08 |
 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 | 2021-12-17 | 2022-07-28 |
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2022-07-08 | 2022-09-03 |
 | [Cafo](https://open.spotify.com/track/6i8TDqnHN7GF9uU3LJCklq) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Animals as Leaders \- Encore Edition](https://open.spotify.com/album/5hVRBZCUCcU3UIhxNikyhf) | 6:41 | 2022-07-13 |  |
@@ -564,6 +564,7 @@
 | [Where the Pieces Lie](https://open.spotify.com/track/2CQEK2pBfdw3VRdyrIkh9S) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Where the Pieces Lie](https://open.spotify.com/album/08VNewqwl2RS99o4SVy2PX) | 3:59 | 2021-12-17 | 2022-07-01 |
 | [WHISPERS](https://open.spotify.com/track/1TLXsoGr3IbYKKGIpPwWjY) | [City of Souls](https://open.spotify.com/artist/6DStZfBhFNFfMKsWcyYTEt) | [SYNÆSTHESIA](https://open.spotify.com/album/6DAOHWhROvKnNsNtokAWj1) | 3:47 | 2021-12-17 | 2022-06-20 |
 | [White Nile](https://open.spotify.com/track/52cwidOKr1iSZU20Jqx4wB) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [White Nile](https://open.spotify.com/album/0GAeqCTzESd8aqYJ20NQ3R) | 3:49 | 2021-12-17 | 2022-11-05 |
+| [White Nile](https://open.spotify.com/track/6YnTThmosnud2DLTbXikPF) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [Angel Or Alien](https://open.spotify.com/album/0CGsQ5hgvU2wPrmcz6h7YZ) | 3:49 | 2022-10-28 |  |
 | [White Water](https://open.spotify.com/track/5NmreSAnQcInIfyxspnoFX) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [White Water](https://open.spotify.com/album/4cOJWEpRMY7x35u3imB92y) | 3:34 | 2022-04-22 |  |
 | [Why Do I Care](https://open.spotify.com/track/0jjAghbDie2a2cETSDl1ky) | [Torrential Rain](https://open.spotify.com/artist/76QqWxJTkOJLTe99MkSEom) | [Why Do I Care](https://open.spotify.com/album/6Ukl77GQ4tlcOS2Na2lQ6q) | 5:00 | 2021-12-31 |  |
 | [Within the Sphere](https://open.spotify.com/track/1f4BjsMcz7zR7HHtDXlNEC) | [Paralydium](https://open.spotify.com/artist/65X6T9OJ2gXGpkc1DgrYgR) | [Within the Sphere](https://open.spotify.com/album/7FICWjTaVxI1T1sy4ae37L) | 5:15 | 2021-12-17 | 2022-07-11 |

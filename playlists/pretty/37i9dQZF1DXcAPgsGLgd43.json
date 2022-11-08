@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2038,
+  "num_followers": 2048,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDdiMzM0M2FlZDlkNTgyYWFlOTNlYmQwYWY4NGU1Yzhh",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDdmMDUxZTVlYWJjZTQzMDAyMDc1ZmM5MWY4ZTNjZjM1",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -271,26 +271,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Mamacita",
-        "url": "https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc"
-      },
-      "artists": [
-        {
-          "name": "Rene Rodrigezz",
-          "url": "https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO"
-        },
-        {
-          "name": "Yellow Is The New White",
-          "url": "https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Magalenha (feat. Sergio Mendes)",
         "url": "https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 209551,
       "name": "Magalenha (feat. Sergio Mendes)",
       "url": "https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc"
+      },
+      "artists": [
+        {
+          "name": "Rene Rodrigezz",
+          "url": "https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO"
+        },
+        {
+          "name": "Yellow Is The New White",
+          "url": "https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -403,6 +403,26 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Bailar Riddim",
+        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Bailar Riddim",
+      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Si Tu Sabe",
         "url": "https://open.spotify.com/album/03V2IM59Iri9BtuHB1Vlll"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 274833,
       "name": "Dirty Spanish",
       "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Bailar Riddim",
-        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Bailar Riddim",
-      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
     },
     {
       "added_at": "2021-10-08 15:53:55",

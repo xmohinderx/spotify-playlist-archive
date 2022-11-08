@@ -2,7 +2,7 @@
 
 ### [Chill House 2022](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
 
-> House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
+> Chill tracks to vibe or dance to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
 314 songs - 17 hr 55 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 

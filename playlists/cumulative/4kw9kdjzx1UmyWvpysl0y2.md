@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-315 songs - 18 hr 24 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+316 songs - 18 hr 29 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Forget About Me](https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Forget About Me](https://open.spotify.com/album/4H71ai7RsurejlGLvjdzoz) | 2:35 | 2022-03-29 | 2022-06-10 |
 | [FULL ASSAULT](https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7), [Psylla](https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8), [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [FULL ASSAULT / ALL THAT U WANT](https://open.spotify.com/album/377f6e2rHXRuE09ksYvWhS) | 2:44 | 2022-09-29 |  |
 | [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-07 | 2022-06-17 |
+| [GALACTICAL](https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [GALACTICAL](https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa) | 4:35 | 2022-11-07 |  |
 | [Garden Of The Gods](https://open.spotify.com/track/4AZEvIDQpzyib7BX4Cd91U) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Discognition](https://open.spotify.com/artist/1VTyOD5RJcYUGn9uPFV5my), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Garden Of The Gods](https://open.spotify.com/album/7KYoqdpnKj02uvmm9iMkQq) | 4:21 | 2022-05-06 | 2022-07-16 |
 | [Garden's Edge](https://open.spotify.com/track/1uuTI3HJbxIB08RwfIzbir) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V) | [Garden's Edge](https://open.spotify.com/album/495RJ4HV475juBo05YQXBh) | 3:06 | 2022-11-02 |  |
 | [Gaze](https://open.spotify.com/track/0wDxpyi7AzoZaY6dt0FnXg) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Gaze](https://open.spotify.com/album/0RMBhqzBhd1tQBb6NkTwZI) | 4:34 | 2022-06-08 | 2022-08-20 |
@@ -316,7 +317,7 @@
 | [Without You](https://open.spotify.com/track/5KuMYx5VncjdS6CSuurWlk) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [Without You](https://open.spotify.com/album/1PS4HKWlVVopci1ElsHCoc) | 2:30 | 2022-08-23 | 2022-11-01 |
 | [Won't Make A Sound](https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Won't Make A Sound](https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg) | 4:36 | 2022-05-17 | 2022-07-28 |
 | [Won't Stop](https://open.spotify.com/track/6oS0xGbxzpkHh3f7ODXImB) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Won't Stop](https://open.spotify.com/album/3NXkqxY34ICPVZdMKl0CPO) | 4:38 | 2022-04-19 | 2022-06-30 |
-| [Words Left Unsaid](https://open.spotify.com/track/56cuxHVeq2EtTpaRBZgrnX) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Words Left Unsaid](https://open.spotify.com/album/7nxvvQ5nrkO4aa5rlgCzyG) | 4:08 | 2022-09-07 |  |
+| [Words Left Unsaid](https://open.spotify.com/track/56cuxHVeq2EtTpaRBZgrnX) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Words Left Unsaid](https://open.spotify.com/album/7nxvvQ5nrkO4aa5rlgCzyG) | 4:08 | 2022-09-07 | 2022-11-08 |
 | [WYGD](https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [WYGD](https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs) | 2:28 | 2022-03-01 | 2022-05-13 |
 | [Yesterday](https://open.spotify.com/track/6Wz9kNEppcp9U6jHptH6sQ) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Yesterday](https://open.spotify.com/album/0MU0ovgIP5zFj9CJLbkTaM) | 4:33 | 2022-09-02 | 2022-11-05 |
 | [You Fill My Soul](https://open.spotify.com/track/0IOG53eZR3vo0HtmfKkyG5) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [You Fill My Soul](https://open.spotify.com/album/29hikAxjTpTa0hO5wAi1vL) | 4:18 | 2022-08-05 | 2022-10-19 |

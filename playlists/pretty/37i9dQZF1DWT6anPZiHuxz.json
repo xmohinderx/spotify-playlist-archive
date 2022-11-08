@@ -1,12 +1,12 @@
 {
   "description": "Pick up the pace to energetic remixes.",
-  "num_followers": 444187,
+  "num_followers": 444368,
   "original_name": "Running x Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0ODY2MywwMDAwMDAwMDA4NjMzZDM2ZjY4NzJmYjg5NjU3NGZjZjY0ZDczMmEz",
+  "snapshot_id": "MTY2NTA0ODY2MywwMDAwMDAwMDE1MDIwZWM5YWNjYzcwODY5OTg2YTAyOWVmYWE0NzZk",
   "tracks": [
     {
       "added_at": "2022-08-12 10:54:01",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
     },
     {
-      "added_at": "2022-11-07 01:08:26",
+      "added_at": "2022-11-08 01:08:19",
       "album": {
         "name": "Sunroof (Loud Luxury Remix)",
         "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
     },
     {
-      "added_at": "2022-11-07 01:08:26",
+      "added_at": "2022-11-08 01:08:19",
       "album": {
         "name": "Ferrari (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
     },
     {
-      "added_at": "2022-11-07 01:08:26",
+      "added_at": "2022-11-08 01:08:19",
       "album": {
         "name": "I'm Good (Blue) [Remixes]",
         "url": "https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl"
     },
     {
-      "added_at": "2022-11-07 01:08:26",
+      "added_at": "2022-11-08 01:08:19",
       "album": {
         "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
         "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
@@ -587,34 +587,6 @@
     {
       "added_at": "2022-08-12 10:54:01",
       "album": {
-        "name": "Takeaway (feat. Lennon Stella) [Remixes]",
-        "url": "https://open.spotify.com/album/27GXIwtv7WOQIqpUdrPA3g"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        },
-        {
-          "name": "Andrew Rayel",
-          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Takeaway (feat. Lennon Stella) - Andrew Rayel Remix",
-      "url": "https://open.spotify.com/track/16QhpULFOW9fE2yvXsJV6A"
-    },
-    {
-      "added_at": "2022-08-12 10:54:01",
-      "album": {
         "name": "New (Ryan Riback Remix)",
         "url": "https://open.spotify.com/album/7HjLbfxU3GXwWEanY6pXGj"
       },
@@ -671,6 +643,34 @@
       "duration_ms": 217804,
       "name": "Thursday - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/7r4nPsLToVIPdsiEeZKF6Y"
+    },
+    {
+      "added_at": "2022-08-12 10:54:01",
+      "album": {
+        "name": "Takeaway (feat. Lennon Stella) [Remixes]",
+        "url": "https://open.spotify.com/album/27GXIwtv7WOQIqpUdrPA3g"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        },
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Takeaway (feat. Lennon Stella) - Andrew Rayel Remix",
+      "url": "https://open.spotify.com/track/16QhpULFOW9fE2yvXsJV6A"
     },
     {
       "added_at": "2022-08-12 10:54:01",
@@ -883,6 +883,26 @@
     {
       "added_at": "2022-08-12 10:54:01",
       "album": {
+        "name": "Chained To The Rhythm (Oliver Heldens Remix)",
+        "url": "https://open.spotify.com/album/4XpOKbdbS8MtpN8z2c0dtW"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 276968,
+      "name": "Chained To The Rhythm - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/1j5jfLirlWsytWPm7rmfjk"
+    },
+    {
+      "added_at": "2022-08-12 10:54:01",
+      "album": {
         "name": "that way (Jonasu Remix)",
         "url": "https://open.spotify.com/album/14OfY1xDQxV8Ax31LpVSHW"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 197000,
       "name": "Finest Hour (feat. Abir) - Madison Mars Remix",
       "url": "https://open.spotify.com/track/4NlO8s4WHOt7iHUcB1Ip8L"
-    },
-    {
-      "added_at": "2022-08-12 10:54:01",
-      "album": {
-        "name": "Chained To The Rhythm (Oliver Heldens Remix)",
-        "url": "https://open.spotify.com/album/4XpOKbdbS8MtpN8z2c0dtW"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 276968,
-      "name": "Chained To The Rhythm - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/1j5jfLirlWsytWPm7rmfjk"
     },
     {
       "added_at": "2022-08-12 10:54:01",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-08-12 10:54:01",
       "album": {
-        "name": "Colors (Wideboys Remix)",
-        "url": "https://open.spotify.com/album/797XsOrdx7XoeLd3q4AHGB"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Colors - Wideboys Remix",
-      "url": "https://open.spotify.com/track/7eD8b7RaZS97PXlQQCVm2R"
-    },
-    {
-      "added_at": "2022-08-12 10:54:01",
-      "album": {
         "name": "Harleys In Hawaii (KANDY Remix)",
         "url": "https://open.spotify.com/album/2ptDoWK5hL9gzZ3SXLSVmX"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 165009,
       "name": "Harleys In Hawaii - KANDY Remix",
       "url": "https://open.spotify.com/track/5EECgBC0NjIaUd8ke9YYTo"
+    },
+    {
+      "added_at": "2022-08-12 10:54:01",
+      "album": {
+        "name": "Colors (Wideboys Remix)",
+        "url": "https://open.spotify.com/album/797XsOrdx7XoeLd3q4AHGB"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Colors - Wideboys Remix",
+      "url": "https://open.spotify.com/track/7eD8b7RaZS97PXlQQCVm2R"
     },
     {
       "added_at": "2022-08-12 10:54:01",
@@ -1111,30 +1111,22 @@
     {
       "added_at": "2022-08-12 10:54:01",
       "album": {
-        "name": "Complicated (feat. Kiiara) [The Remixes part 2]",
-        "url": "https://open.spotify.com/album/3qZPfFEPFDfZUsS8NCyavr"
+        "name": "Poker Face (Remixes Part 1)",
+        "url": "https://open.spotify.com/album/3bzz0Nm5VsYRtz8hzebxAH"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Kiiara",
-          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Gu\u00e9na LG",
+          "url": "https://open.spotify.com/artist/0gMrD8n8eFICZIhI7OO46C"
         }
       ],
-      "duration_ms": 289528,
-      "name": "Complicated (feat. Kiiara) - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/30jTflhN1ExdH9RCBTVlcl"
+      "duration_ms": 242400,
+      "name": "Poker Face - LLG vs GLG Radio Mix",
+      "url": "https://open.spotify.com/track/2eTXVFThonrp3Cet0n2rHf"
     }
   ],
   "unique_name": "Running x Remix",

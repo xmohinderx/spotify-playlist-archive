@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 
 > Editor's pick: The best of Gengetone songs of 2021\. Cover: Mbuzi Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,371 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 51 | [Peng Wa Mafilter](https://open.spotify.com/track/6BNI2fhdrzNRCQ2d6m8KaG) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q) | [Peng Wa Mafilter](https://open.spotify.com/album/2KjRmQZ49wSdv5IiyIT28v) | 3:23 |
 | 52 | [Alaa!](https://open.spotify.com/track/65acrl5ef1CIPPfFpCJsyJ) | [Mbokotho](https://open.spotify.com/artist/3jo5YHwLAPdVo58JXUyCLS), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp) | [Alaa!](https://open.spotify.com/album/2nPkcAVknYEGfIQ4RR7M33) | 3:10 |
 | 53 | [Sambusa](https://open.spotify.com/track/4ME1bOfFbGncJfkHQJEDwf) | [Addi Chokoch](https://open.spotify.com/artist/1dAM5bKDDnFOOyyWtYwyaK), [EXRAY](https://open.spotify.com/artist/6RICeB1bwLU3CcDaJhkWc1), [Dmore](https://open.spotify.com/artist/01v6UAGxwidjKJkYwX5zcr), [Maddox](https://open.spotify.com/artist/2rQQE1RXSQKyRnnyN1gxnk), [NELLY THE GOON](https://open.spotify.com/artist/16xZVVb7kBrSkFfVX0oAdM) | [Sambusa](https://open.spotify.com/album/60zMsJRPnhJeKayXAlM9EX) | 3:25 |
-| 54 | [Full Degree](https://open.spotify.com/track/1iQoxpuvklE3FyjmekcfoW) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Full Degree](https://open.spotify.com/album/1zmAjeOdjupcf21DlFjzHc) | 3:19 |
+| 54 | [Full Degree](https://open.spotify.com/track/3yuGWSUQkWJCgzUqSLAltI) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Full Degree](https://open.spotify.com/album/0ASbGFcUIaftkFoSk9GvRk) | 3:19 |
 | 55 | [Wale Mang'aa](https://open.spotify.com/track/1EyRfp2eRP4Fn0CctdwvVo) | [VDJ Jones](https://open.spotify.com/artist/5CoXG9KZC7qK1LsZ4FYtAm), [Juacali](https://open.spotify.com/artist/5EcQLJLOc9AiB2fc6ljaus), [Swat Ethic](https://open.spotify.com/artist/7nyReiRjPgSIgcfZQDqxSa), [Odi Wa Murang'a](https://open.spotify.com/artist/4LmwDeDzv98ZgzZ4Kbz3UH) | [Wale Mang'aa](https://open.spotify.com/album/696XnoG3bPk3ahpGAX4tk7) | 3:16 |
 | 56 | [Nyandus](https://open.spotify.com/track/2S3LQrfx7YC1QTzv5kiOxg) | [Sailors 254](https://open.spotify.com/artist/0tMrNU3RSWhGj80Nq1fO8a), [KrgTheDon](https://open.spotify.com/artist/2KakDj0AjuWsLgvJKfOyGy), [Dj Lyta](https://open.spotify.com/artist/06fTlFfC1hdmCCm8Koj6Tk) | [Pekejeng](https://open.spotify.com/album/2W7k1iWA24xEi5JdFs0u3R) | 3:31 |
 | 57 | [Rivas](https://open.spotify.com/track/1DIXojor14BaRen2pak0br) | [TheLuchi](https://open.spotify.com/artist/7As9lFEIoGFHpYL40hVHtC) | [Rivas](https://open.spotify.com/album/6dCdiyFhNjUG3fKwq4KTOc) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 99 | [Bad Manners](https://open.spotify.com/track/4yLLLdUwGvmK5XipEGu3Tw) | [Gwaash](https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7) | [Bad Manners](https://open.spotify.com/album/25TTGozgEjwVcY4TG6YgUv) | 4:39 |
 | 100 | [HIVI NA HIVO](https://open.spotify.com/track/0lbf1IBDUh0ZRfSefOpFZT) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [HIVI NA HIVO](https://open.spotify.com/album/2qkkyBXKPpsFw4Lkb0qafh) | 3:07 |
 
-Snapshot ID: `MTY2NTE0MDQzMSwwMDAwMDAwMGM5ODFiNTg5ZDMwMjA0MWRhOGI4ZDdmNTlkNzc0ZTJh`
+Snapshot ID: `MTY2NTE0MDQzMSwwMDAwMDAwMGI5MmUxZjM5ZjA1MzFmZjdhOTUwNDg1ODU0YjgxYjRi`

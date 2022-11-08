@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-236 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+237 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Mam Pe'ela Su'ure](https://open.spotify.com/track/6UONPrPGoFlTMm74cjBQkx) | [Florence Adooni](https://open.spotify.com/artist/4804FMh4N7pndfmQsS904u) | [Mam Pe'ela Su'ure](https://open.spotify.com/album/4aD1N49PqHfqVd7gCK7008) | 3:49 | 2022-09-21 | 2022-10-21 |
 | [MBGATE \- Kero Kero Bonito Remix](https://open.spotify.com/track/3h2e8PoBKVQKjswwQnCgsY) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb), [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [MBGATE \(Kero Kero Bonito Remix\)](https://open.spotify.com/album/20s2d4wXpZnFmkp4WdzSXu) | 2:46 | 2022-08-10 | 2022-09-29 |
 | [Midnight Legend](https://open.spotify.com/track/7wnRHeYAAd0KqkFe3ZQHcI) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Midnight Legend](https://open.spotify.com/album/2MJDkHvOuzpQg1q3AMeYC6) | 3:24 | 2022-09-14 | 2022-10-07 |
+| [Millennium People \- moa moa Remix](https://open.spotify.com/track/5SaTna1a6NksKEhI3p33Pw) | [DC Gore](https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6), [moa moa](https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc) | [Millennium People \(moa moa Remix\)](https://open.spotify.com/album/7GKR7Qb0JT5dv8QUCJZyGi) | 4:10 | 2022-11-07 |  |
 | [Miracles](https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Miracles](https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW) | 3:44 | 2022-09-08 | 2022-10-21 |
 | [N.Y.C.A.W\. \- "the lonely summer" mix by JDBRADFIELD](https://open.spotify.com/track/3rZI3Y7DQZwxYvdf7NSeHN) | [Gwenno](https://open.spotify.com/artist/44mRrrRjaV8iu1VLIKuwty), [James Dean Bradfield](https://open.spotify.com/artist/1arQYOWtxuQW27WR299gT3) | [N.Y.C.A.W\. \(the lonely summer mix by JDBRADFIELD\)](https://open.spotify.com/album/5khMcLhY8wg5Jozv5fXfC5) | 3:58 | 2022-09-28 | 2022-10-27 |
 | [Nattens Sista Strimma Ljus](https://open.spotify.com/track/2WY8hy60bH6y1cxTMurysV) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Nattens Sista Strimma Ljus](https://open.spotify.com/album/0j3nf6D8d8ZvhgibltRWL5) | 4:28 | 2022-07-06 | 2022-08-18 |

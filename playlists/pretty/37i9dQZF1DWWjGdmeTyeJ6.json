@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Saint Harison",
-  "num_followers": 1139273,
+  "num_followers": 1139151,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5MDcwMCwwMDAwMDAwMDcwMDIyYTVkNGQ0Yzc0ZTdkZDEyMWIxOThlNWIwZDRi",
+  "snapshot_id": "MTY2NzM5MDcwMCwwMDAwMDAwMGM2MWEzMjE1ODcxNTE2MDcwZmVjN2ZlOWUyZmJjYmM2",
   "tracks": [
     {
       "added_at": "2022-11-02 12:05:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
+        "name": "violet",
+        "url": "https://open.spotify.com/album/1gyjRT8c0SAiH58YtFqbVc"
+      },
+      "artists": [
+        {
+          "name": "Zach Templar",
+          "url": "https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "violet",
+      "url": "https://open.spotify.com/track/3LNa80ozLYLxSyEW1G2vsw"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
         "name": "No Blood, No Needles, Nothing",
         "url": "https://open.spotify.com/album/3dlIQmR7BQIk9XSF3LFJmR"
       },
@@ -159,18 +175,34 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "violet",
-        "url": "https://open.spotify.com/album/1gyjRT8c0SAiH58YtFqbVc"
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
       },
       "artists": [
         {
-          "name": "Zach Templar",
-          "url": "https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj"
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
         }
       ],
-      "duration_ms": 187200,
-      "name": "violet",
-      "url": "https://open.spotify.com/track/3LNa80ozLYLxSyEW1G2vsw"
+      "duration_ms": 196056,
+      "name": "best",
+      "url": "https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG"
+      },
+      "artists": [
+        {
+          "name": "Loco & Jam",
+          "url": "https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -207,22 +239,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG"
-      },
-      "artists": [
-        {
-          "name": "Loco & Jam",
-          "url": "https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/3eQ0X8bC4GexeleVPfdsXM"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 282401,
       "name": "Hush",
       "url": "https://open.spotify.com/track/6QvNcedB1Y7nYJXZ3txTIL"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 196056,
-      "name": "best",
-      "url": "https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "lexapro",
-        "url": "https://open.spotify.com/album/0ftQ4DSqbNkIUrKM7uc0Kh"
-      },
-      "artists": [
-        {
-          "name": "Jack Price",
-          "url": "https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh"
-        }
-      ],
-      "duration_ms": 163138,
-      "name": "lexapro",
-      "url": "https://open.spotify.com/track/61KFAZbfP6fnb8lEZU20yG"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/3GZ4zjIs4s20QTTfv3VkTM"
       },
@@ -303,18 +287,18 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Tracer",
-        "url": "https://open.spotify.com/album/539CALjKRdYU8sKcwFogqL"
+        "name": "lexapro",
+        "url": "https://open.spotify.com/album/0ftQ4DSqbNkIUrKM7uc0Kh"
       },
       "artists": [
         {
-          "name": "Jeen",
-          "url": "https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz"
+          "name": "Jack Price",
+          "url": "https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh"
         }
       ],
-      "duration_ms": 190906,
-      "name": "Chemical Emotion",
-      "url": "https://open.spotify.com/track/1CKcGabeLVfIuAWNBbhGDL"
+      "duration_ms": 163138,
+      "name": "lexapro",
+      "url": "https://open.spotify.com/track/61KFAZbfP6fnb8lEZU20yG"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -343,6 +327,22 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
+        "name": "Tracer",
+        "url": "https://open.spotify.com/album/539CALjKRdYU8sKcwFogqL"
+      },
+      "artists": [
+        {
+          "name": "Jeen",
+          "url": "https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "Chemical Emotion",
+      "url": "https://open.spotify.com/track/1CKcGabeLVfIuAWNBbhGDL"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
         "name": "2 Cool 2 Be Somebody",
         "url": "https://open.spotify.com/album/2DnO2F70y4jUWMHC65awMe"
       },
@@ -355,6 +355,22 @@
       "duration_ms": 187183,
       "name": "2 Cool 2 Be Somebody",
       "url": "https://open.spotify.com/track/1KLEHZfhkCNpdhSXMGAGXW"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Afterworld",
+        "url": "https://open.spotify.com/album/1L0x1iCP1Uk2pMcKHtwW7Y"
+      },
+      "artists": [
+        {
+          "name": "Phantom Youth",
+          "url": "https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd"
+        }
+      ],
+      "duration_ms": 217914,
+      "name": "Afterworld",
+      "url": "https://open.spotify.com/track/4ILnzWMNQzZVN0WbJuM6Bg"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -375,22 +391,6 @@
       "duration_ms": 186613,
       "name": "Cabin Fever",
       "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "Afterworld",
-        "url": "https://open.spotify.com/album/1L0x1iCP1Uk2pMcKHtwW7Y"
-      },
-      "artists": [
-        {
-          "name": "Phantom Youth",
-          "url": "https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd"
-        }
-      ],
-      "duration_ms": 217914,
-      "name": "Afterworld",
-      "url": "https://open.spotify.com/track/4ILnzWMNQzZVN0WbJuM6Bg"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
+        "name": "Bicycle",
+        "url": "https://open.spotify.com/album/7d7vmt2uwD7DRaA9p9U7dC"
+      },
+      "artists": [
+        {
+          "name": "pijama land",
+          "url": "https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY"
+        }
+      ],
+      "duration_ms": 172040,
+      "name": "Bicycle",
+      "url": "https://open.spotify.com/track/3e5DYz9hSXkUyQyxT8eo8R"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/2xZ3xXZrw9fdBiIYorJXVw"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 220000,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1PloZcN6tfeJFFUanqbrgh"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "Bicycle",
-        "url": "https://open.spotify.com/album/7d7vmt2uwD7DRaA9p9U7dC"
-      },
-      "artists": [
-        {
-          "name": "pijama land",
-          "url": "https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY"
-        }
-      ],
-      "duration_ms": 172040,
-      "name": "Bicycle",
-      "url": "https://open.spotify.com/track/3e5DYz9hSXkUyQyxT8eo8R"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -647,38 +647,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "happy less",
-        "url": "https://open.spotify.com/album/2hoICeafKOzNcH65BoTbxk"
-      },
-      "artists": [
-        {
-          "name": "Hundaes",
-          "url": "https://open.spotify.com/artist/2O4wIpuUgy3A2JvIYdDuGt"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "happy less",
-      "url": "https://open.spotify.com/track/50HOSiUaxkH5yZPqTkBuqE"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "Will it be worth it",
-        "url": "https://open.spotify.com/album/7Le37oYpZm1tJkh5HFd92I"
-      },
-      "artists": [
-        {
-          "name": "Heriti\u00e9r",
-          "url": "https://open.spotify.com/artist/6ruC0tY4s55IWpTmCO9COD"
-        }
-      ],
-      "duration_ms": 148783,
-      "name": "Will it be worth it",
-      "url": "https://open.spotify.com/track/2vOpxGjvmdp3CzjfKOBY8J"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Henrietta\u2019s",
         "url": "https://open.spotify.com/album/3fDVyQ1UFd15mD10T4jDGy"
       },
@@ -691,6 +659,22 @@
       "duration_ms": 133714,
       "name": "Henrietta\u2019s",
       "url": "https://open.spotify.com/track/6GRsmpkN66rvxNSKsHYi7E"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "happy less",
+        "url": "https://open.spotify.com/album/2hoICeafKOzNcH65BoTbxk"
+      },
+      "artists": [
+        {
+          "name": "Hundaes",
+          "url": "https://open.spotify.com/artist/2O4wIpuUgy3A2JvIYdDuGt"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "happy less",
+      "url": "https://open.spotify.com/track/50HOSiUaxkH5yZPqTkBuqE"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -711,18 +695,18 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Take Me Under",
-        "url": "https://open.spotify.com/album/0Gpt7EN8k5NY7qwk0fXHbn"
+        "name": "Will it be worth it",
+        "url": "https://open.spotify.com/album/7Le37oYpZm1tJkh5HFd92I"
       },
       "artists": [
         {
-          "name": "Volaris",
-          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
+          "name": "Heriti\u00e9r",
+          "url": "https://open.spotify.com/artist/6ruC0tY4s55IWpTmCO9COD"
         }
       ],
-      "duration_ms": 178165,
-      "name": "Take Me Under",
-      "url": "https://open.spotify.com/track/4DmtkAs0rigHeNhVCR2OGr"
+      "duration_ms": 148783,
+      "name": "Will it be worth it",
+      "url": "https://open.spotify.com/track/2vOpxGjvmdp3CzjfKOBY8J"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -739,6 +723,22 @@
       "duration_ms": 188702,
       "name": "Drippin",
       "url": "https://open.spotify.com/track/1nexfOGlLG3ZBtiqgmldvA"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Take Me Under",
+        "url": "https://open.spotify.com/album/0Gpt7EN8k5NY7qwk0fXHbn"
+      },
+      "artists": [
+        {
+          "name": "Volaris",
+          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
+        }
+      ],
+      "duration_ms": 178165,
+      "name": "Take Me Under",
+      "url": "https://open.spotify.com/track/4DmtkAs0rigHeNhVCR2OGr"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -775,54 +775,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Zoo Shaker",
-        "url": "https://open.spotify.com/album/5qXVacMX4D6FbrWNF8J88V"
-      },
-      "artists": [
-        {
-          "name": "96 Vibe",
-          "url": "https://open.spotify.com/artist/6Pp3ySHcICUvfC37zrhDwI"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Zoo Shaker",
-      "url": "https://open.spotify.com/track/5Nf13oxQauWPrNPYMcMoDm"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "Good At Gettin' Gone",
-        "url": "https://open.spotify.com/album/0JhuseIxdL8GQHwSVBXqCc"
-      },
-      "artists": [
-        {
-          "name": "Parker Graye",
-          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
-        }
-      ],
-      "duration_ms": 231402,
-      "name": "Good At Gettin' Gone",
-      "url": "https://open.spotify.com/track/2Gp3B5lFGMguxeoKNYbojG"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "Freaktopia",
-        "url": "https://open.spotify.com/album/3Tp2nlDubpyfueG8VcJJK1"
-      },
-      "artists": [
-        {
-          "name": "Little Fritter",
-          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
-        }
-      ],
-      "duration_ms": 305794,
-      "name": "Freaktopia",
-      "url": "https://open.spotify.com/track/7Dv5UuERhdpYIgQ8RUx1Ty"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "BEETGOZON",
         "url": "https://open.spotify.com/album/6jpw55D1UlAS2WODETLTg9"
       },
@@ -851,6 +803,38 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
+        "name": "Good At Gettin' Gone",
+        "url": "https://open.spotify.com/album/0JhuseIxdL8GQHwSVBXqCc"
+      },
+      "artists": [
+        {
+          "name": "Parker Graye",
+          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
+        }
+      ],
+      "duration_ms": 231402,
+      "name": "Good At Gettin' Gone",
+      "url": "https://open.spotify.com/track/2Gp3B5lFGMguxeoKNYbojG"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Zoo Shaker",
+        "url": "https://open.spotify.com/album/5qXVacMX4D6FbrWNF8J88V"
+      },
+      "artists": [
+        {
+          "name": "96 Vibe",
+          "url": "https://open.spotify.com/artist/6Pp3ySHcICUvfC37zrhDwI"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Zoo Shaker",
+      "url": "https://open.spotify.com/track/5Nf13oxQauWPrNPYMcMoDm"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
         "name": "Dusty",
         "url": "https://open.spotify.com/album/3mz5L0uezes0dqCRSAu8zu"
       },
@@ -863,22 +847,6 @@
       "duration_ms": 157512,
       "name": "Dusty",
       "url": "https://open.spotify.com/track/3kavspqVUQ3BzioDJvJW6T"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "realign",
-        "url": "https://open.spotify.com/album/3IFkgTx4UyMIKBH6tZFven"
-      },
-      "artists": [
-        {
-          "name": "Kayla Grace",
-          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "realign",
-      "url": "https://open.spotify.com/track/5mVqxsl2BeRV0TBRKcWL6v"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -903,6 +871,22 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
+        "name": "realign",
+        "url": "https://open.spotify.com/album/3IFkgTx4UyMIKBH6tZFven"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "realign",
+      "url": "https://open.spotify.com/track/5mVqxsl2BeRV0TBRKcWL6v"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/2Xydp4g98KSJPiS7lmB0WV"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 193758,
       "name": "Again",
       "url": "https://open.spotify.com/track/7ATrAYmFMpfADYCYoDu221"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Freaktopia",
+        "url": "https://open.spotify.com/album/3Tp2nlDubpyfueG8VcJJK1"
+      },
+      "artists": [
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        }
+      ],
+      "duration_ms": 305794,
+      "name": "Freaktopia",
+      "url": "https://open.spotify.com/track/7Dv5UuERhdpYIgQ8RUx1Ty"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "I Love Yo",
-        "url": "https://open.spotify.com/album/4mZGlPbfTXw8G2OQiOTmfJ"
-      },
-      "artists": [
-        {
-          "name": "Byron the Aquarius",
-          "url": "https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ"
-        }
-      ],
-      "duration_ms": 339700,
-      "name": "I Love Yo",
-      "url": "https://open.spotify.com/track/4XLC6alPJZnwfOHKeac7yr"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Love Is A Road",
         "url": "https://open.spotify.com/album/6OE9qKLG2FtkVsbhh9Rfr4"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 152500,
       "name": "Love Is A Road",
       "url": "https://open.spotify.com/track/0FwVd5oQKYw0KEnceGqIcI"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "I Love Yo",
+        "url": "https://open.spotify.com/album/4mZGlPbfTXw8G2OQiOTmfJ"
+      },
+      "artists": [
+        {
+          "name": "Byron the Aquarius",
+          "url": "https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ"
+        }
+      ],
+      "duration_ms": 339700,
+      "name": "I Love Yo",
+      "url": "https://open.spotify.com/track/4XLC6alPJZnwfOHKeac7yr"
     },
     {
       "added_at": "2022-11-02 12:05:00",

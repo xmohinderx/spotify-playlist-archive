@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: The Young Escape",
-  "num_followers": 193064,
+  "num_followers": 193066,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDM1YzVlYzIzM2Q3MzZkMjEzNjM5MDE0YjkwZjE5MTQ2",
+  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDNiMDAyZGU1YzQ3YTkwNmZiOGUyYTc2YTA1MTZmMzBl",
   "tracks": [
     {
       "added_at": "2021-10-31 01:51:05",
@@ -367,30 +367,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "God Only Knows (Timbaland Remix)",
-        "url": "https://open.spotify.com/album/1EVzer4Sth6dDaSXxZRuR0"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 215020,
-      "name": "God Only Knows (Timbaland Remix)",
-      "url": "https://open.spotify.com/track/0XMQuzgUJu7AjruBHzTg4Z"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Devil Is A Liar",
         "url": "https://open.spotify.com/album/5kT3QNv411H3VlALarhLnC"
       },
@@ -423,26 +399,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Never Land II",
-        "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
-      },
-      "artists": [
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 193809,
-      "name": "Working On It",
-      "url": "https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y"
       },
@@ -463,6 +419,50 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "Never Land II",
+        "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 193809,
+      "name": "Working On It",
+      "url": "https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "God Only Knows (Timbaland Remix)",
+        "url": "https://open.spotify.com/album/1EVzer4Sth6dDaSXxZRuR0"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 215020,
+      "name": "God Only Knows (Timbaland Remix)",
+      "url": "https://open.spotify.com/track/0XMQuzgUJu7AjruBHzTg4Z"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "Bigger Story",
         "url": "https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 195506,
       "name": "Every Step of the Way",
       "url": "https://open.spotify.com/track/7mNt8zWAJypW0Oy3QpzFaj"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        }
+      ],
+      "duration_ms": 191517,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -499,22 +515,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "RICHLIN",
-        "url": "https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        }
-      ],
-      "duration_ms": 220013,
-      "name": "Royal Blood",
-      "url": "https://open.spotify.com/track/6UMtVYclu7bfEmGUJNQoqi"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Kingdom Come",
         "url": "https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
-      },
-      "artists": [
-        {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
-        }
-      ],
-      "duration_ms": 191517,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 185573,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "RICHLIN",
+        "url": "https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v"
+      },
+      "artists": [
+        {
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "Royal Blood",
+      "url": "https://open.spotify.com/track/6UMtVYclu7bfEmGUJNQoqi"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "OTHERSIDE",
-        "url": "https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 194517,
-      "name": "OTHERSIDE",
-      "url": "https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 182000,
       "name": "No Better Day",
       "url": "https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "OTHERSIDE",
+        "url": "https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 194517,
+      "name": "OTHERSIDE",
+      "url": "https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Jordan Feliz Collection",
-        "url": "https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 226886,
-      "name": "Faith - Radio Version",
-      "url": "https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "WILD LOVE",
         "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 167499,
       "name": "WILD LOVE",
       "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Jordan Feliz Collection",
+        "url": "https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 226886,
+      "name": "Faith - Radio Version",
+      "url": "https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "All Of My Best Friends (Acoustic)",
+        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Lord Send Revival - Acoustic",
+      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "When You Speak",
         "url": "https://open.spotify.com/album/4rHimJnaeT1UUWiSPq2kwy"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 191871,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0PxGlcbHynkl6kd7zceA4T"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "All Of My Best Friends (Acoustic)",
-        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Lord Send Revival - Acoustic",
-      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
     },
     {
       "added_at": "2021-10-31 01:51:05",

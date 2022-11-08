@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2SvaUOnqS5LqjhwNsyWEJZ">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 146 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 3 | [Novo Dia](https://open.spotify.com/track/5zhROXetl6dhshtjXUjo8C) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [The Congos](https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 6:13 |
 | 4 | [Jah Jah Me Leve](https://open.spotify.com/track/4ypqT6MRc3FmLWJXQ7XGNZ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 4:13 |
 | 5 | [Na Função](https://open.spotify.com/track/1Qc88QWBkD4Ot1nwSKhJNt) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Familia Ponto](https://open.spotify.com/album/6geLZHAnVnFUiYErgxf4Qv) | 3:00 |
-| 6 | [Hipócritas](https://open.spotify.com/track/0x12Va4JiO5Qjqcy3VCFn4) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 4:08 |
-| 7 | [Santa Kaya](https://open.spotify.com/track/05Ydmz1fD0Htr5DEGpvhD5) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 5:51 |
+| 6 | [Santa Kaya](https://open.spotify.com/track/05Ydmz1fD0Htr5DEGpvhD5) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 5:51 |
+| 7 | [Hipócritas](https://open.spotify.com/track/0x12Va4JiO5Qjqcy3VCFn4) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 4:08 |
 | 8 | [Ditadura da Televisão](https://open.spotify.com/track/3TXDNilo3IU4gCoIy2ER56) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 5:17 |
 | 9 | [Fio da Fé](https://open.spotify.com/track/0azZ6YyIM3cwmCMn0sgEmF) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:00 |
 | 10 | [Familia Ponto](https://open.spotify.com/track/47VbY3pygnNQ4Ed9vPTwAf) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Familia Ponto](https://open.spotify.com/album/6geLZHAnVnFUiYErgxf4Qv) | 3:34 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 42 | [Inesperado](https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ju em família](https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq) | [Inesperado](https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN) | 3:25 |
 | 43 | [Encontro Com Jah](https://open.spotify.com/track/2Y7sPLjrzRuhH9KZVN7TWP) | [Irmãos de Fé](https://open.spotify.com/artist/1aJjD4Hp0uNpbYujxCkeHu) | [Livremente](https://open.spotify.com/album/1oqVG1xM2CRF6YwwW23hXa) | 4:05 |
 
-Snapshot ID: `Mjc3OTYzODgsMDAwMDAwMDA2MWI5YWY4NjExYzY2MDFiODA5YjRjNGViMTQwYmJlMw==`
+Snapshot ID: `Mjc3OTc4MjgsMDAwMDAwMDA3MjBjOTE3MThkMWU1YTU2YTkyOTk0NDBhZWI3MDNjMQ==`

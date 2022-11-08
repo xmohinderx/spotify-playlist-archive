@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 364025,
+  "num_followers": 364090,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM2OTA5MSwwMDAwMDAwMGNjMzI5OTg3MWZmOWNiMjYwZTFiMzU5NTAyZmVhNzQz",
+  "snapshot_id": "MTY2MjM2OTA5MSwwMDAwMDAwMDdiM2E0MzQ5OTU4YTgyYmVhZjcwZTI0YzRjOTZmY2Q0",
   "tracks": [
     {
       "added_at": "2022-09-05 09:11:31",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
-        "name": "GLY",
-        "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 220623,
-      "name": "GLY",
-      "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
-    },
-    {
-      "added_at": "2022-09-05 09:11:31",
-      "album": {
         "name": "Under 1 House",
         "url": "https://open.spotify.com/album/1PkQpn0KN9pJhKfzJQejjv"
       },
@@ -879,22 +863,34 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5"
+        "name": "GLY",
+        "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "J Warner",
-          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         }
       ],
-      "duration_ms": 229743,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq"
+      "duration_ms": 220623,
+      "name": "GLY",
+      "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
+    },
+    {
+      "added_at": "2022-09-05 09:11:31",
+      "album": {
+        "name": "Don't You Like It?",
+        "url": "https://open.spotify.com/album/77EPq9lvOSVw7zKgqwv2QV"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 226043,
+      "name": "Don't You Like It?",
+      "url": "https://open.spotify.com/track/6u0TL1wqLwuPDAjZeB95R4"
     }
   ],
   "unique_name": "Serotonin",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest out now in Hip Hop...Cover: Cover: Ney and <a href="https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r?si=wb2mo\_zWR56u3HCKBGrfXw">Nadia Nakai</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,318 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,359 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Discover fresh new Pakistani indie tracks\. Cover \- SHERRY
 
-161 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/194Tgkv1OO1EGm3LAXJi6q)
+162 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/194Tgkv1OO1EGm3LAXJi6q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [DIFFERENT](https://open.spotify.com/track/3SSFL50rhG0JosTZnTMnmL) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw), [PDNY](https://open.spotify.com/artist/2nggEHrLwzTQfv5gliPZQd) | [DIFFERENT](https://open.spotify.com/album/0lCIGj9nFbafWKTEdVIF4T) | 2:40 | 2022-08-27 | 2022-09-24 |
 | [Dil da Haal](https://open.spotify.com/track/6YexjCTV8OIMA8rxbBahdg) | [Rohail Sheikh](https://open.spotify.com/artist/5CPE6ijTqHEwNrtKKiTgaU) | [Dil da Haal](https://open.spotify.com/album/4jA5N2bxwhhF1nobVDzudL) | 3:53 | 2022-08-27 | 2022-09-24 |
 | [Dil Sazgir](https://open.spotify.com/track/0UBDx9JoXsTU7YnZd69fGp) | [SAZGIR](https://open.spotify.com/artist/2oAG6MjavkOWhvC97uf212), [shareh akhter](https://open.spotify.com/artist/6ACzq12KdmE8a6vcdI2JLW) | [Dil Sazgir](https://open.spotify.com/album/7GUUHiRvdf9KARLrVNM4aO) | 3:00 | 2022-10-26 |  |
+| [dilrubaa](https://open.spotify.com/track/1PfOAYwjTSYCskgSGdRfQw) | [Wali Bakhat Warraich](https://open.spotify.com/artist/0CyRAEk8Qp6zicASWIKPLo) | [dilrubaa](https://open.spotify.com/album/7soQBh3lLNgnLkb3FPskkB) | 2:08 | 2022-11-07 |  |
 | [Dinner Dinner](https://open.spotify.com/track/5GIfRHyAXWiVCJCFL8lk4U) | [Shabi](https://open.spotify.com/artist/2qw1k9QmIsWQ46Fds3Hmuh) | [Dinner Dinner](https://open.spotify.com/album/0I6abavOQBfOWIKL54TuLk) | 2:38 | 2022-08-27 | 2022-09-24 |
 | [Disconnected](https://open.spotify.com/track/0mtdaiL96x828nHFwnWiuz) | [Ushbah](https://open.spotify.com/artist/655QV8PO7Uw4h4a80ILziZ), [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi) | [Disconnected](https://open.spotify.com/album/1zeWc4PUCRCzxnqXEUQQBx) | 2:35 | 2022-08-27 | 2022-09-24 |
 | [Distance](https://open.spotify.com/track/60KpyXxcYbfposaQh60ksh) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF), [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K) | [Distance](https://open.spotify.com/album/7qZZjK9Nu5kDyIiRpVyDpq) | 2:36 | 2022-08-27 | 2022-09-24 |

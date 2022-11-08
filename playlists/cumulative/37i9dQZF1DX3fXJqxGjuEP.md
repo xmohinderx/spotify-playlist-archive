@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-429 songs - 1 day 1 hr 48 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
+430 songs - 1 day 1 hr 51 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 | 2021-10-20 | 2022-07-13 |
 | [Bailando Lento](https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Bailando Lento](https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq) | 3:17 | 2021-10-20 | 2022-07-24 |
 | [Baixi Baixi](https://open.spotify.com/track/3Yrp2Uybt0C3Z4W9VANuQE) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA), [Aluna Project](https://open.spotify.com/artist/1TSrXgFaXo6Vd5lZle9XM8) | [Baixi Baixi](https://open.spotify.com/album/4HfSWAVnYIdxNvrwYrgBke) | 3:39 | 2021-10-20 | 2022-07-27 |
+| [Baixi Baixi](https://open.spotify.com/track/4mxNgL8s7GZdoTFHGYXdvE) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA), [Aluna Project](https://open.spotify.com/artist/1TSrXgFaXo6Vd5lZle9XM8) | [Ostriconi](https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd) | 3:39 | 2021-10-20 |  |
 | [Batida do Amor](https://open.spotify.com/track/5KFdGVgTD4wLrlUesiWiVc) | [Francisca La Braza](https://open.spotify.com/artist/1m6KQa90x6qi9RJAZco74B), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn) | [Francisca La Braza](https://open.spotify.com/album/6Xj8zgaUSBRrrDgmz4y4lS) | 3:54 | 2021-10-20 |  |
 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 | 2021-11-10 |  |
 | [Big Energy](https://open.spotify.com/track/2AjcrjatK9XbNMZdm42u0k) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Big Energy](https://open.spotify.com/album/3s0DBiTaAmLHY1rxJ0J0W2) | 3:03 | 2021-10-20 | 2022-04-18 |
@@ -223,7 +224,7 @@
 | [La Sombra](https://open.spotify.com/track/3monG9SQApxiOwivspTANk) | [Chesdana](https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY) | [La Sombra](https://open.spotify.com/album/1byXfg4uGQecfZKo9AjziF) | 3:46 | 2021-10-20 | 2022-07-29 |
 | [La Vida Da](https://open.spotify.com/track/3QUQGEjNmfdbyqIDUYoiY9) | [Solovino](https://open.spotify.com/artist/1tK101wDTXF3fmqGUAUYnA) | [La Vida Da](https://open.spotify.com/album/5DoL92zKeST2w19LqGjkFs) | 3:44 | 2021-10-20 | 2022-07-22 |
 | [La Yarará](https://open.spotify.com/track/4rpNuGWK8BQSzjQyN5mrP8) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [La Yarará](https://open.spotify.com/album/6evf1MP8swNffomGu9hw9o) | 3:20 | 2021-10-20 | 2022-04-16 |
-| [Laberinto](https://open.spotify.com/track/0dLGjsAIbZjyPWJmiSiSsN) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [David Palacio](https://open.spotify.com/artist/07O1E4p8TxhyvbMoVPgV5k) | [Piratas, Pero Románticos \(Con Ritmos Chidos\)](https://open.spotify.com/album/2RphpJJRwZgzHQHqiF1PGr) | 3:20 | 2022-09-30 |  |
+| [Laberinto](https://open.spotify.com/track/0dLGjsAIbZjyPWJmiSiSsN) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [David Palacio](https://open.spotify.com/artist/07O1E4p8TxhyvbMoVPgV5k) | [Piratas, Pero Románticos \(Con Ritmos Chidos\)](https://open.spotify.com/album/2RphpJJRwZgzHQHqiF1PGr) | 3:20 | 2022-09-30 | 2022-11-08 |
 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 | 2022-02-25 |  |
 | [Las 4:40](https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las 4:40](https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW) | 3:17 | 2022-09-03 |  |
 | [Le Soleil Descend](https://open.spotify.com/track/0mDNjIWcWqU3bgF8fiGnOW) | [Wesli](https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5), [Paul Cargnello](https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj) | [Le Soleil Descend](https://open.spotify.com/album/5GmeUeefieul7OH3nrFaKN) | 4:08 | 2021-10-20 | 2022-07-29 |

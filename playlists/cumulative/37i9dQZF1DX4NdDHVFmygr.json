@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 221226,
       "name": "CHINWI",
       "url": "https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 172340,
       "name": "El Hala'",
       "url": "https://open.spotify.com/track/75erM0i0rM96ydo1ujzn7g"
@@ -1329,6 +1329,24 @@
       "duration_ms": 199636,
       "name": "Jabha Fraso",
       "url": "https://open.spotify.com/track/5lS1g9BokChTZaLbymsxbz"
+    },
+    {
+      "album": {
+        "name": "Jamais de la vie",
+        "url": "https://open.spotify.com/album/2PcSVRu7i7SCeEJl6iDXTy"
+      },
+      "artists": [
+        {
+          "name": "Salma Rachid",
+          "url": "https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "Jamais de la vie",
+      "url": "https://open.spotify.com/track/6RzXRaw6AnyIvK7tDLppd4"
     },
     {
       "album": {
@@ -3083,6 +3101,24 @@
       "duration_ms": 252639,
       "name": "Ya Lalali",
       "url": "https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv"
+    },
+    {
+      "album": {
+        "name": "YA LE3DOUWA",
+        "url": "https://open.spotify.com/album/5wkvSfHw9t6Vien59gb48s"
+      },
+      "artists": [
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207499,
+      "name": "YA LE3DOUWA",
+      "url": "https://open.spotify.com/track/66Zvytz9Du8eXZIXXLS8Ea"
     },
     {
       "album": {

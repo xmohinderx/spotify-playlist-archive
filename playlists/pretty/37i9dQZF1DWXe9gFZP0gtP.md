@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 ### [Stress Relief](https://open.spotify.com/playlist/37i9dQZF1DWXe9gFZP0gtP)
 
-> Calm your mind with gentle piano and ambient.
+> Calm your mind with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,289 likes - 242 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046,524 likes - 242 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 241 | [Light of The Moon](https://open.spotify.com/track/0TkOLQj4kru49NI1N27pFr) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Light of The Moon](https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV) | 3:46 |
 | 242 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
 
-Snapshot ID: `MTY2NjM5MTAxMSwwMDAwMDAwMGM3NTczMTA0MTAyMzM3NWMxNDk2YWUxNzcwM2QwZTQy`
+Snapshot ID: `MTY2Nzg1MjMxOCwwMDAwMDAwMDkwYjAyMTk3NWQ1NDU0ZjRkM2ZhNTJkYmZmMmE0ZDMz`

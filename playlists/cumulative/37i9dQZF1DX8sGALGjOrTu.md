@@ -4,7 +4,7 @@
 
 > When emo and hardcore fell hard for each other.
 
-174 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
+175 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Let Live](https://open.spotify.com/track/68mQv5RUC8yKiBQxlSl0I4) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood \(Deluxe Reissue\)](https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC) | 4:16 | 2021-12-07 | 2022-07-28 |
 | [Let The Evil Go East](https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg) | [Greeley Estates](https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag) | [Go West Young Man, Let The Evil Go East](https://open.spotify.com/album/3ApC6jMB269oXLXZK0hkPZ) | 3:20 | 2021-12-07 | 2022-07-29 |
 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 | 2021-12-07 | 2022-07-28 |
-| [Lip Gloss And Black](https://open.spotify.com/track/2Hy81a71pPf5lPWTq1o8ub) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Suicide Notes And Butterfly Kisses](https://open.spotify.com/album/79HGVVOO9FbAATZXIk73Nc) | 5:04 | 2021-12-07 |  |
+| [Lip Gloss And Black](https://open.spotify.com/track/2Hy81a71pPf5lPWTq1o8ub) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Suicide Notes And Butterfly Kisses](https://open.spotify.com/album/79HGVVOO9FbAATZXIk73Nc) | 5:04 | 2021-12-07 | 2022-11-08 |
 | [MakeDamnSure](https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:28 | 2021-12-07 |  |
 | [MakeDamnSure](https://open.spotify.com/track/6fx1fKIs5e0pBL5FpdC7RB) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/5yOQu7Ykcb7rlH6zt5jvL8) | 3:28 | 2021-12-07 | 2022-07-29 |
 | [Medicating](https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw) | [Boys Night Out](https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ) | [Trainwreck](https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P) | 4:00 | 2021-12-07 | 2022-07-27 |
@@ -104,6 +104,7 @@
 | [No Stars over Bethlehem](https://open.spotify.com/track/4Mqs6irS9aCNTjXznGfRbe) | [Protest The Hero](https://open.spotify.com/artist/6z3BjfmgvDUIHaJ0UPTtrQ) | [Kezia \(Remaster\)](https://open.spotify.com/album/4vz1TDvYAueQhCH9jiulwc) | 4:25 | 2021-12-07 | 2022-07-29 |
 | [Not Good Enough For Truth In Cliché](https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Dying Is Your Latest Fashion](https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw) | 3:51 | 2021-12-07 |  |
 | [Not The American Average](https://open.spotify.com/track/17C4oPQ3sTpF11pi9yvGcs) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Stand Up And Scream](https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y) | 4:39 | 2021-12-07 | 2022-11-05 |
+| [Not The American Average](https://open.spotify.com/track/76LGCP0g9nVknR7HD2Jjyp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Stand Up And Scream](https://open.spotify.com/album/5TCwGgyw8ZXXyKIcUFCj47) | 4:39 | 2021-12-07 |  |
 | [Note to Self](https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 3:53 | 2021-12-07 |  |
 | [Ohio Is For Lovers](https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:04 | 2021-12-07 |  |
 | [Ohio Is for Lovers](https://open.spotify.com/track/6QfnvcOKsdN4Q6exUWVuzn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black and White \- Re\-Issue](https://open.spotify.com/album/1FPDKmotHS1ESWAgjUEqh2) | 4:04 | 2021-12-07 | 2022-07-29 |

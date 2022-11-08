@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 313728,
+  "num_followers": 313818,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMGMyNzYwNGZmYjVjYmFkYjFjNDY4ZmYxYjM4ZWZlYWNk",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDZkNzVhODFmZWIyNGQxODE5MWVhMGRkNjYyOTBmNTNl",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/4SciWnD9PHmrHe2dnw916K"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 281559,
+      "name": "What's Going On - Live At Spotify, NY/2012",
+      "url": "https://open.spotify.com/track/4fw9tzAk23Os1aeHVfvPeE"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/5v1twLqXY1LP1L88HPYnDD"
       },
@@ -531,18 +547,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/4SciWnD9PHmrHe2dnw916K"
+        "name": "BEcoming",
+        "url": "https://open.spotify.com/album/49eOVYOGoUjNjgyplB6JJF"
       },
       "artists": [
         {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+          "name": "Stacy Barthe",
+          "url": "https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 281559,
-      "name": "What's Going On - Live At Spotify, NY/2012",
-      "url": "https://open.spotify.com/track/4fw9tzAk23Os1aeHVfvPeE"
+      "duration_ms": 185356,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -575,26 +595,6 @@
       "duration_ms": 309800,
       "name": "If Only You Knew",
       "url": "https://open.spotify.com/track/5G9j51Sxq2YjpNxeRkpcnJ"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "BEcoming",
-        "url": "https://open.spotify.com/album/49eOVYOGoUjNjgyplB6JJF"
-      },
-      "artists": [
-        {
-          "name": "Stacy Barthe",
-          "url": "https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 185356,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1"
     },
     {
       "added_at": "2021-01-15 05:01:00",

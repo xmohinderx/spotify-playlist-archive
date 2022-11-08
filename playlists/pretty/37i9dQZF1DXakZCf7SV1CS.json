@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 14337,
+  "num_followers": 14514,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM2NDA1OCwwMDAwMDAwMDQxY2VjZDNkMDdlZjAyYjg2MGI2MWIxYzcyZmM4YWQ1",
+  "snapshot_id": "MTY2NjM2NDA1OCwwMDAwMDAwMDNiMDBjZjkxM2FhZjlhYzA4MGY0Y2Y5N2VkN2IwOTc3",
   "tracks": [
     {
       "added_at": "2022-10-21 14:54:18",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "When I Rule the World",
-        "url": "https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "When I Rule the World",
-      "url": "https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "cypress grove",
         "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 101938,
       "name": "astrid",
       "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
+        "name": "When I Rule the World",
+        "url": "https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "When I Rule the World",
+      "url": "https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -231,6 +231,22 @@
       "duration_ms": 147000,
       "name": "NEVER MET! (feat. Glitch Gum)",
       "url": "https://open.spotify.com/track/4iMfYGWDKKuP79CAqsKd3n"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/469lPlTo1lL1wbhl3OCMeq"
+      },
+      "artists": [
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+        }
+      ],
+      "duration_ms": 197528,
+      "name": "Flamingo",
+      "url": "https://open.spotify.com/track/34TufQ4EFzmDIFXJ3A8Yau"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -275,22 +291,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/469lPlTo1lL1wbhl3OCMeq"
-      },
-      "artists": [
-        {
-          "name": "Kero Kero Bonito",
-          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
-        }
-      ],
-      "duration_ms": 197528,
-      "name": "Flamingo",
-      "url": "https://open.spotify.com/track/34TufQ4EFzmDIFXJ3A8Yau"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8"
       },
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "IRIS",
-        "url": "https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl"
-      },
-      "artists": [
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        }
-      ],
-      "duration_ms": 102362,
-      "name": "IRIS",
-      "url": "https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "i dont want that many friends in the first place",
         "url": "https://open.spotify.com/album/3tOevvBSeZ3VaSIZkFpGXt"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 109033,
       "name": "i dont want that many friends in the first place",
       "url": "https://open.spotify.com/track/2osO3L8EIQImWGfCGBwYgC"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
+        "name": "IRIS",
+        "url": "https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "duration_ms": 102362,
+      "name": "IRIS",
+      "url": "https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -455,30 +455,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 143663,
-      "name": "ringtone",
-      "url": "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "Hello Kitty",
         "url": "https://open.spotify.com/album/4cbs7e96BjbFaKqafPA8ZR"
       },
@@ -515,6 +491,30 @@
       "duration_ms": 178823,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 143663,
+      "name": "ringtone",
+      "url": "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "Doritos & Fritos",
-        "url": "https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 196896,
-      "name": "Doritos & Fritos",
-      "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "VYZEE",
         "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
+        "name": "Doritos & Fritos",
+        "url": "https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 196896,
+      "name": "Doritos & Fritos",
+      "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
         "name": "Be Your USA",
         "url": "https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "go white boy go",
-        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
-      },
-      "artists": [
-        {
-          "name": "saturn",
-          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
-        }
-      ],
-      "duration_ms": 101487,
-      "name": "go white boy go",
-      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "i hate it here",
         "url": "https://open.spotify.com/album/6YaIgWEICYDuhQ7Kb0R5Jx"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+        "name": "go white boy go",
+        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
       },
       "artists": [
         {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+          "name": "saturn",
+          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
         }
       ],
-      "duration_ms": 236937,
-      "name": "Faceshopping",
-      "url": "https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0"
+      "duration_ms": 101487,
+      "name": "go white boy go",
+      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -747,6 +731,22 @@
       "duration_ms": 147965,
       "name": "doing it wrong",
       "url": "https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 236937,
+      "name": "Faceshopping",
+      "url": "https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "team edward",
-        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 87242,
-      "name": "team edward",
-      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "BIPP",
         "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "1UL",
-        "url": "https://open.spotify.com/album/1oNKlvMadv8K1wTBd5MwfC"
+        "name": "team edward",
+        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
       },
       "artists": [
         {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
         }
       ],
-      "duration_ms": 205447,
-      "name": "1UL",
-      "url": "https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG"
+      "duration_ms": 87242,
+      "name": "team edward",
+      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -895,6 +879,22 @@
       "duration_ms": 157752,
       "name": "LEGEND",
       "url": "https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
+        "name": "1UL",
+        "url": "https://open.spotify.com/album/1oNKlvMadv8K1wTBd5MwfC"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        }
+      ],
+      "duration_ms": 205447,
+      "name": "1UL",
+      "url": "https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "Visored Vitality",
-        "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
-      },
-      "artists": [
-        {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
-        }
-      ],
-      "duration_ms": 152032,
-      "name": "Butterfly Bankai",
-      "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "bad idea (feat. blackwinterwells)",
         "url": "https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 69041,
       "name": "bad idea (feat. blackwinterwells)",
       "url": "https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
+        "name": "Visored Vitality",
+        "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Butterfly Bankai",
+      "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "Drive-By Lullabies",
-        "url": "https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 182386,
-      "name": "from paris, with love",
-      "url": "https://open.spotify.com/track/0OVFw7McsuYnBlRJXEh76b"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "GFOTYBUCKS",
         "url": "https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 205000,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
+        "name": "Drive-By Lullabies",
+        "url": "https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 182386,
+      "name": "from paris, with love",
+      "url": "https://open.spotify.com/track/0OVFw7McsuYnBlRJXEh76b"
     },
     {
       "added_at": "2022-10-21 14:54:18",

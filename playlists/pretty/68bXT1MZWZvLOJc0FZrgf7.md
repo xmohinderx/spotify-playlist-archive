@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Featuring Mike Posner
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,439 likes - 180 songs - 9 hr 36 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,433 likes - 180 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

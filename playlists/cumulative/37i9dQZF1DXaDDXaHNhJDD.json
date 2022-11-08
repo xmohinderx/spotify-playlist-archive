@@ -1,11 +1,37 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "An exclusive collection of Malayalam super hit songs.\nCover: Monster",
+  "description": "An exclusive collection of Malayalam super hit songs.\nCover: Thallumaala",
   "name": "Mollywood Gold",
   "published_playlist_ids": [
     "10m0BYH7vx3vQP94cQIjSm"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Aadharanjali (From \"Romancham) - Single",
+        "url": "https://open.spotify.com/album/1mqEKGbULaBJ7Rv8r6LTPE"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Madhuvanthi Narayan",
+          "url": "https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149278,
+      "name": "Aadharanjali (From \"Romancham)",
+      "url": "https://open.spotify.com/track/3jg0GvH2oYHGuy2U7SH4SJ"
+    },
     {
       "album": {
         "name": "Aalum Thee (From \"Jana Gana Mana\")",
@@ -88,6 +114,28 @@
     },
     {
       "album": {
+        "name": "Mei Hoom Moosa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6izMY3haIvRie2mpWn2zRY"
+      },
+      "artists": [
+        {
+          "name": "Sreenath Sivasankaran",
+          "url": "https://open.spotify.com/artist/0Q3tElr40npyXS21iOQMU5"
+        },
+        {
+          "name": "Madhu Balakrishnan",
+          "url": "https://open.spotify.com/artist/2qJHWT6Ov9ZZvuQx1h7mNn"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232377,
+      "name": "Aaramba Thenimba",
+      "url": "https://open.spotify.com/track/1ugHxmnlIOwgEDmaSe109m"
+    },
+    {
+      "album": {
         "name": "Godha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0fK4A4OH1dG8XNCQ2KtpZQ"
       },
@@ -103,6 +151,28 @@
       "duration_ms": 267876,
       "name": "Aaro Nenjil",
       "url": "https://open.spotify.com/track/6YINoRUOzEFYOnGwOafdEI"
+    },
+    {
+      "album": {
+        "name": "Sita Ramam (Malayalam) (Extended Version) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/7uEo4BZZ0HjdSc4CWj6PEC"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218808,
+      "name": "Aaromal",
+      "url": "https://open.spotify.com/track/3WQKaHWTMEZFUGfTtj7LKG"
     },
     {
       "album": {
@@ -243,7 +313,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 303594,
       "name": "Chilluranthal",
       "url": "https://open.spotify.com/track/6qClBQRGv23XWyH0X8hUjy"
@@ -638,6 +708,32 @@
     },
     {
       "album": {
+        "name": "Sita Ramam (Malayalam) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1HdSDboFX4pSoZ6pEsjCPl"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        },
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232513,
+      "name": "Kannil Kannil",
+      "url": "https://open.spotify.com/track/380y4r3fjQgSnU8pOZ2qzi"
+    },
+    {
+      "album": {
         "name": "Kannil Kannil [From \"Sita Ramam (Malayalam)\"]",
         "url": "https://open.spotify.com/album/7L7c5XPEi1cKDVzZD0S9Vd"
       },
@@ -657,7 +753,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 232513,
       "name": "Kannil Kannil (From \"Sita Ramam (Malayalam)\")",
       "url": "https://open.spotify.com/track/63vWEUXhpgghscp9FgvCMG"
@@ -831,7 +927,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 196749,
       "name": "Kim Kim",
       "url": "https://open.spotify.com/track/0aH3lqTh5038MPUbnX4kuN"
@@ -1015,10 +1111,36 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 200000,
       "name": "Manavaalan Thug - From \"Thallumaala\"",
       "url": "https://open.spotify.com/track/5u1cWcqIX6sbKiVJn8PR86"
+    },
+    {
+      "album": {
+        "name": "Mandharapoove (From \"Kumari\") - Single",
+        "url": "https://open.spotify.com/album/0P8tywlgqtbcAB0BZFAGN7"
+      },
+      "artists": [
+        {
+          "name": "Aavani Malhar",
+          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
+        },
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Joe Paul",
+          "url": "https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240606,
+      "name": "Mandharapoove (From \"Kumari\")",
+      "url": "https://open.spotify.com/track/0md9xaiSP9NADGM78p6byG"
     },
     {
       "album": {
@@ -1037,7 +1159,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 304779,
       "name": "Mankoodil",
       "url": "https://open.spotify.com/track/7c92AXViooh6pguso9gutb"
@@ -1099,7 +1221,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 260263,
       "name": "Mele Vaanil",
       "url": "https://open.spotify.com/track/3h1fJqE8XbN151jD9szk11"
@@ -1247,7 +1369,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 312372,
       "name": "Njaano Raavoo",
       "url": "https://open.spotify.com/track/33aVA8rsI7NGeTLYbO1BOC"
@@ -1277,10 +1399,40 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 242005,
       "name": "Ole Melody",
       "url": "https://open.spotify.com/track/1rMEccgwbKt3qmAXeBqOyZ"
+    },
+    {
+      "album": {
+        "name": "Thallumaala",
+        "url": "https://open.spotify.com/album/09coDJ0hDNRUkN3qJnGfIy"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Salim Kumar",
+          "url": "https://open.spotify.com/artist/51eSy32QYrEMTI6IVDtDWt"
+        },
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242005,
+      "name": "Ole Melody - From \"Thallumaala\"",
+      "url": "https://open.spotify.com/track/4wMpv5KCDYSCQ0rWwKON0E"
     },
     {
       "album": {
@@ -1379,7 +1531,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 287312,
       "name": "Paalnilavin Poykayil - Female Version",
       "url": "https://open.spotify.com/track/7Cx1yvoVthkzcLd7bcV8QL"
@@ -1788,6 +1940,58 @@
     },
     {
       "album": {
+        "name": "Sita Ramam (Malayalam) (Extended Version) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/7uEo4BZZ0HjdSc4CWj6PEC"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Anne Amie Vazhappilly",
+          "url": "https://open.spotify.com/artist/18lbckVMP7tVyDdw7VTgYq"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208679,
+      "name": "Thirike Vaa",
+      "url": "https://open.spotify.com/track/6efzNHEEuYb7UDr6J2fFGi"
+    },
+    {
+      "album": {
+        "name": "Thallumaala",
+        "url": "https://open.spotify.com/album/09coDJ0hDNRUkN3qJnGfIy"
+      },
+      "artists": [
+        {
+          "name": "Tovino Thomas",
+          "url": "https://open.spotify.com/artist/6RvSPZZyrLReQqRW3xt8ZI"
+        },
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235573,
+      "name": "Tupathu - From \"Thallumaala\"",
+      "url": "https://open.spotify.com/track/4S6fWZgeIaZdNgAscxC3WN"
+    },
+    {
+      "album": {
         "name": "Gauthamante Radham",
         "url": "https://open.spotify.com/album/4zWNhzZELsqulV8Y2aSZeq"
       },
@@ -1855,6 +2059,24 @@
       "duration_ms": 234929,
       "name": "Uyiril Thodum",
       "url": "https://open.spotify.com/track/3bbzeZcfsK0ac7rdN2s7WX"
+    },
+    {
+      "album": {
+        "name": "Op 160/18 Kakshi: Amminippilla (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2kPHIsAGwuZKmjirHMHfJa"
+      },
+      "artists": [
+        {
+          "name": "Zia Ul Haq",
+          "url": "https://open.spotify.com/artist/3kPqgCCGlCGS9owID1l5n9"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216315,
+      "name": "Uyyaram Payyaram",
+      "url": "https://open.spotify.com/track/3Dw2JTZwTjbLpsY2zJ8Tdg"
     },
     {
       "album": {

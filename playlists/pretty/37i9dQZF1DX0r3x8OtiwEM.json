@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 783135,
+  "num_followers": 783499,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MzQ2MCwwMDAwMDAwMDEwZDBkOGE3MzQzZmQ3OTcwYzllYTE0NzE2OGZiODcw",
+  "snapshot_id": "MTY2Njk2MzQ2MCwwMDAwMDAwMGFmMjExYTUxZTBjZDViNGI1MDdjNTY3MTdjOTg4NzIz",
   "tracks": [
     {
       "added_at": "2022-10-07 15:45:00",
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
     },
     {
-      "added_at": "2022-11-07 01:22:39",
+      "added_at": "2022-11-08 01:22:50",
       "album": {
         "name": "Pulses",
         "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
-      "added_at": "2022-11-07 01:22:39",
+      "added_at": "2022-11-08 01:22:50",
       "album": {
         "name": "Timelapse",
         "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
     },
     {
-      "added_at": "2022-11-07 01:22:39",
+      "added_at": "2022-11-08 01:22:50",
       "album": {
         "name": "Kaleidoscope Colours",
         "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
     },
     {
-      "added_at": "2022-11-07 01:22:39",
+      "added_at": "2022-11-08 01:22:50",
       "album": {
         "name": "Backseat Tape",
         "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/2xUsXYIiK18wSnv2SXFGtj"
     },
     {
-      "added_at": "2022-11-07 01:22:39",
+      "added_at": "2022-11-08 01:22:50",
       "album": {
         "name": "Song To The Siren",
         "url": "https://open.spotify.com/album/5n09GoRSdwB8kufMEKjRG7"
@@ -247,6 +247,26 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
+        "name": "Spicy (feat. Ginger) [Edit]",
+        "url": "https://open.spotify.com/album/5NiOkqIUEhAutwSmH4uD5X"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Ginger",
+          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Spicy (feat. Ginger) - Edit",
+      "url": "https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
         "name": "Cappadocia",
         "url": "https://open.spotify.com/album/0reS9m5prtXtDFetcKIr9C"
       },
@@ -265,27 +285,7 @@
       "url": "https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm"
     },
     {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
-        "name": "Otherside (Nils Hoffmann Remix)",
-        "url": "https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        },
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Otherside - Nils Hoffmann Remix",
-      "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"
-    },
-    {
-      "added_at": "2022-11-07 01:22:39",
+      "added_at": "2022-11-08 01:22:50",
       "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/5pjdf866qmNg2RMMOC1np6"
@@ -311,22 +311,22 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "Spicy (feat. Ginger) [Edit]",
-        "url": "https://open.spotify.com/album/5NiOkqIUEhAutwSmH4uD5X"
+        "name": "Otherside (Nils Hoffmann Remix)",
+        "url": "https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         },
         {
-          "name": "Ginger",
-          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Spicy (feat. Ginger) - Edit",
-      "url": "https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH"
+      "duration_ms": 218880,
+      "name": "Otherside - Nils Hoffmann Remix",
+      "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -367,30 +367,6 @@
       "duration_ms": 296192,
       "name": "Domino - David Guetta Remix",
       "url": "https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Felix Raphael",
-          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
-        }
-      ],
-      "duration_ms": 262249,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -467,6 +443,30 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
+        }
+      ],
+      "duration_ms": 262249,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
         "name": "Never Ending",
         "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
       },
@@ -479,26 +479,6 @@
       "duration_ms": 242000,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
-        "name": "Admit It (u don't want 2)",
-        "url": "https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        }
-      ],
-      "duration_ms": 385074,
-      "name": "Admit It (u don't want 2)",
-      "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -527,6 +507,26 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
+        "name": "Admit It (u don't want 2)",
+        "url": "https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "duration_ms": 385074,
+      "name": "Admit It (u don't want 2)",
+      "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
         "name": "Apricots",
         "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 246506,
       "name": "Apricots",
       "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -559,22 +575,6 @@
       "duration_ms": 452000,
       "name": "On My Knees - Adriatique Remix",
       "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
         "name": "You Take My Hand",
         "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
+        "name": "Thermal / Oblivion",
+        "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
         "name": "Blisss",
         "url": "https://open.spotify.com/album/67QO6UzoSlFcsPTuQR0FCJ"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 233562,
       "name": "Stay There",
       "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
-        "name": "Thermal / Oblivion",
-        "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
+        "name": "Tantrum",
+        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 229512,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
         "name": "Follow (Max Manie Remix)",
         "url": "https://open.spotify.com/album/29nHlh98BX8btGwsApWfih"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "Tantrum",
-        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 229512,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
         "name": "Don't Give Up (Radio Edit)",
         "url": "https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "Tarcu",
-        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 238537,
-      "name": "Tarcu",
-      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
         "name": "Pulsing",
         "url": "https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 237600,
       "name": "Pulsing",
       "url": "https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
+        "name": "Tarcu",
+        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 238537,
+      "name": "Tarcu",
+      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
     },
     {
       "added_at": "2022-10-07 15:45:00",

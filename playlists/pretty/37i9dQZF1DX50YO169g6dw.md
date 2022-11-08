@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50YO169g6dw.md) - [plain]
 
 > The best of Within Temptation, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,042 likes - 51 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,130 likes - 51 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

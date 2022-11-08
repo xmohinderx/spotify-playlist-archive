@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Scopri i tuoi nuovi artisti italiani preferiti! Cover: Sans Soucis
+> Scopri i tuoi nuovi artisti italiani preferiti! Cover: TOMMY DALI
 
-75 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
+76 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [I'm On](https://open.spotify.com/track/2wo5YYmTIeGhE6tbf0c0NN) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap) | 4:10 | 2022-08-31 |  |
 | [La Haine](https://open.spotify.com/track/7BW4fxpnJjIU1ETT6pdSJW) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 2:52 | 2022-08-31 |  |
 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 | 2022-08-31 |  |
+| [Male](https://open.spotify.com/track/0BrwoWkbdxvvFnJohaw2pp) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Male](https://open.spotify.com/album/0SR5JsqwgUC0QxrR1dzBVO) | 2:33 | 2022-11-07 |  |
 | [MANI STRETTE](https://open.spotify.com/track/5Qo4lrFwepxf9bofOradCv) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:29 | 2022-08-31 |  |
 | [Mayday](https://open.spotify.com/track/6BfywUJ9tXjFNVvLZU1wNW) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Lester Nowhere](https://open.spotify.com/artist/0wolj0IKnhhYnBFynfNaQn) | [Mayday](https://open.spotify.com/album/5AwOXRsX7ZO4Q9n4g0C9N0) | 2:43 | 2022-08-31 |  |
 | [Metaverso](https://open.spotify.com/track/4dCMB4V9Zyncd8oFAzWRSZ) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Post Nostalgia](https://open.spotify.com/album/0ULpaUUm6A6JluH0fnHWiv) | 3:05 | 2022-08-31 |  |

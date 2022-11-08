@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Drake, 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,062 likes - 89 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,070 likes - 89 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

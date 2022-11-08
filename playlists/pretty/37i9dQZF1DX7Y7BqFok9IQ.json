@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
-  "num_followers": 135890,
+  "num_followers": 135920,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGNmODk5MzVlYzQ3ZjY1MGQ5YjJlYmM1OWQ2NmJlYzBh",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDFmZWEyYmRmOGE2ZjYzYTEzNDc4NWMyNmQ4OTdlYTU3",
   "tracks": [
     {
       "added_at": "2022-10-21 04:01:00",
@@ -361,22 +361,6 @@
       "url": "https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Taking Me Back",
-        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 245961,
-      "name": "Taking Me Back",
-      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
-    },
-    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Heavy Shoes",
@@ -393,6 +377,22 @@
       "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Taking Me Back",
+        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 245961,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
+    },
+    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Spirit's Furnace",
@@ -407,22 +407,6 @@
       "duration_ms": 194331,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -473,6 +457,38 @@
       "url": "https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b"
     },
     {
+      "added_at": "2021-06-18 04:01:00",
+      "album": {
+        "name": "Sugar and Spice",
+        "url": "https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn & Chris Arndt",
+          "url": "https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R"
+        }
+      ],
+      "duration_ms": 214921,
+      "name": "Sugar and Spice",
+      "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
+    },
+    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Wicked Girl",
@@ -493,22 +509,6 @@
       "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
     },
     {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Sugar and Spice",
-        "url": "https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL"
-      },
-      "artists": [
-        {
-          "name": "Jocelyn & Chris Arndt",
-          "url": "https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R"
-        }
-      ],
-      "duration_ms": 214921,
-      "name": "Sugar and Spice",
-      "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Black Holes",
@@ -523,6 +523,22 @@
       "duration_ms": 219586,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -575,22 +591,6 @@
       "duration_ms": 236000,
       "name": "dirty claws",
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
     },
     {
       "added_at": "2020-10-16 04:02:00",

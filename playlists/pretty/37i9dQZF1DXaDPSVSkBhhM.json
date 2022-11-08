@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 56067,
+  "num_followers": 56104,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1MDQ4MiwwMDAwMDAwMDU3NmQ1NDg2OWNjNDVhZWQ5YzI0NWI4NmNlOWU1YmVm",
+  "snapshot_id": "MTY2NDY1MDQ4MiwwMDAwMDAwMDYyMzRkYTI0MWRhOWNjNGIwNGUyNWRiY2I4MDYzNDlm",
   "tracks": [
     {
       "added_at": "2022-10-01 18:54:42",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Coraz\u00f3n D' Roto",
-        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
+        "name": "Monumentos",
+        "url": "https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK"
       },
       "artists": [
         {
-          "name": "GUFI",
-          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
         }
       ],
-      "duration_ms": 217920,
-      "name": "Apariencia",
-      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
+      "duration_ms": 187860,
+      "name": "Cien Inviernos",
+      "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Monumentos",
-        "url": "https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK"
+        "name": "J\u00e4ula",
+        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
       },
       "artists": [
         {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+          "name": "Mi Mascota Leila",
+          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
         }
       ],
-      "duration_ms": 187860,
-      "name": "Cien Inviernos",
-      "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
+      "duration_ms": 226063,
+      "name": "Cc (Como Compas)",
+      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "J\u00e4ula",
-        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
+        "name": "Coraz\u00f3n D' Roto",
+        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
       },
       "artists": [
         {
-          "name": "Mi Mascota Leila",
-          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
         }
       ],
-      "duration_ms": 226063,
-      "name": "Cc (Como Compas)",
-      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
+      "duration_ms": 217920,
+      "name": "Apariencia",
+      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
+        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
+      },
+      "artists": [
+        {
+          "name": "Camiches",
+          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "Espero Nadie Ocupe Mi Lugar",
+      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "La B\u00fasqueda del Tiempo Perdido",
         "url": "https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 223960,
       "name": "La B\u00fasqueda del Tiempo Perdido",
       "url": "https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
-        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
-      },
-      "artists": [
-        {
-          "name": "Camiches",
-          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
-        }
-      ],
-      "duration_ms": 214592,
-      "name": "Espero Nadie Ocupe Mi Lugar",
-      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Nadie Me Entiende",
-        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nadie Me Entiende",
-      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Cometas",
         "url": "https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 183118,
       "name": "Cometas",
       "url": "https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Nadie Me Entiende",
+        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nadie Me Entiende",
+      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Lok@",
-        "url": "https://open.spotify.com/album/7qOp61YbdJiEibJUWMaAe6"
-      },
-      "artists": [
-        {
-          "name": "Luisa Vox",
-          "url": "https://open.spotify.com/artist/3aZLYFN5zgb2QH10XzmmtA"
-        }
-      ],
-      "duration_ms": 151157,
-      "name": "Lok@",
-      "url": "https://open.spotify.com/track/7orFFFEFlV8ZALcxkH4r5a"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Doble Vida",
         "url": "https://open.spotify.com/album/3WwiGAt7wzs8wKVtM06cNU"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 184354,
       "name": "Doble Vida",
       "url": "https://open.spotify.com/track/0hL4uLIKFzKwRIpOsjP9DF"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Lok@",
+        "url": "https://open.spotify.com/album/7qOp61YbdJiEibJUWMaAe6"
+      },
+      "artists": [
+        {
+          "name": "Luisa Vox",
+          "url": "https://open.spotify.com/artist/3aZLYFN5zgb2QH10XzmmtA"
+        }
+      ],
+      "duration_ms": 151157,
+      "name": "Lok@",
+      "url": "https://open.spotify.com/track/7orFFFEFlV8ZALcxkH4r5a"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "Vamos Perdiendo el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
+      },
+      "artists": [
+        {
+          "name": "Tungas",
+          "url": "https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM"
+        }
+      ],
+      "duration_ms": 241532,
+      "name": "Dicen Que Estoy Muerto",
+      "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "La Naturaleza Incoherente del Ser",
         "url": "https://open.spotify.com/album/64s94my8S2fm0e7IkWSHzW"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 203003,
       "name": "La Naturaleza Incoherente del Ser",
       "url": "https://open.spotify.com/track/5aCOgoyVrIYxB7rScX1vJG"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Aunque a Veces Tenga Miedo",
-        "url": "https://open.spotify.com/album/4mDGa6yqGKRmWvCHKIVvDM"
-      },
-      "artists": [
-        {
-          "name": "Barney Gombo",
-          "url": "https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc"
-        }
-      ],
-      "duration_ms": 234358,
-      "name": "Aunque a Veces Tenga Miedo",
-      "url": "https://open.spotify.com/track/3NtymRSp0GJUBeiNUk3ZRL"
     }
   ],
   "unique_name": "Escena Pop Punk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Drake, 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,682 likes - 98 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,686 likes - 98 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127213,
+  "num_followers": 127219,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzc2Miw4NGNlMzNhYjU5M2EwMjBjNzk4MmQxZDI2N2I1YzE3ZjEzZGNlMTkx",
+  "snapshot_id": "Mzc2NSwwMzZjZGZjZDkzYmNhMDUzOTg0N2NmNmNmZjUzZTEzOWFjMzAzMjcz",
   "tracks": [
+    {
+      "added_at": "2022-11-07 16:45:35",
+      "album": {
+        "name": "GALACTICAL",
+        "url": "https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 275156,
+      "name": "GALACTICAL",
+      "url": "https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ"
+    },
     {
       "added_at": "2022-11-04 22:32:20",
       "album": {
@@ -1079,22 +1095,6 @@
       "duration_ms": 205611,
       "name": "Smile",
       "url": "https://open.spotify.com/track/5P45OGJSEG8LUsdulhp6sJ"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Words Left Unsaid",
-        "url": "https://open.spotify.com/album/7nxvvQ5nrkO4aa5rlgCzyG"
-      },
-      "artists": [
-        {
-          "name": "Aftruu",
-          "url": "https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Words Left Unsaid",
-      "url": "https://open.spotify.com/track/56cuxHVeq2EtTpaRBZgrnX"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

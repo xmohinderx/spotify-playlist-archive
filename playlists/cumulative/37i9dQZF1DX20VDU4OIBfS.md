@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-313 songs - 19 hr 55 min - [published](https://open.spotify.com/playlist/1QOdLztBWNrsSWvFlIeQGt)
+314 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/1QOdLztBWNrsSWvFlIeQGt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [La Pareja Ideal](https://open.spotify.com/track/6HTBhdYFWi1wIGbm7dV7iV) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 1](https://open.spotify.com/album/6YLiyX7kvfDkKu1AGhQj6z) | 3:33 | 2022-06-02 |  |
 | [La soledad \- Versión 2001](https://open.spotify.com/track/75OneVe1xHrgSiVEOiLGxb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:23 | 2022-06-02 |  |
 | [La Trampa](https://open.spotify.com/track/62nLNuTjFfyJczHfln6mw2) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 3:13 | 2022-06-02 |  |
+| [Libre, Solterito y Sin Nadie](https://open.spotify.com/track/02olBmYmVrodR2C6xroOzO) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Libre, Solterito y Sin Nadie](https://open.spotify.com/album/0JVFs21ZIaGdDZQZ6TVFs9) | 2:20 | 2022-08-31 |  |
 | [Libre, Solterito Y Sin Nadie](https://open.spotify.com/track/37HNsNdcI1wT2l9zv78p42) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Imprescindibles](https://open.spotify.com/album/6I6t5Jq7fMwcXufIGB9UcY) | 2:22 | 2022-01-01 | 2022-05-12 |
 | [Llorarás](https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 3:37 | 2022-06-02 |  |
 | [Lluvia](https://open.spotify.com/track/2zYa7zc0g0AbMUjEzYiI2r) | [Luis Angel](https://open.spotify.com/artist/3aqaaRdFCbVBCZnexkE0sC) | [Yo Mismo](https://open.spotify.com/album/29DAJADvZkzgHfYTPpZijS) | 3:59 | 2022-01-01 | 2022-07-29 |
@@ -177,7 +178,7 @@
 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/4iqXKJhwbOtOT5aHZr7Fxj) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre El Cielo Y El Suelo](https://open.spotify.com/album/63ndRW1N0SGkK7Az9CTrxF) | 2:54 | 2022-01-01 | 2022-07-29 |
 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 | 2022-06-02 |  |
 | [Me Dediqué a Perderte](https://open.spotify.com/track/1HpIBHs03kKCxlrPthWXmL) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Alejandro Fernandez 15 Años De Exitos](https://open.spotify.com/album/1XIDdkj7xuSoDDyYseS7o3) | 3:52 | 2022-01-01 | 2022-07-29 |
-| [Me Enamoro De Ti](https://open.spotify.com/track/7tK0PM1fKK0g4scuqmAnts) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Exclusive Ricchi E Poveri \- 15 Exitos](https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC) | 3:11 | 2022-01-01 |  |
+| [Me Enamoro De Ti](https://open.spotify.com/track/7tK0PM1fKK0g4scuqmAnts) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Exclusive Ricchi E Poveri \- 15 Exitos](https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC) | 3:11 | 2022-01-01 | 2022-11-08 |
 | [Me Gustas](https://open.spotify.com/track/7ExYnTuBouEyCDCSo5xRbh) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/1wc7nRyIpIhe2DXcPs7JaM) | 3:27 | 2022-01-01 | 2022-07-29 |
 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 | 2022-06-02 |  |
 | [Me llamas](https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Tiempo de otoño](https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua) | 4:35 | 2022-06-02 |  |

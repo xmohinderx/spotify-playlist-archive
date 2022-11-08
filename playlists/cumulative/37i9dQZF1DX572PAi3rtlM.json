@@ -1312,6 +1312,28 @@
     },
     {
       "album": {
+        "name": "For the Beasts",
+        "url": "https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "Casey MQ",
+          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153231,
+      "name": "Lurk",
+      "url": "https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4"
+    },
+    {
+      "album": {
         "name": "...Balla!",
         "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
       },
@@ -1871,7 +1893,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 235906,
       "name": "Prix Choc - Radio Edit - High Mix",
       "url": "https://open.spotify.com/track/6GjZSAoI4Kmwv1UgbTrcSr"

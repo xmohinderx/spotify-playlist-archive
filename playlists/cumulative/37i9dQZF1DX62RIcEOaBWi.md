@@ -4,7 +4,7 @@
 
 > Música alegre para que el trabajo se te pase volando.
 
-269 songs - 15 hr 36 min - [published](https://open.spotify.com/playlist/0X0LW6lwV1SEGovOJVY5Oo)
+270 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/0X0LW6lwV1SEGovOJVY5Oo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Cuando Nadie Ve](https://open.spotify.com/track/1Cxd4ZJJ9VOQQpNcpdcZEQ) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Cuando Nadie Ve](https://open.spotify.com/album/1TOxFOMe6FNpH8hENt9fIR) | 3:39 | 2022-01-10 | 2022-07-29 |
 | [Cuando te Encontré \(feat\. Carlos Sadness\) \- El Viaje de Matisse](https://open.spotify.com/track/3I00PtsJz4nZUwfkUmqllt) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Cuando te Encontré \(feat\. Carlos Sadness\) \[El Viaje de Matisse\]](https://open.spotify.com/album/6LALwGIeVXywqMhMkJtQBX) | 3:23 | 2022-01-10 | 2022-07-20 |
 | [Cómo Te Atreves](https://open.spotify.com/track/2z0EshEO4XptiepEb9j3Og) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/5x7VOruWJbNqZGfIHczhmV) | 4:00 | 2022-01-10 | 2022-07-29 |
-| [De Perreo](https://open.spotify.com/track/7Men0McTVqAHxfVrRCzb41) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [De Perreo](https://open.spotify.com/album/07o7LzZmecQhaGtVV239OB) | 2:53 | 2022-01-10 |  |
+| [De Perreo](https://open.spotify.com/track/7Men0McTVqAHxfVrRCzb41) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [De Perreo](https://open.spotify.com/album/07o7LzZmecQhaGtVV239OB) | 2:53 | 2022-01-10 | 2022-11-08 |
 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 | 2022-01-10 |  |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-08-08 |  |
 | [Desde cero \(con Melendi\)](https://open.spotify.com/track/3RfmZepJErldBC4JXut6L9) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:22 | 2022-01-10 | 2022-07-28 |
@@ -275,6 +275,7 @@
 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 | 2022-01-10 |  |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 | 2022-01-10 | 2022-08-09 |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2022-01-10 | 2022-08-09 |
+| [Your Song](https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song](https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ) | 3:00 | 2022-08-08 |  |
 | [¡Que Bonito!](https://open.spotify.com/track/1MO5KuLnSaY1dlkWGDjHkT) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Mucho Por Vivir](https://open.spotify.com/album/4lqmri54Jap1lOS7FthZrh) | 3:49 | 2022-01-10 |  |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2022-01-10 | 2022-08-09 |
 

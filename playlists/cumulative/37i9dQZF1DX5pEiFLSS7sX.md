@@ -4,11 +4,11 @@
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-236 songs - 23 hr 43 min - [published](https://open.spotify.com/playlist/7AOoPmZVWI11xU5B6czWtb)
+237 songs - 23 hr 52 min - [published](https://open.spotify.com/playlist/7AOoPmZVWI11xU5B6czWtb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 | 2020-09-04 |  |
+| [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 | 2020-09-04 | 2022-11-08 |
 | [Abba \(Arms Of A Father\)](https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [Beautiful Surrender](https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd) | 5:30 | 2020-09-04 |  |
 | [Abba \(Arms of a Father\)](https://open.spotify.com/track/35Siw3D3rzUoCMsEuij4rn) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Beautiful Surrender](https://open.spotify.com/album/5S4Pk1aR4I0cUqCoKXiwzY) | 5:30 | 2020-09-04 | 2022-07-29 |
 | [Abide](https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [Kingdom Culture Worship](https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk) | 7:55 | 2020-09-04 |  |
@@ -166,6 +166,7 @@
 | [Pursue / All I Need Is You \- Medley/Live](https://open.spotify.com/track/58TKUOfACHyUpWE5DisSVF) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [OPEN HEAVEN / River Wild \(Deluxe/Live\)](https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw) | 7:44 | 2020-09-04 |  |
 | [Rain Is Coming](https://open.spotify.com/track/6jmqX47Py0flpg8rVfQxPc) | [Andrew Ehrenzeller](https://open.spotify.com/artist/4Y9fPOXXI1w5XxUd9rQnfz) | [Land of the Living](https://open.spotify.com/album/5XGhgLuT4IRNi2L7pHZF7a) | 6:08 | 2020-09-04 | 2022-05-16 |
 | [Rain Your Glory Down \- Live](https://open.spotify.com/track/1Y8Pf62jFt9DxdhfKQOgnD) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain Your Glory Down \(Live\)](https://open.spotify.com/album/6yCUxYBIYB8tkAPvE85Ja3) | 9:07 | 2020-09-04 | 2022-07-10 |
+| [Rain Your Glory Down \- Live](https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 9:07 | 2020-09-04 |  |
 | [Refiner](https://open.spotify.com/track/0bHcGi6iafYk4TUrqvDYya) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Maverick City Vol\. 2](https://open.spotify.com/album/0BNefSTndWBl2P1iAc6lYu) | 12:12 | 2020-09-04 | 2022-07-28 |
 | [Refiner \(feat\. Chandler Moore & Steffany Gretzinger\)](https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Maverick City, Vol\. 2](https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1) | 12:12 | 2020-09-04 |  |
 | [Remember](https://open.spotify.com/track/5kB4Nl4EGB4jN2mpkBaeEG) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1) | 3:58 | 2020-09-04 | 2022-07-29 |

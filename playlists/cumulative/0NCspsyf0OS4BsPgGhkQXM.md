@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-537 songs - 1 day 4 hr 54 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+538 songs - 1 day 4 hr 57 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Everything](https://open.spotify.com/track/1zTFhJgWMORxvvRyTywWqX) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 2:24 | 2022-08-12 |  |
 | [Exile](https://open.spotify.com/track/2NfjNJKcjKb1jEeEcafzak) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Paradise Lost](https://open.spotify.com/album/45IlRslbY2q1bvRMHSVDD9) | 2:45 | 2022-01-14 | 2022-06-04 |
 | [Exile \- Something Remix](https://open.spotify.com/track/6pk6PdIHUP1h3MiDhezJ17) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Sømething](https://open.spotify.com/artist/4w08hE0AqL4sPFCUj5E3gx) | [Paradise Lost Remixes](https://open.spotify.com/album/3OZF1ZyEM6zpD4MFTeKOMg) | 3:43 | 2022-04-18 | 2022-07-02 |
+| [Eyes Closed](https://open.spotify.com/track/1BMve5dCKHJ8ARC2fkRpW2) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Eyes Closed](https://open.spotify.com/album/1JYsLiWmHiukJClldteW7q) | 3:28 | 2022-11-07 |  |
 | [Eyes Closed](https://open.spotify.com/track/5O4xjWUhVkTf0riu4rEkx0) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Pieces](https://open.spotify.com/album/41zOUkivBUd5X0KRWPO3CB) | 3:33 | 2022-01-14 | 2022-07-29 |
 | [Eyes Closed \- ODEA Remix](https://open.spotify.com/track/1YVhZtNxJK4JEnvKLdKJrc) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [ODEA](https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd) | [Pieces \(Remixes\)](https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9) | 3:31 | 2022-07-01 |  |
 | [Eyes On Me](https://open.spotify.com/track/2RDr6nVQtnhhTkAo9O72Ri) | [Kila](https://open.spotify.com/artist/6Dlk0WuhXm3vfgOd13LahR) | [Eyes On Me](https://open.spotify.com/album/1DgeQW9EsUh3aR5dHV5mn4) | 2:24 | 2022-02-04 | 2022-03-05 |

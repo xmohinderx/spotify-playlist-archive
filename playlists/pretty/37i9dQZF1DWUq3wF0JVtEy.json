@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 863910,
+  "num_followers": 864201,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGVmZGNiMDcxYjBlMWJkNjJkOTMxMmZlZDQ0OGE0YTgy",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDJkNDkzZjIxY2FiMzIyZDQ5YjBmNTMwODAzZWQwZGZl",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -511,30 +511,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Distance (Volac Remix)",
-        "url": "https://open.spotify.com/album/4DV2LgtYZbumkW6ifBZkzh"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        },
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 215390,
-      "name": "Distance - Volac Remix",
-      "url": "https://open.spotify.com/track/42BdPV3FB2HVsvdokaIDJt"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 154838,
       "name": "Afterbloom (feat. Deza)",
       "url": "https://open.spotify.com/track/6DploCSZVf5gvIP7WBBU6S"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Distance (Volac Remix)",
+        "url": "https://open.spotify.com/album/4DV2LgtYZbumkW6ifBZkzh"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        },
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 215390,
+      "name": "Distance - Volac Remix",
+      "url": "https://open.spotify.com/track/42BdPV3FB2HVsvdokaIDJt"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -817,26 +817,6 @@
       "url": "https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Good Good",
-        "url": "https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 142193,
-      "name": "Good Good",
-      "url": "https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "All That You Need",
@@ -855,18 +835,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc"
       },
       "artists": [
         {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
         }
       ],
-      "duration_ms": 184687,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
+      "duration_ms": 142193,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -895,30 +879,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Your Body",
-        "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
-      },
-      "artists": [
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "Famba",
-          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
-        },
-        {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Disco Tool (Remixes)",
         "url": "https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG"
       },
@@ -939,6 +899,46 @@
       "duration_ms": 217142,
       "name": "Disco Tool (Taiki Nulight Remix)",
       "url": "https://open.spotify.com/track/6NxT9CHTUZx8BkOh6gCEvh"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "Famba",
+          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
+        },
+        {
+          "name": "Kyra Mastro",
+          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1013,6 +1013,22 @@
       "url": "https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep"
     },
     {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Flexin",
+        "url": "https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 135705,
+      "name": "Flexin",
+      "url": "https://open.spotify.com/track/2OvqYU6lo9GA6hO2jVttKm"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Cathedral (Piece Of Me) [feat. JEN]",
@@ -1031,22 +1047,6 @@
       "duration_ms": 148809,
       "name": "Cathedral (Piece Of Me) [feat. JEN]",
       "url": "https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Flexin",
-        "url": "https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 135705,
-      "name": "Flexin",
-      "url": "https://open.spotify.com/track/2OvqYU6lo9GA6hO2jVttKm"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1325,24 +1325,24 @@
       "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG"
+        "name": "Get It",
+        "url": "https://open.spotify.com/album/16nkpBkz928wEufZWM3TwO"
       },
       "artists": [
         {
-          "name": "NO SIGNE",
-          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
+          "name": "Afrojack presents NLW",
+          "url": "https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO"
         },
         {
-          "name": "Rell Rock",
-          "url": "https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq"
+          "name": "Phlegmatic Dogs",
+          "url": "https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe"
         }
       ],
-      "duration_ms": 180480,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
+      "duration_ms": 191285,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/1kFs6riPsFjxz1VLb3H8yx"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1365,24 +1365,24 @@
       "url": "https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Get It",
-        "url": "https://open.spotify.com/album/16nkpBkz928wEufZWM3TwO"
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG"
       },
       "artists": [
         {
-          "name": "Afrojack presents NLW",
-          "url": "https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO"
+          "name": "NO SIGNE",
+          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
         },
         {
-          "name": "Phlegmatic Dogs",
-          "url": "https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe"
+          "name": "Rell Rock",
+          "url": "https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq"
         }
       ],
-      "duration_ms": 191285,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/1kFs6riPsFjxz1VLb3H8yx"
+      "duration_ms": 180480,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Let's Get Down",
+        "url": "https://open.spotify.com/album/0RMwN0JKg3S63dZQzhwhL6"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "duration_ms": 193170,
+      "name": "Let's Get Down",
+      "url": "https://open.spotify.com/track/0XMEQwAZFgX4PGb5eu67B8"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "How it is",
         "url": "https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 151475,
       "name": "Loose",
       "url": "https://open.spotify.com/track/5c2KynltsWD6agVEbaHwof"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Let's Get Down",
-        "url": "https://open.spotify.com/album/0RMwN0JKg3S63dZQzhwhL6"
-      },
-      "artists": [
-        {
-          "name": "Firebeatz",
-          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
-        }
-      ],
-      "duration_ms": 193170,
-      "name": "Let's Get Down",
-      "url": "https://open.spotify.com/track/0XMEQwAZFgX4PGb5eu67B8"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Make a Living",
         "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 177798,
       "name": "Make a Living",
       "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1861,6 +1861,22 @@
       "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "DuDuDu",
+        "url": "https://open.spotify.com/album/16hjrnSiJDIjmHYpaAy16L"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 200243,
+      "name": "DuDuDu",
+      "url": "https://open.spotify.com/track/4PfrCntphqH3KEfe2QEJS5"
+    },
+    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "Good For Me",
@@ -1919,22 +1935,6 @@
       "duration_ms": 157500,
       "name": "Green Light (feat. Kate Wild)",
       "url": "https://open.spotify.com/track/4SnBJPqAZmf18gF4vlqEWL"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN"
-      },
-      "artists": [
-        {
-          "name": "Seth Hills",
-          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K"
     }
   ],
   "unique_name": "Shuffle Syndrome",

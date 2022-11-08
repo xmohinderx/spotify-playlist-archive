@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Clovis, Ton Carfi",
-  "num_followers": 227000,
+  "num_followers": 227159,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzNTIwOCwwMDAwMDAwMGI4NzQ5NWM0NGY5OTZjYWJiZjgzMTJjN2I1ZWVjZWM0",
+  "snapshot_id": "MTY2NjkzNTIwOCwwMDAwMDAwMDk2MGIxNzUyNDE3MjRkMzNiNjJiZGYyNWIzNmEzZmY0",
   "tracks": [
     {
       "added_at": "2022-10-28 05:33:28",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
+        "name": "A Reforma",
+        "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 320361,
+      "name": "A Reforma",
+      "url": "https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
         "name": "Vai Passar (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 156734,
       "name": "Eu Sei Que N\u00e3o Estou S\u00f3 (Ao Vivo)",
       "url": "https://open.spotify.com/track/3WOErrC9fsgv1x9rig0Co8"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
-        "name": "A Reforma",
-        "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 320361,
-      "name": "A Reforma",
-      "url": "https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
-        "name": "Eu N\u00e3o Sou Mais \u00d3rf\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0SRSWrnuWiDoWzU3QRVM0e"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Eu N\u00e3o Sou Mais \u00d3rf\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7BlLmanL024pf0doBknUi4"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
         "name": "Espera S\u00f3 Mais um Pouquinho",
         "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
       },
@@ -287,22 +271,6 @@
       "duration_ms": 229759,
       "name": "Espera S\u00f3 Mais um Pouquinho",
       "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
-        "name": "Ac\u00fastico Mergulhar",
-        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 374096,
-      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -323,18 +291,34 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
-        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
+        "name": "Eu N\u00e3o Sou Mais \u00d3rf\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0SRSWrnuWiDoWzU3QRVM0e"
       },
       "artists": [
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
         }
       ],
-      "duration_ms": 255600,
-      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
+      "duration_ms": 208810,
+      "name": "Eu N\u00e3o Sou Mais \u00d3rf\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7BlLmanL024pf0doBknUi4"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
+        "name": "Ac\u00fastico Mergulhar",
+        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 374096,
+      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -371,6 +355,22 @@
       "duration_ms": 265945,
       "name": "Teus Sonhos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5nzYFnyJ8E8l8NPzWGrc4u"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
+        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
+        "name": "S\u00e9rie Ac\u00fastica Com Fernandinho, Vol. 3 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/461uxJ7Fk4jjJ1q8gYo16L"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 234016,
+      "name": "Faz Chover - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5FPjAIOZoxboGvYkr7eawZ"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
         "name": "A Mesa",
         "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 288000,
       "name": "Novo Amanh\u00e3 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2nuU37X3MZhc7qtAbZ2dHn"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
-        "name": "S\u00e9rie Ac\u00fastica Com Fernandinho, Vol. 3 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/461uxJ7Fk4jjJ1q8gYo16L"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 234016,
-      "name": "Faz Chover - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/5FPjAIOZoxboGvYkr7eawZ"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
-        "name": "Acoustic Session, Vol. 01",
-        "url": "https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 280161,
-      "name": "Eu Te Vejo Em Tudo - Acoustic Session",
-      "url": "https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
         "name": "Recome\u00e7ar",
         "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 230792,
       "name": "Recome\u00e7ar",
       "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
+        "name": "Acoustic Session, Vol. 01",
+        "url": "https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 280161,
+      "name": "Eu Te Vejo Em Tudo - Acoustic Session",
+      "url": "https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
         "name": "Encaixe",
         "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+        "name": "Milagres (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+      "duration_ms": 290000,
+      "name": "Milagres - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -727,22 +743,6 @@
       "duration_ms": 242005,
       "name": "Mais Que Uma Voz",
       "url": "https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
-        "name": "Milagres (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "Milagres - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
+        "name": "A Dois",
+        "url": "https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 236001,
+      "name": "A Dois",
+      "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
         "name": "Tuas \u00c1guas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 299893,
       "name": "Tuas \u00c1guas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
-        "name": "A Dois",
-        "url": "https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 236001,
-      "name": "A Dois",
-      "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
+        "name": "Kemilly Santos no Ess\u00eancia Sessions",
+        "url": "https://open.spotify.com/album/2fG0DCQ5XJuD3f3vDZt14p"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 298190,
+      "name": "Acredite (Ess\u00eancia Sessions)",
+      "url": "https://open.spotify.com/track/0pEFUVX4V4EfFAo0lKr9cl"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
         "name": "Me Enche de Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 309333,
       "name": "Me Enche de Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
-        "name": "Kemilly Santos no Ess\u00eancia Sessions",
-        "url": "https://open.spotify.com/album/2fG0DCQ5XJuD3f3vDZt14p"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 298190,
-      "name": "Acredite (Ess\u00eancia Sessions)",
-      "url": "https://open.spotify.com/track/0pEFUVX4V4EfFAo0lKr9cl"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
-        "name": "On Tape (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 228388,
-      "name": "Falar Com Deus - Faixa B\u00f4nus",
-      "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
         "name": "No Secreto",
         "url": "https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 410245,
       "name": "No Secreto",
       "url": "https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
+        "name": "On Tape (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 228388,
+      "name": "Falar Com Deus - Faixa B\u00f4nus",
+      "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
     },
     {
       "added_at": "2022-10-28 05:33:28",

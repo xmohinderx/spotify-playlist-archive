@@ -1,13 +1,33 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 16110,
+  "num_followers": 16141,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDIyZjc2OWNkOTEwZmEyYjZiNjc2N2FhM2YxMjg4YWY5",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGNiZGYzYWJiNDJjYTU1ZjM5N2FkOWNiNjVmMTA3YjQ2",
   "tracks": [
+    {
+      "added_at": "2022-11-07 19:08:41",
+      "album": {
+        "name": "Inflation",
+        "url": "https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD"
+      },
+      "artists": [
+        {
+          "name": "Earnest Jackson",
+          "url": "https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm"
+        },
+        {
+          "name": "Sugar Daddy and the Gumbo Roux",
+          "url": "https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6"
+        }
+      ],
+      "duration_ms": 199734,
+      "name": "Inflation",
+      "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
+    },
     {
       "added_at": "2021-12-03 05:02:00",
       "album": {
@@ -443,22 +463,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I Wanna Get Funky",
-        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 464373,
-      "name": "Crosscut Saw",
-      "url": "https://open.spotify.com/track/3YHEwYxevWWe4Agis11Gnf"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Back To Bogalusa",
         "url": "https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0"
       },
@@ -471,6 +475,22 @@
       "duration_ms": 266226,
       "name": "Grape Jelly",
       "url": "https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "I Wanna Get Funky",
+        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 464373,
+      "name": "Crosscut Saw",
+      "url": "https://open.spotify.com/track/3YHEwYxevWWe4Agis11Gnf"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -491,22 +511,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "When A Woman's Had Enough",
-      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
       },
@@ -523,18 +527,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "That's What I Heard",
-        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
       "artists": [
         {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 205586,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW"
+      "duration_ms": 234906,
+      "name": "When A Woman's Had Enough",
+      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -567,6 +571,22 @@
       "duration_ms": 228667,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "That's What I Heard",
+        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
+      },
+      "artists": [
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -617,6 +637,26 @@
       "url": "https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu"
     },
     {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "LaDonna Gales",
+          "url": "https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV"
+        }
+      ],
+      "duration_ms": 183520,
+      "name": "Take Me Just As I Am",
+      "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
+    },
+    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Rhythm & Blues",
@@ -651,42 +691,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Iceman",
-        "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 332560,
-      "name": "Put The Shoe On The Other Foot",
-      "url": "https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "LaDonna Gales",
-          "url": "https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV"
-        }
-      ],
-      "duration_ms": 183520,
-      "name": "Take Me Just As I Am",
-      "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
       },
@@ -699,6 +703,22 @@
       "duration_ms": 244623,
       "name": "Same Ole Feeling",
       "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Iceman",
+        "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Put The Shoe On The Other Foot",
+      "url": "https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -785,6 +805,22 @@
       "url": "https://open.spotify.com/track/2P9jpTryQV7mu7ufOryj59"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Alligator Records Years",
+        "url": "https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl"
+      },
+      "artists": [
+        {
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+        }
+      ],
+      "duration_ms": 231026,
+      "name": "I Smell Smoke",
+      "url": "https://open.spotify.com/track/4ihshArvoPJsADnFAg889U"
+    },
+    {
       "added_at": "2021-04-23 04:01:00",
       "album": {
         "name": "Fire It Up",
@@ -803,22 +839,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Alligator Records Years",
-        "url": "https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl"
-      },
-      "artists": [
-        {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
-        }
-      ],
-      "duration_ms": 231026,
-      "name": "I Smell Smoke",
-      "url": "https://open.spotify.com/track/4ihshArvoPJsADnFAg889U"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Iceman",
         "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
       },
@@ -831,22 +851,6 @@
       "duration_ms": 250333,
       "name": "I'm Beginning To Wonder",
       "url": "https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Bubbles",
-        "url": "https://open.spotify.com/album/6bIs6laKPXv8uQYPRGncif"
-      },
-      "artists": [
-        {
-          "name": "Rick Holmstrom",
-          "url": "https://open.spotify.com/artist/35UiXUhK0DxiIColZzzQ4P"
-        }
-      ],
-      "duration_ms": 143116,
-      "name": "Bubbles",
-      "url": "https://open.spotify.com/track/0wt7KE5Y255f2enVmlwsu0"
     }
   ],
   "unique_name": "Funky Blues",

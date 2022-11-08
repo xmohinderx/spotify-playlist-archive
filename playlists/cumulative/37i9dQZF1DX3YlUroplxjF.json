@@ -1228,6 +1228,24 @@
     },
     {
       "album": {
+        "name": "Finding God Before God Finds Me (Deluxe)",
+        "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261398,
+      "name": "Come Undone",
+      "url": "https://open.spotify.com/track/4ztGu78QFB9Syh7JcS09XR"
+    },
+    {
+      "album": {
         "name": "Sad Reacts Only",
         "url": "https://open.spotify.com/album/326gyra2R3Rd8MkN19md43"
       },
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 197213,
       "name": "Face the Fire",
       "url": "https://open.spotify.com/track/4kpKtTu9ZpEb5ENZD0emKH"
@@ -3213,6 +3231,24 @@
       "duration_ms": 179250,
       "name": "Laundry Day",
       "url": "https://open.spotify.com/track/0aRy46fbao32mc4GXMtc9t"
+    },
+    {
+      "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198248,
+      "name": "Leave It All Behind",
+      "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
     },
     {
       "album": {
@@ -6263,7 +6299,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 208258,
       "name": "Were You Nervous?",
       "url": "https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0"

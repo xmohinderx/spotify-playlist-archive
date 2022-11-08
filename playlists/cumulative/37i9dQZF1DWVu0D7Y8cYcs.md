@@ -4,7 +4,7 @@
 
 > Come on, man\. Just smile!
 
-74 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/7ARCrfEcAoPx57gahlhMW5)
+75 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/7ARCrfEcAoPx57gahlhMW5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,9 +71,10 @@
 | [True Love](https://open.spotify.com/track/2Y9WfjpGt3kzv7cbRl3s3O) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Peace in a Time of War](https://open.spotify.com/album/4Wps42vdfVXj2aJW4mf2yn) | 4:16 | 2022-06-20 |  |
 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 | 2021-10-24 |  |
 | [Ups And Downs \(Chronixx Presents: Soul Circle Music\)](https://open.spotify.com/track/50XYu0huetyDixA0Nvv6S9) | [Hector Roots Lewis](https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Ups And Downs \(Chronixx Presents: Soul Circle Music\)](https://open.spotify.com/album/11wUMGuN8BrCaeAdjbriic) | 3:34 | 2022-06-20 |  |
-| [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 | 2021-10-24 |  |
+| [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 | 2021-10-24 | 2022-11-08 |
 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t) | 4:13 | 2022-06-20 |  |
 | [Well Excellent](https://open.spotify.com/track/7uX7niEFrJFmj3SFHsnwkL) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Jr\. Demus](https://open.spotify.com/artist/2P7kXO4UzC2NHSHRmtdWlb) | [Well Excellent](https://open.spotify.com/album/4of34K5GjdYXRcfLKwjHKG) | 3:36 | 2021-10-24 | 2022-09-05 |
+| [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Junior Demus](https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 | 2022-10-13 |  |
 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 | 2022-06-20 |  |
 | [What I Got](https://open.spotify.com/track/3oVSsJXNADnYAnZWiEWFJH) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime \(Explicit Version\)](https://open.spotify.com/album/5dwkpREUiLdmPLy4POzFSa) | 2:51 | 2021-10-24 | 2022-07-29 |
 | [Woii](https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:28 | 2021-10-24 | 2022-11-01 |

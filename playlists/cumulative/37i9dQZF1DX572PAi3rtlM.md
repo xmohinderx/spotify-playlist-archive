@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-141 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
+142 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Love Endeavor \(Maurice Fulton Remix\) \- Mixed](https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Weekends and Beginnings](https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C) | 5:32 | 2021-09-01 |  |
 | [Love To The World](https://open.spotify.com/track/7M4L1kiKMhtQZmpyO78DKd) | [L.T.D.](https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ), [Jeffrey Osborne](https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK) | [Love To The World](https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0) | 5:03 | 2021-09-01 | 2022-05-08 |
 | [Lurk](https://open.spotify.com/track/18uMuvNai5GtXxw4q8qjKR) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/7thl8MxQ3IyU91WpifnEZH) | 2:33 | 2021-09-01 | 2022-10-22 |
+| [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 | 2021-09-01 |  |
 | [Ma quale idea](https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [...Balla!](https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE) | 4:22 | 2021-09-01 |  |
 | [Manhattan Skyline \- JN Spirit of '77 Extended Mix](https://open.spotify.com/track/7i6jzIErXC8cnYhgpCt7b9) | [AC Soul Symphony](https://open.spotify.com/artist/5DsFurQjk8iOOLwG3uj4wQ), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Manhattan Skyline](https://open.spotify.com/album/4YHDGOswqmUbLbPjmDA5lb) | 11:06 | 2021-09-01 | 2022-07-29 |
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-09-01 |  |
@@ -104,7 +105,7 @@
 | [Pose](https://open.spotify.com/track/2b06hoCTKogMazNvtbCjQC) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j) | [Pose](https://open.spotify.com/album/2yC5omuXyoEwVSTzJZMcLY) | 4:26 | 2021-09-01 | 2022-07-28 |
 | [Power To The People](https://open.spotify.com/track/0uxohsqS7JLISPsCnWI1gj) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Resonant Body](https://open.spotify.com/album/4tCzrHhdqQ8CiM9e3tZR0F) | 7:01 | 2021-09-01 | 2022-07-25 |
 | [Pretty Face \- 12" Version](https://open.spotify.com/track/574uq1y82QgKJfAX4LEO1t) | [Stinger J.](https://open.spotify.com/artist/3g9j8j65o6WhNWDlrCY7XP) | [Pretty Face](https://open.spotify.com/album/0a2iikoBJyhdqjZ5a9z6oA) | 6:41 | 2021-09-01 | 2022-07-29 |
-| [Prix Choc \- Radio Edit \- High Mix](https://open.spotify.com/track/6GjZSAoI4Kmwv1UgbTrcSr) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Prix Choc](https://open.spotify.com/album/5QnMddkPs8ThZLpnTDoV9O) | 3:55 | 2021-09-01 |  |
+| [Prix Choc \- Radio Edit \- High Mix](https://open.spotify.com/track/6GjZSAoI4Kmwv1UgbTrcSr) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Prix Choc](https://open.spotify.com/album/5QnMddkPs8ThZLpnTDoV9O) | 3:55 | 2021-09-01 | 2022-11-08 |
 | [Prix Choc \- Radio Edit \- High Mix](https://open.spotify.com/track/6UEhwP9HXhRlltR8y9iH8D) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Prix Choc Remixes \- EP](https://open.spotify.com/album/3gM5pBpuKsYF1LCFYUbIG8) | 3:55 | 2021-09-01 | 2022-07-29 |
 | [Pyramid \- Mixed](https://open.spotify.com/track/2n1WQwQVpkEQyIW7yBcl2H) | [Soul Bros Inc.](https://open.spotify.com/artist/1zupRZgEyj3kKwVBaMJQeX) | [Mister Saturday Night, Then And Now \(Mixed Tracks\)](https://open.spotify.com/album/5h9gVzIEGXSWtk6QDXumWo) | 2:12 | 2021-09-01 | 2022-07-20 |
 | [Raw Cuts \#3](https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Raw Cuts \#3](https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe) | 6:54 | 2021-09-01 |  |

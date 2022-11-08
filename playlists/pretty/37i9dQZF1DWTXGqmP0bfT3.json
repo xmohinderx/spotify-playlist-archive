@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 184178,
+  "num_followers": 184497,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA2OTMzNSwwMDAwMDAwMGZlMzk0ODYyZmFiMTQ1MTcyMDNmNjAxZWU4OWIyYTYy",
+  "snapshot_id": "MTY2NTA2OTMzNSwwMDAwMDAwMDFjYjkwMDlkZTlkZDQ5MjRkMjA5MWI1OWUyMTdmM2M0",
   "tracks": [
     {
       "added_at": "2022-10-06 15:15:35",
@@ -139,38 +139,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "The Concrete Confessional",
-        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "Looking Down the Barrel of Today",
-      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 231603,
-      "name": "Ausl\u00e4nder",
-      "url": "https://open.spotify.com/track/7j43FohbLVulScL7S9sQZk"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
@@ -183,6 +151,22 @@
       "duration_ms": 218933,
       "name": "Toxicity",
       "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "The Concrete Confessional",
+        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "Looking Down the Barrel of Today",
+      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -203,22 +187,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 365826,
-      "name": "Painkiller",
-      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Cowboys from Hell",
         "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
       },
@@ -231,6 +199,54 @@
       "duration_ms": 243533,
       "name": "Cowboys from Hell",
       "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 231603,
+      "name": "Ausl\u00e4nder",
+      "url": "https://open.spotify.com/track/7j43FohbLVulScL7S9sQZk"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Rust In Peace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 319266,
+      "name": "Tornado Of Souls - Remastered 2004",
+      "url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 365826,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -263,22 +279,6 @@
       "duration_ms": 257734,
       "name": "Rip & Tear",
       "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
-        "name": "Rust In Peace (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 319266,
-      "name": "Tornado Of Souls - Remastered 2004",
-      "url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 177048,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
         "name": "Got Your Six (Deluxe)",
         "url": "https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "MASSIVE ADDICTIVE",
-        "url": "https://open.spotify.com/album/0GCcO9StyRRAGumjCOTSpN"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Drop Dead Cynical",
-      "url": "https://open.spotify.com/track/5VToMJACRoeT0YZNs5CYyp"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 154906,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "MASSIVE ADDICTIVE",
+        "url": "https://open.spotify.com/album/0GCcO9StyRRAGumjCOTSpN"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Drop Dead Cynical",
+      "url": "https://open.spotify.com/track/5VToMJACRoeT0YZNs5CYyp"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -587,22 +603,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 177048,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Berserker",
         "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 304596,
       "name": "Blind and Frozen",
       "url": "https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Faceless",
+        "url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "I Stand Alone",
+      "url": "https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -731,22 +747,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Faceless",
-        "url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "I Stand Alone",
-      "url": "https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "The Sacrament of Sin",
         "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
       },
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
         "name": "Prequelle",
         "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 202158,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "The Strength / The Sound / The Songs",
         "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 164093,
       "name": "I Only Wanna Be With You",
       "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Blood of the Saints",
+        "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 265720,
+      "name": "Sanctified with Dynamite",
+      "url": "https://open.spotify.com/track/2ZUUturolW3VpzXWzPEy2X"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -907,22 +923,6 @@
       "duration_ms": 223655,
       "name": "Letting You Go",
       "url": "https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
-        "name": "Blood of the Saints",
-        "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 265720,
-      "name": "Sanctified with Dynamite",
-      "url": "https://open.spotify.com/track/2ZUUturolW3VpzXWzPEy2X"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Fear of the Dark (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 438120,
-      "name": "Fear of the Dark - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Bloodstone & Diamonds",
         "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 242640,
       "name": "From The Pinnacle To The Pit",
       "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Fear of the Dark (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 438120,
+      "name": "Fear of the Dark - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 227864,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Shadows Inside",
         "url": "https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 236549,
       "name": "Shadows Inside",
       "url": "https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 227864,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Tales from the Kingdom of Fife",
-        "url": "https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE"
-      },
-      "artists": [
-        {
-          "name": "Gloryhammer",
-          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "Angus Mcfife",
-      "url": "https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Killer Elite",
         "url": "https://open.spotify.com/album/6p2TDcw5AKmxzEqzgjWlGN"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 439213,
       "name": "Through The Fire And Flames",
       "url": "https://open.spotify.com/track/1iTb2vi8Bls7QY6CKL2gj2"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Tales from the Kingdom of Fife",
+        "url": "https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE"
+      },
+      "artists": [
+        {
+          "name": "Gloryhammer",
+          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "Angus Mcfife",
+      "url": "https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 256573,
-      "name": "Of Wolf and Man (Remastered)",
-      "url": "https://open.spotify.com/track/55bio2ZtgCnUWsbANOEETT"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Firepower",
         "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 209453,
       "name": "Lightning Strike",
       "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 256573,
+      "name": "Of Wolf and Man (Remastered)",
+      "url": "https://open.spotify.com/track/55bio2ZtgCnUWsbANOEETT"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Band of Brothers",
-        "url": "https://open.spotify.com/album/0FpYtZ9BvsELBBTk69s3Lq"
-      },
-      "artists": [
-        {
-          "name": "HELLYEAH",
-          "url": "https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Drink Drank Drunk",
-      "url": "https://open.spotify.com/track/5A7ZY7Ne45YzSCVmQYggkP"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Jomsviking",
         "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+        "name": "Band of Brothers",
+        "url": "https://open.spotify.com/album/0FpYtZ9BvsELBBTk69s3Lq"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "HELLYEAH",
+          "url": "https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f"
         }
       ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
+      "duration_ms": 236333,
+      "name": "Drink Drank Drunk",
+      "url": "https://open.spotify.com/track/5A7ZY7Ne45YzSCVmQYggkP"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -1559,22 +1543,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2jzqAyRGrsWrt45t5kGmfi"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "MAXIMALISM",
         "url": "https://open.spotify.com/album/3JsTgs4JiSmbVwkkfY5vAh"
       },
@@ -1587,6 +1555,38 @@
       "duration_ms": 190106,
       "name": "Maximize",
       "url": "https://open.spotify.com/track/43SK9pr4z0KjxCU6Urll9S"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2jzqAyRGrsWrt45t5kGmfi"
     },
     {
       "added_at": "2022-10-06 15:15:35",

@@ -2982,6 +2982,24 @@
     },
     {
       "album": {
+        "name": "Not Being Dead Is Pretty Sweet",
+        "url": "https://open.spotify.com/album/3ckpiFKbVV5uWKk4m3cHDd"
+      },
+      "artists": [
+        {
+          "name": "Fighter Jets",
+          "url": "https://open.spotify.com/artist/6kzcQB6tyfyVIwnwoWV7vH"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279946,
+      "name": "Lost in the City",
+      "url": "https://open.spotify.com/track/1pp2MCCJ7B3t1faACIdKPN"
+    },
+    {
+      "album": {
         "name": "Love Song for a Replicant",
         "url": "https://open.spotify.com/album/0QceXgAzM1gNZV0pU8c2Sq"
       },

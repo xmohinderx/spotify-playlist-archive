@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Ana Gabriela",
-  "num_followers": 326453,
+  "num_followers": 326486,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzMDgwMCwwMDAwMDAwMGRiNGNiNmU4ZGQzMTEzZDE2Y2Q0ZTliM2EyMTc5NmFk",
+  "snapshot_id": "MTY2NzUzMDgwMCwwMDAwMDAwMDVjYTc5NjQ5NzAzZDJjZTEyYjFlMWRlMzc3Njg4OTJj",
   "tracks": [
     {
       "added_at": "2022-11-04 03:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Travessia - Spotify Singles",
-        "url": "https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "Travessia - Spotify Singles",
-      "url": "https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "No Escuro",
         "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 238384,
       "name": "No Escuro",
       "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "Travessia - Spotify Singles",
+        "url": "https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 205128,
+      "name": "Travessia - Spotify Singles",
+      "url": "https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
+        "name": "Portas",
+        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Feliz, Alegre e Forte",
+      "url": "https://open.spotify.com/track/5wIytrxWis1yWdvAE5z890"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
         "name": "O Caderno",
         "url": "https://open.spotify.com/album/4AsIrrva7npJe26M3wNPDH"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 162000,
       "name": "O Caderno",
       "url": "https://open.spotify.com/track/6AWFzXFFWd29Juiz3oOtzb"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
-        "name": "Portas",
-        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Feliz, Alegre e Forte",
-      "url": "https://open.spotify.com/track/5wIytrxWis1yWdvAE5z890"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
         "name": "Meu Esquema",
         "url": "https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR"
       },
@@ -663,18 +679,22 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
+        "name": "Beleza Destru\u00edda",
+        "url": "https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 186400,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+      "duration_ms": 280271,
+      "name": "Beleza Destru\u00edda",
+      "url": "https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -711,26 +731,6 @@
       "duration_ms": 283557,
       "name": "Nu Com a Minha M\u00fasica",
       "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
-        "name": "Beleza Destru\u00edda",
-        "url": "https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 280271,
-      "name": "Beleza Destru\u00edda",
-      "url": "https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -787,6 +787,42 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
+        "name": "Portas",
+        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Vento Sardo",
+      "url": "https://open.spotify.com/track/6zqqCZA5EOvMXj5nRKuTy7"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "Num Mundo de Paz",
+        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 342514,
+      "name": "Num Mundo de Paz",
+      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
         "name": "Ana Ca\u00f1as Canta Belchior",
         "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
       },
@@ -823,22 +859,18 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Portas",
-        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
+        "name": "Nu Com a Minha M\u00fasica",
+        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 255800,
-      "name": "Vento Sardo",
-      "url": "https://open.spotify.com/track/6zqqCZA5EOvMXj5nRKuTy7"
+      "duration_ms": 216933,
+      "name": "Quase um Segundo",
+      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -863,22 +895,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica",
-        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Quase um Segundo",
-      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "Meu Parceiro Belchior",
         "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 166006,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
-        "name": "Num Mundo de Paz",
-        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 342514,
-      "name": "Num Mundo de Paz",
-      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Tenho Sede",
-        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 190468,
-      "name": "Tenho Sede",
-      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "Ao Vivo no Montreux Jazz Festival 1997",
         "url": "https://open.spotify.com/album/6TUhbe62fmri26xrurl58M"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 249845,
       "name": "Seca - Ao Vivo no Montreux Jazz Festival 1997",
       "url": "https://open.spotify.com/track/55sJHFHTpLSrBVy8OSHsVy"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "Tenho Sede",
+        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 190468,
+      "name": "Tenho Sede",
+      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
+        "name": "Outras Pessoas",
+        "url": "https://open.spotify.com/album/6VkLmqMgWidTCTK73U1eqW"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "Outras Pessoas",
+      "url": "https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
         "name": "Chico Chico & Fran Ao Vivo no Rio",
         "url": "https://open.spotify.com/album/2g9BywNzkSuw0dgLDflALh"
       },
@@ -1143,38 +1159,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Outras Pessoas",
-        "url": "https://open.spotify.com/album/6VkLmqMgWidTCTK73U1eqW"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "Outras Pessoas",
-      "url": "https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 210030,
-      "name": "Rota\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "Alceu Valen\u00e7a e Paulo Rafael",
         "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 204873,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 210030,
+      "name": "Rota\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "A Palo Seco (Radio Edit)",
-        "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 215660,
-      "name": "A Palo Seco - Radio Edit",
-      "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "Baby e Pepeu - Noites Cariocas (Ao Vivo)",
         "url": "https://open.spotify.com/album/0zjPNdJPiDYm2BlSloyhtC"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 261056,
       "name": "Planeta V\u00eanus - Ao Vivo",
       "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "A Palo Seco (Radio Edit)",
+        "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 215660,
+      "name": "A Palo Seco - Radio Edit",
+      "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
+        "name": "cinco sentidos",
+        "url": "https://open.spotify.com/album/5PDji9gLhjgUN7298EUHM5"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 201077,
+      "name": "miopia",
+      "url": "https://open.spotify.com/track/3kw6wS0IxPJ8STi1X00GYU"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
         "name": "Mesti\u00e7o",
         "url": "https://open.spotify.com/album/1uTHWGAA7LxCNwkj79goWp"
       },
@@ -1783,18 +1799,22 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "cinco sentidos",
-        "url": "https://open.spotify.com/album/5PDji9gLhjgUN7298EUHM5"
+        "name": "Chico Chico Ao Vivo na Macaco Gordo",
+        "url": "https://open.spotify.com/album/1bus2kUGKliwotPBTiPUBo"
       },
       "artists": [
         {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        },
+        {
+          "name": "Macaco Gordo",
+          "url": "https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9"
         }
       ],
-      "duration_ms": 201077,
-      "name": "miopia",
-      "url": "https://open.spotify.com/track/3kw6wS0IxPJ8STi1X00GYU"
+      "duration_ms": 195506,
+      "name": "Templos - Ao Vivo",
+      "url": "https://open.spotify.com/track/5gOXswoH6SMzvWy7lvCpQC"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1827,26 +1847,6 @@
       "duration_ms": 195279,
       "name": "Saudade \u00c9 Pouco",
       "url": "https://open.spotify.com/track/4KJkY8dFC4fleO2HbdMHRE"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
-        "name": "Chico Chico Ao Vivo na Macaco Gordo",
-        "url": "https://open.spotify.com/album/1bus2kUGKliwotPBTiPUBo"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        },
-        {
-          "name": "Macaco Gordo",
-          "url": "https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Templos - Ao Vivo",
-      "url": "https://open.spotify.com/track/5gOXswoH6SMzvWy7lvCpQC"
     },
     {
       "added_at": "2022-11-04 03:00:00",

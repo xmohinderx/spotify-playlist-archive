@@ -1236,6 +1236,24 @@
     },
     {
       "album": {
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/0e1s7jQdJ0VsdzSnMXAPX9"
+      },
+      "artists": [
+        {
+          "name": "William Fitzsimmons",
+          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207675,
+      "name": "Love Will Tear Us Apart",
+      "url": "https://open.spotify.com/track/2fqx5MvWamArHztg7cG1iy"
+    },
+    {
+      "album": {
         "name": "Love Will Tear Us Apart",
         "url": "https://open.spotify.com/album/4MaNHSLIC0Skopb065UTqB"
       },
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 207675,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/2kakyWs2a0G4btnhj0l1Eg"

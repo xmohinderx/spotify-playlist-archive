@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 201,
+  "num_followers": 205,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA5MDAwMCwwMDAwMDAwMDM4Y2U4YTFmODIxOGI5NjJlZDliODgxODJmZTE2Nzlh",
+  "snapshot_id": "MTY2NTA5MDAwMCwwMDAwMDAwMGRiMmY0MTJmYTA4OTc4ZWNiNTE4ZGM4MDFmMzFkY2U3",
   "tracks": [
     {
       "added_at": "2022-03-31 17:42:20",
@@ -479,6 +479,26 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Karole Kasita",
+          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
+        }
+      ],
+      "duration_ms": 196963,
+      "name": "Gyal A Bubble",
+      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
         "name": "Tick Talk",
         "url": "https://open.spotify.com/album/1QXAYNwiCldVsj5Zb2D3sP"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 220206,
       "name": "Tick Talk",
       "url": "https://open.spotify.com/track/5lSYksFuC3lKlCAYROEQd0"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Karole Kasita",
-          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
-        }
-      ],
-      "duration_ms": 196963,
-      "name": "Gyal A Bubble",
-      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -645,30 +645,6 @@
       "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Nkwatewa",
-        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
-      },
-      "artists": [
-        {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
-        },
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 181890,
-      "name": "Nkwatewa",
-      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
-    },
-    {
       "added_at": "2022-05-19 20:59:00",
       "album": {
         "name": "Welcome",
@@ -683,6 +659,26 @@
       "duration_ms": 193959,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Kokonya",
+        "url": "https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        },
+        {
+          "name": "King Saha",
+          "url": "https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3"
+        }
+      ],
+      "duration_ms": 229433,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b"
     },
     {
       "added_at": "2022-04-07 20:59:00",
@@ -707,26 +703,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Kokonya",
-        "url": "https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        },
-        {
-          "name": "King Saha",
-          "url": "https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3"
-        }
-      ],
-      "duration_ms": 229433,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Misege",
         "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 188235,
       "name": "Misege",
       "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Nkwatewa",
+        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
+      },
+      "artists": [
+        {
+          "name": "selecta jef",
+          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+        },
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 181890,
+      "name": "Nkwatewa",
+      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -881,26 +881,6 @@
       "url": "https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx"
     },
     {
-      "added_at": "2022-10-06 21:00:00",
-      "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/5uovEJCYYLl53i8Wryc1e9"
-      },
-      "artists": [
-        {
-          "name": "DJ Shiru",
-          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
-        },
-        {
-          "name": "Sama Sojah",
-          "url": "https://open.spotify.com/artist/6Cu8b2RnzlfjEWxuKrg9Bk"
-        }
-      ],
-      "duration_ms": 184995,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/0c3TjkmUKWDDi5WHM2qmPy"
-    },
-    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "FRIEND ZONE",
@@ -971,18 +951,50 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Randomly",
-        "url": "https://open.spotify.com/album/3riIOAhXg6Zo3GNze6M08e"
+        "name": "We Can",
+        "url": "https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC"
       },
       "artists": [
         {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+        },
+        {
+          "name": "Keicy",
+          "url": "https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW"
+        },
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW"
+        },
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
         }
       ],
-      "duration_ms": 163846,
-      "name": "Randomly",
-      "url": "https://open.spotify.com/track/1Fv38gwrECsHY2LyNwsnl1"
+      "duration_ms": 220408,
+      "name": "Born To Love You - 2020 Remix",
+      "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
+    },
+    {
+      "added_at": "2022-10-06 21:00:00",
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/5uovEJCYYLl53i8Wryc1e9"
+      },
+      "artists": [
+        {
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+        },
+        {
+          "name": "Sama Sojah",
+          "url": "https://open.spotify.com/artist/6Cu8b2RnzlfjEWxuKrg9Bk"
+        }
+      ],
+      "duration_ms": 184995,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/0c3TjkmUKWDDi5WHM2qmPy"
     }
   ],
   "unique_name": "Kidandali Parte",

@@ -3068,6 +3068,24 @@
     },
     {
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/1JYsLiWmHiukJClldteW7q"
+      },
+      "artists": [
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208616,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/1BMve5dCKHJ8ARC2fkRpW2"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/41zOUkivBUd5X0KRWPO3CB"
       },

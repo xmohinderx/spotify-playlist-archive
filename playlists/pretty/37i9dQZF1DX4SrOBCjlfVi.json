@@ -1,12 +1,12 @@
 {
   "description": "All the New Joints featuring A Boogie, NLE Choppa and more. Cover: Drake & 21 Savage",
-  "num_followers": 186937,
+  "num_followers": 187083,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGFkYjJiNDRjZDE0NTVlMmI0ZDBkYzA5YTBiNzI2ZTRh",
+  "snapshot_id": "MTY2Nzg1MTkzNywwMDAwMDAwMDg4NTUzYzUxZjU3NzcwYWVhM2VkNTcyZmEyNGNiZGRk",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -22,15 +22,43 @@
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Pussy & Millions (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+      "duration_ms": 160821,
+      "name": "Privileged Rappers",
+      "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Ice Spice",
+        "url": "https://open.spotify.com/album/2unmBPzkmQNJQcTjRXmfzN"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 228803,
+      "name": "Ice Spice",
+      "url": "https://open.spotify.com/track/4cAPBai2AcHU3dFp7tGt3X"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Marie",
+        "url": "https://open.spotify.com/album/08Yk45EknvoQPDm5CKihVA"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/1pnwc4c5qjgxr2tVdSU4C5"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -63,22 +91,6 @@
       "duration_ms": 147435,
       "name": "Bag Talk",
       "url": "https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Ice Spice",
-        "url": "https://open.spotify.com/album/2unmBPzkmQNJQcTjRXmfzN"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 228803,
-      "name": "Ice Spice",
-      "url": "https://open.spotify.com/track/4cAPBai2AcHU3dFp7tGt3X"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -151,18 +163,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Marie",
-        "url": "https://open.spotify.com/album/08Yk45EknvoQPDm5CKihVA"
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 182506,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/1pnwc4c5qjgxr2tVdSU4C5"
+      "duration_ms": 166863,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -178,27 +190,15 @@
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 160821,
-      "name": "Privileged Rappers",
-      "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
+        },
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 166863,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ"
+      "duration_ms": 242026,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
     },
     {
       "added_at": "2022-11-04 04:00:00",

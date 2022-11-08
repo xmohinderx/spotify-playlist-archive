@@ -1,29 +1,13 @@
 {
   "description": "Epic playlist full of amazing cyperpunk-themed Synthwave &#x2F; Retrowave. Updated regularly.",
-  "num_followers": 9572,
+  "num_followers": 9573,
   "original_name": "Cyberpunk Synthwave",
   "owner": {
     "name": "Squares",
     "url": "https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht"
   },
-  "snapshot_id": "Nzc1LDcwNGY3MTg1OWE1ZjQyY2QzODI4NmRlZjg1MGYxZWEzMmIxMzc1MDI=",
+  "snapshot_id": "Nzc5LDk2ZDdhNDMzNjhiZmNhNDM0Mzc0ZTVkNjY1M2U1NTAzYjZlOTZhMDk=",
   "tracks": [
-    {
-      "added_at": "2022-10-10 06:57:20",
-      "album": {
-        "name": "mushroom wasteland",
-        "url": "https://open.spotify.com/album/2qYsj7QW30DzqAEtge6uTw"
-      },
-      "artists": [
-        {
-          "name": "divmod",
-          "url": "https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC"
-        }
-      ],
-      "duration_ms": 211406,
-      "name": "mushroom wasteland",
-      "url": "https://open.spotify.com/track/1Z2k3s16pyNUpuBoI3EmoK"
-    },
     {
       "added_at": "2020-12-14 15:05:17",
       "album": {
@@ -61,10 +45,10 @@
       "url": "https://open.spotify.com/track/55oeRLwLPuBogFVwypcBEf"
     },
     {
-      "added_at": "2022-05-13 07:48:39",
+      "added_at": "2022-10-10 06:57:20",
       "album": {
-        "name": "boo hast",
-        "url": "https://open.spotify.com/album/1rgBam0I15qlgcQZ4KqcHQ"
+        "name": "mushroom wasteland",
+        "url": "https://open.spotify.com/album/2qYsj7QW30DzqAEtge6uTw"
       },
       "artists": [
         {
@@ -72,9 +56,9 @@
           "url": "https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC"
         }
       ],
-      "duration_ms": 193090,
-      "name": "boo hast",
-      "url": "https://open.spotify.com/track/2lsib3FZBij9lm3nOCfaet"
+      "duration_ms": 211406,
+      "name": "mushroom wasteland",
+      "url": "https://open.spotify.com/track/1Z2k3s16pyNUpuBoI3EmoK"
     },
     {
       "added_at": "2021-12-03 11:03:43",
@@ -401,6 +385,22 @@
       "url": "https://open.spotify.com/track/4E5glw2KFTDJ1VdbKGdcqP"
     },
     {
+      "added_at": "2022-05-13 07:48:39",
+      "album": {
+        "name": "boo hast",
+        "url": "https://open.spotify.com/album/1rgBam0I15qlgcQZ4KqcHQ"
+      },
+      "artists": [
+        {
+          "name": "divmod",
+          "url": "https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC"
+        }
+      ],
+      "duration_ms": 193090,
+      "name": "boo hast",
+      "url": "https://open.spotify.com/track/2lsib3FZBij9lm3nOCfaet"
+    },
+    {
       "added_at": "2020-08-14 06:56:16",
       "album": {
         "name": "Ghostwalker",
@@ -643,6 +643,22 @@
       "duration_ms": 242608,
       "name": "Abandoned",
       "url": "https://open.spotify.com/track/5NC9LnlhvglfuCqLNKAApx"
+    },
+    {
+      "added_at": "2022-11-07 07:02:43",
+      "album": {
+        "name": "Not Being Dead Is Pretty Sweet",
+        "url": "https://open.spotify.com/album/3ckpiFKbVV5uWKk4m3cHDd"
+      },
+      "artists": [
+        {
+          "name": "Fighter Jets",
+          "url": "https://open.spotify.com/artist/6kzcQB6tyfyVIwnwoWV7vH"
+        }
+      ],
+      "duration_ms": 279946,
+      "name": "Lost in the City",
+      "url": "https://open.spotify.com/track/1pp2MCCJ7B3t1faACIdKPN"
     },
     {
       "added_at": "2020-08-14 06:49:37",

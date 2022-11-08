@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > if this setlist doesn't include Cruel Summer into Betty into Our Song there's going to be trouble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,709,090 likes - 108 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,709,355 likes - 108 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

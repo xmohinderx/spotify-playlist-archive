@@ -2222,6 +2222,24 @@
     },
     {
       "album": {
+        "name": "PAPARA",
+        "url": "https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6"
+      },
+      "artists": [
+        {
+          "name": "M.CHUZI",
+          "url": "https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391226,
+      "name": "Tzatz\u00ecki",
+      "url": "https://open.spotify.com/track/5YoUD7R6FdYKfQrRcRYgkF"
+    },
+    {
+      "album": {
         "name": "Mammoet",
         "url": "https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI"
       },
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 391226,
       "name": "Tzatz\u00ecki",
       "url": "https://open.spotify.com/track/5hbECi1krvZhoNk14jfpjS"

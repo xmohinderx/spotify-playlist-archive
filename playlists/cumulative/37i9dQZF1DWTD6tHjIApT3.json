@@ -9878,6 +9878,24 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30c4\u30e1\u30f3\u3002",
+        "url": "https://open.spotify.com/album/08bOlAZpzJnBoKAsHRvh6H"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180681,
+      "name": "\u30a4\u30c4\u30e1\u30f3\u3002",
+      "url": "https://open.spotify.com/track/6S1fhXHt8tzOhdERyq3Qqa"
+    },
+    {
+      "album": {
         "name": "\u77b3\u3078\u843d\u3061\u308b\u3088\u30ec\u30b3\u30fc\u30c9",
         "url": "https://open.spotify.com/album/7yqN9LY6txINrErO79WNge"
       },
@@ -10781,7 +10799,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 193343,
       "name": "\u30c0\u30a4\u30ca\u30de\u30a4\u30c8",
       "url": "https://open.spotify.com/track/1fYp7sbbY8iiPVmkQ5R1RP"

@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-526 songs - 1 day 3 hr 30 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+527 songs - 1 day 3 hr 33 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,7 +428,7 @@
 | [Somebody Else](https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP) | [Zonoma](https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH), [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Somebody Else](https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB) | 3:20 | 2022-01-14 | 2022-09-03 |
 | [Someone You Loved](https://open.spotify.com/track/1acOxwadqwCMqSTho4Vh0B) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Justin Rhodes](https://open.spotify.com/artist/1UnFIMbh19hkqi7kAUXEXt) | [Someone You Loved](https://open.spotify.com/album/3hZU2fpkYh4RSzx62pdDDk) | 2:34 | 2022-09-09 |  |
 | [Something Good \- Radio Edit](https://open.spotify.com/track/0BGsenauCQGUHZrJ6SDXEm) | [MOUNT & Nicolas Haelg](https://open.spotify.com/artist/26WCL5eJDbWBeI7IHtn9sG) | [Something Good \(Radio Edit\)](https://open.spotify.com/album/3XUfXVEft5AgWoYuQ4CF3G) | 2:58 | 2022-01-14 | 2022-04-20 |
-| [Somewhere Out There](https://open.spotify.com/track/7JPA0E9xnYsJSrYjQyQFRm) | [Daxten](https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS) | [Somewhere Out There](https://open.spotify.com/album/6hm0JKMWpzsDal5G5da18n) | 3:23 | 2022-04-01 |  |
+| [Somewhere Out There](https://open.spotify.com/track/7JPA0E9xnYsJSrYjQyQFRm) | [Daxten](https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS) | [Somewhere Out There](https://open.spotify.com/album/6hm0JKMWpzsDal5G5da18n) | 3:23 | 2022-04-01 | 2022-11-08 |
 | [Sonnentanz](https://open.spotify.com/track/6SDdaZBW69QFZUgpzyPK46) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Netzwerk \(Deluxe\)](https://open.spotify.com/album/4j9mSsoan95YCTzgxORbvK) | 6:00 | 2022-02-18 | 2022-04-02 |
 | [Spirits \- Sondr Remix](https://open.spotify.com/track/2X7ImJ12Sd2mwW8m29x7Ka) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Spirits \(Sondr Remix\)](https://open.spotify.com/album/4gKG71SsJaSmJ2hMTkssXS) | 3:04 | 2022-01-14 | 2022-04-20 |
 | [Starboy \- Kygo Remix](https://open.spotify.com/track/6LJFgCd9wU2VptHEwz2Wl3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Starboy \(Kygo Remix\)](https://open.spotify.com/album/4rGQxBDZ4hHCKePXaYOTSB) | 4:04 | 2022-01-21 | 2022-04-20 |
@@ -489,6 +489,7 @@
 | [U Do](https://open.spotify.com/track/3CGlZwGvFo4X0J7lGozEww) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo), [Sages](https://open.spotify.com/artist/1yw0aRXCpoHMfvRDMuEU5N) | [U Do](https://open.spotify.com/album/5KSCOuUk5JwsTmK9bPmv81) | 2:18 | 2022-04-01 | 2022-07-29 |
 | [Use a Wish](https://open.spotify.com/track/1f6S0tKwClVilOhvE8gcsw) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Use a Wish](https://open.spotify.com/album/5GAF72sQVOmYRRJWR7r2ke) | 2:18 | 2022-04-01 |  |
 | [Use Your Love \(feat\. Goldford\)](https://open.spotify.com/track/5W05N4aETUauCVzddI8L66) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Use Your Love \(feat\. Goldford\)](https://open.spotify.com/album/3uvtlLCF4HKbxG8jxxqfYr) | 2:54 | 2022-01-14 |  |
+| [Used To You](https://open.spotify.com/track/7x9varTNk1RMUWlFBm2Ggy) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Used To You](https://open.spotify.com/album/5PGvJzCiyz854JCpb6GwOl) | 2:52 | 2022-11-08 |  |
 | [Vacation](https://open.spotify.com/track/3xdGk4FhvzZEekTKiv07sa) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [Vacation](https://open.spotify.com/album/3C7voNn9Ismi1jzuPrnUkQ) | 3:24 | 2022-04-01 | 2022-07-29 |
 | [Valerie](https://open.spotify.com/track/7xeHe1pElnsyrZX9N4dsEK) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Valerie](https://open.spotify.com/album/3CgcOXkTjAIFyq6qdhYlKD) | 1:58 | 2022-09-23 |  |
 | [Waffle](https://open.spotify.com/track/38111Yt4vBNntixay0dX1Q) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [MEMPHIS BLOOD](https://open.spotify.com/artist/7yWu9IhyxEOqQBBjvIs9cL) | [Waffle](https://open.spotify.com/album/2B4ga6fXI3G6w3l41l3oA8) | 3:13 | 2022-01-14 | 2022-07-29 |

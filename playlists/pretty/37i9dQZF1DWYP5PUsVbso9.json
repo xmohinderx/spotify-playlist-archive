@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 217981,
+  "num_followers": 218084,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMDA4YThjNGQzNmQ5YTUyNjU2NDVlNjk0ZjQzNjg0NGYz",
+  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMGM0YzZhMjNkYjY5YWEwN2YwMTdmMTc5NGRlZDViZmUy",
   "tracks": [
     {
       "added_at": "2022-07-25 21:35:55",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
+        "name": "Let's Keep It That Way",
+        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "You Needed Me",
+      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
         "name": "Rocky Mountain High",
         "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
@@ -271,34 +287,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
         }
       ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
-        "name": "Let's Keep It That Way",
-        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "You Needed Me",
-      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
       "artists": [
         {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Man In Black",
-        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 172986,
-      "name": "Man in Black",
-      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "Country Greats",
         "url": "https://open.spotify.com/album/2m7xJ3oCOzUKMhHIaFsdwG"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 314226,
       "name": "You Never Even Called Me By My Name",
       "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "Man In Black",
+        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "Man in Black",
+      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
+        "name": "When I Dream",
+        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "Talking In Your Sleep",
+      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
         "name": "Honky Tonk Girl: The Loretta Lynn Collection",
         "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 154560,
       "name": "You're The Reason Our Kids Are Ugly",
       "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
-        "name": "When I Dream",
-        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "Talking In Your Sleep",
-      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Before The Next Teardrop Falls",
-        "url": "https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd"
-      },
-      "artists": [
-        {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
-        }
-      ],
-      "duration_ms": 171761,
-      "name": "Wasted Days And Wasted Nights",
-      "url": "https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "Rocky Mountain Music",
         "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 142773,
       "name": "Two Dollars in the Jukebox - 2008 Remaster",
       "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "Before The Next Teardrop Falls",
+        "url": "https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd"
+      },
+      "artists": [
+        {
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+        }
+      ],
+      "duration_ms": 171761,
+      "name": "Wasted Days And Wasted Nights",
+      "url": "https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "I'm Jessi Colter",
-        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
-      },
-      "artists": [
-        {
-          "name": "Jessi Colter",
-          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
-        }
-      ],
-      "duration_ms": 203106,
-      "name": "I'm Not Lisa",
-      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "The Best Of Billy Swan",
         "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 238333,
       "name": "I Can Help",
       "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "I'm Jessi Colter",
+        "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
+      },
+      "artists": [
+        {
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "I'm Not Lisa",
+      "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 186333,
-      "name": "Two More Bottles of Wine - 2003 Remaster",
-      "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
+      "duration_ms": 145946,
+      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
+      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+        "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 145946,
-      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
-      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
+      "duration_ms": 186333,
+      "name": "Two More Bottles of Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1435,22 +1435,6 @@
       "duration_ms": 169346,
       "name": "The Fightin' Side Of Me",
       "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
-        "name": "If You Love Me, Let Me Know",
-        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "If You Love Me (Let Me Know)",
-      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1499,6 +1483,22 @@
       "duration_ms": 241080,
       "name": "What A Difference You've Made In My Life",
       "url": "https://open.spotify.com/track/4sxet9Zdu2Z9hdhAKbjlNI"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "If You Love Me, Let Me Know",
+        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "If You Love Me (Let Me Know)",
+      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "The Best Of Billy \"Crash\" Craddock",
-        "url": "https://open.spotify.com/album/6GLL2DGK5Dw8P99pbUGkii"
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
       },
       "artists": [
         {
-          "name": "Billy 'Crash' Craddock",
-          "url": "https://open.spotify.com/artist/4Se104PDIxemxBgtWynyIq"
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
         }
       ],
-      "duration_ms": 146800,
-      "name": "Rub It In",
-      "url": "https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1"
+      "duration_ms": 192040,
+      "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
     }
   ],
   "unique_name": "70s Country",

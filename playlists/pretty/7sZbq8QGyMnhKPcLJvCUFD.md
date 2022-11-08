@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 745,836 likes - 127 songs - 6 hr 37 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 745,848 likes - 127 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 |
-| 2 | [die 4 u](https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU) | [die 4 u](https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8) | 2:54 |
+| 2 | [Forget](https://open.spotify.com/track/4AvIxgGf0NeC0vBKHGYBP1) | [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Forget](https://open.spotify.com/album/10BF8MKRZo0ECoym9qxIbu) | 3:24 |
 | 3 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 |
-| 4 | [Forget](https://open.spotify.com/track/4AvIxgGf0NeC0vBKHGYBP1) | [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Forget](https://open.spotify.com/album/10BF8MKRZo0ECoym9qxIbu) | 3:24 |
+| 4 | [die 4 u](https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU) | [die 4 u](https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8) | 2:54 |
 | 5 | [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Circle](https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR) | 3:58 |
 | 6 | [Demnuhbad](https://open.spotify.com/track/22CeWpYhyEruCsFauCHlLv) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Demnuhbad](https://open.spotify.com/album/4NnK9RjEAOOxk5rHtutkBH) | 3:06 |
 | 7 | [Go Off](https://open.spotify.com/track/7jw05QlMKjqOoEHLCeXUD7) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Go Off](https://open.spotify.com/album/4QugeAvLTbWTcrAFcm9Ezz) | 2:25 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 126 | [Seasons](https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons](https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC) | 4:08 |
 | 127 | [XXI](https://open.spotify.com/track/1WsksDgGtaNPLdGcwk78vt) | [QR](https://open.spotify.com/artist/698AkaHa09ShchhkKzd5wz) | [XXI](https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK) | 2:40 |
 
-Snapshot ID: `NDc0Nyw1OGVkNjExNTE4OTVhZDZlNmIyM2ZiZTIwMTk0ZDcwM2E5NjU5ZGZi`
+Snapshot ID: `NDc0OSw2ZGJhMmY2ZjQ2ZDgzZTdkZTc3MWI5Nzc4NmEzMDM4MGU2NWYzMGRl`

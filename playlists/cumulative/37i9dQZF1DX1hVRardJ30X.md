@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Rels B
 
-2,712 songs - 5 day 23 hr 29 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+2,713 songs - 5 day 23 hr 31 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2505,6 +2505,7 @@
 | [Tukuntazo \(Austin Millz Remix\)](https://open.spotify.com/track/1qb5Uty8dhjbJUrHkTqttE) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [Tukuntazo \(Austin Millz Remix\)](https://open.spotify.com/album/5yEc7JEGFUFl4TZ0vSQXqY) | 3:24 | 2022-07-29 | 2022-08-06 |
 | [TULUM](https://open.spotify.com/track/5BDNqOGnjbbWcZRxexGV5r) | [NIA](https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [JC el Diamante](https://open.spotify.com/artist/1FxsUemFullSXJpySUsT0J) | [TULUM](https://open.spotify.com/album/3f3o1hDeKqTgacvxCVdgna) | 3:25 | 2022-03-04 | 2022-03-12 |
 | [TUMBA'](https://open.spotify.com/track/5VHKnyCyzkCbniSP3m5qLD) | [DELIĆ](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [TUMBA'](https://open.spotify.com/album/3OplKqs4WJ4oJSSBIOVkKu) | 4:16 | 2022-03-11 | 2022-03-18 |
+| [Tumbando Muros \- De "El club de los Graves"](https://open.spotify.com/track/7xuW0mHPeagjnO3n6rGrBV) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Elenco de El club de los Graves](https://open.spotify.com/artist/2jnXHPCEsDhTBvkbOdlO1e) | [Tumbando Muros \(De "El club de los Graves"\)](https://open.spotify.com/album/22b6neCG5IhbghANLqHQZR) | 2:26 | 2022-11-07 |  |
 | [Turista](https://open.spotify.com/track/6HLcTzzCorO9ecGP22wm8e) | [Rudy De Anda](https://open.spotify.com/artist/4zAauwbGLs7vAEzfJEklGF) | [Turista](https://open.spotify.com/album/7icKkqJht92lNJ4TE6O7Lb) | 4:41 | 2022-05-27 | 2022-06-04 |
 | [Tus Amigas](https://open.spotify.com/track/0ry14Nio5vranXet0Q1hBz) | [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [Tus Amigas](https://open.spotify.com/album/3DoZatXn4nxRWJdeFUGhdE) | 3:17 | 2022-07-08 | 2022-07-16 |
 | [Tus Labios](https://open.spotify.com/track/0EI0p6kX1Ds9bnSnEuUVb6) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Tus Labios](https://open.spotify.com/album/3rRg3xAbZrqoLQCIUBk0MR) | 3:38 | 2022-04-15 | 2022-04-23 |

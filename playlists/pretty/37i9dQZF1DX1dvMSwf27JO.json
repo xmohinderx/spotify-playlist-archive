@@ -1,12 +1,12 @@
 {
   "description": "Music to get fly to. Cover: Thom Browne SS 2023",
-  "num_followers": 468876,
+  "num_followers": 468830,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwOTA0NCwwMDAwMDAwMDBlY2E3MzFlOTY4MjRmMWNlMmI0MjU4MTY5YmZjZDE0",
+  "snapshot_id": "MTY2NjgwOTA0NCwwMDAwMDAwMGZmYmU4YzBhNGQ4ODA5MTBmYmQ1NTUxNjc4MDI0ODcw",
   "tracks": [
     {
       "added_at": "2022-10-26 17:46:30",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Apollo XXI",
         "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 235535,
       "name": "wokeuplikethis*",
       "url": "https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
+        "name": "striptease",
+        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
+      },
+      "artists": [
+        {
+          "name": "carwash",
+          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
+        }
+      ],
+      "duration_ms": 160659,
+      "name": "striptease",
+      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 440013,
       "name": "Palace/Curse (feat. Tyler, The Creator & Steve Lacy)",
       "url": "https://open.spotify.com/track/300DUx4tdtCdGEUXR032jA"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
-        "name": "striptease",
-        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
-      },
-      "artists": [
-        {
-          "name": "carwash",
-          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
-        }
-      ],
-      "duration_ms": 160659,
-      "name": "striptease",
-      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "The Essential Electric Light Orchestra",
-        "url": "https://open.spotify.com/album/0wzmqCoQ3rZTuCuIwK1jKp"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/05zCw24BdvZKGeC5NXowVe"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "orange juice",
         "url": "https://open.spotify.com/album/4bmluZugh54DkReHoghYGu"
       },
@@ -1063,6 +1047,38 @@
       "duration_ms": 163333,
       "name": "orange juice",
       "url": "https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "Tell Me Your Fears",
+        "url": "https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 134750,
+      "name": "Tell Me Your Fears",
+      "url": "https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "The Essential Electric Light Orchestra",
+        "url": "https://open.spotify.com/album/0wzmqCoQ3rZTuCuIwK1jKp"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/05zCw24BdvZKGeC5NXowVe"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Tell Me Your Fears",
-        "url": "https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS"
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn"
       },
       "artists": [
         {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 134750,
-      "name": "Tell Me Your Fears",
-      "url": "https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj"
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1119,22 +1135,6 @@
       "duration_ms": 147187,
       "name": "Breath Control (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/7Bi5CtEcDIduA53TdPHMLF"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
-        "name": "If This Is House I Want My Money Back 3",
-        "url": "https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 285440,
-      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
-      "url": "https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "All My Girls Like To Fight",
-        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 232712,
-      "name": "All My Girls Like To Fight",
-      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "U KNOW ME",
         "url": "https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 174640,
       "name": "U KNOW ME",
       "url": "https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "All My Girls Like To Fight",
+        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 232712,
+      "name": "All My Girls Like To Fight",
+      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "nice",
-        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 101298,
-      "name": "slideshow",
-      "url": "https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 119558,
       "name": "Girls",
       "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "nice",
+        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 101298,
+      "name": "slideshow",
+      "url": "https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Nike",
-        "url": "https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 127624,
-      "name": "Nike",
-      "url": "https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Sad B!tch",
         "url": "https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 135069,
       "name": "Sad B!tch",
       "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "Nike",
+        "url": "https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 127624,
+      "name": "Nike",
+      "url": "https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj"
     },
     {
       "added_at": "2022-10-26 17:46:30",

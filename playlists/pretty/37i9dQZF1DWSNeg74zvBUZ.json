@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18391,
+  "num_followers": 18393,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNTk5OCwwMDAwMDAwMDZmMDI2YTIzYTQ1ODJlYTdmYzBlZjA4ZGM5OWE1NzEw",
+  "snapshot_id": "MTY2NDUwNTk5OCwwMDAwMDAwMGQ5M2VjYjk4NjkxMWMyNzI2YzM2Mzg5YzA1ZDk3ZjRj",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -183,18 +183,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+        "name": "Wintergreen",
+        "url": "https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 324906,
-      "name": "Peacock Tail",
-      "url": "https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO"
+      "duration_ms": 224145,
+      "name": "Wintergreen",
+      "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
     },
     {
       "added_at": "2022-09-30 02:46:38",
@@ -231,6 +231,22 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 324906,
+      "name": "Peacock Tail",
+      "url": "https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Komachi",
         "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 236040,
       "name": "Nami",
       "url": "https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Wintergreen",
-        "url": "https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 224145,
-      "name": "Wintergreen",
-      "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -311,22 +311,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 347466,
-      "name": "Chromakey Dreamcoat",
-      "url": "https://open.spotify.com/track/2YxoC2dYOotjqt08dEifsc"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Haunt Me",
         "url": "https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 208040,
       "name": "Boreal Kiss Pt. 1",
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 347466,
+      "name": "Chromakey Dreamcoat",
+      "url": "https://open.spotify.com/track/2YxoC2dYOotjqt08dEifsc"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -501,6 +501,22 @@
       "url": "https://open.spotify.com/track/5Ae091FBx68ZZ6JrCue7XI"
     },
     {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 314240,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
+    },
+    {
       "added_at": "2021-11-12 05:17:41",
       "album": {
         "name": "Mary, You Were Wrong",
@@ -519,18 +535,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+        "name": "Dawn Chorus",
+        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
       },
       "artists": [
         {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 314240,
-      "name": "GREEN",
-      "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
+      "duration_ms": 208625,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -563,38 +579,6 @@
       "duration_ms": 325489,
       "name": "Coconut Mango",
       "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Dawn Chorus",
-        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 208625,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 131346,
-      "name": "Petiatil Cx Htdui",
-      "url": "https://open.spotify.com/track/6sSQ3VO0XNK5APus7sIkwh"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -663,6 +647,38 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 131346,
+      "name": "Petiatil Cx Htdui",
+      "url": "https://open.spotify.com/track/6sSQ3VO0XNK5APus7sIkwh"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 128354,
+      "name": "November",
+      "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 235493,
       "name": "Dawn Chorus",
       "url": "https://open.spotify.com/track/7LY0R33pPIFr0Y64VZC9Wo"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 128354,
-      "name": "November",
-      "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Subtle Vertigo",
-        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
-      },
-      "artists": [
-        {
-          "name": "Scott Gilmore",
-          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
-        }
-      ],
-      "duration_ms": 226965,
-      "name": "Europe",
-      "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Mixing Colours",
         "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 262920,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Subtle Vertigo",
+        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
+      },
+      "artists": [
+        {
+          "name": "Scott Gilmore",
+          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
+        }
+      ],
+      "duration_ms": 226965,
+      "name": "Europe",
+      "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
     },
     {
       "added_at": "2021-09-10 04:35:25",

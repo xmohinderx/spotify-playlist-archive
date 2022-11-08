@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 17999,
+  "num_followers": 18022,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTk0MSwwMDAwMDAwMGRlYTQxYWRhMmQ4ZTIwOTJjODIxZDg1YzA3OTEzNWRj",
+  "snapshot_id": "MTY2MTkzMTk0MSwwMDAwMDAwMGU0NDEwMzRmZWZkOTkzNDRmYzU0OTFmYTMzNGExZmEz",
   "tracks": [
     {
       "added_at": "2022-08-31 07:45:41",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 150333,
       "name": "Entrega Total",
       "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/5cNpLKPU2QX8uV33E1NUVr"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Palabra De Rey",
-        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "Vas a Llorar",
-      "url": "https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
         "name": "Las 100 Clasicas Vol. 2",
         "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "15 EXITOS",
-        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 166066,
-      "name": "El Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
+      "duration_ms": 180986,
+      "name": "Vas a Llorar",
+      "url": "https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -439,6 +423,38 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
+        "name": "15 EXITOS",
+        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "El Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
+        "name": "Corridos Y Rancheras",
+        "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Lleg\u00f3 Borracho el Borracho",
+      "url": "https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
         "name": "Rock & Roll",
         "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 143000,
       "name": "El Remedio",
       "url": "https://open.spotify.com/track/2VcJR7KAuUPqdhuuJ5IoMu"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
-        "name": "Corridos Y Rancheras",
-        "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Lleg\u00f3 Borracho el Borracho",
-      "url": "https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
+        "name": "Para Mi Siempre Amor...",
+        "url": "https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 115853,
+      "name": "Para Cuando Regreses",
+      "url": "https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
         "name": "Ya no llores",
         "url": "https://open.spotify.com/album/6jk9SNbUx7yiS6PjTNzeGX"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Cuando Calienta el Sol",
-      "url": "https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
         "name": "22 Grandes Exitos",
         "url": "https://open.spotify.com/album/245rgwEnRg54XD7xQSCLOM"
       },
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Para Mi Siempre Amor...",
-        "url": "https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj"
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
       },
       "artists": [
         {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 115853,
-      "name": "Para Cuando Regreses",
-      "url": "https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf"
+      "duration_ms": 177893,
+      "name": "Cuando Calienta el Sol",
+      "url": "https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -727,6 +727,38 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
+        "name": "Trios de Oro, Vol. 1",
+        "url": "https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
+        "name": "Perez Prado - Mambo",
+        "url": "https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 127360,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
         "name": "Rock de los 60's",
         "url": "https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J"
       },
@@ -759,34 +791,18 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Trios de Oro, Vol. 1",
-        "url": "https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR"
+        "name": "Mujeres Universales Vol. 2",
+        "url": "https://open.spotify.com/album/7k3TeSMN6Li3ikCkkFhtbA"
       },
       "artists": [
         {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 157880,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
-        "name": "Perez Prado - Mambo",
-        "url": "https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 127360,
-      "name": "Patricia",
-      "url": "https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D"
+      "duration_ms": 216426,
+      "name": "Acomp\u00e1\u00f1ame",
+      "url": "https://open.spotify.com/track/0dPBq1rs38TRpp2aQEioPe"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -839,38 +855,6 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "22 \u00c9xitos de Oro, vol. 4",
-        "url": "https://open.spotify.com/album/4eh50zoGTP5IJ84YR0byqc"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 132306,
-      "name": "Devoluci\u00f3n",
-      "url": "https://open.spotify.com/track/02ygYqJG1w7guDHVATBd0F"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
-        "name": "Mujeres Universales Vol. 2",
-        "url": "https://open.spotify.com/album/7k3TeSMN6Li3ikCkkFhtbA"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Acomp\u00e1\u00f1ame",
-      "url": "https://open.spotify.com/track/0dPBq1rs38TRpp2aQEioPe"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
         "name": "Son con Guaguanc\u00f3",
         "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 168213,
       "name": "Agujetas de Color de Rosa",
       "url": "https://open.spotify.com/track/2okE1tDAMhTVDEC7QrF47h"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
+        "name": "22 \u00c9xitos de Oro, vol. 4",
+        "url": "https://open.spotify.com/album/4eh50zoGTP5IJ84YR0byqc"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 132306,
+      "name": "Devoluci\u00f3n",
+      "url": "https://open.spotify.com/track/02ygYqJG1w7guDHVATBd0F"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
-        "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
-      },
-      "artists": [
-        {
-          "name": "Monna Bell",
-          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "El d\u00eda de los enamorados (remastered)",
-      "url": "https://open.spotify.com/track/3CwGLO5ypNPGBYKP2qbn0m"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
         "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
         "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 157160,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
+        "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
+        "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
+      },
+      "artists": [
+        {
+          "name": "Monna Bell",
+          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "El d\u00eda de los enamorados (remastered)",
+      "url": "https://open.spotify.com/track/3CwGLO5ypNPGBYKP2qbn0m"
     },
     {
       "added_at": "2022-08-31 07:45:41",

@@ -1060,6 +1060,32 @@
     },
     {
       "album": {
+        "name": "House Party",
+        "url": "https://open.spotify.com/album/2b3i8KAQ8vb3BAdNf9oFfy"
+      },
+      "artists": [
+        {
+          "name": "Deda",
+          "url": "https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG"
+        },
+        {
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+        },
+        {
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216224,
+      "name": "Desideri (feat. Ghemon & Frank Siciliano)",
+      "url": "https://open.spotify.com/track/6irVg96EubTPvkRTYasLbA"
+    },
+    {
+      "album": {
         "name": "Nicol\u00e1s - MXP (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3QCzjnrGRZu8qiZMAMUK9r"
       },
@@ -1075,7 +1101,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 161645,
       "name": "Diario di bordo, Pt. IV (BOG - MXP)",
       "url": "https://open.spotify.com/track/6BQB4aW5YEu4zrqKgtuQbT"
@@ -1333,7 +1359,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 160454,
       "name": "Fidarti di me",
       "url": "https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw"
@@ -2153,7 +2179,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 158478,
       "name": "Lagga Brutto (feat. Ensi, Dj Uncino & Bella Espo)",
       "url": "https://open.spotify.com/track/5fTKv13ds3OUjRF8XoNJKR"
@@ -3629,7 +3655,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 147746,
       "name": "Posta prioritaria",
       "url": "https://open.spotify.com/track/2QLkW2ujH61eoqYLxSQJc3"
@@ -3939,6 +3965,40 @@
       "duration_ms": 354506,
       "name": "Rigurgito antifascista",
       "url": "https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2"
+    },
+    {
+      "album": {
+        "name": "House Party",
+        "url": "https://open.spotify.com/album/2b3i8KAQ8vb3BAdNf9oFfy"
+      },
+      "artists": [
+        {
+          "name": "Deda",
+          "url": "https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/6KlsX5XebNQOfcSSQ45lqN"
+        },
+        {
+          "name": "Sean Martin",
+          "url": "https://open.spotify.com/artist/4HA7fOjTMJ1HOwgG41CXnw"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Mistaman",
+          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202849,
+      "name": "Rock the House (feat. Danno, Sean Martin, Inoki & Mistaman)",
+      "url": "https://open.spotify.com/track/6QgrejcLH4bGg8Cuu2KRYg"
     },
     {
       "album": {

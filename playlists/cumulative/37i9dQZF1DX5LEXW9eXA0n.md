@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Roy Kim\(로이킴\)\) \(당신의 감성에 발라드, 려요\)
 
-581 songs - 1 day 13 hr 40 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+583 songs - 1 day 13 hr 48 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,8 @@
 | [My Day Is Full Of You](https://open.spotify.com/track/0E09yC5CNtv2TAQ0rafPPU) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02Rqv4sMAds4LTlyWtojjz) | 3:40 | 2022-03-31 | 2022-04-11 |
 | [My dearest \(feat\. Choi in gyeong\)](https://open.spotify.com/track/3aWkcVY41gAZ9QZIvUa04f) | [Notes](https://open.spotify.com/artist/78QVq5eACc0rBt0p5xmaiW), [최인경](https://open.spotify.com/artist/5XMvy0TxmZ0kFGASZpg3JO) | [My dearest](https://open.spotify.com/album/4utgvHQzvFnMqVydp1SirO) | 4:49 | 2022-07-07 | 2022-08-13 |
 | [My Everything](https://open.spotify.com/track/30OyUSm3KRcjZQ3Nb1kbXR) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [My Everything](https://open.spotify.com/album/06A6Z2M5V6JFVAXEAg4LAg) | 3:54 | 2022-01-17 | 2022-01-25 |
-| [My Flower My Love](https://open.spotify.com/track/32XAGLYqJuX0T4LbQBxlyY) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Sing in the Green Part 2](https://open.spotify.com/album/6odMFbITebQbEDoU7VYmad) | 4:17 | 2022-09-05 |  |
+| [My Flower My Love](https://open.spotify.com/track/32XAGLYqJuX0T4LbQBxlyY) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Sing in the Green Part 2](https://open.spotify.com/album/6odMFbITebQbEDoU7VYmad) | 4:17 | 2022-09-05 | 2022-11-08 |
+| [My Girl](https://open.spotify.com/track/1mLVZA1GVUvXVXIvEM1CWv) | [nautilus](https://open.spotify.com/artist/19ddo3hi6DZb6iZqWuvziQ) | [My Girl](https://open.spotify.com/album/6j6oWzD2FDaatkJWaGcggf) | 4:18 | 2022-11-07 |  |
 | [My Love](https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dr\. Romantic 2 OST Part.1](https://open.spotify.com/album/6hjVPB4sG0Gwme1e9hy62b) | 3:13 | 2021-12-20 | 2022-07-08 |
 | [My Love](https://open.spotify.com/track/3HxEHyCJPT9o9nsGn5pJkl) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [My Love \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6DCtAzGInnSIffWpJhG7bO) | 3:28 | 2022-01-27 | 2022-02-10 |
 | [MY LOVE](https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 10](https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E) | 3:40 | 2021-12-20 | 2022-07-05 |
@@ -414,6 +415,7 @@
 | [Run to You](https://open.spotify.com/track/5PiAz4IM5l7aetXIOVpufS) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Great Shaman Ga Doo Shim OST Part.1](https://open.spotify.com/album/5cvOQB1vP7IGW4ZnEIMAIR) | 3:45 | 2022-03-31 | 2022-06-21 |
 | [Sad farewell](https://open.spotify.com/track/730T7Z3S1jZQA3MeNs3VW1) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [Sad farewell](https://open.spotify.com/album/64vB9es0rMYiWA1qPC9Z9d) | 4:20 | 2022-09-05 | 2022-11-04 |
 | [Same as Your Ex](https://open.spotify.com/track/4ofRVjFZ7PWdFxwp2RmyiZ) | [이화명](https://open.spotify.com/artist/6gkwLpOhRKekMHrlThg9Y5) | [Same as Your Ex \(Marriage Or Death X Leehwamyeong\)](https://open.spotify.com/album/3vjIEUPuHBfWmp7CBXPSzq) | 3:41 | 2022-07-07 | 2022-10-15 |
+| [Save Me](https://open.spotify.com/track/76KSPDz7KSs1DKchBCW3ys) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Save Me](https://open.spotify.com/album/3NuWeE7Zroxt50f1c3Z45g) | 3:45 | 2022-11-07 |  |
 | [Say hello](https://open.spotify.com/track/5VkWxt21vUAkhShLYLZ2Kb) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Say hello](https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK) | 3:25 | 2022-03-24 | 2022-04-20 |
 | [Say Yes \(Feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Say hello](https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK) | 3:24 | 2021-12-20 | 2022-07-08 |
 | [Scars leave beautiful trace](https://open.spotify.com/track/1y6dEjheBdnopNo0xDXJ9P) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Alchemy of Souls, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5suBD7aDfNiIkbUvYaHtfR) | 3:33 | 2022-07-07 | 2022-09-30 |
@@ -528,7 +530,7 @@
 | [We must break up now](https://open.spotify.com/track/0EBUUKjPTaZ5NmlmhssRiw) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [We must break up now](https://open.spotify.com/album/6M0cxLeXYzDdkjCtfdoNYC) | 4:12 | 2022-03-24 | 2022-04-10 |
 | [We, From The First](https://open.spotify.com/track/009TUqA1OvgTIAjAITYIC0) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Five Words Left Unsaid](https://open.spotify.com/album/7JXJM6TnJRwoDC2LwqDxLp) | 4:17 | 2021-12-23 | 2022-04-19 |
 | [When I Close My Eyes](https://open.spotify.com/track/3RbJGQMARr47A0H8d6zdxu) | [WSG WANNABE](https://open.spotify.com/artist/2g8UxSYRu4uB5CaSMsj0N5) | [When I Close My Eyes](https://open.spotify.com/album/1aRTQNedmZMkCIhOMkQ6hG) | 4:25 | 2022-08-12 |  |
-| [When I look at you](https://open.spotify.com/track/5jQbDUv1BDClbgVaAW8T1U) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [When I look at you](https://open.spotify.com/album/1Lewh4YU2QMpV9dKtlnIys) | 3:09 | 2022-08-18 |  |
+| [When I look at you](https://open.spotify.com/track/5jQbDUv1BDClbgVaAW8T1U) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [When I look at you](https://open.spotify.com/album/1Lewh4YU2QMpV9dKtlnIys) | 3:09 | 2022-08-18 | 2022-11-08 |
 | [When I tell you goodbye](https://open.spotify.com/track/73zUXssnT7JWY9dUA2uKiz) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [When I tell you goodbye](https://open.spotify.com/album/41n8vk0f6cMDIyqZrfJY21) | 3:42 | 2022-03-31 | 2022-04-18 |
 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 | 2022-01-26 | 2022-07-02 |
 | [When The Rain Stops](https://open.spotify.com/track/50LZH2wZVwWpsHT4D8qBxR) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [The Law Cafe \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2fiweT7ROFobtMNyJpYko5) | 4:14 | 2022-09-21 |  |

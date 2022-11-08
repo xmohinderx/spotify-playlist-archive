@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2310901,
+  "num_followers": 2311319,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMDhjMDU1OTZiYmVlZDQxZGNmOWEwMGQ1OTk4YWQ1ZGUw",
+  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMDcyNDQ1NmNhYTViY2FlNzZkYjc2ZmQwMDEwNDEwYzg5",
   "tracks": [
     {
       "added_at": "2022-09-20 08:13:43",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
+        "name": "Unang Sayaw",
+        "url": "https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk"
+      },
+      "artists": [
+        {
+          "name": "NOBITA",
+          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+        }
+      ],
+      "duration_ms": 278008,
+      "name": "Unang Sayaw",
+      "url": "https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
         "name": "Fuchsiang Pag-Ibig",
         "url": "https://open.spotify.com/album/08SEZDvRXrrNs1C2y73MLi"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 349713,
       "name": "Mundo",
       "url": "https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
-        "name": "Unang Sayaw",
-        "url": "https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk"
-      },
-      "artists": [
-        {
-          "name": "NOBITA",
-          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
-        }
-      ],
-      "duration_ms": 278008,
-      "name": "Unang Sayaw",
-      "url": "https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
         "name": "Capacities",
         "url": "https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 189019,
       "name": "Pa-umaga",
       "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
+        "name": "Noon Time Show",
+        "url": "https://open.spotify.com/album/6WzFODPnZ5SW1qTvTELSxW"
+      },
+      "artists": [
+        {
+          "name": "The Itchyworms",
+          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
+        }
+      ],
+      "duration_ms": 364106,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/6mQzZ2aRnKSNgckAehBgwD"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
         "name": "Strike Whilst the Iron Is Hot",
         "url": "https://open.spotify.com/album/0S0yaR1MiuHfyAZPAtChVc"
       },
@@ -319,6 +335,22 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
+        "name": "Versions & Beyond",
+        "url": "https://open.spotify.com/album/5ak2XNLAZyBKcUuvtZImhZ"
+      },
+      "artists": [
+        {
+          "name": "MYMP",
+          "url": "https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Tell Me Where It Hurts",
+      "url": "https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
         "name": "Kathang Isip",
         "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
@@ -331,22 +363,6 @@
       "duration_ms": 318814,
       "name": "Kathang Isip",
       "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
-        "name": "Noon Time Show",
-        "url": "https://open.spotify.com/album/6WzFODPnZ5SW1qTvTELSxW"
-      },
-      "artists": [
-        {
-          "name": "The Itchyworms",
-          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
-        }
-      ],
-      "duration_ms": 364106,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/6mQzZ2aRnKSNgckAehBgwD"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -367,22 +383,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Versions & Beyond",
-        "url": "https://open.spotify.com/album/5ak2XNLAZyBKcUuvtZImhZ"
-      },
-      "artists": [
-        {
-          "name": "MYMP",
-          "url": "https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Tell Me Where It Hurts",
-      "url": "https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/23urE9jm4wugYqmxANnDut"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 289266,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -487,6 +471,22 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
+        "name": "Buruguduystunstugudunstuy",
+        "url": "https://open.spotify.com/album/29tJR2oXdGAFHMQkcgPUmn"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Harana",
+      "url": "https://open.spotify.com/track/3gyEt1vswIEbpQqBs18Lha"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
         "name": "Thyro & Yumi",
         "url": "https://open.spotify.com/album/6g8gpmN97Swzy56xwfrFrZ"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk"
-      },
-      "artists": [
-        {
-          "name": "Imago",
-          "url": "https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh"
-        }
-      ],
-      "duration_ms": 243653,
-      "name": "Sundo",
-      "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Teka Lang",
         "url": "https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE"
       },
@@ -539,18 +523,34 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Buruguduystunstugudunstuy",
-        "url": "https://open.spotify.com/album/29tJR2oXdGAFHMQkcgPUmn"
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
       },
       "artists": [
         {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Harana",
-      "url": "https://open.spotify.com/track/3gyEt1vswIEbpQqBs18Lha"
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk"
+      },
+      "artists": [
+        {
+          "name": "Imago",
+          "url": "https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh"
+        }
+      ],
+      "duration_ms": 243653,
+      "name": "Sundo",
+      "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
+        "name": "G9",
+        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
+      },
+      "artists": [
+        {
+          "name": "Gloc 9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+        }
+      ],
+      "duration_ms": 244600,
+      "name": "Simpleng Tao",
+      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
         "name": "Episode III",
         "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 241029,
       "name": "Pasensya Ka Na",
       "url": "https://open.spotify.com/track/5VPxHpJcJEJx9CMMiO7pBE"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
-        "name": "G9",
-        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
-      },
-      "artists": [
-        {
-          "name": "Gloc 9",
-          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
-        }
-      ],
-      "duration_ms": 244600,
-      "name": "Simpleng Tao",
-      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
     },
     {
       "added_at": "2022-09-20 08:13:43",

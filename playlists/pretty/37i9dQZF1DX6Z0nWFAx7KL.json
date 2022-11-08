@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 26812,
+  "num_followers": 26840,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzEzNzg4MSwwMDAwMDAwMGI1YTc0MWY0MzI3ZGFmYmQ5NzJjZDNjM2ZiYjU0NDFl",
+  "snapshot_id": "MTY2NzgyNjgwNywwMDAwMDAwMDc0OTQ4ZTg0ODllNjFlMzYzNWExZDFkMzg4NWQ4YzA0",
   "tracks": [
     {
       "added_at": "2022-10-30 13:51:21",
@@ -71,30 +71,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "Summer Jams",
-        "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Henri PFR",
-          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
-        }
-      ],
-      "duration_ms": 137149,
-      "name": "Summer Jams",
-      "url": "https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "Keep On Dancing",
         "url": "https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi"
       },
@@ -107,6 +83,22 @@
       "duration_ms": 185520,
       "name": "Keep On Dancing",
       "url": "https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Freeze",
+        "url": "https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 487359,
+      "name": "Freeze",
+      "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -127,22 +119,6 @@
       "duration_ms": 132927,
       "name": "I Blame You",
       "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
-        "name": "Freeze",
-        "url": "https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 487359,
-      "name": "Freeze",
-      "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -187,22 +163,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
-      },
-      "artists": [
-        {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
-        }
-      ],
-      "duration_ms": 175169,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
       },
@@ -243,22 +203,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ"
-      },
-      "artists": [
-        {
-          "name": "Mateo",
-          "url": "https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "In Another Lifetime",
         "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
       },
@@ -295,6 +239,22 @@
       "duration_ms": 149055,
       "name": "Forgot How to Love",
       "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ"
+      },
+      "artists": [
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -419,6 +379,30 @@
       "duration_ms": 162310,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Summer Jams",
+        "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+        }
+      ],
+      "duration_ms": 137149,
+      "name": "Summer Jams",
+      "url": "https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -607,6 +591,22 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
+      },
+      "artists": [
+        {
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+        }
+      ],
+      "duration_ms": 175169,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
         "name": "Tell Me How",
         "url": "https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv"
       },
@@ -631,30 +631,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "Waves (feat. Grace Tither)",
         "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
       },
@@ -671,6 +647,22 @@
       "duration_ms": 202501,
       "name": "Waves (feat. Grace Tither)",
       "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -699,22 +691,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "Who's Holding You",
         "url": "https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 161478,
       "name": "Who's Holding You",
       "url": "https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -767,30 +767,6 @@
       "duration_ms": 152000,
       "name": "In The Sun",
       "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
-        "name": "Free Falling Love",
-        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Free Falling Love",
-      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -835,6 +811,30 @@
       "duration_ms": 197739,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Free Falling Love",
+        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Free Falling Love",
+      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "Unrequited",
-        "url": "https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P"
-      },
-      "artists": [
-        {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        },
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Unrequited",
-      "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 220644,
       "name": "Gold",
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Unrequited",
+        "url": "https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Unrequited",
+      "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey"
+      },
+      "artists": [
+        {
+          "name": "Klingande",
+          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+        },
+        {
+          "name": "Pool Blue",
+          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
+        }
+      ],
+      "duration_ms": 147599,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
         "name": "Some Kind Of Love",
         "url": "https://open.spotify.com/album/37iL6vHATQrHkE1Ku5Ucus"
       },
@@ -1227,66 +1247,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey"
-      },
-      "artists": [
-        {
-          "name": "Klingande",
-          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
-        },
-        {
-          "name": "Pool Blue",
-          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
-        }
-      ],
-      "duration_ms": 147599,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
-        "name": "Come Along",
-        "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
-      },
-      "artists": [
-        {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Sofia Karlberg",
-          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
-        }
-      ],
-      "duration_ms": 164304,
-      "name": "Come Along",
-      "url": "https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
-        "name": "Inner Light",
-        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
-      },
-      "artists": [
-        {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
-        },
-        {
-          "name": "Dan Soleil",
-          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
-        }
-      ],
-      "duration_ms": 208995,
-      "name": "Inner Light",
-      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "Feelings After Dark (feat. NISHA)",
         "url": "https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd"
       },
@@ -1307,6 +1267,26 @@
       "duration_ms": 164531,
       "name": "Feelings After Dark (feat. NISHA)",
       "url": "https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+        }
+      ],
+      "duration_ms": 208995,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -1343,6 +1323,26 @@
       "duration_ms": 202963,
       "name": "Late Delivery",
       "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Come Along",
+        "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Sofia Karlberg",
+          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
+        }
+      ],
+      "duration_ms": 164304,
+      "name": "Come Along",
+      "url": "https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -1427,6 +1427,22 @@
       "duration_ms": 183866,
       "name": "Sweet Side (feat. Caitlyn Scarlett)",
       "url": "https://open.spotify.com/track/6YGq0IfrGMx4KsF0GnFpP3"
+    },
+    {
+      "added_at": "2022-11-08 01:33:43",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/1yysGeBcekP8zwh286sr5y"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 132960,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6ndYXyIxeRv7pS4hHH830J"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -1575,22 +1591,6 @@
       "duration_ms": 171089,
       "name": "Famous for a Day",
       "url": "https://open.spotify.com/track/0zPUSpMCNSn1ItUPANkCCs"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
-      },
-      "artists": [
-        {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
-        }
-      ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
     }
   ],
   "unique_name": "Dance Chill",

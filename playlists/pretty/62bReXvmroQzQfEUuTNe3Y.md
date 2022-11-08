@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 ### [Chill House 2022](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
 
-> House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
+> Chill tracks to vibe or dance to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[Selected.](https://open.spotify.com/user/selectedbase) - 1,000,566 likes - 101 songs - 5 hr 23 min
+[Selected.](https://open.spotify.com/user/selectedbase) - 1,000,928 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 100 | [Sublime](https://open.spotify.com/track/0o2T56CRKV9hh4RS6PNaVN) | [Firstwave](https://open.spotify.com/artist/391rJg2YdneMI1zyy1o44E) | [Sublime](https://open.spotify.com/album/0n5opfTgottSKloO8bw8C3) | 2:55 |
 | 101 | [Figure It Out](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES) | [Zak Joshua](https://open.spotify.com/artist/2dKZypJTEFmqwehvMnIsWM) | [Figure It Out](https://open.spotify.com/album/5cbVzYvgN4AQRRzp7280Ee) | 3:12 |
 
-Snapshot ID: `MzU5OCw5MTFkMzc3ZTlkZDQ5YmZmN2VmZTQwNGNmMThmYWY0MGFhODA4MTk1`
+Snapshot ID: `MzU5OSw4NzgzZGU5NjRmY2Y5MmJkYjRhNDU0ZDAxNjY0ZjBjOTg0NjA0YWYw`

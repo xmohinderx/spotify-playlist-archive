@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Viagra Boys",
-  "num_followers": 248949,
+  "num_followers": 249020,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk4MjIxOSwwMDAwMDAwMDcxNTlhNjE3NDhhYzE2Zjg4NTEyZWExNDc3OGY0ZTQ1",
+  "snapshot_id": "MTY2Mjk4MjIxOSwwMDAwMDAwMDk2M2ZhYTc2NWJhNTQ1OTRhMTllM2U1OTY2NTNjYjRk",
   "tracks": [
     {
       "added_at": "2022-08-25 20:35:49",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Street Worms",
-        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Sports",
-      "url": "https://open.spotify.com/track/5aLD8CPaEu3Cj9ZcAqWWA6"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Wide Awake!",
         "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 241093,
       "name": "Jackie Down The Line",
       "url": "https://open.spotify.com/track/4DNbKvO9fI8bjnxis4yddk"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Street Worms",
+        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Sports",
+      "url": "https://open.spotify.com/track/5aLD8CPaEu3Cj9ZcAqWWA6"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -251,38 +251,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
-      },
-      "artists": [
-        {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "Calling It",
-      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
-        "name": "Wide Awake!",
-        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
-      },
-      "artists": [
-        {
-          "name": "Parquet Courts",
-          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Almost Had to Start a Fight/In and Out of Patience",
-      "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Waterslide, Diving Board, Ladder To The Sky",
         "url": "https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5"
       },
@@ -315,18 +283,18 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Sweet Princess EP",
-        "url": "https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR"
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
       },
       "artists": [
         {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
         }
       ],
-      "duration_ms": 230121,
-      "name": "Magic of Meghan",
-      "url": "https://open.spotify.com/track/7K8SzKEkWzuvK9JU4W6va6"
+      "duration_ms": 149360,
+      "name": "Calling It",
+      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -343,6 +311,54 @@
       "duration_ms": 216284,
       "name": "Down in the Basement",
       "url": "https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Sweet Princess EP",
+        "url": "https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 230121,
+      "name": "Magic of Meghan",
+      "url": "https://open.spotify.com/track/7K8SzKEkWzuvK9JU4W6va6"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Wide Awake!",
+        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
+      },
+      "artists": [
+        {
+          "name": "Parquet Courts",
+          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Almost Had to Start a Fight/In and Out of Patience",
+      "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Houseplants",
+        "url": "https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 258130,
+      "name": "Houseplants",
+      "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -375,22 +391,6 @@
       "duration_ms": 214106,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
-        "name": "Houseplants",
-        "url": "https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 258130,
-      "name": "Houseplants",
-      "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Debonair",
-        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
-      },
-      "artists": [
-        {
-          "name": "Horsey",
-          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
-        }
-      ],
-      "duration_ms": 265879,
-      "name": "Wharf (ii)",
-      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Adore Life",
         "url": "https://open.spotify.com/album/2UutOV48eYbIPB6keWOqoP"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 303133,
       "name": "Adore",
       "url": "https://open.spotify.com/track/3z9sAf9ptrSLpyRWR4jRiX"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Debonair",
+        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
+      },
+      "artists": [
+        {
+          "name": "Horsey",
+          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
+        }
+      ],
+      "duration_ms": 265879,
+      "name": "Wharf (ii)",
+      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 279817,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Tennis",
         "url": "https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 196000,
       "name": "Little Fix",
       "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 279817,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "The Coldest Fire",
-        "url": "https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW"
+        "name": "Drunk Tank Pink (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA"
       },
       "artists": [
         {
-          "name": "Ghum",
-          "url": "https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs"
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 232484,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY"
+      "duration_ms": 204306,
+      "name": "Nigel Hitter",
+      "url": "https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX"
     }
   ],
   "unique_name": "Post Punk",

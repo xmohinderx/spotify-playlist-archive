@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\.  girl in red on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,181 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,234 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 108 | [COLORS](https://open.spotify.com/track/7vtw03hfTf7tTYwjvjYC5h) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [COLORS](https://open.spotify.com/album/22t7uvZWa4PoPT2lD0DSmG) | 3:18 |
 | 109 | [Uncall It](https://open.spotify.com/track/2Tc7PJ7DpTL7zWE6hgvGB2) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/0syrwMCuSIKaBxQMjOB4oj) | 2:36 |
 | 110 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
-| 111 | [Make Believe](https://open.spotify.com/track/1Pfk03tf9z8b5MPeK9uNVR) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Make Believe](https://open.spotify.com/album/4VwrrAYg9D88tV0cGKZg0B) | 3:28 |
+| 111 | [Make Believe](https://open.spotify.com/track/2Fz9Mfjo3GTENXxoZ6YVku) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [What Tomorrow Brings](https://open.spotify.com/album/1w64Qy4uueDC8hItAkBV8Z) | 3:28 |
 | 112 | [Satellite](https://open.spotify.com/track/7GB1amheHeYKw6Kqeatn9Q) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/2kpybYnysuEAN1cOgoU9os) | 3:04 |
 | 113 | [Tidal Wave](https://open.spotify.com/track/6batG48NWXXFdB9k6V2pK2) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Tidal Wave](https://open.spotify.com/album/5AVyDFH7uijN9sXikqMzIT) | 3:49 |
 | 114 | [Waste My Time](https://open.spotify.com/track/2qDMEgMtjFbsQnnRigRBuu) | [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Waste My Time](https://open.spotify.com/album/6x5ktAlJxev8IvJhWDuMZn) | 3:13 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Get Well Soon](https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Get Well Soon](https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ) | 2:34 |
 | 125 | [Palm Springs](https://open.spotify.com/track/453UcrZCt2q2yXDprKPNq0) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Side B\)](https://open.spotify.com/album/1ELgF7Skl8sroKP17YMW5X) | 3:00 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDc1NWI3MmVmMTE3NjcyNWUyMTUyZmJjYjg5OGMyYzUx`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGRmOWJjNzNjZWU4ZmI5OTMzOTU2NDk4MWQ4NDU0OGNl`

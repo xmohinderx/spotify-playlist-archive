@@ -953,6 +953,24 @@
     {
       "album": {
         "name": "Birthday",
+        "url": "https://open.spotify.com/album/4PHDQRU8T1U4Ts755p9L4i"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/1koJ9gZJvdFgBjouc5hDZk"
+    },
+    {
+      "album": {
+        "name": "Birthday",
         "url": "https://open.spotify.com/album/7evERN7P6VC1uVqtpFccL4"
       },
       "artists": [
@@ -4227,6 +4245,24 @@
       "duration_ms": 177980,
       "name": "get older",
       "url": "https://open.spotify.com/track/2uu7LrCxYJ5WvtyzdxLiPC"
+    },
+    {
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255885,
+      "name": "Getting Over You",
+      "url": "https://open.spotify.com/track/0uSmTpVS9XNRjhanRfxmSJ"
     },
     {
       "album": {
@@ -11009,7 +11045,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 250453,
       "name": "Splintered",
       "url": "https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt"
@@ -14373,7 +14409,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 217800,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/1iEl2JkciBjbJWP2T1ipXj"

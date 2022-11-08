@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-70 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/51Vd6umMWNvVzBmx5KIj0I)
+71 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/51Vd6umMWNvVzBmx5KIj0I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Sous le ciel de Paris](https://open.spotify.com/track/5gzv7hDtrahHurHcYQF41l) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F), [Dominique Cravic](https://open.spotify.com/artist/3YbvJxUxRDaLxoe7K5nPV8), [Claire Elzière](https://open.spotify.com/artist/1Zz0qtkLEAJvEmi3w6QKRO) | [French Cafe Music](https://open.spotify.com/album/6xkpSZA1I5GGQ706McVrCr) | 3:03 | 2022-02-18 |  |
 | [Sunbeam Bossa](https://open.spotify.com/track/1vh9W9ZWrC7n646F9xylVx) | [Bossa Nórdica](https://open.spotify.com/artist/68CfKFCbNNQaqy75ZgwF4h) | [Sunbeam Bossa](https://open.spotify.com/album/1REO43jYtdKeP22HeTGMX8) | 3:05 | 2022-02-18 |  |
 | [Säkkijärven Cumbia](https://open.spotify.com/track/1K7Z936Yp5AwR0iF3i0p2D) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [La Zingara](https://open.spotify.com/album/7A2CsrEpQ657PuoTxV9iy3) | 3:21 | 2022-02-18 |  |
-| [Valse aux Champs\-Elysees](https://open.spotify.com/track/2tXsQnHFbOiEros8MUVLrj) | [Paris Cafe Ensemble](https://open.spotify.com/artist/0olzGBukMq0WEUDno526kZ) | [Café Paris: French Accordion & Gypsy Guitar Favorites](https://open.spotify.com/album/1hmtyvAicRpfnJLKmNVd9K) | 2:37 | 2022-02-18 |  |
+| [Valse Aux Champs\-Elysees](https://open.spotify.com/track/1Wxdx6fbqM380Gf9C0ODBC) | [Daniel Janin](https://open.spotify.com/artist/6Y3tbVSmwrunXf2PLea5wH) | [Authentic France \(La France authentique\)](https://open.spotify.com/album/2vWdztr1r7yVlFamyCNbGG) | 2:37 | 2022-08-05 |  |
+| [Valse aux Champs\-Elysees](https://open.spotify.com/track/2tXsQnHFbOiEros8MUVLrj) | [Paris Cafe Ensemble](https://open.spotify.com/artist/0olzGBukMq0WEUDno526kZ) | [Café Paris: French Accordion & Gypsy Guitar Favorites](https://open.spotify.com/album/1hmtyvAicRpfnJLKmNVd9K) | 2:37 | 2022-02-18 | 2022-11-08 |
 | [Valse Aux Champs\-Elysees](https://open.spotify.com/track/501iTeeBoE0l0lDoUUNO3R) | [Paris Cafe Ensemble](https://open.spotify.com/artist/0olzGBukMq0WEUDno526kZ) | [Cafe Paris \- French Accordion & Gypsy Guitar Favorites](https://open.spotify.com/album/4m0sM2zsMv3DxOPPj5y4Es) | 2:37 | 2022-02-18 | 2022-07-29 |
 | [Valse violette](https://open.spotify.com/track/7xwWj1c8EgNPS8ez6xmOjd) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 3:34 | 2022-02-18 |  |
 | [Valse violette](https://open.spotify.com/track/67Mpe35GP02yAmQFCtXVVF) | [Tillo Schlunck](https://open.spotify.com/artist/05g9ESnfzPZUi3byxhoS3L), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 3:34 | 2022-02-18 | 2022-07-29 |

@@ -4732,6 +4732,28 @@
     },
     {
       "album": {
+        "name": "MEDAN VI FALLER",
+        "url": "https://open.spotify.com/album/285NfeomqN2o31wYPnbI6I"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Stakset",
+          "url": "https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI"
+        },
+        {
+          "name": "Willow",
+          "url": "https://open.spotify.com/artist/428NWvJtmUtdxSWImz3ysv"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195250,
+      "name": "GOOD DIE YOUNG",
+      "url": "https://open.spotify.com/track/5YT5uSoZwwUetLOqYwRT3K"
+    },
+    {
+      "album": {
         "name": "Good Vibes Only",
         "url": "https://open.spotify.com/album/6Oisuq5IPu9aTmfV9OhqJh"
       },
@@ -13225,7 +13247,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 110571,
       "name": "\u00c4rligt",
       "url": "https://open.spotify.com/track/6fsAqTbnVFFsVsp5EJuV44"

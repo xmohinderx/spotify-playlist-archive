@@ -712,6 +712,24 @@
     },
     {
       "album": {
+        "name": "Sottozero",
+        "url": "https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "FINISCIMI",
+      "url": "https://open.spotify.com/track/1FQFjNMOuOOsCPmnanGRcu"
+    },
+    {
+      "album": {
         "name": "For The Ladies Rap Italiano I GOT 5 ON IT",
         "url": "https://open.spotify.com/album/5sTaHxgOr2e9jKorZ5wq8L"
       },

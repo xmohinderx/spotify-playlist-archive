@@ -4,10 +4,11 @@
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-62 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
+63 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Another One Bites the Dust \- Instrumental](https://open.spotify.com/track/3LdBtY99z1SVtshxrWd1vk) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 3:21 | 2021-07-28 |  |
 | [Bailando](https://open.spotify.com/track/1NpOGQ6oXcZZrVhtHnf6Ii) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:59 | 2021-07-28 | 2022-11-06 |
 | [Bloody Tears \(from "Castlevania II: Simon's Quest"\)](https://open.spotify.com/track/7mSGgksZwZfDj3yoCaBymz) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:21 | 2021-07-28 |  |
 | [Bohemian Rhapsody \- Instrumental](https://open.spotify.com/track/1ikHG5XBAjPWxCYlMjkTcN) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 5:48 | 2021-07-28 |  |
@@ -35,7 +36,7 @@
 | [Guardia Millenial Fair \(from "Chrono Trigger"\)](https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:12 | 2021-07-28 |  |
 | [Happy](https://open.spotify.com/track/7oJceYpwUTWEpWWuR88G9z) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:57 | 2021-07-28 |  |
 | [Have You Ever Seen the Rain](https://open.spotify.com/track/0OMpwg10761Hr1EvwzTGbl) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 2:45 | 2021-07-28 |  |
-| [Here I Go Again](https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Dos](https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb) | 4:25 | 2021-07-28 |  |
+| [Here I Go Again](https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Dos](https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb) | 4:25 | 2021-07-28 | 2022-11-08 |
 | [Hotel California](https://open.spotify.com/track/7nfvquB7FYL5LSfaBqf7nd) | [Mariachi Espiritus](https://open.spotify.com/artist/7vAwj7m4gZrNW6QFt1MUO7) | [Hotel California](https://open.spotify.com/album/7Hl79MeDqq31oPTcUl1A6K) | 5:21 | 2021-07-28 |  |
 | [I Love Rock 'N' Roll](https://open.spotify.com/track/19OQ0JOUYNRaZVjI2cS0YR) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4) | 3:17 | 2021-07-28 | 2022-10-19 |
 | [I Love Rock 'N' Roll](https://open.spotify.com/track/1kCQGipg9DCCtTlx80wZ8J) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/45yT4fgq16M51hpnsSt5Qm) | 3:17 | 2021-07-28 |  |

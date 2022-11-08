@@ -1,12 +1,12 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 11690,
+  "num_followers": 11725,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg5OTkyNCwwMDAwMDAwMDJlODNlODhhN2YwZmM4YWJmZGIwMWRiMDZlOWM0Yjhm",
+  "snapshot_id": "MTY2Njg5OTkyNCwwMDAwMDAwMDc4ZjgwZGVhMDNlYTNhN2YzZTk2NTI2YmNmZjU3ZmNm",
   "tracks": [
     {
       "added_at": "2022-10-25 15:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM"
-      },
-      "artists": [
-        {
-          "name": "sloppy dim",
-          "url": "https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae"
-        }
-      ],
-      "duration_ms": 147370,
-      "name": "minority",
-      "url": "https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2"
       },
@@ -795,22 +779,18 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
-        "name": "BE MY BABY",
-        "url": "https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb"
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM"
       },
       "artists": [
         {
-          "name": "Miliyah",
-          "url": "https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND"
-        },
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+          "name": "sloppy dim",
+          "url": "https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae"
         }
       ],
-      "duration_ms": 171566,
-      "name": "BE MY BABY",
-      "url": "https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA"
+      "duration_ms": 147370,
+      "name": "minority",
+      "url": "https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -827,6 +807,26 @@
       "duration_ms": 208902,
       "name": "Flower",
       "url": "https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
+        "name": "BE MY BABY",
+        "url": "https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb"
+      },
+      "artists": [
+        {
+          "name": "Miliyah",
+          "url": "https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND"
+        },
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "duration_ms": 171566,
+      "name": "BE MY BABY",
+      "url": "https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA"
     },
     {
       "added_at": "2022-10-25 15:00:00",

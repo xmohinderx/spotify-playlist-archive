@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring yameii online
 
-436 songs - 1 day 1 hr 20 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+437 songs - 1 day 1 hr 25 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [mood](https://open.spotify.com/track/2EeLkR3n0tclW01Qpils7E) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [lastchance](https://open.spotify.com/album/52u2zgoE4U8TakdFaoTfqr) | 4:14 | 2022-07-22 | 2022-10-01 |
 | [MOONLIGHT](https://open.spotify.com/track/3D3xADuIZsg9LGXCku7zls) | [Muddyoush](https://open.spotify.com/artist/66ufdnoY06SAK2zHcHjo0G) | [MOONLIGHT](https://open.spotify.com/album/6E6pwAcrC9Le88FQYPMAme) | 3:07 | 2022-03-17 | 2022-06-26 |
 | [More Sensuous](https://open.spotify.com/track/5rF2osPlyeyIwUOmS5MbQ4) | [Strict Face](https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq) | [Pulsers](https://open.spotify.com/album/6cTwWowzWlQAF8CrhOKp8D) | 5:26 | 2021-10-15 | 2022-01-22 |
-| [Mr Universe \(feat\. General Levy\)](https://open.spotify.com/track/2Ql8dkIZNyKwUAERBTSKhy) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Mr Universe \(feat\. General Levy\)](https://open.spotify.com/album/2UiNHGYxJR1RDDEIiPlQQD) | 2:53 | 2022-09-23 |  |
+| [Mr Universe \(feat\. General Levy\)](https://open.spotify.com/track/2Ql8dkIZNyKwUAERBTSKhy) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Mr Universe \(feat\. General Levy\)](https://open.spotify.com/album/2UiNHGYxJR1RDDEIiPlQQD) | 2:53 | 2022-09-23 | 2022-11-08 |
 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 | 2022-02-27 | 2022-08-17 |
 | [Mr\. Kill Myself](https://open.spotify.com/track/3KBsdO1rkM9O0QASfvoA38) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Draining Love Story](https://open.spotify.com/album/3yQqw6ZJDHey6HZCpsrFTb) | 7:51 | 2021-07-23 | 2022-02-19 |
 | [Nails Matching My Fit](https://open.spotify.com/track/13CDnyCYtI6nytVMQwPYLG) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Shanae](https://open.spotify.com/artist/4hHwz6dfb9rarQOUGf9ajx) | [Nails Matching My Fit](https://open.spotify.com/album/4b735RciIIW2Skt0TOmoK2) | 3:49 | 2022-07-01 | 2022-08-27 |
@@ -307,6 +307,7 @@
 | [Pink Television](https://open.spotify.com/track/1rMWYlzlE8NWHyZj9DWhww) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Pink Television](https://open.spotify.com/album/1wI6CqM2bYIvPEnqOId4MV) | 5:07 | 2022-10-21 |  |
 | [planet1995](https://open.spotify.com/track/3Jh6eYEVu0H0fxZCrihisA) | [Y ohtrixpointnever](https://open.spotify.com/artist/4zba7coFdHgCPeGTxZn1LQ) | [planet1995](https://open.spotify.com/album/4fuy1NdmPV4DlnMeVeEtIK) | 3:48 | 2022-01-07 | 2022-06-04 |
 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 | 2021-12-03 | 2022-01-22 |
+| [Poison](https://open.spotify.com/track/78dGpGY3eSm7NGLFtVhQDJ) | [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM) | [Poison](https://open.spotify.com/album/0dfqvCOm8PJ0yGTLzlJWCX) | 4:36 | 2022-11-07 |  |
 | [Poison Arrow \- HANA Remix](https://open.spotify.com/track/3VpjqitkScv9uInf7aRjDA) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Serotonin X Remixes](https://open.spotify.com/album/2VpQYFLXFWeK1mcWrr2XYn) | 5:31 | 2021-07-30 | 2022-03-05 |
 | [popipo00](https://open.spotify.com/track/3oYZkaAsoi7UqinSUcidnA) | [AKIBA](https://open.spotify.com/artist/5y51w1wj1qFCNOAU1b7BEc) | [im lost in a neverending dream](https://open.spotify.com/album/5LhJziay2LhxujQ0HsvSlk) | 2:36 | 2022-02-23 | 2022-09-03 |
 | [Posing For Flex](https://open.spotify.com/track/27CwyJriNArZhrSfpyBeLG) | [DM\-90](https://open.spotify.com/artist/7pVTLdf8j65BYsLYmIuesd) | [Posing For Flex](https://open.spotify.com/album/27x857E6j1lchNoGdPJ43A) | 1:57 | 2022-04-08 | 2022-08-27 |

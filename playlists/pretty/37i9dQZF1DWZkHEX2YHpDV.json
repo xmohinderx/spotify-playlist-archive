@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Magnolia Park",
-  "num_followers": 438724,
+  "num_followers": 438757,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDQ1NjkzMzg4MWFkZDkwZjMwM2Q2ZWQ4NDkzODExZTJi",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDZhNzMxYTJhYjg3ZWY3NDMyZWU2M2JhZDhhMDY1NzJl",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 174848,
+      "name": "5150",
+      "url": "https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 163321,
       "name": "Bois Lie (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 174848,
-      "name": "5150",
-      "url": "https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "<maybe> it's my fault",
-        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "<maybe> it's my fault",
-      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "you broke me first",
         "url": "https://open.spotify.com/album/2uMR5jsZgtfsIvAAyG8bDf"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 168145,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/7gAfY8Y5aBrsAfNaejxXMY"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "<maybe> it's my fault",
+        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -795,6 +795,22 @@
       "duration_ms": 147535,
       "name": "u turn me on (but u give me depression)",
       "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "It Was Fun While It Lasted (Deluxe)",
+        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 129812,
+      "name": "Next Ex",
+      "url": "https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -891,22 +907,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "It Was Fun While It Lasted (Deluxe)",
-        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 129812,
-      "name": "Next Ex",
-      "url": "https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "All Distortions Are Intentional",
         "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 189101,
       "name": "When You Know",
       "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/1rO6JlIBPhEnyY9fdO7BsI"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Erase You",
+      "url": "https://open.spotify.com/track/3PXPKC81NbQc9Eaig0vLZO"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -967,22 +983,6 @@
       "duration_ms": 186581,
       "name": "Get A Job",
       "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/1rO6JlIBPhEnyY9fdO7BsI"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Erase You",
-      "url": "https://open.spotify.com/track/3PXPKC81NbQc9Eaig0vLZO"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1119,6 +1119,38 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "MANIC MAN",
+        "url": "https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb"
+      },
+      "artists": [
+        {
+          "name": "Curtis Waters",
+          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+        }
+      ],
+      "duration_ms": 134634,
+      "name": "MANIC MAN",
+      "url": "https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Get A Job",
+        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 179850,
+      "name": "I Hope You\u2019re Happy",
+      "url": "https://open.spotify.com/track/1sBvGY100lfD3w6tR22M1D"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Sober/Hungover (feat. Arizona Zervas)",
         "url": "https://open.spotify.com/album/7eZqdxIfr07B8Vr02Ijd5K"
       },
@@ -1139,22 +1171,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "MANIC MAN",
-        "url": "https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb"
-      },
-      "artists": [
-        {
-          "name": "Curtis Waters",
-          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
-        }
-      ],
-      "duration_ms": 134634,
-      "name": "MANIC MAN",
-      "url": "https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "hover like a GODDESS",
         "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 143357,
       "name": "hover like a GODDESS",
       "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Get A Job",
-        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 179850,
-      "name": "I Hope You\u2019re Happy",
-      "url": "https://open.spotify.com/track/1sBvGY100lfD3w6tR22M1D"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "The Emperor",
-        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175150,
-      "name": "The Emperor",
-      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "MOSH PIT",
         "url": "https://open.spotify.com/album/5Sv5JHuSztH7ntDjnUSUqe"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 127058,
       "name": "MOSH PIT",
       "url": "https://open.spotify.com/track/1fQlfeG7u0xzRVuzqUwtGA"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "The Emperor",
+        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 175150,
+      "name": "The Emperor",
+      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Trauma Factory",
+        "url": "https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 169450,
+      "name": "fake friend",
+      "url": "https://open.spotify.com/track/6pO9pxKxrIHuTRqK7VLP8B"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Foxglove",
         "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Trauma Factory",
-        "url": "https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 169450,
-      "name": "fake friend",
-      "url": "https://open.spotify.com/track/6pO9pxKxrIHuTRqK7VLP8B"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "DIRTY WHITE VANS//",
         "url": "https://open.spotify.com/album/7GFoR6svUHjlQrG71ipmky"
       },
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Harder Than It Looks",
+        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 195898,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "28 (Songs for Cooper)",
         "url": "https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY"
       },
@@ -1427,6 +1443,22 @@
       "duration_ms": 158656,
       "name": "Beautiful Boy",
       "url": "https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 202209,
+      "name": "No Love In LA",
+      "url": "https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1467,22 +1499,6 @@
       "duration_ms": 169600,
       "name": "SOS (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/38X7LavheHbSg0UwjRUNcf"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Harder Than It Looks",
-        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 195898,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 202209,
-      "name": "No Love In LA",
-      "url": "https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "f.e.a.r.",
         "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
       },
@@ -1591,26 +1591,6 @@
       "duration_ms": 194892,
       "name": "Wishing You Hell",
       "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Happy Never After",
-        "url": "https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 175172,
-      "name": "Cursive",
-      "url": "https://open.spotify.com/track/2qMJb05RCtQAO3OdoqxEMH"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1659,6 +1639,26 @@
       "duration_ms": 163492,
       "name": "One Night",
       "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Happy Never After",
+        "url": "https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 175172,
+      "name": "Cursive",
+      "url": "https://open.spotify.com/track/2qMJb05RCtQAO3OdoqxEMH"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1871,6 +1871,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        },
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        }
+      ],
+      "duration_ms": 169325,
+      "name": "HEAVYWEIGHT",
+      "url": "https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Down (feat. Travis Barker)",
         "url": "https://open.spotify.com/album/6xDFoGf8jzDuFTPwQIOlyK"
       },
@@ -1911,22 +1931,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Life In Your Glass World",
-        "url": "https://open.spotify.com/album/07Pv7j17v7JX1NEbZidg84"
-      },
-      "artists": [
-        {
-          "name": "Citizen",
-          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "I Want to Kill You",
-      "url": "https://open.spotify.com/track/57XHBbh5lCsIdgStesXI4k"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "I WENT TO HELL AND BACK",
         "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
       },
@@ -1939,6 +1943,22 @@
       "duration_ms": 178560,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Life In Your Glass World",
+        "url": "https://open.spotify.com/album/07Pv7j17v7JX1NEbZidg84"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "I Want to Kill You",
+      "url": "https://open.spotify.com/track/57XHBbh5lCsIdgStesXI4k"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1959,6 +1979,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Hey Ben",
+        "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        },
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 200165,
+      "name": "Hey Ben",
+      "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Teenage Heartbreak",
         "url": "https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9"
       },
@@ -1971,6 +2011,22 @@
       "duration_ms": 189651,
       "name": "Partycrasher",
       "url": "https://open.spotify.com/track/7ewKUtjuzrTVOGgOO4SlJE"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Perfectly Imperfect",
+        "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 144478,
+      "name": "Perfectly Imperfect",
+      "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2011,42 +2067,30 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "MESS (with Kellin Quinn of Sleeping With Sirens)",
-        "url": "https://open.spotify.com/album/7tyN1gptSZOcv1PPELd7vU"
+        "name": "1000 gecs and The Tree of Clues",
+        "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
       },
       "artists": [
         {
-          "name": "GARZI",
-          "url": "https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
         },
         {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         },
         {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "MESS (with Kellin Quinn of Sleeping With Sirens)",
-      "url": "https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Perfectly Imperfect",
-        "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
-      },
-      "artists": [
+          "name": "Craig Owens",
+          "url": "https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv"
+        },
         {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+          "name": "Nicole Dollanganger",
+          "url": "https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO"
         }
       ],
-      "duration_ms": 144478,
-      "name": "Perfectly Imperfect",
-      "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
+      "duration_ms": 175699,
+      "name": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
+      "url": "https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2083,30 +2127,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "1000 gecs and The Tree of Clues",
-        "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
+        "name": "MESS (with Kellin Quinn of Sleeping With Sirens)",
+        "url": "https://open.spotify.com/album/7tyN1gptSZOcv1PPELd7vU"
       },
       "artists": [
         {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+          "name": "GARZI",
+          "url": "https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv"
         },
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         },
         {
-          "name": "Craig Owens",
-          "url": "https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv"
-        },
-        {
-          "name": "Nicole Dollanganger",
-          "url": "https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO"
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
         }
       ],
-      "duration_ms": 175699,
-      "name": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
-      "url": "https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo"
+      "duration_ms": 139200,
+      "name": "MESS (with Kellin Quinn of Sleeping With Sirens)",
+      "url": "https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2147,26 +2187,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "HEAVYWEIGHT",
-        "url": "https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9"
-      },
-      "artists": [
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        },
-        {
-          "name": "Loveless",
-          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
-        }
-      ],
-      "duration_ms": 169325,
-      "name": "HEAVYWEIGHT",
-      "url": "https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Girl Next Door (feat. Wiz Khalifa, DVBBS)",
         "url": "https://open.spotify.com/album/57g2B21B4dHEP3vgrox6Rk"
       },
@@ -2187,26 +2207,6 @@
       "duration_ms": 140262,
       "name": "Girl Next Door (feat. Wiz Khalifa, DVBBS)",
       "url": "https://open.spotify.com/track/3YSowxZIbp6dTYyOZdHUMe"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Hey Ben",
-        "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
-      },
-      "artists": [
-        {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
-        },
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 200165,
-      "name": "Hey Ben",
-      "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Wouldn't That Be Nice",
+        "url": "https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        }
+      ],
+      "duration_ms": 186214,
+      "name": "Wouldn't That Be Nice",
+      "url": "https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "The Red EP",
         "url": "https://open.spotify.com/album/5BPCHjvb6PYhOny8GXmb9q"
       },
@@ -2311,6 +2327,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Vandalize",
+        "url": "https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194695,
+      "name": "Vandalize - Japanese Version",
+      "url": "https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Rest In Pieces (feat. Goody Grace)",
         "url": "https://open.spotify.com/album/0ycKAr2DznJKSPN6sl6Ueg"
       },
@@ -2331,22 +2363,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Vandalize",
-        "url": "https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 194695,
-      "name": "Vandalize - Japanese Version",
-      "url": "https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Teenagers",
         "url": "https://open.spotify.com/album/5TfVRbdmzVVrg9adogpSIo"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 182253,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/5rAJ3juCRPOL3xiKjnQHWO"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Wouldn't That Be Nice",
-        "url": "https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1"
-      },
-      "artists": [
-        {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
-        }
-      ],
-      "duration_ms": 186214,
-      "name": "Wouldn't That Be Nice",
-      "url": "https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2411,22 +2411,6 @@
       "duration_ms": 181708,
       "name": "Paper",
       "url": "https://open.spotify.com/track/0Vumvuj4HYy3quIRSkrYDy"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Trauma Factory",
-        "url": "https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 155403,
-      "name": "buck",
-      "url": "https://open.spotify.com/track/4k4ImOjmaURMwBaZN3QKsk"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2483,6 +2467,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Trauma Factory",
+        "url": "https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 155403,
+      "name": "buck",
+      "url": "https://open.spotify.com/track/4k4ImOjmaURMwBaZN3QKsk"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "BURNOUT",
         "url": "https://open.spotify.com/album/1oUXmEhwbTJ4InsEjZADla"
       },
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "The Liars Club",
-        "url": "https://open.spotify.com/album/6wHX6aYsulKyZ4sj7gQ9se"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 228834,
-      "name": "The Liars Club",
-      "url": "https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Bot Lobby",
         "url": "https://open.spotify.com/album/3g7lpyviHEw5x17KwHw1WN"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 176187,
       "name": "Bot Lobby",
       "url": "https://open.spotify.com/track/3x6D6Va2TevX1lv6HIjhh1"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "The Liars Club",
+        "url": "https://open.spotify.com/album/6wHX6aYsulKyZ4sj7gQ9se"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 228834,
+      "name": "The Liars Club",
+      "url": "https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -2603,6 +2603,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "9 to 5",
+        "url": "https://open.spotify.com/album/1CakbNtc324KKr5oRpCMCX"
+      },
+      "artists": [
+        {
+          "name": "CHRIS RAIN",
+          "url": "https://open.spotify.com/artist/2xVJqCdxc81K24QaW0je4y"
+        }
+      ],
+      "duration_ms": 108283,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/173uXbrxQTVQWoc7jV0gXI"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "The Water",
         "url": "https://open.spotify.com/album/2GKMTSlnEfOs6EirxGlOwN"
       },
@@ -2615,30 +2631,6 @@
       "duration_ms": 194000,
       "name": "The Water",
       "url": "https://open.spotify.com/track/3QsLgPbGX8Tr5BK3y1c9d4"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "MY BRAIN AFTER THERAPY",
-        "url": "https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        },
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        },
-        {
-          "name": "Extra Large Holiday Card",
-          "url": "https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe"
-        }
-      ],
-      "duration_ms": 141352,
-      "name": "AFTER THERAPY (feat. Hot Mulligan)",
-      "url": "https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN"
     }
   ],
   "unique_name": "The Scene",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: SKALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,875 likes - 78 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,078 likes - 78 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

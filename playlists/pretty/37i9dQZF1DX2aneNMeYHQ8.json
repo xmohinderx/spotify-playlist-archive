@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: All Them Witches\n",
-  "num_followers": 461662,
+  "num_followers": 461658,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGJkM2JlNGM1NTAyMTBlMTUzYTIyMzgyN2YyYjU1NTY1",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDFjYTZmOWVkMTQwMjI1M2VhMGZjMGMxMjcyMGJlMjg3",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "We've Been Going About This All Wrong",
-        "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "The Bandit / 100,000 People",
         "url": "https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 250961,
       "name": "The Bandit",
       "url": "https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "We've Been Going About This All Wrong",
+        "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Delta Kream",
         "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Headspace",
-        "url": "https://open.spotify.com/album/2kvx7Aa5PNKke0VyZmccio"
-      },
-      "artists": [
-        {
-          "name": "Indio Ink",
-          "url": "https://open.spotify.com/artist/3MVjv7zc6tJHPV057Oid1T"
-        }
-      ],
-      "duration_ms": 196487,
-      "name": "Headspace",
-      "url": "https://open.spotify.com/track/4tY0EKwHcKv09vUMkx02vz"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Bones Owens",
         "url": "https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 210239,
       "name": "Rambler - Bonus Track",
       "url": "https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/2kvx7Aa5PNKke0VyZmccio"
+      },
+      "artists": [
+        {
+          "name": "Indio Ink",
+          "url": "https://open.spotify.com/artist/3MVjv7zc6tJHPV057Oid1T"
+        }
+      ],
+      "duration_ms": 196487,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/4tY0EKwHcKv09vUMkx02vz"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Fix Yourself, Not the World",
+        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Everything I Love Is Going to Die",
+      "url": "https://open.spotify.com/track/706w95z7V470hcYYb7O2Il"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Speeding 72",
         "url": "https://open.spotify.com/album/1SGdgzPuKfvCONrOQYX2wn"
       },
@@ -1323,6 +1339,26 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 257712,
+      "name": "Come On Up To The House (feat. X Ambassadors) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Chrysanthemums",
         "url": "https://open.spotify.com/album/4hMsCqUzEtPGqK5G9EH5Z6"
       },
@@ -1351,42 +1387,6 @@
       "duration_ms": 220880,
       "name": "Made Up Mind",
       "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 257712,
-      "name": "Come On Up To The House (feat. X Ambassadors) - Spotify Singles",
-      "url": "https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Fix Yourself, Not the World",
-        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Everything I Love Is Going to Die",
-      "url": "https://open.spotify.com/track/706w95z7V470hcYYb7O2Il"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Heavy Soul",
-        "url": "https://open.spotify.com/album/3OvB15dImXdgGbmn3ew162"
-      },
-      "artists": [
-        {
-          "name": "David Shaw",
-          "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
-        }
-      ],
-      "duration_ms": 182689,
-      "name": "Heavy Soul",
-      "url": "https://open.spotify.com/track/5qwc4qqv0CHfbJN6byvExp"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Cannabis Tree",
         "url": "https://open.spotify.com/album/3kNkXgyw5SatiRBU8lTGFS"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 291186,
       "name": "Cannabis Tree",
       "url": "https://open.spotify.com/track/0JhW4OheoZ3N2OaLqvT5PR"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Heavy Soul",
+        "url": "https://open.spotify.com/album/3OvB15dImXdgGbmn3ew162"
+      },
+      "artists": [
+        {
+          "name": "David Shaw",
+          "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+        }
+      ],
+      "duration_ms": 182689,
+      "name": "Heavy Soul",
+      "url": "https://open.spotify.com/track/5qwc4qqv0CHfbJN6byvExp"
     },
     {
       "added_at": "2022-10-21 04:00:00",

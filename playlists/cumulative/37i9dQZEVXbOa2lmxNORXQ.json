@@ -561,7 +561,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 220135,
       "name": "Algo Que Se Quede",
       "url": "https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 199831,
       "name": "APA",
       "url": "https://open.spotify.com/track/3vKYvbzB7801a5qd47pxkm"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 202967,
       "name": "CALENT\u00d3N",
       "url": "https://open.spotify.com/track/3l9YiADzNmEvBfZVPEF49F"
@@ -1945,7 +1945,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 206855,
       "name": "Controlla - Remix",
       "url": "https://open.spotify.com/track/3FhGRaF1qZYI56jhdq5Ppq"
@@ -7696,6 +7696,28 @@
     },
     {
       "album": {
+        "name": "Que LLore La Tuya Primero",
+        "url": "https://open.spotify.com/album/3KDiRn8hrgUaH8ZmqinnEa"
+      },
+      "artists": [
+        {
+          "name": "Juny Montana",
+          "url": "https://open.spotify.com/artist/4lwoHJna6OGeV4BQVYMFxP"
+        },
+        {
+          "name": "Polaco",
+          "url": "https://open.spotify.com/artist/1SNvQ5uaWr5rNHmtAXAqsT"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217256,
+      "name": "Que LLore La Tuya Primero",
+      "url": "https://open.spotify.com/track/3KBCpSGLQMeWOioiDOuqcN"
+    },
+    {
+      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -7833,7 +7855,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 538462,
       "name": "Quiero Fumar - Remix",
       "url": "https://open.spotify.com/track/62jJgYMqkNuVlOiyscQo15"
@@ -8873,7 +8895,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 237894,
       "name": "Tarot",
       "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
@@ -8939,7 +8961,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"

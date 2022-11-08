@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Manal
 
-324 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+325 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Ba3d Al Frak](https://open.spotify.com/track/01KJufb1Qt3s3xeiRZll1z) | [Deema Cam](https://open.spotify.com/artist/6r28s3Wv8IIIQgKptX71zj) | [Ba3d Al Frak](https://open.spotify.com/album/0iHOLK0SOIEP4YnNi6wG7S) | 3:54 | 2021-12-23 | 2022-03-01 |
 | [Ba9i](https://open.spotify.com/track/1oTZuVigsvGyUHM9zMOKFM) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Ba9i](https://open.spotify.com/album/0zQqQuBMkh7xratGdm5cwW) | 3:37 | 2021-12-23 | 2022-03-02 |
 | [Bad Trip](https://open.spotify.com/track/5Yn8SZfv3IYoS49jpomqS3) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [Bad Trip](https://open.spotify.com/album/6LZMuljvaHpZKQx8raK0Zq) | 2:32 | 2021-12-23 | 2022-03-02 |
-| [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 | 2022-10-13 |  |
+| [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 | 2022-10-13 | 2022-11-08 |
 | [Bala Ma Nhess](https://open.spotify.com/track/0CSVpG8z1Env2B7P3nVHSc) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bala Ma Nhess](https://open.spotify.com/album/6cGIrKJCPg2YKoeZ6mYtKz) | 3:06 | 2022-03-01 |  |
 | [Baseeb El Donia](https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Baseeb El Donia](https://open.spotify.com/album/3HDTqcv00LpIwQEys88c0Z) | 3:21 | 2022-06-02 |  |
 | [Batalet Haiatik](https://open.spotify.com/track/3uOTeUzSg0pBIx5xDd2ARv) | [Alia Awwe](https://open.spotify.com/artist/67tXfOypohX8DzjnZDDXOm) | [Batalet Haiatik](https://open.spotify.com/album/7CvbpdJR1gk1Q3TnluIWkZ) | 3:01 | 2021-12-23 | 2022-03-02 |
@@ -96,6 +96,7 @@
 | [Enti Ana](https://open.spotify.com/track/4hCXCFzQkkzeYyTk7oUYTs) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Enti Ana](https://open.spotify.com/album/5e3ALxjtiE8Y7w7IL66skx) | 3:33 | 2021-12-23 | 2022-03-02 |
 | [Erjaa Shoufak](https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:47 | 2022-03-10 |  |
 | [Fann El Lom](https://open.spotify.com/track/0XUEmwVAJWrPce0maZBS1l) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [12: 01 Am](https://open.spotify.com/album/5AEVgtgp1hDAqaJ0v01BZX) | 3:48 | 2022-03-03 | 2022-10-15 |
+| [Fann El Lomm](https://open.spotify.com/track/2GBJM4olfDXXRiTHGsqeD8) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [12:01 AM \(The EP\)](https://open.spotify.com/album/2ZuQdKTOAGAT081760X6ur) | 3:48 | 2022-11-07 |  |
 | [Farha](https://open.spotify.com/track/63QLrE3Msgl2g1qykoSZfS) | [Jihane Bougrine](https://open.spotify.com/artist/04QV0Mr3uTHEVHav1mQ8sq) | [Farha](https://open.spotify.com/album/43HgHyV9uwAdCHqyaRcFqU) | 3:56 | 2021-12-23 | 2022-03-02 |
 | [Fawda](https://open.spotify.com/track/3arw0QpzjtfvrwyXGAd5Ax) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Fawda](https://open.spotify.com/album/5Fob6Veclpqwcp28gUXneD) | 3:18 | 2022-03-08 |  |
 | [Fazzeit](https://open.spotify.com/track/6usHHzOyhLICddpipcJ4sq) | [Samawa Khalid Alshaikh](https://open.spotify.com/artist/3iIC7EZA4Ilsoy2SjpUT8t) | [Fazzeit](https://open.spotify.com/album/2mkjGNKz8aQqsWUBjRSZ1s) | 4:38 | 2021-12-23 | 2022-03-02 |

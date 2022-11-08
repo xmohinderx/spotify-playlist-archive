@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 345376,
+  "num_followers": 345475,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzcyNzA3NSwwMDAwMDAwMGQ2OTc1YTk3MjgyZjI3NGFkNmE2ODgzMjFiNjkzYTgw",
+  "snapshot_id": "MTY2NzcyNzA3NSwwMDAwMDAwMDYyYTA5YjlkYTE1NzU2ZmY1MzE3Yzc5OTNkYTgxNTEw",
   "tracks": [
     {
       "added_at": "2022-11-06 09:31:15",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-06 09:31:15",
       "album": {
-        "name": "TWO",
-        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
-      },
-      "artists": [
-        {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "Playback",
-      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
-    },
-    {
-      "added_at": "2022-11-06 09:31:15",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2u6IqayyTuhTHxT3elTrCT"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 216066,
       "name": "DEEP",
       "url": "https://open.spotify.com/track/0EVdzF6jNEL5fKH1FeONbb"
+    },
+    {
+      "added_at": "2022-11-06 09:31:15",
+      "album": {
+        "name": "TWO",
+        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
     },
     {
       "added_at": "2022-11-06 09:31:15",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-11-06 09:31:15",
       "album": {
+        "name": "\u6771\u4eac\u5ba3\u8a00",
+        "url": "https://open.spotify.com/album/25FZu1HO24irASqorZEyB6"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 182599,
+      "name": "\u6771\u4eac\u5ba3\u8a00",
+      "url": "https://open.spotify.com/track/4UJ6oEkjMSHNXaN3HHnQis"
+    },
+    {
+      "added_at": "2022-11-06 09:31:15",
+      "album": {
         "name": "Toxins",
         "url": "https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2022-11-06 09:31:15",
       "album": {
-        "name": "from JAPAN 3",
-        "url": "https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx"
-      },
-      "artists": [
-        {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
-        }
-      ],
-      "duration_ms": 271525,
-      "name": "\u7d9a\u30fb\u9769\u547d\u524d\u591c",
-      "url": "https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu"
-    },
-    {
-      "added_at": "2022-11-06 09:31:15",
-      "album": {
         "name": "\u8d64\u3068\u9752",
         "url": "https://open.spotify.com/album/46J15A4lTJm1BtYxgA9ZoQ"
       },
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-11-06 09:31:15",
       "album": {
-        "name": "\u6771\u4eac\u5ba3\u8a00",
-        "url": "https://open.spotify.com/album/25FZu1HO24irASqorZEyB6"
+        "name": "from JAPAN 3",
+        "url": "https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
         }
       ],
-      "duration_ms": 182599,
-      "name": "\u6771\u4eac\u5ba3\u8a00",
-      "url": "https://open.spotify.com/track/4UJ6oEkjMSHNXaN3HHnQis"
+      "duration_ms": 271525,
+      "name": "\u7d9a\u30fb\u9769\u547d\u524d\u591c",
+      "url": "https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu"
     },
     {
       "added_at": "2022-11-06 09:31:15",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-11-06 09:31:15",
       "album": {
+        "name": "\u30cf\u30ca\u30ce\u30e8\u30a6",
+        "url": "https://open.spotify.com/album/1NORsBbP4WjmIBG2P8OsCt"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "duration_ms": 232232,
+      "name": "\u30cf\u30ca\u30ce\u30e8\u30a6",
+      "url": "https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5"
+    },
+    {
+      "added_at": "2022-11-06 09:31:15",
+      "album": {
         "name": "Rules",
         "url": "https://open.spotify.com/album/0zRsI6dnQZsxKZvbNdM7fn"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 215680,
       "name": "Rules",
       "url": "https://open.spotify.com/track/6x108QFQh3AP7wzQt6zqxY"
-    },
-    {
-      "added_at": "2022-11-06 09:31:15",
-      "album": {
-        "name": "\u30cf\u30ca\u30ce\u30e8\u30a6",
-        "url": "https://open.spotify.com/album/1NORsBbP4WjmIBG2P8OsCt"
-      },
-      "artists": [
-        {
-          "name": "NIKO NIKO TAN TAN",
-          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
-        }
-      ],
-      "duration_ms": 232232,
-      "name": "\u30cf\u30ca\u30ce\u30e8\u30a6",
-      "url": "https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5"
     }
   ],
   "unique_name": "Tokyo Rising",

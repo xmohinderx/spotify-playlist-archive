@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-162 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
+163 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Auld Lang Syne](https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:32 | 2021-11-12 | 2022-07-28 |
 | [Auld Lang Syne](https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Auld Lang Syne](https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu) | 3:12 | 2021-11-12 | 2022-07-29 |
 | [baby jesus is nobody's baby now](https://open.spotify.com/track/2jIl85mZ8SfSh5INnOPXfv) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/54ech4ihgHD7emD0ucycog) | 3:35 | 2021-11-12 | 2022-07-29 |
-| [baby jesus is nobody's baby now](https://open.spotify.com/track/3EfTHWezT9vz9Jbx5mIhVA) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/7HRyi5FKFHLTJBcHBFOZ3R) | 3:35 | 2021-11-12 |  |
+| [baby jesus is nobody's baby now](https://open.spotify.com/track/3EfTHWezT9vz9Jbx5mIhVA) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/7HRyi5FKFHLTJBcHBFOZ3R) | 3:35 | 2021-11-12 | 2022-11-08 |
 | [Blue Christmas \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/526s5K8K8MP5FG5HkZ6BOa) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Blue Christmas \(Recorded at Electric Lady Studios NYC, 2020\)](https://open.spotify.com/album/6wlrfgJzGa9aU01nSYHI2t) | 2:27 | 2021-11-12 | 2022-07-18 |
 | [Boxing Day Blues](https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:02 | 2021-11-15 | 2022-10-09 |
 | [Boxing Day Blues](https://open.spotify.com/track/35v1C5DdDBUEvdAJTEqrfz) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit And Think, And Sometimes I Just Sit \(Deluxe Digital Album\)](https://open.spotify.com/album/5hnsoChBkdtGlLrvU3uBAO) | 3:02 | 2021-11-15 | 2022-07-29 |
@@ -50,6 +50,7 @@
 | [Christmas Time Is Here](https://open.spotify.com/track/3hpvCB2XjiN6RVedOQ2437) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Christmas Time Is Here b/w Christmas Time Is Here \(Version Mary\)](https://open.spotify.com/album/5ChEH0yrY32PuizMC4qnSv) | 3:26 | 2021-11-12 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/70zkxzNyrAp6EMVDMwp3xf) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Christmas Time Is Here b/w Christmas Time Is Here \(Version Mary\)](https://open.spotify.com/album/0OZ5baLiodw7bWaafAjLNC) | 3:26 | 2021-11-12 | 2022-07-29 |
 | [Christmas Time Is Here](https://open.spotify.com/track/4B0CilLLPrk9AnYxbMRMdv) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Christmas Time Is Here b/w La Peregrinación](https://open.spotify.com/album/6puZZH8FMsJbRR8bvQVAX2) | 3:01 | 2021-11-12 |  |
+| [Christmas Treat](https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 3:11 | 2022-10-14 |  |
 | [Christmas Trees In Rain](https://open.spotify.com/track/3LWDAisPvTSwPY1yDekJ4h) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Christmas Trees In Rain](https://open.spotify.com/album/7DIfJbxj5P6nW3NOuAEhhc) | 3:06 | 2021-11-12 | 2022-07-28 |
 | [Christmas Without You](https://open.spotify.com/track/267kRsUEcJoUyGHN7un0mo) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Christmas Without You](https://open.spotify.com/album/2G4xZw2aWxW1v6Ksw5QsHA) | 3:36 | 2021-11-12 | 2022-07-22 |
 | [Christmas Wrapping \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0V7gEKezonapBWqtRLj3yj) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Spotify Singles \- Holiday](https://open.spotify.com/album/417lgc1opyokWWmF2F7Wca) | 3:13 | 2021-11-12 | 2022-07-28 |

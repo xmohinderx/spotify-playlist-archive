@@ -4,7 +4,7 @@
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-120 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
+121 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Love and Destroy \- Live](https://open.spotify.com/track/3ml0GdsJ9DvDESGbzXoAO3) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Right Thoughts, Right Words, Right Action \(Deluxe Edition\)](https://open.spotify.com/album/4X6YC6PgSMt5s7ARwGpLJ7) | 2:54 | 2018-12-10 | 2022-07-25 |
 | [Man With The Movie Camera](https://open.spotify.com/track/0nkPQmRvzYMrbjtB8mRlyR) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB) | [Live At The Royal Albert Hall](https://open.spotify.com/album/40bPx3n1uqxlPd2nB7lBuX) | 13:05 | 2018-12-10 | 2022-07-14 |
 | [Milton At Midnight](https://open.spotify.com/track/40fH8V7f8zQht6dz2wYuLC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Milton At Midnight](https://open.spotify.com/album/1t4MIGZFUAF7HofsaSWIpk) | 5:46 | 2018-12-10 | 2022-07-29 |
+| [Milton At Midnight](https://open.spotify.com/track/44wtR8EBCz7wVvsOoJQEnd) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Milton At Midnight](https://open.spotify.com/album/7kZbS20RlWvmUvOqvo0l0x) | 5:46 | 2018-12-10 |  |
 | [Mr\. Writer](https://open.spotify.com/track/1D6dE2mMlGz3WN1gjKQ76E) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 5:19 | 2018-12-10 |  |
 | [My Antonia](https://open.spotify.com/track/6yCwfs5qUdG8ySrLl2lgOh) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Red Dirt Girl](https://open.spotify.com/album/5C7B6Wi35TyMOQVtt2eRAV) | 3:42 | 2018-12-10 | 2022-07-29 |
 | [Narcissist](https://open.spotify.com/track/0LkAjjrokJbccAfz5yftS1) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 2:10 | 2018-12-10 |  |
@@ -72,7 +73,7 @@
 | [Paperback Writer \- Live At Citi Field, NYC, 2009](https://open.spotify.com/track/66JNz0BxRKrno33Jha7i7R) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Good Evening New York City](https://open.spotify.com/album/6k1uheGE4dRXkcRcpbfRg2) | 3:28 | 2018-12-10 | 2022-07-28 |
 | [Paperbag Writer](https://open.spotify.com/track/0l8kx5UM3p8DxaEYZ2YzN9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail to the Thief \(Collector's Edition\)](https://open.spotify.com/album/5GcgkRjhWDxrOTDk0TJQK8) | 3:58 | 2018-12-10 | 2022-06-16 |
 | [Paperbag Writer](https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Com Lag: 2+2=5](https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l) | 3:58 | 2018-12-10 |  |
-| [Pattern Recognition](https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sonic Nurse](https://open.spotify.com/album/7gA7xctF7tq62T2YooL6wS) | 6:32 | 2018-12-10 |  |
+| [Pattern Recognition](https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sonic Nurse](https://open.spotify.com/album/7gA7xctF7tq62T2YooL6wS) | 6:32 | 2018-12-10 | 2022-11-08 |
 | [Pattern Recognition](https://open.spotify.com/track/5UaqCqloqMJN0tmHlnMpMy) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sonic Nurse](https://open.spotify.com/album/360WG1hup7svzIcIqWQ4CE) | 6:32 | 2018-12-10 | 2022-07-28 |
 | [Postdoc Blues](https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT) | [John K\. Samson](https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ) | [Winter Wheat](https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia) | 3:23 | 2018-12-10 |  |
 | [Postdoc Blues](https://open.spotify.com/track/7EwsFukgOtMzcXjL6BZVJD) | [John K\. Samson](https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ) | [Postdoc Blues](https://open.spotify.com/album/6gohVbR0EIu7cQ4joT4ELg) | 3:23 | 2018-12-10 | 2022-07-25 |

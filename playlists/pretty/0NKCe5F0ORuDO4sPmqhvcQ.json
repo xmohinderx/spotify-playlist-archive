@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAwNDYsZDc3NjBiN2VkMTBlNmJkZGY0NDkyMzc2MDk4NDY0NjdhNTAzNzI2ZQ==",
+  "snapshot_id": "MTAwNTEsMjg3YWVjMjIwZTc5ZDBmNGJmNzZmMzExNGZhZGQ4NzA4NWQ4ZmIwZA==",
   "tracks": [
     {
       "added_at": "2022-11-03 15:32:45",
@@ -49,28 +49,24 @@
       "url": "https://open.spotify.com/track/4oZnV1W54b1TIn96i0KIwV"
     },
     {
-      "added_at": "2022-10-14 16:55:26",
+      "added_at": "2022-11-07 15:38:49",
       "album": {
-        "name": "Sleepless (The Knocks Remix)",
-        "url": "https://open.spotify.com/album/7dYiwBC4Q0d5RcT6otipKY"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v"
       },
       "artists": [
         {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
         }
       ],
-      "duration_ms": 208973,
-      "name": "Sleepless - The Knocks Remix",
-      "url": "https://open.spotify.com/track/0U2kKdAIqSD83fnFnUqd2Y"
+      "duration_ms": 211317,
+      "name": "Lose Your Love (with Matt Maeson)",
+      "url": "https://open.spotify.com/track/1PknqupRJmUOeOj0ghpwLZ"
     },
     {
       "added_at": "2022-10-26 15:41:00",
@@ -203,6 +199,30 @@
       "duration_ms": 162146,
       "name": "Inside My Head",
       "url": "https://open.spotify.com/track/4wjk41EIeEwam4t2dyFD1F"
+    },
+    {
+      "added_at": "2022-10-14 16:55:26",
+      "album": {
+        "name": "Sleepless (The Knocks Remix)",
+        "url": "https://open.spotify.com/album/7dYiwBC4Q0d5RcT6otipKY"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "Sleepless - The Knocks Remix",
+      "url": "https://open.spotify.com/track/0U2kKdAIqSD83fnFnUqd2Y"
     },
     {
       "added_at": "2022-10-14 16:54:51",
@@ -2355,6 +2375,42 @@
       "duration_ms": 187866,
       "name": "No Good Without U",
       "url": "https://open.spotify.com/track/5o4E8YFHl3ggOu1Sv6Y46M"
+    },
+    {
+      "added_at": "2022-11-07 02:30:47",
+      "album": {
+        "name": "BLUE LIGHT",
+        "url": "https://open.spotify.com/album/4GqBH0grTle1DOFgB2Jlem"
+      },
+      "artists": [
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        },
+        {
+          "name": "Cleopold",
+          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
+        }
+      ],
+      "duration_ms": 282360,
+      "name": "BLUE LIGHT",
+      "url": "https://open.spotify.com/track/0lvb2AhHFswSk5p4eC9LMJ"
+    },
+    {
+      "added_at": "2022-11-07 20:01:52",
+      "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/2yfsioyNrh9gQ2rYKM6cza"
+      },
+      "artists": [
+        {
+          "name": "Nightly Gatherings",
+          "url": "https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI"
+        }
+      ],
+      "duration_ms": 208750,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/2npBw5KVoE0yvwauKcr5SP"
     }
   ],
   "unique_name": "Moving Castle Monthly",

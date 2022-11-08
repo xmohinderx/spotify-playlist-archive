@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 214507,
       "name": "Cash",
       "url": "https://open.spotify.com/track/5lMXToPjcZst8sItJeneYt"
@@ -6730,6 +6730,24 @@
     },
     {
       "album": {
+        "name": "Mundo de Fantasia",
+        "url": "https://open.spotify.com/album/2HdtVLARQ9ylHm76OoeCx4"
+      },
+      "artists": [
+        {
+          "name": "LK 3030",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mundo de Fantasia",
+      "url": "https://open.spotify.com/track/3tan5rgugHRDRkwmHmlU93"
+    },
+    {
+      "album": {
         "name": "Mustang Preto",
         "url": "https://open.spotify.com/album/6fhHEgPoz6jfgZvwlH9jBA"
       },
@@ -9418,6 +9436,32 @@
     },
     {
       "album": {
+        "name": "Rel\u00f3gio",
+        "url": "https://open.spotify.com/album/5uILYUGi75xEwKeRmieFNN"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160796,
+      "name": "Rel\u00f3gio",
+      "url": "https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb"
+    },
+    {
+      "album": {
         "name": "Resumo",
         "url": "https://open.spotify.com/album/2Ud3UwKdhXvKya1TUldADn"
       },
@@ -10007,7 +10051,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 264827,
       "name": "Sigo na F\u00e9 do Pai",
       "url": "https://open.spotify.com/track/7zcQ56JRoNd4JAwGKcrxiZ"

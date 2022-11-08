@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Magnolia Park
 
-852 songs - 1 day 21 hr 31 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+853 songs - 1 day 21 hr 32 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [40 Over \- Alternate Version](https://open.spotify.com/track/5Jh8SBqHT91x7shg2VNNWx) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/4WWoHnK6aJKPPUiVrS9cnk) | 3:18 | 2022-03-25 | 2022-05-03 |
 | [406](https://open.spotify.com/track/2CQxtZAEIl1k8fkV2EzSkg) | [Radolescent](https://open.spotify.com/artist/1pdRw9fmtOa3qdlolG9vyV) | [406](https://open.spotify.com/album/4QzSgXlrSlOryGEIBhq4nn) | 3:13 | 2022-03-25 | 2022-04-17 |
 | [5150](https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:54 | 2022-03-25 |  |
+| [9 to 5](https://open.spotify.com/track/173uXbrxQTVQWoc7jV0gXI) | [CHRIS RAIN](https://open.spotify.com/artist/2xVJqCdxc81K24QaW0je4y) | [9 to 5](https://open.spotify.com/album/1CakbNtc324KKr5oRpCMCX) | 1:48 | 2022-11-04 |  |
 | [90's Baby](https://open.spotify.com/track/4BqsOr5rxSH6XUjOtTZVRk) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [90's Baby](https://open.spotify.com/album/2Mvcne62fppYpwqDLHSyUz) | 2:00 | 2021-12-10 | 2022-07-12 |
 | [98 Degrees](https://open.spotify.com/track/4Df5LQCm51Md155Wwcf8uU) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [98 Degrees](https://open.spotify.com/album/3CTiPl9nzPo0tOddi73vvi) | 2:47 | 2021-12-10 | 2022-05-20 |
 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 | 2022-06-24 |  |
@@ -30,7 +31,7 @@
 | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/6PxNpy8jOjyZ8aGCD58LpW) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/3RjX0PnYherdDTp2MWq0G1) | 3:11 | 2021-12-10 | 2022-11-05 |
 | [Adrenaline](https://open.spotify.com/track/5vxX2POnp7NBbaCAIVQix7) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L) | 3:21 | 2021-12-10 | 2022-07-08 |
 | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/5xLv5i7u2e4uT3Ewgvkr8Z) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/album/69miU2ZUNDbOpyqUziOHFS) | 2:21 | 2022-04-15 | 2022-07-25 |
-| [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 2:21 | 2022-07-08 |  |
+| [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 2:21 | 2022-07-08 | 2022-11-08 |
 | [After Tonight](https://open.spotify.com/track/2hf23pG2ylOyhua5jUH5vz) | [Sleep On It](https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2) | [After Tonight](https://open.spotify.com/album/56KAUCXd4WzhH6h2tAHpwn) | 2:47 | 2022-01-14 | 2022-07-07 |
 | [Aftercolour](https://open.spotify.com/track/0uMwBQiJGs6VoKzTBET5Wz) | [Heavensake](https://open.spotify.com/artist/5XmaAOv4vTRG5cAlZmlUjZ) | [Post\-Chroma](https://open.spotify.com/album/6JSdPHVBKWpHe2sICBhbIg) | 3:44 | 2022-03-25 | 2022-04-18 |
 | [Afterlife \- Single Edit](https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Afterlife](https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi) | 3:46 | 2021-12-10 | 2022-07-29 |

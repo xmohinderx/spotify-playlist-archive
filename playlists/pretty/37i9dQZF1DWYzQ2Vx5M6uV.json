@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 99823,
+  "num_followers": 99862,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGRhN2ZjZWM2ZDk0OTk5NWY4NWU3M2VjMTBlZmJmYmNi",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGYwYmYyYzU4MDk0Y2Q5NDY3MTY2NTE3Yzc1NmVkN2Q4",
   "tracks": [
     {
       "added_at": "2022-09-06 16:11:58",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 190108,
-      "name": "JA ARA E",
-      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Blessings REMIX (feat. French Montana & Davido)",
         "url": "https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 225000,
       "name": "Blessings REMIX (feat. French Montana & Davido)",
       "url": "https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "JA ARA E",
+      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -687,26 +687,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Sounds of My World",
-        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 204099,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/7Jqa7kWKN4d2Fn7FESctLz"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Midnight Boom (with ChocQuibTown & Afro B)",
         "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 220552,
       "name": "Midnight Boom - with ChocQuibTown & Afro B",
       "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 204099,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/7Jqa7kWKN4d2Fn7FESctLz"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1137,20 +1137,48 @@
       "url": "https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O"
     },
     {
-      "added_at": "2022-09-06 16:29:13",
+      "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Eclipse Lunar",
-        "url": "https://open.spotify.com/album/1ctvqsXCBr04r5wmnSt8xn"
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
       "artists": [
         {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+        },
+        {
+          "name": "anatu",
+          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
         }
       ],
-      "duration_ms": 193491,
-      "name": "Eclipse Lunar",
-      "url": "https://open.spotify.com/track/3Liew5UzQGzXWfjiwX5B4F"
+      "duration_ms": 145909,
+      "name": "lo siento",
+      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Zimenice",
+        "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
+      },
+      "artists": [
+        {
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+        },
+        {
+          "name": "Tezzla",
+          "url": "https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Zimenice",
+      "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1173,24 +1201,20 @@
       "url": "https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij"
     },
     {
-      "added_at": "2022-09-06 16:11:58",
+      "added_at": "2022-09-06 16:29:13",
       "album": {
-        "name": "Zimenice",
-        "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
+        "name": "Eclipse Lunar",
+        "url": "https://open.spotify.com/album/1ctvqsXCBr04r5wmnSt8xn"
       },
       "artists": [
         {
-          "name": "Chris Kaiga",
-          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
-        },
-        {
-          "name": "Tezzla",
-          "url": "https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3"
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
         }
       ],
-      "duration_ms": 212307,
-      "name": "Zimenice",
-      "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
+      "duration_ms": 193491,
+      "name": "Eclipse Lunar",
+      "url": "https://open.spotify.com/track/3Liew5UzQGzXWfjiwX5B4F"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1223,30 +1247,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "iluminada",
-        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
-      },
-      "artists": [
-        {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
-        },
-        {
-          "name": "Andrew Ace",
-          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
-        },
-        {
-          "name": "anatu",
-          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
-        }
-      ],
-      "duration_ms": 145909,
-      "name": "lo siento",
-      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Sugarcane (Latin Remix)",
         "url": "https://open.spotify.com/album/0bgv84IDiggOHkjuQCsovu"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "GUERRA",
-        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "GUERRA",
-      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Flavors 2",
         "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
       },
@@ -1311,26 +1295,18 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Te Gusta",
-        "url": "https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V"
+        "name": "GUERRA",
+        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
       },
       "artists": [
         {
-          "name": "Young \"D\"",
-          "url": "https://open.spotify.com/artist/2ybfFlvm4VB8C56wI1yOQs"
-        },
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Ayo Jay",
-          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
         }
       ],
-      "duration_ms": 206538,
-      "name": "Te Gusta",
-      "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
+      "duration_ms": 232000,
+      "name": "GUERRA",
+      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1359,6 +1335,30 @@
       "duration_ms": 334000,
       "name": "Cheza Kama Wewe",
       "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Te Gusta",
+        "url": "https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V"
+      },
+      "artists": [
+        {
+          "name": "Young \"D\"",
+          "url": "https://open.spotify.com/artist/2ybfFlvm4VB8C56wI1yOQs"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Ayo Jay",
+          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
+        }
+      ],
+      "duration_ms": 206538,
+      "name": "Te Gusta",
+      "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
     },
     {
       "added_at": "2022-09-06 16:11:58",

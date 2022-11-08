@@ -4,7 +4,7 @@
 
 > Editor's pick: The best of Gengetone songs of 2021\. Cover: Mbuzi Gang
 
-106 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/3E6GHAfjqTrPwpK3Gzst6H)
+107 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/3E6GHAfjqTrPwpK3Gzst6H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Fanya](https://open.spotify.com/track/1EE5AsTfD1y5wv96CsDptx) | [Ethic](https://open.spotify.com/artist/1WQ1lasaBi46OgC1kSMvqz) | [Fanya](https://open.spotify.com/album/3HR71O4z5lheIlcadnyq88) | 2:46 | 2021-12-01 |  |
 | [Fatuma](https://open.spotify.com/track/5Eb1eiwwnydu36mq5KsltA) | [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G), [Baniroli](https://open.spotify.com/artist/64DTVOG4v3xaUaaKLxWzSZ), [Genna Genna](https://open.spotify.com/artist/1hNAaiLNzPDV7BBcfWUKeX) | [Fatuma](https://open.spotify.com/album/1iW79Q12u1JRQhKzu95Cnl) | 3:52 | 2021-12-01 |  |
 | [Foto Moto](https://open.spotify.com/track/72ViPikAdYlWRNR5mn0yUx) | [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK), [Noti Flow](https://open.spotify.com/artist/1iEI7tRZgaXjPrpPj6cAM6) | [Foto Moto](https://open.spotify.com/album/0sayyyOPVYVrpAJAdOzr7c) | 3:06 | 2021-12-01 |  |
-| [Full Degree](https://open.spotify.com/track/1iQoxpuvklE3FyjmekcfoW) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Full Degree](https://open.spotify.com/album/1zmAjeOdjupcf21DlFjzHc) | 3:19 | 2021-12-01 |  |
+| [Full Degree](https://open.spotify.com/track/1iQoxpuvklE3FyjmekcfoW) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Full Degree](https://open.spotify.com/album/1zmAjeOdjupcf21DlFjzHc) | 3:19 | 2021-12-01 | 2022-11-08 |
+| [Full Degree](https://open.spotify.com/track/3yuGWSUQkWJCgzUqSLAltI) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Full Degree](https://open.spotify.com/album/0ASbGFcUIaftkFoSk9GvRk) | 3:19 | 2021-12-01 |  |
 | [Gengetone Love](https://open.spotify.com/track/6s5xOQTBBuWr5XkPT8FRly) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV) | [Gengetone Love](https://open.spotify.com/album/5ttYXlD6iTYAwVoaIAi60i) | 3:41 | 2021-12-01 |  |
 | [Giz Giz](https://open.spotify.com/track/3T46Yvkzajuul8Ph5pBKWR) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Giz Giz](https://open.spotify.com/album/0dUyimoIIRIt9US7lmX0ns) | 3:48 | 2021-12-01 |  |
 | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr) | 3:07 | 2021-12-01 |  |

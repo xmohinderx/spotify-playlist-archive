@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania.
 
-173 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
+174 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Basi Tu](https://open.spotify.com/track/6u9PnXag7PlwoosKq9NLFk) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Promise](https://open.spotify.com/album/41BrRZ2kg2mbflJaASkCFU) | 4:14 | 2021-08-26 | 2022-07-09 |
 | [Beer Tam](https://open.spotify.com/track/2YVBBDQoMn8oHrSysWWhla) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV), [Visca](https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO) | [Beer Tam](https://open.spotify.com/album/3sG9Yb7heI3k5qVWCgJvQZ) | 4:53 | 2021-09-16 | 2022-08-19 |
 | [Behave](https://open.spotify.com/track/0evM3jWXDHZD7myeqqPuGf) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [ART](https://open.spotify.com/album/2UGjMioVdRsPg1lvm6dQnW) | 3:09 | 2022-08-26 |  |
-| [Bestfriend](https://open.spotify.com/track/71VfgEoTxsvCM6t3ezM4O4) | [Nino Tz](https://open.spotify.com/artist/3LTyFY0h2skH9h7Us2kGEn) | [Bestfriend](https://open.spotify.com/album/1yAjYmx4h0wcZkQYXPHnnh) | 3:33 | 2022-06-02 |  |
+| [Bestfriend](https://open.spotify.com/track/71VfgEoTxsvCM6t3ezM4O4) | [Nino Tz](https://open.spotify.com/artist/3LTyFY0h2skH9h7Us2kGEn) | [Bestfriend](https://open.spotify.com/album/1yAjYmx4h0wcZkQYXPHnnh) | 3:33 | 2022-06-02 | 2022-11-08 |
 | [Bora Peke Yangu](https://open.spotify.com/track/0eIdUNkRBCxaouwoDRl2M4) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:55 | 2021-11-11 | 2022-03-04 |
 | [Chetu](https://open.spotify.com/track/13fP1icHklBUjnuOojaHbg) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Chetu](https://open.spotify.com/album/5Be8LuvZZ3PrdshDBBHo37) | 3:09 | 2022-01-20 | 2022-06-10 |
 | [Chochea](https://open.spotify.com/track/2oHY0E1ew4snvK6ys5to63) | [Ability](https://open.spotify.com/artist/7KaKP5eucZGqTRCbBY3o9x), [Juma Nature](https://open.spotify.com/artist/2enoDeXvzvFmUbauQLAEc1) | [Chochea](https://open.spotify.com/album/0x5yL8jchQm4ijPnkia1ih) | 3:31 | 2021-06-25 | 2022-01-21 |
@@ -95,6 +95,7 @@
 | [Mi Amor](https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Mi Amor](https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm) | 3:05 | 2022-01-06 |  |
 | [Milele](https://open.spotify.com/track/3vArI20yjxyaVepSKiaUml) | [Manengo](https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS), [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Milele](https://open.spotify.com/album/4wIHp3uNOmvSxsmquGOqe7) | 2:57 | 2022-09-08 |  |
 | [Miss Bantu \(feat\. Spice\)](https://open.spotify.com/track/25G0isuPtzCqMWDPm99yPS) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Miss Bantu \(feat\. Spice\)](https://open.spotify.com/album/3MUrDQrZLAlpUPniQ63wwZ) | 3:33 | 2022-07-22 |  |
+| [Mon Bebe](https://open.spotify.com/track/07GU7epMc4AY69kgNWR3L8) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Dedication](https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg) | 2:57 | 2022-11-07 |  |
 | [Monica](https://open.spotify.com/track/2YLLB3voKxIva76wcorNXa) | [10kleeroy](https://open.spotify.com/artist/2OSU31gPBXeqCgsq8K7T9k), [Modizo](https://open.spotify.com/artist/1h7r4cQfZUgOvSkF8ckAxN) | [Monica](https://open.spotify.com/album/0aRdcA9Utbd08sjGXpTVtx) | 2:52 | 2022-05-19 | 2022-09-23 |
 | [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/album/12PHIJ7XJEjiclcDuljOtE) | 4:12 | 2022-06-09 |  |
 | [Mubashara](https://open.spotify.com/track/0LJfViJHjkkqRmgo8cR5bs) | [DanZak](https://open.spotify.com/artist/3oNTjRNQ7IUHGKa5lF6Pbo), [Passo](https://open.spotify.com/artist/5LnngmOaUBviZk4qfJGNAr) | [Mubashara](https://open.spotify.com/album/3hvddaiwUCYM1VWMg15TY9) | 3:23 | 2022-09-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 3718,
+  "num_followers": 3795,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjA3MiwwMDAwMDAwMDkyOTIyZGYwYjVjNjg2ZTJlZjBkNTRmNzQwNWE4OTVi",
+  "snapshot_id": "MTY2NDY1NjA3MiwwMDAwMDAwMGVmYTgxNmNjYTRjMjM4MWYzNTk5Yjg2ZjU3NzU4MDgz",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -287,6 +287,62 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "BLINDFOLD (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/02mYw61RoS1vXvkD9Q5dpN"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Bacc Seat (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6In6SkveIw26thdYRhHTVX"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 207038,
+      "name": "Sauce It Up",
+      "url": "https://open.spotify.com/track/1uL78kFWxhz3umTMWJu8n5"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Birds In The Trap Sing McKnight",
         "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
       },
@@ -319,62 +375,6 @@
       "duration_ms": 166911,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 207038,
-      "name": "Sauce It Up",
-      "url": "https://open.spotify.com/track/1uL78kFWxhz3umTMWJu8n5"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Bacc Seat (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/6In6SkveIw26thdYRhHTVX"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "WUNNA",
-        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "BLINDFOLD (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/02mYw61RoS1vXvkD9Q5dpN"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -419,22 +419,6 @@
       "duration_ms": 253533,
       "name": "Weston Road Flows",
       "url": "https://open.spotify.com/track/4PA16FAl8LPmFmOhARawdV"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 191583,
-      "name": "Humble",
-      "url": "https://open.spotify.com/track/6heRfvHrUIIPx9TqRg8SCq"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -503,38 +487,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 156032,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "What A Time To Be Alive",
-        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 253934,
-      "name": "30 for 30 Freestyle",
-      "url": "https://open.spotify.com/track/1DmnEYXa4WfbdhAPwNzgD8"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "No Love Lost",
         "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
       },
@@ -563,6 +515,38 @@
       "duration_ms": 142710,
       "name": "Perfect Time",
       "url": "https://open.spotify.com/track/6kiIVIbmwEw6JvIZc7UG0E"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 253934,
+      "name": "30 for 30 Freestyle",
+      "url": "https://open.spotify.com/track/1DmnEYXa4WfbdhAPwNzgD8"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 191583,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/6heRfvHrUIIPx9TqRg8SCq"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -663,22 +647,18 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+        "name": "All In",
+        "url": "https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U"
       },
       "artists": [
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 209299,
-      "name": "Voice of the Heroes",
-      "url": "https://open.spotify.com/track/3E3pb3qH11iny6TFDJvsg5"
+      "duration_ms": 156032,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -843,6 +823,26 @@
       "duration_ms": 151980,
       "name": "Special",
       "url": "https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 209299,
+      "name": "Voice of the Heroes",
+      "url": "https://open.spotify.com/track/3E3pb3qH11iny6TFDJvsg5"
     },
     {
       "added_at": "2022-10-01 20:14:07",

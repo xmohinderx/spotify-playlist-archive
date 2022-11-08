@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 143116,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/0wt7KE5Y255f2enVmlwsu0"
@@ -677,6 +677,28 @@
       "duration_ms": 193010,
       "name": "I'm Not Havin' It",
       "url": "https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl"
+    },
+    {
+      "album": {
+        "name": "Inflation",
+        "url": "https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD"
+      },
+      "artists": [
+        {
+          "name": "Earnest Jackson",
+          "url": "https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm"
+        },
+        {
+          "name": "Sugar Daddy and the Gumbo Roux",
+          "url": "https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199734,
+      "name": "Inflation",
+      "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
     },
     {
       "album": {

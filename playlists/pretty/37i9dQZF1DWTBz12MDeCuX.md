@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu, Domiziana
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,719 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,212 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Another Love](https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt) | 2:25 |
-| 2 | [Nur ein Wort](https://open.spotify.com/track/6q11kvJWt4SYHiNembjnaU) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN), [Asterio](https://open.spotify.com/artist/3xK2PuwaZkeXlAjDtK6ght) | [Nur ein Wort](https://open.spotify.com/album/2qS9UJHDrxUTJHrAHXCQRH) | 2:17 |
-| 3 | [Tour de Berlin](https://open.spotify.com/track/28eqTE31oIjrlSMK4y1VwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Tour de Berlin](https://open.spotify.com/album/7kOiXbB7O03HTlsu0qsBod) | 2:31 |
+| 1 | [Tour de Berlin](https://open.spotify.com/track/28eqTE31oIjrlSMK4y1VwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Tour de Berlin](https://open.spotify.com/album/7kOiXbB7O03HTlsu0qsBod) | 2:31 |
+| 2 | [Another Love](https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt) | 2:25 |
+| 3 | [Nur ein Wort](https://open.spotify.com/track/6q11kvJWt4SYHiNembjnaU) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN), [Asterio](https://open.spotify.com/artist/3xK2PuwaZkeXlAjDtK6ght) | [Nur ein Wort](https://open.spotify.com/album/2qS9UJHDrxUTJHrAHXCQRH) | 2:17 |
 | 4 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 |
 | 5 | [WAS DU MACHST](https://open.spotify.com/track/5oVrNOVEpDdZaf2aG9YNs0) | [HENRYY](https://open.spotify.com/artist/7MN3Ivl1zMpNa381IMZ0FN) | [WAS DU MACHST](https://open.spotify.com/album/1kncUoEED6DHybwlxzOk4j) | 2:14 |
 | 6 | [Nie Mein Shawty](https://open.spotify.com/track/0rCl2Tq2rctLJaqcv4nzV1) | [Romero](https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU) | [Nie Mein Shawty](https://open.spotify.com/album/7BUBA636QQxzHhSxTcC2ft) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Spannung](https://open.spotify.com/track/7G4wi7IAadEj3pzQeR923K) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [Dorian](https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb) | [Spannung](https://open.spotify.com/album/6KOvdB1RpDc3wqdEr1pXmE) | 2:37 |
 | 100 | [Love Shots](https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Love Shots](https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD) | 1:50 |
 
-Snapshot ID: `MTY2NzU1MDcxMSwwMDAwMDAwMDg4OGMzNTAxODhiYjQ0M2YxYWI3ZTQ2NGY2ZGE3YWIw`
+Snapshot ID: `MTY2Nzg0MjgzMCwwMDAwMDAwMDc5MDcwNWUxMTYxMGVhNDg2MWZiOTg2NDQ1ZGRkOTAx`

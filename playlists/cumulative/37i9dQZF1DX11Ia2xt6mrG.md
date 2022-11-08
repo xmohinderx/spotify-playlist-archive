@@ -2,9 +2,9 @@
 
 ### [mint MX](https://open.spotify.com/playlist/37i9dQZF1DX11Ia2xt6mrG)
 
-> Descubre lo más fresco de la electrónica mexicana\. Steve Aoki, Santa Fe Klan y Snow Tha Product
+> Descubre lo más fresco de la electrónica mexicana\. Tom & Collins en portada.
 
-173 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/6ndsqys7EQOockTFuddjf1)
+174 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/6ndsqys7EQOockTFuddjf1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Ojos \- La Noche Mix \- Radio Edit](https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ) | [Jenna Kyle](https://open.spotify.com/artist/17mfg70P3n3uE4mZP6mH8H), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Ojos \(La Noche Mix\)](https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45) | 3:00 | 2022-05-06 |  |
 | [Ojos Chiquitos](https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ojos Chiquitos](https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A) | 2:32 | 2022-05-06 |  |
 | [Only One](https://open.spotify.com/track/3w6JyzlT07ySZPpiWpbfne) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [Matrino](https://open.spotify.com/artist/0jw0ZstZ0up9QaLPhOZsRi), [Norise](https://open.spotify.com/artist/3B6ycrAB8xJLpioUPHPoSD) | [Only One](https://open.spotify.com/album/2mn51btXWHfZ8KN2AbNzsF) | 3:04 | 2022-05-06 | 2022-07-29 |
-| [Panda](https://open.spotify.com/track/5fO5BPkXwoANEc7jJX9oIk) | [Ivan Dola](https://open.spotify.com/artist/0qjUt7xh6qxdB8bUAwPBsb) | [Panda](https://open.spotify.com/album/0WTcHPgqhJrd5WsyknBepl) | 3:20 | 2022-05-06 |  |
+| [Panda](https://open.spotify.com/track/5fO5BPkXwoANEc7jJX9oIk) | [Ivan Dola](https://open.spotify.com/artist/0qjUt7xh6qxdB8bUAwPBsb) | [Panda](https://open.spotify.com/album/0WTcHPgqhJrd5WsyknBepl) | 3:20 | 2022-05-06 | 2022-11-08 |
 | [Paradise](https://open.spotify.com/track/5OQDF6iHKv6yxZZmu666E3) | [Artelax](https://open.spotify.com/artist/1cmngJeHHZi2ZWodpFOLv3) | [Paradise](https://open.spotify.com/album/6sZBlc5iZcFpFE0c7z6cMx) | 1:52 | 2022-05-06 | 2022-07-26 |
 | [Parallels](https://open.spotify.com/track/6vtgIWQ2yCEcT4PTwdcPHg) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [Parallels](https://open.spotify.com/album/2SxPs12skpRjx4oS0dWSdW) | 3:09 | 2022-06-17 | 2022-07-14 |
 | [Pass The Dutch](https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Pass The Dutch](https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj) | 3:28 | 2022-05-06 |  |
@@ -134,6 +134,7 @@
 | [Safari](https://open.spotify.com/track/1sD7wfCf5OqgbQoCQylqu4) | [Berdu](https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl), [Yongo](https://open.spotify.com/artist/3O6jv8Iew1XZ8svS1Ug9UN) | [Safari](https://open.spotify.com/album/0i3aIyaIbZSNVSOOvBGisq) | 2:36 | 2022-05-06 | 2022-07-28 |
 | [Say Goodnight](https://open.spotify.com/track/4qtkxwJiHoKUJNwbuqWnCb) | [Setou & Senyo](https://open.spotify.com/artist/6IeBUOW8MyihZUBtYRdKYv), [Cuish](https://open.spotify.com/artist/61RmCUTCpJE6fDpVAerv0e), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Say Goodnight](https://open.spotify.com/album/4zJblKXvYzvYWe7jXBeyf5) | 2:42 | 2022-05-06 | 2022-06-13 |
 | [Scare](https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Gerard Butler](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U) | [Scare](https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC) | 3:24 | 2022-05-06 | 2022-07-29 |
+| [Se Va](https://open.spotify.com/track/6KSrK117BG0DfCdnKAnf1l) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va](https://open.spotify.com/album/5KlTXz9q18qHaH9uOEIO6S) | 3:16 | 2022-11-08 |  |
 | [Senses](https://open.spotify.com/track/6v6AOyEwnzthASohlRwYrS) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd), [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf) | [Senses](https://open.spotify.com/album/3AtsqKQ6fcU3iIUSAAMyeV) | 6:34 | 2022-05-06 |  |
 | [Serotonina](https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Neneto](https://open.spotify.com/artist/4SRF0I10ZzUX6hFmV1RCXR) | [Serotonina](https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs) | 3:54 | 2022-07-28 |  |
 | [Shadows](https://open.spotify.com/track/4FmMrvogUG8GxzyJSuRbGv) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Atmën](https://open.spotify.com/artist/1Yhyrgpjks2m1yI2c7aIZf), [MaQui](https://open.spotify.com/artist/0LiSEfi7u1vXziSuYH6l2q) | [Shadows](https://open.spotify.com/album/1fRYEitkWXzm7eahpzX0ll) | 3:10 | 2022-05-06 | 2022-07-29 |

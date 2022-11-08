@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233 likes - 477 songs - 1 day 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245 likes - 477 songs - 1 day 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 84 | [Part Time Love](https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [This Is Clarence Carter](https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx) | 2:41 |
 | 85 | [Sweet Painted Lady \- Remastered 2014](https://open.spotify.com/track/7sGL3k2M6FiWFP9x83wiLA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:54 |
 | 86 | [This Song Has No Title \- Remastered 2014](https://open.spotify.com/track/4oXPKd1nCTONb2O9NEWjUn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 2:23 |
-| 87 | [Disney Classics Medley](https://open.spotify.com/track/1mcaES0rhRzyIrVa6cbLBC) | [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg), [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 4:48 |
-| 88 | [Harmony \- Remastered 2014](https://open.spotify.com/track/3U05P1UcqaOFHlaZ0Wk8d7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 2:44 |
+| 87 | [Harmony \- Remastered 2014](https://open.spotify.com/track/3U05P1UcqaOFHlaZ0Wk8d7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 2:44 |
+| 88 | [Disney Classics Medley](https://open.spotify.com/track/1mcaES0rhRzyIrVa6cbLBC) | [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg), [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 4:48 |
 | 89 | [Sausage Rolls for Everyone](https://open.spotify.com/track/6fNd6OkGoACwHtAnf2wslm) | [LadBaby](https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sausage Rolls for Everyone](https://open.spotify.com/album/4gQYK0guzqRxHtt9SQnXFr) | 3:27 |
 | 90 | [All The Girls Love Alice \- Remastered 2014](https://open.spotify.com/track/4gad1qhsqNL63n9OyCDsjL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 5:08 |
 | 91 | [Blessed](https://open.spotify.com/track/4rKsQBxDysJWqXpY5TAekd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:02 |
@@ -257,8 +257,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 247 | [Whenever You're Ready \(We'll Go Steady Again\) \- Single Version](https://open.spotify.com/track/73RheFMmYGLht3xAnnTVZH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 2:51 |
 | 248 | [I'm Going To Be A Teenage Idol](https://open.spotify.com/track/6bZ4nYreRpdPikggxXbzc6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 |
 | 249 | [You Can Make History \(Young Again\)](https://open.spotify.com/track/2ChvdpARUc5va0hLi51Nmp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Candle In The Wind 1997 / Something About ...](https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ) | 4:54 |
-| 250 | [Midnight Creeper](https://open.spotify.com/track/5lnkNO3Si97dpuKQY8z5OT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:52 |
-| 251 | [Love Builds a Garden](https://open.spotify.com/track/0CjPt6FMbL18Q2WThDHTTb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 3:34 |
+| 250 | [Love Builds a Garden](https://open.spotify.com/track/0CjPt6FMbL18Q2WThDHTTb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 3:34 |
+| 251 | [Midnight Creeper](https://open.spotify.com/track/5lnkNO3Si97dpuKQY8z5OT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:52 |
 | 252 | [Angry Dance](https://open.spotify.com/track/7IAQKxGChgYSSS6hZm6JLf) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 3:49 |
 | 253 | [Never Too Old \(To Hold Somebody\)](https://open.spotify.com/track/14KH4059KdXdzTRVpjb5OU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 4:57 |
 | 254 | [Picture](https://open.spotify.com/track/3yrrMXFRzMYn4n5OogAbMi) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 3:59 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Planes](https://open.spotify.com/track/1Fm7IY67rMkXDi7UR4TjIO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 4:31 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc3OTY0MDQsMDAwMDAwMDA2NDgxMDBkMGVhZGFkODVjZDc0ZGVhM2Q1YzkzNmU2ZQ==`
+Snapshot ID: `Mjc3OTc4NDQsMDAwMDAwMDAyZDJlM2RhOGM5MzBmNDA3MDIxZGJmYjRhZTNiMDc5Ng==`

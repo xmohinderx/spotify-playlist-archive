@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: YUKI
 
-846 songs - 2 day 7 hr 38 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+847 songs - 2 day 7 hr 41 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [アルペジオ](https://open.spotify.com/track/4up2QXTZwSP3bO0BWkaPLa) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [アルペジオ](https://open.spotify.com/album/1zEywdujyUL6V8iaLvulFq) | 4:11 | 2022-05-29 | 2022-07-23 |
 | [アンバランスfeat.仮谷せいら](https://open.spotify.com/track/1ERiqAIHqXKxEauv1S24Z1) | [いちろー](https://open.spotify.com/artist/6idpgGJuJlaFZsNLsmXCQ4), [Seira Kariya](https://open.spotify.com/artist/0iJ6VIGJffJ0vCLJHc3xqO) | [アンバランスfeat.仮谷せいら](https://open.spotify.com/album/2bQzLMa8R6tsaFmjAeDAg0) | 3:32 | 2022-06-02 | 2022-06-04 |
 | [アンバームーン](https://open.spotify.com/track/2VToJNakkBmwEvZxKS692u) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK) | [アンバームーン](https://open.spotify.com/album/6lZOqqJmvpxyCB3UAbZiXW) | 3:22 | 2022-07-19 | 2022-07-27 |
+| [イツメン。](https://open.spotify.com/track/6S1fhXHt8tzOhdERyq3Qqa) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [イツメン。](https://open.spotify.com/album/08bOlAZpzJnBoKAsHRvh6H) | 3:00 | 2022-11-03 |  |
 | [インタビュー](https://open.spotify.com/track/28plgD4ChGKy9DD6CJw9Iu) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 2:52 | 2022-08-18 | 2022-08-20 |
 | [ウソモホント](https://open.spotify.com/track/5yJx1isPYlOMNrNINuboSJ) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [ウソモホント](https://open.spotify.com/album/7wgsf5mKeBiWEqaEqVUcGQ) | 3:43 | 2022-10-25 | 2022-10-27 |
 | [エイリアンズ](https://open.spotify.com/track/2mp2qzdtGo0OnCTHWFUILF) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [App standard](https://open.spotify.com/album/5XvH9nAEquyxKHg7zKKBDr) | 4:46 | 2022-07-12 | 2022-07-14 |
@@ -571,7 +572,7 @@
 | [センチメンタル・キス \- Acoustic ver.](https://open.spotify.com/track/534CTO8v2KnPNSMJ0jI3W3) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [センチメンタル・キス \(Acoustic ver.\)](https://open.spotify.com/album/5YcADTfXYhwRZ8EJr8v2WN) | 5:26 | 2022-05-29 | 2022-06-01 |
 | [ソレイユ \- feat\. yonkey](https://open.spotify.com/track/7chAs7ehujVWT4KGZlUSfq) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC), [yonkey](https://open.spotify.com/artist/6xepaVh7in8xPJgHZfBPQZ) | [ソレイユ \(feat\. yonkey\)](https://open.spotify.com/album/5bBUw9fGaq19XtuGfzGomy) | 3:02 | 2022-06-02 | 2022-06-30 |
 | [タイトロープ](https://open.spotify.com/track/6x5XhibGV4en88kZlZGMWi) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [タイトロープ](https://open.spotify.com/album/6HvuxgTKo30cvE7pAqVQHw) | 4:55 | 2022-07-19 | 2022-07-27 |
-| [ダイナマイト](https://open.spotify.com/track/1fYp7sbbY8iiPVmkQ5R1RP) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [ダイナマイト](https://open.spotify.com/album/6FnpfHUAb6eca7168HPMw6) | 3:13 | 2022-05-29 |  |
+| [ダイナマイト](https://open.spotify.com/track/1fYp7sbbY8iiPVmkQ5R1RP) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [ダイナマイト](https://open.spotify.com/album/6FnpfHUAb6eca7168HPMw6) | 3:13 | 2022-05-29 | 2022-11-08 |
 | [ダージリン \- Bousi Studio Remix](https://open.spotify.com/track/64UaJY4n99ZKSHIq82KOtk) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx), [野村帽子](https://open.spotify.com/artist/2QkxK6rPvCNIEM7OxvHJPx) | [ダージリン \(Bousi Studio Remix\)](https://open.spotify.com/album/3xSg3qQZepIoFbBLSRZpug) | 3:26 | 2022-05-31 | 2022-07-23 |
 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-09-06 |  |
 | [チューリップ](https://open.spotify.com/track/13xYQlVr11XuhBwHRbYFmk) | [Kiwokuza](https://open.spotify.com/artist/5RuJsNzn0UhHOu1jvMD3Ii) | [チューリップ](https://open.spotify.com/album/61BECZBJEOOZVas8iFdY30) | 4:27 | 2022-06-07 | 2022-07-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,299 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,546 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 35 | [Germaine](https://open.spotify.com/track/75Oxiew9UEAJNgBfemFLPR) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 3:25 |
 | 36 | [Le Parc De Plaisir](https://open.spotify.com/track/3eFo3R4r0KPT932Wa5zq0P) | [Francois Parisi](https://open.spotify.com/artist/5UwPIPTmXwjYU3VoTOVXDV) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 2:12 |
 | 37 | [Kosher in Venice](https://open.spotify.com/track/1QN53ordFgJt3ruAGSXB8l) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 2:41 |
-| 38 | [Valse aux Champs\-Elysees](https://open.spotify.com/track/2tXsQnHFbOiEros8MUVLrj) | [Paris Cafe Ensemble](https://open.spotify.com/artist/0olzGBukMq0WEUDno526kZ) | [Café Paris: French Accordion & Gypsy Guitar Favorites](https://open.spotify.com/album/1hmtyvAicRpfnJLKmNVd9K) | 2:37 |
+| 38 | [Valse Aux Champs\-Elysees](https://open.spotify.com/track/1Wxdx6fbqM380Gf9C0ODBC) | [Daniel Janin](https://open.spotify.com/artist/6Y3tbVSmwrunXf2PLea5wH) | [Authentic France \(La France authentique\)](https://open.spotify.com/album/2vWdztr1r7yVlFamyCNbGG) | 2:37 |
 | 39 | [Cest Si Bon](https://open.spotify.com/track/0OHa1UeDdKnkfGlq7brxnB) | [Bon Appétit Musique](https://open.spotify.com/artist/7tWQJ9vhVcQQBscWdUR4MI) | [France And French Cafe Accordion Music](https://open.spotify.com/album/41kogh7wCSEEL2olQyMmXi) | 3:16 |
 | 40 | [Parlez\-Moi D'amour](https://open.spotify.com/track/7BfDyrKPnW11375k831lay) | [Dana Boulé](https://open.spotify.com/artist/2f8QOPqhNpY1AYLNMBAtcD) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:00 |
 | 41 | [La vie en rose](https://open.spotify.com/track/5nMtd6QVWMv8tiYkPlPuD7) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F), [Dominique Cravic](https://open.spotify.com/artist/3YbvJxUxRDaLxoe7K5nPV8), [Claire Elzière](https://open.spotify.com/artist/1Zz0qtkLEAJvEmi3w6QKRO) | [French Cafe Music](https://open.spotify.com/album/6xkpSZA1I5GGQ706McVrCr) | 2:14 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 51 | [Brise Napolitaine \- 1956](https://open.spotify.com/track/5tsAXJsDCzJL9mOLW09xX0) | [Yvette Horner](https://open.spotify.com/artist/5NZd2r4rjPIli27nwjM0QN) | [Valse Musette](https://open.spotify.com/album/3IstTjNFAMomssd6s9g8XX) | 2:25 |
 | 52 | [Magnitsky Mazurka](https://open.spotify.com/track/5ZXjV4dL6GAc4yRUtf48IP) | [Blue Reed](https://open.spotify.com/artist/45G3AXF6o34v567mxogrb9) | [Vol.1](https://open.spotify.com/album/5OjLE6UwpRwpVmWlNrGgM1) | 4:47 |
 
-Snapshot ID: `MTY1OTY5NjMzNywwMDAwMDAwMDg0ZWM5NmFhYWY0MzliMDU3MTc1ZjY3NzM5ZTRmNWFm`
+Snapshot ID: `MTY1OTY5NjMzNywwMDAwMDAwMDJjMTM2NTFlNjE1ZDkzYWE5NWU3ZWVlMjE5YTZhNWU2`

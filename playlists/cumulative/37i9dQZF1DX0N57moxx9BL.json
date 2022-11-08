@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 225490,
       "name": "Fear",
       "url": "https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz"
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 260232,
       "name": "Melancholy Machines",
       "url": "https://open.spotify.com/track/1vc8iLHZV9S9q5qZ0vz6t3"
@@ -1355,6 +1355,24 @@
       "duration_ms": 164753,
       "name": "On Becoming Willing",
       "url": "https://open.spotify.com/track/1ULg0fndzG1Xmicwm8dT0u"
+    },
+    {
+      "album": {
+        "name": "Opiate",
+        "url": "https://open.spotify.com/album/2KnkZlYUmqvTafO8IOkCai"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Opiate",
+      "url": "https://open.spotify.com/track/5Tfq3xa8iVzAayJwSGmMD3"
     },
     {
       "album": {
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 248972,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"

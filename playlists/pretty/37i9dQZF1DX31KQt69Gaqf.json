@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 182052,
+  "num_followers": 182101,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDYzNGU0MDMxMzk3ZDQ1ZmJhN2IzZGNmMzQxYzE1M2M3",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDNkZWMzZDUxZGQ0OWEwZTc0YWY3ODlmY2EwYjA4M2I4",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "AUATC",
-        "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 142125,
-      "name": "AUATC",
-      "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "I Wonder Why",
         "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 228347,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "AUATC",
+        "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 142125,
+      "name": "AUATC",
+      "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Begin Again - EP",
-        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 275280,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/2ksgMG1hHFHV979phZ2lkd"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Question It All / White Car",
         "url": "https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 242854,
       "name": "Question It All",
       "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Begin Again - EP",
+        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/2ksgMG1hHFHV979phZ2lkd"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -731,6 +731,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Sweeter (feat. Terrace Martin)",
         "url": "https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 167468,
       "name": "Sweeter (feat. Terrace Martin)",
       "url": "https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "California Screaming",
-        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
-      },
-      "artists": [
-        {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "California Screaming",
-      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/2NX9yKfOrF7F9BJEfv9K3P"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Through Water",
-        "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
+        "name": "California Screaming",
+        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
       },
       "artists": [
         {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
         }
       ],
-      "duration_ms": 234453,
-      "name": "Womxn",
-      "url": "https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr"
+      "duration_ms": 197000,
+      "name": "California Screaming",
+      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1311,6 +1295,22 @@
       "duration_ms": 271201,
       "name": "Like Sand",
       "url": "https://open.spotify.com/track/3zRd3xkdmZZSzBHgGo4mAl"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Through Water",
+        "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
+      },
+      "artists": [
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Womxn",
+      "url": "https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 150091,
-      "name": "Higher Plain",
-      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "BREACH",
         "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 194973,
       "name": "Alapathy",
       "url": "https://open.spotify.com/track/3qJwMD0TRsejb73xbaT43o"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
+      },
+      "artists": [
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "duration_ms": 150091,
+      "name": "Higher Plain",
+      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
     },
     {
       "added_at": "2021-08-12 14:57:38",

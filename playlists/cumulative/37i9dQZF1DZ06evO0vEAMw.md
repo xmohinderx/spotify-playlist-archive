@@ -4,13 +4,14 @@
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-88 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/2QhYWlxPwMinCJ4N0C2tZh)
+89 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/2QhYWlxPwMinCJ4N0C2tZh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Milli](https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:43 | 2021-12-31 | 2022-10-07 |
 | [2AM \(feat\. Tory Lanez & Davido\)](https://open.spotify.com/track/6OIJcRL2yycLyIbzrwOUty) | [Casanova](https://open.spotify.com/artist/6dXsR7VDJvXnF1LTZlwULx), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [2AM \(feat\. Tory Lanez & Davido\)](https://open.spotify.com/album/3rXxtzPFyUuvhsOW32kyg9) | 3:30 | 2021-12-28 |  |
-| [Activate](https://open.spotify.com/track/0Bc66CwO7NENnqW60RBDzG) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Activate](https://open.spotify.com/album/0u50DEuHzfYNHFRMPaM2H9) | 3:37 | 2021-12-28 |  |
+| [Activate](https://open.spotify.com/track/0Bc66CwO7NENnqW60RBDzG) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Activate](https://open.spotify.com/album/0u50DEuHzfYNHFRMPaM2H9) | 3:37 | 2021-12-28 | 2022-11-08 |
+| [Activate](https://open.spotify.com/track/7ka9HaPbdwYUsMmHvaie41) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Activate](https://open.spotify.com/album/2sproMXb0ZqQefLlgjYPfo) | 3:37 | 2022-11-07 |  |
 | [ALASKA \(feat\. Davido, Hell Raton & Shiva\)](https://open.spotify.com/track/7io8voeFCefZOJ9Vr5kEZr) | [BLOODY VINYL](https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU), [Slait](https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [5019](https://open.spotify.com/artist/0bIICDFvg6PqEWaZsfvpCR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Hell Raton](https://open.spotify.com/artist/6g5SF1Yz63eoPUnJgRHfrz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [BV3](https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW) | 3:10 | 2022-10-12 |  |
 | [All Of You](https://open.spotify.com/track/5N7a6DRcTKdym90PV9O3MC) | [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Omo Baba Olowo: The Genesis](https://open.spotify.com/album/5XNb9GHjQa9DA2tWeQzJxU) | 3:07 | 2022-03-09 | 2022-04-16 |
 | [Assurance](https://open.spotify.com/track/5Vp6x6DnVjh2JDaC4It6ak) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Assurance](https://open.spotify.com/album/6huSyEs9vbA9Nfhs3tBFCX) | 4:09 | 2021-12-28 |  |

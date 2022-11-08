@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Algeria.",
-  "num_followers": 90387,
+  "num_followers": 90458,
   "original_name": "Algeria Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5NjIyMiwwMDAwMDAwMDJjMWI0ZTk1ODdhN2Q3NTc3MGU1ZjdjYjI0NWVkYjJl",
+  "snapshot_id": "MTY2NzgxNjE4OCwwMDAwMDAwMDZhYmZlNjQ5MDMwNDQ5MGIxYjM0NDA0YzkyMzljOTBk",
   "tracks": [
     {
       "added_at": "2022-11-03 17:23:42",
@@ -55,6 +55,26 @@
       "duration_ms": 194733,
       "name": "Ya lbahri",
       "url": "https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV"
+    },
+    {
+      "added_at": "2022-11-07 10:16:28",
+      "album": {
+        "name": "ELGHIRA",
+        "url": "https://open.spotify.com/album/51jFeqsDRYtQDse8p4zTL5"
+      },
+      "artists": [
+        {
+          "name": "Mc Artisan",
+          "url": "https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S"
+        },
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        }
+      ],
+      "duration_ms": 167439,
+      "name": "ELGHIRA",
+      "url": "https://open.spotify.com/track/42Vy5zKc5KcUsz5dyGEMQI"
     },
     {
       "added_at": "2022-11-03 17:23:42",
@@ -787,22 +807,6 @@
     {
       "added_at": "2022-11-03 17:23:42",
       "album": {
-        "name": "Baby Baby",
-        "url": "https://open.spotify.com/album/59ilTq126YceY3mWtoTcbg"
-      },
-      "artists": [
-        {
-          "name": "Mok Saib",
-          "url": "https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Baby Baby",
-      "url": "https://open.spotify.com/track/0xgP0lR6VpAl4ruqu6bE45"
-    },
-    {
-      "added_at": "2022-11-03 17:23:42",
-      "album": {
         "name": "El Walida",
         "url": "https://open.spotify.com/album/6KZu4hCRZdB3dtQc8ABbE2"
       },
@@ -891,26 +895,6 @@
       "duration_ms": 224066,
       "name": "Mazalni Kima Bakri",
       "url": "https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9"
-    },
-    {
-      "added_at": "2022-11-03 17:23:42",
-      "album": {
-        "name": "Tir Ellil",
-        "url": "https://open.spotify.com/album/4Nrh8I9mYMikyioVf5Gwrq"
-      },
-      "artists": [
-        {
-          "name": "Didine Canon 16",
-          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
-        },
-        {
-          "name": "Larbi Maestro",
-          "url": "https://open.spotify.com/artist/67jF59wuJe0V1ByZ2eiUqT"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Tir Ellil",
-      "url": "https://open.spotify.com/track/3le36Vlse8nzqBy2Wfylql"
     },
     {
       "added_at": "2022-11-03 17:23:42",

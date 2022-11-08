@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "AHHH",
+        "url": "https://open.spotify.com/album/3IcK2G3DQi8K1eOctzBbl5"
+      },
+      "artists": [
+        {
+          "name": "Vivien Yap",
+          "url": "https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224608,
+      "name": "AHHH",
+      "url": "https://open.spotify.com/track/6FuKGUQdfjtLOX3PTLtiFM"
+    },
+    {
+      "album": {
         "name": "Ain't Nobody's Baby",
         "url": "https://open.spotify.com/album/35MQYWJLe9qhbgTIWGqsGJ"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 121674,
       "name": "Alive and Unwell",
       "url": "https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ"
@@ -445,7 +463,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 259819,
       "name": "Burn Book",
       "url": "https://open.spotify.com/track/1aDVkbFZ9qrv4drQUr5D4Y"
@@ -849,7 +867,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 213387,
       "name": "Fall 4 u",
       "url": "https://open.spotify.com/track/6EWUXXPFn2S7FBI0W7cs5l"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 174066,
       "name": "gfy (with Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/4nvGIQPgLnWWJUJrnRsIOX"
@@ -1589,7 +1607,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 172719,
       "name": "L.U.S.H.",
       "url": "https://open.spotify.com/track/58LjmBGKL3m3rzD6cUAMeq"
@@ -2054,6 +2072,24 @@
     },
     {
       "album": {
+        "name": "This Is Your Brain On Love",
+        "url": "https://open.spotify.com/album/0cRcatVb8V1Y6xqJ5MvKAO"
+      },
+      "artists": [
+        {
+          "name": "Lauren Weintraub",
+          "url": "https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "Over Her Over Here",
+      "url": "https://open.spotify.com/track/1OdqwStwNBN4xWEGQjpceQ"
+    },
+    {
+      "album": {
         "name": "Oh My Messy Mind",
         "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
@@ -2069,7 +2105,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 176826,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"

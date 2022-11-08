@@ -4,7 +4,7 @@
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-113 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/3pQB6bVE7rab9WbzcxnMjP)
+114 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/3pQB6bVE7rab9WbzcxnMjP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Only A Day](https://open.spotify.com/track/3l2b6VxY68bD0Dw6qKI6pj) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 6:07 | 2022-06-04 | 2022-07-11 |
 | [Part I \- Live 1974](https://open.spotify.com/track/7msH0Iwj6RHhWMQJcw1dem) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 6:49 | 2022-05-29 |  |
 | [Part II \- Live 1974](https://open.spotify.com/track/56f4vwvweMjYP1AKRxtKy7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 9:34 | 2022-05-29 |  |
-| [Part III \- Live 1974](https://open.spotify.com/track/6PJDAsoCcmsvQqI6YsTGis) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 7:38 | 2022-06-03 |  |
+| [Part III \- Live 1974](https://open.spotify.com/track/6PJDAsoCcmsvQqI6YsTGis) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 7:38 | 2022-06-03 | 2022-11-08 |
 | [Part IV \- Live 1974](https://open.spotify.com/track/48RZKN0TQ6qtc7tihgDyy9) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 4:44 | 2022-05-29 |  |
 | [Part V \- Live 1974](https://open.spotify.com/track/5DKZNBg516xpG4Q4tcoFmc) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 9:40 | 2022-10-12 |  |
 | [Part VI \- Live 1974](https://open.spotify.com/track/7u1J53yzLPZfCesbi4UcoG) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 10:03 | 2022-10-12 | 2022-10-18 |
@@ -107,6 +107,7 @@
 | [The Harp of New Albion: III\. Riding the Westerleys](https://open.spotify.com/track/5Wk6E15Rgb1MDIeLneuwK4) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 16:40 | 2022-06-04 | 2022-10-11 |
 | [The Harp of New Albion: V\. Premonition Rag](https://open.spotify.com/track/58Y3YZZvx40tu9FHI1kVoa) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 6:36 | 2022-10-30 | 2022-11-01 |
 | [The Harp of New Albion: VIII\. The Magic Knot Waltz](https://open.spotify.com/track/07Ug3dg1bkX12uUrmioMKj) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 9:26 | 2022-10-31 |  |
+| [The Harp of New Albion: X\. Land's End](https://open.spotify.com/track/1WiySlU6OV5PyyF06OQAVC) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 6:50 | 2022-11-07 |  |
 | [The Lake](https://open.spotify.com/track/1kRvMfo4lmzxstmbozPm4N) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/336G74NrqpBt6A3cXEoUg7) | 5:24 | 2022-10-26 | 2022-10-30 |
 | [The Miracle](https://open.spotify.com/track/2Z3e1jZPF25lEIYIEdL1Yp) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 2:19 | 2022-10-12 |  |
 | [The New Albion Chorale \- Reprise](https://open.spotify.com/track/6ixKgTMRTxZpuitgmhfvds) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The Padova Concert](https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW) | 2:12 | 2022-06-28 | 2022-06-30 |

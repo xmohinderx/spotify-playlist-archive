@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes. Cover:  Cypress Hill",
-  "num_followers": 147510,
+  "num_followers": 147657,
   "original_name": "I Love Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzY4MDE5NSwwMDAwMDAwMDdjOWI2YmVkZTdiM2UyZmU2ODRlNDlmZGY2N2ZmZWI5",
+  "snapshot_id": "MTY2NzgwODgwMSwwMDAwMDAwMGFiODEyNTA3YjkxYjhkMDdjZTY2NDg1MzM4MTE5Y2Vl",
   "tracks": [
     {
       "added_at": "2022-11-04 09:09:27",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-11-04 09:09:27",
       "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 361360,
-      "name": "Ready To Go",
-      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
-    },
-    {
-      "added_at": "2022-11-04 09:09:27",
-      "album": {
         "name": "amo",
         "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 240586,
       "name": "heavy metal (feat. Rahzel)",
       "url": "https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX"
+    },
+    {
+      "added_at": "2022-11-04 09:09:27",
+      "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 361360,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
     },
     {
       "added_at": "2022-11-04 09:09:27",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-11-04 09:09:27",
       "album": {
+        "name": "Made An America",
+        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 173326,
+      "name": "Made An America",
+      "url": "https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P"
+    },
+    {
+      "added_at": "2022-11-04 09:09:27",
+      "album": {
         "name": "Methods Of Mayhem",
         "url": "https://open.spotify.com/album/3xwu0sGFVTgeiExI6XIf1E"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 201666,
       "name": "Get Naked",
       "url": "https://open.spotify.com/track/0CqQvJTH40jIehyC3ND6Er"
-    },
-    {
-      "added_at": "2022-11-04 09:09:27",
-      "album": {
-        "name": "Made An America",
-        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 173326,
-      "name": "Made An America",
-      "url": "https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P"
     },
     {
       "added_at": "2022-11-04 09:09:27",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-11-04 09:09:27",
       "album": {
-        "name": "At Night We Live",
-        "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
+        "name": "The Uplift Mofo Party Plan",
+        "url": "https://open.spotify.com/album/3rHJQrfEcBeSaLPuLwKR6F"
       },
       "artists": [
         {
-          "name": "Far",
-          "url": "https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 262746,
-      "name": "Pony",
-      "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
+      "duration_ms": 233760,
+      "name": "Fight Like A Brave",
+      "url": "https://open.spotify.com/track/6NeRpRTcFftvt3j1vF4Pcw"
     }
   ],
   "unique_name": "I Love Rap 'n' Roll",

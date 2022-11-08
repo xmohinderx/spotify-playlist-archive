@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Maria Becerra.
 
-136 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
+137 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [INTERESTELAR](https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [INTERESTELAR](https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM) | 2:53 | 2022-05-24 |  |
 | [Jake Long](https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Jake Long](https://open.spotify.com/album/7rK1SC8EtVWFDMHGMjRmAM) | 2:38 | 2022-05-24 |  |
 | [Julieta](https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Julieta](https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1) | 3:05 | 2022-08-12 |  |
-| [JUNGLE](https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [JUNGLE](https://open.spotify.com/album/6XromBO32uhidY3LWZORO1) | 2:54 | 2022-05-24 |  |
+| [JUNGLE](https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [JUNGLE](https://open.spotify.com/album/6XromBO32uhidY3LWZORO1) | 2:54 | 2022-05-24 | 2022-11-08 |
 | [Ke No Importe Na](https://open.spotify.com/track/3VwuVG1pdI45jJ7RGps0sn) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Ke No Importe Na](https://open.spotify.com/album/6kehms0cE5sDqL2PF42jJt) | 2:34 | 2022-05-24 | 2022-06-18 |
 | [KILOWA](https://open.spotify.com/track/54acJyeShQSK5DfEdW7J7n) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [KILOWA](https://open.spotify.com/album/1U4rNnGAuoDm01x3kOHnU9) | 2:12 | 2022-05-24 | 2022-05-28 |
 | [KU'](https://open.spotify.com/track/261Jxss9utRCMg11TWEU8M) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [KU'](https://open.spotify.com/album/56HOIAzfolOPCOmExaPHxf) | 3:50 | 2022-05-24 |  |
@@ -95,6 +95,7 @@
 | [Nos Fuimos](https://open.spotify.com/track/4zL9rfF33n0kq7Q2JGot5a) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Nos Fuimos](https://open.spotify.com/album/2fXE6ksRYKH0DmHz83MUXe) | 2:39 | 2022-05-24 |  |
 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-05-24 |  |
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2022-06-03 |  |
+| [Ojo por Ojo \- Remix](https://open.spotify.com/track/6A0agxt2FyRkpjT74sbeal) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW) | [Ojo por Ojo \(Remix\)](https://open.spotify.com/album/1z2gR2sfBksuVEUrpHq1TV) | 3:37 | 2022-11-07 |  |
 | [Olvidate](https://open.spotify.com/track/6YHiWnXQyF0yM4oxGk54X4) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Olvidate](https://open.spotify.com/album/2OVbouaTwqVHertrc15Kgn) | 2:39 | 2022-07-28 |  |
 | [Otra Vez Te Soñé](https://open.spotify.com/track/6X44vrKIdgwBP4I9hFT6US) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Otra Vez Te Soñé](https://open.spotify.com/album/4ZlHlbUReIOc1Cw6oudAgE) | 2:45 | 2022-05-27 | 2022-06-18 |
 | [Otro](https://open.spotify.com/track/2VZmXemWIKoKxJjbA2WHJE) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Otro](https://open.spotify.com/album/0eGqUAZJxkm2QJkZx9iXpp) | 3:28 | 2022-05-24 |  |

@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-456 songs - 1 day 2 hr 25 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
+457 songs - 1 day 2 hr 28 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [O Guarani](https://open.spotify.com/track/2rMTnYDEjOTzKfwBYWd7sZ) | [Orquestra Brasileira de Música Jamaicana](https://open.spotify.com/artist/28RBIZhnFFXuj6ST2ELsMS) | [OBMJ, Vol\. I](https://open.spotify.com/album/1uNL5DSj98YeAKwVEnmecC) | 3:41 | 2021-12-06 | 2022-07-29 |
 | [O Guarani](https://open.spotify.com/track/74FgXyMVJm4muoRSZQRCVw) | [Orquestra Brasileira de Música Jamaicana](https://open.spotify.com/artist/28RBIZhnFFXuj6ST2ELsMS) | [Volume I](https://open.spotify.com/album/1Jgh4Wiuzw3fMfuJHTNmuG) | 3:41 | 2021-12-06 |  |
 | [Oi To The World](https://open.spotify.com/track/25anhABaRSx6nTtkmmW7Nd) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-sides, Rarities, Remixes\)](https://open.spotify.com/album/15SPfZEmiSyYXardEKcvxE) | 2:40 | 2021-12-06 | 2022-07-28 |
+| [Oi To The World](https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 2:40 | 2021-12-06 |  |
 | [Ojos Cafés](https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 4:00 | 2021-12-06 |  |
 | [Old Friend](https://open.spotify.com/track/2d6CaL5eZWaplfSvPok5e8) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 2:53 | 2021-12-06 | 2022-07-29 |
 | [On my Radio](https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [The Very Best of The Selecter](https://open.spotify.com/album/1Sk2mljWUTXFEtZpoT0fPg) | 3:05 | 2021-12-06 |  |
@@ -349,7 +350,7 @@
 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 | 2021-12-06 |  |
 | [Six Rude Boy Machinegun](https://open.spotify.com/track/6rogvx1J1EOq2G0gXCAG7n) | [Dallax](https://open.spotify.com/artist/3Nl57d2S5ZouziXzFl27Lg) | [Big Proud](https://open.spotify.com/album/0a7CWcY7Udo6G6BNdH5s75) | 3:48 | 2021-12-06 | 2022-07-29 |
 | [Sixth Sense](https://open.spotify.com/track/5QEXMEr8X60EVMsOxqF73B) | [Dr Octopus](https://open.spotify.com/artist/0a3znKOYpjUl7ohFOdlCk6) | [This Time We Fight](https://open.spotify.com/album/4cmFj5EAwyJ5Sg4PTKHfLk) | 2:38 | 2021-12-06 | 2022-07-27 |
-| [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 | 2021-12-06 |  |
+| [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 | 2021-12-06 | 2022-11-08 |
 | [Ska Mundo Ska](https://open.spotify.com/track/7Iwyf6xoHbLotyoIaUmKnr) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Bailando Sobre las Ruinas](https://open.spotify.com/album/3EsVEnV2QwDau8JowS2kPh) | 3:46 | 2021-12-06 | 2022-07-28 |
 | [Ska Robot Army](https://open.spotify.com/track/3Pd6Z5opMzyB8GPbqSsitE) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [The Return Of The Aquabats](https://open.spotify.com/album/1qSodINdLph2o2TfpvUncM) | 2:11 | 2021-12-06 | 2022-07-28 |
 | [Ska Skank Down the Party](https://open.spotify.com/track/2y8Qnis1wrEUtPyMsXlicf) | [Skaos](https://open.spotify.com/artist/4zEONIS8gOIelgc6ntFZIl) | [Ham & Eggs](https://open.spotify.com/album/6bm6Z4wXMXFKjukPyasjTC) | 3:24 | 2021-12-06 |  |

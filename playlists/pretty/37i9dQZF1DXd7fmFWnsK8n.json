@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 58043,
+  "num_followers": 58054,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NTYwMCwwMDAwMDAwMGZlZWIzYzdjZDU0ZTg5MDI3MzUwYjI0NTExYjFiNjk2",
+  "snapshot_id": "MTY2NDg5NTYwMCwwMDAwMDAwMGE5ZTBmMjRlOWY5Y2Q1ZTg1NGE2Nzk5NzZlZDk3OGRh",
   "tracks": [
     {
       "added_at": "2022-10-04 15:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 246746,
+      "name": "No Sacrifice",
+      "url": "https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
         "name": "LOVE&GAME",
         "url": "https://open.spotify.com/album/5tXE6J3mi2wyzX0dGv8zFK"
       },
@@ -151,6 +167,22 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
+        "name": "Period Color",
+        "url": "https://open.spotify.com/album/1vtGct3cZAyGwJm38x3P5J"
+      },
+      "artists": [
+        {
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+        }
+      ],
+      "duration_ms": 275346,
+      "name": "Period Color",
+      "url": "https://open.spotify.com/track/69kQyNzKCexiq4PuAwkgFY"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
         "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
         "url": "https://open.spotify.com/album/6jCancCmIkHmfKUPKIYsRq"
       },
@@ -171,50 +203,18 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX"
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/43Nlf7d3oGfdhbfRydrBPt"
       },
       "artists": [
         {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+          "name": "\u4ea5\u6e05 \u60a0 (CV.\u5e83\u702c\u88d5\u4e5f)",
+          "url": "https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25"
         }
       ],
-      "duration_ms": 246746,
-      "name": "No Sacrifice",
-      "url": "https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
-        "name": "Period Color",
-        "url": "https://open.spotify.com/album/1vtGct3cZAyGwJm38x3P5J"
-      },
-      "artists": [
-        {
-          "name": "Re:vale",
-          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
-        }
-      ],
-      "duration_ms": 275346,
-      "name": "Period Color",
-      "url": "https://open.spotify.com/track/69kQyNzKCexiq4PuAwkgFY"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
-        "name": "100%\u30cf\u30d4\u30cd\u30b9",
-        "url": "https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG"
-      },
-      "artists": [
-        {
-          "name": "\u767e (CV.\u4fdd\u5fd7\u7dcf\u4e00\u6717)",
-          "url": "https://open.spotify.com/artist/3pn6k1AxOtm76sgtZZbmk9"
-        }
-      ],
-      "duration_ms": 269160,
-      "name": "100%\u30cf\u30d4\u30cd\u30b9",
-      "url": "https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w"
+      "duration_ms": 275160,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/34cAYEvx6n7fJ0QYgGGLB1"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -231,6 +231,22 @@
       "duration_ms": 299480,
       "name": "SUISAI",
       "url": "https://open.spotify.com/track/7n8DHAHozfOs0BVTuLz6yf"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "100%\u30cf\u30d4\u30cd\u30b9",
+        "url": "https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG"
+      },
+      "artists": [
+        {
+          "name": "\u767e (CV.\u4fdd\u5fd7\u7dcf\u4e00\u6717)",
+          "url": "https://open.spotify.com/artist/3pn6k1AxOtm76sgtZZbmk9"
+        }
+      ],
+      "duration_ms": 269160,
+      "name": "100%\u30cf\u30d4\u30cd\u30b9",
+      "url": "https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -267,22 +283,6 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "Labyrinth",
-        "url": "https://open.spotify.com/album/43Nlf7d3oGfdhbfRydrBPt"
-      },
-      "artists": [
-        {
-          "name": "\u4ea5\u6e05 \u60a0 (CV.\u5e83\u702c\u88d5\u4e5f)",
-          "url": "https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25"
-        }
-      ],
-      "duration_ms": 275160,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/34cAYEvx6n7fJ0QYgGGLB1"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
         "name": "NEVER LOSE, MY RULE",
         "url": "https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm"
       },
@@ -299,6 +299,38 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "TRIGGER",
+          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "\u9858\u3044\u306fShine On The Sea",
+      "url": "https://open.spotify.com/track/6Dt15H6eoMahUSC6UZcRmc"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "Re:al Axis",
+        "url": "https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT"
+      },
+      "artists": [
+        {
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+        }
+      ],
+      "duration_ms": 213986,
+      "name": "\u661f\u5c51\u30de\u30b8\u30c3\u30af",
+      "url": "https://open.spotify.com/track/71wKxVrk9r6LHmfHjPFagJ"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
         "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
         "url": "https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK"
       },
@@ -311,6 +343,22 @@
       "duration_ms": 267013,
       "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "\u604b\u306e\u304b\u3051\u3089",
+        "url": "https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "\u604b\u306e\u304b\u3051\u3089",
+      "url": "https://open.spotify.com/track/7jA6MKXhfBa6bwe9kJrBNT"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -335,34 +383,50 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "Re:al Axis",
-        "url": "https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT"
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX"
       },
       "artists": [
         {
-          "name": "Re:vale",
-          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
         }
       ],
-      "duration_ms": 213986,
-      "name": "\u661f\u5c51\u30de\u30b8\u30c3\u30af",
-      "url": "https://open.spotify.com/track/71wKxVrk9r6LHmfHjPFagJ"
+      "duration_ms": 217760,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/1De2w9pZlAt2mKEm0F7NK5"
     },
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "\u604b\u306e\u304b\u3051\u3089",
-        "url": "https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0"
+        "name": "i7",
+        "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
       },
       "artists": [
         {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
         }
       ],
-      "duration_ms": 279266,
-      "name": "\u604b\u306e\u304b\u3051\u3089",
-      "url": "https://open.spotify.com/track/7jA6MKXhfBa6bwe9kJrBNT"
+      "duration_ms": 262226,
+      "name": "RESTART POiNTER",
+      "url": "https://open.spotify.com/track/0nLjgD4UBJyw9kg1K5hPYl"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "TRIGGER",
+          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "DAYBREAK INTERLUDE",
+      "url": "https://open.spotify.com/track/2EJ9iqqcZ3fo2viIC6mO95"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -391,54 +455,6 @@
       "duration_ms": 230933,
       "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\u301cMATSURI\u301c",
       "url": "https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "TRIGGER",
-          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "\u9858\u3044\u306fShine On The Sea",
-      "url": "https://open.spotify.com/track/6Dt15H6eoMahUSC6UZcRmc"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
-        "name": "i7",
-        "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
-      },
-      "artists": [
-        {
-          "name": "IDOLiSH7",
-          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
-        }
-      ],
-      "duration_ms": 262226,
-      "name": "RESTART POiNTER",
-      "url": "https://open.spotify.com/track/0nLjgD4UBJyw9kg1K5hPYl"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 217760,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/1De2w9pZlAt2mKEm0F7NK5"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -475,22 +491,6 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
-          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
-        }
-      ],
-      "duration_ms": 300493,
-      "name": "\u5e78\u305b\u3067\u3044\u3066",
-      "url": "https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
         "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album (vol.2)",
         "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
       },
@@ -516,29 +516,29 @@
       },
       "artists": [
         {
-          "name": "TRIGGER",
-          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+          "name": "\u516b\u4e59\u5973 \u697d (CV.\u7fbd\u591a\u91ce \u6e09)",
+          "url": "https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX"
         }
       ],
-      "duration_ms": 292000,
-      "name": "DAYBREAK INTERLUDE",
-      "url": "https://open.spotify.com/track/2EJ9iqqcZ3fo2viIC6mO95"
+      "duration_ms": 300493,
+      "name": "\u5e78\u305b\u3067\u3044\u3066",
+      "url": "https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw"
     },
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "Dear Butterfly",
-        "url": "https://open.spotify.com/album/6wO2L0VdYke2m2AxjPbx5D"
+        "name": "einsatZ",
+        "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
       },
       "artists": [
         {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
         }
       ],
-      "duration_ms": 305013,
-      "name": "Dear Butterfly",
-      "url": "https://open.spotify.com/track/3c6fOvtJ2Yg0qZVDQyGBXC"
+      "duration_ms": 266373,
+      "name": "\u30b5\u30b5\u30b2\u30ed -You Are Mine-",
+      "url": "https://open.spotify.com/track/0L9VEMrJvVWTVooP3TG1j8"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -559,18 +559,34 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "einsatZ",
-        "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
+        "name": "SUISAI",
+        "url": "https://open.spotify.com/album/2UyYOPqetfV1dB9MfImIol"
       },
       "artists": [
         {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+          "name": "TRIGGER",
+          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
         }
       ],
-      "duration_ms": 266373,
-      "name": "\u30b5\u30b5\u30b2\u30ed -You Are Mine-",
-      "url": "https://open.spotify.com/track/0L9VEMrJvVWTVooP3TG1j8"
+      "duration_ms": 264373,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/5k8QFRIIXtufXNL0Ys9WXr"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "Dear Butterfly",
+        "url": "https://open.spotify.com/album/6wO2L0VdYke2m2AxjPbx5D"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 305013,
+      "name": "Dear Butterfly",
+      "url": "https://open.spotify.com/track/3c6fOvtJ2Yg0qZVDQyGBXC"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -607,34 +623,18 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "Forever Note",
-        "url": "https://open.spotify.com/album/5DehSj5HPoXgAdC0wzSa4X"
+        "name": "Four Leaf Ring",
+        "url": "https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR"
       },
       "artists": [
         {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
+          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
         }
       ],
-      "duration_ms": 264760,
-      "name": "Forever Note",
-      "url": "https://open.spotify.com/track/6lOJvgfaTLtyPEozeXyg7l"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
-        "name": "SUISAI",
-        "url": "https://open.spotify.com/album/2UyYOPqetfV1dB9MfImIol"
-      },
-      "artists": [
-        {
-          "name": "TRIGGER",
-          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
-        }
-      ],
-      "duration_ms": 264373,
-      "name": "Radiance",
-      "url": "https://open.spotify.com/track/5k8QFRIIXtufXNL0Ys9WXr"
+      "duration_ms": 267146,
+      "name": "Four Leaf Ring",
+      "url": "https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -651,22 +651,6 @@
       "duration_ms": 231440,
       "name": "Up to the nines",
       "url": "https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
-        "name": "Four Leaf Ring",
-        "url": "https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR"
-      },
-      "artists": [
-        {
-          "name": "\u56db\u8449 \u74b0 (CV.KENN)",
-          "url": "https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD"
-        }
-      ],
-      "duration_ms": 267146,
-      "name": "Four Leaf Ring",
-      "url": "https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -711,18 +695,18 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "SEPTET for...",
-        "url": "https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ"
+        "name": "Forever Note",
+        "url": "https://open.spotify.com/album/5DehSj5HPoXgAdC0wzSa4X"
       },
       "artists": [
         {
-          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
-          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
         }
       ],
-      "duration_ms": 260013,
-      "name": "SEPTET for...",
-      "url": "https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb"
+      "duration_ms": 264760,
+      "name": "Forever Note",
+      "url": "https://open.spotify.com/track/6lOJvgfaTLtyPEozeXyg7l"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -743,18 +727,18 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "\u604b\u306e\u304b\u3051\u3089",
-        "url": "https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0"
+        "name": "SEPTET for...",
+        "url": "https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ"
       },
       "artists": [
         {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
+          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
         }
       ],
-      "duration_ms": 288400,
-      "name": "miss you...",
-      "url": "https://open.spotify.com/track/7GdsInz5oCHoQagRIczvE9"
+      "duration_ms": 260013,
+      "name": "SEPTET for...",
+      "url": "https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -771,6 +755,58 @@
       "duration_ms": 261040,
       "name": "Endless",
       "url": "https://open.spotify.com/track/7EJ1STyq4i7Bj4bb7gVxPF"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "i7",
+        "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+        },
+        {
+          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
+          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "Fly away!",
+      "url": "https://open.spotify.com/track/2OAEvzy1GXV40vszTJQtu4"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "U COMPLETE ME",
+      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "\u604b\u306e\u304b\u3051\u3089",
+        "url": "https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "miss you...",
+      "url": "https://open.spotify.com/track/7GdsInz5oCHoQagRIczvE9"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -799,42 +835,6 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "U COMPLETE ME",
-      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
-        "name": "i7",
-        "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
-      },
-      "artists": [
-        {
-          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
-          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
-        },
-        {
-          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
-          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "Fly away!",
-      "url": "https://open.spotify.com/track/2OAEvzy1GXV40vszTJQtu4"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
         "name": "my 10plate",
         "url": "https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8"
       },
@@ -851,34 +851,18 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "\u5348\u524d4\u6642\u306eDusty Love",
-        "url": "https://open.spotify.com/album/5ELinRPiJCLrmCCKsOTAvd"
+        "name": "ONE dream",
+        "url": "https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E"
       },
       "artists": [
         {
-          "name": "\u5fa1\u5802\u864e\u65bc (CV.\u8fd1\u85e4 \u9686)",
-          "url": "https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H"
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
         }
       ],
-      "duration_ms": 274946,
-      "name": "\u5348\u524d4\u6642\u306eDusty Love",
-      "url": "https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
-        "name": "Love two you",
-        "url": "https://open.spotify.com/album/1mm3C2rMN35Qi1vsyfy3nd"
-      },
-      "artists": [
-        {
-          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Love two you",
-      "url": "https://open.spotify.com/track/4VE4Nm0MCqKIYqRiLffNBf"
+      "duration_ms": 268000,
+      "name": "ONE dream",
+      "url": "https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -907,18 +891,18 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "ONE dream",
-        "url": "https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E"
+        "name": "\u5348\u524d4\u6642\u306eDusty Love",
+        "url": "https://open.spotify.com/album/5ELinRPiJCLrmCCKsOTAvd"
       },
       "artists": [
         {
-          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
-          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+          "name": "\u5fa1\u5802\u864e\u65bc (CV.\u8fd1\u85e4 \u9686)",
+          "url": "https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H"
         }
       ],
-      "duration_ms": 268000,
-      "name": "ONE dream",
-      "url": "https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e"
+      "duration_ms": 274946,
+      "name": "\u5348\u524d4\u6642\u306eDusty Love",
+      "url": "https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -955,6 +939,22 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
+        "name": "Love two you",
+        "url": "https://open.spotify.com/album/1mm3C2rMN35Qi1vsyfy3nd"
+      },
+      "artists": [
+        {
+          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Love two you",
+      "url": "https://open.spotify.com/track/4VE4Nm0MCqKIYqRiLffNBf"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
         "name": "einsatZ",
         "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
       },
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "Re:al Axis",
-        "url": "https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT"
+        "name": "WiSH VOYAGE / Dancing\u221eBEAT!!",
+        "url": "https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD"
       },
       "artists": [
         {
-          "name": "Re:vale",
-          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
         }
       ],
-      "duration_ms": 239493,
-      "name": "Dis one.",
-      "url": "https://open.spotify.com/track/35C0bBZenqx3wrVawrwwjh"
+      "duration_ms": 247520,
+      "name": "WiSH VOYAGE",
+      "url": "https://open.spotify.com/track/4s2JomRrcKgVLt2lrX0tvm"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "WiSH VOYAGE / Dancing\u221eBEAT!!",
-        "url": "https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD"
+        "name": "Re:al Axis",
+        "url": "https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT"
       },
       "artists": [
         {
-          "name": "IDOLiSH7",
-          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
         }
       ],
-      "duration_ms": 247520,
-      "name": "WiSH VOYAGE",
-      "url": "https://open.spotify.com/track/4s2JomRrcKgVLt2lrX0tvm"
+      "duration_ms": 239493,
+      "name": "Dis one.",
+      "url": "https://open.spotify.com/track/35C0bBZenqx3wrVawrwwjh"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "SILVER SKY",
-        "url": "https://open.spotify.com/album/0Rrg4JsoBPX6BuCX0mhy1I"
-      },
-      "artists": [
-        {
-          "name": "Re:vale",
-          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
-        }
-      ],
-      "duration_ms": 243973,
-      "name": "SILVER SKY",
-      "url": "https://open.spotify.com/track/6oF3fTNb3ZmP9HQb5dzsuU"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
         "name": "Poisonous Gangster",
         "url": "https://open.spotify.com/album/4kmAe9Rr3hKdtBrG2pUGVd"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 225013,
       "name": "Poisonous Gangster",
       "url": "https://open.spotify.com/track/6ofggKiHtSyvR2ZMoDDkV3"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "SILVER SKY",
+        "url": "https://open.spotify.com/album/0Rrg4JsoBPX6BuCX0mhy1I"
+      },
+      "artists": [
+        {
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+        }
+      ],
+      "duration_ms": 243973,
+      "name": "SILVER SKY",
+      "url": "https://open.spotify.com/track/6oF3fTNb3ZmP9HQb5dzsuU"
     },
     {
       "added_at": "2022-10-04 15:00:00",

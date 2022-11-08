@@ -4,7 +4,7 @@
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-74 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/4z4liMLXSt1JHB0mmnGsSi)
+75 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/4z4liMLXSt1JHB0mmnGsSi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Tides](https://open.spotify.com/track/6GWbylTtbLetG7vfl4tlkI) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Trouble In Paradise](https://open.spotify.com/album/1ltjerRedPrqqpM0Nb1MXl) | 3:58 | 2022-02-11 |  |
 | [Tigi Tigi.](https://open.spotify.com/track/7kIApWELVj8I4eOKJs04JW) | [Sands](https://open.spotify.com/artist/3uYNluWtBu0ksu049wbLVW) | [Azgo Festival Compilation 2019](https://open.spotify.com/album/0QvN86SujsP2OjxEyXBtAw) | 5:22 | 2022-02-11 |  |
 | [Truth Is](https://open.spotify.com/track/5oXYsq4dCGNrKq84Se3erf) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Truth Is](https://open.spotify.com/album/60iWM9LDKsLqDKKEThsI5g) | 3:22 | 2022-02-11 |  |
-| [Turn You On](https://open.spotify.com/track/1Bh3o07Kfua1iTnxuWDwnp) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Su Casa](https://open.spotify.com/album/4Dey5FtFdBPkU1uxJ45DL8) | 5:02 | 2022-02-11 |  |
+| [Turn You On](https://open.spotify.com/track/1Bh3o07Kfua1iTnxuWDwnp) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Su Casa](https://open.spotify.com/album/4Dey5FtFdBPkU1uxJ45DL8) | 5:02 | 2022-02-11 | 2022-11-08 |
+| [Turn You On](https://open.spotify.com/track/2CjxsWQv49DdO0E0UD9WSt) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Su Casa](https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu) | 5:02 | 2022-02-11 |  |
 | [Umuthi \(feat\. Cici & Zamo Cofi\)](https://open.spotify.com/track/2vuIfmF6nbRmtXGCqoSIIw) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe), [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Zamo Cofi](https://open.spotify.com/artist/3NvuFbzWW4pgjO4L7uUEPv) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 3:19 | 2022-02-11 |  |
 | [Ungawa Kum](https://open.spotify.com/track/47VpnKqSM6UhAGFjGaUlvy) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Top Dawg](https://open.spotify.com/album/1rrPsxH64XF7uwG7PInaYp) | 5:37 | 2022-02-11 |  |
 | [Ungowami](https://open.spotify.com/track/3Iw3M4ajHzRV0MOQ0a0zRo) | [Semito](https://open.spotify.com/artist/3OpF5sBW6Pbn073VMKKpAm) | [Sebabatso](https://open.spotify.com/album/1xVaUMerQJCsCfHj7oI89w) | 4:52 | 2022-02-11 |  |

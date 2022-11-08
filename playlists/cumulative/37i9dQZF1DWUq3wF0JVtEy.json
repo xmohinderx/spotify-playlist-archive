@@ -1304,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "DuDuDu",
+        "url": "https://open.spotify.com/album/16hjrnSiJDIjmHYpaAy16L"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200243,
+      "name": "DuDuDu",
+      "url": "https://open.spotify.com/track/4PfrCntphqH3KEfe2QEJS5"
+    },
+    {
+      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/7kubd8d0Noy577gFKeOXWC"
       },
@@ -5085,7 +5103,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 167619,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K"

@@ -6,6 +6,28 @@
   "tracks": [
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/3NxVZjPxy8UgDGC3DT541A"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Oscar and the Wolf",
+          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376448,
+      "name": "All Night (Garage Version)",
+      "url": "https://open.spotify.com/track/0pp5J5USoRAqy8gpkLQjPB"
+    },
+    {
+      "album": {
         "name": "Angel 1",
         "url": "https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz"
       },
@@ -225,6 +247,24 @@
       "duration_ms": 287579,
       "name": "Claire",
       "url": "https://open.spotify.com/track/54CipIOeFb1lZYFhHi26lo"
+    },
+    {
+      "album": {
+        "name": "Closed Doors",
+        "url": "https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A"
+      },
+      "artists": [
+        {
+          "name": "Final Request",
+          "url": "https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343683,
+      "name": "Closed Doors",
+      "url": "https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44"
     },
     {
       "album": {
@@ -955,6 +995,28 @@
       "duration_ms": 368840,
       "name": "The Feeling - 2022 Remaster",
       "url": "https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9"
+    },
+    {
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213495,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
     },
     {
       "album": {

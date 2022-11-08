@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-243 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
+245 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Lipstick](https://open.spotify.com/track/0xNt7H35xQGckARubdX2pR) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [Lipstick](https://open.spotify.com/album/4yJ2xM0pYjViEDZnFwP5PK) | 2:34 | 2022-06-06 | 2022-07-21 |
 | [LOVE U](https://open.spotify.com/track/4WMtqsI7PJHr06JhaCVdPe) | [齊晨](https://open.spotify.com/artist/6FgvbauqkRDLhAB6Jv8HWK) | [LOVE U](https://open.spotify.com/album/3Dai6zQWjLo9Bygbq4wa2G) | 4:22 | 2022-06-13 | 2022-07-05 |
 | [LOVE YOU](https://open.spotify.com/track/1rzLrlJ3dB0OYODelxaRQY) | [C.T.O](https://open.spotify.com/artist/7lcIiKfgKb19JCpm16acIQ) | [LOVE YOU](https://open.spotify.com/album/7mrM3Ixy1Ui3wXBxEadmE2) | 3:34 | 2022-06-20 | 2022-07-07 |
+| [Love you till I die](https://open.spotify.com/track/20ysHIsiNC08vzhhHE9p8O) | [黃號](https://open.spotify.com/artist/0RVEZgV5JHf5UR8ywnIYrA), [曾薀帆](https://open.spotify.com/artist/7J7oIdrlpxuIXXkfT0FmOD) | [為你唱情歌 \- Love you till I die](https://open.spotify.com/album/2tX0HTJYDGSLwNSVO0Qt1T) | 3:22 | 2022-11-08 |  |
 | [Loving Everyday](https://open.spotify.com/track/6vj4dqQLuUJ037MzU2VEXe) | [Ling Kai](https://open.spotify.com/artist/1Cp9y8CEOMasKnTpOnsUL0) | [Loving Everyday](https://open.spotify.com/album/28byJbDSuF3IusuQlSVWIA) | 4:24 | 2022-06-27 | 2022-07-04 |
 | [Make You Mine](https://open.spotify.com/track/7srrBO1i4TPAzL8ksts1lQ) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [Make You Mine](https://open.spotify.com/album/55qaa3QlpERHC9ji8n93QV) | 3:28 | 2022-08-08 | 2022-08-30 |
 | [Meant To Be](https://open.spotify.com/track/2JMvrwCMRQyTAU0mcC1L4V) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [Meant To Be](https://open.spotify.com/album/6ZrpBdx44f9CSSa5DTPh5W) | 4:03 | 2022-06-06 | 2022-07-16 |
@@ -95,7 +96,7 @@
 | [因為你](https://open.spotify.com/track/5gYQqYiNNynwCQJX8mXQ1N) | [StellaVee](https://open.spotify.com/artist/130SQgBPtO40M6lKRS79Vi) | [朋友說](https://open.spotify.com/album/5nKggvkmeduAeWn6iCY5b1) | 3:05 | 2022-07-18 | 2022-07-21 |
 | [在你左右 \- 網劇《心動100秒》主題曲](https://open.spotify.com/track/51vZ7YbD7bxoPaLXRFUGu6) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [Felicia Kusumo](https://open.spotify.com/artist/7bQI4SEqo54mA0h1rdlNeg) | [在你左右 \- 網劇《心動100秒》主題曲](https://open.spotify.com/album/7heJz7mX6WqZwEmAFnYRvG) | 3:00 | 2022-06-13 | 2022-07-11 |
 | [在家裡 \- feat.方大同](https://open.spotify.com/track/5kSI0cQklLNXQtK9btXYff) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [我想要的](https://open.spotify.com/album/0BgXOIWCoxjO5Lh6z58o4S) | 4:09 | 2022-06-06 | 2022-07-28 |
-| [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l) | 3:29 | 2022-07-25 |  |
+| [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l) | 3:29 | 2022-07-25 | 2022-11-08 |
 | [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/48rVMYgcxxTAKBvCirg7Np) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/6xSNiK14HcybKglAJBUDc6) | 3:29 | 2022-06-06 | 2022-07-28 |
 | [墨菲定律 \(feat\. Sherman Zhuo\)](https://open.spotify.com/track/27I1DB7fCuuhRcXt8r8fnx) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [墨菲定律 \(feat\. Sherman Zhuo\)](https://open.spotify.com/album/39U4JqGLKnFoSzAyo3wwMP) | 3:02 | 2022-06-06 | 2022-06-17 |
 | [夏色17号\-比尔的歌](https://open.spotify.com/track/5Dr6LweBUX9A0w4Fm0oaB0) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E), [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [夏色17号\-比尔的歌](https://open.spotify.com/album/0ZO8r4sN5eymZG4YMozKT1) | 3:13 | 2022-08-29 | 2022-10-17 |
@@ -178,7 +179,7 @@
 | [月光森林](https://open.spotify.com/track/5j73bSHAoFQW84vwb64lJQ) | [兔子牙](https://open.spotify.com/artist/5IKSF0sUp4qqybBa8tjOqW) | [月光森林](https://open.spotify.com/album/363MAMYrjcQVlG3mvilLDX) | 3:20 | 2022-07-04 | 2022-07-14 |
 | [有何不可](https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV) | [自定義](https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD) | 4:00 | 2022-06-06 |  |
 | [有空記得約我 \- 電視電影《雜貨店》主題曲](https://open.spotify.com/track/1ruZAxKKU6x6fl7MKlkRfs) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [有空記得約我 \(電視電影《雜貨店》主題曲\)](https://open.spotify.com/album/4gFAG2ZXep3vHcqzDlt8PV) | 4:03 | 2022-06-06 | 2022-09-03 |
-| [橘子汽水](https://open.spotify.com/track/66EHqFhy2Gvgj7HOFYQesg) | [张星特](https://open.spotify.com/artist/412qCxKDZeQ1zOw8IZShGk) | [橘子汽水 \(青春重置计划6 特调汽水\)](https://open.spotify.com/album/4lz4amhRyl96UMrN2Jh7AC) | 3:40 | 2022-10-24 |  |
+| [橘子汽水](https://open.spotify.com/track/66EHqFhy2Gvgj7HOFYQesg) | [张星特](https://open.spotify.com/artist/412qCxKDZeQ1zOw8IZShGk) | [橘子汽水 \(青春重置计划6 特调汽水\)](https://open.spotify.com/album/4lz4amhRyl96UMrN2Jh7AC) | 3:40 | 2022-10-24 | 2022-11-08 |
 | [欢迎光临](https://open.spotify.com/track/65TuztwYKl9Ka0Y17OczHx) | [Koala Liu](https://open.spotify.com/artist/0rG7yyjd15xAQ3Z9SK4FU3), [盧俊傑](https://open.spotify.com/artist/2yET7cDQpHNdprCQW5zcx9) | [欢迎光临](https://open.spotify.com/album/2jvHOTPUzcfTgfRBQ4fRCP) | 3:53 | 2022-06-06 | 2022-07-28 |
 | [每一天都想见面](https://open.spotify.com/track/6xfJ2GBycSzHJUgr2Kw9Xc) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [每一天都想见面](https://open.spotify.com/album/5TH32PfNAAR304rtJaYN84) | 3:02 | 2022-07-04 | 2022-07-29 |
 | [每分每秒](https://open.spotify.com/track/1T4oS7tf4FpCht0NkwFikF) | [Ours](https://open.spotify.com/artist/5VxMD3kw0WnX3huE0Oli68) | [每分每秒](https://open.spotify.com/album/2i0xJJFEXHJDmSVxdl3z6Q) | 3:20 | 2022-06-06 | 2022-10-01 |
@@ -206,6 +207,7 @@
 | [當你孤單你會想起誰](https://open.spotify.com/track/3e23FThGTaBt5rEnxIPMJu) | [Alina Cheng](https://open.spotify.com/artist/0afEdGty8N3VzTdFwtPydj), [劉書宏](https://open.spotify.com/artist/3RtuGWS4Axo9dC7vCPVNEo) | [當你孤單你會想起誰](https://open.spotify.com/album/0i67BnNKZXN5nObLW2rM5i) | 4:01 | 2022-06-06 | 2022-07-29 |
 | [當你孤單你會想起誰](https://open.spotify.com/track/1qBwJa1vOvIUyD3dlLU03P) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [當你孤單你會想起誰](https://open.spotify.com/album/4WyfVslftjtq0Q7aarCGgl) | 3:11 | 2022-06-06 | 2022-07-28 |
 | [直到我遇見了你](https://open.spotify.com/track/3LAgIUioZHAUaCjj4KsX9Y) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [直到我遇見了你](https://open.spotify.com/album/2ahdjX6myx2b9NJ65stXOo) | 4:06 | 2022-06-06 | 2022-07-29 |
+| [直球浪漫](https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV), [K.A咔咔](https://open.spotify.com/artist/6We6C4fsLVl4StYXnNeZJL) | [直球浪漫](https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO) | 3:46 | 2022-11-08 |  |
 | [第一默契 \(电视剧 《你微笑时很美》 片尾曲\)](https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy) | [Kai Xu](https://open.spotify.com/artist/5aL82Rnbtx5DQp5cAcCUdI), [Xiao Cheng](https://open.spotify.com/artist/1o4C8yeeDMUpc2Hq4jRTwT) | [电视剧《你微笑时很美》影视原声带](https://open.spotify.com/album/3chqJvgxqZfXOhISPnJCNs) | 3:28 | 2022-09-26 |  |
 | [第一默契 Soulmate](https://open.spotify.com/track/3GFdYLcROugyYHy9rcXulD) | [Xu Kai](https://open.spotify.com/artist/00m70qHTo1jHHxLgAXbkXA), [程瀟 \(Cheng Xiao\)](https://open.spotify.com/artist/6eY9LT0jokuZ4iwGoAW9nt) | [你微笑時很美 Falling Into Your Smile OST](https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ) | 3:28 | 2022-06-13 | 2022-09-30 |
 | [等你下課](https://open.spotify.com/track/76WthWB0v0KXUHZoAclMVV) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [等你下課](https://open.spotify.com/album/6cGDAwmjAE5i2a9fIY6Cu8) | 4:30 | 2022-06-27 |  |

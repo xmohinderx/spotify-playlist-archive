@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-566 songs - 1 day 4 hr 45 min - [published](https://open.spotify.com/playlist/6yanqWEqV76LNBsD06S3Zl)
+567 songs - 1 day 4 hr 47 min - [published](https://open.spotify.com/playlist/6yanqWEqV76LNBsD06S3Zl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Balenciaga](https://open.spotify.com/track/43ZJYYy6frMoxtGNFZDwkO) | [Gab3](https://open.spotify.com/artist/0Yt7UjpW2AJojjZrgGysUl) | [Ready To Rave?](https://open.spotify.com/album/4ivoSSaDbpTga7YvcLWtAh) | 2:32 | 2022-01-14 | 2022-01-20 |
 | [Bandit \(with YoungBoy Never Broke Again\)](https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Bandit \(with YoungBoy Never Broke Again\)](https://open.spotify.com/album/3t6Z2qoBVCS4NHNI25XECH) | 3:09 | 2021-08-20 | 2022-03-19 |
 | [Bane](https://open.spotify.com/track/2TKwo7J4oyyiYZvck7ky3R) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Bane](https://open.spotify.com/album/1DIa6H1AjmAg9SMrByTbiI) | 2:20 | 2022-01-14 | 2022-01-29 |
-| [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 | 2022-02-18 |  |
+| [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 | 2022-02-18 | 2022-11-08 |
 | [beamer boy](https://open.spotify.com/track/7hf89cT5FEmLV5E9fjrjG7) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Nedarb](https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R) | [beamer boy](https://open.spotify.com/album/69nnJOr40uKMOFvB1sSKLp) | 3:23 | 2022-02-04 | 2022-02-07 |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-08-10 |  |
 | [Before U](https://open.spotify.com/track/1iyXU0LHY9Irw7oohGf7hb) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Before U](https://open.spotify.com/album/3dRIkRoJIbmfi1Hh9IKrjC) | 2:34 | 2022-03-18 | 2022-07-27 |
@@ -359,6 +359,7 @@
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2021-11-10 |  |
 | [Only A Fool \(with Pink Sweat$\)](https://open.spotify.com/track/4iWKQu7GcqRl1aVll2PD20) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Only A Fool \(with Pink Sweat$\)](https://open.spotify.com/album/0S1Htad88OcJyqR1KlpgZ6) | 2:46 | 2021-08-20 | 2022-04-19 |
 | [Onna Come Up \(feat\. G Herbo\) \[Remix\]](https://open.spotify.com/track/6bCWyr3C3ngZdwizTYWQTG) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Onna Come Up \(feat\. G Herbo\) \[Remix\]](https://open.spotify.com/album/68E8KEIn6CawoxJetxyYRl) | 2:55 | 2021-08-20 | 2022-07-09 |
+| [OOGA BOOGA!](https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [OOGA BOOGA!](https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt) | 2:19 | 2022-11-04 |  |
 | [oops!](https://open.spotify.com/track/7L6G0wpIUiPXuvoo7qhb06) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Gasanova](https://open.spotify.com/album/7aQSug5yYLtISyxh9eEglW) | 2:19 | 2021-12-09 | 2021-12-23 |
 | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/track/6bhgpD7OkCATudfKJ50JB6) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/album/1EZE4ij3YcQUNNG3y1AduM) | 2:08 | 2022-04-20 | 2022-07-29 |
 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 | 2022-08-25 |  |

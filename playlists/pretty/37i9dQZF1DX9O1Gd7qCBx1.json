@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 184759,
+  "num_followers": 184786,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMDdiNGIwNmNlOTUwYjI2NmU1OTlmZmZjMGNhMDU3OGVl",
+  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMGI1NGYzZTBjZDA1NmNhMTJhOGFkMTZlMWU2MTYyYTIx",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "El Abuelo",
-        "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "El Abuelo",
-      "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 237000,
       "name": "El corrido de Miguel Rivera - Inspirado en \"Coco\"",
       "url": "https://open.spotify.com/track/1WGdFps5A9Xi3bXNAIFUIp"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "El Abuelo",
+        "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "El Abuelo",
+      "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
-        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "La vida es un sue\u00f1o",
-      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "El Ritmo De Chico Che Y La Crisis",
         "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Romance del Enamorado y la Muerte",
-        "url": "https://open.spotify.com/album/1KkQO5xOhLvog2bR7hk2Js"
+        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
+        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
       },
       "artists": [
         {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 214533,
-      "name": "Romance del Enamorado y la Muerte",
-      "url": "https://open.spotify.com/track/0PQoLyBIZyBFZLvbLpJqfY"
+      "duration_ms": 190200,
+      "name": "La vida es un sue\u00f1o",
+      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -903,6 +887,22 @@
       "duration_ms": 204617,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Romance del Enamorado y la Muerte",
+        "url": "https://open.spotify.com/album/1KkQO5xOhLvog2bR7hk2Js"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Romance del Enamorado y la Muerte",
+      "url": "https://open.spotify.com/track/0PQoLyBIZyBFZLvbLpJqfY"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/3sV4fTa3XvPRJEF1MSWpks"
-      },
-      "artists": [
-        {
-          "name": "Dueto Dos Rosas",
-          "url": "https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer"
-        }
-      ],
-      "duration_ms": 348544,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/4c9VVKlTrfrIzNbEyDWYzO"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Buenaventura",
         "url": "https://open.spotify.com/album/1hEVnJ09psV81C2PBGEjCk"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 200133,
       "name": "Calaverita",
       "url": "https://open.spotify.com/track/47NMBNmAQhLuyVSEI9IKBN"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/3sV4fTa3XvPRJEF1MSWpks"
+      },
+      "artists": [
+        {
+          "name": "Dueto Dos Rosas",
+          "url": "https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer"
+        }
+      ],
+      "duration_ms": 348544,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/4c9VVKlTrfrIzNbEyDWYzO"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Rosa Mexicano",
-        "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
-      },
-      "artists": [
-        {
-          "name": "Regina Orozco",
-          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Monton de Tierra",
-      "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
         "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 186400,
       "name": "La Tumba Falsa",
       "url": "https://open.spotify.com/track/5DW1e0gPIiSJuigtNy61e5"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Rosa Mexicano",
+        "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
+      },
+      "artists": [
+        {
+          "name": "Regina Orozco",
+          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Monton de Tierra",
+      "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Siguiente",
-        "url": "https://open.spotify.com/album/1Px6ATcmtKsrP7WAKmbch3"
-      },
-      "artists": [
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Era Mi Abuelo",
-      "url": "https://open.spotify.com/track/6fCvxTPA1u5ov55svizA97"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Leiden",
         "url": "https://open.spotify.com/album/4aubj1eJhrTclgdTyFgSR5"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 244366,
       "name": "Tonada de Luna Llena",
       "url": "https://open.spotify.com/track/4Wvo8baUioG8go9VukhFKN"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Siguiente",
+        "url": "https://open.spotify.com/album/1Px6ATcmtKsrP7WAKmbch3"
+      },
+      "artists": [
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 204680,
+      "name": "Era Mi Abuelo",
+      "url": "https://open.spotify.com/track/6fCvxTPA1u5ov55svizA97"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Dulce Muerte",
-        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
-      },
-      "artists": [
-        {
-          "name": "BuenRostro",
-          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
-        }
-      ],
-      "duration_ms": 212553,
-      "name": "Dulce Muerte",
-      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Espectro (En Vivo Desde Cuba)",
         "url": "https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 268992,
       "name": "Espectro (En Vivo Desde Cuba)",
       "url": "https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Dulce Muerte",
+        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
+      },
+      "artists": [
+        {
+          "name": "BuenRostro",
+          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
+        }
+      ],
+      "duration_ms": 212553,
+      "name": "Dulce Muerte",
+      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
-        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
-      },
-      "artists": [
-        {
-          "name": "\u00d3scar Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Trist\u00edsimo Pante\u00f3n",
-      "url": "https://open.spotify.com/track/6hd02N0fmG5pFYm5LukkT9"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Timoneki",
         "url": "https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 194092,
       "name": "La Danza de la Muerte - D\u00eda de Muertos",
       "url": "https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
+        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
+      },
+      "artists": [
+        {
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Trist\u00edsimo Pante\u00f3n",
+      "url": "https://open.spotify.com/track/6hd02N0fmG5pFYm5LukkT9"
     },
     {
       "added_at": "2021-11-01 17:39:36",

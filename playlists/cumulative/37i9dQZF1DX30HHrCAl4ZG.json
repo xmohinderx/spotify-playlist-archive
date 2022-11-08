@@ -2283,7 +2283,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 247323,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/1BCQcNvwUVXtagkgdVNRx7"
@@ -2643,7 +2643,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 209764,
       "name": "Country Club",
       "url": "https://open.spotify.com/track/6nqKsUL0Fd3BQsmQYbh8Zb"
@@ -7417,7 +7417,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 124564,
       "name": "Martian Man",
       "url": "https://open.spotify.com/track/3BHXBrDpZSRhmNWExBfYGZ"
@@ -7727,7 +7727,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 194773,
       "name": "Mood Hoover",
       "url": "https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo"
@@ -7763,7 +7763,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 286042,
       "name": "More",
       "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
@@ -9635,7 +9635,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 150510,
       "name": "Seasick",
       "url": "https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S"
@@ -10007,7 +10007,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 172672,
       "name": "Singapore",
       "url": "https://open.spotify.com/track/6KYHEjY1Q6PskPAjQlzw6z"
@@ -10401,6 +10401,24 @@
       "duration_ms": 238360,
       "name": "Speeding 72",
       "url": "https://open.spotify.com/track/7cUtZJswFDe6W9wRXMseZQ"
+    },
+    {
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
     },
     {
       "album": {
@@ -10895,7 +10913,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 128293,
       "name": "Tag Along",
       "url": "https://open.spotify.com/track/0zO2Fu7XExfd3WZYedeCle"

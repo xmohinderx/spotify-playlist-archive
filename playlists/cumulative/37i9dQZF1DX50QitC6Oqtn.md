@@ -4,7 +4,7 @@
 
 > Because we all deserve great pop love songs in one playlist.
 
-405 songs - 23 hr 29 min - [published](https://open.spotify.com/playlist/5Gy0dP1pgPGbnWiiwYHssX)
+406 songs - 23 hr 32 min - [published](https://open.spotify.com/playlist/5Gy0dP1pgPGbnWiiwYHssX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2019-07-29\* |  |
 | [For The Love](https://open.spotify.com/track/1Q1Lz8shbr2AXR8zKReTqd) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [For The Love](https://open.spotify.com/album/3M4BeAI8wEts5HLQcJDXlW) | 3:40 | 2019-07-29\* | 2019-08-04 |
 | [For You](https://open.spotify.com/track/2SvO59G9QOuDjdcli1rEYV) | [My Sun and Stars](https://open.spotify.com/artist/6ZzQtFgvmqdNtmB3pvh6UR), [Tom Auton](https://open.spotify.com/artist/0XxvWQYJYvANyRsICQT9eo) | [For You](https://open.spotify.com/album/6LDNoL6sA2NtHlAebl8htF) | 3:22 | 2019-08-15 | 2021-10-14 |
-| [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2019-08-01 |  |
+| [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2019-08-01 | 2022-11-08 |
 | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8) | 2:59 | 2019-08-04 |  |
 | [Ghost](https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:33 | 2021-03-21 |  |
 | [Girlfriend](https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Girlfriend](https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY) | 2:57 | 2020-06-29 | 2022-07-29 |
@@ -319,6 +319,7 @@
 | [Space for Two](https://open.spotify.com/track/2vNyWYQtbrgOKcSG64SZMJ) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Space for Two](https://open.spotify.com/album/6QdFacG9oVksFA7py1AltG) | 3:26 | 2019-08-06 | 2021-10-14 |
 | [Stacy](https://open.spotify.com/track/1pyGo7knT3LE2I1FJIrwdX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Stacy](https://open.spotify.com/album/2ytL323iItASCaK0ePqu2O) | 2:48 | 2019-07-29\* | 2019-08-02 |
 | [Starving \- Acoustic](https://open.spotify.com/track/3otAtzQb3f7adNdiCgdECo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving \(Acoustic\)](https://open.spotify.com/album/2rTG6XOfAwNyfwjACFKN16) | 3:01 | 2019-08-05 | 2021-05-25 |
+| [Stay Awake](https://open.spotify.com/track/2smpiAZfaN0GFi15MqAq6E) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 3:05 | 2021-11-08 |  |
 | [Stay Awake](https://open.spotify.com/track/6iey2E15nqKQ60KW8vBQQi) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Stay Awake](https://open.spotify.com/album/4Zp3hXLnKbv3XdCWqi04Qw) | 3:05 | 2019-07-29\* | 2021-10-14 |
 | [Stay Next To Me \(with Chelsea Cutler\)](https://open.spotify.com/track/6SGG5AxHShqSYiV9fCWpZz) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stay Next To Me \(with Chelsea Cutler\)](https://open.spotify.com/album/2z5swLenXPUPG79UfLU51I) | 3:26 | 2020-12-12 | 2022-07-29 |
 | [Stay Next To Me \(with Chelsea Cutler\)](https://open.spotify.com/track/7kTlHVCARylJAqm40yVoWE) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Change of Scenery II](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro) | 3:26 | 2021-11-08 | 2022-10-16 |

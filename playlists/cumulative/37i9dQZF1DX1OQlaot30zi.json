@@ -5451,7 +5451,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 82285,
       "name": "EGO #1",
       "url": "https://open.spotify.com/track/1K2mdmV8IiauF7MIcXJ1mh"
@@ -9291,7 +9291,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 135500,
       "name": "La ricetta",
       "url": "https://open.spotify.com/track/0qZNBm18P0L3bA44THR09x"
@@ -10609,7 +10609,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 136730,
       "name": "Matchin' Vanilla",
       "url": "https://open.spotify.com/track/1HhumjqkA1inbpdpaB752n"
@@ -11805,7 +11805,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 178285,
       "name": "NOMI",
       "url": "https://open.spotify.com/track/3wcd9pKYzf5J4NM9dEdTYL"
@@ -13872,6 +13872,28 @@
     },
     {
       "album": {
+        "name": "Probl\u00e8mes",
+        "url": "https://open.spotify.com/album/4TgBFy1SSFw7m5lhx2wut6"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Probl\u00e8mes",
+      "url": "https://open.spotify.com/track/6wdpb17i1FDIexi6x1vTke"
+    },
+    {
+      "album": {
         "name": "PSG",
         "url": "https://open.spotify.com/album/1VH2Hhq3cep5k7gcknPPkG"
       },
@@ -15787,7 +15809,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 119069,
       "name": "Slot",
       "url": "https://open.spotify.com/track/7B5UVZNAYLkk0uGsOV4NXo"
@@ -17235,7 +17257,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 145200,
       "name": "TODOROKI",
       "url": "https://open.spotify.com/track/7gHuRsbbQ9WDY1LAOMgDsE"

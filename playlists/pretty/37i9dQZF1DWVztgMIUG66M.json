@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf?si=7GfavyvfTIKTXvIxKrVFyw\">Kawahi Leonard</a>",
-  "num_followers": 5618,
+  "num_followers": 5794,
   "original_name": "Kawahi Leonard's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1ODQwOCwwMDAwMDAwMGUxYjUyNDA1OGUxNzkzZWYzNmRhOWFiMzViNWJhZTQz",
+  "snapshot_id": "MTY2NDY1ODQwOCwwMDAwMDAwMDQ0MGQ0YmI5MjdkNDcxOTM0MGZlZjYwYjYyYjI3YWMx",
   "tracks": [
     {
       "added_at": "2022-10-01 21:06:48",
@@ -171,42 +171,6 @@
     {
       "added_at": "2022-10-01 21:06:48",
       "album": {
-        "name": "Too Hard",
-        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 162053,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
-    },
-    {
-      "added_at": "2022-10-01 21:06:48",
-      "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Big Syke",
-          "url": "https://open.spotify.com/artist/5J32qSlWzKCdcL31B8wglv"
-        }
-      ],
-      "duration_ms": 307773,
-      "name": "All Eyez On Me (ft. Big Syke)",
-      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo"
-    },
-    {
-      "added_at": "2022-10-01 21:06:48",
-      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -243,6 +207,22 @@
     {
       "added_at": "2022-10-01 21:06:48",
       "album": {
+        "name": "Too Hard",
+        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 162053,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
+    },
+    {
+      "added_at": "2022-10-01 21:06:48",
+      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 220486,
       "name": "High Fashion (feat. Mustard)",
       "url": "https://open.spotify.com/track/07KXEDMj78x68D884wgVEm"
+    },
+    {
+      "added_at": "2022-10-01 21:06:48",
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Big Syke",
+          "url": "https://open.spotify.com/artist/5J32qSlWzKCdcL31B8wglv"
+        }
+      ],
+      "duration_ms": 307773,
+      "name": "All Eyez On Me (ft. Big Syke)",
+      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo"
     },
     {
       "added_at": "2022-10-01 21:06:48",
@@ -703,6 +703,30 @@
     {
       "added_at": "2022-10-01 21:06:48",
       "album": {
+        "name": "Part Of The Game (feat. NLE Choppa & Rileyy Lanez)",
+        "url": "https://open.spotify.com/album/4U8n0uEGmEvNu2dzCgG8yv"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
+        }
+      ],
+      "duration_ms": 185603,
+      "name": "Part Of The Game (feat. NLE Choppa & Rileyy Lanez)",
+      "url": "https://open.spotify.com/track/58u07iWTstIQrxiCM2GuuA"
+    },
+    {
+      "added_at": "2022-10-01 21:06:48",
+      "album": {
         "name": "Bandana",
         "url": "https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 245333,
       "name": "Palmolive (feat. Pusha T & Killer Mike)",
       "url": "https://open.spotify.com/track/0w9aWiDqZPCOCOtRTLkTPd"
-    },
-    {
-      "added_at": "2022-10-01 21:06:48",
-      "album": {
-        "name": "Part Of The Game (feat. NLE Choppa & Rileyy Lanez)",
-        "url": "https://open.spotify.com/album/4U8n0uEGmEvNu2dzCgG8yv"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Rileyy Lanez",
-          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
-        }
-      ],
-      "duration_ms": 185603,
-      "name": "Part Of The Game (feat. NLE Choppa & Rileyy Lanez)",
-      "url": "https://open.spotify.com/track/58u07iWTstIQrxiCM2GuuA"
     },
     {
       "added_at": "2022-10-01 21:06:48",

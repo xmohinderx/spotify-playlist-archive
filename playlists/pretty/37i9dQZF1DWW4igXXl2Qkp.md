@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Dom Corleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,976 likes - 49 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,992 likes - 49 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 18 | [Mr\. Do It Up](https://open.spotify.com/track/3KHRBIfbMAWIBxpNfyHuR3) | [ShaqO](https://open.spotify.com/artist/5JKI6b6ZEZpy5oNKzL1hbs) | [Oh My Fault](https://open.spotify.com/album/23mjPzCQtMK6bFRzHR3mNy) | 3:08 |
 | 19 | [Starry Night](https://open.spotify.com/track/3xUKMt4RGN9V3ofnWDbQ1X) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Do Your Worst](https://open.spotify.com/album/2zoKhONaJBKUHsbPZLFubF) | 2:14 |
 | 20 | [Ben10](https://open.spotify.com/track/7KBZKRX0WpvB5Wkqb7TcvD) | [Yung Sinn](https://open.spotify.com/artist/6LAFFVSbnH98HCIvehSG6c) | [Ben10](https://open.spotify.com/album/1nA3Vx5C8t2yduDXgkHQbW) | 2:51 |
-| 21 | [Murder 2.0](https://open.spotify.com/track/44BSQfTmbO2Onoj8Oi02vq) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder 2.0](https://open.spotify.com/album/2404wXyauFNBZvmfuKLVUK) | 3:06 |
+| 21 | [Murder 2.0](https://open.spotify.com/track/0OhS94VPQAdDQPDViK5JtR) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [17](https://open.spotify.com/album/4joJtfM9QKxT7Q1zVuaPFo) | 3:06 |
 | 22 | [I'M GOOD](https://open.spotify.com/track/1o4TXR8pDa6LQHBPhfg9zs) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I'M GOOD](https://open.spotify.com/album/4Yi6Tiw8YKTj43Yy6oQDtd) | 3:15 |
 | 23 | [Contact](https://open.spotify.com/track/5TQSK96ovPsfX7JsWGPxEQ) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT) | [Contact](https://open.spotify.com/album/5seomwiB0N53hjaEoLOdb4) | 2:14 |
 | 24 | [Southside](https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [Southside](https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo) | 3:21 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 48 | [Promise Lands](https://open.spotify.com/track/26TovmA8desBWW1xtojaKd) | [Jeida Woods](https://open.spotify.com/artist/647M05xOsIsWoDybMLp8iC) | [Promise Lands](https://open.spotify.com/album/5TDhZNIcIchBUvZTB3W7MS) | 3:31 |
 | 49 | [Heart Of Gold](https://open.spotify.com/track/66zbX8vwdDMHYn6kQ9xCf8) | [Tony Bontana](https://open.spotify.com/artist/65KD0ITHfxE6ix28iRAZdl) | [Kyesha](https://open.spotify.com/album/3f49SaBQU5TNoX1JeBEm8f) | 1:29 |
 
-Snapshot ID: `MTY2NjgwNjc2MiwwMDAwMDAwMDA0MjI4ZDM1ZWM3ZGU1ZDMzMzcyYTcxNjc4YTVlY2Rl`
+Snapshot ID: `MTY2NjgwNjc2MiwwMDAwMDAwMDBiNDEyMTg0NDkzMGFlNTdlN2MwMTg0MDk5MmMwMDA3`

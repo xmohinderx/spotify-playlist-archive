@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Oner y las mejores batallas. Assista los clips y descubre m\u00fasica original de los participantes, solo aqu\u00ed.",
+  "description": "Mecha y las mejores batallas. Assista los clips y descubre m\u00fasica original de los participantes, solo aqu\u00ed.",
   "name": "Red Bull Batalla",
   "published_playlist_ids": [
     "0czRm1bZ5YA9YxDSXYTnLg"
@@ -946,6 +946,58 @@
     },
     {
       "album": {
+        "name": "Final Nacional Argentina 2022 (Live)",
+        "url": "https://open.spotify.com/album/4vSXlLbIUlhZIFMiYnyITY"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "CTZ",
+          "url": "https://open.spotify.com/artist/4PHysYzE3981E0RnoSOeYX"
+        },
+        {
+          "name": "Larrix",
+          "url": "https://open.spotify.com/artist/4tDopjRCMdZ2kOyN90cE4V"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392493,
+      "name": "CTZ vs. Larrix - Semifinal - Live",
+      "url": "https://open.spotify.com/track/37btc08QHeZYiqztCKqSsm"
+    },
+    {
+      "album": {
+        "name": "Final Nacional Argentina 2022 (Live)",
+        "url": "https://open.spotify.com/album/4vSXlLbIUlhZIFMiYnyITY"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "CTZ",
+          "url": "https://open.spotify.com/artist/4PHysYzE3981E0RnoSOeYX"
+        },
+        {
+          "name": "Mecha",
+          "url": "https://open.spotify.com/artist/4QbJy84uljWISpxN41X5jG"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567522,
+      "name": "CTZ vs. Mecha - Final - Live",
+      "url": "https://open.spotify.com/track/2zRenuY0EjVYORmsbXek2T"
+    },
+    {
+      "album": {
         "name": "Final Nacional Estados Unidos 2022 (Live)",
         "url": "https://open.spotify.com/album/1kUcF53ZQd6ezz50BsB5a3"
       },
@@ -1565,7 +1617,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 369368,
       "name": "Garza vs. Yoiker - Semifinal - Live",
       "url": "https://open.spotify.com/track/2ufg1tLbMXX6ldTmU2fX4U"
@@ -1751,6 +1803,32 @@
       "duration_ms": 312622,
       "name": "Jack Adrenalina vs Mc Betho - Curatos de Final - Live",
       "url": "https://open.spotify.com/track/6IAbuq8Ryord9ZC29GUSSV"
+    },
+    {
+      "album": {
+        "name": "Final Nacional Argentina 2022 (Live)",
+        "url": "https://open.spotify.com/album/4vSXlLbIUlhZIFMiYnyITY"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Jesse PungaZ",
+          "url": "https://open.spotify.com/artist/6p5qxWFLvNzzFkTvAypFEx"
+        },
+        {
+          "name": "Mecha",
+          "url": "https://open.spotify.com/artist/4QbJy84uljWISpxN41X5jG"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398231,
+      "name": "Jesse Pungaz vs. Mecha - Semifinal - Live",
+      "url": "https://open.spotify.com/track/04x23ksZ2NZy7PqE4GUfto"
     },
     {
       "album": {
@@ -1944,6 +2022,32 @@
     },
     {
       "album": {
+        "name": "Final Nacional Argentina 2022 (Live)",
+        "url": "https://open.spotify.com/album/4vSXlLbIUlhZIFMiYnyITY"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Larrix",
+          "url": "https://open.spotify.com/artist/4tDopjRCMdZ2kOyN90cE4V"
+        },
+        {
+          "name": "Jesse PungaZ",
+          "url": "https://open.spotify.com/artist/6p5qxWFLvNzzFkTvAypFEx"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343277,
+      "name": "Larrix vs. Jesse Pungaz - 3er Lugar - Live",
+      "url": "https://open.spotify.com/track/6FGBx6B6rrfnNjUwaYz5B9"
+    },
+    {
+      "album": {
         "name": "Final Nacional M\u00e9xico 2019 (Live)",
         "url": "https://open.spotify.com/album/45vZBF94IhsgEY53RwlW4B"
       },
@@ -2013,7 +2117,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 874477,
       "name": "Lobo Estepario vs Skiper - Final - Live",
       "url": "https://open.spotify.com/track/3rpNSHVPeUlVvldR0HRzSq"
@@ -3067,7 +3171,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 783513,
       "name": "Skiper Rmz vs. Damian - Semifinal - Live",
       "url": "https://open.spotify.com/track/2aslnxvS7dYjFRGBAZDt8p"
@@ -3281,7 +3385,7 @@
       ],
       "date_added": "2019-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 228571,
       "name": "Tarde (y mal) [feat. Both Face]",
       "url": "https://open.spotify.com/track/6G751OhOUnoRjTB5yEEWh6"

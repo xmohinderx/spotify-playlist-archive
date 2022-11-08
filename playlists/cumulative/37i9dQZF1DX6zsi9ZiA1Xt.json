@@ -627,7 +627,7 @@
       ],
       "date_added": "2020-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 248733,
       "name": "Manyoma",
       "url": "https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9"
@@ -703,6 +703,28 @@
       "duration_ms": 193440,
       "name": "Pa'l 23",
       "url": "https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ"
+    },
+    {
+      "album": {
+        "name": "Fruko el Patillero",
+        "url": "https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Wilson \"Saoko\" Manyoma",
+          "url": "https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0"
+        }
+      ],
+      "date_added": "2020-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "Patillero",
+      "url": "https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1"
     },
     {
       "album": {

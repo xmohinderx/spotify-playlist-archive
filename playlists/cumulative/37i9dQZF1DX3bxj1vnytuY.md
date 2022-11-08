@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-130 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+131 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Sunny Street](https://open.spotify.com/track/7FSxMDMfkL58IKUHvDKRxk) | [Holy Moly](https://open.spotify.com/artist/4TglMZiWpNknCUIEQwBeRY) | [Sunny Street](https://open.spotify.com/album/68O4P4A7mJeHEfKdza0cif) | 5:36 | 2022-04-13 |  |
 | [Sunsets in Marrakech](https://open.spotify.com/track/3C1Dn6K7TGnSmPYhmqh5x3) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/4FYCKpFao26D6pirX7A5Nk) | 6:18 | 2022-10-13 |  |
 | [Sunsets in Marrakech](https://open.spotify.com/track/3X9tSrJQbdWH2lwGyyv1cn) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/7swsGEp5WBVi8B4whrKwnd) | 6:18 | 2022-10-07 | 2022-10-15 |
+| [Swahili](https://open.spotify.com/track/5PX4qYdnCAsUHPcXUGo2ko) | [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [10 Years of NuLu, Vol\. 03](https://open.spotify.com/album/7MiBzqoyUPI8080qlER3wH) | 8:00 | 2022-11-07 |  |
 | [Teak \- Omerar Nanda Remix](https://open.spotify.com/track/0uNqMpO7ClAfIl1Van5RpT) | [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf), [Omerar Nanda](https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl) | [Teak](https://open.spotify.com/album/3pdVTHeoE6XsBd1rWFEOUr) | 6:38 | 2022-04-13 |  |
 | [Terravita](https://open.spotify.com/track/5zkW6ZBqED2TWNRjcZLS5n) | [Minörs](https://open.spotify.com/artist/26ZaXcjW7CImOrTU2jxZL3) | [Terravita](https://open.spotify.com/album/3KCQr6cXvICTcTNnXdhEQe) | 6:57 | 2022-04-13 |  |
 | [The Call](https://open.spotify.com/track/2HGPDuJuzcZcwWUbQBTtHO) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P), [Elly Ball](https://open.spotify.com/artist/7HXdeGBPEYJDB97Yy1sHMH) | [The Call](https://open.spotify.com/album/43AbiDnZdsiZmWc2ZuqMKb) | 6:40 | 2022-04-13 | 2022-07-22 |

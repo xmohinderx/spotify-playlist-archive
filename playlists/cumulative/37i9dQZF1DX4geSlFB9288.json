@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 297426,
       "name": "Dakota",
       "url": "https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU"
@@ -1959,7 +1959,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 216539,
       "name": "Fear",
       "url": "https://open.spotify.com/track/4rHfpAN2CK3H6eRWd7j7E0"
@@ -2085,7 +2085,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 233785,
       "name": "Fool",
       "url": "https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI"
@@ -2179,7 +2179,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214557,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/5jSBnH9NyaNP5zdSB3pwgu"
@@ -2197,7 +2197,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 222981,
       "name": "Girl of My Dreams",
       "url": "https://open.spotify.com/track/5ERQFMCgW9JO5EWqwWGpmO"
@@ -2291,7 +2291,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 298899,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
@@ -2697,7 +2697,7 @@
           "url": "https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc"
         }
       ],
-      "date_added": "2022-10-25",
+      "date_added": "2022-10-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 246652,
@@ -2847,6 +2847,24 @@
       "duration_ms": 247346,
       "name": "I'll Be Good",
       "url": "https://open.spotify.com/track/4JuJZzGcswQszYiKJSnC6i"
+    },
+    {
+      "album": {
+        "name": "i'll die anyway.",
+        "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192612,
+      "name": "i'll die anyway.",
+      "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
     },
     {
       "album": {
@@ -3887,7 +3905,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 422613,
       "name": "Moonlight on the River",
       "url": "https://open.spotify.com/track/2fhOljbX79loRcdl47SFye"
@@ -4595,7 +4613,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Please Never Fall in Love Again",
       "url": "https://open.spotify.com/track/42H6GeQfrBkT3vTUTdpB1M"
@@ -6403,7 +6421,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 251015,
       "name": "WANTED U",
       "url": "https://open.spotify.com/track/0Y9D1Bc4fAkeZnVsGKdij6"
@@ -6659,7 +6677,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 116161,
       "name": "Who's Ready for Tomorrow",
       "url": "https://open.spotify.com/track/4mn5HdatHKN7iFGDes9G8i"
@@ -6771,6 +6789,28 @@
       "duration_ms": 212750,
       "name": "YKWIM?",
       "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
+    },
+    {
+      "album": {
+        "name": "Ylang Ylang EP",
+        "url": "https://open.spotify.com/album/0A13mnL2iaAoke3GXWsvB1"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Ylang Ylang",
+      "url": "https://open.spotify.com/track/6lAMnXLVCBPMXXWAK4lGSL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-317 songs - 1 day 4 hr 55 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
+318 songs - 1 day 5 hr 0 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Just](https://open.spotify.com/track/2u9o4jlbtzqdy2bsBX9FYK) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Just](https://open.spotify.com/album/0vYOAJM94XCdETxlSwFi7Y) | 6:12 | 2022-05-03 |  |
 | [Just](https://open.spotify.com/track/59sNwdjGBKTG1Z4cLu21mq) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Just](https://open.spotify.com/album/2zbICvUWssh0CpwXbIrRWr) | 6:12 | 2021-12-08 | 2022-07-29 |
 | [Just Forget The World](https://open.spotify.com/track/5flc3EC89NJgZa1EuxaEr7) | [Kieran Hemming](https://open.spotify.com/artist/0y7PZphnEbZAG2JHlPR4Pi) | [Just Forget The World](https://open.spotify.com/album/5xAOpItivkcQRZlvYbGdC9) | 3:33 | 2021-12-08 |  |
-| [Just Us 2](https://open.spotify.com/track/77PphOhe88ESixnOdJBfby) | [Vivra Verra](https://open.spotify.com/artist/6pfji9v6mcjF8tFmzsDx9z) | [Just Us 2](https://open.spotify.com/album/2Vxp30fUJJKOKTdmaaKYzY) | 7:04 | 2021-12-08 |  |
+| [Just Us 2](https://open.spotify.com/track/77PphOhe88ESixnOdJBfby) | [Vivra Verra](https://open.spotify.com/artist/6pfji9v6mcjF8tFmzsDx9z) | [Just Us 2](https://open.spotify.com/album/2Vxp30fUJJKOKTdmaaKYzY) | 7:04 | 2021-12-08 | 2022-11-08 |
 | [Karabali](https://open.spotify.com/track/0IEuz3GjLdjk8WQfPw8Q3m) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/0pnCkqw8Kl7MP1A9j7MqKL) | 7:05 | 2022-10-28 |  |
 | [Karabali](https://open.spotify.com/track/1hSjdeo8nyWJZO5nBO7rVC) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/4BpBqfC0qi6MaB3l96QBo4) | 7:05 | 2021-12-08 | 2022-10-13 |
 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 | 2022-05-03 |  |
@@ -246,6 +246,7 @@
 | [Sofia's Theme](https://open.spotify.com/track/6H1qRu7bx0H8MwUHHQQ5P4) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Arum Flowers](https://open.spotify.com/artist/6xeuy9aPzpmF26yefmPjhu) | [Sofia's Theme](https://open.spotify.com/album/0ehVZfAiALYIbzocHRBfpF) | 5:26 | 2022-05-03 |  |
 | [Soft Landing \- Jody Wisternoff & James Grant Remix](https://open.spotify.com/track/0y50PSpOcYLOYrc0Xgw67R) | [David Hohme](https://open.spotify.com/artist/2dYKTyW1fmdSt8hih9j9yE), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Anjunadeep 09](https://open.spotify.com/album/5MPERlPtdL1hOQfFLwpdXt) | 7:03 | 2022-05-03 |  |
 | [Sol](https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU) | [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Sol](https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi) | 6:24 | 2021-12-08 |  |
+| [Solace](https://open.spotify.com/track/2cR1w1HbWarKVJWZCQgnga) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [My Heart Burns There Too / Solace](https://open.spotify.com/album/39riohie5wvMQprmpzycEK) | 4:47 | 2022-10-28 |  |
 | [Solace](https://open.spotify.com/track/4K1uWOEOc35qp3uqvP5hls) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [My Heart Burns There Too / Solace](https://open.spotify.com/album/4DDpH2PSjc0E09E3W1nhYW) | 4:47 | 2022-05-03 | 2022-10-17 |
 | [Solace](https://open.spotify.com/track/7B9Nl7MSxywe2TfcqztTJ5) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [My Heart Burns There Too / Solace](https://open.spotify.com/album/07vqdHo7zpz7GiykpxWGbi) | 4:47 | 2021-12-08 | 2022-07-29 |
 | [Solaris](https://open.spotify.com/track/6ucvqqz22FxhiodmbhW8dQ) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 7:30 | 2021-12-08 | 2022-11-02 |

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,589 likes - 90 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,727 likes - 90 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wish The Love Never Died](https://open.spotify.com/track/3eoN5fDD9Dq0dsZ29l51Sf) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/0jE5Jhr77m6Gq4myLVgC1l) | 3:01 |
-| 2 | [Can I Get a Witness](https://open.spotify.com/track/0enKYk1ZUqInfYMLVhA4Wq) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 1:27 |
-| 3 | [Pure Gold](https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Pure Gold](https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS) | 2:49 |
-| 4 | [Elusive](https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [David Ngyah](https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c) | [Elusive](https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK) | 3:42 |
-| 5 | [My Love \- Instrumental](https://open.spotify.com/track/474Of6PUt0haIv7EcMiY49) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [The In and Out of Love Tape \(Instrumentals\)](https://open.spotify.com/album/4DnBy4kgFErWfGn8mDUBr0) | 3:48 |
-| 6 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 |
-| 7 | [Lost Kingdoms](https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4) | 7:38 |
-| 8 | [Downright](https://open.spotify.com/track/030k1bb2qwKTsBxPskfkB1) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Downright](https://open.spotify.com/album/5avhqr0GessrsdBSr82FIE) | 2:57 |
+| 1 | [Can I Get a Witness](https://open.spotify.com/track/0enKYk1ZUqInfYMLVhA4Wq) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 1:27 |
+| 2 | [Pure Gold](https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Pure Gold](https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS) | 2:49 |
+| 3 | [Elusive](https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [David Ngyah](https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c) | [Elusive](https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK) | 3:42 |
+| 4 | [My Love \- Instrumental](https://open.spotify.com/track/474Of6PUt0haIv7EcMiY49) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [The In and Out of Love Tape \(Instrumentals\)](https://open.spotify.com/album/4DnBy4kgFErWfGn8mDUBr0) | 3:48 |
+| 5 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 |
+| 6 | [Lost Kingdoms](https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4) | 7:38 |
+| 7 | [Downright](https://open.spotify.com/track/030k1bb2qwKTsBxPskfkB1) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Downright](https://open.spotify.com/album/5avhqr0GessrsdBSr82FIE) | 2:57 |
+| 8 | [Wish The Love Never Died](https://open.spotify.com/track/3eoN5fDD9Dq0dsZ29l51Sf) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/0jE5Jhr77m6Gq4myLVgC1l) | 3:01 |
 | 9 | [Breathe](https://open.spotify.com/track/6GkKzcWODUEyiRXTNluvbL) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Breathe](https://open.spotify.com/album/11MTxbr0apAkujej0nJ5WJ) | 3:33 |
 | 10 | [Rock a Nore](https://open.spotify.com/track/3TmKUdO8IqaN7HPg1k6Y9X) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Other Times](https://open.spotify.com/album/7yVomkZLlXBcoHMM4bbrbQ) | 3:37 |
 | 11 | [You](https://open.spotify.com/track/53pplXFpGH6RPPvf0aCdnQ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:05 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 89 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 |
 | 90 | [Voodoo](https://open.spotify.com/track/1gEapwDvWRtyK8aOAlCYAX) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Dangerous \(Deluxe\)](https://open.spotify.com/album/0SPo1dCxCB2boKeSGI7tVf) | 3:16 |
 
-Snapshot ID: `MTY2NzE2MzI2NywwMDAwMDAwMGEyNTA3NmEzNTg3ZDg0MzVjZTVmZTU5YzdiMjM5Y2Zj`
+Snapshot ID: `MTY2NzgzNjIzNiwwMDAwMDAwMGYzOTVmN2YzOTZjY2I4ZTVkNWUwNTY2N2Q3ZGUxNzRj`

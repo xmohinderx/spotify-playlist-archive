@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQQIA+ artists. Cover: serpentwithfeet",
-  "num_followers": 106178,
+  "num_followers": 106176,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzOTI2MSwwMDAwMDAwMDY5NzYzMTY3NTJlZjA1ZTQxZTIyYTk2MWVmYzI1NzZm",
+  "snapshot_id": "MTY2MDIzOTI2MSwwMDAwMDAwMGQ5MzU4ZjZkYmU3ZWRkY2Y3YWNhY2UzYjlkMmUxNWEw",
   "tracks": [
     {
       "added_at": "2022-06-06 14:47:44",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 197661,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Lovestained",
         "url": "https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 175280,
       "name": "Lovestained",
       "url": "https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 197661,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Dead Weight",
-      "url": "https://open.spotify.com/track/3FmsKw8ie3KLC5273nH6wD"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Set My Heart On Fire Immediately",
         "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 303600,
       "name": "On the Floor",
       "url": "https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Dead Weight",
+      "url": "https://open.spotify.com/track/3FmsKw8ie3KLC5273nH6wD"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
+        "name": "Before The World Was Big",
+        "url": "https://open.spotify.com/album/7KW051jqBSX1pFOyLwIQw7"
+      },
+      "artists": [
+        {
+          "name": "Girlpool",
+          "url": "https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ"
+        }
+      ],
+      "duration_ms": 141190,
+      "name": "Before the World Was Big",
+      "url": "https://open.spotify.com/track/2rBquuYxu3ShGWQgIvnNHK"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
         "name": "Found",
         "url": "https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Before The World Was Big",
-        "url": "https://open.spotify.com/album/7KW051jqBSX1pFOyLwIQw7"
+        "name": "if we lived on the moon",
+        "url": "https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a"
       },
       "artists": [
         {
-          "name": "Girlpool",
-          "url": "https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ"
+          "name": "vivi rincon",
+          "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
         }
       ],
-      "duration_ms": 141190,
-      "name": "Before the World Was Big",
-      "url": "https://open.spotify.com/track/2rBquuYxu3ShGWQgIvnNHK"
+      "duration_ms": 151223,
+      "name": "if we lived on the moon",
+      "url": "https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -923,22 +939,6 @@
       "duration_ms": 173905,
       "name": "Legs",
       "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
-        "name": "if we lived on the moon",
-        "url": "https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a"
-      },
-      "artists": [
-        {
-          "name": "vivi rincon",
-          "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
-        }
-      ],
-      "duration_ms": 151223,
-      "name": "if we lived on the moon",
-      "url": "https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Pretty Lady",
-        "url": "https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 277908,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "In Waiting",
         "url": "https://open.spotify.com/album/3lUUNYKTsf9J1P1YneO8n2"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 259217,
       "name": "Liffey",
       "url": "https://open.spotify.com/track/7f2KXS3p7hnuY7DoUrHWVN"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Pretty Lady",
+        "url": "https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 277908,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea"
     },
     {
       "added_at": "2022-06-06 14:47:44",

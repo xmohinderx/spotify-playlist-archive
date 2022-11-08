@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 104620,
+  "num_followers": 104673,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU3MDg3OSwwMDAwMDAwMDU2MDZkYjRmMGUwN2RkZGQ0MWI3NmQyNTA0ZTE2MWY1",
+  "snapshot_id": "MTY2NzU3MDg3OSwwMDAwMDAwMDM4NTZkMzUzYmE4ZjQwZDY3N2NlOWZlZWNlOGNmMmZi",
   "tracks": [
     {
       "added_at": "2022-11-04 14:07:59",
@@ -71,30 +71,6 @@
     {
       "added_at": "2022-11-04 14:07:59",
       "album": {
-        "name": "Final de Semana",
-        "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 201682,
-      "name": "Final de Semana",
-      "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
-    },
-    {
-      "added_at": "2022-11-04 14:07:59",
-      "album": {
         "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
         "url": "https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0"
       },
@@ -119,6 +95,30 @@
       "duration_ms": 294545,
       "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
       "url": "https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq"
+    },
+    {
+      "added_at": "2022-11-04 14:07:59",
+      "album": {
+        "name": "Final de Semana",
+        "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 201682,
+      "name": "Final de Semana",
+      "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
     },
     {
       "added_at": "2022-11-04 14:07:59",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-11-04 14:07:59",
       "album": {
-        "name": "Fiz Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
-        }
-      ],
-      "duration_ms": 192222,
-      "name": "Fiz Pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW"
-    },
-    {
-      "added_at": "2022-11-04 14:07:59",
-      "album": {
         "name": "Baby 95",
         "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 318237,
       "name": "Baby 95",
       "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
+    },
+    {
+      "added_at": "2022-11-04 14:07:59",
+      "album": {
+        "name": "Fiz Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
+        }
+      ],
+      "duration_ms": 192222,
+      "name": "Fiz Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW"
     },
     {
       "added_at": "2022-11-04 14:07:59",
@@ -551,38 +551,6 @@
     {
       "added_at": "2022-11-04 14:07:59",
       "album": {
-        "name": "Nonsense, Vol. 1",
-        "url": "https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        }
-      ],
-      "duration_ms": 217110,
-      "name": "Onde Estar\u00e1",
-      "url": "https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR"
-    },
-    {
-      "added_at": "2022-11-04 14:07:59",
-      "album": {
-        "name": "Num Mundo de Paz",
-        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 342514,
-      "name": "Num Mundo de Paz",
-      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
-    },
-    {
-      "added_at": "2022-11-04 14:07:59",
-      "album": {
         "name": "Me Toca",
         "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
       },
@@ -611,6 +579,38 @@
       "duration_ms": 269285,
       "name": "Todo Carinho",
       "url": "https://open.spotify.com/track/118239i3aWkav7mlAmldh9"
+    },
+    {
+      "added_at": "2022-11-04 14:07:59",
+      "album": {
+        "name": "Num Mundo de Paz",
+        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 342514,
+      "name": "Num Mundo de Paz",
+      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
+    },
+    {
+      "added_at": "2022-11-04 14:07:59",
+      "album": {
+        "name": "Nonsense, Vol. 1",
+        "url": "https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "duration_ms": 217110,
+      "name": "Onde Estar\u00e1",
+      "url": "https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR"
     },
     {
       "added_at": "2022-11-04 14:07:59",
@@ -719,26 +719,6 @@
     {
       "added_at": "2022-11-04 14:07:59",
       "album": {
-        "name": "Alumi\u00f4",
-        "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
-      },
-      "artists": [
-        {
-          "name": "Luiza Lian",
-          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
-        },
-        {
-          "name": "Bixiga 70",
-          "url": "https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU"
-        }
-      ],
-      "duration_ms": 204116,
-      "name": "Alumi\u00f4",
-      "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
-    },
-    {
-      "added_at": "2022-11-04 14:07:59",
-      "album": {
         "name": "C\u00e9u Lil\u00e1s - Na Estrada",
         "url": "https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 218822,
       "name": "Na Estrada",
       "url": "https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY"
+    },
+    {
+      "added_at": "2022-11-04 14:07:59",
+      "album": {
+        "name": "Alumi\u00f4",
+        "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
+      },
+      "artists": [
+        {
+          "name": "Luiza Lian",
+          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
+        },
+        {
+          "name": "Bixiga 70",
+          "url": "https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU"
+        }
+      ],
+      "duration_ms": 204116,
+      "name": "Alumi\u00f4",
+      "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
     },
     {
       "added_at": "2022-11-04 14:07:59",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-11-04 14:07:59",
       "album": {
-        "name": "Desastre Solar",
-        "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
-      },
-      "artists": [
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Deixa Acontecer",
-      "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
-    },
-    {
-      "added_at": "2022-11-04 14:07:59",
-      "album": {
         "name": "Bota Pra Tocar Tim Maia",
         "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 222577,
       "name": "Bota Pra Tocar Tim Maia",
       "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "added_at": "2022-11-04 14:07:59",
+      "album": {
+        "name": "Desastre Solar",
+        "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
+      },
+      "artists": [
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Deixa Acontecer",
+      "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
     },
     {
       "added_at": "2022-11-04 14:07:59",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-11-04 14:07:59",
       "album": {
+        "name": "Carinhoso",
+        "url": "https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 265557,
+      "name": "Carinhoso",
+      "url": "https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE"
+    },
+    {
+      "added_at": "2022-11-04 14:07:59",
+      "album": {
         "name": "AMAR \u00e9 para os FORTES",
         "url": "https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 254200,
       "name": "DEPOIS DA TEMPESTADE}",
       "url": "https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN"
-    },
-    {
-      "added_at": "2022-11-04 14:07:59",
-      "album": {
-        "name": "Carinhoso",
-        "url": "https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 265557,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE"
     },
     {
       "added_at": "2022-11-04 14:07:59",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-11-04 14:07:59",
       "album": {
-        "name": "ZAM ZAM",
-        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 212433,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
-    },
-    {
-      "added_at": "2022-11-04 14:07:59",
-      "album": {
         "name": "O amor te d\u00e1",
         "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 247812,
       "name": "O amor te d\u00e1",
       "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
+    },
+    {
+      "added_at": "2022-11-04 14:07:59",
+      "album": {
+        "name": "ZAM ZAM",
+        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 212433,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
     },
     {
       "added_at": "2022-11-04 14:07:59",

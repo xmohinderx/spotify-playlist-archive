@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Jim Legxacy",
-  "num_followers": 128983,
+  "num_followers": 129017,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMDI5OGYyMTkxOTgyMTNkNDg4ZWJiNzNjYjlmNTdlMGQx",
+  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMGQ2YTlhMjRjYjBmMDkzOGJmMTQ5YTNmODk3YWJlMzE5",
   "tracks": [
     {
       "added_at": "2022-10-23 19:19:20",
@@ -155,26 +155,18 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Gravity (feat. Tyler, The Creator)",
-        "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
+        "name": "Local Mvp",
+        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "DJ Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
         }
       ],
-      "duration_ms": 214692,
-      "name": "Gravity (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
+      "duration_ms": 158000,
+      "name": "Stylin'",
+      "url": "https://open.spotify.com/track/0SLE0Ym3WhxfHSDR7Qd5pf"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -211,18 +203,26 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Local Mvp",
-        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
+        "name": "Gravity (feat. Tyler, The Creator)",
+        "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
       },
       "artists": [
         {
-          "name": "Saint\u00e9",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "DJ Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Stylin'",
-      "url": "https://open.spotify.com/track/0SLE0Ym3WhxfHSDR7Qd5pf"
+      "duration_ms": 214692,
+      "name": "Gravity (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "The Mantra (Heat in the Street Freestyle)",
-        "url": "https://open.spotify.com/album/3dZaDT52KPLtRFvt7xs3AD"
-      },
-      "artists": [
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 97714,
-      "name": "The Mantra - Heat in the Street Freestyle",
-      "url": "https://open.spotify.com/track/58E4qtpkOmMqbJxHM1dm6I"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
         "name": "F.U.C.K.",
         "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 205373,
       "name": "F.U.C.K.",
       "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 248817,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -479,18 +479,18 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Happy Ending",
-        "url": "https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL"
+        "name": "The Mantra (Heat in the Street Freestyle)",
+        "url": "https://open.spotify.com/album/3dZaDT52KPLtRFvt7xs3AD"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 248817,
-      "name": "Happy Ending",
-      "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
+      "duration_ms": 97714,
+      "name": "The Mantra - Heat in the Street Freestyle",
+      "url": "https://open.spotify.com/track/58E4qtpkOmMqbJxHM1dm6I"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Leon the Professional",
-        "url": "https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l"
+        "name": "NO BONNIE N CLYDE",
+        "url": "https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm"
       },
       "artists": [
         {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
         }
       ],
-      "duration_ms": 181200,
-      "name": "Leon the Professional",
-      "url": "https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN"
+      "duration_ms": 133400,
+      "name": "NO BONNIE N CLYDE",
+      "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "NO BONNIE N CLYDE",
-        "url": "https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm"
-      },
-      "artists": [
-        {
-          "name": "KAHUKX",
-          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
-        }
-      ],
-      "duration_ms": 133400,
-      "name": "NO BONNIE N CLYDE",
-      "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
         "name": "Eye for an Eye",
         "url": "https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7"
       },
@@ -579,22 +563,6 @@
       "duration_ms": 250434,
       "name": "Eye for an Eye",
       "url": "https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Ebbs and Flows",
-        "url": "https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 199658,
-      "name": "Ebbs and Flows",
-      "url": "https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -615,34 +583,34 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "All My Girls Like To Fight",
-        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
+        "name": "Ebbs and Flows",
+        "url": "https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v"
       },
       "artists": [
         {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
         }
       ],
-      "duration_ms": 232712,
-      "name": "All My Girls Like To Fight",
-      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
+      "duration_ms": 199658,
+      "name": "Ebbs and Flows",
+      "url": "https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f"
     },
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Big Fat Liar",
-        "url": "https://open.spotify.com/album/79Ls4iSOgSuuLoYn0wJmDt"
+        "name": "Leon the Professional",
+        "url": "https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l"
       },
       "artists": [
         {
-          "name": "Monjola",
-          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 171183,
-      "name": "Big Fat Liar",
-      "url": "https://open.spotify.com/track/0zMulZKhUroYHauRqdp9j3"
+      "duration_ms": 181200,
+      "name": "Leon the Professional",
+      "url": "https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -667,18 +635,34 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Rainforest",
-        "url": "https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb"
+        "name": "Big Fat Liar",
+        "url": "https://open.spotify.com/album/79Ls4iSOgSuuLoYn0wJmDt"
       },
       "artists": [
         {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+          "name": "Monjola",
+          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
         }
       ],
-      "duration_ms": 162436,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk"
+      "duration_ms": 171183,
+      "name": "Big Fat Liar",
+      "url": "https://open.spotify.com/track/0zMulZKhUroYHauRqdp9j3"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "All My Girls Like To Fight",
+        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 232712,
+      "name": "All My Girls Like To Fight",
+      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -699,6 +683,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
+        "name": "Rainforest",
+        "url": "https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 162436,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
         "name": "Often",
         "url": "https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx"
       },
@@ -711,42 +711,6 @@
       "duration_ms": 135450,
       "name": "Often",
       "url": "https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Girl Eats Sun",
-        "url": "https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 183769,
-      "name": "Cherries",
-      "url": "https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Get Inspired",
-        "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 173152,
-      "name": "Get Inspired",
-      "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -775,6 +739,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
+        "name": "Get Inspired",
+        "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 173152,
+      "name": "Get Inspired",
+      "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
         "name": "Ke Star (Remix)",
         "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 328766,
       "name": "Ke Star - Remix",
       "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Girl Eats Sun",
+        "url": "https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 183769,
+      "name": "Cherries",
+      "url": "https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -973,7 +973,7 @@
       "url": "https://open.spotify.com/track/5bdNxTwJXOD9Pn4lieRapv"
     },
     {
-      "added_at": "2022-11-07 01:33:41",
+      "added_at": "2022-11-08 01:33:58",
       "album": {
         "name": "Love is a Lottery",
         "url": "https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ"
@@ -1007,6 +1007,26 @@
       "duration_ms": 158219,
       "name": "In Disguise (feat. Bakar)",
       "url": "https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -1059,26 +1079,6 @@
       "duration_ms": 165306,
       "name": "Sometimes I Feel Like A Motherless Child",
       "url": "https://open.spotify.com/track/0ZbsKlIZ1LBXEmCJOaO3pO"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Send Them To Coventry",
-        "url": "https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "Energy (feat. Mahalia)",
-      "url": "https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd"
     }
   ],
   "unique_name": "Free Form",

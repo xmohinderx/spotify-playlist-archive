@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Bardero$.
 
-170 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
+171 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ahora Corren](https://open.spotify.com/track/0frbDonZlnjEaxKnPKclb3) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm), [Chulu](https://open.spotify.com/artist/1VAc90Avnm4J5j2cYu5RVB) | [Inmortales](https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV) | 4:07 | 2022-02-18 |  |
 | [Ahora Me Toca a Mi](https://open.spotify.com/track/7jMqM4CMNu2JFRXs2xHfOt) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [Ahora Me Toca a Mi](https://open.spotify.com/album/1wAIdJeAqWrXhcaHAMykLM) | 2:16 | 2022-04-11 |  |
 | [Al Carajo](https://open.spotify.com/track/0aknicrrnbPQdPVZu5Gqcl) | [Z\-K](https://open.spotify.com/artist/3jiJNFG8hFkUJIdT7lmZkt), [Sank](https://open.spotify.com/artist/32LjNiBb4gbeytSXy4hBGB) | [Al Carajo](https://open.spotify.com/album/2j71a8nlO5czcb23AYaP9d) | 3:31 | 2021-11-26 |  |
+| [Alas Rotas](https://open.spotify.com/track/4BjBOHYl0ySaVyfGMrAnWc) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp) | [Alas Rotas](https://open.spotify.com/album/6Zii4FrSvlwpqI984JXuHI) | 2:16 | 2022-11-07 |  |
 | [Alcoholicos Anonimos](https://open.spotify.com/track/0IjzvAj0CKu4oqsi8NCGhr) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [Inmortal Vol\. 2](https://open.spotify.com/album/19EpErKzX0ngeTXDH7hPbx) | 4:03 | 2021-11-26 | 2022-03-12 |
 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 | 2022-04-11 |  |
 | [Aquella Noche](https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Inmortales](https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV) | 3:10 | 2022-04-11 |  |
@@ -113,7 +114,7 @@
 | [Me Fascina](https://open.spotify.com/track/01sNSCB2YkncNVss6Ob9Pt) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Me Fascina](https://open.spotify.com/album/0pXK80ZNgKd57X5KWK29eg) | 2:56 | 2021-11-26 | 2022-04-12 |
 | [Me Gusta Lo Simple](https://open.spotify.com/track/3VJSv1RoYiCY4ECGyDO7ry) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 3:16 | 2021-11-26 |  |
 | [Me Inspiré](https://open.spotify.com/track/0H2sIpkNJRshjFZubiJ5lY) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [3000](https://open.spotify.com/album/21ahQhM0f44r2sUnf7saMD) | 3:22 | 2022-07-29 |  |
-| [Me Persigue](https://open.spotify.com/track/4Eaw8RLQsfYSMGPbuu0xZj) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Me Persigue](https://open.spotify.com/album/1kHi5vEAOoZrwV7TdptU7q) | 3:00 | 2022-08-05 |  |
+| [Me Persigue](https://open.spotify.com/track/4Eaw8RLQsfYSMGPbuu0xZj) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Me Persigue](https://open.spotify.com/album/1kHi5vEAOoZrwV7TdptU7q) | 3:00 | 2022-08-05 | 2022-11-08 |
 | [Me Sueltan los Angeles](https://open.spotify.com/track/3MtToQhywGW6Q98cYcHYN1) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Me Sueltan los Ángeles](https://open.spotify.com/album/1n9DVp6idZvlp6qGlat1Rp) | 3:24 | 2022-06-10 |  |
 | [Me Sueltan Los Ángeles](https://open.spotify.com/track/3tM6ndsUT88wEO0tX0I8AR) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Me Sueltan Los Ángeles](https://open.spotify.com/album/71zv2vayOQx9OuuoTR9gPP) | 3:24 | 2021-11-26 | 2022-07-29 |
 | [MELÓN VINO](https://open.spotify.com/track/7xQgtdHA1NHFTmomE2XHhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MELÓN VINO](https://open.spotify.com/album/642DHM5L0ZjQZYGPKELOqN) | 2:56 | 2021-11-26 |  |

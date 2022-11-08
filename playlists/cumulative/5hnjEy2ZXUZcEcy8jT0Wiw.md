@@ -4,7 +4,7 @@
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-341 songs - 23 hr 51 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
+342 songs - 23 hr 56 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Loma Prieta](https://open.spotify.com/track/6oU1hPVcQcOvpiUCJA7a7v) | [LordNikon](https://open.spotify.com/artist/4BnrlrGNPLJ3KbvViKLTct) | [Loma Prieta](https://open.spotify.com/album/2wKIqSakPfvc0IknjCovE3) | 4:14 | 2020-05-20 |  |
 | [Lone Wolf](https://open.spotify.com/track/3OqNuZoAQI6PeZBOdke38c) | [Terrordyne](https://open.spotify.com/artist/6P5GUtpISiShk3WnsCrABy) | [Wrong Turn](https://open.spotify.com/album/2dxRgBjpEva2JX1jlf8Zgy) | 3:48 | 2020-12-07\* | 2020-12-13 |
 | [Lonely Earth](https://open.spotify.com/track/3E171f5u92cVbLmSX7g2Ka) | [Icarus](https://open.spotify.com/artist/17IDrizGUiveZm4P77Kkio) | [Lonely Earth](https://open.spotify.com/album/76TEKr1P60uUkKe4uml0TI) | 5:09 | 2019-07-22 |  |
+| [Lost in the City](https://open.spotify.com/track/1pp2MCCJ7B3t1faACIdKPN) | [Fighter Jets](https://open.spotify.com/artist/6kzcQB6tyfyVIwnwoWV7vH) | [Not Being Dead Is Pretty Sweet](https://open.spotify.com/album/3ckpiFKbVV5uWKk4m3cHDd) | 4:39 | 2022-11-07 |  |
 | [Love Song for a Replicant](https://open.spotify.com/track/3xLxPTdTGeHCsoUMvv5ZI8) | [The Goondock Saint](https://open.spotify.com/artist/79qUhH9vLHC84KOwNB3xNp) | [Love Song for a Replicant](https://open.spotify.com/album/0QceXgAzM1gNZV0pU8c2Sq) | 6:44 | 2019-07-15 |  |
 | [Magnatron Engaged](https://open.spotify.com/track/52xeom8gqH8s3WRtARlF3k) | [Absolute Valentine](https://open.spotify.com/artist/0ntJWEv4bwPUp16SabEbKM) | [Magnatron Engaged](https://open.spotify.com/album/3ILkH5ZVKysWlfmaiyN9mL) | 3:13 | 2020-08-14 |  |
 | [march of the goombas](https://open.spotify.com/track/43NkeFV8Di5WplEBnsUGFX) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [pretty warp machine](https://open.spotify.com/album/71o5I71H5VtESwvmhIywo7) | 4:25 | 2022-05-26 |  |

@@ -4,7 +4,7 @@
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-137 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/0ORcVEhvSZghh7zSPbWGd2)
+138 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/0ORcVEhvSZghh7zSPbWGd2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [I Don't Want To Go To Mars](https://open.spotify.com/track/7mL4Sk66p0Hf9q6dkOt4UR) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [I Don't Want To Go To Mars](https://open.spotify.com/album/6GjlSsOUUl1VlspqO2Vw9U) | 4:37 | 2022-01-14 | 2022-07-29 |
 | [Identical \- From The Motion Picture "On The Rocks"](https://open.spotify.com/track/4tZwZVNhVCeBQYQtgQN5vW) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Identical \(From The Motion Picture "On The Rocks"\)](https://open.spotify.com/album/139j4SM1xPPfS0dhGcrTvd) | 3:13 | 2021-07-27 | 2022-07-27 |
 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/3LQDkH5zNQ4x0UUsmH4zkj) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 2:49 | 2022-02-04 | 2022-11-03 |
+| [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 2:49 | 2022-02-04 |  |
 | [If You Ever Leave, I'm Coming With You](https://open.spotify.com/track/6h6chJ3TzYA811yH4ewNeX) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not The World](https://open.spotify.com/album/50hkPbORARa25Wv8h0E1i7) | 2:49 | 2022-01-14 | 2022-07-29 |
 | [Impossible](https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible](https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq) | 4:08 | 2021-07-27 | 2022-11-04 |
 | [Inside Out](https://open.spotify.com/track/4BNs4huwF1Vmdin9lEPOOS) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:28 | 2021-07-27 | 2022-07-29 |
@@ -98,7 +99,7 @@
 | [Preach](https://open.spotify.com/track/2mAlil0VCzglcu4t1dALfN) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Preach](https://open.spotify.com/album/26EBjKTpGv7b9UczhXxFUe) | 3:04 | 2021-07-27 | 2022-07-29 |
 | [Preach](https://open.spotify.com/track/4wxTn03zuXvkQwNvI6oHyF) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack](https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe) | 3:04 | 2022-02-04 |  |
 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 | 2021-07-27 | 2022-05-20 |
-| [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2022-02-04 |  |
+| [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2022-02-04 | 2022-11-08 |
 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 | 2022-02-04 |  |
 | [Real Long Time](https://open.spotify.com/track/3XJWtFxgZdEn1pyFlirO1l) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [You Deserve Love](https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR) | 3:17 | 2021-07-27 | 2022-07-29 |
 | [Real Love Song](https://open.spotify.com/track/1Bjt6Q7U4jE5OPIZaEaDo4) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Real Love Song](https://open.spotify.com/album/4o4MWlEeDP3lxRreejFKpa) | 3:42 | 2021-07-27 |  |

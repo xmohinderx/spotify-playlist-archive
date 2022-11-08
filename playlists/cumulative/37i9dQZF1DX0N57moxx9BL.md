@@ -4,7 +4,7 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Stryper
 
-123 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
+124 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Eyes](https://open.spotify.com/track/7GGSilkl7QJVN1Ovb6WpFm) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV), [4th Point](https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL) | [Eyes](https://open.spotify.com/album/3K6EYMi8bDzCPs7tk5MXUM) | 4:55 | 2021-05-28 | 2022-03-12 |
 | [Fame](https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy), [Ryan Kirby](https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 3:57 | 2021-05-28 |  |
 | [Familiar Shadows](https://open.spotify.com/track/49DeQeEXxSm9IgQraS6VcV) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Familiar Shadows](https://open.spotify.com/album/55nqt1kWFFIhWdhFlQvLj0) | 3:46 | 2021-05-28 | 2022-01-15 |
-| [Fear](https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm) | 3:45 | 2022-03-11 |  |
+| [Fear](https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm) | 3:45 | 2022-03-11 | 2022-11-08 |
 | [Fear](https://open.spotify.com/track/26VRGLG9WTk8GjTnxSjuLH) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5SQnp6ujMnSkSCOQg2g0PV) | 3:45 | 2021-05-28 | 2022-10-13 |
 | [Feel](https://open.spotify.com/track/4Zi1CrhsOZdeg4RB9GeVXB) | [House of Heroes](https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB) | [Colors](https://open.spotify.com/album/7lEzSWasG7XYYuWGjXJpXs) | 3:20 | 2021-05-28 | 2022-07-29 |
 | [Feel](https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK) | [House of Heroes](https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB) | [Colors](https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I) | 3:20 | 2022-03-11 |  |
@@ -74,13 +74,14 @@
 | [Louder Than a Lion](https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT) | [Eisley](https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg) | [I'm Only Dreaming](https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP) | 3:56 | 2021-05-28 |  |
 | [Lower East Side](https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl) | 3:31 | 2022-03-11 |  |
 | [Lower East Side](https://open.spotify.com/track/3UzWO1IScDGFfdz5pYLsCB) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/2NkJ9lEGNMiqftqoyjO80G) | 3:31 | 2021-05-28 | 2022-07-29 |
-| [Melancholy Machines](https://open.spotify.com/track/1vc8iLHZV9S9q5qZ0vz6t3) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/5UmDBwQy39y8Hs8CUvR8c4) | 4:20 | 2022-01-14 | 2022-11-06 |
+| [Melancholy Machines](https://open.spotify.com/track/1vc8iLHZV9S9q5qZ0vz6t3) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/5UmDBwQy39y8Hs8CUvR8c4) | 4:20 | 2022-01-14 |  |
 | [Mirror Mirror](https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x) | [Random Hero](https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA) | [The Covering](https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP) | 3:26 | 2021-05-28 |  |
 | [Never Alone](https://open.spotify.com/track/2izXDYooH01TTikKosMVMO) | [Hands of Elohim](https://open.spotify.com/artist/6yWjkrrWKs3EeiokpjkkwE) | [Never Alone](https://open.spotify.com/album/39W89R47qvXP9qbvKzcJu0) | 3:26 | 2021-05-28 | 2022-10-30 |
 | [No Altars](https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [No Altars](https://open.spotify.com/album/4wuEPH40N55PRNsTPO7Kb9) | 3:29 | 2022-01-14 |  |
 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 | 2022-01-14 |  |
 | [Not Dead Yet](https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF) | [LEDGER](https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3) | [Not Dead Yet](https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO) | 3:36 | 2021-05-28 |  |
 | [On Becoming Willing](https://open.spotify.com/track/1ULg0fndzG1Xmicwm8dT0u) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [The Awakening](https://open.spotify.com/album/3JEASvlJsm2J6vSKrYRxJv) | 2:44 | 2021-05-28 |  |
+| [Opiate](https://open.spotify.com/track/5Tfq3xa8iVzAayJwSGmMD3) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Opiate](https://open.spotify.com/album/2KnkZlYUmqvTafO8IOkCai) | 4:09 | 2022-10-29 |  |
 | [Panic Room](https://open.spotify.com/track/2NP0xYz37JZZiBwBFDDhgM) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/6lcb1LKEbn5HF9Q6N9rOEY) | 4:29 | 2021-05-28 | 2022-07-29 |
 | [Panic Room \(featuring Andrew Schwab\)](https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM) | 4:29 | 2022-03-11 |  |
 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 | 2022-03-11 |  |
@@ -117,7 +118,7 @@
 | [Transgressor](https://open.spotify.com/track/7wcLpVs8r53wwNyHsoGIpH) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Transgressor](https://open.spotify.com/album/2EZ73ukSfYcB9vURLEB4Vl) | 4:25 | 2022-10-29 |  |
 | [Undefeated](https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK) | 3:06 | 2022-10-29 |  |
 | [Vice](https://open.spotify.com/track/4ou4cASYUalgtmw8A0tbyD) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Vice](https://open.spotify.com/album/0FjbxhgXFOBqrHxPXTjFYu) | 4:46 | 2022-10-29 |  |
-| [Voices](https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Death Stare](https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i) | 4:08 | 2022-01-14 |  |
+| [Voices](https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Death Stare](https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i) | 4:08 | 2022-01-14 | 2022-11-08 |
 | [Way You Love Me](https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW) | [XXI](https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C) | [Inside Out](https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW) | 3:53 | 2022-03-11 |  |
 | [Way You Love Me](https://open.spotify.com/track/7hJtAHrevoIBIJFKvs23gn) | [XXI](https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C) | [Inside Out](https://open.spotify.com/album/5uWqsBukvP6JMHqeI7F0ME) | 3:53 | 2021-05-28 | 2022-07-29 |
 | [We Never Die](https://open.spotify.com/track/1ijexAIjC5jtGueYwc0QGP) | [Paradise Now](https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB) | [We Never Die](https://open.spotify.com/album/6iLplDNjwVvSEAo7meGzet) | 3:35 | 2022-01-14 | 2022-10-30 |

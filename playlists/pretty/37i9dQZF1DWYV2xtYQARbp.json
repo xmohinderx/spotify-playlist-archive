@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 8358,
+  "num_followers": 8371,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDhjZGQ1MTAyYTgwNTg3YzY3NDc0NTZhMTMyODBiYTM4",
+  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDAwMmMyMTQ3MWFkMmQ0MGUzNjhmMTdhNDYxYTgxM2Y5",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "All You Can Eat!!",
-        "url": "https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH"
-      },
-      "artists": [
-        {
-          "name": "Left Lane Cruiser",
-          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Crackalacka",
-      "url": "https://open.spotify.com/track/7hOazEoGmlZrK63w6wMMwA"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Ultraglide In Black",
         "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
       },
@@ -171,22 +155,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 177546,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Psychedelic Jungle",
         "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
       },
@@ -203,18 +171,34 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Moanin'",
-        "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
+        "name": "All You Can Eat!!",
+        "url": "https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH"
       },
       "artists": [
         {
-          "name": "Mr. Airplane Man",
-          "url": "https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP"
+          "name": "Left Lane Cruiser",
+          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
         }
       ],
-      "duration_ms": 210233,
-      "name": "Commit a Crime",
-      "url": "https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ"
+      "duration_ms": 237173,
+      "name": "Crackalacka",
+      "url": "https://open.spotify.com/track/7hOazEoGmlZrK63w6wMMwA"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -231,6 +215,22 @@
       "duration_ms": 232626,
       "name": "Nitroglycerine",
       "url": "https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Moanin'",
+        "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
+      },
+      "artists": [
+        {
+          "name": "Mr. Airplane Man",
+          "url": "https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP"
+        }
+      ],
+      "duration_ms": 210233,
+      "name": "Commit a Crime",
+      "url": "https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 160506,
+      "name": "The Way I Walk",
+      "url": "https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Junkyard",
         "url": "https://open.spotify.com/album/1JfIRGXDOQFlP1OGWzmvL5"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 160506,
-      "name": "The Way I Walk",
-      "url": "https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Orange",
         "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 154933,
       "name": "Ditch",
       "url": "https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Thunderbird ESQ",
+      "url": "https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -379,22 +395,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Thunderbird ESQ",
-      "url": "https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Fire of Love (Remastered 2020)",
         "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 157995,
       "name": "Promise Me - Remastered 2020",
       "url": "https://open.spotify.com/track/620oK7tMifgGBddA6gsGli"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
-      },
-      "artists": [
-        {
-          "name": "The Jon Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -491,22 +475,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Sedition",
         "url": "https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv"
       },
@@ -519,6 +487,38 @@
       "duration_ms": 319546,
       "name": "Swampland",
       "url": "https://open.spotify.com/track/0B8EFxR3GfhAOhrkdh9GJM"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
+      },
+      "artists": [
+        {
+          "name": "The Jon Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Broad Appeal",
-        "url": "https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx"
+        "name": "Thee Caesars of Trash",
+        "url": "https://open.spotify.com/album/6r3Wz5pboOCUUzSkfx0tRW"
       },
       "artists": [
         {
-          "name": "The Hentchmen",
-          "url": "https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh"
+          "name": "Thee Mighty Caesars",
+          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
         }
       ],
-      "duration_ms": 130000,
-      "name": "Michigan Blues",
-      "url": "https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP"
+      "duration_ms": 161426,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/50iSEtsLN8e4HIb3uVBwJC"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Thee Caesars of Trash",
-        "url": "https://open.spotify.com/album/6r3Wz5pboOCUUzSkfx0tRW"
+        "name": "Broad Appeal",
+        "url": "https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx"
       },
       "artists": [
         {
-          "name": "Thee Mighty Caesars",
-          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
+          "name": "The Hentchmen",
+          "url": "https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh"
         }
       ],
-      "duration_ms": 161426,
-      "name": "Oh Yeah",
-      "url": "https://open.spotify.com/track/50iSEtsLN8e4HIb3uVBwJC"
+      "duration_ms": 130000,
+      "name": "Michigan Blues",
+      "url": "https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP"
     },
     {
       "added_at": "2022-03-28 20:14:58",

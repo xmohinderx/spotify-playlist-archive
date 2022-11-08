@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
 
-221 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
+222 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 | 2022-06-03 |  |
 | [Amsterdam \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:13 | 2021-12-13 | 2022-07-29 |
 | [Anthems For A Seventeen Year Old Girl](https://open.spotify.com/track/4theWoXNBRcNzY43Mwdl7V) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Anthems For A Seventeen Year Old Girl](https://open.spotify.com/album/4myEpnMud7cUNDPdHgfBws) | 3:20 | 2021-12-13 | 2022-07-29 |
+| [Anti\-Hero \(Country Version\)](https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Anti\-Hero \(Country Version\)](https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW) | 3:10 | 2022-11-07 |  |
 | [As I Rise](https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [As I Rise](https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG) | 2:20 | 2021-12-13 |  |
 | [Be My Husband](https://open.spotify.com/track/3mDIyXDpODxsvDkl9hjd3F) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Be My Husband](https://open.spotify.com/album/2Gq96YRzLTK7rqDVigJQ9y) | 3:13 | 2021-12-13 | 2022-07-25 |
 | [Be My Husband](https://open.spotify.com/track/4s5UbAMOlM8LtCzrLa3wkf) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Crossing Muddy Waters / Be My Husband](https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO) | 3:15 | 2022-06-03 | 2022-09-30 |
@@ -193,7 +194,7 @@
 | [The Boxer](https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [The Boxer](https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI) | 2:31 | 2021-12-13 |  |
 | [The Boxer](https://open.spotify.com/track/0YlUnqnC63U8hRGOkDDHie) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/5uJpRBjDkTW8wtwDimhkdm) | 4:05 | 2021-12-13 | 2022-07-29 |
 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 | 2022-06-03 |  |
-| [The Circle Game \- 2008 Remaster](https://open.spotify.com/track/0TTg0rW47heYyrLO7fA2ey) | [Tom Rush](https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp) | [The Circle Game \[Expanded & Remastered\]](https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm) | 5:17 | 2021-12-13 |  |
+| [The Circle Game \- 2008 Remaster](https://open.spotify.com/track/0TTg0rW47heYyrLO7fA2ey) | [Tom Rush](https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp) | [The Circle Game \[Expanded & Remastered\]](https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm) | 5:17 | 2021-12-13 | 2022-11-08 |
 | [The Magdalene Laundries \- Live](https://open.spotify.com/track/4qsIbaQwO21YkUMmJk37cW) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Joni 75: A Joni Mitchell Birthday Celebration \(Live\)](https://open.spotify.com/album/1YTSVDA02Rm7YKZkxQrQYY) | 4:25 | 2021-12-13 | 2022-07-27 |
 | [The Middle](https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [The Middle](https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW) | 3:43 | 2021-12-13 |  |
 | [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 | 2021-12-13 |  |

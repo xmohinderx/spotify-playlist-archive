@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Eyedress
 
-324 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+325 songs - 17 hr 24 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 | 2020-10-27\* |  |
 | [Raw](https://open.spotify.com/track/4Ot0dM7CB4gr9hVu6Hos3Z) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Raw](https://open.spotify.com/album/4AICfwXPPvRKBzEaUuO32e) | 3:37 | 2021-04-02 | 2022-07-12 |
 | [Real](https://open.spotify.com/track/6JA93Y4aUHtzZyuxCGOhSm) | [Chelou](https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq) | [Real](https://open.spotify.com/album/3LDD22obHHlYlxtBlUnj2h) | 3:46 | 2020-10-27\* | 2022-07-29 |
+| [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 | 2022-09-13 |  |
 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 | 2020-12-11 | 2022-07-27 |
 | [Red Rag To A Bull](https://open.spotify.com/track/3v9dcSB3xTGLoQ7vwdr3I5) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [Red Rag To A Bull](https://open.spotify.com/album/7gh3pCCd0TDhLm25VAKlIN) | 2:36 | 2021-10-11 | 2022-04-20 |
 | [Red Stone](https://open.spotify.com/track/68uXJTiiZfSKL2KQrowXAL) | [Ed Dowie](https://open.spotify.com/artist/5fVWsyYSseyTctaZKbzYb5) | [Red Stone](https://open.spotify.com/album/1pLCw41U8oSFSIC37fsi00) | 4:14 | 2021-03-06 | 2022-04-21 |
@@ -257,7 +258,7 @@
 | [Seaface](https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 3:39 | 2021-09-24 |  |
 | [Self Aware](https://open.spotify.com/track/4D7eFxcPYWqHQ7iyD2oiDp) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Self Aware](https://open.spotify.com/album/1sMcnA8gffc6mlU2Ez7ynd) | 4:46 | 2020-10-27\* | 2020-10-30 |
 | [Semolina](https://open.spotify.com/track/6vjz5weAmyNgRWdLE6TKln) | [Blackaby](https://open.spotify.com/artist/1Wo9pV7JNPzVzDbVbPJQwE) | [Semolina](https://open.spotify.com/album/6nX8TqbKoYgrjWui1j6QEx) | 3:28 | 2020-10-27\* | 2022-07-29 |
-| [Shame](https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Shame](https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L) | 4:57 | 2022-03-30 |  |
+| [Shame](https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Shame](https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L) | 4:57 | 2022-03-30 | 2022-11-08 |
 | [She'll Play Heck](https://open.spotify.com/track/6LoWmFCmGYEyz5BRsEv9SF) | [VALA](https://open.spotify.com/artist/26tcWRMjTwUJks8fvo4JIs) | [She'll Play Heck](https://open.spotify.com/album/6xyJE3ChVeKIKSJBL8qCrR) | 3:35 | 2020-10-30 | 2022-07-09 |
 | [Sink In](https://open.spotify.com/track/15PpjH9dNPSZrEaAw2M3Np) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Sink In](https://open.spotify.com/album/4B96zJ2Iam0bCgntIJEO6E) | 3:57 | 2021-05-21 | 2022-04-20 |
 | [Sinking](https://open.spotify.com/track/4Z4dOZKs9rQuhuSSlLGY99) | [Lazy Days](https://open.spotify.com/artist/5FGn2Rme0MBoLoWvh6zKp7) | [Sinking](https://open.spotify.com/album/3jHCMgLxcachy9KxKabFSC) | 1:48 | 2021-04-02 | 2022-04-21 |

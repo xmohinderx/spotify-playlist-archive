@@ -4,7 +4,7 @@
 
 > Il meglio del jazz italiano, in una selezione speciale a cura degli <a href="spotify:artist:1rWbZmR5D63aZU60lMtVZx">Studio Murena</a>.
 
-153 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/4ci8LwC6vBaMAmVvAWXsOb)
+154 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/4ci8LwC6vBaMAmVvAWXsOb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Clouds](https://open.spotify.com/track/10I2bf5nDphrLZOOVBqLSc) | [Pulsar Ensemble](https://open.spotify.com/artist/2cxXNzj4eZVVBVXCjLpfRJ) | [Bizarre City](https://open.spotify.com/album/5U4aIqg68PwGMfwm73CFFG) | 2:13 | 2022-11-02 |  |
 | [Come \- Di](https://open.spotify.com/track/3J8ZG8iS0AjctaEvplLRCK) | [Paolo Conte](https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI) | [Zazzarazàz \- Uno Spettacolo D'arte Varia \(Deluxe\)](https://open.spotify.com/album/27Z6mdIhCmLKgrs13yp19s) | 4:05 | 2022-08-31 | 2022-10-01 |
 | [Come un ritratto](https://open.spotify.com/track/1xD323f4XEBlW1lfOeKtts) | [Maria Pia De Vito](https://open.spotify.com/artist/2WdJBOMuv70FribaCLT5vE), [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ) | [Nauplia](https://open.spotify.com/album/0kOi2BR2cvfhtqBi7e7CqR) | 4:08 | 2022-09-30 | 2022-11-03 |
+| [CORRI](https://open.spotify.com/track/4neBNkqlzqkJRsuUpte3Fp) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx) | [CORRI](https://open.spotify.com/album/1N1byTuOKyJu0IHiwaoLLP) | 3:54 | 2022-11-07 |  |
 | [Cosa sono le nuvole](https://open.spotify.com/track/61SnBLkaNJcvOeaUggBVhz) | [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ), [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0) | [La Strada Invisibile](https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD) | 2:38 | 2022-08-31 | 2022-10-01 |
 | [Cuore in tasca](https://open.spotify.com/track/1zmMID6WpD1RB6BuyVGBxs) | [Chiara Civello](https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk) | [Eclipse](https://open.spotify.com/album/1Qin2IvNiligQet7TAhnJZ) | 4:25 | 2022-09-30 | 2022-11-03 |
 | [D'Improvviso](https://open.spotify.com/track/2aco8Ba7NUEtHYRHN3ZhYd) | [Rosalia De Souza](https://open.spotify.com/artist/4UK7ZwlNiYWVFeATAQian1) | [D'Improvviso](https://open.spotify.com/album/5uMkplQohrSjoclLGmLpTe) | 3:08 | 2022-09-30 | 2022-11-03 |
@@ -154,7 +155,7 @@
 | [Una Carezza In Un Pugno](https://open.spotify.com/track/1QPMxjPk99fQGDBDWE722j) | [Musica Nuda](https://open.spotify.com/artist/4SCNBobp8MbdOHco1VRiPc) | [55/21](https://open.spotify.com/album/1LDNzuZkMVkUGfMfshgFVh) | 2:56 | 2022-08-31 | 2022-10-01 |
 | [Via di uscita](https://open.spotify.com/track/6a4MlOyKbaaQi6o0IaONKn) | [Gabriele Compare](https://open.spotify.com/artist/6L1R2AYjhqopsern2zXhnI), [Gianluca zanello](https://open.spotify.com/artist/008p3ld88wCLTf7wQJ4AoI), [Valerio Scrignoli](https://open.spotify.com/artist/096rQ5nlOUUAjSzVVlluil), [Marco Falcon](https://open.spotify.com/artist/4QCrg6LSt3jaQ9eD4dIEdE) | [La bambina e il trapezista](https://open.spotify.com/album/5yg8TJ5OUVsbUbnmwWWZU7) | 2:26 | 2022-11-02 |  |
 | [Vola lontano](https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q) | [Ivan Segreto](https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19) | [Fidate Correnti](https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc) | 3:51 | 2022-08-31 | 2022-10-01 |
-| [Vuoto Testamento](https://open.spotify.com/track/6ExH19W4bKJjEBm8hJKfPM) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx) | [Studio Murena](https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8) | 4:58 | 2022-11-02 |  |
+| [Vuoto Testamento](https://open.spotify.com/track/6ExH19W4bKJjEBm8hJKfPM) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx) | [Studio Murena](https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8) | 4:58 | 2022-11-02 | 2022-11-08 |
 | [What Is Inside / Himeros](https://open.spotify.com/track/2D6d5d3HMrff4z8sAVHJBr) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Omar Sosa](https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Eros](https://open.spotify.com/album/33etMZVrNXc989ByzH0rlu) | 5:37 | 2022-09-30 | 2022-11-03 |
 | [When the Glimpses are True \- feat\. Logan Richardson, Peter Wilson](https://open.spotify.com/track/0bqTEAffuz1uSJaSJSZBLR) | [Michelangelo Scandroglio](https://open.spotify.com/artist/72Z4tAXXYHocMPutumKEwq) | [In the Eyes of the Whale](https://open.spotify.com/album/3UHWBfnOeU7pyX7hylXVU9) | 9:01 | 2022-11-02 |  |
 | [Yellowblack](https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Yellowblack](https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx) | 2:34 | 2022-11-02 |  |

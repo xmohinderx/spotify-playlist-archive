@@ -706,6 +706,24 @@
     },
     {
       "album": {
+        "name": "concussion",
+        "url": "https://open.spotify.com/album/7uXoid8zeG7Wgk71kjveo4"
+      },
+      "artists": [
+        {
+          "name": "southernwade",
+          "url": "https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178289,
+      "name": "concussion",
+      "url": "https://open.spotify.com/track/4A6kIX7Rvw7xZRbc4Sqb4q"
+    },
+    {
+      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 185644,
       "name": "Fly Fly Fly",
       "url": "https://open.spotify.com/track/2LLIuyj3LwG7pAoEa5nRwC"
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 199538,
       "name": "Freeway",
       "url": "https://open.spotify.com/track/2GfkYe0wCV0Rq9ri81Jo9e"
@@ -1063,6 +1081,24 @@
       "duration_ms": 222680,
       "name": "GUY.exe",
       "url": "https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P"
+    },
+    {
+      "album": {
+        "name": "From Mexico with Love",
+        "url": "https://open.spotify.com/album/3qSSoMApIWkXTmCn4IaC30"
+      },
+      "artists": [
+        {
+          "name": "Last Dinosaurs",
+          "url": "https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208101,
+      "name": "Hanson Ghost",
+      "url": "https://open.spotify.com/track/5aCELTcNE4OSg0bLEhNfLc"
     },
     {
       "album": {
@@ -1562,6 +1598,24 @@
     },
     {
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286061,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q"
+    },
+    {
+      "album": {
         "name": "Alyn",
         "url": "https://open.spotify.com/album/2CViWGevIoTpyB1WwIua6d"
       },
@@ -1835,6 +1889,24 @@
       "duration_ms": 176460,
       "name": "My Oh My",
       "url": "https://open.spotify.com/track/3aKNonAXtkjbcqP35vc8pl"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "album": {
@@ -2711,7 +2783,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 273640,
       "name": "Tip Of The Flame",
       "url": "https://open.spotify.com/track/6mfHVG0xInB0QpESBnVUwi"
@@ -2925,7 +2997,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 184732,
       "name": "When I Get Old",
       "url": "https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y"

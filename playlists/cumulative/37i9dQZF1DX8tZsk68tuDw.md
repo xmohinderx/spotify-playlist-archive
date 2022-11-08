@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Charlotte de Witte.
 
-1,800 songs - 4 day 8 hr 12 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
+1,801 songs - 4 day 8 hr 14 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1355,7 +1355,8 @@
 | [Say Yes](https://open.spotify.com/track/1YIYwFUDRzlQK0IXAVxPcN) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Say Yes](https://open.spotify.com/album/16Iue70ll51hWnwDiFiQrY) | 2:41 | 2022-08-19 | 2022-09-24 |
 | [Say Yes](https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Say Yes](https://open.spotify.com/album/2FYcP3Q4x7xwW10spuxkZk) | 3:53 | 2021-06-12 | 2021-08-14 |
 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 | 2022-10-07 | 2022-10-13 |
-| [Scandalous \(with Tinashe\)](https://open.spotify.com/track/4KQLEIHhg3Pjdgx1QY6Ehv) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/5TIrVSKDY1rxhqPu6Axw7r) | 2:39 | 2022-10-07 |  |
+| [Scandalous \(with Tinashe\)](https://open.spotify.com/track/4KQLEIHhg3Pjdgx1QY6Ehv) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/5TIrVSKDY1rxhqPu6Axw7r) | 2:39 | 2022-10-07 | 2022-11-08 |
+| [Scandalous \(with Tinashe\)](https://open.spotify.com/track/4ThOZ5HXGvCfUbptEJRzyF) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Alive](https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v) | 2:39 | 2022-10-07 |  |
 | [Screwdriver](https://open.spotify.com/track/57Gc56jQqwtDAEq7gTAXW9) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Screwdriver](https://open.spotify.com/album/07QCMIgF4a3tKj7NN2ESeE) | 3:07 | 2021-12-03 | 2022-03-05 |
 | [Scuff Your Soul](https://open.spotify.com/track/0jEcG9tyrn0gL2IPTNTMKl) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [Playing My Role](https://open.spotify.com/album/1gpiwkj2iATIikekuMZjZS) | 2:42 | 2020-10-16 | 2020-11-21 |
 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 | 2022-07-15 | 2022-08-27 |

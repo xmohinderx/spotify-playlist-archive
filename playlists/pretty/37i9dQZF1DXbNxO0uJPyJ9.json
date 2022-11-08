@@ -1,12 +1,12 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 589846,
+  "num_followers": 589977,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MjY5NCwwMDAwMDAwMDJmYzhkNTEwNzIwNTQ1OTVjNDMzYTU3YmI4NjM3M2Fl",
+  "snapshot_id": "MTY1NDg2MjY5NCwwMDAwMDAwMGJjZDI4NGExY2Y2YmYzNmQ2ZTRjYTA0MDdjZGQ4NzNh",
   "tracks": [
     {
       "added_at": "2022-06-10 12:04:54",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-06-10 12:04:54",
       "album": {
-        "name": "Hot Girls, Bad Boys",
-        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
-      },
-      "artists": [
-        {
-          "name": "Bad Boys Blue",
-          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
-        }
-      ],
-      "duration_ms": 346506,
-      "name": "Pretty Young Girl",
-      "url": "https://open.spotify.com/track/34LcZE3FJWWWVl2NoC8EXT"
-    },
-    {
-      "added_at": "2022-06-10 12:04:54",
-      "album": {
         "name": "Upstairs At Eric's",
         "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 346800,
       "name": "Situation",
       "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
+    },
+    {
+      "added_at": "2022-06-10 12:04:54",
+      "album": {
+        "name": "Hot Girls, Bad Boys",
+        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
+      },
+      "artists": [
+        {
+          "name": "Bad Boys Blue",
+          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
+        }
+      ],
+      "duration_ms": 346506,
+      "name": "Pretty Young Girl",
+      "url": "https://open.spotify.com/track/34LcZE3FJWWWVl2NoC8EXT"
     },
     {
       "added_at": "2022-06-10 12:04:54",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-06-10 12:04:54",
       "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 539693,
-      "name": "Tainted Love / Where Did Our Love Go - Extended Version / Medley",
-      "url": "https://open.spotify.com/track/2atm0QTTcVXsN47XSdIY7b"
-    },
-    {
-      "added_at": "2022-06-10 12:04:54",
-      "album": {
         "name": "Introspective (2018 Remaster)",
         "url": "https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 460360,
       "name": "Domino Dancing - 2018 Remaster",
       "url": "https://open.spotify.com/track/6ZT1v8YUeFN8n587DvzZXl"
+    },
+    {
+      "added_at": "2022-06-10 12:04:54",
+      "album": {
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 539693,
+      "name": "Tainted Love / Where Did Our Love Go - Extended Version / Medley",
+      "url": "https://open.spotify.com/track/2atm0QTTcVXsN47XSdIY7b"
     },
     {
       "added_at": "2022-06-10 12:04:54",

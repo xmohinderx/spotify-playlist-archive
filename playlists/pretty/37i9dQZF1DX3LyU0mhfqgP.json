@@ -1,12 +1,12 @@
 {
   "description": "The newest songs from LGBTQIA+ artists. Cover: Muna",
-  "num_followers": 815330,
+  "num_followers": 815359,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDllYTNhYmU0YTdmNWQ0OTJkYTNjMjdhMDU4YTliMmE5",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDI0MDVlNjk4OTk3MWVjMTY2ZmRmNjIwMGNiMTliNTU3",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Booty (feat. Latto)",
         "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 194141,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "It's Been a Little Heavy Lately",
+        "url": "https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 221871,
+      "name": "It's Been a Little Heavy Lately",
+      "url": "https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "SUBSTANCE",
         "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 157685,
       "name": "for the girls",
       "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "It's Been a Little Heavy Lately",
-        "url": "https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 221871,
-      "name": "It's Been a Little Heavy Lately",
-      "url": "https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Smoking Weed Alone",
-        "url": "https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Smoking Weed Alone",
-      "url": "https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "WET",
         "url": "https://open.spotify.com/album/6PmonSZBxYfIpW12oeCV3o"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 163378,
       "name": "WET",
       "url": "https://open.spotify.com/track/7q7Pc8oHXldntr7YKN4PFz"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Smoking Weed Alone",
+        "url": "https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Smoking Weed Alone",
+      "url": "https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Alice (Bodies Bodies Bodies)",
-        "url": "https://open.spotify.com/album/6LipFhXDD2PSYBtWIas8If"
-      },
-      "artists": [
-        {
-          "name": "Amandla Stenberg",
-          "url": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Alice (Bodies Bodies Bodies)",
-      "url": "https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 188915,
       "name": "To You",
       "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Alice (Bodies Bodies Bodies)",
+        "url": "https://open.spotify.com/album/6LipFhXDD2PSYBtWIas8If"
+      },
+      "artists": [
+        {
+          "name": "Amandla Stenberg",
+          "url": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Alice (Bodies Bodies Bodies)",
+      "url": "https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Queen Bitch",
-        "url": "https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH"
-      },
-      "artists": [
-        {
-          "name": "Kailee Morgue",
-          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "Queen Bitch",
-      "url": "https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Je te vois enfin",
         "url": "https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR"
       },
@@ -1091,6 +1075,38 @@
       "duration_ms": 205626,
       "name": "Je te vois enfin",
       "url": "https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Inside Voices / Outside Voices",
+        "url": "https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 225033,
+      "name": "Weirdo",
+      "url": "https://open.spotify.com/track/0aIj36K0tuJIt6kpN4Jbtq"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Queen Bitch",
+        "url": "https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH"
+      },
+      "artists": [
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "Queen Bitch",
+      "url": "https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 168700,
       "name": "just another song",
       "url": "https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Inside Voices / Outside Voices",
-        "url": "https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 225033,
-      "name": "Weirdo",
-      "url": "https://open.spotify.com/track/0aIj36K0tuJIt6kpN4Jbtq"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "My Friend Mica",
-        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
+        "name": "Shaking Hands With Elvis",
+        "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
       },
       "artists": [
         {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 173905,
-      "name": "Legs",
-      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
+      "duration_ms": 209087,
+      "name": "Hollywood Forever Cemetery",
+      "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
     }
   ],
   "unique_name": "Out Now",

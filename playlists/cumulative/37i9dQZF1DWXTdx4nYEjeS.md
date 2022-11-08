@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-909 songs - 2 day 7 hr 41 min - [published](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
+910 songs - 2 day 7 hr 43 min - [published](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Barro](https://open.spotify.com/track/6Gves1KZvYZ4gSg0pKUgqm) | [Valen Bonetto](https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [OTRX II](https://open.spotify.com/album/7xpbbpRtVDDCKcnnqHGa4P) | 3:17 | 2022-04-08 | 2022-04-10 |
 | [Barro Tal Vez \(with Luis Alberto Spinetta\)](https://open.spotify.com/track/3aCnoryvqXihyhd4znMsSb) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 3:45 | 2022-04-01 | 2022-04-17 |
 | [Basket Case](https://open.spotify.com/track/2WM7ZRdvK3YEMKzkLUtVwJ) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Basket Case](https://open.spotify.com/album/7CGhJlFFbyjsz7oRfvjOTp) | 2:49 | 2022-03-24 | 2022-04-13 |
-| [Bastará](https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:39 | 2021-12-24 |  |
+| [Bastará](https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:39 | 2021-12-24 | 2022-11-08 |
 | [Beautiful Girls](https://open.spotify.com/track/5IuV0YqQfVkzRQmvoDClV1) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Beautiful Girls](https://open.spotify.com/album/5N3aGKPcdxAViYFagexAEO) | 3:58 | 2022-04-01 | 2022-04-21 |
 | [Bendiciones](https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Bendiciones](https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl) | 3:30 | 2022-04-13 | 2022-04-19 |
 | [Beso](https://open.spotify.com/track/0dpoWGBWs8HZrCV7OsfxF4) | [Julieta Diaz](https://open.spotify.com/artist/5Rsf5ssoL1u7kInV5NK7qF), [Diego Presa](https://open.spotify.com/artist/3ocrfk5U9Q5V2j6F0T8fjT) | [Beso](https://open.spotify.com/album/1UKdo71goXKpKnX09oZYIv) | 1:58 | 2022-04-01 | 2022-04-18 |
@@ -613,6 +613,7 @@
 | [Otoño en Mendoza](https://open.spotify.com/track/2iC4Zs0v1LpcuS4rJRhhGV) | [Pocho Sosa](https://open.spotify.com/artist/2VWOox1VSb3HNW8GBuSydI), [Surco Pando](https://open.spotify.com/artist/6QLmWuLP0FV8gMTpVDai9a) | [Otoño en Mendoza](https://open.spotify.com/album/1VjpyywoCXAfgKLHkRooB1) | 4:32 | 2022-04-13 | 2022-04-16 |
 | [Otra Historia](https://open.spotify.com/track/53GqL10npzKnQiRyAaa4L0) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Otra Historia](https://open.spotify.com/album/3pzBiyfJaQHJovImbdMpXe) | 3:19 | 2022-04-01 | 2022-04-21 |
 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 | 2021-12-24 | 2022-10-07 |
+| [pa quererte](https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [pa quererte](https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3) | 2:47 | 2022-11-07 |  |
 | [Pacífico \(Sinfónico\)](https://open.spotify.com/track/5mdslcMMZJ85qapl4JTZ1F) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi), [Orquesta Filarmónica de Mendoza](https://open.spotify.com/artist/6Ng5Pb3WWoWPn1dZBKb02s) | [Pacífico \(Sinfónico\)](https://open.spotify.com/album/0Ao4Zv9KNM0D7EW2FG6cF4) | 5:20 | 2022-02-18 | 2022-07-28 |
 | [Paja Brava](https://open.spotify.com/track/0iVasQHAtR7O0uk0rYyiAz) | [Fulgura](https://open.spotify.com/artist/1i7SeHXbKSyxqiCh8e0Yg4) | [Paja Brava](https://open.spotify.com/album/01Jj3o6Fh1bVjgyFZU38VY) | 3:23 | 2022-03-28 | 2022-04-21 |
 | [Pajaritos](https://open.spotify.com/track/41Eov7IUXWe9UeoS2ERIHm) | [Rojobarcelo](https://open.spotify.com/artist/2AOncPq9EXdS9Qjt51voNC) | [Pajaritos](https://open.spotify.com/album/0gdHvemtPif2l6oTR4O1Uw) | 2:48 | 2022-03-28 | 2022-04-02 |

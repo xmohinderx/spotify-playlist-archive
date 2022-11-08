@@ -4,7 +4,7 @@
 
 > Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:0W4rRhGtsRNewRb2pNPsdp">Cate</a>
 
-431 songs - 21 hr 52 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+432 songs - 21 hr 55 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,7 @@
 | [SERIE TVB \- feat\. Caneda](https://open.spotify.com/track/57s75yvz68X8dJhrrKOnna) | [Moscowa SUI Muri](https://open.spotify.com/artist/7j6uEVWxmPJDrIZCJTtyFC), [Itten](https://open.spotify.com/artist/7ftv1LdGLxFqfjoWiaFyby), [Caneda](https://open.spotify.com/artist/0sFpREh3MXhfRxOFZVStVG) | [SERIE TVB \(feat\. Caneda\)](https://open.spotify.com/album/0dEYDYzvw2JypREklUHgg8) | 4:03 | 2022-02-17 | 2022-03-04 |
 | [Serramanico Farfalla](https://open.spotify.com/track/3GCTfmatkqze9rwqcMVvMb) | [Floral Grin](https://open.spotify.com/artist/5m1fvLDO1DDWVNhluFhOA9), [J Milli](https://open.spotify.com/artist/4kaZVOJpqYgHdQ05EwvGeK) | [Serramanico Farfalla](https://open.spotify.com/album/10ggwPJhklVqNIl9ef9Qcp) | 2:59 | 2022-05-05 | 2022-10-15 |
 | [Seta](https://open.spotify.com/track/2Q3i1X4tR1QwpF9rMt2LLZ) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Seta](https://open.spotify.com/album/4ar3dJ0KwP9q9wMuvedHlQ) | 3:09 | 2022-01-06 | 2022-02-18 |
-| [Settembre](https://open.spotify.com/track/0sld7QsrvqUlIUyJuI06Ki) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Settembre](https://open.spotify.com/album/0orVvpMLZdKnHeitZwp7pK) | 3:48 | 2022-09-11 |  |
+| [Settembre](https://open.spotify.com/track/0sld7QsrvqUlIUyJuI06Ki) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Settembre](https://open.spotify.com/album/0orVvpMLZdKnHeitZwp7pK) | 3:48 | 2022-09-11 | 2022-11-08 |
 | [Setting Of The Sun](https://open.spotify.com/track/3HVINZ2GShhkChl0Sn7Rap) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Setting Of The Sun](https://open.spotify.com/album/1SFOLRKr22IA7QvXy8mLLS) | 7:23 | 2022-10-10 |  |
 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 | 2022-01-31 | 2022-04-09 |
 | [Sigo Huyendo](https://open.spotify.com/track/11CqiCkod0sGMRBB28exxh) | [REHHLL](https://open.spotify.com/artist/724iTm2hBMu6dcBIcrazRx) | [Sigo Huyendo](https://open.spotify.com/album/418ZTQIv5lGORXmPNWSfXn) | 3:28 | 2022-05-19 | 2022-06-10 |
@@ -426,6 +426,7 @@
 | [Viole](https://open.spotify.com/track/48cQYam5RsGPfcRWOZogaa) | [Kick](https://open.spotify.com/artist/7hpwmq4RFv77J5dv4MUbtC) | [Viole](https://open.spotify.com/album/01rzY7vkCEeq30l2uxe0wt) | 3:51 | 2022-03-03 | 2022-04-29 |
 | [Vita vera](https://open.spotify.com/track/04mKihaPiWG3zVOlu7qLC7) | [letteredistrada](https://open.spotify.com/artist/3kTQPUH3D8Deb9OM9GerEG) | [Vita vera](https://open.spotify.com/album/5xt2CfoxvjrRt7lI1EDH4m) | 2:09 | 2022-09-01 | 2022-10-11 |
 | [Viva!](https://open.spotify.com/track/7oCcmCvKnnwtqI3XgU9qkj) | [Lumen](https://open.spotify.com/artist/6HE6gbDCSWpP0AfYznk64M) | [Viva!](https://open.spotify.com/album/3j5RvpZ9ysNy8YEPDY31FP) | 3:28 | 2022-07-28 | 2022-09-12 |
+| [Voglio Crescere](https://open.spotify.com/track/2Ij0m0pFM7533WoC4Swxb5) | [specchiopaura](https://open.spotify.com/artist/15OZuHjUnj9YAmwn5EXzrM), [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Napoli Undercore](https://open.spotify.com/album/5tDXZWDQ6jDwgjSU8u7Gyh) | 3:05 | 2022-11-07 |  |
 | [Vorrei](https://open.spotify.com/track/4DXt2aqxZuT6FbREs2FHdq) | [Il nome è puramente indicativo](https://open.spotify.com/artist/5h8Td5L6oB3Fa8eI6mnBZN) | [Vorrei](https://open.spotify.com/album/7pIBJVCLcdLYHzYukxQZ6Y) | 5:48 | 2022-09-11 | 2022-10-14 |
 | [Vorrei Che Fosse Odio](https://open.spotify.com/track/4HUROdvXWBTlGmklebPYwY) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Vorrei Che Fosse Odio](https://open.spotify.com/album/1L8Ti5F6cv65EZ1fAmxHQX) | 3:03 | 2022-02-24 | 2022-04-09 |
 | [VUOTO](https://open.spotify.com/track/5dg5MAxWLc2nxsUV6OLd5D) | [2VOLTE J](https://open.spotify.com/artist/0uFDGOQnoYPN8XHqP5ONQx), [xchepiangi](https://open.spotify.com/artist/2iWf5FTt1OA2hZPJvgNAT6) | [VUOTO](https://open.spotify.com/album/6X4i00weCWwM5ooQ2FuPn2) | 1:56 | 2022-07-14 | 2022-09-02 |

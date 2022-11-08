@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjU0NjIxNywwMDAwMDAwMDA2MTJjNWUxMGYzOTQ4ZjZiNDliOGM0Nzk4ZDEwY2Nm",
+  "snapshot_id": "MTY1NjU0NjIxNywwMDAwMDAwMDcwNGU3ZTZjYzI5ZTJiNGFmNDg1OTMzMTM4NDNkN2U3",
   "tracks": [
     {
       "added_at": "2022-06-29 23:43:37",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
-        "name": "How Do You Sleep?",
-        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "How Do You Sleep?",
-      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
       },
@@ -199,6 +183,26 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
+        "name": "Broke with Expensive Taste",
+        "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        },
+        {
+          "name": "Lazy Jay",
+          "url": "https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR"
+        }
+      ],
+      "duration_ms": 204956,
+      "name": "212",
+      "url": "https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -239,22 +243,18 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
-        "name": "Broke with Expensive Taste",
-        "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
+        "name": "How Do You Sleep?",
+        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
       },
       "artists": [
         {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        },
-        {
-          "name": "Lazy Jay",
-          "url": "https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 204956,
-      "name": "212",
-      "url": "https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g"
+      "duration_ms": 202204,
+      "name": "How Do You Sleep?",
+      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/2D37uNhXgherfImusGBKTx"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 199209,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
@@ -315,6 +299,22 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/2D37uNhXgherfImusGBKTx"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
         "name": "Terral",
         "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 234373,
       "name": "Pasos de cero",
       "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
-        "name": "Cayendo (Side A - Acoustic)",
-        "url": "https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Cayendo (Side A - Acoustic)",
-      "url": "https://open.spotify.com/track/72794Eag03xdy7TO0KNuid"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -383,6 +367,22 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
+        "name": "Cayendo (Side A - Acoustic)",
+        "url": "https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Cayendo (Side A - Acoustic)",
+      "url": "https://open.spotify.com/track/72794Eag03xdy7TO0KNuid"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
         "name": "El Alma Que Te Trajo",
         "url": "https://open.spotify.com/album/7J9BzqMQTX0ne8M8dn57Uo"
       },
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
+        "name": "Aute Cuture",
+        "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 147626,
+      "name": "Aute Cuture",
+      "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
         "name": "Gracias por Esperar",
         "url": "https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 161733,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
-        "name": "Aute Cuture",
-        "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 147626,
-      "name": "Aute Cuture",
-      "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "CUUUUuuuuuute",
+      "url": "https://open.spotify.com/track/3BQPPsoxlhuSIEPlNRHHZt"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
         "name": "KiCk i",
         "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
@@ -563,34 +579,18 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+        "name": "SweetSexySavage (Deluxe)",
+        "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 150600,
-      "name": "CUUUUuuuuuute",
-      "url": "https://open.spotify.com/track/3BQPPsoxlhuSIEPlNRHHZt"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
-        "name": "Broke with Expensive Taste",
-        "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
-      },
-      "artists": [
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 156865,
-      "name": "Heavy Metal and Reflective",
-      "url": "https://open.spotify.com/track/71PgrkvpCrNxpM1nvapbqG"
+      "duration_ms": 202720,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/2CsSaYUPI57QaeB90gwzGT"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -611,18 +611,34 @@
     {
       "added_at": "2022-06-29 23:43:37",
       "album": {
-        "name": "SweetSexySavage (Deluxe)",
-        "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
+        "name": "Broke with Expensive Taste",
+        "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
         }
       ],
-      "duration_ms": 202720,
-      "name": "Advice",
-      "url": "https://open.spotify.com/track/2CsSaYUPI57QaeB90gwzGT"
+      "duration_ms": 156865,
+      "name": "Heavy Metal and Reflective",
+      "url": "https://open.spotify.com/track/71PgrkvpCrNxpM1nvapbqG"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 139850,
+      "name": "Nonbinary",
+      "url": "https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -639,6 +655,22 @@
       "duration_ms": 192853,
       "name": "Half Of Me",
       "url": "https://open.spotify.com/track/4bXImuY3OhNXhbQbVLFHKp"
+    },
+    {
+      "added_at": "2022-06-29 23:43:37",
+      "album": {
+        "name": "Fucking Money Man",
+        "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 138370,
+      "name": "Milion\u00e0ria",
+      "url": "https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p"
     },
     {
       "added_at": "2022-06-29 23:43:37",
@@ -671,38 +703,6 @@
       "duration_ms": 235466,
       "name": "Burkina Faso",
       "url": "https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
-        "name": "Fucking Money Man",
-        "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 138370,
-      "name": "Milion\u00e0ria",
-      "url": "https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p"
-    },
-    {
-      "added_at": "2022-06-29 23:43:37",
-      "album": {
-        "name": "KiCk i",
-        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 139850,
-      "name": "Nonbinary",
-      "url": "https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT"
     },
     {
       "added_at": "2022-06-29 23:43:37",

@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-286 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/1IVOoA16apieUJxkNJzI8P)
+287 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/1IVOoA16apieUJxkNJzI8P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bittersweet, TN](https://open.spotify.com/track/0merkJ9dgvkemPaR3urDWs) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 4:13 | 2022-05-27 |  |
 | [Black Eyed Dog](https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Black Eyed Dog](https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj) | 2:48 | 2021-10-22 | 2022-07-24 |
 | [Blazing Highway Home](https://open.spotify.com/track/0Z2Q9i0qg8zKtK1rL5tFSu) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Fever Breaks](https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS) | 4:58 | 2021-10-22 | 2022-07-29 |
-| [Blood Hunters](https://open.spotify.com/track/6v0zVFmYrF6FmJ8f7GIrv8) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 3:19 | 2021-10-22 |  |
+| [Blood Hunters](https://open.spotify.com/track/6v0zVFmYrF6FmJ8f7GIrv8) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 3:19 | 2021-10-22 | 2022-11-08 |
 | [Both](https://open.spotify.com/track/6Lv7dlKQthbBNua9XHWuGH) | [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Water Dog](https://open.spotify.com/album/14od62nFeY9aOW4x7MAoyk) | 3:44 | 2021-10-22 | 2022-07-29 |
 | [Bottomless Mimosas](https://open.spotify.com/track/3Ox18GRfrmkayoD9QTE10K) | [Sam Outlaw](https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r) | [Tenderheart](https://open.spotify.com/album/6cSAc78Ys9r2RDpCHFQK4i) | 3:46 | 2021-10-22 | 2022-07-27 |
 | [Breakers Roar](https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:32 | 2021-10-22 |  |
@@ -36,6 +36,7 @@
 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 | 2021-10-22 | 2022-07-29 |
 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 | 2022-05-27 |  |
 | [Change the Whole Thing](https://open.spotify.com/track/1bWL8t2RRLz2yqGm2tMM0l) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing](https://open.spotify.com/album/7vXUrFoeNjNoNUNEdn3O8n) | 4:28 | 2021-10-22 | 2022-07-29 |
+| [Change the Whole Thing](https://open.spotify.com/track/6Z5k237LIQek8rPlaSUas5) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing](https://open.spotify.com/album/20kCJxZJoLvOvyDWhgOYU4) | 4:28 | 2022-09-16 |  |
 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 | 2021-10-22 |  |
 | [Cocaine Cowboys](https://open.spotify.com/track/3zhweTjlRdXIc9Q3AzpMwh) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Is It the Kiss](https://open.spotify.com/album/7Izqaa96wuTV0Zr2IwFtXw) | 3:55 | 2021-10-22 | 2022-07-29 |
 | [Colder Heavens](https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens EP](https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ) | 4:33 | 2022-05-27 |  |

@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 157258,
       "name": "1539 N. Calvert",
       "url": "https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA"
@@ -255,6 +255,24 @@
       "duration_ms": 126998,
       "name": "BABY CUPID",
       "url": "https://open.spotify.com/track/0ByC3vzSHd9n9P6imFPNZE"
+    },
+    {
+      "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155744,
+      "name": "BACKROOM",
+      "url": "https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi"
     },
     {
       "album": {
@@ -689,7 +707,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 134116,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
@@ -903,7 +921,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 100500,
       "name": "DIVE IN!",
       "url": "https://open.spotify.com/track/192DMwgDbgS8ghTKc0ACWq"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 99013,
       "name": "G Walkin' on Yo Coffin",
       "url": "https://open.spotify.com/track/2I387d1XWsQfWcrwXVp2i0"
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 220995,
       "name": "Icon",
       "url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b"
@@ -2081,7 +2099,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 147346,
       "name": "Live Sheck Wes",
       "url": "https://open.spotify.com/track/1dhO5lyN2Otv4qR0xWQXH7"
@@ -2179,10 +2197,28 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 350120,
       "name": "m.A.A.d city",
       "url": "https://open.spotify.com/track/439TlnnznSiBbQbgXiBqAd"
+    },
+    {
+      "album": {
+        "name": "TWOPOINTFIVE",
+        "url": "https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101744,
+      "name": "Mad Funny Freestyle",
+      "url": "https://open.spotify.com/track/2pGz1Afwxe0KHJtJLwm0Kd"
     },
     {
       "album": {
@@ -2237,7 +2273,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 127925,
       "name": "MAMBO",
       "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
@@ -2259,7 +2295,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 100008,
       "name": "Mase in '97",
       "url": "https://open.spotify.com/track/7j6OJzMIJL5JcFHyeSJZGV"
@@ -2639,7 +2675,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 192026,
       "name": "R.I.P.",
       "url": "https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv"
@@ -2851,7 +2887,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 275866,
       "name": "Shabba (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/7eaKWfov7b2Qa2n6HTesL3"
@@ -2949,7 +2985,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 138352,
       "name": "Smack A Bitch",
       "url": "https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ"
@@ -3279,7 +3315,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 174857,
       "name": "Talk",
       "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH"
@@ -3621,7 +3657,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 121277,
       "name": "YELLOW PISS",
       "url": "https://open.spotify.com/track/0NFCrBf6tnaDTZ5xOWjHCI"

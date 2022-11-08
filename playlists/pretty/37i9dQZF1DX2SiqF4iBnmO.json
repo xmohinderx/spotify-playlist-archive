@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 49972,
+  "num_followers": 50088,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMGY3NDgwN2NhYTAzZmNiNWFhMTI4OTc4MjE4N2VkYzAx",
+  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMGI3OTFiMmZhMjY3ZGFjNzY1ZmUzM2Y3MjI2NmI1Y2Qy",
   "tracks": [
     {
       "added_at": "2021-10-20 15:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Port Of Miami",
-        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Licensed To Ill",
         "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 220840,
       "name": "Paul Revere",
       "url": "https://open.spotify.com/track/3gKwVWwKmeuFtPubICbOGc"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Port Of Miami",
+        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Born To Mack",
-        "url": "https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei"
-      },
-      "artists": [
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 573066,
-      "name": "Freaky Tales",
-      "url": "https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Spirit (feat. Wale)",
         "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 253178,
       "name": "Spirit (feat. Wale)",
       "url": "https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Born To Mack",
+        "url": "https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 573066,
+      "name": "Freaky Tales",
+      "url": "https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Neptune's Lair",
-        "url": "https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV"
+        "name": "Shake It Up",
+        "url": "https://open.spotify.com/album/4lDlCfyIhAXwP3hO2GVUaw"
       },
       "artists": [
         {
-          "name": "Drexciya",
-          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
         }
       ],
-      "duration_ms": 376680,
-      "name": "Andreaen Sand Dunes",
-      "url": "https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO"
+      "duration_ms": 254066,
+      "name": "I'm Not the One",
+      "url": "https://open.spotify.com/track/6eRLUjHubf9tlO7ZCc04Da"
     }
   ],
   "unique_name": "808 Classics",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-267 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+268 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM) | 2:05 | 2022-04-01 | 2022-08-06 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-08-26 |  |
 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-26 | 2022-09-30 |
+| [DuDuDu](https://open.spotify.com/track/4PfrCntphqH3KEfe2QEJS5) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [DuDuDu](https://open.spotify.com/album/16hjrnSiJDIjmHYpaAy16L) | 3:20 | 2022-10-28 |  |
 | [Emergency](https://open.spotify.com/track/6U8x4X0uYBN6lzQWwtyO4l) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4) | [Emergency](https://open.spotify.com/album/7kubd8d0Noy577gFKeOXWC) | 2:42 | 2022-01-28 | 2022-03-16 |
 | [End of Slaphouse](https://open.spotify.com/track/06Pb2d8P6wAaGyrRUYOFJc) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [Prock House](https://open.spotify.com/album/6WmVszxhoZlftm89rz5FFq) | 3:01 | 2022-07-22 | 2022-09-26 |
 | [End of Slaphouse](https://open.spotify.com/track/0U5Q2jPCuyQLCxb8LYYD90) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [End of Slaphouse](https://open.spotify.com/album/4uyEug3K5JHviGzkgYubu6) | 3:01 | 2021-10-29 | 2022-07-29 |
@@ -245,7 +246,7 @@
 | [Tell Me](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [Tell Me \(feat\. Hero Baldwin\)](https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque) | 3:23 | 2021-10-29 | 2022-08-06 |
 | [Tell Me How](https://open.spotify.com/track/4p6e7cpogv3RbcjzB1HXEZ) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Faith In Chaos](https://open.spotify.com/album/2v9CsJviAEwrbViMJV2muZ) | 3:16 | 2022-03-04 | 2022-04-20 |
 | [The G.O.A.T.](https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [The G.O.A.T.](https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh) | 3:21 | 2022-04-01 | 2022-08-06 |
-| [The Middle](https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [The Middle](https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN) | 2:47 | 2022-09-09 |  |
+| [The Middle](https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [The Middle](https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN) | 2:47 | 2022-09-09 | 2022-11-08 |
 | [The Underground](https://open.spotify.com/track/266YHA8L6rGYl4Iq5Mmvwb) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [The Underground](https://open.spotify.com/album/75d0vSPEzmVLSECS9AOXUO) | 2:35 | 2022-07-22 | 2022-08-22 |
 | [This Is Love](https://open.spotify.com/track/0TeIpXK4mS251xn4HNbL5x) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [This Is Love](https://open.spotify.com/album/5StBcXiU25jAcDmA4GOjQN) | 2:08 | 2022-04-01 | 2022-10-19 |
 | [Thrills \(feat\. Jaxon Rose\)](https://open.spotify.com/track/2KnOz4On4UakMbBYlfPa9K) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Jaxon Rose](https://open.spotify.com/artist/0IyRRQX0XYxwropqhXgZLz) | [Thrills \(feat\. Jaxon Rose\)](https://open.spotify.com/album/0AHVfgQ7mjSC2cocVF5uOx) | 3:22 | 2021-10-29 | 2022-09-13 |

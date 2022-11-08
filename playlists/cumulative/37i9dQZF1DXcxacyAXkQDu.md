@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-782 songs - 1 day 22 hr 29 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+784 songs - 1 day 22 hr 37 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Beyond](https://open.spotify.com/track/5esPpmrM2AsyDVgOKzWQwU) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Beyond](https://open.spotify.com/album/0Nu4xhj7NxdUiL0eMy9yoQ) | 4:00 | 2021-12-21 | 2022-07-29 |
 | [Big Trees](https://open.spotify.com/track/78LgyytZ57eBM18kx5YFAk) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Big Trees](https://open.spotify.com/album/5eXrCNWiY4ZP01MWog4FN4) | 3:15 | 2022-03-24 | 2022-04-02 |
 | [Bigger Heart \(Acoustic\)](https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Bigger Heart \(Acoustic\)](https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc) | 4:48 | 2021-12-21 |  |
+| [Birthday](https://open.spotify.com/track/1koJ9gZJvdFgBjouc5hDZk) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Birthday](https://open.spotify.com/album/4PHDQRU8T1U4Ts755p9L4i) | 3:14 | 2022-10-07 |  |
 | [Birthday](https://open.spotify.com/track/5QvL5shIrzH2A2zG0DZwh3) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Birthday](https://open.spotify.com/album/7evERN7P6VC1uVqtpFccL4) | 3:14 | 2021-12-21 | 2022-10-14 |
 | [Black & Blue](https://open.spotify.com/track/1Y59TyltHoDl4YK2R3nCRm) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Black & Blue](https://open.spotify.com/album/6UEjnGUIcJjL2uBZJGD3tt) | 3:11 | 2021-12-21 | 2022-07-09 |
 | [Black Lake](https://open.spotify.com/track/0CoSJeJPeotaraesHiqIZE) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Black Lake](https://open.spotify.com/album/3rAvZ5XEICgTeuyid3dl87) | 2:56 | 2022-04-07 | 2022-04-12 |
@@ -237,6 +238,7 @@
 | [Full Moon Rising](https://open.spotify.com/track/65iXgVBjiF7oOORNWo0hRV) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 5:54 | 2022-03-24 | 2022-04-02 |
 | [Gazelles](https://open.spotify.com/track/4RDnPnHfPPQfVaezIGg2HL) | [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [Gazelles](https://open.spotify.com/album/4fVJjFRc2NruhzaG6cxW4i) | 3:35 | 2021-12-21 | 2022-07-29 |
 | [get older](https://open.spotify.com/track/2uu7LrCxYJ5WvtyzdxLiPC) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [get older](https://open.spotify.com/album/0WBPBQuEfYJcRmIA3OdJmq) | 2:57 | 2022-02-28 | 2022-07-02 |
+| [Getting Over You](https://open.spotify.com/track/0uSmTpVS9XNRjhanRfxmSJ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 4:15 | 2022-10-07 |  |
 | [Getting Over You](https://open.spotify.com/track/2BNkTvg1kHAAfGvqh56x5a) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Getting Over You](https://open.spotify.com/album/3RZDzcVgDoyt1LB5fhnB6x) | 4:15 | 2022-03-24 | 2022-04-21 |
 | [Getting Over You](https://open.spotify.com/track/4G4gtvlaFaI6v6wWD8UvqL) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 4:15 | 2022-07-08 | 2022-11-02 |
 | [Girl \- Acoustic](https://open.spotify.com/track/21xRlfE6OjTAFQ4wd9u8IU) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Girl \(Acoustic\)](https://open.spotify.com/album/7fdAAXgcc7E5F9XE0ZFDQs) | 3:31 | 2021-12-21 | 2022-07-29 |
@@ -603,7 +605,7 @@
 | [South Dakota](https://open.spotify.com/track/2s3CzgeeA7NpLP87ZDbmC8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [South Dakota](https://open.spotify.com/album/7pXsFVBKdJdyLEXUJ3j3oV) | 3:11 | 2021-12-21 | 2022-04-27 |
 | [Sparks](https://open.spotify.com/track/19HrCVM94TT07X70j9ajQ8) | [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Moon Rocks](https://open.spotify.com/album/5EfjqbNDZEGRy6HxucVXL5) | 4:21 | 2022-03-24 | 2022-04-21 |
 | [Splintered](https://open.spotify.com/track/4ImN33OfhmbjjWBAB7pElK) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/1LwaJSz2vxOtE5nq4P4khN) | 4:10 | 2022-03-24 | 2022-04-14 |
-| [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 | 2022-07-08 |  |
+| [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 | 2022-07-08 | 2022-11-08 |
 | [Stars](https://open.spotify.com/track/1NWDYLu5pLh5jH4MKGQDPe) | [Traveling John](https://open.spotify.com/artist/6AfxRBowNEDZpYKmoWcBm9) | [Stars](https://open.spotify.com/album/2OHOBLjEHxYSXIK5S0rbCA) | 2:48 | 2021-12-21 | 2022-07-29 |
 | [Starving \- Acoustic](https://open.spotify.com/track/3otAtzQb3f7adNdiCgdECo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving \(Acoustic\)](https://open.spotify.com/album/2rTG6XOfAwNyfwjACFKN16) | 3:01 | 2022-03-24 | 2022-04-02 |
 | [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2021-12-21 |  |
@@ -783,7 +785,7 @@
 | [You Say](https://open.spotify.com/track/3ngc7rGlfeFaskU90EWl4R) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1) | 4:34 | 2021-12-21 | 2022-07-29 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2022-07-08 |  |
 | [You You You](https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Fall Away Into Place](https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S) | 3:42 | 2022-03-24 | 2022-07-06 |
-| [You're Not Alone](https://open.spotify.com/track/1iEl2JkciBjbJWP2T1ipXj) | [Kristofer Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [You're Not Alone](https://open.spotify.com/album/1nOTxGKDWwi8ykUX2IO5Cv) | 3:37 | 2021-12-21 |  |
+| [You're Not Alone](https://open.spotify.com/track/1iEl2JkciBjbJWP2T1ipXj) | [Kristofer Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [You're Not Alone](https://open.spotify.com/album/1nOTxGKDWwi8ykUX2IO5Cv) | 3:37 | 2021-12-21 | 2022-11-08 |
 | [You're Not Special](https://open.spotify.com/track/6C67cIuHHV7ijArY8wZ9ht) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [You're Not Special](https://open.spotify.com/album/4H2AcBCueG06xyvNXoa7js) | 2:40 | 2022-04-08 | 2022-04-13 |
 | [Young Alien](https://open.spotify.com/track/09tRK130tFWsPgl77qVMwp) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Young Alien \- EP](https://open.spotify.com/album/1FFCz4BEDU6j58Q7TSM3pN) | 3:11 | 2022-03-24 | 2022-04-21 |
 | [Young Blood](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 | 2022-07-08 |  |

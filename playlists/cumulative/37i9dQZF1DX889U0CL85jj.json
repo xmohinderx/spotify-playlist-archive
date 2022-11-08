@@ -2021,7 +2021,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 194374,
       "name": "Flavour",
       "url": "https://open.spotify.com/track/1rD65i5JVAK5xOthYiPXok"
@@ -3329,7 +3329,7 @@
       ],
       "date_added": "2020-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 172384,
       "name": "Keeping Busy",
       "url": "https://open.spotify.com/track/5g3InejbvUCMmZUOyVvRQb"
@@ -3441,7 +3441,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 186000,
       "name": "Leaving The Canyons - Radio Edit",
       "url": "https://open.spotify.com/track/1y7qBQRPUsnA1ff3LoK3p5"
@@ -4065,6 +4065,24 @@
       "duration_ms": 105772,
       "name": "Moonsong",
       "url": "https://open.spotify.com/track/4ZTUOWVfWaUKxnE0Z2Wb2h"
+    },
+    {
+      "album": {
+        "name": "Waiting to Spill",
+        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242626,
+      "name": "Morning in the Aves",
+      "url": "https://open.spotify.com/track/6mWlah5Cxz8qTcW17pbj7h"
     },
     {
       "album": {
@@ -4897,6 +4915,28 @@
       "duration_ms": 183600,
       "name": "safety",
       "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
+    },
+    {
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO"
+      },
+      "artists": [
+        {
+          "name": "Chartreuse",
+          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
+        },
+        {
+          "name": "Orlando Weeks",
+          "url": "https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240640,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM"
     },
     {
       "album": {
@@ -6720,6 +6760,24 @@
     },
     {
       "album": {
+        "name": "Why (Spare Me Tears)",
+        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205229,
+      "name": "Why (Spare Me Tears)",
+      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
+    },
+    {
+      "album": {
         "name": "Not Mine",
         "url": "https://open.spotify.com/album/43z1fbbpu0Ja2kDg8t6ZuG"
       },
@@ -7021,6 +7079,24 @@
       "duration_ms": 192114,
       "name": "Zombies",
       "url": "https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30f3\u30d7\u5e7b\u60f3",
+        "url": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315640,
+      "name": "\u3086\u3081\u3046\u3064\u3064",
+      "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
     },
     {
       "album": {

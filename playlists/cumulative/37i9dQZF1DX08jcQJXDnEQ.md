@@ -4,7 +4,7 @@
 
 > A collection of the biggest Metal classics of the 90s\. Cover: Deftones
 
-244 songs - 19 hr 13 min - [published](https://open.spotify.com/playlist/3h31tTr3Ha92IjfhLZSpkP)
+245 songs - 19 hr 17 min - [published](https://open.spotify.com/playlist/3h31tTr3Ha92IjfhLZSpkP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Dogman](https://open.spotify.com/track/2wl8wRamdIQBilTBWbnRum) | [King's X](https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH) | [Dogman](https://open.spotify.com/album/47U4J0zNT79iSnbWJOXg5S) | 4:01 | 2022-07-13 | 2022-07-29 |
 | [Don't Cry \(Original\)](https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:43 | 2022-07-13 |  |
 | [Dose](https://open.spotify.com/track/7bBHdsHutuRPJjb9dufPP1) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Short Bus \(Expanded Edition\)](https://open.spotify.com/album/6usfQZWUKsRMv9RwApvYw4) | 3:53 | 2022-07-13 | 2022-07-29 |
+| [Dose \- 2009 Remastered Version](https://open.spotify.com/track/7hljGWJqrNkOMevUVfqRyG) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [The Very Best Things \[1995\-2008\]](https://open.spotify.com/album/1zZEG0uTQhysaaDo8CPzGw) | 3:53 | 2022-10-05 |  |
 | [Down For Life](https://open.spotify.com/track/2qPOCBPDAfDTMFAgUZefw0) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Gathering \(Remastered\)](https://open.spotify.com/album/6zw3FBSaUGt6XPT6qk0MIh) | 3:23 | 2021-09-09 | 2022-07-29 |
 | [Down for Life](https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Gathering](https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J) | 3:23 | 2021-09-09 |  |
 | [Dragonaut](https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Sleep's Holy Mountain](https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs) | 5:43 | 2021-09-09 |  |
@@ -163,7 +164,7 @@
 | [Ordinary Story](https://open.spotify.com/track/0Lc3diklqgtWER4cnESn8u) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Colony \(Reissue 2014\)](https://open.spotify.com/album/0MeRgZ0C7PAGwJOoO8GLua) | 4:16 | 2021-09-09 | 2022-07-29 |
 | [Orgasmatron](https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 4:14 | 2022-07-13 |  |
 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 | 2021-09-09 |  |
-| [People of the Lie](https://open.spotify.com/track/6WDMOh0LJY9EHO4aIE7dPh) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Coma of Souls](https://open.spotify.com/album/1S7SXhbh0x64DyXQVfACJk) | 3:15 | 2021-09-09 |  |
+| [People of the Lie](https://open.spotify.com/track/6WDMOh0LJY9EHO4aIE7dPh) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Coma of Souls](https://open.spotify.com/album/1S7SXhbh0x64DyXQVfACJk) | 3:15 | 2021-09-09 | 2022-11-08 |
 | [Phoenix Rising](https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Set The World On Fire](https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt) | 3:48 | 2021-09-09 | 2022-10-19 |
 | [Powertrip](https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 3:31 | 2022-07-13 |  |
 | [Pull Me Under](https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 8:13 | 2021-09-09 |  |

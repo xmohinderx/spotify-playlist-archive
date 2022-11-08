@@ -2,9 +2,9 @@
 
 ### [Best of Arab Pop](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> Most adored pop hits from the Middle East and North Africa\. Cover: Wael Kfoury
+> Most adored pop hits from the Middle East and North Africa\. Cover: Nabil
 
-108 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/3oCJHmm7pEXb9N40JMypnM)
+110 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/3oCJHmm7pEXb9N40JMypnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,8 +52,9 @@
 | [Hadalaany \- From Bhabak Movie](https://open.spotify.com/track/2MBqyVD794w8Tn0IPGLEBW) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Hadalaany \(From Bhabak Movie\)](https://open.spotify.com/album/2dQZwRz9UH0MLwKmxeegsz) | 3:26 | 2022-07-10 |  |
 | [Halet Ektaab](https://open.spotify.com/track/47nco5gKSaLGcLrkLTGz0L) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc), [Karim Sabry](https://open.spotify.com/artist/0I6c2FOqX5ioxRelCgkY1O) | [Halet Ektaab](https://open.spotify.com/album/3GieRFjlHGGXPOQalxWriH) | 4:29 | 2022-05-04 | 2022-07-14 |
 | [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2022-05-04 |  |
+| [Hatwhashna](https://open.spotify.com/track/3gAYSjeXZ5XbicBFX5G0Ya) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Hatwhashna](https://open.spotify.com/album/2SpDaTDqpebKTgQyKtf51j) | 3:20 | 2022-11-07 |  |
 | [Hayatak Fi Sora](https://open.spotify.com/track/5v5DvfdykdjmzgA3t9pnGg) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Hayatak Fi Sora](https://open.spotify.com/album/2LE4wOXSuqwPXyY22h1ad1) | 2:49 | 2022-05-04 | 2022-07-15 |
-| [Helween](https://open.spotify.com/track/5WWolYQgJB3fCwRiLxiPHQ) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo), [Rodge](https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG) | [Helween](https://open.spotify.com/album/4LgGKDj1hfjBMni5QrwUfV) | 4:01 | 2022-05-04 |  |
+| [Helween](https://open.spotify.com/track/5WWolYQgJB3fCwRiLxiPHQ) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo), [Rodge](https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG) | [Helween](https://open.spotify.com/album/4LgGKDj1hfjBMni5QrwUfV) | 4:01 | 2022-05-04 | 2022-11-08 |
 | [Hetta Tanya](https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Hetta Tanya](https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR) | 3:19 | 2022-05-04 | 2022-10-25 |
 | [Heya](https://open.spotify.com/track/1FRiynLmE6uEsDayYZflEU) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Heya](https://open.spotify.com/album/24O4GnTk1ns6Ok5g2fwv2v) | 3:59 | 2022-06-09 |  |
 | [Howa Da Habiby](https://open.spotify.com/track/61ym3imFxyXoTOoZz4loqA) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Howa Da Habiby](https://open.spotify.com/album/2zZbs6y0BLlwQzRo19mdj1) | 2:53 | 2022-05-04 | 2022-07-15 |
@@ -80,9 +81,10 @@
 | [Mesh Mertaheen \- From Talaktok Nafsy TV Series](https://open.spotify.com/track/2aLIVKTchwoHq4F0FYPOFQ) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Mesh Mertaheen \(From Talaktok Nafsy TV Series\)](https://open.spotify.com/album/0DFoVvEgCNUcMeL3wPybZ3) | 3:13 | 2022-05-04 | 2022-07-15 |
 | [Meshkeltak Alwahidi](https://open.spotify.com/track/061AcUASLoR0lEU3xksHHC) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Meshkeltak Alwahidi](https://open.spotify.com/album/5gLEBMsAR43OJSqiG6j2Uc) | 3:22 | 2022-05-04 |  |
 | [Min Awel Dekika](https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR), [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Min Awel Dekika](https://open.spotify.com/album/7zDngZE0h5FSTaPm9yhxto) | 4:32 | 2022-05-04 |  |
+| [Nefsi Afou2](https://open.spotify.com/track/1OQSmaqaomwMpLHGk0YnGo) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ga7da](https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2) | 3:59 | 2022-11-07 |  |
 | [Ouaa Tkhaf](https://open.spotify.com/track/56ghyTakOok9eCfKVktmpR) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Ouaa Tkhaf](https://open.spotify.com/album/2mP2rUwMr39mK3tajSBxmU) | 2:50 | 2022-07-14 |  |
 | [Oyouno Lama Ablony](https://open.spotify.com/track/63SfVFcA5kGYX1qJKRHhXR) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Oyouno Lama Ablony](https://open.spotify.com/album/4b1AMevNzVNAyTMzO8mbPu) | 3:17 | 2022-05-04 | 2022-07-15 |
-| [Qosset Hobna](https://open.spotify.com/track/6TuYr2T63OWTdbrfE4luUl) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Qosset Hobna](https://open.spotify.com/album/1BsByRHVwAH9b6wis4qypY) | 2:09 | 2022-05-04 |  |
+| [Qosset Hobna](https://open.spotify.com/track/6TuYr2T63OWTdbrfE4luUl) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Qosset Hobna](https://open.spotify.com/album/1BsByRHVwAH9b6wis4qypY) | 2:09 | 2022-05-04 | 2022-11-08 |
 | [Rabe3 Fengan Ahwa](https://open.spotify.com/track/7arsxgfPgULHOa5rsENcZI) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Rabe3 Fengan Ahwa](https://open.spotify.com/album/0KpM26FhOZpln9EQeJ4OBm) | 3:30 | 2022-05-04 |  |
 | [Sa'af](https://open.spotify.com/track/2KBVedkyvdFdbm2AQOBTYM) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Sa'af](https://open.spotify.com/album/1R2gySJizByGXC2rLdVE7X) | 3:36 | 2022-05-04 | 2022-07-13 |
 | [Saaba](https://open.spotify.com/track/3SZ3zSiJynzOAXYqwQqXeG) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Saaba](https://open.spotify.com/album/2ZSFVfGQxDQvUvha7Vze6j) | 3:01 | 2022-05-04 | 2022-09-27 |

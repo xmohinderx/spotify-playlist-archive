@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 83935,
+  "num_followers": 84137,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzMzk1OSwwMDAwMDAwMGM3ZGRlNzhhN2M4NDBjM2I0MDljNzQ2OGRmMDI4NzVh",
+  "snapshot_id": "MTY2NzUzMzk1OSwwMDAwMDAwMDAxYWE3YTliMGU1M2E0ZTIyMTQ1ZTBiMTE1ZjA3ZjIy",
   "tracks": [
     {
       "added_at": "2022-11-04 03:52:39",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
+        "name": "Fortunate",
+        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 301160,
+      "name": "Fortunate",
+      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
+    },
+    {
+      "added_at": "2022-11-04 03:52:39",
+      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 220960,
       "name": "Sending My Love",
       "url": "https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm"
-    },
-    {
-      "added_at": "2022-11-04 03:52:39",
-      "album": {
-        "name": "Fortunate",
-        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 301160,
-      "name": "Fortunate",
-      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
     },
     {
       "added_at": "2022-11-04 03:52:39",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "This Woman's Work - Remastered 2021",
+      "url": "https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w"
+    },
+    {
+      "added_at": "2022-11-04 03:52:39",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
-    },
-    {
-      "added_at": "2022-11-04 03:52:39",
-      "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "This Woman's Work - Remastered 2021",
-      "url": "https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w"
     },
     {
       "added_at": "2022-11-04 03:52:39",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
+        "name": "Floetic",
+        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 406733,
+      "name": "Getting Late",
+      "url": "https://open.spotify.com/track/0khnsS3vcqT6qngEhZCk4c"
+    },
+    {
+      "added_at": "2022-11-04 03:52:39",
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
-        "name": "Floetic",
-        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
+        "name": "How Could I Forget You",
+        "url": "https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy"
       },
       "artists": [
         {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+          "name": "Etta Bond",
+          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
         }
       ],
-      "duration_ms": 406733,
-      "name": "Getting Late",
-      "url": "https://open.spotify.com/track/0khnsS3vcqT6qngEhZCk4c"
+      "duration_ms": 214054,
+      "name": "How Could I Forget You",
+      "url": "https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi"
     },
     {
       "added_at": "2022-11-04 03:52:39",
@@ -835,22 +851,6 @@
       "duration_ms": 241480,
       "name": "3 Hour Drive (feat. Sampha)",
       "url": "https://open.spotify.com/track/3WBpLOiuBWlkSjqxXfqQrH"
-    },
-    {
-      "added_at": "2022-11-04 03:52:39",
-      "album": {
-        "name": "How Could I Forget You",
-        "url": "https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy"
-      },
-      "artists": [
-        {
-          "name": "Etta Bond",
-          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
-        }
-      ],
-      "duration_ms": 214054,
-      "name": "How Could I Forget You",
-      "url": "https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi"
     },
     {
       "added_at": "2022-11-04 03:52:39",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
-        "name": "elephant in the room",
-        "url": "https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y"
+        "name": "Can't Wait",
+        "url": "https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N"
       },
       "artists": [
         {
-          "name": "untradition",
-          "url": "https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe"
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
         }
       ],
-      "duration_ms": 199107,
-      "name": "elephant in the room",
-      "url": "https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG"
+      "duration_ms": 207303,
+      "name": "Can't Wait",
+      "url": "https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38"
     }
   ],
   "unique_name": "floating",

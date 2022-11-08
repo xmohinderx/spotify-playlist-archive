@@ -4,7 +4,7 @@
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Drug Church
 
-354 songs - 20 hr 36 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
+356 songs - 20 hr 44 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [COLD BLOOD](https://open.spotify.com/track/2IwBtsToltEHPDn8QJqHaC) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [COLD BLOOD](https://open.spotify.com/album/5gAZ9Iay75PXZITgGlIc1K) | 5:26 | 2022-02-28 | 2022-07-29 |
 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 | 2022-04-01 |  |
 | [Come Undone](https://open.spotify.com/track/4VawjkyqRKLCAj9BwMPyal) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Finding God Before God Finds Me \(Deluxe\)](https://open.spotify.com/album/0fPsaPPbXurVDqFC2qE0Bo) | 4:21 | 2021-11-30 | 2022-11-05 |
+| [Come Undone](https://open.spotify.com/track/4ztGu78QFB9Syh7JcS09XR) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Finding God Before God Finds Me \(Deluxe\)](https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b) | 4:21 | 2022-04-01 |  |
 | [Conspire to Catch Fire](https://open.spotify.com/track/4nRj5sAGWmkT970WkGz4XP) | [Glorious Failure](https://open.spotify.com/artist/4Sn00ZRwJziyshu950k5Jz) | [Sad Reacts Only](https://open.spotify.com/album/326gyra2R3Rd8MkN19md43) | 3:33 | 2022-01-21 | 2022-04-18 |
 | [Constant Dread](https://open.spotify.com/track/6NAkVsLgMPhyovyh2DXDFH) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Brendan Murphy](https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE) | [Constant Dread](https://open.spotify.com/album/6mQq5xpp0AxS07u7esoSYn) | 2:52 | 2021-11-30 | 2022-07-29 |
 | [Cotton Shot](https://open.spotify.com/track/2Sci0oYsa3Dio0R8sr59Me) | [MouthBreather](https://open.spotify.com/artist/7m6SeA1czZq8q7tkzRa20m) | [Cotton Shot](https://open.spotify.com/album/48c7b5zKTqaXTcXuLV91hl) | 2:09 | 2022-04-01 | 2022-07-12 |
@@ -113,7 +114,7 @@
 | [Ensom](https://open.spotify.com/track/1g3P8HDqj2koVaHBvY5O3q) | [Parting Gift](https://open.spotify.com/artist/6Rm6Kxqg4WmFqDodsAf0Gi) | [Ensom](https://open.spotify.com/album/5gAMff2vRgIoObTMVqX8wZ) | 4:38 | 2021-11-30 | 2022-07-28 |
 | [Everything I'm Not](https://open.spotify.com/track/3JOA9ckn1TFwO2DfqJ0UHs) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Everything I'm Not](https://open.spotify.com/album/3q6oMOe6OZMeXvjGfMPmnw) | 3:22 | 2021-11-30 | 2022-06-06 |
 | [Everything Is Ordinary](https://open.spotify.com/track/1jZQKtmTYJS5P5Im07Yhce) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Everything Is Ordinary](https://open.spotify.com/album/0erUOZsXrMTm8BVOPzgAm3) | 3:30 | 2021-11-30 | 2022-07-27 |
-| [Face the Fire](https://open.spotify.com/track/4kpKtTu9ZpEb5ENZD0emKH) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm) | 3:17 | 2022-01-21 |  |
+| [Face the Fire](https://open.spotify.com/track/4kpKtTu9ZpEb5ENZD0emKH) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm) | 3:17 | 2022-01-21 | 2022-11-08 |
 | [Fake Interest](https://open.spotify.com/track/55Ry23F254Wn0Qeqq7o5cC) | [Tunic](https://open.spotify.com/artist/51M2l9r2xX31tNp0SA4WZf) | [Fake Interest](https://open.spotify.com/album/3lagrnqYqoTOlImbz70GqU) | 1:58 | 2022-04-01 | 2022-06-09 |
 | [Fall Until We Fly](https://open.spotify.com/track/0n8tIXRZ2IVzsJAUe2dh6q) | [NU\-95](https://open.spotify.com/artist/14m3SMNSx3L5LhkCrgbHBa) | [Fall Until We Fly](https://open.spotify.com/album/05myJzgPpbXsEf0KRex7Ck) | 3:45 | 2021-11-30 | 2022-07-17 |
 | [False Gods](https://open.spotify.com/track/7im5oojn29v9sJYorEZmz1) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [False Gods](https://open.spotify.com/album/6RV5vUAsUYwmcL2RO08cIb) | 3:07 | 2021-11-30 | 2022-07-20 |
@@ -182,6 +183,7 @@
 | [Just Pretend](https://open.spotify.com/track/3zb8S65LhiPPPH4vov8yV2) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:24 | 2022-02-28 | 2022-11-05 |
 | [Laugh](https://open.spotify.com/track/1C712XcIb3vCB2ZaTODVSO) | [Nicolas Rage](https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf) | [Laugh](https://open.spotify.com/album/2VFioSxxNBcD0tnWewx3m4) | 4:12 | 2021-11-30 | 2022-07-29 |
 | [Laundry Day](https://open.spotify.com/track/0aRy46fbao32mc4GXMtc9t) | [Closure](https://open.spotify.com/artist/641seLgR0Ux2o16l0LrBkP) | [Laundry Day](https://open.spotify.com/album/7v5eTssjuBkhRBArwfMLlK) | 2:59 | 2021-11-30 | 2022-07-27 |
+| [Leave It All Behind](https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:18 | 2022-04-01 |  |
 | [Leave It All Behind](https://open.spotify.com/track/5J1tThACf3JLPc3cC1neEH) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:18 | 2022-04-01 | 2022-11-05 |
 | [Leave It All Behind](https://open.spotify.com/track/6nMNpGl4VvMhtYigbbOmBu) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Leave It All Behind](https://open.spotify.com/album/76qwO2cPiwixGhfBnoGZFE) | 3:18 | 2021-11-30 | 2022-07-29 |
 | [Leave It Alone](https://open.spotify.com/track/6pPLNtkMujDErUmb74QEMG) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [Leave It Alone](https://open.spotify.com/album/0en4SIc14fTSgXasf9tOoR) | 3:26 | 2021-11-30 | 2022-07-29 |
@@ -348,7 +350,7 @@
 | [Useless Hands](https://open.spotify.com/track/4RaO6AytPosGrVFMKLZznb) | [Rival Town](https://open.spotify.com/artist/49KEHU4tamf9YVgxUvVKUM) | [Useless Hands](https://open.spotify.com/album/6b8Vk2RmN89BMFCqVSfaaz) | 3:42 | 2022-04-01 | 2022-04-21 |
 | [Velvet Dreams](https://open.spotify.com/track/6EX9kqSPHt2oJKnWiiYADD) | [A Boy Named John](https://open.spotify.com/artist/7fYxDRNZREuC9Dht93kX5G) | [Velvet Dreams](https://open.spotify.com/album/5FuYsZlepb3G4NxazH0HlP) | 4:06 | 2021-11-30 | 2022-07-07 |
 | [Walk On](https://open.spotify.com/track/4vUWzxdmtVqMonTp97JIOf) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Walk On](https://open.spotify.com/album/5854MVXCfaOOY1GHuZJEjg) | 3:34 | 2021-11-30 | 2022-07-28 |
-| [Were You Nervous?](https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0) | [Speech Patterns](https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e) | [Were You Nervous?](https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q) | 3:28 | 2021-11-30 |  |
+| [Were You Nervous?](https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0) | [Speech Patterns](https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e) | [Were You Nervous?](https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q) | 3:28 | 2021-11-30 | 2022-11-08 |
 | [We’ll Always Have Paris](https://open.spotify.com/track/4sYQbdudBHfgKDXhrVmycI) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [We'll Always Have Paris](https://open.spotify.com/album/3iKYHiyK0w7wo72SzKOv9l) | 3:47 | 2021-11-30 | 2022-07-27 |
 | [We’ll Always Have Paris](https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Restless Heart, Keep Running](https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ) | 3:47 | 2022-04-01 |  |
 | [What Have We Done?](https://open.spotify.com/track/4GU86vBQEge7Vzhn7o7weu) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [This Too Won't Pass](https://open.spotify.com/album/2CQK9vC9ic6f9wECBlhhgk) | 2:31 | 2021-11-30 | 2022-07-17 |

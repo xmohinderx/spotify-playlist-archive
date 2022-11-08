@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Dorados en portada.
 
-180 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+181 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Cuando Me Besas](https://open.spotify.com/track/6ZdXJXmzxsKFB4nKfpne5D) | [La Fe Norteña De Toño Aranda](https://open.spotify.com/artist/6MMoDGT2Mm3lz5sfVcd3Ck) | [Cuando Me Besas](https://open.spotify.com/album/3iy4zgwoDyLZ9kLRza45nx) | 2:59 | 2022-07-15 | 2022-10-04 |
 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 | 2022-07-01 | 2022-09-03 |
 | [Cuando Me Muera](https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:09 | 2022-07-01 | 2022-08-06 |
+| [Cuando Yo Me Muera](https://open.spotify.com/track/4V927V1JIlJkE7nVU4UBsF) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cuando Yo Me Muera](https://open.spotify.com/album/5hBljEaghOwnONYAlISqOi) | 3:00 | 2022-11-04 |  |
 | [Cuervo Sierra](https://open.spotify.com/track/0Ac0WSY3CUEfKFxU4Hdn8j) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/0h5bcde94ola2aVwjW1BaX) | 2:55 | 2022-01-14 | 2022-07-29 |
 | [Cuervo Sierra](https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj) | 2:55 | 2022-01-14 |  |
 | [Culpable O No \- Miénteme Como Siempre](https://open.spotify.com/track/5ZcYH1ble3YFjdOoEteBL9) | [Dupla Real](https://open.spotify.com/artist/6XUCxJIstAiHJIXWipOcIe) | [Culpable O No \- Miénteme Como Siempre](https://open.spotify.com/album/4JPRiYDhhlUmgtm2YX4E81) | 2:51 | 2022-11-04 |  |
@@ -176,7 +177,7 @@
 | [Te Amaré Más](https://open.spotify.com/track/4i7s10avxVqIdMERsS996a) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Te Amaré Más](https://open.spotify.com/album/2d7b3fXbYvWpBDuIyPbAS9) | 3:44 | 2022-08-05 | 2022-11-05 |
 | [Te Mereces](https://open.spotify.com/track/7MOsxXYlhSoQUSJhR09QGB) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas, Vol.2](https://open.spotify.com/album/1W2Atto04JwV3G32tP5rPO) | 2:38 | 2022-07-01 | 2022-11-05 |
 | [Te vez Buena](https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E) | 4:12 | 2022-04-15 | 2022-11-03 |
-| [Te Vez Buena](https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh) | 4:12 | 2022-08-29 |  |
+| [Te Vez Buena](https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh) | 4:12 | 2022-08-29 | 2022-11-08 |
 | [Terrenal](https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:57 | 2022-06-20 | 2022-11-05 |
 | [Todavía No Sabe \- Radio](https://open.spotify.com/track/3alt3dQHiothn0qCSZf5cJ) | [Solido](https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj) | [Todavía No Sabe](https://open.spotify.com/album/3gjijAYfP7Bqm150XRK4WP) | 3:29 | 2022-07-01 | 2022-07-29 |
 | [Tu Cárcel](https://open.spotify.com/track/7iIkdDkrVcyPulI2gXLTYP) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Tu Cárcel](https://open.spotify.com/album/6TI145XlTYny1EKWi07Qvg) | 2:37 | 2022-09-30 |  |

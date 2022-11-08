@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Soledad, Lali & Natalia Oreiro.",
-  "num_followers": 76414,
+  "num_followers": 76446,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDRmYWZhODZkZTYyZjk5YmE3Yzg5NzBiZTQwMmI1MGZk",
+  "snapshot_id": "MTY2NzgzNjgwMywwMDAwMDAwMDEzMTE0ZGM2MzFlY2I4M2VlOTRjNzA5ZGMzM2FkZTUz",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Tonto Cari\u00f1o",
         "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
       },
@@ -131,34 +147,6 @@
       "duration_ms": 299284,
       "name": "Estupido",
       "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "De Buenos Aires Para El Mundo",
-        "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        },
-        {
-          "name": "Horacio Palencia",
-          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
-        }
-      ],
-      "duration_ms": 221346,
-      "name": "Amor A Primera Vista",
-      "url": "https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -219,8 +207,8 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
       "artists": [
         {
@@ -228,25 +216,37 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+      "duration_ms": 161906,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
     },
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Sin Verg\u00fcenza",
-        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
+        "name": "De Buenos Aires Para El Mundo",
+        "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
       "artists": [
         {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        },
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
         }
       ],
-      "duration_ms": 179213,
-      "name": "Corazon Mentiroso",
-      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
+      "duration_ms": 221346,
+      "name": "Amor A Primera Vista",
+      "url": "https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -287,22 +287,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Nunca Es Suficiente",
-        "url": "https://open.spotify.com/album/2MklkALAfaelRjcEzQ8jaq"
+        "name": "Sin Verg\u00fcenza",
+        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
       },
       "artists": [
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        },
         {
           "name": "Karina",
           "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 256052,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/4MT6VBDcFQzcrXwjDv7GYk"
+      "duration_ms": 179213,
+      "name": "Corazon Mentiroso",
+      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -323,6 +319,26 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Nunca Es Suficiente",
+        "url": "https://open.spotify.com/album/2MklkALAfaelRjcEzQ8jaq"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 256052,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/4MT6VBDcFQzcrXwjDv7GYk"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "La Pollera Amarilla",
         "url": "https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 189106,
       "name": "La Pollera Amarilla",
       "url": "https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Tiempo de Cambio",
-        "url": "https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "Fuera",
-      "url": "https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Por Amor A La M\u00fasica",
         "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 188534,
       "name": "El Marginal",
       "url": "https://open.spotify.com/track/0R2271joKqIt1utuHQbQ4w"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Tiempo de Cambio",
+        "url": "https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "Fuera",
+      "url": "https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "En Peligro de Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 221823,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Amandititita",
         "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "En Peligro de Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 221823,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "La Voz de los Barrios",
         "url": "https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Amor de Cuarentena (Urbano)",
-        "url": "https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 194374,
-      "name": "Amor de Cuarentena - Urbano",
-      "url": "https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Lo Que Tenias Conmigo",
         "url": "https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 198542,
       "name": "Lo Que Tenias Conmigo",
       "url": "https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Amandititita",
+        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
+      },
+      "artists": [
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+        }
+      ],
+      "duration_ms": 198413,
+      "name": "La Muy Muy - (Album Version)",
+      "url": "https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Amandititita",
-        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
+        "name": "Amor de Cuarentena (Urbano)",
+        "url": "https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5"
       },
       "artists": [
         {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
         }
       ],
-      "duration_ms": 198413,
-      "name": "La Muy Muy - (Album Version)",
-      "url": "https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc"
+      "duration_ms": 194374,
+      "name": "Amor de Cuarentena - Urbano",
+      "url": "https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -805,6 +805,22 @@
       "url": "https://open.spotify.com/track/0cDY6YWjTuodhVZbMce478"
     },
     {
+      "added_at": "2022-11-08 01:27:57",
+      "album": {
+        "name": "Placer y Olvido (En Vivo)",
+        "url": "https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 82400,
+      "name": "Placer y Olvido",
+      "url": "https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU"
+    },
+    {
       "added_at": "2022-09-23 03:00:00",
       "album": {
         "name": "Grandes Exitos",
@@ -835,22 +851,6 @@
       "duration_ms": 212946,
       "name": "Cag\u00f3n",
       "url": "https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 217190,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 217190,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "El Besito",
         "url": "https://open.spotify.com/album/4axZl6YknXJ5IMf4WuBqCY"
       },
@@ -959,6 +975,42 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Ya No Cabes en Mi Vida",
+        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 211489,
+      "name": "Ya No Cabes en Mi Vida",
+      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Olvidate",
+        "url": "https://open.spotify.com/album/2RXjWfynHKQteGUCxDzmFW"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Mart\u00edn Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/1TndreWtLjfAlywnkm966g"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Olvidate",
+      "url": "https://open.spotify.com/track/55qtkVCefp1ayMMX29w44d"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Hipn\u00f3tica",
         "url": "https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep"
       },
@@ -991,22 +1043,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Olvidate",
-        "url": "https://open.spotify.com/album/2RXjWfynHKQteGUCxDzmFW"
+        "name": "Es Mi Culpa",
+        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
       },
       "artists": [
         {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "Mart\u00edn Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/1TndreWtLjfAlywnkm966g"
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
         }
       ],
-      "duration_ms": 237386,
-      "name": "Olvidate",
-      "url": "https://open.spotify.com/track/55qtkVCefp1ayMMX29w44d"
+      "duration_ms": 215067,
+      "name": "Es Mi Culpa",
+      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1027,22 +1075,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Es Mi Culpa",
-        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
-      },
-      "artists": [
-        {
-          "name": "Erica",
-          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
-        }
-      ],
-      "duration_ms": 215067,
-      "name": "Es Mi Culpa",
-      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Tiembla",
         "url": "https://open.spotify.com/album/0m9W2jEAwSNQm1WifE0jid"
       },
@@ -1059,22 +1091,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Ya No Cabes en Mi Vida",
-        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 211489,
-      "name": "Ya No Cabes en Mi Vida",
-      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/2XcMiM1YvsBUvbXLFSuo8J"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 185516,
       "name": "Se\u00f1or Mentira",
       "url": "https://open.spotify.com/track/0Lwv86uXopDNobWyASNPLK"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Ayer Pedi",
-        "url": "https://open.spotify.com/album/2pXbX5czCgui6x2dq6TC5o"
-      },
-      "artists": [
-        {
-          "name": "Natalia Corbal\u00e1n",
-          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
-        }
-      ],
-      "duration_ms": 205032,
-      "name": "Ayer Pedi",
-      "url": "https://open.spotify.com/track/0Tc0FMFV5Q0cAaXTCSmglI"
     },
     {
       "added_at": "2022-09-23 03:00:00",

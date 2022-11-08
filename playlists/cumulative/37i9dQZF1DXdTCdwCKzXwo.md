@@ -4,7 +4,7 @@
 
 > Early pioneers that brought the underground to the foreground\. Cover: Nico
 
-163 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/1biJVwGgudNJMTh4YCWUBg)
+164 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/1biJVwGgudNJMTh4YCWUBg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Cosmic Dancer](https://open.spotify.com/track/0Z2fQ0Avroujey7uTEmMTP) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/4Yw5uS8at8GkWmH2gZmLY0) | 4:30 | 2018-12-14 | 2022-07-29 |
 | [Creep](https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) | 3:58 | 2018-12-14 | 2022-03-12 |
 | [Cut Your Hair \(Remastered\)](https://open.spotify.com/track/5nG6XQckfjnPkDyxDGDFFV) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Quarantine The Past: The Best Of Pavement](https://open.spotify.com/album/75MSNWQwcQAAM2MHGX8JaI) | 3:05 | 2018-12-14 | 2022-05-27 |
+| [Damaged Goods](https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:26 | 2022-05-26 |  |
 | [Damaged Goods \- Remastered](https://open.spotify.com/track/2iQvYaOlUcuVgczMtRvAcV) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment! \(Expanded & Remastered\) \[US Release\]](https://open.spotify.com/album/3ZWcrEHw7bkgEJMyvMLGrO) | 3:26 | 2018-12-14 | 2022-07-29 |
 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 | 2018-12-14 | 2022-05-27 |
 | [Deceptacon](https://open.spotify.com/track/3PVRSOQ57O3LO6HCAPkbfY) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/3N4rp7pLbDlWo2EvtONFMG) | 3:04 | 2018-12-14 | 2022-05-25 |
@@ -136,7 +137,7 @@
 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 | 2018-12-14 |  |
 | [Son Of A Gun](https://open.spotify.com/track/5xDQhEvVjbMoy6ViNQxNeG) | [The Vaselines](https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW) | [Enter The Vaselines \(Deluxe Edition\)](https://open.spotify.com/album/47D3pdpkbeQSfXDUUGIlJE) | 3:45 | 2018-12-14 | 2022-07-29 |
 | [soon](https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 6:59 | 2021-03-31 | 2022-07-29 |
-| [Space Age Love Song](https://open.spotify.com/track/0xzn2U71zNWLeJbE4Zat4C) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [A Flock Of Seagulls](https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8) | 3:47 | 2022-05-26 |  |
+| [Space Age Love Song](https://open.spotify.com/track/0xzn2U71zNWLeJbE4Zat4C) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [A Flock Of Seagulls](https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8) | 3:47 | 2022-05-26 | 2022-11-08 |
 | [Start Choppin'](https://open.spotify.com/track/7yThIhNzpgDBIGoL2y1y6u) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Where You Been](https://open.spotify.com/album/5mJss6O9hjbeESfqoBX1xM) | 5:40 | 2018-12-14 |  |
 | [Strangelove \- Single Version](https://open.spotify.com/track/6MHOg9xiYC2gj8zcASaLUo) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/1RC1I4Sf6tfnyMVoRJxDo3) | 3:47 | 2018-12-14 | 2022-09-09 |
 | [Sweet Jane](https://open.spotify.com/track/4Xne0YjYaY1MtP74svE08d) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Very Best Of The Velvet Underground](https://open.spotify.com/album/344S0YTvALBtF2Aq2EsJWy) | 4:05 | 2018-12-14 | 2022-07-29 |

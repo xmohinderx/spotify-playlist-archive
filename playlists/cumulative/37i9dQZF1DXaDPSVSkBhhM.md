@@ -4,7 +4,7 @@
 
 > ¡Pop\-punk por siempre!
 
-96 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/3WhbNn8qSzUKSvI6nJ4Hu0)
+97 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/3WhbNn8qSzUKSvI6nJ4Hu0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Antes](https://open.spotify.com/track/1rZPLX3l9i3nOzPuyw5uTa) | [Celofán](https://open.spotify.com/artist/6lxn2RanNHWxoWRHLTLunm) | [Split](https://open.spotify.com/album/2w1Xt3HBQq6qIDZEZWk4CE) | 3:19 | 2021-11-26 |  |
 | [Apariencia](https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Corazón D' Roto](https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC) | 3:37 | 2022-07-22 |  |
 | [Así Nos Rompíamos el Hocico Ayer](https://open.spotify.com/track/08JMJA2pkJBXwwbzhvQ4av) | [Primo](https://open.spotify.com/artist/2wXJLXeNLTOKyDWw0F5FZF) | [Así Nos Rompíamos el Hocico Ayer](https://open.spotify.com/album/1BJcmBqzsfVXOpurvxnxZz) | 2:06 | 2021-11-26 | 2022-07-27 |
-| [Aunque a Veces Tenga Miedo](https://open.spotify.com/track/3NtymRSp0GJUBeiNUk3ZRL) | [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [Aunque a Veces Tenga Miedo](https://open.spotify.com/album/4mDGa6yqGKRmWvCHKIVvDM) | 3:54 | 2021-11-26 |  |
+| [Aunque a Veces Tenga Miedo](https://open.spotify.com/track/3NtymRSp0GJUBeiNUk3ZRL) | [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [Aunque a Veces Tenga Miedo](https://open.spotify.com/album/4mDGa6yqGKRmWvCHKIVvDM) | 3:54 | 2021-11-26 | 2022-11-08 |
 | [Bajo la Misma Luna \(Yo Estoy Pensando Que Tu Estas Pensando en Mi\)](https://open.spotify.com/track/0XFK8dOXAG5AJiVUJmEqfF) | [2contra1](https://open.spotify.com/artist/07QNsyKFdUIrz9DdQj1Df6) | [7 Minutos en el Infierno](https://open.spotify.com/album/0kQwfwokGW1xXfKYSt066t) | 2:37 | 2021-11-26 | 2022-07-23 |
 | [Canción para Ti](https://open.spotify.com/track/45Vmknqo3EMaLb6ijxUA3q) | [Blast55](https://open.spotify.com/artist/6ZtsVCTccysmOQrMasGMG8) | [A Todos Nos Pasa](https://open.spotify.com/album/6wJEaTch4XaGZnsXSAv0ve) | 3:45 | 2021-11-26 |  |
 | [Casino](https://open.spotify.com/track/4niODdjcyRxzbSubNHkPJD) | [Zebra Circus](https://open.spotify.com/artist/66VeZSojaHusZqN8CPaeRK) | [Versus](https://open.spotify.com/album/7BvW15QTU5rPOKOEQ9WZ68) | 2:42 | 2021-11-26 | 2022-07-27 |
@@ -35,6 +35,7 @@
 | [Desamorados](https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx) | [Hey Bésala](https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh) | [Volumen 2](https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN) | 3:44 | 2021-11-26 |  |
 | [Diablo](https://open.spotify.com/track/3uG25I4QTa4BIb8CvGJPnj) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Diablo](https://open.spotify.com/album/1juMGH36bT1Zq4xLvyNCsA) | 3:24 | 2021-11-26 | 2022-07-29 |
 | [Diablo](https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Al infierno y de regreso](https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa) | 3:24 | 2022-07-22 |  |
+| [Dicen Que Estoy Muerto](https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh) | [Tungas](https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM) | [Vamos Perdiendo el Corazón](https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn) | 4:01 | 2022-10-01 |  |
 | [Dicen Que Estoy Muerto](https://open.spotify.com/track/7KBzo2RWU7mhDJZgTjD5gY) | [Tungas](https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM) | [Vamos Perdiendo El Corazón](https://open.spotify.com/album/4lcbQQyqg5NkrKVdnK4Ovt) | 4:03 | 2021-11-26 | 2022-11-04 |
 | [Disculpa los Malos Pensamientos](https://open.spotify.com/track/76VYYaRC2np6iUbD2Ze2lD) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [Para Ti Con Desprecio](https://open.spotify.com/album/2CcCMbh4RxNk3Pu5LfUQ5K) | 3:58 | 2021-11-26 |  |
 | [Disparos](https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Disparos](https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68) | 3:49 | 2021-11-26 |  |

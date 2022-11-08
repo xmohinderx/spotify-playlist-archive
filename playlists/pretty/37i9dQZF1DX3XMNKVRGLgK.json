@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 1000,
+  "num_followers": 1026,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDQwYjY2YmM0NzZhY2NmNjhmZTNkMmQ3NTVkMjFhYzcx",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGU2NWFjYTNmMjUzMzNlNjU2ZmE3MGFlMWEwNzhlMTA5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Blueprint (Explicit Version)",
-        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "U Don't Know",
-      "url": "https://open.spotify.com/track/4O7oKy8YADaBrbehcPl0kE"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "800 BC",
         "url": "https://open.spotify.com/album/2F8sqO6n3U3NO8t1qVLWs0"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Doe Or Die",
+        "url": "https://open.spotify.com/album/4wPNy4oz3tDjY3OEeHiOVq"
+      },
+      "artists": [
+        {
+          "name": "AZ",
+          "url": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+        }
+      ],
+      "duration_ms": 392186,
+      "name": "Mo Money Mo Murder (Homicide)",
+      "url": "https://open.spotify.com/track/62YPBeWVcD1FDWo7yTBXix"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Doe Or Die",
-        "url": "https://open.spotify.com/album/4wPNy4oz3tDjY3OEeHiOVq"
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
       },
       "artists": [
         {
-          "name": "AZ",
-          "url": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 392186,
-      "name": "Mo Money Mo Murder (Homicide)",
-      "url": "https://open.spotify.com/track/62YPBeWVcD1FDWo7yTBXix"
+      "duration_ms": 199440,
+      "name": "U Don't Know",
+      "url": "https://open.spotify.com/track/4O7oKy8YADaBrbehcPl0kE"
     },
     {
       "added_at": "2022-10-01 16:00:00",

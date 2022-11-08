@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 171944,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
@@ -1579,6 +1579,24 @@
       "duration_ms": 155520,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz"
+    },
+    {
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/1yysGeBcekP8zwh286sr5y"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132960,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6ndYXyIxeRv7pS4hHH830J"
     },
     {
       "album": {

@@ -456,6 +456,24 @@
     },
     {
       "album": {
+        "name": "Cuando Yo Me Muera",
+        "url": "https://open.spotify.com/album/5hBljEaghOwnONYAlISqOi"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180441,
+      "name": "Cuando Yo Me Muera",
+      "url": "https://open.spotify.com/track/4V927V1JIlJkE7nVU4UBsF"
+    },
+    {
+      "album": {
         "name": "Cuervo Sierra",
         "url": "https://open.spotify.com/album/0h5bcde94ola2aVwjW1BaX"
       },
@@ -3155,7 +3173,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 252888,
       "name": "Te Vez Buena",
       "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"

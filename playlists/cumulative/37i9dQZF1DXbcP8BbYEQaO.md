@@ -4,7 +4,7 @@
 
 > in the evening the real me comes alive
 
-462 songs - 1 day 2 hr 14 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+463 songs - 1 day 2 hr 17 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [All the Feels](https://open.spotify.com/track/0XGEJ2ggFFuD35Aj21kZJR) | [Scavenger Hunt](https://open.spotify.com/artist/2CJw5Z0VmlBMrS1J1dtG9Z) | [All the Feels](https://open.spotify.com/album/537eFZTXjHEPouGWY0ZY21) | 3:17 | 2022-07-15 | 2022-07-19 |
 | [All The Things She Said](https://open.spotify.com/track/4EWfxnUb6TPQlaUjFgxnym) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [All The Things She Said](https://open.spotify.com/album/5ESAbhn6KetEUOmf5VOkkh) | 3:19 | 2022-01-01 | 2022-03-12 |
 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-10-02 | 2022-04-17 |
-| [AMAN](https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [AMAN](https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5) | 3:10 | 2022-09-16 |  |
+| [AMAN](https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [AMAN](https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5) | 3:10 | 2022-09-16 | 2022-11-08 |
 | [America Online](https://open.spotify.com/track/2MnAs40kO1izWTF63MW5uM) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [America Online](https://open.spotify.com/album/7nUIXnRMkRFbyoduYKRnvF) | 5:49 | 2020-10-13\* | 2021-12-04 |
 | [AMERICAN GURL](https://open.spotify.com/track/1YYcaX7Mft6dVeSSwfyAuh) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL](https://open.spotify.com/album/5LXmSrGzPSEmTEu3OIsotT) | 3:48 | 2022-04-15 | 2022-05-20 |
 | [Angel](https://open.spotify.com/track/4lHUHDjJCQ1KoBu6tPn3N6) | [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | [Angel](https://open.spotify.com/album/3TeE4aUIN4xID8Ao7rQZLm) | 3:56 | 2021-09-11 | 2022-05-19 |
@@ -120,6 +120,7 @@
 | [Die 4 Ur Love](https://open.spotify.com/track/0lpTna9kRkFgbq9htSBmOK) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Die 4 Ur Love \(Deluxe\)](https://open.spotify.com/album/5OgIupqmSD356odTnwvkBj) | 3:19 | 2022-04-16 | 2022-10-29 |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2022-07-05 |  |
 | [Die Trying](https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Die Trying](https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm) | 3:29 | 2020-10-13\* | 2021-07-17 |
+| [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK) | 3:33 | 2022-10-28 |  |
 | [Doing To Me](https://open.spotify.com/track/1ioqD1XvFGDomjXkKNCBQB) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Trust Issues](https://open.spotify.com/album/0p9VYdjKX7XgC7M3wm5R3E) | 3:10 | 2020-10-13\* | 2021-12-04 |
 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 | 2022-05-27 |  |
 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2021-02-19 | 2021-07-04 |

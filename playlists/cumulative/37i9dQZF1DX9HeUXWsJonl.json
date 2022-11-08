@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 206205,
       "name": "3allamni Ellil",
       "url": "https://open.spotify.com/track/1RBZj4TSUCsaIdapBU8wOv"
@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Cicatrice",
+        "url": "https://open.spotify.com/album/4xRldT6DB8MdQp60tBVwgq"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243473,
+      "name": "Cicatrice",
+      "url": "https://open.spotify.com/track/4ijVcIJQmQJsMM79kQ6axU"
+    },
+    {
+      "album": {
         "name": "Demi-tour",
         "url": "https://open.spotify.com/album/7r9DuONoCBCEhVHXpSzUTH"
       },
@@ -589,6 +607,24 @@
       "duration_ms": 312110,
       "name": "Ena",
       "url": "https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA"
+    },
+    {
+      "album": {
+        "name": "Ena w Lil",
+        "url": "https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl"
+      },
+      "artists": [
+        {
+          "name": "NORDO",
+          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194429,
+      "name": "Ena w Lil",
+      "url": "https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC"
     },
     {
       "album": {
@@ -1429,7 +1465,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 236326,
       "name": "Sidi El Houwari",
       "url": "https://open.spotify.com/track/7ewNKUWihyy5DWQQESwjPc"

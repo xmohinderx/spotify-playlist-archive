@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 37144,
+  "num_followers": 37240,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNjMzNiwwMDAwMDAwMDQwNzcxYjAwYjhjNzg0NTgyYjRjYTJiODRhMjVkODdl",
+  "snapshot_id": "MTY2NTQwNjMzNiwwMDAwMDAwMDMzZjQwNjNmNDNkNWQxOWJhNTBjN2Y1NTQ1ZjI3NDA2",
   "tracks": [
     {
       "added_at": "2022-10-03 13:20:23",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "The Natch'l Blues",
-        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Corinna - From \"The Natch'l Blues\"",
-      "url": "https://open.spotify.com/track/1NoIZ1658UHpicKQ9rcWYh"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "Emotion & Commotion",
         "url": "https://open.spotify.com/album/2uZCLo1QvLgjAb74Q8kv53"
       },
@@ -179,6 +163,42 @@
       "duration_ms": 182426,
       "name": "I Put a Spell on You (feat. Joss Stone)",
       "url": "https://open.spotify.com/track/3Be7vJDOFNOVv3iYQgIQpu"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "The Natch'l Blues",
+        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Corinna - From \"The Natch'l Blues\"",
+      "url": "https://open.spotify.com/track/1NoIZ1658UHpicKQ9rcWYh"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -219,26 +239,6 @@
       "duration_ms": 440200,
       "name": "Blues Deluxe",
       "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Bring It On Home To Me",
-      "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Fire on the Floor (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 311226,
-      "name": "Fire On The Floor",
-      "url": "https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
+        "name": "Fire on the Floor (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
         }
       ],
-      "duration_ms": 255426,
-      "name": "Blues Music",
-      "url": "https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT"
+      "duration_ms": 311226,
+      "name": "Fire On The Floor",
+      "url": "https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -609,7 +593,23 @@
       "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
     },
     {
-      "added_at": "2022-11-07 01:28:35",
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "G. Love And Special Sauce",
+        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 255426,
+      "name": "Blues Music",
+      "url": "https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT"
+    },
+    {
+      "added_at": "2022-11-08 01:29:10",
       "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
+        "name": "Live At Blues Alley",
+        "url": "https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 349066,
+      "name": "Stormy Monday",
+      "url": "https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 412333,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
-        "name": "Live At Blues Alley",
-        "url": "https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 349066,
-      "name": "Stormy Monday",
-      "url": "https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -895,18 +895,22 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Real Contender",
-        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
+        "name": "Don't Let the Green Grass Fool You",
+        "url": "https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A"
       },
       "artists": [
         {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        },
+        {
+          "name": "The Midnight Band",
+          "url": "https://open.spotify.com/artist/4QIUZHZcicCxWwPhdxIoFR"
         }
       ],
-      "duration_ms": 201933,
-      "name": "Real Contender",
-      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
+      "duration_ms": 225160,
+      "name": "Don't Let the Green Grass Fool You",
+      "url": "https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -931,22 +935,18 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Don't Let the Green Grass Fool You",
-        "url": "https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A"
+        "name": "Real Contender",
+        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
       },
       "artists": [
         {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        },
-        {
-          "name": "The Midnight Band",
-          "url": "https://open.spotify.com/artist/4QIUZHZcicCxWwPhdxIoFR"
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
         }
       ],
-      "duration_ms": 225160,
-      "name": "Don't Let the Green Grass Fool You",
-      "url": "https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ"
+      "duration_ms": 201933,
+      "name": "Real Contender",
+      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "On Every Street (Remaster)",
-        "url": "https://open.spotify.com/album/0ORgLm6BMFVpLGS4Q5SKMZ"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 359333,
-      "name": "You and Your Friend",
-      "url": "https://open.spotify.com/track/7LXxMApcyuh5A3sod0nV5s"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "He Was a Friend of Mine",
         "url": "https://open.spotify.com/album/2kFK4iDjsStJ0fgFjZOfag"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 197739,
       "name": "He Was a Friend of Mine",
       "url": "https://open.spotify.com/track/4aGp4qppOAsR9adlled9Sy"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "On Every Street (Remaster)",
+        "url": "https://open.spotify.com/album/0ORgLm6BMFVpLGS4Q5SKMZ"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 359333,
+      "name": "You and Your Friend",
+      "url": "https://open.spotify.com/track/7LXxMApcyuh5A3sod0nV5s"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "Love At First Sight",
-        "url": "https://open.spotify.com/album/17mDEDwEP1Stx3Rf1BxuDF"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 208700,
-      "name": "Love At First Sight",
-      "url": "https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 270600,
       "name": "River",
       "url": "https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "Love At First Sight",
+        "url": "https://open.spotify.com/album/17mDEDwEP1Stx3Rf1BxuDF"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 208700,
+      "name": "Love At First Sight",
+      "url": "https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1241,7 +1241,7 @@
       "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
     },
     {
-      "added_at": "2022-11-07 01:28:35",
+      "added_at": "2022-11-08 01:29:10",
       "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
@@ -1255,22 +1255,6 @@
       "duration_ms": 188520,
       "name": "If Heaven Is A Hotel",
       "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
-    },
-    {
-      "added_at": "2022-11-07 01:28:35",
-      "album": {
-        "name": "Come on Sunshine",
-        "url": "https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f"
-      },
-      "artists": [
-        {
-          "name": "Kendell Marvel",
-          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Come on Sunshine",
-      "url": "https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1305,6 +1289,22 @@
       "url": "https://open.spotify.com/track/58BGpUO6f8f8LuRyInc61J"
     },
     {
+      "added_at": "2022-11-08 01:29:10",
+      "album": {
+        "name": "Come on Sunshine",
+        "url": "https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f"
+      },
+      "artists": [
+        {
+          "name": "Kendell Marvel",
+          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Come on Sunshine",
+      "url": "https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp"
+    },
+    {
       "added_at": "2022-10-03 13:20:23",
       "album": {
         "name": "What Happens Next",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
-        "name": "White Jesus Black Problems",
-        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 227274,
-      "name": "Nibbadip",
-      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
         "name": "Jigsaw Heart",
         "url": "https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 250946,
       "name": "Better This Way",
       "url": "https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 227274,
+      "name": "Nibbadip",
+      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
     },
     {
       "added_at": "2022-10-03 13:20:23",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-10-03 13:20:23",
       "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 381893,
+      "name": "Million Miles",
+      "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
+    },
+    {
+      "added_at": "2022-10-03 13:20:23",
+      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/4G9uuVJr2HKndziyWh6wPu"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 300373,
       "name": "Stay Around A Little Longer (feat. B.B. King)",
       "url": "https://open.spotify.com/track/49xNJS9z0ssQFNPi2oXxXC"
-    },
-    {
-      "added_at": "2022-10-03 13:20:23",
-      "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 381893,
-      "name": "Million Miles",
-      "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
     },
     {
       "added_at": "2022-10-03 13:20:23",

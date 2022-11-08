@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 80868,
+  "num_followers": 80904,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5NDYyNiwwMDAwMDAwMDA5ZTkwNDM3ZmJkMWZhYWI1NDk0NzNhOTgwOGU0MzRm",
+  "snapshot_id": "MTY2MjM5NDYyNiwwMDAwMDAwMDgwMWFjZWQ5NTZiYjJjNzgyOGJlYmNhOGY0NjhmMWI1",
   "tracks": [
     {
       "added_at": "2022-09-05 16:17:05",
@@ -79,26 +79,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Genetic World",
-        "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9l\u00e9popmusik",
-          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
-        },
-        {
-          "name": "Angela McCluskey",
-          "url": "https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x"
-        }
-      ],
-      "duration_ms": 282240,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Happy Music / Something on My Mind",
         "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
       },
@@ -119,18 +99,38 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Vanille fraise",
-        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
+        "name": "Genetic World",
+        "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "T\u00e9l\u00e9popmusik",
+          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
+        },
+        {
+          "name": "Angela McCluskey",
+          "url": "https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x"
         }
       ],
-      "duration_ms": 238183,
-      "name": "Vanille fraise",
-      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
+      "duration_ms": 282240,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Breezin'",
+        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 341733,
+      "name": "Breezin'",
+      "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -167,18 +167,18 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Breezin'",
-        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
+        "name": "Vanille fraise",
+        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 341733,
-      "name": "Breezin'",
-      "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
+      "duration_ms": 238183,
+      "name": "Vanille fraise",
+      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -231,6 +231,22 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
+        "name": "Talkie Walkie",
+        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Alone in Kyoto",
+      "url": "https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
         "name": "Baxter (these are my friends)",
         "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Talkie Walkie",
-        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "Alone in Kyoto",
-      "url": "https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Alma Do Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4MgN4bBtUrxbwgrfWsAmh8"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 347819,
       "name": "Alma Do Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4EJYNB33sPhaGy6coffk4o"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Kerala",
-      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -363,6 +347,22 @@
       "duration_ms": 189760,
       "name": "El Layali",
       "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Kerala",
+      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Carboot Soul",
-        "url": "https://open.spotify.com/album/5pwdeiIEpfn2TF7M1J21MR"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 380626,
-      "name": "Les Nuits",
-      "url": "https://open.spotify.com/track/4P8qXnroR43S0xk0hmSbNs"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Jazz Club After Hours",
         "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 294211,
       "name": "Jazz Club After Hours",
       "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Carboot Soul",
+        "url": "https://open.spotify.com/album/5pwdeiIEpfn2TF7M1J21MR"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 380626,
+      "name": "Les Nuits",
+      "url": "https://open.spotify.com/track/4P8qXnroR43S0xk0hmSbNs"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 262990,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 258651,
       "name": "Sign",
       "url": "https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
-        "name": "Since Then. 2017",
-        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
-      },
-      "artists": [
-        {
-          "name": "Ian Pooley",
-          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
-        }
-      ],
-      "duration_ms": 274080,
-      "name": "Venasque",
-      "url": "https://open.spotify.com/track/20XyCtN4HMiL1BsvXyengf"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+        "name": "Since Then. 2017",
+        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
         }
       ],
-      "duration_ms": 262990,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
+      "duration_ms": 274080,
+      "name": "Venasque",
+      "url": "https://open.spotify.com/track/20XyCtN4HMiL1BsvXyengf"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
+        "name": "The Mirror Conspiracy",
+        "url": "https://open.spotify.com/album/2CPYbHU0udS9tbx8PmBEV2"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 288826,
+      "name": "Lebanese Blonde",
+      "url": "https://open.spotify.com/track/66KcXPDs1hr8T06KvlJCeA"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
-        "name": "The Mirror Conspiracy",
-        "url": "https://open.spotify.com/album/2CPYbHU0udS9tbx8PmBEV2"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 288826,
-      "name": "Lebanese Blonde",
-      "url": "https://open.spotify.com/track/66KcXPDs1hr8T06KvlJCeA"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Gentle EP",
-        "url": "https://open.spotify.com/album/45LfyUaK6GsKpNb7uFfcm3"
-      },
-      "artists": [
-        {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        }
-      ],
-      "duration_ms": 347505,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/4fZxYrLJd92r8MJtqgjZjv"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Just Landed",
         "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Camino Del Sol",
-        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
+        "name": "Gentle EP",
+        "url": "https://open.spotify.com/album/45LfyUaK6GsKpNb7uFfcm3"
       },
       "artists": [
         {
-          "name": "Antena",
-          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
         }
       ],
-      "duration_ms": 222680,
-      "name": "Camino Del Sol",
-      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
+      "duration_ms": 347505,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/4fZxYrLJd92r8MJtqgjZjv"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1235,6 +1219,22 @@
       "duration_ms": 214014,
       "name": "Tiefer - Edit",
       "url": "https://open.spotify.com/track/3G7SL29sPxI9Nyw96Awvdt"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Camino Del Sol",
+        "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
+      },
+      "artists": [
+        {
+          "name": "Antena",
+          "url": "https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Camino Del Sol",
+      "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 311413,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
         "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 220546,
       "name": "V\u00f4o sobre o horizonte",
       "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 311413,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Pina Colada (And Other Early Tunes)",
-        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
-      },
-      "artists": [
-        {
-          "name": "Digby Jones",
-          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
-        }
-      ],
-      "duration_ms": 366946,
-      "name": "Pina Colada (Jazz Mix)",
-      "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Compilation",
         "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
       },
@@ -1571,18 +1555,34 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "The Day Before (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1FJWNRqws0bdFbFRk5MxDX"
+        "name": "Pina Colada (And Other Early Tunes)",
+        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
       },
       "artists": [
         {
-          "name": "DJ Day",
-          "url": "https://open.spotify.com/artist/64nlNvqVtLkdY4x8Hhvq6T"
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
         }
       ],
-      "duration_ms": 193973,
-      "name": "Four Hills",
-      "url": "https://open.spotify.com/track/3SiKNNc24oEddCMH9KUVxN"
+      "duration_ms": 366946,
+      "name": "Pina Colada (Jazz Mix)",
+      "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Old Graffiti",
+        "url": "https://open.spotify.com/album/40phn9ROeEnZZYBRRc8DoZ"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Old Graffiti",
+      "url": "https://open.spotify.com/track/1nlSd6Rqq5pL7BE3yfO6QF"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Old Graffiti",
-        "url": "https://open.spotify.com/album/40phn9ROeEnZZYBRRc8DoZ"
+        "name": "The Day Before (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1FJWNRqws0bdFbFRk5MxDX"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "DJ Day",
+          "url": "https://open.spotify.com/artist/64nlNvqVtLkdY4x8Hhvq6T"
         }
       ],
-      "duration_ms": 208853,
-      "name": "Old Graffiti",
-      "url": "https://open.spotify.com/track/1nlSd6Rqq5pL7BE3yfO6QF"
+      "duration_ms": 193973,
+      "name": "Four Hills",
+      "url": "https://open.spotify.com/track/3SiKNNc24oEddCMH9KUVxN"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1699,18 +1699,22 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Smokers Delight (Digital Deluxe)",
-        "url": "https://open.spotify.com/album/1papIBvEjjXA80q6eW7Gtw"
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
       },
       "artists": [
         {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
         }
       ],
-      "duration_ms": 376981,
-      "name": "Aquaself",
-      "url": "https://open.spotify.com/track/1ZgrhT1NfwUt2cNdZG0wHC"
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N"
     }
   ],
   "unique_name": "Balearic Beats",

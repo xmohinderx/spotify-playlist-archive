@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Jim Legxacy
 
-236 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/68Ruera9xeYyhoqA8BzxMu)
+237 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/68Ruera9xeYyhoqA8BzxMu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Ebbs and Flows](https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Ebbs and Flows](https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v) | 3:19 | 2022-10-23 |  |
 | [Eden \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/61gjdUMePfAOD5p0gnGvfv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Eden \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/4yxSZ0Qm7wPKw5cvREXiyA) | 3:19 | 2022-06-24 | 2022-08-02 |
 | [Electric](https://open.spotify.com/track/1g3GvbzoNjOqKNK9Z7srQ5) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb) | [Electric](https://open.spotify.com/album/4mi5IauJU5FowQivOCg4un) | 3:07 | 2022-06-24 | 2022-07-17 |
-| [Energy \(feat\. Mahalia\)](https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 3:08 | 2022-06-24 |  |
+| [Energy \(feat\. Mahalia\)](https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 3:08 | 2022-06-24 | 2022-11-08 |
 | [Entrepreneur](https://open.spotify.com/track/2wiJQhmWcClrB2LKnyvBNE) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [Entrepreneur](https://open.spotify.com/album/7wIGIAvJf8SQhZ3z4BfuPM) | 2:26 | 2022-07-17 | 2022-09-03 |
 | [Exception](https://open.spotify.com/track/3BSih9QYqAXu5GL6V9AUPt) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Exception](https://open.spotify.com/album/0s8OBEdwGEHGkXLV4VQr0l) | 4:06 | 2022-06-24 | 2022-07-27 |
 | [Extrovert](https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Extrovert](https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic) | 3:06 | 2022-06-24 | 2022-07-29 |
@@ -240,6 +240,7 @@
 | [VOID](https://open.spotify.com/track/4BhX0pXf0NX0O7vcQmukaX) | [JUICE MENACE](https://open.spotify.com/artist/762lsZj1M33PjCaBCmxaAB) | [VOID](https://open.spotify.com/album/3AeH9S7dYQSQCGrcjzHv2Y) | 2:42 | 2022-07-17 | 2022-08-23 |
 | [What If?](https://open.spotify.com/track/6DvGYJG51xjPfZn7JMpLSp) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:13 | 2022-07-17 | 2022-07-27 |
 | [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 | 2022-06-24 | 2022-11-02 |
+| [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2022-10-23 |  |
 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 | 2022-08-22 | 2022-10-24 |
 | [You Know](https://open.spotify.com/track/2juQKYR7TFwBbRlFbEke7z) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [You Know](https://open.spotify.com/album/5Ojgg4O0Hdley9R3Pvr12P) | 2:22 | 2022-07-17 | 2022-07-22 |
 | [Young, Wild & Ruthless](https://open.spotify.com/track/5tJFoFr4dRLubMg4BMXxwO) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [Young, Wild & Ruthless](https://open.spotify.com/album/726BErmbrgUxxJ7nguLWpm) | 4:45 | 2022-07-17 | 2022-07-20 |

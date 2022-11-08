@@ -7753,7 +7753,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 139703,
       "name": "Imprevisto",
       "url": "https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw"
@@ -8039,10 +8039,28 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 192000,
       "name": "Jaadugar",
       "url": "https://open.spotify.com/track/0gmEt2nKOssVRStyUmjSpE"
+    },
+    {
+      "album": {
+        "name": "Hustle 2.0",
+        "url": "https://open.spotify.com/album/0hf3YfPgRE0WfJ2CM7FvBD"
+      },
+      "artists": [
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Jaadugar",
+      "url": "https://open.spotify.com/track/0iqqui0LWoXkZsJHfFxlg2"
     },
     {
       "album": {
@@ -9661,7 +9679,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 110137,
       "name": "Lula L\u00e1 2022",
       "url": "https://open.spotify.com/track/6JppDQy0FW1nRAc5gCvoJI"
@@ -9701,7 +9719,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 106444,
       "name": "Lula L\u00e1 no Funk (O Pai T\u00e1 On)",
       "url": "https://open.spotify.com/track/3ZKwh2EZwtbLl36lhJONuA"
@@ -13503,6 +13521,24 @@
       "duration_ms": 291462,
       "name": "Rait Zara Si",
       "url": "https://open.spotify.com/track/3gOXq3FPPesm7VLPKmef6j"
+    },
+    {
+      "album": {
+        "name": "Hustle 2.0",
+        "url": "https://open.spotify.com/album/0hf3YfPgRE0WfJ2CM7FvBD"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Ram Ram",
+      "url": "https://open.spotify.com/track/74dYOYy441TqKUwQ5VQPpO"
     },
     {
       "album": {

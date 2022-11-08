@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35197,
+  "num_followers": 35208,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMGRjMjg4ZTRiMjJjZjJlYjBkNDIwOGI1YTE2NjQzODM3",
+  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDAxMGM5ZWU4ZGY0YzU5NWZhMzY1NTVkMjVjZWYyYTQ5",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Treat People With Kindness",
-      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 195880,
       "name": "Love Me Now (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Treat People With Kindness",
+      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 172232,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Girls Like Us",
         "url": "https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 189000,
       "name": "Girls Like Us",
       "url": "https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 172232,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 228303,
-      "name": "More",
-      "url": "https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Thinking of You (Spotify Singles)",
         "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 272125,
       "name": "Thinking of You (Spotify Singles)",
       "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 228303,
+      "name": "More",
+      "url": "https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -683,46 +683,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Sleep Tight",
-        "url": "https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Sleep Tight",
-      "url": "https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "froge.mp3",
-        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        },
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
-        }
-      ],
-      "duration_ms": 178520,
-      "name": "say it",
-      "url": "https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Joe",
         "url": "https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI"
       },
@@ -751,6 +711,46 @@
       "duration_ms": 196682,
       "name": "Blue",
       "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "froge.mp3",
+        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        }
+      ],
+      "duration_ms": 178520,
+      "name": "say it",
+      "url": "https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Sleep Tight",
+        "url": "https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Sleep Tight",
+      "url": "https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "Pretty Face",
+        "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 204907,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "LUCID",
         "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
       },
@@ -899,18 +915,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Pretty Face",
-        "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
+        "name": "1,000,000 X Better",
+        "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
       },
       "artists": [
         {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
         }
       ],
-      "duration_ms": 204907,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
+      "duration_ms": 191739,
+      "name": "1,000,000 X Better",
+      "url": "https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -943,26 +963,6 @@
       "duration_ms": 173640,
       "name": "My 100",
       "url": "https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "1,000,000 X Better",
-        "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        },
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 191739,
-      "name": "1,000,000 X Better",
-      "url": "https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
-      },
-      "artists": [
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 171228,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "everything",
         "url": "https://open.spotify.com/album/7CAivrvoisdOu9nlQqDVQt"
       },
@@ -1167,34 +1151,18 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/7dv1qULsTHmYJMMZXsjNTu"
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
       },
       "artists": [
         {
-          "name": "RVBY",
-          "url": "https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2"
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
         }
       ],
-      "duration_ms": 201951,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/4HMGAw9e1Re6ci4fChdEvj"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "good thing",
-        "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
-      },
-      "artists": [
-        {
-          "name": "emie nathan",
-          "url": "https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB"
-        }
-      ],
-      "duration_ms": 142480,
-      "name": "good thing",
-      "url": "https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP"
+      "duration_ms": 171228,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1215,6 +1183,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/7dv1qULsTHmYJMMZXsjNTu"
+      },
+      "artists": [
+        {
+          "name": "RVBY",
+          "url": "https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/4HMGAw9e1Re6ci4fChdEvj"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 212503,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "good thing",
+        "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
+      },
+      "artists": [
+        {
+          "name": "emie nathan",
+          "url": "https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB"
+        }
+      ],
+      "duration_ms": 142480,
+      "name": "good thing",
+      "url": "https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "One & Only",
-        "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
-      },
-      "artists": [
-        {
-          "name": "Bevan",
-          "url": "https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu"
-        }
-      ],
-      "duration_ms": 246750,
-      "name": "One & Only",
-      "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "City That I'm Lost In",
         "url": "https://open.spotify.com/album/55nT09RXHNHWgx6fX0FYYi"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 191838,
       "name": "1982",
       "url": "https://open.spotify.com/track/2l48q7fReW5pz6aaF6Daas"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "One & Only",
+        "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
+      },
+      "artists": [
+        {
+          "name": "Bevan",
+          "url": "https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu"
+        }
+      ],
+      "duration_ms": 246750,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
     }
   ],
   "unique_name": "Wholesome",

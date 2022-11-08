@@ -4,7 +4,7 @@
 
 > Blues meets funk\. Cover: Eric Gales
 
-70 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/4VCR7dI4Up8fnUbiFhdzLP)
+71 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/4VCR7dI4Up8fnUbiFhdzLP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Black Cat Bone](https://open.spotify.com/track/2gYivJOIcjugPaCvrNBr9g) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Live From The Archive](https://open.spotify.com/album/4RbQ9bMWVgaPj8X5nHDnOD) | 9:50 | 2020-12-01 |  |
 | [Break on Free](https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva) | [Break on Free](https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM) | 4:12 | 2022-02-18 | 2022-11-05 |
 | [Break On Free](https://open.spotify.com/track/4Fud3EZZ37BrkyPJyyxx5i) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Break on Free](https://open.spotify.com/album/4IiYcLuZPXFYRVifhPtQNx) | 4:12 | 2022-02-18 | 2022-07-29 |
-| [Bubbles](https://open.spotify.com/track/0wt7KE5Y255f2enVmlwsu0) | [Rick Holmstrom](https://open.spotify.com/artist/35UiXUhK0DxiIColZzzQ4P) | [Bubbles](https://open.spotify.com/album/6bIs6laKPXv8uQYPRGncif) | 2:23 | 2022-02-25 |  |
+| [Bubbles](https://open.spotify.com/track/0wt7KE5Y255f2enVmlwsu0) | [Rick Holmstrom](https://open.spotify.com/artist/35UiXUhK0DxiIColZzzQ4P) | [Bubbles](https://open.spotify.com/album/6bIs6laKPXv8uQYPRGncif) | 2:23 | 2022-02-25 | 2022-11-08 |
 | [Carry Yourself](https://open.spotify.com/track/1HZz1dNkkeELD70jkM6opL) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/1MetDXRjfRNyM5sIO4LzBF) | 5:23 | 2020-12-01 | 2022-07-29 |
 | [Carry Yourself](https://open.spotify.com/track/3mAiFmSq6tsZGBAZlpps4H) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 5:23 | 2020-12-01 |  |
 | [Chevrolet](https://open.spotify.com/track/3wFhY7dmKE6hrEJfFLFavB) | [Robben Ford & The Blue Line](https://open.spotify.com/artist/0ndEfvEueBLBro612yCKwV) | [Handful Of Blues](https://open.spotify.com/album/5ENJwOTo3xFZ7vkXg8X4er) | 4:17 | 2020-12-01 |  |
@@ -44,6 +44,7 @@
 | [I'm Beginning To Wonder](https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 4:10 | 2020-12-01 |  |
 | [I'm Not Havin' It](https://open.spotify.com/track/3iXMRHn9xcnl50C2WqmqHg) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/6LC0JgaYxblH0m74rvvULm) | 3:13 | 2021-04-23 | 2022-07-25 |
 | [I'm Not Havin' It](https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn) | 3:13 | 2021-04-23 |  |
+| [Inflation](https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o) | [Earnest Jackson](https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm), [Sugar Daddy and the Gumbo Roux](https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6) | [Inflation](https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD) | 3:19 | 2022-11-07 |  |
 | [Leave Me Alone](https://open.spotify.com/track/20zYmG4UrXddZVz7enehdp) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Always](https://open.spotify.com/album/2jbjjXR9ih6IfAHc387Kra) | 4:38 | 2021-12-10 |  |
 | [Leave Me Alone](https://open.spotify.com/track/7kPJfg95ExObovzfkh2moX) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Leave Me Alone](https://open.spotify.com/album/2sqbgimLbrq5LXYGktcECB) | 4:38 | 2021-12-10 | 2022-07-29 |
 | [Lie No Better](https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Let's Roll](https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z) | 3:30 | 2020-12-01 |  |

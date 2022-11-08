@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 28826,
+  "num_followers": 28995,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ4NzYwMCwwMDAwMDAwMDkxNDM4M2NhYjI0ZjM2YjQzY2VhYTFkNmM1MjZkYzJk",
+  "snapshot_id": "MTY2NzQ4NzYwMCwwMDAwMDAwMDI2MGNmYzIyMDgzMGE1OTFmODU3OGVhMjE5N2YwNmNl",
   "tracks": [
     {
       "added_at": "2022-11-03 15:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2022-11-03 15:00:00",
       "album": {
-        "name": "Ghost in the Shell (Music Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/7mA7Z5oy212NMRL8lqFzhO"
+        "name": "Komachi",
+        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
       },
       "artists": [
         {
-          "name": "Kenji Kawai",
-          "url": "https://open.spotify.com/artist/0lzVrkjlIZJH18hk2Gcjkp"
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
         }
       ],
-      "duration_ms": 157280,
-      "name": "Utai IV: Reawakening",
-      "url": "https://open.spotify.com/track/2aOT7WhCfzhQmoTCH3R3Fq"
+      "duration_ms": 264207,
+      "name": "Ch\u014dchin",
+      "url": "https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW"
     },
     {
       "added_at": "2022-11-03 15:00:00",
@@ -291,50 +291,18 @@
     {
       "added_at": "2022-11-03 15:00:00",
       "album": {
-        "name": "Komachi",
-        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
+        "name": "Ghost in the Shell (Music Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/7mA7Z5oy212NMRL8lqFzhO"
       },
       "artists": [
         {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+          "name": "Kenji Kawai",
+          "url": "https://open.spotify.com/artist/0lzVrkjlIZJH18hk2Gcjkp"
         }
       ],
-      "duration_ms": 264207,
-      "name": "Ch\u014dchin",
-      "url": "https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW"
-    },
-    {
-      "added_at": "2022-11-03 15:00:00",
-      "album": {
-        "name": "In The Dark Woods",
-        "url": "https://open.spotify.com/album/3IZstlhdTOOtJ5HPQDjEFw"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/0dVOO1yFYNeWjsrIdWi9u7"
-    },
-    {
-      "added_at": "2022-11-03 15:00:00",
-      "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Tobiume",
-      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
+      "duration_ms": 157280,
+      "name": "Utai IV: Reawakening",
+      "url": "https://open.spotify.com/track/2aOT7WhCfzhQmoTCH3R3Fq"
     },
     {
       "added_at": "2022-11-03 15:00:00",
@@ -371,6 +339,38 @@
     {
       "added_at": "2022-11-03 15:00:00",
       "album": {
+        "name": "In The Dark Woods",
+        "url": "https://open.spotify.com/album/3IZstlhdTOOtJ5HPQDjEFw"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/0dVOO1yFYNeWjsrIdWi9u7"
+    },
+    {
+      "added_at": "2022-11-03 15:00:00",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Tobiume",
+      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
+    },
+    {
+      "added_at": "2022-11-03 15:00:00",
+      "album": {
         "name": "Wrapped Death",
         "url": "https://open.spotify.com/album/73umIz3uf1q2OFFIsYm9iR"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 264000,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7f69rFN3ec1Qd6bqqgF2qo"
+    },
+    {
+      "added_at": "2022-11-03 15:00:00",
+      "album": {
+        "name": "Komachi",
+        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 208478,
+      "name": "Ike",
+      "url": "https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp"
     },
     {
       "added_at": "2022-11-03 15:00:00",
@@ -403,34 +419,18 @@
     {
       "added_at": "2022-11-03 15:00:00",
       "album": {
-        "name": "Heavenly Me Last Days",
-        "url": "https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm"
+        "name": "Music for Nine Post Cards",
+        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
       },
       "artists": [
         {
-          "name": "Yasushi Yoshida",
-          "url": "https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 599547,
-      "name": "Last Days",
-      "url": "https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7"
-    },
-    {
-      "added_at": "2022-11-03 15:00:00",
-      "album": {
-        "name": "Symbol",
-        "url": "https://open.spotify.com/album/0ntm3YaiXVkkGitWl2XASV"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "Blue Sky And Yellow Sunflower",
-      "url": "https://open.spotify.com/track/6Mk96t3t5qR5YJ8ftCW18V"
+      "duration_ms": 375600,
+      "name": "View from My Window",
+      "url": "https://open.spotify.com/track/4KrsGAgv8b2982iqaokrO0"
     },
     {
       "added_at": "2022-11-03 15:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-11-03 15:00:00",
       "album": {
-        "name": "Komachi",
-        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
+        "name": "Heavenly Me Last Days",
+        "url": "https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm"
       },
       "artists": [
         {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+          "name": "Yasushi Yoshida",
+          "url": "https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB"
         }
       ],
-      "duration_ms": 208478,
-      "name": "Ike",
-      "url": "https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp"
+      "duration_ms": 599547,
+      "name": "Last Days",
+      "url": "https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7"
     },
     {
       "added_at": "2022-11-03 15:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-11-03 15:00:00",
       "album": {
-        "name": "Music for Nine Post Cards",
-        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
+        "name": "A Mother's Touch (\u300e\u685c\u8272\u306e\u98a8\u304c\u54b2\u304f\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
+        "url": "https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK"
       },
       "artists": [
         {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 375600,
-      "name": "View from My Window",
-      "url": "https://open.spotify.com/track/4KrsGAgv8b2982iqaokrO0"
+      "duration_ms": 345637,
+      "name": "A Mother's Touch - \u300e\u685c\u8272\u306e\u98a8\u304c\u54b2\u304f\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
+      "url": "https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq"
     },
     {
       "added_at": "2022-11-03 15:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-11-03 15:00:00",
       "album": {
-        "name": "A Mother's Touch (\u300e\u685c\u8272\u306e\u98a8\u304c\u54b2\u304f\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
-        "url": "https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK"
+        "name": "Symbol",
+        "url": "https://open.spotify.com/album/0ntm3YaiXVkkGitWl2XASV"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
         }
       ],
-      "duration_ms": 345637,
-      "name": "A Mother's Touch - \u300e\u685c\u8272\u306e\u98a8\u304c\u54b2\u304f\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
-      "url": "https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq"
+      "duration_ms": 239040,
+      "name": "Blue Sky And Yellow Sunflower",
+      "url": "https://open.spotify.com/track/6Mk96t3t5qR5YJ8ftCW18V"
     },
     {
       "added_at": "2022-11-03 15:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-11-03 15:00:00",
       "album": {
+        "name": "Music for Nine Post Cards",
+        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 282013,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22"
+    },
+    {
+      "added_at": "2022-11-03 15:00:00",
+      "album": {
         "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 232073,
       "name": "solari",
       "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
-    },
-    {
-      "added_at": "2022-11-03 15:00:00",
-      "album": {
-        "name": "Music for Nine Post Cards",
-        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 282013,
-      "name": "Blink",
-      "url": "https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22"
     },
     {
       "added_at": "2022-11-03 15:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-11-03 15:00:00",
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 373973,
+      "name": "FEET",
+      "url": "https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt"
+    },
+    {
+      "added_at": "2022-11-03 15:00:00",
+      "album": {
         "name": "Vapor",
         "url": "https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 379561,
       "name": "Stars",
       "url": "https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT"
-    },
-    {
-      "added_at": "2022-11-03 15:00:00",
-      "album": {
-        "name": "in my Time",
-        "url": "https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi"
-      },
-      "artists": [
-        {
-          "name": "Takahiro Kido",
-          "url": "https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI"
-        }
-      ],
-      "duration_ms": 86013,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/0VbuRai18mA0GtiCiKdqph"
     },
     {
       "added_at": "2022-11-03 15:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-11-03 15:00:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+        "name": "in my Time",
+        "url": "https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi"
       },
       "artists": [
         {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+          "name": "Takahiro Kido",
+          "url": "https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI"
         }
       ],
-      "duration_ms": 373973,
-      "name": "FEET",
-      "url": "https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt"
+      "duration_ms": 86013,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/0VbuRai18mA0GtiCiKdqph"
     },
     {
       "added_at": "2022-11-03 15:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-11-03 15:00:00",
       "album": {
-        "name": "heavenly tone",
-        "url": "https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k"
-      },
-      "artists": [
-        {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "a beautiful day",
-      "url": "https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC"
-    },
-    {
-      "added_at": "2022-11-03 15:00:00",
-      "album": {
         "name": "How My Heart Sings",
         "url": "https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 289320,
       "name": "Light Dance",
       "url": "https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF"
+    },
+    {
+      "added_at": "2022-11-03 15:00:00",
+      "album": {
+        "name": "heavenly tone",
+        "url": "https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k"
+      },
+      "artists": [
+        {
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "a beautiful day",
+      "url": "https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC"
     },
     {
       "added_at": "2022-11-03 15:00:00",

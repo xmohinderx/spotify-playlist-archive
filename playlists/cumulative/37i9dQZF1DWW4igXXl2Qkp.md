@@ -4,7 +4,7 @@
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Dom Corleo
 
-524 songs - 23 hr 16 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
+525 songs - 23 hr 19 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,8 @@
 | [Mud Brothers](https://open.spotify.com/track/1E6xPYt9FyvkMnDeyVHLby) | [lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Slimelife Shawty](https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf) | [Mud Brothers](https://open.spotify.com/album/42uCYsRhcqIsEmL3anu3FH) | 2:46 | 2022-01-13 | 2022-02-10 |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-08-11 | 2022-10-06 |
 | [Murder](https://open.spotify.com/track/621SNKZYqIor6NW8nR2sCX) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder](https://open.spotify.com/album/3uXyJaYCnjCUE9z5F5SpeE) | 2:57 | 2022-07-27 | 2022-09-15 |
-| [Murder 2.0](https://open.spotify.com/track/44BSQfTmbO2Onoj8Oi02vq) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder 2.0](https://open.spotify.com/album/2404wXyauFNBZvmfuKLVUK) | 3:06 | 2022-10-05 |  |
+| [Murder 2.0](https://open.spotify.com/track/0OhS94VPQAdDQPDViK5JtR) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [17](https://open.spotify.com/album/4joJtfM9QKxT7Q1zVuaPFo) | 3:06 | 2022-10-05 |  |
+| [Murder 2.0](https://open.spotify.com/track/44BSQfTmbO2Onoj8Oi02vq) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder 2.0](https://open.spotify.com/album/2404wXyauFNBZvmfuKLVUK) | 3:06 | 2022-10-05 | 2022-11-08 |
 | [Murder 2.0](https://open.spotify.com/track/6aNYcinVw2hmruqPGzsZrz) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder 2.0](https://open.spotify.com/album/0RKvEog6DzNJFfq085z1wZ) | 3:06 | 2022-10-05 | 2022-10-23 |
 | [Murder Bitch](https://open.spotify.com/track/1SfiDsFHqJnQoiN7cLaRz0) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder Bitch](https://open.spotify.com/album/4jenlFugsErE0X5wP5ot79) | 4:53 | 2022-07-20 | 2022-08-11 |
 | [Murder She Wrote](https://open.spotify.com/track/72KemdNWtlNwW62GK3IyRj) | [BFG Straap](https://open.spotify.com/artist/2HIW5ZZGmdKmy2EH1NtSfL) | [Murder She Wrote](https://open.spotify.com/album/2MpWuDP1XufFCVsFeqbOJS) | 2:31 | 2022-04-06 | 2022-05-12 |

@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: hemlocke springs
 
-1,927 songs - 4 day 7 hr 8 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,929 songs - 4 day 7 hr 15 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-04-18 | 2022-05-13 |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-04-09 | 2022-04-29 |
 | [CHA](https://open.spotify.com/track/034IcTy5i48Ck6EEYbrMtX) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/6SHGA5HOlV0pgQNE4EP96t) | 3:24 | 2019-07-30\* | 2019-11-14 |
-| [Chaise Longue \- French Version](https://open.spotify.com/track/6qp2A9wkRd8nM3L48zJtuF) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue \(French Version\)](https://open.spotify.com/album/248thOxBwEa7EzFAZrqIxE) | 3:17 | 2022-11-02 |  |
+| [Chaise Longue \- French Version](https://open.spotify.com/track/6qp2A9wkRd8nM3L48zJtuF) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue \(French Version\)](https://open.spotify.com/album/248thOxBwEa7EzFAZrqIxE) | 3:17 | 2022-11-02 | 2022-11-08 |
 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 | 2019-11-07 | 2020-05-28 |
 | [Change](https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Change](https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6) | 2:57 | 2022-06-22 | 2022-10-13 |
 | [CHANGE THE CHANNEL](https://open.spotify.com/track/7jCwlREfUpw0NCIU23hMhx) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CHANGE THE CHANNEL](https://open.spotify.com/album/2Gl4wXz0O0MOGAAWyEHfs6) | 2:35 | 2020-10-20 | 2021-01-12 |
@@ -908,6 +908,7 @@
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 | 2022-09-13 |  |
 | [It's Okay to Cry, Boy](https://open.spotify.com/track/7rNhIRSovKnCsTU2A1hh9H) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [BO Y](https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU) | 6:11 | 2019-11-22 | 2019-12-21 |
 | [It's Random](https://open.spotify.com/track/3gaerxLTSaKc8miymFRkVA) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [It's Random](https://open.spotify.com/album/2Y4v8He65mQHczvIzanV2W) | 2:24 | 2022-03-02 | 2022-05-28 |
+| [itch](https://open.spotify.com/track/5RZb7SkH0lDPWyIFgFTvxo) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [itch](https://open.spotify.com/album/44qiPtIwkpzB1CWjyD2JxE) | 3:45 | 2022-11-07 |  |
 | [ITTLMHBID](https://open.spotify.com/track/3Ciy2okCmKB6STf7bwAUM2) | [Besphrenz](https://open.spotify.com/artist/0VVJ5bIx1zXlBLi1GiP4yX) | [ITTLMHBID](https://open.spotify.com/album/64VhQp3OxzNG7qmLL6Bdyc) | 2:53 | 2020-07-23 | 2020-08-20 |
 | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/album/2O8gAp74lbXQ9z74ZK7E3N) | 3:26 | 2022-10-28 |  |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-07 | 2022-07-30 |
@@ -1146,6 +1147,7 @@
 | [more](https://open.spotify.com/track/28Jp7gcgysBhWZJ9mnXEYd) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [more](https://open.spotify.com/album/2FaKfOk1cWuiqhBet8sdJW) | 3:13 | 2022-03-04 | 2022-06-30 |
 | [More Often](https://open.spotify.com/track/60wAXtIs4U6VIqo81PcgyG) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Child](https://open.spotify.com/album/4U3r16iwNXWJfPjt43Aw9e) | 1:44 | 2020-11-20 | 2020-12-23 |
 | [More Than Friends](https://open.spotify.com/track/1Ph96WpdjNlwD6iKRE2Xa3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [More Than Friends](https://open.spotify.com/album/4enAteB9DBZD3W9jmAaYYc) | 3:03 | 2021-05-22 | 2022-01-22 |
+| [Morning in the Aves](https://open.spotify.com/track/6mWlah5Cxz8qTcW17pbj7h) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 4:02 | 2022-11-07 |  |
 | [Mother](https://open.spotify.com/track/51WLu8FjR1tiyIU1jUoWvm) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Mother](https://open.spotify.com/album/55FiEs3CNdmkmkzmkyHmYO) | 3:09 | 2020-04-22 | 2020-05-22 |
 | [Mother \- Remastered 2010](https://open.spotify.com/track/43Ud1IajwtBvw6ONj6aK2Q) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 5:36 | 2021-07-31 | 2021-08-14 |
 | [Motocross](https://open.spotify.com/track/71PfgIUSVJEE9lsuDf4MsK) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow](https://open.spotify.com/album/24n0t3wZV2NWGp0gZhdygu) | 3:52 | 2020-04-22 | 2020-07-31 |

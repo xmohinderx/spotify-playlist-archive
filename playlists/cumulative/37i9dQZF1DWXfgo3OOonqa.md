@@ -4,7 +4,7 @@
 
 > spooky season 🎃
 
-659 songs - 1 day 5 hr 22 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+660 songs - 1 day 5 hr 26 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Go Getter \(feat\. Imenella\)](https://open.spotify.com/track/3IZinCbESX16Mb67ylKiho) | [Keya](https://open.spotify.com/artist/6Fzcb6MUQTqnojF8woJsKd), [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h) | [Go Getter \(feat\. Imenella\)](https://open.spotify.com/album/2zGvslZSz4Bapzqou9gWls) | 2:55 | 2021-12-16 | 2021-12-24 |
 | [God Morgon Stockholm](https://open.spotify.com/track/4JsYowYTLukNhh1UzMhYZ9) | [Nomad](https://open.spotify.com/artist/264V8HSZDhiq3MPrTnVmed), [Simon Emanuel](https://open.spotify.com/artist/2mKcKa9yFqXzcxTEGhvKaZ), [More 10](https://open.spotify.com/artist/2tp6KnR4tYjOrpnwwwWGeu) | [God Morgon Stockholm](https://open.spotify.com/album/52cC7FLccByndLXuBSTmZ3) | 3:35 | 2022-05-26 | 2022-06-10 |
 | [Going Lit \- Spotify Studio 100 Recording](https://open.spotify.com/track/3gxAIJwFeYpba15gx9zXre) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Going Lit \- Spotify Studio 100 Recording](https://open.spotify.com/album/46LsdSRGIqiDUvNdXa0hq8) | 2:20 | 2021-12-16 |  |
+| [GOOD DIE YOUNG](https://open.spotify.com/track/5YT5uSoZwwUetLOqYwRT3K) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [Willow](https://open.spotify.com/artist/428NWvJtmUtdxSWImz3ysv) | [MEDAN VI FALLER](https://open.spotify.com/album/285NfeomqN2o31wYPnbI6I) | 3:15 | 2022-11-07 |  |
 | [Good Vibes Only](https://open.spotify.com/track/1Dz6pFuwT29a9hQLnmi7kF) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [Good Vibes Only](https://open.spotify.com/album/6Oisuq5IPu9aTmfV9OhqJh) | 3:03 | 2022-05-12 | 2022-06-10 |
 | [GoodieBag](https://open.spotify.com/track/1tN9OpFGVsDun96lYzUUgA) | [5iftyy](https://open.spotify.com/artist/56hM6Y3Cw2g8xZOfZrHBuS) | [GoodieBag](https://open.spotify.com/album/5idkGvFnIdfYxhIQU1VZ3Q) | 2:49 | 2022-03-31 | 2022-05-13 |
 | [GOODIEBAG](https://open.spotify.com/track/4eoQBQb6oEIx5NjGqEt2Di) | [ISON](https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5), [REZ](https://open.spotify.com/artist/696zQFO96oCTBWlLqXuqQ0) | [GOODIEBAG](https://open.spotify.com/album/5YrDoYirPgiRIumMV4kbc3) | 2:43 | 2022-08-25 | 2022-09-30 |
@@ -665,7 +666,7 @@
 | [ZUTTLUKTEN](https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [ZUTTLUKTEN](https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw) | 1:54 | 2022-08-05 |  |
 | [ÄHH](https://open.spotify.com/track/2ReCHEIH2qfjfQ6Io3VjLc) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP) | [ÄHH](https://open.spotify.com/album/7wNSaN47WdO2RzYzaSzXuM) | 2:26 | 2022-09-15 | 2022-10-14 |
 | [Ängel](https://open.spotify.com/track/1dQhhmvIBkiLUlcyABE5OZ) | [SEEY](https://open.spotify.com/artist/6lrja2wwYPKdLR1jNP9xyI) | [Ängel](https://open.spotify.com/album/616mjtw8nEIon8hxSt6tzV) | 2:04 | 2022-06-02 | 2022-06-10 |
-| [Ärligt](https://open.spotify.com/track/6fsAqTbnVFFsVsp5EJuV44) | [Georgios Barbanos](https://open.spotify.com/artist/0n4qD1LR233g1LdGBp1BEE), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Ärligt](https://open.spotify.com/album/2ml4G4oci9RVhR9fPozNma) | 1:50 | 2022-09-15 |  |
+| [Ärligt](https://open.spotify.com/track/6fsAqTbnVFFsVsp5EJuV44) | [Georgios Barbanos](https://open.spotify.com/artist/0n4qD1LR233g1LdGBp1BEE), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Ärligt](https://open.spotify.com/album/2ml4G4oci9RVhR9fPozNma) | 1:50 | 2022-09-15 | 2022-11-08 |
 | [ÅSKAN](https://open.spotify.com/track/4khoHMcdF6vOB2AOHSMD5m) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [ÅSKAN](https://open.spotify.com/album/7sg6Iv0G5Xj4VjUUaSbm7t) | 2:53 | 2021-12-16 | 2022-02-11 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

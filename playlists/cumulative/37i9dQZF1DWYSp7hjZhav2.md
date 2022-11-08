@@ -4,10 +4,11 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-51 songs - 5 hr 7 min - not published yet
+54 songs - 5 hr 22 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [All Night \(Garage Version\)](https://open.spotify.com/track/0pp5J5USoRAqy8gpkLQjPB) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [All Night](https://open.spotify.com/album/3NxVZjPxy8UgDGC3DT541A) | 6:16 | 2022-11-07 |  |
 | [Angel 1](https://open.spotify.com/track/32uzMvtg0JKDKZzg6KhHoZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Angel 1](https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz) | 5:46 | 2022-10-05 |  |
 | [Assumptions \- Dodi Palese Remix](https://open.spotify.com/track/1B6POEGfKJmLkk2IXxMzVu) | [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Dodi Palese](https://open.spotify.com/artist/2JNZPGveOPu5gIw9o3V4pb) | [Assumptions \(Dodi Palese Remix\)](https://open.spotify.com/album/4rIc8exDsRYYdld4wfPGS2) | 5:17 | 2022-10-05 |  |
 | [Attention Seeker](https://open.spotify.com/track/4qv3j6MwDoeQNVb2GL6JRy) | [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH) | [Attention Seeker](https://open.spotify.com/album/0cZ439XqtgCU2pEMcqVHDa) | 5:27 | 2022-10-05 |  |
@@ -19,6 +20,7 @@
 | [Charly Charly](https://open.spotify.com/track/4t8qKTT7CW4DguACF8x6YW) | [Citizen Kain](https://open.spotify.com/artist/4WRWFxbK0DKYIpHcScsnAE) | [Ellum Sampler Volume 2](https://open.spotify.com/album/2OmhjTixPTCtdlVMCuQB2c) | 7:22 | 2022-10-05 |  |
 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-10-05 |  |
 | [Claire](https://open.spotify.com/track/54CipIOeFb1lZYFhHi26lo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Claire](https://open.spotify.com/album/7cCOKtUAAyXgCa8oIdqU34) | 4:47 | 2022-10-05 |  |
+| [Closed Doors](https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Closed Doors](https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A) | 5:43 | 2022-11-07 |  |
 | [Cold Summer](https://open.spotify.com/track/3xw4y324PlGHGGNVwKmJXZ) | [Paride Saraceni](https://open.spotify.com/artist/4QoLfjVJzb5qdQaXQFxlri) | [Burning](https://open.spotify.com/album/5GV9uzUxVHYMuTT02ZX2s8) | 5:58 | 2022-10-05 |  |
 | [Consciousness](https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Consciousness](https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP) | 4:34 | 2022-10-05 |  |
 | [Consciousness \- Eric Prydz Remix](https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu) | 4:04 | 2022-10-05 |  |
@@ -54,6 +56,7 @@
 | [Pablo \- Jos & Eli Remix](https://open.spotify.com/track/1vmU5mjHUKZ4FHi7sawBdA) | [Citizen Kain](https://open.spotify.com/artist/4WRWFxbK0DKYIpHcScsnAE), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [Pablo EP](https://open.spotify.com/album/3BKNZlWW0NmiyPX4MkQuDp) | 5:57 | 2022-10-05 |  |
 | [System Failure](https://open.spotify.com/track/4wqODsXdZXMykBJ8xLfZO4) | [Ubbah](https://open.spotify.com/artist/0gSdePQqsO1geT47TcEMal) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:58 | 2022-10-05 |  |
 | [The Feeling \- 2022 Remaster](https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:08 | 2022-10-05 |  |
+| [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2022-11-07 |  |
 | [The Witness](https://open.spotify.com/track/6eSP8lYRRCx7IgxdwDCEd6) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [The Witness EP](https://open.spotify.com/album/5rCCueOoszcB562Okhz13f) | 7:03 | 2022-10-05 |  |
 | [Under the Sun](https://open.spotify.com/track/32v7oXsd2S8XcZoPGO488S) | [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Under the Sun EP](https://open.spotify.com/album/18UianFgcKByeelb2c1lWN) | 6:15 | 2022-10-05 |  |
 | [Vega](https://open.spotify.com/track/7cEbICGWeFyBTmijsRtbjr) | [Ilija Djokovic](https://open.spotify.com/artist/58fmi15nN6S2nqZLRRtdtc) | [Vega / Neon](https://open.spotify.com/album/4D1WC7jQ5m0per5yzOHzSO) | 3:21 | 2022-10-05 |  |

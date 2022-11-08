@@ -4,7 +4,7 @@
 
 > The best alternative songs of the decade so far\. Cover: FKA Twigs
 
-305 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
+306 songs - 20 hr 29 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Come For Me](https://open.spotify.com/track/0p3Gm7ZEqV4jdsMKWsPJ8O) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Come For Me](https://open.spotify.com/album/0qqSJYvt8rtJlF1GMkRhKc) | 3:29 | 2021-11-15 | 2022-07-28 |
 | [Comeback Kid](https://open.spotify.com/track/4uwpFuqYn5wON8iRg2mnhp) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Comeback Kid](https://open.spotify.com/album/6gnT7IIyHL2nYYPsF9teBw) | 3:02 | 2021-11-15 | 2022-07-19 |
 | [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 | 2021-11-15 |  |
+| [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2022-11-08 |  |
 | [Crystalised](https://open.spotify.com/track/6rxEjkoar48SssZePbtb2x) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz) | 3:21 | 2022-02-21 | 2022-07-24 |
 | [Cupid](https://open.spotify.com/track/3dvvQrTIzBbPh5egjpSs1n) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Love In The 4th Dimension](https://open.spotify.com/album/6A3pxUItYNmraeFxuRsCqs) | 3:43 | 2021-11-15 | 2022-07-28 |
 | [Daddy's Car](https://open.spotify.com/track/4FER9uaPmGBPvBwsWK73RC) | [Eno • Hyde](https://open.spotify.com/artist/3Rp3pcr8W9rhgF8YhHqplP) | [Someday World](https://open.spotify.com/album/4kGPUq98NXcQhvdJrqx48D) | 4:50 | 2022-02-21 | 2022-07-23 |
@@ -285,7 +286,7 @@
 | [VCR](https://open.spotify.com/track/6DXFVsLcEvOTSrkG9G1Cb1) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz) | 2:57 | 2021-11-15 | 2022-07-22 |
 | [Venice Bitch](https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 9:37 | 2022-02-21 |  |
 | [Victoria Falls](https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [The Loved Ones](https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng) | 3:34 | 2021-11-15 | 2022-07-29 |
-| [Video Games](https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:41 | 2022-09-29 |  |
+| [Video Games](https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:41 | 2022-09-29 | 2022-11-08 |
 | [Wakin on a Pretty Day](https://open.spotify.com/track/3cSlU4ZH4wzb5pM7wI1k3f) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/2imxOfDIDk2voAYCZP88u2) | 9:30 | 2021-11-15 | 2022-07-29 |
 | [Walrus](https://open.spotify.com/track/7lbkMraoYo4Lop0rSwdzCV) | [D.D Dumbo](https://open.spotify.com/artist/29PVoYGQeFwXgX9vIlnHmR) | [Utopia Defeated](https://open.spotify.com/album/2HFzHGB6jiMSRdrODrk83s) | 3:10 | 2021-11-15 | 2022-07-28 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2022-02-21 | 2022-10-13 |

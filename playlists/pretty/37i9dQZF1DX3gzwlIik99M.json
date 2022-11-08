@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 207359,
+  "num_followers": 207384,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGZhOTNmOWNjZTdjODAzMmMwZjJmZTJiMDU1MzVjNWQ0",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGUyODQ3ZTExNmVmZDgyM2M2YmUxZGFlNTkyNjg2YjI1",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -107,6 +107,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Desperate Cry",
+      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "Victimas del Vaciamiento",
         "url": "https://open.spotify.com/album/2hgHTyBcMQKLsbjnZUBsZb"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Desperate Cry",
-      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
       },
@@ -183,6 +183,22 @@
       "duration_ms": 223440,
       "name": "Acido",
       "url": "https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Beneath the Remains",
+        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 265853,
+      "name": "Mass Hypnosis",
+      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -251,22 +267,6 @@
       "duration_ms": 209373,
       "name": "El nuevo camino del hombre",
       "url": "https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Beneath the Remains",
-        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 265853,
-      "name": "Mass Hypnosis",
-      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Un Paso Mas en la Batalla",
-        "url": "https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z"
-      },
-      "artists": [
-        {
-          "name": "V8",
-          "url": "https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa"
-        }
-      ],
-      "duration_ms": 316413,
-      "name": "Deseando Destruir y Matar",
-      "url": "https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "A Toda Madre",
         "url": "https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 202647,
       "name": "A Toda Madre",
       "url": "https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Un Paso Mas en la Batalla",
+        "url": "https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z"
+      },
+      "artists": [
+        {
+          "name": "V8",
+          "url": "https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa"
+        }
+      ],
+      "duration_ms": 316413,
+      "name": "Deseando Destruir y Matar",
+      "url": "https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Basado en Hechos Reales",
-        "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
-      },
-      "artists": [
-        {
-          "name": "Carajo",
-          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
-        }
-      ],
-      "duration_ms": 254748,
-      "name": "Cenizas\u202c",
-      "url": "https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Esp\u00edritu Combativo",
         "url": "https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Carnivora",
-        "url": "https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS"
+        "name": "Basado en Hechos Reales",
+        "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
       },
       "artists": [
         {
-          "name": "Mastifal",
-          "url": "https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM"
+          "name": "Carajo",
+          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
         }
       ],
-      "duration_ms": 287573,
-      "name": "Culto vacio radical",
-      "url": "https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH"
+      "duration_ms": 254748,
+      "name": "Cenizas\u202c",
+      "url": "https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -603,6 +587,22 @@
       "duration_ms": 188600,
       "name": "Satanic Lust",
       "url": "https://open.spotify.com/track/3qRnT9wYaNkM30Dd29rmRl"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Carnivora",
+        "url": "https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS"
+      },
+      "artists": [
+        {
+          "name": "Mastifal",
+          "url": "https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM"
+        }
+      ],
+      "duration_ms": 287573,
+      "name": "Culto vacio radical",
+      "url": "https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH"
     },
     {
       "added_at": "2020-10-24 03:38:51",

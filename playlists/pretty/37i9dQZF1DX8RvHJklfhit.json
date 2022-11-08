@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie Classics. Cover: Salt Cathedral, Ximena Sari\u00f1ana",
-  "num_followers": 130814,
+  "num_followers": 130851,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNTg5NiwwMDAwMDAwMDI5MzY0ZWE0MmYzYWY3YzkxZGM1NWQ1OWMzMTVlZjll",
+  "snapshot_id": "MTY1OTcxNTg5NiwwMDAwMDAwMGZjYWE3YjgzNGM2NjY1MWM3ZDBlMzIzMTNjMDY5Yzk4",
   "tracks": [
     {
       "added_at": "2022-08-05 16:11:36",
@@ -23,6 +23,22 @@
       "duration_ms": 207400,
       "name": "Fuentes de Ortiz",
       "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
+        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -47,22 +63,6 @@
       "duration_ms": 207454,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
       "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
-        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
-        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -183,26 +183,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Am\u00e1rrame",
-      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Cari\u00f1o",
         "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 211021,
       "name": "Beso",
       "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Am\u00e1rrame",
+      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209449,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Viaje Por Lo Eterno",
         "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 209885,
       "name": "Confidently Lost",
       "url": "https://open.spotify.com/track/3cQmqM0awej9iAESjhKrI9"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209449,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 253984,
-      "name": "Nydia",
-      "url": "https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E"
+      "duration_ms": 250073,
+      "name": "Malas Amistades",
+      "url": "https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Tornaluna",
-        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 250073,
-      "name": "Malas Amistades",
-      "url": "https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B"
+      "duration_ms": 253984,
+      "name": "Nydia",
+      "url": "https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 248371,
-      "name": "M\u00e9tele",
-      "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "HU HU HU",
         "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 220306,
       "name": "Latino & Proud",
       "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 248371,
+      "name": "M\u00e9tele",
+      "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 137746,
-      "name": "Sono",
-      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/1jpcKriEgL87byZ2wUY3Bs"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 189176,
       "name": "Gala",
       "url": "https://open.spotify.com/track/7wjqeF0W8zJcGJJtzRjKCG"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 137746,
+      "name": "Sono",
+      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/0Q387CN0LUiJentAMwkSLA"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Coco Santos",
-          "url": "https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg"
-        }
-      ],
-      "duration_ms": 166583,
-      "name": "Lejos (feat. Coco Santos)",
-      "url": "https://open.spotify.com/track/672t21hOO34Xvv6oMLvzPN"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Aguas",
         "url": "https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 256668,
       "name": "Dama Fina",
       "url": "https://open.spotify.com/track/5UQ1ZR19u2moiUdAhsQqCz"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/0Q387CN0LUiJentAMwkSLA"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Coco Santos",
+          "url": "https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg"
+        }
+      ],
+      "duration_ms": 166583,
+      "name": "Lejos (feat. Coco Santos)",
+      "url": "https://open.spotify.com/track/672t21hOO34Xvv6oMLvzPN"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Marem Ladson",
-        "url": "https://open.spotify.com/album/63BrmIxMevcdnmUJg0NWLZ"
-      },
-      "artists": [
-        {
-          "name": "Marem Ladson",
-          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
-        }
-      ],
-      "duration_ms": 221931,
-      "name": "All My Storms",
-      "url": "https://open.spotify.com/track/30tqpZsnx3NBLbxZy8kPR1"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "The Feel",
         "url": "https://open.spotify.com/album/2hT9ig4B0tTVDvuyQAKZvJ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 180693,
       "name": "The Feel",
       "url": "https://open.spotify.com/track/3ibKHCLcR8yChARBe32WKy"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Marem Ladson",
+        "url": "https://open.spotify.com/album/63BrmIxMevcdnmUJg0NWLZ"
+      },
+      "artists": [
+        {
+          "name": "Marem Ladson",
+          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
+        }
+      ],
+      "duration_ms": 221931,
+      "name": "All My Storms",
+      "url": "https://open.spotify.com/track/30tqpZsnx3NBLbxZy8kPR1"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Month One",
-        "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
-      },
-      "artists": [
-        {
-          "name": "The Acapulco Express",
-          "url": "https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N"
-        }
-      ],
-      "duration_ms": 310090,
-      "name": "Week 4",
-      "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "La Santa Cecilia",
         "url": "https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 183346,
       "name": "Play Your Game",
       "url": "https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Month One",
+        "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
+      },
+      "artists": [
+        {
+          "name": "The Acapulco Express",
+          "url": "https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N"
+        }
+      ],
+      "duration_ms": 310090,
+      "name": "Week 4",
+      "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Drooling",
-        "url": "https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu"
-      },
-      "artists": [
-        {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
-        }
-      ],
-      "duration_ms": 219794,
-      "name": "Drooling",
-      "url": "https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Every Third Thought",
         "url": "https://open.spotify.com/album/2NItkHYNcAGCzYVS5ixoOq"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 169200,
       "name": "Internet Blues",
       "url": "https://open.spotify.com/track/2e7lkdve1jpwYocn0OSRZK"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Drooling",
+        "url": "https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu"
+      },
+      "artists": [
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "duration_ms": 219794,
+      "name": "Drooling",
+      "url": "https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ"
     },
     {
       "added_at": "2022-08-05 16:11:36",

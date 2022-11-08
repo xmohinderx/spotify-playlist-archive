@@ -4,7 +4,7 @@
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM?si=wALkXQdlR4CuEzeJPArGAA">Nobuhle</a>
 
-287 songs - 20 hr 29 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
+288 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Angsakhoni](https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Angsakhoni](https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO) | 4:56 | 2022-05-05 |  |
 | [Asambeni](https://open.spotify.com/track/7Lr10Tr4OI5SVin9D9VAhf) | [Batundi](https://open.spotify.com/artist/0K2Su3rHagcOMrBnIf2P9I), [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [Asambeni](https://open.spotify.com/album/2yfyvCwXbwco8UIjSeYq0T) | 2:57 | 2022-02-17 | 2022-03-25 |
 | [Asyeke](https://open.spotify.com/track/4hje3mzEY1UWmYHv9KaePN) | [Umzulu Phaqa](https://open.spotify.com/artist/6nStNfo8Gzsff8NcJl4mND), [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60) | [Asyeke](https://open.spotify.com/album/6e7ceXPUdyn1t11wdabEY4) | 3:37 | 2022-07-28 | 2022-08-05 |
+| [AYE KUWA \(feat\. CK THE DJ\)](https://open.spotify.com/track/2nws7wwvjHpP512xuDAn10) | [King Monada](https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP), [CK THE DJ](https://open.spotify.com/artist/5aghK8xQCkW1oPN0I2xoHP) | [AYE KUWA \(feat\. CK THE DJ\)](https://open.spotify.com/album/6i7TW4LDvICObUfCJ9Jcas) | 4:52 | 2022-11-07 |  |
 | [Backroom](https://open.spotify.com/track/1WBvbilb4UNMD8vxNbgZyp) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [Backroom](https://open.spotify.com/album/7I6PNSnQ2ScimsJGZ0GnSv) | 4:10 | 2022-07-14 | 2022-10-14 |
 | [Badimo \(feat\. DJ Maphorisa & Boohle\)](https://open.spotify.com/track/5LRdE3vW5Pb4zPXKOHZOa1) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Badimo \(feat\. DJ Maphorisa & Boohle\)](https://open.spotify.com/album/16T88ND5mXBOVElDNieKZq) | 4:14 | 2022-09-15 |  |
 | [Balele](https://open.spotify.com/track/6WzAPWft8Rxhn91qoEQlmL) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Umsebenzi \(Gold Deluxe\)](https://open.spotify.com/album/6TE4E8HVGy0HM4lT3vgHWz) | 3:54 | 2021-09-30 | 2022-09-02 |
@@ -240,7 +241,7 @@
 | [Sondela](https://open.spotify.com/track/62zPjW7LXGWj290EvQjreU) | [Thesis ZA](https://open.spotify.com/artist/1WWnGqSNzDgePBza5THZHm) | [Sondela](https://open.spotify.com/album/4YpgSQZCYVdDxC6hcUcWWi) | 2:26 | 2022-06-02 | 2022-06-17 |
 | [Sondela My Love](https://open.spotify.com/track/1OKkFjd0I0vGXRMDKTc1jf) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato), [Tee Tee](https://open.spotify.com/artist/1rKDAiEgSFeGJDqJPhvjzY) | [Sondela My Love](https://open.spotify.com/album/0AQvG3M6bwk3QlGYYDXgO5) | 3:49 | 2022-09-29 |  |
 | [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 | 2022-03-31 | 2022-10-14 |
-| [Sphila](https://open.spotify.com/track/0eRjEAAgM2ERSlIo98hviS) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Sphila](https://open.spotify.com/album/4b96sbHZRnkTRdUvlbiQga) | 5:49 | 2022-10-13 |  |
+| [Sphila](https://open.spotify.com/track/0eRjEAAgM2ERSlIo98hviS) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Sphila](https://open.spotify.com/album/4b96sbHZRnkTRdUvlbiQga) | 5:49 | 2022-10-13 | 2022-11-08 |
 | [Summervibe](https://open.spotify.com/track/04KdURLmbVwbgHx6S7mmIw) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Summervibe](https://open.spotify.com/album/4oeaWOOTG0kt2JbN3U15KZ) | 2:22 | 2022-05-26 | 2022-07-01 |
 | [Sundays Are For Lovers](https://open.spotify.com/track/3EgaEehSd9raC0RAUbwtQh) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Amagama \(Deluxe\)](https://open.spotify.com/album/0DP3kKlV04ZUmNbFoxDnjs) | 4:43 | 2022-08-11 | 2022-10-29 |
 | [Take Me There \(feat\. Blxckie\)](https://open.spotify.com/track/7JAfgeowFwEHZlpVU7SZep) | [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [I'm Alive](https://open.spotify.com/album/7L4h1riHfnIXtwx7ic4gO6) | 3:39 | 2022-09-22 |  |

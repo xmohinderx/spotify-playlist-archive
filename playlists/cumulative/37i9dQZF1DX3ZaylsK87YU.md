@@ -4,7 +4,7 @@
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-206 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/6hHifxlV6iYC7c6IGWvkKH)
+207 songs - 16 hr 19 min - [published](https://open.spotify.com/playlist/6hHifxlV6iYC7c6IGWvkKH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [doxology](https://open.spotify.com/track/2PMzoMvHUh8SRcSkx2E51K) | [My Epic](https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe) | [Broken Voice](https://open.spotify.com/album/2YrNDHsk3sdrG1273AqlPy) | 3:10 | 2021-07-30 | 2022-07-25 |
 | [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7eDggDAqjNLmvPsWR4W4LY) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/55y8iZYeiGKxYCxmWF5Nd4) | 2:04 | 2021-07-30 |  |
 | [Doxology//Amen](https://open.spotify.com/track/6oJlEWCnw9lMejLEYlqH84) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/4APhyYBjliHGPfs3zLsmVE) | 4:38 | 2021-07-30 | 2022-07-29 |
-| [Doxology//Amen](https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:39 | 2021-07-30 |  |
+| [Doxology//Amen](https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:39 | 2021-07-30 | 2022-11-08 |
 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 | 2021-07-30 |  |
 | [Ever Be](https://open.spotify.com/track/4lpbumeJ0OhkUMR2ywRelJ) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bethany Barnard](https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:51 | 2021-07-30 | 2022-07-28 |
 | [Fall Afresh](https://open.spotify.com/track/321jLsfufuG8Ot8GsYffdm) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4j0qiJw946YRhJ9UpNcqaA) | 4:24 | 2021-07-30 | 2022-07-29 |
@@ -96,6 +96,7 @@
 | [His Mercy Is More](https://open.spotify.com/track/058tyWQSQ3CrXp1locpRdN) | [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [Church Songs](https://open.spotify.com/album/6FLtXL76cqZVn5f0L4vR84) | 3:26 | 2021-07-30 | 2022-07-29 |
 | [Holy, Holy, Holy](https://open.spotify.com/track/7JzvdSrUXSMXll3SISuO1K) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 3:09 | 2021-07-30 |  |
 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 | 2021-07-30 |  |
+| [Holy, Holy, Holy](https://open.spotify.com/track/4NTab2bmkCKaCB4F2qvDdg) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:50 | 2021-07-30 |  |
 | [Holy, Holy, Holy](https://open.spotify.com/track/6GjYRXGmP1CQrAb9ORvaFV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A) | 3:50 | 2021-07-30 | 2022-04-25 |
 | [House Of God, Forever](https://open.spotify.com/track/5Ubpu6Eyochmp3kmaVB7AN) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Summer](https://open.spotify.com/album/7fGun1zK6PCspsA07Qtk0y) | 4:43 | 2021-07-30 | 2022-07-26 |
 | [How Deep](https://open.spotify.com/track/2aeu7z7IAokrS2uowbiNkq) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Becoming Who We Are](https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif) | 5:03 | 2021-07-30 | 2022-11-03 |

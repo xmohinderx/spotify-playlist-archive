@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Manal
 
-825 songs - 1 day 21 hr 29 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+826 songs - 1 day 21 hr 33 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Jani Door Gaye](https://open.spotify.com/track/4aNM6oZi4q6tVNTIcznXsl) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Tribute](https://open.spotify.com/album/01ieKFE0xWiaQkokB9sWn6) | 5:03 | 2022-04-06 | 2022-05-05 |
 | [Janjiku](https://open.spotify.com/track/1NNBPTYrhlJpdTkwCCKQyo) | [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV) | [Janjiku](https://open.spotify.com/album/4DCtgYL14od0FaSwsUFc22) | 3:20 | 2022-09-07 | 2022-10-05 |
 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/3V4mfh90OLdVEJQfo6decv) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/5IubZbuFhSwJyCJrdRFgkJ) | 2:39 | 2022-02-02 | 2022-03-09 |
+| [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 | 2022-11-02 |  |
 | [Jenny from the Block](https://open.spotify.com/track/6gK79QFCmkOS4z8t54NxTL) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U), [FONTI](https://open.spotify.com/artist/1wYQzfNKzHpbeE3M1aRXS4) | [Jenny from the Block](https://open.spotify.com/album/417Lji0mRHPkRu8ANfdhWk) | 1:59 | 2022-10-04 | 2022-11-03 |
 | [Judaa](https://open.spotify.com/track/1hPdxs8YnXxH7GeVWbk9Fc) | [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Jeem](https://open.spotify.com/album/6BjpcRvpERMrX7hqhjB6Fc) | 4:20 | 2022-06-01 | 2022-07-07 |
 | [Jui$y](https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Feels](https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj) | 3:26 | 2022-11-02 |  |

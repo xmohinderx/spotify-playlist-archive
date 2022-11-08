@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Warren Zeiders",
-  "num_followers": 479525,
+  "num_followers": 479838,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzMyOTYzNSwwMDAwMDAwMGVlYzY1MjkwNGY0MTgwNzVkOGE1MzM3YmIwODdiYmQ0",
+  "snapshot_id": "MTY2NzMyOTYzNSwwMDAwMDAwMDQ2MmE5MWQ0MTc0NThiOTgwMDU2MmVkNTRmNWIxOTUw",
   "tracks": [
     {
       "added_at": "2022-11-01 19:07:15",
@@ -139,86 +139,6 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 188254,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
-        "name": "Boy From Anderson County To The Moon",
-        "url": "https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 217993,
-      "name": "Are We On Fire",
-      "url": "https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "Money Spent",
-      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Poor Everybody Else",
-      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
-        "name": "TRUCK BED",
-        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 167534,
-      "name": "TRUCK BED",
-      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/1AmO83yyDpjLjQuPdMsf3Y"
       },
@@ -243,6 +163,86 @@
       "duration_ms": 197234,
       "name": "Outlaws & Outsiders",
       "url": "https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
+        "name": "Boy From Anderson County To The Moon",
+        "url": "https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 217993,
+      "name": "Are We On Fire",
+      "url": "https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 188254,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Poor Everybody Else",
+      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "Money Spent",
+      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
+        "name": "TRUCK BED",
+        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
     },
     {
       "added_at": "2022-11-01 19:07:15",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 231720,
-      "name": "Devil Always Made Me Think Twice",
-      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
         "name": "SOLD OUT",
         "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 202912,
       "name": "SOLD OUT",
       "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 231720,
+      "name": "Devil Always Made Me Think Twice",
+      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
     },
     {
       "added_at": "2022-11-01 19:07:15",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
+        "name": "Sleeve",
+        "url": "https://open.spotify.com/album/23E0DdtttVfeD7n4W77FF9"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 261359,
+      "name": "Sleeve",
+      "url": "https://open.spotify.com/track/40OAMuxuJPssTKQ4gdU1JA"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
         "name": "Ride It Hard",
         "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 150861,
       "name": "Ride It Hard",
       "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
-        "name": "Sleeve",
-        "url": "https://open.spotify.com/album/23E0DdtttVfeD7n4W77FF9"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 261359,
-      "name": "Sleeve",
-      "url": "https://open.spotify.com/track/40OAMuxuJPssTKQ4gdU1JA"
     },
     {
       "added_at": "2022-11-01 19:07:15",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Midnight Train To Memphis",
-      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
         "name": "Oklahoma",
         "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
       },
@@ -567,18 +551,34 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
-        "name": "Backslider",
-        "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
       "artists": [
         {
-          "name": "Elvie Shane",
-          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 191765,
-      "name": "County Roads",
-      "url": "https://open.spotify.com/track/6i0VZ0uDSkj669YuEi1oa3"
+      "duration_ms": 222653,
+      "name": "Midnight Train To Memphis",
+      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 186458,
+      "name": "Ride the Lightning - 717 Tapes",
+      "url": "https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j"
     },
     {
       "added_at": "2022-11-01 19:07:15",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+        "name": "Backslider",
+        "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
         }
       ],
-      "duration_ms": 186458,
-      "name": "Ride the Lightning - 717 Tapes",
-      "url": "https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j"
+      "duration_ms": 191765,
+      "name": "County Roads",
+      "url": "https://open.spotify.com/track/6i0VZ0uDSkj669YuEi1oa3"
     },
     {
       "added_at": "2022-11-01 19:07:15",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
         "name": "Tabasco & Sweet Tea",
         "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 280065,
       "name": "Tabasco & Sweet Tea",
       "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
-        "name": "Black Powder Soul",
-        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
-      },
-      "artists": [
-        {
-          "name": "Taylor McCall",
-          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
-        }
-      ],
-      "duration_ms": 216153,
-      "name": "Black Powder Soul",
-      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
     },
     {
       "added_at": "2022-11-01 19:07:15",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
-        "name": "Tejano Punk Boyz",
-        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+        "name": "Black Powder Soul",
+        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
       "artists": [
         {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+          "name": "Taylor McCall",
+          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
         }
       ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
+      "duration_ms": 216153,
+      "name": "Black Powder Soul",
+      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
     },
     {
       "added_at": "2022-11-01 19:07:15",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
+        "name": "High Country Sound",
+        "url": "https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za"
+      },
+      "artists": [
+        {
+          "name": "Canaan Smith",
+          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
+        },
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 169700,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/4yxdTF0DcdXfD9XA3F8gvX"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
         "name": "To Hank (feat. HARDY, Brantley Gilbert & Colt Ford)",
         "url": "https://open.spotify.com/album/6PNMatU3htyk6mAK7xv6qW"
       },
@@ -1347,26 +1367,6 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
-        "name": "High Country Sound",
-        "url": "https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za"
-      },
-      "artists": [
-        {
-          "name": "Canaan Smith",
-          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
-        },
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 169700,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/4yxdTF0DcdXfD9XA3F8gvX"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
         "name": "Backslider",
         "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
-        "name": "These Old Boots",
-        "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
-      },
-      "artists": [
-        {
-          "name": "Seth Anthony",
-          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
-        }
-      ],
-      "duration_ms": 206307,
-      "name": "These Old Boots",
-      "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
         "name": "I'm Not For Everyone",
         "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
+        "name": "These Old Boots",
+        "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
+      },
+      "artists": [
+        {
+          "name": "Seth Anthony",
+          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
+        }
+      ],
+      "duration_ms": 206307,
+      "name": "These Old Boots",
+      "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
     },
     {
       "added_at": "2022-11-01 19:07:15",

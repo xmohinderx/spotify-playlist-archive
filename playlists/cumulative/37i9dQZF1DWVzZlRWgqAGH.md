@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: NxWorries \(Anderson .Paak, Knxwledge\)
 
-750 songs - 1 day 20 hr 20 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+751 songs - 1 day 20 hr 24 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Filatelie](https://open.spotify.com/track/5kv3o8QvGHhjxh9STzsclu) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 3](https://open.spotify.com/album/0MQTjFKFbTqgdheKbrpuSw) | 2:38 | 2021-04-18 | 2022-07-24 |
 | [Fingers Crossed](https://open.spotify.com/track/6I5tLDKIqdv3qf1t4k60W8) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA) | [Fingers Crossed](https://open.spotify.com/album/2ksiY6O0XyfxR5iO5yQWtm) | 3:38 | 2020-06-29 | 2021-10-16 |
 | [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 | 2022-09-02 | 2022-10-14 |
+| [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 | 2022-10-28 |  |
 | [Fix Yo' Crown](https://open.spotify.com/track/6kRNTMM1UZ3FvqC3BSiErH) | [Skypp](https://open.spotify.com/artist/2BqhkoSEUa4o73MvVMTdKM), [Rhymefest](https://open.spotify.com/artist/1SUFqa4aXxvMrGdOnqiMmR), [Allison Victoria](https://open.spotify.com/artist/7nu5tPOxq6fjVUxQOUQkZx), [Jared Thompson](https://open.spotify.com/artist/3DJcjVMvtQpoeqgWvc1MQK) | [Fix Yo' Crown](https://open.spotify.com/album/6ZLWoTvTpWiNE7XG2y5svx) | 4:19 | 2021-04-19 | 2021-05-10 |
 | [Flashback](https://open.spotify.com/track/72AeYsLNGsNXLVwwbXuUTj) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [See You Soon](https://open.spotify.com/album/11y45vkgrNDca3bohfcT3j) | 2:33 | 2019-10-02 | 2019-11-01 |
 | [Flight 99](https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [Flight 99](https://open.spotify.com/album/45IpQ6F0GYcas0yFGMzvac) | 2:47 | 2019-11-20 | 2020-04-24 |
@@ -475,7 +476,7 @@
 | [On A Beach](https://open.spotify.com/track/2L5C7PD6XsSVDv7RLhoh4i) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [2 METRES APART](https://open.spotify.com/album/4aZ3411k7YWqlKH0wKAQW9) | 3:19 | 2020-06-19 | 2020-09-04 |
 | [On a Blue Sunny Day](https://open.spotify.com/track/2WEidJAW3jMLM0mtpmh0ya) | [Leo Pesci](https://open.spotify.com/artist/2JRSgE22ZVQ7pdqnv46QGQ) | [On a Blue Sunny Day](https://open.spotify.com/album/76rPJkqnXHmwgWhsVAWUUR) | 3:22 | 2020-12-11 | 2022-05-27 |
 | [On Repeat](https://open.spotify.com/track/3HXdqRgJq1PxhPyERUPx1d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Osiris EP](https://open.spotify.com/album/6yRrlH2Lw1Zlu0hxd6vq7n) | 3:01 | 2021-09-09 | 2022-05-10 |
-| [One More Kiss](https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R) | 3:46 | 2022-07-22 |  |
+| [One More Kiss](https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R) | 3:46 | 2022-07-22 | 2022-11-08 |
 | [One More Kiss](https://open.spotify.com/track/5Tfhu1RyUKxxkrurEBGPuj) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/3OfRIGjI51gWg7oA9wMsHB) | 3:46 | 2021-02-22 | 2022-07-27 |
 | [Ooowee \(feat\. Elijah Dax\)](https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Elijah Dax](https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 4:13 | 2022-04-22 | 2022-10-20 |
 | [Open](https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 2:54 | 2022-05-13 |  |

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\.  girl in red on the cover
 
-982 songs - 2 day 2 hr 24 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+983 songs - 2 day 2 hr 27 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,8 @@
 | [LUV U A LIL BIT](https://open.spotify.com/track/4rEc2f0jkObR0F45hmmgVM) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [LUV U A LIL BIT](https://open.spotify.com/album/1UcugzrGj09mNMxFurq7fc) | 2:25 | 2021-09-11 | 2021-10-09 |
 | [MADONNA](https://open.spotify.com/track/3CMyRTk91XlLcab29q41M5) | [Sandman](https://open.spotify.com/artist/2UytYzhVi9dPgPi9FIFGI4) | [MADONNA](https://open.spotify.com/album/6kTzzlgENOlrpxSnYbpwAD) | 3:06 | 2021-06-05 | 2021-06-19 |
 | [Magazines](https://open.spotify.com/track/3jqkxkAoFA9T3ohkLmaeJs) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Magazines](https://open.spotify.com/album/5qiV1lVO8EGxnIwcBXtSJ2) | 2:43 | 2022-02-25 |  |
-| [Make Believe](https://open.spotify.com/track/1Pfk03tf9z8b5MPeK9uNVR) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Make Believe](https://open.spotify.com/album/4VwrrAYg9D88tV0cGKZg0B) | 3:28 | 2022-08-19 |  |
+| [Make Believe](https://open.spotify.com/track/1Pfk03tf9z8b5MPeK9uNVR) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Make Believe](https://open.spotify.com/album/4VwrrAYg9D88tV0cGKZg0B) | 3:28 | 2022-08-19 | 2022-11-08 |
+| [Make Believe](https://open.spotify.com/track/2Fz9Mfjo3GTENXxoZ6YVku) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [What Tomorrow Brings](https://open.spotify.com/album/1w64Qy4uueDC8hItAkBV8Z) | 3:28 | 2022-10-28 |  |
 | [Make My Bed](https://open.spotify.com/track/2xN8wluJkPng1dpUd6h9hW) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Make My Bed](https://open.spotify.com/album/0viAFE6FcjxVPF7EL0yTlA) | 2:56 | 2021-05-22 | 2021-08-14 |
 | [Make Up Your Mind](https://open.spotify.com/track/4R08fSLXE7LFNJAuNh1avy) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [Pink Noise](https://open.spotify.com/album/4Y18OAJV6GwtTlQ6E5vcoc) | 2:04 | 2021-02-27 | 2021-05-03 |
 | [Makes Me Sick](https://open.spotify.com/track/2gCIv3pJkzfX4kRj6wnIAS) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Makes Me Sick](https://open.spotify.com/album/2eS6hfchrO12pXPSvH5YDy) | 2:24 | 2022-03-04 | 2022-07-16 |

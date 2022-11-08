@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 196504,
+  "num_followers": 196557,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzEyNDQwNywwMDAwMDAwMDI5YjVjYjdhMTgxN2QzODE1Nzg2MmM2ZDdkMjc1ZWYy",
+  "snapshot_id": "MTYxMzEyNDQwNywwMDAwMDAwMDZkZTk2ZDYyMTI1MGJlZjRiZGZkYzdlNDY2ODY3NGY3",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Get a Job",
-        "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes",
-          "url": "https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Get a Job",
-      "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Up on the Roof: The Best of the Drifters",
         "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
       },
@@ -403,18 +387,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Goin' Out Of My Head",
-        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
+        "name": "Get a Job",
+        "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
       },
       "artists": [
         {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+          "name": "The Silhouettes",
+          "url": "https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx"
         }
       ],
-      "duration_ms": 149733,
-      "name": "Goin' Out Of My Head",
-      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
+      "duration_ms": 169706,
+      "name": "Get a Job",
+      "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -435,6 +419,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "Goin' Out Of My Head",
+        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 149733,
+      "name": "Goin' Out Of My Head",
+      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "The Magic Touch: An Anthology",
         "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
       },
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Best Of Dion & The Belmonts",
-        "url": "https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu"
-      },
-      "artists": [
-        {
-          "name": "Dion & The Belmonts",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
-        }
-      ],
-      "duration_ms": 138960,
-      "name": "I Wonder Why - Remastered",
-      "url": "https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "There's A Riot Goin' On: The Coasters On Atco",
         "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 164253,
       "name": "Poison Ivy - 2007 Remaster; Remastered",
       "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Best Of Dion & The Belmonts",
+        "url": "https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu"
+      },
+      "artists": [
+        {
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+        }
+      ],
+      "duration_ms": 138960,
+      "name": "I Wonder Why - Remastered",
+      "url": "https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Best Of The Cleftones",
-        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
-      },
-      "artists": [
-        {
-          "name": "The Cleftones",
-          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
-        }
-      ],
-      "duration_ms": 113640,
-      "name": "Heart and Soul",
-      "url": "https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "I'm On The Outside (Looking In)",
         "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 192066,
       "name": "I'm On The Outside (Looking In)",
       "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Best Of The Cleftones",
+        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
+      },
+      "artists": [
+        {
+          "name": "The Cleftones",
+          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
+        }
+      ],
+      "duration_ms": 113640,
+      "name": "Heart and Soul",
+      "url": "https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Barbara-Ann",
-        "url": "https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB"
-      },
-      "artists": [
-        {
-          "name": "The Regents",
-          "url": "https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn"
-        }
-      ],
-      "duration_ms": 135506,
-      "name": "Barbara Ann",
-      "url": "https://open.spotify.com/track/44iYHhqsZumnQedqNtOK6x"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "The Best Of The Cleftones",
         "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 179160,
       "name": "Can't We Be Sweethearts",
       "url": "https://open.spotify.com/track/6vF8EUUjVNkKf1Yb2lmovx"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Barbara-Ann",
+        "url": "https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB"
+      },
+      "artists": [
+        {
+          "name": "The Regents",
+          "url": "https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn"
+        }
+      ],
+      "duration_ms": 135506,
+      "name": "Barbara Ann",
+      "url": "https://open.spotify.com/track/44iYHhqsZumnQedqNtOK6x"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "The Best Of The Cleftones",
+        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
+      },
+      "artists": [
+        {
+          "name": "The Cleftones",
+          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Little Girl of Mine",
+      "url": "https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "Playlist: The Best Of The Flamingos",
         "url": "https://open.spotify.com/album/4jwec58eQ4tIr8YWKdxyjg"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 106760,
       "name": "Hey Senorita",
       "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Best Of The Cleftones",
-        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
-      },
-      "artists": [
-        {
-          "name": "The Cleftones",
-          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Little Girl of Mine",
-      "url": "https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN"
     }
   ],
   "unique_name": "Doo-Wop Dee Doo",

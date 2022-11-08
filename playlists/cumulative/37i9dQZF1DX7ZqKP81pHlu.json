@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 210750,
       "name": "Baby Baby",
       "url": "https://open.spotify.com/track/0xgP0lR6VpAl4ruqu6bE45"
@@ -555,6 +555,28 @@
       "duration_ms": 252000,
       "name": "El Walida",
       "url": "https://open.spotify.com/track/1Ld7ou1JXz77rg70AG7usC"
+    },
+    {
+      "album": {
+        "name": "ELGHIRA",
+        "url": "https://open.spotify.com/album/51jFeqsDRYtQDse8p4zTL5"
+      },
+      "artists": [
+        {
+          "name": "Mc Artisan",
+          "url": "https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S"
+        },
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167439,
+      "name": "ELGHIRA",
+      "url": "https://open.spotify.com/track/42Vy5zKc5KcUsz5dyGEMQI"
     },
     {
       "album": {
@@ -1567,7 +1589,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 246000,
       "name": "Tir Ellil",
       "url": "https://open.spotify.com/track/3le36Vlse8nzqBy2Wfylql"
