@@ -3008,6 +3008,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Punta](/playlists/pretty/37i9dQZF1DWTOCFhDS6muW.md)
 - [Punto Tropical](/playlists/pretty/37i9dQZF1DWZ1FUX6sM67g.md)
 - [Pura Salsa](/playlists/pretty/37i9dQZF1DX1UHxedJfnRM.md)
+- [Pure Flow](/playlists/pretty/5hmeg2ngrrAFbz1Gu05PXi.md)
 - [Pure Pop Punk](/playlists/pretty/37i9dQZF1DXasneILDRM7B.md)
 - [Pure Rock & Roll](/playlists/pretty/37i9dQZF1DWWRktbhJiuqL.md)
 - [Pure Sunshine](/playlists/pretty/37i9dQZF1DXaSYtampkg5n.md)
