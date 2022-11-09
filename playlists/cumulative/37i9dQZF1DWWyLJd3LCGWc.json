@@ -71,7 +71,7 @@
     {
       "album": {
         "name": "Powerplay",
-        "url": "https://open.spotify.com/album/7LUKLf5ipWFL58Y558hNly"
+        "url": "https://open.spotify.com/album/1Cvn9YGFvcg46z4FG81Btr"
       },
       "artists": [
         {
@@ -82,6 +82,24 @@
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3ZE5XEBhVgZF7HVqbL91l3"
+    },
+    {
+      "album": {
+        "name": "Powerplay",
+        "url": "https://open.spotify.com/album/7LUKLf5ipWFL58Y558hNly"
+      },
+      "artists": [
+        {
+          "name": "LYZZA",
+          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
       "duration_ms": 210000,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/5MOeskxHd3tFXAm2GbO3Rl"

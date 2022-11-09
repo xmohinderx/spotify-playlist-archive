@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: Koji Kikkawa(\u5409\u5ddd\u6643\u53f8)",
+  "description": "The biggest rock artists in Japan right now! Cover: Ulfuls(\u30a6\u30eb\u30d5\u30eb\u30ba)",
   "name": "Big in Japan",
   "published_playlist_ids": [
     "58cr9qiZRcBgGXeUmGq6P3"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
@@ -2123,7 +2123,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 191373,
       "name": "Mary",
       "url": "https://open.spotify.com/track/6yiqPUtoyygE7I9TJPX8zs"
@@ -2231,7 +2231,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 230542,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
@@ -2599,7 +2599,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207203,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ"
@@ -3231,7 +3231,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 183000,
       "name": "shuttle way",
       "url": "https://open.spotify.com/track/1AuES2HPRFzcZZbbUbXxGz"
@@ -3800,6 +3800,24 @@
     },
     {
       "album": {
+        "name": "tonight",
+        "url": "https://open.spotify.com/album/7LZixLs2YztuW53wsE2GeZ"
+      },
+      "artists": [
+        {
+          "name": "Arukara",
+          "url": "https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274520,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/76r39ZhRRknSx7Otsy1s5p"
+    },
+    {
+      "album": {
         "name": "Break and Cross the Walls \u2161",
         "url": "https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU"
       },
@@ -3865,7 +3883,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 211133,
       "name": "Tsuubee Koobee",
       "url": "https://open.spotify.com/track/7IYn5ahor1DF8VGGiags5N"
@@ -4277,6 +4295,24 @@
       "duration_ms": 212774,
       "name": "YUME O MOTO",
       "url": "https://open.spotify.com/track/4nThYWGPWFHPBSdumRyopx"
+    },
+    {
+      "album": {
+        "name": "Seimei",
+        "url": "https://open.spotify.com/album/6GQ97EX8TfWzw0JjoFw4MS"
+      },
+      "artists": [
+        {
+          "name": "envy",
+          "url": "https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "Zanshin",
+      "url": "https://open.spotify.com/track/3uXTMl8KvW3oS22uaFk2bM"
     },
     {
       "album": {
@@ -6149,7 +6185,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 308809,
       "name": "\u611b\u5f4c\u3005",
       "url": "https://open.spotify.com/track/4BQR7j2Wg0lkwfPq9O14gZ"
@@ -6445,7 +6481,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 184893,
       "name": "\u6b8b\u97ff\u6563\u6b4c",
       "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
@@ -6769,7 +6805,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 224399,
       "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
       "url": "https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH"
@@ -6949,7 +6985,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 265466,
       "name": "\u9583\u5149 - English ver.",
       "url": "https://open.spotify.com/track/3qDky2Jzzp4MQ2dKTNfVLe"

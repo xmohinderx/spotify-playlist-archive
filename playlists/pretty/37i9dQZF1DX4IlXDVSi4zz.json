@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 129821,
+  "num_followers": 130133,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU4OTMxMSwwMDAwMDAwMDg3NzBkY2Q2OGY5ZjNkNDNkZDFlODc3MTJlZDU5OTM2",
+  "snapshot_id": "MTY2NTU4OTMxMSwwMDAwMDAwMDM3NzUxOWQ0YzZhMjA4ZmEzMWUzZTI5NjRkM2RkNThl",
   "tracks": [
     {
       "added_at": "2022-10-12 15:41:51",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
-        "name": "Nieve",
-        "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Nieve",
-      "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/00SLXiSfueGVaPZSpNeqRa"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 167619,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
+        "name": "Nieve",
+        "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Nieve",
+      "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
     },
     {
       "added_at": "2022-10-12 15:41:51",

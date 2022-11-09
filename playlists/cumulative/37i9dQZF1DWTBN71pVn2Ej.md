@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-250 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+251 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Burnt \(By the Sun\)](https://open.spotify.com/track/0LcU62QpwyqPy0kTylVvkQ) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Somebody's Closer](https://open.spotify.com/album/3TGCf5xW77jYE9JbzM0SiC) | 2:51 | 2021-12-16 | 2022-04-15 |
 | [BWBB](https://open.spotify.com/track/1t9TGGopVWBYQX8Jfecrae) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [BWBB](https://open.spotify.com/album/0hM0Y3rcMNL57znId5EISZ) | 2:46 | 2021-12-16 | 2022-03-11 |
 | [Call It Home](https://open.spotify.com/track/4LbhFWgp6MeYvrHNRbhrC7) | [Of Allies](https://open.spotify.com/artist/5fYc93nNjMlAsoaXen9elQ) | [Epoch](https://open.spotify.com/album/16Le5bzGb1VGLfx9BFaK1i) | 4:04 | 2021-12-16 | 2022-01-21 |
-| [Can't Deny It](https://open.spotify.com/track/3wJ7DkVyjux3jCNTakOahw) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/7jcDqi4m5XF2q4DVMYSDcF) | 3:58 | 2022-09-30 |  |
+| [Can't Deny It](https://open.spotify.com/track/0tgTrj69uTFZaRK669acBF) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/6iPxylWvEfxFqJoTlVOZV2) | 3:58 | 2022-11-04 |  |
+| [Can't Deny It](https://open.spotify.com/track/3wJ7DkVyjux3jCNTakOahw) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/7jcDqi4m5XF2q4DVMYSDcF) | 3:58 | 2022-09-30 | 2022-11-09 |
 | [Care About You](https://open.spotify.com/track/5EdKpHVNlOuoQIf8rjvRrc) | [Columbus](https://open.spotify.com/artist/3hyTRrdgrNuAExA3tNS8CA) | [Driving In The Dark](https://open.spotify.com/album/44szdul4P7C2lcdgyscfcR) | 2:51 | 2022-04-05 | 2022-09-07 |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-27 | 2022-09-07 |
 | [Ce n'est Rien](https://open.spotify.com/track/0bJ3tEUaUQewD9EUTuh2XX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic II](https://open.spotify.com/album/6I4s9QeVMZfaF152XWjXFY) | 3:00 | 2021-12-16 | 2022-02-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 
 > Kids music the whole family can enjoy\. Enjoy new tunes and old favorites on this kids playlist, and make sure to check back for more!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 87,598 likes - 40 songs - 1 hr 35 min
+[Digster](https://open.spotify.com/user/digster.fm) - 87,580 likes - 40 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 | 14 | [We're The Party](https://open.spotify.com/track/5MPC3OsPWmxqg27O3WZpIc) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [We're The Party](https://open.spotify.com/album/1gZ1kclQlS9km46hoDfB2E) | 2:36 |
 | 15 | [I See It In The Sea](https://open.spotify.com/track/3MeadeAORRkIN1ABuqsRaX) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Meet The Alpha Beats \(Official Soundtrack Album\)](https://open.spotify.com/album/26Sb4jPOes5KjZsAeexcWT) | 2:17 |
 | 16 | [Room 13](https://open.spotify.com/track/6eR73pF06smxeq6LtfTAOD) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65), [Lilou](https://open.spotify.com/artist/61g7c2T0RXuYhlmcp2IsTM) | [Room 13](https://open.spotify.com/album/74rFiJryNQCCJk2P8lOVQs) | 2:32 |
-| 17 | [Prodigy \- The One With the Whales](https://open.spotify.com/track/1HPcXGieyMTYa1ZSbpHEWy) | [Star Trek Prodigy](https://open.spotify.com/artist/5xBSDl8pzdxe3qTNxXrez7), [Nami Melumad](https://open.spotify.com/artist/7icx86YKqzAozjY6xf0KNF) | [Star Trek Prodigy \(Original Music from the Series\)](https://open.spotify.com/album/3LMZkP2NFjVzNVqpIr9DlD) | 2:26 |
+| 17 | [The Aquathawn](https://open.spotify.com/track/1HPcXGieyMTYa1ZSbpHEWy) | [Star Trek Prodigy](https://open.spotify.com/artist/5xBSDl8pzdxe3qTNxXrez7), [Nami Melumad](https://open.spotify.com/artist/7icx86YKqzAozjY6xf0KNF) | [Star Trek Prodigy \(Original Music from the Series\)](https://open.spotify.com/album/3LMZkP2NFjVzNVqpIr9DlD) | 2:26 |
 | 18 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 |
 | 19 | [If I Were In Your Shoes](https://open.spotify.com/track/1DysowdsvK9Ol0znKuJnFE) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago’s Sea Shanties Vol\. 2](https://open.spotify.com/album/5d3PqzfZPo1peIpvilImVs) | 2:15 |
 | 20 | [Let's Go Amigos \- Remix](https://open.spotify.com/track/33qJ5h1VI9g2IbP4gzoPwl) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu), [El Rey](https://open.spotify.com/artist/6QAsWcn4mpE6GysHBUmTNR) | [Nick Jr\. Fun Fiesta!](https://open.spotify.com/album/4gctUTZuUT12hCliqviAa0) | 1:49 |

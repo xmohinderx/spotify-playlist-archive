@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,618 likes - 166 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,790 likes - 166 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 67 | [Fade Away](https://open.spotify.com/track/3RO9tD7ttecxGrxJ0te80c) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Fade Away](https://open.spotify.com/album/0iK59pBranztef9NbvtK1F) | 4:59 |
 | 68 | [Chasing the Now](https://open.spotify.com/track/63ypmPFNZJXv4SgTtsPdG3) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chasing The Now](https://open.spotify.com/album/4RDnaZuk2ZBBZORVqVdrYT) | 2:27 |
 | 69 | [Bloom](https://open.spotify.com/track/18giPJITeabMO6IB2pp45x) | [Wilborn](https://open.spotify.com/artist/73bYcf4jRS1co8vAERIbJW) | [Bloom](https://open.spotify.com/album/2OtEMRK0aS7xrnrrLtr44T) | 4:20 |
-| 70 | [Jungle](https://open.spotify.com/track/2Mdo5rCmJA1NMXiK6tGnDm) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/2cpq73ajZPz0vr9mvpZcfv) | 3:43 |
+| 70 | [Jungle](https://open.spotify.com/track/0Liq0W8Ui16N6NtGlPfTUa) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 3:43 |
 | 71 | [What Was It Like](https://open.spotify.com/track/7rwWQ2lBEQvLzalmgIdEH7) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [What Was It Like](https://open.spotify.com/album/5Qgjv6Z2zgtMDtdRQhRDki) | 2:55 |
 | 72 | [Miss U](https://open.spotify.com/track/4bLjS9vd86lvIddRDQZnSw) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Miss U](https://open.spotify.com/album/4dDBVWAKOmOd5CY52Nw7Ad) | 3:07 |
 | 73 | [Memory](https://open.spotify.com/track/2ik8P3FGPzYFKEpb9nv1CC) | [nan V](https://open.spotify.com/artist/6X00WOYkbeRyP5sZAEDKld) | [Memory](https://open.spotify.com/album/2t79KL2RwveaQQrbVnmpYV) | 2:00 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 165 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 |
 | 166 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 |
 
-Snapshot ID: `MTY2Njk2MTk0NywwMDAwMDAwMGNlNTgyM2UwYWMyMTYyZGJkYmFkOGY2MWQxZGEzNDA2`
+Snapshot ID: `MTY2Njk2MTk0NywwMDAwMDAwMGY3OGJhNWVlYzY0MWE5YWU4ZDBhZjUyNzRkYWMwZmQ1`

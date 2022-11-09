@@ -276,6 +276,24 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30f3\u30b6\u30d0\u30c3\u30af\u30eb\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "\u30a4\u30f3\u30b6\u30d0\u30c3\u30af\u30eb\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9"
+    },
+    {
+      "album": {
         "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
         "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
       },

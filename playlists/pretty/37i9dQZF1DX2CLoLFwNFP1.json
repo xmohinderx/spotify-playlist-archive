@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 7803,
+  "num_followers": 7849,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzI3NTM2OCwwMDAwMDAwMDI0NzQ1MTdjODQ2MzgwMzM4OTdkMzM1NWUwNzAxMDZj",
+  "snapshot_id": "MTY2NzI3NTM2OCwwMDAwMDAwMGYxMzUzYmQ5MDVkODU0MWQ1NzY2YWVlNTI5NDMwNzQ4",
   "tracks": [
     {
       "added_at": "2022-11-01 04:02:48",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 240736,
+      "name": "Ride Me",
+      "url": "https://open.spotify.com/track/5ZvRzu5RNxIwvyPGTx8plM"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
         "name": "SOJU (Remix)",
         "url": "https://open.spotify.com/album/5up3gHITO86zXeGtDm79K8"
       },
@@ -2139,22 +2155,6 @@
       "duration_ms": 256642,
       "name": "In This B*tch",
       "url": "https://open.spotify.com/track/5Dy4Aj5VdMdHElLSXLhWLZ"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 240736,
-      "name": "Ride Me",
-      "url": "https://open.spotify.com/track/5ZvRzu5RNxIwvyPGTx8plM"
     },
     {
       "added_at": "2022-11-01 04:02:48",

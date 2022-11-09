@@ -4,15 +4,16 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-256 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+257 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#3 \(Rhubarb\)](https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [\#3 \(Rhubarb\)](https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK) | 7:17 | 2022-11-09 |  |
 | [2013](https://open.spotify.com/track/3PJIKoSgXBohYJ4qTwRzyd) | [Falls](https://open.spotify.com/artist/3ATHXs1f58nnxQGsP90xbz) | [Oldthought](https://open.spotify.com/album/4ivM83KKZ6ioPulyW20OUo) | 1:45 | 2021-10-16 |  |
 | [3PM](https://open.spotify.com/track/0W8BAhQCzcccgD4EABB33E) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [3PM](https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG) | 2:15 | 2021-10-16 |  |
 | [5:36am](https://open.spotify.com/track/3D4AfHfei811onW5lJAbyh) | [Naveih](https://open.spotify.com/artist/0xymtqlA5ioTRnQyhd0fCt) | [5:36am](https://open.spotify.com/album/6mgTereFy0CMKaZHYEntzg) | 1:42 | 2021-10-16 | 2022-07-27 |
 | [A\-001](https://open.spotify.com/track/5NPFeVHOmUrgJhbwZU3Okk) | [Corntuth](https://open.spotify.com/artist/3GFs5bdCNNiBb8wkfgaw88) | [Music To Work To](https://open.spotify.com/album/5psDaEQtmERzgnUGj4HLFK) | 4:17 | 2021-10-16 |  |
-| [Abrázame mucho estos días](https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Abrázame mucho estos días](https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq) | 2:42 | 2022-11-01 |  |
+| [Abrázame mucho estos días](https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Abrázame mucho estos días](https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq) | 2:42 | 2022-10-31 |  |
 | [acceptances](https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [!](https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U) | 3:18 | 2022-09-30 |  |
 | [Agujeros Blancos](https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3) | 2:24 | 2021-10-16 |  |
 | [Ailments](https://open.spotify.com/track/55HhJOp3tvLBBnCYKnRqt2) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 2:29 | 2021-10-16 |  |
@@ -63,7 +64,7 @@
 | [conversations with grandma](https://open.spotify.com/track/5GgoR6lurqxLpfMjNOMUmG) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [blue moon](https://open.spotify.com/album/665irKdzu7aptrhBycT5NJ) | 1:26 | 2021-10-16 |  |
 | [Cotorra Serrana Occidental](https://open.spotify.com/track/2qpJ5Se8JaDXiTAAPjwafO) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Cotorra Serrana Occidental](https://open.spotify.com/album/6sNIjO6X2ZASJHE2SezX4l) | 4:05 | 2021-10-16 |  |
 | [Cotorra Serrana Occidental](https://open.spotify.com/track/6AM73G2nArb4b9PQaIE2VZ) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Cotorra Serrana Occidental](https://open.spotify.com/album/7vRvlclOYYHnbP7Zqqz95x) | 4:05 | 2021-10-16 | 2022-06-02 |
-| [Crescent](https://open.spotify.com/track/78pD8Ejib9BtCKWeXqDr3t) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Crescent](https://open.spotify.com/album/5nIIDBRXFx30wdaoWiklDE) | 2:23 | 2022-02-25 |  |
+| [Crescent](https://open.spotify.com/track/78pD8Ejib9BtCKWeXqDr3t) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Crescent](https://open.spotify.com/album/5nIIDBRXFx30wdaoWiklDE) | 2:23 | 2022-02-25 | 2022-11-09 |
 | [Cuckoo](https://open.spotify.com/track/21nmBBjOkUxLbeU8lmxmxA) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 2:25 | 2021-10-16 |  |
 | [Cuckoo](https://open.spotify.com/track/2BwiTu8QrHm09soMmegJbu) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake up Calls](https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K) | 2:25 | 2021-10-16 | 2022-10-16 |
 | [Daqui](https://open.spotify.com/track/180yWNMphJET6icsGgSfs1) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Daqui](https://open.spotify.com/album/48lhovTqxxgcP33S9d3RZu) | 1:22 | 2022-01-13 | 2022-07-20 |

@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-243 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
+244 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Black Sun](https://open.spotify.com/track/3T246PZYf5qMcBKFcjnfKx) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Kadavar](https://open.spotify.com/album/4f00FpOFJG65WQKlBVlEHC) | 6:14 | 2020-12-11 | 2022-07-29 |
 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 | 2020-12-11 |  |
 | [Boys From The Puget Sound](https://open.spotify.com/track/30MX7YQUfhQRzEEP8icha8) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Boys From The Puget Sound](https://open.spotify.com/album/6IBtL4j3T8LrREXlCAZCDf) | 3:33 | 2020-12-11 | 2022-06-14 |
-| [Brave New World \- Edit](https://open.spotify.com/track/3qaKW3PamENC3cfNy1qthd) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Brave New World \(Edit\)](https://open.spotify.com/album/2ciVpjZQk4aS4g7dtCBznU) | 2:40 | 2022-06-17 |  |
+| [Brave New World \- Edit](https://open.spotify.com/track/3qaKW3PamENC3cfNy1qthd) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Brave New World \(Edit\)](https://open.spotify.com/album/2ciVpjZQk4aS4g7dtCBznU) | 2:40 | 2022-06-17 | 2022-11-09 |
+| [Brave New World \- Edit](https://open.spotify.com/track/4k5L5CO5mTIVwdsu6vsIFl) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Brave New World \(Edit\)](https://open.spotify.com/album/4Z0hfRDndGL0bGFnuK9BsZ) | 2:40 | 2022-10-07 |  |
 | [Brave New World \- Radio Edit](https://open.spotify.com/track/2yX9z46JItbv2BP5cr79zb) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Brave New World \(Radio Edit\)](https://open.spotify.com/album/11hodYczPYdxNgWc0UGHZJ) | 2:39 | 2020-12-11 | 2022-07-29 |
 | [Bright Lights](https://open.spotify.com/track/2NTDt9Fiqp5wTBM6cLO6Bu) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu](https://open.spotify.com/album/0YCTY6KpkPWp2etKx9ZNyM) | 5:24 | 2020-12-11 | 2022-07-29 |
 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 | 2022-06-17 |  |

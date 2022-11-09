@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Dream Boyz",
-  "num_followers": 143950,
+  "num_followers": 144009,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDk2MzBkZDY0ZDYwYjU2M2Q1OGM5NTg3NTVlYzFmZTU0",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGUwZDcxMjk2Yzk4ZTc3YWNkNjQ5ODkxM2RkMTM1ZTdm",
   "tracks": [
     {
       "added_at": "2022-11-04 00:00:00",
@@ -463,18 +463,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Sincera",
-        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
+        "name": "Chouchou",
+        "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
       },
       "artists": [
         {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+          "name": "Atim",
+          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
+        },
+        {
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
         }
       ],
-      "duration_ms": 256979,
-      "name": "Sincera",
-      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
+      "duration_ms": 183092,
+      "name": "Chouchou",
+      "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -499,22 +503,18 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Chouchou",
-        "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
+        "name": "Sincera",
+        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
       },
       "artists": [
         {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
-        },
-        {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
         }
       ],
-      "duration_ms": 183092,
-      "name": "Chouchou",
-      "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
+      "duration_ms": 256979,
+      "name": "Sincera",
+      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Sem Limite",
+        "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Magico",
+      "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Tudo de Novo",
         "url": "https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 259333,
       "name": "Tudo de Novo",
       "url": "https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Sem Limite",
-        "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Magico",
-      "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
+        "name": "Fala so",
+        "url": "https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA"
       },
       "artists": [
         {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+          "name": "Atim",
+          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
         }
       ],
-      "duration_ms": 192641,
-      "name": "Mad Love",
-      "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
+      "duration_ms": 206086,
+      "name": "Fala so",
+      "url": "https://open.spotify.com/track/5dCIpLHT7gTABbt7DoWEEk"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Fala so",
-        "url": "https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA"
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
       },
       "artists": [
         {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
         }
       ],
-      "duration_ms": 206086,
-      "name": "Fala so",
-      "url": "https://open.spotify.com/track/5dCIpLHT7gTABbt7DoWEEk"
+      "duration_ms": 192641,
+      "name": "Mad Love",
+      "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Africana",
-        "url": "https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 200940,
-      "name": "Africana",
-      "url": "https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Au revoir",
         "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 234226,
       "name": "Au revoir",
       "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Africana",
+        "url": "https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 200940,
+      "name": "Africana",
+      "url": "https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Novinha",
+        "url": "https://open.spotify.com/album/1QON4WuMFqar4TTVjyWlEN"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 189850,
+      "name": "Novinha",
+      "url": "https://open.spotify.com/track/2cmUALNtYgeliYg5SowpRf"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Saudades",
         "url": "https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Lambuxa na Bo",
-        "url": "https://open.spotify.com/album/38Awfmyez9FhYQr7gSbf1k"
-      },
-      "artists": [
-        {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
-        }
-      ],
-      "duration_ms": 183889,
-      "name": "Lambuxa na Bo",
-      "url": "https://open.spotify.com/track/4geD496HKKdshBtb5U5Yan"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Mika Mendes",
         "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
       },
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Lambuxa na Bo",
+        "url": "https://open.spotify.com/album/38Awfmyez9FhYQr7gSbf1k"
+      },
+      "artists": [
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "duration_ms": 183889,
+      "name": "Lambuxa na Bo",
+      "url": "https://open.spotify.com/track/4geD496HKKdshBtb5U5Yan"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Quarentena",
         "url": "https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB"
       },
@@ -1335,26 +1351,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Mais de Mim",
-        "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        },
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Fica Parado (feat. C4 Pedro)",
-      "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Ref\u00fagio",
         "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
       },
@@ -1371,6 +1367,26 @@
       "duration_ms": 237570,
       "name": "Ref\u00fagio",
       "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Mais de Mim",
+        "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        },
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Fica Parado (feat. C4 Pedro)",
+      "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -1411,34 +1427,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Deusa do Amor",
-        "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Edgar Domingos",
-          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
-        },
-        {
-          "name": "Anderson Mario",
-          "url": "https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh"
-        },
-        {
-          "name": "Button",
-          "url": "https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL"
-        }
-      ],
-      "duration_ms": 279024,
-      "name": "Deusa do Amor",
-      "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "INFINITO",
         "url": "https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3"
       },
@@ -1475,18 +1463,30 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Cara Trancada",
-        "url": "https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI"
+        "name": "Deusa do Amor",
+        "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
       },
       "artists": [
         {
-          "name": "KONSTANTINO",
-          "url": "https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ"
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
+        },
+        {
+          "name": "Anderson Mario",
+          "url": "https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh"
+        },
+        {
+          "name": "Button",
+          "url": "https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL"
         }
       ],
-      "duration_ms": 256026,
-      "name": "Cara Trancada",
-      "url": "https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ"
+      "duration_ms": 279024,
+      "name": "Deusa do Amor",
+      "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
     }
   ],
   "unique_name": "Dancing Kizomba",

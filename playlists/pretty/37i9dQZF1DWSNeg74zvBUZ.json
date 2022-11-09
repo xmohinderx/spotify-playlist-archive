@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18393,
+  "num_followers": 18396,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNTk5OCwwMDAwMDAwMGQ5M2VjYjk4NjkxMWMyNzI2YzM2Mzg5YzA1ZDk3ZjRj",
+  "snapshot_id": "MTY2NDUwNTk5OCwwMDAwMDAwMGQwMDBmODJmZjc5MzQ2ZGVhNzFhMGNlOGE2MTY0OTAz",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -395,6 +395,22 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
+      },
+      "artists": [
+        {
+          "name": "E Ruscha V",
+          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
+        }
+      ],
+      "duration_ms": 124265,
+      "name": "The Hostess",
+      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 426533,
       "name": "First Light - Remastered 2004",
       "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
-      },
-      "artists": [
-        {
-          "name": "E Ruscha V",
-          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
-        }
-      ],
-      "duration_ms": 124265,
-      "name": "The Hostess",
-      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
     },
     {
       "added_at": "2022-04-23 02:33:42",
@@ -787,6 +787,22 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "Subtle Vertigo",
+        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
+      },
+      "artists": [
+        {
+          "name": "Scott Gilmore",
+          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
+        }
+      ],
+      "duration_ms": 226965,
+      "name": "Europe",
+      "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Mixing Colours",
         "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Subtle Vertigo",
-        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
-      },
-      "artists": [
-        {
-          "name": "Scott Gilmore",
-          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
-        }
-      ],
-      "duration_ms": 226965,
-      "name": "Europe",
-      "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Fi",
         "url": "https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR"
       },
@@ -837,24 +837,24 @@
       "url": "https://open.spotify.com/track/3Mt3L75pk83KGc0c4VJzLM"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
+      "added_at": "2022-01-07 02:01:58",
       "album": {
-        "name": "Cluster & Eno",
-        "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
+        "name": "Two",
+        "url": "https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "Signa",
+          "url": "https://open.spotify.com/artist/0NNkdG1hVjxDA0Viq5cERJ"
         },
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "John Mark Nelson",
+          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
         }
       ],
-      "duration_ms": 311600,
-      "name": "Ho Renomo",
-      "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
+      "duration_ms": 163733,
+      "name": "Natural Bridges",
+      "url": "https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W"
     }
   ],
   "unique_name": "Morning First Light",

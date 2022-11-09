@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Wegz & Ash.
 
-78 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+79 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Enta Eli Hweyt](https://open.spotify.com/track/5stEpLG1ZgM1NgBFdLtC1h) | [Dj Dhaker](https://open.spotify.com/artist/1ax0bpZCDJJUtboJscmVlT), [Garmi](https://open.spotify.com/artist/00YDvtHd6GtfpKNHwJoF4o) | [Enta Eli Hweyt](https://open.spotify.com/album/2GZP4oD2TiwkzUxQGymvQy) | 3:45 | 2022-03-30 |  |
 | [Enti Malathi](https://open.spotify.com/track/4HoXdGDFqgDkUAOPoBAEOi) | [Khair Music \- جماعة خير](https://open.spotify.com/artist/31qZDM1859ctdIDL4ClF0g) | [A Curse](https://open.spotify.com/album/72cv8te4gVqt65jQCgQBE2) | 4:23 | 2022-03-30 |  |
 | [Enty We Ana](https://open.spotify.com/track/0FAabsNs2RITfLn3JWr9Hk) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathallah](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Enty We Ana](https://open.spotify.com/album/0ndoSnI8RohdBRCmlXfdBH) | 5:05 | 2022-03-30 | 2022-08-23 |
+| [Faqat Ala Bali](https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Faqat Ala Bali](https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P) | 6:43 | 2022-11-08 |  |
 | [Fe Hetta Tanya](https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Hetta Tanya](https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF) | 4:17 | 2022-03-30 |  |
 | [Fein Mchiti](https://open.spotify.com/track/3AJQUzPULtbagemZSWt96n) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Fein Mchiti](https://open.spotify.com/album/1BznSouUFyp6fZBgQPe3tF) | 3:36 | 2022-03-30 |  |
 | [Galbek Ween](https://open.spotify.com/track/6v0bOBKwDxzpkXhoi14FpN) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Galbek Ween](https://open.spotify.com/album/0y4SxrazWfNf55cdxhZ0v7) | 3:42 | 2022-03-30 | 2022-08-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Drake, 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,229 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,295 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 72 | [Hunnid Dayz](https://open.spotify.com/track/2S0PhrvCcOFjobruiryfp9) | [Astrokidjay](https://open.spotify.com/artist/4EqrcmIvzNaisM7z775lyE) | [Hunnid Dayz](https://open.spotify.com/album/5xFlleIyJ7Duh5tbzlTxkM) | 2:11 |
 | 73 | [Where I'm From](https://open.spotify.com/track/6ahXhjpt7yzGxDsGH5zejn) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x) | [It's Just The Beginning](https://open.spotify.com/album/6c99o38RogYbp0pSN8anba) | 2:09 |
 | 74 | [NORWAY](https://open.spotify.com/track/4QNYyJMy8PbJOrvTViGFBP) | [Jimmy Brickz](https://open.spotify.com/artist/6IpnhdUI0JNSmk1w5hcBwq) | [NORWAY](https://open.spotify.com/album/4d6IDrSTmQXy2boSn5jWOC) | 2:17 |
-| 75 | [AIYO!](https://open.spotify.com/track/4JNbEGZPdEZy7a1n01blkj) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [AIYO!](https://open.spotify.com/album/4Eg3ER8r0xyGtC5q9SxbXE) | 3:41 |
+| 75 | [AIYO!](https://open.spotify.com/track/4JNbEGZPdEZy7a1n01blkj) | [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [AIYO!](https://open.spotify.com/album/4Eg3ER8r0xyGtC5q9SxbXE) | 3:41 |
 | 76 | [FLYLIKEDIS](https://open.spotify.com/track/2u73qt5DYi05CuJfZDsB4A) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [FLYLIKEDIS](https://open.spotify.com/album/1IiIm2TgBtdkUuuJrmu8Z4) | 2:54 |
 | 77 | [Goin' Up](https://open.spotify.com/track/5LE0yk1P2n96ZwpZT3Y6uR) | [Mnnyyz](https://open.spotify.com/artist/4sTu12jqFnXvdGIdu9THCM) | [Goin' Up](https://open.spotify.com/album/3AMh6PaEh2OApOZ1PUQeyP) | 3:33 |
 | 78 | [Worry](https://open.spotify.com/track/1kXTH2fVE8tCVb8l8ijSS0) | [Kordoroy Floyd](https://open.spotify.com/artist/4NyYhyuLjlMkTKr4YacBw0) | [Worry](https://open.spotify.com/album/7zVdOFXgE82qs94mSX2v6y) | 2:24 |

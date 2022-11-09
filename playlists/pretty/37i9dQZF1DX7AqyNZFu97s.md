@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Bricknasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,416 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,431 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 26 | [Lovin’](https://open.spotify.com/track/7JEJPatRWaV5WxLBGvbDX5) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [Lovin’](https://open.spotify.com/album/5w0UI6JxUcLKcOCRhT1nEE) | 3:01 |
 | 27 | [eyes don't lie](https://open.spotify.com/track/4SHgZySOqyih9VIhoe239c) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [eyes don't lie](https://open.spotify.com/album/4QRxLPMrWWw1NCEc1sCVGw) | 3:46 |
 | 28 | [Second Wind](https://open.spotify.com/track/2ZFwkPAvxey2Vcskdxjnn6) | [J\-Fills](https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC) | [Second Wind](https://open.spotify.com/album/6KGPx9tyCtHM19mNvYZVTG) | 4:33 |
-| 29 | [fall for anything](https://open.spotify.com/track/0C1hqvLOXatD9ZDfo879Hf) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [fall for anything](https://open.spotify.com/album/7iuwu8LGDGnhHDzpg8JyRH) | 3:09 |
+| 29 | [fall for anything](https://open.spotify.com/track/0mIa1t1btv2hdENqK4JZcq) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [fall for anything](https://open.spotify.com/album/0p9fbJEtqeMQFCvgY7hf7M) | 3:09 |
 | 30 | [Still Love You](https://open.spotify.com/track/3yawrWwPgd4cCGKeikf80j) | [Kimani](https://open.spotify.com/artist/59i7EZjgHlVzoxZvvCRWiX) | [Still Love You](https://open.spotify.com/album/0aBAsMGt96yM4dkiuyevrG) | 2:56 |
 | 31 | [talking to strangers](https://open.spotify.com/track/0QtVbyei2xbBLGe7nZbxdB) | [Loome](https://open.spotify.com/artist/5uacIDTlT52eDbiGbT1Le8), [Oktae](https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD) | [talking to strangers](https://open.spotify.com/album/2HPgqlpxIi8g7M4Dk1RuAK) | 3:17 |
 | 32 | [R U Down?](https://open.spotify.com/track/3nGCVu7EBPK8p1wBqlogXO) | [davecreates](https://open.spotify.com/artist/2KuPNZuwsvJTX9yTDqNeNk), [WayV Walks](https://open.spotify.com/artist/0E0TBgSbvrVWgLjxGATUvn) | [Amor](https://open.spotify.com/album/2jodYDJ8CxcKaY0Rm5wZcW) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Get Unjaded](https://open.spotify.com/track/1vwSQHCdM0QEBQWxoUMfQs) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Get Unjaded](https://open.spotify.com/album/51wNATKsD2SzbgeH5moyyC) | 3:16 |
 | 80 | [The Enemy](https://open.spotify.com/track/4yI37d71d5BQ1HMU4W8dCP) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/3NVnrjjiPoDxffSvrwwSAa) | 3:08 |
 
-Snapshot ID: `MTY2NzQxODg5NCwwMDAwMDAwMGY3Yzg3YTRjZWFkODY5NWRmNTYzZTA5MWU2OGQ3ZWUx`
+Snapshot ID: `MTY2NzQxODg5NCwwMDAwMDAwMDhiMDBmYzNiYzA3NTc4YTI1ZmI4YzFkZTI4NTUwMmNi`

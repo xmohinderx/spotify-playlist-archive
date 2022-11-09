@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-401 songs - 1 day 6 hr 38 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+402 songs - 1 day 6 hr 42 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,10 +29,11 @@
 | [Bad](https://open.spotify.com/track/1Je8Jq5NozpiNImetc9pLg) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mark Ernestus](https://open.spotify.com/artist/4PJXLZh1FKCCiNlGy8vrel) | [Bad / Badder](https://open.spotify.com/album/3C78Rv1NmTIt02NpNbGwkN) | 6:30 | 2022-02-17 | 2022-07-02 |
 | [Bad Trip](https://open.spotify.com/track/0sfYFm39WVEmvzBkEiP8p8) | [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO), [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Bad Trip / Rolling Skies](https://open.spotify.com/album/7vXcbxCeFD9Ig8YyxFldko) | 4:39 | 2022-02-17 |  |
 | [Balaclava](https://open.spotify.com/track/1eAkkYLE0xkfwp0kXVX38R) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Balaclava](https://open.spotify.com/album/3dXuQqB5pNyH2GweiRzTDp) | 3:17 | 2022-09-09 |  |
+| [Banada](https://open.spotify.com/track/0ieeUcJFXbm3XqWKVeZxRQ) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Banada](https://open.spotify.com/album/0GX8LRuYKACQErKXtVfoyc) | 3:52 | 2022-11-09 |  |
 | [Bass Drama](https://open.spotify.com/track/02xFanXMNa1oVWdDZicssi) | [Hubwar](https://open.spotify.com/artist/5nR6SzYpEXdbRHRAJIO4aZ) | [Creatures](https://open.spotify.com/album/5zoWlf4tcmtFGfFaOrXj4n) | 4:20 | 2022-02-17 |  |
 | [Bawl Out](https://open.spotify.com/track/2lAWlPQRlAAG0dO9b1Q6k6) | [Hatcha](https://open.spotify.com/artist/6uKJAfwWvzUrpHovtyaPet) | [Hatched 10](https://open.spotify.com/album/0svpF8ZTD5pSiOPD2nwSpi) | 4:24 | 2022-02-17 | 2022-04-21 |
 | [Bear Witness](https://open.spotify.com/track/7gbJSuanWAq7mnDVuuawDG) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Scuba Presents Hotflush, Vol\. 5: Post Dub \(2009 \- 2011\)](https://open.spotify.com/album/1PyEkMY8ugjbWI2GvhTuGE) | 6:19 | 2022-02-17 | 2022-04-21 |
-| [Beastmode](https://open.spotify.com/track/5vYQpxkQkWhOj7tx44byhk) | [Epoch](https://open.spotify.com/artist/2cABKsImI0m4eAk8kyBMhQ) | [Beastmode](https://open.spotify.com/album/1Enbv9SOT28q5gNoLjLBaV) | 4:39 | 2022-04-29 | 2022-11-08 |
+| [Beastmode](https://open.spotify.com/track/5vYQpxkQkWhOj7tx44byhk) | [Epoch](https://open.spotify.com/artist/2cABKsImI0m4eAk8kyBMhQ) | [Beastmode](https://open.spotify.com/album/1Enbv9SOT28q5gNoLjLBaV) | 4:39 | 2022-04-29 |  |
 | [Bhuta](https://open.spotify.com/track/3n5KOTr85y3NOdDPmMIFD9) | [Sabasonik](https://open.spotify.com/artist/1bJVUQC8Ag7LR15xEJS45G) | [Taala / Bhuta](https://open.spotify.com/album/4hDqxbvHFRRTGPQFFmI6Wi) | 3:52 | 2022-02-17 | 2022-07-30 |
 | [Big Boi](https://open.spotify.com/track/4nJ7HHtJat66JqV8Oa6Tlv) | [Ramsez](https://open.spotify.com/artist/6u8RwyERnGpgixqrLjyVGL) | [Big Boi](https://open.spotify.com/album/21cs74Puy6O94G398bJ6jb) | 4:53 | 2022-02-17 | 2022-06-30 |
 | [Big Sound](https://open.spotify.com/track/6AwqqoSLwFSHHEsh4wB3id) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Big Sound](https://open.spotify.com/album/0enzWFgcbJ1nT5qtrwsWxj) | 4:39 | 2022-02-17 | 2022-07-29 |
@@ -253,7 +254,7 @@
 | [Outsider](https://open.spotify.com/track/07y4T2wnzanwqOd1oKJ1Gl) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Outsider](https://open.spotify.com/album/2yrmCs1rJzdEJHAiaQY8lV) | 5:05 | 2022-07-08 |  |
 | [Outsider](https://open.spotify.com/track/1oXyK54bcvrHNNtSOAgHDw) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Outsider](https://open.spotify.com/album/4AnGaGVFpOVLacdRqyGQ83) | 5:05 | 2022-02-17 | 2022-07-29 |
 | [Over Deh So](https://open.spotify.com/track/23RPCs2edmTWH0yJTCiz6m) | [Kahn](https://open.spotify.com/artist/6X0Kd3L9wHWDzWU7cOgjW3) | [Abattoir](https://open.spotify.com/album/2b1HN0avZHrA8vNL0vP1Gw) | 5:09 | 2022-02-17 | 2022-05-08 |
-| [Oxytocin \- Original](https://open.spotify.com/track/7vQ9jJ34D9xXwy3g0pUuio) | [Myxed Up](https://open.spotify.com/artist/2mR4ZcnojwIngGlGGCeDma) | [Oxytocin](https://open.spotify.com/album/0ETitPaX7CspZoPHtrdSMb) | 4:33 | 2022-02-17 |  |
+| [Oxytocin \- Original](https://open.spotify.com/track/7vQ9jJ34D9xXwy3g0pUuio) | [Myxed Up](https://open.spotify.com/artist/2mR4ZcnojwIngGlGGCeDma) | [Oxytocin](https://open.spotify.com/album/0ETitPaX7CspZoPHtrdSMb) | 4:33 | 2022-02-17 | 2022-11-09 |
 | [Paradisius](https://open.spotify.com/track/3Rbs2FjHW5RdpNW3mfdUm8) | [CJ Broad](https://open.spotify.com/artist/6KvQZNIPCsdqw8zLV2w4AV), [Oxidia](https://open.spotify.com/artist/6mFF0UJS77vtqd8RKYXTjK) | [Eventually](https://open.spotify.com/album/3330jVvbXSjdT8vlQx2zHf) | 5:05 | 2022-02-17 | 2022-04-09 |
 | [Parsley Tea](https://open.spotify.com/track/333rUt9ztQHYmwMjcS0CaB) | [DPRTNDRP](https://open.spotify.com/artist/1OsyLdBrbBzicSLMOKUUEH) | [Unshaken](https://open.spotify.com/album/5Cx5XQNyEIiajYz3qdhlun) | 4:13 | 2022-02-17 | 2022-07-28 |
 | [Pistola](https://open.spotify.com/track/65ztgzqmVXzHqHQ7DuPMhT) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Zeroes](https://open.spotify.com/album/7IqtStixf9Y4W529LVRxca) | 5:31 | 2022-07-08 | 2022-07-30 |
@@ -374,7 +375,7 @@
 | [Toll](https://open.spotify.com/track/7tPfSMVAl3siiEWiUFl2Bm) | [Traces](https://open.spotify.com/artist/1Nz3cFW2b2b7JitffqTt91) | [Psychopath](https://open.spotify.com/album/197CVo2y8VHACcYM1ks2aW) | 4:42 | 2022-02-17 | 2022-07-29 |
 | [Tomahawk](https://open.spotify.com/track/5e2kW2xynPWKlR1Fy5qegJ) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Tomahawk EP](https://open.spotify.com/album/0NqcRquGzvdLrk9td9YLXg) | 6:30 | 2022-02-17 | 2022-07-30 |
 | [Tomorrow](https://open.spotify.com/track/3agFXIx45gyrD8457JK6wK) | [Dillard](https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq) | [Tomorrow \- EP](https://open.spotify.com/album/7IrrWUxNknlPtmVE1jPRVE) | 5:29 | 2022-02-17 |  |
-| [Too Close To The Sun](https://open.spotify.com/track/0btAv4p1G5nPbKBuKfkAky) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5) | [Too Close To The Sun](https://open.spotify.com/album/1fdJCoQC2ongH7zJr52kqz) | 4:00 | 2022-02-17 |  |
+| [Too Close To The Sun](https://open.spotify.com/track/0btAv4p1G5nPbKBuKfkAky) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5) | [Too Close To The Sun](https://open.spotify.com/album/1fdJCoQC2ongH7zJr52kqz) | 4:00 | 2022-02-17 | 2022-11-09 |
 | [Trailblazer](https://open.spotify.com/track/19ht9Lhp2fHgQi00izzrKE) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA), [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Trailblazer](https://open.spotify.com/album/281Xce4HZtECtLwdx57kvK) | 3:24 | 2022-02-17 |  |
 | [Trailing Winds](https://open.spotify.com/track/4E613S0YrGcjcJOfenCxIK) | [NotLö](https://open.spotify.com/artist/0UmpDfZvwJpXxsOBaKmW5Z) | [Trailing Winds](https://open.spotify.com/album/0cl2gNqt0MCJfAN9lVuV3A) | 3:12 | 2022-09-30 |  |
 | [Transcend](https://open.spotify.com/track/1nBFzRA01ow5vOpJWO51AB) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN) | [Tombstone](https://open.spotify.com/album/6GP6g3hm27eHpS3gpaX1Q9) | 4:29 | 2022-02-17 | 2022-07-30 |

@@ -1016,28 +1016,6 @@
     },
     {
       "album": {
-        "name": "Star Trek Prodigy (Original Music from the Series)",
-        "url": "https://open.spotify.com/album/3LMZkP2NFjVzNVqpIr9DlD"
-      },
-      "artists": [
-        {
-          "name": "Star Trek Prodigy",
-          "url": "https://open.spotify.com/artist/5xBSDl8pzdxe3qTNxXrez7"
-        },
-        {
-          "name": "Nami Melumad",
-          "url": "https://open.spotify.com/artist/7icx86YKqzAozjY6xf0KNF"
-        }
-      ],
-      "date_added": "2022-11-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 146252,
-      "name": "Prodigy - The One With the Whales",
-      "url": "https://open.spotify.com/track/1HPcXGieyMTYa1ZSbpHEWy"
-    },
-    {
-      "album": {
         "name": "Kids Sing Pete The Cat",
         "url": "https://open.spotify.com/album/7v6CHcEdArfur2YNSjBvvd"
       },
@@ -1205,6 +1183,28 @@
       "duration_ms": 202226,
       "name": "Surface Pressure",
       "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
+    },
+    {
+      "album": {
+        "name": "Star Trek Prodigy (Original Music from the Series)",
+        "url": "https://open.spotify.com/album/3LMZkP2NFjVzNVqpIr9DlD"
+      },
+      "artists": [
+        {
+          "name": "Star Trek Prodigy",
+          "url": "https://open.spotify.com/artist/5xBSDl8pzdxe3qTNxXrez7"
+        },
+        {
+          "name": "Nami Melumad",
+          "url": "https://open.spotify.com/artist/7icx86YKqzAozjY6xf0KNF"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146252,
+      "name": "The Aquathawn",
+      "url": "https://open.spotify.com/track/1HPcXGieyMTYa1ZSbpHEWy"
     },
     {
       "album": {

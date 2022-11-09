@@ -825,7 +825,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 165176,
       "name": "BLCK MAMBA",
       "url": "https://open.spotify.com/track/2dw9segQF74a75R4F5moeh"
@@ -4528,6 +4528,24 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1wEORlkFMdPgh6Zr69DKxE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kalvin",
+          "url": "https://open.spotify.com/artist/2AAA2f9pypoLem07n4Rj9n"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200045,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/60MMYnrqdgrDBhzNdRLRJv"
+    },
+    {
+      "album": {
         "name": "CANTERA MACHETE, VOL. II",
         "url": "https://open.spotify.com/album/41nzTTUD0063x7Te16AYau"
       },
@@ -4948,6 +4966,32 @@
     },
     {
       "album": {
+        "name": "Rosario",
+        "url": "https://open.spotify.com/album/6Mkngcv8bvCOGgER4Wp3dg"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e8s Las",
+          "url": "https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO"
+        },
+        {
+          "name": "Dalu",
+          "url": "https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi"
+        },
+        {
+          "name": "My\u00f8s",
+          "url": "https://open.spotify.com/artist/2ADFQayzQr49fYqlb9c7xk"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Rosario",
+      "url": "https://open.spotify.com/track/4pybV3VytR7wckSzlflKjO"
+    },
+    {
+      "album": {
         "name": "Round #1",
         "url": "https://open.spotify.com/album/6VxMRWN2d4rA5msVX5SIPN"
       },
@@ -4959,7 +5003,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 147096,
       "name": "Round #1",
       "url": "https://open.spotify.com/track/6YhvuW3UM7wyGoZegel8hB"
@@ -6169,7 +6213,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 117576,
       "name": "Yung 3p 3",
       "url": "https://open.spotify.com/track/59GG4S5hoVOrufgOnruEcI"

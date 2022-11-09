@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-395 songs - 15 hr 5 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
+396 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Crestone](https://open.spotify.com/track/7krjREoicbTMB4gx3xxwLB) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Crestone](https://open.spotify.com/album/0AL4T93NfHuZMS8899nZtx) | 1:53 | 2022-05-20 |  |
 | [Cuddle](https://open.spotify.com/track/0qPQBBWJdESIBv0S5CS3to) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Cuddle](https://open.spotify.com/album/7mjXhZxuAENnEQ3NVjHZaa) | 2:19 | 2022-05-20 |  |
 | [cushion](https://open.spotify.com/track/6R1YDJok4JBFMKz70S1YPS) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [cushion](https://open.spotify.com/album/1AJyWCPIHi2t5HZnuAGB7L) | 2:09 | 2022-08-05 | 2022-08-12 |
-| [Daisies](https://open.spotify.com/track/6DOyYPswW5sYusoLARF7Ir) | [myk](https://open.spotify.com/artist/7Fl8YkbVB7OAclJvy2Vl9H) | [Daisies](https://open.spotify.com/album/3OBR9X79LDcwVE6zKo6lVs) | 2:44 | 2022-05-20 |  |
+| [Daisies](https://open.spotify.com/track/6DOyYPswW5sYusoLARF7Ir) | [myk](https://open.spotify.com/artist/7Fl8YkbVB7OAclJvy2Vl9H) | [Daisies](https://open.spotify.com/album/3OBR9X79LDcwVE6zKo6lVs) | 2:44 | 2022-05-20 | 2022-11-09 |
+| [Daisies](https://open.spotify.com/track/6dCexnYCQeuWLLNWgNEjfZ) | [myk](https://open.spotify.com/artist/7Fl8YkbVB7OAclJvy2Vl9H) | [Daisies](https://open.spotify.com/album/2jEhUSaTltL2XK196BMR5u) | 2:44 | 2022-10-28 |  |
 | [dawn](https://open.spotify.com/track/3QBWYDLn3ojrb6l9Jvmf3H) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Dreamseeker, I: Dawn](https://open.spotify.com/album/0Bs3LRdAfbpjmUZj2l7Gzu) | 2:30 | 2022-05-27 | 2022-08-19 |
 | [Dawn](https://open.spotify.com/track/36BMjs8wDcpQZjRcipxlgx) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Dawn](https://open.spotify.com/album/0kPlC8bFxLBcTsdavgWq2j) | 1:44 | 2022-07-29 |  |
 | [Dawn of the Samurai](https://open.spotify.com/track/1Em95FHMTpnLeIY8JTwVVU) | [Lofi MMMO](https://open.spotify.com/artist/7mC3tlq3rhrrGfWzMnV0qw) | [Dawn of the Samurai](https://open.spotify.com/album/1AYyIGiY2Oz21Vtq91QMlZ) | 3:00 | 2022-09-16 |  |

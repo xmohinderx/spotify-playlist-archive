@@ -4,7 +4,7 @@
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-100 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/5Tbd4QpWdncHbWQkHUpL2F)
+101 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/5Tbd4QpWdncHbWQkHUpL2F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Vene](https://open.spotify.com/track/6pf0WSMoDjSsuX4ofIG7zc) | [G Pillola](https://open.spotify.com/artist/0sPRACMUPse4aZ8umTvLw7) | [Ciao Belli](https://open.spotify.com/album/11NQUYWmfjJjt72kWPrPOb) | 3:01 | 2020-09-01 | 2022-07-29 |
 | [Walls to Build \- Mall Grab Remix](https://open.spotify.com/track/4KyaRCvdM3ihxef4a8Em53) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Walls to Build Remix](https://open.spotify.com/album/0TbhGJFCERVqMEpi4I8krG) | 6:16 | 2020-09-01 | 2022-07-29 |
 | [Walls to Build \- Mall Grab Remix](https://open.spotify.com/track/1A8LrZ15bbYIEzCslhnuiD) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz), [Mall Grab](https://open.spotify.com/artist/5IjbZHHQexZVqj7DA75psa) | [Walls to Build Remix](https://open.spotify.com/album/0RPdqpRcPfvT6VmeyAPkkT) | 6:16 | 2020-09-01 |  |
-| [WEST](https://open.spotify.com/track/05fJJPka4e0INdrCAWXt9c) | [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [Melo\-Zed](https://open.spotify.com/artist/6c5n3tYI05A05V4u4dxMuv) | [SUGAR LIKE SALT](https://open.spotify.com/album/1mT9o8hv32F1ocKIEmN7sG) | 3:42 | 2020-09-01 |  |
+| [WEST](https://open.spotify.com/track/05fJJPka4e0INdrCAWXt9c) | [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [Melo\-Zed](https://open.spotify.com/artist/6c5n3tYI05A05V4u4dxMuv) | [SUGAR LIKE SALT](https://open.spotify.com/album/1mT9o8hv32F1ocKIEmN7sG) | 3:42 | 2020-09-01 | 2022-11-09 |
+| [WEST](https://open.spotify.com/track/4xQl2O5FPdnUdT01xnr4up) | [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [Melo\-Zed](https://open.spotify.com/artist/6c5n3tYI05A05V4u4dxMuv) | [SUGAR LIKE SALT](https://open.spotify.com/album/3TFtDNmg7a2oOEnM7bmPV6) | 3:42 | 2020-09-01 |  |
 | [WEST](https://open.spotify.com/track/5SoRve5CfGy0aXFe8E9WGv) | [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [Melo\-Zed](https://open.spotify.com/artist/6c5n3tYI05A05V4u4dxMuv) | [SUGAR LIKE SALT](https://open.spotify.com/album/41jZPBUin90Au2JSALNbKT) | 3:42 | 2020-09-01 | 2022-07-29 |
 | [What's It Like?](https://open.spotify.com/track/68mMhq71GcoMtKDDyxjxPd) | [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs) | [IC3](https://open.spotify.com/album/0vLf1bJrsk9knx8XxDJjPz) | 2:08 | 2020-09-01 |  |
 | [When It's Over](https://open.spotify.com/track/3z7BTaXr5U273eXviBVcuy) | [Amber Olivier](https://open.spotify.com/artist/5qeWpRuIDDT5BBPojh8afd) | [Amber Olivier](https://open.spotify.com/album/7llIrd73aAr91Isw6BodA4) | 2:27 | 2020-09-01 |  |

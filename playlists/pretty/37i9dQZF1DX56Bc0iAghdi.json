@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Local Sound",
-  "num_followers": 18262,
+  "num_followers": 18267,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMGE0ODgyOGJhM2RiZWFiOTU0NDIyMjBkZWZhYmRmZWI2",
+  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDk3NjJjOTUwODY2ZDk0Y2M2Yjg3MGRjZTJlYTI1NTM4",
   "tracks": [
     {
       "added_at": "2019-09-20 18:34:06",
@@ -895,22 +895,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Fear No More",
-        "url": "https://open.spotify.com/album/4LWmVkuA2s7n3q3UiIlsFf"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Dancing On Top of the World",
-      "url": "https://open.spotify.com/track/14Qg6RExIEgeTasOOXeclf"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "DAILY",
         "url": "https://open.spotify.com/album/3SidUros5s6r6X4zhvr2sk"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 194368,
       "name": "DAILY",
       "url": "https://open.spotify.com/track/3dO540N74bBzkNctFZK76s"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "Fear No More",
+        "url": "https://open.spotify.com/album/4LWmVkuA2s7n3q3UiIlsFf"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Dancing On Top of the World",
+      "url": "https://open.spotify.com/track/14Qg6RExIEgeTasOOXeclf"
     },
     {
       "added_at": "2019-09-20 18:34:06",

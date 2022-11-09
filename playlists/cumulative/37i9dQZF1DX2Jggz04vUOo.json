@@ -705,7 +705,7 @@
     {
       "album": {
         "name": "Musca",
-        "url": "https://open.spotify.com/album/6t89BzbzvhVS0ShJu6X2Kq"
+        "url": "https://open.spotify.com/album/2yTDyn7SlB2yOP4CkDbHfn"
       },
       "artists": [
         {
@@ -720,6 +720,28 @@
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 387853,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/22fM5ewOY0suVq5teDadG0"
+    },
+    {
+      "album": {
+        "name": "Musca",
+        "url": "https://open.spotify.com/album/6t89BzbzvhVS0ShJu6X2Kq"
+      },
+      "artists": [
+        {
+          "name": "Herbert",
+          "url": "https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn"
+        },
+        {
+          "name": "Verushka",
+          "url": "https://open.spotify.com/artist/5StY3t09rFBGADeZbkVyOC"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
       "duration_ms": 387853,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/56XtbMA5QhHmlCyPUKG4Ii"

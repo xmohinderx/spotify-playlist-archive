@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,408 likes - 99 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,433 likes - 99 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 70 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 |
 | 71 | [Tudu Tudu Tu](https://open.spotify.com/track/72UIs3n4aCN6GInoLSNQBV) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Tudu Tudu Tu](https://open.spotify.com/album/1kem3mNe6TQLSUPMQnMxdt) | 2:40 |
 | 72 | [Maybe So](https://open.spotify.com/track/2K5cJfIJ5nak7BPfnM6VHP) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Entergalactic](https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68) | 3:40 |
-| 73 | [Robin](https://open.spotify.com/track/7e2mC2KBL71WFrYPjImfdg) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [Robin](https://open.spotify.com/album/2lDNtMxXaaK6jic2zav1xd) | 4:29 |
+| 73 | [Robin](https://open.spotify.com/track/0AoNprXRrwrxCE5p08VjPS) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [Life In Miniature](https://open.spotify.com/album/3Lzbh9eqbBl8SlbEAI8T9N) | 4:29 |
 | 74 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 |
 | 75 | [Like Honey](https://open.spotify.com/track/5KMrK0AVLoCiCg0jGiVYqA) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Like Honey](https://open.spotify.com/album/1c70M4Oj89Smw3U5CJLmpr) | 2:11 |
 | 76 | [Get Up \- Radio Edit](https://open.spotify.com/track/6D6O2c0STvLDn4IjZD6aSS) | [Odin](https://open.spotify.com/artist/2mahtxdlhgnZfENR1k7l6Z), [Bjørn Berge](https://open.spotify.com/artist/7LwAizR0FcWKzkr3NVKog3) | [Get Up](https://open.spotify.com/album/0ExkjkPI4kporeZqtE2apP) | 3:18 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 99 | [Swim Away](https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Swim Away](https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE) | 3:25 |
 
-Snapshot ID: `MTY2NzUxMjgwMCwwMDAwMDAwMDc1MjRlYWJkZDNiM2FmMTk2Yzk3ZTM2YTFhODQxYjk4`
+Snapshot ID: `MTY2NzUxMjgwMCwwMDAwMDAwMGVhNDYxNmJiZWRhY2ZkZmQwNzg3NWQ4NzUwMjM1ZWRm`

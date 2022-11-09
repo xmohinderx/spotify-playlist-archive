@@ -2,7 +2,7 @@
 
 ### [Early Alternative](https://open.spotify.com/playlist/37i9dQZF1DXdTCdwCKzXwo)
 
-> Early pioneers that brought the underground to the foreground\. Cover: Nico
+> Celebrate 50 years of Transformer with these early pioneers Cover: Lou Reed.
 
 164 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/1biJVwGgudNJMTh4YCWUBg)
 

@@ -1,44 +1,60 @@
 {
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Hotboxgroove, Artwork: Isu Kim",
-  "num_followers": 1202,
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Kali-B, Artwork: Isu Kim",
+  "num_followers": 1215,
   "original_name": "Fresh Finds Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzMzMjgwMCwwMDAwMDAwMDZmZDc0NzI0NjQwZGVmNTc5NTJjYTMwYTk0ZmU1ZTBi",
+  "snapshot_id": "MTY2NzkzNzkwMCwwMDAwMDAwMGE0OTkxMDZjNjA4YmY4M2UxYTY1ZmEwNzQzNmFhZGVm",
   "tracks": [
     {
-      "added_at": "2022-11-01 20:00:00",
+      "added_at": "2022-11-08 20:05:00",
       "album": {
-        "name": "Midnight Blooms",
-        "url": "https://open.spotify.com/album/7vDLOjrrS0JH2YQYmcUCw8"
+        "name": "What I Mean",
+        "url": "https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY"
       },
       "artists": [
         {
-          "name": "Hotboxgroove",
-          "url": "https://open.spotify.com/artist/2iOmWTulb3nP3FQ9DYtLLV"
+          "name": "Kali-B",
+          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
         }
       ],
-      "duration_ms": 492100,
-      "name": "Midnight Blooms",
-      "url": "https://open.spotify.com/track/7vcMs6ZC0TZyrN6BDyf8vg"
+      "duration_ms": 169142,
+      "name": "What I Mean",
+      "url": "https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v"
     },
     {
-      "added_at": "2022-11-01 20:00:00",
+      "added_at": "2022-11-08 20:05:00",
       "album": {
-        "name": "Ocean of Black (AKA Harlot Sun)",
-        "url": "https://open.spotify.com/album/0B4QxMN7Ri5zPAmFuuJRRV"
+        "name": "Flight of Time",
+        "url": "https://open.spotify.com/album/1RRhXcBViJOhNHSDeFKmhB"
       },
       "artists": [
         {
-          "name": "Blue Vein River",
-          "url": "https://open.spotify.com/artist/5zLSqhWdzWowLvrg0Nory0"
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/65cCRej79ekIxVA81UtCJD"
         }
       ],
-      "duration_ms": 276244,
-      "name": "Ocean of Black (AKA Harlot Sun)",
-      "url": "https://open.spotify.com/track/43Euq23DvavCc4P3b0WdqF"
+      "duration_ms": 240000,
+      "name": "Flight of Time",
+      "url": "https://open.spotify.com/track/6jNFBaCURvVWBncn0GrZD2"
+    },
+    {
+      "added_at": "2022-11-08 20:05:00",
+      "album": {
+        "name": "GBOF EP",
+        "url": "https://open.spotify.com/album/1Ypxz2UMMhqVbrM48yNCQP"
+      },
+      "artists": [
+        {
+          "name": "Areej",
+          "url": "https://open.spotify.com/artist/08Dn6q1Vgbc3Vg16tRx2Ef"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/0lJAsKOeHSBFj6X5msB21b"
     },
     {
       "added_at": "2022-11-01 20:00:00",
@@ -73,40 +89,28 @@
       "url": "https://open.spotify.com/track/1nEu8odxpQOSoGhI3xOlbs"
     },
     {
-      "added_at": "2022-11-01 20:00:00",
+      "added_at": "2022-11-08 20:05:00",
       "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/0qFSrdCbQowcEfJPnulGzF"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/2N2HH3ZQGDbWE4evh5K9Dv"
       },
       "artists": [
         {
-          "name": "Dirty Backseat",
-          "url": "https://open.spotify.com/artist/1Hk62j2Aypk6ykn1lgLPhf"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "Lonely Night",
-      "url": "https://open.spotify.com/track/6bQLBvEkp8GNL5tQrmBA5A"
-    },
-    {
-      "added_at": "2022-11-01 20:00:00",
-      "album": {
-        "name": "Sabba7 Sabba7 (\u0635\u0628\u062d \u0635\u0628\u062d)",
-        "url": "https://open.spotify.com/album/0NGKUsDTyyoBnwGJNk9UVp"
-      },
-      "artists": [
-        {
-          "name": "Kassar",
-          "url": "https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP"
+          "name": "musovrin",
+          "url": "https://open.spotify.com/artist/1FExNWwycNVGZnfCMgJUky"
         },
         {
-          "name": "Mahib Sleat",
-          "url": "https://open.spotify.com/artist/6MmPo4vru1QVS2uWhTQHT4"
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
+        },
+        {
+          "name": "Headless Monk",
+          "url": "https://open.spotify.com/artist/3JmGgA4fzifQjSJ5a4bMLI"
         }
       ],
-      "duration_ms": 149538,
-      "name": "Sabba7 Sabba7 - \u0635\u0628\u062d \u0635\u0628\u062d",
-      "url": "https://open.spotify.com/track/7sMJXgBb0ArDsXNIwTkO0t"
+      "duration_ms": 187702,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/7m3rPFw7n8NsY8Ik5M2KZ4"
     },
     {
       "added_at": "2022-11-01 20:00:00",
@@ -147,6 +151,26 @@
       "duration_ms": 177370,
       "name": "Cabana",
       "url": "https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg"
+    },
+    {
+      "added_at": "2022-11-01 20:00:00",
+      "album": {
+        "name": "Sabba7 Sabba7 (\u0635\u0628\u062d \u0635\u0628\u062d)",
+        "url": "https://open.spotify.com/album/0NGKUsDTyyoBnwGJNk9UVp"
+      },
+      "artists": [
+        {
+          "name": "Kassar",
+          "url": "https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP"
+        },
+        {
+          "name": "Mahib Sleat",
+          "url": "https://open.spotify.com/artist/6MmPo4vru1QVS2uWhTQHT4"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Sabba7 Sabba7 - \u0635\u0628\u062d \u0635\u0628\u062d",
+      "url": "https://open.spotify.com/track/7sMJXgBb0ArDsXNIwTkO0t"
     },
     {
       "added_at": "2022-11-01 20:00:00",
@@ -295,6 +319,86 @@
       "duration_ms": 200337,
       "name": "Bafaker Kteer",
       "url": "https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD"
+    },
+    {
+      "added_at": "2022-11-01 20:00:00",
+      "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/0qFSrdCbQowcEfJPnulGzF"
+      },
+      "artists": [
+        {
+          "name": "Dirty Backseat",
+          "url": "https://open.spotify.com/artist/1Hk62j2Aypk6ykn1lgLPhf"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/6bQLBvEkp8GNL5tQrmBA5A"
+    },
+    {
+      "added_at": "2022-11-08 20:05:00",
+      "album": {
+        "name": "Subliminal Reality EP",
+        "url": "https://open.spotify.com/album/6zzP88NtgWx46fn02EW4xU"
+      },
+      "artists": [
+        {
+          "name": "Blue Vein River",
+          "url": "https://open.spotify.com/artist/5zLSqhWdzWowLvrg0Nory0"
+        }
+      ],
+      "duration_ms": 261014,
+      "name": "Sound of the Gun",
+      "url": "https://open.spotify.com/track/68V26HNk7ey1NE3VkHvO0N"
+    },
+    {
+      "added_at": "2022-11-08 20:05:00",
+      "album": {
+        "name": "Mr.Fancy pants",
+        "url": "https://open.spotify.com/album/5S2wmqGNIEn1rYiZWUXkLh"
+      },
+      "artists": [
+        {
+          "name": "Soundsmudge",
+          "url": "https://open.spotify.com/artist/2rNNLhzmcxJpgi6iofbrhj"
+        }
+      ],
+      "duration_ms": 261868,
+      "name": "Mr.Fancy pants",
+      "url": "https://open.spotify.com/track/1aPgmpANFrfl3NIViRhuif"
+    },
+    {
+      "added_at": "2022-11-08 20:05:00",
+      "album": {
+        "name": "Nar w Rosas",
+        "url": "https://open.spotify.com/album/4vLQRhlcPxEbtA5q7Uv677"
+      },
+      "artists": [
+        {
+          "name": "Lagham",
+          "url": "https://open.spotify.com/artist/3sy97UUvGVuFTNEwl6H409"
+        }
+      ],
+      "duration_ms": 301519,
+      "name": "Nar w Rosas",
+      "url": "https://open.spotify.com/track/7L3TurwY1wZQuBAGlGP43V"
+    },
+    {
+      "added_at": "2022-11-01 20:00:00",
+      "album": {
+        "name": "Midnight Blooms",
+        "url": "https://open.spotify.com/album/7vDLOjrrS0JH2YQYmcUCw8"
+      },
+      "artists": [
+        {
+          "name": "Hotboxgroove",
+          "url": "https://open.spotify.com/artist/2iOmWTulb3nP3FQ9DYtLLV"
+        }
+      ],
+      "duration_ms": 492100,
+      "name": "Midnight Blooms",
+      "url": "https://open.spotify.com/track/7vcMs6ZC0TZyrN6BDyf8vg"
     },
     {
       "added_at": "2022-11-01 20:00:00",
@@ -663,26 +767,6 @@
     {
       "added_at": "2022-11-01 20:00:00",
       "album": {
-        "name": "\u0639\u0645\u0644 \u0641\u0646\u064a",
-        "url": "https://open.spotify.com/album/3AsxD44bLyQxefLvLj3cy0"
-      },
-      "artists": [
-        {
-          "name": "Omar Dafencii",
-          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
-        },
-        {
-          "name": "Mshakil",
-          "url": "https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "\u0639\u0645\u0644 \u0641\u0646\u064a",
-      "url": "https://open.spotify.com/track/19pRKlcApnYlaRmffunH6j"
-    },
-    {
-      "added_at": "2022-11-01 20:00:00",
-      "album": {
         "name": "3al Zamer",
         "url": "https://open.spotify.com/album/3RtcEf9VR0A2HYOdMSAa5g"
       },
@@ -699,46 +783,6 @@
       "duration_ms": 210607,
       "name": "Sami Khedira",
       "url": "https://open.spotify.com/track/4HcVDgbzBtzrvzDFaui3Op"
-    },
-    {
-      "added_at": "2022-11-01 20:00:00",
-      "album": {
-        "name": "Serdab",
-        "url": "https://open.spotify.com/album/1dSrSAjrpgcH1EkE0PY8LZ"
-      },
-      "artists": [
-        {
-          "name": "Moudy Afifi",
-          "url": "https://open.spotify.com/artist/0huJhkXubgznG9o4lhKZIn"
-        },
-        {
-          "name": "Virgo",
-          "url": "https://open.spotify.com/artist/2ByXYkrbs6o7fQGrn17gZt"
-        }
-      ],
-      "duration_ms": 179846,
-      "name": "Serdab",
-      "url": "https://open.spotify.com/track/63gRTsaJBdsmGeC6Lijs0Z"
-    },
-    {
-      "added_at": "2022-11-01 20:00:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1VOPosTnkaFRJLTpfNh9MF"
-      },
-      "artists": [
-        {
-          "name": "Riiiiko",
-          "url": "https://open.spotify.com/artist/6XbUbADSRCbfgMjYrPGfbN"
-        },
-        {
-          "name": "B-Element",
-          "url": "https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/25xfmkU1otdXjgVfVwQR8i"
     },
     {
       "added_at": "2022-11-01 20:00:00",
@@ -779,22 +823,6 @@
       "duration_ms": 183439,
       "name": "MAYBE",
       "url": "https://open.spotify.com/track/3CvYWahCnpUZENXen3KuRm"
-    },
-    {
-      "added_at": "2022-11-01 20:00:00",
-      "album": {
-        "name": "Afkar Galbi",
-        "url": "https://open.spotify.com/album/75PZWlpBqgRcZa1LHCSmvk"
-      },
-      "artists": [
-        {
-          "name": "Ghada Sheri",
-          "url": "https://open.spotify.com/artist/7c1eMleZFWsvk2Z0PCrai0"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Afkar Galbi",
-      "url": "https://open.spotify.com/track/17oyrFSekVUCCx4YoFhsGR"
     },
     {
       "added_at": "2022-11-01 20:00:00",
@@ -847,50 +875,6 @@
       "duration_ms": 183807,
       "name": "Bako",
       "url": "https://open.spotify.com/track/5nO62GzQVuXyos3rrh4v7f"
-    },
-    {
-      "added_at": "2022-11-01 20:00:00",
-      "album": {
-        "name": "El 3elba",
-        "url": "https://open.spotify.com/album/40rnzvnxdna70I5ENxUABY"
-      },
-      "artists": [
-        {
-          "name": "Ma-Beyn",
-          "url": "https://open.spotify.com/artist/56BacvMJfiNke5Sb6VOcQR"
-        },
-        {
-          "name": "Kamikazem",
-          "url": "https://open.spotify.com/artist/0FAbIDfnnY3RRlj97zPj6h"
-        },
-        {
-          "name": "Felukah",
-          "url": "https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F"
-        }
-      ],
-      "duration_ms": 209687,
-      "name": "El 3elba",
-      "url": "https://open.spotify.com/track/3HMGWElTSffEE4MAZi8s9l"
-    },
-    {
-      "added_at": "2022-11-01 20:00:00",
-      "album": {
-        "name": "Here and There",
-        "url": "https://open.spotify.com/album/2dEjij0eIdYLr90152L734"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
-        {
-          "name": "Bayou",
-          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
-        }
-      ],
-      "duration_ms": 123530,
-      "name": "Hamdulilah",
-      "url": "https://open.spotify.com/track/0ouTndlSP7HIF2j0FgsHEg"
     }
   ],
   "unique_name": "Fresh Finds Arabia",

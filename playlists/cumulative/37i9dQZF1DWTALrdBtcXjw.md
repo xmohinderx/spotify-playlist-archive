@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-192 songs - 18 hr 9 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
+193 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Captain’s Song](https://open.spotify.com/track/3djYspll15Mm2azjKSV55Y) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Captain's Song](https://open.spotify.com/album/4lBMwEwdX3BnjM74nbyRme) | 5:22 | 2020-04-17 | 2022-07-29 |
 | [Captain’s Song](https://open.spotify.com/track/3mIn6SuoJeZE3DlPvPGOYj) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Iron Starlet](https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN) | 5:22 | 2022-07-28 |  |
 | [Cedar Waltzin' \~ Don't You Worry 'bout a Thing](https://open.spotify.com/track/1JJ3Wpkx2igFJEcBMq2gCS) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Everybody Gets the Blues](https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N) | 8:23 | 2020-03-31 | 2022-04-28 |
+| [Cinquantuno](https://open.spotify.com/track/6Gx9ztDiJ3mcMEHO96w6Kb) | [Giovanni Mirabassi](https://open.spotify.com/artist/2mK36NvkRcFIKPyC9uL6C3), [Clément Daldosso](https://open.spotify.com/artist/7ChdS9uiipYzHA8c36AWS8), [Lukmil Perez](https://open.spotify.com/artist/26RqVxoGgBKJ4BWMc8WNCv), [Guillaume Perret](https://open.spotify.com/artist/7dUD0CbwQ1JQb1H0ovHjUZ) | [The Swan and the Storm](https://open.spotify.com/album/60nuEk5nHYmDoTh0Ed7gxg) | 8:27 | 2022-10-27 |  |
 | [Clifford Notes](https://open.spotify.com/track/58ZOSLqiasr2M0HIodxecW) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [New York Notes](https://open.spotify.com/album/4usyxUVMIPVNqP4Lv7OlCA) | 8:46 | 2022-05-25 |  |
 | [Coffee Table Afternoon](https://open.spotify.com/track/2BwZMNVNbAInWWbyQQ7QOT) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Coffee Table Afternoon](https://open.spotify.com/album/4ws4gC9VFhEL7kqMGShjNc) | 4:54 | 2022-03-04 |  |
 | [Connections](https://open.spotify.com/track/1R74JFlONy0cZt57Hwi7Tk) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Connections Home](https://open.spotify.com/album/7oQ4Rub58G7O2DzFwWS7Po) | 5:35 | 2022-08-30 |  |
@@ -106,7 +107,7 @@
 | [Make Me Rainbows](https://open.spotify.com/track/1m8uCoir0UBFB6wRxchbDG) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 7:04 | 2022-02-18 |  |
 | [Manhattan](https://open.spotify.com/track/1g0jjb4pvsGBxGbM5OxvYT) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Manhattan](https://open.spotify.com/album/5mHR1XnBoXIDZ9KSTyCx2I) | 4:23 | 2022-05-19 | 2022-07-29 |
 | [Manhattan](https://open.spotify.com/track/7eooKc7DUKjCOfdxsXzxS0) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time For Ballads \- The Studio Sessions](https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q) | 4:23 | 2022-07-28 |  |
-| [Masthuggsgruppen \- Live](https://open.spotify.com/track/3sTcMXmNCg2pLwhBJtLaU0) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Live at Unity](https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas) | 6:22 | 2022-02-18 |  |
+| [Masthuggsgruppen \- Live](https://open.spotify.com/track/3sTcMXmNCg2pLwhBJtLaU0) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Live at Unity](https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas) | 6:22 | 2022-02-18 | 2022-11-09 |
 | [Miljarder stjärnor](https://open.spotify.com/track/6Y8BG02Wx9bAMw53Aqc7WK) | [Per 'Texas' Johansson](https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T) | [Swedish Jazz Masters: Alla Mina Kompisar](https://open.spotify.com/album/37T5k8hlw2LGP1IWpKyJkV) | 5:39 | 2022-02-18 | 2022-04-22 |
 | [Min Soldat \(My Soldier\)](https://open.spotify.com/track/74DrMrLFqJEqyOx6ucc0vT) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 8:26 | 2020-03-31 |  |
 | [Mindful Moments](https://open.spotify.com/track/2T72V6rYV4CUxf0ecO5cSc) | [Alexa Tarantino](https://open.spotify.com/artist/4iP863xgxxSQUbKm7SVwXh) | [Firefly](https://open.spotify.com/album/7FKQHCMFXj4MqMU0DyZWp3) | 4:44 | 2022-02-18 | 2022-08-31 |

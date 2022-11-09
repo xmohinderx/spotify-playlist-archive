@@ -262,6 +262,32 @@
     },
     {
       "album": {
+        "name": "BEL 3AKS",
+        "url": "https://open.spotify.com/album/4ds49GyngSgvVoUt8TEtLE"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Ismail Nosrat",
+          "url": "https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87"
+        },
+        {
+          "name": "Lella Fadda",
+          "url": "https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230526,
+      "name": "BEL 3AKS",
+      "url": "https://open.spotify.com/track/6ar3PwuylnywVRKfIFAyJN"
+    },
+    {
+      "album": {
         "name": "Madina",
         "url": "https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp"
       },
@@ -1791,7 +1817,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 147919,
       "name": "YA7",
       "url": "https://open.spotify.com/track/4GbLYgXHLMzwHaxDLhAQVu"
@@ -1853,7 +1879,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 206112,
       "name": "\u0627\u0644\u0628\u062e\u062a",
       "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"

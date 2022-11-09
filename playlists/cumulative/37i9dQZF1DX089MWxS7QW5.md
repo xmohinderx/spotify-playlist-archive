@@ -4,12 +4,13 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: meenoi\(미노이\)\)
 
-124 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
+125 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12:30 AM \(Feat\. CHEEZE\)](https://open.spotify.com/track/68aR2iFKyhVbPzUHeFkXC6) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Open Ending](https://open.spotify.com/album/04kK84kVwcaCsgbWApQq3N) | 3:57 | 2022-05-28 | 2022-06-10 |
 | [4EVeR](https://open.spotify.com/track/4Tiqs5kuuUIh8iJ1cvxwJQ) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 4:02 | 2022-05-28 | 2022-06-10 |
+| [a u r o r a ✧ \(feat\. sooon\)](https://open.spotify.com/track/0B5Q4mi41Ht5xYTpIaXpyf) | [sweetch](https://open.spotify.com/artist/3PS40CD9LRfOPNoDMqns9L), [sooon](https://open.spotify.com/artist/3GemDSocaoRcYZeDHBdmHO) | [light \#1](https://open.spotify.com/album/39YKRrb64v8yPpD25dSPra) | 3:28 | 2022-11-08 |  |
 | [About Us \(Feat\. Filipe Santos\)](https://open.spotify.com/track/45E8aSa1AI4Yyd0XClOGpu) | [vvav](https://open.spotify.com/artist/7yphCtMHUx2eL5hHrpQnGx), [Filipe Santos](https://open.spotify.com/artist/6ZiJkBamnBr4DjuJ79thgP) | [About Us](https://open.spotify.com/album/0LhNmfYsvEH53AnyyUVCE4) | 3:16 | 2022-05-28 | 2022-07-08 |
 | [After you’ve gone](https://open.spotify.com/track/1JEeGmgxMtzRiMo0rv7RC6) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [After you’ve gone](https://open.spotify.com/album/0CDAPlOOdZ8kf5zfyNOWey) | 3:50 | 2022-08-02 |  |
 | [AhChoo!](https://open.spotify.com/track/6wIZ0Yct9aMra5kHMDk5mG) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [AhChoo!](https://open.spotify.com/album/07X66xfc5A1CWDzgHRs2gU) | 2:55 | 2022-05-28 | 2022-08-19 |

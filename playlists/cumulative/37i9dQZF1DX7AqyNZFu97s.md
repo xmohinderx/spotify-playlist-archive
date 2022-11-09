@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Bricknasty
 
-620 songs - 1 day 9 hr 41 min - [published](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
+621 songs - 1 day 9 hr 44 min - [published](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Fading](https://open.spotify.com/track/2D1rTKRi5k7yXZ9LUbkd6q) | [Retropxssy](https://open.spotify.com/artist/6tWhhrZoYdVYYik1YsSwdI) | [Fading](https://open.spotify.com/album/15Q805JtVjmUwtVfAEU7zs) | 2:18 | 2022-11-02 |  |
 | [Fake Feelings](https://open.spotify.com/track/1GzQcKBN7YI9yNt74n04Zi) | [Bethia](https://open.spotify.com/artist/6AUQWic2E5IdlRPbEg0mYD) | [Fake Feelings](https://open.spotify.com/album/41F8MWMVGaLHVdhZi7BibX) | 2:53 | 2022-09-14 | 2022-11-03 |
 | [Fake Friends](https://open.spotify.com/track/7yHQwtTe8bjuwN9fE8yp8B) | [Henjila](https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l) | [Fake Friends](https://open.spotify.com/album/3lNbLCNpJD7geNjYKUeH5R) | 3:14 | 2022-03-08 | 2022-03-09 |
-| [fall for anything](https://open.spotify.com/track/0C1hqvLOXatD9ZDfo879Hf) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [fall for anything](https://open.spotify.com/album/7iuwu8LGDGnhHDzpg8JyRH) | 3:09 | 2022-08-24 |  |
+| [fall for anything](https://open.spotify.com/track/0C1hqvLOXatD9ZDfo879Hf) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [fall for anything](https://open.spotify.com/album/7iuwu8LGDGnhHDzpg8JyRH) | 3:09 | 2022-08-24 | 2022-11-09 |
+| [fall for anything](https://open.spotify.com/track/0mIa1t1btv2hdENqK4JZcq) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [fall for anything](https://open.spotify.com/album/0p9fbJEtqeMQFCvgY7hf7M) | 3:09 | 2022-11-02 |  |
 | [Fallin](https://open.spotify.com/track/3XUQ74YA9qwYCe82fZ50j8) | [Jnr](https://open.spotify.com/artist/5me2AnReRzrn6sHY7pNPFO) | [Fallin](https://open.spotify.com/album/1ntKgNUeFuaODYCLk4Lx3V) | 2:30 | 2022-08-03 |  |
 | [familiar stranger](https://open.spotify.com/track/7xWT1W3mTdj4RvdoC9LQiN) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [familiar stranger](https://open.spotify.com/album/4ctjz7j2MWdTy7a3HQeZti) | 3:42 | 2022-03-30 | 2022-06-15 |
 | [Feel Me](https://open.spotify.com/track/6VpkW5Hx1Pn7qZWigHUApF) | [Nikhil Beats](https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR) | [Feel Me](https://open.spotify.com/album/1z1gebR1MgtOVOCml4Q1XG) | 3:28 | 2022-09-21 | 2022-10-20 |

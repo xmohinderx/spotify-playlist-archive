@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "3:30",
+        "url": "https://open.spotify.com/album/5vo8DvHawHGp7FM40oHOmK"
+      },
+      "artists": [
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203240,
+      "name": "3:30",
+      "url": "https://open.spotify.com/track/3vt2uTPMsJtAABxhyxmU9u"
+    },
+    {
+      "album": {
         "name": "Mahogany St",
         "url": "https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d"
       },
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 131904,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/1BexE9djGgIapZuU4Gu4TU"

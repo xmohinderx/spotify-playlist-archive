@@ -4,7 +4,7 @@
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Loco & Jam\. Artwork: Rewina Beshue.
 
-848 songs - 2 day 11 hr 32 min - [published](https://open.spotify.com/playlist/4dKpDBG1y7h8bfA4dbtQPc)
+849 songs - 2 day 11 hr 38 min - [published](https://open.spotify.com/playlist/4dKpDBG1y7h8bfA4dbtQPc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,8 @@
 | [Navigator](https://open.spotify.com/track/4sqZe3k0FfyxQxmC2XRdln) | [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Navigator](https://open.spotify.com/album/6ozm0XQcvdg3oJZuB6nXVL) | 6:36 | 2022-06-15 | 2022-09-01 |
 | [Navigator](https://open.spotify.com/track/5RRU4gyaVCQqrrJfRQujPz) | [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Navigator](https://open.spotify.com/album/1UA761iApzFnKz7kNVdFsF) | 6:36 | 2022-06-15 | 2022-07-29 |
 | [Ndako Moko Soso Moko](https://open.spotify.com/track/2K4c8dxwXExcrNvJh5X71J) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT) | [Ndako Moko Soso Moko](https://open.spotify.com/album/62FE9k8gsKwMLQcRR58lIp) | 3:23 | 2022-05-04 | 2022-07-07 |
-| [Nether Portal](https://open.spotify.com/track/3B3K5bpuR3OmJ6o1PiVYbJ) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Monnaka](https://open.spotify.com/album/6uVXGsjE9C31ZQQEMTkGE4) | 6:18 | 2022-09-14 |  |
+| [Nether Portal](https://open.spotify.com/track/3B3K5bpuR3OmJ6o1PiVYbJ) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Monnaka](https://open.spotify.com/album/6uVXGsjE9C31ZQQEMTkGE4) | 6:18 | 2022-09-14 | 2022-11-09 |
+| [Nether Portal](https://open.spotify.com/track/4bwSiql3RcbvDaq2vUeOU0) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Monnaka](https://open.spotify.com/album/7fQYIJUcAWOZ8MA6LfTHXU) | 6:18 | 2022-09-14 |  |
 | [Never Enough](https://open.spotify.com/track/0E7bASF3oRqZcL6zuIOv6n) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Never Enough](https://open.spotify.com/album/5RG1dYHC4kZPmY8StgbmhG) | 2:58 | 2022-03-31 | 2022-04-28 |
 | [Never Let It Go](https://open.spotify.com/track/2ZT3Q3zW3arJ2OgQ20lKWT) | [Alex Kirsch](https://open.spotify.com/artist/2ig7zZb5EHflZxLxiDEDMh) | [Never Let It Go](https://open.spotify.com/album/4vVXc3PlmAtUwsT7eS94bK) | 2:31 | 2022-07-20 | 2022-09-15 |
 | [Never Over](https://open.spotify.com/track/7y4nxTve03mmlUaNa304b9) | [Hannah Monica](https://open.spotify.com/artist/2VOcw45qKk1PIpLdwIuAID) | [Never Over](https://open.spotify.com/album/70YSmuhzvbAN3fTHmcG0Xe) | 6:43 | 2022-01-12 | 2022-02-24 |

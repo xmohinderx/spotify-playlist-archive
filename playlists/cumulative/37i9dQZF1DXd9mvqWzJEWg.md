@@ -2,7 +2,7 @@
 
 ### [Gqom Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr?si=oYfLmeh0Q7K9yhdpNp0aFg">Cairo CPT</a>
+> It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n?si=U8XZqDOSTg2TB7KJPL4dtQ">Temple Boys Cpt</a>
 
 79 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/7uMJ9CoeHul7GwURVi0bpy)
 

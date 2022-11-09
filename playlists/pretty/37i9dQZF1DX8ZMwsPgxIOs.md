@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,800 likes - 100 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,848 likes - 100 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 94 | [Away](https://open.spotify.com/track/0YZAILWkcrwLfRMPWvVIwv) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Away](https://open.spotify.com/album/2bTOJZjjyHS3JjZ6fqfAF1) | 5:30 |
 | 95 | [Mystic Voices](https://open.spotify.com/track/5MIpIX9VjzPCJNOgpYsFwf) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F) | [Mystic Voices](https://open.spotify.com/album/66fchoaJYtBH274HIUP6Bl) | 8:19 |
 | 96 | [Petrol or Diesel](https://open.spotify.com/track/5USoonCJ2FW437wNiX416a) | [Céilí](https://open.spotify.com/artist/2hZWkttg7fuovDCjihJLA1) | [Petrol or Diesel](https://open.spotify.com/album/5ScNkjH4Qu9gk6hOJhah3g) | 5:02 |
-| 97 | [Leela](https://open.spotify.com/track/29OT2Z3wFP9dHbCkVTrTGA) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [Leela](https://open.spotify.com/album/3wyAWANSMUCT1pCnwcHbVM) | 5:22 |
+| 97 | [Leela](https://open.spotify.com/track/6FbdCNOZ4ldJPi43Rf01iE) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [LP2](https://open.spotify.com/album/55sCnDa3AJX3CeSM0pSO8e) | 5:22 |
 | 98 | [Maladaptive Daydreamer](https://open.spotify.com/track/1OMzDNa8XPcc7ry1lHY0JB) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [Maladaptive Daydreamer](https://open.spotify.com/album/0Zdz4k1rSM83jjR4CKflrl) | 7:17 |
 | 99 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 |
 | 100 | [Morning Glow \- Edit](https://open.spotify.com/track/0TwiKyrgJ7dRykmg5jpjHH) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Morning Glow \(Edit\)](https://open.spotify.com/album/0VJJHbw6jcGCjU90REt3wF) | 3:01 |
 
-Snapshot ID: `MTY2Njk3MzQ3OSwwMDAwMDAwMDMwOWI3Yzg1MGExM2VhNjI1MzhkZWQ1OWY3YTVhNDk1`
+Snapshot ID: `MTY2Njk3MzQ3OSwwMDAwMDAwMDUyZGI0ZmIyZTYwMzU0YzA1YzM2MWFmY2FlYTgxNjBj`

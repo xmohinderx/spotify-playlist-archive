@@ -4,7 +4,7 @@
 
 > Blues favorites from 2021\. Cover: Robert Finley
 
-60 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/7J29LYotKBKO0d6uHHNKwN)
+61 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/7J29LYotKBKO0d6uHHNKwN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Mississippi Phone Booth](https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:06 | 2021-12-01 |  |
 | [My Lucky Card](https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 2:33 | 2021-12-01 |  |
 | [Notches](https://open.spotify.com/track/37OvIUoTAlKsuO3nTGSLSf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 7:03 | 2021-12-01 |  |
-| [One Foot On The Path](https://open.spotify.com/track/5HsIqCxxHalal6VyepSWll) | [Toby Lee](https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz) | [Aquarius](https://open.spotify.com/album/7jyTCVY16r5YsIjQTjE9nu) | 3:35 | 2021-12-01 |  |
+| [One Foot On The Path](https://open.spotify.com/track/3BhfzflhYCQ5DkjiEwP2cH) | [Toby Lee](https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz) | [Aquarius](https://open.spotify.com/album/61xH291AgtY4PwmBfgMrC3) | 3:35 | 2021-12-01 |  |
+| [One Foot On The Path](https://open.spotify.com/track/5HsIqCxxHalal6VyepSWll) | [Toby Lee](https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz) | [Aquarius](https://open.spotify.com/album/7jyTCVY16r5YsIjQTjE9nu) | 3:35 | 2021-12-01 | 2022-11-09 |
 | [Parade](https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:16 | 2021-12-01 |  |
 | [Poor Black Children](https://open.spotify.com/track/4Rq02gjGJQSTu0ubHPosIr) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Hard Time Blues](https://open.spotify.com/album/4LqKWtUn78Qaj7Jwo7dK0h) | 3:47 | 2021-12-01 |  |
 | [Push Now](https://open.spotify.com/track/1o1FCYJ47PvEyYqUXNlVmN) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Be The Love You Want](https://open.spotify.com/album/3XDIgxvmrVhFItGN3gkVdH) | 3:10 | 2021-12-01 |  |

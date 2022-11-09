@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-93 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/0ulNF6RkSGdPCKS5FTmAzk)
+94 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/0ulNF6RkSGdPCKS5FTmAzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Que Me Digan Loco](https://open.spotify.com/track/3JOxS04XfwGxJpyKwVeWrx) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Derecho De Antigüedad](https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT) | 3:41 | 2022-06-01 |  |
 | [Que Se Te Olvidó](https://open.spotify.com/track/0TBBrqwC87pusube1JOiw9) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 3:27 | 2022-06-01 | 2022-09-30 |
 | [Que Voy a Hacer para Olvidarte](https://open.spotify.com/track/6TknakzgbpaYIJSGkm61SW) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Lo Nuevo y Lo Mejor](https://open.spotify.com/album/3N6Y3m7YlvnYs94Zfnmcmu) | 3:03 | 2022-06-01 | 2022-06-19 |
-| [Qué Se Te Olvidó](https://open.spotify.com/track/31PFQ5MxekE2pNWIxxrpar) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Qué Se Te Olvidó](https://open.spotify.com/album/7woiqCtmgq3q8LZaAsP0BC) | 3:26 | 2022-09-29 |  |
+| [Qué Se Te Olvidó](https://open.spotify.com/track/2ThbhSqcxWoptGa0D33L0K) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:27 | 2022-11-08 |  |
+| [Qué Se Te Olvidó](https://open.spotify.com/track/31PFQ5MxekE2pNWIxxrpar) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Qué Se Te Olvidó](https://open.spotify.com/album/7woiqCtmgq3q8LZaAsP0BC) | 3:26 | 2022-09-29 | 2022-11-09 |
 | [Qué Voy A Hacer Para Olvidarte](https://open.spotify.com/track/04GweOJ0hUSX3URVtx0G30) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Qué Voy A Hacer Para Olvidarte](https://open.spotify.com/album/22M3XTilMjDgmqciYJFk5w) | 2:57 | 2022-06-23 |  |
 | [Reproches al Viento](https://open.spotify.com/track/2XBtCwbTe8UDhf83YElXuY) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Lo Nuevo y Lo Mejor](https://open.spotify.com/album/3N6Y3m7YlvnYs94Zfnmcmu) | 3:41 | 2022-06-01 | 2022-09-26 |
 | [Reproches Al Viento](https://open.spotify.com/track/2yIgZNeQVWvQAriFDf4CsI) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Reproches Al Viento](https://open.spotify.com/album/6Ook6mOO6gY5In5TAYS6q3) | 3:41 | 2022-09-28 |  |

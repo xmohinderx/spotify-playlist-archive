@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Dan Shake
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,840 likes - 95 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,920 likes - 95 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

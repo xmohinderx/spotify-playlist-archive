@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\" ",
-  "num_followers": 948615,
+  "num_followers": 951686,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg5NDMxNCwwMDAwMDAwMDg3MDU3OWE5OTkzNjlhNjI4MTNjMWM0ZGI5YmEyZmEw",
+  "snapshot_id": "MTY2Njg5NDMxNCwwMDAwMDAwMGY0MDE0NzFjYjRjNGNhYmVhMDM1NjU4NjY5YWU4ODEy",
   "tracks": [
     {
       "added_at": "2022-10-06 14:37:53",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr"
     },
     {
-      "added_at": "2022-11-08 01:14:10",
+      "added_at": "2022-11-09 02:22:52",
       "album": {
         "name": "October Passed Me By",
         "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
     },
     {
-      "added_at": "2022-11-08 01:14:10",
+      "added_at": "2022-11-09 02:22:52",
       "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
     },
     {
+      "added_at": "2022-11-09 02:22:52",
+      "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/6PaWZ0PIMxx15YBgCohvXY"
+    },
+    {
       "added_at": "2022-10-06 14:37:53",
       "album": {
         "name": "Locals 2",
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx"
     },
     {
-      "added_at": "2022-11-08 01:14:10",
+      "added_at": "2022-11-09 02:22:52",
       "album": {
         "name": "Puberty 2",
         "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
@@ -495,22 +511,6 @@
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
-    },
-    {
-      "added_at": "2022-11-08 01:14:10",
-      "album": {
-        "name": "Offering",
-        "url": "https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 212736,
-      "name": "Gilded Lily",
-      "url": "https://open.spotify.com/track/6PaWZ0PIMxx15YBgCohvXY"
     },
     {
       "added_at": "2022-10-06 14:37:53",
@@ -1093,7 +1093,7 @@
       "url": "https://open.spotify.com/track/6JuEshIRliNXRU1LXctRjZ"
     },
     {
-      "added_at": "2022-11-08 01:14:10",
+      "added_at": "2022-11-09 02:22:52",
       "album": {
         "name": "Trick",
         "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"

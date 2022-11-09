@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: SURL \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,163 likes - 76 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,207 likes - 76 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-132 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
+134 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Codependent](https://open.spotify.com/track/1RXysmMeZ1jvYgkpkCyYfi) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Codependent](https://open.spotify.com/album/3NosjY2LAVIVBUEVSDVAG8) | 3:19 | 2021-12-10 |  |
 | [Cold Water Swimming](https://open.spotify.com/track/2ht5pkjS9mcShiPGcOmfM3) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/083ZuJO8xStRW0sXozuPhm) | 4:26 | 2021-12-10 | 2022-07-29 |
 | [Cold Water Swimming](https://open.spotify.com/track/5MlWwkMy6lgwB2TB8HqiZY) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/7bEp87pqJ47BMJCfvANfSP) | 4:26 | 2022-06-10 |  |
-| [Colour TV](https://open.spotify.com/track/317hD6kkvxNc65HSqoXfCk) | [Will Varley](https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T) | [The Hole Around My Head](https://open.spotify.com/album/7pDgsunvwPnJ78x1UCAixY) | 4:15 | 2021-12-10 |  |
+| [Colour TV](https://open.spotify.com/track/317hD6kkvxNc65HSqoXfCk) | [Will Varley](https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T) | [The Hole Around My Head](https://open.spotify.com/album/7pDgsunvwPnJ78x1UCAixY) | 4:15 | 2021-12-10 | 2022-11-09 |
+| [Colour TV](https://open.spotify.com/track/3uVGXeJ3xPTuEnnNeFx2hu) | [Will Varley](https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T) | [The Hole Around My Head](https://open.spotify.com/album/0K2xOWPzXD7pYOcTrF0JLt) | 4:15 | 2022-10-14 |  |
 | [Control Freak](https://open.spotify.com/track/5V0TpRVcz59uTWCZhObIj0) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [Control Freak](https://open.spotify.com/album/0BO0643aYpi1fi3eRP0wn0) | 3:27 | 2022-04-01 |  |
 | [Different Kinds of Light](https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh) | 3:05 | 2021-12-10 | 2022-08-20 |
 | [Don't Be Scared, I Love You \- Yawny Yawn](https://open.spotify.com/track/0EpLFi2rxpzKJ8RRa1J40j) | [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [Don't Be Scared, I Love You \(Yawny Yawn\)](https://open.spotify.com/album/4ZvRUgh4mOJA3k0BGL3CXa) | 4:56 | 2021-12-10 | 2022-10-15 |
@@ -56,7 +57,8 @@
 | [Hostages \- Alternate](https://open.spotify.com/track/2nb3ZHHRzwa1bq0UpTWSoY) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hostages \(Alternate\)](https://open.spotify.com/album/0Xd9rEkK9lzqauqoMDx1s7) | 4:21 | 2022-08-19 |  |
 | [Hostages \- Alternate](https://open.spotify.com/track/7xFYoEpqDy5yxyCJLe3pUO) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hostages \(Alternate\)](https://open.spotify.com/album/4dTR9TJBCMHFArn4z6TrH8) | 4:21 | 2021-12-10 | 2022-10-13 |
 | [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 | 2021-12-10 |  |
-| [I Don't Know Why](https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/7oqr6xk4na7xIRYihgwsuv) | 3:24 | 2022-02-18 |  |
+| [I Don't Know Why](https://open.spotify.com/track/6qm17pxCWOfHIkKOdnLaoQ) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/4uQKSajaSAXIcf9RzvbHa9) | 3:24 | 2022-10-14 |  |
+| [I Don't Know Why](https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/7oqr6xk4na7xIRYihgwsuv) | 3:24 | 2022-02-18 | 2022-11-09 |
 | [I Wanna See You Smile](https://open.spotify.com/track/5A7m1ZdTNhZAZ19Hl5H3F2) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [I Wanna See You Smile](https://open.spotify.com/album/2ZMs2qoPYNuPvqXoXOWt4S) | 3:19 | 2021-12-10 | 2022-10-14 |
 | [I Wanna See You Smile](https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 3:19 | 2022-08-19 |  |
 | [I'm Kissing You](https://open.spotify.com/track/3dRDxa4STStR3mVU80S1Vb) | [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [bshp](https://open.spotify.com/album/5ZKuFLAWxdSwlMVhiryCC1) | 4:53 | 2021-12-10 | 2022-04-02 |

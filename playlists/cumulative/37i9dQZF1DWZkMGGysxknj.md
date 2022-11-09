@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-235 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
+236 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Correcto](https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a) | [Jero Romero](https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh) | [Cabeza de león](https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J) | 2:34 | 2021-07-16 |  |
 | [Counting Stars](https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Counting Stars](https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw) | 3:38 | 2021-07-16 |  |
 | [Crazy Love](https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5) | [Irene Diaz](https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF) | [I Love You Madly EP](https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu) | 3:46 | 2021-07-16 |  |
-| [Crimen](https://open.spotify.com/track/0HXxqH6hMfDOgBiOb1gTsg) | [I.M.H.O.](https://open.spotify.com/artist/0tEIoRVvUKu8xPu6fZQJZ6) | [Crimen](https://open.spotify.com/album/4fMwFoUAar0DKkWvjtYQeG) | 2:32 | 2021-07-16 |  |
+| [Crimen](https://open.spotify.com/track/0HXxqH6hMfDOgBiOb1gTsg) | [I.M.H.O.](https://open.spotify.com/artist/0tEIoRVvUKu8xPu6fZQJZ6) | [Crimen](https://open.spotify.com/album/4fMwFoUAar0DKkWvjtYQeG) | 2:32 | 2021-07-16 | 2022-11-09 |
 | [Crimen](https://open.spotify.com/track/2BroLAFj3ALbcXmImu2ExP) | [I.M.H.O.](https://open.spotify.com/artist/0tEIoRVvUKu8xPu6fZQJZ6) | [Crimen](https://open.spotify.com/album/5aRa6XrojJ3vO65iHMT7dc) | 2:32 | 2021-07-16 | 2022-07-29 |
 | [Dancing With A Stranger](https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Dancing With A Stranger](https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd) | 3:08 | 2021-07-16 |  |
 | [Dancing With A Stranger \(With Normani\) \- Acoustic](https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(With Normani\) \[Acoustic\]](https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ) | 3:07 | 2021-07-16 |  |
@@ -145,6 +145,7 @@
 | [Mothers](https://open.spotify.com/track/6Nqtm7NVrrki8XxAhh5soI) | [Steady Holiday](https://open.spotify.com/artist/3jLDJWlhuDcbq1DTlWp0NM) | [Mothers](https://open.spotify.com/album/3yZAj3Ar12YiBbC2r0cHXr) | 3:49 | 2021-07-16 | 2022-07-28 |
 | [My Friend \(Solo Acoustic Version\)](https://open.spotify.com/track/5Bbi1jdMAmJBoDhV0yv4W8) | [Dani Doucette](https://open.spotify.com/artist/2alhJ7s3IXafk9N2mGHYF2) | [Acoustic for Elephants](https://open.spotify.com/album/0xDe8HcKuzwsqh360qI6Aa) | 3:31 | 2021-07-16 | 2022-07-26 |
 | [My Name](https://open.spotify.com/track/0UZrloJ3IvP3d8XmtDFFJA) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [My Name](https://open.spotify.com/album/3xoEJqvx6pNH54BclKBwDx) | 3:22 | 2021-07-16 | 2022-07-28 |
+| [My Name](https://open.spotify.com/track/43MfBn9DA4rQWuIk2GRuc6) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Collide](https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7) | 3:22 | 2021-07-16 |  |
 | [Never Leave You](https://open.spotify.com/track/0DPFRkcObN0j4sHREcVfgO) | [Sterre Weldring](https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL) | [Never Leave You](https://open.spotify.com/album/54njbARQAQA2LBGs9pD0LN) | 3:27 | 2021-07-16 | 2022-07-29 |
 | [Never My Love](https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq) | [Voices In The Sky](https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML) | 3:26 | 2021-07-16 |  |
 | [New Rules](https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [New Rules](https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA) | 3:14 | 2021-07-16 |  |

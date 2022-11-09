@@ -827,6 +827,28 @@
     {
       "album": {
         "name": "Gold Dust (Fox Stevenson Remix)",
+        "url": "https://open.spotify.com/album/1b5Wr7LLfuuHgimQVQRaUP"
+      },
+      "artists": [
+        {
+          "name": "DJ Fresh",
+          "url": "https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC"
+        },
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233103,
+      "name": "Gold Dust - Fox Stevenson Remix",
+      "url": "https://open.spotify.com/track/2rCM9E5gZK2YRiIClGsGpu"
+    },
+    {
+      "album": {
+        "name": "Gold Dust (Fox Stevenson Remix)",
         "url": "https://open.spotify.com/album/3lxsS3fsWVpTd20vyAO0CS"
       },
       "artists": [
@@ -841,7 +863,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 233103,
       "name": "Gold Dust - Fox Stevenson Remix",
       "url": "https://open.spotify.com/track/3WNzOFBAbi5Cc72223avI7"

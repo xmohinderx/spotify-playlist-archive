@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,273 likes - 69 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,275 likes - 69 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 23 | [Mindcontrol](https://open.spotify.com/track/1kyIGyqSvT0pdcDdSwFAMV) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Mindcontrol](https://open.spotify.com/album/06RcGnBGNK1BOzGJ8im4D9) | 3:28 |
 | 24 | [Ignite \(Light It Up\)](https://open.spotify.com/track/2Ta32R4qS5k2R4ZBEmVBtJ) | [Kris Barras Band](https://open.spotify.com/artist/241MOvr69jR2U48FW5WbKv) | [Light It Up](https://open.spotify.com/album/6Rqox5C3LdLdqOyd1kcdy3) | 3:16 |
 | 25 | [Spirit](https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:38 |
-| 26 | [I Will Not Fall](https://open.spotify.com/track/1tTOz7GLFSObMxWJiCv8xx) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [I Will Not Fall](https://open.spotify.com/album/5WwQrLbHFyYbNUOCZZOKJc) | 3:29 |
+| 26 | [I Will Not Fall](https://open.spotify.com/track/0YLdPhWCwvYk3olzObwcZW) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [I Will Not Fall](https://open.spotify.com/album/4FF8p2iHolmxGXmkWpEBdJ) | 3:29 |
 | 27 | [Riot](https://open.spotify.com/track/0tAXV5rJfrMcqTOPNzv9og) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Riot](https://open.spotify.com/album/2PSA0hNLqgBVBOa0lciwPt) | 5:02 |
 | 28 | [U Got 2 Believe](https://open.spotify.com/track/6zfMpiPa0x1nEcAF0FH8sx) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [U Got 2 Believe](https://open.spotify.com/album/4i6X6nAuZBqLczL9gQgMCi) | 3:28 |
 | 29 | [Hump Thru the Winter](https://open.spotify.com/track/4ToOP7lFnj2kyU6L7xUwLB) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [The Last Days of Oakland](https://open.spotify.com/album/5XgUtV3205kTcgoSLNf8ix) | 3:54 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 68 | [Groove With Me](https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5) | 4:01 |
 | 69 | [T.C.B\. or T.Y.A.](https://open.spotify.com/track/0bpdYlt8oPbGeBZb3gDdZk) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Nobody's Fault But Mine](https://open.spotify.com/album/6Ft9rsJU1EN1tKUcjOFCaC) | 3:38 |
 
-Snapshot ID: `MTY0NTE2MDQ2MCwwMDAwMDAwMGUzY2QzNWJlZWIzMGQzNDAwNGJiOGJlNjk4ZWE2MGE0`
+Snapshot ID: `MTY0NTE2MDQ2MCwwMDAwMDAwMDM3Yzc2YjcxMGRjMzJjNTNmYTAyNDRhYWIzYzE1OWRi`

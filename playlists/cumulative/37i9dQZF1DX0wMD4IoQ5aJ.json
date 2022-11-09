@@ -2209,6 +2209,24 @@
     {
       "album": {
         "name": "11am",
+        "url": "https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7"
+      },
+      "artists": [
+        {
+          "name": "Duke Boara",
+          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223759,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0Liq0W8Ui16N6NtGlPfTUa"
+    },
+    {
+      "album": {
+        "name": "11am",
         "url": "https://open.spotify.com/album/2cpq73ajZPz0vr9mvpZcfv"
       },
       "artists": [
@@ -2219,7 +2237,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 223759,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/2Mdo5rCmJA1NMXiK6tGnDm"

@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 251125,
+  "num_followers": 251185,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMGI1Y2Q4MWE5ODAxZDg3NTdlZWNkZDE2YWY5YTkwZTg0",
+  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMGZjZWMzOWM0MmI3MGY3ZTA1MzU4OGE2YjFlNWM5OWU0",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1092,9 +1092,25 @@
           "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
         }
       ],
-      "duration_ms": 194680,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
+      "duration_ms": 174026,
+      "name": "Al Doblar la Esquina",
+      "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Coincidir",
+        "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
+      },
+      "artists": [
+        {
+          "name": "Alberto Escobar",
+          "url": "https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1115,22 +1131,6 @@
       "duration_ms": 272042,
       "name": "Hoy Como Ayer",
       "url": "https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Coincidir",
-        "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
-      },
-      "artists": [
-        {
-          "name": "Alberto Escobar",
-          "url": "https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Coincidir",
-      "url": "https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
         }
       ],
-      "duration_ms": 174026,
-      "name": "Al Doblar la Esquina",
-      "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
+      "duration_ms": 194680,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
     },
     {
       "added_at": "2021-07-29 16:46:05",

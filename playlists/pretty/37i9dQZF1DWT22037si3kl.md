@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Druhh e Drehh
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,782 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,956 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 42 | [OUTRO PATAMAR](https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [OUTRO PATAMAR](https://open.spotify.com/album/1nb3EIZXO75bxWDz0Agxfo) | 3:26 |
 | 43 | [REALENGO FREESTYLE](https://open.spotify.com/track/697CJ1elAb3P9w3vFitdk9) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [Lotta](https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ) | [REALENGO FREESTYLE](https://open.spotify.com/album/5al1p5r83PShBKtSgLWicv) | 3:30 |
 | 44 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
-| 45 | [Cartão](https://open.spotify.com/track/74kUWtzAk8ApDHOGkGNfT0) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Cartão](https://open.spotify.com/album/29BpU2POTVO5VUEryYsyNC) | 3:17 |
-| 46 | [REVERSE](https://open.spotify.com/track/6EVxMejp12otEEADDqwNbs) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [REVERSE](https://open.spotify.com/album/1YQJnUtRI7utiKvLx8H76m) | 2:56 |
+| 45 | [REVERSE](https://open.spotify.com/track/6EVxMejp12otEEADDqwNbs) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [REVERSE](https://open.spotify.com/album/1YQJnUtRI7utiKvLx8H76m) | 2:56 |
+| 46 | [Cartão](https://open.spotify.com/track/74kUWtzAk8ApDHOGkGNfT0) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Cartão](https://open.spotify.com/album/29BpU2POTVO5VUEryYsyNC) | 3:17 |
 | 47 | [Grife](https://open.spotify.com/track/0mtxZdz5ISNK7X2T0slm8d) | [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [Melhor Amigo do Dinheiro](https://open.spotify.com/album/3kqt7zNmCfLdS5q3Hv8qzk) | 3:18 |
 | 48 | [CHANEL](https://open.spotify.com/track/0AyrMxZtWCQEktWjNosyEc) | [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6), [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m), [Tio Galera](https://open.spotify.com/artist/60LQdTUEVCRObjwjXB3hYH) | [CHANEL](https://open.spotify.com/album/3qLpcdoxdNBogI8oOrHLui) | 2:43 |
 | 49 | [Luz, Jóias e Mulheres](https://open.spotify.com/track/3aRSIp03rHzCFlDswnV28s) | [Gão Dubroonks](https://open.spotify.com/artist/4Lfajgf4mlwi2BNRzOWOGD), [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Fabulouz Fabz](https://open.spotify.com/artist/4UnhXK8jTPU0ginUIQyTHH) | [Luz, Jóias e Mulheres](https://open.spotify.com/album/5fkWWjA0VChNs4hqpqJoUq) | 3:25 |
 | 50 | [Tukikis](https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Tukikis](https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n) | 2:54 |
 
-Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMDg4NTBkNzY3YmQ4NjRkMmI5MjE2MzMzNDA2OTE0ZjE0`
+Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMDgyOGU4OTZjMWI3ZTE4ZDg3NGFjOTcyZjQzNTZlYmM1`

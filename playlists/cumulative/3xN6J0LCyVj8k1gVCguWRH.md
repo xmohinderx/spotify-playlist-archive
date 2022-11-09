@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,798 songs - 4 day 7 hr 52 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,800 songs - 4 day 7 hr 59 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Chills](https://open.spotify.com/track/6q2BRfMZNhWfxpwen3MEA7) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Chills](https://open.spotify.com/album/6fbokq5NPY4A4XcXzpeal7) | 2:39 | 2020-11-06 | 2020-11-21 |
 | [Chimes](https://open.spotify.com/track/4K1xINi3pb720zaJxu7In8) | [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Chimes](https://open.spotify.com/album/2OhtIYaw2PbX3v4MIqSMCk) | 2:52 | 2020-01-15 | 2020-12-26 |
 | [Choke](https://open.spotify.com/track/0ZnmdsKeOEKyOOm43qykb1) | [Judah Holiday](https://open.spotify.com/artist/3NihBgwdjSCeqqQYVWb5Xm) | [Choke](https://open.spotify.com/album/0lwKGHS6fxUdhqZjgibSWz) | 3:07 | 2020-04-12 | 2020-04-22 |
+| [Cicada](https://open.spotify.com/track/3bBmaQvVmFSpsZwuYjKiBq) | [Barton Stanley David](https://open.spotify.com/artist/0zhZht91OLGevVhrVNYCxf) | [Crest](https://open.spotify.com/album/55eHzru66y5np8Kbyn9sAI) | 3:12 | 2022-11-08 |  |
 | [Circles](https://open.spotify.com/track/7otM2899LBDzr051hxJqyx) | [Braunsy](https://open.spotify.com/artist/6NtI2LVlpaN2PryOeSF13u) | [Circles](https://open.spotify.com/album/0uYF0K7LrkGxLzmVhQGt1M) | 3:09 | 2022-08-18 | 2022-09-04 |
 | [Circles](https://open.spotify.com/track/3M9qpGEJjkUEvw6juEtYT1) | [v i b e](https://open.spotify.com/artist/0zfqU1ousYz8J86gAa30y7) | [Circles](https://open.spotify.com/album/5QwQ5J7MUCHEH534d8E7Ni) | 1:57 | 2021-08-13 | 2021-08-29 |
 | [City](https://open.spotify.com/track/6gznUijFc3iockW5KwABtj) | [ESSIRAY](https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9) | [City](https://open.spotify.com/album/7lH9oAQQA3aXt4yMOEUzOv) | 3:10 | 2022-06-04 | 2022-06-29 |
@@ -802,6 +803,7 @@
 | [In My Dreams](https://open.spotify.com/track/10pblZYCHnup5M0zM2snrg) | [Michelle Daly](https://open.spotify.com/artist/6KfAtKDYoA9ZZMGeliH6nO) | [In My Dreams](https://open.spotify.com/album/2QkB8Elq5YSThFT1J1nVXi) | 3:59 | 2021-01-23 | 2021-02-06 |
 | [In My Skin](https://open.spotify.com/track/6qeGwJflBqtahnbl0ECUrt) | [IHF](https://open.spotify.com/artist/34P1IGH1mIqdaVkfRuTebV) | [In My Skin](https://open.spotify.com/album/7MB8mz4D2XJGhlsMHJlP3U) | 3:25 | 2021-05-14 | 2021-05-30 |
 | [In My Soul \- Brainheart Remix](https://open.spotify.com/track/4qUHV0JipDlYVDHmIpNxNW) | [Tom Staar](https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK), [Brainheart](https://open.spotify.com/artist/6WbG5UvM4fTvxSms7Gj2hI) | [In My Soul \(Brainheart Remix\)](https://open.spotify.com/album/2tkZEDkGjJeHRnf6gJNlIu) | 3:06 | 2021-05-28 | 2021-06-13 |
+| [in my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 | 2022-11-08 |  |
 | [In The Kitchen](https://open.spotify.com/track/2z1p5RMHXtIRtCDW1T0etZ) | [Lola Ladae'](https://open.spotify.com/artist/4lIVqdSUMFaCnndK70oVvy) | [In The Kitchen](https://open.spotify.com/album/04a6Y7k3OtUm3DKwUzFO9o) | 2:31 | 2021-10-23 | 2021-11-07 |
 | [In the Night](https://open.spotify.com/track/5MRxebGV84pKaV1HQmPUsR) | [SOMA](https://open.spotify.com/artist/3kBialmR0u2rd85GwC54hx) | [In the Night](https://open.spotify.com/album/1qJwiNWHZbS3CUOY6PWoz8) | 3:09 | 2021-06-04 | 2021-06-20 |
 | [In Time](https://open.spotify.com/track/71d0LLbBBL4jSSW6wEi46L) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [In Time](https://open.spotify.com/album/5XZ7G9zMJi24jBlHPCvJov) | 3:09 | 2022-10-07 | 2022-10-29 |

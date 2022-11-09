@@ -4,7 +4,7 @@
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-121 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
+122 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Belfast](https://open.spotify.com/track/5P8LzctGucBj26sE78N7SP) | [Brian Finnegan](https://open.spotify.com/artist/20fwGjw7IpBUMzxjb3gvET) | [The Ravishing Genius of Bones](https://open.spotify.com/album/1JSpXaFQZh6SrZjXjdxzbS) | 5:03 | 2020-11-11 | 2022-07-29 |
 | [Bodhran](https://open.spotify.com/track/6LVEYsHd4qJ1WtJZ9xhr2X) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [Red](https://open.spotify.com/album/6u2FSfckWObCgQvVz38WQe) | 2:12 | 2020-11-11 |  |
 | [Branholm/Trip to Herve's](https://open.spotify.com/track/6GNpwVyyAdUb1FtTCL6ZjK) | [Flook](https://open.spotify.com/artist/3AtiX3mgmF2cKIeigOGyf6) | [Flook! Live!](https://open.spotify.com/album/1HfkYCf8l9gDm9q1dU1dSy) | 4:06 | 2020-11-11 |  |
-| [Brennans Reel](https://open.spotify.com/track/7DIJ8pWzjPPNNZi8BXbYjm) | [Martin Hayes Quartet](https://open.spotify.com/artist/2LzGweG3iEJCni35tLQnL5) | [Brennans Reel](https://open.spotify.com/album/3zpOzh4VaRf66sNWggmgks) | 3:02 | 2020-11-11 |  |
+| [Brennans Reel](https://open.spotify.com/track/3HidYV1TitmxDpP0gTNPti) | [Martin Hayes Quartet](https://open.spotify.com/artist/2LzGweG3iEJCni35tLQnL5) | [The Blue Room](https://open.spotify.com/album/5eCpuMhayrr8WdMseIPCWK) | 3:02 | 2020-11-11 |  |
+| [Brennans Reel](https://open.spotify.com/track/7DIJ8pWzjPPNNZi8BXbYjm) | [Martin Hayes Quartet](https://open.spotify.com/artist/2LzGweG3iEJCni35tLQnL5) | [Brennans Reel](https://open.spotify.com/album/3zpOzh4VaRf66sNWggmgks) | 3:02 | 2020-11-11 | 2022-11-09 |
 | [Caoineadh An Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/3sQcd81KocTl0ZVQvcqh2n) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel From Clare](https://open.spotify.com/album/6QK8bIcu19iuEPfyenHHDl) | 5:05 | 2020-11-11 |  |
 | [Caoineadh an Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/7HGUltqTH6YqynkMQl3zzd) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel From Clare](https://open.spotify.com/album/75JKmNw0ljwHkoPoLFSkpP) | 5:05 | 2020-11-11 | 2022-07-29 |
 | [Coleraine Jig](https://open.spotify.com/track/7n76JlxTrfGMUHfCK7s4Nw) | [De Dannan](https://open.spotify.com/artist/09RBtr6JUJprt2li2NsdU8) | [The Best Of DeDannan](https://open.spotify.com/album/72QISrRZoQmgNZa7ucSlra) | 5:39 | 2020-11-11 | 2022-09-26 |

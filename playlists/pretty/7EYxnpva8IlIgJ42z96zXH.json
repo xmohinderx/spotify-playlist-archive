@@ -1,12 +1,12 @@
 {
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly!",
-  "num_followers": 31560,
+  "num_followers": 31561,
   "original_name": "Morning Workout",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "MjQzMixiZmFiMzkwZTA0NWJiZWZkYTNkOWIwNjZiY2UzNThlYTE4OWUyOTVm",
+  "snapshot_id": "MjQzNSw3OWM2MmY3ZGY1M2NjM2Q1ZWQ3NWI5ODRhNmFkZTNmZGFiOWQzNmEx",
   "tracks": [
     {
       "added_at": "2022-11-04 01:49:20",
@@ -419,6 +419,26 @@
       "duration_ms": 225045,
       "name": "One Long Firework in the Sky",
       "url": "https://open.spotify.com/track/1OmPgwGZtgwdKZp5S0gy7I"
+    },
+    {
+      "added_at": "2022-11-09 01:04:19",
+      "album": {
+        "name": "Pleasure is the Law (feat. Julian Hamilton)",
+        "url": "https://open.spotify.com/album/0K7fCl0OnfPRCZZiWhlkMB"
+      },
+      "artists": [
+        {
+          "name": "Happiness is Wealth",
+          "url": "https://open.spotify.com/artist/1AebRqBS8ifo5gAF6z8poy"
+        },
+        {
+          "name": "Julian Hamilton",
+          "url": "https://open.spotify.com/artist/794ajzUQFiGA2hkydHIOTh"
+        }
+      ],
+      "duration_ms": 135476,
+      "name": "Pleasure is the Law (feat. Julian Hamilton)",
+      "url": "https://open.spotify.com/track/1kLiDlP9XUxrwCf6IiM9Y0"
     },
     {
       "added_at": "2022-11-04 01:49:20",
@@ -1159,26 +1179,6 @@
       "duration_ms": 177689,
       "name": "Where Did You Go?",
       "url": "https://open.spotify.com/track/22GCuIGPCDEh8izFovMD7N"
-    },
-    {
-      "added_at": "2022-11-04 01:49:20",
-      "album": {
-        "name": "Ma Baker",
-        "url": "https://open.spotify.com/album/0hWvJRAX4Di5ImH3BI06vK"
-      },
-      "artists": [
-        {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 146592,
-      "name": "Ma Baker",
-      "url": "https://open.spotify.com/track/7pGiiHmMfOPHVEXNnfqw00"
     }
   ],
   "unique_name": "Morning Workout",

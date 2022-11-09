@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 31656,
+  "num_followers": 31705,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMDM0ZjhkZTA5MGYwZmE3NGY2ZjAzOTdlMGYzOTllODhj",
+  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMGI2MzdkNjUxZTFmMjVmYjIxMmE0YTBjMzk0MjZiODQ5",
   "tracks": [
     {
       "added_at": "2022-09-12 22:27:59",
@@ -171,26 +171,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "Charles May",
-          "url": "https://open.spotify.com/artist/4IyqKACrQ4rsRa3M9KpZaB"
-        }
-      ],
-      "duration_ms": 386360,
-      "name": "Ai No Corrida",
-      "url": "https://open.spotify.com/track/0SzAKZYTUvDLqlPgllEb3N"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Xanadu",
         "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 208506,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Charles May",
+          "url": "https://open.spotify.com/artist/4IyqKACrQ4rsRa3M9KpZaB"
+        }
+      ],
+      "duration_ms": 386360,
+      "name": "Ai No Corrida",
+      "url": "https://open.spotify.com/track/0SzAKZYTUvDLqlPgllEb3N"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 280733,
-      "name": "No One Gets The Prize",
-      "url": "https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Cuchi-Cuchi",
         "url": "https://open.spotify.com/album/6chDvBqfNYlYh6NtGAo8ht"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 377405,
       "name": "Dance A Little Bit Closer - 12\" Mix",
       "url": "https://open.spotify.com/track/3cwMDPUQ0Y8PQSg68HV2Fn"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 280733,
+      "name": "No One Gets The Prize",
+      "url": "https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ"
     },
     {
       "added_at": "2022-09-12 22:27:59",

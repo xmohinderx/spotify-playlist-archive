@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 ### [Gqom Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr?si=oYfLmeh0Q7K9yhdpNp0aFg">Cairo CPT</a>
+> It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n?si=U8XZqDOSTg2TB7KJPL4dtQ">Temple Boys Cpt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,834 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,868 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 49 | [Time Splitter](https://open.spotify.com/track/1Hnt3TjNLtFpOv1LqKsbh1) | [Dlala Chass](https://open.spotify.com/artist/2BuFIwEOV547lKQhOapZU3), [Woza Spice](https://open.spotify.com/artist/5jXhHXqQusFuDslFf7VJYQ) | [Time Splitter](https://open.spotify.com/album/4pm7vPnxkapigLujLVz7sd) | 6:15 |
 | 50 | [Bedtime Story](https://open.spotify.com/track/4Ow3gFQujZSZvj590Icyeq) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr), [Jay R ukhona CPT](https://open.spotify.com/artist/6d9AoKdmLlQ1vSxYKWWM3p) | [Bedtime Story](https://open.spotify.com/album/0pYrO4JibN17dqQ4DIfn84) | 5:37 |
 
-Snapshot ID: `MTY2NzgzNjc0MCwwMDAwMDAwMGFiODg2YjdmMzA4MWI5MzQyYTlkNDA0OGRlNzYzZmQ5`
+Snapshot ID: `MTY2Nzg5NTM2MSwwMDAwMDAwMDA2ODA1ODczZTJkYjhiYWFjODJhZGI4ZWJlODM3OWEy`

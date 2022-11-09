@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 23813,
+  "num_followers": 23821,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDA3NmNhZWFkZDk2ZjhkOTZiYjkxY2E1NjYzOTFlZjBk",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGMxNWZlZDg2ZjgzZDY4NGM2OTJiZTg4YTNkMzI5MTVk",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -635,6 +635,26 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Straight Line (Remixed)",
+        "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
+      },
+      "artists": [
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        },
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 376489,
+      "name": "Straight Line - Neil Cowley Remix",
+      "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Rye Lane Vol. 1",
         "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
       },
@@ -759,22 +779,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Laamore",
-        "url": "https://open.spotify.com/album/6hS7OvK64BDDcg4AiGHODg"
-      },
-      "artists": [
-        {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
-        }
-      ],
-      "duration_ms": 280895,
-      "name": "Laamore",
-      "url": "https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Information",
         "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
       },
@@ -791,22 +795,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Straight Line (Remixed)",
-        "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
+        "name": "Laamore",
+        "url": "https://open.spotify.com/album/6hS7OvK64BDDcg4AiGHODg"
       },
       "artists": [
         {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
-        },
-        {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
         }
       ],
-      "duration_ms": 376489,
-      "name": "Straight Line - Neil Cowley Remix",
-      "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
+      "duration_ms": 280895,
+      "name": "Laamore",
+      "url": "https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -827,6 +827,30 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Buya",
+        "url": "https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        }
+      ],
+      "duration_ms": 464182,
+      "name": "Buya - Da Capo Remix",
+      "url": "https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "The Sun Is Warm and Directly Above You",
         "url": "https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1"
       },
@@ -839,30 +863,6 @@
       "duration_ms": 222148,
       "name": "The Sun Is Warm and Directly Above You",
       "url": "https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Buya",
-        "url": "https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Toshi",
-          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
-        },
-        {
-          "name": "Da Capo",
-          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
-        }
-      ],
-      "duration_ms": 464182,
-      "name": "Buya - Da Capo Remix",
-      "url": "https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt"
     },
     {
       "added_at": "2021-10-08 17:36:35",

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55166,
+  "num_followers": 55168,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ5NDI5NywwMDAwMDAwMGRmZTc4YmQ5ODM5Zjk5ZmI3M2VmYmMwZTk1ZjRjMjg3",
+  "snapshot_id": "MTY2NDQ5NDI5NywwMDAwMDAwMGQxMjA2YTY5MDEzMDZhNjM4ZDkwZjdkYTI5NjNmMWQ4",
   "tracks": [
     {
       "added_at": "2022-09-29 23:31:37",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Loco Demente",
-        "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
-      },
-      "artists": [
-        {
-          "name": "E-Lhoy",
-          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Loco Demente",
-      "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Shot de Tequila",
         "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 211809,
       "name": "Shot de Tequila",
       "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Loco Demente",
+        "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
+      },
+      "artists": [
+        {
+          "name": "E-Lhoy",
+          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Loco Demente",
+      "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
     },
     {
       "added_at": "2022-09-29 23:31:37",

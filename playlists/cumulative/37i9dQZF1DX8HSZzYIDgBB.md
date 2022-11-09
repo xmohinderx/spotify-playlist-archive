@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Mula en portada.
 
-193 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+194 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Ni Una Cosa Ni la Otra](https://open.spotify.com/track/41qlbgS7KPPiuvJ29pRW6Y) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Ni Una Cosa Ni La Otra](https://open.spotify.com/album/6mRskuWBiKC2L4kHAdsqSX) | 4:31 | 2022-02-25 | 2022-07-29 |
 | [Ninfa de la Villa](https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Cosmic Wacho](https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1) | 3:09 | 2021-10-05 | 2022-09-07 |
 | [Ninfa de la villa](https://open.spotify.com/track/7Ax9fR3OPue9dRH7n9Pidm) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Ninfa de la villa](https://open.spotify.com/album/25c9ZAKyYYpeS8ZfUKMeZ2) | 3:09 | 2021-10-05 | 2022-07-29 |
-| [No la Controles](https://open.spotify.com/track/2MjjIhsTUJT9Em2IK1DYbL) | [Vic Contreras](https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev), [La Alucinante Banda](https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo) | [No la Controles](https://open.spotify.com/album/3cnie000TIlXmMybJaQyvl) | 3:25 | 2022-08-13 |  |
+| [No la Controles](https://open.spotify.com/track/2MjjIhsTUJT9Em2IK1DYbL) | [Vic Contreras](https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev), [La Alucinante Banda](https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo) | [No la Controles](https://open.spotify.com/album/3cnie000TIlXmMybJaQyvl) | 3:25 | 2022-08-13 | 2022-11-09 |
+| [No la Controles](https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE) | [Vic Contreras](https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev), [La Alucinante Banda](https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo) | [No la Controles](https://open.spotify.com/album/1LYj7dodHz75dXhEeBWUWy) | 3:25 | 2022-08-13 |  |
 | [Nosotros También](https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:26 | 2021-10-05 |  |
 | [Nosotros También](https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nosotros También](https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL) | 3:26 | 2021-10-05 | 2022-10-13 |
 | [Ocasión \- Remix](https://open.spotify.com/track/1E7eaYoGV6UdofumURWUn7) | [Roldán](https://open.spotify.com/artist/7frHfQB5xY6on5DHQdjQws), [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Ocasión \(Remix\)](https://open.spotify.com/album/6OXv8RJSgT68yrOiW6e3wz) | 3:31 | 2021-10-05 | 2022-04-10 |

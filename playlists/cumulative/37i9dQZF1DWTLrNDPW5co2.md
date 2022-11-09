@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: TAAHLIAH
 
-89 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
+90 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-07-14 |  |
 | [Amber Rush](https://open.spotify.com/track/4AqvfnUyIfQoa4hIbEPYnt) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Amber Rush](https://open.spotify.com/album/7ahTHniOH0ml5SiymYAhmW) | 6:05 | 2021-10-15 |  |
 | [And Groove \- Edit](https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [And Groove](https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt) | 3:25 | 2021-10-15 | 2022-07-15 |
-| [Atom Dancer](https://open.spotify.com/track/5HO4wndxqatWLclazWkwTO) | [Hannah Holland](https://open.spotify.com/artist/3paxIyAbBuTSw8RDF22vHs) | [Tectonic](https://open.spotify.com/album/2j6AzsZjb6DiLSsWC12eNV) | 5:33 | 2021-10-15 |  |
+| [Atom Dancer](https://open.spotify.com/track/0wrqaql3DY9v8l0a4vnbaf) | [Hannah Holland](https://open.spotify.com/artist/3paxIyAbBuTSw8RDF22vHs) | [Tectonic](https://open.spotify.com/album/2RfoaoO9okjl9V7JBmLbAx) | 5:33 | 2022-07-14 |  |
+| [Atom Dancer](https://open.spotify.com/track/5HO4wndxqatWLclazWkwTO) | [Hannah Holland](https://open.spotify.com/artist/3paxIyAbBuTSw8RDF22vHs) | [Tectonic](https://open.spotify.com/album/2j6AzsZjb6DiLSsWC12eNV) | 5:33 | 2021-10-15 | 2022-11-09 |
 | [BDE \- Shy POV](https://open.spotify.com/track/6HFXNM7rmAMuQYsUlrd3FF) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [BDE 3XL](https://open.spotify.com/album/7wzmb5z3iBq6BGkPf32s8c) | 2:07 | 2021-10-15 | 2022-06-04 |
 | [Between The Lines \- The Blessed Madonna Remix / Edit](https://open.spotify.com/track/7FEIfd9agzVp7RMhNuLdHv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Between The Lines \(The Blessed Madonna Remix\)](https://open.spotify.com/album/3C2OTd8tzJeMH0g8KGoDkR) | 3:52 | 2021-10-15 | 2022-06-04 |
 | [Black](https://open.spotify.com/track/1MyTViq9p2q2OsOa5a7z70) | [Grove](https://open.spotify.com/artist/1ymLBAEb4VHg1sObM20pQ3), [Griz\-O](https://open.spotify.com/artist/11FUGhExWgQVPjgTvblbHQ) | [Queer + Black](https://open.spotify.com/album/2OVoVT9YqJeUWSquhDp1pk) | 3:29 | 2021-10-15 | 2022-07-15 |

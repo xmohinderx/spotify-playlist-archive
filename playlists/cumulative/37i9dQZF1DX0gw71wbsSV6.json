@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 173237,
       "name": "Champion",
       "url": "https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ"
@@ -1041,6 +1041,24 @@
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+    },
+    {
+      "album": {
+        "name": "\u96e8",
+        "url": "https://open.spotify.com/album/47EQMgwBhI5ARxtBNB7Ruj"
+      },
+      "artists": [
+        {
+          "name": "\u6ce2\u306e\u3088\u3046",
+          "url": "https://open.spotify.com/artist/6NJMPhL4Va9u2RWjymGYhZ"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309701,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/6WkMbJVTMyMWSQpCetvkyX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0gw71wbsSV6"

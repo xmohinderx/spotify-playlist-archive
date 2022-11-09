@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140756,
+  "num_followers": 140758,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMGE3YmFhNzQwMTk3MWM4ZTg2MWFiNTRmODQxZjkwYzY4",
+  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMGQ1OTZjMTI5MzYwYTU0MDQyMWY4MjhhODBjODcwYWQ4",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Quinto",
+        "url": "https://open.spotify.com/album/5JYkTglD3KHRoBM3y42tCW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Vision",
+          "url": "https://open.spotify.com/artist/4WKOljIFPLglGQFFEK2HHJ"
+        }
+      ],
+      "duration_ms": 165520,
+      "name": "El Tirador",
+      "url": "https://open.spotify.com/track/72jjeE9Vil9td0fRYrYVtf"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "El Maestro",
         "url": "https://open.spotify.com/album/6mqGvKuHLqYoAoCSMLkHj2"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 238549,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/36TiDvL5RmBeUs3W7Hh8Pr"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Quinto",
-        "url": "https://open.spotify.com/album/5JYkTglD3KHRoBM3y42tCW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Vision",
-          "url": "https://open.spotify.com/artist/4WKOljIFPLglGQFFEK2HHJ"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "El Tirador",
-      "url": "https://open.spotify.com/track/72jjeE9Vil9td0fRYrYVtf"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Sweet City Style",
+        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
+      },
+      "artists": [
+        {
+          "name": "Anjelique",
+          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Me Dec\u00edas",
         "url": "https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Sweet City Style",
-        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
-      },
-      "artists": [
-        {
-          "name": "Anjelique",
-          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "La Primavera",
         "url": "https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp"
       },
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Ni Todo el Dinero",
-        "url": "https://open.spotify.com/album/0cu4MjortdALwwc0C5ImBR"
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW"
       },
       "artists": [
         {
-          "name": "MARISELA HERNANDEZ",
-          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
+          "name": "Sunny Sauceda Y Todo Eso",
+          "url": "https://open.spotify.com/artist/2KXYZbOjSl5DpNSFgOqFjP"
         }
       ],
-      "duration_ms": 189231,
-      "name": "Ni Todo el Dinero",
-      "url": "https://open.spotify.com/track/32YP9PixXHJNLHvJWDlleP"
+      "duration_ms": 231048,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/0fwJhJYyD9tJcroxnKd6ts"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW"
+        "name": "Ni Todo el Dinero",
+        "url": "https://open.spotify.com/album/0cu4MjortdALwwc0C5ImBR"
       },
       "artists": [
         {
-          "name": "Sunny Sauceda Y Todo Eso",
-          "url": "https://open.spotify.com/artist/2KXYZbOjSl5DpNSFgOqFjP"
+          "name": "MARISELA HERNANDEZ",
+          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
         }
       ],
-      "duration_ms": 231048,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/0fwJhJYyD9tJcroxnKd6ts"
+      "duration_ms": 189231,
+      "name": "Ni Todo el Dinero",
+      "url": "https://open.spotify.com/track/32YP9PixXHJNLHvJWDlleP"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -571,22 +571,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Vac\u00eda",
-        "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
+        "name": "Me Enamor\u00e9 de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
       },
       "artists": [
         {
-          "name": "Destiny Navaira",
-          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
-        },
-        {
-          "name": "Myrza Maldonado",
-          "url": "https://open.spotify.com/artist/4lDrc1fp7FQT0wYguA1cmk"
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
         }
       ],
-      "duration_ms": 180462,
-      "name": "Vac\u00eda",
-      "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
+      "duration_ms": 251239,
+      "name": "Me Enamor\u00e9 de un \u00c1ngel",
+      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -607,18 +603,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Me Enamor\u00e9 de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
+        "name": "Vac\u00eda",
+        "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
       },
       "artists": [
         {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+          "name": "Destiny Navaira",
+          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
+        },
+        {
+          "name": "Myrza Maldonado",
+          "url": "https://open.spotify.com/artist/4lDrc1fp7FQT0wYguA1cmk"
         }
       ],
-      "duration_ms": 251239,
-      "name": "Me Enamor\u00e9 de un \u00c1ngel",
-      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
+      "duration_ms": 180462,
+      "name": "Vac\u00eda",
+      "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -635,22 +635,6 @@
       "duration_ms": 192000,
       "name": "No Quiero Nada",
       "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "No Soy La Misma",
-        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
-      },
-      "artists": [
-        {
-          "name": "Magali Delarosa",
-          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
-        }
-      ],
-      "duration_ms": 224344,
-      "name": "No Soy La Misma",
-      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -675,6 +659,38 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "No Soy La Misma",
+        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
+      },
+      "artists": [
+        {
+          "name": "Magali Delarosa",
+          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
+        }
+      ],
+      "duration_ms": 224344,
+      "name": "No Soy La Misma",
+      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Nunca Me Imagine",
+        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
+      },
+      "artists": [
+        {
+          "name": "Adaly",
+          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
+        }
+      ],
+      "duration_ms": 167507,
+      "name": "Nunca Me Imagine",
+      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
       },
@@ -687,6 +703,22 @@
       "duration_ms": 220003,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Porque Sera",
+        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
+      },
+      "artists": [
+        {
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Porque Sera",
+      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -739,38 +771,6 @@
       "duration_ms": 205438,
       "name": "Final De Tu Amor",
       "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Nunca Me Imagine",
-        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
-      },
-      "artists": [
-        {
-          "name": "Adaly",
-          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
-        }
-      ],
-      "duration_ms": 167507,
-      "name": "Nunca Me Imagine",
-      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Porque Sera",
-        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
-      },
-      "artists": [
-        {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Porque Sera",
-      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
     },
     {
       "added_at": "2022-09-15 18:41:23",

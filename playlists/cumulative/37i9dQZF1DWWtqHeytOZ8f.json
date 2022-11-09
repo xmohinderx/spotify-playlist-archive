@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+    },
+    {
+      "album": {
         "name": "...og lengra (Orchestral Version)",
         "url": "https://open.spotify.com/album/2DJsCZ0wRj07W4H6JAiuly"
       },
@@ -2073,7 +2091,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 285737,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/3OLtGoMhlQNjEctWGN1yDb"
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 377533,
       "name": "Dietrofront",
       "url": "https://open.spotify.com/track/0pD3ZURkGEUYtFgB8DIgIk"
@@ -3243,7 +3261,7 @@
           "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
         }
       ],
-      "date_added": "2022-10-01",
+      "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241447,
@@ -4444,6 +4462,24 @@
     },
     {
       "album": {
+        "name": "Into The Blue",
+        "url": "https://open.spotify.com/album/5VzhW20SptDDaQ3FjjO6IQ"
+      },
+      "artists": [
+        {
+          "name": "Nili Fossae",
+          "url": "https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339348,
+      "name": "Into The Blue",
+      "url": "https://open.spotify.com/track/2Ou5fxpYTS1t0mNCDVzsKx"
+    },
+    {
+      "album": {
         "name": "Phantom Brickworks",
         "url": "https://open.spotify.com/album/3S4zFHeNv6oNLN8H9HXy2w"
       },
@@ -5483,7 +5519,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 178348,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/3oJTvs1FLdka2ogLkXoQNb"
@@ -6149,7 +6185,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 195533,
       "name": "Offing",
       "url": "https://open.spotify.com/track/2jJwqGT5s64ocIUf7SJP6U"
@@ -9027,7 +9063,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 230066,
       "name": "TKATC",
       "url": "https://open.spotify.com/track/5hb4rFD4iNfqOlK1tHCHHt"
@@ -9339,7 +9375,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 168500,
       "name": "Uncertain Instruction",
       "url": "https://open.spotify.com/track/3PUFtJDxqSC2sRefySSHmf"

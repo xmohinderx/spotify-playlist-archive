@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 242204,
+  "num_followers": 242247,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGVlMmM4YTAzZTRkY2IwNzJjZTFiNTkxMWUxOWUzODVl",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGVkNjNmNTg4NjEwMDkwMTMxMzU3ZDEzNzU4MDhmOWI1",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -63,22 +63,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Gallows",
-        "url": "https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 211472,
-      "name": "Billy",
-      "url": "https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Besidju",
         "url": "https://open.spotify.com/album/07vja1cbDBcvT9CpJAnf0c"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 107441,
       "name": "Besidju",
       "url": "https://open.spotify.com/track/3nUyfV0XhG8sysUfgEDmdI"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Gallows",
+        "url": "https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 211472,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -271,22 +271,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Bet She Looks Like You",
-      "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Old Compilation 3",
         "url": "https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 146864,
       "name": "thankful",
       "url": "https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Where Will We Go, Pt. 2",
+        "url": "https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 299839,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -419,8 +419,28 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Where Will We Go, Pt. 2",
-        "url": "https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc"
+        "name": "Theres Still Us",
+        "url": "https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3"
+      },
+      "artists": [
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        },
+        {
+          "name": "shiloh",
+          "url": "https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn"
+        }
+      ],
+      "duration_ms": 157413,
+      "name": "I'm sorry",
+      "url": "https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
       },
       "artists": [
         {
@@ -428,33 +448,9 @@
           "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
         }
       ],
-      "duration_ms": 299839,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
-        "url": "https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 200504,
-      "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
-      "url": "https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM"
+      "duration_ms": 225360,
+      "name": "Bet She Looks Like You",
+      "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -483,22 +479,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Theres Still Us",
-        "url": "https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3"
+        "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
+        "url": "https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0"
       },
       "artists": [
         {
-          "name": "Swell",
-          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         },
         {
-          "name": "shiloh",
-          "url": "https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn"
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
         }
       ],
-      "duration_ms": 157413,
-      "name": "I'm sorry",
-      "url": "https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp"
+      "duration_ms": 200504,
+      "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
+      "url": "https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM"
     },
     {
       "added_at": "2019-09-16 15:44:25",
@@ -539,6 +539,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Lagoon",
         "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Self Edit",
-        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
-      },
-      "artists": [
-        {
-          "name": "Vesce",
-          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
-        }
-      ],
-      "duration_ms": 236842,
-      "name": "Zender",
-      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Cycle",
         "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
       },
@@ -603,18 +603,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+        "name": "Self Edit",
+        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
       },
       "artists": [
         {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+          "name": "Vesce",
+          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
         }
       ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
+      "duration_ms": 236842,
+      "name": "Zender",
+      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Surf",
-        "url": "https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig"
-      },
-      "artists": [
-        {
-          "name": "Common Tiger",
-          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "After the Tone with Lossapardo",
         "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 153700,
       "name": "After the Tone with Lossapardo",
       "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Surf",
+        "url": "https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig"
+      },
+      "artists": [
+        {
+          "name": "Common Tiger",
+          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
+        }
+      ],
+      "duration_ms": 175412,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -987,22 +987,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "EP 2",
-        "url": "https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4"
-      },
-      "artists": [
-        {
-          "name": "Only Emily",
-          "url": "https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT"
-        }
-      ],
-      "duration_ms": 170404,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Small Clan",
         "url": "https://open.spotify.com/album/4KxYum9GpJC5SweO143o6K"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 232312,
       "name": "Yellow Dust",
       "url": "https://open.spotify.com/track/2qyY0gUp1hpDjVQlDshWWX"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "EP 2",
+        "url": "https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4"
+      },
+      "artists": [
+        {
+          "name": "Only Emily",
+          "url": "https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT"
+        }
+      ],
+      "duration_ms": 170404,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1033,20 +1033,20 @@
       "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
+      "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/7dpk0QXdjtRSLqkbFnBSKg"
+        "name": "Passionfruit Falls",
+        "url": "https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l"
       },
       "artists": [
         {
-          "name": "Jack Grace",
-          "url": "https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB"
+          "name": "Brother Mynor",
+          "url": "https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq"
         }
       ],
-      "duration_ms": 216140,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9"
+      "duration_ms": 101469,
+      "name": "The Falls",
+      "url": "https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS"
     }
   ],
   "unique_name": "Mellow Mood",

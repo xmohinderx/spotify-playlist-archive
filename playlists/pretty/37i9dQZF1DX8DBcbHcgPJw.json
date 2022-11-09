@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: El Polaco & La China.",
-  "num_followers": 1144711,
+  "num_followers": 1144846,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0MDYyOCwwMDAwMDAwMDFjYzgxNzRhYWVkZWQ2ZTBiZTRhYTNmOGE5YTdlMzgw",
+  "snapshot_id": "MTY2Nzg0MDYyOCwwMDAwMDAwMDgxNGZhNGNkMWQ4MjNiNWE1M2EzZjVmZjk0NTZmMjMw",
   "tracks": [
     {
       "added_at": "2022-11-07 17:03:48",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-11-07 17:03:48",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2022-11-07 17:03:48",
-      "album": {
         "name": "No Te Contaron Mal",
         "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 176864,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
+    },
+    {
+      "added_at": "2022-11-07 17:03:48",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2022-11-07 17:03:48",
@@ -895,18 +895,22 @@
     {
       "added_at": "2022-11-07 17:03:48",
       "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
         }
       ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+      "duration_ms": 201804,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
     },
     {
       "added_at": "2022-11-07 17:03:48",
@@ -951,22 +955,18 @@
     {
       "added_at": "2022-11-07 17:03:48",
       "album": {
-        "name": "No Se Va",
-        "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
       },
       "artists": [
         {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        },
-        {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
         }
       ],
-      "duration_ms": 201804,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
     },
     {
       "added_at": "2022-11-07 17:03:48",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-11-07 17:03:48",
       "album": {
+        "name": "Resaca",
+        "url": "https://open.spotify.com/album/24dXMmQ2y8B7GAeNcZwHtt"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 135728,
+      "name": "Resaca",
+      "url": "https://open.spotify.com/track/1yz9PtGQrEwvTCYvvFKq4g"
+    },
+    {
+      "added_at": "2022-11-07 17:03:48",
+      "album": {
         "name": "Lo Intentamos (feat. Grupo Play)",
         "url": "https://open.spotify.com/album/3JfEpmUsapYmTveLcrD96x"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 192000,
       "name": "Lo Intentamos (feat. Grupo Play)",
       "url": "https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr"
-    },
-    {
-      "added_at": "2022-11-07 17:03:48",
-      "album": {
-        "name": "Resaca",
-        "url": "https://open.spotify.com/album/24dXMmQ2y8B7GAeNcZwHtt"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 135728,
-      "name": "Resaca",
-      "url": "https://open.spotify.com/track/1yz9PtGQrEwvTCYvvFKq4g"
     },
     {
       "added_at": "2022-11-07 17:03:48",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2022-11-07 17:03:48",
       "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+        "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
+        "url": "https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
         }
       ],
-      "duration_ms": 176640,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU"
+      "duration_ms": 241461,
+      "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
+      "url": "https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft"
     },
     {
       "added_at": "2022-11-07 17:03:48",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2022-11-07 17:03:48",
       "album": {
-        "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
-        "url": "https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5"
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
       "artists": [
         {
-          "name": "Marito",
-          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 241461,
-      "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
-      "url": "https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft"
+      "duration_ms": 176640,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU"
     },
     {
       "added_at": "2022-11-07 17:03:48",
@@ -1823,26 +1823,18 @@
     {
       "added_at": "2022-11-07 17:03:48",
       "album": {
-        "name": "El Trato (Remix)",
-        "url": "https://open.spotify.com/album/4igopBx6HMw2NVxX0R3sOv"
+        "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
+        "url": "https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7"
       },
       "artists": [
         {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
         }
       ],
-      "duration_ms": 143529,
-      "name": "El Trato - Remix",
-      "url": "https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w"
+      "duration_ms": 494464,
+      "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
+      "url": "https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

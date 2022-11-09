@@ -4,7 +4,7 @@
 
 > Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:0W4rRhGtsRNewRb2pNPsdp">Cate</a>
 
-432 songs - 21 hr 55 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+433 songs - 21 hr 59 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Eleven](https://open.spotify.com/track/43kunJHghKGr4PDeTi86Gr) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x) | 5:38 | 2022-06-09 | 2022-07-28 |
 | [erasmus](https://open.spotify.com/track/5rm5BSRzvB22JIzYohX8ag) | [polare](https://open.spotify.com/artist/6U6S3xGYUwp8garTHJiYcJ) | [erasmus](https://open.spotify.com/album/7BILEEBYoTNGYgFc0xiu8K) | 2:57 | 2022-09-11 | 2022-10-15 |
 | [ESAGERO EMOZIONI](https://open.spotify.com/track/4LwFRgfMW5LCStueaVtGh8) | [FDP](https://open.spotify.com/artist/5vX1tbFG6NuGSbwWO420JO), [Zerbo](https://open.spotify.com/artist/3cxzA1W08BBDKlAtVG09Zg) | [ESAGERO EMOZIONI](https://open.spotify.com/album/5PPlMx6qAuRLiIm8IEYpqJ) | 3:30 | 2022-05-19 | 2022-06-03 |
+| [Eschimesi](https://open.spotify.com/track/5G3T5ETovffghUBQJPptEr) | [Serepocaiontas](https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2) | [Eschimesi](https://open.spotify.com/album/30gRbR1k9vGXG83zoNYBQD) | 3:45 | 2022-11-08 |  |
 | [Essere Luce](https://open.spotify.com/track/5id3YaYmvIT7hwxei64WST) | [Bianelle](https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g) | [Essere Luce](https://open.spotify.com/album/22BJjsYEva9pQnKYxeo9mk) | 2:42 | 2022-02-17 | 2022-02-24 |
 | [Fantasia](https://open.spotify.com/track/1hEsQqngL8iq7IwsoTjB9O) | [Cascate](https://open.spotify.com/artist/7cG5p7UFGDKEZlFE351bX4) | [Fantasia](https://open.spotify.com/album/2RGUJun6AQFdrsZ29xy37C) | 2:49 | 2022-05-05 | 2022-06-03 |
 | [Fantasma quattro](https://open.spotify.com/track/5av6NKEUJksROjH1AayoEw) | [Sonambient](https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn) | [Fantasma quattro](https://open.spotify.com/album/0oZgsmX3fhOoZlhvrTfvGH) | 3:29 | 2022-04-26 | 2022-06-03 |
@@ -294,7 +295,7 @@
 | [Pirati](https://open.spotify.com/track/5ipWXlmwltaLQCsBzoRizT) | [Barberini](https://open.spotify.com/artist/2jOreV30iFYcXc8qEzt9yH) | [Pirati](https://open.spotify.com/album/1DXxshEJz5EEX8aJyU29XI) | 5:01 | 2022-09-15 | 2022-10-14 |
 | [Plastica](https://open.spotify.com/track/1P7eaFyOFgj6hLIEgTWKRh) | [Brividee](https://open.spotify.com/artist/3Aii0XCq5MDf7ZlxK0ZNHo) | [Controluce](https://open.spotify.com/album/1zu61ZwipzAOrHSbDXsG1I) | 3:27 | 2022-01-06 | 2022-02-18 |
 | [Plata o Plomo](https://open.spotify.com/track/6df02d2Z4huWdCHC3Z11za) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [Plata o Plomo](https://open.spotify.com/album/1xwusIAkk54BU8cuDJJqSQ) | 2:15 | 2022-03-03 | 2022-03-25 |
-| [Plenilunio](https://open.spotify.com/track/6IZBQhT4RNSTreDogeiCfa) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Plenilunio](https://open.spotify.com/album/44715EEdXOjoBebHPBwoeh) | 2:58 | 2022-09-29 |  |
+| [Plenilunio](https://open.spotify.com/track/6IZBQhT4RNSTreDogeiCfa) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Plenilunio](https://open.spotify.com/album/44715EEdXOjoBebHPBwoeh) | 2:58 | 2022-09-29 | 2022-11-09 |
 | [Politecnico Poliamore](https://open.spotify.com/track/1yUM7puCgxMvx4xrNn9VCe) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h), [Aegeminus](https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN) | [Politecnico Poliamore](https://open.spotify.com/album/5rDxDO36cXKDuHo6kbw4aT) | 3:14 | 2022-06-23 | 2022-07-15 |
 | [Pollock](https://open.spotify.com/track/2j5pBhfttpnIHdq3I5wNpa) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Pollock](https://open.spotify.com/album/0yGaLl4h8H4VWpAZLXiwYC) | 3:19 | 2022-11-03 |  |
 | [Ponte](https://open.spotify.com/track/4ZLia1jhMrt19l5kOnCHFa) | [Everest Magma](https://open.spotify.com/artist/3NB3jpSQ4F2Ief62BpDCFs) | [Ponte](https://open.spotify.com/album/7Hu1zd5XYvUcMTd4GpIIu9) | 2:49 | 2022-10-10 |  |

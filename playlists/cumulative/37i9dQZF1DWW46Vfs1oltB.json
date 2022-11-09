@@ -3976,6 +3976,24 @@
     },
     {
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/2zpEkut1D2xF0daaWj8lYt"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184354,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj"
+    },
+    {
+      "album": {
         "name": "EXN\u2019S ANSWER",
         "url": "https://open.spotify.com/album/6XvtA8g7YfYlHKWyqT9wsd"
       },

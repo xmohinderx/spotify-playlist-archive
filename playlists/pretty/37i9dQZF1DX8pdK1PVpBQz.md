@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Breakfast Road\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,166 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,186 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 5 | [Only If U](https://open.spotify.com/track/3gAGOLayBLPJEMioVXDGiO) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Only If U](https://open.spotify.com/album/1mYb9Ta4BwGrSI4qjhCdxN) | 5:14 |
 | 6 | [Getting Down](https://open.spotify.com/track/2MobfDigHK3xfkAbPrkyCI) | [Sid's Balcony](https://open.spotify.com/artist/3xaYtryvMV4jdpx3h4Ydaq) | [Getting Down](https://open.spotify.com/album/41MDMdTH0aHm1K3uOdAP19) | 3:31 |
 | 7 | [Undertage](https://open.spotify.com/track/08x26MJvpc24cUOURxFsfA) | [Huntly](https://open.spotify.com/artist/2bFydRBKiUxGmZg0MIjGpU) | [Undertage](https://open.spotify.com/album/5a03G2kqUndOGTrtMtr3im) | 3:50 |
-| 8 | [Take Off](https://open.spotify.com/track/1i4to6HDLB4v41wPz9hUa1) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [SOLLYY](https://open.spotify.com/artist/5o3ky21CO5rHdwTNvLBMGo) | [Take Off](https://open.spotify.com/album/3baRS0atOGXgfCMHCxFjvW) | 3:18 |
+| 8 | [Take Off](https://open.spotify.com/track/1i4to6HDLB4v41wPz9hUa1) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf) | [Take Off](https://open.spotify.com/album/3baRS0atOGXgfCMHCxFjvW) | 3:18 |
 | 9 | [Wasn't It Good](https://open.spotify.com/track/2Nqg9XEjLFhAXkjKS8vl0b) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Rose Avenue, Vol\. 1](https://open.spotify.com/album/7flxO7TtfIHCrVAShFTkyY) | 3:08 |
 | 10 | [Smoke And Mirrors](https://open.spotify.com/track/4KUpE2yfsoti9ztAwFV2Qj) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [April](https://open.spotify.com/album/3AtQ9Xv3mByZMz4xb7jvZA) | 3:48 |
 | 11 | [North Africa](https://open.spotify.com/track/5Hxt6SI3YUaW8oatH5yMAU) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa) | [North Africa](https://open.spotify.com/album/1YHrjXshr4bkzDP9lOwaBu) | 6:02 |

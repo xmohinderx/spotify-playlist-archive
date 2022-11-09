@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35208,
+  "num_followers": 35223,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDAxMGM5ZWU4ZGY0YzU5NWZhMzY1NTVkMjVjZWYyYTQ5",
+  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDlhZjU4YzBjYmQ1ZDEwZTQxYjg4ZWY0YWMxOTc1MjEy",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 196682,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "froge.mp3",
         "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 178520,
       "name": "say it",
       "url": "https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 196682,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 175508,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Pretty Face",
         "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
       },
@@ -899,18 +883,34 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "LUCID",
-        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
         }
       ],
-      "duration_ms": 218108,
-      "name": "LUCID",
-      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
+      "duration_ms": 175508,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "East End Coast",
+        "url": "https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 226035,
+      "name": "East End Coast",
+      "url": "https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "East End Coast",
-        "url": "https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU"
+        "name": "LUCID",
+        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
       },
       "artists": [
         {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 226035,
-      "name": "East End Coast",
-      "url": "https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2"
+      "duration_ms": 218108,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Ain't Got No Friends",
-        "url": "https://open.spotify.com/album/3OWRyVAA36otEE4Rn50wok"
-      },
-      "artists": [
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
-        }
-      ],
-      "duration_ms": 147381,
-      "name": "Ain't Got No Friends",
-      "url": "https://open.spotify.com/track/579xAs0iqnYWRZQJfjAW9U"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Stormy Skies (Diamonds)",
         "url": "https://open.spotify.com/album/0bVupaVa9nDw44G0kBCDlv"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 213924,
       "name": "Stormy Skies (Diamonds)",
       "url": "https://open.spotify.com/track/2bltEK2s3RtxoYMSMiSwX1"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Ain't Got No Friends",
+        "url": "https://open.spotify.com/album/3OWRyVAA36otEE4Rn50wok"
+      },
+      "artists": [
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "duration_ms": 147381,
+      "name": "Ain't Got No Friends",
+      "url": "https://open.spotify.com/track/579xAs0iqnYWRZQJfjAW9U"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 171228,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Sister Ray",
         "url": "https://open.spotify.com/album/1hvYAoC2BdhbvLwj0EIADJ"
       },
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
-      },
-      "artists": [
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 171228,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Favourite Song",
         "url": "https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh"
       },
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/7dv1qULsTHmYJMMZXsjNTu"
+        "name": "good thing",
+        "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
       },
       "artists": [
         {
-          "name": "RVBY",
-          "url": "https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2"
+          "name": "emie nathan",
+          "url": "https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB"
         }
       ],
-      "duration_ms": 201951,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/4HMGAw9e1Re6ci4fChdEvj"
+      "duration_ms": 142480,
+      "name": "good thing",
+      "url": "https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1211,22 +1211,6 @@
       "duration_ms": 212503,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "good thing",
-        "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
-      },
-      "artists": [
-        {
-          "name": "emie nathan",
-          "url": "https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB"
-        }
-      ],
-      "duration_ms": 142480,
-      "name": "good thing",
-      "url": "https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1279,22 +1263,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Street Lights",
-        "url": "https://open.spotify.com/album/5ZjBO7Cg1sFL5AjHKPeVKi"
-      },
-      "artists": [
-        {
-          "name": "Florrie",
-          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Street Lights",
-      "url": "https://open.spotify.com/track/3WtLTBXsK5rhp312oKlCpl"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Meet You There",
         "url": "https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e"
       },
@@ -1307,6 +1275,22 @@
       "duration_ms": 178470,
       "name": "You Give Me More",
       "url": "https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "One Of Those Days",
+        "url": "https://open.spotify.com/album/7LvYLEwoGiAJfb6vvq90Py"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 208563,
+      "name": "One of Those Days",
+      "url": "https://open.spotify.com/track/1Ircz8F9jlgC59clzg28Tu"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1339,6 +1323,22 @@
       "duration_ms": 246750,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Never Get It Right",
+        "url": "https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe"
+      },
+      "artists": [
+        {
+          "name": "Ines Rae",
+          "url": "https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Never Get It Right",
+      "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
     }
   ],
   "unique_name": "Wholesome",

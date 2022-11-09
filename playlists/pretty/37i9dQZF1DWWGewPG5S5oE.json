@@ -1,15 +1,35 @@
 {
-  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002cover: \u548c\u4e45\u4e95\u6c99\u826f",
-  "num_followers": 19228,
+  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002cover: \u6cb3\u91ce\u7950\u4eae",
+  "num_followers": 19287,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzMxNDgwMCwwMDAwMDAwMGZhNmMwNWMyMTZmNWM2NzI1ZGI2Nzk5Yjk4M2JhYmFl",
+  "snapshot_id": "MTY2NzkxOTYwMCwwMDAwMDAwMGFhMjAxZmUwMWQ0MzhmMGM5NDZlMTNkZWIzMjYxOTBj",
   "tracks": [
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
+        "name": "3rd",
+        "url": "https://open.spotify.com/album/0pYrvqsHxb63zU0wOZGikc"
+      },
+      "artists": [
+        {
+          "name": "\u6cb3\u91ce\u7950\u4eae\u30d4\u30a2\u30ce\u30c8\u30ea\u30aa",
+          "url": "https://open.spotify.com/artist/092IE7fBMbMQLHhKgVPfPE"
+        },
+        {
+          "name": "\u6cb3\u91ce\u7950\u4eae",
+          "url": "https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "3rd",
+      "url": "https://open.spotify.com/track/1s7v6fKiwjEwfr5Zs47A10"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "tietie",
         "url": "https://open.spotify.com/album/5QN9QmFzpMU0Et8mqbSvdb"
@@ -33,7 +53,7 @@
       "url": "https://open.spotify.com/track/22QIfhCJOZweyxywstzKVy"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Wind Loop Case",
         "url": "https://open.spotify.com/album/5V0lIK6rdfCCJl8ZxPRml0"
@@ -53,27 +73,7 @@
       "url": "https://open.spotify.com/track/6OYXXJAqJhTlFwr7rrJIdV"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
-        "name": "Rising Son",
-        "url": "https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd"
-      },
-      "artists": [
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
-        },
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 565502,
-      "name": "Everybody Loves The Sunshine",
-      "url": "https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "gnome",
         "url": "https://open.spotify.com/album/5GoIKRfkH5A11hbwrJImVV"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/38AFhyf8NXJWsra76yd8m4"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Red Lightning",
         "url": "https://open.spotify.com/album/6d7yeq3RIbu5dRXWvq094C"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/7z8y7GvjS0X2BwDJGThY7y"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Gris et Liberte (Instrumental)",
         "url": "https://open.spotify.com/album/7lfafdRUa09dtEvcO0cB6J"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/6s65YPAcJvDlwr39acdfBd"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "\u307b\u3068\u308a",
         "url": "https://open.spotify.com/album/6gpUCKIj7g6zGXlzkJcWBj"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/0pxQ9OIN7NLZiZAX2C5B7H"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Crossing Reality",
         "url": "https://open.spotify.com/album/1D26JQHB9n7RDINZ5O8tXe"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/1QLz0xLqYiTLH1wgFH6syY"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Mr.Kelp",
         "url": "https://open.spotify.com/album/397OakmJY7vTlw15J9b1dK"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/78AsSev9SxDU4H1TNOpeQr"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "\u5177\u7e04",
         "url": "https://open.spotify.com/album/2KqcYIchslRedPNFe8MPuL"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/3FuM8gmydIY2D4Q4BYvMTP"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/5Rf11k7OdhnxUAs5EuGadY"
@@ -217,7 +217,27 @@
       "url": "https://open.spotify.com/track/5dQBgiQpBL3OUog4yJiWnz"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
+        "name": "Rising Son",
+        "url": "https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd"
+      },
+      "artists": [
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        },
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 565502,
+      "name": "Everybody Loves The Sunshine",
+      "url": "https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "qualia",
         "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
@@ -233,7 +253,7 @@
       "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "\u4e09\u6587\u30b4\u30b7\u30c3\u30d7",
         "url": "https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm"
@@ -253,23 +273,7 @@
       "url": "https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
-        "name": "ROUTE 20 HIT THE ROAD",
-        "url": "https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT"
-      },
-      "artists": [
-        {
-          "name": "EGO-WRAPPIN\u2019",
-          "url": "https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "\u304f\u3061\u3070\u3057\u306b\u30c1\u30a7\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "We'll be always on your side",
         "url": "https://open.spotify.com/album/5qD1q5sIgRJaU1mnvtdwHT"
@@ -285,7 +289,39 @@
       "url": "https://open.spotify.com/track/1i5dlXpWm2qyygCqeaGPD5"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
+        "name": "ROUTE 20 HIT THE ROAD",
+        "url": "https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT"
+      },
+      "artists": [
+        {
+          "name": "EGO-WRAPPIN\u2019",
+          "url": "https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "\u304f\u3061\u3070\u3057\u306b\u30c1\u30a7\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
+        "name": "\u4eca\u65e5\u3001\u660e\u65e5",
+        "url": "https://open.spotify.com/album/5F2ivWiZ8ABtYHib8KWQ4E"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "\u4eca\u65e5\u3001\u660e\u65e5",
+      "url": "https://open.spotify.com/track/0hbipI6H7ZniYEiUYTZjpl"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev"
@@ -309,23 +345,7 @@
       "url": "https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
-        "name": "\u4eca\u65e5\u3001\u660e\u65e5",
-        "url": "https://open.spotify.com/album/5F2ivWiZ8ABtYHib8KWQ4E"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "\u4eca\u65e5\u3001\u660e\u65e5",
-      "url": "https://open.spotify.com/track/0hbipI6H7ZniYEiUYTZjpl"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Dear Family",
         "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
@@ -345,23 +365,7 @@
       "url": "https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
-        "name": "Looking Back / Paint It Black",
-        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
-      },
-      "artists": [
-        {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
-        }
-      ],
-      "duration_ms": 221247,
-      "name": "Looking Back",
-      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "The Moon, Its Recollections Abstracted",
         "url": "https://open.spotify.com/album/0rqPzyBcDq8xO4UCn0gIw8"
@@ -389,23 +393,7 @@
       "url": "https://open.spotify.com/track/0lGNdeRWLqaMgiaRgbRiKW"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
-        "name": "ROUTE 20 HIT THE ROAD",
-        "url": "https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT"
-      },
-      "artists": [
-        {
-          "name": "EGO-WRAPPIN\u2019",
-          "url": "https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX"
-        }
-      ],
-      "duration_ms": 333843,
-      "name": "\u8272\u5f69\u306e\u30d6\u30eb\u30fc\u30b9",
-      "url": "https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD"
@@ -421,7 +409,23 @@
       "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
+        "name": "Looking Back / Paint It Black",
+        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "duration_ms": 221247,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "UNITY",
         "url": "https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV"
@@ -437,7 +441,7 @@
       "url": "https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af OUTSIDE",
         "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
@@ -453,23 +457,23 @@
       "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH"
+        "name": "ROUTE 20 HIT THE ROAD",
+        "url": "https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT"
       },
       "artists": [
         {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+          "name": "EGO-WRAPPIN\u2019",
+          "url": "https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX"
         }
       ],
-      "duration_ms": 321346,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
+      "duration_ms": 333843,
+      "name": "\u8272\u5f69\u306e\u30d6\u30eb\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Organic Plastic Music",
         "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
@@ -485,7 +489,7 @@
       "url": "https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "The Unknown",
         "url": "https://open.spotify.com/album/5HDcwGJboLB2BG1qAtYRaq"
@@ -501,7 +505,23 @@
       "url": "https://open.spotify.com/track/3b4t9KTy40eagXOvLavU1U"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        }
+      ],
+      "duration_ms": 321346,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Orange Mug",
         "url": "https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS"
@@ -517,23 +537,7 @@
       "url": "https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 256360,
-      "name": "\u4e59\u5973\u306e\u7948\u308a",
-      "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Making Us Alive (Live)",
         "url": "https://open.spotify.com/album/6XKlNZcHNiWIh0T1bKcr6y"
@@ -549,7 +553,23 @@
       "url": "https://open.spotify.com/track/4o0FeJv0qP71n5JfgKZSgL"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 256360,
+      "name": "\u4e59\u5973\u306e\u7948\u308a",
+      "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "M-P-C \"Mentality, Physicality, Computer\"",
         "url": "https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD"
@@ -569,23 +589,7 @@
       "url": "https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
-        "name": "MISIA SOUL JAZZ SESSION",
-        "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
-      },
-      "artists": [
-        {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
-        }
-      ],
-      "duration_ms": 350880,
-      "name": "It's just love",
-      "url": "https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Ishonsho Abe",
         "url": "https://open.spotify.com/album/62Io1sWPF4COlD4jBApYk5"
@@ -601,23 +605,23 @@
       "url": "https://open.spotify.com/track/7tPh9tj8JNZITMuEN8iDOK"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
-        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
+        "name": "MISIA SOUL JAZZ SESSION",
+        "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
       },
       "artists": [
         {
-          "name": "ADAM at",
-          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
         }
       ],
-      "duration_ms": 247893,
-      "name": "Moonlight Syndrome",
-      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
+      "duration_ms": 350880,
+      "name": "It's just love",
+      "url": "https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "PIANOTALE",
         "url": "https://open.spotify.com/album/0FtP1dhqgP2gS2hKkSAMnO"
@@ -637,7 +641,23 @@
       "url": "https://open.spotify.com/track/4YtvTTg4uE31kyFhCRC9Vw"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
+        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
+      },
+      "artists": [
+        {
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Moonlight Syndrome",
+      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Midnight Crisp",
         "url": "https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG"
@@ -653,7 +673,7 @@
       "url": "https://open.spotify.com/track/44egUa8FkT17spwSFvQis6"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "City Creatures",
         "url": "https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559"
@@ -673,7 +693,7 @@
       "url": "https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "\u30dc\u30c3\u30b5\u30fb\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
         "url": "https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg"
@@ -689,7 +709,27 @@
       "url": "https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
+        "name": "Spain",
+        "url": "https://open.spotify.com/album/3LOZ21HBgvxGVdytLCdkoE"
+      },
+      "artists": [
+        {
+          "name": "Iori Kimura",
+          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
+        },
+        {
+          "name": "\u6728\u6751\u4ec1\u661f",
+          "url": "https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8"
+        }
+      ],
+      "duration_ms": 311233,
+      "name": "Spain",
+      "url": "https://open.spotify.com/track/2MAcJ1Z0ShlQPDXPWsZwwc"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
         "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
@@ -713,27 +753,7 @@
       "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
-        "name": "Spain",
-        "url": "https://open.spotify.com/album/3LOZ21HBgvxGVdytLCdkoE"
-      },
-      "artists": [
-        {
-          "name": "Iori Kimura",
-          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
-        },
-        {
-          "name": "\u6728\u6751\u4ec1\u661f",
-          "url": "https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8"
-        }
-      ],
-      "duration_ms": 311233,
-      "name": "Spain",
-      "url": "https://open.spotify.com/track/2MAcJ1Z0ShlQPDXPWsZwwc"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "EVENING!",
         "url": "https://open.spotify.com/album/6Fx9cVaFK9sjeXjQbPoOrf"
@@ -749,7 +769,7 @@
       "url": "https://open.spotify.com/track/2qsEXWB1PgF9cYFvryo7F2"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Futurez",
         "url": "https://open.spotify.com/album/4iK5RotnCqsb4hBtluRXn5"
@@ -765,7 +785,7 @@
       "url": "https://open.spotify.com/track/3NTaVjpl7VY1RGWd6RGroz"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "NEW",
         "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "MISIA SOUL JAZZ SESSION",
         "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "Voice",
         "url": "https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04"
@@ -821,10 +841,10 @@
       "url": "https://open.spotify.com/track/0XRBOfz9bPhjazuQCcRkbJ"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
+        "name": "Squall",
+        "url": "https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj"
       },
       "artists": [
         {
@@ -832,12 +852,12 @@
           "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
         }
       ],
-      "duration_ms": 247800,
-      "name": "Spartacus",
-      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
+      "duration_ms": 236907,
+      "name": "Squall",
+      "url": "https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "MOMENTS",
         "url": "https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD"
@@ -853,23 +873,7 @@
       "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
-        "name": "NEW",
-        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
-      },
-      "artists": [
-        {
-          "name": "JABBERLOOP",
-          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
-        }
-      ],
-      "duration_ms": 300560,
-      "name": "Red Ocean",
-      "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
         "name": "83",
         "url": "https://open.spotify.com/album/5Y9LSZnzVuGGW61KdcYdI4"
@@ -885,24 +889,20 @@
       "url": "https://open.spotify.com/track/75R36NibuUqvqaksKHAhLn"
     },
     {
-      "added_at": "2022-11-01 15:00:00",
+      "added_at": "2022-11-08 15:00:00",
       "album": {
-        "name": "Dear Family",
-        "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
+        "name": "NEW",
+        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
       },
       "artists": [
         {
-          "name": "\u6851\u539f\u3042\u3044",
-          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
-        },
-        {
-          "name": "Shun Ishiwaka",
-          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
         }
       ],
-      "duration_ms": 132853,
-      "name": "The Great U's Train",
-      "url": "https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v"
+      "duration_ms": 300560,
+      "name": "Red Ocean",
+      "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
     }
   ],
   "unique_name": "Modern Jazz Japan",

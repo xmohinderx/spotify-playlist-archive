@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 353093,
       "name": "1STAR",
       "url": "https://open.spotify.com/track/71WkT8jdbJeb5mgNhzo8oU"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 237693,
       "name": "Main theme of Lovelive! Sunshine!!",
       "url": "https://open.spotify.com/track/4vuY0yDpiLv517pZacpYOQ"
@@ -666,6 +666,24 @@
     },
     {
       "album": {
+        "name": "\u308f\u30fc\u3044\u308f\u3044\u308f\u3044 \u308f\u3044\u308f\u3044\u308f\u3044!",
+        "url": "https://open.spotify.com/album/2OHTwcMbvQRnUkWeZSbDe4"
+      },
+      "artists": [
+        {
+          "name": "\u308f\u3044\u308f\u3044\u308f\u3044",
+          "url": "https://open.spotify.com/artist/2KkZ1TSYd3qY6cdB3RpKz6"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193224,
+      "name": "\u308f\u30fc\u3044\u308f\u3044\u308f\u3044 \u308f\u3044\u308f\u3044\u308f\u3044!",
+      "url": "https://open.spotify.com/track/23Fqi9wj9HeaQAzPIypZdR"
+    },
+    {
+      "album": {
         "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
         "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
       },
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 272266,
       "name": "\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
       "url": "https://open.spotify.com/track/51118cg0D9k0F952AGtNou"

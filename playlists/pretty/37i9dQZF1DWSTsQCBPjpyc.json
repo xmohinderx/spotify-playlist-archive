@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 16141,
+  "num_followers": 16187,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGNiZGYzYWJiNDJjYTU1ZjM5N2FkOWNiNjVmMTA3YjQ2",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGY1N2IxMWI0YjdlMTM5YjcyYzYxZTEwOGU3OTQ0ZTA4",
   "tracks": [
     {
       "added_at": "2022-11-07 19:08:41",
@@ -181,22 +181,6 @@
       "url": "https://open.spotify.com/track/3wFhY7dmKE6hrEJfFLFavB"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Exception To The Rule",
-        "url": "https://open.spotify.com/album/5FxJK4mJFKdK9u9sCJG19b"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "Nasty Habits",
-      "url": "https://open.spotify.com/track/2psM3gc6ZkCyTZdZHzqcmV"
-    },
-    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -215,6 +199,22 @@
       "duration_ms": 181939,
       "name": "Going to the Party",
       "url": "https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Exception To The Rule",
+        "url": "https://open.spotify.com/album/5FxJK4mJFKdK9u9sCJG19b"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "Nasty Habits",
+      "url": "https://open.spotify.com/track/2psM3gc6ZkCyTZdZHzqcmV"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Cover To Cover",
-        "url": "https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5"
-      },
-      "artists": [
-        {
-          "name": "The Jeff Healey Band",
-          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
-        }
-      ],
-      "duration_ms": 246360,
-      "name": "The Moon Is Full",
-      "url": "https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu"
-    },
-    {
       "added_at": "2022-01-28 05:00:00",
       "album": {
         "name": "Crown",
@@ -655,6 +639,22 @@
       "duration_ms": 183520,
       "name": "Take Me Just As I Am",
       "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Cover To Cover",
+        "url": "https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5"
+      },
+      "artists": [
+        {
+          "name": "The Jeff Healey Band",
+          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
+        }
+      ],
+      "duration_ms": 246360,
+      "name": "The Moon Is Full",
+      "url": "https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/4ihshArvoPJsADnFAg889U"
     },
     {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "Fire It Up",
-        "url": "https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn"
-      },
-      "artists": [
-        {
-          "name": "Steve Cropper",
-          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
-        }
-      ],
-      "duration_ms": 193010,
-      "name": "I'm Not Havin' It",
-      "url": "https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Iceman",
@@ -851,6 +835,22 @@
       "duration_ms": 250333,
       "name": "I'm Beginning To Wonder",
       "url": "https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z"
+    },
+    {
+      "added_at": "2021-04-23 04:01:00",
+      "album": {
+        "name": "Fire It Up",
+        "url": "https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn"
+      },
+      "artists": [
+        {
+          "name": "Steve Cropper",
+          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
+        }
+      ],
+      "duration_ms": 193010,
+      "name": "I'm Not Havin' It",
+      "url": "https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl"
     }
   ],
   "unique_name": "Funky Blues",

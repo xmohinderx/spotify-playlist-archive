@@ -7907,7 +7907,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 99373,
       "name": "SPHERE",
       "url": "https://open.spotify.com/track/7z5sMgAaXOcToQhgynYjHG"
@@ -8457,7 +8457,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 158117,
       "name": "Swing",
       "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
@@ -9598,6 +9598,28 @@
     },
     {
       "album": {
+        "name": "wooden piano",
+        "url": "https://open.spotify.com/album/5hwhvjxUQrZslxfCpduJZq"
+      },
+      "artists": [
+        {
+          "name": "mimii",
+          "url": "https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA"
+        },
+        {
+          "name": "Lazy Noodles",
+          "url": "https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80842,
+      "name": "wooden piano",
+      "url": "https://open.spotify.com/track/6nZ5BZikC0DyOFpInapHCn"
+    },
+    {
+      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/4GbRETxpxr4bikdN7bj5HN"
       },
@@ -9733,7 +9755,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 155670,
       "name": "Yufuin",
       "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"

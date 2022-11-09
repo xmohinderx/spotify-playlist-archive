@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 115089,
+  "num_followers": 115161,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMDIxMTM1MWU4NTdmZjIwMWNkZDRhZmIxMzZkM2YzMGU1",
+  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMDMyZDM0ZGY4ODIzZTA5ZGFhMzUxNDBiYTNjNzgxZmJi",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Slippin' N' Trippin'",
-        "url": "https://open.spotify.com/album/5GRTkxq12ZgkGQU52izAXj"
-      },
-      "artists": [
-        {
-          "name": "Victor Bailey",
-          "url": "https://open.spotify.com/artist/1aTPRuTpqvuPpAps3FhBhe"
-        }
-      ],
-      "duration_ms": 146306,
-      "name": "Countdown",
-      "url": "https://open.spotify.com/track/3nbHF2EX8IQwNGMlp9EviS"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "A Show of Hands 15",
         "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 317346,
       "name": "Me & My Bass Guitar",
       "url": "https://open.spotify.com/track/2bGlApShelovL2azxX0ksl"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Slippin' N' Trippin'",
+        "url": "https://open.spotify.com/album/5GRTkxq12ZgkGQU52izAXj"
+      },
+      "artists": [
+        {
+          "name": "Victor Bailey",
+          "url": "https://open.spotify.com/artist/1aTPRuTpqvuPpAps3FhBhe"
+        }
+      ],
+      "duration_ms": 146306,
+      "name": "Countdown",
+      "url": "https://open.spotify.com/track/3nbHF2EX8IQwNGMlp9EviS"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "M2",
-        "url": "https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d"
-      },
-      "artists": [
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        }
-      ],
-      "duration_ms": 275866,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/2wd1sOeNdzBeRGsL6mPogQ"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Thicker Than Water",
         "url": "https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Multiple Faces",
-        "url": "https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB"
+        "name": "M2",
+        "url": "https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d"
       },
       "artists": [
         {
-          "name": "Alain Caron",
-          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
         }
       ],
-      "duration_ms": 413266,
-      "name": "Right After 4",
-      "url": "https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco"
+      "duration_ms": 275866,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/2wd1sOeNdzBeRGsL6mPogQ"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -707,6 +691,22 @@
       "duration_ms": 279480,
       "name": "Straight Up",
       "url": "https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Multiple Faces",
+        "url": "https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB"
+      },
+      "artists": [
+        {
+          "name": "Alain Caron",
+          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
+        }
+      ],
+      "duration_ms": 413266,
+      "name": "Right After 4",
+      "url": "https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3"
+      },
+      "artists": [
+        {
+          "name": "Alain Caron",
+          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "P.A.C. Man",
+      "url": "https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Cerulean Blue",
         "url": "https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3"
       },
@@ -795,6 +811,22 @@
       "duration_ms": 246692,
       "name": "Sun Chaser",
       "url": "https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3n97LxQTiIk9QBZWdzZggl"
+      },
+      "artists": [
+        {
+          "name": "Evan Brewer",
+          "url": "https://open.spotify.com/artist/5tYE3ViKxF5APISuBhET9y"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Actualize",
+      "url": "https://open.spotify.com/track/1NENL1nGSuAnJhZz8xZd6N"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -839,22 +871,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3"
-      },
-      "artists": [
-        {
-          "name": "Alain Caron",
-          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "P.A.C. Man",
-      "url": "https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "That Was Then",
         "url": "https://open.spotify.com/album/70LVEF4Ht6K0bybLJskFA7"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 104626,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/04TNNN0s6F4soZQhoO4oWG"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Romancing the Bass",
-        "url": "https://open.spotify.com/album/1hbDdA4rK8dIj05pefvCGJ"
-      },
-      "artists": [
-        {
-          "name": "Tony Saunders",
-          "url": "https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q"
-        }
-      ],
-      "duration_ms": 309839,
-      "name": "Just Letting Go",
-      "url": "https://open.spotify.com/track/0Y4SEMAHZpGp9UyTrMcVTW"
     }
   ],
   "unique_name": "Bottoms Up",

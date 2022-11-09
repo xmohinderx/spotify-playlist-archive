@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Emeryld \| Artwork: Jim Klok
 
-603 songs - 1 day 9 hr 15 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+604 songs - 1 day 9 hr 19 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Californianated](https://open.spotify.com/track/5Tmh1XNBr15iJ9RbdDSp7Z) | [Unturned](https://open.spotify.com/artist/2bT1gJ4qahYAMFmaoFV7Nj) | [Dreams of Being on Television](https://open.spotify.com/album/0ik1Xe4aVwpHihmTMTAkxE) | 3:44 | 2022-09-21 |  |
 | [Can Someone Take Me Home?](https://open.spotify.com/track/2xwdBMuWwjtEOQ1amOjI6V) | [Nico Days](https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh) | [Can Someone Take Me Home?](https://open.spotify.com/album/2fYK2hNTzpDJ6QdbMpIigQ) | 3:34 | 2022-01-12 | 2022-03-31 |
 | [Can You Feel The Weight?](https://open.spotify.com/track/2WtWArUhXdpaqQQQ9gU6iq) | [Rock Eupora](https://open.spotify.com/artist/55gIFk1GnlkERIGfjJQOjO) | [Can You Feel The Weight?](https://open.spotify.com/album/6c2J1w8fqcTjkR75YqEYGE) | 5:31 | 2022-05-11 | 2022-08-04 |
-| [Can't Deny It](https://open.spotify.com/track/3wJ7DkVyjux3jCNTakOahw) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/7jcDqi4m5XF2q4DVMYSDcF) | 3:58 | 2022-10-12 |  |
+| [Can't Deny It](https://open.spotify.com/track/0tgTrj69uTFZaRK669acBF) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/6iPxylWvEfxFqJoTlVOZV2) | 3:58 | 2022-10-26 |  |
+| [Can't Deny It](https://open.spotify.com/track/3wJ7DkVyjux3jCNTakOahw) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/7jcDqi4m5XF2q4DVMYSDcF) | 3:58 | 2022-10-12 | 2022-11-09 |
 | [Can't Even Drown](https://open.spotify.com/track/4RaVwE2tpvFhv5DRLUkf2G) | [Big Smile](https://open.spotify.com/artist/6aRUlxUt0AIBeAkMVykgbM) | [Can't Even Drown](https://open.spotify.com/album/3rvF7ppj8Kix5rSoCDj1IC) | 3:21 | 2022-07-06 | 2022-09-15 |
 | [CAROLINE](https://open.spotify.com/track/5pCroNlo5jGxjbTCeDtIHK) | [PHONY](https://open.spotify.com/artist/7mODeSVag7ANGN6WCvIwVM) | [CAROLINE](https://open.spotify.com/album/6V6H3JcUSmbJGFiRxuEgic) | 3:14 | 2022-03-30 | 2022-05-26 |
 | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1) | 3:25 | 2022-10-19 |  |

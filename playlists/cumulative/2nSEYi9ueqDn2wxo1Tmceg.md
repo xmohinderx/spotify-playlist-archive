@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-237 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+238 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Nattens Sista Strimma Ljus](https://open.spotify.com/track/2WY8hy60bH6y1cxTMurysV) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Nattens Sista Strimma Ljus](https://open.spotify.com/album/0j3nf6D8d8ZvhgibltRWL5) | 4:28 | 2022-07-06 | 2022-08-18 |
 | [Night Crawling](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Night Crawling](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 | 2022-08-01 | 2022-09-22 |
 | [Night Walk](https://open.spotify.com/track/1ufmBDHamjH3v8Ms1cyNsN) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Night Walk](https://open.spotify.com/album/4gSxWOsNY1BvLAzHPc3lOU) | 4:49 | 2022-09-21 | 2022-10-21 |
+| [No More \- Edit](https://open.spotify.com/track/1EVjpQLLO19e7PYmZAlR2S) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [No More](https://open.spotify.com/album/1PsR8yp7LUlHti7lu5HFK1) | 3:38 | 2022-11-08 |  |
 | [Norfolk Hotel](https://open.spotify.com/track/0uEBBlkHjdxSUty2ANx8SZ) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5agoEPMTMTZTSKibS1jfpL) | 4:34 | 2022-10-06 |  |
 | [Norfolk Hotel](https://open.spotify.com/track/2OhAqX7sDaxpE23yAF3nYJ) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/3OyYu4vdYFTIS0iseUKGfx) | 4:34 | 2022-09-27 | 2022-10-07 |
 | [Nothing Left](https://open.spotify.com/track/0ZUAmMWG38D4UX5HwbF6l7) | [RIBBON STAGE](https://open.spotify.com/artist/4f7oDcY7sHQ69tiuRomYRZ) | [Hit With The Most](https://open.spotify.com/album/6xvzHDDnTzOROoE140BSbE) | 1:31 | 2022-10-26 |  |

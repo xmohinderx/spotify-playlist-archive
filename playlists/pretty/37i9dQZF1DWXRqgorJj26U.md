@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Celebrating 30 years of Rage Against The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,967,188 likes - 200 songs - 14 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,970,137 likes - 200 songs - 14 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-527 songs - 1 day 3 hr 42 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+528 songs - 1 day 3 hr 44 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [How Not To Drown \(feat\. Robert Smith\)](https://open.spotify.com/track/0gNnngLmd8zSikRqUGt2DU) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [How Not To Drown](https://open.spotify.com/album/3QDXgEZ8LfC1CxkZpETteX) | 5:31 | 2022-03-24 | 2022-04-17 |
 | [Hurts So Bad](https://open.spotify.com/track/2lTSM4v2Xm6lsu4NqyGl9K) | [GREYSKIES](https://open.spotify.com/artist/5zp72ZM5DdxHbMPIt7EEtX) | [Hurts So Bad](https://open.spotify.com/album/5hYGk2apMXzBI2Wg5T4tlf) | 3:04 | 2022-03-24 | 2022-07-14 |
 | [I Can Hardly Speak](https://open.spotify.com/track/5eMySoI30MSqHDv74PlZ63) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Can Hardly Speak](https://open.spotify.com/album/3HSnfEUIR7zor3xrYQ1TcL) | 3:59 | 2022-03-24 | 2022-04-13 |
-| [I Don't Cry When I'm High](https://open.spotify.com/track/3HIgZczBhbuSBLEkolSNk2) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [I Don't Cry When I'm High](https://open.spotify.com/album/0kIKiBWuyajSSjoGxL7PhU) | 2:44 | 2022-08-15 |  |
+| [I Don't Cry When I'm High](https://open.spotify.com/track/7y3GeOjLhoDCDcVndW1Ubl) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Life's A Bitch](https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd) | 2:44 | 2022-11-03 |  |
+| [I Don't Cry When I'm High](https://open.spotify.com/track/3HIgZczBhbuSBLEkolSNk2) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [I Don't Cry When I'm High](https://open.spotify.com/album/0kIKiBWuyajSSjoGxL7PhU) | 2:44 | 2022-08-15 | 2022-11-09 |
 | [I Hate You](https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [I Hate You](https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX) | 2:42 | 2022-07-07 | 2022-08-07 |
 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 | 2022-03-17 |  |
 | [I Like It](https://open.spotify.com/track/6cp6fkCPOy1a58TawF2wRl) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [I Like It](https://open.spotify.com/album/5AspCQiOmN7yTWOVz5sxYu) | 3:13 | 2022-03-24 | 2022-04-18 |

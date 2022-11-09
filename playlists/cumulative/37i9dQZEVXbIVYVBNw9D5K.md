@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-543 songs - 1 day 3 hr 36 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+545 songs - 1 day 3 hr 42 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Avaz Avaz](https://open.spotify.com/track/1bYbiK0GZbRoCw8S2nq4pw) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 2:22 | 2021-05-30 | 2021-05-31 |
 | [Aynen Öyle](https://open.spotify.com/track/2AwLtOEK3qqZlYTPdBFhke) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Aynen Öyle](https://open.spotify.com/album/1Lp0ckfAeugrkLWr3zde68) | 2:33 | 2021-09-10 | 2022-01-23 |
 | [Ağlattın](https://open.spotify.com/track/0MH7sKCOu2bk8RSbC6GAP7) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağlattın](https://open.spotify.com/album/4sruFA5F7yG1sYAs5lcI9z) | 3:00 | 2022-02-12 | 2022-04-13 |
+| [Ağlaya Ağlaya](https://open.spotify.com/track/6TnN1PLNMaIBvnUB8mdVT1) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Ağlaya Ağlaya](https://open.spotify.com/album/7fm45WtDtRH4ucgurU9BW0) | 3:24 | 2022-11-08 |  |
 | [Aşk Sadece Anlayana](https://open.spotify.com/track/62nygHWpn3wLwnZmJ8keVs) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Aşk Sadece Anlayana](https://open.spotify.com/album/77Mq4lxs2TAQi4goqZgEaK) | 2:01 | 2022-05-14 |  |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/3UPrUZ9mJWEPjXzgF7GS8f) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Yaşım Çocuk](https://open.spotify.com/album/6xXxBbSVqa27Wsk04DacTb) | 3:43 | 2022-01-10 | 2022-02-03 |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/6cygxIDSnHZtXI6LoidQdl) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Yaşım Çocuk](https://open.spotify.com/album/1rNrR7VKloorfaGSqunZoM) | 3:43 | 2021-09-14 | 2021-09-19 |
@@ -225,6 +226,7 @@
 | [Gözler Yalan Söylemez](https://open.spotify.com/track/6Y7B1Jyw9RJJtCTbGnw6zJ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Gözler Yalan Söylemez](https://open.spotify.com/album/2WnAt4LEDWFMRn0bW3PR0s) | 2:13 | 2022-02-26 | 2022-04-22 |
 | [Gözlerim Seni Arıyor](https://open.spotify.com/track/0n6er4tGjAjLu6bEQFsdr6) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae) | [Gözlerim Seni Arıyor](https://open.spotify.com/album/3dHqKY3WcAYOWOlmM4keRp) | 2:34 | 2021-08-22 | 2021-08-29 |
 | [GÜNAYDIN](https://open.spotify.com/track/5Y7x0VU1VOwPWr6MsHbcxS) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PİŞMAN](https://open.spotify.com/album/2Lljdvhyiw9Bh6Vhvap8Fm) | 2:29 | 2021-09-12 | 2021-09-24 |
+| [Günes lvbel NKBI](https://open.spotify.com/track/4QOar9YEh8K7vHHmgYf1wf) | [Dupzibaba](https://open.spotify.com/artist/4RQuo3XeI8JydMHBIFhAX9) | [Günes lvbel NKBI](https://open.spotify.com/album/2hrltZBlDrvMxMZnPpFmSX) | 2:58 | 2022-11-08 |  |
 | [GÜNEŞ](https://open.spotify.com/track/4HbGWKUGE4kZveaZ4IJOXQ) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:13 | 2021-06-13 | 2021-07-18 |
 | [Güya](https://open.spotify.com/track/45psv4nJ95oCkdkp8UCkQk) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Güya](https://open.spotify.com/album/298QpO2dJDLDwURvWA3b8G) | 2:59 | 2021-03-27 | 2021-06-22 |
 | [H \- CHORBA](https://open.spotify.com/track/34DHJUreZIZckzkPffXtEr) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 0:47 | 2022-10-15 | 2022-10-22 |
@@ -257,9 +259,9 @@
 | [Imdat \(feat\. Hadise\)](https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat \(feat\. Hadise\)](https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD) | 3:14 | 2022-07-02 | 2022-10-11 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-08-18 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2021-12-27 |
-| [Inzaghi](https://open.spotify.com/track/36S6sHnPZ0VBjD4uLbNXM7) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/1wDi3vPan2n6k6F4Y5JBn9) | 2:41 | 2022-07-16 |  |
+| [Inzaghi](https://open.spotify.com/track/36S6sHnPZ0VBjD4uLbNXM7) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/1wDi3vPan2n6k6F4Y5JBn9) | 2:41 | 2022-07-16 | 2022-11-09 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-10 |
-| [ISABELLE](https://open.spotify.com/track/3iz0BamLeB8AngNYpjbC6E) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Capo](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [ISABELLE](https://open.spotify.com/album/11rFmZYfVqcPfpXgyY0tHZ) | 2:16 | 2022-06-16 |  |
+| [ISABELLE](https://open.spotify.com/track/3iz0BamLeB8AngNYpjbC6E) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Capo](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [ISABELLE](https://open.spotify.com/album/11rFmZYfVqcPfpXgyY0tHZ) | 2:16 | 2022-06-16 | 2022-11-09 |
 | [Istediğim Olucak](https://open.spotify.com/track/62N782Va609fZ9aDAVIgvN) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Istediğim Olucak](https://open.spotify.com/album/49kxsR1L47TCkRFi5AaPmB) | 2:11 | 2021-06-06 | 2021-08-15 |
 | [Istediğim Olucak](https://open.spotify.com/track/6pIVJRrlvECfYXfGFRNwVn) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Özlüce Trap Boys](https://open.spotify.com/album/6uDdqxLsmGmXVak2y4vreh) | 2:11 | 2021-08-15 | 2021-09-06 |
 | [ITACHI](https://open.spotify.com/track/2Xp7H2XVr1xxrWISiSRaUl) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [ITACHI](https://open.spotify.com/album/5XJ5D88oSg5VVjI4ANe2uW) | 2:12 | 2021-10-23 | 2021-10-26 |

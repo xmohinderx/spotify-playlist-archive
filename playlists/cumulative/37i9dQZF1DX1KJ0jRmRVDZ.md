@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-536 songs - 1 day 6 hr 46 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+538 songs - 1 day 6 hr 53 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Surges](https://open.spotify.com/track/66a0Ib85gRjtZmac4HFsvw) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [夏背](https://open.spotify.com/artist/3xRckHz0CRl2Z328bNeVpC), [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [Surges](https://open.spotify.com/album/3Ub59gYPmtgwd0FUDeptaH) | 2:00 | 2022-07-28 |  |
 | [syrup](https://open.spotify.com/track/3QOeO8MvFYRcGy4o0WOwPY) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [syrup](https://open.spotify.com/album/0CznyyMqd97JWTU1QWUevn) | 4:03 | 2022-06-13 | 2022-06-15 |
 | [Take You Higher](https://open.spotify.com/track/4lKzpW6H1l23hYbAR3FNfC) | [Panno Mimimi](https://open.spotify.com/artist/2eq8WxKU3fOHsWQlCdtIek), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [Take You Higher](https://open.spotify.com/album/4M957cOXNpb0szp2VB7qZK) | 3:30 | 2022-06-09 | 2022-06-14 |
-| [takt](https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [takt](https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3) | 3:57 | 2022-07-28 |  |
+| [takt](https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [takt](https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3) | 3:57 | 2022-07-28 | 2022-11-09 |
 | [TANTAKATANTANTANTANMEN](https://open.spotify.com/track/3KozPtMkw36v0YoqiiNk7y) | [BotchiBoromaru](https://open.spotify.com/artist/5HlGwrPXNdL8YmBF70jcvu) | [Song of Botchi "C"](https://open.spotify.com/album/4ZZOahDVVDAVFxld6S8F6B) | 4:01 | 2022-08-18 | 2022-08-26 |
 | [TEMPLATE](https://open.spotify.com/track/254Q6v7gbF7jc9sn8CY0GW) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [TEMPLATE/Wicked feat\. Mori Calliope](https://open.spotify.com/album/02tQIjxtgO0c5UAPYYzGAt) | 3:09 | 2022-06-30 | 2022-07-13 |
 | [The Fog](https://open.spotify.com/track/6WeNx7415S4E0m3YPeDknr) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [The Fog](https://open.spotify.com/album/0tHf1Ybf847LMLmlJBUelS) | 3:04 | 2022-06-14 | 2022-06-19 |
@@ -234,6 +234,7 @@
 | [イマジナリーフレンド](https://open.spotify.com/track/5iZP5XEzyWJKScEVVEehEk) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [イマジナリーフレンド](https://open.spotify.com/album/1JrQY3w7LpsBQFs0ckMulQ) | 4:33 | 2022-06-09 | 2022-07-14 |
 | [イミテイション \(starring 珀\)](https://open.spotify.com/track/3DQH7at5thxDmUMsD65Lzo) | [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y), [珀](https://open.spotify.com/artist/5pYWH9L8OcnvIXS1V1cO2L) | [イミテイション \(starring 珀\)](https://open.spotify.com/album/4npreCVmUEi2UeRSyEwUYK) | 2:49 | 2022-07-28 | 2022-08-17 |
 | [インゲル](https://open.spotify.com/track/2m8hm0c4w9DLv1EGrBFSHK) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [インゲル](https://open.spotify.com/album/5s0FkzwZoDVFTouIX4B9vZ) | 3:17 | 2022-09-27 | 2022-09-29 |
+| [インザバックルーム](https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [インザバックルーム](https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89) | 3:26 | 2022-11-09 |  |
 | [イントロは終わり](https://open.spotify.com/track/0RDzaHslzMngPxTX84Xs6G) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [イントロは終わり](https://open.spotify.com/album/1FvFjiAeYqVF14pt6uWKme) | 2:58 | 2022-08-05 | 2022-08-19 |
 | [インナアチャイルド](https://open.spotify.com/track/2VviHaihEuSsYo6OOqxJ7m) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [インナアチャイルド](https://open.spotify.com/album/62EfA5beimUuWAijkPLY4H) | 3:55 | 2022-10-04 |  |
 | [イージーゲーム](https://open.spotify.com/track/096qZRdXPOyvb5OP8NI7pw) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [イージーゲーム](https://open.spotify.com/album/30mRFS3cKkDslOyyK4tTmF) | 3:03 | 2022-07-28 |  |
@@ -478,7 +479,7 @@
 | [真っ裸](https://open.spotify.com/track/4nO8lzlZENrOGOg9ufssD2) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [真っ裸](https://open.spotify.com/album/1KItK7DdrB5hBy98K5GuSZ) | 3:13 | 2022-10-04 |  |
 | [真昼の月明かり](https://open.spotify.com/track/5bNJXKIjpxsLVU3Gc3RQMo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [真昼の月明かり](https://open.spotify.com/album/0yGm4qMepSKDbetBLx1Zco) | 3:42 | 2022-06-21 | 2022-07-26 |
 | [真生活](https://open.spotify.com/track/0htxEpxbaMo6lgrBCxrMH2) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [真生活](https://open.spotify.com/album/2xIJ7xtbCH4s6hRnFVJmiS) | 4:04 | 2022-06-16 | 2022-06-21 |
-| [知らないままで](https://open.spotify.com/track/0kEXWokTVYKFxRnNH1xvlg) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [知らないままで](https://open.spotify.com/album/5A0437E0mWQ7RJFYovBBvC) | 2:14 | 2022-06-16 |  |
+| [知らないままで](https://open.spotify.com/track/0kEXWokTVYKFxRnNH1xvlg) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [知らないままで](https://open.spotify.com/album/5A0437E0mWQ7RJFYovBBvC) | 2:14 | 2022-06-16 | 2022-11-09 |
 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 | 2022-08-10 |
 | [空と虚](https://open.spotify.com/track/1YvLvyEHEUv6xuablK3kpj) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [空と虚](https://open.spotify.com/album/0HdkHMdirrj9cn26DrCv7J) | 3:43 | 2022-06-23 | 2022-08-18 |
 | [空室](https://open.spotify.com/track/5mDt4FsNI4FtRI5ZBqhgvi) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [空室](https://open.spotify.com/album/7fJqDLibvdnsYcO78ToeOC) | 3:34 | 2022-06-09 | 2022-07-28 |
@@ -525,6 +526,7 @@
 | [邂逅の旋律](https://open.spotify.com/track/4RhyQSx3ycRR9uEqJn12qP) | [珀](https://open.spotify.com/artist/5pYWH9L8OcnvIXS1V1cO2L) | [邂逅の旋律](https://open.spotify.com/album/0ZdQdBArVPJl0Y3OzKuaKh) | 3:13 | 2022-10-04 | 2022-10-19 |
 | [銃の部品](https://open.spotify.com/track/0AmXho7WWR4MprccR2pILw) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [銃の部品](https://open.spotify.com/album/3lF7gg3xzznR7gL6IKm4LB) | 2:34 | 2022-06-30 | 2022-08-06 |
 | [銃口をこちらに向けて](https://open.spotify.com/track/7GzZsxf9J58UfldRY23OgN) | [さんひ](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf) | [銃口をこちらに向けて](https://open.spotify.com/album/0LZodbYRVVSW6VNnqTzi9m) | 3:14 | 2022-06-30 | 2022-07-06 |
+| [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 | 2022-11-09 |  |
 | [鏡よ鏡](https://open.spotify.com/track/5lVo2vV7jtO80HFQ8UcjBJ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [鏡よ鏡](https://open.spotify.com/album/5x5UhyjIHJCpzRaz1RIKWK) | 3:30 | 2022-07-26 | 2022-07-28 |
 | [阿修羅ちゃん](https://open.spotify.com/track/0cN6iBeCR7NgeBeTIKjLml) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:15 | 2022-07-07 | 2022-10-28 |
 | [陽炎と泡沫](https://open.spotify.com/track/6WcinHEF9Mft0ZUyVhsHEf) | [anone](https://open.spotify.com/artist/5MexCyFroTJh3EjjLopoOZ) | [陽炎と泡沫](https://open.spotify.com/album/4tIlfkOCzDmWoAeoohznII) | 4:31 | 2022-07-07 | 2022-07-10 |

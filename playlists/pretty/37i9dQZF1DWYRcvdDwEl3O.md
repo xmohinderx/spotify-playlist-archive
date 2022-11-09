@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 
 > Focus, study or let yourself daydream to these atmospheric, instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,021 likes - 47 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,078 likes - 46 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,18 +42,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 | 32 | [Okno](https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s) | [Julia Gjertsen](https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC) | [Okno](https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX) | 3:07 |
 | 33 | [Hypnagogia](https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Introspection](https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh) | 4:02 |
 | 34 | [Can't Hold Us](https://open.spotify.com/track/1qzg5u4jEocTHH7rs5mIYr) | [Madron](https://open.spotify.com/artist/1nom1nhxcPFKLCcj7ccQGe) | [Let It Be So](https://open.spotify.com/album/1ZN3pFFjvYnMr8yDL0cTBD) | 2:00 |
-| 35 | [Quiet](https://open.spotify.com/track/2UcVa056va7cCBfVfw9nm1) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Crossing the Rubicon](https://open.spotify.com/album/5cYUwcGiSuMUBKf7ykzO04) | 2:45 |
-| 36 | [Eschaton \- Chris Coleman Rework](https://open.spotify.com/track/7m3hDASgGaBKF5w8y48dDd) | [Chris Coleman](https://open.spotify.com/artist/2mXB4WRGKaH89fJFSyK4M8) | [Eschaton](https://open.spotify.com/album/0WSv5Yge0NVy7VjMHQnGTP) | 2:36 |
-| 37 | [Under](https://open.spotify.com/track/3kCzddqKxidFHMrhKNSVDD) | [Jeroen Dirrix](https://open.spotify.com/artist/02Ay0xb3u177rlIOA1YmGs) | [Under](https://open.spotify.com/album/5M7NwfVh112enG9mdtt9nI) | 2:49 |
-| 38 | [Pattern of Water](https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Round](https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB) | 2:43 |
-| 39 | [Néfos](https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV) | [Ạoris](https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys) | [Néfos](https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B) | 3:12 |
-| 40 | [Paint](https://open.spotify.com/track/6PC9beJbKsb3PMIBPbHtc7) | [Matthew Wilcock](https://open.spotify.com/artist/5wwV0lI76LUp7NDc7XGBjf) | [Paint & Dance](https://open.spotify.com/album/6R3DQm91XrjzIX1X0VnyLF) | 2:09 |
-| 41 | [On Her Shoulders](https://open.spotify.com/track/17nf2lESWRMvqycjV7tHvU) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [On Her Shoulders \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3SdwRlOdLikqstPFUP0J0R) | 1:54 |
-| 42 | [Under The Stars](https://open.spotify.com/track/3g35zbIDaq6gyxB1G9qUKU) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [2Pianos I](https://open.spotify.com/album/6OzmhdCJabuApT31HHAQWe) | 2:22 |
-| 43 | [Wave](https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU) | [David Allred](https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm) | [Driving Through the Aftermath of a Storm on a Clear Day](https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y) | 2:31 |
-| 44 | [In Brackets](https://open.spotify.com/track/2VXanJsBUCBt1Q5rTNNFz6) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Caught a Black Rabbit](https://open.spotify.com/album/3M0wS70M7tRZntXMfKqPtU) | 1:43 |
-| 45 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
-| 46 | [Languid](https://open.spotify.com/track/2jV0okvamtMJ4ie5hZcjo1) | [Nick Costa](https://open.spotify.com/artist/3lKLF6TNNdWGXtWkD6mV7h) | [Lull](https://open.spotify.com/album/6TMlDVw6gmsxAZzCs9ujf5) | 4:45 |
-| 47 | [Sista Snön](https://open.spotify.com/track/0neGZAdlsgCXrSk27SWYcK) | [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn) | [Sista Snön](https://open.spotify.com/album/03U2UdnlI94HsoaMVk9qn2) | 1:58 |
+| 35 | [Eschaton \- Chris Coleman Rework](https://open.spotify.com/track/7m3hDASgGaBKF5w8y48dDd) | [Chris Coleman](https://open.spotify.com/artist/2mXB4WRGKaH89fJFSyK4M8) | [Eschaton](https://open.spotify.com/album/0WSv5Yge0NVy7VjMHQnGTP) | 2:36 |
+| 36 | [Under](https://open.spotify.com/track/3kCzddqKxidFHMrhKNSVDD) | [Jeroen Dirrix](https://open.spotify.com/artist/02Ay0xb3u177rlIOA1YmGs) | [Under](https://open.spotify.com/album/5M7NwfVh112enG9mdtt9nI) | 2:49 |
+| 37 | [Pattern of Water](https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Round](https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB) | 2:43 |
+| 38 | [Néfos](https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV) | [Ạoris](https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys) | [Néfos](https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B) | 3:12 |
+| 39 | [Paint](https://open.spotify.com/track/6PC9beJbKsb3PMIBPbHtc7) | [Matthew Wilcock](https://open.spotify.com/artist/5wwV0lI76LUp7NDc7XGBjf) | [Paint & Dance](https://open.spotify.com/album/6R3DQm91XrjzIX1X0VnyLF) | 2:09 |
+| 40 | [On Her Shoulders](https://open.spotify.com/track/17nf2lESWRMvqycjV7tHvU) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [On Her Shoulders \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3SdwRlOdLikqstPFUP0J0R) | 1:54 |
+| 41 | [Under The Stars](https://open.spotify.com/track/3g35zbIDaq6gyxB1G9qUKU) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [2Pianos I](https://open.spotify.com/album/6OzmhdCJabuApT31HHAQWe) | 2:22 |
+| 42 | [Wave](https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU) | [David Allred](https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm) | [Driving Through the Aftermath of a Storm on a Clear Day](https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y) | 2:31 |
+| 43 | [In Brackets](https://open.spotify.com/track/2VXanJsBUCBt1Q5rTNNFz6) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Caught a Black Rabbit](https://open.spotify.com/album/3M0wS70M7tRZntXMfKqPtU) | 1:43 |
+| 44 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
+| 45 | [Languid](https://open.spotify.com/track/2jV0okvamtMJ4ie5hZcjo1) | [Nick Costa](https://open.spotify.com/artist/3lKLF6TNNdWGXtWkD6mV7h) | [Lull](https://open.spotify.com/album/6TMlDVw6gmsxAZzCs9ujf5) | 4:45 |
+| 46 | [Sista Snön](https://open.spotify.com/track/0neGZAdlsgCXrSk27SWYcK) | [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn) | [Sista Snön](https://open.spotify.com/album/03U2UdnlI94HsoaMVk9qn2) | 1:58 |
 
-Snapshot ID: `MTY2NzgzMDQ5MywwMDAwMDAwMDE4MTMzOTNkOTUxYzAwODUzNWM0ZDVkM2FhZTk0YzU3`
+Snapshot ID: `MTY2NzkyNTc4OCwwMDAwMDAwMGM2NWVmOWEwYTk0M2NiNjYwM2I5Zjg3Y2JhOTE1OWU4`

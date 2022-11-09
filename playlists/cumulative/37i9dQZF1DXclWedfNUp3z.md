@@ -4,10 +4,11 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-321 songs - 22 hr 15 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
+322 songs - 22 hr 23 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#3 \(Rhubarb\)](https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [\#3 \(Rhubarb\)](https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK) | 7:17 | 2022-11-09 |  |
 | [\- \- \-](https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:15 | 2021-10-20 | 2022-07-29 |
 | [1:17 PM](https://open.spotify.com/track/7sX3ulXwDyyE5q5g8z3yUN) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/4xBGAlIlejqITTgDkOBDIy) | 3:29 | 2021-10-20 | 2022-07-19 |
 | [4T Recordings](https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [4T Recordings](https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r) | 3:17 | 2021-10-20 |  |
@@ -314,7 +315,7 @@
 | [Welcome](https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [7RAYS](https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx) | [Music For Psychedelic Therapy](https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH) | 6:22 | 2021-11-12 |  |
 | [Well](https://open.spotify.com/track/630GnYjh9pMw7iO9KrCQIG) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Peel](https://open.spotify.com/album/56le7IdNe67vArpXDjqUOj) | 5:30 | 2021-10-20 | 2022-05-07 |
 | [Wenn der südwind weht](https://open.spotify.com/track/4ypG73pPFsQAruIJyJbqSj) | [Group Listening](https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe) | [Clarinet & Piano: Selected Works, Vol\. 1](https://open.spotify.com/album/56MA4xnkZ4fD11lVXw3HA9) | 4:24 | 2021-10-20 | 2022-07-29 |
-| [Wenn der südwind weht](https://open.spotify.com/track/7tlfS4y5qDhne7NBiZBbJD) | [Group Listening](https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe) | [Clarinet & Piano: Selected Works, Vol\. 1](https://open.spotify.com/album/0MyJiGAWtExobMGfp7uwsr) | 4:24 | 2021-10-20 |  |
+| [Wenn der südwind weht](https://open.spotify.com/track/7tlfS4y5qDhne7NBiZBbJD) | [Group Listening](https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe) | [Clarinet & Piano: Selected Works, Vol\. 1](https://open.spotify.com/album/0MyJiGAWtExobMGfp7uwsr) | 4:24 | 2021-10-20 | 2022-11-09 |
 | [when the leaves come falling down](https://open.spotify.com/track/1wtrm5eTeRfEXyJNF4Low1) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [her](https://open.spotify.com/album/1vRcYipEq8fJeeHGldHiFa) | 2:01 | 2021-10-20 |  |
 | [Where Birds Fly](https://open.spotify.com/track/2uvYzP9s0Yh5rEv0uxMiFL) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [Where Birds Fly](https://open.spotify.com/album/6KR6fsSuffLvkwbZ9guyt5) | 2:15 | 2021-10-20 | 2022-04-17 |
 | [White Wall](https://open.spotify.com/track/1m54vFgkAORsMpRTy55QUN) | [Satoshi & Makoto](https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr) | [CZ\-5000 Sounds & Sequences](https://open.spotify.com/album/7I6mXMQcL6uyGNFVCspar2) | 3:54 | 2021-10-20 |  |

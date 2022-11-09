@@ -4,7 +4,7 @@
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-121 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
+122 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Love and Destroy \- Live](https://open.spotify.com/track/3ml0GdsJ9DvDESGbzXoAO3) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Right Thoughts, Right Words, Right Action \(Deluxe Edition\)](https://open.spotify.com/album/4X6YC6PgSMt5s7ARwGpLJ7) | 2:54 | 2018-12-10 | 2022-07-25 |
 | [Man With The Movie Camera](https://open.spotify.com/track/0nkPQmRvzYMrbjtB8mRlyR) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB) | [Live At The Royal Albert Hall](https://open.spotify.com/album/40bPx3n1uqxlPd2nB7lBuX) | 13:05 | 2018-12-10 | 2022-07-14 |
 | [Milton At Midnight](https://open.spotify.com/track/40fH8V7f8zQht6dz2wYuLC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Milton At Midnight](https://open.spotify.com/album/1t4MIGZFUAF7HofsaSWIpk) | 5:46 | 2018-12-10 | 2022-07-29 |
-| [Milton At Midnight](https://open.spotify.com/track/44wtR8EBCz7wVvsOoJQEnd) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Milton At Midnight](https://open.spotify.com/album/7kZbS20RlWvmUvOqvo0l0x) | 5:46 | 2018-12-10 |  |
+| [Milton At Midnight](https://open.spotify.com/track/44wtR8EBCz7wVvsOoJQEnd) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Milton At Midnight](https://open.spotify.com/album/7kZbS20RlWvmUvOqvo0l0x) | 5:46 | 2018-12-10 | 2022-11-09 |
 | [Mr\. Writer](https://open.spotify.com/track/1D6dE2mMlGz3WN1gjKQ76E) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 5:19 | 2018-12-10 |  |
 | [My Antonia](https://open.spotify.com/track/6yCwfs5qUdG8ySrLl2lgOh) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Red Dirt Girl](https://open.spotify.com/album/5C7B6Wi35TyMOQVtt2eRAV) | 3:42 | 2018-12-10 | 2022-07-29 |
 | [Narcissist](https://open.spotify.com/track/0LkAjjrokJbccAfz5yftS1) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 2:10 | 2018-12-10 |  |
@@ -115,6 +115,7 @@
 | [The Writer](https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 4:11 | 2018-12-10 |  |
 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 | 2018-12-10 |  |
 | [Tonight I Feel Like Kafka](https://open.spotify.com/track/0un6V0wfo3eTYOfYeMF8cC) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0GzuW3EO2SQAsPKSUfl0zQ) | 3:09 | 2018-12-10 | 2022-07-29 |
+| [Tonight I Feel Like Kafka](https://open.spotify.com/track/6ojZsSfUuRUC4VxtWLUAdi) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX) | 3:09 | 2018-12-10 |  |
 | [Transatlanticism](https://open.spotify.com/track/0DoACS30GwIY6qaFjCMMUz) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 7:55 | 2018-12-10 |  |
 | [Transatlanticism](https://open.spotify.com/track/3PJikMV2xGNCooQttQrAw5) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism](https://open.spotify.com/album/5XGQ4L4XsTI3uIZiAfeAum) | 7:55 | 2018-12-10 | 2022-07-29 |
 | [Type Endlessly](https://open.spotify.com/track/1YnkKuOyXYQYIRg2YRZRfZ) | [Magic Arm](https://open.spotify.com/artist/7e04hmo8LPOPgJalkPO2dY) | [Images Rolling](https://open.spotify.com/album/39mitxj59GRwL91UbwJCux) | 1:04 | 2018-12-10 | 2022-07-19 |

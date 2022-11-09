@@ -4,7 +4,7 @@
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-156 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/3aN5jpBdtu5i0Yw4idYp92)
+157 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/3aN5jpBdtu5i0Yw4idYp92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Silent Night](https://open.spotify.com/track/1HRugGlesqInWP4J9jSc5M) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple](https://open.spotify.com/album/5j3j7ntcnVrocsjZOEOGlR) | 3:17 | 2021-12-14 | 2022-04-21 |
 | [Simple Man](https://open.spotify.com/track/0hRkRkxW0WWMUejo8rHJQe) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Almost Famous \(Music From The Motion Picture\)](https://open.spotify.com/album/2npvBqZgBp1hLnKS0nDMiu) | 5:55 | 2022-01-27 | 2022-04-21 |
 | [Simple Man](https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 5:56 | 2022-01-27 |  |
+| [Skating](https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [The Definitive Vince Guaraldi](https://open.spotify.com/album/1sn69oro0vmwuAu1iwCu7d) | 2:24 | 2022-01-27 |  |
 | [Skating](https://open.spotify.com/track/7hK9jnESeCfc5fIHH76jKh) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 2:25 | 2021-12-14 | 2022-07-29 |
 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 | 2022-01-27 |  |
 | [Sleigh Ride](https://open.spotify.com/track/1uUBDZrwiwMJ7NglXHV93B) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Elf \(Music from the Major Motion Picture\)](https://open.spotify.com/album/2FAdasepbd5GxXtoFofkDJ) | 2:57 | 2021-12-14 | 2022-07-28 |
@@ -152,7 +153,7 @@
 | [Turning Time Around](https://open.spotify.com/track/41To3Y3OenQ5FeuzSEH134) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Heart of a Dog](https://open.spotify.com/album/0w4DWr5dpNVTRjwhyr2ofL) | 4:23 | 2022-01-27 | 2022-07-29 |
 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 | 2022-01-27 |  |
 | [Vitamin C](https://open.spotify.com/track/16DyQhj8PFVPvEGXa8ISUl) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Inherent Vice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LIMxY8oQG9c70DWKe0iHN) | 3:31 | 2022-01-27 | 2022-07-29 |
-| [Vitamin C \- 2004 Remastered Version](https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered Version\)](https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT) | 3:34 | 2022-01-27 |  |
+| [Vitamin C \- 2004 Remastered Version](https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered Version\)](https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT) | 3:34 | 2022-01-27 | 2022-11-09 |
 | [Wanksta](https://open.spotify.com/track/0oAZGaev2yh9ZHCc3ZwXCw) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [8 Mile](https://open.spotify.com/album/3tqMfEzuD62nMEXALuxv6r) | 3:38 | 2022-01-27 | 2022-04-21 |
 | [Wanksta \- From "8 Mile" Soundtrack](https://open.spotify.com/track/6rpNe6gSkmiYW6BfSFATi5) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:39 | 2022-01-27 |  |
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/0yalffTE6fOvQaebMd8cvq) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Instrumental Christmas Music: Christmas Songs and Classic Carols On Solo Piano](https://open.spotify.com/album/41jNKhRU5NNsXSjAZHHvH2) | 3:30 | 2021-12-14 | 2022-04-21 |

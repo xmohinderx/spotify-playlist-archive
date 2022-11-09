@@ -4,7 +4,7 @@
 
 > A mediterranean sundown soundtrack.
 
-113 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/35ZH6ULtFwpziVm8cNibCl)
+114 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/35ZH6ULtFwpziVm8cNibCl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [C\-Side](https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:43 | 2022-09-05 |  |
 | [Café Com Leite](https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 4:22 | 2022-09-05 |  |
 | [Café Com Leite](https://open.spotify.com/track/4Qr7jxogVZA4rglb4IPyGD) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6) | 4:22 | 2022-09-05 | 2022-10-14 |
-| [Café de Flore](https://open.spotify.com/track/3GyEeD1p5I2TahbhjxCxUU) | [Doctor Rockit](https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Indoor Fireworks \(Re\-Release\)](https://open.spotify.com/album/2nSk8BrJiRnY18B87flhAw) | 8:25 | 2022-09-05 |  |
+| [Café de Flore](https://open.spotify.com/track/3GyEeD1p5I2TahbhjxCxUU) | [Doctor Rockit](https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Indoor Fireworks \(Re\-Release\)](https://open.spotify.com/album/2nSk8BrJiRnY18B87flhAw) | 8:25 | 2022-09-05 | 2022-11-09 |
 | [Camino Del Sol](https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q) | [Antena](https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc) | [Camino Del Sol](https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1) | 3:42 | 2022-09-05 |  |
 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 | 2022-09-05 |  |
 | [Closer to You](https://open.spotify.com/track/5plw5Sq1eAewuQi4rYeL8l) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Amo Amo](https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn) | 3:51 | 2022-09-05 |  |
@@ -99,6 +99,7 @@
 | [Sacred](https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y) | 5:47 | 2022-09-05 |  |
 | [Sacred](https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 5:47 | 2022-09-05 | 2022-10-18 |
 | [Sign](https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:18 | 2022-09-05 |  |
+| [Single Malt \- Radio Edit](https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em) | [TOSZ](https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM) | [Single Malt](https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX) | 2:49 | 2022-09-05 |  |
 | [Single Malt \- Radio Edit](https://open.spotify.com/track/7ffLRzH8j7689iiiXsaf2c) | [TOSZ](https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM) | [Single Malt](https://open.spotify.com/album/304HTgYzQp1V2S4R9CqQtO) | 2:49 | 2022-09-05 | 2022-10-17 |
 | [Sketch for Summer](https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Return of The Durutti Column](https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW) | 2:58 | 2022-09-05 |  |
 | [sketches](https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 4:03 | 2022-09-05 |  |

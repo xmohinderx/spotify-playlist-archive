@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Viagra Boys
 
-291 songs - 18 hr 8 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
+292 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Good morning \(red\)](https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Good morning \(red\)](https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB) | 5:47 | 2022-02-25 | 2022-07-10 |
 | [Good Time Charlie](https://open.spotify.com/track/3YHEUUYqEYLzInHRNfN4bW) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Good Time Charlie](https://open.spotify.com/album/4S61h0CKciUdMo51bM3SAR) | 2:47 | 2021-12-06 | 2022-07-12 |
 | [Goodnight](https://open.spotify.com/track/4p9oD9628pjRospq8ztiCU) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Goodnight](https://open.spotify.com/album/7u57U9Is8dsIBg91dsq5lr) | 2:37 | 2021-12-06 | 2022-07-25 |
+| [Goodnight](https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR) | 2:37 | 2022-08-25 |  |
 | [Gotta Do More Gotta Be More](https://open.spotify.com/track/6Ai1aNmJ2hMMcx7QQyNIom) | [Trampolene](https://open.spotify.com/artist/28KtnfdwBHptsGPPWjeovU) | [Gotta Do More Gotta Be More](https://open.spotify.com/album/2OtLneHnXrZ3vjRMHJhjgL) | 2:37 | 2021-12-06 | 2022-07-28 |
 | [Guinness \- Edit](https://open.spotify.com/track/2wp24J3OWiDAw1I6wYJeLz) | [Good Health Good Wealth](https://open.spotify.com/artist/6oaEXmqVM7eQnzva7kHudo) | [Guinness](https://open.spotify.com/album/6pXZApwEcHeN6atzsVz4vg) | 3:28 | 2022-01-20 | 2022-04-18 |
 | [Half Full](https://open.spotify.com/track/6u10BK0FWxt58u6lMobxi5) | [Heavy Lungs](https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo) | [Measure](https://open.spotify.com/album/3zOosGBkqCzJTmC6W2brtt) | 4:19 | 2021-12-06 | 2022-07-26 |
@@ -216,7 +217,7 @@
 | [Queen Sophie for President](https://open.spotify.com/track/6EEdvLIM8kecYVtpA6Ug86) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Illusory Walls](https://open.spotify.com/album/2LF6m9cVyej7vKLnjwGiLK) | 3:29 | 2022-06-16 |  |
 | [Rabbit](https://open.spotify.com/track/0u2kTKd00Jk9UEbn9CxrYj) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/4Cc6blc4jNacdDuFiZMdEu) | 1:48 | 2021-12-06 | 2022-07-24 |
 | [Renew](https://open.spotify.com/track/0yAIvuU28qobZ7nO9QcwWL) | [Versing](https://open.spotify.com/artist/2EBCJ8wwWpJXAyjVoiwCw8) | [Renew](https://open.spotify.com/album/2JqAt90rEWisIk3iuw849v) | 3:22 | 2022-03-11 | 2022-04-21 |
-| [Reset My Password](https://open.spotify.com/track/6CKslfcC4WXPRFAjSItYm7) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Reset My Password](https://open.spotify.com/album/1PdUQ7q9ECtmZQjmp79DVI) | 2:50 | 2022-03-03 |  |
+| [Reset My Password](https://open.spotify.com/track/6CKslfcC4WXPRFAjSItYm7) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Reset My Password](https://open.spotify.com/album/1PdUQ7q9ECtmZQjmp79DVI) | 2:50 | 2022-03-03 | 2022-11-09 |
 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO) | 3:43 | 2021-12-06 |  |
 | [Room 156](https://open.spotify.com/track/31U2luPkRz8a8rMOp9n9aU) | [Crows](https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn) | [Room 156](https://open.spotify.com/album/1V4Jy2vEzGQwwJ9D34kJsr) | 4:00 | 2022-02-11 | 2022-07-22 |
 | [Rumpus Room](https://open.spotify.com/track/2fQ3EXY5NVpgql5Bg8gHoY) | [Xiu Xiu](https://open.spotify.com/artist/5JLqvjW3Nyom2OsRUyFsS9), [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [Rumpus Room](https://open.spotify.com/album/0SVZWu2Jr3u45O7nW377d6) | 3:44 | 2021-12-06 | 2022-07-25 |

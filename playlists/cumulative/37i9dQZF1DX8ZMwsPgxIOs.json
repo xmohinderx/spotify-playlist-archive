@@ -1227,10 +1227,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 322031,
       "name": "Leela",
       "url": "https://open.spotify.com/track/29OT2Z3wFP9dHbCkVTrTGA"
+    },
+    {
+      "album": {
+        "name": "LP2",
+        "url": "https://open.spotify.com/album/55sCnDa3AJX3CeSM0pSO8e"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322031,
+      "name": "Leela",
+      "url": "https://open.spotify.com/track/6FbdCNOZ4ldJPi43Rf01iE"
     },
     {
       "album": {

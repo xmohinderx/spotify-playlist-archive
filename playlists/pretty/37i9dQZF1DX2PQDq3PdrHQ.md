@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,003 likes - 269 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,678 likes - 269 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,7 +252,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 242 | [Hollow Moon](https://open.spotify.com/track/18dOs3YXGiMDWtZQqjzlyP) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6) | [Hollow Moon](https://open.spotify.com/album/4iHXaQR3FdwTF6GL2Zh79N) | 1:52 |
 | 243 | [I'm Lost](https://open.spotify.com/track/1tCt6daH9VzL5EkacfDb3G) | [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7) | [I'm Lost](https://open.spotify.com/album/6p5fvMJ6OGprIrM7nP8qyW) | 2:11 |
 | 244 | [Stargazer](https://open.spotify.com/track/5YLozzNjqUbMKAUCCWZqve) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Stargazer](https://open.spotify.com/album/2uP0396RrVf9489zLAdrNi) | 2:17 |
-| 245 | [Daisies](https://open.spotify.com/track/6DOyYPswW5sYusoLARF7Ir) | [myk](https://open.spotify.com/artist/7Fl8YkbVB7OAclJvy2Vl9H) | [Daisies](https://open.spotify.com/album/3OBR9X79LDcwVE6zKo6lVs) | 2:44 |
+| 245 | [Daisies](https://open.spotify.com/track/6dCexnYCQeuWLLNWgNEjfZ) | [myk](https://open.spotify.com/artist/7Fl8YkbVB7OAclJvy2Vl9H) | [Daisies](https://open.spotify.com/album/2jEhUSaTltL2XK196BMR5u) | 2:44 |
 | 246 | [cloud gazing](https://open.spotify.com/track/2C8lzS60apZalxtP83IM7w) | [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [cloud gazing](https://open.spotify.com/album/3FJQRereB1AdS9qRq1Zuyl) | 2:05 |
 | 247 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 |
 | 248 | [Explorer](https://open.spotify.com/track/18G5ecvEtqgqQ0lpu7WPda) | [Embien](https://open.spotify.com/artist/4KACX9SaKjjSY3qP8XNKPs) | [Explorer](https://open.spotify.com/album/0DUZH51kKZR7SEJazT7hME) | 2:33 |
@@ -278,4 +278,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 268 | [The right way](https://open.spotify.com/track/3ARJRdBJRpWr21xER2FgXr) | [Deep In A Dream](https://open.spotify.com/artist/3WOrrOBvpsk3noSkNQgRxj), [leo.drummer](https://open.spotify.com/artist/7gwqxYpgDJabcweudcwoUd) | [Dreamy Waves](https://open.spotify.com/album/5Gsb3ipeljvyBgi3aJBVMs) | 2:03 |
 | 269 | [Dawn](https://open.spotify.com/track/36BMjs8wDcpQZjRcipxlgx) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Dawn](https://open.spotify.com/album/0kPlC8bFxLBcTsdavgWq2j) | 1:44 |
 
-Snapshot ID: `MTY2Njk1NjQxNCwwMDAwMDAwMGJmNjQ1M2RjNzk1MWM5YWY1MjE2MDZjZjg4ODhmNDVh`
+Snapshot ID: `MTY2Njk1NjQxNCwwMDAwMDAwMGRlZWY0ZmQxNTc2YzkyY2Q1Y2QwYzM4NDdjODVhYWRh`

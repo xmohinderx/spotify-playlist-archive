@@ -1,12 +1,12 @@
 {
   "description": "cool tunes for walking, driving, running, flying, etc",
-  "num_followers": 154844,
+  "num_followers": 154990,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2MDkyMCwwMDAwMDAwMGQzNDNlZjk1ODc4YTkzNDZjYjU5MjkwY2I3YTMyN2I1",
+  "snapshot_id": "MTY2NTc2MDkyMCwwMDAwMDAwMDBiMGE0YTE5MDBmMTdlMjM5OGQ1NDgzM2RiMzhkMzFj",
   "tracks": [
     {
       "added_at": "2022-10-06 17:50:33",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Sea Sick",
-        "url": "https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ"
-      },
-      "artists": [
-        {
-          "name": "binki",
-          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
-        }
-      ],
-      "duration_ms": 130714,
-      "name": "Sea Sick",
-      "url": "https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "If This Is House I Want My Money Back 3",
         "url": "https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 285440,
       "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
       "url": "https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Sea Sick",
+        "url": "https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "duration_ms": 130714,
+      "name": "Sea Sick",
+      "url": "https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Cotton Candy Lemonade",
-        "url": "https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 146875,
-      "name": "Cotton Candy Lemonade",
-      "url": "https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Are We Going Too Slow?",
         "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 188380,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Cotton Candy Lemonade",
+        "url": "https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 146875,
+      "name": "Cotton Candy Lemonade",
+      "url": "https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 92000,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
         "name": "First Landing",
         "url": "https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 177260,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -751,6 +751,26 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
+        "name": "magic wand",
+        "url": "https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM"
+      },
+      "artists": [
+        {
+          "name": "url",
+          "url": "https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2"
+        },
+        {
+          "name": "Inadelle",
+          "url": "https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8"
+        }
+      ],
+      "duration_ms": 204688,
+      "name": "magic wand",
+      "url": "https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
         "name": "Comb My Hair",
         "url": "https://open.spotify.com/album/3ErfwLMu1oq718Jn1us5TQ"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 215400,
       "name": "Comb My Hair",
       "url": "https://open.spotify.com/track/6bAjvvI6Oo1MARyB2zDHPo"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
-        "name": "magic wand",
-        "url": "https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM"
-      },
-      "artists": [
-        {
-          "name": "url",
-          "url": "https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2"
-        },
-        {
-          "name": "Inadelle",
-          "url": "https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8"
-        }
-      ],
-      "duration_ms": 204688,
-      "name": "magic wand",
-      "url": "https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Cold Blood",
-        "url": "https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 164610,
-      "name": "Cold Blood",
-      "url": "https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Let The Morning Come",
         "url": "https://open.spotify.com/album/5RnpvaRRVTovVqy099c0ve"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 300506,
       "name": "I Don't Think We Should Wait",
       "url": "https://open.spotify.com/track/59PWRSbpBHbeI5pw6llR5v"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Cold Blood",
+        "url": "https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "duration_ms": 164610,
+      "name": "Cold Blood",
+      "url": "https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "HOW CAN I SLEEP",
-        "url": "https://open.spotify.com/album/6RAOysblAHnraRB2txh7C7"
-      },
-      "artists": [
-        {
-          "name": "Evenson",
-          "url": "https://open.spotify.com/artist/7sWocbRfg9Tc5jNfxcSxEd"
-        }
-      ],
-      "duration_ms": 267386,
-      "name": "HOW CAN I SLEEP",
-      "url": "https://open.spotify.com/track/7GfDyeYSkBWENSzZH0pYOv"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Yesteryear",
         "url": "https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 219795,
       "name": "Yesteryear",
       "url": "https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "HOW CAN I SLEEP",
+        "url": "https://open.spotify.com/album/6RAOysblAHnraRB2txh7C7"
+      },
+      "artists": [
+        {
+          "name": "Evenson",
+          "url": "https://open.spotify.com/artist/7sWocbRfg9Tc5jNfxcSxEd"
+        }
+      ],
+      "duration_ms": 267386,
+      "name": "HOW CAN I SLEEP",
+      "url": "https://open.spotify.com/track/7GfDyeYSkBWENSzZH0pYOv"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": ".WAV Theory",
-        "url": "https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD"
-      },
-      "artists": [
-        {
-          "name": "Towkio",
-          "url": "https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS"
-        }
-      ],
-      "duration_ms": 240897,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/3Ka18NiN5T4gsCZaFq6RRn"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/4PQDf50YszsrqUhCdqjLRv"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "14GRAMS",
-        "url": "https://open.spotify.com/album/45s1J9Yxx4F8Vu4xX02mp5"
+        "name": ".WAV Theory",
+        "url": "https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD"
       },
       "artists": [
         {
-          "name": "Angelo Mota",
-          "url": "https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF"
+          "name": "Towkio",
+          "url": "https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS"
         }
       ],
-      "duration_ms": 182833,
-      "name": "14GRAMS",
-      "url": "https://open.spotify.com/track/4sbcTN5D20TF4ouF0zPXXY"
+      "duration_ms": 240897,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/3Ka18NiN5T4gsCZaFq6RRn"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1019,6 +1003,22 @@
       "duration_ms": 189617,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/2uLo22etHF1lbCBngK0Bim"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "14GRAMS",
+        "url": "https://open.spotify.com/album/45s1J9Yxx4F8Vu4xX02mp5"
+      },
+      "artists": [
+        {
+          "name": "Angelo Mota",
+          "url": "https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF"
+        }
+      ],
+      "duration_ms": 182833,
+      "name": "14GRAMS",
+      "url": "https://open.spotify.com/track/4sbcTN5D20TF4ouF0zPXXY"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
+        "name": "TECHNICOLOR",
+        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
+      },
+      "artists": [
+        {
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+        }
+      ],
+      "duration_ms": 162135,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/3HwOQx5ROlGQjQgu0YByuL"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
         "name": "Driving in the City",
         "url": "https://open.spotify.com/album/4uzhGURcS9dnzQVsXrryPH"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 160243,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
-        "name": "TECHNICOLOR",
-        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
-      },
-      "artists": [
-        {
-          "name": "Josh Fudge",
-          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
-        }
-      ],
-      "duration_ms": 162135,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/3HwOQx5ROlGQjQgu0YByuL"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "tell me",
-        "url": "https://open.spotify.com/album/60b3J04XJSRPND2NpLudfR"
-      },
-      "artists": [
-        {
-          "name": "Naji",
-          "url": "https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK"
-        }
-      ],
-      "duration_ms": 160563,
-      "name": "tell me",
-      "url": "https://open.spotify.com/track/2nMSF0m6G8W6MVK0Eq7tKX"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Floating Head",
         "url": "https://open.spotify.com/album/4neSleLeckCi30cdozC6U7"
       },
@@ -1395,22 +1379,18 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Up All Night (Oliver Remix)",
-        "url": "https://open.spotify.com/album/3loMThbNeSWIuwZHG2SsDa"
+        "name": "tell me",
+        "url": "https://open.spotify.com/album/60b3J04XJSRPND2NpLudfR"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Oliver",
-          "url": "https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K"
+          "name": "Naji",
+          "url": "https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK"
         }
       ],
-      "duration_ms": 266983,
-      "name": "Up All Night - Oliver Remix",
-      "url": "https://open.spotify.com/track/12aQRcFFIh1zAoPOGTVY2y"
+      "duration_ms": 160563,
+      "name": "tell me",
+      "url": "https://open.spotify.com/track/2nMSF0m6G8W6MVK0Eq7tKX"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1427,6 +1407,26 @@
       "duration_ms": 118363,
       "name": "\u200erubber \u200echecks",
       "url": "https://open.spotify.com/track/2VJ40dmMMmZCxZkeEbPKpo"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Up All Night (Oliver Remix)",
+        "url": "https://open.spotify.com/album/3loMThbNeSWIuwZHG2SsDa"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Oliver",
+          "url": "https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K"
+        }
+      ],
+      "duration_ms": 266983,
+      "name": "Up All Night - Oliver Remix",
+      "url": "https://open.spotify.com/track/12aQRcFFIh1zAoPOGTVY2y"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Digital Tribal",
-        "url": "https://open.spotify.com/album/04l7BttBEXWOLVGRNv16zg"
-      },
-      "artists": [
-        {
-          "name": "Angelnumber 8",
-          "url": "https://open.spotify.com/artist/1JQUgMIvUyaBVfCv4FOn4i"
-        }
-      ],
-      "duration_ms": 156818,
-      "name": "Last Laugh",
-      "url": "https://open.spotify.com/track/2cMbR3st2EFMvznwB0ogjj"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Quarantine Casanova",
         "url": "https://open.spotify.com/album/5mdkqTHEmp4RvBVU8hZZCy"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 271880,
       "name": "Clorox Wipe",
       "url": "https://open.spotify.com/track/3SkDCAsph6e4ExoUQ1dVW0"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Digital Tribal",
+        "url": "https://open.spotify.com/album/04l7BttBEXWOLVGRNv16zg"
+      },
+      "artists": [
+        {
+          "name": "Angelnumber 8",
+          "url": "https://open.spotify.com/artist/1JQUgMIvUyaBVfCv4FOn4i"
+        }
+      ],
+      "duration_ms": 156818,
+      "name": "Last Laugh",
+      "url": "https://open.spotify.com/track/2cMbR3st2EFMvznwB0ogjj"
     },
     {
       "added_at": "2022-10-06 17:50:33",

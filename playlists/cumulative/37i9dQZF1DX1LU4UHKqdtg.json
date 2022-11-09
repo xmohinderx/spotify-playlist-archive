@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: ENHYPEN",
+  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: SEVENTEEN",
   "name": "K-Pop Fresh",
   "published_playlist_ids": [
     "7M2UzkWe0rrHEXaOnPr3Xw"
@@ -727,6 +727,28 @@
       "duration_ms": 205466,
       "name": "Better Spring",
       "url": "https://open.spotify.com/track/7095L2bmNhv139ccLIikAH"
+    },
+    {
+      "album": {
+        "name": "Big Revolution",
+        "url": "https://open.spotify.com/album/0gy9aiWcEdT6nP6di9ue68"
+      },
+      "artists": [
+        {
+          "name": "J-JUN",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        },
+        {
+          "name": "SUGIZO",
+          "url": "https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Big Revolution",
+      "url": "https://open.spotify.com/track/3eHmrcYGwnMEnAaq5irY3j"
     },
     {
       "album": {
@@ -1890,6 +1912,24 @@
     },
     {
       "album": {
+        "name": "DREAM",
+        "url": "https://open.spotify.com/album/2cXtPWMSKgf55ERnDrzZQb"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186066,
+      "name": "DREAM",
+      "url": "https://open.spotify.com/track/0PwknbaUVwXJSmRh7qSfyi"
+    },
+    {
+      "album": {
         "name": "Dreams Come True - SM STATION",
         "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
       },
@@ -2189,7 +2229,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 166706,
       "name": "Feelin' Like - Japanese Version",
       "url": "https://open.spotify.com/track/5a4AFIpyhzLCom8IgDH6mU"
@@ -4063,7 +4103,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 239829,
       "name": "MOON",
       "url": "https://open.spotify.com/track/5RI1whCCdURswHqaJqyOw4"
@@ -6143,7 +6183,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 182033,
       "name": "That's all I'm saying",
       "url": "https://open.spotify.com/track/2fziAh8GECzOzuWl3TtuHV"

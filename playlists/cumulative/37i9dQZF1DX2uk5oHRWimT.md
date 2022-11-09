@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-180 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
+181 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Christmas Song](https://open.spotify.com/track/05GBNU3wMadW9u9sBWSleI) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Bands Under the Radar, Vol\. 3: A Very Indie Xmas](https://open.spotify.com/album/5h9XjfTvHmyyEguisaCi8F) | 3:11 | 2021-11-09 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/737QrlDXQ60hnDCkzUDxhK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [The Christmas EP](https://open.spotify.com/album/7yjyuhHmTnwnqIMGYzWU1F) | 2:59 | 2021-11-09 |  |
 | [Christmas Tree](https://open.spotify.com/track/1DauQsxBWMtYJmiV6iIKHq) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Father Christmas](https://open.spotify.com/album/3tIAOisF8RB8jiJdCgMIwN) | 3:13 | 2021-11-09 |  |
-| [Christmas TV](https://open.spotify.com/track/3rY8Jrj9Kl1hOxQEy3q0KL) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Christmas Thanks For Nothing EP](https://open.spotify.com/album/5bQr6FKJIFGrUT8gduh3ue) | 4:32 | 2021-11-09 |  |
+| [Christmas TV](https://open.spotify.com/track/0kHjHqxChomxRGyemgnPZb) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Christmas Thanks For Nothing EP](https://open.spotify.com/album/5XYnX9vysTaxSLegXX4ML2) | 4:32 | 2021-11-09 |  |
+| [Christmas TV](https://open.spotify.com/track/3rY8Jrj9Kl1hOxQEy3q0KL) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Christmas Thanks For Nothing EP](https://open.spotify.com/album/5bQr6FKJIFGrUT8gduh3ue) | 4:32 | 2021-11-09 | 2022-11-09 |
 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 | 2021-11-09 |  |
 | [Christmas Wish](https://open.spotify.com/track/7e13koqPdcVWDu1bUYL9V8) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/1ikep3Z5OsNFPi1g1wjHSY) | 2:57 | 2021-11-09 | 2022-07-29 |
 | [Christmas With You](https://open.spotify.com/track/46Uone4mIG2wQDMKtqYM9Y) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Christmas With You](https://open.spotify.com/album/56TX3aCqsIqIvHnYQK0GlF) | 2:29 | 2021-11-09 |  |

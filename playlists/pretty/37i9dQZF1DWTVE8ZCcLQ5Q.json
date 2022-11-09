@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421287,
+  "num_followers": 421285,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMDQ5N2ZiMGZjZWU3OTAwOTY5ZjEzODIwOGU5MWM4ZWNk",
+  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMDNlYmU0MjhlZGVmM2M3MDI0NDk0YWQ3MzUyNTQ5MTI0",
   "tracks": [
     {
       "added_at": "2022-10-14 20:28:37",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
+        "name": "aff...",
+        "url": "https://open.spotify.com/album/1RgHtIFOdynYGzZy1Klmfo"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 164471,
+      "name": "aff...",
+      "url": "https://open.spotify.com/track/1WIGGd7w3ecJWvNnaXgm1B"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
         "name": "Te Deixo Crazy",
         "url": "https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 164908,
       "name": "Te Deixo Crazy",
       "url": "https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
-        "name": "aff...",
-        "url": "https://open.spotify.com/album/1RgHtIFOdynYGzZy1Klmfo"
-      },
-      "artists": [
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 164471,
-      "name": "aff...",
-      "url": "https://open.spotify.com/track/1WIGGd7w3ecJWvNnaXgm1B"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Comum - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
-      },
-      "artists": [
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Comum - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
         "name": "Meu Amor",
         "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
+        "name": "Comum - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
+      },
+      "artists": [
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Comum - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
         "name": "bonita e miser\u00e1vel",
         "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
       },
@@ -735,6 +735,30 @@
       "duration_ms": 171601,
       "name": "bonita e miser\u00e1vel",
       "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
+        "name": "Todo Mundo Ama o Sol",
+        "url": "https://open.spotify.com/album/2NgVCkUvypsuwrxloKor6X"
+      },
+      "artists": [
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Beira Mar",
+      "url": "https://open.spotify.com/track/0behTwZwYY2BR47eX3GjCq"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -763,30 +787,6 @@
       "duration_ms": 216923,
       "name": "Potranca",
       "url": "https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
-        "name": "Todo Mundo Ama o Sol",
-        "url": "https://open.spotify.com/album/2NgVCkUvypsuwrxloKor6X"
-      },
-      "artists": [
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        },
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "pumapjl",
-          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Beira Mar",
-      "url": "https://open.spotify.com/track/0behTwZwYY2BR47eX3GjCq"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF"
-      },
-      "artists": [
-        {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
-        },
-        {
-          "name": "Belo",
-          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
-        }
-      ],
-      "duration_ms": 233236,
-      "name": "Vendaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 200173,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
+        "name": "Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "duration_ms": 233236,
+      "name": "Vendaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Bendito Rol\u00ea",
-        "url": "https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH"
-      },
-      "artists": [
-        {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        }
-      ],
-      "duration_ms": 185749,
-      "name": "Eu Fico",
-      "url": "https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
         "name": "Devagarin",
         "url": "https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 154331,
       "name": "Devagarin",
       "url": "https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
+        "name": "Bendito Rol\u00ea",
+        "url": "https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        }
+      ],
+      "duration_ms": 185749,
+      "name": "Eu Fico",
+      "url": "https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT"
     },
     {
       "added_at": "2022-10-14 20:28:37",

@@ -4,7 +4,7 @@
 
 > Meet the 10 songs selected by Paloalto at the top of the playlist! You can check the reason for selection through Clips\. \(Cover: Paloalto\) \(팔로알토가 직접 선곡한 10곡을 플레이리스트 상단에서 만나보세요! 선정 이유는 클립스를 통해 확인하실 수 있습니다\. \(커버: 팔로알토\)
 
-664 songs - 1 day 12 hr 42 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+665 songs - 1 day 12 hr 45 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [EMPTY GLASS \(Feat\. Bona Zoe\) \(Prod\. TOIL\)](https://open.spotify.com/track/2YOybbhiuvqlJhVi1FpjhK) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Bona Zoe](https://open.spotify.com/artist/1Y0vVGBkBNCcR0swcfXR1z) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 3:43 | 2022-08-17 | 2022-10-15 |
 | [End of the World](https://open.spotify.com/track/0jtVg4s7gv44qWwCnqBBWP) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:34 | 2021-12-18 | 2022-07-08 |
 | [Error \(Feat\. Loopy\)](https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:27 | 2021-12-18 | 2022-09-23 |
+| [Everything](https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Everything](https://open.spotify.com/album/2zpEkut1D2xF0daaWj8lYt) | 3:04 | 2022-11-08 |  |
 | [EXN’S ANSWER](https://open.spotify.com/track/461WjZx4PvGCo7nuCtt1Bx) | [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE) | [EXN’S ANSWER](https://open.spotify.com/album/6XvtA8g7YfYlHKWyqT9wsd) | 2:46 | 2022-04-18 | 2022-07-03 |
 | [EXS](https://open.spotify.com/track/6nu5TMQFH9CKVQV7l4t1DD) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [926](https://open.spotify.com/album/46UAhlKGdxGrdPaa65MsQK) | 2:34 | 2022-07-07 | 2022-10-08 |
 | [F\(ucked up\) \(Feat\. Gaeko, GRAY\)](https://open.spotify.com/track/3WKOfIpqPHnhzogH2Ds73k) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 3:39 | 2021-12-21 | 2022-06-25 |

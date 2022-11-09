@@ -4,7 +4,7 @@
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-318 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/6766dEAAxph4xC3lqrOMfT)
+319 songs - 19 hr 1 min - [published](https://open.spotify.com/playlist/6766dEAAxph4xC3lqrOMfT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bittersweet](https://open.spotify.com/track/2QpnSClOM7rfaUMOUOE5vP) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/6lx2RftWLDUAJnU0LTdapo) | 3:28 | 2022-03-24 | 2022-07-25 |
 | [Body Language](https://open.spotify.com/track/15VB0uLh5VP3bs3hLJM1I7) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Body Language](https://open.spotify.com/album/3ZNvrzPJ5AQZscVD2kWGVN) | 3:35 | 2022-01-27 | 2022-07-29 |
 | [Bop!](https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9) | 2:36 | 2022-01-27 | 2022-10-13 |
+| [Bop!](https://open.spotify.com/track/3Q1gQYEuz3jXyUXgSkimGH) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/2mkXqWgvcHVNM2Vy6kHH2R) | 2:36 | 2022-04-16 |  |
 | [Bossy \- Main Version Clean](https://open.spotify.com/track/0EuXDZQb87zooG5IPNpl18) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Bossy](https://open.spotify.com/album/4QhNssZYg1k1LIViNe98SK) | 4:10 | 2022-01-27 | 2022-07-28 |
 | [Boy Problems](https://open.spotify.com/track/2YalDCU0tWxJfNdFPor3Rh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion](https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV) | 3:42 | 2022-01-27 | 2022-07-29 |
 | [Boyfriend](https://open.spotify.com/track/0S6sjNANUq2WBlGbwPmAN9) | [Alphabeat](https://open.spotify.com/artist/7Defmv25Kj9knpobhHIghm) | [This Is Alphabeat](https://open.spotify.com/album/4dzRQNfbgCqWFHLJjgzBic) | 3:13 | 2022-01-27 | 2022-07-23 |
@@ -159,7 +160,7 @@
 | [I Wrote the Book](https://open.spotify.com/track/5yHmkXEK225be9S7A5VpaF) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [EP](https://open.spotify.com/album/3tALUE6LjM6TyHQ1MufW6w) | 3:24 | 2022-03-24 | 2022-04-21 |
 | [I'm a Mess](https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:15 | 2022-03-08 |  |
 | [I'm Alive](https://open.spotify.com/track/1l8wkh5QZFK8oPqLeLJRy2) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [My Love Ultimate Essential Collection](https://open.spotify.com/album/2v0al3Hr4YsxSR5vGWE0OJ) | 3:31 | 2022-03-24 | 2022-04-20 |
-| [I'm Gonna Show You Crazy](https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:27 | 2022-03-08 |  |
+| [I'm Gonna Show You Crazy](https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:27 | 2022-03-08 | 2022-11-09 |
 | [If U Seek Amy](https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:36 | 2022-01-27 |  |
 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2022-01-27 |  |
 | [Indestructible](https://open.spotify.com/track/3pvwgs4ce6SzIW9ZM4UGsp) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/5EaHrdZSDdapvGMLKYaIe7) | 3:40 | 2022-01-27 | 2022-02-18 |

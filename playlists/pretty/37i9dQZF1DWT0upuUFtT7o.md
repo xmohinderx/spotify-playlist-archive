@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Abby Sage, Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,482 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,564 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 65 | [Afterglow](https://open.spotify.com/track/2Pf61uNhKSEsOJ7FEtBibJ) | [Candy Moore](https://open.spotify.com/artist/3U7I69WIz0gHzaKBFMp2uO) | [Memory Of Hope](https://open.spotify.com/album/67ijdVKZNEHDHkfXGs4AZb) | 2:34 |
 | 66 | [rest](https://open.spotify.com/track/7jVIHU3PXfJOmMltbH6lGM) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rest](https://open.spotify.com/album/4FjESddwuVDtpbQGYVwxOV) | 2:26 |
 | 67 | [Like You](https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Like You](https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs) | 3:50 |
-| 68 | [Poolside](https://open.spotify.com/track/20ejUODQmy71RQPk2H1QLB) | [Grandamme](https://open.spotify.com/artist/4CTURx9lZOLdwV4z8kIoRv), [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Holy Mountain](https://open.spotify.com/album/2DcuqLwSuqOYdpUiI6bZGZ) | 2:04 |
+| 68 | [Poolside](https://open.spotify.com/track/6hLl2nFQvImmvDbbyBpc7u) | [Grandamme](https://open.spotify.com/artist/4CTURx9lZOLdwV4z8kIoRv), [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Holy Mountain](https://open.spotify.com/album/0RHUyYyxidTJp1lDmxbaxB) | 2:04 |
 | 69 | [DONT FEEL A THING](https://open.spotify.com/track/2HGDq8PHoEPMBPDwKgkyJW) | [L\. Martin](https://open.spotify.com/artist/7FaK75sCygoTpw3RE9F9e8) | [DONT FEEL A THING](https://open.spotify.com/album/4q7Y7byKkZFi9rgK7T5rtN) | 1:14 |
 | 70 | [Y o Y](https://open.spotify.com/track/2o630PUPBm3pjEdllOiErd) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Y o Y](https://open.spotify.com/album/6xNUG5JbT6SEQ4tw0YF0MU) | 2:23 |
 | 71 | [Ryan Song](https://open.spotify.com/track/0hMKWJo9j1Vzc69tZFRTkp) | [Knifeplay](https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i) | [Ryan Song](https://open.spotify.com/album/5dRdQCwWXDvXvGkmixSmvW) | 4:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 74 | [Black Horses](https://open.spotify.com/track/1t9tVgHKBxVXqJapWlvakJ) | [Lucy 22](https://open.spotify.com/artist/1Y2zpWghC2JzicNPGf4VMg), [Indieclimb](https://open.spotify.com/artist/5wk5mLirrHPNbkvor0f5S2) | [Black Horses](https://open.spotify.com/album/2qE6CrrfYO0LbXRFAjwMvo) | 4:35 |
 | 75 | [confident](https://open.spotify.com/track/0l5RnR0hCX0PnOlYuR6x3q) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [I started a garden](https://open.spotify.com/album/11suIFqciw4aNWEBRtJjPj) | 2:17 |
 
-Snapshot ID: `MTY2NjkyODk1MSwwMDAwMDAwMDRhMGU4NGY0OGRmMDJkYTExMDAxZTRmNWYyZGNmZTJm`
+Snapshot ID: `MTY2NjkyODk1MSwwMDAwMDAwMDNiYjczZGUzMWEyMzk5NDhkMzk0OWYwZTFmMzBlNTE5`

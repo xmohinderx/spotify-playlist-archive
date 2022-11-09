@@ -1,15 +1,15 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 17613,
+  "num_followers": 17647,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDViYmU3ZjZhODQ2MDRjMGFmMzk4NGVhNjdlMDgxNWMy",
+  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDA1YzEzZjlkYjdmODM4ZGFmMWE1NjYwZDQ4NGJmZGNl",
   "tracks": [
     {
-      "added_at": "2022-11-08 01:23:05",
+      "added_at": "2022-11-09 02:32:38",
       "album": {
         "name": "Gahdamn",
         "url": "https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0"
@@ -983,6 +983,26 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "Street Lights",
+        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 153934,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "Kap On Edge",
         "url": "https://open.spotify.com/album/4d10Uz7cuKkX6jFXWxV30v"
       },
@@ -1023,22 +1043,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "She Gon Choose (feat. Lil Weirdo)",
-        "url": "https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz"
-      },
-      "artists": [
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 117833,
-      "name": "I\u2019m Back",
-      "url": "https://open.spotify.com/track/0UKblI4ZDkfbTwKxrBsGPS"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "i'm Hot",
         "url": "https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF"
       },
@@ -1055,6 +1059,22 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "She Gon Choose (feat. Lil Weirdo)",
+        "url": "https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz"
+      },
+      "artists": [
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 117833,
+      "name": "I\u2019m Back",
+      "url": "https://open.spotify.com/track/0UKblI4ZDkfbTwKxrBsGPS"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "SPIDERCAT",
         "url": "https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 102857,
       "name": "SPIDERCAT",
       "url": "https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "Street Lights",
-        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 153934,
-      "name": "Street Lights",
-      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "From The Gravel",
-        "url": "https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo"
-      },
-      "artists": [
-        {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
-        }
-      ],
-      "duration_ms": 117629,
-      "name": "From The Gravel",
-      "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "V\u00e1monos",
         "url": "https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "SAUCE ME UP PESO",
-        "url": "https://open.spotify.com/album/7wPk7RKVEyu1bz0LlmwwVp"
+        "name": "From The Gravel",
+        "url": "https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo"
       },
       "artists": [
         {
-          "name": "Peso Peso",
-          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
         }
       ],
-      "duration_ms": 193028,
-      "name": "SAUCE ME UP",
-      "url": "https://open.spotify.com/track/2V444I4cSmVo8IQZkOP5cs"
+      "duration_ms": 117629,
+      "name": "From The Gravel",
+      "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1207,6 +1191,22 @@
       "duration_ms": 135959,
       "name": "Palo De Santo",
       "url": "https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "SAUCE ME UP PESO",
+        "url": "https://open.spotify.com/album/7wPk7RKVEyu1bz0LlmwwVp"
+      },
+      "artists": [
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        }
+      ],
+      "duration_ms": 193028,
+      "name": "SAUCE ME UP",
+      "url": "https://open.spotify.com/track/2V444I4cSmVo8IQZkOP5cs"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "Paid in Full",
+        "url": "https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj"
+      },
+      "artists": [
+        {
+          "name": "Ybe",
+          "url": "https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz"
+        }
+      ],
+      "duration_ms": 155344,
+      "name": "Paid in Full",
+      "url": "https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "Badabing",
         "url": "https://open.spotify.com/album/5no7RSOP6ijBzUQ0F4q2ha"
       },
@@ -1291,18 +1307,22 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Paid in Full",
-        "url": "https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj"
+        "name": "SLIDIN",
+        "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
       },
       "artists": [
         {
-          "name": "Ybe",
-          "url": "https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz"
+          "name": "Omar Cruz",
+          "url": "https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28"
+        },
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
         }
       ],
-      "duration_ms": 155344,
-      "name": "Paid in Full",
-      "url": "https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb"
+      "duration_ms": 158007,
+      "name": "SLIDIN",
+      "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1327,22 +1347,22 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "SLIDIN",
-        "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j"
       },
       "artists": [
         {
-          "name": "Omar Cruz",
-          "url": "https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28"
+          "name": "Aj Hernz",
+          "url": "https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm"
         },
         {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+          "name": "Alexcis",
+          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
         }
       ],
-      "duration_ms": 158007,
-      "name": "SLIDIN",
-      "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
+      "duration_ms": 143622,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1367,26 +1387,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j"
-      },
-      "artists": [
-        {
-          "name": "Aj Hernz",
-          "url": "https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm"
-        },
-        {
-          "name": "Alexcis",
-          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
-        }
-      ],
-      "duration_ms": 143622,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "Hail Mary",
         "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 159653,
       "name": "Hail Mary",
       "url": "https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Fuck The Yotes",
+        "url": "https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Fuck The Yotes",
+      "url": "https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 114936,
       "name": "Barbacoa",
       "url": "https://open.spotify.com/track/0TPhatnTdEG2FVxFHqlEij"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "100 bars",
-        "url": "https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz"
-      },
-      "artists": [
-        {
-          "name": "Doeboi909",
-          "url": "https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG"
-        }
-      ],
-      "duration_ms": 321360,
-      "name": "100 bars",
-      "url": "https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB"
     }
   ],
   "unique_name": "Our Wave, Nuestro Hip-Hop",

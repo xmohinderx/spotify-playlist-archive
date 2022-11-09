@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Drake, 21 Savage, NLE Choppa, Masego, Rican Da Menace, Mickey Guyton, and many more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,080 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,154 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

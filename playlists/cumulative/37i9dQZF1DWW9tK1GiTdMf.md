@@ -4,7 +4,7 @@
 
 > "prendete il mio cuore e lanciatelo sulle stelle" ❤️‍🩹
 
-294 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+295 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:05 | 2022-10-06 |  |
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-05-06 | 2022-07-01 |
 | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu) | 2:18 | 2022-05-26 | 2022-06-10 |
+| [VA SEMPRE PEGGIO](https://open.spotify.com/track/5krUYcVNkG8om59CRJrISE) | [La Stalla](https://open.spotify.com/artist/4XnlgX9eaUXdOc75E81PjI) | [STALLA MXTP 2](https://open.spotify.com/album/2tCqETeHkk3gOw80RjbYQB) | 3:34 | 2022-11-08 |  |
 | [Vaffanculo](https://open.spotify.com/track/548LyUc3pWyFwzc65W8iOS) | [Emmeffe](https://open.spotify.com/artist/1ysP3azGK2mKVXFdZr3BtK) | [Vaffanculo](https://open.spotify.com/album/5YrCSnfadRdt1iaeC5sYQy) | 3:10 | 2022-07-28 |  |
 | [Venuto da Vivere](https://open.spotify.com/track/5ybCFXpfeH37QPhaAfgB8X) | [Hal Quartièr](https://open.spotify.com/artist/5eSrt3y7HWtkmuAFGeMbBj) | [Venuto da Vivere](https://open.spotify.com/album/7oM1LTpA1NigaudTANb2wx) | 3:16 | 2022-09-22 | 2022-10-14 |
 | [Vestita Di Fiori](https://open.spotify.com/track/2bHsanZayVWXyMvtTYS3rZ) | [Shori](https://open.spotify.com/artist/7e2mwTlmw50hYfwXatQiLG) | [Vestita Di Fiori](https://open.spotify.com/album/5omJpBPuoNpIS39W6U7FzF) | 2:24 | 2022-05-06 | 2022-06-17 |

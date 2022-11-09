@@ -1,12 +1,12 @@
 {
   "description": "Deize Tigrona e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 129929,
+  "num_followers": 129910,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM1ODAwMCwwMDAwMDAwMDU4MzllNmVlNDc3MzJjZjFmYzcxMzdhZWE4ZjZjOTVj",
+  "snapshot_id": "MTY2NzM1ODAwMCwwMDAwMDAwMDNlOGM5NTIyYWZhMjZjZDk4M2QzMGEyYjliNjE4M2Qw",
   "tracks": [
     {
       "added_at": "2022-11-02 03:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-11-02 03:00:00",
       "album": {
-        "name": "Hoje Eu Vou Dar uma Sentadinha",
-        "url": "https://open.spotify.com/album/2ERJxD3rl7r66fHJURjCon"
-      },
-      "artists": [
-        {
-          "name": "Mc Danny",
-          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
-        }
-      ],
-      "duration_ms": 145953,
-      "name": "Hoje Eu Vou Dar uma Sentadinha",
-      "url": "https://open.spotify.com/track/67MzL6NnggPqvBfJVzoYwX"
-    },
-    {
-      "added_at": "2022-11-02 03:00:00",
-      "album": {
         "name": "Dar Uma Deitchada",
         "url": "https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 192614,
       "name": "Dar Uma Deitchada",
       "url": "https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R"
+    },
+    {
+      "added_at": "2022-11-02 03:00:00",
+      "album": {
+        "name": "Hoje Eu Vou Dar uma Sentadinha",
+        "url": "https://open.spotify.com/album/2ERJxD3rl7r66fHJURjCon"
+      },
+      "artists": [
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        }
+      ],
+      "duration_ms": 145953,
+      "name": "Hoje Eu Vou Dar uma Sentadinha",
+      "url": "https://open.spotify.com/track/67MzL6NnggPqvBfJVzoYwX"
     },
     {
       "added_at": "2022-11-02 03:00:00",
@@ -407,22 +407,26 @@
     {
       "added_at": "2022-11-02 03:00:00",
       "album": {
-        "name": "Boladona",
-        "url": "https://open.spotify.com/album/7KO4hTUN3Jeo5LE6W2ZRbo"
+        "name": "Aguenta Caladinha",
+        "url": "https://open.spotify.com/album/1hAKPxee4ubrf4EzXlNXSz"
       },
       "artists": [
         {
-          "name": "Tati Quebra Barraco",
-          "url": "https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts"
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
         },
         {
-          "name": "DJ Marlboro",
-          "url": "https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY"
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
         }
       ],
-      "duration_ms": 126520,
-      "name": "Boladona",
-      "url": "https://open.spotify.com/track/5ylZRbTn28rfKILSrBRKM2"
+      "duration_ms": 205902,
+      "name": "Aguenta Caladinha",
+      "url": "https://open.spotify.com/track/5vUQOsGWg3wyMClrSiQ3Yo"
     },
     {
       "added_at": "2022-11-02 03:00:00",
@@ -447,26 +451,22 @@
     {
       "added_at": "2022-11-02 03:00:00",
       "album": {
-        "name": "Aguenta Caladinha",
-        "url": "https://open.spotify.com/album/1hAKPxee4ubrf4EzXlNXSz"
+        "name": "Boladona",
+        "url": "https://open.spotify.com/album/7KO4hTUN3Jeo5LE6W2ZRbo"
       },
       "artists": [
         {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+          "name": "Tati Quebra Barraco",
+          "url": "https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts"
         },
         {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+          "name": "DJ Marlboro",
+          "url": "https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY"
         }
       ],
-      "duration_ms": 205902,
-      "name": "Aguenta Caladinha",
-      "url": "https://open.spotify.com/track/5vUQOsGWg3wyMClrSiQ3Yo"
+      "duration_ms": 126520,
+      "name": "Boladona",
+      "url": "https://open.spotify.com/track/5ylZRbTn28rfKILSrBRKM2"
     },
     {
       "added_at": "2022-11-02 03:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-11-02 03:00:00",
       "album": {
+        "name": "Tocar Voc\u00ea",
+        "url": "https://open.spotify.com/album/1j9NHpnPLuqZiJrHCwpuwS"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 274697,
+      "name": "Tocar Voc\u00ea",
+      "url": "https://open.spotify.com/track/5VRB711STIp9w5qEDtuotz"
+    },
+    {
+      "added_at": "2022-11-02 03:00:00",
+      "album": {
         "name": "Donas da Putaria",
         "url": "https://open.spotify.com/album/5eDpNOdcSqPzGn2PkGbFF4"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 199110,
       "name": "Donas da Putaria",
       "url": "https://open.spotify.com/track/4ZeRK5k8FrS0YFcErINKrg"
-    },
-    {
-      "added_at": "2022-11-02 03:00:00",
-      "album": {
-        "name": "Tocar Voc\u00ea",
-        "url": "https://open.spotify.com/album/1j9NHpnPLuqZiJrHCwpuwS"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 274697,
-      "name": "Tocar Voc\u00ea",
-      "url": "https://open.spotify.com/track/5VRB711STIp9w5qEDtuotz"
     },
     {
       "added_at": "2022-11-02 03:00:00",

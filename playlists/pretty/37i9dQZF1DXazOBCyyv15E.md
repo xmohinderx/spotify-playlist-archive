@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: BERWYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,369 likes - 82 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,396 likes - 82 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 60 | [Rid Of Me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 |
 | 61 | [Waiting for My Turn to Speak](https://open.spotify.com/track/72AaUURjD0tS0mZUjkI9ok) | [scott is okay](https://open.spotify.com/artist/74sQB0xBWG3zl72UcRjIKK) | [Realising How to Act in Certain Instances](https://open.spotify.com/album/46QVzhVxvOsqagSTuExF1t) | 2:20 |
 | 62 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
-| 63 | [Poolside](https://open.spotify.com/track/20ejUODQmy71RQPk2H1QLB) | [Grandamme](https://open.spotify.com/artist/4CTURx9lZOLdwV4z8kIoRv), [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Holy Mountain](https://open.spotify.com/album/2DcuqLwSuqOYdpUiI6bZGZ) | 2:04 |
+| 63 | [Poolside](https://open.spotify.com/track/6hLl2nFQvImmvDbbyBpc7u) | [Grandamme](https://open.spotify.com/artist/4CTURx9lZOLdwV4z8kIoRv), [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Holy Mountain](https://open.spotify.com/album/0RHUyYyxidTJp1lDmxbaxB) | 2:04 |
 | 64 | [Good Stuff](https://open.spotify.com/track/4azvuhzMvNQjODk5yHFDSx) | [Chi Virgo](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Good Stuff](https://open.spotify.com/album/6y7dP6U0jvz5vvGlywkq9l) | 2:18 |
 | 65 | [Never Mind](https://open.spotify.com/track/7AsR6M00PcFOQP5Nh9xgTN) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Never Mind](https://open.spotify.com/album/6Ur41GEY7xj5EM3bUYUm57) | 3:36 |
 | 66 | [Immunity](https://open.spotify.com/track/1EQFnxBTDsUJhnFzEYOuLc) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:50 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 81 | [Second Nature](https://open.spotify.com/track/0fiViisu7WflcoY6YedSnq) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 5:47 |
 | 82 | [up all week \(with slowthai\)](https://open.spotify.com/track/1l73bwJECQdHrcep2LNwLG) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:02 |
 
-Snapshot ID: `MTY2NzA1MDQzNSwwMDAwMDAwMGU2ZDEwMWI5NDY4YjUzZGE5YjY0NmQyMzU3YThjZDlm`
+Snapshot ID: `MTY2NzA1MDQzNSwwMDAwMDAwMGFiYjExMGY0ZTVhYzNjMjZhMThlOTlkZjk3NzIzMDEz`

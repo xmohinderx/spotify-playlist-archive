@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez notre sélection des artistes à suivre\. Photo : Zaho de Sagazan
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,238 likes - 29 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,259 likes - 29 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Suffisamment](https://open.spotify.com/track/7jIsa1OvMZSWWmOxqekPCx) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/1xwjEIbQEqd9gFnUlm0SUb) | 3:46 |
+| 1 | [Suffisamment](https://open.spotify.com/track/2G0jAoWT4mtcvsOyXaWzSt) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/5bYohHTjPB1Na7wcv5YRG3) | 3:46 |
 | 2 | [Tarzan](https://open.spotify.com/track/7bTEYM4keeHBnm8h0nBj5G) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Tarzan](https://open.spotify.com/album/0vvWbMFuL708tNtMx4Z2QL) | 3:10 |
 | 3 | [Roméo&Juliette](https://open.spotify.com/track/2tIWSnNLyD2EdGgcnkyzl3) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Roméo&Juliette](https://open.spotify.com/album/59WxYXTPmlmd2Y1aZWM6eP) | 3:52 |
 | 4 | [Faire le bien](https://open.spotify.com/track/2J0rXl0ku1QJ6pwV4KfqBw) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [Jeune The Doug](https://open.spotify.com/album/5XXx9jvwEc4r3C9yXciIEo) | 3:02 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 28 | [Rue des Pervenches](https://open.spotify.com/track/3UcIv7IH3RFHKOVOAJEgiz) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Rue des Pervenches](https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5) | 3:39 |
 | 29 | [Coucou](https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jour avant caviar](https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF) | 2:41 |
 
-Snapshot ID: `MTY2Njk2MjQwNSwwMDAwMDAwMDFkNjEwOTkwZjZkYTk3NTAwMmM1ZGM3ODBkNDk5NjU4`
+Snapshot ID: `MTY2Njk2MjQwNSwwMDAwMDAwMGJjOTUwMjk5MjE4ZjYwY2MwNDZmODRkNGM0ZWY5NmJm`

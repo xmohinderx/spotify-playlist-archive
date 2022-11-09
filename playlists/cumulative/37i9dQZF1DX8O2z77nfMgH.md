@@ -4,7 +4,7 @@
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Paulo Londra & Feid
 
-2,727 songs - 6 day 4 hr 33 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
+2,728 songs - 6 day 4 hr 36 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2027,6 +2027,7 @@
 | [Que Te Vaya Mal](https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [ALL\-YOU\-CAN\-EAT VOL.1](https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX) | 3:39 | 2022-02-11 | 2022-02-19 |
 | [Que Todo Sea Probar](https://open.spotify.com/track/6D236R0HOtK8kAQxKYZFEt) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 2:50 | 2022-10-28 | 2022-11-05 |
 | [Que Triste](https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Que Triste](https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF) | 3:46 | 2022-09-16 | 2022-09-24 |
+| [QUE VAMO HACER](https://open.spotify.com/track/7iDD6EPPrKYGcvabJhbGX6) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Dayme y El High](https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [QUE VAMO HACER](https://open.spotify.com/album/109mh3p0iUwkwgqN13sF73) | 3:32 | 2022-11-04 |  |
 | [Que Vamo’ Hacer?](https://open.spotify.com/track/3Lnfbc1ZlIzIU5KmAeQNj4) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [KRACK DELUXE](https://open.spotify.com/album/20jm8zrqWsVXKWBhhiOT0I) | 3:31 | 2022-03-04 | 2022-03-12 |
 | [Que voy a hacer](https://open.spotify.com/track/42sfJzJpwjz4aP21vHp8BO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [The Party en la Casa](https://open.spotify.com/album/00WH3NDxKehvOMhCcXAnhD) | 2:44 | 2022-02-18 | 2022-02-26 |
 | [Quebranto](https://open.spotify.com/track/6qOnahK31RK7v4YTxpZIvP) | [Neck Talese](https://open.spotify.com/artist/3AELbAjHI0SeWsXUVZMXZA), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [El Poder de Lola](https://open.spotify.com/album/5XXj66VxuFuj1atm0pKWse) | 5:34 | 2022-07-08 | 2022-07-16 |

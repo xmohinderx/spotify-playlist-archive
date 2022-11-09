@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie songs by Dean Lewis, Taylor Swift, and more! Listen to this mellow and feels\-inducing playlist, and discover new favorites! Cover: Reneé Rapp
 
-[Digster](https://open.spotify.com/user/digster.fm) - 114,926 likes - 38 songs - 2 hr 6 min
+[Digster](https://open.spotify.com/user/digster.fm) - 114,922 likes - 38 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

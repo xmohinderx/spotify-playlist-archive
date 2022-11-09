@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-252 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+253 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [Utican](https://open.spotify.com/track/7dzjIPBSJTI26DRf5KrIHr) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Utican](https://open.spotify.com/album/6rQlPcKYC4mQ3aElaoeFrC) | 2:55 | 2021-07-30 | 2022-07-29 |
 | [Wait by the River](https://open.spotify.com/track/2g9LXMNIBCqmngHpH9nXv0) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv) | 3:11 | 2022-02-25 |  |
 | [Wait by the River](https://open.spotify.com/track/1TavOrmTFipivoUXWBj9Up) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Wait by the River](https://open.spotify.com/album/6eVaRUKglgDMRqZdMBT2t4) | 3:11 | 2021-07-30 | 2022-07-29 |
-| [Walk Away](https://open.spotify.com/track/0OgN6FQsmQV8xaFaOWF9LX) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Personal History](https://open.spotify.com/album/6boV9BoOGBvjoQ3YugOW3n) | 3:12 | 2021-07-30 |  |
+| [Walk Away](https://open.spotify.com/track/0OgN6FQsmQV8xaFaOWF9LX) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Personal History](https://open.spotify.com/album/6boV9BoOGBvjoQ3YugOW3n) | 3:12 | 2021-07-30 | 2022-11-09 |
+| [Walk Away](https://open.spotify.com/track/3U1FsTAe4KYRaWntA3MiQY) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Personal History](https://open.spotify.com/album/2dKKvtXMxAOAJsiHHu44IX) | 3:12 | 2022-02-25 |  |
 | [We Don't Get More Time](https://open.spotify.com/track/5fuSpSp9IFwS4Iu239L5Nv) | [I See Rivers](https://open.spotify.com/artist/50y0b4AuxvWpH2jlNqGMmg) | [We Don't Get More Time](https://open.spotify.com/album/1A7VyATvNpZqW6U7AqH24C) | 2:36 | 2021-07-30 |  |
 | [Whiskey Whiskey](https://open.spotify.com/track/12oNWDCd6iK6NIsCZFg3B0) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Whiskey Whiskey](https://open.spotify.com/album/37vW9MedFrxDPmdQlKz5dB) | 2:49 | 2021-07-30 |  |
 | [White Roses](https://open.spotify.com/track/5xxHfQuaXGEBHtsGbSXwI7) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [White Roses](https://open.spotify.com/album/01vINTMNqHsxWYTo9HZVJk) | 3:26 | 2021-07-30 |  |

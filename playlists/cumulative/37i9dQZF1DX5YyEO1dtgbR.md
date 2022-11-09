@@ -4,7 +4,7 @@
 
 > Experimental electronic beyond the borders of tradition.
 
-103 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/0QCs1HUhlbrSzyN8H1j10w)
+105 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/0QCs1HUhlbrSzyN8H1j10w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Bassline Interferometry](https://open.spotify.com/track/2uouZv9rjjl4FkSs5jSkhc) | [Farr](https://open.spotify.com/artist/4g1i2rawu8DMMji6pdrz9o) | [The Crescent](https://open.spotify.com/album/7JvSQNRWplt2BlmIqEv3pS) | 6:18 | 2021-10-15 |  |
 | [Black Rainbow](https://open.spotify.com/track/35fdFuD916UVSJ9BBAlMt4) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Black Rainbow / Moonlight](https://open.spotify.com/album/3OJZNp1l2uBQWXa0YTujmA) | 4:32 | 2021-10-15 |  |
 | [Blush](https://open.spotify.com/track/24KzywRHnZa1YLDEbyd2s2) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/59dZbb8QdAs0OCaYEyr8hM) | 3:57 | 2021-10-15 |  |
-| [C Tactile Afferent](https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa) | [Ola Szmidt](https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw) | [C Tactile Afferent](https://open.spotify.com/album/5krbsO1rn41ZxoepTT1Se2) | 3:36 | 2022-06-14 |  |
+| [C Tactile Afferent](https://open.spotify.com/track/2dU5DUznREcTPqYWAJ9Tfr) | [Ola Szmidt](https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw) | [C Tactile Afferent](https://open.spotify.com/album/1CWNJ9shSWo3196zTfcIrK) | 3:36 | 2022-06-14 |  |
+| [C Tactile Afferent](https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa) | [Ola Szmidt](https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw) | [C Tactile Afferent](https://open.spotify.com/album/5krbsO1rn41ZxoepTT1Se2) | 3:36 | 2022-06-14 | 2022-11-09 |
 | [Cinétique \- Edit](https://open.spotify.com/track/1jRdRoJqx2s6v4T5VZM41C) | [Jinjé](https://open.spotify.com/artist/59ceK8A6RxzUQZF05aXezk) | [Cinétique](https://open.spotify.com/album/36j2hkJhjKKiGDu6IRT9Vr) | 4:00 | 2021-10-15 |  |
 | [Cloud Monolith](https://open.spotify.com/track/1FqpWvcB1OI0Bu9EKfqFvU) | [Plant43](https://open.spotify.com/artist/1Knqr98gY1JxSElifR2aNW) | [Unknown Structure](https://open.spotify.com/album/17PkXX1GEZnmKbSa6yU49z) | 7:50 | 2021-10-15 |  |
 | [Clouded Temper \| Small Steps](https://open.spotify.com/track/3V0M0Sw0xNb6p4k8gxhAex) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [A Violet Sleep EP](https://open.spotify.com/album/2Sean6tGeNquVJS5jIHxMn) | 7:03 | 2021-10-15 |  |
@@ -61,7 +62,8 @@
 | [JL](https://open.spotify.com/track/3dr8H5045j4GJXZOBy2ulI) | [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [JL](https://open.spotify.com/album/1GnwoWxWS0Z91hnlfaMrDM) | 6:00 | 2021-10-15 | 2022-05-06 |
 | [Lambert Rise](https://open.spotify.com/track/7txXvBBhA0YB5L3Bopg5e8) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Ambivalent](https://open.spotify.com/album/7dZYB94TjHB1Kub44SK9j9) | 6:34 | 2021-10-15 |  |
 | [Leith Tornn Carnal](https://open.spotify.com/track/0IqVaR2qBKCJR1CTiwkRkm) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Leith Tornn Carnal](https://open.spotify.com/album/4jLLZsUlWXuo3OS5HpLbxa) | 4:08 | 2021-10-15 |  |
-| [Life's Eye](https://open.spotify.com/track/42P7N4JchhebdIP85o1J9H) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [Life's Eye](https://open.spotify.com/album/58IHisBAnBd1yi2UTivpGr) | 4:14 | 2021-10-15 |  |
+| [Life's Eye](https://open.spotify.com/track/3zqINXbmbLNmp7uO6gXOtj) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [LP2](https://open.spotify.com/album/55sCnDa3AJX3CeSM0pSO8e) | 4:14 | 2022-06-14 |  |
+| [Life's Eye](https://open.spotify.com/track/42P7N4JchhebdIP85o1J9H) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [Life's Eye](https://open.spotify.com/album/58IHisBAnBd1yi2UTivpGr) | 4:14 | 2021-10-15 | 2022-11-09 |
 | [Light Armour](https://open.spotify.com/track/1Qd2o36ruw5tdNTsgtE89f) | [Iglew](https://open.spotify.com/artist/7losew6I5eFiELv8kHRk1x) | [Light Armour](https://open.spotify.com/album/5wNGOtIADF2QimGHCCnvOh) | 4:47 | 2021-10-15 |  |
 | [Make Time](https://open.spotify.com/track/1j2THCxsMI94qVtYTCsqUI) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv), [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 7:52 | 2021-10-15 |  |
 | [Marevo](https://open.spotify.com/track/3NB7kEOPVtxoTfcNt8yUOk) | [Hidden Element](https://open.spotify.com/artist/07HMFXUTyJBf7XRsSCNIrk) | [Marevo](https://open.spotify.com/album/0BYmdjgYsMaXUeyz7z8SDg) | 5:55 | 2022-05-06 |  |

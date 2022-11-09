@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 83369,
+  "num_followers": 83403,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMGQ4YmI5MTQyYmIzYzFlMjk4Nzk1OTFjYzM1ZDgxNDI2",
+  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMDU3ZDFkZGNiYTQzZTJmNzAxN2U0NTY5MWE5ZGI5MGU1",
   "tracks": [
     {
       "added_at": "2022-10-28 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Souled Out",
-        "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "The Pressure",
-      "url": "https://open.spotify.com/track/3Px6rA0efiFjaIImH9pdaR"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "PHO EP",
         "url": "https://open.spotify.com/album/1x6E0JYj6wKFHfZQFQCpnU"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 147106,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/1MVpa4w2TsjgUoJxMRAP0Z"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Souled Out",
+        "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "The Pressure",
+      "url": "https://open.spotify.com/track/3Px6rA0efiFjaIImH9pdaR"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Lessons",
-        "url": "https://open.spotify.com/album/5VMzvf9fE5QsaZmVFJLwVv"
-      },
-      "artists": [
-        {
-          "name": "Eric Roberson",
-          "url": "https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn"
-        }
-      ],
-      "duration_ms": 250404,
-      "name": "Lessons",
-      "url": "https://open.spotify.com/track/2Z6BAgNrGvouF0KZet8hl2"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Exposure",
         "url": "https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 224543,
       "name": "Exposure",
       "url": "https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Lessons",
+        "url": "https://open.spotify.com/album/5VMzvf9fE5QsaZmVFJLwVv"
+      },
+      "artists": [
+        {
+          "name": "Eric Roberson",
+          "url": "https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn"
+        }
+      ],
+      "duration_ms": 250404,
+      "name": "Lessons",
+      "url": "https://open.spotify.com/track/2Z6BAgNrGvouF0KZet8hl2"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Chocolate Covered Strawberries",
+        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Chocolate Covered Strawberries",
+      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello] (KAYTRANADA Remix)",
         "url": "https://open.spotify.com/album/7HRqZplSpqWZnL05hUJCcH"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 227132,
       "name": "Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello] - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/5A3aEJL7HkijkxLFXMv7FN"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Chocolate Covered Strawberries",
-        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Chocolate Covered Strawberries",
-      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
     },
     {
       "added_at": "2022-10-28 03:00:00",

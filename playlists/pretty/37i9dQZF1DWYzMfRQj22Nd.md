@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzMfRQj22Nd.md) - [plain]
 
 > Taking the big steps with Drum & Bass.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,812 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,859 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzMfRQj22Nd.md) - [plain]
 | 30 | [Radiate](https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/15wCdrCX8iVt1KwM9uta2J) | 4:17 |
 | 31 | [Bright Lights](https://open.spotify.com/track/1U7c5G11xl4PMwhxHdc5oV) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Akylla](https://open.spotify.com/artist/5Ad8YPmqQf2tay2SZ8NxWY), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Speed Of Light](https://open.spotify.com/album/64AsM1vclRLFeNKlSPnGsA) | 3:33 |
 | 32 | [Sober](https://open.spotify.com/track/2DQuvfpU2uYaIk1BaBSJ15) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Sober](https://open.spotify.com/album/1rqnsguzp4curAq6xu8xfP) | 4:02 |
-| 33 | [Gunslinga](https://open.spotify.com/track/1vKWGVybCJaIDWlqZWJZAc) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [MC Mota](https://open.spotify.com/artist/2kUNDOK5StemhF8zfPju2p) | [Gunslinga](https://open.spotify.com/album/20F6qwBxDzesrQZyGKzoGG) | 2:44 |
-| 34 | [Hurt Me Too](https://open.spotify.com/track/0pdvvP1vP8zWRHeBCHdFbG) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Hurt Me Too](https://open.spotify.com/album/0wISH7UFthu6J1eT4HzVRw) | 3:04 |
+| 33 | [Hurt Me Too](https://open.spotify.com/track/0pdvvP1vP8zWRHeBCHdFbG) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Hurt Me Too](https://open.spotify.com/album/0wISH7UFthu6J1eT4HzVRw) | 3:04 |
+| 34 | [Gunslinga](https://open.spotify.com/track/1vKWGVybCJaIDWlqZWJZAc) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [MC Mota](https://open.spotify.com/artist/2kUNDOK5StemhF8zfPju2p) | [Gunslinga](https://open.spotify.com/album/20F6qwBxDzesrQZyGKzoGG) | 2:44 |
 | 35 | [Remember](https://open.spotify.com/track/3XejA5R4AptKcmGPXnwAhD) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Remember](https://open.spotify.com/album/09pPQEIYPuyy350ccJBU4L) | 3:35 |
 | 36 | [Rock It \(Wilkinson Remix\)](https://open.spotify.com/track/7aYilD8vBLICtiJ7Pt6XLY) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Rock It \(Wilkinson Remix\)](https://open.spotify.com/album/3fJUuqlf7uesC5yvmTkoZY) | 4:32 |
 | 37 | [Energy](https://open.spotify.com/track/2xyG0785QU6hEQRDmKA29U) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Jamie Duggan](https://open.spotify.com/artist/0MOlBnjY7mmwqxQpFuysB8) | [Smile](https://open.spotify.com/album/2J3FE6imqCKRPBtXutyBGx) | 3:50 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzMfRQj22Nd.md) - [plain]
 | 49 | [Offender](https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Offender](https://open.spotify.com/album/0HGC8S4h6lsfrPw2lWWbZh) | 3:43 |
 | 50 | [Reason](https://open.spotify.com/track/3BhECsg8J4eoepgo3LoGlW) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Ten Thousand Feet & Rising](https://open.spotify.com/album/6gvdS5xw5tIgyOdj37AmzP) | 4:07 |
 | 51 | [Follow Me](https://open.spotify.com/track/54Tm26Pv3efwgeuzlN5A1m) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Follow Me](https://open.spotify.com/album/2dYo7nAOBIy2kFewd9m0ct) | 3:50 |
-| 52 | [The Uprising](https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [The Uprising](https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0) | 3:17 |
-| 53 | [Night Train](https://open.spotify.com/track/0zGHWnTtESiQrWwnCA1yBM) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Night Train](https://open.spotify.com/album/5LgCU9NNcj2V412ZKn3Sra) | 4:48 |
+| 52 | [Night Train](https://open.spotify.com/track/0zGHWnTtESiQrWwnCA1yBM) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Night Train](https://open.spotify.com/album/5LgCU9NNcj2V412ZKn3Sra) | 4:48 |
+| 53 | [The Uprising](https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [The Uprising](https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0) | 3:17 |
 | 54 | [Fallout](https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq) | [Fallout](https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW) | 4:52 |
 | 55 | [Demand](https://open.spotify.com/track/2BaJ2tufTVJfVnXhLyB4Og) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [It's A Gee Thing](https://open.spotify.com/album/3VzevC8cTAQfsMgbiJ9emh) | 3:47 |
 | 56 | [Even If \- Original Mix](https://open.spotify.com/track/5nVkaIXaqQtoMX4V1jncdO) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Even If](https://open.spotify.com/album/2YjxUlgCtx6RYLtKIGwqLK) | 7:34 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzMfRQj22Nd.md) - [plain]
 | 77 | [Everlasting](https://open.spotify.com/track/6eim9waz372dV7a13FvQ7r) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V) | [Everlasting](https://open.spotify.com/album/5pUhuF4AGNKpUokrZ4EwZU) | 4:59 |
 | 78 | [Aura](https://open.spotify.com/track/538IL5DHWHdD0vRUFIfMoM) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Aura](https://open.spotify.com/album/44eYFSuXEyETT7OHV0dCZg) | 3:47 |
 | 79 | [Be Gone \- Urbandawn Remix](https://open.spotify.com/track/3bvBkpDqIYFUFw0B5K8mSM) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Be Gone \(Urbandawn Remix\)](https://open.spotify.com/album/5h22T9rbx492QhJuJ6EuLc) | 3:46 |
-| 80 | [Jack \- Sophon Remix](https://open.spotify.com/track/46ecCazSzxaZm4BVj5Cejv) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Jack \(Sophon Remix\)](https://open.spotify.com/album/0eZU27VDhr5erKQcYSVL5Y) | 3:23 |
+| 80 | [We Don't Hold Back](https://open.spotify.com/track/66xPGmJYB1Z7QIcOwYy9kQ) | [B.O.M](https://open.spotify.com/artist/3obWOc3Iq15TgW0pTDY2RK), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [We Don't Hold Back](https://open.spotify.com/album/1tiTBERT0kOsVqefXuEdWA) | 2:49 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDBkMTczYzU1N2IzZWI2MjExZTliMTEwMTg2ZDk2Y2Y0`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGYxMmYwZTg1ZThiMTM0ZDNjZWU4YTU0OWZiMWMwYmEw`

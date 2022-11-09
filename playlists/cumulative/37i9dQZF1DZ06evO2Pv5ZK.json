@@ -930,6 +930,28 @@
     },
     {
       "album": {
+        "name": "Prelude (Voices)",
+        "url": "https://open.spotify.com/album/21elcibDkkuOqqkZYrg4hj"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        },
+        {
+          "name": "Piano in a Living Room",
+          "url": "https://open.spotify.com/artist/2WmuRVbJhmg5fB6bM668tZ"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Prelude (Voices)",
+      "url": "https://open.spotify.com/track/3DvQ0SduBB9zfn5PZXaucl"
+    },
+    {
+      "album": {
         "name": "Albedo 0.39",
         "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
       },

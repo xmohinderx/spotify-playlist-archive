@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Montell Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,161 likes - 171 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,254 likes - 171 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

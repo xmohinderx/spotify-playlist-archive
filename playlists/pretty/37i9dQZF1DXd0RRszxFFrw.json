@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 42804,
+  "num_followers": 42837,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDZkOTYzMTlhZGM0NjhkYzY2OGIwMzA1ODg2YTNjODVm",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDU0NDE5OTAxODE4MDI0Yjg2MmRkNWU4N2MxOTYwMTQz",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Luminosity",
-        "url": "https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a"
-      },
-      "artists": [
-        {
-          "name": "Govi",
-          "url": "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
-        }
-      ],
-      "duration_ms": 332400,
-      "name": "Train to Rishikesh",
-      "url": "https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Ponte Vecchio",
         "url": "https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 148716,
       "name": "Ponte Veccio",
       "url": "https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Luminosity",
+        "url": "https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a"
+      },
+      "artists": [
+        {
+          "name": "Govi",
+          "url": "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
+        }
+      ],
+      "duration_ms": 332400,
+      "name": "Train to Rishikesh",
+      "url": "https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "The Little Island Bossa",
-        "url": "https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW"
-      },
-      "artists": [
-        {
-          "name": "Filip Benedetto",
-          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
-        }
-      ],
-      "duration_ms": 246128,
-      "name": "The Little Island Bossa",
-      "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Blue Bossa",
         "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 181498,
       "name": "Black Orpheus",
       "url": "https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "The Little Island Bossa",
+        "url": "https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "duration_ms": 246128,
+      "name": "The Little Island Bossa",
+      "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Commitments",
-        "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
-      },
-      "artists": [
-        {
-          "name": "Affe Reidhoff",
-          "url": "https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0"
-        }
-      ],
-      "duration_ms": 194944,
-      "name": "Commitments",
-      "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Siena",
         "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
       },
@@ -695,34 +679,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Flight to Paradise",
-        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
+        "name": "Commitments",
+        "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
       },
       "artists": [
         {
-          "name": "Novamenco",
-          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
+          "name": "Affe Reidhoff",
+          "url": "https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0"
         }
       ],
-      "duration_ms": 256399,
-      "name": "Mood for Love",
-      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Cinema Latino Vol. 1",
-        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 107434,
-      "name": "Mexico 1910",
-      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
+      "duration_ms": 194944,
+      "name": "Commitments",
+      "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -743,6 +711,38 @@
       "duration_ms": 131182,
       "name": "Estrellita",
       "url": "https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Cinema Latino Vol. 1",
+        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 107434,
+      "name": "Mexico 1910",
+      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Flight to Paradise",
+        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
+      },
+      "artists": [
+        {
+          "name": "Novamenco",
+          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
+        }
+      ],
+      "duration_ms": 256399,
+      "name": "Mood for Love",
+      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/7cvP0H7wJAX4j4WgB7eE4h"
-      },
-      "artists": [
-        {
-          "name": "Ronny Davis",
-          "url": "https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt"
-        }
-      ],
-      "duration_ms": 178515,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/79ufiBihx4SbCFVOQwhQwo"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Classical Guitar Latin Style",
         "url": "https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 246040,
       "name": "Libertango",
       "url": "https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/7cvP0H7wJAX4j4WgB7eE4h"
+      },
+      "artists": [
+        {
+          "name": "Ronny Davis",
+          "url": "https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt"
+        }
+      ],
+      "duration_ms": 178515,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/79ufiBihx4SbCFVOQwhQwo"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Bajo La Luna",
-        "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
-      },
-      "artists": [
-        {
-          "name": "Enrique De Melchor",
-          "url": "https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Zaralmondi - Colombianas",
-      "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "El Primero",
         "url": "https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 144948,
       "name": "El Primero",
       "url": "https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Bajo La Luna",
+        "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
+      },
+      "artists": [
+        {
+          "name": "Enrique De Melchor",
+          "url": "https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Zaralmondi - Colombianas",
+      "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
     }
   ],
   "unique_name": "Cena con Guitarras",

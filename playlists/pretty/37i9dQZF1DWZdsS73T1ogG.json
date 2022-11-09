@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Ery, Nesi & Noriel",
-  "num_followers": 508405,
+  "num_followers": 508434,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGZlNjAwMmJkZjRkOWM5MjI1OWY3OGUzMWQzM2M2YjEw",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDM3MGM4OGY3OWU0MjIwNzcyZGNjMzczZWRjYzg3NWRm",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -227,18 +227,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
       "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 166253,
-      "name": "Prohibidox",
-      "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
+      "duration_ms": 196600,
+      "name": "Hey Mor",
+      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -259,22 +263,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
       "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 196600,
-      "name": "Hey Mor",
-      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
+      "duration_ms": 166253,
+      "name": "Prohibidox",
+      "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "Lady Mi Amor",
-      "url": "https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Delincuente",
         "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 119106,
       "name": "V16",
       "url": "https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 147066,
+      "name": "Lady Mi Amor",
+      "url": "https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Las Cartas",
+        "url": "https://open.spotify.com/album/4j1Es14amPfi0udZJV5Oyu"
+      },
+      "artists": [
+        {
+          "name": "Kamm",
+          "url": "https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "Las Cartas",
+      "url": "https://open.spotify.com/track/3F3zfGooJ4r6D18Bb9IunL"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "The Love & Sex Tape (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 213831,
       "name": "La Mini",
       "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Las Cartas",
-        "url": "https://open.spotify.com/album/4j1Es14amPfi0udZJV5Oyu"
-      },
-      "artists": [
-        {
-          "name": "Kamm",
-          "url": "https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "Las Cartas",
-      "url": "https://open.spotify.com/track/3F3zfGooJ4r6D18Bb9IunL"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Despues Siempre Es Tarde",
+        "url": "https://open.spotify.com/album/6yiDOMUgSUUVoh5waZ8LJ4"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "La Babygirl",
+      "url": "https://open.spotify.com/track/0eyBVedpmRH8s8S2W7lEqM"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Se Vive",
         "url": "https://open.spotify.com/album/7DjMB57zSueCKPMLb4uANC"
       },
@@ -1767,26 +1787,6 @@
       "duration_ms": 176190,
       "name": "Se Vive",
       "url": "https://open.spotify.com/track/7bO8DJ5j5yAB6UUP0j0t1c"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Despues Siempre Es Tarde",
-        "url": "https://open.spotify.com/album/6yiDOMUgSUUVoh5waZ8LJ4"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "La Babygirl",
-      "url": "https://open.spotify.com/track/0eyBVedpmRH8s8S2W7lEqM"
     },
     {
       "added_at": "2022-10-28 04:00:00",

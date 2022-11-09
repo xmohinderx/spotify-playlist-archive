@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-105 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/6Uulv9qmgDZFuVKOsRe47Z)
+106 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/6Uulv9qmgDZFuVKOsRe47Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Elefante](https://open.spotify.com/track/02yNOCdIFQ227lXa15JcoC) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo), [Murmusica](https://open.spotify.com/artist/7jdrU9OQr55FHQVztoanvY), [Tolga Bilgin](https://open.spotify.com/artist/2n0mROXhyTtUEk8cb8Fyck) | [Elefante](https://open.spotify.com/album/7Gpe9w3QcW4f8mPGFvtXWt) | 5:48 | 2022-07-23 |  |
 | [Etèreo](https://open.spotify.com/track/2zvaBjNVbQg6AK2aAIRhrN) | [Alvaro Suarez](https://open.spotify.com/artist/6zfwxQQjoCU9uSsrwckyZv), [dbasser](https://open.spotify.com/artist/5psF4RFR5m6MyLC7whUI2b) | [Etèreo](https://open.spotify.com/album/1smB9aYNSh87eIwHnWZjdo) | 7:36 | 2022-10-14 |  |
 | [Euclidean Street \- Original](https://open.spotify.com/track/3IeXLigXtq8Jbnd4javTeK) | [Niju](https://open.spotify.com/artist/52gcfKJpAGFdUkSVS6jSV4) | [Time Is A Slice Of Forever!](https://open.spotify.com/album/3BUhB5WbgjXMFJgKwdgf0M) | 8:19 | 2022-07-23 |  |
-| [Fantasy](https://open.spotify.com/track/56XtbMA5QhHmlCyPUKG4Ii) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn), [Verushka](https://open.spotify.com/artist/5StY3t09rFBGADeZbkVyOC) | [Musca](https://open.spotify.com/album/6t89BzbzvhVS0ShJu6X2Kq) | 6:27 | 2022-10-14 |  |
+| [Fantasy](https://open.spotify.com/track/22fM5ewOY0suVq5teDadG0) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn), [Verushka](https://open.spotify.com/artist/5StY3t09rFBGADeZbkVyOC) | [Musca](https://open.spotify.com/album/2yTDyn7SlB2yOP4CkDbHfn) | 6:27 | 2022-10-14 |  |
+| [Fantasy](https://open.spotify.com/track/56XtbMA5QhHmlCyPUKG4Ii) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn), [Verushka](https://open.spotify.com/artist/5StY3t09rFBGADeZbkVyOC) | [Musca](https://open.spotify.com/album/6t89BzbzvhVS0ShJu6X2Kq) | 6:27 | 2022-10-14 | 2022-11-09 |
 | [Farazi](https://open.spotify.com/track/6PK2rZ2jf6l6SdtnXgFotD) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Farazi](https://open.spotify.com/album/4fdLKEjn0PiHGtTVeKbBCF) | 5:10 | 2022-07-23 |  |
 | [Farben am Himmel](https://open.spotify.com/track/7FCrrPniXs6QlL3gFSZPV5) | [Kalabrese](https://open.spotify.com/artist/2MUENaxB93ZPNclZIDEMMV) | [Farben am Himmel](https://open.spotify.com/album/2nVcvSWT6o0lePcdKtwKsd) | 7:37 | 2022-07-23 | 2022-10-15 |
 | [For Sha \- Cornelius Doctor, Tushen Raï Remix](https://open.spotify.com/track/4nGVNUxLgbE5U1QQMb79Ye) | [Paul Traeumer](https://open.spotify.com/artist/6QtYRtIKQPKhChX5ZKAD5C), [Cornelius Doctor & Tushen Raï](https://open.spotify.com/artist/1j2w2mPCYgklKXKy0u3wTq) | [No Spell Left for Sha](https://open.spotify.com/album/07emdGDEqUTrVUcazED7hp) | 6:56 | 2022-07-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by Indian Indie artists, updated every Wednesday\. Cover: Shrinidhi Ghatate, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,733 likes - 105 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,786 likes - 105 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-391 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+392 songs - 22 hr 23 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 | 2022-01-07 |  |
 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2022-01-07 |  |
 | [a lifetime with you](https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:07 | 2022-01-28 | 2022-04-18 |
-| [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 | 2022-01-07 |  |
+| [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 | 2022-01-07 | 2022-11-09 |
 | [Acercarme a Vos](https://open.spotify.com/track/6RKnz9l63EErn17rCGx5y9) | [Nico Peña](https://open.spotify.com/artist/3JE1nspmOIMZ6VWFIMb3Ea) | [Acercarme a Vos](https://open.spotify.com/album/2zXBH1Z22x1hST8AdQB4W1) | 4:01 | 2022-01-28 | 2022-07-29 |
 | [Acercate a Mí](https://open.spotify.com/track/2iv6mpRnSTJjE9z8fpxSNR) | [VANZA](https://open.spotify.com/artist/6vA9LVoLAIimgnQp0XfMLQ) | [Cuerpos en Fuga](https://open.spotify.com/album/0Ek2iA2MTEb9ecB9SMbWZF) | 3:50 | 2022-01-28 | 2022-06-24 |
 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 | 2022-01-07 |  |
@@ -37,7 +37,7 @@
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-06-03 |  |
 | [Amarrados](https://open.spotify.com/track/2VQs7EuamXdesJdZ7WMZdo) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Tanta Mentira](https://open.spotify.com/album/5GnCrMgngU8v3fNCAOTV7f) | 3:13 | 2022-01-07 |  |
 | [Amor Amor](https://open.spotify.com/track/26c4FxlTwUr202Cl9k07gV) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/5s8iUnO355PDLfFjSVEDGa) | 4:15 | 2022-01-07 | 2022-07-28 |
-| [Amor Amor](https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 4:15 | 2022-07-15 | 2022-11-01 |
+| [Amor Amor](https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 4:15 | 2022-07-15 |  |
 | [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 | 2022-04-01 | 2022-04-21 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-04-01 | 2022-04-18 |
 | [Amor de Verano](https://open.spotify.com/track/60hPM9MOu0wjKInZzYwYH8) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Amor de Verano](https://open.spotify.com/album/1KDE0rBIiV7nUkSwV0GvzZ) | 2:31 | 2022-01-07 | 2022-07-29 |
@@ -93,7 +93,7 @@
 | [Cuando Estamos los Dos](https://open.spotify.com/track/49OdM2GAMPKmjMvKREwr9z) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Juanito El Cantor](https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW) | [Cuando Estamos los Dos](https://open.spotify.com/album/6fcX02OAL5PYZWgzusNEwB) | 3:17 | 2022-01-07 | 2022-07-24 |
 | [Cuando Te Vas](https://open.spotify.com/track/72ge45v4SgWtoP7Z3IxNUr) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [Cuando Te Vas](https://open.spotify.com/album/2KOXFHYCaZITE4XsWwE1w1) | 3:22 | 2022-04-01 | 2022-04-15 |
 | [Cuenta Conmigo](https://open.spotify.com/track/5pkLzY2lawUgk6TZHph7uN) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Cuenta Conmigo](https://open.spotify.com/album/1PV8wnu2yvaGsq7WQnbj4P) | 4:51 | 2022-01-07 | 2022-06-21 |
-| [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 | 2022-10-14 |  |
+| [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 | 2022-10-14 | 2022-11-09 |
 | [Cuántas Veces Más](https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Cuántas Veces Más](https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF) | 3:23 | 2022-01-07 | 2022-07-28 |
 | [Cómo y Cuándo](https://open.spotify.com/track/5p3ewseYcitkJUdhYpaSkY) | [El Féral](https://open.spotify.com/artist/34Iany0uooiPsZ0pIWUy1G), [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Cómo y Cuándo](https://open.spotify.com/album/3F8JTJRlLwqan1umbVh1ku) | 3:24 | 2022-01-28 | 2022-06-24 |
 | [Cósmica](https://open.spotify.com/track/0cdk7aW3T86BCMyvACbbEu) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cósmica](https://open.spotify.com/album/0gvYgxTHHuLxo79sOjrU82) | 3:36 | 2022-01-07 | 2022-07-05 |
@@ -118,6 +118,7 @@
 | [Dos](https://open.spotify.com/track/0J49GNG60XrmImmBl3UGCQ) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Dos](https://open.spotify.com/album/0TEAkQp2XSbE12UE0BsP2W) | 3:54 | 2022-01-07 | 2022-07-25 |
 | [Dos Extraños](https://open.spotify.com/track/0yo7iyDow5BUxs9JFVfU1F) | [Paraleia](https://open.spotify.com/artist/737T198kjU3hbvxpc2wnhC) | [Dos Extraños](https://open.spotify.com/album/5fE8LmOvegL7tIfGmq9dVh) | 5:19 | 2022-04-01 | 2022-04-21 |
 | [Dos Galaxias](https://open.spotify.com/track/6zWr8KVQ5gLbXY43KgxJNI) | [El Mato](https://open.spotify.com/artist/2pOYOOflbI58JsE1IHbwUq), [Un Policia Motorizado](https://open.spotify.com/artist/7u1y4Oo6EnaRmZQuEmDyQn) | [Mujeres Bellas y Fuertes](https://open.spotify.com/album/5aEkGG6aAyvEYVxhaB6tGi) | 4:22 | 2022-01-07 | 2022-10-26 |
+| [Dos Galaxias](https://open.spotify.com/track/16BHLWnnV31McTN5gbs5KM) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 4:20 | 2022-10-28 |  |
 | [duele](https://open.spotify.com/track/0PraCrWXNKfoLpVnqZsfCj) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [duele](https://open.spotify.com/album/0xogsBHAhbvhZg6Qas45J6) | 2:14 | 2022-10-28 |  |
 | [Duele](https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Duele](https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5) | 3:27 | 2022-01-07 |  |
 | [Duele Si Te Vas](https://open.spotify.com/track/3gT4UQNOdFZ5BRKRlAhlvQ) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Duele Si Te Vas](https://open.spotify.com/album/5E4gVqjIF3NP6h5FaDfoT9) | 3:55 | 2022-01-07 | 2022-07-29 |

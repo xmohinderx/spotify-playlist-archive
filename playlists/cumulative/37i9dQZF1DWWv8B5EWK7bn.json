@@ -1010,6 +1010,24 @@
     },
     {
       "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1OQ0lvy9RPGBRJH1i8DJes"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285898,
+      "name": "Follow the Cyborg",
+      "url": "https://open.spotify.com/track/1HOWyFATPgYbCBMdKM1A66"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0pYKSncmUeUXnRvVgG2fcc"
       },
@@ -1871,7 +1889,7 @@
           "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
         }
       ],
-      "date_added": "2022-11-04",
+      "date_added": "2022-11-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 221379,
@@ -2405,7 +2423,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 218154,
       "name": "Ovule",
       "url": "https://open.spotify.com/track/01uiiE7cNaoMAvdtsiDqMd"

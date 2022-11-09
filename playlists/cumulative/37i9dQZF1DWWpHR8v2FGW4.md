@@ -4,7 +4,7 @@
 
 > Always come in 1st.
 
-96 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/7pJ5T0fVYty4hK4BC2wxPr)
+97 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/7pJ5T0fVYty4hK4BC2wxPr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Galaxies](https://open.spotify.com/track/2wJwCrie7euxtBIl1uZGXi) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH) | [Monstercat \- Best of 2020](https://open.spotify.com/album/3juG6u5kmrIdzbPEBu75xk) | 4:05 | 2022-04-01 | 2022-07-29 |
 | [Gang](https://open.spotify.com/track/1HYIxT29a0gtzhqGjVQule) | [Phil Gonzo](https://open.spotify.com/artist/5MOUpeSR9eHImHFNg78RCU) | [Gang](https://open.spotify.com/album/644tRu2KsOn25hE87qFsEf) | 4:31 | 2022-04-01 |  |
 | [Getaway \- Koven Remix](https://open.spotify.com/track/10EpXLXKHmNSVKvX7A5hg8) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Angel Taylor](https://open.spotify.com/artist/6D5xkX8ecb4bGccXqtDI63), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Getaway \(Remixes\)](https://open.spotify.com/album/1pCddf4xbF2oOYFXTOZzDS) | 3:23 | 2022-04-01 |  |
-| [Gold Dust \- Fox Stevenson Remix](https://open.spotify.com/track/3WNzOFBAbi5Cc72223avI7) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Gold Dust \(Fox Stevenson Remix\)](https://open.spotify.com/album/3lxsS3fsWVpTd20vyAO0CS) | 3:53 | 2022-04-01 |  |
+| [Gold Dust \- Fox Stevenson Remix](https://open.spotify.com/track/2rCM9E5gZK2YRiIClGsGpu) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Gold Dust \(Fox Stevenson Remix\)](https://open.spotify.com/album/1b5Wr7LLfuuHgimQVQRaUP) | 3:53 | 2022-10-13 |  |
+| [Gold Dust \- Fox Stevenson Remix](https://open.spotify.com/track/3WNzOFBAbi5Cc72223avI7) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Gold Dust \(Fox Stevenson Remix\)](https://open.spotify.com/album/3lxsS3fsWVpTd20vyAO0CS) | 3:53 | 2022-04-01 | 2022-11-09 |
 | [GUCCI LOUIS](https://open.spotify.com/track/7kjMP3Ac2AnOZ4mK3sS0rO) | [Space Rangers](https://open.spotify.com/artist/25o5gyj3kk1DUaRkkcEkZy) | [GUCCI LOUIS](https://open.spotify.com/album/5FL38aYaSURhUV1aymbv3u) | 3:02 | 2022-04-01 | 2022-07-27 |
 | [HARDCORE](https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [HARDCORE](https://open.spotify.com/album/3ek1prKoU7k0Dl4ap5M67J) | 1:53 | 2022-06-10 | 2022-09-05 |
 | [Higher](https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Higher](https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb) | 3:18 | 2022-05-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Drake, 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,770 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,775 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 6 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
 | 7 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 |
 | 8 | [Igauan Malam](https://open.spotify.com/track/68oey8CEp8hOD0ho0VsEqz) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Igauan Malam](https://open.spotify.com/album/4WTIpr7McvDy14UT87FhhJ) | 4:53 |
-| 9 | [Januaari \(feat\. Blxckid\)](https://open.spotify.com/track/3nKeIHakx9uRzBuRrF43vr) | [Nakalness](https://open.spotify.com/artist/1loI0RIE3tosoU6YePYuUI), [Blxckid](https://open.spotify.com/artist/3TqPHpqJYxWXUX0NzyOm40) | [Januaari \(feat\. Blxckid\)](https://open.spotify.com/album/4oTIF3v4ihPx14nxeGOxsT) | 3:54 |
+| 9 | [Januaari \(feat\. FPB Blxckid\)](https://open.spotify.com/track/3nKeIHakx9uRzBuRrF43vr) | [Nakalness](https://open.spotify.com/artist/1loI0RIE3tosoU6YePYuUI), [FPB Blxckid](https://open.spotify.com/artist/41cobY0yvRWbHSWfmD8DDp) | [Januaari \(feat\. FPB Blxckid\)](https://open.spotify.com/album/4oTIF3v4ihPx14nxeGOxsT) | 3:54 |
 | 10 | [Too Good At Telling Lies](https://open.spotify.com/track/1NHYimrR2WXfOTeztFonda) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Karazey](https://open.spotify.com/artist/2sA7JXgexSOAcvqTBveRNf) | [Too Good At Telling Lies](https://open.spotify.com/album/5zlHSgxA8XqHTCfxdHcMIP) | 2:54 |
 | 11 | [lovey dovey](https://open.spotify.com/track/7nWo2o7BNTKfBP80yqicdw) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Quiet](https://open.spotify.com/artist/5jc0mLpLdR5mDTmgDct85s) | [lovey dovey](https://open.spotify.com/album/0THgeP4c72At0kZGkhEvqn) | 3:02 |
 | 12 | [Kau Bertopeng](https://open.spotify.com/track/37pkHQGx0kEvFCOocQe9H1) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Kau Bertopeng](https://open.spotify.com/album/6BEFXOu36AW486GQkQ07UJ) | 6:23 |

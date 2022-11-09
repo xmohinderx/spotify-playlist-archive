@@ -1065,10 +1065,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 164571,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/6DOyYPswW5sYusoLARF7Ir"
+    },
+    {
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2jEhUSaTltL2XK196BMR5u"
+      },
+      "artists": [
+        {
+          "name": "myk",
+          "url": "https://open.spotify.com/artist/7Fl8YkbVB7OAclJvy2Vl9H"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/6dCexnYCQeuWLLNWgNEjfZ"
     },
     {
       "album": {

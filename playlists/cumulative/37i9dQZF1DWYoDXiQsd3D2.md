@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-133 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/4o6XO2GYxXq6UTestyjLGC)
+134 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/4o6XO2GYxXq6UTestyjLGC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Ave María \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0) | [Sigvaldi Kaldalóns](https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Kaldalóns: Ave María \(Arr\. Víkingur Ólafsson\)](https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA) | 3:36 | 2022-07-29 |  |
 | [Ballongen](https://open.spotify.com/track/7t6y7KQoyTlxo3yXqAwSU3) | [Henrik Meierkord](https://open.spotify.com/artist/1P3kpCPt72YWzJDjJ1Ii8D), [Sole Gipp Ossler](https://open.spotify.com/artist/4W6WFc9Q6Zx4SkrfO94D9W) | [Ballongen](https://open.spotify.com/album/3IdofACTDhIZLRqeAT9rxe) | 3:24 | 2022-07-29 |  |
 | [Being Outside Being](https://open.spotify.com/track/4Vxs0CpT7C5ENZ9DxQZtb5) | [Mike Lazarev](https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc) | [When You Are](https://open.spotify.com/album/0foarjbOjwt6MHqKi3wJMH) | 2:55 | 2022-07-27 |  |
-| [Beyond Breath \- Alexandra Hamilton\-Ayres Rework](https://open.spotify.com/track/3juW67GUopzqRZegUIHq7I) | [Balladeste](https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Beyond Breath \(Alexandra Hamiton\-Ayres Rework\)](https://open.spotify.com/album/4bj8Pczx5TtSBRqMolcaZe) | 4:13 | 2022-09-14 |  |
+| [Beyond Breath \- Alexandra Hamilton\-Ayres Rework](https://open.spotify.com/track/3juW67GUopzqRZegUIHq7I) | [Balladeste](https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Beyond Breath \(Alexandra Hamiton\-Ayres Rework\)](https://open.spotify.com/album/4bj8Pczx5TtSBRqMolcaZe) | 4:13 | 2022-09-14 | 2022-11-09 |
+| [Beyond Breath \- Alexandra Hamilton\-Ayres Rework](https://open.spotify.com/track/5YjlEg0xoZBS3QgyHRhurI) | [Balladeste](https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Beyond Breath \(Alexandra Hamiton\-Ayres Rework\)](https://open.spotify.com/album/1rbXMJPGuH844Uztot8ZeP) | 4:13 | 2022-10-04 |  |
 | [Birki](https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Sounds of Fischer Vol\. 1](https://open.spotify.com/album/4mDwLLZSBpBMHAgD1bRaaz) | 4:03 | 2022-10-04 |  |
 | [Birki](https://open.spotify.com/track/7eVczwc5ifac0Refb83OFN) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Birki](https://open.spotify.com/album/45FNDz5cwraBbRazdMFdzP) | 4:03 | 2022-09-14 | 2022-10-22 |
 | [Black White Felt](https://open.spotify.com/track/5n1HBXOeeKzEfdlEMJ6Tmm) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Arnold Kasar](https://open.spotify.com/artist/700im8kgUAWwcvUOAqrTWm) | [Einfluss](https://open.spotify.com/album/3UNzfV1VqrqTBTHLa3flUd) | 4:01 | 2022-01-05 |  |

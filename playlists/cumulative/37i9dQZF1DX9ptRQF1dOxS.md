@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: RAYE
 
-493 songs - 1 day 4 hr 13 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
+494 songs - 1 day 4 hr 16 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,7 +489,8 @@
 | [Woe](https://open.spotify.com/track/28xeM58xfbn0ahMEfjAsHP) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:40 | 2022-11-02 |  |
 | [Woke Up, Chose Violence](https://open.spotify.com/track/5UhbJJTRnfIkuzYAPlyVA3) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Woke Up, Chose Violence](https://open.spotify.com/album/4FG4S3sodNuVYaFqGWFCTG) | 2:33 | 2022-05-04 | 2022-06-01 |
 | [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 | 2022-05-04 | 2022-06-01 |
-| [Wonder](https://open.spotify.com/track/7hn8HY6YN08DCCiNhqXtkn) | [Leah Weller](https://open.spotify.com/artist/5X0IIXf3Fm12IJ4YodiqMA) | [Wonder](https://open.spotify.com/album/0ELfoK1AQ7tkcbytIr4AG8) | 3:35 | 2022-11-02 |  |
+| [Wonder](https://open.spotify.com/track/5sbNLpRqcGDphEaG2veqGT) | [Leah Weller](https://open.spotify.com/artist/5X0IIXf3Fm12IJ4YodiqMA) | [Freedom](https://open.spotify.com/album/0bqWMD6UAJ55uMmpgCJbdm) | 3:35 | 2022-11-02 |  |
+| [Wonder](https://open.spotify.com/track/7hn8HY6YN08DCCiNhqXtkn) | [Leah Weller](https://open.spotify.com/artist/5X0IIXf3Fm12IJ4YodiqMA) | [Wonder](https://open.spotify.com/album/0ELfoK1AQ7tkcbytIr4AG8) | 3:35 | 2022-11-02 | 2022-11-09 |
 | [words](https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [words](https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn) | 3:09 | 2022-06-01 | 2022-08-04 |
 | [X&Y](https://open.spotify.com/track/5s8msIjj5PJ5UBNsjddZBL) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [X&Y](https://open.spotify.com/album/0nTp6hAIuLmbxoWX0gWmYM) | 2:17 | 2022-09-06 | 2022-10-06 |
 | [Year of the Ex](https://open.spotify.com/track/5m1Wm07bfb58sEWw7wosy7) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Year of the Ex](https://open.spotify.com/album/3zT0wDFGo5yeKwyGvEc41e) | 3:04 | 2022-02-10 | 2022-03-09 |

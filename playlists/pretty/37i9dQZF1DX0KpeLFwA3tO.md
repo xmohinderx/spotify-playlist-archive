@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Magnolia Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,328 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,417 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 119 | [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 |
 | 120 | [the internet](https://open.spotify.com/track/1bCwLs00sj1zgiXhVOYpwS) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [am i making sense?](https://open.spotify.com/album/25QbAaiHPubdfkNZs5p0F0) | 2:46 |
 | 121 | [Commander Trainwreck](https://open.spotify.com/track/5QSX6X9d0wSn6JLWHCrpsR) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Commander Trainwreck](https://open.spotify.com/album/2gcoQ0InYl6g9gjNTDuFmp) | 3:08 |
-| 122 | [Leisure Activities](https://open.spotify.com/track/0n9da6oT6NiADZhnlqWWxa) | [Italia 90](https://open.spotify.com/artist/4NArCLoaLaa9cQkm2dk3PP) | [Leisure Activities](https://open.spotify.com/album/4qvlYE6T5cFDaVycLxHl9r) | 4:42 |
+| 122 | [Leisure Activities](https://open.spotify.com/track/3h6fAqr2VQiWE0UhP8XXT5) | [Italia 90](https://open.spotify.com/artist/4NArCLoaLaa9cQkm2dk3PP) | [Leisure Activities](https://open.spotify.com/album/6QSqHeRJeQLfAblXXS1ErP) | 4:42 |
 | 123 | [Eggshells](https://open.spotify.com/track/026pZsIEpc9obyW5RwrgxW) | [Loose Articles](https://open.spotify.com/artist/07NWIkIKcZnWWmebfHcOxT) | [Chaos \- EP](https://open.spotify.com/album/5bvgiRyQPSVDa9QSaMoAGs) | 5:00 |
 | 124 | [ANXIETY](https://open.spotify.com/track/2OBWPvxRkPHw898IApdrwe) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ANXIETY](https://open.spotify.com/album/7kbCg4mVLUrbiVlEgDA3wM) | 3:14 |
 | 125 | [Super Fiend](https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:28 |
 
-Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMGIxYjU1OTI2MzE5NDA5ZGNhNGEwYmJiOTlhMjM3Zjhm`
+Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMGJkZTJkMjc2NGYzNjY1MzcyYTdjMDY5YTlmNzJlZWQ0`

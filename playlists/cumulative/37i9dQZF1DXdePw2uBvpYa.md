@@ -4,7 +4,7 @@
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-70 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
+71 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 | 2021-06-02 |  |
 | [Restless](https://open.spotify.com/track/42nZ7x8gIGOk8sPyDLTcdP) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Talk of Violence](https://open.spotify.com/album/64bdsls9U5ZGarwEkCbVfl) | 2:56 | 2021-06-02 |  |
 | [Resurrection](https://open.spotify.com/track/1AZWLziLGgegCnfaMjIthY) | [Fey Militia](https://open.spotify.com/artist/5NxxFAgCESXZFB6c85VNHD) | [Mabel](https://open.spotify.com/album/7GGqscQe21RIHWXKDOkyXB) | 4:15 | 2021-06-02 |  |
-| [Small Talk](https://open.spotify.com/track/6Db9WubNRyJv86SWwTcJEm) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Always Happy / Small Talk](https://open.spotify.com/album/6mvGFwAuFiclGLZOckvKTk) | 1:36 | 2021-06-02 |  |
+| [Small Talk](https://open.spotify.com/track/2rfQjAZYGJU1VyED79QTI1) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Always Happy / Small Talk](https://open.spotify.com/album/2Zj7Z47Sk8tzbJsm2H7cL0) | 1:36 | 2021-06-02 |  |
+| [Small Talk](https://open.spotify.com/track/6Db9WubNRyJv86SWwTcJEm) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Always Happy / Small Talk](https://open.spotify.com/album/6mvGFwAuFiclGLZOckvKTk) | 1:36 | 2021-06-02 | 2022-11-09 |
 | [Somebody](https://open.spotify.com/track/4ygF0U1GZSmrvVnoKhBRur) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 3:29 | 2021-06-02 |  |
 | [Somebody](https://open.spotify.com/track/6nVEkpMdoxA1xjcur12B7V) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/5ALipDbGrV5mJxJqt1MNN1) | 3:29 | 2021-06-02 | 2022-07-29 |
 | [Spellbound](https://open.spotify.com/track/3ePwkVyUDNo4UnITQWZcRS) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju \(Remastered & Expanded\)](https://open.spotify.com/album/5ShmAjEGEkWROooVfA0Amb) | 3:17 | 2021-06-02 | 2022-07-29 |

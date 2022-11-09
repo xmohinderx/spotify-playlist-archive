@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Abby Sage, Artwork: Robin Clifford Ellis
 
-985 songs - 2 day 5 hr 44 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+986 songs - 2 day 5 hr 46 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,7 +664,8 @@
 | [PLUS RIEN](https://open.spotify.com/track/1PnWNkAhUHSj7OzcEqiXtD) | [Ana Diaz](https://open.spotify.com/artist/7KQpa0oQZPEUWYnNTWhryr) | [PLUS RIEN](https://open.spotify.com/album/7dJVu2e7udjXYUzxwv3dxC) | 2:43 | 2022-05-11 | 2022-05-26 |
 | [Pluto Bay](https://open.spotify.com/track/6yj5RznJplyeijxdgyjy5b) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Pluto Bay](https://open.spotify.com/album/7D8ILfh2ZHuJ3SPNo8Twae) | 4:33 | 2021-12-01 | 2022-01-13 |
 | [Pool Party](https://open.spotify.com/track/6g2lOCDWFDjYLscHr6LCoM) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Pool Party](https://open.spotify.com/album/4xlTP2MmCppLdneOt3QGgN) | 2:58 | 2022-07-06 | 2022-08-04 |
-| [Poolside](https://open.spotify.com/track/20ejUODQmy71RQPk2H1QLB) | [Grandamme](https://open.spotify.com/artist/4CTURx9lZOLdwV4z8kIoRv), [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Holy Mountain](https://open.spotify.com/album/2DcuqLwSuqOYdpUiI6bZGZ) | 2:04 | 2022-10-05 |  |
+| [Poolside](https://open.spotify.com/track/20ejUODQmy71RQPk2H1QLB) | [Grandamme](https://open.spotify.com/artist/4CTURx9lZOLdwV4z8kIoRv), [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Holy Mountain](https://open.spotify.com/album/2DcuqLwSuqOYdpUiI6bZGZ) | 2:04 | 2022-10-05 | 2022-11-09 |
+| [Poolside](https://open.spotify.com/track/6hLl2nFQvImmvDbbyBpc7u) | [Grandamme](https://open.spotify.com/artist/4CTURx9lZOLdwV4z8kIoRv), [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Holy Mountain](https://open.spotify.com/album/0RHUyYyxidTJp1lDmxbaxB) | 2:04 | 2022-10-05 |  |
 | [Poor Boy](https://open.spotify.com/track/6Wvi3W1wCzyLzVSD8g7JTQ) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Poor Boy](https://open.spotify.com/album/3vqeCysvSQsTrwIEaEZns6) | 2:44 | 2021-12-01 | 2022-01-13 |
 | [Porcelain](https://open.spotify.com/track/55EHgpjJHqc7gIlOvEFWnC) | [Silicon Estate](https://open.spotify.com/artist/5VBfQRRaCLaB3MEg1bHiNt) | [More Than I Can Chew](https://open.spotify.com/album/0UPQa79JpWto7pAlpizbY6) | 3:05 | 2022-01-12 | 2022-02-17 |
 | [Porn Magazines](https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Porn Magazines](https://open.spotify.com/album/32F9nzCzR2vhhm5XMW4yiM) | 2:56 | 2022-10-19 |  |

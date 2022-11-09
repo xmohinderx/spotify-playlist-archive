@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Cover: Celia Cruz",
-  "num_followers": 191215,
+  "num_followers": 191348,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODM3NDY2NiwwMDAwMDAwMDE3NzYwMjkyZDY1Njc0NWZlZTUyYzcxMzE2YTcyYTRl",
+  "snapshot_id": "MTU5ODM3NDY2NiwwMDAwMDAwMGMzYzA0MzA5MTU5YThjNzliNTI5NGMxOThkNmYwNjJh",
   "tracks": [
     {
       "added_at": "2020-08-25 16:57:45",
@@ -575,6 +575,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "Con La Musica Cubana No!",
+        "url": "https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy"
+      },
+      "artists": [
+        {
+          "name": "TIMBALIVE",
+          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+        }
+      ],
+      "duration_ms": 316339,
+      "name": "Conmigo No",
+      "url": "https://open.spotify.com/track/3yophgzbY958X32KOQqiYF"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "Latino 56 - Salsa Bachata Merengue Reggaeton (Latin Hits)",
         "url": "https://open.spotify.com/album/7IziAogkGgcd7Xl5LCWIGl"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 302706,
       "name": "Dale Lo Que Lleva (with Maykel Fonts)",
       "url": "https://open.spotify.com/track/7HJlg4JTHFXsfFGXTkkeQq"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Con La Musica Cubana No!",
-        "url": "https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy"
-      },
-      "artists": [
-        {
-          "name": "TIMBALIVE",
-          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
-        }
-      ],
-      "duration_ms": 316339,
-      "name": "Conmigo No",
-      "url": "https://open.spotify.com/track/3yophgzbY958X32KOQqiYF"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -675,6 +675,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "Privilegio 2",
+        "url": "https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "duration_ms": 233977,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/0KP697XWzoz3griESGyk0c"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 240026,
       "name": "Traidora (feat. Marc Anthony) - Salsa Version",
       "url": "https://open.spotify.com/track/3jSCiNXdUOUdpmfG01evw9"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Privilegio 2",
-        "url": "https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl"
-      },
-      "artists": [
-        {
-          "name": "Los 4",
-          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
-        }
-      ],
-      "duration_ms": 233977,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/0KP697XWzoz3griESGyk0c"
     },
     {
       "added_at": "2020-08-25 16:57:45",

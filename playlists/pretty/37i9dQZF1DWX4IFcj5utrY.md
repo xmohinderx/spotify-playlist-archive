@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN?si=llxtqtQnSmuH2BLEFC3qYg">DJ Kent</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,121 likes - 55 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,151 likes - 55 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,6 +62,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 52 | [The Reason](https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Reason](https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4) | 3:24 |
 | 53 | [Dj From Mount Bay](https://open.spotify.com/track/3hUFZHpABs47onM00CUckK) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU), [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Dj From Mount Bay](https://open.spotify.com/album/1EcqIdMBsLCQouFXp4lAjh) | 6:09 |
 | 54 | [Black Heirs](https://open.spotify.com/track/0gmfpk6bZKowpKyBkcbPZL) | [Double Drop](https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr) | [Black Heirs](https://open.spotify.com/album/4EiKw9ZjnOhc97TqjG94aE) | 7:03 |
-| 55 | [Fall Away](https://open.spotify.com/track/3QYlfmOYcG8ZhkvzU63Riv) | [Aaron Suiss](https://open.spotify.com/artist/5Jl4yj7KU7jneqJ2KIepZA), [Mark Valsecchi](https://open.spotify.com/artist/1KkQpGzIc1ExuivTY4efGQ), [Montana](https://open.spotify.com/artist/1oNwdZGvy5pA3QQ5CpowyG) | [Free](https://open.spotify.com/album/5Q9wkkuSwwmjBYS0l71xuy) | 6:32 |
+| 55 | [Fall Away](https://open.spotify.com/track/3QYlfmOYcG8ZhkvzU63Riv) | [Aaron Suiss](https://open.spotify.com/artist/5Jl4yj7KU7jneqJ2KIepZA), [Mark Valsecchi](https://open.spotify.com/artist/1KkQpGzIc1ExuivTY4efGQ), [Montana Mousse](https://open.spotify.com/artist/2gdofGtfZ08lpIflI4RjV5) | [Free](https://open.spotify.com/album/5Q9wkkuSwwmjBYS0l71xuy) | 6:32 |
 
 Snapshot ID: `MTY2NzgzNDYxMiwwMDAwMDAwMDVlMWI1MzEzYzY3ZTI5MTMxODEyNWY3NDRmMTlhZjUw`

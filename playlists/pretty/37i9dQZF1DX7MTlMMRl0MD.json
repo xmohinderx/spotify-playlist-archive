@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Shakira",
-  "num_followers": 1858321,
+  "num_followers": 1858494,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1MjcwOCwwMDAwMDAwMDNlNzdiNTMzMzFiZmNkYWNkNTQ2YzFkMTAzMTI2NThj",
+  "snapshot_id": "MTY2Njg1MjcwOCwwMDAwMDAwMGU2MzNlOWMxYmY1NDMyYjVkMWQzNjU4NzUzMTA0NDU5",
   "tracks": [
     {
       "added_at": "2022-10-27 06:12:37",
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-11-08 01:35:47",
+      "added_at": "2022-11-09 02:44:09",
       "album": {
         "name": "Que Te Vaya Bonito",
         "url": "https://open.spotify.com/album/6Qf2illWMZl8ZqyfiTtqE5"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu"
     },
     {
-      "added_at": "2022-11-08 01:35:47",
+      "added_at": "2022-11-09 02:44:09",
       "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-10-27 06:12:37",
       "album": {
+        "name": "Los Recuerdos",
+        "url": "https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Los Recuerdos",
+      "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
+    },
+    {
+      "added_at": "2022-10-27 06:12:37",
+      "album": {
         "name": "Duos Entre Amigos",
         "url": "https://open.spotify.com/album/2aZsa1dc6ynwuv3yXjyZDC"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 245054,
       "name": "En Cada Aniversario",
       "url": "https://open.spotify.com/track/5p8f4fXfH83ixykJnIkUMD"
-    },
-    {
-      "added_at": "2022-10-27 06:12:37",
-      "album": {
-        "name": "Los Recuerdos",
-        "url": "https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Los Recuerdos",
-      "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
     },
     {
       "added_at": "2022-10-27 06:12:37",

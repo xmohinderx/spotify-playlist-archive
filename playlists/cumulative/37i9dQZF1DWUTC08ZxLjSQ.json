@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Hotboxgroove, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Kali-B, Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "published_playlist_ids": [
     "5WHUFzJa9ZzmLS4KcMCdPY"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 272000,
       "name": "Afkar Galbi",
       "url": "https://open.spotify.com/track/17oyrFSekVUCCx4YoFhsGR"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 209687,
       "name": "El 3elba",
       "url": "https://open.spotify.com/track/3HMGWElTSffEE4MAZi8s9l"
@@ -393,6 +393,24 @@
       "duration_ms": 218252,
       "name": "Enti Wain",
       "url": "https://open.spotify.com/track/6DnxbM3gMaRubNRtZPPEGe"
+    },
+    {
+      "album": {
+        "name": "Flight of Time",
+        "url": "https://open.spotify.com/album/1RRhXcBViJOhNHSDeFKmhB"
+      },
+      "artists": [
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/65cCRej79ekIxVA81UtCJD"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Flight of Time",
+      "url": "https://open.spotify.com/track/6jNFBaCURvVWBncn0GrZD2"
     },
     {
       "album": {
@@ -465,7 +483,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 123530,
       "name": "Hamdulilah",
       "url": "https://open.spotify.com/track/0ouTndlSP7HIF2j0FgsHEg"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 154893,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/25xfmkU1otdXjgVfVwQR8i"
@@ -593,6 +611,24 @@
       "duration_ms": 232274,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh"
+    },
+    {
+      "album": {
+        "name": "GBOF EP",
+        "url": "https://open.spotify.com/album/1Ypxz2UMMhqVbrM48yNCQP"
+      },
+      "artists": [
+        {
+          "name": "Areej",
+          "url": "https://open.spotify.com/artist/08Dn6q1Vgbc3Vg16tRx2Ef"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218453,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/0lJAsKOeHSBFj6X5msB21b"
     },
     {
       "album": {
@@ -914,6 +950,42 @@
     },
     {
       "album": {
+        "name": "Mr.Fancy pants",
+        "url": "https://open.spotify.com/album/5S2wmqGNIEn1rYiZWUXkLh"
+      },
+      "artists": [
+        {
+          "name": "Soundsmudge",
+          "url": "https://open.spotify.com/artist/2rNNLhzmcxJpgi6iofbrhj"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261868,
+      "name": "Mr.Fancy pants",
+      "url": "https://open.spotify.com/track/1aPgmpANFrfl3NIViRhuif"
+    },
+    {
+      "album": {
+        "name": "Nar w Rosas",
+        "url": "https://open.spotify.com/album/4vLQRhlcPxEbtA5q7Uv677"
+      },
+      "artists": [
+        {
+          "name": "Lagham",
+          "url": "https://open.spotify.com/artist/3sy97UUvGVuFTNEwl6H409"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301519,
+      "name": "Nar w Rosas",
+      "url": "https://open.spotify.com/track/7L3TurwY1wZQuBAGlGP43V"
+    },
+    {
+      "album": {
         "name": "Nobody Pass You",
         "url": "https://open.spotify.com/album/1jat5mK7rOJvKwnlbWH7M3"
       },
@@ -983,7 +1055,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 276244,
       "name": "Ocean of Black (AKA Harlot Sun)",
       "url": "https://open.spotify.com/track/43Euq23DvavCc4P3b0WdqF"
@@ -1023,6 +1095,32 @@
       "duration_ms": 308526,
       "name": "Ouda",
       "url": "https://open.spotify.com/track/6Q6AWOfZQbKLGrEqJj0HTZ"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/2N2HH3ZQGDbWE4evh5K9Dv"
+      },
+      "artists": [
+        {
+          "name": "musovrin",
+          "url": "https://open.spotify.com/artist/1FExNWwycNVGZnfCMgJUky"
+        },
+        {
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
+        },
+        {
+          "name": "Headless Monk",
+          "url": "https://open.spotify.com/artist/3JmGgA4fzifQjSJ5a4bMLI"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187702,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/7m3rPFw7n8NsY8Ik5M2KZ4"
     },
     {
       "album": {
@@ -1139,7 +1237,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 179846,
       "name": "Serdab",
       "url": "https://open.spotify.com/track/63gRTsaJBdsmGeC6Lijs0Z"
@@ -1165,6 +1263,24 @@
       "duration_ms": 135553,
       "name": "Slow Dance",
       "url": "https://open.spotify.com/track/1nD3OTwIppymPUbNkmv1sK"
+    },
+    {
+      "album": {
+        "name": "Subliminal Reality EP",
+        "url": "https://open.spotify.com/album/6zzP88NtgWx46fn02EW4xU"
+      },
+      "artists": [
+        {
+          "name": "Blue Vein River",
+          "url": "https://open.spotify.com/artist/5zLSqhWdzWowLvrg0Nory0"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261014,
+      "name": "Sound of the Gun",
+      "url": "https://open.spotify.com/track/68V26HNk7ey1NE3VkHvO0N"
     },
     {
       "album": {
@@ -1338,6 +1454,24 @@
     },
     {
       "album": {
+        "name": "What I Mean",
+        "url": "https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY"
+      },
+      "artists": [
+        {
+          "name": "Kali-B",
+          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "What I Mean",
+      "url": "https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v"
+    },
+    {
+      "album": {
         "name": "Who Pulled Up? (feat. Jeed)",
         "url": "https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC"
       },
@@ -1491,7 +1625,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 169090,
       "name": "\u0639\u0645\u0644 \u0641\u0646\u064a",
       "url": "https://open.spotify.com/track/19pRKlcApnYlaRmffunH6j"

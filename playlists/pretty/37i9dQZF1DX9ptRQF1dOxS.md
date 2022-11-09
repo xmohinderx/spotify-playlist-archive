@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,266 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,284 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 19 | [Crazy That You Love](https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Invisible Things](https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6) | 3:29 |
 | 20 | [cityscape](https://open.spotify.com/track/5o6vPmgz6iccUWnXJo3gMn) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [cityscape](https://open.spotify.com/album/1EKdEiHnk5mSXWUvJqFtdt) | 3:42 |
 | 21 | [good thing](https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP) | [emie nathan](https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB) | [good thing](https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ) | 2:22 |
-| 22 | [Wonder](https://open.spotify.com/track/7hn8HY6YN08DCCiNhqXtkn) | [Leah Weller](https://open.spotify.com/artist/5X0IIXf3Fm12IJ4YodiqMA) | [Wonder](https://open.spotify.com/album/0ELfoK1AQ7tkcbytIr4AG8) | 3:35 |
+| 22 | [Wonder](https://open.spotify.com/track/5sbNLpRqcGDphEaG2veqGT) | [Leah Weller](https://open.spotify.com/artist/5X0IIXf3Fm12IJ4YodiqMA) | [Freedom](https://open.spotify.com/album/0bqWMD6UAJ55uMmpgCJbdm) | 3:35 |
 | 23 | [Miss U](https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Miss U](https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL) | 3:53 |
 | 24 | [Hotel Amour](https://open.spotify.com/track/46jFeLj6khIo9v5RJTpdPO) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Hotel Amour](https://open.spotify.com/album/2o0zdg8tAFcj8dN6cbjN1P) | 2:33 |
 | 25 | [Can You Afford To Lose Me?](https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 4:02 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 50 | [Jaws](https://open.spotify.com/track/17TCTYGxieVPS1TBTUdQkc) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Jaws](https://open.spotify.com/album/0rdaz3LaQsaibiVA6iGtkn) | 3:20 |
 | 51 | [That Feeling](https://open.spotify.com/track/4w0FBEYmNAawFZd5HpBCWc) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Starlane](https://open.spotify.com/album/17F3TzqAlvZy7mvRc5jdn9) | 2:58 |
 
-Snapshot ID: `MTY2NzM0NzIwMCwwMDAwMDAwMDg2OWQ1ZTQ1ZjBjOWQ0MDNlOWU3NTczYWY1YzNmZGUw`
+Snapshot ID: `MTY2NzM0NzIwMCwwMDAwMDAwMDZmNzA3NmFhODljZDIxZTQzMjM0ZTM4YjllNDQ2MDUz`

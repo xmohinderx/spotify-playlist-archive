@@ -1,12 +1,12 @@
 {
   "description": "All the indescribable feelings that music gives you. cover: hemlocke springs",
-  "num_followers": 948966,
+  "num_followers": 949933,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg2MzgyMSwwMDAwMDAwMGUwYzI2NjNjYzdmODIyMmQyMjU2ZTE2YjQwYjM0NzJk",
+  "snapshot_id": "MTY2NzkzNTA0OCwwMDAwMDAwMDJmYmE4YmFhZTIyM2QwNDQ1OTY3ZmVmNTZiZjE4ZmM5",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL"
     },
     {
+      "added_at": "2022-11-08 19:17:28",
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
+    },
+    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "I\u2019m Not Perfect (But I\u2019m Trying)",
@@ -171,6 +187,26 @@
       "duration_ms": 113624,
       "name": "no way out",
       "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
+    },
+    {
+      "added_at": "2022-11-08 19:17:28",
+      "album": {
+        "name": "Inseparables",
+        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "Inseparables",
+      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
     },
     {
       "added_at": "2022-10-28 04:01:00",

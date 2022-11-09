@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Anyma
 
-147 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/5s19c9YN7LAmpSImXIMXhT)
+148 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/5s19c9YN7LAmpSImXIMXhT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [IN YOUR BLOOD \- Jessica Winter Remix](https://open.spotify.com/track/1l1KHnZUruHCJmTg9cM2CI) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [IN YOUR BLOOD \(Remixes\)](https://open.spotify.com/album/29ENTVp1M01KZJuvMS0v9m) | 4:13 | 2022-04-15 |  |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-07-01 |  |
 | [Keep The Body Dancing \- Spatial Awareness Remix \(EDIT\)](https://open.spotify.com/track/7wHK1wnd7wEelsDMm3OyuI) | [Cozmic Cat](https://open.spotify.com/artist/5VzgwnVckvQk1ET9tyGeN2), [Spatial Awareness](https://open.spotify.com/artist/2OdmLaSN87wH3r7ilfaKmc) | [Keep The Body Dancing \[Spatial Awareness Remix \(EDIT\)\]](https://open.spotify.com/album/7nYROmlF9JQIpsUZ85Y6wC) | 3:37 | 2022-04-15 | 2022-10-14 |
-| [Leela](https://open.spotify.com/track/29OT2Z3wFP9dHbCkVTrTGA) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [Leela](https://open.spotify.com/album/3wyAWANSMUCT1pCnwcHbVM) | 5:22 | 2022-04-15 |  |
+| [Leela](https://open.spotify.com/track/29OT2Z3wFP9dHbCkVTrTGA) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [Leela](https://open.spotify.com/album/3wyAWANSMUCT1pCnwcHbVM) | 5:22 | 2022-04-15 | 2022-11-09 |
+| [Leela](https://open.spotify.com/track/6FbdCNOZ4ldJPi43Rf01iE) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [LP2](https://open.spotify.com/album/55sCnDa3AJX3CeSM0pSO8e) | 5:22 | 2022-10-28 |  |
 | [Lizard Den](https://open.spotify.com/track/0gdS1Bf65Q9Rm8Ps92uWpv) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Lizard Den](https://open.spotify.com/album/5SNEHRYenRSwt6a0dsJNxB) | 5:07 | 2022-05-06 |  |
 | [Lotus](https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Lotus](https://open.spotify.com/album/4efymwZTnjpIXStNWWdCJ8) | 4:32 | 2022-07-29 |  |
 | [Maladaptive Daydreamer](https://open.spotify.com/track/1OMzDNa8XPcc7ry1lHY0JB) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [Maladaptive Daydreamer](https://open.spotify.com/album/0Zdz4k1rSM83jjR4CKflrl) | 7:17 | 2022-04-15 |  |

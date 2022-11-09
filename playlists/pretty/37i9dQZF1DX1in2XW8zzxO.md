@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,701 likes - 70 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,733 likes - 70 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 41 | [Gringo](https://open.spotify.com/track/1QtROulzcZn1HDqmCcLjhN) | [The Lowkeys](https://open.spotify.com/artist/7FlhY1KXkExO3TcdSsJUjQ) | [The Main Sound of Pitori](https://open.spotify.com/album/0KDRB1yNkvP0l4hziE1eae) | 6:41 |
 | 42 | [iDlozi](https://open.spotify.com/track/6WBKo2vRtyARgj2bKLZYdU) | [Kweyama Brothers](https://open.spotify.com/artist/2tTyqKgMwCvQL0qJUf4l3K), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [12am](https://open.spotify.com/artist/5GNzhwiLYF4mlXVQqrAUT7) | [Mpumalanga](https://open.spotify.com/album/60ggaOopXApXj9qV58Oytc) | 6:52 |
 | 43 | [Bundle of Joy](https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe) | [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Baby Boy 2 Reloaded](https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF) | 7:27 |
-| 44 | [The Fxckin Injury](https://open.spotify.com/track/1EZMFiD30CythJ73EBZfUq) | [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [DJ SOL K](https://open.spotify.com/artist/5LmpP7fU5Vdsf79FrrREK4) | [The Fxckin Injury](https://open.spotify.com/album/7By0qEmK6WwlCP1Fzk14x7) | 6:50 |
+| 44 | [The Fxckin Injury](https://open.spotify.com/track/4TI2IiuzHSG0ZSiWHpcI1k) | [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [DJ SOL K](https://open.spotify.com/artist/5LmpP7fU5Vdsf79FrrREK4) | [The Fxckin Injury](https://open.spotify.com/album/4nRqcmsWYPF9ubAM7Csq81) | 6:50 |
 | 45 | [Selema \(Po Po\)](https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\)](https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR) | 5:40 |
 | 46 | [John Vuli Gate \(feat\. Ntosh Gazi & Colano\)](https://open.spotify.com/track/7IAMurey3mCF73caRZcdOC) | [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Colano](https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [John Vuli Gate \(feat\. Ntosh Gazi & Colano\)](https://open.spotify.com/album/1MOJaKNs5h3Pz5gA8WAc7r) | 5:55 |
 | 47 | [Lorch](https://open.spotify.com/track/5x1j3ERLA6KpIdTi6c4dAS) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Semi Tee](https://open.spotify.com/artist/2mRDgWrF5x7MOS1X1C1UDF) | [The Return of the Scorpion Kings](https://open.spotify.com/album/6YA2a4kOc3jbeuW46d8jIP) | 6:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 69 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 |
 | 70 | [Untold Stories](https://open.spotify.com/track/6AyU0cXVSVNBDg7WECKiht) | [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Baby Boi III](https://open.spotify.com/album/5Oqd9wqJO0rj2z7hqyEKbH) | 6:52 |
 
-Snapshot ID: `MTY2NzEyOTY5NCwwMDAwMDAwMGNlMGEwNzIzZjk4MTMwNjBjNjczNGNjMTUzMjZjOTdk`
+Snapshot ID: `MTY2NzEyOTY5NCwwMDAwMDAwMDNlNmRhNDk2NWMzNmZlNDliMjkzYzcxMjAzZmM5NTlk`

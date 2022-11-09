@@ -9282,6 +9282,24 @@
     },
     {
       "album": {
+        "name": "foolish",
+        "url": "https://open.spotify.com/album/6dr6y3OEaIbalze5jnTJgC"
+      },
+      "artists": [
+        {
+          "name": "Ilykimchi",
+          "url": "https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172291,
+      "name": "foolish",
+      "url": "https://open.spotify.com/track/2w5Dbp9Y9LDbsMlfArcL9w"
+    },
+    {
+      "album": {
         "name": "football game",
         "url": "https://open.spotify.com/album/0ZUUNzW2alJzw9JkRRiIfM"
       },

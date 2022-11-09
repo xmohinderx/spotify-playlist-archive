@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 330146,
+  "num_followers": 330380,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDZhYTYwODQ4NDY3ZmM0ODJkYWEzNTUwYmM0YmFlYTJl",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDA1OWViNDg3ZmRlNzhlNTc0MGM5ZDg4ZTgyZmE3NDRm",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -485,6 +485,34 @@
       "url": "https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Ode Ireti (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE"
+      },
+      "artists": [
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "El-Jay",
+          "url": "https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        }
+      ],
+      "duration_ms": 239925,
+      "name": "Ode Ireti - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX"
+    },
+    {
       "added_at": "2022-07-08 17:15:14",
       "album": {
         "name": "Nobody Is Not Loved, Remixes, Pt. 3",
@@ -515,34 +543,6 @@
       "duration_ms": 432360,
       "name": "Never Sleep Again - Keinemusik Remix",
       "url": "https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Ode Ireti (Nitefreak Remix)",
-        "url": "https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE"
-      },
-      "artists": [
-        {
-          "name": "&friends",
-          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
-        },
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "El-Jay",
-          "url": "https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85"
-        },
-        {
-          "name": "Oluwadamvic",
-          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
-        }
-      ],
-      "duration_ms": 239925,
-      "name": "Ode Ireti - Nitefreak Remix",
-      "url": "https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 373487,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/43wAEql15k2lLyDC568uTE"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Whistleman EP",
@@ -691,6 +675,22 @@
       "duration_ms": 479920,
       "name": "Whistleman",
       "url": "https://open.spotify.com/track/386PnZfbszq42M8GprZnVt"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 373487,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/43wAEql15k2lLyDC568uTE"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Petra",
+        "url": "https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 276005,
+      "name": "Petra",
+      "url": "https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Fool's Paradise (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Petra",
-        "url": "https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp"
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G"
       },
       "artists": [
         {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
         }
       ],
-      "duration_ms": 276005,
-      "name": "Petra",
-      "url": "https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r"
+      "duration_ms": 246462,
+      "name": "Bacall",
+      "url": "https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -843,22 +859,6 @@
       "duration_ms": 384000,
       "name": "Sol",
       "url": "https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G"
-      },
-      "artists": [
-        {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
-        }
-      ],
-      "duration_ms": 246462,
-      "name": "Bacall",
-      "url": "https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1015,30 +1015,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "To The Light (Fideles Remix)",
-        "url": "https://open.spotify.com/album/6jNIuiKaLvkGloJnqq40Cp"
-      },
-      "artists": [
-        {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        },
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        }
-      ],
-      "duration_ms": 270008,
-      "name": "To The Light - Fideles Remix",
-      "url": "https://open.spotify.com/track/4dnmKgkhPvrRrDYjajpPS5"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "About My Dreams",
         "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
       },
@@ -1075,6 +1051,30 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "To The Light (Fideles Remix)",
+        "url": "https://open.spotify.com/album/6jNIuiKaLvkGloJnqq40Cp"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "duration_ms": 270008,
+      "name": "To The Light - Fideles Remix",
+      "url": "https://open.spotify.com/track/4dnmKgkhPvrRrDYjajpPS5"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Black Rain (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 352916,
       "name": "Black Rain - \u00c2me Remix",
       "url": "https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 200317,
       "name": "Chaka - Edit",
       "url": "https://open.spotify.com/track/4GGVpoLeVtvzJZyhV6J307"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1165,26 +1165,6 @@
       "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Duel",
-        "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
-      },
-      "artists": [
-        {
-          "name": "Tim Green",
-          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
-        },
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        }
-      ],
-      "duration_ms": 574838,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Everyday (Shimza Remix)",
@@ -1207,6 +1187,26 @@
       "duration_ms": 452480,
       "name": "Everyday - Shimza Remix",
       "url": "https://open.spotify.com/track/2GDWZWVlEWK9CMs2ZkMEOd"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Duel",
+        "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
+      },
+      "artists": [
+        {
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        },
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "duration_ms": 574838,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
     },
     {
       "added_at": "2022-08-01 18:07:32",
@@ -1317,6 +1317,22 @@
       "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "WAYU Various Artists, Vol. 2",
+        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 328089,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
+    },
+    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "Human Aura",
@@ -1335,22 +1351,6 @@
       "duration_ms": 404529,
       "name": "Human Aura - Massano Remix",
       "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "WAYU Various Artists, Vol. 2",
-        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 328089,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1419,22 +1419,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Melancol\u00eda",
-        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
+        "name": "Upahl",
+        "url": "https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "\u00c1cido Pantera",
-          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
+          "name": "Seba Campos",
+          "url": "https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF"
         }
       ],
-      "duration_ms": 222366,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
+      "duration_ms": 277500,
+      "name": "Canto Al Sol",
+      "url": "https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1459,18 +1455,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Upahl",
-        "url": "https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl"
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
       },
       "artists": [
         {
-          "name": "Seba Campos",
-          "url": "https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
         }
       ],
-      "duration_ms": 277500,
-      "name": "Canto Al Sol",
-      "url": "https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE"
+      "duration_ms": 222366,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Giza",
-        "url": "https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        }
-      ],
-      "duration_ms": 432786,
-      "name": "Giza",
-      "url": "https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Calmo",
         "url": "https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 428181,
       "name": "Calmo",
       "url": "https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Giza",
+        "url": "https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "duration_ms": 432786,
+      "name": "Giza",
+      "url": "https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf"
     },
     {
       "added_at": "2022-10-24 15:51:33",

@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156974,
+  "num_followers": 156971,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMGE4ZjllMGI0ZmFlYWYwYzRiNDcxODkzMTJmYTNkN2Yz",
+  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMGNiYmE2ZGI2OTgwMTdmNmVlYjAyNTA0MTIxNDdhODli",
   "tracks": [
     {
       "added_at": "2022-10-10 21:14:39",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Have You Never Been Mellow",
-        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 147742,
-      "name": "Have You Never Been Mellow",
-      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Tomorrow (feat. 433)",
         "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 165000,
       "name": "Tomorrow (feat. 433)",
       "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Have You Never Been Mellow",
+        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 147742,
+      "name": "Have You Never Been Mellow",
+      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e"
-      },
-      "artists": [
-        {
-          "name": "Love Harder",
-          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
-        },
-        {
-          "name": "Amber Van Day",
-          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
-        }
-      ],
-      "duration_ms": 192296,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Family (Remixes)",
         "url": "https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 185813,
       "name": "Family - Frank Walker Remix",
       "url": "https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e"
+      },
+      "artists": [
+        {
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+        },
+        {
+          "name": "Amber Van Day",
+          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+        }
+      ],
+      "duration_ms": 192296,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
         "name": "In My Head (On My Mind)",
         "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 197686,
       "name": "Born With It",
       "url": "https://open.spotify.com/track/4jC0Qm0RMIJDKLjh0DrTY1"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        }
-      ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1307,6 +1307,22 @@
       "duration_ms": 240383,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "All Comes Back To You",
+        "url": "https://open.spotify.com/album/5rJpYMGW8MdUseiZ3aaAvP"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All Comes Back To You",
+      "url": "https://open.spotify.com/track/0cIRZhGMVLIrOPhX3VWoqQ"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "All Comes Back To You",
-        "url": "https://open.spotify.com/album/5rJpYMGW8MdUseiZ3aaAvP"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All Comes Back To You",
-      "url": "https://open.spotify.com/track/0cIRZhGMVLIrOPhX3VWoqQ"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Fighter",
         "url": "https://open.spotify.com/album/2XjDpISRYzFI7okmx0YZPS"
       },
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Sweet Harmony",
-        "url": "https://open.spotify.com/album/3e8s6snmelYIyW36UjyKfK"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        },
-        {
-          "name": "Mia Amare",
-          "url": "https://open.spotify.com/artist/4nBaPBBgqOTBzeBy9kpCCr"
-        }
-      ],
-      "duration_ms": 136190,
-      "name": "Sweet Harmony",
-      "url": "https://open.spotify.com/track/6kZBa2wVfTaGAdoLa3dVAP"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 202968,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Sweet Harmony",
+        "url": "https://open.spotify.com/album/3e8s6snmelYIyW36UjyKfK"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Mia Amare",
+          "url": "https://open.spotify.com/artist/4nBaPBBgqOTBzeBy9kpCCr"
+        }
+      ],
+      "duration_ms": 136190,
+      "name": "Sweet Harmony",
+      "url": "https://open.spotify.com/track/6kZBa2wVfTaGAdoLa3dVAP"
     },
     {
       "added_at": "2022-10-10 21:14:39",

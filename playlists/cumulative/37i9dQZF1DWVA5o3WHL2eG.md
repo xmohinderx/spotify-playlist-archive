@@ -4,7 +4,7 @@
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: Sofia Portanet
 
-601 songs - 1 day 7 hr 29 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
+602 songs - 1 day 7 hr 31 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,8 @@
 | [In Love with a Gangster](https://open.spotify.com/track/5eJBljWL5BBjqRNOul8S9v) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [In Love with a Gangster](https://open.spotify.com/album/5wnaMMD2AAgr1zuRB9e20c) | 3:10 | 2022-09-06 | 2022-10-05 |
 | [in my closet](https://open.spotify.com/track/48GvmXwI4c36lzW21byz3H) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [in my closet](https://open.spotify.com/album/5l7VNatAUY3dVj3kIoJ9kI) | 3:32 | 2022-05-03 | 2022-06-01 |
 | [In My Darkness](https://open.spotify.com/track/0TWZxbMl9cU0RCal5WsC04) | [Stella Sommer](https://open.spotify.com/artist/0UMFTGT5PJqvSQQFODNtob) | [In My Darkness](https://open.spotify.com/album/0IY4wLUmDh1D6YxSmF0iJ2) | 2:41 | 2022-10-04 | 2022-11-08 |
-| [in my mind \(…sind wir perfekt\)](https://open.spotify.com/track/3t4CxOo3uiixiMpZR5XsaV) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/album/5S4jylXijHKHNujMW9pQzv) | 2:11 | 2022-11-07 |  |
+| [in my mind \(…sind wir perfekt\)](https://open.spotify.com/track/3t4CxOo3uiixiMpZR5XsaV) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/album/5S4jylXijHKHNujMW9pQzv) | 2:11 | 2022-11-07 | 2022-11-09 |
+| [in my mind \(…sind wir perfekt\)](https://open.spotify.com/track/4jJva9WWChpuSpKMdfKxQ6) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/album/4dFcys5abpY2AUJ1ZOMTps) | 2:11 | 2022-11-07 |  |
 | [into it](https://open.spotify.com/track/3k5h73ODjtfDufg5pDc5ze) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [into it](https://open.spotify.com/album/4cLFhHP7yf468yHFERPdh3) | 2:41 | 2022-10-04 | 2022-11-08 |
 | [Intro](https://open.spotify.com/track/08JNVaWt7RAEs4e043M852) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [Intro](https://open.spotify.com/album/0uM1UIvWLbzTgLIanS1VXK) | 2:10 | 2022-07-05 | 2022-08-03 |
 | [Irgendland](https://open.spotify.com/track/1fGKXO6LTFBNYCsInYT2C0) | [klebe](https://open.spotify.com/artist/54NEKupV1XnarSxwn0gp3w) | [Irgendland](https://open.spotify.com/album/5VUpmCK70ht2C7hQfguKhZ) | 3:13 | 2021-12-21 | 2022-01-05 |

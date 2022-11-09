@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Loco & Jam\. Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,851 likes - 101 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,917 likes - 101 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 97 | [Okay Alright](https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN) | [Alan Nieves](https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG) | [Okay Alright](https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv) | 6:08 |
 | 98 | [eyes](https://open.spotify.com/track/5oxtjIW9J0FdKt28wabkfH) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [eyes](https://open.spotify.com/album/71mI6Sm61EXGrIr212lAx6) | 4:45 |
 | 99 | [Can Do This](https://open.spotify.com/track/5lqoNLfzvjzug14fsMP9gt) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Can Do This](https://open.spotify.com/album/6u95Qd5P51p2jFRq9zjMZn) | 4:36 |
-| 100 | [Nether Portal](https://open.spotify.com/track/3B3K5bpuR3OmJ6o1PiVYbJ) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Monnaka](https://open.spotify.com/album/6uVXGsjE9C31ZQQEMTkGE4) | 6:18 |
+| 100 | [Nether Portal](https://open.spotify.com/track/4bwSiql3RcbvDaq2vUeOU0) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Monnaka](https://open.spotify.com/album/7fQYIJUcAWOZ8MA6LfTHXU) | 6:18 |
 | 101 | [VINEGAR HILL](https://open.spotify.com/track/0QqIz4Ut84n1hEqcqn7HSN) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [BADBOI](https://open.spotify.com/album/3ucILeyhjCVjm9Uy6g9tNu) | 3:03 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDQ3MWE0MzZkZjU2NTBlMWIzYzc4ODdlNTBmYjA0YTM5`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDUxZGNkMDE1MjExNDQ3MmE1MmFhNzExNjdhNzY0Y2Qz`

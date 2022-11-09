@@ -1438,6 +1438,28 @@
     },
     {
       "album": {
+        "name": "Rimorso",
+        "url": "https://open.spotify.com/album/5wuZ3RGLtu6LimxV4kU1Tc"
+      },
+      "artists": [
+        {
+          "name": "Mai Mai Mai",
+          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
+        },
+        {
+          "name": "NZIRIA",
+          "url": "https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313973,
+      "name": "Musica Nova",
+      "url": "https://open.spotify.com/track/2Mp3iRcLV4CF2S9HFFmnfK"
+    },
+    {
+      "album": {
         "name": "Musica Nova",
         "url": "https://open.spotify.com/album/7j7nfHcaTro1WSKLmC9qq9"
       },
@@ -1453,7 +1475,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 313973,
       "name": "Musica Nova",
       "url": "https://open.spotify.com/track/3sjyx4ORFG6X4SAd0EsPmK"
@@ -1995,10 +2017,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 278276,
       "name": "Sawbones",
       "url": "https://open.spotify.com/track/0tpho5AS8b6adlsHfJIrsN"
+    },
+    {
+      "album": {
+        "name": "FIBS",
+        "url": "https://open.spotify.com/album/1s05RP1wmD0p4uGZ7q1xwC"
+      },
+      "artists": [
+        {
+          "name": "Anna Meredith",
+          "url": "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278276,
+      "name": "Sawbones",
+      "url": "https://open.spotify.com/track/1wEVp9aggdrXG39gQQ6Gn7"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 455869,
+  "num_followers": 455988,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMDQxOWFkOTlhODYxZDNjMzExMWU0Mjk5YWMwNTg2ZWJi",
+  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMGI1MjVkZDNmNGNkMWFjYjFjZDc5NzQ4YTA1ZTg3ZTMz",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -339,22 +339,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Best Of The Emotions: Best Of My Love",
-        "url": "https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Relight My Fire (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 225893,
       "name": "Relight My Fire - Single Version",
       "url": "https://open.spotify.com/track/6UW4Uo5zRI5gJw5urNwiwN"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "The Best Of The Emotions: Best Of My Love",
+        "url": "https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI"
     },
     {
       "added_at": "2020-04-14 18:41:41",

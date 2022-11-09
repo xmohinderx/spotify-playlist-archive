@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Ibrahim Maalouf
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,836 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,872 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Capacity to Love](https://open.spotify.com/track/1AQUqzqHMJIeGeupMb9Y1O) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Gregory Porter](https://open.spotify.com/artist/54EquGCfONcM8VxYBT6o7f) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:25 |
+| 1 | [Capacity to Love](https://open.spotify.com/track/1AQUqzqHMJIeGeupMb9Y1O) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:25 |
 | 2 | [No Confusion \(feat\. Kojey Radical\) \[Alternate Take\]](https://open.spotify.com/track/6WHI0ZI3wAjxJrx4GQAAQF) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [No Confusion \(feat\. Kojey Radical\)](https://open.spotify.com/album/1JIZ8ahbpr5CFTFRir5GPR) | 2:50 |
 | 3 | [The Healer](https://open.spotify.com/track/0CjY9niefITNSiK5OBgPeU) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [The Healer](https://open.spotify.com/album/7CqeFBrZZUkdHowafVUKHI) | 5:52 |
 | 4 | [Legacy](https://open.spotify.com/track/3WTAzJLGxBLvgzPKdcn7Zo) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 2:53 |

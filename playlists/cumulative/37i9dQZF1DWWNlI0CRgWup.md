@@ -4,7 +4,7 @@
 
 > Découvrez notre sélection des artistes à suivre\. Photo : Zaho de Sagazan
 
-76 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
+77 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Si bien du mal](https://open.spotify.com/track/7cch3mlEo2IfYgyrjyDwFv) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Si bien du mal](https://open.spotify.com/album/61CY05oYakpa1dSBi6Pqxh) | 2:48 | 2021-12-02 |  |
 | [si rose](https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:28 | 2022-06-17 | 2022-09-30 |
 | [Sous l'eau \(Douce France\)](https://open.spotify.com/track/30KKTkwoJiTKuSFnXZ6yYN) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Sous l'eau \(Douce France\)](https://open.spotify.com/album/2BE7fxY5IJQ1rPPX2ihGqX) | 2:42 | 2022-06-10 | 2022-06-22 |
-| [Suffisamment](https://open.spotify.com/track/7jIsa1OvMZSWWmOxqekPCx) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/1xwjEIbQEqd9gFnUlm0SUb) | 3:46 | 2022-09-29 |  |
+| [Suffisamment](https://open.spotify.com/track/2G0jAoWT4mtcvsOyXaWzSt) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/5bYohHTjPB1Na7wcv5YRG3) | 3:46 | 2022-10-28 |  |
+| [Suffisamment](https://open.spotify.com/track/7jIsa1OvMZSWWmOxqekPCx) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/1xwjEIbQEqd9gFnUlm0SUb) | 3:46 | 2022-09-29 | 2022-11-09 |
 | [Tapion](https://open.spotify.com/track/2vHzw04q8IL0wRKJmBDocw) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Tapion](https://open.spotify.com/album/0aOEqCwX0R9fr9vpdXIdEA) | 3:17 | 2022-06-10 | 2022-09-30 |
 | [Tarzan](https://open.spotify.com/track/7bTEYM4keeHBnm8h0nBj5G) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Tarzan](https://open.spotify.com/album/0vvWbMFuL708tNtMx4Z2QL) | 3:10 | 2022-09-29 |  |
 | [The Beast](https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [The Beast](https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578) | 4:35 | 2021-12-02 |  |

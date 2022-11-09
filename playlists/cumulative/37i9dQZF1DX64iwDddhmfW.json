@@ -122,6 +122,28 @@
     },
     {
       "album": {
+        "name": "Anti-Hero (feat. Bleachers)",
+        "url": "https://open.spotify.com/album/18DEtVsRVQ4rxqnOIAPwRB"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228397,
+      "name": "Anti-Hero (feat. Bleachers)",
+      "url": "https://open.spotify.com/track/0j0gJqxitjhmmkrW56dtQH"
+    },
+    {
+      "album": {
         "name": "Leave Before The Lights Come On",
         "url": "https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Most exciting artists from the Indian Indie scene. Cover : Tanmaya Bhatnagar",
+  "description": "Most exciting artists from the Indian Indie scene. Cover : Twin Strings",
   "name": "Radar India",
   "published_playlist_ids": [
     "6HbYGIijNLCCdW0az43i5B"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 194400,
       "name": "Dreaming In My Mind",
       "url": "https://open.spotify.com/track/5d0vzUSG3l87BRtGR726RN"
@@ -2691,6 +2691,24 @@
       "duration_ms": 430967,
       "name": "Piharva",
       "url": "https://open.spotify.com/track/4i4PJCJ0DYyUfXVHLS4fYU"
+    },
+    {
+      "album": {
+        "name": "Pukaroge",
+        "url": "https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq"
+      },
+      "artists": [
+        {
+          "name": "Twin Strings",
+          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237980,
+      "name": "Pukaroge",
+      "url": "https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr"
     },
     {
       "album": {

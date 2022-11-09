@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Holiday Collection](https://open.spotify.com/playlist/37i9dQZF1DXdam5VrqMf3y)
 
-> Your favorite holiday tunes, like you've never heard before\. Cover: jxdn
+> Your favorite holiday tunes, like you've never heard before\. Cover: Meghan Trainor
 
 90 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/6ra7ildIw0y4orWkx6YTYg)
 

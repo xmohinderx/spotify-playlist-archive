@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Emeryld \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,789 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,857 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 27 | [KIDS](https://open.spotify.com/track/7x8sUnnKHZsddQxLZeWwB4) | [auston ghost](https://open.spotify.com/artist/1wCjv2RGjyuHMJw2UAvjLO), [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp) | [KIDS](https://open.spotify.com/album/5merKL9SBjIDRuvFBavQ8z) | 2:42 |
 | 28 | [Some Things Never Change](https://open.spotify.com/track/4clBv8sHZ7gqyH7xhlmCCC) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [Some Things Never Change](https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4) | 3:37 |
 | 29 | [How You Leapt](https://open.spotify.com/track/22PZd4K3wTlcSgMMOsQ1w2) | [cartoonhead](https://open.spotify.com/artist/4aIocyMSx4FLc5u5sfBCvY) | [How You Leapt](https://open.spotify.com/album/16OpARpzUBfjNcO3LRUYYL) | 3:37 |
-| 30 | [Can't Deny It](https://open.spotify.com/track/3wJ7DkVyjux3jCNTakOahw) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/7jcDqi4m5XF2q4DVMYSDcF) | 3:58 |
+| 30 | [Can't Deny It](https://open.spotify.com/track/0tgTrj69uTFZaRK669acBF) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/6iPxylWvEfxFqJoTlVOZV2) | 3:58 |
 | 31 | [Californianated](https://open.spotify.com/track/5Tmh1XNBr15iJ9RbdDSp7Z) | [Unturned](https://open.spotify.com/artist/2bT1gJ4qahYAMFmaoFV7Nj) | [Dreams of Being on Television](https://open.spotify.com/album/0ik1Xe4aVwpHihmTMTAkxE) | 3:44 |
 | 32 | [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 |
 | 33 | [Kerosene](https://open.spotify.com/track/7M68k5EAqfS2iPkGJjLoYl) | [Mayfield](https://open.spotify.com/artist/3FUshY39aDStFuHeyl92gj) | [Kerosene](https://open.spotify.com/album/7dN18W1xfDDgWvLydFSUyO) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Gumball Garden](https://open.spotify.com/track/0SagEu1eoGqpFRZa0vtnoz) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Gumball Garden](https://open.spotify.com/album/4n1xK0BmxLTqcAF7P5fTt7) | 5:00 |
 | 100 | [Pseudoshine](https://open.spotify.com/track/6QWPWRHIwHekPHdXYUHKu0) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Radial](https://open.spotify.com/album/0kiblaRCuTItxvrqPenuXj) | 3:40 |
 
-Snapshot ID: `MTY2NjgwMDAwMCwwMDAwMDAwMGRiNjE5YTE0YmJjZDc2MzJlYjgzMjBhY2I3NjU1NTY4`
+Snapshot ID: `MTY2NjgwMDAwMCwwMDAwMDAwMGJlOGYzMWY0ZTgyYjU0YjQzZDQzZjg4MGVhNTI1Yjg4`

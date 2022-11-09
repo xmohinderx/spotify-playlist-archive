@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,569 likes - 157 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,676 likes - 157 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 122 | [Snow Angel](https://open.spotify.com/track/1wYYeL1U58MfPFHRRfdunQ) | [Sugar & The Hi Lows](https://open.spotify.com/artist/3ocspfRKSu50vCoUYexOpy) | [Snow Angel](https://open.spotify.com/album/3StV5cF5hyUlvJeIWmPlv6) | 3:19 |
 | 123 | [Holidays](https://open.spotify.com/track/7CH8W7Nt7gJDEZLFfFjqly) | [The Lonely Wild](https://open.spotify.com/artist/7uG1pvcReIxuBhvpabjdom) | [Holidays](https://open.spotify.com/album/2AjiirTvdABxb6A8XO7cpK) | 5:39 |
 | 124 | [By the Fireside](https://open.spotify.com/track/5km5d29i3NCoALObwU30Xj) | [Ellen And The Escapades](https://open.spotify.com/artist/2v0e1UUQYJ5GYQqT0SCKWe) | [By the Fireside](https://open.spotify.com/album/62qr0nPTH47QiFzkN1ma61) | 2:59 |
-| 125 | [Snowglobe Blizzard](https://open.spotify.com/track/10hTYWeav6h5PWy9WEynXP) | [Smoke Fairies](https://open.spotify.com/artist/7wbZFLV3wwTqyrKNCJ8Y8D) | [Wild Winter](https://open.spotify.com/album/6I5ek4BMNjS8rVP2RgaYpw) | 3:14 |
+| 125 | [Snowglobe Blizzard](https://open.spotify.com/track/524Hkqd49nCSXSGKiHEYBN) | [Smoke Fairies](https://open.spotify.com/artist/7wbZFLV3wwTqyrKNCJ8Y8D) | [Wild Winter](https://open.spotify.com/album/7IKc2ybIK4Il7t8NeeLDjR) | 3:14 |
 | 126 | [Lo! How A Rose E'er Blooming](https://open.spotify.com/track/5UjM0Y6EZxS63o1Ntqo7jR) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:22 |
 | 127 | [Patapan / O Come, O Come Emmanuel](https://open.spotify.com/track/6V1rb3Q3pQf4m0P1IosI2g) | [Mindy Gledhill](https://open.spotify.com/artist/24gJ2GCq5zx1Mh08ZpmiSo) | [Winter Moon](https://open.spotify.com/album/11aXurCjqzztCLiFi4k7Tv) | 2:39 |
 | 128 | [Hear The Bells](https://open.spotify.com/track/3k5p67GV65hMAILu99WT0w) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hear The Bells](https://open.spotify.com/album/4dbG2curXKnkFG8XYEj9eY) | 4:02 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 156 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 |
 | 157 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDkzYzUxZDgwNzQwMTdjZTk0YTkyNGU4Yjk5NjQ0NWE0`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDQ5NDViYTBiOTZlNjdlNDdjYWM3NzMzMWQ3ZTVlMjZh`

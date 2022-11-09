@@ -4,7 +4,7 @@
 
 > Relax to the more laid back sounds from today's greatest artists.
 
-66 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/4MQpgVeH9Nbw7P8Sb7jpLO)
+67 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/4MQpgVeH9Nbw7P8Sb7jpLO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Is It Just Me?](https://open.spotify.com/track/1o2E5CwlBWuVElc41EqOSU) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [My Town](https://open.spotify.com/album/18SfYsQ4uFVYaMVctPDAvX) | 3:23 | 2021-10-14 |  |
 | [Is It Just Me?](https://open.spotify.com/track/39Kwdk4oDypLZ5d2aRAj5W) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Is It Just Me?](https://open.spotify.com/album/3HtC8zN9n7yvlm3ZQ4q6CT) | 3:23 | 2021-10-14 | 2022-07-29 |
 | [I’m Here for You](https://open.spotify.com/track/6qyPimk15pulIffKWUmEf7) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [I’m Here for You](https://open.spotify.com/album/54MmocNCchoMEor4lVo9ld) | 3:18 | 2021-10-14 |  |
-| [Lost and Found](https://open.spotify.com/track/2ERDk7FT3YadvUl5VDe6TI) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Lost and Found](https://open.spotify.com/album/0aBowLSsHO6bpwyBhIV4k5) | 3:30 | 2021-10-14 |  |
+| [Lost and Found](https://open.spotify.com/track/2ERDk7FT3YadvUl5VDe6TI) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Lost and Found](https://open.spotify.com/album/0aBowLSsHO6bpwyBhIV4k5) | 3:30 | 2021-10-14 | 2022-11-09 |
+| [Lost and Found](https://open.spotify.com/track/36XapglPUABLLmctdDn5WG) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Lost and Found](https://open.spotify.com/album/2jCUeOgbvOX6CT3JGx0ak9) | 3:30 | 2021-10-14 |  |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-10-14 |  |
 | [Rules](https://open.spotify.com/track/2XIwD3NmkwkFFohxfqcYxB) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Rules](https://open.spotify.com/album/0IZ0oihPi9rH8eOpCzLJE3) | 3:13 | 2021-10-14 | 2022-07-29 |
 | [Rules](https://open.spotify.com/track/3pX2nQSp8Xafya67qsSPDv) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Rules](https://open.spotify.com/album/0q1B4NQD9ac8EQaYrsZKSr) | 3:13 | 2021-10-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 14100,
+  "num_followers": 14112,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM5MDIyNSwwMDAwMDAwMGVlMmE5MmYwYzU4MTA4M2E5ZTY1ZjU0NWM4MDE4NjRl",
+  "snapshot_id": "MTY1OTM5MDIyNSwwMDAwMDAwMDZlM2MyZDdmYjkyNjAwZGQ0MjU3OTgxNWMwMjAzNjgw",
   "tracks": [
     {
       "added_at": "2022-08-01 21:43:45",
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-08-01 21:43:45",
       "album": {
-        "name": "Ela S\u00f3 Quer Paz",
-        "url": "https://open.spotify.com/album/0kt2b6HTMmlV4A5f97LZk9"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 174382,
-      "name": "Ela S\u00f3 Quer Paz",
-      "url": "https://open.spotify.com/track/1RPrzKZdkzCNV0Ux0xEHg2"
-    },
-    {
-      "added_at": "2022-08-01 21:43:45",
-      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 257644,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6"
+    },
+    {
+      "added_at": "2022-08-01 21:43:45",
+      "album": {
+        "name": "Ela S\u00f3 Quer Paz",
+        "url": "https://open.spotify.com/album/0kt2b6HTMmlV4A5f97LZk9"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 174382,
+      "name": "Ela S\u00f3 Quer Paz",
+      "url": "https://open.spotify.com/track/1RPrzKZdkzCNV0Ux0xEHg2"
     },
     {
       "added_at": "2022-08-01 21:43:45",
@@ -887,30 +887,6 @@
     {
       "added_at": "2022-08-01 21:43:45",
       "album": {
-        "name": "Sensa\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        },
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        }
-      ],
-      "duration_ms": 272004,
-      "name": "Sensa\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo"
-    },
-    {
-      "added_at": "2022-08-01 21:43:45",
-      "album": {
         "name": "A Divina Com\u00e9dia",
         "url": "https://open.spotify.com/album/7z0Urrb0oyXZIglsBlREud"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 320744,
       "name": "A Divina Com\u00e9dia",
       "url": "https://open.spotify.com/track/1j9jCO7zGkxuAOJTTZpHiL"
+    },
+    {
+      "added_at": "2022-08-01 21:43:45",
+      "album": {
+        "name": "Sensa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        }
+      ],
+      "duration_ms": 272004,
+      "name": "Sensa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo"
     },
     {
       "added_at": "2022-08-01 21:43:45",

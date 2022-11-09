@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-290 songs - 18 hr 9 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
+293 songs - 18 hr 19 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Catalyst \- Remastered](https://open.spotify.com/track/6XXVfbTesfnkhnX3MO80cX) | [Oceansize](https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm) | [Effloresce](https://open.spotify.com/album/5HeMzB3lNUuYJGjfHYYlml) | 6:40 | 2021-12-15 | 2022-07-29 |
 | [Change](https://open.spotify.com/track/2DyhBbEIaPX1neN47yLJkk) | [Curtiss](https://open.spotify.com/artist/1JaFPRzVdBkoUq5K16U8ly) | [Simplicity](https://open.spotify.com/album/4cgXduilLVjNuIMBIbUUIN) | 4:00 | 2022-10-11 | 2022-11-03 |
 | [Cheap Magic](https://open.spotify.com/track/7kamSwUo2vWKVjTnK21Xtm) | [Turbowolf](https://open.spotify.com/artist/1NyswKLrbbWby73lOfJRZH) | [The Free Life](https://open.spotify.com/album/2AZizPumqjqVyEapFaNnQH) | 2:56 | 2021-12-15 | 2022-07-29 |
-| [Cheap Magic](https://open.spotify.com/track/2r7Oz1JMGmEa6ZNvywxCnU) | [Turbowolf](https://open.spotify.com/artist/1NyswKLrbbWby73lOfJRZH), [Sebastien Grainger](https://open.spotify.com/artist/5HTY4xpY9n7atMo4z8FTNh) | [The Free Life](https://open.spotify.com/album/3MVLO1W0Vm3Y3BeEZmE1Nf) | 2:56 | 2022-11-02 |  |
+| [Cheap Magic](https://open.spotify.com/track/2r7Oz1JMGmEa6ZNvywxCnU) | [Turbowolf](https://open.spotify.com/artist/1NyswKLrbbWby73lOfJRZH), [Sebastien Grainger](https://open.spotify.com/artist/5HTY4xpY9n7atMo4z8FTNh) | [The Free Life](https://open.spotify.com/album/3MVLO1W0Vm3Y3BeEZmE1Nf) | 2:56 | 2022-11-02 | 2022-11-09 |
 | [Circles](https://open.spotify.com/track/2jmBc2dTGXU9quHYTkpxSL) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:09 | 2022-11-02 |  |
 | [Colorblind](https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:40 | 2021-12-15 |  |
 | [Come Back](https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 7:47 | 2021-12-15 |  |
@@ -133,7 +133,7 @@
 | [Justboy](https://open.spotify.com/track/4jXUGaLSe8hb7QplSTl6HK) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Blackened Sky](https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW) | 4:23 | 2022-11-02 |  |
 | [Kalifornia](https://open.spotify.com/track/6MPXgYIVqYQk8dCFvkZccw) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [All or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/1Shxzz6xwTGCUH2YqPuUlR) | 2:54 | 2021-12-15 | 2022-07-25 |
 | [Kangaroo Pocket](https://open.spotify.com/track/0xDOL7sItKiKMw7hdyUwas) | [Rozwell Kid](https://open.spotify.com/artist/3g43Z25cVRJHFn8ph8cdO0) | [Too Shabby](https://open.spotify.com/album/6FmhJNymRTcWZKQnjhU897) | 4:30 | 2021-12-15 |  |
-| [Keep The Lights On Me](https://open.spotify.com/track/190yVCaCcBHxXIxF00gaw5) | [Big Spring](https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma) | [Keep The Lights On Me](https://open.spotify.com/album/3P3Mj0umfWfMMkwdfPVxCQ) | 3:47 | 2021-12-15 |  |
+| [Keep The Lights On Me](https://open.spotify.com/track/190yVCaCcBHxXIxF00gaw5) | [Big Spring](https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma) | [Keep The Lights On Me](https://open.spotify.com/album/3P3Mj0umfWfMMkwdfPVxCQ) | 3:47 | 2021-12-15 | 2022-11-09 |
 | [Kettling](https://open.spotify.com/track/2LSE4990srPxQHyPhMOL3w) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/24mE0f0UXWd9YEpmKC3JtJ) | 3:41 | 2021-12-15 | 2022-09-22 |
 | [Kick](https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Brave Faces Everyone](https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv) | 4:02 | 2021-12-15 |  |
 | [Lay Low](https://open.spotify.com/track/0Kq3WNdoWezo0VBQWco23A) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Springtime and Blind](https://open.spotify.com/album/3LF5wSote7idc7eLxl8kCu) | 2:46 | 2021-12-15 | 2022-07-28 |
@@ -219,6 +219,7 @@
 | [Smiles All Round \- Single](https://open.spotify.com/track/4gzgTuZBM2kJPsBUwAopRE) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Smiles All Round \- Single](https://open.spotify.com/album/7bbe8uw300uJdVznrKZGPq) | 2:47 | 2022-11-02 |  |
 | [Smiling at Strangers on Trains](https://open.spotify.com/track/0F54dvs9C0v0snW9m6dSE1) | [Million Dead](https://open.spotify.com/artist/7mAKZuvKKiNRokFE46Sy8l) | [A Song to Ruin](https://open.spotify.com/album/7xF7HQIu6FriHp6yPkE2Kv) | 2:55 | 2021-12-15 |  |
 | [Smiling Shame](https://open.spotify.com/track/4UW6rF7Pyr7JzsGybnCzxc) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Smiling Shame](https://open.spotify.com/album/4IfIzaH9SZMoZ6PuUH9zv2) | 3:36 | 2021-12-15 | 2022-07-29 |
+| [Smiling Shame](https://open.spotify.com/track/53ujnmrXFTtWs79zS2qMjF) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Smiling Shame](https://open.spotify.com/album/00A7uvYuwJgAyeXu76rDib) | 3:36 | 2022-11-02 |  |
 | [Smokescreen](https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Amusement Parks On Fire](https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0) | 4:11 | 2021-12-15 |  |
 | [Snail \- Remastered 2011](https://open.spotify.com/track/1Y67fOHM7hb04jj6FLBWDQ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Deluxe Edition\)](https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ) | 5:08 | 2022-06-23 |  |
 | [Snail \- Remastered 2011](https://open.spotify.com/track/5ZhOFEPjbmlNyStoMi0SHt) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish](https://open.spotify.com/album/0FoOJucC8temyTUBpbapWC) | 5:08 | 2021-12-15 | 2022-07-28 |
@@ -246,6 +247,7 @@
 | [The Night I Drove Alone](https://open.spotify.com/track/5iZw5AzGiQx5rmmocWBFOz) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Youth](https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC) | 2:13 | 2022-06-23 |  |
 | [The Picture](https://open.spotify.com/track/39f1WdXYvQJlEBwqluOawZ) | [Llama Farmers](https://open.spotify.com/artist/4IdRXfckwFPqCVvq2DZY1e) | [Dead Letter Chorus](https://open.spotify.com/album/2FLWFo5QDcdzdmJD1xQSzf) | 4:58 | 2022-04-15 | 2022-06-29 |
 | [The Pod](https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 4:37 | 2021-12-15 |  |
+| [The Rest Will Follow](https://open.spotify.com/track/4h5yKD43i8XF9R5ddwKZuK) | [...And You Will Know Us by the Trail of Dead](https://open.spotify.com/artist/6wBUn8gMP85n8dPu6LoUcF) | [Worlds Apart](https://open.spotify.com/album/4edJ05VuSNvslwhH5EKard) | 3:20 | 2022-11-02 |  |
 | [The Rest Will Follow](https://open.spotify.com/track/7urx3ZmmiQ0lNBoaVFHAhD) | [...And You Will Know Us by the Trail of Dead](https://open.spotify.com/artist/6wBUn8gMP85n8dPu6LoUcF) | [Worlds Apart](https://open.spotify.com/album/0nT470JKGNwsCAH1WNSQE0) | 3:20 | 2021-12-15 | 2022-07-25 |
 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 | 2022-11-02 |  |
 | [The Stone](https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA) | [ASHES dIVIDE](https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy) | [Keep Telling Myself It's Alright](https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH) | 3:49 | 2021-12-15 |  |
@@ -265,7 +267,8 @@
 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 | 2022-09-21 |  |
 | [Treats](https://open.spotify.com/track/0DRtZSDTSfhWVp7dMqzPSw) | [INHEAVEN](https://open.spotify.com/artist/2SgWbTR6U3CI3BBecWaUcy) | [Inheaven](https://open.spotify.com/album/2GpKuAulsb6KIMHZ24YkYP) | 3:34 | 2021-12-15 | 2022-07-27 |
 | [Trick of the Light](https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:38 | 2021-12-15 |  |
-| [Trigger](https://open.spotify.com/track/6wbCy1EJ5qkr1DjWPESIGF) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights](https://open.spotify.com/album/36scylzoJ2n1YYwuHD0Db0) | 3:00 | 2022-11-02 |  |
+| [Trigger](https://open.spotify.com/track/154P8pqseR6k7BaMKffzeM) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights](https://open.spotify.com/album/4LYAbf8kMPXzghMcS9SiYm) | 3:00 | 2022-11-02 |  |
+| [Trigger](https://open.spotify.com/track/6wbCy1EJ5qkr1DjWPESIGF) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights](https://open.spotify.com/album/36scylzoJ2n1YYwuHD0Db0) | 3:00 | 2022-11-02 | 2022-11-09 |
 | [Trouble Prone](https://open.spotify.com/track/5ICqGwuTjnSZjWEBQVLOo8) | [Down For Tomorrow](https://open.spotify.com/artist/06jJmL2NiArM3eKhgFjgl0) | [Whatever Happens](https://open.spotify.com/album/0fDxt4CQ9DR4P1pKzeznOc) | 2:29 | 2021-12-15 | 2022-07-22 |
 | [Tune in, Drop Out](https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tune in, Drop Out](https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX) | 2:50 | 2021-12-15 |  |
 | [Unreal Is Here](https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2) | 2:31 | 2022-06-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\"Women at full volume\" - H\u00f6re hier K\u00fcnstlerinnen aus Deutschland, \u00d6sterreich und der Schweiz. Cover: Sofia Portanet",
-  "num_followers": 18324,
+  "num_followers": 18336,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg2MjAwMCwwMDAwMDAwMDFjODJjMjM2Y2M2NDhjNjY3OWY3ZWMzYzE4YTBjNTJh",
+  "snapshot_id": "MTY2Nzg2MjAwMCwwMDAwMDAwMGYzMTlmODU3OTY5OTk4M2ZiNmFiMGJjZDZiZTU4ZGFm",
   "tracks": [
     {
       "added_at": "2022-11-07 23:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
-        "name": "in my mind (\u2026sind wir perfekt)",
-        "url": "https://open.spotify.com/album/5S4jylXijHKHNujMW9pQzv"
-      },
-      "artists": [
-        {
-          "name": "ZAVET",
-          "url": "https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG"
-        }
-      ],
-      "duration_ms": 131666,
-      "name": "in my mind (\u2026sind wir perfekt)",
-      "url": "https://open.spotify.com/track/3t4CxOo3uiixiMpZR5XsaV"
-    },
-    {
-      "added_at": "2022-11-07 23:00:00",
-      "album": {
         "name": "GASOLINA",
         "url": "https://open.spotify.com/album/7BtG8m2SYkXs8UicDQQCo9"
       },
@@ -175,6 +159,22 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
+        "name": "SPLIT",
+        "url": "https://open.spotify.com/album/7ylHNg7g5WHZMemPSsHcuN"
+      },
+      "artists": [
+        {
+          "name": "Eunique",
+          "url": "https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe"
+        }
+      ],
+      "duration_ms": 197301,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/4UtoBuaydSltO29GqrraBi"
+    },
+    {
+      "added_at": "2022-11-07 23:00:00",
+      "album": {
         "name": "Grey's Anatomy",
         "url": "https://open.spotify.com/album/179HmxvzZVeFyFpJMeA7zg"
       },
@@ -203,22 +203,6 @@
       "duration_ms": 173093,
       "name": "Augenringe",
       "url": "https://open.spotify.com/track/0LB4OdGHBeS62dFmTp3hO1"
-    },
-    {
-      "added_at": "2022-11-07 23:00:00",
-      "album": {
-        "name": "SPLIT",
-        "url": "https://open.spotify.com/album/7ylHNg7g5WHZMemPSsHcuN"
-      },
-      "artists": [
-        {
-          "name": "Eunique",
-          "url": "https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe"
-        }
-      ],
-      "duration_ms": 197301,
-      "name": "DRIVE",
-      "url": "https://open.spotify.com/track/4UtoBuaydSltO29GqrraBi"
     },
     {
       "added_at": "2022-11-07 23:00:00",
@@ -271,18 +255,18 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
-        "name": "Let the Games Begin",
-        "url": "https://open.spotify.com/album/1hBil9bmdI7hDDF2T5xo4w"
+        "name": "Wenn du's eh nicht tust",
+        "url": "https://open.spotify.com/album/2JCd96fTDAgCtHF9F7GCLZ"
       },
       "artists": [
         {
-          "name": "Jil Tanner",
-          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+          "name": "JUNA",
+          "url": "https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj"
         }
       ],
-      "duration_ms": 348959,
-      "name": "Let the Games Begin",
-      "url": "https://open.spotify.com/track/7lKOrMhonHXZEEImIMqfn3"
+      "duration_ms": 166077,
+      "name": "Wenn du's eh nicht tust",
+      "url": "https://open.spotify.com/track/4KwLkmnOQPpoVpD7dIyvUS"
     },
     {
       "added_at": "2022-11-07 23:00:00",
@@ -303,34 +287,18 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
-        "name": "Wenn du's eh nicht tust",
-        "url": "https://open.spotify.com/album/2JCd96fTDAgCtHF9F7GCLZ"
+        "name": "Let the Games Begin",
+        "url": "https://open.spotify.com/album/1hBil9bmdI7hDDF2T5xo4w"
       },
       "artists": [
         {
-          "name": "JUNA",
-          "url": "https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj"
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
         }
       ],
-      "duration_ms": 166077,
-      "name": "Wenn du's eh nicht tust",
-      "url": "https://open.spotify.com/track/4KwLkmnOQPpoVpD7dIyvUS"
-    },
-    {
-      "added_at": "2022-11-07 23:00:00",
-      "album": {
-        "name": "DMs",
-        "url": "https://open.spotify.com/album/1GrSsPWvJlutbq9tWGgx9n"
-      },
-      "artists": [
-        {
-          "name": "KeKe",
-          "url": "https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF"
-        }
-      ],
-      "duration_ms": 143087,
-      "name": "DMs",
-      "url": "https://open.spotify.com/track/3SWHOSTh2cyledTEtOyzAk"
+      "duration_ms": 348959,
+      "name": "Let the Games Begin",
+      "url": "https://open.spotify.com/track/7lKOrMhonHXZEEImIMqfn3"
     },
     {
       "added_at": "2022-11-07 23:00:00",
@@ -355,18 +323,18 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
-        "name": "Zuhause",
-        "url": "https://open.spotify.com/album/2HSHbNpe5eQW7hgWOHWN2E"
+        "name": "DMs",
+        "url": "https://open.spotify.com/album/1GrSsPWvJlutbq9tWGgx9n"
       },
       "artists": [
         {
-          "name": "Marisabelle",
-          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
+          "name": "KeKe",
+          "url": "https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF"
         }
       ],
-      "duration_ms": 177026,
-      "name": "Zuhause",
-      "url": "https://open.spotify.com/track/0jPrdybe6ZbQXHzSVfILxy"
+      "duration_ms": 143087,
+      "name": "DMs",
+      "url": "https://open.spotify.com/track/3SWHOSTh2cyledTEtOyzAk"
     },
     {
       "added_at": "2022-11-07 23:00:00",
@@ -383,6 +351,38 @@
       "duration_ms": 340453,
       "name": "GO BACK",
       "url": "https://open.spotify.com/track/66Ofs7OCzCTBVyq6J0oef0"
+    },
+    {
+      "added_at": "2022-11-07 23:00:00",
+      "album": {
+        "name": "Zuhause",
+        "url": "https://open.spotify.com/album/2HSHbNpe5eQW7hgWOHWN2E"
+      },
+      "artists": [
+        {
+          "name": "Marisabelle",
+          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Zuhause",
+      "url": "https://open.spotify.com/track/0jPrdybe6ZbQXHzSVfILxy"
+    },
+    {
+      "added_at": "2022-11-07 23:00:00",
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD"
+      },
+      "artists": [
+        {
+          "name": "Stella Bossi",
+          "url": "https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz"
+        }
+      ],
+      "duration_ms": 391875,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2"
     },
     {
       "added_at": "2022-11-07 23:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD"
-      },
-      "artists": [
-        {
-          "name": "Stella Bossi",
-          "url": "https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz"
-        }
-      ],
-      "duration_ms": 391875,
-      "name": "Monolith",
-      "url": "https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2"
-    },
-    {
-      "added_at": "2022-11-07 23:00:00",
-      "album": {
         "name": "Neben mir",
         "url": "https://open.spotify.com/album/5QEFOgU8FJMsTezP9B5c9u"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
+        "name": "Beide alleine",
+        "url": "https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte"
+      },
+      "artists": [
+        {
+          "name": "SKALA",
+          "url": "https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq"
+        }
+      ],
+      "duration_ms": 196662,
+      "name": "Beide alleine - Radio Edit",
+      "url": "https://open.spotify.com/track/4rW2mF4NZX5BrhMQP62kun"
+    },
+    {
+      "added_at": "2022-11-07 23:00:00",
+      "album": {
         "name": "X-Faktor",
         "url": "https://open.spotify.com/album/6bjGsSQcIQbAUHu60G3OCA"
       },
@@ -491,54 +491,18 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
-        "name": "Beide alleine",
-        "url": "https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte"
+        "name": "Millionen",
+        "url": "https://open.spotify.com/album/0XZh31usZloDqMWdj9lS35"
       },
       "artists": [
         {
-          "name": "SKALA",
-          "url": "https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq"
+          "name": "Fiva",
+          "url": "https://open.spotify.com/artist/1yyVo8VBUjIsROi57j7UIh"
         }
       ],
-      "duration_ms": 196662,
-      "name": "Beide alleine - Radio Edit",
-      "url": "https://open.spotify.com/track/4rW2mF4NZX5BrhMQP62kun"
-    },
-    {
-      "added_at": "2022-11-07 23:00:00",
-      "album": {
-        "name": "Lorbeeren",
-        "url": "https://open.spotify.com/album/7yzyRoGpGbKdeTHVDG9BDu"
-      },
-      "artists": [
-        {
-          "name": "Kitana",
-          "url": "https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK"
-        },
-        {
-          "name": "Melik",
-          "url": "https://open.spotify.com/artist/5bCFJw4xliweoLdGOiHrUz"
-        }
-      ],
-      "duration_ms": 194114,
-      "name": "Lorbeeren",
-      "url": "https://open.spotify.com/track/1gnstVrTLGzFjCrW1PAUr7"
-    },
-    {
-      "added_at": "2022-11-07 23:00:00",
-      "album": {
-        "name": "Komet",
-        "url": "https://open.spotify.com/album/384CJXmYVjdbN2gUU1qQUN"
-      },
-      "artists": [
-        {
-          "name": "PAULINKO",
-          "url": "https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54"
-        }
-      ],
-      "duration_ms": 183497,
-      "name": "Komet",
-      "url": "https://open.spotify.com/track/5m0vxNYxKq2toU20v8LaYL"
+      "duration_ms": 173640,
+      "name": "Millionen",
+      "url": "https://open.spotify.com/track/0h7eLGSCuTXncP1ewLGJvf"
     },
     {
       "added_at": "2022-11-07 23:00:00",
@@ -559,18 +523,38 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
-        "name": "Millionen",
-        "url": "https://open.spotify.com/album/0XZh31usZloDqMWdj9lS35"
+        "name": "Komet",
+        "url": "https://open.spotify.com/album/384CJXmYVjdbN2gUU1qQUN"
       },
       "artists": [
         {
-          "name": "Fiva",
-          "url": "https://open.spotify.com/artist/1yyVo8VBUjIsROi57j7UIh"
+          "name": "PAULINKO",
+          "url": "https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54"
         }
       ],
-      "duration_ms": 173640,
-      "name": "Millionen",
-      "url": "https://open.spotify.com/track/0h7eLGSCuTXncP1ewLGJvf"
+      "duration_ms": 183497,
+      "name": "Komet",
+      "url": "https://open.spotify.com/track/5m0vxNYxKq2toU20v8LaYL"
+    },
+    {
+      "added_at": "2022-11-07 23:00:00",
+      "album": {
+        "name": "Lorbeeren",
+        "url": "https://open.spotify.com/album/7yzyRoGpGbKdeTHVDG9BDu"
+      },
+      "artists": [
+        {
+          "name": "Kitana",
+          "url": "https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK"
+        },
+        {
+          "name": "Melik",
+          "url": "https://open.spotify.com/artist/5bCFJw4xliweoLdGOiHrUz"
+        }
+      ],
+      "duration_ms": 194114,
+      "name": "Lorbeeren",
+      "url": "https://open.spotify.com/track/1gnstVrTLGzFjCrW1PAUr7"
     },
     {
       "added_at": "2022-11-07 23:00:00",
@@ -627,18 +611,18 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
-        "name": "Bis wir uns verlieren (Regret)",
-        "url": "https://open.spotify.com/album/7H2pk16x19qA06QbJQEPDq"
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/3FqxNzavR21BgN4E2LDkwf"
       },
       "artists": [
         {
-          "name": "Rose May Alaba",
-          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
         }
       ],
-      "duration_ms": 171683,
-      "name": "Bis wir uns verlieren (Regret)",
-      "url": "https://open.spotify.com/track/4PqGQYsfvkO53Ip2CiUBZk"
+      "duration_ms": 150400,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/2q4t1euGiFXYFEtSbHLZrO"
     },
     {
       "added_at": "2022-11-07 23:00:00",
@@ -659,18 +643,18 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
-        "name": "Carousel",
-        "url": "https://open.spotify.com/album/3FqxNzavR21BgN4E2LDkwf"
+        "name": "Bis wir uns verlieren (Regret)",
+        "url": "https://open.spotify.com/album/7H2pk16x19qA06QbJQEPDq"
       },
       "artists": [
         {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+          "name": "Rose May Alaba",
+          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
         }
       ],
-      "duration_ms": 150400,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/2q4t1euGiFXYFEtSbHLZrO"
+      "duration_ms": 171683,
+      "name": "Bis wir uns verlieren (Regret)",
+      "url": "https://open.spotify.com/track/4PqGQYsfvkO53Ip2CiUBZk"
     },
     {
       "added_at": "2022-11-07 23:00:00",
@@ -707,22 +691,6 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
-        "name": "Shouldn't This Feel Easy?",
-        "url": "https://open.spotify.com/album/2p67J4G5MTjSd4okkg8Bqm"
-      },
-      "artists": [
-        {
-          "name": "VILLFORTH",
-          "url": "https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "Ugly Crying",
-      "url": "https://open.spotify.com/track/109BLQtcinQLlCusm5Oq7g"
-    },
-    {
-      "added_at": "2022-11-07 23:00:00",
-      "album": {
         "name": "Does She Know You?",
         "url": "https://open.spotify.com/album/60CmEaPmp0suS6zhK79l95"
       },
@@ -735,6 +703,22 @@
       "duration_ms": 151786,
       "name": "Does She Know You?",
       "url": "https://open.spotify.com/track/4SjnaadFrPkAoM1bXLUyLt"
+    },
+    {
+      "added_at": "2022-11-07 23:00:00",
+      "album": {
+        "name": "Shouldn't This Feel Easy?",
+        "url": "https://open.spotify.com/album/2p67J4G5MTjSd4okkg8Bqm"
+      },
+      "artists": [
+        {
+          "name": "VILLFORTH",
+          "url": "https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "Ugly Crying",
+      "url": "https://open.spotify.com/track/109BLQtcinQLlCusm5Oq7g"
     },
     {
       "added_at": "2022-11-07 23:00:00",
@@ -831,6 +815,22 @@
       "duration_ms": 235706,
       "name": "Geister",
       "url": "https://open.spotify.com/track/4UyzgaRIZsYy8zpROQupii"
+    },
+    {
+      "added_at": "2022-11-07 23:00:00",
+      "album": {
+        "name": "in my mind (\u2026sind wir perfekt)",
+        "url": "https://open.spotify.com/album/4dFcys5abpY2AUJ1ZOMTps"
+      },
+      "artists": [
+        {
+          "name": "ZAVET",
+          "url": "https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG"
+        }
+      ],
+      "duration_ms": 131666,
+      "name": "in my mind (\u2026sind wir perfekt)",
+      "url": "https://open.spotify.com/track/4jJva9WWChpuSpKMdfKxQ6"
     }
   ],
   "unique_name": "EQUAL GSA",

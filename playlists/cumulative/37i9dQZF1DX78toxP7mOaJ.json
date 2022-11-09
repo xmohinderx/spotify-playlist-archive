@@ -1529,6 +1529,24 @@
     {
       "album": {
         "name": "Can't Deny It",
+        "url": "https://open.spotify.com/album/6iPxylWvEfxFqJoTlVOZV2"
+      },
+      "artists": [
+        {
+          "name": "Honeycub",
+          "url": "https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238563,
+      "name": "Can't Deny It",
+      "url": "https://open.spotify.com/track/0tgTrj69uTFZaRK669acBF"
+    },
+    {
+      "album": {
+        "name": "Can't Deny It",
         "url": "https://open.spotify.com/album/7jcDqi4m5XF2q4DVMYSDcF"
       },
       "artists": [
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 238563,
       "name": "Can't Deny It",
       "url": "https://open.spotify.com/track/3wJ7DkVyjux3jCNTakOahw"

@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 182101,
+  "num_followers": 182154,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDNkZWMzZDUxZGQ0OWEwZTc0YWY3ODlmY2EwYjA4M2I4",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDNmNTkwNWNkNmY5NDYwZjdkYjQ2NzAyNjA5MzM1ODYx",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -423,6 +423,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Question It All / White Car",
+        "url": "https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 242854,
+      "name": "Question It All",
+      "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Question It All / White Car",
-        "url": "https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 242854,
-      "name": "Question It All",
-      "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -695,6 +695,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Folding",
         "url": "https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 187364,
       "name": "Control",
       "url": "https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 256639,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "dusk",
         "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 196440,
       "name": "bon iver",
       "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 256639,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Slow Reveal: Chapter One",
-        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 195954,
-      "name": "Tethered, Wrapped Around",
-      "url": "https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Mrs Blue",
         "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 267535,
       "name": "Mrs Blue",
       "url": "https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Slow Reveal: Chapter One",
+        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 195954,
+      "name": "Tethered, Wrapped Around",
+      "url": "https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Undertones",
+        "url": "https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "duration_ms": 170306,
+      "name": "Seven Nights",
+      "url": "https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
         "url": "https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 279613,
       "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
       "url": "https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Undertones",
-        "url": "https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL"
-      },
-      "artists": [
-        {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
-        }
-      ],
-      "duration_ms": 170306,
-      "name": "Seven Nights",
-      "url": "https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Gladstone",
-        "url": "https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw"
-      },
-      "artists": [
-        {
-          "name": "Blair Lee",
-          "url": "https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc"
-        }
-      ],
-      "duration_ms": 174166,
-      "name": "Gladstone",
-      "url": "https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Sunshine State",
         "url": "https://open.spotify.com/album/78k6vZLwOMeCjL8YPJ7iTq"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 138756,
       "name": "Sunshine State",
       "url": "https://open.spotify.com/track/1qk4ro2OIR6Vsxbd41ZlFm"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Gladstone",
+        "url": "https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw"
+      },
+      "artists": [
+        {
+          "name": "Blair Lee",
+          "url": "https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc"
+        }
+      ],
+      "duration_ms": 174166,
+      "name": "Gladstone",
+      "url": "https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 236104,
-      "name": "A.M. AM",
-      "url": "https://open.spotify.com/track/1tZW8iinOpafycLyeif7zX"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Bel\u2022li",
         "url": "https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 172308,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 236104,
+      "name": "A.M. AM",
+      "url": "https://open.spotify.com/track/1tZW8iinOpafycLyeif7zX"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Goodnights & Goodbyes",
+        "url": "https://open.spotify.com/album/4N5NLp77oC120qnYEH6a9w"
+      },
+      "artists": [
+        {
+          "name": "Qhairo",
+          "url": "https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk"
+        }
+      ],
+      "duration_ms": 175890,
+      "name": "Goodnights & Goodbyes",
+      "url": "https://open.spotify.com/track/2vZEBUgUkvI8unkULuM5fA"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Walking Like We Do",
         "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 183431,
       "name": "Royal Morning Blue - Edit",
       "url": "https://open.spotify.com/track/3PkntoEMclM5Xxiy3744Il"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Goodnights & Goodbyes",
-        "url": "https://open.spotify.com/album/4N5NLp77oC120qnYEH6a9w"
-      },
-      "artists": [
-        {
-          "name": "Qhairo",
-          "url": "https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk"
-        }
-      ],
-      "duration_ms": 175890,
-      "name": "Goodnights & Goodbyes",
-      "url": "https://open.spotify.com/track/2vZEBUgUkvI8unkULuM5fA"
     },
     {
       "added_at": "2021-08-12 14:57:38",

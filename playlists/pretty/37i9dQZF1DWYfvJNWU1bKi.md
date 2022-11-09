@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,563 likes - 75 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,155 likes - 75 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 20 | [Kangal Irandal](https://open.spotify.com/track/3IpEJ86hrMfUcoXCk9U4h3) | [James Vasanthan](https://open.spotify.com/artist/0a4PNswQHfm1lfnOCTjVeh), [Bellie Raj](https://open.spotify.com/artist/4578gOJB66pNtL4Oqi09uI), [Deepa Miriam](https://open.spotify.com/artist/3adwCIFf97kIoMi42TCP5y) | [Subramaniapuram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/047Ehzf1hblhLG5g4kuOEF) | 5:22 |
 | 21 | [Idhazhin Oram \- The Innocence of Love](https://open.spotify.com/track/6NwEpX2JUWHVKWfDDfcqC4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ajesh](https://open.spotify.com/artist/7zneCNzf0wfXcjCOvirRlX) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 3:24 |
 | 22 | [Iragai Poley](https://open.spotify.com/track/3FRLxtpSk9BxxnxdS6I4jq) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Tanvi Shah](https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA) | [Naan Mahaan Alla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oTvmhMCac0nlAcQsL5k88) | 5:17 |
-| 23 | [Kurumugil](https://open.spotify.com/track/1xtlT8C62HToUvB0xmwvyi) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Sita Ramam \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/61k6yRsDzYJwMQWsaZV2Q9) | 3:38 |
-| 24 | [Malai Mangum Neram](https://open.spotify.com/track/2VrNpMt23IX5ZfROWM7wAi) | [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Rowthiram \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/0LnjOrT8cUWTWwkk7mVgGh) | 5:13 |
+| 23 | [Malai Mangum Neram](https://open.spotify.com/track/2VrNpMt23IX5ZfROWM7wAi) | [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Rowthiram \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/0LnjOrT8cUWTWwkk7mVgGh) | 5:13 |
+| 24 | [Kurumugil](https://open.spotify.com/track/1xtlT8C62HToUvB0xmwvyi) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Sita Ramam \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/61k6yRsDzYJwMQWsaZV2Q9) | 3:38 |
 | 25 | [Kaalathukkum Nee Venum \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/1NoaJoxPKQr9XNLOuKTyNV) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kaalathukkum Nee Venum \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/3RVPCp07qm53ACN2rq6SqP) | 4:53 |
 | 26 | [Kannala Kannala \- The Melting Point of Love](https://open.spotify.com/track/4nSwWiwtieiNmRAjy9fEXN) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Kaushik Krish](https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Thani Oruvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AOEe4UzP8MAtjwvzo2lcQ) | 3:35 |
 | 27 | [Thooriga \- From "Navarasa"](https://open.spotify.com/track/19O4hCGGm95UhvIyhwnNT5) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Thooriga \(From "Navarasa"\)](https://open.spotify.com/album/21xzjyEysKTj6xEdceEa2E) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 74 | [Kanne Kanne](https://open.spotify.com/track/1K1NqgcheWNhxJ9jg51ov5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Ayogya](https://open.spotify.com/album/03gCAmcJXji9AdA5IpzxUm) | 3:45 |
 | 75 | [Munbe Vaa](https://open.spotify.com/track/6vZj02bcQqLTYRAi4jRkw7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Silunu Oru Kadhal](https://open.spotify.com/album/2V66QirokxORBvsvLCkX75) | 5:56 |
 
-Snapshot ID: `MTY2NTQ2MDI4MywwMDAwMDAwMDBjMzE4OWIzZDI5ODNkZWMyNmRlZmI3ZDkyZWYzZjVl`
+Snapshot ID: `MTY2NTQ2MDI4MywwMDAwMDAwMDQwM2Y4ZDQ3MmNmZTI3OGIwYjVhYjE5MzU5NjQyYjg0`

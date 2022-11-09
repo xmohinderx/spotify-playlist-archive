@@ -5630,6 +5630,24 @@
     },
     {
       "album": {
+        "name": "STALLA MXTP 2",
+        "url": "https://open.spotify.com/album/2tCqETeHkk3gOw80RjbYQB"
+      },
+      "artists": [
+        {
+          "name": "La Stalla",
+          "url": "https://open.spotify.com/artist/4XnlgX9eaUXdOc75E81PjI"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "VA SEMPRE PEGGIO",
+      "url": "https://open.spotify.com/track/5krUYcVNkG8om59CRJrISE"
+    },
+    {
+      "album": {
         "name": "Vaffanculo",
         "url": "https://open.spotify.com/album/5YrCSnfadRdt1iaeC5sYQy"
       },

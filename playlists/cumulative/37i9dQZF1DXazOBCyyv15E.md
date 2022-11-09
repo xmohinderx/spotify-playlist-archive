@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: BERWYN
 
-1,148 songs - 2 day 20 hr 2 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,149 songs - 2 day 20 hr 4 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -791,7 +791,8 @@
 | [poison!](https://open.spotify.com/track/39J00TSoY9aG1TpkseSxoT) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [poison!](https://open.spotify.com/album/5o3yooXRlDIf9tpgbkjTdk) | 2:31 | 2022-07-07 | 2022-08-19 |
 | [Polygod](https://open.spotify.com/track/7ecU6yTdlPj3Tas3hGR6uS) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Polygod](https://open.spotify.com/album/3ckC8EdvfgHQ8lrM0kITWV) | 3:01 | 2022-07-28 | 2022-09-24 |
 | [Pond House](https://open.spotify.com/track/7vA4qNcP4cgIwtB0GiQx5s) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Pond House](https://open.spotify.com/album/3Gup9Imd7APBbMnbWMSLce) | 4:02 | 2021-07-30 | 2021-10-01 |
-| [Poolside](https://open.spotify.com/track/20ejUODQmy71RQPk2H1QLB) | [Grandamme](https://open.spotify.com/artist/4CTURx9lZOLdwV4z8kIoRv), [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Holy Mountain](https://open.spotify.com/album/2DcuqLwSuqOYdpUiI6bZGZ) | 2:04 | 2022-10-06 |  |
+| [Poolside](https://open.spotify.com/track/20ejUODQmy71RQPk2H1QLB) | [Grandamme](https://open.spotify.com/artist/4CTURx9lZOLdwV4z8kIoRv), [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Holy Mountain](https://open.spotify.com/album/2DcuqLwSuqOYdpUiI6bZGZ) | 2:04 | 2022-10-06 | 2022-11-09 |
+| [Poolside](https://open.spotify.com/track/6hLl2nFQvImmvDbbyBpc7u) | [Grandamme](https://open.spotify.com/artist/4CTURx9lZOLdwV4z8kIoRv), [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Holy Mountain](https://open.spotify.com/album/0RHUyYyxidTJp1lDmxbaxB) | 2:04 | 2022-10-27 |  |
 | [pop tarts](https://open.spotify.com/track/3P23kcmBXrFyGmbthN3DLK) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [who gives a f\*\*k?](https://open.spotify.com/album/6LAD5tDe1O0PGXWgOqoND9) | 3:07 | 2020-09-29\* | 2020-10-09 |
 | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/track/5ppPV0hCtwt5TMTKF1xY57) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs), [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy), [Matthew Caws](https://open.spotify.com/artist/2euOhDrnToDMpxBiCPf72Z) | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/album/7nvPKeZxfHFgbKTrRWqvCo) | 3:26 | 2021-12-17 | 2022-02-11 |
 | [Port](https://open.spotify.com/track/5TnhWeSJAkolB4y8eY3P2T) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Port](https://open.spotify.com/album/0v8LHvECm25kz8i2ii5n7w) | 4:42 | 2021-10-01 | 2022-01-08 |

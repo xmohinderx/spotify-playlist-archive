@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Shania Twain
 
-457 songs - 1 day 1 hr 38 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
+458 songs - 1 day 1 hr 41 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-07-29 |  |
 | [nascar](https://open.spotify.com/track/0vdt3nHBSYvrfb0hWtBOcp) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2), [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Liquid Sunshine EP \(Deluxe\)](https://open.spotify.com/album/0pRt5aWOm5gBpoEbIIgzt5) | 3:07 | 2022-09-30 |  |
 | [nascar](https://open.spotify.com/track/42r7K7a8732waijtnMC5m2) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2), [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [nascar](https://open.spotify.com/album/0wYN2O7hrc3FqrbOfNh6xk) | 3:07 | 2022-08-05 | 2022-10-02 |
+| [Need](https://open.spotify.com/track/2cxwORsC2k12NbxSSJtkhz) | [JORY](https://open.spotify.com/artist/74jfUksTKVGfCZ2DgmPSMI) | [Need](https://open.spotify.com/album/5f25lxgPBA1hfOGSWJuwMH) | 3:07 | 2022-11-08 |  |
 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 | 2022-06-10 | 2022-10-22 |
 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-06-17 | 2022-09-10 |
 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 | 2022-08-19 |  |
@@ -322,7 +323,7 @@
 | [On My Way \(Marry Me\)](https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On My Way \(Marry Me\)](https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx) | 3:12 | 2021-12-17 | 2022-02-05 |
 | [On My Way \(Marry Me\)](https://open.spotify.com/track/6a4QPI8CcXctTjAH9lkjTA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 | 2022-08-05 | 2022-10-01 |
 | [On My Way \(Marry Me\)](https://open.spotify.com/track/6p9gMpEXeT18L9zsY5w10h) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nm6u7mp61RmClng9Okg1t) | 3:12 | 2022-02-04 | 2022-08-07 |
-| [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 | 2022-05-27 |  |
+| [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 | 2022-05-27 | 2022-11-09 |
 | [One Life](https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [One Life](https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8) | 3:25 | 2022-05-13 | 2022-06-25 |
 | [One Of You](https://open.spotify.com/track/3Wcf28sYNe7uMnEo5JPg5R) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [What Tomorrow Brings](https://open.spotify.com/album/1w64Qy4uueDC8hItAkBV8Z) | 3:45 | 2022-10-28 |  |
 | [One Of You](https://open.spotify.com/track/4E3CLD8ovFxgySwZjzkKJr) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [One Of You](https://open.spotify.com/album/4wgSE6Bn2e7AglOJWIAk1T) | 3:45 | 2022-09-23 | 2022-11-07 |

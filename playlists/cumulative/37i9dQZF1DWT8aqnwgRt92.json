@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258532,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD"
+    },
+    {
+      "album": {
         "name": "ALIVE (LycoReco Version)",
         "url": "https://open.spotify.com/album/2wfi1Oar57Qp9wAm4pwSY4"
       },
@@ -809,7 +827,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 102653,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/2xMPg1YIRtvpq8Q55r37TS"
@@ -2384,6 +2402,24 @@
     },
     {
       "album": {
+        "name": "PRIDE",
+        "url": "https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "PRIDE",
+      "url": "https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n"
+    },
+    {
+      "album": {
         "name": "PSYCHO:LOGY",
         "url": "https://open.spotify.com/album/7396ox4eZXw2eCJNpYIs7B"
       },
@@ -3113,7 +3149,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 219706,
       "name": "Virginia",
       "url": "https://open.spotify.com/track/3ZJZeYD0cgEtVzuyQwggAN"
@@ -3677,7 +3713,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 226386,
       "name": "\u306f\u3058\u307e\u308b\u30a6\u30a7\u30eb\u30ab\u30e0",
       "url": "https://open.spotify.com/track/3BYyDFrS4xqUan6Nj8RibC"
@@ -3833,6 +3869,24 @@
       "duration_ms": 222366,
       "name": "\u30a2\u30a4\u30a6\u30a8",
       "url": "https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc"
+    },
+    {
+      "album": {
+        "name": "\u30a4\u30f3\u30b6\u30d0\u30c3\u30af\u30eb\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "\u30a4\u30f3\u30b6\u30d0\u30c3\u30af\u30eb\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9"
     },
     {
       "album": {
@@ -4013,6 +4067,24 @@
       "duration_ms": 231226,
       "name": "\u30ad\u30e7\u30ea\u611f",
       "url": "https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo"
+    },
+    {
+      "album": {
+        "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f",
+        "url": "https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228960,
+      "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f",
+      "url": "https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu"
     },
     {
       "album": {
@@ -4443,7 +4515,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 169000,
       "name": "\u30d7\u30ec\u30a4\u30e1\u30fc\u30ab\u30fc feat.\u5927\u91ce\u96c4\u5927(from Da-iCE)",
       "url": "https://open.spotify.com/track/1nzPt6k4X0jyNutJ0F8LCy"
@@ -5021,7 +5093,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 248240,
       "name": "\u571f\u66dc\u65e5\u306e\u308f\u305f\u3057\u305f\u3061\u306f",
       "url": "https://open.spotify.com/track/3oNJin9upticyZf6OuoGwh"
@@ -5799,6 +5871,24 @@
       "duration_ms": 196906,
       "name": "\u7a7a\u3063\u307d\u306e\u5fc3",
       "url": "https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0"
+    },
+    {
+      "album": {
+        "name": "\u7b2c\u30bc\u30ed\u611f",
+        "url": "https://open.spotify.com/album/7hUGSAApToftQu366lqPVf"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287991,
+      "name": "\u7b2c\u30bc\u30ed\u611f",
+      "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"
     },
     {
       "album": {

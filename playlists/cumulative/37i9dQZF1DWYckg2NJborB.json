@@ -887,7 +887,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 346386,
       "name": "Milton At Midnight",
       "url": "https://open.spotify.com/track/44wtR8EBCz7wVvsOoJQEnd"
@@ -1935,6 +1935,24 @@
       "duration_ms": 189106,
       "name": "Tonight I Feel Like Kafka",
       "url": "https://open.spotify.com/track/0un6V0wfo3eTYOfYeMF8cC"
+    },
+    {
+      "album": {
+        "name": "Parma Violets",
+        "url": "https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX"
+      },
+      "artists": [
+        {
+          "name": "Jealous of the Birds",
+          "url": "https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189106,
+      "name": "Tonight I Feel Like Kafka",
+      "url": "https://open.spotify.com/track/6ojZsSfUuRUC4VxtWLUAdi"
     },
     {
       "album": {

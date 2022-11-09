@@ -2,7 +2,7 @@
 
 ### [Mind Right](https://open.spotify.com/playlist/37i9dQZF1DX5hR0J49CmXC)
 
-> That real hip\-hop\. Cover: Lecrae
+> That real hip\-hop\. Cover: Ab\-Soul
 
 264 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/3aBEPaCmxnNZhkIPP42r3z)
 

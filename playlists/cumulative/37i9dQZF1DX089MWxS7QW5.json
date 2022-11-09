@@ -48,6 +48,28 @@
     },
     {
       "album": {
+        "name": "light #1",
+        "url": "https://open.spotify.com/album/39YKRrb64v8yPpD25dSPra"
+      },
+      "artists": [
+        {
+          "name": "sweetch",
+          "url": "https://open.spotify.com/artist/3PS40CD9LRfOPNoDMqns9L"
+        },
+        {
+          "name": "sooon",
+          "url": "https://open.spotify.com/artist/3GemDSocaoRcYZeDHBdmHO"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "a u r o r a \u2727 (feat. sooon)",
+      "url": "https://open.spotify.com/track/0B5Q4mi41Ht5xYTpIaXpyf"
+    },
+    {
+      "album": {
         "name": "About Us",
         "url": "https://open.spotify.com/album/0LhNmfYsvEH53AnyyUVCE4"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Para las mujeres que le dan duro al  gym. \u00a1A quemar grasa con este playlist!",
-  "num_followers": 81467,
+  "num_followers": 81589,
   "original_name": "Sin Lipo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMGM3NmYzYmQ2MmExYWYzNzJhM2U5ZDEyZmJiNzkwZDNk",
+  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDQ5OTgxOGQ1MjYxN2NjNjlkMDAwZjk5MTNlNWY2YzRj",
   "tracks": [
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1039,34 +1039,18 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "La Cama (Remix)",
-        "url": "https://open.spotify.com/album/0hzFhU2sz14urAdELOUwtU"
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/2YRwWCfsk2Uf9ycGS7FRMV"
       },
       "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 330240,
-      "name": "La Cama - Remix",
-      "url": "https://open.spotify.com/track/2tGENA8xef0wABdHvyXwv9"
+      "duration_ms": 202886,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/7na7Bk98usp84FaOJFPv3d"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1099,18 +1083,34 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/2YRwWCfsk2Uf9ycGS7FRMV"
+        "name": "La Cama (Remix)",
+        "url": "https://open.spotify.com/album/0hzFhU2sz14urAdELOUwtU"
       },
       "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 202886,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/7na7Bk98usp84FaOJFPv3d"
+      "duration_ms": 330240,
+      "name": "La Cama - Remix",
+      "url": "https://open.spotify.com/track/2tGENA8xef0wABdHvyXwv9"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Te So\u00f1\u00e9 de Nuevo",
-      "url": "https://open.spotify.com/track/4oPnxZzoc8HM5Pva4FDeIp"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
         "name": "badwine (Remix)",
         "url": "https://open.spotify.com/album/6lv1q40UA6Fpe6MEImlzpc"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 154840,
       "name": "badwine - Remix",
       "url": "https://open.spotify.com/track/5MPQfbK3LIOyPT84WJyD7g"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Te So\u00f1\u00e9 de Nuevo",
+      "url": "https://open.spotify.com/track/4oPnxZzoc8HM5Pva4FDeIp"
     },
     {
       "added_at": "2020-07-02 17:35:53",

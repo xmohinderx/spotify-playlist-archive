@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Nia Archives
 
-505 songs - 1 day 13 hr 21 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+506 songs - 1 day 13 hr 27 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Easy](https://open.spotify.com/track/2Z5pQyvM2jC2lFOJTjKCnv) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Easy](https://open.spotify.com/album/0kcweyBVhphCeUTj1TBcPc) | 3:04 | 2021-11-24\* | 2022-02-05 |
 | [Echolocation](https://open.spotify.com/track/7qrXPKKpEoWEjehANH01Re) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Brainstorm \- EP](https://open.spotify.com/album/2N5shz2jPjiMcsjcBrAUOE) | 6:10 | 2021-11-24\* | 2021-12-03 |
 | [Either Way](https://open.spotify.com/track/3Q4dGPkUXbbCIiMHS0wYbz) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [Either Way](https://open.spotify.com/album/4N0XFLYnMhZz3uXmRQQtM9) | 4:52 | 2022-02-11 | 2022-05-27 |
-| [Elder Garden](https://open.spotify.com/track/0Vvp9sJydb4zJsanPA77By) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Elder Garden](https://open.spotify.com/album/49PD5X1YxwhA5BYj4wuLQV) | 5:29 | 2022-08-19 |  |
+| [Elder Garden](https://open.spotify.com/track/0Vvp9sJydb4zJsanPA77By) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Elder Garden](https://open.spotify.com/album/49PD5X1YxwhA5BYj4wuLQV) | 5:29 | 2022-08-19 | 2022-11-09 |
+| [Elder Garden](https://open.spotify.com/track/3TWcBUoQnSXKw1e4cbws5H) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Elder Garden](https://open.spotify.com/album/3PbfDF0bANDL73NuQL7Wkf) | 5:29 | 2022-11-04 |  |
 | [EMBER](https://open.spotify.com/track/3TEvSR6IiKJOnZyDY7Zfs7) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [EMBER](https://open.spotify.com/album/1XQazD0TE1GaJvHhq0R3ky) | 3:46 | 2022-03-08 | 2022-03-10 |
 | [Endless](https://open.spotify.com/track/5zbq7tbiCjPy2fTmeraOlW) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Endless](https://open.spotify.com/album/02nX4zYqENF8utvigcyHJ3) | 5:38 | 2022-07-07 | 2022-09-16 |
 | [Endless Sky](https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Endless Sky](https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO) | 2:39 | 2022-08-19 |  |

@@ -1853,10 +1853,32 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 222146,
       "name": "WEST",
       "url": "https://open.spotify.com/track/05fJJPka4e0INdrCAWXt9c"
+    },
+    {
+      "album": {
+        "name": "SUGAR LIKE SALT",
+        "url": "https://open.spotify.com/album/3TFtDNmg7a2oOEnM7bmPV6"
+      },
+      "artists": [
+        {
+          "name": "Louis VI",
+          "url": "https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV"
+        },
+        {
+          "name": "Melo-Zed",
+          "url": "https://open.spotify.com/artist/6c5n3tYI05A05V4u4dxMuv"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222146,
+      "name": "WEST",
+      "url": "https://open.spotify.com/track/4xQl2O5FPdnUdT01xnr4up"
     },
     {
       "album": {

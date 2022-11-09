@@ -913,7 +913,7 @@
     {
       "album": {
         "name": "Always Happy / Small Talk",
-        "url": "https://open.spotify.com/album/6mvGFwAuFiclGLZOckvKTk"
+        "url": "https://open.spotify.com/album/2Zj7Z47Sk8tzbJsm2H7cL0"
       },
       "artists": [
         {
@@ -924,6 +924,24 @@
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 96444,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/2rfQjAZYGJU1VyED79QTI1"
+    },
+    {
+      "album": {
+        "name": "Always Happy / Small Talk",
+        "url": "https://open.spotify.com/album/6mvGFwAuFiclGLZOckvKTk"
+      },
+      "artists": [
+        {
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
       "duration_ms": 96444,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/6Db9WubNRyJv86SWwTcJEm"

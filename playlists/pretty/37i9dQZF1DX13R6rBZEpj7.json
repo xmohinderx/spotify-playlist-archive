@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 179471,
+  "num_followers": 179540,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk3NDMwOCwwMDAwMDAwMDFiMTllMGE0OGYxYjYzMTgwNWM2YTlkMGE3Mjc1NGFh",
+  "snapshot_id": "MTY2Njk3NDMwOCwwMDAwMDAwMGZmM2RkMWZmMTk4ZWRhYzc0MjBjYzEwNmM2NmE3YmM0",
   "tracks": [
     {
       "added_at": "2022-10-28 16:25:08",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6JYhu5VWLYjZYvKkNaLX1U"
       },
       "artists": [
         {
-          "name": "Wittyboy",
-          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
         }
       ],
-      "duration_ms": 310909,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn"
+      "duration_ms": 216893,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4HlC9ErrBHGjEDPD1YSjMe"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP"
+      },
+      "artists": [
+        {
+          "name": "Wittyboy",
+          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
+        }
+      ],
+      "duration_ms": 310909,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn"
+    },
+    {
+      "added_at": "2022-10-28 16:25:08",
+      "album": {
         "name": "Never",
         "url": "https://open.spotify.com/album/7u24MlEFH8OrFG3RI0pMr5"
       },
@@ -715,6 +731,46 @@
       "duration_ms": 206500,
       "name": "Never",
       "url": "https://open.spotify.com/track/43NLj97L6PQUQ05HyZJmQZ"
+    },
+    {
+      "added_at": "2022-10-28 16:25:08",
+      "album": {
+        "name": "Gimme More",
+        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
+      },
+      "artists": [
+        {
+          "name": "Distinkt",
+          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
+        }
+      ],
+      "duration_ms": 234418,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
+    },
+    {
+      "added_at": "2022-10-28 16:25:08",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/0O8csLJ3maexykCLSmehZd"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
+        }
+      ],
+      "duration_ms": 231555,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -747,62 +803,6 @@
       "duration_ms": 190437,
       "name": "Affiliation",
       "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
-    },
-    {
-      "added_at": "2022-10-28 16:25:08",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/0O8csLJ3maexykCLSmehZd"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "Takura",
-          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
-        }
-      ],
-      "duration_ms": 231555,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP"
-    },
-    {
-      "added_at": "2022-10-28 16:25:08",
-      "album": {
-        "name": "Gimme More",
-        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
-      },
-      "artists": [
-        {
-          "name": "Distinkt",
-          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
-        }
-      ],
-      "duration_ms": 234418,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
-    },
-    {
-      "added_at": "2022-10-28 16:25:08",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6JYhu5VWLYjZYvKkNaLX1U"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4HlC9ErrBHGjEDPD1YSjMe"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
-        "name": "Far",
-        "url": "https://open.spotify.com/album/3zoa4ZVBL7McPiAI3EAUjQ"
-      },
-      "artists": [
-        {
-          "name": "Cooky",
-          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
-        }
-      ],
-      "duration_ms": 250918,
-      "name": "Far",
-      "url": "https://open.spotify.com/track/0bVqiSfH3YnFnRPNHgAMuR"
-    },
-    {
-      "added_at": "2022-10-28 16:25:08",
-      "album": {
         "name": "Mock Man (The VIP)",
         "url": "https://open.spotify.com/album/5cv4DHsHnpJtSfVLAQbb6g"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
+        "name": "Far",
+        "url": "https://open.spotify.com/album/3zoa4ZVBL7McPiAI3EAUjQ"
+      },
+      "artists": [
+        {
+          "name": "Cooky",
+          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
+        }
+      ],
+      "duration_ms": 250918,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/0bVqiSfH3YnFnRPNHgAMuR"
+    },
+    {
+      "added_at": "2022-10-28 16:25:08",
+      "album": {
         "name": "Solid Ground",
         "url": "https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 241860,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ"
-    },
-    {
-      "added_at": "2022-10-28 16:25:08",
-      "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/3F29i9bWwkzRnDl9J84iXG"
-      },
-      "artists": [
-        {
-          "name": "Samstone",
-          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
-        }
-      ],
-      "duration_ms": 234703,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/4pZt3sl8ERcmYeVan2WBm3"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -935,22 +919,34 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/3F29i9bWwkzRnDl9J84iXG"
       },
       "artists": [
         {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Deppz",
-          "url": "https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2"
+          "name": "Samstone",
+          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
         }
       ],
-      "duration_ms": 198372,
-      "name": "Knock Knock",
-      "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
+      "duration_ms": 234703,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/4pZt3sl8ERcmYeVan2WBm3"
+    },
+    {
+      "added_at": "2022-10-28 16:25:08",
+      "album": {
+        "name": "Acid",
+        "url": "https://open.spotify.com/album/6OqBUNn9xm5YCEWGAjUWTg"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/34GR9jBULKi91lqNSo5og7"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -975,18 +971,22 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
-        "name": "Acid",
-        "url": "https://open.spotify.com/album/6OqBUNn9xm5YCEWGAjUWTg"
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Deppz",
+          "url": "https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/34GR9jBULKi91lqNSo5og7"
+      "duration_ms": 198372,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
-        "name": "Got A Groove",
-        "url": "https://open.spotify.com/album/6IOBv6pqhN8eHLJfKJ1Xcd"
-      },
-      "artists": [
-        {
-          "name": "Bassboy",
-          "url": "https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy"
-        }
-      ],
-      "duration_ms": 271602,
-      "name": "Got A Groove",
-      "url": "https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC"
-    },
-    {
-      "added_at": "2022-10-28 16:25:08",
-      "album": {
         "name": "U Get Me",
         "url": "https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 322206,
       "name": "U Get Me",
       "url": "https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG"
+    },
+    {
+      "added_at": "2022-10-28 16:25:08",
+      "album": {
+        "name": "Got A Groove",
+        "url": "https://open.spotify.com/album/6IOBv6pqhN8eHLJfKJ1Xcd"
+      },
+      "artists": [
+        {
+          "name": "Bassboy",
+          "url": "https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy"
+        }
+      ],
+      "duration_ms": 271602,
+      "name": "Got A Groove",
+      "url": "https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC"
     },
     {
       "added_at": "2022-10-28 16:25:08",

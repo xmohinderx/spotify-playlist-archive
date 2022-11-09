@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,832 likes - 86 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,917 likes - 86 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ríl Liatroma / The Green Cockade / The Mourne Mountains](https://open.spotify.com/track/30vvDys9XzFytCWmQw2kO1) | [Téada](https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF) | [Ceol & Cuimhne \(Music & Memory\)](https://open.spotify.com/album/1y6gUYBfHfPgJYccX7t83s) | 4:10 |
 | 2 | [Dooley: Port an Deorai/ An Phis Fluich](https://open.spotify.com/track/7qteJ4f0SLqEX7TL087WSb) | [Paul Dooley](https://open.spotify.com/artist/0HmAOyVgHVa7wEPIAfTUif) | [Masters of the Irish Harp](https://open.spotify.com/album/2NvejVyp2Puk1J4g3tG0jH) | 3:07 |
-| 3 | [Brennans Reel](https://open.spotify.com/track/7DIJ8pWzjPPNNZi8BXbYjm) | [Martin Hayes Quartet](https://open.spotify.com/artist/2LzGweG3iEJCni35tLQnL5) | [Brennans Reel](https://open.spotify.com/album/3zpOzh4VaRf66sNWggmgks) | 3:02 |
+| 3 | [Brennans Reel](https://open.spotify.com/track/3HidYV1TitmxDpP0gTNPti) | [Martin Hayes Quartet](https://open.spotify.com/artist/2LzGweG3iEJCni35tLQnL5) | [The Blue Room](https://open.spotify.com/album/5eCpuMhayrr8WdMseIPCWK) | 3:02 |
 | 4 | [Last Nights Fun](https://open.spotify.com/track/7nrfzw5nDPdtLBEwpBWi4E) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA) | [Playing with fire](https://open.spotify.com/album/1w9wITxDg8Ld4uLGRYCnbx) | 3:14 |
 | 5 | [Molly Bán / Flowers of Edinburgh / Famous Ballymote](https://open.spotify.com/track/2ERAwOjZfux9fbdABom50A) | [Ciaran Tourish](https://open.spotify.com/artist/7JgJRLk3nWbYCeMyzSXXMj) | [Down the Line](https://open.spotify.com/album/2CcYzfVX4bPO2vFgOe9Ac0) | 3:28 |
 | 6 | [The Gap of Dreams / Nia’s Jig / The Beekeeper](https://open.spotify.com/track/5MH17KACijBOpJZ6VGVibO) | [Altan](https://open.spotify.com/artist/6koEjb4607APXtFtjxvA5T) | [The Gap of Dreams](https://open.spotify.com/album/0eMD7KitnmLQH2cPLdsn0v) | 5:20 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 85 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 |
 | 86 | [Last Night's Fun / The Chattering Magpie / The Black Haired Lass / The Commodore](https://open.spotify.com/track/3FnKOidmaJJzdP52XBWZ5f) | [Billy McComiskey](https://open.spotify.com/artist/0NPDkWpnQnjowxXozNrWeR) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 4:53 |
 
-Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMDkxNTZiYjY1MGY2MjYzYzQ5NGU0NWQwODFjZWUwZmEz`
+Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMDEwMzhkZTQxYmE0MGE5OTlhZTVmZjYwMzg0NzQ2NDU3`

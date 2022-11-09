@@ -2390,6 +2390,24 @@
     },
     {
       "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD"
+      },
+      "artists": [
+        {
+          "name": "Stella Bossi",
+          "url": "https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391875,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/5o4tktIbXOLUvRGrPyWMRT"
       },
@@ -2729,7 +2747,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 394677,
       "name": "Orbit - Adriatique & Ae:ther Remix",
       "url": "https://open.spotify.com/track/3UXaftDIMmSdvn3VIQJBhj"
@@ -3039,7 +3057,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 378425,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/7q3e8G09hBubfDjD1B5A9a"
@@ -3383,7 +3401,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 206000,
       "name": "Stepper",
       "url": "https://open.spotify.com/track/6LWnD63tBcpnkWJRlOegja"
@@ -3485,7 +3503,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 249761,
       "name": "Survive (feat. Jodie Knight)",
       "url": "https://open.spotify.com/track/42QeSoTqIdVcg0DEHyaxye"
@@ -3947,7 +3965,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 312702,
       "name": "Trial Motive",
       "url": "https://open.spotify.com/track/4axLUgmvqOa6lspKcI44n0"

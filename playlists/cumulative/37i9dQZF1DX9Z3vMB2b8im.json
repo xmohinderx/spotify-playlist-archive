@@ -311,10 +311,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 255697,
       "name": "Colour TV",
       "url": "https://open.spotify.com/track/317hD6kkvxNc65HSqoXfCk"
+    },
+    {
+      "album": {
+        "name": "The Hole Around My Head",
+        "url": "https://open.spotify.com/album/0K2xOWPzXD7pYOcTrF0JLt"
+      },
+      "artists": [
+        {
+          "name": "Will Varley",
+          "url": "https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255697,
+      "name": "Colour TV",
+      "url": "https://open.spotify.com/track/3uVGXeJ3xPTuEnnNeFx2hu"
     },
     {
       "album": {
@@ -905,6 +923,24 @@
     {
       "album": {
         "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/4uQKSajaSAXIcf9RzvbHa9"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Thieves",
+          "url": "https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/6qm17pxCWOfHIkKOdnLaoQ"
+    },
+    {
+      "album": {
+        "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/7oqr6xk4na7xIRYihgwsuv"
       },
       "artists": [
@@ -915,7 +951,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 204293,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij"

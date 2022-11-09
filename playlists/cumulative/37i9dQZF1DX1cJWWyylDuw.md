@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Suicide Silence
 
-410 songs - 1 day 2 hr 47 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
+411 songs - 1 day 2 hr 51 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Judgement](https://open.spotify.com/track/0xWgX8mKChrkydJMbyE6sX) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd), [Niik Script](https://open.spotify.com/artist/6t2NcKJ5YvwEuXYoYdSsNH) | [Judgement](https://open.spotify.com/album/4svaNpsBQELqodlHnkZ9zj) | 3:44 | 2021-12-17 | 2022-07-13 |
 | [Kimo](https://open.spotify.com/track/3FrBC04W6GQsQQgeYn3ieH) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer Part.1](https://open.spotify.com/album/6ZfD7O9CcoRP9xP0ICdgTA) | 3:40 | 2021-12-17 |  |
 | [King of the Rats](https://open.spotify.com/track/0FeY1KxlBQhALD6L6IaDog) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [King of the Rats](https://open.spotify.com/album/2BSdHM1FO3JJw97CWIS77P) | 2:53 | 2021-12-17 |  |
-| [King Ov Fire](https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk) | [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9) | [A Hill to Die Upon](https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m) | 3:49 | 2021-12-17 |  |
+| [King Ov Fire](https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk) | [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9) | [A Hill to Die Upon](https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m) | 3:49 | 2021-12-17 | 2022-11-09 |
 | [Lamb to the Slaughter](https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Lamb to the Slaughter](https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n) | 3:50 | 2021-12-17 | 2022-07-25 |
 | [Legends Never Die](https://open.spotify.com/track/7pvj0VmFmVN7vHA1b0Zc1V) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Legends Never Die](https://open.spotify.com/album/0MA84UyLUN8K07GhqAh0G0) | 4:29 | 2021-12-17 | 2022-07-29 |
 | [Lifeblood](https://open.spotify.com/track/7FEWI4TMXlzNIqvREwIhHd) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Lifeblood](https://open.spotify.com/album/0HKMrwsbf7v7IHHXhSHylS) | 4:17 | 2021-12-17 |  |
@@ -271,6 +271,7 @@
 | [Omega](https://open.spotify.com/track/3YxSM482jeTSrlnSjdFFeW) | [Abyss Above](https://open.spotify.com/artist/0scPLkLLKJ1iEr4cnCVQ9m) | [Doombound](https://open.spotify.com/album/5YugQGshaYkmmqFpSF7IdL) | 3:53 | 2021-12-31 | 2022-07-27 |
 | [On Wings of Carnage](https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr) | [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [On Wings of Carnage](https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB) | 3:45 | 2022-01-21 | 2022-10-11 |
 | [Order of the Black Worm](https://open.spotify.com/track/3i31Z6cHzFGew8GcQ0TNMi) | [Let It Rot](https://open.spotify.com/artist/5p9HWdsMLHKU8PCj5UWeiU) | [Order of the Black Worm](https://open.spotify.com/album/0PGkBzdVl5w2fFvmLZXaZn) | 3:16 | 2021-12-17 | 2022-05-26 |
+| [Outrun](https://open.spotify.com/track/2CruovQVFC9NdqOM40tObf) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/2MxaRRkncFrg3v422FUHxN) | 3:45 | 2022-10-27 |  |
 | [Outrun](https://open.spotify.com/track/4Ybl8SLHUxerNOWtXjE1pA) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/3PtZnZ5OySxape4SVskOE4) | 3:45 | 2021-12-17 | 2022-11-05 |
 | [Overlord](https://open.spotify.com/track/1Tg8yTnIA7lNC2aQPbuQHd) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Overlord](https://open.spotify.com/album/4IYXhSQyH18f8kceUIHn9m) | 3:10 | 2021-12-17 | 2022-07-04 |
 | [Pandora](https://open.spotify.com/track/45wgpIER9AI3Pqh1ZFef4D) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Oh What the Future Holds](https://open.spotify.com/album/6Ye3ONH5U76f9MqPg3zxcl) | 4:36 | 2022-07-08 |  |

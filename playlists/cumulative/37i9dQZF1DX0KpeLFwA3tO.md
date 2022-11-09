@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Magnolia Park
 
-708 songs - 1 day 11 hr 32 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+709 songs - 1 day 11 hr 37 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,8 @@
 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-08-25 | 2022-10-14 |
 | [Leave Her Johnny](https://open.spotify.com/track/1UlFYPCY4xCW5UQkgogD2I) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Leave Her Johnny](https://open.spotify.com/album/6CTwln0Rti6ZAgzGF1eTQh) | 3:13 | 2022-10-27 |  |
 | [Leaving Candyland](https://open.spotify.com/track/19zYVOWm7HBRxylA1nJrCS) | [Handheld](https://open.spotify.com/artist/1RSIxRoxSc8mdUgtjtgIHX) | [Leaving Candyland](https://open.spotify.com/album/27CrBBpILjfIQxgnkwg9S6) | 2:40 | 2022-05-20 | 2022-07-01 |
-| [Leisure Activities](https://open.spotify.com/track/0n9da6oT6NiADZhnlqWWxa) | [Italia 90](https://open.spotify.com/artist/4NArCLoaLaa9cQkm2dk3PP) | [Leisure Activities](https://open.spotify.com/album/4qvlYE6T5cFDaVycLxHl9r) | 4:42 | 2022-09-15 |  |
+| [Leisure Activities](https://open.spotify.com/track/0n9da6oT6NiADZhnlqWWxa) | [Italia 90](https://open.spotify.com/artist/4NArCLoaLaa9cQkm2dk3PP) | [Leisure Activities](https://open.spotify.com/album/4qvlYE6T5cFDaVycLxHl9r) | 4:42 | 2022-09-15 | 2022-11-09 |
+| [Leisure Activities](https://open.spotify.com/track/3h6fAqr2VQiWE0UhP8XXT5) | [Italia 90](https://open.spotify.com/artist/4NArCLoaLaa9cQkm2dk3PP) | [Leisure Activities](https://open.spotify.com/album/6QSqHeRJeQLfAblXXS1ErP) | 4:42 | 2022-11-04 |  |
 | [Levitate](https://open.spotify.com/track/4iAo0pTZtSVvBAnVYPnD8C) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Levitate](https://open.spotify.com/album/2WUUkcwTRTwSM8ZQ93g0Yx) | 2:59 | 2021-12-17 | 2022-03-11 |
 | [Levity](https://open.spotify.com/track/50VmAefTGokvpBLNTBhN9Y) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Levity](https://open.spotify.com/album/661ymP9Uncq9ZFjFUYxefv) | 3:20 | 2022-10-06 |  |
 | [Liar](https://open.spotify.com/track/1yqdSMVwA2V0qw8uws6i9V) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Halloween Mixtape](https://open.spotify.com/album/2o11jhHV1ByAzJfjE9AuvA) | 2:11 | 2021-12-17 | 2022-01-21 |

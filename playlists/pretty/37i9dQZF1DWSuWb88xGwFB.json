@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 22792,
+  "num_followers": 22802,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDZiYTM0ZmE3OTNhOTMzZTU5NTRkNTllYzJlN2E1NzU4",
+  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMGRiNzA1Y2ZkYWU5MzhmNmZlYWZiMWZhMzJiZmE2MTc4",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -583,6 +583,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        },
+        {
+          "name": "L.G.",
+          "url": "https://open.spotify.com/artist/1C9jCVewiz4TYKbGD2A6EA"
+        }
+      ],
+      "duration_ms": 350066,
+      "name": "Sindae (feat. L.G.) - Masters At Work Club Mix",
+      "url": "https://open.spotify.com/track/7HoUdaD3icSlL6A0xr5zgf"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Generate Power (feat. Paula Brion) [2010 Mixes]",
         "url": "https://open.spotify.com/album/5MwtRnaCznUi4ijSIjQ8KY"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 523906,
       "name": "Generate Power (feat. Paula Brion) - Wild Pitch Mix",
       "url": "https://open.spotify.com/track/4VYtkPup3WyqXsGNcV57lE"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        },
-        {
-          "name": "L.G.",
-          "url": "https://open.spotify.com/artist/1C9jCVewiz4TYKbGD2A6EA"
-        }
-      ],
-      "duration_ms": 350066,
-      "name": "Sindae (feat. L.G.) - Masters At Work Club Mix",
-      "url": "https://open.spotify.com/track/7HoUdaD3icSlL6A0xr5zgf"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
-      },
-      "artists": [
-        {
-          "name": "Androgeny",
-          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
-        }
-      ],
-      "duration_ms": 494374,
-      "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
-      "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 297037,
       "name": "Wanna Be Your Girl - A 'G' Thang Mix",
       "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+      },
+      "artists": [
+        {
+          "name": "Androgeny",
+          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+        }
+      ],
+      "duration_ms": 494374,
+      "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
+      "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Northern Lights (Mixes)",
-        "url": "https://open.spotify.com/album/1OH3So9taAUDVSzzTpwCZI"
-      },
-      "artists": [
-        {
-          "name": "Caucasian Boy",
-          "url": "https://open.spotify.com/artist/1MU5axJkJ5WOlfourdSDER"
-        }
-      ],
-      "duration_ms": 479413,
-      "name": "Northern Lights - The Prime Cutz Mix",
-      "url": "https://open.spotify.com/track/3oGL7qdd5bCUQNdFnbPm5J"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Just Us",
         "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 227173,
       "name": "Just Us - B.O.P. Radio Joint",
       "url": "https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Northern Lights (Mixes)",
+        "url": "https://open.spotify.com/album/1OH3So9taAUDVSzzTpwCZI"
+      },
+      "artists": [
+        {
+          "name": "Caucasian Boy",
+          "url": "https://open.spotify.com/artist/1MU5axJkJ5WOlfourdSDER"
+        }
+      ],
+      "duration_ms": 479413,
+      "name": "Northern Lights - The Prime Cutz Mix",
+      "url": "https://open.spotify.com/track/3oGL7qdd5bCUQNdFnbPm5J"
     },
     {
       "added_at": "2022-03-03 13:59:16",

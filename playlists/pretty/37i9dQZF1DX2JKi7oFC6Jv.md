@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,310 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,330 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 21 | [Make It Funky for Me \- Radio Edit](https://open.spotify.com/track/3qb9Fv1hvfvu1JDssgHni7) | [Attacca Pesante](https://open.spotify.com/artist/71tqljagflr75OBdRDBWCa), [Shea Soul](https://open.spotify.com/artist/6nk7YSGGvz4AOOkbfMCNHh) | [Make It Funky for Me](https://open.spotify.com/album/1qgm6HW2V0GJXwpL1irUYl) | 2:53 |
 | 22 | [Tribal Skank \- Radio Mix](https://open.spotify.com/track/1o8waXzOEeUIAlsApWyLEp) | [Fr3e](https://open.spotify.com/artist/6sezwfsYnNgPPKvmv9FmoF) | [Tribal Skank](https://open.spotify.com/album/2waOIVyj1rWWRyBssmfAbt) | 3:44 |
 | 23 | [Lighter VIP](https://open.spotify.com/track/58mlFUs5fy2d6B7bGA06iV) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Lighter EP](https://open.spotify.com/album/1aMv0600AWsjglH7gdeOuL) | 4:33 |
-| 24 | [Migraine Skank \- Main Mix](https://open.spotify.com/track/54KCXjzkieeuv6L0fzL0CG) | [Gracious K](https://open.spotify.com/artist/6V1DvxiIkIOvjTK2yzLNyy) | [Migraine Skank](https://open.spotify.com/album/6RhGWsbhsG19udkx5UotWT) | 3:06 |
-| 25 | [Get Over It](https://open.spotify.com/track/1Utz4zu6JCd8iyA77ueD3t) | [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Get Over It](https://open.spotify.com/album/2goDYGdgun4cjrYELDKrzw) | 6:59 |
+| 24 | [Get Over It](https://open.spotify.com/track/1Utz4zu6JCd8iyA77ueD3t) | [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Get Over It](https://open.spotify.com/album/2goDYGdgun4cjrYELDKrzw) | 6:59 |
+| 25 | [Migraine Skank \- Main Mix](https://open.spotify.com/track/54KCXjzkieeuv6L0fzL0CG) | [Gracious K](https://open.spotify.com/artist/6V1DvxiIkIOvjTK2yzLNyy) | [Migraine Skank](https://open.spotify.com/album/6RhGWsbhsG19udkx5UotWT) | 3:06 |
 | 26 | [Are You Gunna Bang Doe?](https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW) | [Funky Dee](https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv) | [Street Nation](https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd) | 2:43 |
 | 27 | [BLU Magic](https://open.spotify.com/track/7jXF5MEo0MBRjdf5Uy7j1t) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [The BLU Magic Project Remix EP](https://open.spotify.com/album/1p8R2BA13zfBxEO5fMlImp) | 4:32 |
 | 28 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 55 | [Galiium](https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Gallium](https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP) | 7:36 |
 | 56 | [Swervin'](https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r) | [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Limonata](https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS) | 4:30 |
 | 57 | [Lush \- Fuzzy Logik Remix](https://open.spotify.com/track/70sPvzZcGOYK0CnxzYrGC7) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Fuzzy Logik](https://open.spotify.com/artist/4piotdMysykYFW82NqRaLy) | [Lush](https://open.spotify.com/album/3ECz7PCncaV9aWNA9XVWVv) | 4:44 |
-| 58 | [Hear Me \- Zomby Mix](https://open.spotify.com/track/1v80nVTvQNItY8JPmwecve) | [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw), [Zomby](https://open.spotify.com/artist/0e1hn6R8UCfLkpHINwAyXR) | [Remixes 1/2](https://open.spotify.com/album/2lGPdro2bQMgqz5WyJATrZ) | 5:00 |
-| 59 | [Condo \(feat\. T\-Pain\) \- Roska Remix](https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Condo \(feat\. T\-Pain\) \[Remixes\]](https://open.spotify.com/album/2LRP4vOT55IKQHnQvi4hwr) | 3:52 |
+| 58 | [Condo \(feat\. T\-Pain\) \- Roska Remix](https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Condo \(feat\. T\-Pain\) \[Remixes\]](https://open.spotify.com/album/2LRP4vOT55IKQHnQvi4hwr) | 3:52 |
+| 59 | [Hear Me \- Zomby Mix](https://open.spotify.com/track/1v80nVTvQNItY8JPmwecve) | [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw), [Zomby](https://open.spotify.com/artist/0e1hn6R8UCfLkpHINwAyXR) | [Remixes 1/2](https://open.spotify.com/album/2lGPdro2bQMgqz5WyJATrZ) | 5:00 |
 | 60 | [Funky Flex vs Pulse](https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Funky Flex vs Pulse](https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf) | 6:01 |
 
-Snapshot ID: `MTY0OTg2MjE4MiwwMDAwMDAwMDFhZWM3OWNhYTVmYWMzNzY5OGU5ZmYwZjU1NGRkMTFl`
+Snapshot ID: `MTY0OTg2MjE4MiwwMDAwMDAwMGI0NmEyMDM4YjgxOGI2OGM2YmY3MTI5N2ZkNDkwZjlh`

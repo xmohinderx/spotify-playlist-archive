@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop cover: Jessie Murph
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,158,978 likes - 97 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159,816 likes - 97 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

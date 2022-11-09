@@ -735,7 +735,7 @@
     {
       "album": {
         "name": "Aquarius",
-        "url": "https://open.spotify.com/album/7jyTCVY16r5YsIjQTjE9nu"
+        "url": "https://open.spotify.com/album/61xH291AgtY4PwmBfgMrC3"
       },
       "artists": [
         {
@@ -746,6 +746,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215240,
+      "name": "One Foot On The Path",
+      "url": "https://open.spotify.com/track/3BhfzflhYCQ5DkjiEwP2cH"
+    },
+    {
+      "album": {
+        "name": "Aquarius",
+        "url": "https://open.spotify.com/album/7jyTCVY16r5YsIjQTjE9nu"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
       "duration_ms": 215240,
       "name": "One Foot On The Path",
       "url": "https://open.spotify.com/track/5HsIqCxxHalal6VyepSWll"

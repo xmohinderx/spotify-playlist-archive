@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-193 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+194 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Opr](https://open.spotify.com/track/12Ypr3PCVJ2i7Uwz93q1Vl) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Conspiracy Pt.2](https://open.spotify.com/album/3WSHoNpx7QQMcmfm26wksh) | 3:53 | 2022-10-23 | 2022-11-01 |
 | [Partners in Crime](https://open.spotify.com/track/7JUzOHIiIpt8SLF21uYOwu) | [Coma Cinema](https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu) | [Posthumous Release](https://open.spotify.com/album/4fGmm4duNiLc3uDl9QqLM2) | 2:52 | 2021-11-01 | 2022-09-15 |
 | [Pay](https://open.spotify.com/track/4QzzbrZXW7JZlZEvSEO4BZ) | [Ramsey](https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8) | [Ramsey](https://open.spotify.com/album/62zvqJzG1V3VFViiVl7R4D) | 3:19 | 2022-10-23 | 2022-11-01 |
-| [Persuader \- Edit](https://open.spotify.com/track/65ALVBNugTdp4jdVUl4Jok) | [LICE](https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo) | [Persuader](https://open.spotify.com/album/2gojRx2zeAeXtmZstFSE6L) | 2:45 | 2021-11-01 |  |
+| [Persuader \- Edit](https://open.spotify.com/track/65ALVBNugTdp4jdVUl4Jok) | [LICE](https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo) | [Persuader](https://open.spotify.com/album/2gojRx2zeAeXtmZstFSE6L) | 2:45 | 2021-11-01 | 2022-11-09 |
+| [Persuader \- Edit](https://open.spotify.com/track/7J3T5PQLhtDMCJVO8IacUB) | [LICE](https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo) | [Persuader](https://open.spotify.com/album/2nzr3TOPYwp6JK8inj5JUZ) | 2:45 | 2022-11-01 |  |
 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 | 2022-09-13 |  |
 | [Piece and Pound Coins](https://open.spotify.com/track/0s3pPnQrytADGrGw1UWP5m) | [The Ninth Wave](https://open.spotify.com/artist/7AAthfOGfAvVy4NWGJDiCP) | [Piece and Pound Coins](https://open.spotify.com/album/4Rpy1s4ACE9bAJYaQdc9KM) | 2:23 | 2021-11-01 | 2022-09-15 |
 | [Port](https://open.spotify.com/track/5TnhWeSJAkolB4y8eY3P2T) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Port](https://open.spotify.com/album/0v8LHvECm25kz8i2ii5n7w) | 4:42 | 2021-11-01 |  |

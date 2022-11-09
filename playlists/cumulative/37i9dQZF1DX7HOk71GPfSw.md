@@ -4,7 +4,7 @@
 
 > ft\. angelus
 
-1,503 songs - 2 day 20 hr 13 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,504 songs - 2 day 20 hr 16 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [FLOWER SHOWER](https://open.spotify.com/track/7sjnURvuXBKEdM3fw698iq) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [FLOWER SHOWER](https://open.spotify.com/album/6WEd55Evvtz5ZTMogdK8Uu) | 3:08 | 2021-10-16 | 2021-10-21 |
 | [FMU \(feat\. Rico Nasty\)](https://open.spotify.com/track/5AD8DWoQa4NGe2WagH4YF2) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [SEXORCISM](https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL) | 2:58 | 2021-02-10 | 2021-02-26 |
 | [fool4love](https://open.spotify.com/track/0RSgXjblj8lNRMQBveuJfA) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fool4love](https://open.spotify.com/album/1RJudDWxEImNZZT8KfrTh2) | 2:08 | 2022-02-23 | 2022-05-12 |
+| [foolish](https://open.spotify.com/track/2w5Dbp9Y9LDbsMlfArcL9w) | [Ilykimchi](https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb) | [foolish](https://open.spotify.com/album/6dr6y3OEaIbalze5jnTJgC) | 2:52 | 2022-11-08 |  |
 | [football game](https://open.spotify.com/track/37ynsCQ2PUTc9hbWygrbKy) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [football game](https://open.spotify.com/album/0ZUUNzW2alJzw9JkRRiIfM) | 2:47 | 2020-11-28 | 2021-07-17 |
 | [forever](https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:03 | 2020-10-13\* | 2021-01-08 |
 | [forever](https://open.spotify.com/track/0qjslFzLzx8lKJ1kBRi8gQ) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [forever](https://open.spotify.com/album/3iWkYl4dzsVJwbraBBCnAQ) | 2:34 | 2022-01-28 | 2022-04-29 |

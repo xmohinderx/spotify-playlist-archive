@@ -4,12 +4,13 @@
 
 > It's just us—and this awesome alt soundtrack.
 
-192 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/2Ni00bI0Uwu2mjVXmNScYr)
+193 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/2Ni00bI0Uwu2mjVXmNScYr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1435](https://open.spotify.com/track/0DWEV5NfYKtp0WCUWCGShs) | [Selfish Things](https://open.spotify.com/artist/4iQ7b56FZ0A06oJ0rt0paz) | [1435](https://open.spotify.com/album/0Kr4ion4pdBMtnzfaGYUAG) | 4:52 | 2019-05-26\* | 2022-07-29 |
-| [1435](https://open.spotify.com/track/4aIoSHvifFFzGMOeZbztDh) | [Selfish Things](https://open.spotify.com/artist/4iQ7b56FZ0A06oJ0rt0paz) | [1435](https://open.spotify.com/album/3rFfVyVxJzpKiZmoRgjy5e) | 4:52 | 2022-05-27 |  |
+| [1435](https://open.spotify.com/track/4aIoSHvifFFzGMOeZbztDh) | [Selfish Things](https://open.spotify.com/artist/4iQ7b56FZ0A06oJ0rt0paz) | [1435](https://open.spotify.com/album/3rFfVyVxJzpKiZmoRgjy5e) | 4:52 | 2022-05-27 | 2022-11-09 |
+| [1435](https://open.spotify.com/track/5sRK4Zas7CxB068eUsOoVw) | [Selfish Things](https://open.spotify.com/artist/4iQ7b56FZ0A06oJ0rt0paz) | [1435](https://open.spotify.com/album/26QCxRGHrn6G0UCqA8ST7m) | 4:52 | 2022-08-26 |  |
 | [Adore](https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Adore](https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx) | 3:04 | 2019-05-26\* |  |
 | [All For You](https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7) | 3:55 | 2022-08-26 |  |
 | [All For You](https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt) | 3:55 | 2019-05-26\* | 2022-11-06 |

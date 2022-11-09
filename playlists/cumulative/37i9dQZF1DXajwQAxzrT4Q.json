@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: UNIIQU3.",
+  "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: skaiwater.",
   "name": "Jersey Club Heat",
   "published_playlist_ids": [
     "4ILVMe10Lfw8QYUgZ8QkTU"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 196776,
       "name": "#miles (DJ Sliink Remix)",
       "url": "https://open.spotify.com/track/4OWGtEwXCFTopkKyEZv0ur"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 130080,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/7tLXo5YmfBoyCYSNG62hJZ"
@@ -1727,7 +1727,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 171940,
       "name": "Heartbroken Twenty Twenty",
       "url": "https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z"
@@ -1895,7 +1895,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 226225,
       "name": "Hula Hoop",
       "url": "https://open.spotify.com/track/6GvqVPaFlnIR1FMaBJrKk9"
@@ -2096,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "album": {
         "name": "K So (Street Bangers Factory 16)",
         "url": "https://open.spotify.com/album/6z1udd7xIDYerwHvirDP6b"
       },
@@ -2111,6 +2129,24 @@
       "duration_ms": 173419,
       "name": "K So - Street Bangers Factory 16",
       "url": "https://open.spotify.com/track/3uHgmgoxBqqU88kjx1YOgl"
+    },
+    {
+      "album": {
+        "name": "Left Cheek (Doo Doo Blick)",
+        "url": "https://open.spotify.com/album/2QCIxTKckQPH0slJpy7GV9"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174757,
+      "name": "Left Cheek (Doo Doo Blick)",
+      "url": "https://open.spotify.com/track/1aKHgPHMKTJEmLkKmcbe3a"
     },
     {
       "album": {
@@ -2735,6 +2771,28 @@
       "duration_ms": 89652,
       "name": "Pew Pew Pew",
       "url": "https://open.spotify.com/track/6iQrwRQYIUrA7gqXtOrRve"
+    },
+    {
+      "album": {
+        "name": "Club Godfather",
+        "url": "https://open.spotify.com/album/76B56iUllijLjhuH7XFqBi"
+      },
+      "artists": [
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "PIANO (feat. Lay Bankz)",
+      "url": "https://open.spotify.com/track/7ERd87EHVWn9585J4qXxPS"
     },
     {
       "album": {
@@ -3555,7 +3613,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 103073,
       "name": "Trip to Brazil",
       "url": "https://open.spotify.com/track/20NsO7bS1TfMMBzwqWASjx"

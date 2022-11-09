@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-246 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
+247 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Innuendo](https://open.spotify.com/track/0OxJZn5qtO6kXdanKDrJI3) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Innuendo / Ground Level](https://open.spotify.com/album/5vE2cpKmniD4Oiw9dLqQqJ) | 3:40 | 2022-09-02 |  |
 | [Intimo](https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC) | [Sardelli](https://open.spotify.com/artist/5g1CI7OVvOrk6UfKcx0AYD) | [Intimo](https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9) | 2:34 | 2022-04-15 | 2022-08-19 |
 | [Isla de es Vedrá](https://open.spotify.com/track/23ClxBkpo2usaXLAeeS1gM) | [Bongo Percy](https://open.spotify.com/artist/1962ajzfry94J9kYNGQoSg) | [Isla de es Vedrá](https://open.spotify.com/album/5AG0PyT3GWsfuORBBW99Rz) | 4:20 | 2022-04-15 | 2022-09-23 |
-| [Jungle](https://open.spotify.com/track/2Mdo5rCmJA1NMXiK6tGnDm) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/2cpq73ajZPz0vr9mvpZcfv) | 3:43 | 2022-09-02 |  |
+| [Jungle](https://open.spotify.com/track/0Liq0W8Ui16N6NtGlPfTUa) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 3:43 | 2022-10-28 |  |
+| [Jungle](https://open.spotify.com/track/2Mdo5rCmJA1NMXiK6tGnDm) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/2cpq73ajZPz0vr9mvpZcfv) | 3:43 | 2022-09-02 | 2022-11-09 |
 | [Kantan](https://open.spotify.com/track/3UuV3xQsLn8FdAzEa0foPr) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:17 | 2022-04-15 |  |
 | [Kashmir \(Edit\)](https://open.spotify.com/track/204q7FkjtzZBm8TWl2sjBz) | [Gary Luton](https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4) | [Kashmir \(Edit\)](https://open.spotify.com/album/6pD0WpAxWRTY11HZiZCPuy) | 3:04 | 2022-04-15 |  |
 | [Keeping](https://open.spotify.com/track/7J6zJzF5nBfW610gUHT6gE) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Keeping](https://open.spotify.com/album/1as5ri9NKFQcZN9YZJUIh4) | 2:58 | 2022-07-08 |  |

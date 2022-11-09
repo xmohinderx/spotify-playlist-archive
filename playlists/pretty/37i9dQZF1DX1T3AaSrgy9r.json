@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 72949,
+  "num_followers": 73061,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMGE4NWYxYjliMmMxZTQxNjA2NDhkYjM5MGUxZTg2ZTQ3",
+  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMGU0NTFiYmM5M2QwNDBiYzI2MzUyODYxMDhkNGFjMjMw",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 411466,
-      "name": "Open Up - Remastered",
-      "url": "https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)",
         "url": "https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Inner City Life",
-        "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
       },
       "artists": [
         {
-          "name": "Goldie",
-          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
         }
       ],
-      "duration_ms": 231973,
-      "name": "Inner City Life - Radio Edit",
-      "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
+      "duration_ms": 411466,
+      "name": "Open Up - Remastered",
+      "url": "https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -983,6 +967,22 @@
       "duration_ms": 192640,
       "name": "Leave You Far Behind",
       "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Inner City Life",
+        "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "Inner City Life - Radio Edit",
+      "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1083,6 +1083,38 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "On the Ropes",
+        "url": "https://open.spotify.com/album/1S4vDNHYcAYNbQjB1aT5vu"
+      },
+      "artists": [
+        {
+          "name": "Mint Royale",
+          "url": "https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj"
+        }
+      ],
+      "duration_ms": 306909,
+      "name": "From Rusholme with Love",
+      "url": "https://open.spotify.com/track/32YtorOlPz4n7y5OiYkohZ"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Bodyrock",
+      "url": "https://open.spotify.com/track/6P0d6HGaGTbW26ngcMpdko"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "The Journey Man",
         "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
       },
@@ -1119,38 +1151,6 @@
       "duration_ms": 233906,
       "name": "Pacific 707",
       "url": "https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "On the Ropes",
-        "url": "https://open.spotify.com/album/1S4vDNHYcAYNbQjB1aT5vu"
-      },
-      "artists": [
-        {
-          "name": "Mint Royale",
-          "url": "https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj"
-        }
-      ],
-      "duration_ms": 306909,
-      "name": "From Rusholme with Love",
-      "url": "https://open.spotify.com/track/32YtorOlPz4n7y5OiYkohZ"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Bodyrock",
-      "url": "https://open.spotify.com/track/6P0d6HGaGTbW26ngcMpdko"
     },
     {
       "added_at": "2021-07-14 17:36:34",

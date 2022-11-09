@@ -1,12 +1,12 @@
 {
   "description": "Music to get fly to. Cover: Thom Browne SS 2023",
-  "num_followers": 468830,
+  "num_followers": 468787,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwOTA0NCwwMDAwMDAwMGZmYmU4YzBhNGQ4ODA5MTBmYmQ1NTUxNjc4MDI0ODcw",
+  "snapshot_id": "MTY2NjgwOTA0NCwwMDAwMDAwMDcxYzM3ZGE4YzJjZWM5YjYxZmRiNjJmYzU4OTM5MTYx",
   "tracks": [
     {
       "added_at": "2022-10-26 17:46:30",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
+        "name": "Kauai",
+        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
         "name": "Lil Uzi Vert vs. The World",
         "url": "https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 258453,
       "name": "Crimewave",
       "url": "https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
-        "name": "Kauai",
-        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Persuasive",
-        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 216707,
-      "name": "Persuasive",
-      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Vince Staples",
         "url": "https://open.spotify.com/album/2suR5CCbtL2Wq8ShFo8rFr"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 225266,
       "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
       "url": "https://open.spotify.com/track/1eLSF6HfrRA0AsNmTkUlKx"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "Persuasive",
+        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 216707,
+      "name": "Persuasive",
+      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "orange juice",
-        "url": "https://open.spotify.com/album/4bmluZugh54DkReHoghYGu"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "orange juice",
-      "url": "https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Tell Me Your Fears",
         "url": "https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "The Essential Electric Light Orchestra",
-        "url": "https://open.spotify.com/album/0wzmqCoQ3rZTuCuIwK1jKp"
+        "name": "orange juice",
+        "url": "https://open.spotify.com/album/4bmluZugh54DkReHoghYGu"
       },
       "artists": [
         {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
         }
       ],
-      "duration_ms": 252373,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/05zCw24BdvZKGeC5NXowVe"
+      "duration_ms": 163333,
+      "name": "orange juice",
+      "url": "https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1115,6 +1099,22 @@
       "duration_ms": 285440,
       "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
       "url": "https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "The Essential Electric Light Orchestra",
+        "url": "https://open.spotify.com/album/0wzmqCoQ3rZTuCuIwK1jKp"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/05zCw24BdvZKGeC5NXowVe"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Ce Soir",
-        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Ce Soir",
-      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "34Corine",
         "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 244000,
       "name": "FORCE OF HABIT",
       "url": "https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "Ce Soir",
+        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Ce Soir",
+      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "The Red Light District",
-        "url": "https://open.spotify.com/album/1KushUovbraTDRu9sbO5fg"
+        "name": "Sad B!tch",
+        "url": "https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB"
       },
       "artists": [
         {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          "name": "CLIP",
+          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
         }
       ],
-      "duration_ms": 234973,
-      "name": "The Potion",
-      "url": "https://open.spotify.com/track/4zXMw51RgLPRE3vPDuqBvt"
+      "duration_ms": 135069,
+      "name": "Sad B!tch",
+      "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Sad B!tch",
-        "url": "https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB"
+        "name": "The Red Light District",
+        "url": "https://open.spotify.com/album/1KushUovbraTDRu9sbO5fg"
       },
       "artists": [
         {
-          "name": "CLIP",
-          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 135069,
-      "name": "Sad B!tch",
-      "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
+      "duration_ms": 234973,
+      "name": "The Potion",
+      "url": "https://open.spotify.com/track/4zXMw51RgLPRE3vPDuqBvt"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1531,6 +1531,22 @@
       "duration_ms": 127624,
       "name": "Nike",
       "url": "https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "STAY UP / SWEET",
         "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 229765,
       "name": "STAY UP",
       "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "dress up!",
+        "url": "https://open.spotify.com/album/65PEe4oqDISaoCia7jZ1jJ"
+      },
+      "artists": [
+        {
+          "name": "lil hero",
+          "url": "https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO"
+        }
+      ],
+      "duration_ms": 129488,
+      "name": "BIG FLIRT",
+      "url": "https://open.spotify.com/track/21X8Gbc0ztQvD9uhX4WxUK"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1603,22 +1619,6 @@
       "duration_ms": 218146,
       "name": "Pharaohs",
       "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
-        "name": "dress up!",
-        "url": "https://open.spotify.com/album/65PEe4oqDISaoCia7jZ1jJ"
-      },
-      "artists": [
-        {
-          "name": "lil hero",
-          "url": "https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO"
-        }
-      ],
-      "duration_ms": 129488,
-      "name": "BIG FLIRT",
-      "url": "https://open.spotify.com/track/21X8Gbc0ztQvD9uhX4WxUK"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Nectarine Lane",
-        "url": "https://open.spotify.com/album/5q3B3Qg7msN3QYZYxQBm9q"
-      },
-      "artists": [
-        {
-          "name": "Salina Killa",
-          "url": "https://open.spotify.com/artist/5dmNompaODMC0v2jhwEzS0"
-        }
-      ],
-      "duration_ms": 149813,
-      "name": "Nectarine Lane",
-      "url": "https://open.spotify.com/track/7rUdHARMP5eILXLw9ysN5F"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Free Form Mixtape",
         "url": "https://open.spotify.com/album/73rCTj22iO75ygdt5uoj31"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 147666,
       "name": "Baby Pillz",
       "url": "https://open.spotify.com/track/1PVH01aOkNQ6PzxT4Lqtfm"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "Nectarine Lane",
+        "url": "https://open.spotify.com/album/5q3B3Qg7msN3QYZYxQBm9q"
+      },
+      "artists": [
+        {
+          "name": "Salina Killa",
+          "url": "https://open.spotify.com/artist/5dmNompaODMC0v2jhwEzS0"
+        }
+      ],
+      "duration_ms": 149813,
+      "name": "Nectarine Lane",
+      "url": "https://open.spotify.com/track/7rUdHARMP5eILXLw9ysN5F"
     },
     {
       "added_at": "2022-10-26 17:46:30",

@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Manal
 
-826 songs - 1 day 21 hr 33 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+827 songs - 1 day 21 hr 36 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [10:36](https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [10:36](https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz) | 3:15 | 2022-07-06 | 2022-08-04 |
 | [20 тонн](https://open.spotify.com/track/0nbfAs7GeJIAe6nOxWD1kK) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [LAVA](https://open.spotify.com/album/0vlYUlDZviDnoMTP5ZLp9R) | 1:44 | 2022-01-05 | 2022-02-03 |
 | [365](https://open.spotify.com/track/7j01rdHvXniCA8f1x0NTUG) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [365](https://open.spotify.com/album/66ATAuPBpHYXytPUXzCCwi) | 3:19 | 2021-12-11 | 2022-01-06 |
+| [3:30](https://open.spotify.com/track/3vt2uTPMsJtAABxhyxmU9u) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [3:30](https://open.spotify.com/album/5vo8DvHawHGp7FM40oHOmK) | 3:23 | 2022-11-08 |  |
 | [9 to 5](https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 | 2022-06-01 | 2022-07-07 |
 | [906090](https://open.spotify.com/track/0HH3DAz5feqJmDA50yQ52M) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Mew Amazing](https://open.spotify.com/artist/34nom4Ft3keMWBZPAUB3EI) | [906090](https://open.spotify.com/album/20sB19q1UohCToeyAcUNwQ) | 3:28 | 2022-11-02 |  |
 | [A Cada Beijo \- Ao Vivo](https://open.spotify.com/track/7wLSaPBFitTXXvEJuH2XYE) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Marvvila na Área \(Ao Vivo\)](https://open.spotify.com/album/2g4R36g4rMzR8ST2xLQu39) | 3:05 | 2022-09-07 | 2022-10-05 |
@@ -64,7 +65,7 @@
 | [Balance](https://open.spotify.com/track/7hMSysDmiuzDmecbl2ba5u) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Balance](https://open.spotify.com/album/3VfITgUbE2jcmEPelaejwz) | 2:56 | 2022-09-07 | 2022-10-05 |
 | [Bali](https://open.spotify.com/track/5MZeeySHvuMx4DoPtI6sgy) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Happiness](https://open.spotify.com/album/7tKhCsssgWuP7QVuOJw3Hd) | 2:35 | 2021-12-11 | 2022-01-06 |
 | [Baraye](https://open.spotify.com/track/5lkeYKxvxXb80SzJBjJY5h) | [Shervin Hajipour](https://open.spotify.com/artist/4O8DQCEBU9I1wQ274THitE) | [Baraye](https://open.spotify.com/album/0o0ScZ26kHmTubAB6nHezL) | 2:31 | 2022-10-18 | 2022-11-03 |
-| [Barbie](https://open.spotify.com/track/1BexE9djGgIapZuU4Gu4TU) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Barbie](https://open.spotify.com/album/1pC2NZxGKQUsW5dy5dKd74) | 2:11 | 2022-11-02 |  |
+| [Barbie](https://open.spotify.com/track/1BexE9djGgIapZuU4Gu4TU) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Barbie](https://open.spotify.com/album/1pC2NZxGKQUsW5dy5dKd74) | 2:11 | 2022-11-02 | 2022-11-09 |
 | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx) | 2:29 | 2022-02-02 | 2022-03-09 |
 | [Be Kind](https://open.spotify.com/track/1r73DoCuAo0SN5Jh80z0gC) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Be Kind](https://open.spotify.com/album/7HM12F2hFEIuQW2URxMrkv) | 2:46 | 2022-07-06 | 2022-08-04 |
 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-08-03 | 2022-09-09 |

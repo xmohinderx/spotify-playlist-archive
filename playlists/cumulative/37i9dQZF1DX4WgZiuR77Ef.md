@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-173 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+174 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Message from the Meters](https://open.spotify.com/track/0uV4hoKCnJIlveeJZKhgux) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Jeannie's Getdown](https://open.spotify.com/album/6xzRzbqzsfE3uEkcgZkKrn) | 3:06 | 2020-10-30 | 2022-04-09 |
 | [Africvillean Funk](https://open.spotify.com/track/1rbN7wvQtAYoGV5DZliziB) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Africvillean Funk](https://open.spotify.com/album/4dA1mxVyeTqlbOurVp76TN) | 3:12 | 2022-07-01 | 2022-07-29 |
 | [Africvillean Funk](https://open.spotify.com/track/7HweCGOZ6T0Kh9o64cuusn) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 3:12 | 2022-07-01 |  |
-| [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/track/2ZUIMmjpRjCzopFJl7F5EX) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/album/1IJYB2w5KHSGickzC7y0Mj) | 4:43 | 2022-05-27 |  |
+| [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/track/2ZUIMmjpRjCzopFJl7F5EX) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/album/1IJYB2w5KHSGickzC7y0Mj) | 4:43 | 2022-05-27 | 2022-11-09 |
+| [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/track/304Y32tn2MipSfI2CJSTwW) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/album/3fQwy0KsXSMCpgoF8NERyT) | 4:43 | 2022-05-27 |  |
 | [Baby Get Down](https://open.spotify.com/track/6qJkfU8aHK5NGmpAL6Nfq3) | [The Burroughs](https://open.spotify.com/artist/61xHHZBWUMoheAPbd28E3r) | [Baby Get Down](https://open.spotify.com/album/6S4OFrzckKTRRWg6T6vgUv) | 3:52 | 2021-07-23 |  |
 | [Bad Mother](https://open.spotify.com/track/4xljuYgtxgfNAHqRXJDjMe) | [The Gold Setting](https://open.spotify.com/artist/75Vs0ljvN9S4DAvNTfwSoH), [Liza Colby](https://open.spotify.com/artist/5bTibFXwZmP1FhKiHcX5iX), [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [Bad Mother](https://open.spotify.com/album/4sdGVLaafBIyRwceP96FnR) | 2:54 | 2021-04-09 |  |
 | [Bay B\. MoMa](https://open.spotify.com/track/60gfsjq0ZiSeTNozFfO8bl) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Bay B\. MoMa](https://open.spotify.com/album/6MkQxVuiyhDEXCL2JttDbc) | 4:02 | 2022-07-01 |  |

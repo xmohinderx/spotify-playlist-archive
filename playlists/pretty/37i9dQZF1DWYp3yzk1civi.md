@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 
 > Relax to the more laid back sounds from today's greatest artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,712 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,745 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 | 44 | [The Breaks](https://open.spotify.com/track/0gueawLShEbZoAfMaADOkP) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [The Breaks](https://open.spotify.com/album/0VU1pdKj120ZSfxMppb238) | 3:20 |
 | 45 | [I Don't Wanna Know](https://open.spotify.com/track/65F61kWYZEFbw4LvzZq2nn) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [I Don't Wanna Know](https://open.spotify.com/album/1N066Zst2TehlUuNPluYFf) | 3:28 |
 | 46 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 |
-| 47 | [Lost and Found](https://open.spotify.com/track/2ERDk7FT3YadvUl5VDe6TI) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Lost and Found](https://open.spotify.com/album/0aBowLSsHO6bpwyBhIV4k5) | 3:30 |
+| 47 | [Lost and Found](https://open.spotify.com/track/36XapglPUABLLmctdDn5WG) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Lost and Found](https://open.spotify.com/album/2jCUeOgbvOX6CT3JGx0ak9) | 3:30 |
 | 48 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
 | 49 | [\(I should\) take better care](https://open.spotify.com/track/4UL4KALnWgkFlKHEIJUGUH) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [\(I should\) take better care](https://open.spotify.com/album/2S6NQYSuU8alK0HCa3aRIq) | 4:34 |
 | 50 | [Bedroom Walls](https://open.spotify.com/track/6t47JIkO4NgFcInkwBx2Mm) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy) | 3:32 |
 | 51 | [Crocodiles](https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 4:00 |
 
-Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMGFmMmYzMGRhMTU5YTBiNzBkZjcyZTE4MTA4Y2I1NTU4`
+Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMDI4OTk2YWQ3Yjc2ZTFhNWQzZGI2ODQ3N2JkMmM2NGI1`

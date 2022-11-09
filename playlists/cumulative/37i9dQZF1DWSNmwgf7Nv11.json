@@ -4391,10 +4391,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 192160,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/0OgN6FQsmQV8xaFaOWF9LX"
+    },
+    {
+      "album": {
+        "name": "Personal History",
+        "url": "https://open.spotify.com/album/2dKKvtXMxAOAJsiHHu44IX"
+      },
+      "artists": [
+        {
+          "name": "Ailbhe Reddy",
+          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192160,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/3U1FsTAe4KYRaWntA3MiQY"
     },
     {
       "album": {

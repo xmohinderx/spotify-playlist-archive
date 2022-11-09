@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Jim Legxacy",
-  "num_followers": 129017,
+  "num_followers": 129104,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMGQ2YTlhMjRjYjBmMDkzOGJmMTQ5YTNmODk3YWJlMzE5",
+  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMDQ2NDQ5NTc4MGMxYjU2MTkzMDM3NGM2YzcwMGUxZDBl",
   "tracks": [
     {
       "added_at": "2022-10-23 19:19:20",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "All My Girls Like To Fight",
-        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 232712,
-      "name": "All My Girls Like To Fight",
-      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
+        "name": "All My Girls Like To Fight",
+        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 232712,
+      "name": "All My Girls Like To Fight",
+      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
         "name": "Rainforest",
         "url": "https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 162436,
       "name": "Rainforest",
       "url": "https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Often",
-        "url": "https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 135450,
-      "name": "Often",
-      "url": "https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -735,6 +719,22 @@
       "duration_ms": 192733,
       "name": "terms (feat. Dominic Fike & Denzel Curry)",
       "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Often",
+        "url": "https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "duration_ms": 135450,
+      "name": "Often",
+      "url": "https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
         "name": "Girl Eats Sun",
         "url": "https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 183769,
       "name": "Cherries",
       "url": "https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Zipcodes",
-        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Zipcodes",
-      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
         "name": "Mood Valiant",
         "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 203266,
       "name": "And We Go Gentle",
       "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Zipcodes",
+        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Zipcodes",
+      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -899,6 +899,22 @@
       "duration_ms": 312000,
       "name": "Scary Sight",
       "url": "https://open.spotify.com/track/4R9JMjQdMt7AMRis0HlF7w"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Unlimited",
+        "url": "https://open.spotify.com/album/72vlLzn1FIEi1mHwJjfsW5"
+      },
+      "artists": [
+        {
+          "name": "Jelani Blackman",
+          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
+        }
+      ],
+      "duration_ms": 178167,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2dPljTAcJMuHXwojPtsv3h"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -931,18 +947,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Unlimited",
-        "url": "https://open.spotify.com/album/72vlLzn1FIEi1mHwJjfsW5"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Jelani Blackman",
-          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 178167,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2dPljTAcJMuHXwojPtsv3h"
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -973,7 +993,7 @@
       "url": "https://open.spotify.com/track/5bdNxTwJXOD9Pn4lieRapv"
     },
     {
-      "added_at": "2022-11-08 01:33:58",
+      "added_at": "2022-11-09 02:43:39",
       "album": {
         "name": "Love is a Lottery",
         "url": "https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ"
@@ -1011,22 +1031,18 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "The Gang",
+        "url": "https://open.spotify.com/album/605XKaVg1al5g8F2FwSlSN"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Jimmy",
+          "url": "https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo"
         }
       ],
-      "duration_ms": 269413,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+      "duration_ms": 153600,
+      "name": "The Gang",
+      "url": "https://open.spotify.com/track/2pKvxpetsBNnGK2L4H64Rf"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -1047,22 +1063,6 @@
       "duration_ms": 195829,
       "name": "Vibe (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "The Gang",
-        "url": "https://open.spotify.com/album/605XKaVg1al5g8F2FwSlSN"
-      },
-      "artists": [
-        {
-          "name": "Jimmy",
-          "url": "https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "The Gang",
-      "url": "https://open.spotify.com/track/2pKvxpetsBNnGK2L4H64Rf"
     },
     {
       "added_at": "2022-10-23 19:19:20",

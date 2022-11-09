@@ -4,7 +4,7 @@
 
 > Heavy new bands you need to have an eye on\. Cover: Bloodywood
 
-108 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
+109 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Bleeding](https://open.spotify.com/track/2lpyWzEnw1eb3lz2J2oGEN) | [World Without](https://open.spotify.com/artist/51Kzkg6pl81mdxy0pbEo7L) | [Bleeding](https://open.spotify.com/album/1VCpl1Lu5xZbWhvxXEZdQ1) | 2:53 | 2022-07-29 | 2022-08-20 |
 | [BLOODSPORT](https://open.spotify.com/track/2k6EEOtVrrBa9lsvfruAVt) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [BLOODSPORT](https://open.spotify.com/album/0cP5GufwnEygN3ROzwXgVt) | 2:54 | 2022-07-29 | 2022-10-15 |
 | [Braces](https://open.spotify.com/track/3oYAMcCA1J8QGzz1q0CPHF) | [Friend](https://open.spotify.com/artist/6a89shmNCtjzoMMX47z2Iq) | [Mister Nice Guy](https://open.spotify.com/album/2tsLR3WeXcm7obFh3ZNNn5) | 1:41 | 2022-09-16 |  |
-| [Burning Throne](https://open.spotify.com/track/1GfayPeLaA9SNRp5kGG5b6) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/7banxw62PIcV3P4My3qr3k) | 3:27 | 2022-07-29 |  |
+| [Burning Throne](https://open.spotify.com/track/1GfayPeLaA9SNRp5kGG5b6) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/7banxw62PIcV3P4My3qr3k) | 3:27 | 2022-07-29 | 2022-11-09 |
+| [Burning Throne](https://open.spotify.com/track/7AL1DLcTLWyQ77xueiH8QJ) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/6Yq21ajQ4U8heAmedI5Iho) | 3:27 | 2022-11-04 |  |
 | [Burying Brightness](https://open.spotify.com/track/3nyfxtCg9RD30h3aTnbVFW) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Burying Brightness](https://open.spotify.com/album/4B4bNthhcQ9ph657TTYsbG) | 3:27 | 2022-09-30 |  |
 | [BUST IT](https://open.spotify.com/track/2VR50MI5hLSYnYRC1mAQOx) | [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc), [Ras Bootin'](https://open.spotify.com/artist/1waYSMSmhL2nSqLb3XBRSh), [EMMETH](https://open.spotify.com/artist/1C4YaCx7UmWLQrycPwu7Dy) | [BUST IT](https://open.spotify.com/album/1JaVsCab59Ls8hIjSMg6Eg) | 2:51 | 2022-09-16 |  |
 | [Call of the Witch](https://open.spotify.com/track/5THPCPokg7K1oN9VkT10nl) | [Kissing Candice](https://open.spotify.com/artist/2yt3OhRpNY6eVWDoJUlwjS) | [Call of the Witch](https://open.spotify.com/album/10FJOcVWSolAkejeUxpPSA) | 1:14 | 2022-07-29 | 2022-10-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: SKALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,078 likes - 78 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,301 likes - 78 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 36 | [Amnesia](https://open.spotify.com/track/4twfO41BhJml2pbakKniZi) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Amnesia](https://open.spotify.com/album/2ctzau5sfX05QJl5VPB7Ib) | 6:43 |
 | 37 | [Acid Voices](https://open.spotify.com/track/2LBa1pXDA014OjMj51mKA3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Acid Voices](https://open.spotify.com/album/3xRbKryQ74XoKuqabTyx3E) | 6:15 |
 | 38 | [Stargazer](https://open.spotify.com/track/1ahg9arFsLjjHvlMid4NFn) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Stargazer](https://open.spotify.com/album/7mnvQNZ0TYnGZPC4HXUUQn) | 6:13 |
-| 39 | [Izinto](https://open.spotify.com/track/1LlwsPj31pfx68XXW96vBu) | [Blindsmyth](https://open.spotify.com/artist/316jj0bjhfXGHGBEraGy7P), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Izinto](https://open.spotify.com/album/2ux1S2Nz5C0MoJhfgKIbQ0) | 4:35 |
+| 39 | [Izinto](https://open.spotify.com/track/1LlwsPj31pfx68XXW96vBu) | [Blindsmyth](https://open.spotify.com/artist/316jj0bjhfXGHGBEraGy7P), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63) | [Izinto](https://open.spotify.com/album/2ux1S2Nz5C0MoJhfgKIbQ0) | 4:35 |
 | 40 | [Talom](https://open.spotify.com/track/3mMukwl5iDMi518Uf9usgg) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Talom](https://open.spotify.com/album/5KFDMwb90MGxvAnK8ndolH) | 7:37 |
 | 41 | [Resistance](https://open.spotify.com/track/7lg9WJsAXWSyIHvBOhPZj5) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Resistance](https://open.spotify.com/album/69XdhOO9jy0S6SHL2yRUit) | 6:34 |
 | 42 | [Don't Come](https://open.spotify.com/track/4aVMFZfOt8GgmpmHw8GHby) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN) | [S.O.S\. 4 Luv](https://open.spotify.com/album/3WXh1wCypcwoXqpcjD64f1) | 5:13 |

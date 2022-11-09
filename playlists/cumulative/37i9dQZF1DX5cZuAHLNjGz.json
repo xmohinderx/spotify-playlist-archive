@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Ultimate 101 Punjabi hits with AP Dhillon",
+  "description": "Ultimate 101 Punjabi hits with Sidhu Moose Wala",
   "name": "Punjabi 101",
   "published_playlist_ids": [
     "65mo2NWVu4B5tAS7KU5k4E"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 200470,
       "name": "Info",
       "url": "https://open.spotify.com/track/2txEM0LayfSv1AOB3M1Z8R"
@@ -2965,6 +2965,24 @@
       "duration_ms": 230068,
       "name": "US (feat. Raja Kumari)",
       "url": "https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx"
+    },
+    {
+      "album": {
+        "name": "Vaar",
+        "url": "https://open.spotify.com/album/4BVZUGlil7yXxCPxGe5OwF"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140714,
+      "name": "Vaar",
+      "url": "https://open.spotify.com/track/3GUKdxhGCMLRO6Cey7V2Dk"
     },
     {
       "album": {

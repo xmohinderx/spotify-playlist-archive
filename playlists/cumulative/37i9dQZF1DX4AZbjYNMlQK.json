@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. Cover: Los Aptos",
+  "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
   "name": "Feliz Navidad",
   "published_playlist_ids": [
     "5TI9dqdb0u6anc2c8h8wVF"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 201750,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/1341yWBP78IKoC1072MwWF"
@@ -91,10 +91,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 225306,
       "name": "Arbolito De Navidad",
       "url": "https://open.spotify.com/track/3EtBprADoLj5t0pxbdgEr9"
+    },
+    {
+      "album": {
+        "name": "Navidad Con Tatiana",
+        "url": "https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z"
+      },
+      "artists": [
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153705,
+      "name": "Arre Borriquito",
+      "url": "https://open.spotify.com/track/3la1H2hlydLcLzvMiOtojp"
     },
     {
       "album": {
@@ -196,6 +214,28 @@
     },
     {
       "album": {
+        "name": "\u00a1Feliz Navidad!",
+        "url": "https://open.spotify.com/album/0M3p54IgNDKl6R1eNvvTZh"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        },
+        {
+          "name": "Jonny Alvear",
+          "url": "https://open.spotify.com/artist/6aCb9Ypr9OmEx1YEs6ZYy4"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177703,
+      "name": "Burrito Sabanero",
+      "url": "https://open.spotify.com/track/1f6KVDUrTzBTYzCfjAh5mp"
+    },
+    {
+      "album": {
         "name": "Navidad A La Mexicana",
         "url": "https://open.spotify.com/album/6dSQEC0swp6s4pkkoCtS9e"
       },
@@ -211,6 +251,28 @@
       "duration_ms": 165360,
       "name": "Campana Sobre Campana",
       "url": "https://open.spotify.com/track/5Eq8TyZn6k68VAfXCnghy4"
+    },
+    {
+      "album": {
+        "name": "Campana Sobre Campana",
+        "url": "https://open.spotify.com/album/0p5uxehHXd1VEzYfgZ20mp"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        },
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134597,
+      "name": "Campana Sobre Campana",
+      "url": "https://open.spotify.com/track/5ojQKajk76D4YyZgPSPrtm"
     },
     {
       "album": {
@@ -243,7 +305,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 143386,
       "name": "Campanas De Plata",
       "url": "https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj"
@@ -542,6 +604,24 @@
     },
     {
       "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148740,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD"
+    },
+    {
+      "album": {
         "name": "Navidad Con Mariachi",
         "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
       },
@@ -615,7 +695,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 178720,
       "name": "Llorar\u00e1s en Navidad",
       "url": "https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE"
@@ -655,6 +735,24 @@
       "duration_ms": 183772,
       "name": "Los Peces en el Rio",
       "url": "https://open.spotify.com/track/5ZqjpXE2c5ek9jJ3CpHGA9"
+    },
+    {
+      "album": {
+        "name": "Navidad con Pandora",
+        "url": "https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165306,
+      "name": "Los Peces en el R\u00edo",
+      "url": "https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf"
     },
     {
       "album": {
@@ -744,6 +842,28 @@
     },
     {
       "album": {
+        "name": "Sue\u00f1o Navide\u00f1o Vol. 1",
+        "url": "https://open.spotify.com/album/5segjXcXIviv0I60iy87FP"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Gisela",
+          "url": "https://open.spotify.com/artist/6SxnKPhYvkTKp2FtBzh6CI"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265560,
+      "name": "Mi Estrella",
+      "url": "https://open.spotify.com/track/6Db1sQZCfT3kKI73uLmFYW"
+    },
+    {
+      "album": {
         "name": "Superestrellas En Navidad",
         "url": "https://open.spotify.com/album/37KAP4I6Cmu0W2sMAV5YFH"
       },
@@ -759,7 +879,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 268440,
       "name": "Mi Estrella",
       "url": "https://open.spotify.com/track/2LZkBWdmv9zYZdWXlesVlF"
@@ -777,7 +897,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 181574,
       "name": "Mi Regalito Eres T\u00fa",
       "url": "https://open.spotify.com/track/2Oej5AvQmrjaReH7zQq7MQ"
@@ -1005,7 +1125,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 210973,
       "name": "Oh Holy Night (Instrumental)",
       "url": "https://open.spotify.com/track/1m87edJoNGUHHtcPmgGwWT"
@@ -1059,10 +1179,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 150520,
       "name": "Rodolfo el Reno de la Nariz Roja",
       "url": "https://open.spotify.com/track/6BhqbJluxEaIk6ILy03YFS"
+    },
+    {
+      "album": {
+        "name": "Mi Navidad",
+        "url": "https://open.spotify.com/album/0dk75UOmEo9FjBX7MJ4ZEK"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150520,
+      "name": "Rodolfo el Reno de la Nariz Roja",
+      "url": "https://open.spotify.com/track/6KSTgcCbtpR2AjK1dmC2pR"
     },
     {
       "album": {
@@ -1156,6 +1294,24 @@
     },
     {
       "album": {
+        "name": "Extended Play Yatra",
+        "url": "https://open.spotify.com/album/684Oha4XLJKYD3OztiXma5"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181080,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/1eLTm5I7O1U7MJ4iZt7hyU"
+    },
+    {
+      "album": {
         "name": "Happy Navidad",
         "url": "https://open.spotify.com/album/1PpiyGryY19O7Lk6L1IbFu"
       },
@@ -1167,10 +1323,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 181093,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/5lP6RiHfFtT9IkbhZAJkhK"
+    },
+    {
+      "album": {
+        "name": "Latin Navidad Vol. 3",
+        "url": "https://open.spotify.com/album/08Si3mkkv01yjfe98kQa4N"
+      },
+      "artists": [
+        {
+          "name": "Kabah",
+          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Todo Lo Que Quiero Eres Tu",
+      "url": "https://open.spotify.com/track/2fGSA4vBfyaarB9S7ke4cd"
     },
     {
       "album": {
@@ -1185,7 +1359,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 211400,
       "name": "Todo Lo Que Quiero Eres Tu",
       "url": "https://open.spotify.com/track/60kNOlbfCafJ24kztVrLzV"
@@ -1365,6 +1539,24 @@
       "duration_ms": 243626,
       "name": "Ven A Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/0dpvn7oYZIBFXGaug3SbV8"
+    },
+    {
+      "album": {
+        "name": "Eterna Navidad Celebremos",
+        "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225146,
+      "name": "Ven A Mi Casa Esta Navidad",
+      "url": "https://open.spotify.com/track/5TjdsAoTKwSilPZAOayIEW"
     },
     {
       "album": {

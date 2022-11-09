@@ -4,7 +4,7 @@
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-112 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
+113 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 | 2022-03-11 |  |
 | [Bourne](https://open.spotify.com/track/51gW2HquvIgXaGXCHHfiSW) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Moedi](https://open.spotify.com/album/391Bkpmt9iyrVGshfcHrvU) | 4:10 | 2022-03-11 |  |
 | [Capable](https://open.spotify.com/track/0VseOhxcpj5FZmX6PvJGFu) | [The Arteries of New York City](https://open.spotify.com/artist/1WplPnixjEsV4JmRmBl72V), [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ), [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Capable](https://open.spotify.com/album/4xtpYNmgwfmQ27W5Go8Eve) | 2:39 | 2022-03-11 |  |
-| [capitOl pt\. 2](https://open.spotify.com/track/4pzTjCyzDTCJHwqg8GIQCo) | [Brady Cohan](https://open.spotify.com/artist/6HLiUGOcX8sVjmmxuEeCi6) | [Studies, Vol\. 2](https://open.spotify.com/album/2hJSbSTpW1GwZRciuKTIGK) | 6:21 | 2022-03-11 |  |
+| [capitOl pt\. 2](https://open.spotify.com/track/4pzTjCyzDTCJHwqg8GIQCo) | [Brady Cohan](https://open.spotify.com/artist/6HLiUGOcX8sVjmmxuEeCi6) | [Studies, Vol\. 2](https://open.spotify.com/album/2hJSbSTpW1GwZRciuKTIGK) | 6:21 | 2022-03-11 | 2022-11-09 |
+| [capitOl pt\. 2](https://open.spotify.com/track/6MId6n0sbFkOLAxTz7r5oy) | [Brady Cohan](https://open.spotify.com/artist/6HLiUGOcX8sVjmmxuEeCi6) | [Studies, Vol\. 2](https://open.spotify.com/album/0yHDNx4hs4hd09YfpyEetZ) | 6:21 | 2022-10-04 |  |
 | [Careless Whispers](https://open.spotify.com/track/1qr3cyLVbZRrQH4jaJ0cq7) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 5:11 | 2022-08-19 |  |
 | [Cass](https://open.spotify.com/track/483UearCC3xUm09caTe015) | [The Arteries of New York City](https://open.spotify.com/artist/1WplPnixjEsV4JmRmBl72V), [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ), [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Cass](https://open.spotify.com/album/5iVr8DyMUkcuofJcshS7Gi) | 3:28 | 2022-03-11 |  |
 | [Champagne Smoke](https://open.spotify.com/track/0gzwDzpe5eoD1lwJdTPeU4) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 4:28 | 2022-03-11 |  |

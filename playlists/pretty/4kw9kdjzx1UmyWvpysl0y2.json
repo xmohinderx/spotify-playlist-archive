@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127219,
+  "num_followers": 127204,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzc2NSwwMzZjZGZjZDkzYmNhMDUzOTg0N2NmNmNmZjUzZTEzOWFjMzAzMjcz",
+  "snapshot_id": "Mzc2Nyw1YjM0MjMwNmM1NmNlNDU2MDlhZjhhNzBmY2E4MDlkMTE0YzNmMGMw",
   "tracks": [
+    {
+      "added_at": "2022-11-08 19:27:28",
+      "album": {
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/3AOoItOGEvBVpqtWGHTjtZ"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/5GRM663KWRMOo3OOcGsSlP"
+    },
     {
       "added_at": "2022-11-07 16:45:35",
       "album": {
@@ -1075,26 +1091,6 @@
       "duration_ms": 213000,
       "name": "Overcast",
       "url": "https://open.spotify.com/track/1dyoS4DZxZ30XsWlJJk4kM"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/7qTMw9yGynm49gjq2MyUC2"
-      },
-      "artists": [
-        {
-          "name": "Spag Heddy",
-          "url": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi"
-        },
-        {
-          "name": "Lalo",
-          "url": "https://open.spotify.com/artist/2of5gwyLkBz7D4phC09h3f"
-        }
-      ],
-      "duration_ms": 205611,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5P45OGJSEG8LUsdulhp6sJ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

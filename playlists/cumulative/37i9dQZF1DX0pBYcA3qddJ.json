@@ -446,6 +446,24 @@
     },
     {
       "album": {
+        "name": "Eyes on Me",
+        "url": "https://open.spotify.com/album/0GICag7B018NZ3qZdEKsso"
+      },
+      "artists": [
+        {
+          "name": "TAMIW",
+          "url": "https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214711,
+      "name": "Eyes on Me",
+      "url": "https://open.spotify.com/track/1te38MsNjzrP8I5MDeGJv7"
+    },
+    {
+      "album": {
         "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
         "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
@@ -682,6 +700,24 @@
     },
     {
       "album": {
+        "name": "HOWL",
+        "url": "https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243531,
+      "name": "HOWL",
+      "url": "https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb"
+    },
+    {
+      "album": {
         "name": "A Safe Place To Be",
         "url": "https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq"
       },
@@ -693,7 +729,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 199152,
       "name": "I Wanna See You Smile",
       "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
@@ -1152,6 +1188,24 @@
     },
     {
       "album": {
+        "name": "Give In!",
+        "url": "https://open.spotify.com/album/0FM6rlBK5y9tkGpvRzqKOZ"
+      },
+      "artists": [
+        {
+          "name": "Johnnivan",
+          "url": "https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243945,
+      "name": "Otherwise",
+      "url": "https://open.spotify.com/track/4pREdUyxkaupSQsjrefNhk"
+    },
+    {
+      "album": {
         "name": "Opening for \"Exception\" / oxygen [from \"Exception\" Soundtrack]",
         "url": "https://open.spotify.com/album/4n6KyU61hys0riXmvIQMYs"
       },
@@ -1352,6 +1406,24 @@
     },
     {
       "album": {
+        "name": "Saihate",
+        "url": "https://open.spotify.com/album/71QVVWnO8BDQIkBLD1U1ex"
+      },
+      "artists": [
+        {
+          "name": "APOGEE",
+          "url": "https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224418,
+      "name": "Saihate",
+      "url": "https://open.spotify.com/track/1jcSB32MP8GhWnqfLRndIJ"
+    },
+    {
+      "album": {
         "name": "Landscape in Portrait",
         "url": "https://open.spotify.com/album/24uG3LnJjohdiMMRw2DLfw"
       },
@@ -1527,7 +1599,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 136322,
       "name": "tasogare",
       "url": "https://open.spotify.com/track/3tDQvzH52bu9gXmTtMSboM"
@@ -1668,6 +1740,24 @@
     },
     {
       "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "Upon You",
+      "url": "https://open.spotify.com/track/37EGDFUeDj02buaxZfnX4G"
+    },
+    {
+      "album": {
         "name": "Karol Szymanowski: Piano Works",
         "url": "https://open.spotify.com/album/6iF2vN5SK1pXAn2jdND1Zq"
       },
@@ -1701,7 +1791,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 224298,
       "name": "vi (almost equal to) ix",
       "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
@@ -2251,7 +2341,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 205920,
       "name": "\u6708\u306b\u5420\u3048\u308b",
       "url": "https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ"
@@ -2327,7 +2417,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 193454,
       "name": "\u8d64\u3068\u9752",
       "url": "https://open.spotify.com/track/6AsQ1wqbmYSRmc3S9mxbaj"

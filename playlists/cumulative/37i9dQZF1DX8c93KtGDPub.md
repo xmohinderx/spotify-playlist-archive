@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-222 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
+223 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,8 +174,9 @@
 | [Snow](https://open.spotify.com/track/2Dx7CbP88KSx88nmvXHARg) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/7JBhb8SSKqeTMWsSytyfJA) | 3:38 | 2021-12-24 | 2022-07-29 |
 | [Snow](https://open.spotify.com/track/4yNKWjEFADa5f11RI1DaKC) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:38 | 2021-12-24 |  |
 | [Snow Angel](https://open.spotify.com/track/1wYYeL1U58MfPFHRRfdunQ) | [Sugar & The Hi Lows](https://open.spotify.com/artist/3ocspfRKSu50vCoUYexOpy) | [Snow Angel](https://open.spotify.com/album/3StV5cF5hyUlvJeIWmPlv6) | 3:19 | 2021-12-24 |  |
-| [Snowglobe Blizzard](https://open.spotify.com/track/10hTYWeav6h5PWy9WEynXP) | [Smoke Fairies](https://open.spotify.com/artist/7wbZFLV3wwTqyrKNCJ8Y8D) | [Wild Winter](https://open.spotify.com/album/6I5ek4BMNjS8rVP2RgaYpw) | 3:14 | 2021-12-24 |  |
+| [Snowglobe Blizzard](https://open.spotify.com/track/10hTYWeav6h5PWy9WEynXP) | [Smoke Fairies](https://open.spotify.com/artist/7wbZFLV3wwTqyrKNCJ8Y8D) | [Wild Winter](https://open.spotify.com/album/6I5ek4BMNjS8rVP2RgaYpw) | 3:14 | 2021-12-24 | 2022-11-09 |
 | [Snowglobe Blizzard](https://open.spotify.com/track/4k2B3bnSHrA2gq6OFy8ESD) | [Smoke Fairies](https://open.spotify.com/artist/7wbZFLV3wwTqyrKNCJ8Y8D) | [Wild Winter](https://open.spotify.com/album/0qLkFNPD4Mfe8BTZHeERTs) | 3:14 | 2021-12-24 | 2022-07-29 |
+| [Snowglobe Blizzard](https://open.spotify.com/track/524Hkqd49nCSXSGKiHEYBN) | [Smoke Fairies](https://open.spotify.com/artist/7wbZFLV3wwTqyrKNCJ8Y8D) | [Wild Winter](https://open.spotify.com/album/7IKc2ybIK4Il7t8NeeLDjR) | 3:14 | 2021-12-24 |  |
 | [Song for the Angels](https://open.spotify.com/track/4MIDnbVdmaa5sIbdR5BBTN) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Bodies and Minds](https://open.spotify.com/album/2Psey6KZhbYxogDvrqFlo6) | 5:19 | 2021-12-24 |  |
 | [Songs for the Angels](https://open.spotify.com/track/6mNrNhAqFSzQxDldRilzMh) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Folk & Proud](https://open.spotify.com/album/5hR6eNfAo8Y0tHf8xpIrHU) | 5:18 | 2021-12-24 | 2022-07-29 |
 | [Star Star \(Live\)](https://open.spotify.com/track/18YH3E7x91v6AC3lhGiolf) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074) | [Strict Joy \[Deluxe Edition\]](https://open.spotify.com/album/5dA8EHydNLWo29675jA2cj) | 9:49 | 2021-12-24 | 2022-07-29 |

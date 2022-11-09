@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacar\u00e9",
-  "num_followers": 789633,
+  "num_followers": 789658,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2OTI0MCwwMDAwMDAwMDgyNDRiODAyYjI3MjdjYjQ2NWE0ZGMyYTZiMjFkMDY4",
+  "snapshot_id": "MTY2NTc2OTI0MCwwMDAwMDAwMDQwMDIyNGU2MjFhMDhiN2Q3MWFlYTczMzZhYjIwNzFh",
   "tracks": [
     {
       "added_at": "2022-10-07 03:03:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
+        "name": "VAI MENINA",
+        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 122435,
+      "name": "VAI MENINA",
+      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
         "name": "TOMA",
         "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 129654,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
-        "name": "VAI MENINA",
-        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 122435,
-      "name": "VAI MENINA",
-      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
     },
     {
       "added_at": "2022-10-07 03:03:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
-        "name": "BALAN\u00c7A A GLOCK",
-        "url": "https://open.spotify.com/album/42TXAMMWEFePqDR95N7Cpm"
-      },
-      "artists": [
-        {
-          "name": "Mc Jajau",
-          "url": "https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm"
-        },
-        {
-          "name": "DJ LG",
-          "url": "https://open.spotify.com/artist/3a185Ryw0UxPiGvB3mS2EJ"
-        }
-      ],
-      "duration_ms": 155713,
-      "name": "BALAN\u00c7A A GLOCK",
-      "url": "https://open.spotify.com/track/4PUjVQcrNhH85XXyXnnjBd"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
         "name": "Sentou e Gostou",
         "url": "https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 228922,
       "name": "Agora Vai Sentar",
       "url": "https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
+        "name": "BALAN\u00c7A A GLOCK",
+        "url": "https://open.spotify.com/album/42TXAMMWEFePqDR95N7Cpm"
+      },
+      "artists": [
+        {
+          "name": "Mc Jajau",
+          "url": "https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm"
+        },
+        {
+          "name": "DJ LG",
+          "url": "https://open.spotify.com/artist/3a185Ryw0UxPiGvB3mS2EJ"
+        }
+      ],
+      "duration_ms": 155713,
+      "name": "BALAN\u00c7A A GLOCK",
+      "url": "https://open.spotify.com/track/4PUjVQcrNhH85XXyXnnjBd"
     },
     {
       "added_at": "2022-10-07 03:03:00",
