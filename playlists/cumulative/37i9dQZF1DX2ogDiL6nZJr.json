@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 299299,
       "name": "A-Train",
       "url": "https://open.spotify.com/track/54YPsBTRPJAIITS8oND6wx"
@@ -322,6 +322,24 @@
     },
     {
       "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
+    },
+    {
+      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/3p8rCayq59uMygGvrl3dUk"
       },
@@ -391,7 +409,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 284640,
       "name": "Baby's Arms",
       "url": "https://open.spotify.com/track/19GJyFd7ZzBb2Lbq34yYoe"
@@ -2348,6 +2366,24 @@
     },
     {
       "album": {
+        "name": "Le temps se fuit",
+        "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210706,
+      "name": "Le temps se fuit",
+      "url": "https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ"
+    },
+    {
+      "album": {
         "name": "I Am Easy to Find",
         "url": "https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN"
       },
@@ -3677,7 +3713,7 @@
       },
       "artists": [
         {
-          "name": "Zeck",
+          "name": "zeck",
           "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
         }
       ],

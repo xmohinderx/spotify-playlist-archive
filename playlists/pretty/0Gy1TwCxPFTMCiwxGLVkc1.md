@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 
 > Kids music the whole family can enjoy\. Enjoy new tunes and old favorites on this kids playlist, and make sure to check back for more!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 87,580 likes - 40 songs - 1 hr 35 min
+[Digster](https://open.spotify.com/user/digster.fm) - 87,566 likes - 40 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

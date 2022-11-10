@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5471jEhaq8X.md) - [plain]
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: Marca Registrada, Luis R Conriquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,820 likes - 200 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,935 likes - 200 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Kali\-B, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 7 | [Bouhdi](https://open.spotify.com/track/2NRaSmTlbNmwYYDsDMlgYR) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Méditerranée](https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt) | 3:07 |
 | 8 | [Cabana](https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg) | [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Cabana](https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl) | 2:57 |
 | 9 | [Sabba7 Sabba7 \- صبح صبح](https://open.spotify.com/track/7sMJXgBb0ArDsXNIwTkO0t) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP), [Mahib Sleat](https://open.spotify.com/artist/6MmPo4vru1QVS2uWhTQHT4) | [Sabba7 Sabba7 \(صبح صبح\)](https://open.spotify.com/album/0NGKUsDTyyoBnwGJNk9UVp) | 2:29 |
-| 10 | [ARMANI](https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN) | [Papii](https://open.spotify.com/artist/1kM5oRCVuQgb3oOtGqGHu8) | [ARMANI](https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1) | 3:24 |
+| 10 | [ARMANI](https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN) | [Papii](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [ARMANI](https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1) | 3:24 |
 | 11 | [Kalam Kteer](https://open.spotify.com/track/2MPhQqiPRsHJUVZqAW3xNi) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Kalam Kteer](https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a) | 2:52 |
 | 12 | [Taqa](https://open.spotify.com/track/6m6vWsgO06r0MvxIbs1rhN) | [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Taqa](https://open.spotify.com/album/4uKTZ5zdxhhkIQTIjrQr6x) | 2:30 |
 | 13 | [Think Twice](https://open.spotify.com/track/1uj9pZGxrh39WcgPdsx7DU) | [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6), [LrdBrn](https://open.spotify.com/artist/1JSjqgvUtMYWDmnYsmI5mJ) | [Think Twice](https://open.spotify.com/album/2zHKIVOACJGhAflSCqU1UD) | 2:13 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 15 | [محي الدين مصدق](https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [محي الدين مصدق](https://open.spotify.com/album/753aDZAO4IINS5sZRFtChk) | 2:30 |
 | 16 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 |
 | 17 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 |
-| 18 | [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 |
-| 19 | [Lonely Night](https://open.spotify.com/track/6bQLBvEkp8GNL5tQrmBA5A) | [Dirty Backseat](https://open.spotify.com/artist/1Hk62j2Aypk6ykn1lgLPhf) | [Lonely Night](https://open.spotify.com/album/0qFSrdCbQowcEfJPnulGzF) | 4:10 |
+| 18 | [Lonely Night](https://open.spotify.com/track/6bQLBvEkp8GNL5tQrmBA5A) | [Dirty Backseat](https://open.spotify.com/artist/1Hk62j2Aypk6ykn1lgLPhf) | [Lonely Night](https://open.spotify.com/album/0qFSrdCbQowcEfJPnulGzF) | 4:10 |
+| 19 | [Faqat Ala Bali](https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Faqat Ala Bali](https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P) | 6:43 |
 | 20 | [Sound of the Gun](https://open.spotify.com/track/68V26HNk7ey1NE3VkHvO0N) | [Blue Vein River](https://open.spotify.com/artist/5zLSqhWdzWowLvrg0Nory0) | [Subliminal Reality EP](https://open.spotify.com/album/6zzP88NtgWx46fn02EW4xU) | 4:21 |
 | 21 | [Mr.Fancy pants](https://open.spotify.com/track/1aPgmpANFrfl3NIViRhuif) | [Soundsmudge](https://open.spotify.com/artist/2rNNLhzmcxJpgi6iofbrhj) | [Mr.Fancy pants](https://open.spotify.com/album/5S2wmqGNIEn1rYiZWUXkLh) | 4:21 |
 | 22 | [Nar w Rosas](https://open.spotify.com/track/7L3TurwY1wZQuBAGlGP43V) | [Lagham](https://open.spotify.com/artist/3sy97UUvGVuFTNEwl6H409) | [Nar w Rosas](https://open.spotify.com/album/4vLQRhlcPxEbtA5q7Uv677) | 5:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Enti Wain](https://open.spotify.com/track/6DnxbM3gMaRubNRtZPPEGe) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8), [Farah Ezz](https://open.spotify.com/artist/7uxrmh9NRirDOmHxXGblih) | [Enti Wain](https://open.spotify.com/album/6my5pq16NfKv3xiY2QSbSD) | 3:38 |
 | 50 | [Bako](https://open.spotify.com/track/5nO62GzQVuXyos3rrh4v7f) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [Bako](https://open.spotify.com/album/57iBcfM3UGV6AaNYjDbmcc) | 3:03 |
 
-Snapshot ID: `MTY2NzkzNzkwMCwwMDAwMDAwMGE0OTkxMDZjNjA4YmY4M2UxYTY1ZmEwNzQzNmFhZGVm`
+Snapshot ID: `MTY2Nzk3OTgzMywwMDAwMDAwMGUwNTc0MDQ0NjgyY2NjMmYxZWQ0MzdhNzcwZTE4MTQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from goddard\. & Charlotte Haining.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,615 likes - 85 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,749 likes - 85 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 53 | [Adobe \- dj poolboi Remix](https://open.spotify.com/track/3tz7ulXz3SAzha1DLPEO0P) | [Arkangel](https://open.spotify.com/artist/4crDJZ41E0jOp0XX5MXJJy), [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [Adobe \(dj poolboi Remix\)](https://open.spotify.com/album/719iLw2FH6RYhuIncjXjYa) | 3:34 |
 | 54 | [Crush Me](https://open.spotify.com/track/1g0LoTFshwdlf6hHlSmTQp) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Crush Me](https://open.spotify.com/album/6UHUHBb9N9zPJ82G3V5HX6) | 4:02 |
 | 55 | [Warning](https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Warning](https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp) | 5:36 |
-| 56 | [Purple Edge](https://open.spotify.com/track/0KX1WIkJABs6laxaMR4PzQ) | [Helmet](https://open.spotify.com/artist/4kHDGhQ8I0RnxFBr27RPHp) | [Purple Edge EP](https://open.spotify.com/album/6dc9GE1Rkg4He3frvm4iEW) | 8:36 |
+| 56 | [Purple Edge](https://open.spotify.com/track/0KX1WIkJABs6laxaMR4PzQ) | [Helmet](https://open.spotify.com/artist/1ed0tZqOmgMtPwfCeTy8fz) | [Purple Edge EP](https://open.spotify.com/album/6dc9GE1Rkg4He3frvm4iEW) | 8:36 |
 | 57 | [Who We Are](https://open.spotify.com/track/3vRA721uK5h75UqA2iLHbo) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Who We Are](https://open.spotify.com/album/7opTdafmhvA73DkrAJmxfM) | 4:27 |
 | 58 | [BLUE LIGHT](https://open.spotify.com/track/0lvb2AhHFswSk5p4eC9LMJ) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe) | [BLUE LIGHT](https://open.spotify.com/album/4GqBH0grTle1DOFgB2Jlem) | 4:42 |
 | 59 | [Holiday \- Fatboy Slim Dub Remix](https://open.spotify.com/track/0lP3Py6pxRnxGt55wjpFt6) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Holiday \(Fatboy Slim Remix\)](https://open.spotify.com/album/2XuFhPbMv5V6ZC4YbxuPUS) | 4:24 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 78 | [Aruda](https://open.spotify.com/track/4PJThfd1HgQH2voP3wudW2) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Aruda](https://open.spotify.com/album/3WWiy18arnZpiJz727FSMI) | 4:12 |
 | 79 | [Deja Vu](https://open.spotify.com/track/0jwWG0oSeKd5CefJa4jcbe) | [Monarke](https://open.spotify.com/artist/5uPPX33s71WjX25P1DfqVk) | [Deja Vu](https://open.spotify.com/album/5pmPKOWQ4evmNDfYjl9MiP) | 7:28 |
 | 80 | [All I Need](https://open.spotify.com/track/4Ow25CjXxVl5LqKZmwWG7u) | [Nohan](https://open.spotify.com/artist/6noXPSulR5BWdkL2sUUg09) | [Anjunadeep Explorations 21: Curated by Tony McGuinness](https://open.spotify.com/album/41esjlsNQiM9ZClHzARJBA) | 3:51 |
-| 81 | [show you how i feel](https://open.spotify.com/track/6wWCtq74zDnHwSclgA39ND) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Carl Chaste](https://open.spotify.com/artist/27aQ2UEugFgzcWHQBNlK8g) | [dance music for dancing, vol\. 3](https://open.spotify.com/album/1QNXeJr28NVOMVaY2nNRM0) | 3:37 |
+| 81 | [show you how i feel](https://open.spotify.com/track/6wWCtq74zDnHwSclgA39ND) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Carl Chaste](https://open.spotify.com/artist/27aQ2UEugFgzcWHQBNlK8g) | [Dance Music for Dancing, Vol\. 3](https://open.spotify.com/album/1QNXeJr28NVOMVaY2nNRM0) | 3:37 |
 | 82 | [The Rhythm](https://open.spotify.com/track/3I0C4PWS8mjzzcaF7rJXYz) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc) | [The Rhythm](https://open.spotify.com/album/3G2jApT4kBLCrujdsusCul) | 2:47 |
 | 83 | [Moth On The Map](https://open.spotify.com/track/4eiSjTv5hadjSnzmviBsOb) | [Kermode](https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe) | [Moth On The Map](https://open.spotify.com/album/1Qhv7XXMoElb9jNgYl1kPc) | 2:57 |
 | 84 | [4u](https://open.spotify.com/track/1mxFY4BYtVFniY8iOApOSq) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [4u](https://open.spotify.com/album/2G8tgCIiwC3rPyYK0bLxKx) | 2:35 |

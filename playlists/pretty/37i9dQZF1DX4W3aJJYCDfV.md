@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Drake & 21 Savage \(pictured\), Selena Gomez, Joji and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,375 likes - 108 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,421 likes - 108 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

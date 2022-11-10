@@ -4,7 +4,7 @@
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-53 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/6J4UiToUci4KVXg8qFi6GM)
+55 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/6J4UiToUci4KVXg8qFi6GM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Destino ao Céu](https://open.spotify.com/track/25nCwxGYMiwJeEbqitBkjn) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Destino ao Céu](https://open.spotify.com/album/7mGVlHAO59mS0XChbEDRUm) | 3:46 | 2022-09-02 |  |
 | [Deus Grandão](https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Grandão](https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn) | 4:11 | 2022-09-02 |  |
 | [Erguei as Mãos](https://open.spotify.com/track/7GTVVZiren9LxoyNW4pATK) | [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Mara Lima e Seus Amiguinhos, Vol\. 5](https://open.spotify.com/album/5hCu7mordTwYqr2n2rW0LR) | 3:17 | 2022-09-02 |  |
-| [Eu Canto pra Jesus](https://open.spotify.com/track/2xsZveD2EsMMjp7JbIVu3h) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Eu Canto pra Jesus](https://open.spotify.com/album/2WHmaYUFvRDjwnlm43omei) | 3:02 | 2022-09-02 |  |
+| [Eu Canto pra Jesus](https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Eu Canto pra Jesus](https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ) | 3:01 | 2022-10-14 |  |
+| [Eu Canto pra Jesus](https://open.spotify.com/track/2xsZveD2EsMMjp7JbIVu3h) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Eu Canto pra Jesus](https://open.spotify.com/album/2WHmaYUFvRDjwnlm43omei) | 3:02 | 2022-09-02 | 2022-11-10 |
 | [Eu Nasci](https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Eu Nasci](https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl) | 3:34 | 2022-09-02 |  |
 | [Família Perfeita](https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Família Perfeita](https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V) | 3:16 | 2022-09-02 |  |
 | [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 | 2022-09-02 |  |
@@ -45,7 +46,8 @@
 | [Não Temos Medo do Fogo](https://open.spotify.com/track/3tnh93byTIcpyhZYsLN93O) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Minha Vida É uma Viagem 5](https://open.spotify.com/album/2DCbdwhK6SoBW9XawSSrbK) | 3:05 | 2022-09-02 |  |
 | [O Amor do Nosso Deus](https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer) | [Crianças Diante do Trono](https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5) | [Crianças Diante do Trono](https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk) | 5:10 | 2022-09-02 |  |
 | [Obra do Criador \- Ao Vivo](https://open.spotify.com/track/6H4h2cnyfeTnqAHfdqi5dw) | [Louvor Videira Kids](https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu) | [Comigo Sonhou](https://open.spotify.com/album/3tbgkAsVPkMHK4TBOwIwpV) | 3:07 | 2022-09-02 |  |
-| [Oceanos](https://open.spotify.com/track/1IAuelibP1msP0p6ztsLpV) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Oceanos](https://open.spotify.com/album/3FleqT33sYIhpOTkWYKbsM) | 3:54 | 2022-09-02 |  |
+| [Oceanos](https://open.spotify.com/track/1IAuelibP1msP0p6ztsLpV) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Oceanos](https://open.spotify.com/album/3FleqT33sYIhpOTkWYKbsM) | 3:54 | 2022-09-02 | 2022-11-10 |
+| [Oceanos](https://open.spotify.com/track/2Ehjl2vMGZhWsNwRco3hMu) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Oceanos](https://open.spotify.com/album/3vt5PFQ9JUQbeL7AnfsK2j) | 3:54 | 2022-10-14 |  |
 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 | 2022-09-02 |  |
 | [Por Dentro, Fora, Alto, Embaixo](https://open.spotify.com/track/5zuOwjPMZkCfzTa9mE8I87) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [3 Palavrinhas, Vol\. 3](https://open.spotify.com/album/4Aw3KlIumWtvdpamB7DMsU) | 1:57 | 2022-09-02 |  |
 | [Pororó](https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr) | [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Sou Livre](https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M) | 4:12 | 2022-09-02 |  |

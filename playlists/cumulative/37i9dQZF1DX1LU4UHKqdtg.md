@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: SEVENTEEN
 
-409 songs - 22 hr 32 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+410 songs - 22 hr 36 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Cherish](https://open.spotify.com/track/0GABq6cuB9kugOVuCREeN8) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Cherish](https://open.spotify.com/album/2ZsdFGDJlvsEFOEY1GkMht) | 3:24 | 2022-06-19 | 2022-08-10 |
 | [CHERRY \-Japanese ver.\-](https://open.spotify.com/track/4L7CEFGWkFlifYNk1gY2MI) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [CHERRY \-Japanese ver.\-](https://open.spotify.com/album/3NSuUNKnOXfOkA5FpMCmRQ) | 3:33 | 2021-12-23 | 2022-01-17 |
 | [Child](https://open.spotify.com/track/5HaYRuf3zAfCb8RSO9LLea) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Child \- SM STATION : NCT LAB](https://open.spotify.com/album/4XGMXl3AMjb11YIKdeujj1) | 3:31 | 2022-02-04 | 2022-04-06 |
+| [CHILLIN](https://open.spotify.com/track/3EfwJBSA0uvCH7DgPnMcl6) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [RIDE](https://open.spotify.com/album/615GQfWbnnV04urJ2wBvGk) | 3:13 | 2022-11-08 |  |
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-03-01 | 2022-04-13 |
 | [Chocolate \- Japanese Ver.](https://open.spotify.com/track/4Wfwahl7IC8iHwPAM3di7Z) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Chocolate \(Japanese Ver.\)](https://open.spotify.com/album/6qIiU9PzJzMuQVJRIoAO9a) | 2:53 | 2021-12-23 | 2022-01-15 |
 | [Christmas EveL](https://open.spotify.com/track/266QhbDtB6QapuIYRBaLFe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL) | 2:58 | 2021-12-23 | 2022-02-02 |

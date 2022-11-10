@@ -50,7 +50,7 @@
       "artists": [
         {
           "name": "Papii",
-          "url": "https://open.spotify.com/artist/1kM5oRCVuQgb3oOtGqGHu8"
+          "url": "https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs"
         }
       ],
       "date_added": "2022-11-01",
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 200337,
       "name": "Bafaker Kteer",
       "url": "https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD"
@@ -393,6 +393,24 @@
       "duration_ms": 218252,
       "name": "Enti Wain",
       "url": "https://open.spotify.com/track/6DnxbM3gMaRubNRtZPPEGe"
+    },
+    {
+      "album": {
+        "name": "Faqat Ala Bali",
+        "url": "https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P"
+      },
+      "artists": [
+        {
+          "name": "Gharam Electric",
+          "url": "https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403861,
+      "name": "Faqat Ala Bali",
+      "url": "https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp"
     },
     {
       "album": {

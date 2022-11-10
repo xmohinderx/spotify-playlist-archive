@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,392 likes - 16 songs - 46 min 34 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,441 likes - 16 songs - 46 min 34 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 15 | [R\-A\-T\-C\-H\-E\-T \(FNF FREESTYLE\) \- Remix](https://open.spotify.com/track/5CbtJ0GNYO7wlybagnOLrg) | [Nosym](https://open.spotify.com/artist/0nKzbENsP5VM3J28NTNxQ4), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [R\-A\-T\-C\-H\-E\-T \(FNF FREESTYLE\) \[Remix\]](https://open.spotify.com/album/2cMuNulihFoYJFPwWaNHtr) | 2:30 |
 | 16 | [Better Thangs \(with Summer Walker & GloRilla\) \- Remix](https://open.spotify.com/track/12dDT2AnpscZ1zL72RvPGR) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Better Thangs \(Remix\)](https://open.spotify.com/album/3atBxuFcUVkdnXTsMehmHT) | 3:35 |
 
-Snapshot ID: `Mjc3OTg2MzcsMDAwMDAwMDA3MmJkNWZkYjZhNzI4MTFmNGY5YjcwOWQ1MmIyYzk0YQ==`
+Snapshot ID: `Mjc4MDA0MzIsMDAwMDAwMDBjZTljNjYwMmYxY2Y4MGFlN2QxY2I3NDJhNWIzNjRhMA==`

@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-259 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
+261 songs - 16 hr 19 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Lingering Love](https://open.spotify.com/track/6Edccn5z5RF4fb0nzFfpzH) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4yyxKPCiD1A7kQkfidacBu) | 3:36 | 2021-12-09 | 2022-07-29 |
 | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/track/2my0HGJw82GQrF3xhnTUVS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/album/1Px3Gber8VEiOAMsRzf0vY) | 3:59 | 2021-12-09 | 2022-07-19 |
 | [A\-Train](https://open.spotify.com/track/0ktYrEjj1nNE7O5fjPuZnn) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Voyage Voyage](https://open.spotify.com/album/0ywaz1IM15sKDoQMZ2shoR) | 4:59 | 2021-12-09 | 2022-07-29 |
-| [A\-Train](https://open.spotify.com/track/54YPsBTRPJAIITS8oND6wx) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Voyage Voyage](https://open.spotify.com/album/0cwcEJiVLcBtY84ojgKYsc) | 4:59 | 2022-07-21 |  |
+| [A\-Train](https://open.spotify.com/track/54YPsBTRPJAIITS8oND6wx) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Voyage Voyage](https://open.spotify.com/album/0cwcEJiVLcBtY84ojgKYsc) | 4:59 | 2022-07-21 | 2022-11-10 |
 | [A.M\. RADIO](https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:57 | 2022-07-21 |  |
 | [A.M\. RADIO](https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [A.M\. RADIO](https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz) | 3:57 | 2021-12-09 | 2022-07-29 |
 | [All Fall Down](https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [All Fall Down](https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT) | 3:27 | 2021-12-09 | 2022-07-01 |
@@ -25,10 +25,11 @@
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-21 |  |
 | [Arms Of Who](https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms of Who](https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2) | 4:07 | 2021-12-09 | 2022-10-25 |
 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 | 2021-12-09 |  |
+| [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2022-11-09 |  |
 | [August](https://open.spotify.com/track/2EzlXmONynvb3xIUL5CD2M) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [August](https://open.spotify.com/album/3p8rCayq59uMygGvrl3dUk) | 2:48 | 2021-12-09 | 2022-04-21 |
 | [August 10](https://open.spotify.com/track/4I59UjiR1vDGGdLmdvFoJO) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:25 | 2022-07-21 |  |
 | [August 10](https://open.spotify.com/track/4VBR3KptORIDW9dRAeLpCn) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/42j41uUwuHZT3bnedq2XtM) | 4:25 | 2022-04-14 | 2022-04-21 |
-| [Baby's Arms](https://open.spotify.com/track/19GJyFd7ZzBb2Lbq34yYoe) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [Baby's Arms](https://open.spotify.com/album/3EnRrBJSdDB4tq7dKKfiT3) | 4:44 | 2022-09-30 |  |
+| [Baby's Arms](https://open.spotify.com/track/19GJyFd7ZzBb2Lbq34yYoe) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [Baby's Arms](https://open.spotify.com/album/3EnRrBJSdDB4tq7dKKfiT3) | 4:44 | 2022-09-30 | 2022-11-10 |
 | [Baby's Arms](https://open.spotify.com/track/1fU38kdhVLyU6vVhvoCP9f) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [Baby's Arms](https://open.spotify.com/album/1D9sKlavapVhzY6jp6e82U) | 4:44 | 2022-04-14 | 2022-04-21 |
 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2022-06-30 |  |
 | [Beautiful](https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Beautiful](https://open.spotify.com/album/1jzakZByotV11MyGwCti6j) | 4:22 | 2021-12-09 |  |
@@ -134,6 +135,7 @@
 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 | 2022-07-21 |  |
 | [King of the World](https://open.spotify.com/track/1pVZ5kZSc5FIqSg3TLIqdu) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/7GVO4vtxp0eEWsETAWk3nZ) | 3:38 | 2022-04-14 | 2022-04-19 |
 | [Laurel Wreath](https://open.spotify.com/track/2QSnh34VJ8e1qQNEgL0HJe) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Laurel Wreath](https://open.spotify.com/album/50vNOMEn4An0khY8xKe1cY) | 4:33 | 2022-04-14 | 2022-04-21 |
+| [Le temps se fuit](https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Le temps se fuit](https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt) | 3:30 | 2022-11-09 |  |
 | [Light Years](https://open.spotify.com/track/1QWDJMmEcR2cYrFENBZkLS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN) | 3:33 | 2021-12-09 | 2022-07-28 |
 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 | 2022-07-21 |  |
 | [Like An Eagle](https://open.spotify.com/track/5hz3fnewQs5j3bzd3bABvh) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Like An Eagle](https://open.spotify.com/album/3cGY8YdYgxIfqcQXA43EyU) | 4:09 | 2022-01-21 | 2022-06-14 |
@@ -206,7 +208,7 @@
 | [seasonal affective disorder](https://open.spotify.com/track/32svp2B3O8zQk5TnlLOYUd) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [seasonal affective disorder](https://open.spotify.com/album/0lfPNOLpQdNkFeQ4w0iwqM) | 3:55 | 2021-12-09 | 2022-07-29 |
 | [Serious](https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Serious](https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw) | 2:58 | 2022-04-14 | 2022-08-17 |
 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 | 2021-12-09 |  |
-| [she goes](https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m) | [Zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [she goes](https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122) | 3:09 | 2022-09-30 |  |
+| [she goes](https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [she goes](https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122) | 3:09 | 2022-09-30 |  |
 | [Shine On](https://open.spotify.com/track/5AjWtMkHCCBm840EzpKgDT) | [Hanreti](https://open.spotify.com/artist/0klosoqeWJb81c06DtPKyR) | [Shine On](https://open.spotify.com/album/5d2KcdIgiqHvaRcFWtjqJD) | 5:24 | 2021-12-09 | 2022-07-29 |
 | [Sink In](https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:20 | 2022-07-21 |  |
 | [Sink In](https://open.spotify.com/track/6gQGeiEAMch2cIUPKzJQqM) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Sink In](https://open.spotify.com/album/6HZYZSyNok8gox8NBG7sst) | 3:20 | 2021-12-09 | 2022-07-28 |

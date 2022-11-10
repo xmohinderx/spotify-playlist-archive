@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,279 likes - 95 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,316 likes - 95 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 77 | [Teeth](https://open.spotify.com/track/223l7zXLoIvKo5Obfw4vIo) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Pulling Teeth](https://open.spotify.com/album/3KSdfgM7AbMcbFDMTq0cbU) | 4:17 |
 | 78 | [Faded](https://open.spotify.com/track/7fINGUr5tkeh9Vq3S62vHc) | [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J), [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8) | [Faded EP](https://open.spotify.com/album/5DV8MKFi5lfSxNy8mZDmn4) | 4:20 |
 | 79 | [Rolls Royce Rub](https://open.spotify.com/track/2SpJOlZPnoZxRqIOaRXHyU) | [Conrad Subs](https://open.spotify.com/artist/62Vn4DolLwSkkSS4fEXKLH) | [Gold Selection](https://open.spotify.com/album/5iyd03OEOvtPKMK3xAqcgw) | 5:13 |
-| 80 | [Maxim](https://open.spotify.com/track/2u30LHLeAlYl2vXyfwExPs) | [Need For Mirrors](https://open.spotify.com/artist/0bR5osQX9Kn0wmtUPQQhze) | [Mutiny](https://open.spotify.com/album/0r61t5Zlkv4qNYTfMvvQE0) | 4:55 |
+| 80 | [Maxim](https://open.spotify.com/track/1skNONa0IA1cwwQlRZtGJV) | [Need For Mirrors](https://open.spotify.com/artist/0bR5osQX9Kn0wmtUPQQhze) | [Mutiny](https://open.spotify.com/album/5oGETlr4eCqwIs2UoQuL7Z) | 4:55 |
 | 81 | [So Good](https://open.spotify.com/track/2jbNkB6CIW8vSwZMWknd8g) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [Denham Audio & Friends](https://open.spotify.com/album/42xpRc6lrJwY7yeXyhiOy9) | 5:54 |
 | 82 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
 | 83 | [What We Got](https://open.spotify.com/track/08FeR6y1Vv4tBDK1ztZi0L) | [Instra:mental](https://open.spotify.com/artist/1oSvdOGMjWupD3SJWcJOgg), [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y) | [What We Got / Seren's Theme](https://open.spotify.com/album/3LbvS9E4tFr5dS7LeCPjK1) | 5:00 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 94 | [What Is Jungle](https://open.spotify.com/track/5cilLV9owJSyEAqmYpEKyK) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ), [Phoebe White](https://open.spotify.com/artist/7rHWchDwoxRpe1C2dyEWO2) | [What Is Jungle](https://open.spotify.com/album/3v0R5iUrmnYKxq4vJM9La2) | 3:44 |
 | 95 | [Show Me](https://open.spotify.com/track/6wBXGUAcDsK3T7fidop2Gc) | [Jubei](https://open.spotify.com/artist/748MGeLsgxl6GVGuDvHbsY), [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y) | [Show Me](https://open.spotify.com/album/6tUgcJ42LlOwmQiUEuaYhF) | 4:33 |
 
-Snapshot ID: `MTY2Njk3Mzc0NCwwMDAwMDAwMDVhZTAzMjliNDc1MzdjOTE1YzdmYzM5ODIzMjk3NzU4`
+Snapshot ID: `MTY2Njk3Mzc0NCwwMDAwMDAwMGI0Y2NlNDY5NDJiMjczMTVlNjU1N2ZkY2U1ZWUzOTMx`

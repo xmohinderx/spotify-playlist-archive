@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KN7YrOIxQD.md) - [plain]
 
 > Los éxitos del momento en Centroamérica, con Shakira y Ozuna en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,065 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,165 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

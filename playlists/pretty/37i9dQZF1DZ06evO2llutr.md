@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 
 > This is Zach Bryan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,014 likes - 38 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,419 likes - 38 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 37 | [Open the Gate](https://open.spotify.com/track/3Ngp6vv1OGyAaQLcNbqRMz) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Open the Gate](https://open.spotify.com/album/1BlxSkd0XuXeU15NKhFfDc) | 3:54 |
 | 38 | [Codeine Pills \- Part One](https://open.spotify.com/track/3OBXZXFYDouFlKdlFO6NLC) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:16 |
 
-Snapshot ID: `Mjc3OTg2MzcsMDAwMDAwMDBhMWFjNzAzOTM1ZWUxMTQ4ZDBmNmJkYjVjYTQ3ZmYyNw==`
+Snapshot ID: `Mjc4MDA0MzMsMDAwMDAwMDAwYzFiNGY5NzRmYWQwZTcyNDczMjNlOGQ2N2EwMjJhYQ==`

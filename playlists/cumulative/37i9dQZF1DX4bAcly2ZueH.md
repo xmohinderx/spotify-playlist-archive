@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-101 songs - 5 hr 17 min - not published yet
+102 songs - 5 hr 21 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Nights in Ikebukuro](https://open.spotify.com/track/6Fpb2vui5MXFW3zmiL4D9O) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Eshajori](https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI) | 4:34 | 2022-10-11 |  |
 | [No Love](https://open.spotify.com/track/3zVqGejJKVPlGUEWRO6ZLk) | [92elm](https://open.spotify.com/artist/5YCia3zgXxdXMKePBNMkJk) | [No Love](https://open.spotify.com/album/0DMtWYAnYSKxRA65AHlODV) | 2:57 | 2022-10-11 |  |
 | [no one else](https://open.spotify.com/track/0P983JO9vCqhq3Tv7arhNa) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Alys](https://open.spotify.com/artist/4cS8r9JlwhqLafUWAXkzHx), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [no one else](https://open.spotify.com/album/55GSHcWOrbvL233s62HEPG) | 2:18 | 2022-10-11 |  |
-| [Nude](https://open.spotify.com/track/62AVqsyuz1R8C9eh0uqm5B) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Nude](https://open.spotify.com/album/1Yfp4upzjyXY3VRIDELf43) | 4:16 | 2022-10-11 |  |
+| [Nude](https://open.spotify.com/track/3xPfXIuRKZwhiS61HGN6Rr) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Ocean Highway](https://open.spotify.com/album/4lt2GflHtr9T823EkbC5fA) | 4:16 | 2022-10-11 |  |
+| [Nude](https://open.spotify.com/track/62AVqsyuz1R8C9eh0uqm5B) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Nude](https://open.spotify.com/album/1Yfp4upzjyXY3VRIDELf43) | 4:16 | 2022-10-11 | 2022-11-10 |
 | [one hymn](https://open.spotify.com/track/5uJPjiuGC70uRlFyoYS5Af) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Light years \(THE NORTH FACE Sphere 2022 S/A\)](https://open.spotify.com/album/3AR39FZ5jLZJltCVdzQiXN) | 7:10 | 2022-10-11 |  |
 | [outset](https://open.spotify.com/track/6ZpPt8jptwLcWmEmqQ95OO) | [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [January](https://open.spotify.com/album/4lu9rOm32Ieevp1INYmzNQ) | 2:16 | 2022-10-11 |  |
 | [Paradise](https://open.spotify.com/track/5waRnWPjrrRfUF2j0J0WLq) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [Paradise](https://open.spotify.com/album/4P7ZLYY4dnkwO98cNv426b) | 3:09 | 2022-10-11 |  |

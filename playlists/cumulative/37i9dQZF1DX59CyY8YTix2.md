@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: クレナズム \(Culenasm\)
 
-663 songs - 1 day 18 hr 36 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+665 songs - 1 day 18 hr 42 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,11 @@
 | [8つ上のあなたに恋をした](https://open.spotify.com/track/4iADbOKVeDoHs508tQdVcC) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [8つ上のあなたに恋をした](https://open.spotify.com/album/6YmhTM28XqjZmKjbJFgK2N) | 4:32 | 2022-06-02 | 2022-07-09 |
 | [A revolution](https://open.spotify.com/track/6JbWY04QxDrzoQgKUuILPu) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/2VjBSHmjbkuXRzIWS2QRKa) | 4:46 | 2022-08-17 | 2022-08-24 |
 | [Aiaru Sekai](https://open.spotify.com/track/7FzuvU29KpohVxXr4DFcEN) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [Aiaru Sekai](https://open.spotify.com/album/62D26AgLZHyTMsLFYrAN4R) | 3:16 | 2022-09-08 | 2022-10-05 |
+| [Aitakuchigafusagaranai](https://open.spotify.com/track/6nDywyY09XZUFyLJqRWYLM) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [Aitakuchigafusagaranai](https://open.spotify.com/album/1JONN1eC3bu3XR779JRguI) | 3:33 | 2022-11-08 |  |
 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 | 2022-07-28 | 2022-08-17 |
 | [Alien loves you!](https://open.spotify.com/track/5H6HRP1OkUQFh887EVZxwT) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [On This Planet](https://open.spotify.com/album/50jTBdULiq1mR4B8DG5m6e) | 4:14 | 2022-05-26 | 2022-07-20 |
 | [ame.](https://open.spotify.com/track/2BcQjx72Q6VRQSL5eNYTsm) | [ハク。](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [若者日記](https://open.spotify.com/album/63YrtaSILAbg11a9527ZSI) | 4:07 | 2022-05-31 | 2022-06-21 |
+| [Aoihonoo](https://open.spotify.com/track/4BfW34U1yJail0vgm0mMLp) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [Aoihonoo](https://open.spotify.com/album/2tdb1fHEFZiEHSHarnKtrK) | 2:20 | 2022-11-08 |  |
 | [Bad Night Vacation](https://open.spotify.com/track/3X2HDWf5nmr2W7R3a5L6AM) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Bad Night Vacation](https://open.spotify.com/album/0qIXBKlETofgMbzBX31x63) | 3:10 | 2022-06-02 | 2022-06-12 |
 | [Balloon](https://open.spotify.com/track/18QFpkJFiMBeOBzZMxtV8y) | [Boundary](https://open.spotify.com/artist/7EYH7GNNmSQu0MqLFBupH9) | [Balloon](https://open.spotify.com/album/74C7JKHUV6QsQVK7ZuZRwx) | 3:29 | 2022-08-30 | 2022-09-07 |
 | [Band Music](https://open.spotify.com/track/7dNNG12RobAL4jLXJCYnli) | [the huckleberries](https://open.spotify.com/artist/5EWgOiRmZxdcCQOHyJQmUq) | [Band Music](https://open.spotify.com/album/4mZ5grA9HLvcfF9qgxk1Kg) | 3:33 | 2022-07-07 | 2022-07-09 |
@@ -654,13 +656,13 @@
 | [野良猫](https://open.spotify.com/track/4iGcLJ6h3xMVCHkfIzcEvt) | [かよこ](https://open.spotify.com/artist/1HaO4bAT5s6s3IxECwVM51) | [たまゆら](https://open.spotify.com/album/6USkxo2bnfcRIEdgzN28vE) | 3:31 | 2022-06-28 | 2022-07-20 |
 | [金木犀](https://open.spotify.com/track/716IoEeGrd4VcPuw1YwZWx) | [Tsuru](https://open.spotify.com/artist/5qlAFhKHt8dw8mUtoOXing) | [金木犀](https://open.spotify.com/album/0HmiQXnGsn6KpH50ibc65o) | 2:40 | 2022-07-07 | 2022-07-13 |
 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 | 2022-07-28 |  |
-| [開いた口が塞がらない](https://open.spotify.com/track/45nNwIoElyd9fzKaQG6SLD) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [開いた口が塞がらない](https://open.spotify.com/album/7dTaUk2mFVryOOEJ8xdHDR) | 3:33 | 2022-11-08 |  |
+| [開いた口が塞がらない](https://open.spotify.com/track/45nNwIoElyd9fzKaQG6SLD) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [開いた口が塞がらない](https://open.spotify.com/album/7dTaUk2mFVryOOEJ8xdHDR) | 3:33 | 2022-11-08 | 2022-11-10 |
 | [関係のない人](https://open.spotify.com/track/3WlAqL1Vaei9e84PDNh5FH) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [関係のない人](https://open.spotify.com/album/6gcvBSWLvo4zpdPYQDiZPS) | 3:33 | 2022-05-26 | 2022-07-14 |
 | [限界LOVERS \~Battle Orchestra\~](https://open.spotify.com/track/6MDSUhNh6SoXVGCZAEhTzF) | [SHOW\-YA](https://open.spotify.com/artist/1GLStwjGJcUvkHGeCVgBEp) | [限界LOVERS \~Battle Orchestra\~](https://open.spotify.com/album/2hKAqKHIwRJNwpiwLixIQ1) | 4:08 | 2022-05-26 | 2022-07-15 |
 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 | 2022-07-21 |  |
 | [雨に唄えば](https://open.spotify.com/track/38EFP5EhjiAP5tvEDHwUwx) | [Roomania](https://open.spotify.com/artist/6Bt0jCjfp1hkUC9WoTu95A) | [雨に唄えば](https://open.spotify.com/album/5pgZnxIkw411LWujn2nii9) | 3:51 | 2022-05-31 | 2022-07-27 |
 | [青い](https://open.spotify.com/track/4KvyuTmcrOet6WqRikmQUb) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [赤裸々](https://open.spotify.com/album/6wRtSzdO7anqoLWbIlgznm) | 4:09 | 2022-06-23 | 2022-07-24 |
-| [青い炎](https://open.spotify.com/track/3nyvk1nuR347CtYhCR7zDu) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [青い炎](https://open.spotify.com/album/34qIhT57OrCSu1lofhjTc3) | 2:20 | 2022-11-08 |  |
+| [青い炎](https://open.spotify.com/track/3nyvk1nuR347CtYhCR7zDu) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [青い炎](https://open.spotify.com/album/34qIhT57OrCSu1lofhjTc3) | 2:20 | 2022-11-08 | 2022-11-10 |
 | [青を掬う](https://open.spotify.com/track/2917sge1opN5LbWy8IsIzu) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [青を掬う](https://open.spotify.com/album/28ZRPnbsRseTQvZWN8HFVE) | 3:59 | 2022-06-30 | 2022-07-29 |
 | [青信号](https://open.spotify.com/track/4ZjvWensztp3x1vWqjyL8E) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [青信号](https://open.spotify.com/album/17AIgLlXnLfSSHmTnLrFH1) | 2:25 | 2022-05-26 | 2022-06-01 |
 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 | 2022-10-13 |  |

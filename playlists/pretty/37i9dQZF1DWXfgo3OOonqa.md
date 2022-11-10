@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > spooky season 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,316 likes - 74 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,374 likes - 74 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Abigail Osborn
 
-322 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+323 songs - 17 hr 14 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Flood](https://open.spotify.com/track/7uHxkxA2hcETeuDp5seg4E) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Flood](https://open.spotify.com/album/3W3WfVjJJiXFZyALqfESLc) | 2:37 | 2022-02-04 | 2022-03-18 |
 | [Fucked Up Together](https://open.spotify.com/track/3ol5hkZ8PSLXW2fVfxsgP7) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Fucked Up Together](https://open.spotify.com/album/5lhKFQ0Jn0Zfc5VciiiP61) | 3:59 | 2022-01-14 | 2022-03-12 |
 | [Funeral](https://open.spotify.com/track/4BvRbNPdT7ORpX8h70FrFo) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Funeral](https://open.spotify.com/album/2FXHQdFvhYwP62nBazYaAq) | 3:31 | 2022-08-26 |  |
-| [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-05-27 |  |
+| [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-05-27 | 2022-11-10 |
 | [Getting Older](https://open.spotify.com/track/3ug0z5meuf80xze4Pq7KUf) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [Getting Older](https://open.spotify.com/album/0QlI1E0LgBtZNHeCGt0WSI) | 2:45 | 2022-04-01 | 2022-10-01 |
 | [Getting Used To](https://open.spotify.com/track/3bQFa2vK0P38iUrwYGc3Ul) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Getting Used To](https://open.spotify.com/album/5wnt2FQ51s2p5jnqHIXNOg) | 2:51 | 2022-04-29 | 2022-08-06 |
 | [girl like me](https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [girl like me](https://open.spotify.com/album/46ZPRtDJULJaHrTupdMMED) | 2:58 | 2022-02-11 | 2022-04-02 |
@@ -144,6 +144,7 @@
 | [I'm in a Rut](https://open.spotify.com/track/0W5JUrUOQmQbTmUOQwk7vx) | [Sophie Pecora](https://open.spotify.com/artist/1djGyQAjyVQh0HWCYMHCcB) | [I'm in a Rut](https://open.spotify.com/album/2JQiACEDZjhS8MmaCgqo6n) | 2:58 | 2022-04-15 | 2022-09-03 |
 | [I'm not there yet](https://open.spotify.com/track/5wPkADSHUuNOwVQ21QOlZs) | [MALINDA](https://open.spotify.com/artist/4gKo3LXoxHriLS6CBKThAU) | [I'm not there yet](https://open.spotify.com/album/01cipgct2Fs6B4erVHVbB6) | 3:40 | 2022-10-14 |  |
 | [I'm Sorry, Tokyo](https://open.spotify.com/track/31eHodIKm5jNVeXjhqevNU) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [I'm Sorry, Tokyo](https://open.spotify.com/album/3pBTeNfzCh6eu6ZyCtufac) | 3:34 | 2022-01-14 | 2022-04-16 |
+| [If I Died Last Night](https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [If I Died Last Night](https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5) | 2:44 | 2022-11-09 |  |
 | [If I Had Stayed](https://open.spotify.com/track/2C84D0vtpGcohO5yqEnF9o) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/0m8Vg18eqPH7maMYhzyBKB) | 2:11 | 2022-01-14 | 2022-03-12 |
 | [If It's Not You](https://open.spotify.com/track/45DsipA4OgPmKUvwz2ctEH) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [If It's Not You](https://open.spotify.com/album/5E8CU9zmc0U9Bw1QGm9oOk) | 3:11 | 2022-02-11 | 2022-04-29 |
 | [If Nobody Likes U](https://open.spotify.com/track/7aHpcQcGlehH1LNJaTHUkW) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [If Nobody Likes U](https://open.spotify.com/album/1BjzbpWTiPQQchpat72gCH) | 3:33 | 2022-10-28 |  |

@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Gustavo Mioto, Mari Fernandez
 
-101 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
+102 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Mal Feito \- Ao Vivo](https://open.spotify.com/track/5719MEdRQcH4c3phXqX7WN) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Mal Feito \(Ao Vivo\)](https://open.spotify.com/album/6wM2qL8ddXGiEMPy44Wt8I) | 2:57 | 2022-01-17 |  |
 | [Me Ame Mais](https://open.spotify.com/track/4iavXH4dDUMA8yAabnUhSI) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 3:49 | 2021-12-31 | 2022-01-17 |
 | [Meio Fio \- Ao Vivo](https://open.spotify.com/track/1t5dhHyXMwdbAcI3EQRqFV) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo Em São Paulo Vol\. 2](https://open.spotify.com/album/0V3ZGohMB2SF82xhUEN8QC) | 2:33 | 2022-08-12 |  |
-| [Melhor Ser uma Saudade](https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Tarja Preta, Ep\. 1](https://open.spotify.com/album/5BDWrnqQRfs2wSre2V7GbY) | 2:38 | 2022-02-04 |  |
+| [Melhor Ser uma Saudade](https://open.spotify.com/track/5IcPYzR2bkS4W3MabMpi4Z) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Tarja Preta](https://open.spotify.com/album/5QBgkxSxKSL0miMmONVo8a) | 2:38 | 2022-11-08 |  |
+| [Melhor Ser uma Saudade](https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Tarja Preta, Ep\. 1](https://open.spotify.com/album/5BDWrnqQRfs2wSre2V7GbY) | 2:38 | 2022-02-04 | 2022-11-10 |
 | [Meu Número \- Ao Vivo](https://open.spotify.com/track/3XF598RmEUF3XW4XKo1lyP) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2ybspxBvzQhRsdPR85s2s9) | 3:28 | 2022-05-20 |  |
 | [Meus Vícios \- Ao Vivo](https://open.spotify.com/track/2PtpfX7sX870xeOfdTMyx2) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo In Goiânia Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/4ASvXhH1cvPOV9ay3waCki) | 2:31 | 2022-10-14 |  |
 | [Minha Cópia Atual \- Ao Vivo](https://open.spotify.com/track/4HpRywZJgzkXXYLKJ0mLiY) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 6\)](https://open.spotify.com/album/5Z5Y76DPTwvgg02i4gS6OT) | 3:03 | 2022-04-08 |  |

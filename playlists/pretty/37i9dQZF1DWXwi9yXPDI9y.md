@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,629 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,801 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 81 | [Bounce Blues](https://open.spotify.com/track/0okDPCmxPLULCyLZM8fxI7) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 4:31 |
 | 82 | [Moonglow](https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:56 |
 | 83 | [Darn That Dream \- Live In Los Angeles, 1954](https://open.spotify.com/track/6BLqrmuRTePFJEbmSNCilF) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Dinah Jams \(Live\)](https://open.spotify.com/album/2QjkCel3cxXA573yPStwVg) | 5:14 |
-| 84 | [Ballade For Very Tired And Very Sad Lotus Eaters](https://open.spotify.com/track/0blYAolw9V5F0EmOqt94VX) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Duke's In Bed](https://open.spotify.com/album/39Q7MYB7Mlx4I6JW3Sjuqu) | 3:23 |
-| 85 | [Little White Lies](https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Swings Lightly](https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH) | 2:34 |
+| 84 | [Little White Lies](https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Swings Lightly](https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH) | 2:34 |
+| 85 | [Angel Eyes](https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Angel Eyes](https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW) | 8:48 |
 | 86 | [Autumn Leaves \- Instrumental Version](https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Complete Roost Recordings](https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64) | 3:01 |
-| 87 | [Angel Eyes](https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Angel Eyes](https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW) | 8:48 |
-| 88 | [There Is No Greater Love](https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Wailing With Lou](https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf) | 6:53 |
-| 89 | [Trav'lin Light](https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 3:44 |
-| 90 | [L'Adieu](https://open.spotify.com/track/009y1uS2vVXmeGnFOf2757) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [New Time, New 'Tet](https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP) | 5:38 |
-| 91 | [Little Girl Blue](https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Ballads](https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR) | 7:14 |
-| 92 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 |
-| 93 | [Am I Blue? \- Take 2](https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:44 |
-| 94 | [You Better Go Now](https://open.spotify.com/track/064J1edY5qOTLlWqhDScD5) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [Rojo](https://open.spotify.com/album/5a7kLOKVUt6vf0KznST8Pl) | 5:11 |
+| 87 | [There Is No Greater Love](https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Wailing With Lou](https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf) | 6:53 |
+| 88 | [Trav'lin Light](https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 3:44 |
+| 89 | [L'Adieu](https://open.spotify.com/track/009y1uS2vVXmeGnFOf2757) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [New Time, New 'Tet](https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP) | 5:38 |
+| 90 | [Little Girl Blue](https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Ballads](https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR) | 7:14 |
+| 91 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 |
+| 92 | [Am I Blue? \- Take 2](https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:44 |
+| 93 | [You Better Go Now](https://open.spotify.com/track/064J1edY5qOTLlWqhDScD5) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [Rojo](https://open.spotify.com/album/5a7kLOKVUt6vf0KznST8Pl) | 5:11 |
+| 94 | [Mad About The Boy](https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Free](https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec) | 7:16 |
 | 95 | [Time On My Hands](https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 4:18 |
-| 96 | [Mad About The Boy](https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Free](https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec) | 7:16 |
+| 96 | [Come Rain Or Come Shine](https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Verve Jazz Masters 43](https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe) | 4:21 |
 | 97 | [My Funny Valentine](https://open.spotify.com/track/1IZc3qoaLTUY5pGiygza3h) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [After Glow](https://open.spotify.com/album/6ip7LJNKry1lGgpfklpxFC) | 4:20 |
-| 98 | [Come Rain Or Come Shine](https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Verve Jazz Masters 43](https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe) | 4:21 |
-| 99 | [Everything Depends On You](https://open.spotify.com/track/7GsqpMfeEg024UNF8aQfDF) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:25 |
-| 100 | [There Is No Greater Love](https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:34 |
+| 98 | [Everything Depends On You](https://open.spotify.com/track/7GsqpMfeEg024UNF8aQfDF) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:25 |
+| 99 | [There Is No Greater Love](https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:34 |
+| 100 | [I Didn't Know What Time It Was](https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Crazy And Mixed Up](https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO) | 3:57 |
 
-Snapshot ID: `MTY2Njc3NDM2OSwwMDAwMDAwMGNmYTI2NzA5YWQ1MmM3ODM2NzkxNGE4ZjFmOGE4ZGFh`
+Snapshot ID: `MTY2Nzk4NTk3NSwwMDAwMDAwMGZjMzBkOTU3N2ZiNWYzYmQyMDQwMTc1M2U0ZWFkNDA0`

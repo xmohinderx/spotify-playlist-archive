@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Drugdealer
 
-687 songs - 1 day 15 hr 18 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+688 songs - 1 day 15 hr 22 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,7 +521,8 @@
 | [Satan](https://open.spotify.com/track/42G1tGNkv09Oe4i30Xqxbx) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Satan / Jacob Rose](https://open.spotify.com/album/5pryPQr48Emi38L8bGqsN6) | 3:16 | 2022-03-04 | 2022-04-29 |
 | [Say It](https://open.spotify.com/track/30JVtfd4ayV6g4OylyesV5) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Say It](https://open.spotify.com/album/18iJRLRwdzvZAzeb82ApaT) | 3:14 | 2022-01-28 | 2022-04-26 |
 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 | 2022-09-23 |  |
-| [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 | 2022-08-19 |  |
+| [Sepsis](https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs) | 3:48 | 2022-10-21 |  |
+| [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 | 2022-08-19 | 2022-11-10 |
 | [September](https://open.spotify.com/track/6PFnjv46kOBFeS7LxECpmW) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [September](https://open.spotify.com/album/5aFPMP0QGfvZJ7jn45MNLr) | 2:58 | 2021-04-30 | 2022-04-29 |
 | [Set it on Fire](https://open.spotify.com/track/0OSFDCHge2YXQb6045oIfi) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Set it on Fire](https://open.spotify.com/album/1r28208lod8MaMRGCFP6Fl) | 3:33 | 2021-04-02 | 2022-04-29 |
 | [Shadow](https://open.spotify.com/track/0uHlIwDfRNoOu6POZitYkV) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Shadow](https://open.spotify.com/album/4pZBOq2y6jPmJ1D3WIMPp2) | 2:36 | 2021-10-29 | 2022-04-29 |

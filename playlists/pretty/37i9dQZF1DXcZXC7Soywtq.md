@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZXC7Soywtq.md) - [plain]
 
 > ملتقي أصوات النساء العربيات! الغلاف: سميرة سعيد
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,067 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,094 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

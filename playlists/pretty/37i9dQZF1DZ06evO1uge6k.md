@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,850 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,962 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [Woke up with Wood](https://open.spotify.com/track/5DAWFvcrsfMOkLwGvxLcjG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:45 |
 | 50 | [Over You](https://open.spotify.com/track/0df15uIXfk3GdUQYjQNJYe) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura](https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L) | 4:29 |
 
-Snapshot ID: `Mjc3OTg2MzgsMDAwMDAwMDA5MTQ2YTUzNzgzZTE5ZGRkODZmY2I5Y2IwNTc4ZWViOQ==`
+Snapshot ID: `Mjc4MDA0MzMsMDAwMDAwMDAyZmE5Y2M0MGY0N2NlNmVhNjg5MWZkMTMxZDBlMzAzYw==`

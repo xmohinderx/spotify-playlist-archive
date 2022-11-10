@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 152961,
       "name": "BackOutsideBoyz",
       "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
@@ -1981,7 +1981,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 225439,
       "name": "Broke Boys",
       "url": "https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8"
@@ -6089,7 +6089,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 399153,
       "name": "Hours In Silence",
       "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
@@ -7694,6 +7694,24 @@
     },
     {
       "album": {
+        "name": "Kv\u0117puoti Nustosiu",
+        "url": "https://open.spotify.com/album/0uPdsYSnFpP9kMsiuPN0vr"
+      },
+      "artists": [
+        {
+          "name": "Justinas Jarutis",
+          "url": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206572,
+      "name": "Kv\u0117puoti Nustosiu",
+      "url": "https://open.spotify.com/track/3YYU51BqPjZjoWBYezWUXs"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -8857,7 +8875,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
@@ -17207,7 +17225,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
@@ -17919,7 +17937,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "\u0160okam L\u0117tai",
       "url": "https://open.spotify.com/track/149qQkZez6yujONJspKw7U"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,535 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,604 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 99 | [Es wird scho glei dumpa](https://open.spotify.com/track/7N37Qn9wKn2f6EoRiKqTNe) | [Jazzrausch Bigband](https://open.spotify.com/artist/2pYHY1BQbcGFSW18EoXdkw), [Julian Hesse](https://open.spotify.com/artist/50s70RZ1etLUykkYClPs9U) | [Es wird scho glei dumpa](https://open.spotify.com/album/67Uq3OnYDYvQBRVoenXv7Z) | 3:13 |
 | 100 | [Farmer's Market](https://open.spotify.com/track/0ajHKnwJuMptJqbhtxSuxU) | [Annie Ross](https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy) | [Improvisations for the Human Voice](https://open.spotify.com/album/6VztBHhA1uzWKMYo2QarJd) | 2:46 |
 
-Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMDJiMTEyMGI2MzRhMDc1MjY4MWZiYTRlNjg3ZGI2ODMx`
+Snapshot ID: `MTY2ODAwNzk3NCwwMDAwMDAwMDhkYzhkNWVjMmM2YzE4NzAyNzBiMGRkMGI0OGIxMzk3`

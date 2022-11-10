@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Wunderhorse
 
-318 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+319 songs - 17 hr 56 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [Self Portrait](https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Self Portrait](https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2) | 3:32 | 2022-09-08 | 2022-09-30 |
 | [Sell Out](https://open.spotify.com/track/5aWaPqgkheottumavM0tix) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Sell Out](https://open.spotify.com/album/1CTbodOT5kXvCLAyD2poEZ) | 3:07 | 2022-10-13 |  |
 | [Sentimental Animal](https://open.spotify.com/track/7xMCnyJZvWYjRG4JD5NwGe) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Sentimental Animal](https://open.spotify.com/album/5FLjveWHRuBl6xnzoOldnc) | 4:35 | 2021-03-09 | 2022-01-17 |
-| [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 | 2022-08-18 |  |
+| [Sepsis](https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs) | 3:48 | 2022-10-13 |  |
+| [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 | 2022-08-18 | 2022-11-10 |
 | [She Loves Me Not](https://open.spotify.com/track/2NqRNsah7TakalaozEJUkB) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/7vPYFd75wPqJn9UjIfFkhY) | 2:38 | 2022-04-01 | 2022-08-19 |
 | [She Loves Me Not](https://open.spotify.com/track/5HQqtwfb3UtZSJUzvoSiVl) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/7CKujk9GsIiPldom4TUvZN) | 2:38 | 2021-07-16 | 2022-07-29 |
 | [Show & Tell](https://open.spotify.com/track/5lKLRqfjytzxOGJtqOZqxF) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Show & Tell](https://open.spotify.com/album/6rlVrcewSVgwBENyMbu5Hj) | 3:27 | 2022-02-04 | 2022-09-09 |

@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 229714,
       "name": "Ana Li Bghit",
       "url": "https://open.spotify.com/track/4p1sxxbjtfhWQfyaF2mm5d"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 204624,
       "name": "Finek",
       "url": "https://open.spotify.com/track/6BJ8rKfrRf4U1u3CGGvgTV"
@@ -661,6 +661,24 @@
       "duration_ms": 260799,
       "name": "Galbi",
       "url": "https://open.spotify.com/track/7Bri5HtRLTiCq17j3ogbH8"
+    },
+    {
+      "album": {
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322370,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew"
     },
     {
       "album": {
@@ -1627,6 +1645,24 @@
       "duration_ms": 151546,
       "name": "TOKA TOKA",
       "url": "https://open.spotify.com/track/28ewsI8YFCN66x4tLDQpeO"
+    },
+    {
+      "album": {
+        "name": "Tunisie",
+        "url": "https://open.spotify.com/album/6Ru27IhNy926jX1r4dpa0G"
+      },
+      "artists": [
+        {
+          "name": "Aur\u00e9lie Saada",
+          "url": "https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216520,
+      "name": "Tunisie",
+      "url": "https://open.spotify.com/track/1fj8TuCYneYtKsVmIJG4N6"
     },
     {
       "album": {

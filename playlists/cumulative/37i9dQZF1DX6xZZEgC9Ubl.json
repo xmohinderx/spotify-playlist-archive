@@ -13472,6 +13472,24 @@
     },
     {
       "album": {
+        "name": "DISORDER",
+        "url": "https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI"
+      },
+      "artists": [
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120428,
+      "name": "WASTE",
+      "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
+    },
+    {
+      "album": {
         "name": "Somethjngs Wrong",
         "url": "https://open.spotify.com/album/7sxn8a7d5TY8NpgoFFEA4j"
       },
@@ -13543,7 +13561,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 156585,
       "name": "watch me miss (feat. Jomie)",
       "url": "https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0"

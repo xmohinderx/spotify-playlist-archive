@@ -1100,6 +1100,24 @@
     },
     {
       "album": {
+        "name": "C-Note - Live",
+        "url": "https://open.spotify.com/album/7397gM3NEPihmOn5FqrTRe"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340213,
+      "name": "Osaka - Live from One Nite Alone Tour 2002",
+      "url": "https://open.spotify.com/track/00VcdK7TplYqEfSyU7daNR"
+    },
+    {
+      "album": {
         "name": "The Scientific Method, Vol 2",
         "url": "https://open.spotify.com/album/7gf1BNF4YoliT6y24RSUhb"
       },

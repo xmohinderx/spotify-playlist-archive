@@ -1378,6 +1378,28 @@
     },
     {
       "album": {
+        "name": "Impala",
+        "url": "https://open.spotify.com/album/7CYDzdTlTA0FV1KkJsR7ca"
+      },
+      "artists": [
+        {
+          "name": "Nissa",
+          "url": "https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149571,
+      "name": "Impala",
+      "url": "https://open.spotify.com/track/3TYAP8JTrp84JQuk6Z5Gkm"
+    },
+    {
+      "album": {
         "name": "Infinito al Doble",
         "url": "https://open.spotify.com/album/1wVslOIwbHczIgpjluf6FP"
       },
@@ -3581,7 +3603,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 199000,
       "name": "XL",
       "url": "https://open.spotify.com/track/3pEg3izEeG5LzBHZkykbMH"

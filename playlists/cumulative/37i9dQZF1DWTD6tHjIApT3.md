@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Uru
 
-856 songs - 2 day 8 hr 22 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+858 songs - 2 day 8 hr 33 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Bestie](https://open.spotify.com/track/3pkix1zjSHcGJAzKmGUvTo) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Bestie](https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg) | 2:49 | 2022-09-20 |  |
 | [BITTER RAIN feat\. 藤原さくら](https://open.spotify.com/track/1eAajYXtoLKSr7afc6hSfA) | [Yuji Ohno & Lupintic Six](https://open.spotify.com/artist/58YNdEUQRt7LNccL1icwYL), [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [ルパン三世 PART6 オリジナル・サウンドトラック2 『LUPIN THE THIRD PART6\~WOMAN』](https://open.spotify.com/album/3UkmyUwXGkks6iSqx2K3vw) | 3:18 | 2022-06-07 | 2022-07-24 |
 | [blank sky](https://open.spotify.com/track/47zYH3NaL6XtTZb4BtejbR) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [It's you](https://open.spotify.com/album/2YACr8RMXS8zRo5fBTPUYV) | 5:10 | 2022-05-29 | 2022-07-28 |
+| [Blink](https://open.spotify.com/track/3dg2D7oJvKvSK2SrjNKC4l) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Blink](https://open.spotify.com/album/2S3jWaGHznX4BPiRZJThWe) | 4:10 | 2022-11-08 |  |
 | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/track/7fK4beOeMicuDybE4TupFm) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/album/3kCaoPjv4u2Usa6kO7S6vu) | 4:24 | 2022-05-29 | 2022-07-26 |
 | [Bloody Mary](https://open.spotify.com/track/1MQ2qrtlL8rByi9PlecX0H) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [Bloody Mary](https://open.spotify.com/album/2w0SXIVuRUC3P5leDHdGDQ) | 4:36 | 2022-06-02 | 2022-07-13 |
 | [Bloom](https://open.spotify.com/track/6pt9fZEfESI6uluywicYnz) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Bloom](https://open.spotify.com/album/5ZkZOSUTwVRWrYh3JArLNv) | 3:04 | 2022-05-31 |  |
@@ -153,6 +154,7 @@
 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 | 2022-08-18 | 2022-08-24 |
 | [Getting Stronger, but so blue](https://open.spotify.com/track/0eojcffysQBv5qUnwBxJwH) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 3:19 | 2022-08-18 | 2022-09-30 |
 | [Ginger](https://open.spotify.com/track/5kuaoj580FY2PFNes0kqC3) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Ginger](https://open.spotify.com/album/0msyMtUaewaEQKPlKjK5cU) | 3:22 | 2022-05-29 | 2022-07-29 |
+| [Gips](https://open.spotify.com/track/0sHJqALJte0dgyJyblz46D) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [The World Where You Are 1](https://open.spotify.com/album/41nlPakLyZvpX5GfkwHAbU) | 6:41 | 2022-11-08 |  |
 | [Girl](https://open.spotify.com/track/1TVuQ54AaNhpE7QmBakvtp) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Girl](https://open.spotify.com/album/4es0Pxx1C9K59o1HPmp0JU) | 3:42 | 2022-08-30 | 2022-09-07 |
 | [Gokyuchu](https://open.spotify.com/track/3P1hy53LptV8AhNe5Gh1tm) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hateshinai Futari](https://open.spotify.com/album/7E8CvB7huaCPvAoKQSVstA) | 5:17 | 2022-10-11 | 2022-10-19 |
 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 | 2022-05-31 | 2022-11-04 |
@@ -511,7 +513,7 @@
 | [ぼちぼち銀河 \- Takuro Okada Remix](https://open.spotify.com/track/1xxJ0QaQjymIQhmcJ2nJGv) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [ぼちぼち銀河 \- Takuro Okada Remix](https://open.spotify.com/album/6bU2H4oyVVYyJXcL6D6JR3) | 3:34 | 2022-07-19 | 2022-07-27 |
 | [まだ会えてないのに \- Prod.上野大樹](https://open.spotify.com/track/628GmSA7GYmZWgxMYO1PMS) | [みさき](https://open.spotify.com/artist/48XWQ7slyWKPTKAHY4qYtU) | [まだ会えてないのに \(Prod.上野大樹\)](https://open.spotify.com/album/0LBt3aYmultj4Jm7MhP0gO) | 4:13 | 2022-08-02 | 2022-08-06 |
 | [まっしろ](https://open.spotify.com/track/1UROqDjIRx4Hqk7rDzzVDg) | [しなの椰惠](https://open.spotify.com/artist/0YJZTnahX8UVUKMW4FwXIo) | [まっしろ](https://open.spotify.com/album/5AY2E5KuaCh1I52oSBd4cv) | 4:13 | 2022-06-30 | 2022-07-28 |
-| [まばたき](https://open.spotify.com/track/7yziDV8OaAjHeaWkOV9JoE) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [まばたき](https://open.spotify.com/album/4cp4oSx0Vnt1QwMq20KB24) | 4:10 | 2022-11-08 |  |
+| [まばたき](https://open.spotify.com/track/7yziDV8OaAjHeaWkOV9JoE) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [まばたき](https://open.spotify.com/album/4cp4oSx0Vnt1QwMq20KB24) | 4:10 | 2022-11-08 | 2022-11-10 |
 | [まばら \- feat\. missa](https://open.spotify.com/track/4IWJMJDFmwh0GyEGSIwcFG) | [ioni](https://open.spotify.com/artist/3QpmyEcdhAM9Y0ZAyN5q6z), [missa](https://open.spotify.com/artist/6B4tdctJogbdK6Kr5hRRFs) | [Autumn ep](https://open.spotify.com/album/0NyNMvyyD4gRkXLmYX7p5W) | 4:21 | 2022-10-04 | 2022-10-12 |
 | [もしもし](https://open.spotify.com/track/7fLLsqujHDTS8Y0jrCNVnM) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [もしもし](https://open.spotify.com/album/6wyEEflDZCzzm6vz4avzRO) | 4:00 | 2022-06-14 | 2022-06-22 |
 | [もしもし](https://open.spotify.com/track/3UTBFrrMvmI2pMFaw1fcEn) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [こちらあみ子 オリジナル・サウンドトラック](https://open.spotify.com/album/2Uj2y3df4YqIh2XMXsOrzx) | 4:00 | 2022-07-07 | 2022-07-13 |
@@ -551,7 +553,7 @@
 | [キャリーケースは重いままで](https://open.spotify.com/track/2ADl3dTfftKsYTVQjdY7iH) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [バイバイ、私 / キャリーケースは重いままで](https://open.spotify.com/album/6ywtlcRbSCR213Z70OZIgK) | 4:05 | 2022-06-07 | 2022-06-10 |
 | [キラボシ](https://open.spotify.com/track/6XTcLBGaDOafFwg39GBjv3) | [Momoka Kisaki](https://open.spotify.com/artist/1CP2ElxvOk08sIZn9xXfl4) | [キラボシ](https://open.spotify.com/album/4VdxIfLBEu7K9gZZwyIxwx) | 3:07 | 2022-10-25 |  |
 | [キンモクセイ](https://open.spotify.com/track/5D4rmd0lELbzElkHne1EvY) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [キンモクセイ](https://open.spotify.com/album/15SsNtLdpBfNUzEcZEGDFV) | 4:29 | 2022-05-29 | 2022-07-29 |
-| [ギブス](https://open.spotify.com/track/7kIKjH4RrK8LT5TbmwecK9) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [あなたの生きている世界1](https://open.spotify.com/album/62YAdq98gEQphXbrvLUMtD) | 6:41 | 2022-11-08 |  |
+| [ギブス](https://open.spotify.com/track/7kIKjH4RrK8LT5TbmwecK9) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [あなたの生きている世界1](https://open.spotify.com/album/62YAdq98gEQphXbrvLUMtD) | 6:41 | 2022-11-08 | 2022-11-10 |
 | [クリームソーダが溶ける頃](https://open.spotify.com/track/4p6eJCD6zGYSDI5RD2IhTG) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [クリームソーダが溶ける頃](https://open.spotify.com/album/6QfuUbAPxD3nBGc5OirrPD) | 3:23 | 2022-07-19 | 2022-07-27 |
 | [ケダモノのフレンズ](https://open.spotify.com/track/6WUytTGUVFHTVGOqty1UPs) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [odds and ends](https://open.spotify.com/album/4T0USknu2Yz9mhoB6enHH0) | 3:37 | 2022-05-29 | 2022-09-01 |
 | [ココロミュージカル](https://open.spotify.com/track/3W3gajurMrLZtjHZEUnPcJ) | [田畑実和](https://open.spotify.com/artist/3eMcH646Hc9IXNaCGfB38d) | [ココロミュージカル](https://open.spotify.com/album/3Lcd4ShGGWu1dVEImf1AwF) | 3:03 | 2022-06-02 | 2022-07-27 |

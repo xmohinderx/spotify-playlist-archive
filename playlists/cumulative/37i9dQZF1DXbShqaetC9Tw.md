@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-164 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/7hAGoFxP75Hq4uhkZnOFeo)
+165 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/7hAGoFxP75Hq4uhkZnOFeo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 | 2022-06-09 | 2022-07-29 |
 | [ddu\-du\-du \(feat\. unofficialboyy\)](https://open.spotify.com/track/2vqBAbjsed0GYFlTTYYcyt) | [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [ARIA II : Vendetta](https://open.spotify.com/album/0mNJrHxXLpCvBmPfvWSLTf) | 2:40 | 2022-06-03 | 2022-06-06 |
 | [DENIAL \- Radio Edit](https://open.spotify.com/track/3rzQIUG5c4QNXJf2kz2T0r) | [Room306](https://open.spotify.com/artist/7ENWxUjyJ2dMkhA6M0JXH3) | [DENIAL \(Radio Edit\)](https://open.spotify.com/album/5NkizpSqO2AGCM6uKF035c) | 3:43 | 2022-04-18 | 2022-07-14 |
-| [Do Not Want To Do It](https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Do Not Want To Do It](https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95) | 3:52 | 2022-07-25 |  |
+| [Do Not Want To Do It](https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Do Not Want To Do It](https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95) | 3:52 | 2022-07-25 | 2022-11-10 |
 | [Do Not Want To Do It](https://open.spotify.com/track/7zUG4VBAF5hF4x3bUHXDp7) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Do Not Want To Do It](https://open.spotify.com/album/2pMUYU2JxYvFIhLirHp7AK) | 3:52 | 2022-04-21 | 2022-07-29 |
 | [Don't Be Blue](https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Don't Be Blue](https://open.spotify.com/album/47JJ2taYZnE38et61HIQRk) | 3:03 | 2022-04-18 |  |
 | [Don't cry \(Feat\. george\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/3pEGkFxAMIsz0qNadCveuX) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 3:40 | 2022-04-21 | 2022-07-14 |
@@ -109,6 +109,7 @@
 | [Night after night \(Feat\. Hauzee\)](https://open.spotify.com/track/4ix7WeS3DYGa9wfexshzJ7) | [Holmsted](https://open.spotify.com/artist/4AETbFj8tCGWWDWLXIldTB), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [DOT 1](https://open.spotify.com/album/2pyUjceJRcxmJsf0UAZvOI) | 3:46 | 2022-04-18 | 2022-09-26 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 | 2022-07-25 |  |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/1XI748LrBjy0ui2wEPqpEM) | 3:15 | 2022-06-03 | 2022-07-29 |
+| [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 | 2022-11-09 |  |
 | [One Free Drink](https://open.spotify.com/track/0YbB0nQFo2C6kCjX6GVAYR) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Mart Invader](https://open.spotify.com/album/7pRaiXDCEMFZxJKTL2Mjbj) | 3:35 | 2022-04-18 | 2022-06-13 |
 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 | 2022-04-18 |  |
 | [Overthinking](https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 6:10 | 2022-04-18 |  |

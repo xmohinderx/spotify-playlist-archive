@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-77 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/6dPjrd3A0KFEWg2AfbxWij)
+79 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/6dPjrd3A0KFEWg2AfbxWij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Just Monika.](https://open.spotify.com/track/58D0rgpXlThmJDml7VltUt) | [Dan Salvato](https://open.spotify.com/artist/1i0Yz0IcoZXlZOk0kAnw5B) | [Doki Doki Literature Club! \(Original Soundtrack\)](https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k) | 3:22 | 2022-08-22 | 2022-08-31 |
 | [Key](https://open.spotify.com/track/7K7E7LKK51PezScgsvVg9Y) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 1:05 | 2022-09-20 |  |
 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2022-08-22 |  |
+| [Level 4 Abandoned Office](https://open.spotify.com/track/4XdvQE2cXhbGxCtEDVamXj) | [Iwakura](https://open.spotify.com/artist/1D9SrXAj9dz5sbqB12W1uv) | [The Backrooms Original Soundtrack](https://open.spotify.com/album/0GB4VKnUoTKSBbWzZc8rV0) | 3:41 | 2022-11-09 |  |
 | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/track/2mei1NCzlPpkh98PzEqc4N) | [Maria Pseftoga](https://open.spotify.com/artist/0eiGR5RtOEfEFqRhSp6mIa), [May Roosevelt](https://open.spotify.com/artist/3Fs0Rcn2Ss2fqbrLvLN4Kt) | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/album/5bQrNKusEFt4fgS5z0Pjog) | 1:57 | 2022-08-22 |  |
 | [Mice On Venus](https://open.spotify.com/track/5fqjfiMOFapIb8uFcxBStH) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 4:41 | 2022-08-22 | 2022-09-21 |
 | [Mirror Universe](https://open.spotify.com/track/1BqWKidiIXJCUBrZCuZKW2) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Mirror Universe](https://open.spotify.com/album/7u8bP4ULhdE0MxfaeLfXQe) | 2:36 | 2022-08-22 | 2022-08-24 |
@@ -81,6 +82,7 @@
 | [you not the same](https://open.spotify.com/track/4txrAyGAWA9JqZzoNHiPRh) | [TileKid](https://open.spotify.com/artist/7HaSqpaqnOWSaqvezpdhX4) | [you not the same](https://open.spotify.com/album/2oWrvVt4fIMO5DEHXSUrhS) | 2:08 | 2022-08-22 |  |
 | [You'll Never Know](https://open.spotify.com/track/7kQkgdg6nDVEzeJptMVbGT) | [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su) | [Stardust](https://open.spotify.com/album/5jer5YmDswO7lNWHeWwD5x) | 2:45 | 2022-08-23 |  |
 | [\~](https://open.spotify.com/track/1y1K06GfEtjeK18Xb0JeCm) | [Happy Trendy](https://open.spotify.com/artist/00YWLzRZ0M94JxM8j3ptjZ) | [Die Young](https://open.spotify.com/album/3TRqSZyvWgGlxi08PolBk1) | 2:06 | 2022-09-20 |  |
+| [‎‎‎](https://open.spotify.com/track/2xGX9859UkwGWqLf9FqF69) | [Iwakura](https://open.spotify.com/artist/1D9SrXAj9dz5sbqB12W1uv) | [‎‎‎](https://open.spotify.com/album/1BjptJhBoyxXfqcbu99aU5) | 3:02 | 2022-11-09 |  |
 | [☆メニュータイプチェンジ☆](https://open.spotify.com/track/7c3lk5GwSyJfaxG6wdW4Wv) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 2](https://open.spotify.com/album/6LaAI9SPVmQc8cLa6zp8dN) | 1:02 | 2022-09-20 |  |
 | [さむくてあったかい、ふゆ〜雪の世界〜](https://open.spotify.com/track/6DKY3Be7mWP65FodxRnNZ3) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 1](https://open.spotify.com/album/21vq7ID9n1HoJkuq0c4UAT) | 1:00 | 2022-08-22 |  |
 | [バラック集落](https://open.spotify.com/track/36cHqq0lwA1u1KWxPI8nol) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 2](https://open.spotify.com/album/6LaAI9SPVmQc8cLa6zp8dN) | 1:02 | 2022-08-22 |  |

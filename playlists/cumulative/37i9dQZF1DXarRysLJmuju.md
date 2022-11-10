@@ -4,7 +4,7 @@
 
 > Keep up with all the latest pop hits\. Photo: Selena Gomez
 
-642 songs - 1 day 8 hr 44 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
+643 songs - 1 day 8 hr 47 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,7 +623,8 @@
 | [Where the Sidewalk Ends](https://open.spotify.com/track/7y93FcIlQj9c6xVHfKX3sA) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Where the Sidewalk Ends](https://open.spotify.com/album/1BfuiaHKsqRNxBgjpoJY3d) | 2:44 | 2022-06-10 | 2022-06-25 |
 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-04-22 | 2022-05-14 |
 | [Wherever You Go](https://open.spotify.com/track/7Emwu6FcGIENbWKmDiD2ct) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Wherever You Go](https://open.spotify.com/album/33zJ4SIK5Tf8YXlYSsvelT) | 2:49 | 2022-08-29 | 2022-11-05 |
-| [Whitney](https://open.spotify.com/track/0zJBJSTeGKZuXOnVyFxkjd) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/61M0m1vZBq2Tj7m2R7dPKE) | 3:11 | 2022-10-07 |  |
+| [Whitney](https://open.spotify.com/track/0zJBJSTeGKZuXOnVyFxkjd) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/61M0m1vZBq2Tj7m2R7dPKE) | 3:11 | 2022-10-07 | 2022-11-10 |
+| [Whitney](https://open.spotify.com/track/3wnV3a1u6QgSzKPZl5v67c) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/3Gptzy7Tre8g8yif8Slyj7) | 3:11 | 2022-10-28 |  |
 | [whose love](https://open.spotify.com/track/5NuABtgxyIFRZ3Y9PccU10) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [whose love](https://open.spotify.com/album/4KfAxRBT0Y3mjC1TspFEag) | 1:31 | 2022-06-10 | 2022-07-02 |
 | [Wild Ride](https://open.spotify.com/track/2vI1BaR12gW5RHz5onhKvO) | [Once A Tree](https://open.spotify.com/artist/0X76D1rqYL4kl2Jek2e5pQ) | [The Good, The Bad](https://open.spotify.com/album/2Qsp0jIthArLnsbEEgReDH) | 2:34 | 2021-12-31 | 2022-02-26 |
 | [Will It Ever Feel The Same?](https://open.spotify.com/track/2bsuvsOwkhIstFmn0IHkhG) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Will It Ever Feel The Same?](https://open.spotify.com/album/2FkJKUyeNKvWKhZJLdgTUd) | 3:00 | 2022-05-13 | 2022-06-11 |

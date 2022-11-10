@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Shrinidhi Ghatate, Artwork: Isu Kim",
+  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Nitika Rajkumar, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 256933,
       "name": "Aaona",
       "url": "https://open.spotify.com/track/7fAUGf4NBTswqwaHkJT7yX"
@@ -459,6 +459,24 @@
       "duration_ms": 300000,
       "name": "ABRACADABRA",
       "url": "https://open.spotify.com/track/65Ep0TP3QqAIo83u9jlj8M"
+    },
+    {
+      "album": {
+        "name": "Achilles Heel",
+        "url": "https://open.spotify.com/album/3dDk8mHmmGTYx361Y0imAE"
+      },
+      "artists": [
+        {
+          "name": "Tarang Joseph",
+          "url": "https://open.spotify.com/artist/76Qn1AJEps9AcUgwIOHplM"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280693,
+      "name": "Achilles Heel",
+      "url": "https://open.spotify.com/track/4RTjOZOiAPqeGbMvpx4VXi"
     },
     {
       "album": {
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 206532,
       "name": "Banjare",
       "url": "https://open.spotify.com/track/4VBKGKkG1A8MpIPoEynoBn"
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 172000,
       "name": "Bucket of Pain",
       "url": "https://open.spotify.com/track/2nhu2ES7IcQJ2tE28nUm0D"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 210960,
       "name": "Chale Bhi Jao",
       "url": "https://open.spotify.com/track/37fbtdjzCUvmoPgnkmCIO1"
@@ -1893,6 +1911,28 @@
       "duration_ms": 138482,
       "name": "Cloud Burst",
       "url": "https://open.spotify.com/track/196EOSSuHR7vfHd4aCLQ3U"
+    },
+    {
+      "album": {
+        "name": "come through",
+        "url": "https://open.spotify.com/album/0z2qe9yJQDOamLngi8RiC4"
+      },
+      "artists": [
+        {
+          "name": "Anubha Kaul",
+          "url": "https://open.spotify.com/artist/6Uc6gvNu6F0FOnnwU8M0pS"
+        },
+        {
+          "name": "Aman Jagwani",
+          "url": "https://open.spotify.com/artist/1tPPcb50f30mPgZdBq4hWx"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240153,
+      "name": "come through",
+      "url": "https://open.spotify.com/track/0npbmZqDOHerMVSFHEt2AV"
     },
     {
       "album": {
@@ -2169,6 +2209,24 @@
       "duration_ms": 196750,
       "name": "Dhaage",
       "url": "https://open.spotify.com/track/1YHnsw5xO7w5eck4FrBPPW"
+    },
+    {
+      "album": {
+        "name": "Dhun",
+        "url": "https://open.spotify.com/album/3lRE9QXp4KgqEWqSxeUCE4"
+      },
+      "artists": [
+        {
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241054,
+      "name": "Dhun",
+      "url": "https://open.spotify.com/track/1PYV3TA7E1elt9AFcQmOIZ"
     },
     {
       "album": {
@@ -3016,6 +3074,24 @@
     },
     {
       "album": {
+        "name": "Find Me Find You",
+        "url": "https://open.spotify.com/album/62qPzyhPdantezxm4cWr1t"
+      },
+      "artists": [
+        {
+          "name": "THE RUNWAY",
+          "url": "https://open.spotify.com/artist/6RudEx94S8MrT9CRA6aP6w"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Find Me Find You",
+      "url": "https://open.spotify.com/track/7G6oWYG2hDMX9PagdHFY32"
+    },
+    {
+      "album": {
         "name": "Find Myself",
         "url": "https://open.spotify.com/album/3HTIqpiumaBGPclyIuCWVA"
       },
@@ -3191,7 +3267,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 152314,
       "name": "Galat",
       "url": "https://open.spotify.com/track/1moxCFuqVyeYIvFmbANqbn"
@@ -3903,7 +3979,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 154701,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/4QdmXIpWW2ybxrzVOkFuto"
@@ -4449,7 +4525,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 202241,
       "name": "Jaan Baaki",
       "url": "https://open.spotify.com/track/1bbnPoIFuIg18LLuSZyPK1"
@@ -4655,6 +4731,24 @@
       "duration_ms": 180800,
       "name": "Jannat",
       "url": "https://open.spotify.com/track/2ZphNIcogHnUFbGACH9GQK"
+    },
+    {
+      "album": {
+        "name": "Jawab",
+        "url": "https://open.spotify.com/album/3jZWVEbBpP36NBTbVfV28t"
+      },
+      "artists": [
+        {
+          "name": "Vipin Singh",
+          "url": "https://open.spotify.com/artist/3TGlt6sJbS4hMPy5MDcDQp"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Jawab",
+      "url": "https://open.spotify.com/track/3JxLiczxK0jAcRcKhC3iWb"
     },
     {
       "album": {
@@ -4897,6 +4991,42 @@
       "duration_ms": 231697,
       "name": "Just Another Pretty Face",
       "url": "https://open.spotify.com/track/44S60ZjW3TcGCWNVJdUoXo"
+    },
+    {
+      "album": {
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/0rK74FxjpNE44q4MqotqnW"
+      },
+      "artists": [
+        {
+          "name": "Nitika Rajkumar",
+          "url": "https://open.spotify.com/artist/6x5thaBfMQ7WTzoCW9b3HA"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266456,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/7624pKk9EmseNCpH79N90P"
+    },
+    {
+      "album": {
+        "name": "Ka Karu Sajni",
+        "url": "https://open.spotify.com/album/6zzTV4cdx4lbjaqP8F2UKv"
+      },
+      "artists": [
+        {
+          "name": "Amarabha Banerjee",
+          "url": "https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350426,
+      "name": "Ka Karu Sajni",
+      "url": "https://open.spotify.com/track/1UXG8umGKA1VTLQada27Zq"
     },
     {
       "album": {
@@ -5441,7 +5571,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 197694,
       "name": "Khilte Rang",
       "url": "https://open.spotify.com/track/6jsoaskE0wunyXLpHriyEz"
@@ -6355,7 +6485,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 190869,
       "name": "Maahi Ve",
       "url": "https://open.spotify.com/track/6JXeBwpG5aoSrxjJRki3o3"
@@ -8125,7 +8255,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 206252,
       "name": "Patience",
       "url": "https://open.spotify.com/track/6lFkQ3opLswwvcOFqbo9s3"
@@ -9559,7 +9689,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 173666,
       "name": "Saza",
       "url": "https://open.spotify.com/track/5vl3NQ1ttgUr2pshh6nGtB"
@@ -9871,6 +10001,28 @@
       "duration_ms": 163076,
       "name": "So Blue",
       "url": "https://open.spotify.com/track/6L11TOEMnyDF0giRinVCtb"
+    },
+    {
+      "album": {
+        "name": "Soch",
+        "url": "https://open.spotify.com/album/3DjiLkySugNX5z23sQsKzf"
+      },
+      "artists": [
+        {
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
+        },
+        {
+          "name": "Sanchi",
+          "url": "https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208912,
+      "name": "Soch",
+      "url": "https://open.spotify.com/track/1eyBWtHnBBODuxSGEoIy6r"
     },
     {
       "album": {
@@ -11197,7 +11349,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 203800,
       "name": "Tu Hi Nahi",
       "url": "https://open.spotify.com/track/4CBSfUhMiRwS1GQktnWCeO"
@@ -11219,6 +11371,24 @@
       "duration_ms": 238030,
       "name": "Tu Na Jaane - From \"Gulmohar\"",
       "url": "https://open.spotify.com/track/4w18QmkrEx6IWAawhyqNBO"
+    },
+    {
+      "album": {
+        "name": "Tu Na Mile",
+        "url": "https://open.spotify.com/album/6zP6yQ7T6wtMvcwVOqKrV5"
+      },
+      "artists": [
+        {
+          "name": "Prateek Gandhi",
+          "url": "https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211303,
+      "name": "Tu Na Mile",
+      "url": "https://open.spotify.com/track/3Heka6vahzY7CFGmr6Jl6L"
     },
     {
       "album": {
@@ -11593,7 +11763,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 233192,
       "name": "Umeedein",
       "url": "https://open.spotify.com/track/525IDA2wNvTSkINA5ScqoG"
@@ -11665,7 +11835,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 260894,
       "name": "Usne Kaha Tha",
       "url": "https://open.spotify.com/track/0CQqvd7bTiiRTDZzNmjifI"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-799 songs - 1 day 20 hr 15 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
+800 songs - 1 day 20 hr 19 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Deep Inside 2020](https://open.spotify.com/track/5kHrTMIFqmZkuCkovsxRUs) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Jack The House EP](https://open.spotify.com/album/7qq1UnrFglFTE9w2cUO5pU) | 3:06 | 2020-07-01 | 2021-12-21 |
 | [Define](https://open.spotify.com/track/2C2Bz7sauB37bnacn2KQyF) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6) | [Define](https://open.spotify.com/album/17ysjqZb3UqJ9tajZVYjpU) | 3:52 | 2022-07-14 | 2022-07-29 |
 | [Define](https://open.spotify.com/track/3B1Je3rlEac3p4ikYW13zw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6) | [Define](https://open.spotify.com/album/0d6uBzzuLduGw3Pu7Z3Eh3) | 3:52 | 2022-07-14 | 2022-07-30 |
-| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-28 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/67uX1e9gIoumz0U8ayaOiO) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:10 | 2022-10-28 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-28 | 2022-11-10 |
 | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo) | 3:46 | 2021-05-11 | 2022-04-18 |
 | [Destination](https://open.spotify.com/track/4CiWLaMrGQ9CR5j604HyoW) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [Destination](https://open.spotify.com/album/6XI1OjhyceEToQJfDRpLEC) | 3:05 | 2021-01-25 | 2022-07-02 |
 | [Destination Calabria \- Radio Edit](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:43 | 2020-09-20 | 2021-10-14 |

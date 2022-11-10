@@ -1128,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "Blink",
+        "url": "https://open.spotify.com/album/2S3jWaGHznX4BPiRZJThWe"
+      },
+      "artists": [
+        {
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250800,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/3dg2D7oJvKvSK2SrjNKC4l"
+    },
+    {
+      "album": {
         "name": "BLIZZARD (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/3kCaoPjv4u2Usa6kO7S6vu"
       },
@@ -2819,6 +2837,24 @@
       "duration_ms": 202413,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/5kuaoj580FY2PFNes0kqC3"
+    },
+    {
+      "album": {
+        "name": "The World Where You Are 1",
+        "url": "https://open.spotify.com/album/41nlPakLyZvpX5GfkwHAbU"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Sebu",
+          "url": "https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401533,
+      "name": "Gips",
+      "url": "https://open.spotify.com/track/0sHJqALJte0dgyJyblz46D"
     },
     {
       "album": {
@@ -9661,7 +9697,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 250800,
       "name": "\u307e\u3070\u305f\u304d",
       "url": "https://open.spotify.com/track/7yziDV8OaAjHeaWkOV9JoE"
@@ -10397,7 +10433,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 401533,
       "name": "\u30ae\u30d6\u30b9",
       "url": "https://open.spotify.com/track/7kIKjH4RrK8LT5TbmwecK9"

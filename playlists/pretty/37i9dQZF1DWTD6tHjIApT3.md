@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: Uru
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,872 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,950 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 8 | [時をかける少女](https://open.spotify.com/track/7tKXX85MSaVD5ctgS8WelE) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [ToMoYo covers\~原田知世オフィシャル・カバー・アルバム](https://open.spotify.com/album/2jXG91MPq9hN7ZEpdY1w9n) | 3:22 |
 | 9 | [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 |
 | 10 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 |
-| 11 | [まばたき](https://open.spotify.com/track/7yziDV8OaAjHeaWkOV9JoE) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [まばたき](https://open.spotify.com/album/4cp4oSx0Vnt1QwMq20KB24) | 4:10 |
+| 11 | [Blink](https://open.spotify.com/track/3dg2D7oJvKvSK2SrjNKC4l) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Blink](https://open.spotify.com/album/2S3jWaGHznX4BPiRZJThWe) | 4:10 |
 | 12 | [Backwards](https://open.spotify.com/track/1Z9bAkibAZQoHq7qRLySBu) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Backwards](https://open.spotify.com/album/0AV6Vc6dnstWAOJpRnN25V) | 3:43 |
 | 13 | [Perfect! Your Love](https://open.spotify.com/track/5NrqcSAxspspQHsSSoHgey) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Perfect! Your Love](https://open.spotify.com/album/51vH2O1lk2FAPPhLDY5QNo) | 3:44 |
 | 14 | [your room](https://open.spotify.com/track/0ny70e6ql2HOEmQVfnWI8N) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/3JijWekYCz4gBkWB1jFeX6) | 3:35 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 41 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
 | 42 | [Summer in COLORZ](https://open.spotify.com/track/4ChCL6o0WsFvVSUKDdNmYj) | [OCEANS](https://open.spotify.com/artist/6EKHqQatZAZ1SnuvkDXj9u), [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [Summer in COLORZ](https://open.spotify.com/album/0LXj4IGgYcx2SYd6ii7ybi) | 4:22 |
 | 43 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 |
-| 44 | [ギブス](https://open.spotify.com/track/7kIKjH4RrK8LT5TbmwecK9) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [あなたの生きている世界1](https://open.spotify.com/album/62YAdq98gEQphXbrvLUMtD) | 6:41 |
+| 44 | [Gips](https://open.spotify.com/track/0sHJqALJte0dgyJyblz46D) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [The World Where You Are 1](https://open.spotify.com/album/41nlPakLyZvpX5GfkwHAbU) | 6:41 |
 | 45 | [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 |
 | 46 | [Deep Dive](https://open.spotify.com/track/5itC9A1VIudCnfVHeBO4ni) | [POOL](https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo) | [Non Faketion](https://open.spotify.com/album/1QbR4hxZMmHtNHg11ybuHl) | 3:57 |
 | 47 | [ヒトツボシ](https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR) | [KOH+](https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr) | [ヒトツボシ \~ガリレオ Collection 2007\-2022\~](https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [Another Day Goes By](https://open.spotify.com/track/2LCTeMFvh069eICDpdoEZ6) | [Lizabet](https://open.spotify.com/artist/5n8wf5NM6vGUKNektTImzq) | [Another Day Goes By](https://open.spotify.com/album/51MHPlXY74PzkYOkSSis15) | 4:01 |
 | 100 | [幸せの探し方 \- 2022 Remaster](https://open.spotify.com/track/2vMFdiONHdlNcVCyXhAIqv) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Quiet Life \(30th Anniversary Edition; 2022 Remaster\)](https://open.spotify.com/album/6HSiOQVxo7HrYf05PcLC0S) | 3:53 |
 
-Snapshot ID: `MTY2NzkxOTYwMCwwMDAwMDAwMDk0YWI5ODdiZDUwNjM3OGNmNTY3MTE4ZWUzM2M3Y2Qx`
+Snapshot ID: `MTY2NzkxOTYwMCwwMDAwMDAwMDVjMDEwMjc0ZGMzYzZjYjUzN2UzNDk1YzdmN2Y2Nzkz`

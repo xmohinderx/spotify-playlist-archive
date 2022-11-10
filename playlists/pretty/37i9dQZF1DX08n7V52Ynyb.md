@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,986 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,063 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 99 | [Peel Me A Grape](https://open.spotify.com/track/7d78grkC9XhKXKJf44so32) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/0BY7XVm9kLLwDmQfXFL8G8) | 5:52 |
 | 100 | [As Long as He Needs Me](https://open.spotify.com/track/7Exg33sywNNAv8XgFt6oUj) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 4:55 |
 
-Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMGQ2MzZhZTg3YWVmYzVjYTM4ZDlkODgyOGIzZWE5Yjhj`
+Snapshot ID: `MTY2ODAwODA2MiwwMDAwMDAwMDIxMTdlYTY1ZGVlNDRiYWJmZjcyZTUyY2RhOTM3Zjlk`

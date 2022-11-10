@@ -4,7 +4,7 @@
 
 > 'Frizzell D'souza' is on the cover of IndiEnglish\. Stream now!
 
-126 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
+127 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-19 |  |
 | [Figure 8](https://open.spotify.com/track/0A2yplg86L7XTX2ZN62DpV) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Outlast](https://open.spotify.com/album/1wznIFQEKfVFPRD6MCH9AW) | 4:31 | 2022-03-25 |  |
 | [Find You](https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:44 | 2022-03-25 |  |
+| [Fooling Myself](https://open.spotify.com/track/6Lq5hNjil6j9xWwXqXfHv7) | [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6), [Emily Coupe](https://open.spotify.com/artist/0RJ6bq5MxjA0D8uAG6GHJb) | [Fooling Myself](https://open.spotify.com/album/1vHKyM6FTrN1r74juua4kq) | 3:24 | 2022-11-10 |  |
 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 | 2022-03-25 |  |
 | [Fools Will Learn](https://open.spotify.com/track/5P9utVQ2Rb9XDZwoPEzvxi) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Rooftops](https://open.spotify.com/album/3PN7n3nqjEgGzZDrKjDfXr) | 4:28 | 2022-03-25 | 2022-05-04 |
 | [free](https://open.spotify.com/track/6AZFB9yD5kyahBrPhv9i4E) | [Teenasai](https://open.spotify.com/artist/6xIdf78GSxt5FrRC4RC6Uj) | [free](https://open.spotify.com/album/6x5uvmf4EOslQGWPOREQEf) | 3:06 | 2022-03-25 |  |

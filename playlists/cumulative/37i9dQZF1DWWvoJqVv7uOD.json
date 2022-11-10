@@ -3958,6 +3958,24 @@
     },
     {
       "album": {
+        "name": "Nerve",
+        "url": "https://open.spotify.com/album/0puJioCWJCRTm95h2DmOSl"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178973,
+      "name": "Nerve",
+      "url": "https://open.spotify.com/track/3jsYKVxT5ljGkexU531DpF"
+    },
+    {
+      "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },

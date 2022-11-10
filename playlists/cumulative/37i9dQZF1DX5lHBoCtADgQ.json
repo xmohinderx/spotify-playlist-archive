@@ -736,6 +736,24 @@
     },
     {
       "album": {
+        "name": "Kala Sha Kala",
+        "url": "https://open.spotify.com/album/0T7GZkw5POnYikelmZTA1g"
+      },
+      "artists": [
+        {
+          "name": "Aabha Hanjura",
+          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195591,
+      "name": "Kala Sha Kala",
+      "url": "https://open.spotify.com/track/401L9cuL8my61jXIMZDV0t"
+    },
+    {
+      "album": {
         "name": "Virsa, Vol. 2",
         "url": "https://open.spotify.com/album/4tvEZ7lQ6w8yeLJV54oOBH"
       },

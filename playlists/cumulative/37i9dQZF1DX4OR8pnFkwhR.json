@@ -3919,7 +3919,7 @@
     {
       "album": {
         "name": "Rollin' Down",
-        "url": "https://open.spotify.com/album/4f4Nx0tD76hJgiHBicC9x1"
+        "url": "https://open.spotify.com/album/4Bn1dhRn2E4ZGDodjrfHjq"
       },
       "artists": [
         {
@@ -3930,6 +3930,24 @@
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223502,
+      "name": "Rollin' Down",
+      "url": "https://open.spotify.com/track/249WG2nJcGHHMMQK5BuScm"
+    },
+    {
+      "album": {
+        "name": "Rollin' Down",
+        "url": "https://open.spotify.com/album/4f4Nx0tD76hJgiHBicC9x1"
+      },
+      "artists": [
+        {
+          "name": "TOSH",
+          "url": "https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
       "duration_ms": 223502,
       "name": "Rollin' Down",
       "url": "https://open.spotify.com/track/4aCSqOfUfCrBEmU8XO5T8r"
@@ -4099,6 +4117,42 @@
       "duration_ms": 206970,
       "name": "shame",
       "url": "https://open.spotify.com/track/36pWB023d8A7lcpM9vG4G9"
+    },
+    {
+      "album": {
+        "name": "Shin'ya 6-ji",
+        "url": "https://open.spotify.com/album/0fQOqoTxovUB2hIVjGgGNK"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279928,
+      "name": "Shin'ya 6-ji",
+      "url": "https://open.spotify.com/track/4OCIpuigIlufkPyZ9uRlcY"
+    },
+    {
+      "album": {
+        "name": "SHIKI",
+        "url": "https://open.spotify.com/album/3hG301XBzgG9WMXB9xaC8d"
+      },
+      "artists": [
+        {
+          "name": "Ryukku to Soine Gohan",
+          "url": "https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Shisso",
+      "url": "https://open.spotify.com/track/4vc2xLv40ExLHTuSYLaM7F"
     },
     {
       "album": {
@@ -8541,7 +8595,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 279928,
       "name": "\u6df1\u591c6\u6642",
       "url": "https://open.spotify.com/track/495pH9ammQWXsYYqQcJnGq"
@@ -8793,7 +8847,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 154333,
       "name": "\u75be\u8d70",
       "url": "https://open.spotify.com/track/7fUMzyKIcDPqH1I3x6S7IQ"

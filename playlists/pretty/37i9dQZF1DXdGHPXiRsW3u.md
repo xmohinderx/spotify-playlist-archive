@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 
 > Mellow songs from the 2000s\. Cover: Christina Aguilera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,307 likes - 150 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,701 likes - 150 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

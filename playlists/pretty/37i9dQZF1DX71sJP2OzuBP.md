@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,959 likes - 115 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,979 likes - 115 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 8 | [我该怎么忘了他](https://open.spotify.com/track/2ZzYLQLbx6oee16QmcOA1E) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [我该怎么忘了他](https://open.spotify.com/album/090E0KFWQzB98TtmOmQKPV) | 3:26 |
 | 9 | [早点回家](https://open.spotify.com/track/6ibymAslBMyyezpitwjtEQ) | [菲道尔](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [早点回家](https://open.spotify.com/album/28Pb7zf31nLgJNCIFoPXTe) | 4:39 |
 | 10 | [低音轟隆隆 Wallflower \(feat.大淵MUTA\)](https://open.spotify.com/track/4Hi50AHTGCQIvl7X9oDiEl) | [Vera Yen](https://open.spotify.com/artist/08VvDNRmZUZ99QZb63qXgU), [大淵MUTA](https://open.spotify.com/artist/4ETiXqShlShyL3ovnvi7qj) | [獨在](https://open.spotify.com/album/4lXPAW8NZYkX1wAqiFITq7) | 3:27 |
-| 11 | [離開我](https://open.spotify.com/track/6wWudxyfMRfijyvKUjauHh) | [Xiao Qiu](https://open.spotify.com/artist/5r0Fhn5JfkbhPG8wXRu0iY) | [離開我](https://open.spotify.com/album/43EpxMLxx9ZCvKNFyxxQls) | 4:12 |
+| 11 | [離開我](https://open.spotify.com/track/6wWudxyfMRfijyvKUjauHh) | [小球\(莊鵑瑛\)](https://open.spotify.com/artist/5r0Fhn5JfkbhPG8wXRu0iY) | [離開我](https://open.spotify.com/album/43EpxMLxx9ZCvKNFyxxQls) | 4:12 |
 | 12 | [SUNRISE](https://open.spotify.com/track/2sB2iPHkvgM7Cx3KM59Oza) | [Van Ness Wu](https://open.spotify.com/artist/2Lcyl3luks1H4TDORlJIUW) | [SUNRISE](https://open.spotify.com/album/24cOn0Lsyjb8QyEO1ugCzz) | 4:23 |
 | 13 | [Life Is Like a Firework](https://open.spotify.com/track/7hB5WtQ37MJRMvlfaZnAKp) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [Dear Life](https://open.spotify.com/album/10F9BrkqUHguqspwwn7Frd) | 4:04 |
 | 14 | [O.A.O.](https://open.spotify.com/track/1MJqhxgandKqZZyZjLvJGh) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [O.A.O.](https://open.spotify.com/album/7D4EHo9Q1BZ4vzKbxsI9MD) | 3:17 |

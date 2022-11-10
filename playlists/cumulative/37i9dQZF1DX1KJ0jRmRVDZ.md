@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-538 songs - 1 day 6 hr 53 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+539 songs - 1 day 6 hr 56 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [ia](https://open.spotify.com/track/0Gh8WFwlECOD2v57zF15Nn) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/3hfq2hcMkXGUl6tewG5yQT) | 4:14 | 2022-07-28 | 2022-08-17 |
 | [ia](https://open.spotify.com/track/2mnUQfzbAM5KLLL6vjhlpG) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/61ON4UP1najrsFvPXTt7j8) | 4:14 | 2022-07-14 | 2022-07-29 |
 | [Identity](https://open.spotify.com/track/5MiihS6toSrDlwen3p6Slp) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [Identity](https://open.spotify.com/album/3WmF5fA11eq8wIjoj7Hmk0) | 2:41 | 2022-10-06 | 2022-10-19 |
+| [In the Back Room](https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [In the Back Room](https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw) | 3:26 | 2022-11-10 |  |
 | [INAZMA](https://open.spotify.com/track/3POLsjox8STfaKN7p1no44) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [INAZMA](https://open.spotify.com/album/6ahRrIWu33oElg0xP5Umsb) | 3:31 | 2022-06-13 | 2022-07-10 |
 | [Inger](https://open.spotify.com/track/1WzN9onrPMWcuQR0ICNLfc) | [Chogakusei](https://open.spotify.com/artist/2sSxUi7Qg7hVHo7345VSLz) | [Inger](https://open.spotify.com/album/3JgzRDP8LFJMdIcHX2v9oZ) | 3:17 | 2022-09-27 | 2022-10-05 |
 | [Iranaiyo](https://open.spotify.com/track/2PKkqRTNxb7G9I7qGmsKkk) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Iranaiyo](https://open.spotify.com/album/2D7UMajfJXb0iy9hx6ktiJ) | 2:46 | 2022-07-28 | 2022-08-05 |
@@ -234,7 +235,7 @@
 | [イマジナリーフレンド](https://open.spotify.com/track/5iZP5XEzyWJKScEVVEehEk) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [イマジナリーフレンド](https://open.spotify.com/album/1JrQY3w7LpsBQFs0ckMulQ) | 4:33 | 2022-06-09 | 2022-07-14 |
 | [イミテイション \(starring 珀\)](https://open.spotify.com/track/3DQH7at5thxDmUMsD65Lzo) | [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y), [珀](https://open.spotify.com/artist/5pYWH9L8OcnvIXS1V1cO2L) | [イミテイション \(starring 珀\)](https://open.spotify.com/album/4npreCVmUEi2UeRSyEwUYK) | 2:49 | 2022-07-28 | 2022-08-17 |
 | [インゲル](https://open.spotify.com/track/2m8hm0c4w9DLv1EGrBFSHK) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [インゲル](https://open.spotify.com/album/5s0FkzwZoDVFTouIX4B9vZ) | 3:17 | 2022-09-27 | 2022-09-29 |
-| [インザバックルーム](https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [インザバックルーム](https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89) | 3:26 | 2022-11-09 |  |
+| [インザバックルーム](https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [インザバックルーム](https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89) | 3:26 | 2022-11-09 | 2022-11-10 |
 | [イントロは終わり](https://open.spotify.com/track/0RDzaHslzMngPxTX84Xs6G) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [イントロは終わり](https://open.spotify.com/album/1FvFjiAeYqVF14pt6uWKme) | 2:58 | 2022-08-05 | 2022-08-19 |
 | [インナアチャイルド](https://open.spotify.com/track/2VviHaihEuSsYo6OOqxJ7m) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [インナアチャイルド](https://open.spotify.com/album/62EfA5beimUuWAijkPLY4H) | 3:55 | 2022-10-04 |  |
 | [イージーゲーム](https://open.spotify.com/track/096qZRdXPOyvb5OP8NI7pw) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [イージーゲーム](https://open.spotify.com/album/30mRFS3cKkDslOyyK4tTmF) | 3:03 | 2022-07-28 |  |

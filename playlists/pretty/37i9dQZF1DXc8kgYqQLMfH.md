@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,390 likes - 419 songs - 15 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,503 likes - 419 songs - 15 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,7 +178,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 168 | [Lost Memories](https://open.spotify.com/track/3FzEibw5QvICYJPbi1fJaS) | [Candelas.](https://open.spotify.com/artist/7kX7jrR1Olp8ot5haFwExp) | [Lost Memories](https://open.spotify.com/album/34ZocOX8f7D7tf3AeMtb5J) | 2:12 |
 | 169 | [slow down](https://open.spotify.com/track/5OXpYgUj8C4G9fPVYvjbm3) | [super8memory](https://open.spotify.com/artist/2ICYFkqo3OruO1QlpBzV8C) | [slow down](https://open.spotify.com/album/7siq737YEigoubwX8SdAHI) | 2:27 |
 | 170 | [new chimes](https://open.spotify.com/track/3HbMWLdJrCNjXaVWIcXijo) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [new chimes](https://open.spotify.com/album/5vlYGwXhpAqd4ylljVY1U6) | 2:43 |
-| 171 | [Inner toughts](https://open.spotify.com/track/3K6JgqMN4vp8qkJYVcuwjY) | [Surdég Broed](https://open.spotify.com/artist/7w3tqyIp9maHbk56rewMQr) | [Inner toughts](https://open.spotify.com/album/5cu23aEbBPtFutqNENSaIR) | 2:29 |
+| 171 | [Inner toughts](https://open.spotify.com/track/3K6JgqMN4vp8qkJYVcuwjY) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [Inner toughts](https://open.spotify.com/album/5cu23aEbBPtFutqNENSaIR) | 2:29 |
 | 172 | [Sharp Edges](https://open.spotify.com/track/5NrFLcVYRUyFABknAntDVj) | [Florina Florina](https://open.spotify.com/artist/6npWbAsh6jlgwLpfco3anT) | [Sharp Edges](https://open.spotify.com/album/603xEQQUiOtSCNfe4NQ8kj) | 1:53 |
 | 173 | [Mansion Of Sizz](https://open.spotify.com/track/1U0jroBry8iTfYt73P9ET0) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [Lofi City](https://open.spotify.com/album/4LVapYHIAJc5s8V9yyKgc2) | 2:24 |
 | 174 | [Home](https://open.spotify.com/track/3mN4ZW45fZVR9ZIqC4RJ6S) | [Suvanti](https://open.spotify.com/artist/3Tgvneyg8ibT0dU5J4oWk5) | [Home](https://open.spotify.com/album/0HhHPrRbNlpHkkqegX65AS) | 1:36 |

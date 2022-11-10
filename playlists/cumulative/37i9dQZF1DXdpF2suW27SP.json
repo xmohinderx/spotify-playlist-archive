@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Mizzy Miles, Sippinpurpp e Greg Ferreira entram na zona. ",
+  "description": "Wet Bed Gang entram na zona. ",
   "name": "Na Zona",
   "published_playlist_ids": [
     "22ncssGshPQaFSB3hgligM"
@@ -1170,6 +1170,28 @@
     },
     {
       "album": {
+        "name": "Gorillaz (feat. L7NNON)",
+        "url": "https://open.spotify.com/album/6fUyo3fkgWK66QRXO6VCjF"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218288,
+      "name": "Gorillaz (feat. L7NNON)",
+      "url": "https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd"
+    },
+    {
+      "album": {
         "name": "HGS",
         "url": "https://open.spotify.com/album/5PcvUawRRRaAEOJD3AGTIQ"
       },
@@ -1437,7 +1459,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 187116,
       "name": "Many Men - Special Version",
       "url": "https://open.spotify.com/track/5WTNKKVTvqWwgCVLdH7AhC"

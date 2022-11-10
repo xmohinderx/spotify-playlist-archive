@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,266 likes - 76 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,271 likes - 76 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

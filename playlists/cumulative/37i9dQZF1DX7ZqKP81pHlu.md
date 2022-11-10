@@ -4,12 +4,13 @@
 
 > The sweet sounds of Algeria.
 
-92 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
+93 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3ach9ek Criminel](https://open.spotify.com/track/6Y3hqLC16tJUEI4PDsusoT) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [3ach9ek Criminel](https://open.spotify.com/album/5CYq5YmDbgtM0ys9xBxYiL) | 2:52 | 2021-12-09 |  |
 | [3alam Tani](https://open.spotify.com/track/2vCQ9IZyXbjeDBLsYFOFUx) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [3alam Tani](https://open.spotify.com/album/5HBu7VCzKwtPbtUzf8Rpe1) | 3:51 | 2021-12-09 | 2022-01-01 |
+| [7CHOUMA](https://open.spotify.com/track/0bmnCDY8M8fBtlPwMrLIu9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [7CHOUMA](https://open.spotify.com/album/7JrLFJw1NFNDOnoNDsHBWS) | 4:06 | 2022-11-09 |  |
 | [Abracadabra](https://open.spotify.com/track/1Suz3iNgR3pnTIPI5JJtFI) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/5t5ieknOAiq6hBfzTe2veZ) | 4:18 | 2022-10-09 |  |
 | [Abracadabra](https://open.spotify.com/track/3Ox87ADaSgof5yOrFhvKaC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/2PJM03jBuTlPVmginhaWWf) | 4:18 | 2021-12-09 | 2022-10-14 |
 | [Achfa](https://open.spotify.com/track/5SHMbXzrzJBmCY49BozjTT) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/2uFeXabLfJNW9MtvylJkdE) | 3:40 | 2022-06-02 | 2022-07-29 |

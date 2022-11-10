@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Holiday classics from your favorite punks. Cover: jxdn",
+  "description": "Holiday classics from your favourite punks. Cover: Neck Deep",
   "name": "Punk Christmas",
   "published_playlist_ids": [
     "0LsEqOOLiAoH7HfToPQ8Cv"
@@ -819,6 +819,24 @@
       "duration_ms": 215293,
       "name": "Deadbeat Holiday",
       "url": "https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu"
+    },
+    {
+      "album": {
+        "name": "Life's Not Out To Get You",
+        "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218954,
+      "name": "December",
+      "url": "https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S"
     },
     {
       "album": {
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 188333,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/22rBktERctuWCLmnV51Td5"

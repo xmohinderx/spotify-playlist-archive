@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,871 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,938 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 99 | [The End of a Love Affair \- Mono Take 4 with Vocal Overdub Take 8](https://open.spotify.com/track/1ScLuFh6ZPY0bkSrv9uVMO) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 4:47 |
 | 100 | [When Your Lover Has Gone](https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [The Complete Piano Duets](https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd) | 4:57 |
 
-Snapshot ID: `MTY2NTA0MzE4OSwwMDAwMDAwMGQ1MjhlZDRhZTU4NjE2MWMwYTY1NmVmODJkOWNmMjcx`
+Snapshot ID: `MTY2ODAwODMyNCwwMDAwMDAwMGZhZDY1MWJkOGExYjJjODM4NGE3MDNlMzZlMTJiZjgx`

@@ -3583,7 +3583,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Stargazer](/playlists/pretty/37i9dQZF1DX1SGz4XfZKy2.md)
 - [Starring Shah Rukh Khan](/playlists/pretty/37i9dQZF1DWZ2bQuX4pBHH.md)
 - [Starring: Raj Kapoor](/playlists/pretty/37i9dQZF1DX56TbM1BxdqS.md)
-- [StartSelect: HEL](/playlists/pretty/37i9dQZF1DX1xEPBKyoFUz.md)
+- [StartSelect: Kratos and Atreus](/playlists/pretty/37i9dQZF1DX1xEPBKyoFUz.md)
 - [State of Jazz](/playlists/pretty/37i9dQZF1DX7YCknf2jT6s.md)
 - [State of Mind](/playlists/pretty/37i9dQZF1DX1YPTAhwehsC.md)
 - [Stay Scary](/playlists/pretty/37i9dQZF1DX5xhM3wDbSS5.md)

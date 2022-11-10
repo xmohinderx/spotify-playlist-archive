@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Riz Ahmed
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,457 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,490 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 5 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 |
 | 6 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 |
 | 7 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 |
-| 8 | [Neeye Oli](https://open.spotify.com/track/5qX9iF6UmV0cypQgeu4ujh) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Made in Jaffna](https://open.spotify.com/album/4fzYyzg0c0c6pFXHOnCVjO) | 3:57 |
+| 8 | [Neeye Oli](https://open.spotify.com/track/5qX9iF6UmV0cypQgeu4ujh) | [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Made in Jaffna](https://open.spotify.com/album/4fzYyzg0c0c6pFXHOnCVjO) | 3:57 |
 | 9 | [Chasin M's](https://open.spotify.com/track/5labhgEWJVHdSFaV2lFHbq) | [Ali Kulture](https://open.spotify.com/artist/79g4UUYgjUD4uulYV4ie9S), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Dj Rob Mista DMV](https://open.spotify.com/artist/0iaMgxQqEcbMtu9bu9lkYR) | [Chasin M's](https://open.spotify.com/album/58Ofpkh7xXrtngf6cxgtuB) | 3:35 |
 | 10 | [Tension](https://open.spotify.com/track/2JUyPdhD8Mae0QHI6f2w6Z) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Sama Blake](https://open.spotify.com/artist/19jOqaZTvseWAgi4PaQJrd) | [I Am Zack Knight](https://open.spotify.com/album/5lySBRzqQIXmTZlz7jlJlC) | 2:48 |
 | 11 | [Temptation](https://open.spotify.com/track/0ulct3cASnhGvaGhFIuIyZ) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Temptation](https://open.spotify.com/album/4EWVYi8lXPirUUeVdHQCy9) | 4:08 |

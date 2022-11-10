@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Os grandes artistas da MPB. Foto: Caetano Veloso",
+  "description": "Os grandes artistas da MPB. Foto: Gal Costa",
   "name": "O Melhor da MPB",
   "published_playlist_ids": [
     "0KkIdIP6N50yyjIcbunsdH"
@@ -258,6 +258,28 @@
     },
     {
       "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212933,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
+    },
+    {
+      "album": {
         "name": "Nenhuma Dor",
         "url": "https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6"
       },
@@ -273,7 +295,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 237150,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT"
@@ -540,6 +562,24 @@
     },
     {
       "album": {
+        "name": "Gal A Todo Vapor (Live)",
+        "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165800,
+      "name": "Como 2 E 2 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT"
+    },
+    {
+      "album": {
         "name": "Elis Regina Em Falso Brilhante",
         "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
       },
@@ -605,7 +645,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 196108,
       "name": "Comportamento Geral",
       "url": "https://open.spotify.com/track/43vOrjFnTEPs4hlj5UbJsM"
@@ -1145,6 +1185,24 @@
       "duration_ms": 225266,
       "name": "Flor de Lis",
       "url": "https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO"
+    },
+    {
+      "album": {
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214693,
+      "name": "For\u00e7a Estranha",
+      "url": "https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x"
     },
     {
       "album": {
@@ -2029,7 +2087,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 178426,
       "name": "Se Todos Fossem Iguais a Voc\u00ea",
       "url": "https://open.spotify.com/track/5KCyS9wZaKo5T6AnKMQ1uG"

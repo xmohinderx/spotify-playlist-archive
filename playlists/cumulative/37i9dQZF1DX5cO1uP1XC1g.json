@@ -1524,6 +1524,24 @@
     },
     {
       "album": {
+        "name": "Ga7da",
+        "url": "https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2"
+      },
+      "artists": [
+        {
+          "name": "Nabil",
+          "url": "https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Ga7da",
+      "url": "https://open.spotify.com/track/2OeBH98G3LNrCybb8J9E5a"
+    },
+    {
+      "album": {
         "name": "Ganna Tekfena",
         "url": "https://open.spotify.com/album/5WvefERaJg67EmvtuwVeuF"
       },

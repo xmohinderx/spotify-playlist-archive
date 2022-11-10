@@ -4,7 +4,7 @@
 
 > Current favorites and exciting new music\. Cover: Tiësto & Tate McRae
 
-695 songs - 1 day 12 hr 9 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
+696 songs - 1 day 12 hr 12 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-11 | 2022-03-26 |
 | [Shh...Don't Say It](https://open.spotify.com/track/170yBuCB3FvhMG2DMSQ4IG) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES](https://open.spotify.com/album/1cppTra3p7ByUGqNsv3Qla) | 2:48 | 2020-10-13\* | 2020-10-16 |
 | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9) | 3:09 | 2021-05-29 | 2021-08-21 |
+| [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-11-09 |  |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-11 | 2022-04-27 |
 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 | 2022-01-14 | 2022-03-05 |
 | [Sideways](https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4) | [Sideways](https://open.spotify.com/album/06eiw663CL0vHSY7jvtZ3p) | 4:11 | 2021-05-15 | 2021-08-07 |

@@ -786,6 +786,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197817,
+      "name": "Blood Rush - Spotify Singles",
+      "url": "https://open.spotify.com/track/487irnHaIRbh6VOWFf9qGs"
+    },
+    {
+      "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE"
       },
@@ -1173,6 +1191,24 @@
       "duration_ms": 223301,
       "name": "Collide",
       "url": "https://open.spotify.com/track/57qkaXRbGABcwhXSitxCNy"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159673,
+      "name": "Come Clean - Spotify Singles",
+      "url": "https://open.spotify.com/track/2gsWt9FOHIq4Z7p5CXUD9j"
     },
     {
       "album": {
@@ -3392,6 +3428,24 @@
     },
     {
       "album": {
+        "name": "Malva",
+        "url": "https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2"
+      },
+      "artists": [
+        {
+          "name": "Flexible Fire",
+          "url": "https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Malva",
+      "url": "https://open.spotify.com/track/0ggSBp3T5MbFG1bggJ3GL3"
+    },
+    {
+      "album": {
         "name": "Maze",
         "url": "https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj"
       },
@@ -4209,7 +4263,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 213000,
       "name": "Overcast",
       "url": "https://open.spotify.com/track/1dyoS4DZxZ30XsWlJJk4kM"

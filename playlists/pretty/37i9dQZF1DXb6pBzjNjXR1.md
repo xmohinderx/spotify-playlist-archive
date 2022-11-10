@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here\. Cover: <a href="https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM?si=zSdVEImKTAWqxRQej11leg">Atmos Blaq</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 972 likes - 60 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 999 likes - 60 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

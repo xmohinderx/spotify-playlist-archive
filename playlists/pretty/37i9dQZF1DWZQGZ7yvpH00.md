@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Los Del Limit en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,145 likes - 58 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,706 likes - 58 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

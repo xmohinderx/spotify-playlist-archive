@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The essential indie dance, featuring obli
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,544 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,773 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 15 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 |
 | 16 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 |
 | 17 | [Call On Me \(with Tove Lo\)](https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Call On Me \(with Tove Lo\)](https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi) | 3:16 |
-| 18 | [Bleu \(better with time\)](https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Bleu \(better with time\)](https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF) | 3:16 |
+| 18 | [Bleu \(better with time\)](https://open.spotify.com/track/1VqS6b1NqGRTkO3NzQpJG7) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 3:16 |
 | 19 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
 | 20 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
 | 21 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [BOMBAY](https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:06 |
 | 100 | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81) | 4:31 |
 
-Snapshot ID: `MTY2NzkyNjYyMywwMDAwMDAwMGMyYmViZTliYTI3OWYzNDdmOTkxOTA2OGZhNmJkMDdh`
+Snapshot ID: `MTY2NzkyNjYyMywwMDAwMDAwMDAwYTQ2ZGFhMmU0N2EwYTBmZmE0YjcwYWNkODNlNzBj`

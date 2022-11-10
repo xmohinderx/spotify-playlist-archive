@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN?si=llxtqtQnSmuH2BLEFC3qYg">DJ Kent</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,151 likes - 55 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,194 likes - 55 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 33 | [Lover](https://open.spotify.com/track/6JMJPX4sm1QEmsKDp18rjZ) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi) | [Lover](https://open.spotify.com/album/01QoLhtw9fRGaQDkVtQdLR) | 7:06 |
 | 34 | [Eyes](https://open.spotify.com/track/0sh6JAgzoiQxz8bqr6ovwp) | [Yan Solo](https://open.spotify.com/artist/1Oiea2hzGgw6aH7cATn1zi), [Apple Gule](https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1) | [Eyes](https://open.spotify.com/album/5h9vQ3VqmtHGb1rRsXyrlr) | 3:13 |
 | 35 | [Peace](https://open.spotify.com/track/0N2WM0kZIYq5mMa0G6uh2E) | [Cammora](https://open.spotify.com/artist/7go67dUO3nn247glvhln3a), [Gregorio](https://open.spotify.com/artist/2HscKJPIk9nvJERnbcui9t), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Peace](https://open.spotify.com/album/5I726QYyOg9cksEYOxSWBo) | 4:00 |
-| 36 | [Wanalia](https://open.spotify.com/track/1NVyVOjrTFhtAbr1siZ3bq) | [Gazzille\_Z.A](https://open.spotify.com/artist/6pxLXiRwqTibmbIQPwjDnB), [Djuma Soundsystem](https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF) | [Wanalia](https://open.spotify.com/album/0J7saRGE9G5jmRHQzPezkR) | 6:24 |
+| 36 | [Wanalia](https://open.spotify.com/track/1NVyVOjrTFhtAbr1siZ3bq) | [Gazzille\_Z.A](https://open.spotify.com/artist/6pxLXiRwqTibmbIQPwjDnB), [Djuma Soundsystem](https://open.spotify.com/artist/2qLMn7MWPmxYxQz14KY7MV) | [Wanalia](https://open.spotify.com/album/0J7saRGE9G5jmRHQzPezkR) | 6:24 |
 | 37 | [Uhuru \(feat\. Bukeka\)](https://open.spotify.com/track/1X6CBRZFpjQE2igZ7xvGIl) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV) | [Amani EP](https://open.spotify.com/album/3R9b7M812Z2wnN8p6fJtIQ) | 4:56 |
 | 38 | [Minamato](https://open.spotify.com/track/73X5KApLsp2GaIKEnJiDJu) | [HALU!](https://open.spotify.com/artist/71zjmlom6VeFdwJsqLSl2z), [Reverb7](https://open.spotify.com/artist/6eWzuNjgNPDhshDsIT0NAy), [Tina Masawi](https://open.spotify.com/artist/1waGvYdujmgKc9cNid89US) | [Reverb7 Vs HALU! \(The Remixes\)](https://open.spotify.com/album/7x9hZvWEiBeyZgpDDkV0T0) | 6:00 |
 | 39 | [All About You](https://open.spotify.com/track/4iHkBDuwhzJEsflOGMoEt2) | [Lou Wilson](https://open.spotify.com/artist/1nsw4RdQv97K371J01JjDV) | [All About You](https://open.spotify.com/album/3r1F3yu0wwFC5PDygWa9o2) | 3:00 |

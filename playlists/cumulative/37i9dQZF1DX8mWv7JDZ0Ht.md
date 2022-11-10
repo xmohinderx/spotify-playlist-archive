@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc
 
-181 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+182 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [No Mesmo Tom](https://open.spotify.com/track/0I4vL4Z2MZyZzhFxBktvdR) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [No Mesmo Tom](https://open.spotify.com/album/4Lrv9Ock8oIOYrQks34vrV) | 3:19 | 2022-08-01 |  |
 | [Não Me Chame Pelo Nome](https://open.spotify.com/track/1Bo1M5ADOZ6jKQqwLfNbph) | [Mu Bispo](https://open.spotify.com/artist/2lYbWSffR2cha5exwBBjOv) | [Menor Que Três](https://open.spotify.com/album/0Dx6zGz8z3DZpjGDZbsvQG) | 3:32 | 2022-08-12 | 2022-10-11 |
 | [não passa vontade](https://open.spotify.com/track/1HbHUc3TamGVwXlcUolMej) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [não passa vontade](https://open.spotify.com/album/7i7MI50qJ4FZTsiz1DOsMp) | 3:41 | 2022-05-13 |  |
+| [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 |  |
 | [Não Sou Boa Com Palavras](https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Mais Uma História de Amor](https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ) | 2:23 | 2022-08-26 |  |
 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 | 2022-05-13 |  |
 | [Não Vou Mais Ceder](https://open.spotify.com/track/4iV9n0PFuhKaFYHv0FHUoM) | [GHABI](https://open.spotify.com/artist/1yzhaT2wIvdMuJdrd2iRPM) | [Não Vou Mais Ceder](https://open.spotify.com/album/1EYEen74TH7ONTnfLKYBaf) | 3:00 | 2022-10-14 | 2022-10-29 |

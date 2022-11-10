@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2H7rfzRpsqXkc2FPOlv123">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356 likes - 61 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 61 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 25 | [History](https://open.spotify.com/track/1OA8mjWFtbYqGHEP4N5lUd) | [Megan McKenna](https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu) | [Story of Me](https://open.spotify.com/album/6sbx4lCpIoLgk9LBGMpwMe) | 3:27 |
 | 26 | [Walking Through The Desert](https://open.spotify.com/track/6nAnpLRB9KQPg2juqXbzHe) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Finest Selection: The Greatest Hits](https://open.spotify.com/album/3LwLqcW85aPAOIZz6qH4MJ) | 3:22 |
 | 27 | [Naked](https://open.spotify.com/track/7wM5hNcY1bLFUmZKp9mKkw) | [The Tide](https://open.spotify.com/artist/6cXVCUCVlW1JSPxRHoelTb) | [Young Love](https://open.spotify.com/album/0NKH3ImlF1nODufKjyYpqT) | 2:55 |
-| 28 | [All The Time](https://open.spotify.com/track/20k8E1XXdBdBJPQJq0G5YI) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/4HUIhXljD7mEOJDEn9ytCC) | 3:28 |
-| 29 | [Riotka](https://open.spotify.com/track/6mxgoXjwUX3jRy9myivNle) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe) | 3:05 |
+| 28 | [Riotka](https://open.spotify.com/track/6mxgoXjwUX3jRy9myivNle) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe) | 3:05 |
+| 29 | [All The Time](https://open.spotify.com/track/20k8E1XXdBdBJPQJq0G5YI) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/4HUIhXljD7mEOJDEn9ytCC) | 3:28 |
 | 30 | [The Chase](https://open.spotify.com/track/0FZlnRFL7ZgzGdnC4BKt4S) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:20 |
 | 31 | [Lazy Lovers](https://open.spotify.com/track/1v7XmP992YPIdBhMlknnBL) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Twilight Zone](https://open.spotify.com/album/5icIasbyaQwyG6ptiThzzt) | 3:27 |
 | 32 | [Still Standing](https://open.spotify.com/track/4zUhhxvvoVMH4mZ1fdr2ld) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Still Standing \- SM STATION](https://open.spotify.com/album/24CLUCxTxhwygLoY8gEMNy) | 3:14 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 60 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
 | 61 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
 
-Snapshot ID: `Mjc3OTkzMjEsMDAwMDAwMDA5NWJhYjBkYjVlZjNiZjE3MjJlNmY2ZGVkNjQ3YjlhMQ==`
+Snapshot ID: `Mjc4MDA3MDAsMDAwMDAwMDAyZTBiNTExNTNhOGE0YjVkYzg1MjA4YzQ0NzJmNDMyZg==`

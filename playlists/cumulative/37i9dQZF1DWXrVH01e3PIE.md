@@ -4,7 +4,7 @@
 
 > Muerejoven en la casa del Trap de Argentino.
 
-156 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
+157 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Hi\-C](https://open.spotify.com/track/1HMcrQaGJ7tkeZ1t0JXXLj) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Hi\-C](https://open.spotify.com/album/0a9KLULfJckkXg2Cq5jmpA) | 2:28 | 2022-01-21 |  |
 | [Homies](https://open.spotify.com/track/35KPSTUvQMcvJfI2yRUvxg) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [Homies](https://open.spotify.com/album/0rSTln3y4djMfs24ycg7pb) | 2:02 | 2022-01-21 |  |
 | [Humilde pero Cotizado](https://open.spotify.com/track/4K8LtrJP6kxbwuTvSqpQCf) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv) | [Humilde pero Cotizado](https://open.spotify.com/album/7jw0BTiz0RRFnjUomw562e) | 2:42 | 2022-05-27 |  |
+| [Impala](https://open.spotify.com/track/3TYAP8JTrp84JQuk6Z5Gkm) | [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [Impala](https://open.spotify.com/album/7CYDzdTlTA0FV1KkJsR7ca) | 2:29 | 2022-11-09 |  |
 | [Infinito al Doble](https://open.spotify.com/track/0GnAvYHtwWi1x2BosdNDf5) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [Infinito al Doble](https://open.spotify.com/album/1wVslOIwbHczIgpjluf6FP) | 2:56 | 2022-01-21 |  |
 | [Jefa](https://open.spotify.com/track/5p3UrngKJuewvX42AqBBNe) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Jefa](https://open.spotify.com/album/1Sg6umTTHxbHrTveLYsA2q) | 2:15 | 2022-05-20 |  |
 | [Jimmy Fallon \- Remix](https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Jimmy Fallon \(Remix\)](https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW) | 4:02 | 2022-01-21 |  |
@@ -163,6 +164,6 @@
 | [Water](https://open.spotify.com/track/3RCxWl2N0lPx83c7PPRmxW) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/3qdQV2P5OM19g675aZkRlQ) | 3:10 | 2022-07-21 |  |
 | [Water](https://open.spotify.com/track/4BpwcrTmvQUIPcjPVhS6ki) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/0giRSV8h2BwG62oJV6AHxa) | 3:10 | 2022-01-21 | 2022-07-29 |
 | [West Side](https://open.spotify.com/track/6d4011p5G8tUDod5hYyNZS) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [West Side](https://open.spotify.com/album/1EFPBMgpUspW5wp7JUkwIV) | 2:31 | 2022-01-21 |  |
-| [XL](https://open.spotify.com/track/3pEg3izEeG5LzBHZkykbMH) | [Arse](https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX), [44 Kid](https://open.spotify.com/artist/6C5H5G8EN1hu9N1wtOF5Wb), [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [XL](https://open.spotify.com/album/10IBYtlp0KVqhNF6W44A65) | 3:19 | 2022-08-05 |  |
+| [XL](https://open.spotify.com/track/3pEg3izEeG5LzBHZkykbMH) | [Arse](https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX), [44 Kid](https://open.spotify.com/artist/6C5H5G8EN1hu9N1wtOF5Wb), [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [XL](https://open.spotify.com/album/10IBYtlp0KVqhNF6W44A65) | 3:19 | 2022-08-05 | 2022-11-10 |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

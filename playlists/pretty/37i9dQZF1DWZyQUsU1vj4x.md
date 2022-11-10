@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,528 likes - 96 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,590 likes - 96 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 27 | [Let This Remain](https://open.spotify.com/track/7cCOmB2QOuW04afSmTbDGL) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Let This Remain](https://open.spotify.com/album/4mndZQ8LpNLxYh54oVnhH2) | 3:22 |
 | 28 | [Ain't No Easy Way](https://open.spotify.com/track/2fUUIfU0WurkHNLoUJwGnH) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT) | 2:36 |
 | 29 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
-| 30 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
+| 30 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
 | 31 | [You](https://open.spotify.com/track/463QkaYcFvcfAeHnKNPuRr) | [Lizzie Weber](https://open.spotify.com/artist/4ccrRYqGDvMVvKhI4TKim7) | [You](https://open.spotify.com/album/6rrDTUVgBXzrKINnr49e4e) | 3:03 |
 | 32 | [Not Home Anymore \(Live at Sun Studio\)](https://open.spotify.com/track/2zpNi06avggsxZIU7eYcBe) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Not Home Anymore \(Live at Sun Studio\)](https://open.spotify.com/album/5jziZ3DdAMCg7ncqRxvLFu) | 3:15 |
 | 33 | [I Feel Your Love](https://open.spotify.com/track/7uG8yNUrm9hnz6lP5jBriW) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie](https://open.spotify.com/album/08cXCARUoHLoccf0y06Dlv) | 4:02 |

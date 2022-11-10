@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: Night Lovell
 
-327 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+328 songs - 13 hr 0 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [CUM](https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [CUM](https://open.spotify.com/album/1sCIGjznAsgu5kd7RpSrQx) | 2:56 | 2021-11-12 | 2022-05-08 |
 | [DATAMOSHBLOODDROP](https://open.spotify.com/track/0Wix0CB1XZ3aCVaVZo6mnT) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [DATAMOSHBLOODDROP](https://open.spotify.com/album/5hjfjcqj8IbrY9c4CmlgFf) | 2:55 | 2022-02-18 | 2022-04-19 |
 | [Dead Batteries](https://open.spotify.com/track/00UDmkyejOcUApEqpiB90i) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [7th or St\. Tammany](https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4) | 2:23 | 2022-04-11 | 2022-05-17 |
-| [Dead Head](https://open.spotify.com/track/3BFSnq39LgVlqsMay7fpbN) | [Mikey Rotten](https://open.spotify.com/artist/1zHT9y9IMhDCl0j6TSkZ1m) | [Dead Head](https://open.spotify.com/album/3PYsY6kWAlEhpjul4lk8R6) | 1:20 | 2022-10-28 |  |
+| [Dead Head](https://open.spotify.com/track/3BFSnq39LgVlqsMay7fpbN) | [Mikey Rotten](https://open.spotify.com/artist/1zHT9y9IMhDCl0j6TSkZ1m) | [Dead Head](https://open.spotify.com/album/3PYsY6kWAlEhpjul4lk8R6) | 1:20 | 2022-10-28 | 2022-11-10 |
 | [DEAD ONE](https://open.spotify.com/track/3BNVFDqzVpziMeRZMLBY7F) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [Heartsnow](https://open.spotify.com/artist/7999NGEoCSbZ9UirHPDlql) | [DEAD ONE](https://open.spotify.com/album/00T1P0wR8YKI8UaesBziwg) | 2:06 | 2022-04-22 | 2022-07-27 |
 | [DEAD OR ALIVE](https://open.spotify.com/track/48VY050bKrpgaJM20n8uBS) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [DEAD OR ALIVE](https://open.spotify.com/album/4Uf1M20JT33LgrpwNhN0TC) | 2:11 | 2022-01-28 | 2022-07-27 |
 | [DEAD OR ALIVE](https://open.spotify.com/track/18vRG2hgEKrg9fgkITGvXT) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [DEAD OR ALIVE](https://open.spotify.com/album/6rGLysyfoqKWRGpKwn6cUp) | 2:43 | 2022-07-08 | 2022-07-27 |
@@ -195,6 +195,7 @@
 | [LIGHTNING](https://open.spotify.com/track/2TAYhTjo2swsdQbERc87fh) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc) | [LIGHTNING](https://open.spotify.com/album/7fi13uklZxLOvkjV6Yxgg9) | 2:38 | 2022-05-20 | 2022-07-27 |
 | [LIGHTS OUT](https://open.spotify.com/track/7fmdx48NGBhwa4ccuj6KaT) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [LIGHTS OUT](https://open.spotify.com/album/4swHNCnuVofbpd9HA5ar3u) | 1:25 | 2021-09-17 | 2022-07-27 |
 | [LIKE YXU WXULD KNXW \(AUTUMN TREES\)](https://open.spotify.com/track/75M7UJy4KmcP3ng0vICdPN) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [LIKE YXU WXULD KNXW \(AUTUMN TREES\)](https://open.spotify.com/album/0SydhvaVdZzioAgD2HxuXY) | 3:30 | 2022-10-07 |  |
+| [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 | 2022-11-09 |  |
 | [LIVE FAST DIE SLOW \(feat\. Travis Barker\)](https://open.spotify.com/track/2IwvEYzqEhwfDBQe1d3R5Y) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [LIVE FAST DIE SLOW \(feat\. Travis Barker\)](https://open.spotify.com/album/37JxCFDZ2HZG3f7dRjzARQ) | 2:17 | 2022-05-06 | 2022-06-25 |
 | [Lockdown](https://open.spotify.com/track/3lU6WHbLZA2wBPtyom6XMb) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Lockdown](https://open.spotify.com/album/70F6SQitK1MnH6osFmZ8HO) | 1:54 | 2021-12-03 | 2022-06-04 |
 | [LOCKED IN](https://open.spotify.com/track/2v3ZLttQotgS0GuSaJT6Kt) | [luvseat](https://open.spotify.com/artist/7efjR9fsgGb2ZuhhEDYhqs), [BRUHMANEGOD](https://open.spotify.com/artist/4jKJcl7HTKV6FXKizgJiaY) | [LOCKED IN](https://open.spotify.com/album/7AiUnXzeuLqWtnppWa0SA8) | 2:58 | 2022-05-27 | 2022-06-01 |

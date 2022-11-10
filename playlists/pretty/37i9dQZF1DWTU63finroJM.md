@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,908 likes - 232 songs - 13 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,947 likes - 232 songs - 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 141 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 |
 | 142 | [Tết Real Khum?](https://open.spotify.com/track/5rvn7zGZYmFDq27Y2P7tPu) | [Wowy](https://open.spotify.com/artist/4iFNiWhODcMZdmpNkxsTFp), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59) | [Tết Real Khum?](https://open.spotify.com/album/73Pkh381e7WaWIBbbdksA8) | 3:38 |
 | 143 | [Les gens qui doutent](https://open.spotify.com/track/7fsnHdB8abooTvR7bkhWXh) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Les gens qui doutent](https://open.spotify.com/album/4qa4kWwOe8wH1SRrE4kx7U) | 3:16 |
-| 144 | [우리의 이야기 Urieui Iyagi \(Semua Tentang Kita\)](https://open.spotify.com/track/0RBRgHbP7pW4yUi6J1wquh) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Keterkaitan Keterikatan \- Acoustic Version in 360 \(Part 1\)](https://open.spotify.com/album/2rhy7oL0c6yH3SGw0TnT4p) | 3:34 |
+| 144 | [우리의 이야기 Urieui Iyagi \(Semua Tentang Kita\)](https://open.spotify.com/track/0RBRgHbP7pW4yUi6J1wquh) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Keterkaitan Keterikatan \- Acoustic Version in 360 \(Part I\)](https://open.spotify.com/album/2rhy7oL0c6yH3SGw0TnT4p) | 3:34 |
 | 145 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 |
 | 146 | [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 |
 | 147 | [各就各位!預備!](https://open.spotify.com/track/26GJ3VhzsYhhdKB7E2Q7F5) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [各就各位!預備!](https://open.spotify.com/album/5V1WgnpWAL3wYsNqwXCAcP) | 3:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Gustavo Mioto, Mari Fernandez
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,701,301 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,702,898 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 25 | [Tesão Da Madrugada \- Ao Vivo](https://open.spotify.com/track/4grGI2vFnknrfmHT1JOVFU) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ao Vivo Em Brasília](https://open.spotify.com/album/6NM4daMHIA3uWxf2YjITpC) | 2:53 |
 | 26 | [Acordo \- Ao Vivo](https://open.spotify.com/track/2jb8HW2CXr4mOJaw7LJyVw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Acordo \(Ao Vivo\)](https://open.spotify.com/album/1hG9khbERmeplVf0lTn6gm) | 2:49 |
 | 27 | [Te Amo Demais](https://open.spotify.com/track/4xxeEWGQNFQ6qehlnev5LS) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol.1](https://open.spotify.com/album/24aslPrdihuSQ59jrB2eBB) | 3:25 |
-| 28 | [Melhor Ser uma Saudade](https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Tarja Preta, Ep\. 1](https://open.spotify.com/album/5BDWrnqQRfs2wSre2V7GbY) | 2:38 |
+| 28 | [Melhor Ser uma Saudade](https://open.spotify.com/track/5IcPYzR2bkS4W3MabMpi4Z) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Tarja Preta](https://open.spotify.com/album/5QBgkxSxKSL0miMmONVo8a) | 2:38 |
 | 29 | [Evento Cancelado \- Ao Vivo](https://open.spotify.com/track/11fqunD6qlOCrRd88kMOk6) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 3:03 |
 | 30 | [Não Sei o Que Lá](https://open.spotify.com/track/7graPn87bYFxTLNnRnFDMZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Não Sei o Que Lá](https://open.spotify.com/album/2XNMZxBXu26RGAwL3524Ye) | 2:49 |
 | 31 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5lCAtKxkZL6tFDyGX9t87j) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/3jk9qHtMT4eVvVwvUVD11z) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Troca de Calçada](https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Troca de Calçada](https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k) | 3:23 |
 | 50 | [Rasteira \- Ao Vivo](https://open.spotify.com/track/685gjMmRjwLFrtCWtF2sXo) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/34C5pWtJWvLUfKoIZTNrug) | 3:09 |
 
-Snapshot ID: `MTY2NzkzNjk2MiwwMDAwMDAwMGRkNTNhMWY0NDI2OGRlNmUwOGNkNzE5ZmIyN2FjNTFi`
+Snapshot ID: `MTY2NzkzNjk2MiwwMDAwMDAwMDZhMmQwZTRjY2JhYTYyMTgwNzJmNmUzZDA3NWRiYzM5`

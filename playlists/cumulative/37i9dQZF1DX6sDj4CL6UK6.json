@@ -708,6 +708,28 @@
     },
     {
       "album": {
+        "name": "Fooling Myself",
+        "url": "https://open.spotify.com/album/1vHKyM6FTrN1r74juua4kq"
+      },
+      "artists": [
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        },
+        {
+          "name": "Emily Coupe",
+          "url": "https://open.spotify.com/artist/0RJ6bq5MxjA0D8uAG6GHJb"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204210,
+      "name": "Fooling Myself",
+      "url": "https://open.spotify.com/track/6Lq5hNjil6j9xWwXqXfHv7"
+    },
+    {
+      "album": {
         "name": "Foolish Once Again",
         "url": "https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV"
       },

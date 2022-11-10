@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 199733,
       "name": "Alby Habak Gedan",
       "url": "https://open.spotify.com/track/4pGaxNrUaxI98DYSK6s7mj"
@@ -1794,6 +1794,24 @@
     },
     {
       "album": {
+        "name": "Hawwa",
+        "url": "https://open.spotify.com/album/4Uk227gcmdkstmQMVVDHxl"
+      },
+      "artists": [
+        {
+          "name": "Yara Korkomaz",
+          "url": "https://open.spotify.com/artist/6amwfCnGymkXQLiFYq23PU"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129532,
+      "name": "Hawwa",
+      "url": "https://open.spotify.com/track/0uIlJ1aiIJYqscUjXONYPo"
+    },
+    {
+      "album": {
         "name": "Hayfout Alek",
         "url": "https://open.spotify.com/album/6SQj9WllIr9VpJdx4umi6u"
       },
@@ -1881,6 +1899,32 @@
       "duration_ms": 221374,
       "name": "Hob Meen",
       "url": "https://open.spotify.com/track/5pz9YaGFn6iV84WC8Xo4Jw"
+    },
+    {
+      "album": {
+        "name": "Independent",
+        "url": "https://open.spotify.com/album/2RZG30VaDtoJeCUPdMImG0"
+      },
+      "artists": [
+        {
+          "name": "Rana Samaha",
+          "url": "https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW"
+        },
+        {
+          "name": "Mirna Hesham",
+          "url": "https://open.spotify.com/artist/2XuOGCueot1VkEcd5tQVYB"
+        },
+        {
+          "name": "Alaa Ayoub",
+          "url": "https://open.spotify.com/artist/1VlKswfMq3gkY5dqMPqOtH"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251359,
+      "name": "Independent",
+      "url": "https://open.spotify.com/track/23LjDDuaiLm6pU4CiS2WY8"
     },
     {
       "album": {
@@ -3343,7 +3387,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 264214,
       "name": "Sebna Ba\u2019ad",
       "url": "https://open.spotify.com/track/0RNhHikB5AUFk2CphRFGtP"

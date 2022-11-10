@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,611 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,787 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 54 | [Winter Wonderland \- 1959 Version](https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Season's Greetings](https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9) | 3:26 |
 | 55 | [When Christmas Has Gone](https://open.spotify.com/track/3TZO1SX9qPyewA2njmPe1U) | [The Snowy Hill Singers](https://open.spotify.com/artist/4GZ9mdTr7du09qW50dByCD), [Vincent Vega](https://open.spotify.com/artist/5wAc3dT6q091nIZVs9oioF) | [Christmas In L.A](https://open.spotify.com/album/0pqDYrQEOyQr4mkhDquG4w) | 3:48 |
 
-Snapshot ID: `MTY2NTA5MzYwMCwwMDAwMDAwMGFlNWRjNGUxYWIwZjNmZGEzZDc4MjU3ZmFiODUzNWMy`
+Snapshot ID: `MTY2ODAwMTk2MSwwMDAwMDAwMDM0MWY1MmU4ZGVmOWUwMzk2Y2I1ZGI2NzkzYmM1YTcx`

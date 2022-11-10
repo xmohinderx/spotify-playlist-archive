@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Wunderhorse
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,928 likes - 91 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,926 likes - 91 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 87 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 |
 | 88 | [How Are You Feeling?](https://open.spotify.com/track/2ctbvOJeepAPf51RoeBE4m) | [George O'Hanlon](https://open.spotify.com/artist/5U7rIQxm8yEEXbJB3bl7JE) | [How Are You Feeling?](https://open.spotify.com/album/54TbLSAUGAQIIZSW4s8Jwu) | 2:56 |
 | 89 | [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 |
-| 90 | [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 |
+| 90 | [Sepsis](https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs) | 3:48 |
 | 91 | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/track/42SeGdgNjDJxzuc9YRVOn6) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/album/764Zqu3swQwYLSLz5qftq6) | 4:30 |
 
-Snapshot ID: `MTY2NjM1Njk0NSwwMDAwMDAwMDk0YTQ0NTJmY2Q5NmQ4YWU1MzNlMDdjMmUzNzVlYTVl`
+Snapshot ID: `MTY2NjM1Njk0NSwwMDAwMDAwMGNmYmM3MjIwOGE1NDRjYzU5MjM4MmMxNWJiZDUzODE2`

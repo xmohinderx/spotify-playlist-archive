@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,929 likes - 122 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,273 likes - 122 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 121 | [True Love](https://open.spotify.com/track/4NRF1B6kriUmtXflcVmed7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:46 |
 | 122 | [Love Is Christmas](https://open.spotify.com/track/7edfMl8VjYXRMFzy4LQLGs) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Love Is Christmas](https://open.spotify.com/album/35AQxuSSqGQadvkcnk28TG) | 2:46 |
 
-Snapshot ID: `MTY2NDIwMjEzMCwwMDAwMDAwMDhkMTMzYjMzNGEwYzMxZjYyNWFiY2ZiMWJkN2NjNDZm`
+Snapshot ID: `MTY2Nzk4NjQyOCwwMDAwMDAwMGQ5YTY5MGNkYWVlMjY5NTFkY2ZiNDk5YmIwOTA5Y2Rj`

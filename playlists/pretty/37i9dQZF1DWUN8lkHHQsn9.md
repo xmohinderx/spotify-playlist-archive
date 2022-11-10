@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Posłuchaj głosu polskich artystów LGBTQIA+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: Zawadzki
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,225 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,224 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 22 | [FOMO](https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [FOMO](https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ) | 3:44 |
 | 23 | [Miło Cię Poznać](https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Miło Cię Poznać](https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri) | 3:31 |
 | 24 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 |
-| 25 | [BSoD](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
+| 25 | [BSoD \(Bluescreen\)](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD \(Bluescreen\)](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
 | 26 | [Suka jak Ja](https://open.spotify.com/track/4VYuEsq0d7fjYBQyyCqP8d) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ) | 3:10 |
 | 27 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
 | 28 | [Don't Collapse](https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP) | [Didi Lez](https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v), [Julia Bossque](https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51) | [Don't Collapse](https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm) | 4:21 |

@@ -4309,10 +4309,28 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 204493,
       "name": "Zanshin",
       "url": "https://open.spotify.com/track/3uXTMl8KvW3oS22uaFk2bM"
+    },
+    {
+      "album": {
+        "name": "Seimei",
+        "url": "https://open.spotify.com/album/6jQP5MIL7cCNHeWxyl8ryg"
+      },
+      "artists": [
+        {
+          "name": "envy",
+          "url": "https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "Zanshin",
+      "url": "https://open.spotify.com/track/7nNnwATQnctS6yLREghFwO"
     },
     {
       "album": {

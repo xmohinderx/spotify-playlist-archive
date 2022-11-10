@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Manal
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,792 likes - 71 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,821 likes - 71 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 66 | [Another Life](https://open.spotify.com/track/2nZSM1K6ygAtwvZXtYXnxz) | [Celeste Buckingham](https://open.spotify.com/artist/2fIUlieTjLTaNQUIKHX5B8) | [Life](https://open.spotify.com/album/6eHdWplf77Jq7KX3Kqeii4) | 4:06 |
 | 67 | [Jui$y](https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Feels](https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj) | 3:26 |
 | 68 | [Tudo bem](https://open.spotify.com/track/2L8uyJZ2NfpapRrtDtzs8m) | [CLELIA](https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt) | [Tudo bem](https://open.spotify.com/album/0RN7qf63m2AKqU2NZX6Ikh) | 3:15 |
-| 69 | [mexico city](https://open.spotify.com/track/4yl95JyeOUopdg7GXlnY0o) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:27 |
-| 70 | [MY CREW](https://open.spotify.com/track/7rCQ2IUc15BI83NkvxHoIC) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [MY CREW \(Friendless x Hugh Lake Remix\)](https://open.spotify.com/album/3vWWwBYvHyjMiwk6zUTe7W) | 2:32 |
-| 71 | [3:30](https://open.spotify.com/track/3vt2uTPMsJtAABxhyxmU9u) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [3:30](https://open.spotify.com/album/5vo8DvHawHGp7FM40oHOmK) | 3:23 |
+| 69 | [MY CREW](https://open.spotify.com/track/7rCQ2IUc15BI83NkvxHoIC) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [MY CREW \(Friendless x Hugh Lake Remix\)](https://open.spotify.com/album/3vWWwBYvHyjMiwk6zUTe7W) | 2:32 |
+| 70 | [3:30](https://open.spotify.com/track/3vt2uTPMsJtAABxhyxmU9u) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [3:30](https://open.spotify.com/album/5vo8DvHawHGp7FM40oHOmK) | 3:23 |
+| 71 | [sideways \- Spotify Singles](https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ) | 2:37 |
 
-Snapshot ID: `MTY2Nzk0ODQwMCwwMDAwMDAwMGFiZGY3N2VhYjY2NjcxMDdkYjFhZjY1YjQ3Yjc3ZTk0`
+Snapshot ID: `MTY2ODAzMjA0NywwMDAwMDAwMGJkZGI0N2UzMzcyYTYyNWM0YzkzNWFjZDU1ZDNjOWE3`

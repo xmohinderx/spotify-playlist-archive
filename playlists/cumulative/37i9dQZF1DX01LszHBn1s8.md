@@ -4,7 +4,7 @@
 
 > simon ❤️💔 wilhelm
 
-788 songs - 1 day 17 hr 37 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
+789 songs - 1 day 17 hr 41 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2022-05-19 |  |
 | [Antarctica](https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Antarctica](https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL) | 2:06 | 2022-07-14 |  |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-21 |  |
+| [Anti\-Hero \(feat\. Bleachers\)](https://open.spotify.com/track/0j0gJqxitjhmmkrW56dtQH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Anti\-Hero \(feat\. Bleachers\)](https://open.spotify.com/album/18DEtVsRVQ4rxqnOIAPwRB) | 3:48 | 2022-11-09 |  |
 | [Anybody](https://open.spotify.com/track/5hmagJmSC6n4UwT0crJIeC) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Anybody](https://open.spotify.com/album/7I00x5cxjEpvjhCeMIYqtv) | 3:26 | 2022-05-19 |  |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2022-07-07 |  |
 | [Are You That Somebody](https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Are You That Somebody](https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD) | 4:25 | 2022-05-19 |  |
@@ -484,9 +485,9 @@
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-05-19 |  |
 | [Naked](https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Naked](https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR) | 2:47 | 2022-05-19 |  |
 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-07-28 |  |
-| [Nasty](https://open.spotify.com/track/1cQUCRdsZTnZtK9dD6u6ZD) | [adqm](https://open.spotify.com/artist/6Dbu7taFfsSGE3HhmRV1PA) | [Horny.4U \(From the Vault\)](https://open.spotify.com/album/2Wk7Ljl69U9X28a92GiTsG) | 2:15 | 2022-11-08 |  |
+| [Nasty](https://open.spotify.com/track/1cQUCRdsZTnZtK9dD6u6ZD) | [adqm](https://open.spotify.com/artist/6Dbu7taFfsSGE3HhmRV1PA) | [Horny.4U \(From the Vault\)](https://open.spotify.com/album/2Wk7Ljl69U9X28a92GiTsG) | 2:15 | 2022-11-08 | 2022-11-10 |
 | [Nasty](https://open.spotify.com/track/2eWeACOtxwaVMfIhYBsAid) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [www.FuckMe.com](https://open.spotify.com/album/1b0DzzjaWd5PXhgcMvV6WT) | 2:15 | 2022-05-19 | 2022-10-24 |
-| [Nasty](https://open.spotify.com/track/5vQVca1ShutehX51ewkuPN) | [Ayesha Nicole Smith](https://open.spotify.com/artist/3rYlF5arfhYwRbxmNcicat), [Fraser](https://open.spotify.com/artist/0mDpXFOFb3Gz2sabUfP2Ka) | [www.FuckMe.com \(Deluxe\)](https://open.spotify.com/album/3r3s52Mk0KkwegBofKxAMr) | 2:14 | 2022-05-19 | 2022-11-09 |
+| [Nasty](https://open.spotify.com/track/5vQVca1ShutehX51ewkuPN) | [Ayesha Nicole Smith](https://open.spotify.com/artist/3rYlF5arfhYwRbxmNcicat), [Fraser](https://open.spotify.com/artist/0mDpXFOFb3Gz2sabUfP2Ka) | [www.FuckMe.com \(Deluxe\)](https://open.spotify.com/album/3r3s52Mk0KkwegBofKxAMr) | 2:14 | 2022-05-19 |  |
 | [Never Forget You](https://open.spotify.com/track/3xxmjMvJsSR3L7mUOxP9QA) | [Noisettes](https://open.spotify.com/artist/6oX4tx055oEFYM3ahDTyOD) | [Wild Young Hearts](https://open.spotify.com/album/0xobW2Yg1TBQ53ybxYAlyA) | 3:12 | 2022-05-19 |  |
 | [Never Go Wrong](https://open.spotify.com/track/2K036A2TOlSr13Ej8s6ODk) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Never Go Wrong](https://open.spotify.com/album/4iOH0UQ1KxmHgd37QXPEb0) | 2:35 | 2022-05-19 | 2022-07-29 |
 | [Never Go Wrong](https://open.spotify.com/track/7cLvLpnhpnQtea3ETMYgV5) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Never Go Wrong](https://open.spotify.com/album/17ZqMxccQxyrfwZyH2OUhP) | 2:35 | 2022-05-19 |  |

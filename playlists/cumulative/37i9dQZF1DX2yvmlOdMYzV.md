@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-270 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
+271 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Downers](https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers](https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt) | 3:38 | 2021-12-15 |  |
 | [dreaming](https://open.spotify.com/track/6mjCfixEcMad2k7OiMLhMJ) | [Mar](https://open.spotify.com/artist/6e2Hf0OeWo1XAK5Sg70oBQ) | [life is a chord progression](https://open.spotify.com/album/7CZmImneBX6du6FXPt143z) | 3:02 | 2021-12-15 | 2022-07-29 |
 | [Drifty](https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Demos](https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp) | 3:57 | 2021-12-15 |  |
-| [Dying in the Subtlety](https://open.spotify.com/track/5k9BcVWNFpsU35Ojv7LjGQ) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Dying in the Subtlety](https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP) | 2:19 | 2021-12-15 |  |
+| [Dying in the Subtlety](https://open.spotify.com/track/5k9BcVWNFpsU35Ojv7LjGQ) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Dying in the Subtlety](https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP) | 2:19 | 2021-12-15 | 2022-11-10 |
 | [Easy Baby](https://open.spotify.com/track/3trAHivkszyC0kFTGQ7Bf4) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [Easy Baby](https://open.spotify.com/album/0x7hOg2zE7GSphEDmwI7Ct) | 3:19 | 2022-06-30 |  |
 | [Easy Baby](https://open.spotify.com/track/4ti63sQWlpSvKUaCqXjcjc) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [Easy Baby](https://open.spotify.com/album/5nxfGiKqavxhxGZG3VQQ2B) | 3:19 | 2021-12-15 | 2022-07-29 |
 | [Exit](https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Exit](https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej) | 3:16 | 2021-12-15 |  |
@@ -267,6 +267,7 @@
 | [Where U At?](https://open.spotify.com/track/6wE9qLKJu7DovH54rvrSVs) | [Chinatown Slalom](https://open.spotify.com/artist/25pbZ2yTnog5SBbk7WyfNn) | [Who Wants to Be a Millionaire?](https://open.spotify.com/album/0EBV0eMmVkYopo5yLiy96r) | 2:52 | 2021-12-15 | 2022-07-29 |
 | [Where U Goin' Tonight?](https://open.spotify.com/track/4Z5Bwienk09FUgwsMlsPwJ) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Magic 8ball](https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5) | 4:23 | 2021-12-15 |  |
 | [Whoa](https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:19 | 2021-12-15 | 2022-02-12 |
+| [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-11-09 |  |
 | [Willow Tree](https://open.spotify.com/track/4ir5WlzsgiP6TEbRtkhCGR) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Jordxn Bryant](https://open.spotify.com/artist/5HDugisegjcujApqOEN3Ki), [Hollywood JB](https://open.spotify.com/artist/7rQhG9iwQZilVSDCivPQO4), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Bears Like This Too Much](https://open.spotify.com/album/1QYACZF6ijryY2dHq71erf) | 3:15 | 2021-12-15 | 2022-05-25 |
 | [Yah / Element \- Medley](https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Yah / Element \(Medley\)](https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw) | 2:56 | 2021-12-15 |  |
 | [Yesterday](https://open.spotify.com/track/0Vg1lQpk2IHk2JU8UfAa5d) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Love Japan](https://open.spotify.com/album/1JKqsdbwfOK1233EOT67ZM) | 1:11 | 2021-12-15 |  |

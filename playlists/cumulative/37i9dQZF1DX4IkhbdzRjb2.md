@@ -4,7 +4,7 @@
 
 > Since 1962, <a href="https://www.casitadelcampo.net/">Casita Del Campo</a> has been a refuge to Los Angeles' LGTBQQIA+ community\. Like their environment, the songs picked are original, energetic, and diverse just like their patrons!
 
-53 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/3lB6k3JKLDvfBdY6WvvJD6)
+54 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/3lB6k3JKLDvfBdY6WvvJD6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Award Tour](https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [Midnight Marauders](https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5) | 3:46 | 2021-05-31 |  |
 | [Back In Love Again](https://open.spotify.com/track/6dQSzIIt4gNE9BpF02Tus4) | [L.T.D.](https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ), [Jeffrey Osborne](https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK) | [Classics Volume 27](https://open.spotify.com/album/0igyY1wB0qp0o0zvVkor5r) | 4:44 | 2021-05-31 |  |
 | [Bam Bam](https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e) | 3:16 | 2021-05-31 |  |
-| [Barké](https://open.spotify.com/track/7oEm0xVisvkbIbQEzWBuD0) | [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Barké](https://open.spotify.com/album/6YEzV4Axar91INmSZmaAJq) | 4:32 | 2021-05-31 |  |
+| [Barké](https://open.spotify.com/track/2quOK4iKHMgrLTU6DXoBV4) | [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Barké](https://open.spotify.com/album/5gQj1pNijPoZlrqR7hJ2at) | 4:32 | 2021-05-31 |  |
+| [Barké](https://open.spotify.com/track/7oEm0xVisvkbIbQEzWBuD0) | [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Barké](https://open.spotify.com/album/6YEzV4Axar91INmSZmaAJq) | 4:32 | 2021-05-31 | 2022-11-10 |
 | [Better Love](https://open.spotify.com/track/1QzCnfF0AxZ3veY9tOw0h7) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 6:24 | 2021-05-31 |  |
 | [Buscando Guayaba](https://open.spotify.com/track/51pnSx6vfBzV8lkLLNFFpy) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 5:47 | 2021-05-31 |  |
 | [Changüí en Yateras \(from the Changüí: The Sound of Guantánamo Collection\)](https://open.spotify.com/track/6alddKK0YnvOLmp1o2fpJi) | [Grupo Estrellas Campesinas](https://open.spotify.com/artist/57Uk8lmpqDsu1ULyRPslG2) | [Changüí en Yateras \(from the Changüí: The Sound of Guantánamo Collection\)](https://open.spotify.com/album/3DnEPxorzbZtTczaNV93oT) | 4:52 | 2021-05-31 |  |

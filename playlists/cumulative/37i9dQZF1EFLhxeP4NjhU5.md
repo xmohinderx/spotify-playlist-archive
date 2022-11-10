@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RQ58d96XlDjmx0a7GZ5xX">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-162 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/5hLQtJC5BnWg5s4UcxlKNP)
+163 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/5hLQtJC5BnWg5s4UcxlKNP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Modo de Avión](https://open.spotify.com/track/2sR8ZcBWTUVxLVbbqMPmLD) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:40 | 2022-06-04 |  |
 | [Na' Nuevo](https://open.spotify.com/track/0jYLYhbDoceMWHWwwvYpVv) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 4:43 | 2022-06-04 |  |
 | [Narcos](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:19 | 2022-06-04 |  |
-| [Netflixxx](https://open.spotify.com/track/5gFAT2DbEt4TOMXyAMEixG) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Netflixxx](https://open.spotify.com/album/4h34lJExlaUMZjxIkrhIM2) | 3:38 | 2022-06-04 |  |
+| [Netflixxx](https://open.spotify.com/track/5gFAT2DbEt4TOMXyAMEixG) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Netflixxx](https://open.spotify.com/album/4h34lJExlaUMZjxIkrhIM2) | 3:38 | 2022-06-04 | 2022-11-10 |
+| [Netflixxx](https://open.spotify.com/track/4WDSPCfr60K0HI7YYhEHKu) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Netflixxx](https://open.spotify.com/album/3oqNx43mmo2oRt7nkIwJKK) | 3:39 | 2022-11-09 |  |
 | [No Estaban](https://open.spotify.com/track/2OGRGDDm6V3Jpb7V6BkaOD) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:04 | 2022-06-24 |  |
 | [No Me Acuerdo](https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Valiente](https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG) | 3:37 | 2022-06-04 |  |
 | [Noches de Aventura](https://open.spotify.com/track/4iDaYVSL0zwFLacCt0F7h9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 | 2022-06-04 |  |

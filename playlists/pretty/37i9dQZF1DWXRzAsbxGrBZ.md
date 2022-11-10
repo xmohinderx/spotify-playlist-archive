@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer\. Cover: <a href="https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ?si=0OWx2PBgRkOGhZ\-vZNiOsQ">beatsbyhand</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,408 likes - 50 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,441 likes - 50 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

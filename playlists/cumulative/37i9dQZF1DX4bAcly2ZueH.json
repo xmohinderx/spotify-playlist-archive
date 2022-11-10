@@ -1128,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "Ocean Highway",
+        "url": "https://open.spotify.com/album/4lt2GflHtr9T823EkbC5fA"
+      },
+      "artists": [
+        {
+          "name": "Furns",
+          "url": "https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Nude",
+      "url": "https://open.spotify.com/track/3xPfXIuRKZwhiS61HGN6Rr"
+    },
+    {
+      "album": {
         "name": "Nude",
         "url": "https://open.spotify.com/album/1Yfp4upzjyXY3VRIDELf43"
       },
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 256000,
       "name": "Nude",
       "url": "https://open.spotify.com/track/62AVqsyuz1R8C9eh0uqm5B"

@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Twin Strings
 
-188 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+189 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Attached](https://open.spotify.com/track/4LXP4tw0mucgLy8zeNj7lL) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:10 | 2022-01-10 | 2022-04-15 |
 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 | 2021-12-06 | 2022-04-15 |
 | [Baaton Baaton Main](https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Baaton Baaton Main](https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY) | 3:54 | 2022-08-29 |  |
+| [Baawra Mann](https://open.spotify.com/track/79RInrNbVRumprs4MDYgwz) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shambhavi Thakur](https://open.spotify.com/artist/2b1YWOv5v6yzuEDComf7fO) | [Baawra Mann](https://open.spotify.com/album/75dVZo1ENZKeR3JDBQW8DR) | 3:07 | 2022-11-09 |  |
 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 | 2022-03-15 |  |
 | [Barsatein](https://open.spotify.com/track/3RgqESJgY3KhxvonPhZ9Gp) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Barsatein](https://open.spotify.com/album/5JNgoPSzkWxkT1W2EMqgR7) | 3:42 | 2022-08-30 |  |
 | [Barse](https://open.spotify.com/track/6wV51vPTYtewZNGDpHcwWi) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Barse](https://open.spotify.com/album/6It9s6jgRF07GUUf28VFSK) | 4:00 | 2022-11-01 |  |
@@ -77,7 +78,7 @@
 | [idk](https://open.spotify.com/track/6EPAW0VyoXqJBEmgQXnFfV) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [idk](https://open.spotify.com/album/0tO2P9QpZ0QeVTojBuQ9Yw) | 2:45 | 2022-06-02 | 2022-06-11 |
 | [Ilm Na Mujhe Ishq Ki](https://open.spotify.com/track/50UEBQ956XJj1tEYU11Q29) | [Iram](https://open.spotify.com/artist/03vOPjk4buG4luOCylcWVh) | [Ilm Na Mujhe Ishq Ki](https://open.spotify.com/album/1qJfNKu5Iazzgfc1PwMX9T) | 4:23 | 2021-12-06 | 2022-01-11 |
 | [internet friends](https://open.spotify.com/track/7eGJxi6rL5Z0p7yQKJD8ID) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [internet friends](https://open.spotify.com/album/7h2qB3e507wkDaa3syS7l5) | 3:14 | 2022-02-08 | 2022-02-25 |
-| [Ishq Ke Sheher Mein](https://open.spotify.com/track/79IhwHGuF3XLbzZQuGPmWs) | [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [Soham Mallick](https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue) | [Ishq Ke Sheher Mein](https://open.spotify.com/album/14LTcY8KKrT8VZTC5KkUK0) | 3:01 | 2022-03-21 |  |
+| [Ishq Ke Sheher Mein](https://open.spotify.com/track/79IhwHGuF3XLbzZQuGPmWs) | [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [Soham Mallick](https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue) | [Ishq Ke Sheher Mein](https://open.spotify.com/album/14LTcY8KKrT8VZTC5KkUK0) | 3:01 | 2022-03-21 | 2022-11-10 |
 | [Jaadoogari](https://open.spotify.com/track/0HDm8hVrpUDAXLmvortmoy) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Jaadoogari](https://open.spotify.com/album/7xH1diJuXLqpv10oc2skWV) | 4:20 | 2021-12-06 | 2022-08-11 |
 | [Jaana Kaha Hai](https://open.spotify.com/track/6aHl7WFS38wYezyWHTdghb) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Muhafiz](https://open.spotify.com/album/3i1b37UcMyjpG5vF5G3TMz) | 4:32 | 2021-12-06 | 2022-03-17 |
 | [Jaane Tum Kahaan The](https://open.spotify.com/track/0pgLTs1ncvHbgpPui4Xdp3) | [Nikita Ahuja](https://open.spotify.com/artist/1N9scLdWZukQAQ0p4ZeUUx) | [Jaane Tum Kahaan The](https://open.spotify.com/album/5q3neWHRDZkBw3nGnJLKEo) | 2:48 | 2021-12-06 | 2022-01-11 |

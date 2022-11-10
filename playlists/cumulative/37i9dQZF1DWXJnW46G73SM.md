@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف:أحمد سعد
 
-249 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+251 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Aktar Mn El Sekout](https://open.spotify.com/track/2hHb8MMgeDIxCiyQUTYANq) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Aktar Mn El Sekout](https://open.spotify.com/album/09xFJJod4MFAHNsk2CDBi9) | 3:56 | 2022-08-03 | 2022-10-21 |
 | [Aktar Shewaya](https://open.spotify.com/track/31jm2OsyfhnU3uklUnWWsB) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Aktar Shewaya](https://open.spotify.com/album/7iTyA5W1HKLQ3Mkzogu1WT) | 2:48 | 2021-12-23 | 2022-03-10 |
 | [Alb Akhok](https://open.spotify.com/track/4koneNxLYSL43LF9n5ua4k) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Alb Akhok](https://open.spotify.com/album/67k3Nzh6LtOIlGBME6nEzK) | 3:49 | 2022-04-23 | 2022-08-05 |
-| [Alby Habak Gedan](https://open.spotify.com/track/4pGaxNrUaxI98DYSK6s7mj) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Alby Habak Gedan](https://open.spotify.com/album/6C4b7LphPB912ZLNdO6AuU) | 3:19 | 2022-08-18 |  |
+| [Alby Habak Gedan](https://open.spotify.com/track/4pGaxNrUaxI98DYSK6s7mj) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Alby Habak Gedan](https://open.spotify.com/album/6C4b7LphPB912ZLNdO6AuU) | 3:19 | 2022-08-18 | 2022-11-10 |
 | [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:29 | 2022-02-16 | 2022-05-19 |
 | [Alo Ya Albi](https://open.spotify.com/track/1x8DcXrICAz4tK96hOvHin) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Alo Ya Albi](https://open.spotify.com/album/0dDAnhpvukjscXB64M00Ad) | 2:54 | 2022-03-18 | 2022-07-11 |
 | [Amar 14](https://open.spotify.com/track/2O36wGSupi2wumi360NBxz) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Amar 14](https://open.spotify.com/album/2Wj3ovxVaSyHaBD2yWca1Y) | 3:03 | 2022-01-10 | 2022-03-18 |
@@ -103,11 +103,13 @@
 | [Hatgawzek \- From Bahbk Movie](https://open.spotify.com/track/3qyKeThLCtxNIqUw18nw6K) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Hatgawzek \(From Bahbk Movie\)](https://open.spotify.com/album/0yHsOQEcAbWvo30uHf0fED) | 3:09 | 2022-11-07 |  |
 | [Hatwhashna](https://open.spotify.com/track/3gAYSjeXZ5XbicBFX5G0Ya) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Hatwhashna](https://open.spotify.com/album/2SpDaTDqpebKTgQyKtf51j) | 3:20 | 2022-11-03 |  |
 | [Hawelna Keter](https://open.spotify.com/track/6tc1iDgFurBNcXQa8QjKrd) | [Meery](https://open.spotify.com/artist/7v4YgvdfeIZLwqbrASG50n) | [Hawelna Keter](https://open.spotify.com/album/4qFvAkgf4FfCDKZvOV8JLn) | 4:17 | 2021-12-23 | 2022-02-17 |
+| [Hawwa](https://open.spotify.com/track/0uIlJ1aiIJYqscUjXONYPo) | [Yara Korkomaz](https://open.spotify.com/artist/6amwfCnGymkXQLiFYq23PU) | [Hawwa](https://open.spotify.com/album/4Uk227gcmdkstmQMVVDHxl) | 2:09 | 2022-11-09 |  |
 | [Hayfout Alek](https://open.spotify.com/track/7hRVdE7Ta0wNiYHIySnUOZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hayfout Alek](https://open.spotify.com/album/6SQj9WllIr9VpJdx4umi6u) | 4:12 | 2021-12-23 | 2022-02-18 |
 | [Hetan](https://open.spotify.com/track/38ZHxIcIFRZWyINj7MO8rc) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Hetan](https://open.spotify.com/album/159xaEJonJn4SQJqHq9DIQ) | 3:07 | 2022-08-17 | 2022-11-04 |
 | [Heya](https://open.spotify.com/track/1FRiynLmE6uEsDayYZflEU) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Heya](https://open.spotify.com/album/24O4GnTk1ns6Ok5g2fwv2v) | 3:59 | 2022-06-06 | 2022-09-02 |
 | [Heya Elnas](https://open.spotify.com/track/1w6kXQlGG8m1KnatAlhuCT) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Heya Elnas](https://open.spotify.com/album/5H2gvYWORvnxFSpsbVgwHi) | 4:09 | 2022-07-28 | 2022-10-21 |
 | [Hob Meen](https://open.spotify.com/track/5pz9YaGFn6iV84WC8Xo4Jw) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hob Meen](https://open.spotify.com/album/5e5OLpxaXSoDHsRTDjdUZw) | 3:41 | 2022-07-01 | 2022-09-24 |
+| [Independent](https://open.spotify.com/track/23LjDDuaiLm6pU4CiS2WY8) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW), [Mirna Hesham](https://open.spotify.com/artist/2XuOGCueot1VkEcd5tQVYB), [Alaa Ayoub](https://open.spotify.com/artist/1VlKswfMq3gkY5dqMPqOtH) | [Independent](https://open.spotify.com/album/2RZG30VaDtoJeCUPdMImG0) | 4:11 | 2022-11-09 |  |
 | [James Dean](https://open.spotify.com/track/3bN0IZvx7rI9yK0JAYdP2M) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [James Dean](https://open.spotify.com/album/0xreh1fpGApy66xjYdGEMD) | 4:04 | 2022-09-21 |  |
 | [Jebal](https://open.spotify.com/track/7EPvVoROZX4d1dafqunSEN) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM), [Yousra El Gendy](https://open.spotify.com/artist/4NHY6xrFxJwxDxYNl9WZLv) | [Jebal](https://open.spotify.com/album/5M9HfVPfdPqRYJl22Sc39y) | 2:53 | 2022-10-27 |  |
 | [Jolie Fille](https://open.spotify.com/track/3LDbivszrJ6rOeynqXQdys) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Jolie Fille](https://open.spotify.com/album/5gwQg0oBldCfp3upDzzYzo) | 3:14 | 2022-06-02 | 2022-08-26 |
@@ -186,7 +188,7 @@
 | [Salam](https://open.spotify.com/track/3FqMnmjsk4KDSdDC279tUS) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Salam](https://open.spotify.com/album/4GZe5xoQhego59080gUcqM) | 4:00 | 2021-12-23 | 2022-01-11 |
 | [Samah Samah](https://open.spotify.com/track/4F3lDfJCmn1WuZatqMgxiG) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 5:03 | 2022-02-17 | 2022-06-06 |
 | [Sayrena Ya Donia](https://open.spotify.com/track/7o6OBdhiwn3RX9BOa5JjMc) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Sayrena Ya Donia](https://open.spotify.com/album/77ybZ6FgVwUJihzcZoCg3K) | 4:20 | 2022-01-26 | 2022-05-02 |
-| [Sebna Ba’ad](https://open.spotify.com/track/0RNhHikB5AUFk2CphRFGtP) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Sebna Ba’ad](https://open.spotify.com/album/71u9sXrgIf2xuy0a75zg51) | 4:24 | 2022-08-18 |  |
+| [Sebna Ba’ad](https://open.spotify.com/track/0RNhHikB5AUFk2CphRFGtP) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Sebna Ba’ad](https://open.spotify.com/album/71u9sXrgIf2xuy0a75zg51) | 4:24 | 2022-08-18 | 2022-11-10 |
 | [Sekka Baraka](https://open.spotify.com/track/3qY6aHNvRt3lHsD9jZQXfD) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [Sekka Baraka](https://open.spotify.com/album/6t78W97JmzbxxInDEIoYKr) | 2:50 | 2022-09-28 |  |
 | [Senara](https://open.spotify.com/track/0nYNOK8uum8GicinHF1jfw) | [Mousa](https://open.spotify.com/artist/474tE69oXkn2YGBJhK81Kh) | [Senara](https://open.spotify.com/album/5oaz2190CAIz2DLMOWt1ka) | 3:08 | 2022-01-20 | 2022-04-08 |
 | [Seneen](https://open.spotify.com/track/78aKU80XVAIVX9L0Xur3PC) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Seneen](https://open.spotify.com/album/762Ih6Q3P5rhDn99oSCEbe) | 3:23 | 2022-02-17 | 2022-05-19 |

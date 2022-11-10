@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen con Elis Paprika en portada.
 
-436 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
+437 songs - 1 day 0 hr 53 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [La Niña Escopeta](https://open.spotify.com/track/0BPUqjCuMStKN4cTpXmpfB) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [La Niña Escopeta](https://open.spotify.com/album/32amwzZttOClt5ce6T6rLs) | 3:27 | 2022-03-03 | 2022-10-06 |
 | [La Noche](https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [La Noche](https://open.spotify.com/album/4LZmupArVMH708EjwPECO3) | 3:04 | 2022-01-05 | 2022-03-04 |
 | [La Noche](https://open.spotify.com/track/3oQwe85XEzQydpBGyAvgPv) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 3:04 | 2022-05-04 | 2022-06-01 |
+| [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 | 2022-11-09 |  |
 | [Larga Vida](https://open.spotify.com/track/39sFDFqxK1fz46PdL7RIDw) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Victor Murillo](https://open.spotify.com/artist/2CfMh3JRJx2mplk18Df46R) | [Larga Vida](https://open.spotify.com/album/2Du2Xg9btcJJFmyiQEIO0l) | 4:01 | 2022-01-05 | 2022-03-04 |
 | [Las Curanderas](https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Las Curanderas](https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3) | 3:26 | 2022-10-05 | 2022-11-03 |
 | [Las de Octubre](https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Las de Octubre](https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td) | 2:45 | 2022-01-05 | 2022-02-03 |

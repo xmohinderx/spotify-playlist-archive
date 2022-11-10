@@ -4,7 +4,7 @@
 
 > next gen pop cover: Jessie Murph
 
-1,207 songs - 2 day 10 hr 41 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,208 songs - 2 day 10 hr 43 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-17 | 2022-02-12 |
 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 | 2022-10-29 |
 | [girlfriend](https://open.spotify.com/track/1VvHMWM4x5KNNIkeDfepKg) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [girlfriend](https://open.spotify.com/album/20QM71c1VvCaBb8uO2IWUo) | 2:14 | 2021-03-15 | 2021-04-10 |
+| [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-09 |  |
 | [Girlfriend](https://open.spotify.com/track/2mumZRgEobS03J546KQcMl) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Girlfriend](https://open.spotify.com/album/2O4FOjgZBVYf0x31p7cxJt) | 3:23 | 2021-02-16\* | 2021-02-26 |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-10 | 2022-08-13 |
 | [Girls Like Sex](https://open.spotify.com/track/74KsTGXDYNCLXyIH6z3KBV) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Near Life Experience Part One](https://open.spotify.com/album/0xpGqHeRXVSovn5VEvgzHA) | 2:45 | 2021-05-29 | 2021-08-07 |

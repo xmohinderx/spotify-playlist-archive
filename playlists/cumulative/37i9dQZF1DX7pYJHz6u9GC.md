@@ -2,7 +2,7 @@
 
 ### [Christmas Crooners](https://open.spotify.com/playlist/37i9dQZF1DX7pYJHz6u9GC)
 
-> Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Nat King Cole.
+> Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Elvis Presley.
 
 99 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/1eJxr6WZ5eZ509L1qOagxF)
 

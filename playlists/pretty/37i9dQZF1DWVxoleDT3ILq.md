@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Tunacola
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,615 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,623 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 73 | [Niña](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Niña](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 |
 | 74 | [Noches Perdidas](https://open.spotify.com/track/6v7yCYhjRSZjyLjO9yjEJI) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Noches Perdidas](https://open.spotify.com/album/2sGMCd4mkocvnD1DwlbWCR) | 3:08 |
 | 75 | [Cuántas Veces](https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 3:06 |
-| 76 | [PODER \- Lilith: 6](https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo) | [MARÍA](https://open.spotify.com/artist/0L26KOsNaEDlbjWUUSWcZ3), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [PODER \- Lilith: 6](https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S) | 3:11 |
+| 76 | [PODER \- Lilith: 6](https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo) | [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [PODER \- Lilith: 6](https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S) | 3:11 |
 | 77 | [Este Debe Ser el Lugar](https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Este Debe Ser el Lugar](https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws) | 2:46 |
 | 78 | [Laurel](https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Laurel](https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG) | 5:13 |
 | 79 | [No Hay Más](https://open.spotify.com/track/0KUtLZlufE6fCFMkz1m4mS) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [No Hay Más](https://open.spotify.com/album/4Llq0EXs525rVvENrZnvaZ) | 2:39 |

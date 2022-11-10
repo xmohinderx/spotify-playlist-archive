@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-606 songs - 1 day 8 hr 53 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+607 songs - 1 day 8 hr 56 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Suita To Payara](https://open.spotify.com/track/2sh6Ny6YTf6Ku0ShOmbCmW) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 2:40 | 2022-02-03 | 2022-02-12 |
 | [Sunne Sunne](https://open.spotify.com/track/746fRWJEgWvvRdhB7ympjw) | [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8) | [Sunne Sunne](https://open.spotify.com/album/5B5NSoy499WpmUEWQHtXZw) | 3:04 | 2022-05-26 | 2022-07-06 |
 | [Sunset](https://open.spotify.com/track/708ATCPhF2aagzUo8A9Dgo) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Sunset](https://open.spotify.com/album/2CHwDNJ5Kbv05I385dVFKG) | 3:08 | 2022-03-31 | 2022-04-06 |
+| [Surma](https://open.spotify.com/track/2TioqC2ZU59C2ycwybWqk6) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6), [Rafal](https://open.spotify.com/artist/03QZhdzly7IjQzjucvOW7l) | [Surma](https://open.spotify.com/album/1bsPUlVdgdHMKqnom02YZ1) | 2:23 | 2022-11-09 |  |
 | [Surma](https://open.spotify.com/track/3ijLrhb7Rq9E75B94KJ90s) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5) | [Surma](https://open.spotify.com/album/7wiyKmbGYMkikS5DSWTcJC) | 2:45 | 2022-07-22 | 2022-08-18 |
 | [SURREY AALE](https://open.spotify.com/track/37lPezjU5ZTTh0H06HEFKb) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [Karan Bhargava](https://open.spotify.com/artist/1YQWIIZgIWVP83VtNCAQRJ), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [SURREY AALE](https://open.spotify.com/album/1uoe77MG97LmOgFlNwM5Uf) | 2:22 | 2022-01-10 | 2022-02-01 |
 | [Sweet Teri Smile](https://open.spotify.com/track/0FzcmRE2A4IHVxxZl2zYZr) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2) | [Sweet Teri Smile](https://open.spotify.com/album/79Jh4jb1oHDu0xfhOHnby8) | 2:29 | 2022-04-25 | 2022-05-11 |

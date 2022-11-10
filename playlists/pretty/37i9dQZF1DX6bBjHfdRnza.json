@@ -1,13 +1,29 @@
 {
-  "description": "The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: Loco & Jam. Artwork: Rewina Beshue.",
-  "num_followers": 135917,
+  "description": "The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: Azzecca. Artwork: Rewina Beshue.",
+  "num_followers": 136060,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDUxZGNkMDE1MjExNDQ3MmE1MmFhNzExNjdhNzY0Y2Qz",
+  "snapshot_id": "MTY2ODAxNjg3NiwwMDAwMDAwMDg4NjVjMzQwYzc3MjUyMjI2YzUyYmJmZmU2ZmY4ZGY0",
   "tracks": [
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "duration_ms": 244337,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0"
+    },
     {
       "added_at": "2022-10-05 04:00:00",
       "album": {
@@ -25,6 +41,70 @@
       "url": "https://open.spotify.com/track/0lgq2XsPsW6Mz5A3NuOVHY"
     },
     {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "nintendo 64",
+        "url": "https://open.spotify.com/album/0Ler3M1pK387glzodtvbFR"
+      },
+      "artists": [
+        {
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        }
+      ],
+      "duration_ms": 155300,
+      "name": "nintendo 64",
+      "url": "https://open.spotify.com/track/3ojqUvdhAxighZs7WDi2mx"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "2007",
+        "url": "https://open.spotify.com/album/2XOGsUkrk5gaMcflEdLq9J"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 268842,
+      "name": "2007",
+      "url": "https://open.spotify.com/track/5Qmy89XJap9wMfEZu3Mwg0"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "4u",
+        "url": "https://open.spotify.com/album/2G8tgCIiwC3rPyYK0bLxKx"
+      },
+      "artists": [
+        {
+          "name": "wilo wilde",
+          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
+        }
+      ],
+      "duration_ms": 155843,
+      "name": "4u",
+      "url": "https://open.spotify.com/track/1mxFY4BYtVFniY8iOApOSq"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Yo",
+        "url": "https://open.spotify.com/album/3FC5ivFKXuinxxsOrKXkEO"
+      },
+      "artists": [
+        {
+          "name": "HATS 93",
+          "url": "https://open.spotify.com/artist/4BNhOqNRxPhsrRkN32gc7e"
+        }
+      ],
+      "duration_ms": 332485,
+      "name": "Yo",
+      "url": "https://open.spotify.com/track/021TgnmHRHIo31dfFEh4bE"
+    },
+    {
       "added_at": "2022-10-26 16:28:23",
       "album": {
         "name": "Breathe",
@@ -39,6 +119,310 @@
       "duration_ms": 407000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Bamboo Spice",
+        "url": "https://open.spotify.com/album/1PjO9mqKKEP5O2yMjmOBvs"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller",
+          "url": "https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Bamboo Spice",
+      "url": "https://open.spotify.com/track/0ACp1nQwmJwxQSxO7QxDEu"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/11s19eDJJKMtjgLpWnY8Dx"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "duration_ms": 220083,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/113qTjXNHTzKH6cyg37H9a"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Motions",
+        "url": "https://open.spotify.com/album/7J3dsYgtL3FJBpvh8kuJpm"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+        }
+      ],
+      "duration_ms": 195524,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/7xGvSmXj5IbeZUn69nJKNl"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5pmPKOWQ4evmNDfYjl9MiP"
+      },
+      "artists": [
+        {
+          "name": "Monarke",
+          "url": "https://open.spotify.com/artist/5uPPX33s71WjX25P1DfqVk"
+        }
+      ],
+      "duration_ms": 448679,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/0jwWG0oSeKd5CefJa4jcbe"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Stargazer",
+        "url": "https://open.spotify.com/album/7mnvQNZ0TYnGZPC4HXUUQn"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        },
+        {
+          "name": "Rauschhaus",
+          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
+        }
+      ],
+      "duration_ms": 373853,
+      "name": "Stargazer",
+      "url": "https://open.spotify.com/track/1ahg9arFsLjjHvlMid4NFn"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/41niRA6vCMTukxuQrhVHCf"
+      },
+      "artists": [
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+        }
+      ],
+      "duration_ms": 304761,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/7oUPAECJUeHNDVaQ7tmE6r"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "CAPSUL",
+        "url": "https://open.spotify.com/album/6ya1ggGwmnwegd0bjjyW0t"
+      },
+      "artists": [
+        {
+          "name": "MKSTN",
+          "url": "https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD"
+        },
+        {
+          "name": "CAPSUL",
+          "url": "https://open.spotify.com/artist/6bKawCX7BxUXTBf05SsIpZ"
+        }
+      ],
+      "duration_ms": 149647,
+      "name": "Final Render",
+      "url": "https://open.spotify.com/track/2kkSL3E7r2SfdgTBNaA3qz"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Misser",
+        "url": "https://open.spotify.com/album/4M6hUgAWAfD0EE0m4RhSuH"
+      },
+      "artists": [
+        {
+          "name": "Sinner & James",
+          "url": "https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2"
+        },
+        {
+          "name": "Anderblast",
+          "url": "https://open.spotify.com/artist/4IxQ7KFeYjNzc0g7CK2ujp"
+        }
+      ],
+      "duration_ms": 219716,
+      "name": "Misser",
+      "url": "https://open.spotify.com/track/731dIUADAcSxYGVKz09evn"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/6ddinwnruM1OHC70UzZxiQ"
+      },
+      "artists": [
+        {
+          "name": "Mila Journ\u00e9e",
+          "url": "https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB"
+        }
+      ],
+      "duration_ms": 394373,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/6y76TyKVZiYstvJwWZFvGD"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Du Son N'importe O\u00f9, Vol. I",
+        "url": "https://open.spotify.com/album/2yKe0LMqb6WcxDGzY0zq8J"
+      },
+      "artists": [
+        {
+          "name": "Radio Cargo",
+          "url": "https://open.spotify.com/artist/2DlWR4iwXq2J7SUpqPdQbE"
+        }
+      ],
+      "duration_ms": 352893,
+      "name": "The One I Want",
+      "url": "https://open.spotify.com/track/6FwTwmtxHrHeB6RyXGq5Mz"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/1CuL8wEn70rVlgsRz6AuQC"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/1CAaDJOqduOgx6CwazkMBH"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/4cShSp2XC1U3e8CZkrVtYc"
+      },
+      "artists": [
+        {
+          "name": "Beije",
+          "url": "https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds"
+        },
+        {
+          "name": "Qualista",
+          "url": "https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN"
+        }
+      ],
+      "duration_ms": 450000,
+      "name": "Ivory",
+      "url": "https://open.spotify.com/track/3HCm6F1i4PpMjHWLsn0UbR"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Chasing Rush",
+        "url": "https://open.spotify.com/album/5Fe1zgjuc175Wza3bchdvu"
+      },
+      "artists": [
+        {
+          "name": "Tony Metric",
+          "url": "https://open.spotify.com/artist/3jNo8kSqxXoHTiMUuLWG8O"
+        }
+      ],
+      "duration_ms": 196153,
+      "name": "Chasing Rush",
+      "url": "https://open.spotify.com/track/7y8wA3pddCab0JULlglVV1"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5b0TQ4LbxtAnnugsPlkDbE"
+      },
+      "artists": [
+        {
+          "name": "Druu",
+          "url": "https://open.spotify.com/artist/4lusIEYtKWWxjZAOUuYDhz"
+        },
+        {
+          "name": "MiNDTRiX",
+          "url": "https://open.spotify.com/artist/1e8QoqLWgTYpOEGAXdYtEr"
+        },
+        {
+          "name": "VIGIL",
+          "url": "https://open.spotify.com/artist/5woKrwqEi876LodaTkTCi1"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/0hEu8UPEbuRgsyQGmPuBHQ"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "100% Vibes",
+        "url": "https://open.spotify.com/album/335Arfie1C3SbXlzAY0XMB"
+      },
+      "artists": [
+        {
+          "name": "Sweetpea",
+          "url": "https://open.spotify.com/artist/62wR4mvjXztHU3tQ3Lhxgh"
+        },
+        {
+          "name": "Shady Novelle",
+          "url": "https://open.spotify.com/artist/6uK0QOsx1haVqi5FoCBLG6"
+        }
+      ],
+      "duration_ms": 289676,
+      "name": "100% Vibes",
+      "url": "https://open.spotify.com/track/2y2heLYQpPrzlPOeWBHyZf"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/4oXLvrJLs0TgvJgNL1KpxF"
+      },
+      "artists": [
+        {
+          "name": "Dan Shake",
+          "url": "https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg"
+        }
+      ],
+      "duration_ms": 292946,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/6Zr4nhKCUeAjttMntltVkk"
+    },
+    {
+      "added_at": "2022-11-09 18:01:16",
+      "album": {
+        "name": "Operator",
+        "url": "https://open.spotify.com/album/7KQWbl5LMJu9W2Ufu7TASv"
+      },
+      "artists": [
+        {
+          "name": "GRRL",
+          "url": "https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg"
+        }
+      ],
+      "duration_ms": 146923,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/1TUworIeaPTnYkZ3x8mt1A"
     },
     {
       "added_at": "2022-10-19 04:00:00",
@@ -387,22 +771,6 @@
     {
       "added_at": "2022-10-26 16:28:23",
       "album": {
-        "name": "i'll be there",
-        "url": "https://open.spotify.com/album/591MuZEfnrMQfVtIv270WE"
-      },
-      "artists": [
-        {
-          "name": "wilo wilde",
-          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
-        }
-      ],
-      "duration_ms": 157434,
-      "name": "i'll be there",
-      "url": "https://open.spotify.com/track/2oRO0TDoMyhowADpRKqexD"
-    },
-    {
-      "added_at": "2022-10-26 16:28:23",
-      "album": {
         "name": "Only If U",
         "url": "https://open.spotify.com/album/1mYb9Ta4BwGrSI4qjhCdxN"
       },
@@ -571,22 +939,6 @@
       "duration_ms": 238317,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6nw7Z0bGyECSqzFNygWj8M"
-    },
-    {
-      "added_at": "2022-10-19 04:00:00",
-      "album": {
-        "name": "It Was You",
-        "url": "https://open.spotify.com/album/0SKerca0FZoNyCwevTN4d6"
-      },
-      "artists": [
-        {
-          "name": "Freddie Future",
-          "url": "https://open.spotify.com/artist/3TvOtMsG1MPfCem7PyZLXu"
-        }
-      ],
-      "duration_ms": 168025,
-      "name": "It Was You",
-      "url": "https://open.spotify.com/track/1CT17VPk13k9FG6UQzOh6L"
     },
     {
       "added_at": "2022-10-19 04:00:00",
@@ -787,22 +1139,6 @@
     {
       "added_at": "2022-10-12 16:00:00",
       "album": {
-        "name": "love like this",
-        "url": "https://open.spotify.com/album/1OBhiq6OtjnSeZw9YlpUcO"
-      },
-      "artists": [
-        {
-          "name": "wilo wilde",
-          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
-        }
-      ],
-      "duration_ms": 107390,
-      "name": "love like this",
-      "url": "https://open.spotify.com/track/4Yu1bPeu2LdmURfRrnSj9R"
-    },
-    {
-      "added_at": "2022-10-12 16:00:00",
-      "album": {
         "name": "Keep You As A Memory",
         "url": "https://open.spotify.com/album/0hIcGSIF4DiYLeQpSyQnxL"
       },
@@ -851,62 +1187,6 @@
       "duration_ms": 250393,
       "name": "It's On Fire - Original Edit",
       "url": "https://open.spotify.com/track/5tuhxKlP0La0YMvMLHQbzw"
-    },
-    {
-      "added_at": "2022-10-12 16:00:00",
-      "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/7rYuJBSarTgllmLKFsbA6i"
-      },
-      "artists": [
-        {
-          "name": "Cream (PL)",
-          "url": "https://open.spotify.com/artist/42lamKjAQaDXMmc96XnVXF"
-        }
-      ],
-      "duration_ms": 480312,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/30LVMRMbXbLcQVaQD4KVXP"
-    },
-    {
-      "added_at": "2022-10-12 16:00:00",
-      "album": {
-        "name": "SHiNE",
-        "url": "https://open.spotify.com/album/5todskDJAkfo8TYsGGtCEh"
-      },
-      "artists": [
-        {
-          "name": "DJ Susan",
-          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
-        },
-        {
-          "name": "Broken Future",
-          "url": "https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "SHiNE",
-      "url": "https://open.spotify.com/track/3eGTeMHX7bB8YhUuXs9IV3"
-    },
-    {
-      "added_at": "2022-10-13 21:16:16",
-      "album": {
-        "name": "Making Me Feel",
-        "url": "https://open.spotify.com/album/3ODVabervn8AU3nEx5RWnB"
-      },
-      "artists": [
-        {
-          "name": "Kid Boom",
-          "url": "https://open.spotify.com/artist/0MFunk4gmQx3THBA54bWD4"
-        },
-        {
-          "name": "Johari Noelle",
-          "url": "https://open.spotify.com/artist/06SZOuyMcsOZiyZNCfhVXA"
-        }
-      ],
-      "duration_ms": 181431,
-      "name": "Making Me Feel",
-      "url": "https://open.spotify.com/track/48JhWWz3EXj1Xt95ymi2QW"
     },
     {
       "added_at": "2022-10-12 16:00:00",
@@ -993,22 +1273,6 @@
       "url": "https://open.spotify.com/track/5DR6vuwwCEBg9kAgJB2zG8"
     },
     {
-      "added_at": "2022-10-05 04:00:00",
-      "album": {
-        "name": "Frozen Time",
-        "url": "https://open.spotify.com/album/7adtype4aYgD15BCt98mB6"
-      },
-      "artists": [
-        {
-          "name": "Joseph Crime",
-          "url": "https://open.spotify.com/artist/263mhJcYZhRpnTByW2f57G"
-        }
-      ],
-      "duration_ms": 272727,
-      "name": "Frozen Time",
-      "url": "https://open.spotify.com/track/04gmLKrBOaGYbEboof98rg"
-    },
-    {
       "added_at": "2022-10-07 19:30:21",
       "album": {
         "name": "Opening Credits",
@@ -1059,22 +1323,6 @@
     {
       "added_at": "2022-10-05 04:00:00",
       "album": {
-        "name": "Grab the Mic / Vacation",
-        "url": "https://open.spotify.com/album/0xmoqzbS8X7yPhMtCADJWV"
-      },
-      "artists": [
-        {
-          "name": "Ben Miller (Aus)",
-          "url": "https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Grab the Mic",
-      "url": "https://open.spotify.com/track/1uL2DAiKOHAwGeLO6z9urE"
-    },
-    {
-      "added_at": "2022-10-05 04:00:00",
-      "album": {
         "name": "Time Is Now",
         "url": "https://open.spotify.com/album/1mEZ8fADCdPqekkLzhG128"
       },
@@ -1103,22 +1351,6 @@
       "duration_ms": 282443,
       "name": "Template",
       "url": "https://open.spotify.com/track/4EFrD2CImPNjn1wUWETNIO"
-    },
-    {
-      "added_at": "2022-10-05 04:00:00",
-      "album": {
-        "name": "fruttimango",
-        "url": "https://open.spotify.com/album/1k5BETs1emVtwlDPsgW4Be"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 160706,
-      "name": "fruttimango",
-      "url": "https://open.spotify.com/track/5mtjaopZRNOrNVD8G634Y9"
     },
     {
       "added_at": "2022-10-05 04:00:00",
@@ -1167,22 +1399,6 @@
       "duration_ms": 387303,
       "name": "Brainscan",
       "url": "https://open.spotify.com/track/5E2sp1MnrEZP3TpSRRrFn0"
-    },
-    {
-      "added_at": "2022-10-05 04:00:00",
-      "album": {
-        "name": "Gruuv Machine",
-        "url": "https://open.spotify.com/album/10VyQLNujjwL7gNkqZrnwo"
-      },
-      "artists": [
-        {
-          "name": "Oravla Ziur",
-          "url": "https://open.spotify.com/artist/6cK2MbbEPnefKGxuDiNGiW"
-        }
-      ],
-      "duration_ms": 239653,
-      "name": "Gruuv Machine",
-      "url": "https://open.spotify.com/track/1cCgWMZYoYYgQ4DiLzhgnZ"
     },
     {
       "added_at": "2022-09-28 16:00:00",
@@ -1297,58 +1513,6 @@
       "url": "https://open.spotify.com/track/0C5frvAJvOwyN061bd07l1"
     },
     {
-      "added_at": "2022-09-21 16:00:00",
-      "album": {
-        "name": "Control Dem",
-        "url": "https://open.spotify.com/album/34pOYo2McKDiygDZgHoo6s"
-      },
-      "artists": [
-        {
-          "name": "Club Angel",
-          "url": "https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj"
-        }
-      ],
-      "duration_ms": 229167,
-      "name": "Control Dem",
-      "url": "https://open.spotify.com/track/7CJj238MecPG1II1UgO1OJ"
-    },
-    {
-      "added_at": "2022-09-21 16:00:00",
-      "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/1MwHljUOGvFuX0Tx2zClUS"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "Isaiah",
-          "url": "https://open.spotify.com/artist/3gsYxd24CST6We4T6MAtwT"
-        }
-      ],
-      "duration_ms": 198379,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/5CKGgj06cR7VzZYPPZFajG"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Fata Organa",
-        "url": "https://open.spotify.com/album/7GhNIrYhYsFvZEKboTBHXW"
-      },
-      "artists": [
-        {
-          "name": "Tigerskin",
-          "url": "https://open.spotify.com/artist/09UQUOICiqSgc3C8TRhTEh"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Fata Organa",
-      "url": "https://open.spotify.com/track/2ZxGR3QjrxnctPNF5k2Zad"
-    },
-    {
       "added_at": "2022-09-28 16:00:00",
       "album": {
         "name": "Steamin",
@@ -1385,42 +1549,6 @@
       "url": "https://open.spotify.com/track/2XQoQ7mvVzBqgZFSCYSXfb"
     },
     {
-      "added_at": "2022-09-14 16:55:26",
-      "album": {
-        "name": "Sippin / Tempo",
-        "url": "https://open.spotify.com/album/1xBu6gjMhhVTFTwVW10gxk"
-      },
-      "artists": [
-        {
-          "name": "VLTRA (IT)",
-          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
-        }
-      ],
-      "duration_ms": 413538,
-      "name": "Sippin",
-      "url": "https://open.spotify.com/track/3F10Mu2bMFXbBh5wbut9g4"
-    },
-    {
-      "added_at": "2022-09-14 16:55:26",
-      "album": {
-        "name": "Your Favourite Dancer",
-        "url": "https://open.spotify.com/album/2zNIvcHxVvyQBFWdb7jC7h"
-      },
-      "artists": [
-        {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        },
-        {
-          "name": "Combat Casper",
-          "url": "https://open.spotify.com/artist/4F5nr65YNenAEQ6vRQj1cC"
-        }
-      ],
-      "duration_ms": 173245,
-      "name": "Your Favourite Dancer",
-      "url": "https://open.spotify.com/track/5a1Um0n7VDkan2B9aQY97e"
-    },
-    {
       "added_at": "2022-09-21 16:00:00",
       "album": {
         "name": "Chama Cha Trumpeta",
@@ -1439,22 +1567,6 @@
       "duration_ms": 267963,
       "name": "Chama Cha Trumpeta",
       "url": "https://open.spotify.com/track/2dPRr9aD6xgRJT1vMS67BV"
-    },
-    {
-      "added_at": "2022-09-21 16:00:00",
-      "album": {
-        "name": "Navigate",
-        "url": "https://open.spotify.com/album/3uuktkXi4osQdaNWBEfkSy"
-      },
-      "artists": [
-        {
-          "name": "Tina Says",
-          "url": "https://open.spotify.com/artist/4NStEEdNYCLBx2jwKGQhju"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Navigate",
-      "url": "https://open.spotify.com/track/3WzzL1rHyYu57nfupb4mAG"
     },
     {
       "added_at": "2022-09-21 16:00:00",
@@ -1505,22 +1617,6 @@
       "url": "https://open.spotify.com/track/5dBQDtNzkImBfNepeJqDAP"
     },
     {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
-        "name": "Nothing You Can Do",
-        "url": "https://open.spotify.com/album/5zlbNUgdxCWfTfGeUtXfDE"
-      },
-      "artists": [
-        {
-          "name": "Street Player",
-          "url": "https://open.spotify.com/artist/24QWArjejyNw2lLlwAk69O"
-        }
-      ],
-      "duration_ms": 315500,
-      "name": "Nothing You Can Do",
-      "url": "https://open.spotify.com/track/6DR6v2joJOH33K6ZPxsvEU"
-    },
-    {
       "added_at": "2022-09-14 16:55:26",
       "album": {
         "name": "333",
@@ -1553,54 +1649,6 @@
       "url": "https://open.spotify.com/track/1OqpewgI1POiZ2G8RKNWmy"
     },
     {
-      "added_at": "2022-09-07 16:00:00",
-      "album": {
-        "name": "Into My Arms (Radio Edit)",
-        "url": "https://open.spotify.com/album/3AQHOXLLh2mO5x5SOAA7yj"
-      },
-      "artists": [
-        {
-          "name": "Yurie",
-          "url": "https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Into My Arms - Radio Edit",
-      "url": "https://open.spotify.com/track/66XJcRIDGLTuH7YIcdl8i6"
-    },
-    {
-      "added_at": "2022-09-14 16:55:26",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/7zqpLi90fkT16ayZ0hsc0N"
-      },
-      "artists": [
-        {
-          "name": "Martin Alix",
-          "url": "https://open.spotify.com/artist/3sEF0uh6mcy66ctCwZU9j4"
-        }
-      ],
-      "duration_ms": 185592,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/7Aria7eSEjx9nCyDBDny8S"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
-        "name": "DESIIRE",
-        "url": "https://open.spotify.com/album/4CAT5NIGLKgWkFKy2E7Sb7"
-      },
-      "artists": [
-        {
-          "name": "\u2665 GOJII \u2665",
-          "url": "https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY"
-        }
-      ],
-      "duration_ms": 304714,
-      "name": "DESIIRE",
-      "url": "https://open.spotify.com/track/3rWHOmqjQ5Rq8BAvklep7R"
-    },
-    {
       "added_at": "2022-08-31 16:00:00",
       "album": {
         "name": "Okay Alright",
@@ -1617,38 +1665,6 @@
       "url": "https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN"
     },
     {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/71mI6Sm61EXGrIr212lAx6"
-      },
-      "artists": [
-        {
-          "name": "altrice",
-          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
-        }
-      ],
-      "duration_ms": 285479,
-      "name": "eyes",
-      "url": "https://open.spotify.com/track/5oxtjIW9J0FdKt28wabkfH"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
-        "name": "Can Do This",
-        "url": "https://open.spotify.com/album/6u95Qd5P51p2jFRq9zjMZn"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 276695,
-      "name": "Can Do This",
-      "url": "https://open.spotify.com/track/5lqoNLfzvjzug14fsMP9gt"
-    },
-    {
       "added_at": "2022-09-14 16:55:26",
       "album": {
         "name": "Monnaka",
@@ -1663,22 +1679,6 @@
       "duration_ms": 378670,
       "name": "Nether Portal",
       "url": "https://open.spotify.com/track/4bwSiql3RcbvDaq2vUeOU0"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
-        "name": "BADBOI",
-        "url": "https://open.spotify.com/album/3ucILeyhjCVjm9Uy6g9tNu"
-      },
-      "artists": [
-        {
-          "name": "BRUX",
-          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "VINEGAR HILL",
-      "url": "https://open.spotify.com/track/0QqIz4Ut84n1hEqcqn7HSN"
     }
   ],
   "unique_name": "Fresh Finds Dance",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,050 likes - 41 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,143 likes - 41 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 34 | [You've Got to Belong to It](https://open.spotify.com/track/0lk9vkhW4n1lb2zkrmo22y) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 4:13 |
 | 35 | [The Badge](https://open.spotify.com/track/3HO3nXKWRhvkibVvsONrle) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:54 |
 | 36 | [Immortally Insane](https://open.spotify.com/track/2tbdpZIOkV8kK0pZDBxXRQ) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \- 20th Anniversary Deluxe Edition](https://open.spotify.com/album/2nhNrmeayyt111lqj6Om4L) | 5:11 |
-| 37 | [Avoid the Light](https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 6:26 |
+| 37 | [I Can't Hide](https://open.spotify.com/track/2SHJINY5mfK79Ms7dACUBD) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 2:16 |
 | 38 | [I'll Cast a Shadow](https://open.spotify.com/track/4zwzfzX5nXgD5Ro2tXIxhf) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:19 |
-| 39 | [I Can't Hide](https://open.spotify.com/track/2SHJINY5mfK79Ms7dACUBD) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 2:16 |
+| 39 | [Avoid the Light](https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 6:26 |
 | 40 | [Hostile \- Live](https://open.spotify.com/track/4XDQGvmsZ0I3lANxJuhegH) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 3:56 |
 | 41 | [Sandblasted Skin \- Live](https://open.spotify.com/track/7A3ZvT0Pb1ib9w4yVnORNp) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 4:29 |
 
-Snapshot ID: `Mjc3OTg2MzcsMDAwMDAwMDA2OGQ2NGI4YWQzNjg3ZGFkNzI5ZDQyMzE2NWUxY2Q3OQ==`
+Snapshot ID: `Mjc4MDA0MzIsMDAwMDAwMDBhMmQyZmY3YzA1NDgzNmM0ZmMwN2M0ODljZjgyOTc1Ng==`

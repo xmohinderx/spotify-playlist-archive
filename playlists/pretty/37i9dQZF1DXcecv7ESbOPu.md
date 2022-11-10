@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,829 likes - 106 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,839 likes - 105 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,6 +113,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 103 | [En dag om året](https://open.spotify.com/track/2HBdSZfwcWaFi9M0AmN7mF) | [Jacob Götestam](https://open.spotify.com/artist/0QrOzYOYlTYkEIPk14BOA0) | [En dag om året](https://open.spotify.com/album/4bdlOYLKTQ2RCuw5sjCTYp) | 3:20 |
 | 104 | [För redeliga män](https://open.spotify.com/track/5dvw5aWJAzX38Z9aYtWMhE) | [Nordman](https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN) | [För redeliga män](https://open.spotify.com/album/6XsV0tmGa4aNvGyyLPhXpN) | 2:55 |
 | 105 | [christmas time again](https://open.spotify.com/track/2FA6zkxWZojlHFFrX8blNn) | [Andreas Wijk](https://open.spotify.com/artist/2W3sS49wu6PW7b9ri5RgpO) | [christmas time again](https://open.spotify.com/album/6uMPyCguJHgyUNtTSt9kiq) | 2:59 |
-| 106 | [I'll Be Home For Christmas](https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [I'll Be Home For Christmas](https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX) | 2:58 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGI5ZmM3YTE3YTc5ZTg2YzkyNDYzYjE4NzNiNmNlMTUz`
+Snapshot ID: `MTY2ODAwOTQxMCwwMDAwMDAwMDljMzkwZmFjNzE0ZjNhNTMzZjM0Yjg3ODkzNjA4Y2Qw`

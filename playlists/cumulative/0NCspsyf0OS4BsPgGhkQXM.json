@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/6pnA3ABPGoK5UAV0NdURSQ"
+      },
+      "artists": [
+        {
+          "name": "ODEA",
+          "url": "https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/1k8k9HFrcaS0bMrkyuOhm0"
+    },
+    {
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/60HYV2ICPgMtIMitX2rEqd"
       },
@@ -2985,7 +3003,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
@@ -8121,7 +8139,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"

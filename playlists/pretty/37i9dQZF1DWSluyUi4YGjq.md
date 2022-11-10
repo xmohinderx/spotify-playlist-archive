@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Alvvays on cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,268 likes - 108 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,297 likes - 108 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

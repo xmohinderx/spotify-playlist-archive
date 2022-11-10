@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring obli
 
-640 songs - 1 day 17 hr 52 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
+641 songs - 1 day 17 hr 55 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 | 2022-01-28 | 2022-02-12 |
 | [Big Skies, Silly Faces \- Roosevelt Remix](https://open.spotify.com/track/3YpoUPBFwtWamSZhrLKODb) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Big Skies, Silly Faces \(Roosevelt Remix\)](https://open.spotify.com/album/48bFvjjTSjScpTs7EdwsA0) | 6:24 | 2021-08-13 | 2022-07-29 |
 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 | 2022-09-17 | 2022-10-06 |
-| [Bleu \(better with time\)](https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Bleu \(better with time\)](https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF) | 3:16 | 2022-10-05 |  |
+| [Bleu \(better with time\)](https://open.spotify.com/track/1VqS6b1NqGRTkO3NzQpJG7) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 3:16 | 2022-10-05 |  |
+| [Bleu \(better with time\)](https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Bleu \(better with time\)](https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF) | 3:16 | 2022-10-05 | 2022-11-10 |
 | [Block Rockin' Beats](https://open.spotify.com/track/35g78KATz0u3gUVRsOvBV8) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Brotherhood](https://open.spotify.com/album/3fDcDB7omVoTE8Yb6aF0U2) | 4:54 | 2022-09-17 | 2022-10-06 |
 | [Blood](https://open.spotify.com/track/6qGyxIijWIscsjxHLZBLhG) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Blood](https://open.spotify.com/album/4IDiAoz7AJPidIn5Z2SIc4) | 2:41 | 2021-10-15 | 2022-02-10 |
 | [Blood In The Snow](https://open.spotify.com/track/5yiEvFextSviCStbutB8UI) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Blood in the Snow](https://open.spotify.com/album/4l1KlOM9JXnH9Q1LmoAEjP) | 4:46 | 2022-04-01 | 2022-07-26 |

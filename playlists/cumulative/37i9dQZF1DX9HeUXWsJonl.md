@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-98 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+100 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Amane](https://open.spotify.com/track/5hE7CooonBvT1EhAawMCqp) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Comme avant](https://open.spotify.com/album/5kwEOC8Ua2255QdWR2TqAX) | 3:52 | 2021-12-10 |  |
 | [Amane Amane](https://open.spotify.com/track/32rgLBz7yrG7yBLI6BCNjQ) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Amane Amane](https://open.spotify.com/album/52qCnEXbx1KN0TZuX8oC9C) | 3:34 | 2021-12-10 | 2022-02-08 |
 | [Amazone](https://open.spotify.com/track/2MYKMHhMFIlmYKn05C9cV2) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Amazone](https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28) | 3:20 | 2021-12-10 |  |
-| [Ana Li Bghit](https://open.spotify.com/track/4p1sxxbjtfhWQfyaF2mm5d) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ana Li Bghit](https://open.spotify.com/album/6iad05pe3Sb9HDP7ffVTJU) | 3:49 | 2021-12-10 |  |
+| [Ana Li Bghit](https://open.spotify.com/track/4p1sxxbjtfhWQfyaF2mm5d) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ana Li Bghit](https://open.spotify.com/album/6iad05pe3Sb9HDP7ffVTJU) | 3:49 | 2021-12-10 | 2022-11-10 |
 | [Ana Weyak](https://open.spotify.com/track/5aqmJaDvhBRPKl7ouuLqiu) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [أنا وياك](https://open.spotify.com/album/4y49FwQLBB611add8CodNd) | 2:38 | 2022-07-14 |  |
 | [Bad Love](https://open.spotify.com/track/3jI5FBlOWlKYglME1q48B4) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Bad Love](https://open.spotify.com/album/4spBd91JN0Z6286LG86wDv) | 3:48 | 2022-02-25 |  |
 | [Bannié](https://open.spotify.com/track/4kJBCP7CJLys6lWylczq6A) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Bannié](https://open.spotify.com/album/64xlqkinSkv9qeuW2Klb4V) | 2:54 | 2021-12-10 | 2022-01-15 |
@@ -40,8 +40,9 @@
 | [Elli Tchelou](https://open.spotify.com/track/0FGu0SbwOOyHrSRzhSA34m) | [Gultrah Sound System](https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba) | [PRELUDE](https://open.spotify.com/album/1F9rHP1TBv73QVgvxqfF9R) | 5:26 | 2022-09-12 | 2022-10-22 |
 | [Ena](https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit) | 5:12 | 2021-12-10 |  |
 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 | 2022-11-07 |  |
-| [Finek](https://open.spotify.com/track/6BJ8rKfrRf4U1u3CGGvgTV) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Finek](https://open.spotify.com/album/2rpEr6XUjRcUKkpRqaQZKe) | 3:24 | 2021-12-10 |  |
+| [Finek](https://open.spotify.com/track/6BJ8rKfrRf4U1u3CGGvgTV) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Finek](https://open.spotify.com/album/2rpEr6XUjRcUKkpRqaQZKe) | 3:24 | 2021-12-10 | 2022-11-10 |
 | [Galbi](https://open.spotify.com/track/7Bri5HtRLTiCq17j3ogbH8) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw) | [Galbi](https://open.spotify.com/album/5y7m6UDox56LbgePd50uXX) | 4:20 | 2022-07-11 |  |
+| [Galbi](https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Galbi](https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK) | 5:22 | 2022-11-09 |  |
 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 | 2022-01-20 | 2022-10-22 |
 | [Ghrib](https://open.spotify.com/track/6UmPJTPqQ3HXZkGHzpCR2H) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ghram](https://open.spotify.com/album/1NyH5ubcU9CCabIjVJkAHO) | 3:04 | 2022-05-26 |  |
 | [Haw Fi Belek](https://open.spotify.com/track/5UlBJjxOMdDp0flRkD5RME) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM), [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Tchiggy](https://open.spotify.com/artist/2FsxcHBONPXPDoASKYLe2v) | [Haw Fi Belek](https://open.spotify.com/album/2RPmnyGcZARbNPz1ajp9NV) | 3:51 | 2021-12-10 |  |
@@ -89,6 +90,7 @@
 | [Teblina](https://open.spotify.com/track/62BTtJMH55mNZWkt7bsiN2) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Teblina](https://open.spotify.com/album/1lCnDpXNlxvQ3Pw8WgxDAm) | 3:30 | 2022-10-10 |  |
 | [Ti amo](https://open.spotify.com/track/00xoWQd2gzMQrUYohWV1lW) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:53 | 2021-12-10 | 2022-07-12 |
 | [TOKA TOKA](https://open.spotify.com/track/28ewsI8YFCN66x4tLDQpeO) | [Mert](https://open.spotify.com/artist/0wwDZj4zgZORjTGhTujAKx), [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [TOKA TOKA](https://open.spotify.com/album/6R7abQVsZiFk3wRu2iH9Cu) | 2:31 | 2022-09-07 | 2022-10-22 |
+| [Tunisie](https://open.spotify.com/track/1fj8TuCYneYtKsVmIJG4N6) | [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Tunisie](https://open.spotify.com/album/6Ru27IhNy926jX1r4dpa0G) | 3:36 | 2022-11-09 |  |
 | [Vanille](https://open.spotify.com/track/4lrsCXwghvihHzjYKrB2uY) | [Lady Miro](https://open.spotify.com/artist/3xCulAs0FwT4sByJ8UVpjb), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Vanille](https://open.spotify.com/album/4JKKfV15KUKpoEGathW7np) | 2:27 | 2021-12-10 | 2022-02-26 |
 | [Wakti Yejri](https://open.spotify.com/track/2rdBSVBD6xMJOmCNrGniSr) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wakti Yejri](https://open.spotify.com/album/7smElBnJjgj4vptmJx5OXo) | 3:08 | 2021-12-10 |  |
 | [Wino El Hob](https://open.spotify.com/track/1a2bhHy2PRVTnD5UePaM4N) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Melly](https://open.spotify.com/artist/25AY4L2c6L9B9Eq9GY5d5b) | [Wino El Hob](https://open.spotify.com/album/11D9TxsVmFM1SAiFl1w2Ql) | 6:13 | 2022-02-28 | 2022-05-31 |

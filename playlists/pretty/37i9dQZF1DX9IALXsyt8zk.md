@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: SOLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,793 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,795 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 34 | [여름 안에서](https://open.spotify.com/track/7A7Ve2J88JgZwv3eR3JGoH) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [아바드림 트리뷰트 Memorial EP.1](https://open.spotify.com/album/6akg8eFWMwvCMbxaSuv6ME) | 3:43 |
 | 35 | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/track/49lrMwawOXBBi2zQGrPTlK) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [쿼카](https://open.spotify.com/artist/4n67uXDzfLiGEeaX0NAnJX) | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/album/6LXCbFfy30ywcpWyqwHzoB) | 3:25 |
 | 36 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 |
-| 37 | [Umbrella \(feat\. Ashley Alisha, Julian Rose\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Julian Rose](https://open.spotify.com/artist/328e3lxjZnC2YueEVt503o) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 |
+| 37 | [Umbrella \(feat\. Ashley Alisha & prettyhappy\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 |
 | 38 | [Check List](https://open.spotify.com/track/3x3Kfb27IPepdonwh3ujkj) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Check List](https://open.spotify.com/album/0HbmFQrwbPkRUGPseq9Qtb) | 3:21 |
 | 39 | [POP](https://open.spotify.com/track/2FzMEX0nP9tFd6phID2tm8) | [bugAboo](https://open.spotify.com/artist/0qgxiUt2HZ0GoYRYF01aH5) | [POP](https://open.spotify.com/album/1ZMNqhcar5rjEgjWZ6WFv1) | 3:14 |
 | 40 | [Please Don′t Save Me](https://open.spotify.com/track/23vBocYQlxBdAhwbNbLPcd) | [Acy blu](https://open.spotify.com/artist/3MYIi83H7ZCfglGpvMtCQ6) | [Love Is Over](https://open.spotify.com/album/7pT9cfakGi2TnHHTFr7LCj) | 3:20 |

@@ -4,7 +4,7 @@
 
 > Listen to the soundtrack of the SBS Mon\-Tue drama CHEER UP and the songs recommended by the cast! \(SBS 월, 화 드라마 치얼업의 사운드 트랙과 배우진이 추천하는 노래를 들어보세요!\)
 
-30 songs - 1 hr 46 min - not published yet
+31 songs - 1 hr 49 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Eurachacha](https://open.spotify.com/track/5WeDiuGjTVQ38Vf2eHUpX3) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Have A Nice Dream](https://open.spotify.com/album/1gGFPcgK3adJebbw4XnT47) | 4:16 | 2022-10-04 |  |
 | [Every Second](https://open.spotify.com/track/6dquCx5KAW5jCgGgoTlghL) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Every Second](https://open.spotify.com/album/4VLxnKcNSnVyxw4ByPzQVs) | 3:02 | 2022-10-04 |  |
 | [Good Luck to You](https://open.spotify.com/track/03JARaiVyO6xN2UNDi7NYZ) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Beginner's Luck](https://open.spotify.com/album/0rwMYpbxg4Iaw2RbCG07xv) | 4:20 | 2022-10-04 |  |
+| [High](https://open.spotify.com/track/7yRYNoUosgDPpyL5noRFQ6) | [THEIA](https://open.spotify.com/artist/0WT5o9HgcJJoyKUhiHaCMP) | [Cheer Up \(Original Soundtrack Part.6\)](https://open.spotify.com/album/3bZkd2ztBDVeJjKkmYsEaE) | 3:28 | 2022-11-09 |  |
 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 | 2022-10-04 |  |
 | [I Am Blue](https://open.spotify.com/track/3UPbbImoatLnoAGphBjYmv) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [I Am Blue](https://open.spotify.com/album/01fIbeVhEe4arnqVHzlpps) | 3:07 | 2022-10-04 |  |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-10-04 |  |

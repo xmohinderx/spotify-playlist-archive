@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,780 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,905 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 99 | [Only Love Can Break Your Heart \- Live](https://open.spotify.com/track/60LJcZ4RS3IDkp8KB3z6p9) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Only Love Can Break Your Heart](https://open.spotify.com/album/1E0PKpMCxtVth7DecWQfYk) | 6:04 |
 | 100 | [Can't Buy Me Love](https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Jazz Plays The Beatles](https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i) | 2:37 |
 
-Snapshot ID: `MTY2Njc3MjM3NCwwMDAwMDAwMDc4NjllMTI3MjNkNTQ4Nzk5MWZkMzdmMjM2ZDgxODBm`
+Snapshot ID: `MTY2Nzk5NjI4NywwMDAwMDAwMDJiOTQxYTQ4M2U4NjQ2OTFkYTQ2ZWQ1MDZjZDkzMzcw`

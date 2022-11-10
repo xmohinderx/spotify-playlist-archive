@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQ+ artists and allies join this fiesta\. <br/>Cover: Nicole Zignago
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,878 likes - 130 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,877 likes - 130 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 100 | [Japón](https://open.spotify.com/track/4iL3fpAqZwE6jhsYAc6AKb) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk) | [Japón](https://open.spotify.com/album/60BmITlB7uljEtTmzDTiSU) | 3:03 |
 | 101 | [Sincronicidad](https://open.spotify.com/track/2w7kX7FfWzFDgzVHrxtbhE) | [Felicia Morales](https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC), [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [Sincronicidad](https://open.spotify.com/album/1EQASGjou6q176559wxkTB) | 2:54 |
 | 102 | [Rubberhand](https://open.spotify.com/track/09t1pMoR2CAJLzbIC3AhYp) | [PUTOCHINOMARICÓN](https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf), [Chenta Tsai](https://open.spotify.com/artist/7BRP5V0xT5jrR0rfGuZb3p), [Tami T](https://open.spotify.com/artist/1rlC0qRy1Ndg2uAoFoFlyJ) | [JÁJÁ ÉQÚÍSDÉ \(Distopía Aburrida\)](https://open.spotify.com/album/7bULGrCZjsDzXmXuvDoxbj) | 3:53 |
-| 103 | [PODER \- Lilith: 6](https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo) | [MARÍA](https://open.spotify.com/artist/0L26KOsNaEDlbjWUUSWcZ3), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [PODER \- Lilith: 6](https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S) | 3:11 |
+| 103 | [PODER \- Lilith: 6](https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo) | [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [PODER \- Lilith: 6](https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S) | 3:11 |
 | 104 | [Lo Que Quieras Tú](https://open.spotify.com/track/5skI8kaq5FByLW96MyUZqN) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [ChocQuib House](https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2) | 3:42 |
 | 105 | [Florecer](https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Florecer](https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT) | 2:26 |
 | 106 | [Heartbeat](https://open.spotify.com/track/7JKf9DEKBAdyILvDh4jzHy) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Heartbeat](https://open.spotify.com/album/3GchcqeNKAlCtvYOOQ4JbV) | 3:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,147 likes - 122 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,176 likes - 122 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 66 | [Skidamarink A Dink A Dink](https://open.spotify.com/track/3jWeocrrxb4mQmH0Po0UNA) | [Lisa Liddle](https://open.spotify.com/artist/1YzqZE21VmV1PvWp1bHmlq) | [Skidamarink A Dink A Dink](https://open.spotify.com/album/3ckHFaiiOJl3x1lCf5S9nw) | 2:20 |
 | 67 | [Hush Little Baby](https://open.spotify.com/track/6dugEik4VDbYV5TNRIElnj) | [Celeste Knight](https://open.spotify.com/artist/1UgS4sDHUIYMiwbzV2LkXl) | [Hush Little Baby](https://open.spotify.com/album/5TKlJrkT8ZN64kGMWx7SSm) | 1:38 |
 | 68 | [My Yellow Balloon](https://open.spotify.com/track/5xIJe9ZI1WMChQebC2qwQY) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [My Yellow Balloon](https://open.spotify.com/album/55cKuVSQH7zhsaEL6v4ivy) | 2:53 |
-| 69 | [Gymnopedie No\. 1](https://open.spotify.com/track/2RNTTudMu6XvPUDuYJFdvW) | [The Lullaby Minstrel](https://open.spotify.com/artist/5jvlg5xpRicJbcuvyZx1Kb) | [Gentle Guitar Lullabies for Sleep: Soothing Melodies to Calm Your Children for Bedtime](https://open.spotify.com/album/4hzafnxDtzvzQd3oZIulHU) | 1:51 |
+| 69 | [Gymnopedie No\. 1](https://open.spotify.com/track/2RNTTudMu6XvPUDuYJFdvW) | [Strings of Kin](https://open.spotify.com/artist/1p3x9feDlUwJJNvnxTh2eR) | [Gentle Guitar Lullabies for Sleep: Soothing Melodies to Calm Your Children for Bedtime](https://open.spotify.com/album/4hzafnxDtzvzQd3oZIulHU) | 1:51 |
 | 70 | [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 |
 | 71 | [Good Night Hug](https://open.spotify.com/track/5wiOuGEIWtgcBrt134k4lF) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Good Night Hug](https://open.spotify.com/album/4S6vHbsrpruKvkyQBqB4yD) | 1:56 |
 | 72 | [Jumpin Bumpin Bounce](https://open.spotify.com/track/7a2OEKKGw9vO3aYIIoRvcF) | [Boris Vlašic](https://open.spotify.com/artist/3zNmA2R2BOtatVjh5rMgMQ) | [Jumpin Bumpin Bounce](https://open.spotify.com/album/5IrFRr42ArFhYggtmyQoYw) | 3:16 |

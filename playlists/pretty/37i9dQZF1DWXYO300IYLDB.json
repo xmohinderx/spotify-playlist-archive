@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3068\u5171\u306b\u3001\u723d\u3084\u304b\u306a1\u65e5\u3092\u8fce\u3048\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 94358,
+  "num_followers": 94376,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ4NzYwMCwwMDAwMDAwMDNjNzMwNjEzNzY2YWNlM2RmNTdmOTViM2FkN2RmNjdj",
+  "snapshot_id": "MTY2Nzk2OTI1MSwwMDAwMDAwMGQ5OWE5ODlmOGNiMWNlNmRiYmMwNTQ1MGI3NTA0YzE3",
   "tracks": [
     {
       "added_at": "2022-11-03 15:00:00",
@@ -1141,6 +1141,38 @@
       "url": "https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p"
     },
     {
+      "added_at": "2022-11-10 01:18:00",
+      "album": {
+        "name": "\u30e9\u30f3\u30d7\u5e7b\u60f3",
+        "url": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "duration_ms": 315640,
+      "name": "\u3086\u3081\u3046\u3064\u3064",
+      "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
+    },
+    {
+      "added_at": "2022-11-10 01:18:00",
+      "album": {
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/1sAiKu51OyOiuWwFIJYMRi"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/18zLYmXB3BraLD4ckBxoK1"
+    },
+    {
       "added_at": "2022-11-03 15:00:00",
       "album": {
         "name": "Little Voice",
@@ -1171,38 +1203,6 @@
       "duration_ms": 259569,
       "name": "No One - Acoustic",
       "url": "https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP"
-    },
-    {
-      "added_at": "2022-11-03 15:00:00",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "A.M. RADIO",
-      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
-    },
-    {
-      "added_at": "2022-11-03 15:00:00",
-      "album": {
-        "name": "Keep Your Head Up Princess",
-        "url": "https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 198220,
-      "name": "Keep Your Head Up Princess",
-      "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
     }
   ],
   "unique_name": "Acoustic Melodies Tokyo",

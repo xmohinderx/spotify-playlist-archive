@@ -1,12 +1,12 @@
 {
   "description": "Not anti-prom... just anti giving a crap about a dance ",
-  "num_followers": 1417,
+  "num_followers": 1415,
   "original_name": "MORP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDAwMDM5NWQ0NmI1Y2ExNDE3MjkxYWZhZDU0ZTgwMmFhNWVm",
+  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDAwMGQ0YjYyY2QzODU4NGEzN2ZhMTY0NmY5ZmJlMTI5ZTFj",
   "tracks": [
     {
       "added_at": "2022-05-06 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Party Favors",
-        "url": "https://open.spotify.com/album/08VQWx0GZFqmUgRtGPntdg"
-      },
-      "artists": [
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 160518,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/42Rb5FxBg53gSib0MMACQs"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/46S95aTUFWSVmRmDKAGnFf"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 157000,
       "name": "For the Damaged Coda",
       "url": "https://open.spotify.com/track/6lvJDlBrtabJWiBlMTGxKs"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 134116,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
     }
   ],
   "unique_name": "MORP",

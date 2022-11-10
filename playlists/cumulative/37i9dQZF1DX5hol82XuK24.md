@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-194 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+195 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Come 2 Me](https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Voulez\-Vous](https://open.spotify.com/album/55g6d5fjLBIJK8g27aqSSI) | 2:38 | 2022-02-24 |  |
 | [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 | 2022-10-23 | 2022-11-01 |
 | [Dead Girls](https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Hazards](https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy) | 3:19 | 2021-11-01 |  |
-| [Deaf](https://open.spotify.com/track/1bWZNXXL3mQZscxyzO72Ff) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/2yVx5Ark5dEz7YN6tYX4Mu) | 5:12 | 2022-01-27 |  |
+| [Deaf](https://open.spotify.com/track/1bWZNXXL3mQZscxyzO72Ff) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/2yVx5Ark5dEz7YN6tYX4Mu) | 5:12 | 2022-01-27 | 2022-11-10 |
+| [Deaf](https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu) | 5:12 | 2022-11-01 |  |
 | [Deaf](https://open.spotify.com/track/4mD08TdVCPxyV4xnP5o7Wt) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/75iTRwhc1ujZwiTrCdBQOu) | 5:12 | 2021-11-01 | 2022-07-29 |
 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 | 2021-11-01 |  |
 | [Deep Six Textbook](https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I, Gemini](https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC) | 5:39 | 2021-11-01 |  |

@@ -4,7 +4,7 @@
 
 > iykyk
 
-665 songs - 1 day 12 hr 8 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+668 songs - 1 day 12 hr 19 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Aces](https://open.spotify.com/track/2elzUKJebZM50u2i6dgVnP) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/3RZ5noE2X4Fn4OhdfslVex) | 2:02 | 2022-11-03 |  |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2022-04-20 |  |
 | [After Hours](https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [After Hours](https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv) | 2:37 | 2022-05-16 | 2022-07-07 |
+| [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:09 | 2022-11-10 |  |
 | [Aimed to Kill](https://open.spotify.com/track/5Xx1X1rBk5fpxuhvvtt4th) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Aimed to Kill](https://open.spotify.com/album/1EYaxqjZ8sMfYprcW3XVij) | 3:22 | 2022-04-20 | 2022-05-04 |
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2022-03-24 | 2022-06-19 |
 | [Alien Blues](https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI) | 2:36 | 2021-11-28 | 2022-07-09 |
@@ -311,7 +312,7 @@
 | [K.](https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 5:19 | 2022-06-10 |  |
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2022-07-27 | 2022-08-02 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-27 | 2022-11-04 |
-| [Karma \- Sped Up](https://open.spotify.com/track/2xneniL4mcJebMJnkle3vY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Karma \(Sped Up\)](https://open.spotify.com/album/3VZ4jpMK4wcOXv00lV48Qn) | 2:41 | 2022-08-01 | 2022-08-31 |
+| [Karma \- Sped Up](https://open.spotify.com/track/2xneniL4mcJebMJnkle3vY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Karma \(Sped Up\)](https://open.spotify.com/album/3VZ4jpMK4wcOXv00lV48Qn) | 2:41 | 2022-08-01 |  |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-11-03 |  |
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2022-01-21 | 2022-02-14 |
 | [L$d](https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr) | [Luclover](https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60) | [Deaf 2 Society](https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby) | 1:43 | 2022-07-21 |  |
@@ -629,6 +630,7 @@
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2021-10-21 | 2022-04-05 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-06-27 | 2022-09-17 |
 | [vent](https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:16 | 2022-05-11 | 2022-06-03 |
+| [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-11-09 |  |
 | [Victoria’s Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 | 2022-07-15 | 2022-10-21 |
 | [Violet](https://open.spotify.com/track/3zb9k8UUuKz5tYmKJvNqQA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Violet](https://open.spotify.com/album/6TasXkUMVr3cFnrerHhlVj) | 2:02 | 2022-10-14 |  |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2022-09-06 |  |
@@ -652,6 +654,7 @@
 | [Wobble](https://open.spotify.com/track/6JLcz9UGiVxAmEZXlCucn5) | [V.I.C.](https://open.spotify.com/artist/49mHZzhcsoQB1JXWv8Q9gU) | [Beast](https://open.spotify.com/album/2xaFAO5ejxbxjL5gund9Dk) | 5:21 | 2022-11-01 |  |
 | [Womp Womp](https://open.spotify.com/track/1G5ho820Xi2Qu3HsBZ26ft) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Womp Womp](https://open.spotify.com/album/7o66H14uvkdLb6dI866lOW) | 3:46 | 2022-01-09 | 2022-02-14 |
 | [Woo](https://open.spotify.com/track/3HQcsqRjRdruUjkbDSgmVF) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:55 | 2022-06-03 |  |
+| [World Cup](https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb) | [World Cup](https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE) | 4:16 | 2022-11-09 |  |
 | [World's Smallest Violin](https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 3:00 | 2022-05-03 | 2022-10-19 |
 | [World's Smallest Violin](https://open.spotify.com/track/6R8L4HZxaVSFED7rLePbK3) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0cev5DkOdS8wk0aRoac6Fh) | 3:00 | 2022-05-03 | 2022-07-29 |
 | [WORTH NOTHING \- Instrumental](https://open.spotify.com/track/2nvFfiJKe7u9CPnDkumbsq) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [WORTH NOTHING \(Instrumental\)](https://open.spotify.com/album/5ba7KbgbcCI9Z2yk5oxq5D) | 2:44 | 2022-10-13 | 2022-10-28 |

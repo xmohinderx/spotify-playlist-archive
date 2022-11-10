@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-890 songs - 1 day 17 hr 30 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+891 songs - 1 day 17 hr 32 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-05-16 | 2022-05-29 |
 | [Dead Inside](https://open.spotify.com/track/0EPK3XVvgbe8q0KrS7nEiY) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [Dead Inside](https://open.spotify.com/album/5HwVMu4cxjViVqtg1wSYIN) | 2:04 | 2022-09-27 |  |
 | [DEF JOINT 2](https://open.spotify.com/track/6puSUz6WFeWBk6PqZs6DG9) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:07 | 2021-03-27 | 2021-03-29 |
-| [Diamond](https://open.spotify.com/track/0hyBoVYAltzIX1iXcP7XZS) | [Кореш](https://open.spotify.com/artist/4JMt9C71qFOVZRzXj209Cp), [PINQ](https://open.spotify.com/artist/3xYxH7G5JimR1F1thIZYAQ) | [Diamond](https://open.spotify.com/album/5oAmmsRnwV6fvRAM060HL0) | 2:08 | 2022-11-05 |  |
+| [Diamond](https://open.spotify.com/track/0hyBoVYAltzIX1iXcP7XZS) | [Кореш](https://open.spotify.com/artist/4JMt9C71qFOVZRzXj209Cp), [PINQ](https://open.spotify.com/artist/3xYxH7G5JimR1F1thIZYAQ) | [Diamond](https://open.spotify.com/album/5oAmmsRnwV6fvRAM060HL0) | 2:08 | 2022-11-05 | 2022-11-10 |
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2021-09-19 | 2021-09-20 |
 | [DINERO](https://open.spotify.com/track/6HHcW1tddM6sHVBBjOkeIb) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:37 | 2021-05-29 | 2021-09-29 |
 | [Dior](https://open.spotify.com/track/3JZonG7YkHKY20LJ3QoYrQ) | [ЕГОР ШИП](https://open.spotify.com/artist/0Eu1T2eous06I1bM774jN1) | [Dior](https://open.spotify.com/album/1xhErGiISRGJ0Y6AvYGyoZ) | 2:01 | 2021-04-15 | 2021-05-12 |
@@ -221,6 +221,7 @@
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-04-17 | 2021-06-06 |
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-09-14 | 2021-11-04 |
 | [liga la sosa](https://open.spotify.com/track/33MgQyqDdQjhBBrm7rGGVb) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 1:52 | 2021-08-15 | 2021-08-17 |
+| [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 | 2022-11-09 |  |
 | [LIPSI HA](https://open.spotify.com/track/1D4ptfeNRLRWu52uzIXW5d) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [LIPSI HA](https://open.spotify.com/album/4wkPIWpRZtBEUUJeChuqVc) | 2:01 | 2021-09-12 | 2021-11-21 |
 | [LIPSI HA](https://open.spotify.com/track/54ZhPL5soHKDxg9a5wizPv) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [MONEYDEALER](https://open.spotify.com/album/4n9BQVu07XjxoncNbAusUR) | 2:01 | 2021-11-21 | 2022-01-06 |
 | [Living Life, In The Night](https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Living Life, In The Night](https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD) | 2:02 | 2022-06-21 | 2022-07-02 |
@@ -249,7 +250,7 @@
 | [Million](https://open.spotify.com/track/4umjgYILQbHyV41ZmaemQm) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:14 | 2021-10-23 | 2022-07-16 |
 | [Minor](https://open.spotify.com/track/5m5rShfBQk4UpG7vpsEKzf) | [Miyagi & Andy Panda](https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3) | [YAMAKASI](https://open.spotify.com/album/6xuT7rum2qqggIhmzyrvFU) | 2:55 | 2021-04-14 | 2021-10-03 |
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2021-05-09 | 2021-05-23 |
-| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-21 | 2022-10-23 |
+| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-21 |  |
 | [Mixtape](https://open.spotify.com/track/6SfyzcVxW2P9ieifice761) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [Mixtape](https://open.spotify.com/album/6DxSSb0rVQAFW6F86sC48v) | 1:28 | 2021-08-29 | 2021-08-30 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-18 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-09-29 | 2021-11-23 |
@@ -859,7 +860,7 @@
 | [Чи разом](https://open.spotify.com/track/4LVrOvwpUuJFP2JsIGTptg) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Навколо](https://open.spotify.com/album/6f7xYzkeCz8SB2xT7HTMvN) | 2:38 | 2022-10-01 | 2022-10-23 |
 | [Чи разом?](https://open.spotify.com/track/7IRfUFRIarTp8a8Yxa83Nl) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Чи разом?](https://open.spotify.com/album/2Sz6c15TjlldLotq4jv3rd) | 2:38 | 2022-06-08 | 2022-10-02 |
 | [Чистый \- OST «Псих»](https://open.spotify.com/track/2Z0OcpA4i1KayJbXn800le) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Чистый \(OST «Псих»\)](https://open.spotify.com/album/6S3SHxve1g8S1v71Vlq3YP) | 3:13 | 2021-03-27\* | 2021-10-03 |
-| [Чорнобрива](https://open.spotify.com/track/4N822HhhcRrVKuX3Ni9L0T) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Чорнобрива](https://open.spotify.com/album/3myNezgi10ScmGwJ7hwBsx) | 2:13 | 2022-10-16 |  |
+| [Чорнобрива](https://open.spotify.com/track/4N822HhhcRrVKuX3Ni9L0T) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Чорнобрива](https://open.spotify.com/album/3myNezgi10ScmGwJ7hwBsx) | 2:13 | 2022-10-16 | 2022-11-10 |
 | [Чувствую](https://open.spotify.com/track/6bxulgo5iAC3yK1haIXWhJ) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 3:35 | 2021-12-03 | 2021-12-09 |
 | [Чупа Чупс](https://open.spotify.com/track/5UtiZpBDi7Ikgic4QrhbO5) | [Eldzhey](https://open.spotify.com/artist/0Cm90jv892OeEegB3ELmvN), [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Чупа Чупс](https://open.spotify.com/album/0uNDcaG1JjXrknJUKRNtqb) | 2:16 | 2021-12-25 | 2021-12-27 |
 | [Чути гімн](https://open.spotify.com/track/4Yzlz45QgjUKZmN2KrK4AP) | [Skofka](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [Чути гімн](https://open.spotify.com/album/4CDvAEwF29rYx7Jg2bpl22) | 2:28 | 2022-07-30 |  |

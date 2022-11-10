@@ -4,7 +4,7 @@
 
 > gasping at Jack Antonoff rolling his eyes singing Taylor, you’ll be fine 🤍
 
-540 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/39O9POiBLV6pa1bW5ngppg)
+541 songs - 1 day 3 hr 57 min - [published](https://open.spotify.com/playlist/39O9POiBLV6pa1bW5ngppg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 | 2022-10-28 |  |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-03-18 | 2022-05-07 |
 | [if he wanted to he would](https://open.spotify.com/track/1AcWy7riw8mBBssGzt2bCe) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [all the things that could go wrong \(Deluxe\)](https://open.spotify.com/album/1S3J9NISRNzWrLke6Tx0Wg) | 2:51 | 2022-11-04 |  |
+| [If I Died Last Night](https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [If I Died Last Night](https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5) | 2:44 | 2022-11-09 |  |
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-05-06 | 2022-05-28 |
 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-10-26 |  |
 | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/track/3I3O8aazwBKkXN6RNjY06L) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/album/7CN4YY7AIz6Fh1FYNlRvaS) | 2:10 | 2022-03-25 | 2022-04-09 |

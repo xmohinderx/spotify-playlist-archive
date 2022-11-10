@@ -1977,7 +1977,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 128000,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/0hyBoVYAltzIX1iXcP7XZS"
@@ -4206,6 +4206,24 @@
     },
     {
       "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
+      "album": {
         "name": "LIPSI HA",
         "url": "https://open.spotify.com/album/4wkPIWpRZtBEUUJeChuqVc"
       },
@@ -4769,7 +4787,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -16749,7 +16767,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 133305,
       "name": "\u0427\u043e\u0440\u043d\u043e\u0431\u0440\u0438\u0432\u0430",
       "url": "https://open.spotify.com/track/4N822HhhcRrVKuX3Ni9L0T"

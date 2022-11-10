@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: meenoi\(미노이\)\)
 
-125 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
+128 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Dotdanbae](https://open.spotify.com/track/03ARk5P8goF6JoP5Rwc8Is) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 3:13 | 2022-06-18 | 2022-10-05 |
 | [Dream](https://open.spotify.com/track/1cGLwx1N5rMOecEgHfSxGp) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Dream](https://open.spotify.com/album/3UKfsizfUVfc9PSnUy72r1) | 2:29 | 2022-05-28 | 2022-07-08 |
 | [Dust](https://open.spotify.com/track/0i2J3DyqIjGq5oPNROdgeO) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Dust](https://open.spotify.com/album/1MJwR5F0fNTPSocVylBL7s) | 3:47 | 2022-05-28 | 2022-07-08 |
+| [dysmorphia \(Prod\. Jay Dope\)](https://open.spotify.com/track/7uCK6TUGn9MQRAo6CbLjWk) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:53 | 2022-11-09 |  |
 | [Everytime](https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Everytime](https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0) | 2:42 | 2022-07-07 |  |
 | [excuses](https://open.spotify.com/track/24ZZsTtsIqEYxhVXL8k75e) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [excuses](https://open.spotify.com/album/7vrkB5apr0lk3SAihR9xxA) | 2:51 | 2022-05-28 | 2022-06-10 |
 | [faraway](https://open.spotify.com/track/6MysgWeikCdIVrDhPVSCZU) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [faraway](https://open.spotify.com/album/13csUC6m7mKJpmyfWG8bz8) | 3:49 | 2022-10-28 |  |
@@ -62,6 +63,7 @@
 | [Hangang](https://open.spotify.com/track/5pp2avKhaaAYKrDJpoTD6e) | [Saebyuk](https://open.spotify.com/artist/3bwmvr8GLrXXyxFtbLTyuV) | [Hangang](https://open.spotify.com/album/6ooXFjQ7yNU66cYeGSBv1r) | 3:13 | 2022-05-28 | 2022-06-10 |
 | [Happy Birthday](https://open.spotify.com/track/0fElururinZektfZMpFFdN) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Happy Birthday](https://open.spotify.com/album/4ATg7M4n35AokS3748RFFO) | 3:54 | 2022-06-18 | 2022-07-20 |
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-05-28 | 2022-08-13 |
+| [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-09 |  |
 | [Hero](https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Hero](https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM) | 2:30 | 2022-05-28 | 2022-08-13 |
 | [Hidden Castle](https://open.spotify.com/track/5g9OF6EfVqiIUjKCIsnCG0) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Hidden Castle](https://open.spotify.com/album/1Kz44qP8JD4QF3sC2fRyBX) | 3:28 | 2022-07-27 |  |
 | [Honestly](https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Honestly](https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx) | 3:17 | 2022-07-27 |  |
@@ -90,6 +92,7 @@
 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 | 2022-05-28 | 2022-07-14 |
 | [Night Air \(With\. g1nger\)](https://open.spotify.com/track/5GHNtt4wq9XjKeLTonZNdd) | [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [Yellow](https://open.spotify.com/album/6x9ZhTzPQNzzcgCncunY8M) | 3:57 | 2022-05-28 | 2022-07-05 |
 | [No.5](https://open.spotify.com/track/49n3XWprPOrQP8O50Ue9ls) | [MarginChoi](https://open.spotify.com/artist/1jQTEipNOZS8UPk53wxVfB), [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG) | [No.5](https://open.spotify.com/album/2Wnge9eiuPNX0EJFzDNfys) | 2:53 | 2022-05-28 | 2022-06-21 |
+| [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 | 2022-11-09 |  |
 | [OceanooM Duet∘☽ \(feat\. Jung YoungEun\)](https://open.spotify.com/track/4iDcQyypdqnsx9lFwJaNWU) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf) | [OceanooM Duet∘☽](https://open.spotify.com/album/4IQct8SSePLkfcJpSsKAMd) | 3:27 | 2022-07-07 |  |
 | [On Television](https://open.spotify.com/track/3DDxYH9abbGUXUeUwVVluA) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9) | [On Television](https://open.spotify.com/album/2X6AqA8wXcPAVHrxW1mMlF) | 3:06 | 2022-05-28 | 2022-06-15 |
 | [Once \(feat\. J.O.Y\)](https://open.spotify.com/track/5DKXbkV2NsCOFBOWZILA2L) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Once](https://open.spotify.com/album/6LqHI2g0taFCS72SOZFXDP) | 3:10 | 2022-10-04 |  |

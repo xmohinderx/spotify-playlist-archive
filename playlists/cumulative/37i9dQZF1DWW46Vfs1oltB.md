@@ -4,7 +4,7 @@
 
 > Meet the 10 songs selected by Paloalto at the top of the playlist! You can check the reason for selection through Clips\. \(Cover: Paloalto\) \(팔로알토가 직접 선곡한 10곡을 플레이리스트 상단에서 만나보세요! 선정 이유는 클립스를 통해 확인하실 수 있습니다\. \(커버: 팔로알토\)
 
-665 songs - 1 day 12 hr 45 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+666 songs - 1 day 12 hr 48 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Mr\. FOSHO \(feat\. OXYNOVA, Polodared & KHAN\)](https://open.spotify.com/track/2QAb4EOQoy8QshiTBAaCH2) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [KHAN](https://open.spotify.com/artist/2dixWDh9f2COEfikojSd39) | [Mr\. FOSHO](https://open.spotify.com/album/6Ccz99yuUi2KVQHB6zsUSn) | 3:13 | 2022-06-09 | 2022-08-13 |
 | [Mr.Crooked \(Feat\. Kim Seungmin, Han Yo Han\)](https://open.spotify.com/track/0XGRwNXqZ5Aao3r5ACoPAz) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Mr.Crooked](https://open.spotify.com/album/7fqLcDodbP3uYIkzJwZM7I) | 3:35 | 2022-08-19 | 2022-10-30 |
 | [MSG \(Feat\. PENOMECO\)](https://open.spotify.com/track/6UgKRF9v8QTi7W6COkRU0v) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 3:37 | 2022-09-02 | 2022-09-04 |
+| [Mull](https://open.spotify.com/track/3R0rfIZjWpNUHNHREUvCBN) | [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI) | [Ape Into Space](https://open.spotify.com/album/6KR7vGnlkIuUKzgGAEFODW) | 2:58 | 2022-11-09 |  |
 | [My G\-Wagen \(feat\. SUPERBEE\)](https://open.spotify.com/track/1V0gR6LFuhm05WnqrNfmlm) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Inflection Point](https://open.spotify.com/album/4QB8osrrZHap79ctNcMqRD) | 3:10 | 2021-12-21 | 2022-04-21 |
 | [My Place \(With Zion.T\)](https://open.spotify.com/track/0DiwI2AdwalLTcFNuA7HTP) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [9Cut](https://open.spotify.com/album/0AOmBu8KgdVqxgMNKatbWF) | 3:04 | 2022-01-15 | 2022-07-05 |
 | [My pleasure Is That You Ride The Bentley](https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 3:01 | 2022-09-03 |  |

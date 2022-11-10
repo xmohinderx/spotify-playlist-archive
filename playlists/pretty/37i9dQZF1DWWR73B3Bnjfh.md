@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,310 likes - 100 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,450 likes - 100 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 99 | [All The Way \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 7:27 |
 | 100 | [The Blues In My Flat](https://open.spotify.com/track/3wyvK7ySxD4pR285UTRIEG) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Once Upon A Time](https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY) | 8:00 |
 
-Snapshot ID: `MTY2Njc4MzQ0OSwwMDAwMDAwMDY0NDY4MTI3YzA3NGYyOWFhNzZmNGRjNWNhNTk2YjFl`
+Snapshot ID: `MTY2Nzk5NTk2MiwwMDAwMDAwMDNjMGYyYTgzOThjMDRiZjE2OWRhYTk2MWQ5Mjk2NDUw`

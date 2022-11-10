@@ -2,7 +2,7 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PP Krit
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: LAZ1
 
 254 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
 

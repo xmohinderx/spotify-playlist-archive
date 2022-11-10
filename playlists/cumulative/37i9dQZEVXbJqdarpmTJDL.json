@@ -1801,7 +1801,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 152961,
       "name": "BackOutsideBoyz",
       "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
@@ -2353,7 +2353,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -2959,7 +2959,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 225439,
       "name": "Broke Boys",
       "url": "https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8"
@@ -3527,7 +3527,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 236795,
       "name": "Circo Loco",
       "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
@@ -5265,12 +5265,12 @@
           "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
         },
         {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
           "name": "Fy",
           "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
         },
         {
           "name": "Bobito",
@@ -8289,7 +8289,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 184782,
       "name": "Intro (Apo Tous Yponomous)",
       "url": "https://open.spotify.com/track/60YhDtk1pz5MI3boHGMN37"
@@ -14695,7 +14695,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 160821,
       "name": "Privileged Rappers",
       "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
@@ -15131,6 +15131,28 @@
       "duration_ms": 200816,
       "name": "Real Connections Vol. 2",
       "url": "https://open.spotify.com/track/6HsXh8OB2uVUcZUR4LgOcd"
+    },
+    {
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5wnROpYlI0LDF5ctSr7Lpj"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169351,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/2Rpfa4gDFr3q96himB2c3m"
     },
     {
       "album": {
@@ -16149,7 +16171,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: Ezra Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,710 likes - 49 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,789 likes - 49 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 25 | [Toots](https://open.spotify.com/track/35Pq0buGI8yDZJvUiL6dan) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Tommy Lehman](https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h), [Andru Dennis](https://open.spotify.com/artist/4iTXPirCc07JAdX51EFtkl), [Damon the Soulful Samurai](https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp), [Eric Levine](https://open.spotify.com/artist/5j1oEYcsCN339uJJ6tszXa), [Holbrook Riles III](https://open.spotify.com/artist/1jUGqKulBY2YwRWWwH55XY), [Herbie Hunkele Horns](https://open.spotify.com/artist/4z2X4PcOcTMOza5CLBdmrO), [John James Martin](https://open.spotify.com/artist/0TXNc8irsy7gRvK0ZgpiIh) | [Toots](https://open.spotify.com/album/0d6HlR5awomDFeLNPqrhXw) | 5:19 |
 | 26 | [Found](https://open.spotify.com/track/5RwrZDLEbEIDfF7Mb4dHRE) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Out of the Fog](https://open.spotify.com/album/2BgST1GeMN47S4gU1vqBEn) | 4:31 |
 | 27 | [Seaside Town](https://open.spotify.com/track/2vzO8qvU5RFwfkUYgfDVLl) | [Cocoa Stick](https://open.spotify.com/artist/45z3eMrMMsNnZUycJpz2dr) | [Seaside Town](https://open.spotify.com/album/4uYyBkWFSXMOX39tD6CJlq) | 2:12 |
-| 28 | [burn](https://open.spotify.com/track/3mWq6s5slsgsTjVl9mx9rB) | [ideism](https://open.spotify.com/artist/2ZefBt3a3W5DsYp5fq8AwS), [bastrd](https://open.spotify.com/artist/3EKL8aG8iLGwooE3FAfGrb) | [burn](https://open.spotify.com/album/6Q1FD5tTM9JH67ZBk7bHi4) | 3:09 |
+| 28 | [burn](https://open.spotify.com/track/3mWq6s5slsgsTjVl9mx9rB) | [ideism](https://open.spotify.com/artist/2ZefBt3a3W5DsYp5fq8AwS), [bastrd](https://open.spotify.com/artist/3EKL8aG8iLGwooE3FAfGrb) | [burn](https://open.spotify.com/album/6Q1FD5tTM9JH67ZBk7bHi4) | 3:08 |
 | 29 | [Stella by Starlight](https://open.spotify.com/track/7K7gWiLIeIaG7e199MycHQ) | [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn), [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7), [John Hébert](https://open.spotify.com/artist/06or4hIDJYWWJN6KGWkagv) | [Stella by Starlight](https://open.spotify.com/album/2LS5ChvJkECq8JovEI6iDV) | 4:43 |
 | 30 | [Road To The Sea](https://open.spotify.com/track/6O3PRAAVoqCW9SOZYRgyNe) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Marram](https://open.spotify.com/album/3wJD1FQBZnxH38iWs5bhfD) | 1:29 |
 | 31 | [Little Felix](https://open.spotify.com/track/1JySlWpOzRHswXhu9eG1RC) | [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz) | [A Beautiful Friendship](https://open.spotify.com/album/4ixwAAqew3OPMhGvLWv99k) | 6:03 |

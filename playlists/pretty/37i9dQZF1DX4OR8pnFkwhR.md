@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bialystocks / <br/> Early Noise Night\#14プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。/ Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,053 likes - 69 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,121 likes - 69 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 2 | [東京宣言](https://open.spotify.com/track/4UJ6oEkjMSHNXaN3HHnQis) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [東京宣言](https://open.spotify.com/album/25FZu1HO24irASqorZEyB6) | 3:02 |
 | 3 | [Sugar Magic](https://open.spotify.com/track/25QIhqinwmNWzkM60wXLEK) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Sugar Magic](https://open.spotify.com/album/7vFtPaViNfyM9xb66JZtbF) | 3:55 |
 | 4 | [Sparklers](https://open.spotify.com/track/2sPrM5v1J4JoCCvMlfyxxV) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Sparklers](https://open.spotify.com/album/0TLkKfHSdOBXXK4kFKfL3v) | 3:22 |
-| 5 | [深夜6時](https://open.spotify.com/track/495pH9ammQWXsYYqQcJnGq) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [深夜6時](https://open.spotify.com/album/7nbzRuRoAUWC1zTZdcc7mi) | 4:39 |
+| 5 | [Shin'ya 6\-ji](https://open.spotify.com/track/4OCIpuigIlufkPyZ9uRlcY) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Shin'ya 6\-ji](https://open.spotify.com/album/0fQOqoTxovUB2hIVjGgGNK) | 4:39 |
 | 6 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
 | 7 | [普通のロック](https://open.spotify.com/track/3YolTYm3e3Bc23wosdUs70) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [E\-Peanut](https://open.spotify.com/album/1n6UmAxDAo3JMcKhKWcDu6) | 3:20 |
 | 8 | [グッドな音楽を](https://open.spotify.com/track/2vAtN2fB1zqTzfPGxqHmyO) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [グッドな音楽を](https://open.spotify.com/album/3yp1DVS4dSKvkgJqcxXfcA) | 3:35 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 14 | [SWAM](https://open.spotify.com/track/3mUDs6V97GirTDSNLJr5z6) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SWAM](https://open.spotify.com/album/07dVrbFzLZIszN5tGtSeVn) | 2:34 |
 | 15 | [ハナノヨウ](https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [ハナノヨウ](https://open.spotify.com/album/1NORsBbP4WjmIBG2P8OsCt) | 3:52 |
 | 16 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 |
-| 17 | [疾走](https://open.spotify.com/track/7fUMzyKIcDPqH1I3x6S7IQ) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [四季](https://open.spotify.com/album/3D538Y6AW5YL16duTNXob3) | 2:34 |
+| 17 | [Shisso](https://open.spotify.com/track/4vc2xLv40ExLHTuSYLaM7F) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [SHIKI](https://open.spotify.com/album/3hG301XBzgG9WMXB9xaC8d) | 2:34 |
 | 18 | [Game Over](https://open.spotify.com/track/3RTPhsEAhEOTcw4y7cAnbC) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Game Over](https://open.spotify.com/album/2l28sfvxclSXQOMHgm1fe3) | 3:19 |
 | 19 | [17](https://open.spotify.com/track/4y5UUkODpbevMCHrWtLsXw) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [17](https://open.spotify.com/album/4l3yoe3ghzhvn56iH4lT2Q) | 3:22 |
 | 20 | [Love is always](https://open.spotify.com/track/5mWFPBsJLGSt9LJjULiqKE) | [Ako](https://open.spotify.com/artist/3OZH8bAVViRcIjo4vUuIRz) | [Love is always](https://open.spotify.com/album/4txs319mQ4SGQMJo4DujYt) | 4:39 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 50 | [HATE](https://open.spotify.com/track/2vGzFBY2hxsSQq6i0DwKsI) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [TOMOSHIBI](https://open.spotify.com/album/1joJdTZveBD244bGKj994d) | 2:50 |
 | 51 | [Konasu](https://open.spotify.com/track/3Y20L4awtBhLLYYINVxEjl) | [Kibayashi](https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws) | [Konasu](https://open.spotify.com/album/7pDXspq2BUAehCgmLadAUX) | 3:46 |
 | 52 | [Mocktails](https://open.spotify.com/track/2cUhZvGJpb3gUfH61am2OL) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [Mocktails](https://open.spotify.com/album/13LPbNHtgyYfvozXn7JYcA) | 2:44 |
-| 53 | [Rollin' Down](https://open.spotify.com/track/4aCSqOfUfCrBEmU8XO5T8r) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Rollin' Down](https://open.spotify.com/album/4f4Nx0tD76hJgiHBicC9x1) | 3:43 |
+| 53 | [Rollin' Down](https://open.spotify.com/track/249WG2nJcGHHMMQK5BuScm) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Rollin' Down](https://open.spotify.com/album/4Bn1dhRn2E4ZGDodjrfHjq) | 3:43 |
 | 54 | [I'll be](https://open.spotify.com/track/2Pun36FbfaX0c0DUUiLMaG) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [I'll be](https://open.spotify.com/album/0PrduFwTmKJZWyVFt8akXx) | 3:24 |
 | 55 | [slowdance](https://open.spotify.com/track/1UGZqkkwnI7Suxsk2MnmQ3) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [slowdance](https://open.spotify.com/album/3p2hTZIJrx0azJd5mEDZn4) | 3:10 |
 | 56 | [Don't need to let it go](https://open.spotify.com/track/3zAtX7g2H7B03ARDRk0hRn) | [Kinami](https://open.spotify.com/artist/5Zm3vMvLFPUji0Y2txuRdt) | [Don't need to let it go](https://open.spotify.com/album/46ga0qLyG7yUc5WYvJtS97) | 3:11 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 68 | [Hemoglobin](https://open.spotify.com/track/3iPE0bDuggnq8Redh8GxfU) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [Hemoglobin](https://open.spotify.com/album/1W9yD6w2u9cnOx6wSjFVxF) | 3:17 |
 | 69 | [Recently](https://open.spotify.com/track/5aq0yvoWqGVusrOr8HDtsf) | [ORCALAND](https://open.spotify.com/artist/2tUNHY1YtygK9HsSboP3w8) | [Travel Notes](https://open.spotify.com/album/6SiRvL6UvQ3uw2FvYwDk8W) | 5:23 |
 
-Snapshot ID: `MTY2NzkxOTYwMCwwMDAwMDAwMDkwZTAxYjIxOGYwYzAzOWI1MzQ5MzIzZmNhMGY3OWNm`
+Snapshot ID: `MTY2NzkxOTYwMCwwMDAwMDAwMGI4OWEzYTlmZjZiZjcxNDgyMDc5YmZhYzVjZDkzMmZi`

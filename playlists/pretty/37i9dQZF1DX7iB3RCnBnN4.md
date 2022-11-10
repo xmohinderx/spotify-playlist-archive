@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,876 likes - 318 songs - 19 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,275 likes - 318 songs - 19 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

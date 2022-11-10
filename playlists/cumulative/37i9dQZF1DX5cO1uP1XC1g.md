@@ -4,7 +4,7 @@
 
 > Top Arabic hits are right here\. Cover: Muslim \- مُسلِم
 
-237 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/4uTt9Gotclw8677k3BhhPx)
+238 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/4uTt9Gotclw8677k3BhhPx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Favor](https://open.spotify.com/track/2dU2D16RX11z3PdnJfXvIi) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Favor](https://open.spotify.com/album/7fktxGoZQG8ze1TYV1YRtO) | 3:19 | 2021-12-12 | 2022-02-07 |
 | [Fedwa Arouh Ane](https://open.spotify.com/track/6NQmhDcRd5upoLLJ6YuBNI) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Fedwa Arouh Ane](https://open.spotify.com/album/7hAlmn5vWmYsaN5d3pY1Fp) | 3:39 | 2021-12-12 | 2022-07-29 |
 | [Forsa Tanya \- Music from the Original TV Series](https://open.spotify.com/track/3PvwLFsBlIwyKGXgHvHqmH) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Forsa Tanya \(Music from the Original TV Series\)](https://open.spotify.com/album/5DI1F2g6R8qumJSSpYLXxC) | 4:06 | 2021-12-12 | 2022-07-24 |
+| [Ga7da](https://open.spotify.com/track/2OeBH98G3LNrCybb8J9E5a) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ga7da](https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2) | 3:06 | 2022-11-09 |  |
 | [Ganna Tekfena](https://open.spotify.com/track/3HFWMwwRsZhEqXZMvA8Uqw) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ganna Tekfena](https://open.spotify.com/album/5WvefERaJg67EmvtuwVeuF) | 4:11 | 2021-12-12 | 2022-01-03 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-12 | 2022-11-02 |
 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 | 2022-02-07 |  |

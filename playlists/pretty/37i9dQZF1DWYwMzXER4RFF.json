@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Viagra Boys",
-  "num_followers": 249105,
+  "num_followers": 249159,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk4MjIxOSwwMDAwMDAwMDYyZTg0OThkNDk2MzdiMTI5MzkxOWZkYzEwZWIxZWEz",
+  "snapshot_id": "MTY2Mjk4MjIxOSwwMDAwMDAwMGNlY2ZhMmNiZjFjMThkMmEyODI0ZjM0YzViMzYzOWIz",
   "tracks": [
     {
       "added_at": "2022-08-25 20:35:49",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Broke",
-        "url": "https://open.spotify.com/album/3rNyZkoQKHEpZjIbTTsXjN"
-      },
-      "artists": [
-        {
-          "name": "Scott Lavene",
-          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
-        }
-      ],
-      "duration_ms": 481813,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/1RRs8pwqvg6mnp8r0x4Riq"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Drunk Tank Pink (Deluxe Edition)",
         "url": "https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA"
       },
@@ -851,22 +835,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Drunk Tank Pink (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Nigel Hitter",
-      "url": "https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Dada",
         "url": "https://open.spotify.com/album/2dC0CxwPb1YjjB9Ergw2fG"
       },
@@ -895,6 +863,38 @@
       "duration_ms": 157199,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "The Coldest Fire",
+        "url": "https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW"
+      },
+      "artists": [
+        {
+          "name": "Ghum",
+          "url": "https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs"
+        }
+      ],
+      "duration_ms": 232484,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Drunk Tank Pink (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "Nigel Hitter",
+      "url": "https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX"
     }
   ],
   "unique_name": "Post Punk",

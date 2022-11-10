@@ -4,7 +4,7 @@
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Madk¡d, Polanskyy y Besako.
 
-1,278 songs - 2 day 20 hr 13 min - [published](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
+1,280 songs - 2 day 20 hr 20 min - [published](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1079,6 +1079,7 @@
 | [Soy Así \(La Gallega\)](https://open.spotify.com/track/3tY4lsJmXe8AGq1M1qSxDI) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Soy Así \(La Gallega\)](https://open.spotify.com/album/7FIuEWhHRI9xr3s1wHPJoB) | 2:44 | 2022-01-04 | 2022-01-27 |
 | [Soy Un Crío](https://open.spotify.com/track/54FgCFRfbSOsiwriMndDqF) | [Julss](https://open.spotify.com/artist/5lhCdtOixhbWYVwJfXFFJp) | [Soy Un Crío](https://open.spotify.com/album/1LBmLdNSRtzi38QwfhZqe6) | 2:27 | 2022-06-07 | 2022-06-22 |
 | [Soy un Perro](https://open.spotify.com/track/1G3OPhBCHn9PuGFSNOBt5I) | [Perro Nahual](https://open.spotify.com/artist/1fxwjfADaqdkNR4mv9L6qV) | [Soy un Perro](https://open.spotify.com/album/65tTQZKV7Zucr1jc1YTmro) | 3:23 | 2022-10-05 | 2022-10-12 |
+| [Soy una flor](https://open.spotify.com/track/3IcAMRsbzDFzUrT6t1HPA6) | [Dalsi](https://open.spotify.com/artist/1jKuQZDufF7eVfQsgFRYhE) | [Soy una flor](https://open.spotify.com/album/39BovBCGhtgug4TFOSskDn) | 3:16 | 2022-11-09 |  |
 | [Soy Una Obra De Arte](https://open.spotify.com/track/5UkBQldeaQvUOH3RAadJHa) | [Angélica Rahe](https://open.spotify.com/artist/75OOnlOyG0Rwt3hp2JJJGy) | [autorretrato](https://open.spotify.com/album/0qCgvXIsPcz3G0Srf7VwOY) | 3:00 | 2022-06-29 | 2022-07-13 |
 | [Soy yo](https://open.spotify.com/track/7aAgDYiSPZhvzg7PETqmAw) | [Naly](https://open.spotify.com/artist/3TlLMqnd5iIx8wVLJJVErP) | [Soy yo](https://open.spotify.com/album/6ksnv4qfNfFcPXulknggzE) | 3:15 | 2022-06-07 | 2022-06-22 |
 | [Soñando Contigo](https://open.spotify.com/track/7cdmycbhGuFQKaf3sy6YQo) | [Chico Sad](https://open.spotify.com/artist/1IyeI35Ye4SiGzU824qiyH) | [Soñando Contigo](https://open.spotify.com/album/0uJbs2Y4TIpLhesCKcCgsf) | 2:50 | 2022-08-31 | 2022-09-15 |
@@ -1152,6 +1153,7 @@
 | [Traicionera](https://open.spotify.com/track/7s7gv1x4nLaM8WNbyGNNXT) | [SUPRI](https://open.spotify.com/artist/5lYAAVGL1WkCYx9LPTwbMw) | [Traicionera](https://open.spotify.com/album/0LXc5BndUBi5XT4vus6GqI) | 3:28 | 2022-09-06 | 2022-09-21 |
 | [Trance Secreto](https://open.spotify.com/track/3U96vERvMXF8VrXvTqZUUp) | [Magia Bruta](https://open.spotify.com/artist/3YF9dOOVUbrPZHk11pfo56) | [Trance Secreto](https://open.spotify.com/album/4NghSIaeS8FpFQjq1GQgyp) | 3:06 | 2022-02-01 | 2022-02-16 |
 | [tranquilidad](https://open.spotify.com/track/5VqI1indwMlUnUqx9wn14l) | [goodgood kid](https://open.spotify.com/artist/2oW0GqzJmU5m7R98w8W3R1), [Perlita Míah](https://open.spotify.com/artist/5P56e8d2E3CgIZcAA0PUGb) | [349 km](https://open.spotify.com/album/1aJZ59Xw0KLAh5TXheZ45b) | 3:18 | 2022-01-04 | 2022-01-27 |
+| [Transparente](https://open.spotify.com/track/5ASJ8s52scHUf67F5QJeyr) | [Lidna](https://open.spotify.com/artist/1NQ8qxpIGcXdB6KspJYw5y), [Gal go](https://open.spotify.com/artist/6GlsUO1SK2iqRDNoH9f2gg) | [Transparente](https://open.spotify.com/album/1M23TXy77Cg9k5tPHGNUfC) | 3:58 | 2022-11-09 |  |
 | [Traslación y rotación](https://open.spotify.com/track/7CSNAl4xzwZpxdTigkPEMj) | [Cándida](https://open.spotify.com/artist/2eqaJZlbDdbkmo2uibHf85) | [Traslación y rotación](https://open.spotify.com/album/7whY3EKqoFUQ7AtJlJDwIX) | 4:00 | 2022-03-29 | 2022-04-20 |
 | [Tratado de Versalles](https://open.spotify.com/track/6m6jT6LdtTH4DIU398sq91) | [Violetta Arriaza](https://open.spotify.com/artist/2WET7xahye2vwzTTB7MH1U) | [Tratado de Versalles](https://open.spotify.com/album/2uaITMxL3Kk8jj64TyXF8I) | 2:21 | 2022-08-31 | 2022-09-15 |
 | [trece](https://open.spotify.com/track/7gFN7bu7EW7jNXKHDrKfHd) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL) | [trece](https://open.spotify.com/album/7HXSoYe3CcsYWsDwBFTnwZ) | 2:52 | 2022-01-04 | 2022-01-13 |

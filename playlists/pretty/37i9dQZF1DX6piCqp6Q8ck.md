@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,426 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,640 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 64 | [Christmas Blues](https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Yule Be Miserable](https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY) | 4:11 |
 | 65 | [Hang Your Lights](https://open.spotify.com/track/4JIxFcV0CSFRNjwSe1SyLG) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 4:56 |
 
-Snapshot ID: `MTY2NDI2MjAxMiwwMDAwMDAwMGFjYzBmMzk2ZTIzYzM0NmUwNTAwODQ1ZDA0MjdmZjBk`
+Snapshot ID: `MTY2ODAwMTg1MywwMDAwMDAwMDY0NTQ2ZDQ4NmM5NWRkNGE4MjgxMTFmMDI3OTk0MGM3`

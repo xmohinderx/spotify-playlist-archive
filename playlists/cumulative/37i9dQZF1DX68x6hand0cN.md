@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-92 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/4WAHWXqbl799pc8cRS91Pp)
+93 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/4WAHWXqbl799pc8cRS91Pp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Ferrari Horses](https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Blue Print – Us Vs\. Them](https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX) | 3:45 | 2022-07-28 |  |
 | [Flex Mood](https://open.spotify.com/track/5EGYvBoGPfy6q73bMtbyOK) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Flex Mood](https://open.spotify.com/album/3QMyOcK0X8mny0UXpNSgvH) | 2:28 | 2022-07-28 |  |
 | [Flowers \(Say My Name\)](https://open.spotify.com/track/2BzAGK3lEZAQz5cU0Ae1wd) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Flowers \(Say My Name\)](https://open.spotify.com/album/1ZMrAC2zQ3OmlOKFKAKzGA) | 2:38 | 2022-07-28 |  |
+| [GHAZALI](https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA) | [MOUHAMED GRINE](https://open.spotify.com/artist/5Sj8EjR3eENxsr4Tgv9OGh), [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [GHAZALI](https://open.spotify.com/album/6q4ADoh3h7OHkFJsCFcx6l) | 3:16 | 2022-11-09 |  |
 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2022-07-28 |  |
 | [Guestlist](https://open.spotify.com/track/46yplRp7xn26QkDe8AdgaB) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Guestlist](https://open.spotify.com/album/5D89rT4XKSkoOCLJewdiB4) | 3:54 | 2022-07-28 |  |
 | [Habiba \(feat\. Tawsen\)](https://open.spotify.com/track/4mCkHTkDfG4GG29cd7nrT5) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Habiba \(feat\. Tawsen\)](https://open.spotify.com/album/7gAjCKK7SJMIYLxYGDUEUM) | 3:14 | 2022-07-28 |  |

@@ -4,7 +4,7 @@
 
 > Jungle is still massive
 
-104 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/5ESlyfMOh8TLILYBOWB5nc)
+105 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/5ESlyfMOh8TLILYBOWB5nc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Looking at Your Pager \- CLIPZ Remix](https://open.spotify.com/track/2Ikl0HGBDhvSPyPudSrM9s) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Looking At Your Pager \(CLIPZ Remix\)](https://open.spotify.com/album/3Y4VU7ZIN8v4XVK6J35tdj) | 3:46 | 2022-09-05 |  |
 | [Loss of Self Identity](https://open.spotify.com/track/7zGShSMY05c9ucLtiun4AH) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Loss of Self Identity](https://open.spotify.com/album/5w7nuh8RyUeOnAlfTnTEpE) | 4:26 | 2022-05-05 |  |
 | [Love Story](https://open.spotify.com/track/7wqAYstdhctvvKjzbCZimh) | [Proxy](https://open.spotify.com/artist/3KOzW9NF2ZGwYRo0KfID1R), [MAGAWK](https://open.spotify.com/artist/3toGjEtVAIq4eVOMelgT4H) | [Love Story](https://open.spotify.com/album/5i55GtygMGJveA384RBl4S) | 4:38 | 2022-05-05 |  |
-| [Maxim](https://open.spotify.com/track/2u30LHLeAlYl2vXyfwExPs) | [Need For Mirrors](https://open.spotify.com/artist/0bR5osQX9Kn0wmtUPQQhze) | [Mutiny](https://open.spotify.com/album/0r61t5Zlkv4qNYTfMvvQE0) | 4:55 | 2022-05-05 |  |
+| [Maxim](https://open.spotify.com/track/1skNONa0IA1cwwQlRZtGJV) | [Need For Mirrors](https://open.spotify.com/artist/0bR5osQX9Kn0wmtUPQQhze) | [Mutiny](https://open.spotify.com/album/5oGETlr4eCqwIs2UoQuL7Z) | 4:55 | 2022-10-28 |  |
+| [Maxim](https://open.spotify.com/track/2u30LHLeAlYl2vXyfwExPs) | [Need For Mirrors](https://open.spotify.com/artist/0bR5osQX9Kn0wmtUPQQhze) | [Mutiny](https://open.spotify.com/album/0r61t5Zlkv4qNYTfMvvQE0) | 4:55 | 2022-05-05 | 2022-11-10 |
 | [Meltdown](https://open.spotify.com/track/6XYNZEAwBuAlfT3uXLRyST) | [Scout](https://open.spotify.com/artist/3etLA4Y9THE0KfmbunVrAg) | [Meltdown](https://open.spotify.com/album/09KfGWahS1Yv3FpOCSSJ6c) | 5:00 | 2022-10-28 |  |
 | [Momofuku](https://open.spotify.com/track/1Ple5T9u981z3BErGUxBxV) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Momofuku](https://open.spotify.com/album/10XaG82hlhYBT9EcxSiuMF) | 4:50 | 2022-05-05 |  |
 | [MTX In the RS](https://open.spotify.com/track/6CW2KMV0cptgI8H3rZEUXK) | [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [MTX In the RS](https://open.spotify.com/album/0GoMvmVdmE2kDsDeX9Ky2V) | 5:30 | 2022-05-05 |  |

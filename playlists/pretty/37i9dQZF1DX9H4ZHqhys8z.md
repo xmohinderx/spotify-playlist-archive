@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Listen to Greek women at full volume\. Cover: Stefania
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,867 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,869 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 6 | [Mon Frère Le Soleil](https://open.spotify.com/track/638snIif5IvpnbFuShGSc5) | [Alexandra Koniak](https://open.spotify.com/artist/7sjcFcVPtQ1Oi4j3g7VP30), [Mikis Theodorakis](https://open.spotify.com/artist/58EvYFzDGAQOmBpIOxujnj) | [Mon Frère Le Soleil](https://open.spotify.com/album/6W9ypIv0ZCWgMbQA4cOl1Q) | 3:02 |
 | 7 | [Perifania Mono](https://open.spotify.com/track/6esKf2XTZxQUrK8deqSjop) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Perifania Mono](https://open.spotify.com/album/1sVCnkd6adXwuG50gbdFIJ) | 4:23 |
 | 8 | [To Fos Stin Psihi \- Powered by UNICEF](https://open.spotify.com/track/4Z6XwFoFukyJYRNqCNNntO) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK), [Pediki Horodia Spirou Lambrou](https://open.spotify.com/artist/06bab7br2LNqfUEojpwzdI) | [To Fos Stin Psihi \- The Light In Our Soul \(Powered by UNICEF\)](https://open.spotify.com/album/05HtApqwBLhS9GOvmEViLQ) | 3:18 |
-| 9 | [El Telephone \- Remix](https://open.spotify.com/track/5uKsIyOxbFPop0sZ7LmI9J) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Bobito](https://open.spotify.com/artist/7Ktyjh9YMAD3YZYF7pyHdm), [Ayman](https://open.spotify.com/artist/6ONMIIeGOgkflffHvKLe0M) | [El Telephone \(Remix\)](https://open.spotify.com/album/5OYlXWtC3fZjrfW8pV41ME) | 4:24 |
+| 9 | [El Telephone \- Remix](https://open.spotify.com/track/5uKsIyOxbFPop0sZ7LmI9J) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Bobito](https://open.spotify.com/artist/7Ktyjh9YMAD3YZYF7pyHdm), [Ayman](https://open.spotify.com/artist/6ONMIIeGOgkflffHvKLe0M) | [El Telephone \(Remix\)](https://open.spotify.com/album/5OYlXWtC3fZjrfW8pV41ME) | 4:24 |
 | 10 | [To Proto Vima](https://open.spotify.com/track/1lVNELKgHoXO6wztvVQzNW) | [Apostolia Zoi](https://open.spotify.com/artist/1Bkxsw4F0k3dwgA1GtpPaJ) | [To Proto Vima](https://open.spotify.com/album/2e9nnfKcUQFO8JOl9lgLZj) | 3:42 |
 | 11 | [Sigouria](https://open.spotify.com/track/68KwyqSWbPx1wwnqLICxxB) | [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [Sigouria](https://open.spotify.com/album/5RIsuxKrvEn7bzCSxaka9H) | 2:49 |
 | 12 | [Ola Ta Agapisa](https://open.spotify.com/track/1E4Q3OXNKqthYG1amB1s78) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Ola Ta Agapisa](https://open.spotify.com/album/2qmbHc1lqUPuYTsYHWPUH5) | 3:36 |

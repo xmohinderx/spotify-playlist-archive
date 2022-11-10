@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Chefin, Leviano
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,095 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,174 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 17 | [Favela É Lugar de Paz \(feat\. Krok & DJ Denilson o clínico\)](https://open.spotify.com/track/3b3EPQlSk0F5A9D0lVKitw) | [indiozin](https://open.spotify.com/artist/5YPdklXkKahm0Ii2GS6zDx), [Krok](https://open.spotify.com/artist/5GcThTffePDaglozhrG89f), [DJ Denilson o clínico](https://open.spotify.com/artist/3AxhmSZxKQruKNmeLqsfQs) | [Favela É Lugar de Paz](https://open.spotify.com/album/1OQhgau04fhhe5R8STp6HD) | 4:24 |
 | 18 | [Asas](https://open.spotify.com/track/6AIqtpf4qtVWB2470AGEHs) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz) | [Asas](https://open.spotify.com/album/3Tx5GyvCxfXJJgJ0S4Wd7Z) | 3:14 |
 | 19 | [No Sigilo](https://open.spotify.com/track/4EEMIpLXQAUb2yWvG4RWfP) | [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Mc Sorriso](https://open.spotify.com/artist/06XFOJXZf5Rw61z0KfhPnh) | [Gorila](https://open.spotify.com/album/216a9gKJJi172mVVUTIh91) | 2:10 |
-| 20 | [Backstage](https://open.spotify.com/track/007ZkaApfBX6MsI5zJpZ9f) | [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Alva](https://open.spotify.com/artist/3h5yiq2bi79gyIVwgAWR9n), [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD) | [Aldeia Records presents: Backstage](https://open.spotify.com/album/1LoJDWr9KwtaHNZAaSyvIA) | 3:11 |
+| 20 | [Backstage](https://open.spotify.com/track/007ZkaApfBX6MsI5zJpZ9f) | [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Alva](https://open.spotify.com/artist/3h5yiq2bi79gyIVwgAWR9n), [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD) | [Backstage](https://open.spotify.com/album/1LoJDWr9KwtaHNZAaSyvIA) | 3:11 |
 | 21 | [Tubo de Lança](https://open.spotify.com/track/3npXPVCw42oIzh701YkM90) | [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t), [SH1FT](https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD) | [Tubo de Lança](https://open.spotify.com/album/3nP5nxztp0Pye1NzVcWA94) | 2:09 |
 | 22 | [Que Jeito Né](https://open.spotify.com/track/7ojFriFoVgUwEXqykF4nFa) | [Logri](https://open.spotify.com/artist/1pDdBrq22wMmvTvms7RVEX) | [Que Jeito Né](https://open.spotify.com/album/2BtLNZVLZhdRcJI4DRrWEl) | 2:25 |
 | 23 | [Vegana](https://open.spotify.com/track/6YS19fKy5mftHeuFO4ELlI) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o) | [Vegana](https://open.spotify.com/album/4DVj1I8zXfFpSG7yeuKuCB) | 2:09 |

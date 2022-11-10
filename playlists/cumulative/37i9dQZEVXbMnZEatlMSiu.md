@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-517 songs - 1 day 7 hr 33 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+518 songs - 1 day 7 hr 38 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Who I Am](https://open.spotify.com/track/76O16TXhsSMYZhEQAJXwmZ) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Who I Am](https://open.spotify.com/album/6rossoBfDzEiVWn0EdD8DQ) | 3:45 | 2021-10-08 | 2021-10-14 |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 | 2021-09-24 | 2021-10-02 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-25 | 2022-05-08 |
-| [Without You](https://open.spotify.com/track/0KWnRv3wxjltYVB3MqjNd2) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#osnrap](https://open.spotify.com/album/4b65l6XzLp2Eg6lDTMmO1k) | 2:55 | 2021-03-27\* |  |
+| [Without You](https://open.spotify.com/track/0KWnRv3wxjltYVB3MqjNd2) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#osnrap](https://open.spotify.com/album/4b65l6XzLp2Eg6lDTMmO1k) | 2:55 | 2021-03-27\* | 2022-11-10 |
 | [Work](https://open.spotify.com/track/3N0srZgpRLSY2ziJ1FsJh9) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Work](https://open.spotify.com/album/3iFMz768dCGwpWGfzECGx9) | 2:46 | 2022-09-28 | 2022-10-13 |
 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 | 2021-10-31 | 2021-11-23 |
 | [Yeah Yeah Yeah](https://open.spotify.com/track/5y4WmuvFX1t3NdSId0MFOh) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:58 | 2022-09-17 | 2022-09-25 |
@@ -462,6 +462,7 @@
 | [相愛就是說了100次對不起](https://open.spotify.com/track/0XycphC58RpvIxvHfCN3hX) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [愛是我們必經的辛苦](https://open.spotify.com/album/393Q9l2o8kkGFhtD4kYkav) | 4:24 | 2022-10-12 | 2022-10-20 |
 | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/track/7mCr6Rn5jx04Fisvts97Z3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/album/1kwz2DPjIizXiCnWz6ru2s) | 4:16 | 2021-03-27\* | 2021-10-23 |
 | [睡不著](https://open.spotify.com/track/0GM2W66glRyOBd1Ckw43eF) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 4:00 | 2021-08-24 | 2021-09-24 |
+| [破碎的完整 \(《她和她的她》主題曲\)](https://open.spotify.com/track/3eab5IX1gKr3UOfk3zV06e) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [破碎的完整 \(《她和她的她》主題曲\)](https://open.spotify.com/album/5Y6JkAQCHC2TYmkzMNzPwi) | 4:06 | 2022-11-09 |  |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2022-10-06 | 2022-10-21 |
 | [禁愛條款](https://open.spotify.com/track/4Z76Dk74jIBsbKAcjJ2YYr) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q), [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [禁愛條款](https://open.spotify.com/album/0NxEowsTradcFNzSR00FvU) | 2:56 | 2021-06-24 | 2021-07-01 |
 | [私は最強](https://open.spotify.com/track/5YQNjKZofFhlBCIzTVY6rW) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:17 | 2022-08-22 | 2022-09-13 |

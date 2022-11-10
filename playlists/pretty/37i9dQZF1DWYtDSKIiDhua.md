@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: SEB
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,487 likes - 84 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,580 likes - 84 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

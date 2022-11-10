@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. In cover, Deda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,498 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,514 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 8 | [B.U.F.](https://open.spotify.com/track/4wdow0OrNHyFJyAVG0knt3) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Verano](https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK) | [B.U.F.](https://open.spotify.com/album/3IuWUPJzVr63tXvAeyWRHp) | 2:56 |
 | 9 | [Note killer](https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Mi fist \(Remastered version\)](https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8) | 4:24 |
 | 10 | [Foto di gruppo](https://open.spotify.com/track/5n3qlxzpHwmPbu3UUplyLy) | [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX) | [Foto di gruppo](https://open.spotify.com/album/65crQxE8LGQADwbTCILqRu) | 3:30 |
-| 11 | [Rock the House \(feat\. Danno, Sean Martin, Inoki & Mistaman\)](https://open.spotify.com/track/6QgrejcLH4bGg8Cuu2KRYg) | [Deda](https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG), [Danno](https://open.spotify.com/artist/6KlsX5XebNQOfcSSQ45lqN), [Sean Martin](https://open.spotify.com/artist/4HA7fOjTMJ1HOwgG41CXnw), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF), [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q) | [House Party](https://open.spotify.com/album/2b3i8KAQ8vb3BAdNf9oFfy) | 3:22 |
+| 11 | [Rock the House \(feat\. Danno, Sean Martin, Inoki & Mistaman\)](https://open.spotify.com/track/6QgrejcLH4bGg8Cuu2KRYg) | [Deda](https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Sean Martin](https://open.spotify.com/artist/4HA7fOjTMJ1HOwgG41CXnw), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF), [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q) | [House Party](https://open.spotify.com/album/2b3i8KAQ8vb3BAdNf9oFfy) | 3:22 |
 | 12 | [VERANO ZOMBIE PT.3 \(feat\. Gemello & Metal Carter\)](https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Gemello](https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04), [Metal Carter](https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 4:18 |
 | 13 | [Yeah \(feat\. Emis Killa\)](https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 2:10 |
 | 14 | [Ti Pretendo XXX](https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM) | [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo), [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Ti Pretendo XXX](https://open.spotify.com/album/4Z7I16kiaaZSRolYWpqjtW) | 3:41 |

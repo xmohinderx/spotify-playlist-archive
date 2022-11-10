@@ -4,7 +4,7 @@
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-139 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/3gEBX1MSMTVMs4piEbVTl2)
+140 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/3gEBX1MSMTVMs4piEbVTl2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Someone Like You](https://open.spotify.com/track/0NEnF7udT4fj0kkwB2HE3e) | [Moseqar](https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH) | [Café Sessions](https://open.spotify.com/album/6ZykoElp78txVMO3Oz7dB8) | 5:44 | 2022-04-18 | 2022-07-29 |
 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 | 2022-04-18 |  |
 | [Talfantelak](https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Talfantelak](https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv) | 3:52 | 2022-04-18 |  |
-| [Teftah El Shebbak](https://open.spotify.com/track/0WccFvkfsltcCe9gKefZYO) | [Haytham Saeid](https://open.spotify.com/artist/0WXx3Fv4nzZbz6RtsXa3Mw) | [Teftah El Shebbak](https://open.spotify.com/album/7y1XvljJOCcCvi6iBcX9Cy) | 3:46 | 2022-06-29 |  |
+| [Teftah El Shebbak](https://open.spotify.com/track/0WccFvkfsltcCe9gKefZYO) | [Haytham Saeid](https://open.spotify.com/artist/0WXx3Fv4nzZbz6RtsXa3Mw) | [Teftah El Shebbak](https://open.spotify.com/album/7y1XvljJOCcCvi6iBcX9Cy) | 3:46 | 2022-06-29 | 2022-11-10 |
 | [Teftah El Shebbak](https://open.spotify.com/track/584pFuFJjpCXhnQj4jQeOg) | [Haytham Saeid](https://open.spotify.com/artist/0WXx3Fv4nzZbz6RtsXa3Mw) | [Teftah El Shebbak](https://open.spotify.com/album/7e6cBQKnWs8OqkjR7gcoUO) | 3:46 | 2022-04-18 | 2022-07-29 |
 | [The Sun of Love \- Remix](https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO), [Bruno Cruz](https://open.spotify.com/artist/0yIJhvdaYRB4dOJskdpqxW), [Ministry of Dub\-Key](https://open.spotify.com/artist/1XW2NTbJjpWDcZioxGuzVT) | [R.I.M.I.X](https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc) | 3:26 | 2022-04-18 |  |
 | [W3od](https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [W3od](https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq) | 2:48 | 2022-04-18 |  |
@@ -137,6 +137,7 @@
 | [Zina](https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci) | 3:57 | 2022-04-18 | 2022-07-29 |
 | [Zuruni](https://open.spotify.com/track/0dW503oQBCoCcwl2uTvnr6) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:09 | 2022-04-18 |  |
 | [إوعديني](https://open.spotify.com/track/0IVKMWovu9jtiHDRKn4HvE) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [مالناش الا بعض](https://open.spotify.com/album/33pX4SvxjRcSSaR1hQCLVL) | 5:43 | 2022-04-18 |  |
+| [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2022-11-09 |  |
 | [بحبك من زمان](https://open.spotify.com/track/3ZSch1osGSHoo0QnVFOqhg) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 5:01 | 2022-04-18 |  |
 | [حب عالحاجز](https://open.spotify.com/track/17WC8AQg7BuZvSEZcZxPu2) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6ARv46xQRJZsE5C78g4mFS) | 6:34 | 2022-04-18 |  |
 | [دار يا دار \(feat\. Eftekasat\)](https://open.spotify.com/track/2HjAvbDnZIiwH2bXLgYvn2) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [Eftekasat](https://open.spotify.com/artist/0XafsqrbYdiRZj8wEzvk3p) | [دار يا دار \(feat\. Eftekasat\)](https://open.spotify.com/album/5akFnUv4SEyIAkJhDjiQq7) | 4:12 | 2022-04-18 |  |

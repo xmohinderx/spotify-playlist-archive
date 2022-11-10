@@ -476,6 +476,32 @@
     },
     {
       "album": {
+        "name": "Traditional: Auld Lang Syne (Arr. Knigge for Sopranino Recorder)",
+        "url": "https://open.spotify.com/album/0TfKq63nHvSADrFgzxfLwO"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Lucie Horsch",
+          "url": "https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn"
+        },
+        {
+          "name": "LUDWIG Orchestra",
+          "url": "https://open.spotify.com/artist/3pAMpzxkvRNTXZZ6EpT41Q"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201727,
+      "name": "Auld Lang Syne (Arr. Knigge for Sopranino Recorder)",
+      "url": "https://open.spotify.com/track/3sazlKF40siE9IiOHEywoT"
+    },
+    {
+      "album": {
         "name": "The Wonder of Christmas",
         "url": "https://open.spotify.com/album/4haacqQmvY9rUIcb5HyC4J"
       },
@@ -1235,7 +1261,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 117746,
       "name": "Dona Nobis Pacem (Give Us Peace)/Auld Lang Syne",
       "url": "https://open.spotify.com/track/5lx3ybiWHOP0WKBxtXWHT3"
@@ -1773,6 +1799,32 @@
       "duration_ms": 96306,
       "name": "I Saw Three Ships",
       "url": "https://open.spotify.com/track/56KH9vjFzJrlESZ8pjtdE9"
+    },
+    {
+      "album": {
+        "name": "The Dawn of Grace: Music for Christmas",
+        "url": "https://open.spotify.com/album/17E40HFQFCxCHHMmBP4sfN"
+      },
+      "artists": [
+        {
+          "name": "Yshani Perinpanayagam",
+          "url": "https://open.spotify.com/artist/2zAKlqi8eerkVrWZWsz0Bu"
+        },
+        {
+          "name": "Somerville College Choir, Oxford",
+          "url": "https://open.spotify.com/artist/3uW5CXf4fHD3veQ8S7QQGH"
+        },
+        {
+          "name": "Will Dawes",
+          "url": "https://open.spotify.com/artist/3rrn31qetr21dv7zhvERwm"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104166,
+      "name": "In Bethlehem Above",
+      "url": "https://open.spotify.com/track/5Oyq4aSXnhKfFMPX1IrcdU"
     },
     {
       "album": {
@@ -4059,7 +4111,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 220373,
       "name": "The Seasons, Op. 37a: XII. December - Christmas",
       "url": "https://open.spotify.com/track/6zCMG5twYkd0V1wAqeH3cE"
@@ -4119,7 +4171,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 313000,
       "name": "The Snow",
       "url": "https://open.spotify.com/track/4jpP7ybaUcFgp8woYxFbFp"

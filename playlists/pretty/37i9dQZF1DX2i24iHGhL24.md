@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Niki
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,411 likes - 194 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,516 likes - 194 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

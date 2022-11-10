@@ -4014,6 +4014,24 @@
     },
     {
       "album": {
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn"
+      },
+      "artists": [
+        {
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
+    },
+    {
+      "album": {
         "name": "Larga Vida",
         "url": "https://open.spotify.com/album/2Du2Xg9btcJJFmyiQEIO0l"
       },

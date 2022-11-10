@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Caity Gyorgy
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,146 likes - 115 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,219 likes - 115 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

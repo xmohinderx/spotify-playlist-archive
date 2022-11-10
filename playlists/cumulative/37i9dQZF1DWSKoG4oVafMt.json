@@ -10343,6 +10343,28 @@
     {
       "album": {
         "name": "Surma",
+        "url": "https://open.spotify.com/album/1bsPUlVdgdHMKqnom02YZ1"
+      },
+      "artists": [
+        {
+          "name": "Lakhi Ghuman",
+          "url": "https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6"
+        },
+        {
+          "name": "Rafal",
+          "url": "https://open.spotify.com/artist/03QZhdzly7IjQzjucvOW7l"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143842,
+      "name": "Surma",
+      "url": "https://open.spotify.com/track/2TioqC2ZU59C2ycwybWqk6"
+    },
+    {
+      "album": {
+        "name": "Surma",
         "url": "https://open.spotify.com/album/7wiyKmbGYMkikS5DSWTcJC"
       },
       "artists": [

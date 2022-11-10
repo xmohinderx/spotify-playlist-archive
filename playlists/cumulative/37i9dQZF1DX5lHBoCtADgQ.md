@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-64 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/6lhmrLr4Sb80M73Sr2P9CQ)
+65 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/6lhmrLr4Sb80M73Sr2P9CQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Jutti Kasuri](https://open.spotify.com/track/6MgpNbDOfA93e1YusNgGnl) | [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Jutti Kasuri](https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD) | 3:16 | 2021-11-03 |  |
 | [Jutti Meri \(Live\)](https://open.spotify.com/track/4RXpYrUS1ARaN3euvGHpTj) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Jutti Meri \(Live\) \- Single](https://open.spotify.com/album/1T18aurspe5ouDMzg9Xaas) | 3:28 | 2021-11-03 |  |
 | [Kala Dooria](https://open.spotify.com/track/2IvSrdat1OK4xMArwWEWyt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 2:59 | 2021-11-03 |  |
+| [Kala Sha Kala](https://open.spotify.com/track/401L9cuL8my61jXIMZDV0t) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kala Sha Kala](https://open.spotify.com/album/0T7GZkw5POnYikelmZTA1g) | 3:15 | 2022-11-09 |  |
 | [Kala Shah Kala](https://open.spotify.com/track/0AsI6bQU0DWpjuotmAnrdR) | [Jasbir Kaur](https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju) | [Virsa, Vol\. 2](https://open.spotify.com/album/4tvEZ7lQ6w8yeLJV54oOBH) | 2:55 | 2022-07-16 |  |
 | [Kala Shah Kala \- Original](https://open.spotify.com/track/3pBEKZBDGtiwvLURVaAbeO) | [Jasbir Kaur](https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju) | [Virsa Volume 2](https://open.spotify.com/album/6KP8Y0FU1zfhz5cPMuGjIj) | 2:55 | 2021-11-03 | 2022-07-29 |
 | [Kale Rang Da Paranda](https://open.spotify.com/track/2Ji2Z2siL7qukqNTf7fi1r) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kale Rang Da Paranda](https://open.spotify.com/album/2TfxtYFeoc5yqzGJTZZwWm) | 2:22 | 2022-05-12 |  |

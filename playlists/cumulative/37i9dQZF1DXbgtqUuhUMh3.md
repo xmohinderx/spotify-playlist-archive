@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Manal
 
-326 songs - 19 hr 6 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+327 songs - 19 hr 10 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Msh Ehna](https://open.spotify.com/track/7tUBGJe8TiaaxStkbDKO2W) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Msh Ehna](https://open.spotify.com/album/28Td7InrqdpPh6RXCbFley) | 4:28 | 2022-10-20 | 2022-11-04 |
 | [Msh Mestahla](https://open.spotify.com/track/6RXBr8cyhD8n3v7BSWwkZ7) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Msh Mestahla](https://open.spotify.com/album/0S1UGQ7NFzCqCAwY1wKZHY) | 3:02 | 2022-10-06 | 2022-11-04 |
 | [Mtarred](https://open.spotify.com/track/0S0U6igYrif5Y7brdKK2uu) | [Sirine Miled](https://open.spotify.com/artist/1i69kloElAsdqtmdP5rru0) | [Mtarred](https://open.spotify.com/album/37MvMQdvwYpe94sRAaLTk0) | 3:52 | 2021-12-23 | 2022-03-02 |
+| [Mustaheel](https://open.spotify.com/track/2ycSFamPmfqPFFr10kYkX0) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Mustaheel](https://open.spotify.com/album/43KCM5CLKO7V6kgLYpUP65) | 3:09 | 2022-11-09 |  |
 | [Na'albet Lehkayi](https://open.spotify.com/track/4mZOR5fNx4zAMkEWIyMJin) | [Angi](https://open.spotify.com/artist/4sCkRNGvfn7dtQYu3sH4Gl) | [Na'albet Lehkayi](https://open.spotify.com/album/0KeYtVEVBxEhMeXY9pGqa5) | 3:01 | 2021-12-23 | 2022-03-02 |
 | [Nafseti Sefr](https://open.spotify.com/track/6qfJt7LV8Lf4KTQnFqegFD) | [Riham](https://open.spotify.com/artist/2kkNaWuc56oKJAP77MRRHh) | [Nafseti Sefr](https://open.spotify.com/album/5TYkLU1YSF8zAUJuflIOOO) | 2:51 | 2021-12-30 | 2022-02-18 |
 | [Nasi](https://open.spotify.com/track/4nNtxadiv73l4zDaSok9Q0) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Nasi](https://open.spotify.com/album/5DOX782glZw5iU8P5Wp6iy) | 3:44 | 2021-12-23 | 2022-03-01 |
@@ -260,7 +261,7 @@
 | [Yajeek Al Noom](https://open.spotify.com/track/01DX6VMSkV2pu5JBgOzlqN) | [Deem](https://open.spotify.com/artist/1OuBnIhm276dWCL8Rbyr2w) | [Yajeek Al Noom](https://open.spotify.com/album/1FTpPk0e0KH4fI0cuUHLRI) | 5:52 | 2021-12-30 | 2022-02-28 |
 | [Yamta Asteree7](https://open.spotify.com/track/0vMQ4yqyzo5UfyqwvKAMg0) | [Jamila El Badaoui](https://open.spotify.com/artist/15f0HYupDbduH3FmzJTpR5) | [Yamta Asteree7](https://open.spotify.com/album/5wWfxh07EOBfhIDmmXhoCa) | 3:55 | 2021-12-23 | 2022-03-02 |
 | [Ye3een Allah](https://open.spotify.com/track/0w86ou81C8EBmVX9d2iiRs) | [Rahma](https://open.spotify.com/artist/7e8oZBA2CzhtiIccMn3vzb) | [Ye3een Allah](https://open.spotify.com/album/5LFmrysFicaRvxDKu2iXLn) | 2:54 | 2022-01-27 | 2022-01-29 |
-| [Yimken Habbeit](https://open.spotify.com/track/6CJ3zYkU5nsAssMHoERjw6) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Nai 1](https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6) | 4:22 | 2022-09-20 |  |
+| [Yimken Habbeit](https://open.spotify.com/track/6CJ3zYkU5nsAssMHoERjw6) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Nai 1](https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6) | 4:22 | 2022-09-20 | 2022-11-10 |
 | [Yimken Habbeit](https://open.spotify.com/track/76nBJMgYcFtsKE0XcJsBRU) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Yimken Habbeit](https://open.spotify.com/album/0XSgYexDXczW9KcugAcaUC) | 4:22 | 2022-03-01 | 2022-07-28 |
 | [Yom Min el Ayyam](https://open.spotify.com/track/2KDcnJ2ooNZUIHiHTnWE2b) | [Zainab Hassan](https://open.spotify.com/artist/0WhuydXuCatjNCoMjab4M7) | [Yom Min el Ayyam](https://open.spotify.com/album/5rOBlOyJbFnhAsu2BhcQc9) | 3:40 | 2022-03-01 |  |
 | [You](https://open.spotify.com/track/0JoKkge8Xpqi24AD9nbxzK) | [Layla Kardan](https://open.spotify.com/artist/6anm3koLvedUfsUdmb0uAL) | [You](https://open.spotify.com/album/4gFoQAIdZcb4AvBZsz88DU) | 3:43 | 2021-12-23 | 2021-12-30 |

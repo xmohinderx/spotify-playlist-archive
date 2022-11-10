@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Tiësto, Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,867 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,876 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
 | 2 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 |
-| 3 | [Whitney](https://open.spotify.com/track/0zJBJSTeGKZuXOnVyFxkjd) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/61M0m1vZBq2Tj7m2R7dPKE) | 3:11 |
+| 3 | [Whitney](https://open.spotify.com/track/3wnV3a1u6QgSzKPZl5v67c) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/3Gptzy7Tre8g8yif8Slyj7) | 3:11 |
 | 4 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 |
 | 5 | [No Love For You](https://open.spotify.com/track/2hXevSk7W1jBAO34M8XHdW) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Drop \- G](https://open.spotify.com/artist/3c655cBO0W2SlWOKLu2sqD) | [No Love For You](https://open.spotify.com/album/7uAhD8U1RGLZe3mqQ5rbKE) | 2:58 |
 | 6 | [Just Words](https://open.spotify.com/track/7I4yaEqhvAhz795dN0mMre) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Just Words](https://open.spotify.com/album/1FMCftRNNz9GGDuDHCxpqd) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 74 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 |
 | 75 | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Sadie Walker](https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV) | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI) | 3:52 |
 
-Snapshot ID: `MTY2NzU1NzQyMCwwMDAwMDAwMDZiMjM1ZDRiNDFlOWI1YzliOWRiZmY4MzBiM2U4OTFl`
+Snapshot ID: `MTY2NzU1NzQyMCwwMDAwMDAwMGQyOThlMzg2ZDU0MGJmMGYzZTRmYTVhM2FlNjllZjVh`

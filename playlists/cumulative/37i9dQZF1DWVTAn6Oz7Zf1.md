@@ -4,7 +4,7 @@
 
 > Cerchi energie e buona musica? Prova con la nostra playlist!
 
-174 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/1MD1xnD0LanKfsaqIIX4F0)
+175 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/1MD1xnD0LanKfsaqIIX4F0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Waterfall](https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK) | 3:52 | 2022-07-26 | 2022-09-23 |
 | [When I'm Gone \(with Katy Perry\) \[VIP Mix\]](https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I'm Gone \(with Katy Perry\) \[VIP Mix\]](https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ) | 2:51 | 2022-05-06 |  |
 | [When You're Out \(feat\. Mae Muller\)](https://open.spotify.com/track/4dsm0VbaMmnLHhrOKcDNSI) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [When You're Out \(feat\. Mae Muller\)](https://open.spotify.com/album/5Y7oNnVhrPr1PccWjlvjGE) | 2:31 | 2022-05-06 | 2022-07-28 |
-| [Whitney](https://open.spotify.com/track/0zJBJSTeGKZuXOnVyFxkjd) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/61M0m1vZBq2Tj7m2R7dPKE) | 3:11 | 2022-10-07 |  |
+| [Whitney](https://open.spotify.com/track/0zJBJSTeGKZuXOnVyFxkjd) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/61M0m1vZBq2Tj7m2R7dPKE) | 3:11 | 2022-10-07 | 2022-11-10 |
+| [Whitney](https://open.spotify.com/track/3wnV3a1u6QgSzKPZl5v67c) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/3Gptzy7Tre8g8yif8Slyj7) | 3:11 | 2022-10-14 |  |
 | [WORTH IT \(feat\. ASDIS\)](https://open.spotify.com/track/5WO6DYrjmZdSoO3ZPuwarJ) | [Gromee](https://open.spotify.com/artist/2oRTLExi1ct74cVtfAwfhV), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [WORTH IT \(feat\. ASDIS\)](https://open.spotify.com/album/4fEZuIi7pXRruoejRFkaV0) | 3:03 | 2022-05-16 | 2022-05-19 |
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2022-05-06 |  |
 | [You \- Topic Remix](https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [You \(Topic Remix\)](https://open.spotify.com/album/4Ft2rFCFSXB88S7U0vy80Z) | 2:37 | 2022-05-06 |  |

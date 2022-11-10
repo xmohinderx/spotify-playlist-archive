@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: CAMO\(카모\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-290 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/7aZE60N1scOgpUAHT7EoLb)
+291 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/7aZE60N1scOgpUAHT7EoLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Forever Young](https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:57 | 2021-11-21 | 2022-07-29 |
 | [Forever Young](https://open.spotify.com/track/6veFyjNycn6EaNCKhkPXUY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:59 | 2022-07-07 | 2022-09-22 |
 | [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 | 2022-10-04 | 2022-10-08 |
+| [Generation](https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Acid Angel from Asia <ACCESS>](https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y) | 2:44 | 2022-11-09 |  |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-08-18 |  |
 | [GOKIGEN SAYONARA \- Korean ver.](https://open.spotify.com/track/5nmpMkZq1J06Uq8Dcl0lT5) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/2UBE2MgNdsGa9OCSbvwdEQ) | 4:20 | 2022-03-22 | 2022-04-17 |
 | [Good Night 잘 자](https://open.spotify.com/track/5qTMLwczsxG5Z10wdowN96) | [Ryu Ji Hye 류지혜](https://open.spotify.com/artist/4rGWpZenGw3V8eIx1GRHbz) | [Good Night 잘 자](https://open.spotify.com/album/0d1ZTAXOFdFk6ttHIFljGl) | 3:08 | 2022-03-22 | 2022-04-13 |
@@ -230,7 +231,7 @@
 | [Spring Is You](https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Spring Is You](https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC) | 3:45 | 2021-11-21 | 2022-07-06 |
 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 | 2022-03-08 | 2022-05-27 |
 | [Stationary Store Episode: Stationary Store \(Music From "Sound Garden"\)](https://open.spotify.com/track/3ib1Uq2wjsuZAJkDTyFOzn) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Stationary Store Episode: Stationary Store \(Music From "Sound Garden"\)](https://open.spotify.com/album/0qpjqbPLcGLTpGZO0rPWG9) | 3:22 | 2021-11-21 | 2022-04-20 |
-| [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-07-06 |  |
+| [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-07-06 | 2022-11-10 |
 | [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 | 2021-11-21 |  |
 | [Take My Hand](https://open.spotify.com/track/0T1OJqhF2ihqavFfxbiOO8) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Baeeori](https://open.spotify.com/artist/1pHjQiHrT8MN5KZd6ueb7c) | [Take My Hand](https://open.spotify.com/album/0bIJnz9JqrGqOKr8DCN6N5) | 3:18 | 2021-11-21 | 2022-07-17 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-31 |  |

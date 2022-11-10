@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: ALYPH
 
-112 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
+113 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [DU](https://open.spotify.com/track/0F390DrzwfhUrR3QqXgZKZ) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9) | [DU](https://open.spotify.com/album/0yYX0uMUbpKeDmzfV4zbw8) | 3:49 | 2022-05-25 | 2022-08-11 |
 | [Erti Sempurna](https://open.spotify.com/track/1CSt6QD08myLv2ZyUxA9z2) | [Danial Chuer](https://open.spotify.com/artist/7dVjhSfbTnpZQ373dl9G50), [Fieya Julia](https://open.spotify.com/artist/568FFnkRaJ2ZotzzrffSyW) | [Erti Sempurna](https://open.spotify.com/album/0k27fXtvb8ifEggY4eL2Wg) | 4:09 | 2022-10-27 |  |
 | [Gatal](https://open.spotify.com/track/4GdO5TJoymMcrAZaf2jOEf) | [Janna Nick](https://open.spotify.com/artist/47T14gc4KnTM8ewH4gPlbA) | [Gatal](https://open.spotify.com/album/1u37Ngw22P9smTaJlqb3ey) | 3:05 | 2022-05-25 | 2022-08-04 |
-| [Goodbye, Hello](https://open.spotify.com/track/2cdn0cLqoKJy77Ly8UAf0E) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Goodbye, Hello](https://open.spotify.com/album/3vbivP9we0IXeOC2aLBJt8) | 3:01 | 2022-09-15 |  |
+| [Goodbye, Hello](https://open.spotify.com/track/2cdn0cLqoKJy77Ly8UAf0E) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Goodbye, Hello](https://open.spotify.com/album/3vbivP9we0IXeOC2aLBJt8) | 3:01 | 2022-09-15 | 2022-11-10 |
 | [Gurauan Berkasih](https://open.spotify.com/track/0JUinU1l9QXI3seXiVr1A6) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Gurauan Berkasih](https://open.spotify.com/album/1cTHOYKnVcZTBbDun5eKbR) | 4:05 | 2022-05-25 | 2022-10-06 |
 | [Hal Hebat](https://open.spotify.com/track/2AgdGjC0oatOoVa8jEjTRZ) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp) | [Hal Hebat](https://open.spotify.com/album/1jG6zrzssLdWlKvGfl0FhY) | 5:22 | 2022-07-27 |  |
 | [Hal Hebat](https://open.spotify.com/track/0FE59fpqBysKEsp2NPeBcM) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Hal Hebat](https://open.spotify.com/album/2F92waWafUCISVLk06k4y5) | 5:22 | 2022-07-27 | 2022-07-29 |
@@ -50,6 +50,7 @@
 | [Hilang](https://open.spotify.com/track/5YJPHN7xlauOtmDqN5YRtX) | [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV) | [Hilang](https://open.spotify.com/album/75edk9IuOsxG4ydh0VloAb) | 3:27 | 2022-09-08 | 2022-10-28 |
 | [Hingga Tua Bersama](https://open.spotify.com/track/5b0NpyYAwW2dUGL08ir7Bg) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Hingga Tua Bersama](https://open.spotify.com/album/0pLC2EIZV2q4Ds7L7qbZaR) | 4:30 | 2022-05-25 |  |
 | [I LAB U](https://open.spotify.com/track/1gl1lndIHDDpQeYuUrrMoU) | [Pudds](https://open.spotify.com/artist/6saVgVtwLnVSk9fKMtTvnA), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [I LAB U](https://open.spotify.com/album/6xDjAB66om2adSX7iMfZLv) | 2:20 | 2022-09-15 | 2022-09-29 |
+| [Igauan Malam](https://open.spotify.com/track/68oey8CEp8hOD0ho0VsEqz) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Igauan Malam](https://open.spotify.com/album/4WTIpr7McvDy14UT87FhhJ) | 4:53 | 2022-11-09 |  |
 | [Isteri](https://open.spotify.com/track/1H50k7ZiylQVuuVOYIvlZr) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [Isteri](https://open.spotify.com/album/31hFm4Jh0q1LS4oQSO7EhN) | 2:44 | 2022-08-24 | 2022-10-13 |
 | [Jangan Ada Dusta Diantara Kita](https://open.spotify.com/track/7yOOxQWaypqMHW21HwxKgk) | [Raffa Affar](https://open.spotify.com/artist/7JqV001XBrSr1Iyt66VPGk), [Rachel Patricia](https://open.spotify.com/artist/57PgHtyRgqcUwxJdgMr7mo) | [Jangan Ada Dusta Diantara Kita](https://open.spotify.com/album/0s0gDzEspCuawHzw0SWTTD) | 3:49 | 2022-10-05 | 2022-11-03 |
 | [Jangan Menangis Cinta](https://open.spotify.com/track/3k5nHyv6EjnH7eeIZQfuYL) | [Idayu](https://open.spotify.com/artist/7suXbmosCjq93DMz9QO2rM) | [Jangan Menangis Cinta](https://open.spotify.com/album/6g8SiSsDDK79vqzTgYwRll) | 4:21 | 2022-05-25 | 2022-07-28 |

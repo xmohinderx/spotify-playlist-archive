@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring yameii online
 
-437 songs - 1 day 1 hr 25 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+438 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [anna jetson \- DJ\_Dave Edit](https://open.spotify.com/track/6qPAi7Ozo4MpVdm9Q4KPF3) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Sunshine Factory \(Remixes\)](https://open.spotify.com/album/3itJjuakoKh9vUynd8N0Iv) | 3:00 | 2022-09-27 |  |
 | [Anymore](https://open.spotify.com/track/0UYbhQk9tUzDeqjcsfDFRF) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Anymore](https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq) | 2:30 | 2022-08-05 | 2022-10-15 |
 | [Arrowheads](https://open.spotify.com/track/2G8f1hZYyeXzrTQq9ZzAcQ) | [POSITIVE+](https://open.spotify.com/artist/4A9c47Lp1V2eX8879NNzYr) | [Arrowheads](https://open.spotify.com/album/4SS3rdPGwOVIAUr46Car5q) | 4:46 | 2022-07-11 | 2022-10-15 |
-| [As Ever](https://open.spotify.com/track/1qnbZ096P23wL4Gc4Z4XVp) | [Bing](https://open.spotify.com/artist/000KH5miITrYDL3ZmYxtIL) | [As Ever](https://open.spotify.com/album/0U8w9JKO9Ex1mNz2ZgrTJx) | 4:50 | 2022-05-27 |  |
+| [As Ever](https://open.spotify.com/track/1qnbZ096P23wL4Gc4Z4XVp) | [Bing](https://open.spotify.com/artist/000KH5miITrYDL3ZmYxtIL) | [As Ever](https://open.spotify.com/album/0U8w9JKO9Ex1mNz2ZgrTJx) | 4:50 | 2022-05-27 | 2022-11-10 |
 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 | 2021-10-01 | 2022-03-24 |
 | [Audio](https://open.spotify.com/track/2C4kl8zvhUwmdlofcRcbH3) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Audio](https://open.spotify.com/album/1MpGcRFAoTJi1e5fCEBoAd) | 3:31 | 2022-04-22 | 2022-08-17 |
 | [Automatic](https://open.spotify.com/track/61Czn0cv9o0J0At7R8jZgn) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Automatic](https://open.spotify.com/album/6qgb7CRYGAp6munGsxtd7p) | 3:05 | 2022-07-22 | 2022-08-27 |
@@ -98,6 +98,7 @@
 | [complicated](https://open.spotify.com/track/2rJ2A9yjpqNQowZFvkJl8h) | [redhorse](https://open.spotify.com/artist/1maxPRllLq3HwNvtDb1jMV) | [complicated](https://open.spotify.com/album/3cs1EKFpp7lQ73A6JfERLR) | 1:58 | 2022-01-07 | 2022-01-29 |
 | [conscience!!](https://open.spotify.com/track/18d7ElSn83SUH9X8MG5S0T) | [1kaze1](https://open.spotify.com/artist/5gJHOJtsAqjnKeLLiIW0IK) | [dig1w0rld](https://open.spotify.com/album/4qh7uYeqq5TKsrm3Z1QMbc) | 2:47 | 2022-04-08 | 2022-05-14 |
 | [Coochie \(a bedtime story\)](https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ) | 3:02 | 2022-07-21 | 2022-10-01 |
+| [corpse party](https://open.spotify.com/track/30s7IiT1z4enGd42HlPxE3) | [tomspicy](https://open.spotify.com/artist/7N36dSZ3MAuxqvLlfr35IV) | [Corpse Party](https://open.spotify.com/album/2PWD6755zpide7S2xbYZsy) | 6:14 | 2022-11-09 |  |
 | [CORRUPTED FILES](https://open.spotify.com/track/0g7usKY3CtS4pLu4vpgYRa) | [Star Trash](https://open.spotify.com/artist/20xOKqre5bLC5w9OjoHCln) | [CORRUPTED FILES](https://open.spotify.com/album/2zv3UByXWQct6yqddmtb8x) | 3:23 | 2022-03-18 | 2022-07-30 |
 | [crazy4u!](https://open.spotify.com/track/6Gk4qs4VrUjxDMCmuQbEgQ) | [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [crazy4u!](https://open.spotify.com/album/6bnON6CC4EYZfrHA48ZUEw) | 3:19 | 2022-02-18 | 2022-06-26 |
 | [creation](https://open.spotify.com/track/0h64WdJ2JNMLgSh2M9ymEF) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [creation](https://open.spotify.com/album/2swnQoFyWwoqcUT9kVez5P) | 2:03 | 2021-11-12 | 2022-03-05 |

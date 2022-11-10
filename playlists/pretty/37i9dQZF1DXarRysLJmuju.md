@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Keep up with all the latest pop hits\. Photo: Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,038 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,084 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 35 | [Loser](https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:24 |
 | 36 | [Meet You in Hell](https://open.spotify.com/track/2xdye2lhDblrS05XTHgBcb) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Meet You in Hell](https://open.spotify.com/album/5kD3hBP2KPEx4jLlugYVjo) | 3:07 |
 | 37 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
-| 38 | [Whitney](https://open.spotify.com/track/0zJBJSTeGKZuXOnVyFxkjd) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/61M0m1vZBq2Tj7m2R7dPKE) | 3:11 |
+| 38 | [Whitney](https://open.spotify.com/track/3wnV3a1u6QgSzKPZl5v67c) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/3Gptzy7Tre8g8yif8Slyj7) | 3:11 |
 | 39 | [Me](https://open.spotify.com/track/2RidTpfCfAA3Wb7sBcBubb) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Every Little Detail](https://open.spotify.com/album/35HZGYSj5vzKFeRsoCMU2w) | 2:27 |
 | 40 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 41 | [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Do I make you nervous?](https://open.spotify.com/track/1FC511SYR7SXb1qrBr3oq0) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Do I make you nervous?](https://open.spotify.com/album/5zjEJwtQGYfo08aaYiZsYZ) | 2:32 |
 | 100 | [WHEN WE WERE KIDS](https://open.spotify.com/track/08RcqKgGxRBnaqAsgm07DI) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [WHEN WE WERE KIDS](https://open.spotify.com/album/3umxF4s0UtsmJ1yOjDBICp) | 3:18 |
 
-Snapshot ID: `MTY2NzU0MTYwMCwwMDAwMDAwMGIxZTFhNjRiMzc4NWE0N2QwNDk5Yzc3NTMzNjc0MzY3`
+Snapshot ID: `MTY2NzU0MTYwMCwwMDAwMDAwMGIxNzYxNjQ3ZDUzODExNDk3MDZkZWUyODUwMWQ2Nzc0`

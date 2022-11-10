@@ -1474,6 +1474,24 @@
     },
     {
       "album": {
+        "name": "Koko",
+        "url": "https://open.spotify.com/album/0VVhDZXIHATBwfpkmRaLtF"
+      },
+      "artists": [
+        {
+          "name": "MATHIAS",
+          "url": "https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128315,
+      "name": "Koko",
+      "url": "https://open.spotify.com/track/7ppbwgiybENMZYUzu5EX6Z"
+    },
+    {
+      "album": {
         "name": "Konjo",
         "url": "https://open.spotify.com/album/6fwMKBeItkKYY8ZFn6vn4q"
       },

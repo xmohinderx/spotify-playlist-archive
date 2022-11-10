@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Roy Kim\(로이킴\)\) \(당신의 감성에 발라드, 려요\)
 
-583 songs - 1 day 13 hr 48 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+587 songs - 1 day 14 hr 3 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-08-12 |  |
 | [Deeply](https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 1](https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ) | 3:38 | 2022-06-20 | 2022-06-28 |
 | [Delete](https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Delete](https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9) | 4:09 | 2022-07-13 |  |
+| [Delusion](https://open.spotify.com/track/4wPkbwbfLXp5bxcXIChEwZ) | [Bubble Sisters](https://open.spotify.com/artist/1jZ9R8RNpwVBJTf8Qg96a7) | [Delusion](https://open.spotify.com/album/3Gwv2xWkC0H7EXBTDVwVNE) | 3:24 | 2022-11-09 |  |
 | [Departure from a Country](https://open.spotify.com/track/3FC6OK2Nvs35Y34fcRb1Ro) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/41rnXi6HnsKF5ueUEqr7uz) | 4:17 | 2022-07-07 | 2022-08-02 |
 | [Dial Your Number](https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Dial Your Number](https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g) | 4:18 | 2022-04-12 | 2022-05-02 |
 | [didn't say anything](https://open.spotify.com/track/0GPtizf5j73g2KuHa4ZdRb) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [ONG SEONG WU](https://open.spotify.com/artist/01APAUkFb3XB5exrmi8tkQ) | [didn't say anything](https://open.spotify.com/album/3Gu1G42hDfGVVcHYZlawbt) | 3:43 | 2022-03-31 | 2022-04-21 |
@@ -282,6 +283,7 @@
 | [It′ll Be Alright](https://open.spotify.com/track/4xrLFswrUOP8MHJaTHHD8T) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [,and](https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP) | 4:18 | 2022-10-26 |  |
 | [It′s You \- YERI of Red Velvet Version](https://open.spotify.com/track/1QPxmlMI3UuaMa0eZomhnz) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) | [It's You \(YERI of Red Velvet\)](https://open.spotify.com/album/1TntT6QwLz97YzItvpyLKf) | 3:15 | 2022-03-24 | 2022-04-15 |
 | [I’ll Never Know You](https://open.spotify.com/track/3W3DMcutGcZan4KnpNrkw9) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Parting](https://open.spotify.com/album/4ffRADPvsTjnATr8zCg2Ta) | 4:03 | 2021-12-23 | 2022-07-08 |
+| [I′m Sad without You \(Feat\. DOKO\)](https://open.spotify.com/track/35gNUShmNzCuSccQ5XheBp) | [Yooan Kim](https://open.spotify.com/artist/1HcoUEnl4hqoZXazYKGZAo), [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [I'm Sad without You](https://open.spotify.com/album/1T5vbcHbRYU9ICbvmfexFe) | 3:34 | 2022-11-09 |  |
 | [Just for a moment](https://open.spotify.com/track/0V7elfOc7DP0R0sOswnPsD) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Greeting](https://open.spotify.com/album/026uWhfvMFjZyNEF6p0GBs) | 4:32 | 2022-03-24 | 2022-04-12 |
 | [Just hug me](https://open.spotify.com/track/2H3Hl20eU9cpzQUz43GtEc) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Just hug me](https://open.spotify.com/album/5DeM0LUxSOmfXQzBedDA2F) | 3:22 | 2021-12-20 | 2022-06-29 |
 | [Just Leave Me](https://open.spotify.com/track/5ThV0PXVkkkw74WsjVrjYU) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [The World of the Married, Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/1EAuKZNnt6SEwmzKNDNW0M) | 4:19 | 2022-03-29 | 2022-04-20 |
@@ -538,6 +540,7 @@
 | [When We Were In Love](https://open.spotify.com/track/613Ixm4sbcHRZGKmGtLX9v) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [I'm](https://open.spotify.com/album/4AkitmQNFEc5iB0GrzYthy) | 4:14 | 2021-12-20 | 2022-06-26 |
 | [When We Were Us](https://open.spotify.com/track/2f4o2u8yAANvg3hQ8BNm4Q) | [SUPER JUNIOR\-K.R.Y.](https://open.spotify.com/artist/5Kdp1Iq26eCz7XbPxOgt7F) | [When We Were Us \- The 1st Mini Album](https://open.spotify.com/album/0iUESqGVBginzy7gCYMvt2) | 4:07 | 2021-12-23 | 2022-05-06 |
 | [When We Were Young](https://open.spotify.com/track/7EbqPyHFpXmcTTewbsX9hz) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [When We Were Young \(Good Doctor X XIA\)](https://open.spotify.com/album/5PF1OECcTJ7s3XhEHr1lNd) | 3:18 | 2022-08-25 |  |
+| [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 | 2022-11-09 |  |
 | [When your tears wet my eyes](https://open.spotify.com/track/3a9GcrjvZCTorkWUqq4LBH) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Lovers of the Red Sky OST Part.4](https://open.spotify.com/album/7FgXKv05gGa0DMq7FPKdjh) | 3:52 | 2022-03-31 | 2022-06-30 |
 | [Whenever Wherever](https://open.spotify.com/track/2zyYgnZsfzUDcaBdsBzAYj) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Whenever Wherever](https://open.spotify.com/album/2lYx5WNdnwIP1x2iryh0n5) | 4:05 | 2021-12-23 | 2022-06-18 |
 | [While The Memory Fall A Sleep](https://open.spotify.com/track/0WwLjYKOdbpSzhFyHfi3F2) | [강승식](https://open.spotify.com/artist/545wFEUgGmJwArSU0zjemI) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6gkzelq3vDZGSNnFDdllkF) | 4:26 | 2022-03-24 | 2022-04-11 |
@@ -561,6 +564,7 @@
 | [wooden shoes](https://open.spotify.com/track/4VHjRm6Ok4pdl1kdw7lEmy) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [CHOI](https://open.spotify.com/artist/5phfMKsr54C4WieISO2j9j) | [wooden shoes](https://open.spotify.com/album/41P2aRYuHgSyHhw0HGwfVT) | 5:13 | 2022-07-07 | 2022-10-13 |
 | [Worse than friends](https://open.spotify.com/track/4OfeoCwjK4xFGn5XQ0dbfu) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [친구보다 더 못한 사이](https://open.spotify.com/album/2JsY4V9OqKbQRXezTHhj76) | 3:59 | 2022-10-04 |  |
 | [YOU](https://open.spotify.com/track/3EbIEcLVkzpBEt2wKty6Iu) | [이준호 Lee Junho](https://open.spotify.com/artist/0gZSJwPrA4KC8S9bVOwE9m) | [YOU](https://open.spotify.com/album/2U9rzSHkcPOnq3q55U6RV0) | 3:40 | 2022-07-07 | 2022-10-08 |
+| [You Are The Sea](https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [You Are The Sea \(CURTAIN CALL OST Part.4\)](https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw) | 4:06 | 2022-11-09 |  |
 | [You know everything](https://open.spotify.com/track/3gUbxvr8LQ3OhT69E82crb) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Someone's playlist \#8](https://open.spotify.com/album/7tNp4kGCYT55TKWDdciZ94) | 4:55 | 2022-09-29 |  |
 | [You said you don't know what love is](https://open.spotify.com/track/4vEKICOyJxKiAivrgpQbtS) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i) | [A Kiss at Tiffany's \(Original Soundtrack\), Part.2](https://open.spotify.com/album/0iDjYCpxzPyZDEKfjrO8CZ) | 3:03 | 2022-03-31 | 2022-04-20 |
 | [You're Already The Best For Me](https://open.spotify.com/track/4o02wolAG3eS75e9rljBLv) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf) | [小暑](https://open.spotify.com/album/3rpmARrx5Z5yeQBxdfgfOd) | 3:42 | 2022-07-04 | 2022-10-08 |

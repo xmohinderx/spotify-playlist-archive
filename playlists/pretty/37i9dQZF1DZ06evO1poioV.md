@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,699 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,739 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [A Beautiful Noise](https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [A Beautiful Noise](https://open.spotify.com/album/51t2sNnEACFJewZa81WPuU) | 3:19 |
 | 50 | [Heaven](https://open.spotify.com/track/6nddAZdwg0qKNTce8WzzgQ) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [XOBC](https://open.spotify.com/album/2dUNitZMCbMgbBjlal2xBp) | 3:29 |
 
-Snapshot ID: `Mjc3OTg2MzgsMDAwMDAwMDAzZmYzNTIyNWIxMDdjZjY3MWY4NmY2YTZhMGVhYjc1NQ==`
+Snapshot ID: `Mjc4MDA0MzMsMDAwMDAwMDA4M2IzNmM4YzM4MmM5ZjU0ZDFmNzUwNDNhY2JmZDUwMA==`

@@ -631,10 +631,28 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 312400,
       "name": "Deaf",
       "url": "https://open.spotify.com/track/1bWZNXXL3mQZscxyzO72Ff"
+    },
+    {
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
+      },
+      "artists": [
+        {
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312400,
+      "name": "Deaf",
+      "url": "https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4"
     },
     {
       "album": {

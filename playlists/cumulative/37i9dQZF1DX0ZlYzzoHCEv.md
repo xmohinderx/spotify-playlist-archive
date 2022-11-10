@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-251 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
+252 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Cattolica](https://open.spotify.com/track/7JS2L1mswwPlfalEdVBDsg) | [Pop X](https://open.spotify.com/artist/4ABwY5eHGrrwcv13gdDe55) | [Best Of](https://open.spotify.com/album/3CAoGfxNiqxpCEaviEg9e3) | 3:16 | 2022-05-06 | 2022-06-13 |
 | [Chamber Of Reflection](https://open.spotify.com/track/1MJ5f5EYBC92ADD6xcz7nb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/1l9d1Zj9Iv2eOcdObVhdMy) | 3:51 | 2022-05-06 | 2022-07-20 |
 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2022-07-22 |  |
+| [CHASE THE SUN](https://open.spotify.com/track/3XqbE73rPFS6Ys6RBx1qGh) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/2NXvuNPaaHreCI5ZXCbvRv) | 3:31 | 2022-11-09 |  |
 | [CHE UOMO \(feat\. bbno$ & Nello Taver\)](https://open.spotify.com/track/4hLdjsSdCWlXKNgKg3KyWa) | [Tuzzo](https://open.spotify.com/artist/528N5RTsLKjSxsHOB9AyWr), [Nello Taver](https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [CHE UOMO \(feat\. bbno$ & Nello Taver\)](https://open.spotify.com/album/6lc13FhHLuHIq7WNIRBcgz) | 2:46 | 2022-08-26 | 2022-09-23 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-05-06 | 2022-07-26 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-07-22 | 2022-08-20 |
@@ -205,7 +206,7 @@
 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 | 2022-09-08 |  |
 | [Shakerando \- Remix Napoletano](https://open.spotify.com/track/6ghhJSMWEyuZgmqndmWG1V) | [Black Emme](https://open.spotify.com/artist/0WRl37adNM64cIFdt5T07I) | [Shakerando \(Remix Napoletano\)](https://open.spotify.com/album/77uUCqw7RdnlxvjnJfOWNc) | 1:39 | 2022-06-03 | 2022-06-09 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-09-23 |  |
-| [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 | 2022-08-23 |  |
+| [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 | 2022-08-23 | 2022-11-10 |
 | [SHUM](https://open.spotify.com/track/29bhnde7Gvnp7rvY9zsq5S) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [SHUM](https://open.spotify.com/album/5PHaqajzAEUhRPjwFYqjSx) | 2:52 | 2022-05-06 | 2022-07-28 |
 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 | 2022-05-06 | 2022-07-29 |
 | [Silly Boy](https://open.spotify.com/track/1IWDJT71pjQgy9h3P8UwtG) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Silly Boy](https://open.spotify.com/album/48X1aV5CY95zpcnHiE6WGf) | 3:18 | 2022-05-20 | 2022-06-26 |

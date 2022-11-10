@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,118 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,120 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 | 4 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 |
 | 5 | [Mrs\. Robinson](https://open.spotify.com/track/10FqpvfLZAKnmtAFKOrHC6) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Don Costa](https://open.spotify.com/artist/0RApVWsazsKH8QZsLtffn9) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 2:56 |
 | 6 | [The Boxer \- 2002 Remaster](https://open.spotify.com/track/2xchn60m6hRjWwpb7tGvpU) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Roses in the Snow \(Deluxe Edition\)](https://open.spotify.com/album/2LSEEOLu3PSt0T30n0Vg9O) | 3:16 |
-| 7 | [Something So Right](https://open.spotify.com/track/7qyUlaAYXEEpTsVPUrdQut) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Heff Moraes](https://open.spotify.com/artist/6HrqkCpPwHjWrg0YicMnzw) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 3:55 |
+| 7 | [Something So Right](https://open.spotify.com/track/7qyUlaAYXEEpTsVPUrdQut) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 3:55 |
 | 8 | [The Only Living Boy in New York \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6PAAYRbXQd9nPTz4vi7bIB) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Spotify Singles](https://open.spotify.com/album/23eXBuGFc0aHSnDhYXaAZk) | 4:00 |
 | 9 | [Graceland](https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Maybe A Moment / Graceland](https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW) | 3:14 |
 | 10 | [You Can Call Me Al \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2AgqXfsn2W4lXjchlqRyz1) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Spotify Singles](https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9) | 3:08 |

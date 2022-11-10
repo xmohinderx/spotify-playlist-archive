@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PP Krit
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: LAZ1
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,966 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,165 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/track/742XEz0qAabkTmEVdMzqKb) | [Mai Davika](https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC) | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/album/2LrGMUuGqI7ceHkBsDs0GF) | 3:12 |
-| 2 | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/track/5xdmFkq5uVLzhogUK8wRQk) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/album/1X4Je0roqbsKnR5EQwUv4g) | 3:14 |
-| 3 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 |
+| 1 | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/track/15MIlusZDUVhN1jZ84OyDA) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/album/0hyMlYAOfsCJrTnHSM2eHj) | 3:53 |
+| 2 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 |
+| 3 | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/track/5xdmFkq5uVLzhogUK8wRQk) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/album/1X4Je0roqbsKnR5EQwUv4g) | 3:14 |
 | 4 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
-| 5 | [ระวังเสียใจ \(Warning\)](https://open.spotify.com/track/2H5h25NuMFY39z7EOl28eP) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 2:54 |
-| 6 | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/track/15MIlusZDUVhN1jZ84OyDA) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/album/0hyMlYAOfsCJrTnHSM2eHj) | 3:53 |
+| 5 | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/track/742XEz0qAabkTmEVdMzqKb) | [Mai Davika](https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC) | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/album/2LrGMUuGqI7ceHkBsDs0GF) | 3:12 |
+| 6 | [ระวังเสียใจ \(Warning\)](https://open.spotify.com/track/2H5h25NuMFY39z7EOl28eP) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 2:54 |
 | 7 | [ไม่ได้ก็ไม่เอา \- Whatever](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 |
 | 8 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
 | 9 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 69 | [สายตาหลอกกันไม่ได้ \(Eyes Don’t Lie\)](https://open.spotify.com/track/3Rkt2LzmQkW2yzSM0NAZgT) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/42UUZAtYzoWxysrGIPmF4Z) | 3:08 |
 | 70 | [ห้ามใจไม่อยู่](https://open.spotify.com/track/3xVsS8m92jEGMh3DXGe1PW) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ห้ามใจไม่อยู่](https://open.spotify.com/album/2oBrpIpHLArLyXiMLx4Knq) | 3:40 |
 
-Snapshot ID: `MTY2NzQ2MjE5NSwwMDAwMDAwMDRlNzdjODZjN2Y2Yjc5MTZhZjhmYjIxNWYzMDIwZTVh`
+Snapshot ID: `MTY2ODAwNzMyNCwwMDAwMDAwMGJlMTBiZDEzZTI1ZWNhYjUwMDQ3NDFhYzQwMjhmZDA0`

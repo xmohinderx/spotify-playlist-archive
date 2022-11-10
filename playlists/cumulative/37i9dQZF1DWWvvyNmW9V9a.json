@@ -4876,6 +4876,24 @@
     },
     {
       "album": {
+        "name": "If I Died Last Night",
+        "url": "https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164678,
+      "name": "If I Died Last Night",
+      "url": "https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF"
+    },
+    {
+      "album": {
         "name": "If I Don't Laugh, I'll Cry",
         "url": "https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb"
       },

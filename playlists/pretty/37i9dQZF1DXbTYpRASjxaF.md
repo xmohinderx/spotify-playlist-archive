@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: PL Quest, Major RD, BIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,005 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,120 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 46 | [SET \- Sai pra Lá Invejoso](https://open.spotify.com/track/4ya6fQpmRWfJUPjR78cZsP) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Dj Nene](https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM) | [SET \- Sai pra Lá Invejoso](https://open.spotify.com/album/1IR8miKAv5uRxNvZXfs9Yr) | 6:15 |
 | 47 | [Longe dos Falsos](https://open.spotify.com/track/4rGzXzn5pUmf96MnX185pH) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Longe dos Falsos](https://open.spotify.com/album/46PJMPLnYVB5cdFnep1AWf) | 3:19 |
 | 48 | [Mansão LB \(feat\. Bebeto, Drow Mattos\)](https://open.spotify.com/track/20gXKDokHwvsy2hA1O2hfl) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6), [Tvlyssxn](https://open.spotify.com/artist/05heTCx2RPHzKtw4GTtwny), [Bebeto](https://open.spotify.com/artist/2KHYG7vNRKtN0e3xdueQdz), [Drow Mattos](https://open.spotify.com/artist/3cljYHYbTQL7i50Qxfg7mv) | [Mansão LB \(feat\. Bebeto, Drow Mattos\)](https://open.spotify.com/album/0ytj7RI4YbGLy1PLjWmFS3) | 2:58 |
-| 49 | [Rebola e Beija](https://open.spotify.com/track/63zZRYgi6mFgPUWwWx09pq) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Piramde](https://open.spotify.com/artist/23aI3KAEt7HMkryGazvqs9), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX) | [Rebola e Beija](https://open.spotify.com/album/1NBIYia17tA4ttlHacouMQ) | 2:40 |
+| 49 | [Rebola e Beija](https://open.spotify.com/track/63zZRYgi6mFgPUWwWx09pq) | [Piramde](https://open.spotify.com/artist/23aI3KAEt7HMkryGazvqs9), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Rebola e Beija](https://open.spotify.com/album/1NBIYia17tA4ttlHacouMQ) | 2:40 |
 | 50 | [Dose de Ilusão](https://open.spotify.com/track/78KtTCaTfN19BRudn918wS) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Dose de Ilusão](https://open.spotify.com/album/2V8JVFuL0FKkoC6ZLEcfKY) | 2:31 |
 
 Snapshot ID: `MTY2NzU3NzIxOCwwMDAwMDAwMDg1YWEwZmRlMDVmYjJjZWFkMDI4YTg3MzgwMjYwNDVj`

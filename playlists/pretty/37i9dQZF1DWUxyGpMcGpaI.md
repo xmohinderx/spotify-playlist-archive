@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 
 > Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! /  TVアニメ<a href="https://chainsawman.dog/">『チェンソーマン』</a>のオフィシャルプレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,150 likes - 18 songs - 38 min 37 sec
+[Spotify](https://open.spotify.com/user/spotify) - 55,822 likes - 18 songs - 38 min 37 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 | 4 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
 | 5 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
 | 6 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 |
-| 7 | [インザバックルーム](https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [インザバックルーム](https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89) | 3:26 |
+| 7 | [In the Back Room](https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [In the Back Room](https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw) | 3:26 |
 | 8 | [edge of chainsaw](https://open.spotify.com/track/2fOPkvOguFiHA7CQgZg7N5) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 3:10 |
 | 9 | [the door](https://open.spotify.com/track/2Pb251vvMQD68isjTxGzvL) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 1:45 |
 | 10 | [nail\-biter](https://open.spotify.com/track/08bCmp6IzjTONuQPh1iNJq) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 1:32 |
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 | 17 | [sweet dreams](https://open.spotify.com/track/1SiTJWmO416vuOw3nUl1jw) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 2:29 |
 | 18 | [that's a dream come true](https://open.spotify.com/track/4VL0qziEuvFomcb6I6XxTO) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 1:43 |
 
-Snapshot ID: `MTY2NzkxOTYwMCwwMDAwMDAwMGM5NGExNTgzNjc5ODJkMDA4OGNkMTY0YWJkNGQ4ODMw`
+Snapshot ID: `MTY2NzkxOTYwMCwwMDAwMDAwMDBiZTZlNzczOWYzNDk0YjY3NzRhMjBjYTcyYTc3N2U4`

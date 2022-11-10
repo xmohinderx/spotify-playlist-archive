@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: Ulfuls\(ウルフルズ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,428 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,515 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 38 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
 | 39 | [tonight](https://open.spotify.com/track/76r39ZhRRknSx7Otsy1s5p) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [tonight](https://open.spotify.com/album/7LZixLs2YztuW53wsE2GeZ) | 4:34 |
 | 40 | [Future Tone Bender](https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 3:52 |
-| 41 | [Zanshin](https://open.spotify.com/track/3uXTMl8KvW3oS22uaFk2bM) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Seimei](https://open.spotify.com/album/6GQ97EX8TfWzw0JjoFw4MS) | 3:24 |
+| 41 | [Zanshin](https://open.spotify.com/track/7nNnwATQnctS6yLREghFwO) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Seimei](https://open.spotify.com/album/6jQP5MIL7cCNHeWxyl8ryg) | 3:24 |
 | 42 | [Papersky](https://open.spotify.com/track/27Aet7xWrKxC6Yvw6S6Si3) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Papersky](https://open.spotify.com/album/0O07iy0DxbwL1TGOntCBIq) | 4:16 |
 | 43 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
 | 44 | [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 49 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
 | 50 | [竜巻いて鮮脳](https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [竜巻いて鮮脳](https://open.spotify.com/album/2VpUOSFam8GvgQHnSpn2kH) | 3:44 |
 
-Snapshot ID: `MTY2NzkxOTYwMCwwMDAwMDAwMDcxNmM2Mzg4Yzc2NTNmMTU0Mzk5MDY0OWQ1M2MwNTc0`
+Snapshot ID: `MTY2NzkxOTYwMCwwMDAwMDAwMDJhYmZjNmYxOWY4MWY3NjYzNmI2MWEwMTRhMmY1MThk`

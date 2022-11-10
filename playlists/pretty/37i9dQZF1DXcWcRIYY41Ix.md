@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Álex Eugenio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,026 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,067 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 83 | [Carta](https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:24 |
 | 84 | [La Aguja](https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [El Caminante](https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK) | 3:08 |
 | 85 | [La Despedida \(feat\. Valeria Castro\)](https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [La Despedida \(feat\. Valeria Castro\)](https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm) | 3:38 |
-| 86 | [Carta Aberta](https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Carta Aberta](https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3) | 5:11 |
+| 86 | [Carta Aberta](https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Carta Aberta](https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3) | 5:22 |
 | 87 | [Caminata](https://open.spotify.com/track/10q58ySzhr4lUvqFQHwoUD) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Caminata](https://open.spotify.com/album/04JEuJTa7Uf1KROL7gTnUt) | 2:58 |
 | 88 | [Sana Sana](https://open.spotify.com/track/341SLEDngz2H0kE52OTXao) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana Sana](https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9) | 5:02 |
 | 89 | [Contacto Directo](https://open.spotify.com/track/5dZ4bUdscVr4lr3iNVfvYW) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [P A L A B R A](https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds) | 3:21 |

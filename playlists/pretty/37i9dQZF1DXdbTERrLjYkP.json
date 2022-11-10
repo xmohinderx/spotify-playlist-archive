@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Abigail Osborn",
-  "num_followers": 73640,
+  "num_followers": 73689,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDc3MmRhMmU5YzM4NTUxZDg3ODAwNmQyY2YxNjhhMDA0",
+  "snapshot_id": "MTY2Nzk4MjkwNSwwMDAwMDAwMDg5MDkxMGQ3YTRkYThlYzg4OTJmZjVhYjI5MzRhMzhh",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Machine Learning",
-        "url": "https://open.spotify.com/album/5WIvlCtH4dpYfdaXF9sJfX"
-      },
-      "artists": [
-        {
-          "name": "J. Maya",
-          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
-        }
-      ],
-      "duration_ms": 155522,
-      "name": "Machine Learning",
-      "url": "https://open.spotify.com/track/3rpqdjRLuBGDfGHyAMD55v"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/0x93UKf60HK7bzVUlnTJP4"
       },
@@ -55,6 +39,38 @@
       "duration_ms": 172366,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/45smSZnjWu1Btd1VJTeWB6"
+    },
+    {
+      "added_at": "2022-11-09 08:35:05",
+      "album": {
+        "name": "If I Died Last Night",
+        "url": "https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 164678,
+      "name": "If I Died Last Night",
+      "url": "https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Machine Learning",
+        "url": "https://open.spotify.com/album/5WIvlCtH4dpYfdaXF9sJfX"
+      },
+      "artists": [
+        {
+          "name": "J. Maya",
+          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
+        }
+      ],
+      "duration_ms": 155522,
+      "name": "Machine Learning",
+      "url": "https://open.spotify.com/track/3rpqdjRLuBGDfGHyAMD55v"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1591,22 +1607,6 @@
       "duration_ms": 207216,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/40NJ6IcslmhpnxVCY0mQUl"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "closer to closure",
-        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 198139,
-      "name": "gentle",
-      "url": "https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

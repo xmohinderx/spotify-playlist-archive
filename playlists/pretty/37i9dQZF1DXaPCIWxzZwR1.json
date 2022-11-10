@@ -1,12 +1,12 @@
 {
   "description": "next gen pop cover: Jessie Murph",
-  "num_followers": 1159816,
+  "num_followers": 1160432,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDgzOTI3MTM0OTI5NzU3ZDQxZDZhMmE0NjM0NWNjNmUx",
+  "snapshot_id": "MTY2ODAyNzM1OSwwMDAwMDAwMDFhOWUyNWEyYTIwOTZlNjcyYmRkMjdmODgzZWI3M2Nm",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "not my job anymore",
+        "url": "https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 188074,
+      "name": "not my job anymore",
+      "url": "https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Give Me a Kiss",
         "url": "https://open.spotify.com/album/0CafPkGhvLKbSwto8FQJq1"
       },
@@ -365,20 +381,20 @@
       "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-11-09 20:55:59",
       "album": {
-        "name": "not my job anymore",
-        "url": "https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI"
+        "name": "girlfriend",
+        "url": "https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV"
       },
       "artists": [
         {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
         }
       ],
-      "duration_ms": 188074,
-      "name": "not my job anymore",
-      "url": "https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz"
+      "duration_ms": 133150,
+      "name": "girlfriend",
+      "url": "https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2022-11-09 20:55:59",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"

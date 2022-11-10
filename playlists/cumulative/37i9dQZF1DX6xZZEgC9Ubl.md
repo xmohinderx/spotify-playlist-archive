@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: iann dior
 
-740 songs - 1 day 9 hr 42 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+741 songs - 1 day 9 hr 44 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,9 +700,10 @@
 | [Voodoo](https://open.spotify.com/track/0XEdjeDM3U9bFCDppETpev) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Barely Speaking English](https://open.spotify.com/album/3hmHNG7LbHgQngJOsi3A19) | 2:25 | 2021-11-12 | 2022-04-13 |
 | [Wait On Me](https://open.spotify.com/track/6DIuYHUgyenHApecvZmVXo) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC) | [Wait On Me](https://open.spotify.com/album/2w1Q9PhvuFxTyEZYe5Arph) | 3:10 | 2021-09-17 | 2022-04-20 |
 | [WALKING BACKWARDS](https://open.spotify.com/track/6Sw12MIPAzOmuqHr9CYxGw) | [Bensbeendead.](https://open.spotify.com/artist/6MJHYFIRxicXnYNhDdfn80) | [WALKING BACKWARDS](https://open.spotify.com/album/03EEAPqeqGYB3gDbD3cRuJ) | 3:04 | 2021-10-29 | 2022-04-21 |
+| [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2022-11-09 |  |
 | [Waste My Time](https://open.spotify.com/track/0QGPUHXzDnSfuQiel2NY3y) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [Belis](https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD) | [Somethjngs Wrong](https://open.spotify.com/album/7sxn8a7d5TY8NpgoFFEA4j) | 3:06 | 2020-12-13\* | 2021-01-05 |
 | [Wasted](https://open.spotify.com/track/7dDH2I1Jldc2SXMA183sHT) | [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4), [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [Weepings](https://open.spotify.com/artist/2ZKf1mXobEQ7YwiOqteyL7), [American Dead Cross](https://open.spotify.com/artist/34Dax4BzzztDBGblPWsUJ2), [Two:22](https://open.spotify.com/artist/7pdO2N04Ggcu8tC3BqWUDc) | [Wasted](https://open.spotify.com/album/2i2Yx89ExIxgtjTjfKBVyG) | 3:16 | 2022-07-15 | 2022-07-20 |
-| [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 | 2022-10-07 |  |
+| [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 | 2022-10-07 | 2022-11-10 |
 | [Watch Me Wither](https://open.spotify.com/track/2DaU44ilSPYqUI5T998EBI) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [Autumn Gloom](https://open.spotify.com/album/4xL8Agj0pO2zwbr0WDO6Ee) | 3:28 | 2021-01-15 | 2021-04-24 |
 | [Water World](https://open.spotify.com/track/557GPWoXsbALezINZhftNf) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Miracle Mile](https://open.spotify.com/album/5Yyw9PEcJwpfx6VxSeeENp) | 3:10 | 2021-05-15 | 2022-05-25 |
 | [wdym?](https://open.spotify.com/track/1iMsmdz6NFv30BfFn6H8cE) | [Razegod](https://open.spotify.com/artist/0sBbpqhrb9FInmsDSjpCau), [MinimumWade](https://open.spotify.com/artist/5tWiEejDM9WKiai4CkHFNm) | [wdym?](https://open.spotify.com/album/0YBi25ivXul0BBLjT2iQrC) | 3:15 | 2022-05-20 | 2022-07-23 |

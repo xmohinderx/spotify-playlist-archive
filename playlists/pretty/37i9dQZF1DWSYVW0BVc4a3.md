@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > Rave season is upon us\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,529 likes - 98 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,043 likes - 98 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

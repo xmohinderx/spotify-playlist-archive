@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental Jazz for working or studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,399 likes - 100 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,480 likes - 100 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 99 | [There Will Never Be Another You](https://open.spotify.com/track/7wcmJbWzDh81fU0dszxzAi) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Big 6](https://open.spotify.com/album/7rpVIPYd0mq2gJG9GRgXlz) | 5:04 |
 | 100 | [Cherry Blossom](https://open.spotify.com/track/4Y0ck8IWqiZJr66A9fTbUn) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Music For Lovers](https://open.spotify.com/album/78u0bxRl1UH6Pz6dWmEXDp) | 6:12 |
 
-Snapshot ID: `MTY2Njc3MTQwMCwwMDAwMDAwMDQ5OWMxNGE2MTlkOWFiYTZiYzM4ODRiMTViNWZlYTk5`
+Snapshot ID: `MTY2Nzk4NTc3NiwwMDAwMDAwMGZjNGQxMjRlNzI5ZjhiZjIxZjI2M2Y0NWQ0MDI2Mzhk`

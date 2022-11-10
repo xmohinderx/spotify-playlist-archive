@@ -3172,6 +3172,28 @@
     },
     {
       "album": {
+        "name": "Ennai Vittu (From \"Love Today\")",
+        "url": "https://open.spotify.com/album/7u2XibFdWx7ru0qUKHgkOe"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244669,
+      "name": "Ennai Vittu (From \"Love Today\")",
+      "url": "https://open.spotify.com/track/3LP4QpKptfe2yEC7oG5iNa"
+    },
+    {
+      "album": {
         "name": "No Name",
         "url": "https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5"
       },
@@ -5235,7 +5257,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 311558,
       "name": "Kaadhal En Kaviye - From \"Salmon 3D\"",
       "url": "https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ"
@@ -8469,7 +8491,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 290526,
       "name": "Ponni Nadhi (From \"Ponniyin Selvan Part -1\") - Tamil",
       "url": "https://open.spotify.com/track/1uJ2czshFLqimctgvsxfv2"
@@ -11279,6 +11301,24 @@
       "duration_ms": 327155,
       "name": "Uyire - From \"Minnal Murali\"",
       "url": "https://open.spotify.com/track/0vmxxVMfJN21J3xX2uqzkg"
+    },
+    {
+      "album": {
+        "name": "Vaar",
+        "url": "https://open.spotify.com/album/4BVZUGlil7yXxCPxGe5OwF"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140714,
+      "name": "Vaar",
+      "url": "https://open.spotify.com/track/3GUKdxhGCMLRO6Cey7V2Dk"
     },
     {
       "album": {

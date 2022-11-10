@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Julius Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,645 likes - 200 songs - 17 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,677 likes - 200 songs - 17 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

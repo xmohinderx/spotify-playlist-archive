@@ -2664,6 +2664,24 @@
     },
     {
       "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/4rBjac9XBU8UgiZvPMixU2"
+      },
+      "artists": [
+        {
+          "name": "Thorne",
+          "url": "https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/18IhZkRfALANBQeaWfOVuk"
+    },
+    {
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb"
       },

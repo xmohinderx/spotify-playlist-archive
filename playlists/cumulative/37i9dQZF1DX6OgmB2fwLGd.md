@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Featuring new music by Yung Gravy.
 
-457 songs - 18 hr 56 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+458 songs - 19 hr 0 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [WISS](https://open.spotify.com/track/2GDdasGKNUvjF0qZwzNrPv) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [WISS](https://open.spotify.com/album/3TmfcZxW73xt38JNA7dKnW) | 2:39 | 2021-10-21 | 2022-02-26 |
 | [Wokeup](https://open.spotify.com/track/7elpLTR2QnjyL6gtsj2I7R) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Wokeup](https://open.spotify.com/album/1n9NQI2R10g4jQHmLdWKSl) | 1:55 | 2022-01-10 | 2022-07-29 |
 | [Wokeup](https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Wokeup](https://open.spotify.com/album/3hi8gSzAJT4KGaJrylnccp) | 1:55 | 2022-06-17 | 2022-07-30 |
+| [World Cup](https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb) | [World Cup](https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE) | 4:16 | 2022-11-09 |  |
 | [Wrath](https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wrath](https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE) | 1:53 | 2022-06-10 |  |
 | [WTF](https://open.spotify.com/track/4aPn8qfGNZW7UmyJ7iwEwR) | [Xlovclo](https://open.spotify.com/artist/30DOGGqkR0QtducsuI97si) | [WTF](https://open.spotify.com/album/4Nvbq6zC8Yflyd1cAQETU1) | 1:29 | 2022-03-25 | 2022-05-11 |
 | [WTF!](https://open.spotify.com/track/7AzW2VGmPNkc1Q84yQCcZs) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [WTF!](https://open.spotify.com/album/2hU6gJKJnZYqK9sX2pqd2n) | 4:04 | 2021-10-12 | 2022-02-26 |

@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-269 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/7J6V8CtH6cauGweEfdRx6B)
+270 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/7J6V8CtH6cauGweEfdRx6B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Best Part of Me \(gALAXYWAVE vARIANT\)](https://open.spotify.com/track/2Faa88NyKlC6VmPS99YLVb) | [FALL or FLIGHT](https://open.spotify.com/artist/5NSMZJM30NVA892doS3Ym7), [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb) | [Best Part of Me \(tHE rEMIXES\)](https://open.spotify.com/album/7ubhgwGmNh4XxERM46GPPY) | 3:41 | 2022-03-25 | 2022-04-18 |
 | [Birthday](https://open.spotify.com/track/2jCSd2lOtWQKtwb7FdfvPQ) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Birthday](https://open.spotify.com/album/0T3tWA8ootCRtdVX7ariF9) | 3:39 | 2021-07-26 | 2022-07-31 |
 | [Birthday Suit](https://open.spotify.com/track/42y2nvLMc5wLFWW8z6j97b) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Birthday Suit](https://open.spotify.com/album/5I90hkoIV4dsuc6cWud8lE) | 2:52 | 2021-07-26 | 2022-07-29 |
-| [Bleu \(better with time\)](https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Bleu \(better with time\)](https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF) | 3:16 | 2022-09-23 |  |
+| [Bleu \(better with time\)](https://open.spotify.com/track/1VqS6b1NqGRTkO3NzQpJG7) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 3:16 | 2022-09-23 |  |
+| [Bleu \(better with time\)](https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Bleu \(better with time\)](https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF) | 3:16 | 2022-09-23 | 2022-11-10 |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 | 2022-05-02 | 2022-07-31 |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/7IE6uE2NqL9SI5gOSeNi3r) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/album/0nmhxFpBG8CgdjeoomP4go) | 2:30 | 2021-07-26 | 2022-06-30 |
 | [Body Pump](https://open.spotify.com/track/7qxqsahO7eTkJpaJZUNfws) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 4:20 | 2022-07-30 | 2022-08-13 |

@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bialystocks / <br/> Early Noise Night\#14プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。/ Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-510 songs - 1 day 6 hr 45 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+513 songs - 1 day 6 hr 56 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,8 @@
 | [Ripple Mark](https://open.spotify.com/track/72r5XknxIgSLqw0DmIzDfz) | [Benlou](https://open.spotify.com/artist/4sECzRxkhQ0LmFaufbgbKj) | [Ripple Mark](https://open.spotify.com/album/0u2Pzi8BJ9yBjY2RUbEmQ8) | 3:57 | 2022-08-02 | 2022-10-05 |
 | [Rock n Roll is Back](https://open.spotify.com/track/7CaTBKF53EAMjKfw5DpiOt) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Rock n Roll is Back](https://open.spotify.com/album/1W7YnTDk4JfR1R6UTEsFRK) | 2:56 | 2022-05-16 | 2022-06-22 |
 | [rollin'](https://open.spotify.com/track/07K14kPnyJW9Gxj1F4Wzbn) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [rollin'](https://open.spotify.com/album/39CklsCqIBVvnsy7KU9wos) | 3:21 | 2022-05-17 | 2022-06-22 |
-| [Rollin' Down](https://open.spotify.com/track/4aCSqOfUfCrBEmU8XO5T8r) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Rollin' Down](https://open.spotify.com/album/4f4Nx0tD76hJgiHBicC9x1) | 3:43 | 2022-11-08 |  |
+| [Rollin' Down](https://open.spotify.com/track/249WG2nJcGHHMMQK5BuScm) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Rollin' Down](https://open.spotify.com/album/4Bn1dhRn2E4ZGDodjrfHjq) | 3:43 | 2022-11-08 |  |
+| [Rollin' Down](https://open.spotify.com/track/4aCSqOfUfCrBEmU8XO5T8r) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Rollin' Down](https://open.spotify.com/album/4f4Nx0tD76hJgiHBicC9x1) | 3:43 | 2022-11-08 | 2022-11-10 |
 | [run.](https://open.spotify.com/track/7h0LrbAW3YQf7IIa3Bwzuc) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [run.](https://open.spotify.com/album/6czoxk1n3RVjncUIIP8S9B) | 3:56 | 2022-04-05 | 2022-05-25 |
 | [SAKURAドロップス](https://open.spotify.com/track/3bI8jTYxZxSX8u1lYAYBnh) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [SAKURAドロップス / 面影](https://open.spotify.com/album/6WpFtYm4xhwalELWPeAmNx) | 4:41 | 2022-02-17 | 2022-02-23 |
 | [sanagi](https://open.spotify.com/track/1Za4ziatjztmnabABlmqfe) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [sanagi](https://open.spotify.com/album/03slNGQYgZzvdeWvOKzZR3) | 3:18 | 2022-05-24 | 2022-06-29 |
@@ -225,6 +226,8 @@
 | [September](https://open.spotify.com/track/7MfwIBaD6I4CsahHSqygDp) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September](https://open.spotify.com/album/2t5XtZE8VkUKuTjowVd0di) | 3:36 | 2022-09-29 | 2022-10-28 |
 | [September \- Daydream Remix \-](https://open.spotify.com/track/3UVNNLapPN64OWvWk3nwD6) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September \- Daydream Remix \-](https://open.spotify.com/album/4K5Ab56fYvafThohRSJ8gS) | 3:18 | 2022-10-27 | 2022-11-02 |
 | [shame](https://open.spotify.com/track/36pWB023d8A7lcpM9vG4G9) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [shame](https://open.spotify.com/album/2W8p3i2gNs6lt5BC6EA8Mh) | 3:26 | 2022-08-04 | 2022-08-19 |
+| [Shin'ya 6\-ji](https://open.spotify.com/track/4OCIpuigIlufkPyZ9uRlcY) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Shin'ya 6\-ji](https://open.spotify.com/album/0fQOqoTxovUB2hIVjGgGNK) | 4:39 | 2022-11-08 |  |
+| [Shisso](https://open.spotify.com/track/4vc2xLv40ExLHTuSYLaM7F) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [SHIKI](https://open.spotify.com/album/3hG301XBzgG9WMXB9xaC8d) | 2:34 | 2022-11-08 |  |
 | [Shower](https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shower](https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP) | 3:12 | 2022-08-04 | 2022-09-09 |
 | [signal](https://open.spotify.com/track/5SAVeDv2tKYyfPm7NJ6zTr) | [AKIRA](https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv), [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [signal](https://open.spotify.com/album/0kT3niMIXUSdbzd7dLDO81) | 3:39 | 2022-08-09 | 2022-09-28 |
 | [Skyscraper \(Matenrou\)](https://open.spotify.com/track/4RIhQB0TI0G7wzqwIzViBS) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [Skyscraper \(Matenrou\)](https://open.spotify.com/album/61kIH5ne671AnQf8kI6s4x) | 2:59 | 2022-09-27 | 2022-10-12 |
@@ -465,7 +468,7 @@
 | [流星](https://open.spotify.com/track/1sfyQUatfN1kp6vSlKkx1C) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [流星](https://open.spotify.com/album/5FimuYQM8U4mpe763ms4g5) | 2:58 | 2022-03-08 | 2022-04-08 |
 | [流星群](https://open.spotify.com/track/4G1Kk1S5y5SKFFJ9Bwn35U) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [流星群](https://open.spotify.com/album/1NVfNGKoeTlThe7SMCooXT) | 3:09 | 2022-04-07 | 2022-05-11 |
 | [海が満ちる](https://open.spotify.com/track/5Gb82b8WuY46kHCs8nykML) | [かりんちょ落書き](https://open.spotify.com/artist/7szylaibmQeGUetRKLVW65) | [海が満ちる](https://open.spotify.com/album/65UGPf7rbEiLJV0YqF8kMf) | 2:58 | 2022-05-03 | 2022-06-01 |
-| [深夜6時](https://open.spotify.com/track/495pH9ammQWXsYYqQcJnGq) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [深夜6時](https://open.spotify.com/album/7nbzRuRoAUWC1zTZdcc7mi) | 4:39 | 2022-11-08 |  |
+| [深夜6時](https://open.spotify.com/track/495pH9ammQWXsYYqQcJnGq) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [深夜6時](https://open.spotify.com/album/7nbzRuRoAUWC1zTZdcc7mi) | 4:39 | 2022-11-08 | 2022-11-10 |
 | [深夜徘徊](https://open.spotify.com/track/4eW39rkFgCZ31dPTsbT3cz) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [深夜徘徊](https://open.spotify.com/album/09lUXmuYLgFciEYNns0Nuy) | 2:51 | 2022-05-10 | 2022-05-25 |
 | [渋谷](https://open.spotify.com/track/6r7UWUoUuGwuF7WREfVPfW) | [イトハ](https://open.spotify.com/artist/2FvMNFgv7sVbpbA32TK2Mq) | [渋谷](https://open.spotify.com/album/7mL7yin2dbHNaCdMIcaKTA) | 4:16 | 2022-04-05 | 2022-04-13 |
 | [濡溶](https://open.spotify.com/track/7GW6IgNWf23xbwyQ3rfwNR) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [濡溶](https://open.spotify.com/album/0OSmMCfoplA3Rqpevs7Dqu) | 1:34 | 2022-02-22 | 2022-03-30 |
@@ -479,7 +482,7 @@
 | [燦然と輝くとは](https://open.spotify.com/track/5e7W1M0dXPaOUcPg5Hpk49) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [燦然と輝くとは](https://open.spotify.com/album/2dSL2PM3SupqRJr104jxkS) | 1:14 | 2022-05-10 | 2022-06-01 |
 | [琥珀色の素肌](https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ) | 3:25 | 2022-02-17 | 2022-03-09 |
 | [環状線](https://open.spotify.com/track/55MGgoeXHe635Ll6v7yfqK) | [イトハ](https://open.spotify.com/artist/2FvMNFgv7sVbpbA32TK2Mq) | [環状線](https://open.spotify.com/album/0MJDPHZAIryepqayFVJdaa) | 3:13 | 2022-02-17 | 2022-03-23 |
-| [疾走](https://open.spotify.com/track/7fUMzyKIcDPqH1I3x6S7IQ) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [四季](https://open.spotify.com/album/3D538Y6AW5YL16duTNXob3) | 2:34 | 2022-11-08 |  |
+| [疾走](https://open.spotify.com/track/7fUMzyKIcDPqH1I3x6S7IQ) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [四季](https://open.spotify.com/album/3D538Y6AW5YL16duTNXob3) | 2:34 | 2022-11-08 | 2022-11-10 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-08-09 | 2022-10-26 |
 | [着いたら](https://open.spotify.com/track/5FH8M2QNR0QapmFojGj5EV) | [Kabanagu](https://open.spotify.com/artist/5za1QX51X1jaDRmPL7Um7P) | [ほぼゆめ](https://open.spotify.com/album/2vrbvlctAX4AwbXSVYQV8G) | 2:23 | 2022-06-28 | 2022-07-13 |
 | [瞬き](https://open.spotify.com/track/4HQbDwhDK9C8QbfEqjGQEm) | [Chemicalvolume](https://open.spotify.com/artist/76S6suIGiRoHogiWdbgcQO) | [瞬き](https://open.spotify.com/album/2crBAgaWhjf4sdu5xqBrKy) | 2:59 | 2022-10-04 | 2022-11-09 |

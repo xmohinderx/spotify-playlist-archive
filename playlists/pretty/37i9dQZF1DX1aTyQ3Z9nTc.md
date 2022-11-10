@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,424 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,479 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 18 | [TITO'S](https://open.spotify.com/track/3KtJc97wstkCvrRLs10epl) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:52 |
 | 19 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 |
 | 20 | [say im ur luv \- Jumbo Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [say im ur luv \(Jumbo Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 |
-| 21 | [Bleu \(better with time\)](https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Bleu \(better with time\)](https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF) | 3:16 |
+| 21 | [Don't Forget My Love](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love](https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv) | 3:19 |
 | 22 | [Fall In](https://open.spotify.com/track/76oTS246cR6Qnk9UznLk0K) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Fall In](https://open.spotify.com/album/14WXlgU3jPNSbkttpoWQsx) | 2:39 |
-| 23 | [Don't Forget My Love](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love](https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv) | 3:19 |
-| 24 | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/album/6EfbY42O3BlghXBwGDAnW9) | 5:02 |
+| 23 | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/album/6EfbY42O3BlghXBwGDAnW9) | 5:02 |
+| 24 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 |
 | 25 | [You Don't Know](https://open.spotify.com/track/7nZnfJkaBnmmWUBw9jfhm3) | [Bad Colours](https://open.spotify.com/artist/0x3KkCJuve7n51ThZGNAIX), [KAS](https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5), [Jarv Dee](https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u), [JVDE](https://open.spotify.com/artist/5ZYuMuQ1dwCXIx6mULdrzg) | [You Don't Know](https://open.spotify.com/album/7EI43wfKVyPabczkwpHeSA) | 3:11 |
-| 26 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 |
+| 26 | [Bleu \(better with time\)](https://open.spotify.com/track/1VqS6b1NqGRTkO3NzQpJG7) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 3:16 |
 | 27 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 |
 | 28 | [U Are My High \(with Future\)](https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [U Are My High \(with Future\)](https://open.spotify.com/album/3fG4IID2LEPJ7iBSsnVvuG) | 3:31 |
 | 29 | [Passion](https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 49 | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 |
 | 50 | [Run It Up](https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Run It Up](https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq) | 2:58 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDk4N2NmMDUwODk4MWVjMGE0NmQwYTQxNTcyZjllYTRk`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDdiZDgyMjg4MGFiMmI1NWIwNGJjMWNiMjE1ZWQ2ZGFi`

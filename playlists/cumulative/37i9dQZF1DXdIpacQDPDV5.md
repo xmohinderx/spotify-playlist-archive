@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Tiësto, Tate McRae
 
-552 songs - 1 day 7 hr 34 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
+553 songs - 1 day 7 hr 38 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,8 @@
 | [Where Do We Go](https://open.spotify.com/track/5fBBhQfbpkYpGc0Qcax4FN) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Where Do We Go](https://open.spotify.com/album/4HNIEO4z4B9iXPW8ywV01E) | 2:30 | 2022-09-16 | 2022-10-15 |
 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-04-22 | 2022-05-14 |
 | [Wherever You Go \(feat\. John Martin\)](https://open.spotify.com/track/2tsArM8er9gkqiN4XiaW3r) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Wherever You Go \(feat\. John Martin\)](https://open.spotify.com/album/1mkiHxOjzK6O2WxQgyO4Hd) | 3:20 | 2021-12-31 | 2022-02-19 |
-| [Whitney](https://open.spotify.com/track/0zJBJSTeGKZuXOnVyFxkjd) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/61M0m1vZBq2Tj7m2R7dPKE) | 3:11 | 2022-10-07 |  |
+| [Whitney](https://open.spotify.com/track/0zJBJSTeGKZuXOnVyFxkjd) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/61M0m1vZBq2Tj7m2R7dPKE) | 3:11 | 2022-10-07 | 2022-11-10 |
+| [Whitney](https://open.spotify.com/track/3wnV3a1u6QgSzKPZl5v67c) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/3Gptzy7Tre8g8yif8Slyj7) | 3:11 | 2022-10-07 |  |
 | [Wide Awake](https://open.spotify.com/track/67V4jumh3KeYtekP8ggy6i) | [Outwild](https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W) | [Wide Awake](https://open.spotify.com/album/1A9lTISWDSu04MUbGXGoLt) | 4:16 | 2021-12-31 | 2022-01-29 |
 | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-10 | 2022-07-23 |
 | [Wish It Was You](https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Cate Downey](https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn) | [Wish It Was You](https://open.spotify.com/album/75wWmFkPXHTTbw47RRvuvb) | 3:12 | 2022-03-11 | 2022-06-18 |

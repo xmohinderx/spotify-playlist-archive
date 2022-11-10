@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,072 likes - 93 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,271 likes - 93 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 50 | [Thayya Thayya \(From "Uyire"\)](https://open.spotify.com/track/7MJL98mvKTj9ZUIasgqPa2) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Subha](https://open.spotify.com/artist/1wLg8vfE4nshGpjohoeXeQ) | [Hits of A.R.Rahman Nenjame](https://open.spotify.com/album/3iKVYlP2xoFhuDhXOWZt9b) | 6:49 |
 | 51 | [Varayo En Thozhi](https://open.spotify.com/track/0LA3US8io1lgFoY7YSypct) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Jeans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tJng3wvP3e4VXTadYCKYp) | 5:48 |
 | 52 | [Nayagra](https://open.spotify.com/track/745aajKtj83m03Bdksc387) | [Sriram](https://open.spotify.com/artist/1Ai99TpUOqx8ktHgdxH8kU), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [En Swasa Kaatre](https://open.spotify.com/album/1AShgi69eqjHbr34SFaves) | 5:00 |
-| 53 | [EMPEARU PADAIYAPPA](https://open.spotify.com/track/2KymsRETufVngoXJe1ZzY2) | [S P B](https://open.spotify.com/artist/5h8x1Ti2lU5zmlPDydjEMa) | [A.R.RAHMAN VIBRATION](https://open.spotify.com/album/2xcX4329gzbTfJu6xc0Kui) | 5:25 |
+| 53 | [EMPEARU PADAIYAPPA](https://open.spotify.com/track/2KymsRETufVngoXJe1ZzY2) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [A.R.RAHMAN VIBRATION](https://open.spotify.com/album/2xcX4329gzbTfJu6xc0Kui) | 5:25 |
 | 54 | [Poralea Ponnu Thai\-Happy](https://open.spotify.com/track/1nMnhtBGhdwu04naNw2mbf) | [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Karuthamma](https://open.spotify.com/album/5YJelfY5sPdfUNzgka0yOW) | 5:42 |
 | 55 | [Madrasa Suthi Paakka](https://open.spotify.com/track/2iurBc4VsogGickGwVU08W) | [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 4:50 |
 | 56 | [Oru Thuli](https://open.spotify.com/track/6wQ5javGqRoOGvlBxpMqRz) | [M.G.Sureshkumar](https://open.spotify.com/artist/41iyfQra9BGMiForKQXJzU), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [En Swasa Kaatre](https://open.spotify.com/album/1AShgi69eqjHbr34SFaves) | 5:47 |

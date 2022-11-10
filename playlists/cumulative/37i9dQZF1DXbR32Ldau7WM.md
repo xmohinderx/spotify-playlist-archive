@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: Ulfuls\(ウルフルズ\)
 
-383 songs - 1 day 1 hr 9 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+384 songs - 1 day 1 hr 12 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,8 @@
 | [You To You](https://open.spotify.com/track/66GEPhYAtcsWI7GThQcixQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt), [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [You To You](https://open.spotify.com/album/0Uyi2JOBe0wmMPZbF16P2L) | 4:01 | 2022-05-10 | 2022-09-21 |
 | [Young Japanese](https://open.spotify.com/track/7Dko3seRRMWbzZdO0mjUb5) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [KNO WHERE](https://open.spotify.com/album/4QJ6SkhX8oPhsrkYkaybVm) | 4:34 | 2022-05-12 | 2022-06-04 |
 | [YUME O MOTO](https://open.spotify.com/track/4nThYWGPWFHPBSdumRyopx) | [Yoko Ono & Plastic Ono Super Band](https://open.spotify.com/artist/2s7B7uO33VlnxIUk7OhQ6f) | [YUME O MOTO](https://open.spotify.com/album/4QzzPg1n4sq3T5lUzcVcvU) | 3:32 | 2022-07-19 | 2022-07-27 |
-| [Zanshin](https://open.spotify.com/track/3uXTMl8KvW3oS22uaFk2bM) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Seimei](https://open.spotify.com/album/6GQ97EX8TfWzw0JjoFw4MS) | 3:24 | 2022-11-08 |  |
+| [Zanshin](https://open.spotify.com/track/3uXTMl8KvW3oS22uaFk2bM) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Seimei](https://open.spotify.com/album/6GQ97EX8TfWzw0JjoFw4MS) | 3:24 | 2022-11-08 | 2022-11-10 |
+| [Zanshin](https://open.spotify.com/track/7nNnwATQnctS6yLREghFwO) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Seimei](https://open.spotify.com/album/6jQP5MIL7cCNHeWxyl8ryg) | 3:24 | 2022-11-08 |  |
 | [○か×](https://open.spotify.com/track/2VbxCJgAXOYcf5ashGYuHh) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [○か×](https://open.spotify.com/album/0Ew3ozhOSJz96Np4YTWPXB) | 3:51 | 2022-05-12 | 2022-07-26 |
 | [あなたがどこかで](https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK) | [Anzen Chitai](https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC) | [あなたがどこかで](https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF) | 4:40 | 2022-07-19 | 2022-08-17 |
 | [ある朝](https://open.spotify.com/track/3a2qX03Ctq69PEqG89cDM9) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [CORE 4](https://open.spotify.com/album/3TXOMUTuFQGhPOpNEYdUCq) | 4:00 | 2022-05-10 | 2022-07-13 |

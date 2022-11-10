@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,725 likes - 34 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,736 likes - 34 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 27 | [Julie And Candy](https://open.spotify.com/track/7bgtelfoppWqHtwkQudvod) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 5:30 |
 | 28 | [Telepath](https://open.spotify.com/track/4oQkvCJqnX5kbc0ZnB0z4n) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 1:32 |
 | 29 | [Heard From Telegraph Lines](https://open.spotify.com/track/72fa7xnZfwJdH1bbMzeRvx) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y) | 1:09 |
-| 30 | [Sixtyniner](https://open.spotify.com/track/5PC3XlGumMa31O5sKWTp1s) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 5:17 |
+| 30 | [Iced Cooly](https://open.spotify.com/track/2puMrk8At4ws8Yo92320F7) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 2:22 |
 | 31 | [Amo Bishop Roden](https://open.spotify.com/track/1oeovPFdMfedh7VpbXg6YP) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:16 |
 | 32 | [Cold Earth](https://open.spotify.com/track/7aXWNIZMxTzU76bdmajx9c) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 3:42 |
 | 33 | [Left Side Drive](https://open.spotify.com/track/47wSsypqjVoZ7XaGIp1aOV) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y) | 5:20 |
-| 34 | [Iced Cooly](https://open.spotify.com/track/2puMrk8At4ws8Yo92320F7) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 2:22 |
+| 34 | [Sixtyniner](https://open.spotify.com/track/5PC3XlGumMa31O5sKWTp1s) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 5:17 |
 
-Snapshot ID: `Mjc3OTg2MzgsMDAwMDAwMDBjZmZmNjMyNmJlMDUzZjY2YTIxM2VjNzFhMDgyMTQwOQ==`
+Snapshot ID: `Mjc4MDA0MzMsMDAwMDAwMDBlYTMzYjFiZGRiMjMwZTBjYjlmMGMyYzAyYmVmMjY5OA==`

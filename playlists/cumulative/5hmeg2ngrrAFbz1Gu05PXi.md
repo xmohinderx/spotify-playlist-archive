@@ -4,7 +4,7 @@
 
 > Get into the flow and stay focused while writing code with music curated by the JetBrains team.
 
-104 songs - 9 hr 44 min - not published yet
+105 songs - 9 hr 49 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Nightwalking Your Memory \- 2011 Remaster](https://open.spotify.com/track/65gjEjrifNIm9MzuEhMoFs) | [Vector Lovers](https://open.spotify.com/artist/2LK47LL5KdPAUJKFffzp9B) | [Electrospective](https://open.spotify.com/album/2TVzGGiNCrkuIJpZHBRpP9) | 5:06 | 2022-10-18 |  |
 | [Nocturne](https://open.spotify.com/track/0QN5omDLKQj8Mdg3cajMuN) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Nocturne](https://open.spotify.com/album/4SudslF0viVWGzFWmydBOZ) | 9:08 | 2022-10-18 |  |
 | [Opus One](https://open.spotify.com/track/3SQyguPI469Poain6nfS8e) | [Russ Liquid](https://open.spotify.com/artist/70zLeNeu4AAUaQ14AC4P8J) | [Purple](https://open.spotify.com/album/6n9lnsZXg5rwOQgPvR4fjS) | 5:17 | 2022-10-18 |  |
+| [Osaka \- Live from One Nite Alone Tour 2002](https://open.spotify.com/track/00VcdK7TplYqEfSyU7daNR) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [C\-Note \- Live](https://open.spotify.com/album/7397gM3NEPihmOn5FqrTRe) | 5:40 | 2022-11-09 |  |
 | [Overhead](https://open.spotify.com/track/1QuON1epjuRDg6PbGGLKCb) | [Professor Kliq](https://open.spotify.com/artist/6hEcaHTpPQm6jLrbkUKREW) | [The Scientific Method, Vol 2](https://open.spotify.com/album/7gf1BNF4YoliT6y24RSUhb) | 5:15 | 2022-10-18 |  |
 | [Pluto](https://open.spotify.com/track/4v2qF5diFRuFbTVHwZxNMp) | [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Pluto](https://open.spotify.com/album/4kYiNJPycfJZ3ZwBPzIWkt) | 3:16 | 2022-10-18 |  |
 | [Polynomial\-C](https://open.spotify.com/track/3iHGhKJc0OR5m37pVyRLrQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 4:46 | 2022-10-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > The chillest beats to help you relax, study, code, and focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,788,834 likes - 999 songs - 1 day 14 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,790,058 likes - 999 songs - 1 day 14 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -859,7 +859,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 849 | [Jazz](https://open.spotify.com/track/3LkmrB45KwmI3pgBNv5qKX) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD), [Retrogott](https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll) | [One For: Two](https://open.spotify.com/album/1mrm4vTTNxy0c2caYq54NP) | 2:28 |
 | 850 | [light breeze](https://open.spotify.com/track/2Q6U5dHI5X0k4jG8Zbww8F) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [light breeze](https://open.spotify.com/album/6tNzcgbxRRZaLctoLugAX7) | 2:49 |
 | 851 | [Don't Stray Away](https://open.spotify.com/track/6WiBzyam0QGbAGSr0chfGj) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Don't Stray Away](https://open.spotify.com/album/7wkzqfjzraUS0epKMA2WEZ) | 2:17 |
-| 852 | [outer star](https://open.spotify.com/track/1jNdqPWWOEWYD9jjg8ioZd) | [ideism](https://open.spotify.com/artist/2ZefBt3a3W5DsYp5fq8AwS) | [outer star](https://open.spotify.com/album/3E06YIcXF0IV1pZ7FSSWhv) | 1:57 |
+| 852 | [outer star](https://open.spotify.com/track/1jNdqPWWOEWYD9jjg8ioZd) | [ideism](https://open.spotify.com/artist/2ZefBt3a3W5DsYp5fq8AwS) | [outer star](https://open.spotify.com/album/3E06YIcXF0IV1pZ7FSSWhv) | 1:56 |
 | 853 | [Mañana Azul](https://open.spotify.com/track/42rCkrcSIJJBc7OwHpMISr) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Mañana Azul](https://open.spotify.com/album/6otGUG8HMZQ13FyZp73SlD) | 1:52 |
 | 854 | [Palm Trees](https://open.spotify.com/track/4xhiLoqy4rgSPSxMKc0jyC) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF), [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Palm Trees](https://open.spotify.com/album/64RvgaNZYRbJ5GDfPxhhKX) | 1:32 |
 | 855 | [Delayed](https://open.spotify.com/track/6FNa183UTSc2bgY1hjCBnV) | [Polo Stay](https://open.spotify.com/artist/35X6RkVD3pG5UtrPcNWEiC) | [Delayed](https://open.spotify.com/album/3DYdEuCp1Fp1W3SVYtdX2g) | 1:57 |

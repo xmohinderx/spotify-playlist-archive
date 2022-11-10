@@ -4,15 +4,15 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Kali\-B, Artwork: Isu Kim
 
-85 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/5WHUFzJa9ZzmLS4KcMCdPY)
+86 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/5WHUFzJa9ZzmLS4KcMCdPY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afkar Galbi](https://open.spotify.com/track/17oyrFSekVUCCx4YoFhsGR) | [Ghada Sheri](https://open.spotify.com/artist/7c1eMleZFWsvk2Z0PCrai0) | [Afkar Galbi](https://open.spotify.com/album/75PZWlpBqgRcZa1LHCSmvk) | 4:32 | 2022-09-20 | 2022-11-09 |
 | [All On You](https://open.spotify.com/track/76CER1W49x9F01Z7ZwJ6Oa) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [All On You](https://open.spotify.com/album/4x1NJpdoUhSKs1yXag2zXy) | 3:07 | 2022-09-20 | 2022-10-05 |
-| [ARMANI](https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN) | [Papii](https://open.spotify.com/artist/1kM5oRCVuQgb3oOtGqGHu8) | [ARMANI](https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1) | 3:24 | 2022-11-01 |  |
+| [ARMANI](https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN) | [Papii](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [ARMANI](https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1) | 3:24 | 2022-11-01 |  |
 | [Back to you](https://open.spotify.com/track/334zuvClv7JYENjupg71GT) | [THE SVNH](https://open.spotify.com/artist/5uPlfGiZu46QlnaDYkcbAm) | [Back to you](https://open.spotify.com/album/7umWTAON78uAbqlZlVLuFO) | 3:05 | 2022-10-04 |  |
-| [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 | 2022-10-19 |  |
+| [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 | 2022-10-19 | 2022-11-10 |
 | [Bako](https://open.spotify.com/track/5nO62GzQVuXyos3rrh4v7f) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [Bako](https://open.spotify.com/album/57iBcfM3UGV6AaNYjDbmcc) | 3:03 | 2022-09-20 |  |
 | [Balaleen](https://open.spotify.com/track/081geJirqbAxZUJE0u7ca7) | [Zatara](https://open.spotify.com/artist/5WOif35LUAZ7VfSmpELcQF) | [Balaleen](https://open.spotify.com/album/7MmRjxq4Nca5nBqSDMqNwS) | 3:12 | 2022-09-20 |  |
 | [Bin Nass](https://open.spotify.com/track/60WuyNSGd6SxDYoPviKHj0) | [Sofco](https://open.spotify.com/artist/3E9ui9b6vhr7yVLpcw0tK0), [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Bin Nass](https://open.spotify.com/album/3kvL2ysRWdUI73adglwS6P) | 3:58 | 2022-09-20 |  |
@@ -28,6 +28,7 @@
 | [El 3elba](https://open.spotify.com/track/3HMGWElTSffEE4MAZi8s9l) | [Ma\-Beyn](https://open.spotify.com/artist/56BacvMJfiNke5Sb6VOcQR), [Kamikazem](https://open.spotify.com/artist/0FAbIDfnnY3RRlj97zPj6h), [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [El 3elba](https://open.spotify.com/album/40rnzvnxdna70I5ENxUABY) | 3:29 | 2022-09-20 | 2022-11-09 |
 | [El Donia Beta3ti](https://open.spotify.com/track/0D7avy8sOXIcY4ZDWuHO7R) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El Donia Beta3ti](https://open.spotify.com/album/1DZgnVuOlcIiXskI9HkYMe) | 2:50 | 2022-09-20 | 2022-09-28 |
 | [Enti Wain](https://open.spotify.com/track/6DnxbM3gMaRubNRtZPPEGe) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8), [Farah Ezz](https://open.spotify.com/artist/7uxrmh9NRirDOmHxXGblih) | [Enti Wain](https://open.spotify.com/album/6my5pq16NfKv3xiY2QSbSD) | 3:38 | 2022-09-20 |  |
+| [Faqat Ala Bali](https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Faqat Ala Bali](https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P) | 6:43 | 2022-11-09 |  |
 | [Flight of Time](https://open.spotify.com/track/6jNFBaCURvVWBncn0GrZD2) | [Juno](https://open.spotify.com/artist/65cCRej79ekIxVA81UtCJD) | [Flight of Time](https://open.spotify.com/album/1RRhXcBViJOhNHSDeFKmhB) | 4:00 | 2022-11-08 |  |
 | [FRT](https://open.spotify.com/track/14wdMY6YXpn5YrdpYj4OKC) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP) | [CAI](https://open.spotify.com/album/0L2EvkTjujikOMssqPXYLJ) | 2:48 | 2022-09-20 | 2022-11-02 |
 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 | 2022-09-20 |  |

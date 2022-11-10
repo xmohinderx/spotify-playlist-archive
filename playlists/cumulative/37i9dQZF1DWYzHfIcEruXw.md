@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-104 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/6Mrcb5TgcGmbpW1GW9qeTX)
+105 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/6Mrcb5TgcGmbpW1GW9qeTX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Ikenai Borderline \-album version\-](https://open.spotify.com/track/0gg1K0zwcNaYyzMeKpRNxT) | [Walkure](https://open.spotify.com/artist/4b1IVV9meynYx65WpsxjbT) | [TV Animation "MACROSS DELTA" VOCAL SONGS COLLECTION "Walkure Attack!"](https://open.spotify.com/album/2nQJ2Eyi1uAwWcYXeYx6xP) | 4:39 | 2021-12-21 |  |
 | [JOJO SONO CHINO SADAME](https://open.spotify.com/track/08q2CrXYf1ZaMbcKViPdVA) | [Hiroaki Tommy Tominaga](https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ) | [JOJO SONO CHINO SADAME](https://open.spotify.com/album/0t9GYCbtohYvtA60qUBCHa) | 4:22 | 2021-12-21 |  |
 | [Koi wo Shita nowa](https://open.spotify.com/track/4djnzEBxRzNkitxZRPGmzy) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Shimetta Natsu no Hajimari](https://open.spotify.com/album/6vpsmEKP8UPBJW8uzdY06r) | 6:00 | 2021-12-21 |  |
-| [Make it!](https://open.spotify.com/track/4NhJWyPv20hIvs5oDP0Jga) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Make it!](https://open.spotify.com/album/00qBnGSGC1qtAWPVys6cxB) | 4:12 | 2021-12-21 |  |
+| [Make it!](https://open.spotify.com/track/4NhJWyPv20hIvs5oDP0Jga) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Make it!](https://open.spotify.com/album/00qBnGSGC1qtAWPVys6cxB) | 4:12 | 2021-12-21 | 2022-11-10 |
+| [Make it!](https://open.spotify.com/track/5d1ElKPz3XIOJnU9h7zh6t) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [10th Anniversary Best Album 〜Best i☆Rist〜](https://open.spotify.com/album/0WfFLFywmHvtexaH2fwLFQ) | 4:12 | 2022-09-15 |  |
 | [Make it!](https://open.spotify.com/track/0JJZiPzGv2WnzMSmFqO0jl) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [We are i☆Ris!!!](https://open.spotify.com/album/3I490xGVtOveSoXdImJAnF) | 4:13 | 2021-12-21 | 2022-07-29 |
 | [POP TEAM EPIC](https://open.spotify.com/track/0SzGRRMqDBNccIvnGZXXxx) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [No Future Vacances](https://open.spotify.com/album/2eKeOy5KT2TazBeimpXwbm) | 5:23 | 2021-12-21 |  |
 | [POP TEAM EPIC](https://open.spotify.com/track/1wKNjt94Q6xdcHAuW5Wviz) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [POP TEAM EPIC](https://open.spotify.com/album/5sTss5hT7jCWFPoG6ue2Ho) | 5:23 | 2021-12-21 | 2022-07-29 |

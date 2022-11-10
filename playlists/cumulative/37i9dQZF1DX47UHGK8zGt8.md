@@ -4,7 +4,7 @@
 
 > Músicas calminhas pra começar o dia bem relax.
 
-178 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/3Prl0c7SA1E9u4rw7chWDq)
+179 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/3Prl0c7SA1E9u4rw7chWDq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Horizonte](https://open.spotify.com/track/53M78qKCQ1PVoqnzqE94VH) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Horizonte](https://open.spotify.com/album/4InM7tZt258Z6hSGDLPpgj) | 3:23 | 2022-04-01 | 2022-05-07 |
 | [imagina amar assim](https://open.spotify.com/track/0PmLsegy4g7Tgmc0C9jM61) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1), [bibi](https://open.spotify.com/artist/5psPyNU0Tac7jGsyaqOFR4) | [imagina amar assim](https://open.spotify.com/album/6YMf5PbWziwj5LVrU1dLUr) | 3:00 | 2022-03-11 | 2022-06-20 |
 | [Isn't She Lovely](https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT) | [Lorenza Pozza](https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1) | [Música para Casar](https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V) | 2:29 | 2022-02-18 |  |
-| [Isn't She Lovely](https://open.spotify.com/track/23H8PpuhyTDHwpqcDm7vS6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 1:26 | 2022-04-01 |  |
+| [Isn't She Lovely](https://open.spotify.com/track/23H8PpuhyTDHwpqcDm7vS6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 1:26 | 2022-04-01 | 2022-11-10 |
 | [Júpiter \- Ao Vivo](https://open.spotify.com/track/0TkJ5VPDunXaQYNhScQyN4) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 2:16 | 2022-02-18 | 2022-07-29 |
 | [Laranja](https://open.spotify.com/track/6EsNWwwiqfz6BYYHFu9wRX) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6), [Maria Elisa](https://open.spotify.com/artist/3s2VC4vZf2n2Tp0ytgQKzM) | [Laranja](https://open.spotify.com/album/5ON7XQlF2J9ajh6kF64G0h) | 2:24 | 2022-04-01 | 2022-07-14 |
 | [Lenda](https://open.spotify.com/track/44lq0DN2TWWfKzstAzKLXJ) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 4:19 | 2022-04-01 | 2022-04-16 |
@@ -121,6 +121,7 @@
 | [Nasce o Sol: Ame a Vida](https://open.spotify.com/track/4wSLNuZH5y7gc7pjcgsmSK) | [João Figueiredo](https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL), [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Nasce o Sol: Ame a Vida](https://open.spotify.com/album/1EnvyB0GF8Kanfr3CQxXge) | 3:04 | 2022-02-18 | 2022-07-29 |
 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 | 2022-08-12 |  |
 | [nosso canto](https://open.spotify.com/track/17lHEqIcsyNsMUQrAtBWlt) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nosso canto](https://open.spotify.com/album/0j3EzUqUgTI1Wa71ud5k0p) | 2:56 | 2022-04-01 | 2022-04-15 |
+| [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 |  |
 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 | 2022-02-18 |  |
 | [Nós](https://open.spotify.com/track/5BaV9uCTJCWUaLOEmywEt2) | [Camilla Leonel](https://open.spotify.com/artist/7gOLPtcQXX082ZRRur3sZx) | [Nós](https://open.spotify.com/album/0AqZ1Qe1sbujXUQL2d6OEQ) | 3:58 | 2022-02-18 | 2022-07-22 |
 | [Nós De Fronte](https://open.spotify.com/track/60BmDDRKmVPdlaoO9Uq9kl) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 3:04 | 2022-04-01 | 2022-04-20 |

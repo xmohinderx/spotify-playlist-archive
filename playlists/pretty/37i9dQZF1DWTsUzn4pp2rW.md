@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,115 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,180 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 99 | [All About You](https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK) | [Maluku Sweden Connection](https://open.spotify.com/artist/2Luu2OnjcDQJdg5dy3lvH7), [SheemaW](https://open.spotify.com/artist/3OF6dbxYfbAT1pavl8YFtl) | [All About You](https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA) | 4:20 |
 | 100 | [She's Awesome](https://open.spotify.com/track/52rIpC68rq8AgpAootOn7B) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [She's Awesome](https://open.spotify.com/album/6aPCC4FFb2kryUdUgAtjLN) | 4:40 |
 
-Snapshot ID: `MTY2Njc3NzQwMywwMDAwMDAwMDk1ZDIzN2Q2ZTJkMjkxYzdiZDNlMDAxYTg1MGE2ODU5`
+Snapshot ID: `MTY2Nzk5NTYyMywwMDAwMDAwMDFkMWZjNDhkMWM5ZmI3YTFiOGQ2MmIzMzhjMjY2ZjU2`

@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-117 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/0HPVZryw84KNhQatZ72i3g)
+118 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/0HPVZryw84KNhQatZ72i3g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Synergy \- Nonameleft Remix](https://open.spotify.com/track/3fPucR04bxFLQgD8qHl8Pq) | [Flanko](https://open.spotify.com/artist/45g5ClZMjUBX1qwQBSs843), [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT) | [Synergy](https://open.spotify.com/album/15PPWV7GO8IGjqrKHDW1dS) | 6:50 | 2022-07-11 | 2022-07-13 |
 | [Teatro](https://open.spotify.com/track/5wDHm6XJA1vkysHDPdI8Db) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [Teatro](https://open.spotify.com/album/6t3Zksrkbhfkf8UOzBVn9k) | 6:44 | 2022-10-28 |  |
 | [Terra](https://open.spotify.com/track/5sxjDcq1CPIQ6pmLbMRY1o) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Terra](https://open.spotify.com/album/2HE22ZqykGRTdLjqrTJuVN) | 6:50 | 2022-07-05 | 2022-07-28 |
-| [The Age Of Love \- Charlotte de Witte & Enrico Sangiuliano Remix](https://open.spotify.com/track/6X6Ow0iioCrYQSK1QDHQbC) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\)](https://open.spotify.com/album/6Ozmnoay8pclUfUO8CWKLU) | 8:09 | 2022-07-05 |  |
+| [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\)](https://open.spotify.com/track/6R84ZlQF7gGkPB6o3GLZXB) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\) \[Charlotte de Witte & Enrico Sangiuliano Remix \- Edit\]](https://open.spotify.com/album/7CXTNkULXDTd2oHt4S9dp7) | 8:09 | 2022-10-28 |  |
+| [The Age Of Love \- Charlotte de Witte & Enrico Sangiuliano Remix](https://open.spotify.com/track/6X6Ow0iioCrYQSK1QDHQbC) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\)](https://open.spotify.com/album/6Ozmnoay8pclUfUO8CWKLU) | 8:09 | 2022-07-05 | 2022-11-10 |
 | [The Arrival](https://open.spotify.com/track/4OP9HNd8yYK6pyQjApRPoX) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [The Arrival](https://open.spotify.com/album/1hYeOP80ItSSvOKXdiapqY) | 4:09 | 2022-07-05 | 2022-07-27 |
 | [The Door](https://open.spotify.com/track/2R5j17Th87vImCG2YEQY6p) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [The Door](https://open.spotify.com/album/66aDv1U1CYdiipT7fS4Z17) | 6:18 | 2022-07-05 |  |
 | [The Outsiders \- T78 Remix](https://open.spotify.com/track/0qP89hbMRlounSq9QDSK6v) | [Christian Cambas](https://open.spotify.com/artist/0xTHDDgrTLK87pC4blqD6j), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [The Outsiders](https://open.spotify.com/album/3mowlp2V47vxB53ER6kCDn) | 5:13 | 2022-07-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y71ufjoyXC.md) - [plain]
 
 > Las que no sabes que te sabes\. 🤳🏽
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,949 likes - 36 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,062 likes - 36 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

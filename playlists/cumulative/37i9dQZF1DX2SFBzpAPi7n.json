@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: N.Flying(\uc5d4\ud50c\ub77c\uc789)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d\uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Jukjae(\uc801\uc7ac)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "published_playlist_ids": [
     "6LGjkxX0dG6eEuNv9EUWQY"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 206080,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8"
@@ -968,6 +968,24 @@
     },
     {
       "album": {
+        "name": "iii",
+        "url": "https://open.spotify.com/album/2gv803EGREwibN37uQk2Em"
+      },
+      "artists": [
+        {
+          "name": "ABTB",
+          "url": "https://open.spotify.com/artist/4xS1C9pM9EoHEM1Gxxzf4m"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226408,
+      "name": "BULLY",
+      "url": "https://open.spotify.com/track/4A0BDmZFJY7cXhGRaRIjb1"
+    },
+    {
+      "album": {
         "name": "Frankly I\u2026",
         "url": "https://open.spotify.com/album/3ceIIgqr4ot4QBpdCALSzJ"
       },
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 177400,
       "name": "C.I.T.T (Cheese in the Trap)",
       "url": "https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY"
@@ -2796,6 +2814,28 @@
     },
     {
       "album": {
+        "name": "I said I luv you (feat. Tmlm)",
+        "url": "https://open.spotify.com/album/0Vr115jnmk6xrPiIkLQSlP"
+      },
+      "artists": [
+        {
+          "name": "THE PIECES",
+          "url": "https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY"
+        },
+        {
+          "name": "Tmlm",
+          "url": "https://open.spotify.com/artist/7rsw8mF7bN04zh6tLCfREA"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183430,
+      "name": "I said I luv you (feat. Tmlm)",
+      "url": "https://open.spotify.com/track/16YzPu7PyTiHUzvABCklIy"
+    },
+    {
+      "album": {
         "name": "I Will Fly",
         "url": "https://open.spotify.com/album/0PYUc9urpMM3Om507HDmvV"
       },
@@ -3493,6 +3533,28 @@
       "duration_ms": 205826,
       "name": "Light UP",
       "url": "https://open.spotify.com/track/16aCdXdUqHMwt9lZCXPpav"
+    },
+    {
+      "album": {
+        "name": "The LIGHTS",
+        "url": "https://open.spotify.com/album/2QtJUE3h7lHsKAUnTlNV4U"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227813,
+      "name": "Lights (Feat. Yerin Baek)",
+      "url": "https://open.spotify.com/track/1srir2eS2n9AlI3v13cdDx"
     },
     {
       "album": {
@@ -4951,7 +5013,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 160466,
       "name": "Rawww",
       "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
@@ -5889,7 +5951,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 219746,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
@@ -7267,6 +7329,24 @@
       "duration_ms": 206250,
       "name": "Young",
       "url": "https://open.spotify.com/track/4nlTKc5u6qiToCqjr3Z5IE"
+    },
+    {
+      "album": {
+        "name": "NINE.i The 2nd Mini Album [I (Part.1)]",
+        "url": "https://open.spotify.com/album/6ujhSpmWkRGIgKDin3WKlZ"
+      },
+      "artists": [
+        {
+          "name": "NINE.i",
+          "url": "https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210853,
+      "name": "Young Boy",
+      "url": "https://open.spotify.com/track/2XRbYuPcNo5xlScjMxy2pX"
     },
     {
       "album": {

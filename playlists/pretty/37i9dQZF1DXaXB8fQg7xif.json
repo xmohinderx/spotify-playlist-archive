@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Move</a> your feet!",
-  "num_followers": 4907537,
+  "num_followers": 4907959,
   "original_name": "Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk3NTcxMSwwMDAwMDAwMDNhMTBhYmVjNGU0ZmFkMWU0ODU5NjUxM2QxOTEzM2Y3",
+  "snapshot_id": "MTY2Njk3NTcxMSwwMDAwMDAwMGUzMjU0M2U2ZGRlYWQzNDJkNTE2YjQ4YTE2ZTYyYWJj",
   "tracks": [
     {
       "added_at": "2022-10-28 16:48:31",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-10-28 16:48:31",
       "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 250702,
+      "name": "Delilah (pull me out of this)",
+      "url": "https://open.spotify.com/track/67uX1e9gIoumz0U8ayaOiO"
+    },
+    {
+      "added_at": "2022-10-28 16:48:31",
+      "album": {
         "name": "WET TENNIS",
         "url": "https://open.spotify.com/album/1u54eF07irCSSssyDG67R2"
       },
@@ -1719,30 +1735,6 @@
     {
       "added_at": "2022-10-28 16:48:31",
       "album": {
-        "name": "Anywhere With You",
-        "url": "https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ"
-      },
-      "artists": [
-        {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 158807,
-      "name": "Anywhere With You",
-      "url": "https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS"
-    },
-    {
-      "added_at": "2022-10-28 16:48:31",
-      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -1763,6 +1755,30 @@
       "duration_ms": 186805,
       "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
       "url": "https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u"
+    },
+    {
+      "added_at": "2022-10-28 16:48:31",
+      "album": {
+        "name": "Anywhere With You",
+        "url": "https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ"
+      },
+      "artists": [
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 158807,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS"
     },
     {
       "added_at": "2022-10-28 16:48:31",
@@ -1891,22 +1907,6 @@
       "duration_ms": 164739,
       "name": "Off Of My Mind",
       "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
-    },
-    {
-      "added_at": "2022-10-28 16:48:31",
-      "album": {
-        "name": "Delilah (pull me out of this)",
-        "url": "https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 250702,
-      "name": "Delilah (pull me out of this)",
-      "url": "https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn"
     },
     {
       "added_at": "2022-10-28 16:48:31",

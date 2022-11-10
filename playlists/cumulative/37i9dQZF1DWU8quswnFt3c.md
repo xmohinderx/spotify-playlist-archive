@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Manal
 
-827 songs - 1 day 21 hr 36 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+828 songs - 1 day 21 hr 39 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [Mermaid Avenue](https://open.spotify.com/track/72qBzteCINzfZGqOCkD4sA) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Mermaid Avenue](https://open.spotify.com/album/6mdXgYc7y2rHgMEvk0oU0t) | 3:08 | 2022-10-11 | 2022-11-03 |
 | [Mesero](https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mesero](https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79) | 2:20 | 2022-06-01 | 2022-07-07 |
 | [Meu Guri](https://open.spotify.com/track/7v55rfDU0GdYkfcqGF77ks) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Meu Guri](https://open.spotify.com/album/7DDRi1Dqg5EdB5pZgHc9zR) | 3:04 | 2022-05-04 | 2022-06-01 |
-| [mexico city](https://open.spotify.com/track/4yl95JyeOUopdg7GXlnY0o) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:27 | 2022-11-02 |  |
+| [mexico city](https://open.spotify.com/track/4yl95JyeOUopdg7GXlnY0o) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:27 | 2022-11-02 | 2022-11-10 |
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-07 | 2022-10-05 |
 | [Mienteme](https://open.spotify.com/track/1FRXYqJfNWcNCsuvsAPtHa) | [Katie Angel](https://open.spotify.com/artist/0yLrby88zlSxFax5EMnTGf) | [Game Over](https://open.spotify.com/album/1WI4WQY8cAYwofWkmqyZm9) | 2:24 | 2022-02-02 | 2022-03-09 |
 | [Milkshake](https://open.spotify.com/track/1l2vMP0Cov7ogJOF2l6MXm) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Milkshake](https://open.spotify.com/album/1T9A30JUrolQtPiDHxwDiG) | 3:42 | 2022-10-04 | 2022-11-03 |
@@ -609,6 +609,7 @@
 | [SHUT UP](https://open.spotify.com/track/3uuohe7EVxzW8UqnSIAAuc) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX), [Blackthoven](https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS) | [SHUT UP](https://open.spotify.com/album/7llnim2vHi8vZJAsshGC34) | 2:47 | 2022-02-02 | 2022-03-09 |
 | [Si Quieres Tenerme](https://open.spotify.com/track/5aOYQ6P64bDwlsld671J7Z) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Evolución](https://open.spotify.com/album/4b9k435jzvtWVZ9OSM3QGA) | 3:27 | 2022-05-04 | 2022-07-07 |
 | [Si tu partais](https://open.spotify.com/track/5s00xWzEShgkVRi0xbmqdA) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Si tu partais](https://open.spotify.com/album/3q2x9KFgw42VM9YJd3h5sj) | 3:49 | 2022-07-06 | 2022-08-04 |
+| [sideways \- Spotify Singles](https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ) | 2:37 | 2022-11-09 |  |
 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 | 2022-10-04 | 2022-11-03 |
 | [Sigurado](https://open.spotify.com/track/5szDp0NMCiXUChV3xmKXRl) | [Aly Remulla](https://open.spotify.com/artist/15yoZTF21mcoOnY2qsFlOP) | [Sigurado](https://open.spotify.com/album/6DViOYi7TZQISY0rvMgqc1) | 5:44 | 2022-09-07 | 2022-10-05 |
 | [Silver Into Rain](https://open.spotify.com/track/6YP6K5XpZMIJ7WwQr2Wa6h) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/2T2LSGT5K9mw9miI1CQB5B) | 3:21 | 2022-05-04 | 2022-06-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Manal",
-  "num_followers": 846792,
+  "num_followers": 846821,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk0ODQwMCwwMDAwMDAwMGFiZGY3N2VhYjY2NjcxMDdkYjFhZjY1YjQ3Yjc3ZTk0",
+  "snapshot_id": "MTY2ODAzMjA0NywwMDAwMDAwMGJkZGI0N2UzMzcyYTYyNWM0YzkzNWFjZDU1ZDNjOWE3",
   "tracks": [
     {
       "added_at": "2022-11-02 04:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "songs that you'll probably never hear, pt. 3",
-        "url": "https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1"
-      },
-      "artists": [
-        {
-          "name": "sad alex",
-          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
-        }
-      ],
-      "duration_ms": 147619,
-      "name": "mexico city",
-      "url": "https://open.spotify.com/track/4yl95JyeOUopdg7GXlnY0o"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "MY CREW (Friendless x Hugh Lake Remix)",
         "url": "https://open.spotify.com/album/3vWWwBYvHyjMiwk6zUTe7W"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 203240,
       "name": "3:30",
       "url": "https://open.spotify.com/track/3vt2uTPMsJtAABxhyxmU9u"
+    },
+    {
+      "added_at": "2022-11-09 22:14:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "duration_ms": 157661,
+      "name": "sideways - Spotify Singles",
+      "url": "https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo"
     }
   ],
   "unique_name": "EQUAL Global ",

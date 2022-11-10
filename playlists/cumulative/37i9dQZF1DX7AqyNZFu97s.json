@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Bricknasty",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Zino Vinci",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 177807,
       "name": "Aren't Up For Debate",
       "url": "https://open.spotify.com/track/3rIQNYblciqxkC8XoB6R5D"
@@ -1163,6 +1163,24 @@
       "duration_ms": 135789,
       "name": "BELLS LIKE BABY",
       "url": "https://open.spotify.com/track/0cPB5MvFBFmD8aOrXgb2yi"
+    },
+    {
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/4EoATUdsjZHs8gTuLeU5SO"
+      },
+      "artists": [
+        {
+          "name": "Gigi Moss",
+          "url": "https://open.spotify.com/artist/38NVCgrJsx212T9Tk3yMv6"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182693,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4MHlqY55fLORw98xsxw5Kl"
     },
     {
       "album": {
@@ -1878,6 +1896,24 @@
     },
     {
       "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/0mshkZL8ysrUYGe1gttkQz"
+      },
+      "artists": [
+        {
+          "name": "Thallo",
+          "url": "https://open.spotify.com/artist/18KqjLGyab2PDhaO986hIB"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209511,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/48gRN3yOvCqlfXNRx3EePu"
+    },
+    {
+      "album": {
         "name": "All Ears",
         "url": "https://open.spotify.com/album/6WCCZQdKJyGFyJpILgdc9b"
       },
@@ -1961,7 +1997,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 209120,
       "name": "Clown",
       "url": "https://open.spotify.com/track/6N6MhmQMWO09rnplkezTVM"
@@ -2679,7 +2715,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 187610,
       "name": "Didn't Earn This",
       "url": "https://open.spotify.com/track/0c72K1AxUdMm7xiuiGo1jz"
@@ -3913,7 +3949,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 196493,
       "name": "Get Unjaded",
       "url": "https://open.spotify.com/track/1vwSQHCdM0QEBQWxoUMfQs"
@@ -4271,7 +4307,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 246259,
       "name": "good enough",
       "url": "https://open.spotify.com/track/3DSuRVneU4kjxe4q15wRql"
@@ -5298,6 +5334,28 @@
     },
     {
       "album": {
+        "name": "Imperfect",
+        "url": "https://open.spotify.com/album/2v0LPlgjQfYpWZPOUnKCci"
+      },
+      "artists": [
+        {
+          "name": "JRDN",
+          "url": "https://open.spotify.com/artist/6EGkw3sUAwrAFOvPMwwbJn"
+        },
+        {
+          "name": "26Dexter",
+          "url": "https://open.spotify.com/artist/2x58C7JO8FQM30CK8oLVOQ"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216581,
+      "name": "Imperfect",
+      "url": "https://open.spotify.com/track/6DmM6pXyd5G8qtDZ7loqJA"
+    },
+    {
+      "album": {
         "name": "In my bed",
         "url": "https://open.spotify.com/album/0NLa2Sq7sJc5JL5Ozlk15H"
       },
@@ -5331,6 +5389,24 @@
       "duration_ms": 86085,
       "name": "in my head",
       "url": "https://open.spotify.com/track/4vq0nLeBakMh1dywdNm92E"
+    },
+    {
+      "album": {
+        "name": "In2you",
+        "url": "https://open.spotify.com/album/55WmVdXpFLvKiVh6fLhT1A"
+      },
+      "artists": [
+        {
+          "name": "Downtown Kayoto",
+          "url": "https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194106,
+      "name": "In2you",
+      "url": "https://open.spotify.com/track/4y6c69qw9NAWBpTq7bZS0W"
     },
     {
       "album": {
@@ -5645,7 +5721,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 164000,
       "name": "Jet Plane 5000",
       "url": "https://open.spotify.com/track/0YOVGM1hQKI3ulmWFxBYSO"
@@ -6117,6 +6193,24 @@
       "duration_ms": 150229,
       "name": "London Lights",
       "url": "https://open.spotify.com/track/65jktVYsXf2fBDt5qPZJWe"
+    },
+    {
+      "album": {
+        "name": "i wanna go home",
+        "url": "https://open.spotify.com/album/7MZwpJc0UQ0qzYIyAZ9eEy"
+      },
+      "artists": [
+        {
+          "name": "Mollie Coddled",
+          "url": "https://open.spotify.com/artist/6lWMJ1gvO93kPnIN9UnLQQ"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235073,
+      "name": "lonely bitch",
+      "url": "https://open.spotify.com/track/4DgBUVS6DeeqqaNHJVL14L"
     },
     {
       "album": {
@@ -6753,7 +6847,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 143576,
       "name": "Meal Deal",
       "url": "https://open.spotify.com/track/5qKqepzQPaif5QKoZNsiOU"
@@ -7211,7 +7305,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 267480,
       "name": "My Love",
       "url": "https://open.spotify.com/track/0xV9H4ED3bpdTQwYLy75D0"
@@ -7381,6 +7475,24 @@
       "duration_ms": 135924,
       "name": "NICE GUY",
       "url": "https://open.spotify.com/track/0ZddcKIfGkeINjDMjXKybe"
+    },
+    {
+      "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/7A9em2Pj98L87PVvMOeU2K"
+      },
+      "artists": [
+        {
+          "name": "China Bowls",
+          "url": "https://open.spotify.com/artist/3G3M7180YuAUBCuHjPZB00"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233945,
+      "name": "Night Owl",
+      "url": "https://open.spotify.com/track/0zmFisP6XyUX0ggHkEcLH6"
     },
     {
       "album": {
@@ -7985,7 +8097,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 215040,
       "name": "parallel universe",
       "url": "https://open.spotify.com/track/2TStz8EQoTEZR7DKdwVs2N"
@@ -8281,6 +8393,24 @@
       "duration_ms": 195000,
       "name": "Players Part",
       "url": "https://open.spotify.com/track/1kBGylDnYEnURR74H6XqNK"
+    },
+    {
+      "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/7d9dXCdAyHWSFzPvYm37g0"
+      },
+      "artists": [
+        {
+          "name": "Frankie Beetlestone",
+          "url": "https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161748,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/2bxQ0vcoBPjjeJlchmCejv"
     },
     {
       "album": {
@@ -8717,7 +8847,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 183453,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/2Rnhkst6SnHnESD8YyZZZm"
@@ -9222,6 +9352,24 @@
     },
     {
       "album": {
+        "name": "silent fears",
+        "url": "https://open.spotify.com/album/7hmJ6rWOuIgiNz6PgELSzT"
+      },
+      "artists": [
+        {
+          "name": "Echo Northstar",
+          "url": "https://open.spotify.com/artist/5q66lhChITVZtqRdZABjec"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233746,
+      "name": "silent fears",
+      "url": "https://open.spotify.com/track/52makQiBaMfeGD70kZDNnZ"
+    },
+    {
+      "album": {
         "name": "Silent Movie",
         "url": "https://open.spotify.com/album/1ZeT3LQu8fgK6Qc3BZX3CY"
       },
@@ -9305,7 +9453,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 144896,
       "name": "Skirts & Salads",
       "url": "https://open.spotify.com/track/1hU13my44YNmIVuNor31Te"
@@ -10038,6 +10186,24 @@
     },
     {
       "album": {
+        "name": "t.i.a.r",
+        "url": "https://open.spotify.com/album/09nox2TmiIx1AmsjJ3Lbsf"
+      },
+      "artists": [
+        {
+          "name": "Kai Kwasi",
+          "url": "https://open.spotify.com/artist/3yM6PXMY5PMPtJqDQXUuD3"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170480,
+      "name": "t.i.a.r",
+      "url": "https://open.spotify.com/track/6LB5pTXQkBhPASzd9LJMwl"
+    },
+    {
+      "album": {
         "name": "Take the Pain",
         "url": "https://open.spotify.com/album/4GnqZ5Y6vTKzeHVgkoOKvt"
       },
@@ -10287,10 +10453,28 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 188336,
       "name": "The Enemy",
       "url": "https://open.spotify.com/track/4yI37d71d5BQ1HMU4W8dCP"
+    },
+    {
+      "album": {
+        "name": "The Ghost",
+        "url": "https://open.spotify.com/album/3nxmBxZAZRQVYwOjVypgJ5"
+      },
+      "artists": [
+        {
+          "name": "Ella Tobin",
+          "url": "https://open.spotify.com/artist/1hdEBuPH4q1u687ZLNF1eb"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217415,
+      "name": "The Ghost",
+      "url": "https://open.spotify.com/track/2QnRs4ApPdK8n5RqerKzdI"
     },
     {
       "album": {
@@ -10472,6 +10656,24 @@
     },
     {
       "album": {
+        "name": "Tired and Overfed",
+        "url": "https://open.spotify.com/album/2kA0yZSAzLOuFCG6T5zOIg"
+      },
+      "artists": [
+        {
+          "name": "Perkie",
+          "url": "https://open.spotify.com/artist/634UCVGOwllkrZii9Pi5hC"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206426,
+      "name": "Tired and Overfed",
+      "url": "https://open.spotify.com/track/4WD77qPAkk0XoaeZth7nRN"
+    },
+    {
+      "album": {
         "name": "To Be Loved By You",
         "url": "https://open.spotify.com/album/6pccV81azLJF7lD3NColPn"
       },
@@ -10487,6 +10689,24 @@
       "duration_ms": 151875,
       "name": "To Be Loved By You",
       "url": "https://open.spotify.com/track/64zQmnokm59t3xTahGeXQF"
+    },
+    {
+      "album": {
+        "name": "To Sleep",
+        "url": "https://open.spotify.com/album/0I5el2PdouVnT0A2dU1EyN"
+      },
+      "artists": [
+        {
+          "name": "Alice Markham",
+          "url": "https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313846,
+      "name": "To Sleep",
+      "url": "https://open.spotify.com/track/1bywtj6O4YET8Qs0Dy2IA8"
     },
     {
       "album": {

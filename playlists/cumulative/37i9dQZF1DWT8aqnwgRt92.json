@@ -1622,6 +1622,24 @@
     },
     {
       "album": {
+        "name": "In the Back Room",
+        "url": "https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "In the Back Room",
+      "url": "https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn"
+    },
+    {
+      "album": {
         "name": "infinite Resonance",
         "url": "https://open.spotify.com/album/3SBliHSDqNktNFoTPQyQPO"
       },
@@ -3883,7 +3901,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 206000,
       "name": "\u30a4\u30f3\u30b6\u30d0\u30c3\u30af\u30eb\u30fc\u30e0",
       "url": "https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9"

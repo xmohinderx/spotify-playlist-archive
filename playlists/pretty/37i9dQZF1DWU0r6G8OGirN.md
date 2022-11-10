@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,099 likes - 66 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,482 likes - 66 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 65 | [A Christmas Love Song](https://open.spotify.com/track/1rkIIRDsTaaAShnlE3qxyD) | [Lori Mechem](https://open.spotify.com/artist/4iOaiUFARBMbAKFW1AHeI4) | [Christmas Jazz 2](https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2) | 3:48 |
 | 66 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 |
 
-Snapshot ID: `MTY2Nzg5Nzc3OCwwMDAwMDAwMDRkNjRjYTQ5Y2RiYTQ1NDEzNzYzYmFmYTlhNjg1MThi`
+Snapshot ID: `MTY2ODAwMTI5NywwMDAwMDAwMDQ1MzA5ZDFiNDNhY2ZjMTNkZDljNmVmYzIxMzVjNmQ1`

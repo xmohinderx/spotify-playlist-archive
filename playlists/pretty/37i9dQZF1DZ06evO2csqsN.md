@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,336 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,360 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 34 | [Freaky As Me \(feat\. latto\)](https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Freaky As Me](https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru) | 2:09 |
 | 35 | [In n Out \(feat\. City Girls\)](https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 3:14 |
 | 36 | [Soufside](https://open.spotify.com/track/7aQckZHyuls0Oa9LjUISDu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 1:50 |
-| 37 | [Rain Down \(feat\. PnB Rock & Latto\)](https://open.spotify.com/track/3j2c4L32wU4LkILIkDzqse) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Rain Down \(feat\. PnB Rock & Latto\)](https://open.spotify.com/album/355DHb4BopJuvV7YWW0IG6) | 3:53 |
-| 38 | [Wet \(feat\. Latto\) \- Remix](https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Wet \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL) | 3:31 |
+| 37 | [Wet \(feat\. Latto\) \- Remix](https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Wet \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL) | 3:31 |
+| 38 | [Rain Down \(feat\. PnB Rock & Latto\)](https://open.spotify.com/track/3j2c4L32wU4LkILIkDzqse) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Rain Down \(feat\. PnB Rock & Latto\)](https://open.spotify.com/album/355DHb4BopJuvV7YWW0IG6) | 3:53 |
 | 39 | [Youngest N Richest](https://open.spotify.com/track/2TctO4deS9kABuiQ7070R1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 1:44 |
 | 40 | [Step It Up](https://open.spotify.com/track/4tpSjqtLO12aIUHcSBR9rp) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 |
 | 41 | [Meeting \(feat\. Foogiano & Latto\)](https://open.spotify.com/track/0T6aFFho2pkaYJ4tqjCRxO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Freak Show \(feat\. Latto\)](https://open.spotify.com/track/1W9u0vkcBdxQWqSZnfYgtq) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Freak Show \(feat\. Latto\)](https://open.spotify.com/album/54D084Zzesufo6NtR6R6Az) | 2:49 |
 | 50 | [Don't Wanna Leave \(feat\. Mulatto\)](https://open.spotify.com/track/0FDqNfj7f5WOAd3SMQuvDs) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [C3](https://open.spotify.com/album/0x1BgsKX3jBtjat6HApyl6) | 3:07 |
 
-Snapshot ID: `Mjc3OTg2MzcsMDAwMDAwMDA2MDhlYzEzZjY3MTBjNmY4NjJmYWNjOGRkNThhMDg1YQ==`
+Snapshot ID: `Mjc4MDA0MzIsMDAwMDAwMDAyMDdhMjg2Mzc5N2FiOTE2NjllZjg2MGFkMDE3NTk5ZA==`

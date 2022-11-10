@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,455 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,460 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 50 | [sunlight](https://open.spotify.com/track/1GLvTvJjbjIAwABTF0M5TB) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [memoria](https://open.spotify.com/album/12vcHn7h8yOVkjCXUK9TA1) | 2:36 |
 | 51 | [Somnolent Nova](https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Somnolent Nova](https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv) | 3:03 |
 | 52 | [Stray Cat](https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:39 |
-| 53 | [Nude](https://open.spotify.com/track/62AVqsyuz1R8C9eh0uqm5B) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Nude](https://open.spotify.com/album/1Yfp4upzjyXY3VRIDELf43) | 4:16 |
+| 53 | [Nude](https://open.spotify.com/track/3xPfXIuRKZwhiS61HGN6Rr) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Ocean Highway](https://open.spotify.com/album/4lt2GflHtr9T823EkbC5fA) | 4:16 |
 | 54 | [Nights in Ikebukuro](https://open.spotify.com/track/6Fpb2vui5MXFW3zmiL4D9O) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Eshajori](https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI) | 4:34 |
 | 55 | [Blue](https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Nightfall](https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP) | 2:49 |
 | 56 | [Lie](https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Good Night](https://open.spotify.com/track/6CTqCqStHM2ji0liLLVJvk) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [Dove](https://open.spotify.com/album/46KM2P8PERBA1CrK5nvIFZ) | 2:37 |
 | 100 | [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 |
 
-Snapshot ID: `MTY2NTUwNDcxMCwwMDAwMDAwMDNmOWUzZGFkOGJiMGFmMWU3OWU2MTk1OWI1YTlmMzMy`
+Snapshot ID: `MTY2NTUwNDcxMCwwMDAwMDAwMDgxYmMzM2M4YzJmYWQ2ODkyMzdlZGI0NjQ3YzNiNWQ3`

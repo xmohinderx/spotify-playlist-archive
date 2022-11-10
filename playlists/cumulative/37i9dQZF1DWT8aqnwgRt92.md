@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-340 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+341 songs - 21 hr 50 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-10-03 |  |
 | [ICHIBANBOSHI SONORITY](https://open.spotify.com/track/4ogyl3j9wSTM0YLiXrkC5t) | [Yuka Iguchi](https://open.spotify.com/artist/2pEoqcvCSXliNrd8peAUiP) | [ENDING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”](https://open.spotify.com/album/2ur6B0p344bM6CHn7PNJu0) | 4:14 | 2022-08-02 | 2022-08-24 |
 | [Ignition!!! \- feat\. 松野家6兄弟 & ヒピポ族と赤塚区の仲間たち](https://open.spotify.com/track/6C4o9z0wwUCoohbwNgfEiu) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Ignition!!! \(feat\. 松野家6兄弟 & ヒピポ族と赤塚区の仲間たち\)](https://open.spotify.com/album/21HSg6v7NUE1KMijeF9BNd) | 3:37 | 2022-07-07 | 2022-07-29 |
+| [In the Back Room](https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [In the Back Room](https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw) | 3:26 | 2022-11-08 |  |
 | [infinite Resonance](https://open.spotify.com/track/4CBD4tn1O6D7nGEGMBnSmX) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance](https://open.spotify.com/album/3SBliHSDqNktNFoTPQyQPO) | 4:02 | 2022-09-06 | 2022-10-19 |
 | [Irony \- From CrosSing](https://open.spotify.com/track/61zeExliFdY7LIiAYAFKW7) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Irony \- From CrosSing](https://open.spotify.com/album/1RkwCpcgPJkwaXFIeGRxt4) | 4:19 | 2022-10-25 |  |
 | [irony \- from CrosSing](https://open.spotify.com/track/20luTPJsOleiRaFlAOogRE) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [irony \- from CrosSing](https://open.spotify.com/album/7o1ijK5UmH6NhdgClRsDOj) | 4:19 | 2022-10-25 | 2022-10-27 |
@@ -216,7 +217,7 @@
 | [ゆずれない](https://open.spotify.com/track/64qoBPI0CpORq70mlVrXWr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ゆずれない](https://open.spotify.com/album/5O8k3vgpZj8lABvvMKQJRd) | 3:58 | 2022-05-28 | 2022-06-24 |
 | [るんっ♪てぃてぃー!](https://open.spotify.com/track/7zTR57cszx0z1D868Vjes5) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー!](https://open.spotify.com/album/1ZCYoH9MgcpWVDc85CtAeW) | 3:50 | 2022-06-23 | 2022-07-01 |
 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 | 2022-10-13 |  |
-| [インザバックルーム](https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [インザバックルーム](https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89) | 3:26 | 2022-11-08 |  |
+| [インザバックルーム](https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [インザバックルーム](https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89) | 3:26 | 2022-11-08 | 2022-11-10 |
 | [インフィニット](https://open.spotify.com/track/6b4f78XcnPlxOJpNjmD2j8) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [インフィニット](https://open.spotify.com/album/32PkEDbpR6T1uLpt5r43r7) | 4:12 | 2022-06-30 | 2022-07-29 |
 | [ウェルカム・トゥ・レインボーワンダーランド!](https://open.spotify.com/track/5w64RQzcBGp7ykGmEo634d) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/4iYu17ZFXJ2CF1MEwEFKz8) | 3:53 | 2022-09-27 | 2022-09-29 |
 | [ウタカタララバイ](https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタカタララバイ](https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co) | 2:53 | 2022-08-05 | 2022-08-17 |

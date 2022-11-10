@@ -3012,6 +3012,28 @@
     },
     {
       "album": {
+        "name": "How Long Do You Think It's Gonna Last?",
+        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
+      },
+      "artists": [
+        {
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254466,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
+    },
+    {
+      "album": {
         "name": "Renegade (feat. Taylor Swift)",
         "url": "https://open.spotify.com/album/4kD0pFwhEjEiF9pwUwkpNo"
       },
@@ -3031,28 +3053,6 @@
       "duration_ms": 254466,
       "name": "Renegade (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/1aU1wpYBSpP0M6IiihY5Ue"
-    },
-    {
-      "album": {
-        "name": "How Long Do You Think It's Gonna Last?",
-        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
-      },
-      "artists": [
-        {
-          "name": "Big Red Machine",
-          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "date_added": "2022-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 254466,
-      "name": "Renegade (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
     },
     {
       "album": {
