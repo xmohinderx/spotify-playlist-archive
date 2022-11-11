@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 
 > Ambient drone to make you feel weightless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,665 likes - 136 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,057 likes - 136 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 132 | [Carried Away](https://open.spotify.com/track/7iS9HAX2IOXeNLEgoGwZYi) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Carried Away](https://open.spotify.com/album/6w9bA9xq4bmYTb06js67RU) | 2:55 |
 | 133 | [Zero Gravity](https://open.spotify.com/track/7hhB3DTBQSHLvfO9RvyZxf) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:05 |
 | 134 | [A Sleepless Night](https://open.spotify.com/track/4H7oCuiiPH6gQTKfoBR9eo) | [Ella Ravn](https://open.spotify.com/artist/0EcHhtv02X5sMmofhqQo3c) | [A Sleepless Night](https://open.spotify.com/album/2e26oolMJM3ijJsrnqXZ8u) | 3:19 |
-| 135 | [Soon For Cali](https://open.spotify.com/track/2rsgcPUIYBCFosRWPGJgv7) | [Bjorkman](https://open.spotify.com/artist/6N2wYh9RMSqQaeOzhJqPtN) | [Soon For Cali](https://open.spotify.com/album/0Dicmt7fUioNWoi4hBe7GH) | 3:26 |
+| 135 | [Soon For Cali](https://open.spotify.com/track/4JAuaZzKhcZGrbBhabH70Q) | [Bjorkman](https://open.spotify.com/artist/6N2wYh9RMSqQaeOzhJqPtN) | [Soon For Cali](https://open.spotify.com/album/7A9OsxocOdJkw7zbegUIkR) | 3:26 |
 | 136 | [Portraits](https://open.spotify.com/track/3Vr1DtJ30TMsFZBs9WJIvM) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits](https://open.spotify.com/album/2USBHDZHtyMBWFXFwCYW3V) | 3:13 |
 
-Snapshot ID: `MTY2NjM5MDk5MSwwMDAwMDAwMDQ1NmU5ZGY5ZGZkZTg0NDBjNmRkYzhlMWJiNjgzMjI2`
+Snapshot ID: `MTY2NjM5MDk5MSwwMDAwMDAwMGU2NWNiMDc2NGZjZGQyYWRkYjc2YjhiOGUwYmQwY2Uz`

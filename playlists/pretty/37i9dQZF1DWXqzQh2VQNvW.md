@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,794 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,839 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 15 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
 | 16 | [Songs for The Weekend](https://open.spotify.com/track/7bLhDVopMpJfZuDm3aqCyo) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Songs for The Weekend](https://open.spotify.com/album/5seYeaPLAUlMpibLumx0Wb) | 3:26 |
 | 17 | [On The Weekend](https://open.spotify.com/track/0F9IVBckC6BjxmkSy8Jts9) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [On The Weekend](https://open.spotify.com/album/1rm0uC0uo87fuQuCfEgffH) | 2:52 |
-| 18 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 |
+| 18 | [golden hour](https://open.spotify.com/track/34VhnIUNsHQFDyxhymwnZl) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/6LabIkq8jNU7azZGdkuC7G) | 3:29 |
 | 19 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 |
 | 20 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
 | 21 | [Loved You Since I Was Young](https://open.spotify.com/track/4ayHZpebCShYtJuSL8701H) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Loved You Since I Was Young](https://open.spotify.com/album/7u4FHNJdVRLDLuum8iJnkd) | 3:03 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 26 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |
 | 27 | [Come Back Home \- From "Purple Hearts"](https://open.spotify.com/track/2mPXui72mlIYR5sQUPZXwP) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Come Back Home \(From "Purple Hearts"\)](https://open.spotify.com/album/2O6Q9yickLm8XJfvy1SPdx) | 2:56 |
 | 28 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 |
-| 29 | [Victoria’s Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 |
+| 29 | [Victoria's Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 |
 | 30 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
 | 31 | [WHO MADE YOU GOD?](https://open.spotify.com/track/33RkgvfErKI9QLp3XwQXC3) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [WHO MADE YOU GOD?](https://open.spotify.com/album/7vpNvBh0qxPbbvAoVxry82) | 3:27 |
 | 32 | [Grand](https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Grand](https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4) | 2:58 |
@@ -92,15 +92,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 82 | [Hands On You](https://open.spotify.com/track/1c03f9YZmO792D7hRjZMYi) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Hands On You](https://open.spotify.com/album/7AwODiyS5ghh0uhXt4v2tj) | 2:35 |
 | 83 | [Cabo Wobble](https://open.spotify.com/track/5dScNtNEqGAXVvf20GOaP2) | [Tequila Mockingbrd](https://open.spotify.com/artist/1Fjwun3NqhzH0wuorC38SO) | [Cabo Wobble](https://open.spotify.com/album/6qcdYfnnoLLhqRVny9lwuB) | 2:08 |
 | 84 | [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 |
-| 85 | [Bitter Tonic](https://open.spotify.com/track/7AS4NDnLzj6ecCNY0m021h) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bitter Tonic](https://open.spotify.com/album/5HkMoc2wvYlM4TdA5Np8GJ) | 3:21 |
+| 85 | [Bitter Tonic](https://open.spotify.com/track/0YNfWT27oMAyECkBd3T4Ix) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Chaos In My Court](https://open.spotify.com/album/4dVCexXqcS9KDwdOXeUkSn) | 3:21 |
 | 86 | [Always Been You](https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Always Been You](https://open.spotify.com/album/1VhOdgOjIARBn6SoNyeQDa) | 2:11 |
 | 87 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 |
 | 88 | [Wind](https://open.spotify.com/track/0U8aNWUJE16QolpQRSSQvK) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [Wind](https://open.spotify.com/album/2fPfyteYuKrbdA4qY0k3oL) | 2:17 |
-| 89 | [Stuck In The Middle](https://open.spotify.com/track/44TzvSZLIkM7Y7MEnrvkIl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 3:16 |
+| 89 | [Stuck In The Middle](https://open.spotify.com/track/4y3BUo2hp0MxylfbUaqRyJ) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stuck In The Middle](https://open.spotify.com/album/64hLB1z6eR03woX3HDJZSU) | 3:16 |
 | 90 | [IT'S OK](https://open.spotify.com/track/1b4TnJwb4rzrkfBilJ2SRO) | [Daniyel](https://open.spotify.com/artist/4Zgs72EVDddJE8pa3oGC4L) | [IT'S OK](https://open.spotify.com/album/63NirVfC79At4NuVFCZnbz) | 1:56 |
 | 91 | [Lose You Now](https://open.spotify.com/track/2wwzGBhDWfZveGjpxj5be7) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Lose You Now](https://open.spotify.com/album/5y4jL5I64YU5vpeJYVgPKG) | 3:13 |
 | 92 | [Suddenly](https://open.spotify.com/track/77DygJyqI6BPmaIGn9iUoU) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [Suddenly](https://open.spotify.com/album/2oIkAIhDcZr7aSutRjSPXK) | 2:18 |
-| 93 | [Already There](https://open.spotify.com/track/7pWE9Saa0N4wUZZXBZPZVY) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Hope It Gets Better](https://open.spotify.com/album/7p9pChA6KBpvqq8En6bE9B) | 3:32 |
+| 93 | [Already There](https://open.spotify.com/track/10cQQwLpu5aCzrJF2wlvjw) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Already There](https://open.spotify.com/album/3OuB3yBpdD2UQ04c3bpnS2) | 3:32 |
 | 94 | [Cry/Fun](https://open.spotify.com/track/77QUW7lMcR87ddDAkhnu0T) | [Issy Wood](https://open.spotify.com/artist/3nyoodEXBH2JZUcZuT4KhU) | [Cry/Fun](https://open.spotify.com/album/40Uwh4FbbntjSIBANQlu11) | 3:22 |
 | 95 | [Things Changed](https://open.spotify.com/track/2Yte4JdWO3y8diS3EIlDgX) | [The Sunshine State](https://open.spotify.com/artist/7fvI8ORZUF64qlb2GDcDQ7) | [Things Changed](https://open.spotify.com/album/1U7YDj8Ir8NT5JoSFMpY0Y) | 3:05 |
 | 96 | [The Letter](https://open.spotify.com/track/2MOoSTYPGJhxIzC5DXXom6) | [Linda Perry](https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo) | [The Letter](https://open.spotify.com/album/36BE8MfyawempfNotMIvq6) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 99 | [Fuck Up the Friendship](https://open.spotify.com/track/1ddKUwm3UuvcMWLLAgOIcX) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Fuck Up the Friendship](https://open.spotify.com/album/6OYKLdkagNi7b1cANWVAMg) | 2:52 |
 | 100 | [Why Can't You Love Me Now](https://open.spotify.com/track/104LG5z9LVvErMHYMhFks4) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Why Can't You Love Me Now](https://open.spotify.com/album/7IkGQqLHEe1pr2wqgQcCnA) | 3:32 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDc2ZTQ0Y2E0YTc5NWU3NmE4MmRhZTgwOWI3NDk2MmM4`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDc4ZDFkMzcyMGNiZDcxOTg5YTM0YTcyZmVmMjRiMDg1`

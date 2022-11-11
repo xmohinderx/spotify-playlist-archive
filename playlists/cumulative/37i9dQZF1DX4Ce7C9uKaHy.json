@@ -729,10 +729,28 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 114523,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/1YYdaHYdCOCyAeWUfSiUkE"
+    },
+    {
+      "album": {
+        "name": "Clearing",
+        "url": "https://open.spotify.com/album/78qfYPOyspcz0N39IOmi9C"
+      },
+      "artists": [
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114523,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/3ktO0IHeFZ4trq6ojXC2dG"
     },
     {
       "album": {
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 168740,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/1ZNBBIqH0beHORllNd3Uud"
@@ -2253,6 +2271,28 @@
       "duration_ms": 168740,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/3xNZP70uRdHJK3lZJ8OfJr"
+    },
+    {
+      "album": {
+        "name": "Chillhop Yearmix 2020",
+        "url": "https://open.spotify.com/album/2g9frEs9937i2AxcwM0PWS"
+      },
+      "artists": [
+        {
+          "name": "Arbour",
+          "url": "https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2"
+        },
+        {
+          "name": "Aarigod",
+          "url": "https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168740,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/6Q9QZRk3FjWWrbz1szGh2M"
     },
     {
       "album": {

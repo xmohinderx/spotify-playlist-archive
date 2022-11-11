@@ -4,7 +4,7 @@
 
 > Dejate llevar por estas suaves melodías acústicas.
 
-71 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/35j2R0PEhkBQbjAKY2tmF7)
+74 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/35j2R0PEhkBQbjAKY2tmF7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Groovy Kind of Love](https://open.spotify.com/track/0KzNGBTE29879BbLgLK70R) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [A Groovy Kind of Love](https://open.spotify.com/album/3UhJH4ihVNAS5KsnSzyUWw) | 2:38 | 2020-12-30 | 2022-07-29 |
 | [A Groovy Kind of Love](https://open.spotify.com/track/5p7kurFWJoHUi0SGhBX97f) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [A Groovy Kind of Love](https://open.spotify.com/album/6SlUCdOCUE2vG49R6hTgXQ) | 2:38 | 2020-12-30 |  |
 | [Adagio Albinoni](https://open.spotify.com/track/5xEcZIjrJu3DI7hz8k4Ltw) | [Richard Mollenbeck](https://open.spotify.com/artist/2zFkwocH9Ah8KpUzydbcrO) | [Classical Guitar for Study](https://open.spotify.com/album/1E5EqMSPzEnbaYbWnHIMCY) | 2:35 | 2020-12-30 |  |
-| [Adelita](https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy) | 1:48 | 2020-12-30 |  |
+| [Adelita](https://open.spotify.com/track/2gxKi69et7b1bJbg8fkwmY) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Francisco Tárrega: Autumn Landscapes](https://open.spotify.com/album/6CG3EI4AeH5aS3N2DuFRO2) | 1:48 | 2020-12-30 |  |
+| [Adelita](https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy) | 1:48 | 2020-12-30 | 2022-11-11 |
 | [Adelita](https://open.spotify.com/track/62Boz6NDFyOT3tKkSWis2E) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/59wykB5aKaXRudvU8VTo6h) | 1:48 | 2020-12-30 | 2022-07-29 |
 | [Air on a G String](https://open.spotify.com/track/7z7X6PlFssjHwXcRwQIQ2t) | [Richard Mollenbeck](https://open.spotify.com/artist/2zFkwocH9Ah8KpUzydbcrO) | [Classical Guitar for Study](https://open.spotify.com/album/1E5EqMSPzEnbaYbWnHIMCY) | 3:42 | 2020-12-30 |  |
 | [Ave Nocturne](https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 3:24 | 2020-12-30 |  |
@@ -67,11 +68,13 @@
 | [Sonata Pathétique](https://open.spotify.com/track/2NCG0u2NT7KceLxCjseW3A) | [Marcel Depuis](https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa) | [Dramatique Musique Classique](https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4) | 2:50 | 2020-12-30 |  |
 | [Soul Blanket](https://open.spotify.com/track/44McOkwrQvgCzDxd5NZV6a) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/1flvmX3ZrUV6I4XPXugSJ6) | 4:01 | 2020-12-30 | 2022-07-29 |
 | [Soul Blanket](https://open.spotify.com/track/7xgCM9MkPIJ0MWFJqGGKQD) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/0FQWkQhEOXL0IuICFw4XaE) | 4:01 | 2020-12-30 |  |
-| [Svalbard](https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg) | 3:19 | 2020-12-30 |  |
+| [Svalbard](https://open.spotify.com/track/0sKhVvGUSHVXjU44bUTmhV) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [The Cereal Killers: Bedtime Guitar](https://open.spotify.com/album/4R57k9bpcwczFvwrnfhskU) | 3:19 | 2020-12-30 |  |
+| [Svalbard](https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg) | 3:19 | 2020-12-30 | 2022-11-11 |
 | [Svalbard](https://open.spotify.com/track/6vc1ie7orjBJYeJVR4yh8r) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/1nRpZdYMCTU0QfiOF737WI) | 3:19 | 2020-12-30 | 2022-07-29 |
 | [Sweden](https://open.spotify.com/track/0T3Ae4dQqrKJ5FNVNacnhY) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Modern Composers on Guitar](https://open.spotify.com/album/1eMnPhrwbrQ2xCn75eNRo1) | 2:41 | 2020-12-30 |  |
 | [Sweet Feelings](https://open.spotify.com/track/3pG3G1lRhmuxIndGtEQ3Hz) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/1flvmX3ZrUV6I4XPXugSJ6) | 3:37 | 2020-12-30 | 2022-07-29 |
-| [Sweet Feelings](https://open.spotify.com/track/4kdbwH3JqAzhSYhJyVllro) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Sweet Feeling](https://open.spotify.com/album/2HNIxzVUo0dUcyWMI5f7iR) | 3:37 | 2020-12-30 |  |
+| [Sweet Feelings](https://open.spotify.com/track/4kdbwH3JqAzhSYhJyVllro) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Sweet Feeling](https://open.spotify.com/album/2HNIxzVUo0dUcyWMI5f7iR) | 3:37 | 2020-12-30 | 2022-11-11 |
+| [Sweet Feelings](https://open.spotify.com/track/6REcPKu2cOxitLoFioV63z) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Chill Out Radio](https://open.spotify.com/album/4Krz9PFhDHBtrnZ28tBvgr) | 3:37 | 2020-12-30 |  |
 | [The Ludlows](https://open.spotify.com/track/3mm0nk8uW2rzwQltXgEse6) | [Cristopher Varela](https://open.spotify.com/artist/7GvvZWqI8qi9E13IAbYnXE) | [Classical Romantic Movies Themes on Guitar](https://open.spotify.com/album/0HS54wZJRaKNRz6sDQO1Ez) | 2:34 | 2020-12-30 |  |
 | [Truth](https://open.spotify.com/track/2emZ6UoJdLehWsgJa2ybRi) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Inch Of You](https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ) | 2:13 | 2020-12-30 |  |
 | [Under a Starlit Sky](https://open.spotify.com/track/4FhnMxJl07otC7paG9G8SV) | [Bill Valentino](https://open.spotify.com/artist/0I1EsNzqgWLBylHYY8kQnN) | [Under a Starlit Sky](https://open.spotify.com/album/3KiQ7oV4t01rYz7NVPewuz) | 2:29 | 2020-12-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78tHDcKCzXN.md) - [plain]
 
 > To the world, this is NCT! This is NCT 127! The 4th album ‘2 Baddies’ is out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,792 likes - 76 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,974 likes - 76 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78tHDcKCzXN.md) - [plain]
 | 69 | [Come Back](https://open.spotify.com/track/33rp9HxDEoriuRUOr0iWpX) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 3:25 |
 | 70 | [First Love](https://open.spotify.com/track/0UOO07yhSHVVVvkA4JOzPU) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [LOVEHOLIC](https://open.spotify.com/album/3gaBYNHHWHydyB4vDBL7xZ) | 3:00 |
 | 71 | [Knock On](https://open.spotify.com/track/6KAfUGPFo4ve8yxVan2Mgv) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 3:25 |
-| 72 | [Music, Dance](https://open.spotify.com/track/2zlbTHy7epxEemiunGB5Tv) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:55 |
+| 72 | [Music, Dance](https://open.spotify.com/track/5OPDo2U9bIqhscrZy5HZwI) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) | 3:55 |
 | 73 | [Jet Lag](https://open.spotify.com/track/1U0gJQyrJE4h3EWyHeJ2UK) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/3Xv60ja2pLxH3Wk0x0JIWT) | 3:15 |
 | 74 | [Day Dream](https://open.spotify.com/track/4O5NmwwKzpQkuUUUz0V3TN) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:25 |
 | 75 | [Switch \- Bonus Track](https://open.spotify.com/track/2xL2yWZsd3cvEk4heGkctC) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [SR15B](https://open.spotify.com/artist/1zhkYR8PTdyZhOlJGmPv5e) | [NCT \#127 \- The 1st Mini Album](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) | 3:04 |
 | 76 | [FOOL](https://open.spotify.com/track/7GfBzU8xvxEEu4K1x06z4Z) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/3Xv60ja2pLxH3Wk0x0JIWT) | 2:41 |
 
-Snapshot ID: `MTY2MzY2OTcxNSwwMDAwMDAwMDU5MzUwNTllOTg1ZDEwYTQ5NzZhYjBjMzJkNjVhZThl`
+Snapshot ID: `MTY2MzY2OTcxNSwwMDAwMDAwMGE4M2VjZjNjMGIxYmE5NjA4OTcyMGVmNGUxOWNkMGQ0`

@@ -963,6 +963,24 @@
     {
       "album": {
         "name": "Netflix Jr. Jams: Vol. 2",
+        "url": "https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Let\u2019s Move! Dance Party",
+      "url": "https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 2",
         "url": "https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT"
       },
       "artists": [
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 203773,
       "name": "Let\u2019s Move! Dance Party",
       "url": "https://open.spotify.com/track/78VhKIYlWIn72RqRSY85kM"
@@ -1475,10 +1493,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 161025,
       "name": "The Gratitude Attitude",
       "url": "https://open.spotify.com/track/2DoZ8rKC6xZRfFU9w3EDGJ"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 3",
+        "url": "https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161025,
+      "name": "The Gratitude Attitude",
+      "url": "https://open.spotify.com/track/5EwWxvsNIaWI34KsrBTexe"
     },
     {
       "album": {

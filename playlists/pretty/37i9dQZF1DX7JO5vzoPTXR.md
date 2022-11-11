@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3?si=PCKf\-xH\_SRCwNZb9GDfoJQ">sad alex,</a> <a href="https://open.spotify.com/artist/5tHkHru8vN2x9R9Y1Pmzvp?si=2wIRxdDVS9GIxMs\-t9mQOQ&nd=1">G.Smith,</a> and Suzy Shinn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,732 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,759 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 10 | [i wanna be your girlfriend](https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf) | 3:24 |
 | 11 | [Write A List of Things To Look Forward To](https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 2:48 |
 | 12 | [Collapsed In Sunbeams](https://open.spotify.com/track/6mX9vCy6Mie9QBlSpa7AGp) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 0:54 |
-| 13 | [Wisdom Teeth \(Pressure\)](https://open.spotify.com/track/0hlw0nX72NsfvxW65IHo4H) | [PHOEBE AXA](https://open.spotify.com/artist/0bqSQqtFaTv208uFybOlPv) | [Wisdom Teeth \(Pressure\)](https://open.spotify.com/album/1LEoTYcHLxUFDDMlHAOcl3) | 3:37 |
+| 13 | [Wisdom Teeth \(Pressure\)](https://open.spotify.com/track/4AYYnyKPXYfG5QioVhyci0) | [PHOEBE AXA](https://open.spotify.com/artist/0bqSQqtFaTv208uFybOlPv) | [Wisdom Teeth, Pt\. 1](https://open.spotify.com/album/6b0akC5algF2xTaLAom3nV) | 3:37 |
 | 14 | [Swing!](https://open.spotify.com/track/6As82n96RAwuoR9Y69N0EB) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Swing!](https://open.spotify.com/album/3LrxGxVT1ScQcKHkPHjzuD) | 2:50 |
 | 15 | [The Other Half](https://open.spotify.com/track/5y0zyLUouDOQPLODwsaRE1) | [Astræa](https://open.spotify.com/artist/799p2CSGw9GjO2X5pAB3ZH) | [The Other Half](https://open.spotify.com/album/2Ucyip2WdtO9T37bjpcIRD) | 3:35 |
 | 16 | [Loveless Metropolis](https://open.spotify.com/track/1sH4YEL45jzIDrGMQfTBeG) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Loveless Metropolis](https://open.spotify.com/album/0c8hYTbIVy5IbTix4R4r0R) | 2:40 |
 | 17 | [shut up!](https://open.spotify.com/track/0XuYhYm3heLcyLw8U2oLL5) | [carly and martina](https://open.spotify.com/artist/7D7UTmb1NyT7aOyi3nw1Uz) | [shut up!](https://open.spotify.com/album/03LXoz92n7O3C8ASWsYWzR) | 4:31 |
-| 18 | [A New Way](https://open.spotify.com/track/0xKXW1Ao5w3c5hVoPPZ4V6) | [Anna Schulze](https://open.spotify.com/artist/2BvQMHekTHeLPFBmXMYeR8) | [Break Your Heart, Keep It Open](https://open.spotify.com/album/0UUvYzhW5L7NdjSbF9rTW0) | 2:10 |
+| 18 | [A New Way](https://open.spotify.com/track/6upSiQJC2uncaPM0NwTXcn) | [Anna Schulze](https://open.spotify.com/artist/2BvQMHekTHeLPFBmXMYeR8) | [Let This Be Ok](https://open.spotify.com/album/1Co3iwslx3u5sdMKA1nwhJ) | 2:10 |
 | 19 | [Where Does the Good Go](https://open.spotify.com/track/0L7QCEXQBDAtEyK1x72Sw0) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 3:37 |
 | 20 | [Where Have All the Cowboys Gone?](https://open.spotify.com/track/2ck13qfgRZ1msyEJlDqzvk) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [This Fire](https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs) | 4:23 |
 | 21 | [To be Remote](https://open.spotify.com/track/5H8UXv6QKr8qHWZ9DAGiUL) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 5:24 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Lifetime](https://open.spotify.com/track/3apU7oAtxowTACEEidRrSd) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [Roseanna](https://open.spotify.com/artist/3dEerTuAiYw5ZgMEtlTM5s) | [Lifetime](https://open.spotify.com/album/7IGiVdIK9PNhm0Tl6Lmtwq) | 3:03 |
 | 40 | [Gold](https://open.spotify.com/track/2fQaUUcEQBt4mDjuedP0va) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Bertie Blackman](https://open.spotify.com/artist/667PRpjUWWwm45prjd14SD) | [Don't Sleep](https://open.spotify.com/album/71vXspFj2kT6IQn1IuNpEd) | 4:16 |
 
-Snapshot ID: `MTY2Nzk3MDAwMCwwMDAwMDAwMDQ2ZjMzNmExZjQzMmQyNjJmY2I0ZWEzZmRkNTI4Yzk0`
+Snapshot ID: `MTY2Nzk3MDAwMCwwMDAwMDAwMDA4YWY5ZDY4YjNiNDIxYWFiOGVjYTFlY2QwZDg1MGEx`

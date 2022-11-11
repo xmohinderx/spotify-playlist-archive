@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=rOqqDWfMQSOIkZiMVxQlAw"> Dami Oniru </a>
 
-280 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
+281 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Get Down \(feat\. Azanti & Chrystel\)](https://open.spotify.com/track/6pvDq4tfrVMHpN1oYl6B6M) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Get Down](https://open.spotify.com/album/2LjsqVupASnDrP4ShBBotE) | 2:43 | 2022-04-21 |  |
 | [Gettin' Hot](https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Gettin' Hot](https://open.spotify.com/album/0otN5Uk42fJzAtyMmPrLc0) | 3:44 | 2022-07-28 |  |
 | [Gkw](https://open.spotify.com/track/7iP4xI5k3ofKaaUzY1dxNk) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Gkw / Winning Bread](https://open.spotify.com/album/511ZnBegulQv9yKnYlb3NQ) | 2:59 | 2022-06-30 | 2022-09-24 |
-| [Gone Girl](https://open.spotify.com/track/4SVjVLpHngzqTzGfQe0hGz) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Gone Girl](https://open.spotify.com/album/7askKzi7oR1VpOswKLtMAN) | 4:13 | 2022-06-30 |  |
+| [Gone Girl](https://open.spotify.com/track/1rbHfInkbi8ZLQtds5nfd6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/12Z2vvO5UYrBygJEumBCXf) | 4:13 | 2022-09-15 |  |
+| [Gone Girl](https://open.spotify.com/track/4SVjVLpHngzqTzGfQe0hGz) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Gone Girl](https://open.spotify.com/album/7askKzi7oR1VpOswKLtMAN) | 4:13 | 2022-06-30 | 2022-11-11 |
 | [Gone Girl](https://open.spotify.com/track/5InfSqyrnWkRMvrynG52I6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/4LIZDD51I8rr6OpdEX7S9a) | 4:13 | 2021-07-23 | 2022-07-29 |
 | [Guns&Roses \(QuestionYaHeart\)](https://open.spotify.com/track/0dbUId7P0gcHUvgroQm6Qj) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [Guns&Roses \(QuestionYaHeart\)](https://open.spotify.com/album/1Peac33r475KxGeggGxKvP) | 2:30 | 2022-08-25 |  |
 | [Half A Tab](https://open.spotify.com/track/1b2mZ6mvFiZODiryE8yCbu) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Half A Tab](https://open.spotify.com/album/5yeqa3GNE5Zcs61GSed69Y) | 2:27 | 2021-11-18 | 2022-03-18 |

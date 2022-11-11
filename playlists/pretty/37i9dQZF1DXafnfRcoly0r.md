@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-[Spotify](https://open.spotify.com/user/spotify) - 859 likes - 73 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 865 likes - 73 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 10 | [What Pet Should I Get?](https://open.spotify.com/track/63Xt9EuCxfY3H7gv8f4WT1) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp) | [Songs for Chickens](https://open.spotify.com/album/6DRUmoB3xTpgh1dqWYQP1W) | 2:34 |
 | 11 | [Hey Puppy](https://open.spotify.com/track/2pYnaJiqFqVH9nmnFlKFDv) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Family Photo Album](https://open.spotify.com/album/5ReK6CXisDMoAfz8dKf1nD) | 2:41 |
 | 12 | [Open Your Heart \(And Let a Puppy In\)](https://open.spotify.com/track/6Kh7tGcbYaVvQsYl12pEYK) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Open Your Heart \(And Let a Puppy In\)](https://open.spotify.com/album/4SIOyyxpfuHnWl0fc7uEc6) | 1:02 |
-| 13 | [The Goldfish](https://open.spotify.com/track/2zDAOLe0Z9FJTINDAEZvW9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 3:34 |
+| 13 | [The Goldfish](https://open.spotify.com/track/6jNUqXc0iRJx159qMkXGoP) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [唱唱動物園 Animal Nursery Rhymes](https://open.spotify.com/album/5YQr3P7jNWCg3ocUS6oCcN) | 3:34 |
 | 14 | [Puppy Dog](https://open.spotify.com/track/5RJZ6fC62weu50vLNUv4KU) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Peggy's Pie Parlor](https://open.spotify.com/album/1e77tQJvtgPCVi7oLnTnCH) | 2:11 |
 | 15 | [We All Love Our Pets](https://open.spotify.com/track/3f1ezzBWeIAm9jrEDLuo7a) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Yo Gabba Gabba! Hey!](https://open.spotify.com/album/1KkCmh4A9k1U4znzSvqAEB) | 1:41 |
 | 16 | [Three Little Kittens \- 2014 Version](https://open.spotify.com/track/5I9D2oS7a0tge0z5IygYOa) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 2:01 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 27 | [Respect My Pet](https://open.spotify.com/track/5XGUjLbuhsz1R5DADXrXa2) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Thoughtful Songs for Little People](https://open.spotify.com/album/7f8sw4jRMSFZoAykCkd7CA) | 3:00 |
 | 28 | [Can You Hear the Doggie?](https://open.spotify.com/track/0GoAwQGcrWFgaJu5yasDZO) | [The Sticker Club](https://open.spotify.com/artist/1Zn205TqWmfazNWJ65nGrs) | [Scratch 'N' Sniff](https://open.spotify.com/album/3OL1X7p16svhnLSgKbK01J) | 1:42 |
 | 29 | [Peppy Puppy Dance](https://open.spotify.com/track/52XDPV4dfJsRjP68hKZw7V) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [GoNoodle Presents: Awesome Sauce \(Vol\. 1\)](https://open.spotify.com/album/6pEPcbShtQj5G5VMd2SUbz) | 1:13 |
-| 30 | [If I Had a Dog](https://open.spotify.com/track/44krg8Pp6HsYBVGGWvUysV) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6JCPj80o5nfJcHvn4wdvyw) | 2:11 |
+| 30 | [If I Had a Dog](https://open.spotify.com/track/6v1FlIiWtfQCJOrbXi8zjF) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/0K1YZBKZRNAPBuTeghnPeO) | 2:11 |
 | 31 | [The Puppy Song](https://open.spotify.com/track/4B2y6pYyR9CLZYnNUqzaY9) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [Kitchen Dance Party](https://open.spotify.com/album/7Kc3AF4vCj9Dl1tqRmt4U6) | 2:43 |
 | 32 | [Puppy Dog](https://open.spotify.com/track/1vMNgj3TCvhMU5A2mynH67) | [The Bee Street Band](https://open.spotify.com/artist/15WhCifdlrBMUbZNmDo0Yd) | [Animal Crackers](https://open.spotify.com/album/68Ltjea6YNGdqqpc7CyI3K) | 1:57 |
 | 33 | [My Special Pets](https://open.spotify.com/track/5E5hXd0JRRYga1JjYKwOMA) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Animal Songs \(Pt\. 3\)](https://open.spotify.com/album/1nP8xd8r7KNnap8htiPBeF) | 1:11 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 72 | [10 Little Kittens](https://open.spotify.com/track/6cM8FRo0LMRpkvajjfFsIJ) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Bounce, Sing, Learn, Sing](https://open.spotify.com/album/1Fx7A6waMMc2svhctLeqCK) | 2:23 |
 | 73 | [Haven't Got a Pet Yet](https://open.spotify.com/track/3KE82OPaRz4g2fCxerNkjI) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Field Trip](https://open.spotify.com/album/0iyg2QKAQBeU4UaOQSVI6l) | 2:28 |
 
-Snapshot ID: `MTY1ODc1NTQ3NiwwMDAwMDAwMGYyYzVjMDdiOWMxMDZkNjdjY2ZkNjEzNjg5MzQwNmI4`
+Snapshot ID: `MTY1ODc1NTQ3NiwwMDAwMDAwMDEwYjU0NzEyY2FiYjgzMTgyYjQ5NDMxNjg0M2Y1NDBk`

@@ -4,7 +4,7 @@
 
 > A collection of inspired songs about life and the love of the father.
 
-76 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/1OfuIj9JDUDFUa2nDU3Lxc)
+79 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/1OfuIj9JDUDFUa2nDU3Lxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 | 2021-06-18 |  |
 | [Dance With My Father](https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:26 | 2021-06-18 |  |
 | [Daughters](https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 3:57 | 2021-06-18 |  |
-| [Drive \(For Daddy Gene\)](https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Drive](https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV) | 4:02 | 2022-06-10 |  |
+| [Drive \(For Daddy Gene\)](https://open.spotify.com/track/1OjLXx6SqITH706PmNSb60) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Genuine: The Alan Jackson Story](https://open.spotify.com/album/4RK2yIqktoJjhkRepGHUif) | 4:02 | 2022-06-10 |  |
+| [Drive \(For Daddy Gene\)](https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Drive](https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV) | 4:02 | 2022-06-10 | 2022-11-11 |
 | [Drive \(For Daddy Gene\)](https://open.spotify.com/track/32qiMwmCESGPYtjfnIkIqC) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [It's All About The Music](https://open.spotify.com/album/3CSzB71OGoQU5PRNyDWeGh) | 4:02 | 2021-06-18 | 2022-07-29 |
 | [Dusty Road](https://open.spotify.com/track/2YpIziXbqt5XVQfjGQamLY) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Dusty Road](https://open.spotify.com/album/498FsuSGrpsPOXb4qgsQrN) | 3:24 | 2021-06-18 |  |
 | [Even Though I'm Leaving](https://open.spotify.com/track/3sVLgsSTHRu483w6QciloO) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel \- EP](https://open.spotify.com/album/4nFW5W1gIwov6e4lAzn2vA) | 3:45 | 2021-06-18 | 2022-07-29 |
@@ -67,7 +68,8 @@
 | [Stealing Cinderella](https://open.spotify.com/track/0Pvbr31U9bjdvUUNGNFnQJ) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Stealing Cinderella](https://open.spotify.com/album/1tlxI1SGhyybdGhG15ByTT) | 4:02 | 2021-06-18 |  |
 | [That Kind Of Love](https://open.spotify.com/track/2u9Gu96C6sZqsjt4LSt74F) | [PFR](https://open.spotify.com/artist/3sN4gtyVr2MeWXHCjQTey6) | [Very Best Of PFR](https://open.spotify.com/album/1SFT51YpZkhvsw0gSfKLo5) | 3:32 | 2021-06-18 |  |
 | [The Beautiful Things We Miss](https://open.spotify.com/track/15JKU30tzA8Kq8kbEysqP8) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/5oGhtfRrxbMxbGIfCeOgwW) | 3:23 | 2021-06-18 | 2022-07-29 |
-| [The Beautiful Things We Miss](https://open.spotify.com/track/5N72L6I3YRMCYhGE1dHu4g) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:23 | 2022-06-10 |  |
+| [The Beautiful Things We Miss](https://open.spotify.com/track/4gsqEs5QojIE12YwZFU0Y2) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Father's Day: Christian Music](https://open.spotify.com/album/2ufD0eiT8fwRtuuO1jY7hh) | 3:23 | 2022-06-10 |  |
+| [The Beautiful Things We Miss](https://open.spotify.com/track/5N72L6I3YRMCYhGE1dHu4g) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:23 | 2022-06-10 | 2022-11-11 |
 | [The Father's Song](https://open.spotify.com/track/1jHE6L9VDkMHD4pzx7Cq4z) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Outrageous Grace](https://open.spotify.com/album/0nWWj6yZHZyFi8iQbRb424) | 4:18 | 2022-06-10 |  |
 | [The Father's Song](https://open.spotify.com/track/4J4RUudVyiefFXJNiG5YkN) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Father's Song](https://open.spotify.com/album/7CPnrI9zwdX6BnGaSEOBZW) | 4:20 | 2021-06-18 | 2022-07-29 |
 | [The Greatest Man I Never Knew](https://open.spotify.com/track/43z33yJDu1dCyE50sPzErp) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 3:14 | 2021-06-18 |  |
@@ -82,7 +84,8 @@
 | [Why?](https://open.spotify.com/track/5RZTENetZmHBhqidC5MMj4) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [Recollection: The Best Of Nichole Nordeman](https://open.spotify.com/album/3Yuzktsf4w6np56m93XvWa) | 6:02 | 2021-06-18 |  |
 | [Wildflower](https://open.spotify.com/track/34gHTjNvVeaZvCvCjPDKi3) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Wildflower](https://open.spotify.com/album/03tF78PniAEmmVoFIVQFKb) | 3:20 | 2022-06-10 |  |
 | [You're Gonna Miss This](https://open.spotify.com/track/68Q1r5zDnnYaHkh80yal4A) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [American Man: Greatest Hits Volume II](https://open.spotify.com/album/0iUDlT7z0kFqkCiAebkHOs) | 3:44 | 2021-06-18 | 2022-07-29 |
-| [You're Gonna Miss This](https://open.spotify.com/track/7Efs0OIW6zgQyH7ehKZYpN) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [American Man: Greatest Hits Vol\. II](https://open.spotify.com/album/3Ayxk9tKhpAE9gffRUWfDi) | 3:44 | 2022-06-10 |  |
+| [You're Gonna Miss This](https://open.spotify.com/track/6grgrO14uQmVC5GRGZocvM) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Happy Father's Day Y'all](https://open.spotify.com/album/7J1vFcXy5zvLt8AsaGx7b9) | 3:44 | 2022-06-10 |  |
+| [You're Gonna Miss This](https://open.spotify.com/track/7Efs0OIW6zgQyH7ehKZYpN) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [American Man: Greatest Hits Vol\. II](https://open.spotify.com/album/3Ayxk9tKhpAE9gffRUWfDi) | 3:44 | 2022-06-10 | 2022-11-11 |
 | [Yours](https://open.spotify.com/track/0dDfRzgpIgO3RyAF7wSRvl) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [Yours](https://open.spotify.com/album/5YuxMRTy3dQRjBRbqTKvW6) | 4:09 | 2021-06-25 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

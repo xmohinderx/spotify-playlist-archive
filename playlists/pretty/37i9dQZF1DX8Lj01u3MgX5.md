@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,869 likes - 69 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,929 likes - 69 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 7 | [Addicted To Love](https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu), [Eric 'ET' Thorngren](https://open.spotify.com/artist/0tO3KaRy0ZACd8XJYT3IX2) | [Riptide](https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd) | 6:03 |
 | 8 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 |
 | 9 | [All and All](https://open.spotify.com/track/5d7k3UJrfQx6OI5cWpXZ2a) | [Joyce Sims](https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ) | [Come into My Life: The Very Best of Joyce Sims](https://open.spotify.com/album/73n6TRu2pLwThwpXZiIxdP) | 6:07 |
-| 10 | [Always Something There to Remind Me \- 2018 Remaster](https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Naked Eyes](https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR) | 3:39 |
+| 10 | [Always Something There To Remind Me](https://open.spotify.com/track/0cGaZGrQNwlRvZemxaBfXC) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Thumbplay Music Presents: The 80's](https://open.spotify.com/album/0GVJSJGPnPulLBuQFBadOa) | 3:40 |
 | 11 | [Another Man](https://open.spotify.com/track/0TLc72T6smUYgFQu1aDnSg) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Another Man](https://open.spotify.com/album/6uLppwZoewGnsXUMLpRFsf) | 6:54 |
 | 12 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
 | 13 | [Bang Zoom \(Let's Go\-Go\)](https://open.spotify.com/track/2AGmw3ewDomsRH8soSFpbS) | [The Real Roxanne](https://open.spotify.com/artist/0tWFCFuGxmuWwPL8PUHCU5) | [The Real Roxanne](https://open.spotify.com/album/1GaU037lWFDr9qu19zDuIk) | 5:57 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 68 | [Sucker M.C.'s \(Krush\-Groove 1\)](https://open.spotify.com/track/3hx5R8nOKu5zvhlfDNSIQC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 3:09 |
 | 69 | [The Show](https://open.spotify.com/track/3umJExJml0XrE3BcGtAoCU) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Doug E\. Fresh](https://open.spotify.com/artist/7xN8vFwslE67EC3DhgB9Ip) | [Dame Dash Presents Paid In Full / Dream Team](https://open.spotify.com/album/6cea3Mk3rvbeqZFqSt7TEy) | 4:26 |
 
-Snapshot ID: `MTU4NzA1NDUzNiwwMDAwMDAwMGVmNTQwMjJjOGNiNmYwZjQwMmZlNjQ3MjM4Y2UzNjVl`
+Snapshot ID: `MTU4NzA1NDUzNiwwMDAwMDAwMGY5NjllN2E0Yzg0MWFmZmNkZjk5ZDZkMzM0YjliNmE1`

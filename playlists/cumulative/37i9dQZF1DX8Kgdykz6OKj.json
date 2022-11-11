@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 355720,
       "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
       "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 157603,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4sw0pibcfTp63iRctT7Fnk"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 250360,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/4ZalRYliRkMK6P7Xo7bSEc"
@@ -1387,7 +1387,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 136785,
       "name": "DOOM",
       "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
@@ -1497,7 +1497,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 167054,
       "name": "Dreamchaser",
       "url": "https://open.spotify.com/track/7C9Q8Q26nhw5IBloP9PGCt"
@@ -2101,7 +2101,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 251068,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/4KoYmiDvEfNN4j1ILCxanS"
@@ -2633,7 +2633,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 269982,
       "name": "Home - Village Live",
       "url": "https://open.spotify.com/track/2bkr9TrBPb1p7tPthY63v2"
@@ -3029,7 +3029,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 135529,
       "name": "It's Nice Outside",
       "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
@@ -3281,7 +3281,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199640,
       "name": "Laid Back",
       "url": "https://open.spotify.com/track/4ol5yijURde62kN9JOV35E"
@@ -3359,7 +3359,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"
@@ -4091,7 +4091,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 92053,
       "name": "One from the Tap",
       "url": "https://open.spotify.com/track/4rIrsofYUlk3fNDDVqR0YT"
@@ -4626,6 +4626,32 @@
     },
     {
       "album": {
+        "name": "Eterea - EP",
+        "url": "https://open.spotify.com/album/7pJplZ2ogzgmTRkLNHJ0w7"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "M e a d o w",
+          "url": "https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy"
+        },
+        {
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Same Old Me",
+      "url": "https://open.spotify.com/track/4xKKzYCvsVgOANt4GbdGq5"
+    },
+    {
+      "album": {
         "name": "Same Old Me",
         "url": "https://open.spotify.com/album/3jrlVoxriHF1p8OyZKyHId"
       },
@@ -5027,7 +5053,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 226933,
       "name": "Standing There",
       "url": "https://open.spotify.com/track/6D8fbdTViKv8biaCwcrquo"
@@ -5157,7 +5183,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 218240,
       "name": "Sunlit Days",
       "url": "https://open.spotify.com/track/3eSHjsvLZ8MslZiXZMdW93"
@@ -5379,7 +5405,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 188764,
       "name": "That Jazz",
       "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
@@ -5479,7 +5505,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 179463,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/58nrWMP7Gsr4SUOowBn7Y6"
@@ -5785,7 +5811,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205080,
       "name": "Three Sixty",
       "url": "https://open.spotify.com/track/7weHEmlNuhX947gIGLfQgj"
@@ -6045,7 +6071,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 357200,
       "name": "What They Do",
       "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"

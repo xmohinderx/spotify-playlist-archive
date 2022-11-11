@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 
 > Music & Episodes of “Sword Art Online” series! 音楽とPodcastで辿る「ソードアート・オンライン」の世界！\(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,683 likes - 74 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,781 likes - 74 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 6 | [Resolution](https://open.spotify.com/track/5vaJU5vIRhx6d6lgyYR1Bb) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Resolution](https://open.spotify.com/album/3k4p615S79dsbsuAc0xBhX) | 4:50 |
 | 7 | [I will...](https://open.spotify.com/track/2BTIKSOhf3X8OA3LWbFW2U) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [I will...](https://open.spotify.com/album/1hSdqP7Dh0PN1hyU91nXFb) | 4:34 |
 | 8 | [Till the End](https://open.spotify.com/track/4iaSSJYuSYd9MSOQ2au3Pc) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 6:04 |
-| 9 | [unlasting](https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:56 |
+| 9 | [unlasting](https://open.spotify.com/track/7e5p1On2OUz3Pua4A4ZrsR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [unlasting](https://open.spotify.com/album/7jfP5sIqy7L3NB082no1uM) | 4:57 |
 | 10 | [RESISTER](https://open.spotify.com/track/5bsGv6kAydbH8VTW0xup9D) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy) | 3:47 |
 | 11 | [forget\-me\-not](https://open.spotify.com/track/6DCOPYnwHSpJ0GCKaXdjn5) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [forget\-me\-not](https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2) | 4:26 |
 | 12 | [虹の彼方に](https://open.spotify.com/track/73EQPKdoo72AxZXJ7Xhiq1) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [forget\-me\-not](https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2) | 4:53 |
@@ -24,24 +24,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 14 | [ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [赤い罠\(who loves it?\) / ADAMAS](https://open.spotify.com/album/0FzOLNWpmK69dCGZ5AVjKo) | 3:45 |
 | 15 | [アイリス](https://open.spotify.com/track/3Bl9pbEgCoSnm50nG93bvL) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:07 |
 | 16 | [IGNITE](https://open.spotify.com/track/5ivhfpfnoHhD8rUI2t3aJG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:04 |
-| 17 | [Startear](https://open.spotify.com/track/38V08pHESW17gjuCPLyDrj) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [Candy Lips](https://open.spotify.com/album/15urkuwuHAyODCoizByCf2) | 5:02 |
-| 18 | [courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM) | 4:13 |
-| 19 | [No More Time Machine](https://open.spotify.com/track/3w87wrXLQsUSEaqVpp7aLQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:51 |
+| 17 | [Startear](https://open.spotify.com/track/3Z8TPULJZwq2N9KB8MfyjW) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [LUNA JOULE \(Extra Edition\)](https://open.spotify.com/album/2YQa2eGPuATUACbbTuKqRM) | 5:01 |
+| 18 | [courage](https://open.spotify.com/track/1489XasC9uGNxGr3rXkLnX) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [courage](https://open.spotify.com/album/2tkOigb2s0UN64i51ctoDd) | 4:13 |
+| 19 | [No More Time Machine](https://open.spotify.com/track/12ktBcosX2XZuaV6DQflVZ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [シルシ](https://open.spotify.com/album/6ax1NxmL4JCXn1GmzfWwJT) | 4:50 |
 | 20 | [セパレイト・ウェイズ](https://open.spotify.com/track/68FmEJGOAH3aPEMiIAZaAE) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-starlight\-](https://open.spotify.com/album/4koqulx259upSRxNzOx0RT) | 5:36 |
 | 21 | [Scar/let](https://open.spotify.com/track/5IMh6f4sfKR5820IkKw74f) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 4:17 |
-| 22 | [crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 4:08 |
-| 23 | [シルシ](https://open.spotify.com/track/6shqTPLADEpK31Qgi8LC7k) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:48 |
-| 24 | [ユメセカイ](https://open.spotify.com/track/1OvEX9vVeP0AlkQd3T0hHX) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Sunny Side Story](https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj) | 4:48 |
-| 25 | [INNOCENCE](https://open.spotify.com/track/0N63llGavaESfPRIZkDkvL) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:37 |
+| 22 | [crossing field](https://open.spotify.com/track/0zxgnfOWkAt0xA30KRoERq) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [crossing field](https://open.spotify.com/album/30KYUjwlg4U8Rw3rM0GeFs) | 4:10 |
+| 23 | [シルシ](https://open.spotify.com/track/2HYXGZkEv3m7RXuvFMKuU6) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [シルシ](https://open.spotify.com/album/6ax1NxmL4JCXn1GmzfWwJT) | 4:47 |
+| 24 | [ユメセカイ](https://open.spotify.com/track/4rVKWIzlGgxproI0xUmcqL) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [ユメセカイ](https://open.spotify.com/album/6HMiloPWJXDJiwGQd8SCLy) | 4:49 |
+| 25 | [INNOCENCE](https://open.spotify.com/track/1mMvfxDcSe5dyAyTtFbaro) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU\(Deluxe Edition\)](https://open.spotify.com/album/4yL6YZt4wjBGTe9t5DoGPa) | 4:37 |
 | 26 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 |
-| 27 | [虹の音](https://open.spotify.com/track/0PQjMVtI9hNKKf7rOyV94S) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:51 |
+| 27 | [虹の音](https://open.spotify.com/track/3NplXjK5BivkwrHxVOCSgW) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [虹の音](https://open.spotify.com/album/47fc2EpqcDqXo27UIBgnic) | 4:52 |
 | 28 | [シンシアの光](https://open.spotify.com/track/1mJgEIOFtgA4Ako3Xlyxo4) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:17 |
-| 29 | [夜の虹を越えて](https://open.spotify.com/track/4Gyu7D4V0Al26XfJ0fLOLx) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [Candy Lips](https://open.spotify.com/album/15urkuwuHAyODCoizByCf2) | 4:41 |
+| 29 | [夜の虹を越えて](https://open.spotify.com/track/3pSbnqOyohXCQcQfKQSIlg) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [HARUNA LUNA BEST 2012\-2020](https://open.spotify.com/album/1vCnYHrs6reo0lBGJanOph) | 4:40 |
 | 30 | [Windia](https://open.spotify.com/track/4VQkyCODavb8ofAW8WzNbr) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [LUNA JOULE \(Extra Edition\)](https://open.spotify.com/album/2YQa2eGPuATUACbbTuKqRM) | 4:25 |
 | 31 | [Two of us](https://open.spotify.com/track/5j3tzguUyBwQUGIEcYg2zB) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [COLORFUL GIFT](https://open.spotify.com/album/412nHvP191rDXzUZfEtKc5) | 4:51 |
 | 32 | [Thrill, Risk, Heartless](https://open.spotify.com/track/5gf9xFlRXntw7hl3BBAeNp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls) | 4:16 |
 | 33 | [Catch the Moment](https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 4:42 |
-| 34 | [S×W \-soul world\-](https://open.spotify.com/track/5N4vCxvpWBWptJyme07Ij4) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9), [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [LUNARIUM](https://open.spotify.com/album/1Ev6ESbAlszzgJQvtsyzEL) | 4:02 |
+| 34 | [S×W \-soul world\-](https://open.spotify.com/track/1s4s3WVHJAB1Sb4IWvxQiZ) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9), [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [HARUNA LUNA BEST 2012\-2020](https://open.spotify.com/album/1vCnYHrs6reo0lBGJanOph) | 4:02 |
 | 35 | [My Independent Destiny](https://open.spotify.com/track/2Lgg2Q4gozHkVbsf6c5EWn) | [アスナ \(CV:戸松遥\)](https://open.spotify.com/artist/03WRnU6FJtqmZn7OZppQUq) | [ソードアート・オンライン キャラクターソングコレクション](https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi) | 4:58 |
 | 36 | [Memory Heart Message](https://open.spotify.com/track/14JIQY00fGjLW15dXYteUO) | [サチ \(CV:早見沙織\)](https://open.spotify.com/artist/2yB9uZuPikJpMWWBcf0FRe) | [ソードアート・オンライン キャラクターソングコレクション](https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi) | 4:18 |
 | 37 | [☆Lovely Super Idol☆](https://open.spotify.com/track/1VQfuv9mSuhw55inKRAzwu) | [シリカ \(CV:日高里菜\)](https://open.spotify.com/artist/4JdD6IvJpVxTvMgM20lL6H) | [ソードアート・オンライン キャラクターソングコレクション](https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi) | 4:03 |
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 64 | [think tenderly of you](https://open.spotify.com/track/6G24G2b9bWqz6jZdOmM500) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:03 |
 | 65 | [good bye, again and again](https://open.spotify.com/track/3QUEUxPhOQcqRO4weYu2k6) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:09 |
 | 66 | [ピルグリム](https://open.spotify.com/track/28J422M70C4zeTr5JBH8UL) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 4:05 |
-| 67 | [流星](https://open.spotify.com/track/08qU2grYIu0XldcJZ7jEOb) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:12 |
-| 68 | [step, step](https://open.spotify.com/track/27xkRV5pKfhXryD4eDmbYl) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 3:59 |
+| 67 | [流星](https://open.spotify.com/track/65nY6YE6AezagJqG3EUPua) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [流星 / 約束](https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG) | 4:13 |
+| 68 | [step, step](https://open.spotify.com/track/7fgq3c35vndIAwNDY2e1fd) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 3:59 |
 | 69 | [ALONE](https://open.spotify.com/track/08EaMQ9Ro0NavqaBpdfJDk) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw) | 5:01 |
-| 70 | [Independence](https://open.spotify.com/track/3AuXpyDNWx0GYnRg1RJNB9) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 3:47 |
+| 70 | [Independence](https://open.spotify.com/track/1VftzwJX5TeLsHwOSLhLiU) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 3:47 |
 | 71 | [ヒカリ](https://open.spotify.com/track/2BvMpA00jH8sl90A9VVuY4) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 3:46 |
 | 72 | [Disorder](https://open.spotify.com/track/4uOGiGwI26L2jrJ1x2wsMh) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 4:04 |
-| 73 | [Rea\(s\)oN](https://open.spotify.com/track/7cXiUiPBBvJlrijfy1N0MS) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 4:27 |
+| 73 | [Rea\(s\)oN](https://open.spotify.com/track/6uBKzWKkMX5scyTy389SmX) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 4:27 |
 | 74 | [レプリカ](https://open.spotify.com/track/481leaQhnu88QWqsDEeIru) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 3:29 |
 
-Snapshot ID: `MTY2Njg4MzA0MywwMDAwMDAwMDZiMzBkMWJkY2JjODc2NDkyM2Y1MDBhNDMyMmMzNjVm`
+Snapshot ID: `MTY2Njg4MzA0MywwMDAwMDAwMDNlODM4NmUxMGE5M2IwZWFkZjU4NjZkMzIzMWYyZTAx`

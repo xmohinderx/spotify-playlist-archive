@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 38331,
+  "num_followers": 38339,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDVlM2Y0MWJiOWY1YjFiYjQ3OWI3OTBmNTBhMThjN2E2",
+  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMGY1NmVhNTAzODhjMWFiNWM3ODAyNTM4NjZjODRmM2Rh",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -415,18 +415,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/3FYytbD70Bedz0Nwmsuqqq"
+        "name": "Polarity (VIP)",
+        "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
       },
       "artists": [
         {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP"
+      "duration_ms": 202971,
+      "name": "Polarity - VIP",
+      "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -459,26 +463,6 @@
       "duration_ms": 226916,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Polarity (VIP)",
-        "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Polarity - VIP",
-      "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -727,6 +711,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Us / When the Lights Go",
+        "url": "https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE"
+      },
+      "artists": [
+        {
+          "name": "Tesen",
+          "url": "https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP"
+        }
+      ],
+      "duration_ms": 271542,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 237284,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Us / When the Lights Go",
-        "url": "https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE"
-      },
-      "artists": [
-        {
-          "name": "Tesen",
-          "url": "https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP"
-        }
-      ],
-      "duration_ms": 271542,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -827,6 +811,54 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "High Roller",
+        "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "High Roller",
+      "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "VOID LP",
+        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 327945,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Do It Like Me",
         "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
       },
@@ -851,34 +883,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "VOID LP",
-        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt"
       },
       "artists": [
         {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
         }
       ],
-      "duration_ms": 327945,
-      "name": "Void",
-      "url": "https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
+      "duration_ms": 281379,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -915,22 +931,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        }
-      ],
-      "duration_ms": 281379,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6GMcUsOe9eqEtlm1KAkFIR"
       },
@@ -959,22 +959,6 @@
       "duration_ms": 267586,
       "name": "Operator",
       "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "High Roller",
-        "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        }
-      ],
-      "duration_ms": 275862,
-      "name": "High Roller",
-      "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1091,6 +1075,30 @@
       "duration_ms": 256180,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/2QjcwXdj7h7ftIU4U93For"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Hazard",
+        "url": "https://open.spotify.com/album/59cjLdF8QxClRxM5S6s8a8"
+      },
+      "artists": [
+        {
+          "name": "JMullaUK",
+          "url": "https://open.spotify.com/artist/79ACLCWpSfLNDGbCBzMK3T"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG"
+        }
+      ],
+      "duration_ms": 248239,
+      "name": "Hazard",
+      "url": "https://open.spotify.com/track/1qZZyFjwlAnb3RRYOO7y8Z"
     }
   ],
   "unique_name": "Jump Up!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,220 likes - 49 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,312 likes - 49 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 10 | [Cumbia Africana](https://open.spotify.com/track/0NKgWh7y8wHhlbYE2NvJAN) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/64jRR8ogyHRWsu4ifrc06o) | 3:26 |
 | 11 | [Blackman Know Yourself](https://open.spotify.com/track/7dUUAu2h1rHRLENswfBRfh) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Shoki Shoki](https://open.spotify.com/album/64SF6sZvPJ86whi2eSd5Vb) | 5:19 |
 | 12 | [Budos Theme](https://open.spotify.com/track/6VYSidKaYDQV1cXNBPfvu2) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/1DTr4zczUy1kfP9cISFH6v) | 3:09 |
-| 13 | [The Traitor](https://open.spotify.com/track/1bZH8L8V2m454tdcSPEIl7) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB) | 2:42 |
+| 13 | [The Traitor](https://open.spotify.com/track/1AsfRAABzh6ojovJYDDQlN) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 2:40 |
 | 14 | [Afrofunk Revolution](https://open.spotify.com/track/4rlp9tyP0TSx0wvTaK92dv) | [IFÁ](https://open.spotify.com/artist/0fHVExoTqJ6HFt3p4l10R8), [Okwei V\. Odili](https://open.spotify.com/artist/7eAsGkJpYRgpHVXzW64YLn) | [IFÁ Afrobeat + Okwei V\. Odili](https://open.spotify.com/album/2MV4gX4pZ0KSl8zOE5WKVQ) | 5:12 |
 | 15 | [Expensive Shit](https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best Of The Black President 2](https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2) | 13:13 |
 | 16 | [Grito de Paz](https://open.spotify.com/track/7iXUWrP4u5N9S038vzMCWL) | [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Bixiga 70 \(2011\)](https://open.spotify.com/album/7Bf5GJVyFVzhx304JsXJCh) | 4:26 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 48 | [Enwan](https://open.spotify.com/track/616eSjwX3yd5HhtPNCsjCI) | [The Anansa Professionals](https://open.spotify.com/artist/1qvjh1IbEqCRvjkXrd6vgr) | [Enwan](https://open.spotify.com/album/1ZsHa3jQnKwGZOnHHmw70L) | 5:31 |
 | 49 | [No Wrong Show](https://open.spotify.com/track/1lnHRzrx8GLtkPWEQRebWW) | [Thony Shorby Nyenwi](https://open.spotify.com/artist/3HcwWpnDRCp1zhnPRPDQhd) | [Afro Baby: The Evolution of the Afro\-Sound in Nigeria 1970\-79](https://open.spotify.com/album/3MRCjf7Np4Jn3K4bnNv10a) | 5:43 |
 
-Snapshot ID: `MTY2NDIwMzY3MCwwMDAwMDAwMDZhNGNjZTg1MDU3N2FlMWEzNmU0NTQ5YjBiZDE1MTNm`
+Snapshot ID: `MTY2NDIwMzY3MCwwMDAwMDAwMGU1NWU5MmZjZmJkMTQ4YmIyY2RjZGIzMDM3MDIyNzA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Emeryld \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,984 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,098 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 82 | [New Dress](https://open.spotify.com/track/34MULWFFd6lROjC41h9Iy3) | [Dentist](https://open.spotify.com/artist/3rkvTohJjRrfR0FwRVZGJ2) | [Making a Scene](https://open.spotify.com/album/13rGisUZ9z5lwLkMhTmG2P) | 3:31 |
 | 83 | [ERUPT](https://open.spotify.com/track/3UrBQlFZijtZuWWbq3xtCe) | [Rain on Fridays](https://open.spotify.com/artist/1clbqsZIkv7ci3xQ9lmGPj) | [ERUPT](https://open.spotify.com/album/5tqV7K4XoM6Cjcf5BhsYRn) | 4:11 |
 | 84 | [Make You Mad](https://open.spotify.com/track/5rCAIpNJOv4Kw9QOuvHUPA) | [87 Nights](https://open.spotify.com/artist/5RTiISA2iq6ViQuLUi7HdB) | [Make You Mad](https://open.spotify.com/album/7tnYr62bQ7BJd67L8A69td) | 4:03 |
-| 85 | [Decay](https://open.spotify.com/track/5ZBDSjEqPgFVut3KVen0rk) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Decay](https://open.spotify.com/album/5MfKzK1PNrXOyRkugJGgXq) | 3:07 |
+| 85 | [Decay](https://open.spotify.com/track/4PzCfRj2ujlckhRAThjDsl) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Elvis](https://open.spotify.com/album/0csd5T1V7ziPqic307uK2U) | 3:07 |
 | 86 | [BWP](https://open.spotify.com/track/7MZMaSp8MrJfieHna0nkhq) | [The Paranoyds](https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4) | [Talk Talk Talk](https://open.spotify.com/album/0d9pZCyvnn1xMAX735WlW9) | 3:45 |
 | 87 | [Long, Long Road](https://open.spotify.com/track/6DyB0Dyay5wmihQMR5BR1B) | [The Mease](https://open.spotify.com/artist/7ljqSAWy2NRWgBtBHTgHMy) | [Long, Long Road](https://open.spotify.com/album/1wwOT7p7c9ccs63kf7PAct) | 3:06 |
 | 88 | [Blood Money](https://open.spotify.com/track/0FbmqiqcvIETP7SLa3x0aL) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Tired of Liberty](https://open.spotify.com/album/3aHcCiEzSVklnAgGhl86K9) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Not Nancy](https://open.spotify.com/track/0VZby2ElZMhA52NPFbD7z3) | [Mila Degray](https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu) | [Not Nancy](https://open.spotify.com/album/5TZA8AeVWthYGO8A1o24PG) | 2:59 |
 | 100 | [Truth Or Dare](https://open.spotify.com/track/025gicHQKtkMIFNpnZBak2) | [Carry The Crown](https://open.spotify.com/artist/6d45ZKjCEhvAXmnIAzKkQ8) | [Truth Or Dare](https://open.spotify.com/album/3sRZXTXvblTx6UrnijgTbl) | 2:52 |
 
-Snapshot ID: `MTY2ODAxMzIwMCwwMDAwMDAwMDhjNDg3ZTg5YjM1ZjdiNDk2Yjc0MzgyOWEwMjcwZjBl`
+Snapshot ID: `MTY2ODAxMzIwMCwwMDAwMDAwMDQ5YTU5NDJmYmU4ZDUwMmQxODBhNWZmOGJmOTE1NDUy`

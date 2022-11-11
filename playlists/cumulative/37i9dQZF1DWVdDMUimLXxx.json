@@ -947,10 +947,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 394973,
       "name": "Petricor",
       "url": "https://open.spotify.com/track/4XWqS8UGO5x4ClB2yH0nbW"
+    },
+    {
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/2zMtXfGkXIlc3dWXxHmSEX"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395920,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5Hdv2ubFZAp1tWdWamf90B"
     },
     {
       "album": {

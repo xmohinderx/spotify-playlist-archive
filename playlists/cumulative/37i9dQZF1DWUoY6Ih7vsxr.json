@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 182308,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/33bXkEzVYbyp1nCTx4KNwc"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 236817,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 231626,
       "name": "FANTASTIC BABY - Japanese ver.",
       "url": "https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 186174,
       "name": "High High",
       "url": "https://open.spotify.com/track/00Luoss7SGaxzTEy94cfia"
@@ -1443,6 +1443,24 @@
     {
       "album": {
         "name": "BIGBANG Vol. 1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Vol. 1",
         "url": "https://open.spotify.com/album/4wvNjlQKwJv7L8FB6Y4ivZ"
       },
       "artists": [
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 203599,
       "name": "Magic",
       "url": "https://open.spotify.com/track/0VNQpkPh5l5ncQJCfWMCKZ"
@@ -1817,6 +1835,24 @@
       "duration_ms": 235434,
       "name": "Mr.Mr.",
       "url": "https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN"
+    },
+    {
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232933,
+      "name": "My Heaven",
+      "url": "https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO"
     },
     {
       "album": {
@@ -2253,7 +2289,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 282066,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl"

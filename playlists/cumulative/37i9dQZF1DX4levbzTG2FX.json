@@ -138,6 +138,28 @@
     },
     {
       "album": {
+        "name": "Nothing Ordinary",
+        "url": "https://open.spotify.com/album/6WRkJUXDC0TpsnMhVrJ6DM"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295306,
+      "name": "Death Was Arrested (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/0HQlTKXHDyr4qj6J2t7llc"
+    },
+    {
+      "album": {
         "name": "Death Was Arrested (feat. Seth Condrey)",
         "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
       },
@@ -153,7 +175,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 295306,
       "name": "Death Was Arrested (feat. Seth Condrey)",
       "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
@@ -824,6 +846,24 @@
     },
     {
       "album": {
+        "name": "Revelation Songs - 11 Essential Worship Songs",
+        "url": "https://open.spotify.com/album/62WowmZL7jExKqSU2jYJeY"
+      },
+      "artists": [
+        {
+          "name": "Phillips, Craig & Dean",
+          "url": "https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353013,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/55gRARQ2QueImiy5ZxhdaI"
+    },
+    {
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/17iRcxhZkyMvm7ED8fugj8"
       },
@@ -835,7 +875,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 353013,
       "name": "Revelation Song",
       "url": "https://open.spotify.com/track/5dhnnWCTlmxsgzXyb1wVKm"
@@ -929,7 +969,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 279786,
       "name": "This Is Amazing Grace",
       "url": "https://open.spotify.com/track/0RW1xWSPxmbXf012RN3yWl"
@@ -951,6 +991,24 @@
       "duration_ms": 279786,
       "name": "This Is Amazing Grace",
       "url": "https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr"
+    },
+    {
+      "album": {
+        "name": "The Ascension (Deluxe)",
+        "url": "https://open.spotify.com/album/5t6ecDPo9C6nNOP3TOkHhj"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279786,
+      "name": "This Is Amazing Grace",
+      "url": "https://open.spotify.com/track/63Go1adBR00tUDAkjCX7CN"
     },
     {
       "album": {

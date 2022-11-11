@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Abby Sage, Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,739 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,858 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 4 | [Love Is My Condition](https://open.spotify.com/track/7JMIWkV5UaYvXFjNk0Dw0B) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Love Is My Condition / Away](https://open.spotify.com/album/5Yyqtdm1bLpOij6ISgvG8K) | 3:08 |
 | 5 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 | 6 | [Afterworld](https://open.spotify.com/track/4ILnzWMNQzZVN0WbJuM6Bg) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Afterworld](https://open.spotify.com/album/1L0x1iCP1Uk2pMcKHtwW7Y) | 3:37 |
-| 7 | [craters](https://open.spotify.com/track/7ANEHQXzCXJ0dXq3Dm63yQ) | [Majent](https://open.spotify.com/artist/6pTVLPzvYW3SvwfyjDxtXX) | [craters](https://open.spotify.com/album/25mNbDYIt9mLxUlfD8xAZi) | 2:39 |
+| 7 | [Universes](https://open.spotify.com/track/4gXOhKQhjF2s1v5lNJ7Gyf) | [Space Kuma](https://open.spotify.com/artist/7lpjxiUzFkau5pWSleWcx4) | [Universes](https://open.spotify.com/album/18DLDsgbdgs8GRN6KrxIsj) | 1:06 |
 | 8 | [Hopeless Romantic](https://open.spotify.com/track/0yZGo0JRf8ligEAHgT2k6p) | [02Apollo](https://open.spotify.com/artist/4P0hC4yq6wYrDANYRNjsGn) | [Hopeless Romantic](https://open.spotify.com/album/7CmfAlV0BPcIH4EhyIA3aO) | 2:34 |
 | 9 | [Follow the Cyborg](https://open.spotify.com/track/1HOWyFATPgYbCBMdKM1A66) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1OQ0lvy9RPGBRJH1i8DJes) | 4:45 |
 | 10 | [The Low Land](https://open.spotify.com/track/0nIdgq1KgCBfbmnTdRHtJW) | [Bingo Club](https://open.spotify.com/artist/0nLmmtje0AmaVYALhs9kVv) | [The Low Land](https://open.spotify.com/album/2MXf88ooHiY2p3xkTVrLEv) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 74 | [Molly](https://open.spotify.com/track/5Bxlchum7dWVpR60j6BMrT) | [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Molly](https://open.spotify.com/album/1I8Nu2RsxFcZBfSfaYrbGt) | 2:41 |
 | 75 | [I'm Just Busy, Okay?](https://open.spotify.com/track/51RNJlj6dbAK363vWG5fBv) | [Henry Hall](https://open.spotify.com/artist/2tRg9tU9VRKsmTr2ihZCEs) | [Are You Kidding Me?????](https://open.spotify.com/album/40rLWe6jq1FWX6iptw2mEF) | 2:39 |
 
-Snapshot ID: `MTY2ODAwNjQxNCwwMDAwMDAwMGQzYzg2YWEwNzMyNzlmMzU3YWU5YTE1MTM0OWZmNjEz`
+Snapshot ID: `MTY2ODEyNjYyMSwwMDAwMDAwMGIxYjM4YmJlZTE5ZDJmZjU2ZWQ1MDAxZDY0NTY1ZTZm`

@@ -366,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Amam Mrayti",
+        "url": "https://open.spotify.com/album/40IhIA2n0ms58X0MVpAfVB"
+      },
+      "artists": [
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269189,
+      "name": "Amam Mrayti",
+      "url": "https://open.spotify.com/track/4d3Ek4ZbFFe9voy0cGKkP6"
+    },
+    {
+      "album": {
         "name": "Amina Haf",
         "url": "https://open.spotify.com/album/4VvptRRpUeGbah9qSN06I0"
       },
@@ -2199,6 +2217,24 @@
       "duration_ms": 199248,
       "name": "Takhayel",
       "url": "https://open.spotify.com/track/5kpt7M3vgU5nBFrECytdSv"
+    },
+    {
+      "album": {
+        "name": "Takol Galbi",
+        "url": "https://open.spotify.com/album/3nP4mMLP0HJEFYoAWIghdx"
+      },
+      "artists": [
+        {
+          "name": "Abdulrahman Alazzawi",
+          "url": "https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205805,
+      "name": "Takol Galbi",
+      "url": "https://open.spotify.com/track/6ZeXXsj7opwkg3eNBTdZwJ"
     },
     {
       "album": {

@@ -4,11 +4,11 @@
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-103 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/2YOkhgiX4mtX981PcVEeLB)
+104 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/2YOkhgiX4mtX981PcVEeLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(What's So Funny 'Bout\) Peace, Love And Understanding](https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces \(Remastered 2020\)](https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu) | 3:31 | 2021-12-16 | 2022-11-01 |
+| [\(What's So Funny 'Bout\) Peace, Love And Understanding](https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces \(Remastered 2020\)](https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu) | 3:31 | 2021-12-16 |  |
 | [A Girl Like You](https://open.spotify.com/track/4qz8PpznLcX5AtoUusIiAh) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Smithereens 11](https://open.spotify.com/album/6phj0vCFS4RdTcoGcr0O8q) | 4:42 | 2021-12-16 | 2022-07-26 |
 | [A Million Miles Away](https://open.spotify.com/track/3YryVYJcJ9gP8jfUkkbNvm) | [The Plimsouls](https://open.spotify.com/artist/7BnikuGfXRWkGLJCWS1y9P) | [80s Alternative](https://open.spotify.com/album/13stlNOpLhjH7ZlEL3LFSf) | 3:35 | 2021-12-16 | 2022-07-14 |
 | [Ah! Leah!](https://open.spotify.com/track/3ifaGhNHnCPQ9zdnOfolcZ) | [Donnie Iris](https://open.spotify.com/artist/4kveDT8ylFciq1mdeYcIvw) | [20th Century Masters: The Millennium Collection: Best of Donnie Iris](https://open.spotify.com/album/5SflwEXSYK6xowXF9SDrkF) | 3:42 | 2021-12-16 |  |
@@ -23,7 +23,7 @@
 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2021-12-16 |  |
 | [Bohemian Like You](https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:31 | 2021-12-16 |  |
 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 3:05 | 2021-12-16 |  |
-| [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 | 2021-12-16 |  |
+| [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 | 2021-12-16 | 2022-11-11 |
 | [Buddy Holly](https://open.spotify.com/track/7GptbanebPZYkLPvjNfd6m) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Deluxe Edition\)](https://open.spotify.com/album/33CmI2lR8PnQwz6133Mc7l) | 2:39 | 2021-12-16 | 2022-07-29 |
 | [Can't Stand Losing You](https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 2:58 | 2021-12-16 |  |
 | [Champagne Supernova](https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 7:30 | 2021-12-16 |  |
@@ -90,8 +90,9 @@
 | [Something So Strong](https://open.spotify.com/track/0eDwzWuy2gf1RJzqWl0dkF) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 2:51 | 2021-12-16 | 2022-07-12 |
 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 | 2021-12-16 |  |
 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 | 2021-12-16 |  |
-| [Surrender](https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 4:13 | 2021-12-16 |  |
+| [Surrender](https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 4:13 | 2021-12-16 | 2022-11-11 |
 | [Surrender](https://open.spotify.com/track/4mS1Su5zf50QwNcjYjYzG6) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Discover Cheap Trick](https://open.spotify.com/album/58er2WdwdmxNdGA5hOuJYV) | 4:13 | 2021-12-16 | 2022-07-29 |
+| [Surrender](https://open.spotify.com/track/58Y6BSkfvYMOlnzHEd4i7W) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Mullets Rock!](https://open.spotify.com/album/2z0xrls1lusYQBe8eWcRIT) | 4:14 | 2021-12-16 |  |
 | [Teacher Teacher](https://open.spotify.com/track/4Vb8fzZfCOI351qz1g0ExT) | [Rockpile](https://open.spotify.com/artist/4eBRIkqBA2GyYKzLvXD9a4) | [Seconds Of Pleasure \(Expanded Edition\)](https://open.spotify.com/album/0dkVeZHLACjaN92aUHwu02) | 2:34 | 2021-12-16 | 2022-07-24 |
 | [Tempted](https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [East Side Story](https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy) | 4:00 | 2021-12-16 |  |
 | [That Is Why](https://open.spotify.com/track/7eilLreA3JyO5IkSEYQTBt) | [Jellyfish](https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL) | [Bellybutton](https://open.spotify.com/album/6AvUI8ZOKncy7e6ThVbtAV) | 4:16 | 2021-12-16 | 2022-07-29 |

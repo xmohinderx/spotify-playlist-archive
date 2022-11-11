@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "$1",
+        "url": "https://open.spotify.com/album/0FOjeAgCYszGkzaEPzetUg"
+      },
+      "artists": [
+        {
+          "name": "Timebelle",
+          "url": "https://open.spotify.com/artist/5HiW8Shh2vPcD16rE8MaBr"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202709,
+      "name": "$1",
+      "url": "https://open.spotify.com/track/46RW4jluYNI8ay2NgRwq3m"
+    },
+    {
+      "album": {
         "name": "/fingerprints/",
         "url": "https://open.spotify.com/album/5YhldtfMx3Xaehuek4WUd8"
       },
@@ -953,6 +971,24 @@
       "duration_ms": 138336,
       "name": "After the Party",
       "url": "https://open.spotify.com/track/5IXZ1y2JR5YJ2zZzVzqcEp"
+    },
+    {
+      "album": {
+        "name": "After This / Certain Father / Hold",
+        "url": "https://open.spotify.com/album/2gOS81x3Vems2Tcb8ctFaa"
+      },
+      "artists": [
+        {
+          "name": "July Talk",
+          "url": "https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240389,
+      "name": "After This",
+      "url": "https://open.spotify.com/track/3Kd0urrDZd1gU3SrPiUkH9"
     },
     {
       "album": {
@@ -8375,6 +8411,24 @@
     {
       "album": {
         "name": "Dopamine",
+        "url": "https://open.spotify.com/album/4bUvMbWIYNKV9ZQKCaabOm"
+      },
+      "artists": [
+        {
+          "name": "Pale Moon",
+          "url": "https://open.spotify.com/artist/0Fs4anTtuXgqXzOFOdfOs9"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154487,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/2mCpvXUKoxExA4kJ5omRE3"
+    },
+    {
+      "album": {
+        "name": "Dopamine",
         "url": "https://open.spotify.com/album/39jPNvjoxyRoobNh2wtp94"
       },
       "artists": [
@@ -11913,6 +11967,24 @@
       "duration_ms": 161613,
       "name": "Go Gina",
       "url": "https://open.spotify.com/track/6Vmow8PuUaU7W1T2WWLZk2"
+    },
+    {
+      "album": {
+        "name": "God Bite",
+        "url": "https://open.spotify.com/album/24B0BXWc6ThbbwmdMwefRV"
+      },
+      "artists": [
+        {
+          "name": "Paul Spring",
+          "url": "https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165462,
+      "name": "God Bite",
+      "url": "https://open.spotify.com/track/6PRkr8Z1mwcGShsQvZFGxF"
     },
     {
       "album": {
@@ -16202,6 +16274,24 @@
     },
     {
       "album": {
+        "name": "Just My Luck",
+        "url": "https://open.spotify.com/album/0d1Q4z8Oal0miGesPod7qA"
+      },
+      "artists": [
+        {
+          "name": "Cobi",
+          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220149,
+      "name": "Just My Luck",
+      "url": "https://open.spotify.com/track/52cHtQaGAp1H19EV7qrXSk"
+    },
+    {
+      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -17105,7 +17195,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 221976,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/1p5AcZ6RCOdgQkPTM8QD5m"
@@ -22176,6 +22266,24 @@
     },
     {
       "album": {
+        "name": "Unwind",
+        "url": "https://open.spotify.com/album/2vquozInAKYvk5GLVkPFHs"
+      },
+      "artists": [
+        {
+          "name": "Marty Thompson",
+          "url": "https://open.spotify.com/artist/3e2PdcbAflyA9g25SVcQiS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417424,
+      "name": "Old John Blues",
+      "url": "https://open.spotify.com/track/7zqfrCaUqVmHBcTbS8X7Tl"
+    },
+    {
+      "album": {
         "name": "The Watcher - EP",
         "url": "https://open.spotify.com/album/64ZY4OiQIIWKdpgg5Q3dZa"
       },
@@ -23513,6 +23621,24 @@
       "duration_ms": 275693,
       "name": "Polaroids",
       "url": "https://open.spotify.com/track/0GHOuQ5U6Cxp40TcE7zEi0"
+    },
+    {
+      "album": {
+        "name": "Poplar",
+        "url": "https://open.spotify.com/album/63yJIaKwIpPCpsczJzTNQC"
+      },
+      "artists": [
+        {
+          "name": "Katie Martucci",
+          "url": "https://open.spotify.com/artist/1Pauw1blpwFYbcIcKT34n2"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191123,
+      "name": "Poplar",
+      "url": "https://open.spotify.com/track/08NuXZHxneRMWkwcI602FG"
     },
     {
       "album": {
@@ -28476,6 +28602,24 @@
     },
     {
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/0hfGbrno3wc7UCukHFRqO4"
+      },
+      "artists": [
+        {
+          "name": "Bethany Sorenson",
+          "url": "https://open.spotify.com/artist/4OZUZ4yeIl8vnkVoHpE28v"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206272,
+      "name": "Sunflower - Acoustic",
+      "url": "https://open.spotify.com/track/3Vr2FgdIxFYsNUFEkCBXfo"
+    },
+    {
+      "album": {
         "name": "Things That Never Fade Away",
         "url": "https://open.spotify.com/album/270tAUouDFz47ftwTui1TD"
       },
@@ -29633,6 +29777,24 @@
       "duration_ms": 245080,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
+    },
+    {
+      "album": {
+        "name": "The Guns of Shiloh",
+        "url": "https://open.spotify.com/album/3RIyq6frD12oYUnuLWyG8O"
+      },
+      "artists": [
+        {
+          "name": "The Uninvited",
+          "url": "https://open.spotify.com/artist/4Brr0ghVfmQZblFH40zIOB"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362632,
+      "name": "The Guns of Shiloh",
+      "url": "https://open.spotify.com/track/6YE3338iJZL6MeaeDoSmx9"
     },
     {
       "album": {
@@ -32885,7 +33047,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 174160,
       "name": "what if you break my heart again",
       "url": "https://open.spotify.com/track/7Fr2RRp9HBqfXdC6n3mMhB"
@@ -34481,6 +34643,24 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "album": {
+        "name": "Your Soul",
+        "url": "https://open.spotify.com/album/42u15BwX747YNux83gXTWK"
+      },
+      "artists": [
+        {
+          "name": "Thomas Lemmer",
+          "url": "https://open.spotify.com/artist/01Ix2zdjR4PQ2eYMpclD9d"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175560,
+      "name": "Your Soul",
+      "url": "https://open.spotify.com/track/5CfyyF1eKO5PWdBfbUtfqW"
     },
     {
       "album": {

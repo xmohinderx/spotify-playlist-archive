@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Throwback Tunes: 70s",
+        "url": "https://open.spotify.com/album/5DJHtJpuoj7VidJ447oD8s"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305850,
+      "name": "Cool Change",
+      "url": "https://open.spotify.com/track/5NCdBqlGr5QtYT1nNrCQID"
+    },
+    {
+      "album": {
         "name": "First Under The Wire (Remastered 2010)",
         "url": "https://open.spotify.com/album/6vCT1BZLicHHNWc0McAWb2"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 316218,
       "name": "Cool Change - Remastered 2022",
       "url": "https://open.spotify.com/track/2SEGYVnWImKLUOkU3Qa8sX"
@@ -480,6 +498,24 @@
     },
     {
       "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/3k55Aa9R0fBxP9iRkDrBuz"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194493,
+      "name": "I Got a Name - Stereo Version",
+      "url": "https://open.spotify.com/track/2S0curmaVnRDRA4IBjigDb"
+    },
+    {
+      "album": {
         "name": "I Got a Name",
         "url": "https://open.spotify.com/album/4ieaeNOAdq6VoYQrY0hkhq"
       },
@@ -491,7 +527,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 194493,
       "name": "I Got a Name - Stereo Version",
       "url": "https://open.spotify.com/track/38llcrfX1arUqrEe0DRRzW"
@@ -732,6 +768,24 @@
     },
     {
       "album": {
+        "name": "The Original Albums...Plus",
+        "url": "https://open.spotify.com/album/4asosdO6SSNJJO5Hij5QbM"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189053,
+      "name": "New York's Not My Home",
+      "url": "https://open.spotify.com/track/23bhZn2h3UqZ0CBPeOsOvS"
+    },
+    {
+      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
@@ -743,7 +797,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 189053,
       "name": "New York's Not My Home",
       "url": "https://open.spotify.com/track/2iAe3yqQ5QYX8SI1iF4kJ6"
@@ -869,10 +923,28 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 212471,
       "name": "Romeo's Tune",
       "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
+    },
+    {
+      "album": {
+        "name": "The Best of Steve Forbert: What Kinda Guy?",
+        "url": "https://open.spotify.com/album/3bCJi7nXVOUk909cfwjjfr"
+      },
+      "artists": [
+        {
+          "name": "Steve Forbert",
+          "url": "https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Romeo's Tune",
+      "url": "https://open.spotify.com/track/3WkS8UHF7rzEzJjxPKtX2v"
     },
     {
       "album": {

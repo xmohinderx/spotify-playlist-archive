@@ -4,7 +4,7 @@
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-72 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/79QmEbB0xiRT4xmUcdumGe)
+73 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/79QmEbB0xiRT4xmUcdumGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Rough Rider](https://open.spotify.com/track/08LwN4NnSGYzDWcdKtV92V) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [The World Ends: Afro Rock & Psychedelia in 1970s Nigeria](https://open.spotify.com/album/34D88uX2koESycju2ROiAV) | 3:53 | 2019-03-22 | 2022-07-29 |
 | [Running](https://open.spotify.com/track/2TBhRXwBxfIJwhrB9gLlnn) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:54 | 2019-03-22 |  |
 | [Secret Agent](https://open.spotify.com/track/2YvGLm7HGIRwzH1pgQDmRP) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent](https://open.spotify.com/album/6h1aeEO1kgBipcysl27xB7) | 5:20 | 2019-03-22 | 2022-07-29 |
-| [Secret Agent \- 2022 \- Remaster](https://open.spotify.com/track/2AjmSwDI5PqOUeAM32kBo3) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent \(2022 Remaster\)](https://open.spotify.com/album/7IShXowFqPNYwLaNIvmsph) | 5:18 | 2019-03-22 |  |
+| [Secret Agent](https://open.spotify.com/track/3cEmHXnOZ25VECvzWTBjVg) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent](https://open.spotify.com/album/5C5xiAht5p8l8Z7oSJFebW) | 5:20 | 2019-03-22 |  |
+| [Secret Agent \- 2022 \- Remaster](https://open.spotify.com/track/2AjmSwDI5PqOUeAM32kBo3) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent \(2022 Remaster\)](https://open.spotify.com/album/7IShXowFqPNYwLaNIvmsph) | 5:18 | 2019-03-22 | 2022-11-11 |
 | [She's A Dropout](https://open.spotify.com/track/3SOSAvBON7ZfpxPvNm3KJ1) | [The Apostles](https://open.spotify.com/artist/0yAP23o7hl2gwDjXxKdjki) | [Ivory Music Classics, Vol\. 1](https://open.spotify.com/album/3frHNk2EAU3GqMPYeHWpWk) | 3:11 | 2019-03-22 |  |
 | [Somebody's Gonna Lose or Win](https://open.spotify.com/track/6YnhY4SuFyx3gMgeyTlVdI) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [The World Ends: Afro Rock & Psychedelia in 1970s Nigeria](https://open.spotify.com/album/34D88uX2koESycju2ROiAV) | 3:09 | 2019-03-22 |  |
 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 | 2019-03-22 |  |

@@ -1696,6 +1696,24 @@
     },
     {
       "album": {
+        "name": "Relaxing Study Music",
+        "url": "https://open.spotify.com/album/6XoR2ZWHiDmUZDNLr8CFrN"
+      },
+      "artists": [
+        {
+          "name": "Thymes",
+          "url": "https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136296,
+      "name": "Free as a Bird",
+      "url": "https://open.spotify.com/track/0ubmEMJ8mepIt4zLQCN1fR"
+    },
+    {
+      "album": {
         "name": "Free as a Bird",
         "url": "https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf"
       },
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 136296,
       "name": "Free as a Bird",
       "url": "https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g"

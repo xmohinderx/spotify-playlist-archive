@@ -1952,6 +1952,24 @@
     },
     {
       "album": {
+        "name": "Every Once In A While",
+        "url": "https://open.spotify.com/album/1cqpXUfpXUQqLoAJkWhJ2K"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235206,
+      "name": "The Golden Sky",
+      "url": "https://open.spotify.com/track/4BQb7O3xT1YKXkvJlAQHwt"
+    },
+    {
+      "album": {
         "name": "Nobody Lives Here Anymore",
         "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
       },
@@ -1963,7 +1981,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 235206,
       "name": "The Golden Sky",
       "url": "https://open.spotify.com/track/4rq928bInvxoDlfWr6nstY"
@@ -2307,7 +2325,7 @@
     {
       "album": {
         "name": "Welcome to Hard Times",
-        "url": "https://open.spotify.com/album/6zo8AF0lCWc216j4GTYARj"
+        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
       },
       "artists": [
         {
@@ -2318,6 +2336,24 @@
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185754,
+      "name": "Welcome to Hard Times",
+      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
+    },
+    {
+      "album": {
+        "name": "Welcome to Hard Times",
+        "url": "https://open.spotify.com/album/6zo8AF0lCWc216j4GTYARj"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 185754,
       "name": "Welcome to Hard Times",
       "url": "https://open.spotify.com/track/0tij6loXatN15kmrAjWWRr"

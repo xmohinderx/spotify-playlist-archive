@@ -249,7 +249,7 @@
     {
       "album": {
         "name": "Bright Dawn Riddim",
-        "url": "https://open.spotify.com/album/7kM83QA7i1CaBIByXSIIzh"
+        "url": "https://open.spotify.com/album/56dKSbQijsJuvVxdQNiUkm"
       },
       "artists": [
         {
@@ -260,6 +260,24 @@
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216511,
+      "name": "Far Above",
+      "url": "https://open.spotify.com/track/4xJ6LdzyX4BBx19XuGqR6q"
+    },
+    {
+      "album": {
+        "name": "Bright Dawn Riddim",
+        "url": "https://open.spotify.com/album/7kM83QA7i1CaBIByXSIIzh"
+      },
+      "artists": [
+        {
+          "name": "Danny Gift",
+          "url": "https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 216511,
       "name": "Far Above",
       "url": "https://open.spotify.com/track/7hiGfUcMXTdILXfIlFDD3S"

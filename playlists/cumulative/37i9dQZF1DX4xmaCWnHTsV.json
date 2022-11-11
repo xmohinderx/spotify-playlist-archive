@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 134445,
       "name": "Blue Suede Shoes",
       "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 167840,
       "name": "Boppin' The Blues",
       "url": "https://open.spotify.com/track/0wNnwLgq5N9lWYib8eUnu6"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 144173,
       "name": "Bottle to the Baby",
       "url": "https://open.spotify.com/track/2ImE4dNfy18hhApS7EwrLG"
@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "20 Rock 'N' Roll Hits",
+        "url": "https://open.spotify.com/album/12uadrsBO9OStSXlXLV6cW"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135160,
+      "name": "Fujiyama Mama",
+      "url": "https://open.spotify.com/track/0ovkMINhv9Q6pTBlXuaolR"
+    },
+    {
+      "album": {
         "name": "Rockin' With Wanda",
         "url": "https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca"
       },
@@ -307,10 +325,32 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 134733,
       "name": "Fujiyama Mama - Remastered",
       "url": "https://open.spotify.com/track/5GZKrlylsU8zoILY2aiDJz"
+    },
+    {
+      "album": {
+        "name": "Meteor Rockabilly & Hillbilly Recordings",
+        "url": "https://open.spotify.com/album/2rQOB86QUXGmEHjWvduZbm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Feathers",
+          "url": "https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN"
+        },
+        {
+          "name": "Jody & Jerry",
+          "url": "https://open.spotify.com/artist/60vvMCwC7lmGNhzcY4393t"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124160,
+      "name": "Get with It",
+      "url": "https://open.spotify.com/track/16GMlvbWHeWXHYzJCVtD6d"
     },
     {
       "album": {
@@ -343,7 +383,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 125626,
       "name": "Grandaddy's Rockin'",
       "url": "https://open.spotify.com/track/5XTKNlsQKuozZ44degiPhc"
@@ -415,7 +455,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 160200,
       "name": "Hot Dog! That Made Him Mad - Remastered",
       "url": "https://open.spotify.com/track/1r0qsbI9hQu5v5aSCTTqJR"
@@ -437,6 +477,24 @@
       "duration_ms": 139013,
       "name": "I Got a Rocket in My Pocket - Remastered Single Version",
       "url": "https://open.spotify.com/track/3Qx5VIqbesK1ByTLuXcddr"
+    },
+    {
+      "album": {
+        "name": "The Legendary Sun Classics",
+        "url": "https://open.spotify.com/album/5U0whF1wDL149JzbCCeVjI"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pittman",
+          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173773,
+      "name": "I Need A Man",
+      "url": "https://open.spotify.com/track/3vk6HvWYYlzwXaPxijyV2K"
     },
     {
       "album": {
@@ -469,7 +527,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 168120,
       "name": "Jungle Rock",
       "url": "https://open.spotify.com/track/0XSHcO8JNMSA8kXvppB5bS"
@@ -509,7 +567,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 127847,
       "name": "Matchbox",
       "url": "https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs"
@@ -603,7 +661,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 130500,
       "name": "Ooby Dooby",
       "url": "https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5"
@@ -693,10 +751,28 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 142615,
       "name": "Right Behind You Baby",
       "url": "https://open.spotify.com/track/1eI9gpxLg80Om4pirkr9oe"
+    },
+    {
+      "album": {
+        "name": "Sun King Collection - Warren Smith",
+        "url": "https://open.spotify.com/album/74e4X2wLdD6hMvNwPJFMTB"
+      },
+      "artists": [
+        {
+          "name": "Warren Smith",
+          "url": "https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175864,
+      "name": "Rock & Roll Ruby",
+      "url": "https://open.spotify.com/track/5oW7im37xyFjBk3vN4M0F4"
     },
     {
       "album": {
@@ -715,6 +791,24 @@
       "duration_ms": 138066,
       "name": "Rock Around With Ollie Vee - Alternate Version",
       "url": "https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv"
+    },
+    {
+      "album": {
+        "name": "Sun Records - Turn It Up! Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Carroll",
+          "url": "https://open.spotify.com/artist/3XSGiLi5qS4wvmIDaT70mq"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140452,
+      "name": "Rock Baby Rock It",
+      "url": "https://open.spotify.com/track/0SVgeLujszq37tFKW05BRZ"
     },
     {
       "album": {
@@ -751,6 +845,82 @@
       "duration_ms": 123000,
       "name": "Rock House",
       "url": "https://open.spotify.com/track/36YXD9jFfw446zqlOVGFD2"
+    },
+    {
+      "album": {
+        "name": "All American Rock 'N' Roll from Fraternity Records",
+        "url": "https://open.spotify.com/album/7n8d7Wzpu2LxkchyD1Jfyn"
+      },
+      "artists": [
+        {
+          "name": "Sparkle Moore",
+          "url": "https://open.spotify.com/artist/4SPbyaeJhJ2vkRM61jsMYe"
+        },
+        {
+          "name": "Dan Belloc's Orchestra",
+          "url": "https://open.spotify.com/artist/4PIkVqtgrm8JIoyUaWytqX"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134826,
+      "name": "Rock-a-Bop",
+      "url": "https://open.spotify.com/track/2pJnxaBbts4d1p1iiuo0NS"
+    },
+    {
+      "album": {
+        "name": "National Recording Corporation: Travelin' With Ray",
+        "url": "https://open.spotify.com/album/6yleT8mFXVQKfP8vDLkNfQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Smith",
+          "url": "https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "Rockin' Little Angel",
+      "url": "https://open.spotify.com/track/1R4kAzLGI0PQBe32NAGP40"
+    },
+    {
+      "album": {
+        "name": "Singles 1955-1962",
+        "url": "https://open.spotify.com/album/75fjiwthYBRJsdQvm8Eyem"
+      },
+      "artists": [
+        {
+          "name": "Andy Starr",
+          "url": "https://open.spotify.com/artist/5XwjCCdpnaF4qz7nUUdNp9"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171700,
+      "name": "Rockin' Rollin' Stone",
+      "url": "https://open.spotify.com/track/06qGD5AoCHM0DOFoyOh88V"
+    },
+    {
+      "album": {
+        "name": "Ain't I'm A Dog: 25 More Rockabilly Rave-Ups",
+        "url": "https://open.spotify.com/album/6N7LA4F8xTHa4S1hv7iOIt"
+      },
+      "artists": [
+        {
+          "name": "Sid King & The Five Strings",
+          "url": "https://open.spotify.com/artist/30iave5q5TpH869k7ySE3e"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137066,
+      "name": "Sag, Drag And Fall",
+      "url": "https://open.spotify.com/track/3xw9oodXlV5TLFSXKdcKqt"
     },
     {
       "album": {
@@ -844,6 +1014,24 @@
     },
     {
       "album": {
+        "name": "Travelin' Man",
+        "url": "https://open.spotify.com/album/0LCPRRtpMK4NMjOQw7vYnL"
+      },
+      "artists": [
+        {
+          "name": "Sanford Clark",
+          "url": "https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/1OZhRZLUFzFUzDia1RuXgr"
+    },
+    {
+      "album": {
         "name": "Presenting Sandford Clark",
         "url": "https://open.spotify.com/album/5QCtTTUmVu4BaPOlupFecs"
       },
@@ -855,7 +1043,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 167373,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/0JcE8h38d6tTuse4IkPLXn"
@@ -913,6 +1101,24 @@
       "duration_ms": 172400,
       "name": "Whole Lot of Shakin' Going On",
       "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
+    },
+    {
+      "album": {
+        "name": "We Love You To Pieces",
+        "url": "https://open.spotify.com/album/2u2Cu8Rh1SFHSQdpLljS6n"
+      },
+      "artists": [
+        {
+          "name": "Janis Martin",
+          "url": "https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118200,
+      "name": "Will You Willyum",
+      "url": "https://open.spotify.com/track/4uMZprSlC7PjVZClchOtf9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4xmaCWnHTsV"

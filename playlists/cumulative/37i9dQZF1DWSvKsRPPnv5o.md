@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Roddy Ricch
 
-303 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/5aX0s9SI2pKqP9pXX6vZ2V)
+305 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/5aX0s9SI2pKqP9pXX6vZ2V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Fuck Love](https://open.spotify.com/track/3FcsP46yuD5OhisPkp0jFT) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [Fuck Love](https://open.spotify.com/album/38VrQda1Fd52DXKHe1z5KQ) | 2:18 | 2022-04-08 | 2022-05-14 |
 | [FYM](https://open.spotify.com/track/264tGGB1Wwy7IrNmeuBdml) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [FYM](https://open.spotify.com/album/1hCULCwXYcFdaMpnUjQbO7) | 1:51 | 2022-07-08 | 2022-09-10 |
 | [G Code](https://open.spotify.com/track/4HRrPBE2SBs2Ntz65twzFp) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 3:19 | 2022-07-15 |  |
-| [Gang Gang](https://open.spotify.com/track/5wS0BO0Mg4p3TfqNEJggR0) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/1IXCMUaQ662JRUz6KOH0IS) | 2:57 | 2022-10-14 |  |
+| [Gang Gang](https://open.spotify.com/track/41OQzTfVOGpI5F1LZFxS4s) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/7hhRY1PXp3mnJy0pchCX04) | 2:57 | 2022-11-04 |  |
+| [Gang Gang](https://open.spotify.com/track/5wS0BO0Mg4p3TfqNEJggR0) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/1IXCMUaQ662JRUz6KOH0IS) | 2:57 | 2022-10-14 | 2022-11-11 |
 | [Gangsters Anonymous](https://open.spotify.com/track/0WDo3YEg8ShNfoq6rhX57R) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs) | [LA SUMMERS2](https://open.spotify.com/album/18xu8eyrzg2paLjUGJOgDh) | 2:03 | 2022-09-09 |  |
 | [Ghetto Lullaby \(feat\. Jehkai\)](https://open.spotify.com/track/4RyowPzokoDdLCxk56PfBG) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5), [Jehkai](https://open.spotify.com/artist/0EqsIz6jZtqiwz76zMMDH6) | [Ghetto Lullaby \(feat\. Jehkai\)](https://open.spotify.com/album/2igr9F4M6J6hbfOSVuWop1) | 2:17 | 2021-12-03 | 2022-02-19 |
 | [Ghetto Praise](https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6) | [Jay 305](https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Ghetto Praise](https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc) | 3:13 | 2022-04-29 | 2022-06-25 |
@@ -222,7 +223,8 @@
 | [On My Way Up \(feat\. Roddy Rich\)](https://open.spotify.com/track/7IPmY6ICbq3fgESalaC3An) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Roddy Rich](https://open.spotify.com/artist/0wAtXnbE4dgmdsqEZLkdb5) | [Rodney Brown Jr](https://open.spotify.com/album/1vnYinE0S5ozezv7FVM0lI) | 3:12 | 2022-10-21 |  |
 | [One Time](https://open.spotify.com/track/4Q0HwxjwDAPq7doGaLUxCk) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [One Time](https://open.spotify.com/album/4bSCnj5Mlp6fixSnzYQTmq) | 2:01 | 2022-07-22 | 2022-08-13 |
 | [Only Fans \(feat\. G Perico\)](https://open.spotify.com/track/5ndDC07F37lJm5raCPNA9P) | [Haiti Babii](https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi), [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Only Fans \(feat\. G Perico\)](https://open.spotify.com/album/1vaN6rMtLNd66VahhErP4i) | 2:38 | 2022-02-04 | 2022-04-02 |
-| [Ooh Ooh \(feat\. Kamaiyah\)](https://open.spotify.com/track/79Csbflmj17xJiATcjOlB8) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/1IXCMUaQ662JRUz6KOH0IS) | 3:48 | 2022-10-14 |  |
+| [Ooh Ooh \(feat\. Kamaiyah\)](https://open.spotify.com/track/79Csbflmj17xJiATcjOlB8) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/1IXCMUaQ662JRUz6KOH0IS) | 3:48 | 2022-10-14 | 2022-11-11 |
+| [Ooh Ooh \(feat\. Kamaiyah\)](https://open.spotify.com/track/0eYbr09DWlQfZSYJTvheeu) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [G Way 3](https://open.spotify.com/album/7hhRY1PXp3mnJy0pchCX04) | 3:48 | 2022-11-04 |  |
 | [Open Arms](https://open.spotify.com/track/2aKdhAWm1SX4B7KY5QuGB6) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Open Arms](https://open.spotify.com/album/426w7uaE2CVAgi4AFf0VEu) | 2:44 | 2022-07-15 | 2022-10-08 |
 | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/track/6bhgpD7OkCATudfKJ50JB6) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/album/1EZE4ij3YcQUNNG3y1AduM) | 2:08 | 2022-02-11 | 2022-03-05 |
 | [OUTTA LINE](https://open.spotify.com/track/2HghsZnVNsZhUeVl6VlbS8) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OUTTA LINE](https://open.spotify.com/album/2rI0mfDQtPc34umvL8AEuL) | 2:43 | 2022-06-17 | 2022-09-10 |

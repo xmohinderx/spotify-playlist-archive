@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,268 likes - 123 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,290 likes - 123 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 25 | [Cautionary Warning](https://open.spotify.com/track/0DQre1WvAlGHKpLFTEf3Hp) | [John Sykes](https://open.spotify.com/artist/3ZZT5Z4TDnzZWq9SiYHS4P) | [20th Century](https://open.spotify.com/album/2IaBluULXQF4YpVXSf8m3s) | 3:28 |
 | 26 | [ハートはお手上げ](https://open.spotify.com/track/4cz4rzNSj4CCHiDQc2jeCI) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/5mH5JPr8LDLvwYmcNN6T5F) | 3:48 |
 | 27 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 |
-| 28 | [Yusyaou Tanjo!](https://open.spotify.com/track/0fXSXv994QelaK0uMx9pIN) | [Masaaki Endoh](https://open.spotify.com/artist/1uRGOZVsk9cXts7zgD7yVc) | [The King of Braves GaoGaiGar Original Motion Picture Soundtrack 1](https://open.spotify.com/album/0pnp57nqaxJLw3sAKysXyL) | 3:54 |
+| 28 | [Yusyaou Tanjo!](https://open.spotify.com/track/4QZ41QhiwbppuRql7oHjuq) | [Masaaki Endoh](https://open.spotify.com/artist/1uRGOZVsk9cXts7zgD7yVc) | [The King of Braves GaoGaiGar Gao Yusyaoh Tanjo! 10 Renpatsu!!](https://open.spotify.com/album/4Pda7onnrwtWYSNw6t3E9d) | 3:55 |
 | 29 | [春擬き](https://open.spotify.com/track/29CiLtYHYgzNNd3I0hfVPw) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Follow My Tracks](https://open.spotify.com/album/6YmY9pmnhXG9dOyXTH9kOm) | 4:31 |
 | 30 | [Red fraction](https://open.spotify.com/track/2hqpcsqOnPHxWDIRGPJAXC) | [MELL](https://open.spotify.com/artist/2hEvvgrmO91VMERk44HPY1) | [MELLSCOPE](https://open.spotify.com/album/3YQJIiW2Hv9BCHPgJc24dl) | 3:41 |
 | 31 | [Inner Light \- TV edition](https://open.spotify.com/track/71zqOfJlkGzIBjtHLMNseQ) | [Shocking Lemon](https://open.spotify.com/artist/0xZTwWYmwR47nvglvPM7QT) | [FINAL ROUND 「はじめの一歩」 オリジナル・サウンドトラック](https://open.spotify.com/album/3taWL3ok4f4v1uxX1AvSvM) | 1:23 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 46 | [Last Train Home](https://open.spotify.com/track/2O7heTmxheKOe1T0jNBPd1) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Still Life \(Talking\)](https://open.spotify.com/album/5YnUbwAzrorRuvSJ0sCj7n) | 5:38 |
 | 47 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 |
 | 48 | [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 6:27 |
-| 49 | [Falling Down](https://open.spotify.com/track/3Gy1tNeogQ28BpgSBU7i7u) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Falling Down \- EP](https://open.spotify.com/album/0OSzN9fDs305Kt9Bxy7sKr) | 4:29 |
+| 49 | [Falling Down](https://open.spotify.com/track/5du2VJlhCc6JQRpslZCZ3A) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Falling Down](https://open.spotify.com/album/2XBi3bmujezF6w2eXcW0oZ) | 4:20 |
 | 50 | [Shine](https://open.spotify.com/track/7hzfrKYkRfPUIiagwhBtZS) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 3:42 |
 | 51 | [Do You Want To](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [You Could Have It So Much Better](https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P) | 3:35 |
 | 52 | [The Light Before We Land](https://open.spotify.com/track/1YlJxKDk7fvXgkoKwxlo9v) | [The Delgados](https://open.spotify.com/artist/4wavWMHhIiUXxwCuWsHzXo) | [Hate](https://open.spotify.com/album/2oAM6coeJLJ8j20lnLzvdF) | 5:30 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 64 | [Dokidokitokidokitokimekiss?](https://open.spotify.com/track/1umqkFzdRAqcE2W1x7QSv6) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Toyful Basket](https://open.spotify.com/album/3sPrKf36F1RZtrOzL2OtQC) | 4:38 |
 | 65 | [シャイン](https://open.spotify.com/track/5JqwKzr9XLO1k4upBPUQma) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [シャイン](https://open.spotify.com/album/5Ut9dQBI7U6GhPXMQWuEZi) | 4:39 |
 | 66 | [遠いこの街で](https://open.spotify.com/track/3cFNzaAwCXjKtLdALoFG8n) | [皆谷尚美](https://open.spotify.com/artist/6a9dX5C57biSqChhn5Bg1F) | [カードキャプターさくら ソングコレクション 1999.4\~2001.2](https://open.spotify.com/album/1APIG3mlldR0bmcnzChicR) | 5:01 |
-| 67 | [Touch](https://open.spotify.com/track/1YgsafBW9O7vhTjeeSuapN) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [Touch](https://open.spotify.com/album/19XENSrORBPh2v5EVAOtI1) | 3:13 |
+| 67 | [Touch](https://open.spotify.com/track/4aFneI3IWBoVUQAVQq3DBt) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [Touch](https://open.spotify.com/album/7xPNqHgWm3mNT859JSRy8I) | 3:14 |
 | 68 | [sign](https://open.spotify.com/track/5w1L7Bj14oC7II12HdZP1k) | [Ray](https://open.spotify.com/artist/7cN69jaR3jtYeBaNsiVFoN) | [sign](https://open.spotify.com/album/5tuOGEA8zB2GxrUgtkzP2e) | 4:47 |
 | 69 | [secret base \~君がくれたもの\~ \(10 years after Ver.\)](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 |
 | 70 | [よふかしのうた](https://open.spotify.com/track/0LQs5gRhqJKLOl8fFukRsQ) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/5jSk91UuzjkqRYY8BdFzmZ) | 3:57 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 84 | [EVERYBODY! EVERYBODY!](https://open.spotify.com/track/019VApLcYSTlzDTVlUvtDA) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP) | [EVERYBODY! EVERYBODY! / YOU YOU YOU](https://open.spotify.com/album/6iKqixctHE9MFc0JZFlUNt) | 4:41 |
 | 85 | [Bomb A Head!V](https://open.spotify.com/track/56A2HquYMTBQjx1XBCCO7E) | [m.c.A・T](https://open.spotify.com/artist/63Y91rXxT9bh4sLc0SGq41) | [m.c.A・T Best Singles+](https://open.spotify.com/album/3UFWewzTxmw6eGmA0a250n) | 4:08 |
 | 86 | [雨にキッスの花束を](https://open.spotify.com/track/4ydvnLC5X6YVibRcjp40j1) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [retour](https://open.spotify.com/album/4E81A7gM3qGwAK9cWFgWda) | 4:38 |
-| 87 | [euro nerv](https://open.spotify.com/track/7rRIdY02p9SRCE8y6hS9li) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION" EVANGELION: 3.0+1.0.](https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok) | 1:22 |
+| 87 | [euro nerv](https://open.spotify.com/track/4C9gTP0CqhPtU7GIjiRNWj) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [EVANGELION INFINITY](https://open.spotify.com/album/4ljzknLJLgvVsjhAAUGgMG) | 1:27 |
 | 88 | [水の星へ愛をこめて](https://open.spotify.com/track/49dRdtIMmYGAeMr6hcwKyi) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/51sr6QLv4BNQFokua1xFFB) | 3:41 |
 | 89 | [MAWARE SETSUGETSUKA](https://open.spotify.com/track/79V79k4i3e9n6thw2TUXB2) | [歌組雪月花](https://open.spotify.com/artist/26yiuGZXw2gyJhreN6bJMf) | [HIGECORE!](https://open.spotify.com/album/6rcrV8O10BZ8L4nLmiy56g) | 3:55 |
 | 90 | [さくらんぼキッス\~爆発だも\~ん\~ \(2022mix\)](https://open.spotify.com/track/2eDXclH340GEDRaeMNSXNF) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [すぅぃ\~とさいくろん\-☆いぇいっ☆\-](https://open.spotify.com/album/40UFF2n3AOPoYiogy1Nvi3) | 4:52 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 122 | [Os\-宇宙人](https://open.spotify.com/track/7HsV5OfoVNXrGuut2ajhl7) | [エリオをかまってちゃん](https://open.spotify.com/artist/5JOZVjE1rtPOcz1pBrKk11) | [Os\-宇宙人](https://open.spotify.com/album/53YWZArR1MqUYd4OXLkujy) | 3:23 |
 | 123 | [メニメニマニマニ](https://open.spotify.com/track/7EvzUhU6zpdJxAsjNQZ1gN) | [高宮なすの\(CV:鳴海杏子\)](https://open.spotify.com/artist/4YUQrz8swYxgcc9dWV0nIG) | [メニメニマニマニ](https://open.spotify.com/album/0OflLmwcweeJ90j3qShjth) | 4:29 |
 
-Snapshot ID: `MTY2NzkwMzE5MSwwMDAwMDAwMGU4N2IxM2Q3ZTcyOGE0NjBiNmQ3MGE0NzFlMjgwOGQ4`
+Snapshot ID: `MTY2NzkwMzE5MSwwMDAwMDAwMGNhNzkwOTQzNjUwZTJjNTgyMjk1NzM3YzFmZDExNzMz`

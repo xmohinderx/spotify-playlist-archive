@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gDTB1VLIIh.md) - [plain]
 
 > This is Nasty C, also known to fans as "A Zulu Man With Some Power"\. The essential tracks, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,621 likes - 45 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,678 likes - 45 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can’t Imagine](https://open.spotify.com/track/0rnpL28BY6fgO5ZYZnAwT6) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Can’t Imagine](https://open.spotify.com/album/1ia7otI37M8BfXPGkFtnTw) | 2:23 |
 | 2 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 |
-| 3 | [Particula](https://open.spotify.com/track/0e8fTfa0ZKCwOi2UdULooT) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Know No Better](https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC) | 3:24 |
+| 3 | [Particula](https://open.spotify.com/track/3EVAqibEvsTHK3p2HCnWcG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Major Lazer Presents: Give Me Future \(Music From & Inspired By the Film\)](https://open.spotify.com/album/4N4QvFcRTy1fHTmLrMKsSV) | 3:24 |
 | 4 | [SMA](https://open.spotify.com/track/4fkCcUS3Gl5cRi9zNt7oMa) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Strings And Bling](https://open.spotify.com/album/6JyxiTsgY9NgCgBxwtrhgo) | 5:14 |
 | 5 | [Stalling](https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Stalling](https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG) | 3:52 |
 | 6 | [Why Me?](https://open.spotify.com/track/7rpEhFwa8OTnMoqkDT0JOr) | [Audiomarc](https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Why Me?](https://open.spotify.com/album/7ipNeYgWhbiQUjmgKJCEHZ) | 3:07 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gDTB1VLIIh.md) - [plain]
 | 44 | [SAP](https://open.spotify.com/track/2IukRUX2L4pIpaOpIai6FU) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Da Les](https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy) | [SAP](https://open.spotify.com/album/75KPPCKkrI3RHbmdpfiXll) | 4:35 |
 | 45 | [Don't BAB \- The Ivyson Tour](https://open.spotify.com/track/7kDbjMBlp5RiWy13EnPjwX) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [Don't BAB \(The Ivyson Tour\)](https://open.spotify.com/album/1H7NetNXogIicJEMJAJzKB) | 3:52 |
 
-Snapshot ID: `MTY1MDQ1NTc3NCwwMDAwMDAwMDVmNGU0ZDgxNTRjMWRmYWY1YTM3OWYwN2FkZTcwYzIz`
+Snapshot ID: `MTY1MDQ1NTc3NCwwMDAwMDAwMDg0YzI2OTEyY2I2MjJiZjI5MTljMTkwNTA3MTMyZWRj`

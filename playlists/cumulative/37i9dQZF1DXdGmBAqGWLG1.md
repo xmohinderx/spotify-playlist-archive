@@ -4,7 +4,7 @@
 
 > Escuchá la banda de sonido de La Serie.
 
-63 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/5t0ADaneMsPzHagGYtx1HJ)
+66 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/5t0ADaneMsPzHagGYtx1HJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2020-09-18 |  |
 | [Comfortably Numb](https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 6:22 | 2020-09-18 |  |
 | [Corazones Olvidados](https://open.spotify.com/track/0iq11oI3kFLQf03aA1m7tG) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [El Refugio](https://open.spotify.com/album/5QdO8J1rNjxqtnLwtRTEkq) | 3:42 | 2020-09-18 |  |
-| [Cruel](https://open.spotify.com/track/1r7vAaA9NGDMUJ6ZlGFtlY) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/6kVObsiPuJyJbQfNh3zdfW) | 4:06 | 2020-09-18 |  |
+| [Cruel](https://open.spotify.com/track/1r7vAaA9NGDMUJ6ZlGFtlY) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/6kVObsiPuJyJbQfNh3zdfW) | 4:06 | 2020-09-18 | 2022-11-11 |
+| [Cruel](https://open.spotify.com/track/2SySuqbOnf1sjztrLZcfCm) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK) | 4:06 | 2020-09-18 |  |
 | [Cruel](https://open.spotify.com/track/2qtRjks5ngZHNZYHBi7v9X) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ) | 4:06 | 2020-09-18 | 2022-07-29 |
 | [Dejar caer el sol](https://open.spotify.com/track/0CFGqMYIIzWWZAqaQakK3P) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [YACANTO](https://open.spotify.com/album/49f97tJOF5ZKTseAVoyKSR) | 4:39 | 2020-09-18 |  |
 | [Dulce condena](https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [¡Hasta luego!](https://open.spotify.com/album/26vh26M3hPs7BMelYSQ6iH) | 4:41 | 2020-09-18 | 2022-07-29 |
@@ -32,7 +33,8 @@
 | [El 38](https://open.spotify.com/track/2qLmEdr1UoLetZUjPgSB9X) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [ROCK PESADO vol\. I](https://open.spotify.com/album/7raMr2V1jKqLN2c6sJZuGs) | 2:29 | 2020-09-18 | 2022-08-10 |
 | [El 38](https://open.spotify.com/track/5Ywzb69fz015zVnTFMY22i) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Sin Roll no hay ROCK](https://open.spotify.com/album/0QHlimvlC1tLuERJYZJ3I2) | 2:29 | 2020-09-18 |  |
 | [El 38](https://open.spotify.com/track/66n55tZL25ZJfjXDWAnJZU) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Rockeando Halloween](https://open.spotify.com/album/1wIfC9Fha14vbezXBqHUQp) | 2:29 | 2020-09-18 | 2022-11-07 |
-| [El Final Es En Donde Partí](https://open.spotify.com/track/3QVG9ezfGM2M4falJMZPpT) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Rockea Argentina](https://open.spotify.com/album/4Bc5A73Edp881CmU2WPsPj) | 4:36 | 2020-09-18 |  |
+| [El Final Es En Donde Partí](https://open.spotify.com/track/3PPG2ED8zN1qzEngtsatwc) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Grupo ROCK](https://open.spotify.com/album/439HEbHhuo0aWO4tpvmyqV) | 4:36 | 2020-09-18 |  |
+| [El Final Es En Donde Partí](https://open.spotify.com/track/3QVG9ezfGM2M4falJMZPpT) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Rockea Argentina](https://open.spotify.com/album/4Bc5A73Edp881CmU2WPsPj) | 4:36 | 2020-09-18 | 2022-11-11 |
 | [El Final Es En Donde Partí](https://open.spotify.com/track/5aKMTFv6hkPfn5WwwR78Kg) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Pogo ROCK](https://open.spotify.com/album/4ETtOUHfTO2NJ70oaNLXIu) | 4:36 | 2020-09-18 | 2022-08-22 |
 | [El Final Es En Donde Partí](https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:36 | 2020-09-18 | 2022-07-29 |
 | [El Ojo Blindado](https://open.spotify.com/track/5L0oNcUAPW4zFLBekccycM) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 2:14 | 2020-09-18 |  |
@@ -46,7 +48,8 @@
 | [Hella Good](https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 4:02 | 2020-09-18 |  |
 | [Hey Joe](https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:30 | 2020-09-18 |  |
 | [Houses of the Holy \- 1990 Remaster](https://open.spotify.com/track/4es5wreov9D4Y4fXLGZkuB) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(1994 Remaster\)](https://open.spotify.com/album/1lZahjeu4AhPkg9JARZr5F) | 4:02 | 2020-09-18 | 2022-07-29 |
-| [Houses of the Holy \- Remaster](https://open.spotify.com/track/0d0Z9qFbTIgDSZtImluTAy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 4:04 | 2020-09-18 |  |
+| [Houses of the Holy \- Remaster](https://open.spotify.com/track/0d0Z9qFbTIgDSZtImluTAy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 4:04 | 2020-09-18 | 2022-11-11 |
+| [Houses of the Holy \- Remaster](https://open.spotify.com/track/0gJmT4VMZd6iYDvqfOou0A) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Remaster\)](https://open.spotify.com/album/4Q7cPyiP8cMIlUEHAqeYfd) | 4:04 | 2020-09-18 |  |
 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 | 2020-09-18 |  |
 | [Imposible](https://open.spotify.com/track/5Vrw8Br1PSD8OcjblU5BEV) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:07 | 2020-09-18 |  |
 | [Instinto](https://open.spotify.com/track/2bEpxS2owATA3ZbcSFlTg4) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Hermanos](https://open.spotify.com/album/4Y6sjWEwLfRco4b75rZmOW) | 4:24 | 2020-09-18 |  |

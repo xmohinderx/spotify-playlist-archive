@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Violet Bell
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,805 likes - 132 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,842 likes - 132 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 64 | [The Hunt](https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Hunt](https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h) | 3:22 |
 | 65 | [Yarrow](https://open.spotify.com/track/4sGJEM8PFJTvM3AcVRs8G4) | [Red Tail Ring](https://open.spotify.com/artist/7eFNDfeRSsRCcUGLBVZZB3) | [Fall Away Blues](https://open.spotify.com/album/5b5tbQBg8U6xVdnUzofOFr) | 3:21 |
 | 66 | [Ocean Bed](https://open.spotify.com/track/2BWuYpaqwipELjFdTlui9P) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Fish Pond Fish](https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7) | 4:00 |
-| 67 | [Folk Bloodbath](https://open.spotify.com/track/3n61p4bD8YnksjhVuONs7a) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Universal Favorite](https://open.spotify.com/album/72BjHzwfZXDbxm1HuiXcAo) | 6:04 |
+| 67 | [Folk Bloodbath](https://open.spotify.com/track/2YbcwEuGUvVX87MsayxTBi) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [The Ultimate Singer Songwriter Album Vol.1](https://open.spotify.com/album/1bbswlmHOlZxVG4Ft4DDQV) | 6:04 |
 | 68 | [Canary](https://open.spotify.com/track/78Qbk2eUKvyyoAbJwCsc0m) | [Honeysuckle](https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f) | [Honeysuckle](https://open.spotify.com/album/3MAQdDkPqH2EWgAkDMyZyI) | 4:28 |
 | 69 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
 | 70 | [Unhurried](https://open.spotify.com/track/0uGY93shNywFnDavxcuj53) | [Rachel Stevener](https://open.spotify.com/artist/6Pes4qkdbvkqjDpGv1W1zs) | [Unhurried](https://open.spotify.com/album/3NNNcR5XuIoETEEdvOzdRC) | 3:59 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 131 | [Don't Cry](https://open.spotify.com/track/2irMeKkUB59LWCU7i9XDnj) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 3:21 |
 | 132 | [Jenny Put the Kettle On](https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM) | 2:00 |
 
-Snapshot ID: `MTY2NTc2NjAyMCwwMDAwMDAwMGFkNzdiYzM4YThmYTE3ZWE5ODExMjE1MGRhNmUyNGUx`
+Snapshot ID: `MTY2NTc2NjAyMCwwMDAwMDAwMDExMmFlNWM0Yzk3NGVjNmQ1YmFjYTk2MzIyNmQ1NmVm`

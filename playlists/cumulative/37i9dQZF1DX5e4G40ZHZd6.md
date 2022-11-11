@@ -4,7 +4,7 @@
 
 > The very best Blues out of the heart of Northern Mississippi\. Cover: R.L\. Burnside
 
-57 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/12p7yPNty8Ri63ExFtFGMS)
+58 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/12p7yPNty8Ri63ExFtFGMS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,8 +60,9 @@
 | [Someday Baby](https://open.spotify.com/track/5ZBUC1YafitJgLt8dgZYTW) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [A Bothered Mind](https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm) | 3:16 | 2021-06-24 |  |
 | [Standing in My Doorway Crying](https://open.spotify.com/track/4uHjQU61NLb1iWEqF4yVZr) | [Jessie Mae Hemphill](https://open.spotify.com/artist/75bUlG7zJQWJkRqESmNWsW) | [She\-Wolf](https://open.spotify.com/album/7rDuDANyPXjzFRw87JMZex) | 4:40 | 2021-06-24 |  |
 | [Station Blues](https://open.spotify.com/track/4UitJ6h1WHDJGHxOieVEIn) | [Otha Turner & The Afrossippi Allstars](https://open.spotify.com/artist/6ybv0R1RyZrDLZYeKRm8FD) | [From Senegal to Senatobia](https://open.spotify.com/album/4C1iDQOYYRgXD2Cxpp4G91) | 4:55 | 2021-06-24 |  |
-| [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 | 2021-06-24 |  |
+| [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 | 2021-06-24 | 2022-11-11 |
 | [Step In](https://open.spotify.com/track/3NG5DtW4VQT7DjNzWtVNTy) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Step In](https://open.spotify.com/album/3Ia0YigWnUyqgjoLgSnFCg) | 2:35 | 2021-06-24 | 2022-07-29 |
+| [Step In](https://open.spotify.com/track/3RI449DPz5BeY9927KWYlH) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Step In](https://open.spotify.com/album/0VhKwExkg99sIQA9xwBCbD) | 2:35 | 2021-06-24 |  |
 | [We Made It](https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 3:34 | 2021-06-24 |  |
 | [We Made It](https://open.spotify.com/track/7grmdH9UkWas0f6R7tycoB) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/2qwusH3jkwaQepmNSLR8rO) | 3:34 | 2021-06-24 | 2022-07-29 |
 | [Write Me a Few Lines](https://open.spotify.com/track/7wBkT3b1nMXfPH7OKji5yj) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [You Gotta Move](https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1) | 3:37 | 2021-06-24 |  |

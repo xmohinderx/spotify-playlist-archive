@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > BROCKHAMPTON makes anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,277 likes - 117 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,410 likes - 117 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 46 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 |
 | 47 | [Bitter](https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Bitter](https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO) | 2:59 |
 | 48 | [off the map](https://open.spotify.com/track/1VjFGmdI8jKbs3rCjGfc1G) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH) | [off the map](https://open.spotify.com/album/4qpSyJ8g2EPT7U3b43mXqZ) | 2:09 |
-| 49 | [PORN ACTING\*](https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 |
+| 49 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:51 |
 | 50 | [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC) | 4:40 |
 | 51 | [Don't Ask, Don't Tell \(feat\. redveil, Sam Truth & Glen the Saiyan\)](https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa), [Glen the Saiyan](https://open.spotify.com/artist/7vHpwq0fPbCFXXEfZ0O135), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Impostor Syndrome](https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6) | 4:57 |
 | 52 | [haircut](https://open.spotify.com/track/2TAPDfBVQU50hNcbGUq9Q8) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [haircut](https://open.spotify.com/album/6DDPra9LW0x5iQCdV84HXV) | 2:57 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 70 | [99' pollen](https://open.spotify.com/track/5fFUfa9IruZpJfxaB5owcY) | [keni can fly](https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW) | [99' pollen](https://open.spotify.com/album/6L1riIGws8qozuRQJ0rmZi) | 3:11 |
 | 71 | [DANDELION](https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [DANDELION](https://open.spotify.com/album/4GKSKzLd3STRz3wAL1Fzmc) | 3:21 |
 | 72 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
-| 73 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 |
-| 74 | [Forever](https://open.spotify.com/track/2kVoWT4iY0paZ1I23LMlAA) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Forever](https://open.spotify.com/album/1Zp8ABHBwkxjj2YGjuoMbP) | 3:15 |
+| 73 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
+| 74 | [Forever](https://open.spotify.com/track/2E5WLGiojYmshFaRgaZslJ) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Forever \(Live from Nana's House\)](https://open.spotify.com/album/54zMiyH2Wxca1HzOlNbzJj) | 3:15 |
 | 75 | [BAD FRUIT\*](https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:26 |
 | 76 | [Mad](https://open.spotify.com/track/1TBPNMm6q0zqCJ7rQa0Hwf) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [Mad](https://open.spotify.com/album/0P1Ab55WHo8RlAJ01M7SjZ) | 2:04 |
 | 77 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 116 | [Clandestino](https://open.spotify.com/track/0aGZXenXxYlbNuJypCHLgT) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [\[redacted\]](https://open.spotify.com/album/25TYH4rc3INhrbHtmAxo9q) | 2:46 |
 | 117 | [Can We Talk?](https://open.spotify.com/track/6nUn03gjgENFLXHt3c3LDq) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Can We Talk?](https://open.spotify.com/album/5TwgvZiqe2SfDkvTZ5Y2ni) | 3:46 |
 
-Snapshot ID: `MTY2ODAyNDcxMSwwMDAwMDAwMDY0Y2JiZTMzM2FiZGJkNGFhZDUzYWJjMDUyMTZlNjYy`
+Snapshot ID: `MTY2ODAyNDcxMSwwMDAwMDAwMDY2NGIzNTdlZGU5OWJlYzRmZWNmYzMxODBjNTQyNDlj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,367 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,394 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 16 | [Tutti Frutti](https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:24 |
 | 17 | [I Like Me Better \- Ryan Riback Remix](https://open.spotify.com/track/2wViKxJDqr6AUG6dv7oMW4) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [I met you when I was 18\. \(the extras\)](https://open.spotify.com/album/53L0zJIjxxqClZyJGN5p7o) | 3:30 |
 | 18 | [If The World Ended Tonight \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/7m26R0lPWq6OaDuL6o3aRr) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:56 |
-| 19 | [Heartshaker](https://open.spotify.com/track/7awrM47SxC8KHtt2WUMyPZ) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Collide](https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7) | 3:06 |
+| 19 | [Heartshaker](https://open.spotify.com/track/719rz3mpGPKOZkDUiYAfJB) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Heartshaker](https://open.spotify.com/album/12OOM8ZTfJ8z3alGg2SQWU) | 3:06 |
 | 20 | [warm glow](https://open.spotify.com/track/0WSPIU3Y3bNXsGeKnzSnt1) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [warm glow](https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8) | 5:58 |
 | 21 | [17](https://open.spotify.com/track/5SjErtIbsrlp0Gz26t4Qpy) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:39 |
 | 22 | [Highway](https://open.spotify.com/track/0Pauzv94n1YslWEd32WNa9) | [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi) | [Error 404](https://open.spotify.com/album/1P5LPhxM7YCe7cqiPr3xvx) | 3:18 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 72 | [You & I](https://open.spotify.com/track/2rVoTl5ZMP3UijfJVnyRgf) | [Twinsmith](https://open.spotify.com/artist/6OzddGLeuKG9irjEC13C69) | [Stay Cool](https://open.spotify.com/album/44ZygtuH05Lo1yUuVcBA85) | 3:30 |
 | 73 | [Human Right](https://open.spotify.com/track/0e866bvP5rorqKS0pPjvr5) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Faint of Heart](https://open.spotify.com/album/6Oo2L6mlblKkGSWj49Q7mn) | 3:13 |
 | 74 | [GOOD](https://open.spotify.com/track/71hoNUltGAiXxpdKBjbYvs) | [Erin McCarley](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) | [GOOD](https://open.spotify.com/album/2lnPx91gy6GkNoOzxKtfwL) | 3:56 |
-| 75 | [Bad Ones \(feat\. Tegan and Sara\)](https://open.spotify.com/track/31AYjxq6VkR57EgcwAJFmO) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Bunny](https://open.spotify.com/album/6ycHu5HE3kRz1HC2E5gtXo) | 4:32 |
+| 75 | [Bad Ones \(feat\. Tegan and Sara\)](https://open.spotify.com/track/0RYI2UwbaqjSSn5eabKoW3) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Bad Ones \(feat\. Tegan and Sara\)](https://open.spotify.com/album/0slxg5klNGFhKIQQxyTR6G) | 4:36 |
 | 76 | [Gum \(Everybodys My Friend\)](https://open.spotify.com/track/4GMHiEsI3ASKrnJbVv3TR4) | [OYSTER KIDS](https://open.spotify.com/artist/5iN89s0E8GcsTkIvCtYMRa) | [Gum \(Everybodys My Friend\)](https://open.spotify.com/album/3UP8lveAC0yWz3kHoxCUuF) | 3:02 |
 | 77 | [Nadir](https://open.spotify.com/track/5pGCxazPxShO5jBpOyM85f) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Modern Addiction](https://open.spotify.com/album/36uRsDIqy2qooBY9gum3qC) | 4:01 |
 | 78 | [Hypnotic Regression](https://open.spotify.com/track/0AIhZWdCh5A01W5ldiS6Z5) | [Girls Names](https://open.spotify.com/artist/4UAxwzDV5PYB11huf5Shs3) | [The New Life](https://open.spotify.com/album/7cUfFtYLowKwLNrrJiAxFj) | 3:48 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 84 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 85 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 |
 
-Snapshot ID: `MTY0NDQ0NzMxMywwMDAwMDAwMDJkYTUzM2Y1MjE1ZDk1NDk2ODRjOThhZDQ1M2ZiMmM4`
+Snapshot ID: `MTY0NDQ0NzMxMywwMDAwMDAwMGFjNzY1Mjg2NTNmZDMzYWQ2ZWY3ZDIwZWQ2MGI2N2Nk`

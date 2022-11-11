@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 25255,
+  "num_followers": 25347,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGIxMzZkYjk2MzI0NDMwNzZhYjZhMjEyMmFjNjZiYWUw",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDVhYjk4YTcwZWZjNTI0YzUzZmRjYTRmMmMxNzc1MzRh",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Satellite Man",
-        "url": "https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO"
-      },
-      "artists": [
-        {
-          "name": "Satellite and the Harpoonist",
-          "url": "https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG"
-        }
-      ],
-      "duration_ms": 180432,
-      "name": "Satellite Man",
-      "url": "https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Holy Ghost Fire",
         "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Satellite Man",
+        "url": "https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO"
+      },
+      "artists": [
+        {
+          "name": "Satellite and the Harpoonist",
+          "url": "https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG"
+        }
+      ],
+      "duration_ms": 180432,
+      "name": "Satellite Man",
+      "url": "https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -491,18 +491,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Don't Tell Me No Lies",
-        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
       },
       "artists": [
         {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 147423,
-      "name": "Don't Tell Me No Lies",
-      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
+      "duration_ms": 220960,
+      "name": "Go Crazy (feat. Keb' Mo')",
+      "url": "https://open.spotify.com/track/7G6oI8xoGa62LGvE2xjtfP"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -523,22 +527,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+        "name": "Don't Tell Me No Lies",
+        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
         }
       ],
-      "duration_ms": 220960,
-      "name": "Go Crazy (feat. Keb' Mo')",
-      "url": "https://open.spotify.com/track/7G6oI8xoGa62LGvE2xjtfP"
+      "duration_ms": 147423,
+      "name": "Don't Tell Me No Lies",
+      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Nobody's Wrong",
-        "url": "https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp"
-      },
-      "artists": [
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 235311,
-      "name": "Nobody's Wrong",
-      "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Howlin\u2019",
         "url": "https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Tape V",
-        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
+        "name": "Nobody's Wrong",
+        "url": "https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp"
       },
       "artists": [
         {
-          "name": "Daniel Spaleniak",
-          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
         }
       ],
-      "duration_ms": 177801,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
+      "duration_ms": 235311,
+      "name": "Nobody's Wrong",
+      "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -675,6 +659,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Tape V",
+        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Spaleniak",
+          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
+        }
+      ],
+      "duration_ms": 177801,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Homemade Disaster",
         "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 194564,
       "name": "Homemade Disaster",
       "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
-      },
-      "artists": [
-        {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
-        }
-      ],
-      "duration_ms": 212147,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -727,6 +711,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
+      },
+      "artists": [
+        {
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+        }
+      ],
+      "duration_ms": 212147,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Chocolate Samurai",
         "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Difference Between Me & You",
-        "url": "https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G"
-      },
-      "artists": [
-        {
-          "name": "Black Joe Lewis & The Honeybears",
-          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Nothing but a Clich\u00e9",
-      "url": "https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 191688,
       "name": "Don't Say Goodbye",
       "url": "https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "The Difference Between Me & You",
+        "url": "https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G"
+      },
+      "artists": [
+        {
+          "name": "Black Joe Lewis & The Honeybears",
+          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Nothing but a Clich\u00e9",
+      "url": "https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub"
     },
     {
       "added_at": "2022-08-31 19:45:43",

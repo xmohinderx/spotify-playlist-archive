@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,151 likes - 59 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,171 likes - 59 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 5 | [Ella Es Como un Ángel \- En Vivo Cosquín Rock](https://open.spotify.com/track/1ZwRW2fBF8MwLhopiNeYcJ) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Vivo Cosquín Rock](https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR) | 2:58 |
 | 6 | [La Balada del Diablo y la Muerte](https://open.spotify.com/track/46hGh2ZdORn4We1nsbkPK8) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [La Balada del Diablo y la Muerte](https://open.spotify.com/album/1MMzu2HjRm27tsrBKFMvOx) | 5:33 |
 | 7 | [Foxtrot](https://open.spotify.com/track/0mUm43Yjv9vPqR8YycWyJs) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I), [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Juanito y el Carposaurio](https://open.spotify.com/album/63AaZ5VTi5wATmRN3nifP7) | 3:22 |
-| 8 | [Blues para Mi Guitarra](https://open.spotify.com/track/42JynzhyR1fbyEvSuJHqEE) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 7:09 |
+| 8 | [Blues para Mi Guitarra](https://open.spotify.com/track/6dgxc2QWXkPE8l4XzuZ3Kc) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues 71/99](https://open.spotify.com/album/3zB6RrCvfdQ2wOlR1vTCtD) | 7:09 |
 | 9 | [Todo Va a Arder \(En vivo en Sesiones de Bar\)](https://open.spotify.com/track/5kZxky7iciP3kEKn8nPlm9) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Todo Va a Arder \(En vivo en Sesiones de Bar\)](https://open.spotify.com/album/2UZFC1cuAbXrc4HO8OKkY1) | 4:15 |
 | 10 | [Un Beso Grande](https://open.spotify.com/track/3WqIBVb0k5VQ3kNkZSvBQi) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Un Beso Grande](https://open.spotify.com/album/1fYosbYikwwEOWOyCWqZjR) | 3:46 |
 | 11 | [Preocupado y Aburrido](https://open.spotify.com/track/4u34ORMzURyViyUF2OIks4) | [Alambre Gonzalez](https://open.spotify.com/artist/3oLANiNTf5qyrciZmnPyYU) | [Alambre González & Amigos](https://open.spotify.com/album/6Uyq3DIYiEi3eRVX1m2CHO) | 3:57 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 23 | [Libre](https://open.spotify.com/track/5680bDZ194zUc41nSA10V2) | [The Medina Lopez Project](https://open.spotify.com/artist/1mal4kvjCOYdMhy54u1lbr), [Miguel Vilanova Botafogo](https://open.spotify.com/artist/4JvIylcUq039PpkcmpR86u) | [Rutero](https://open.spotify.com/album/4qlUVuR8BE2GocHNBe67Pk) | 4:02 |
 | 24 | [La Cuerera](https://open.spotify.com/track/05rGtV13uXIFxTU4gM1imR) | [La Banda del Capitan Corneta](https://open.spotify.com/artist/77AlmICl9sl7wXBJmC4V08) | [Historias de un Hijo del Blues](https://open.spotify.com/album/4TfcvHpBXCh6jZJsq0SuTO) | 3:48 |
 | 25 | [Blues de un Mal Día](https://open.spotify.com/track/0E9ZgLmfHms1NacBglc8Tp) | [Vintage Blues](https://open.spotify.com/artist/3luarwh0COunUYtyT2kdxI) | [Blues de un Mal Día](https://open.spotify.com/album/18ADDaA1XSAGbs8s9gA81B) | 7:41 |
-| 26 | [Nunca Antes](https://open.spotify.com/track/3MQb8IGVwWrtPk3D4yX7wC) | [David Tanganelli](https://open.spotify.com/artist/6vYA1nveYtnaxieU1WE3K3), [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Up](https://open.spotify.com/album/7ax8UzSvJb3T2toKKAue6g) | 3:48 |
+| 26 | [Nunca Antes](https://open.spotify.com/track/48crkUV9uPpCy8xzHDGExr) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j), [David Tanganelli](https://open.spotify.com/artist/6vYA1nveYtnaxieU1WE3K3) | [Tributo al Blues, Vol\. 1](https://open.spotify.com/album/3xFO6qK7NxlU6XDHU9mRiX) | 3:48 |
 | 27 | [Blues Magic](https://open.spotify.com/track/1izys4V3iMHvjORAlR4s2a) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana IV](https://open.spotify.com/album/7ppcZmolcIO6nCQkYpIxsh) | 4:25 |
 | 28 | [La Daga](https://open.spotify.com/track/36GW9gqFecRrqUflgDMLh4) | [La Rata Bluesera](https://open.spotify.com/artist/2lbnuoTiUF2WUqQ4YAQsyn), [Federico Dannemann](https://open.spotify.com/artist/4OU6bEG2xDcF7KMOwgksQO), [Gonzalo Araya](https://open.spotify.com/artist/00ua8zSEXT7dVLjI1P4o2G) | [Valdivia](https://open.spotify.com/album/7HTuFQBLSkwOatzrGKfdJB) | 4:02 |
 | 29 | [Crazy Dream](https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Los Lonely Boys](https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA) | 4:47 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 58 | [Témpano de Hielo](https://open.spotify.com/track/101jHksIr05Ir0cKcpyKpw) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Magnolia](https://open.spotify.com/album/165s9omOoI3IYG7SX7osuq) | 3:13 |
 | 59 | [Avellaneda Blues](https://open.spotify.com/track/15YA2WKbpA7Jd7y7X74naF) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Obras Cumbres](https://open.spotify.com/album/0n3NEHj4PMTmlM6hXXapbm) | 5:33 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGYwNDllZmU3MTM1ZTNjNmNmOGRhN2ZiYmU0NjIwNjU3`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDA3YTkyNzNjNjg2YWQyOGI3NzcxMmE0YTZkMTgxYWM3`

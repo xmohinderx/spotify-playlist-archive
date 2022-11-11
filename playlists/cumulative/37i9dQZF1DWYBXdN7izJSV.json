@@ -37,10 +37,28 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 234666,
       "name": "16 Days",
       "url": "https://open.spotify.com/track/3aFMz2anc9vurZw6bPunI6"
+    },
+    {
+      "album": {
+        "name": "Americana Rock",
+        "url": "https://open.spotify.com/album/5A9mQFpDyzvEwnteUyKknt"
+      },
+      "artists": [
+        {
+          "name": "Whiskeytown",
+          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "16 Days",
+      "url": "https://open.spotify.com/track/6zh48IKkVxVFJ0x4d4L8GK"
     },
     {
       "album": {
@@ -1317,7 +1335,7 @@
     {
       "album": {
         "name": "Circles",
-        "url": "https://open.spotify.com/album/6P9VUVYvKNP7DULIJ5p7Ks"
+        "url": "https://open.spotify.com/album/2GV6xnWl34jwrYLG0W3KDC"
       },
       "artists": [
         {
@@ -1328,6 +1346,24 @@
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 247466,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2GhrCXqIgvveXt07wFKvQ8"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/6P9VUVYvKNP7DULIJ5p7Ks"
+      },
+      "artists": [
+        {
+          "name": "The Autumn Defense",
+          "url": "https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 247466,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5g79xHG0De0dDHe1Hkum66"
@@ -1496,6 +1532,28 @@
     },
     {
       "album": {
+        "name": "No Depression: What It Sounds Like Vol. 2",
+        "url": "https://open.spotify.com/album/5sUaB2pDqV7CVF9rMzXOZn"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Cary",
+          "url": "https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk"
+        },
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179906,
+      "name": "The Battle",
+      "url": "https://open.spotify.com/track/5spa4mGwzzcm3MiidE07ay"
+    },
+    {
+      "album": {
         "name": "The Battle",
         "url": "https://open.spotify.com/album/11IsKz96KxcLAoCycv6LrT"
       },
@@ -1511,7 +1569,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 180560,
       "name": "The Battle (feat. Ryan Adams)",
       "url": "https://open.spotify.com/track/0mhsQSfSDq1x45qcC0jc80"

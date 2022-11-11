@@ -4,7 +4,7 @@
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-37 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/7fBxUYr44Ikmg6ar6XDArN)
+39 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/7fBxUYr44Ikmg6ar6XDArN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Freddy's Coming for You](https://open.spotify.com/track/0o1SKUvwGAFZ3km9ZMDXoT) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [A Nightmare On Elm Street: Original Motion Picture Score](https://open.spotify.com/album/0btrQddJBGxVVJXJCkv7Sm) | 4:28 | 2021-12-15 | 2022-07-29 |
 | [Freddy's Coming For You](https://open.spotify.com/track/5jYaqMXbUXyUk9VQgOWR4K) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [A Nightmare On Elm Street \(Original Motion Picture Score\)](https://open.spotify.com/album/2zlfecPiJHlK9pBWOQNQVf) | 4:28 | 2021-12-15 |  |
 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 | 2021-12-15 |  |
+| [Main Theme from "The Twilight Zone" \- Cover Version](https://open.spotify.com/track/1kVUH8NaVztttLE38uZ567) | [Sacre](https://open.spotify.com/artist/3ufml7IesKyMSlLYDFtCM9) | [Halloween Monster Collection \- 55 Classic Tracks from the Best Scary Movies](https://open.spotify.com/album/1rLvz13VSlwKUdA4DVYwec) | 1:01 | 2021-12-15 |  |
 | [Main Title](https://open.spotify.com/track/3mgO7YAlNvmGoZNEaEjfaA) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [Alien](https://open.spotify.com/album/0kRM4B6TRITAcjLebvS12N) | 4:12 | 2021-12-15 | 2022-07-29 |
 | [Main Title](https://open.spotify.com/track/4Rhue1CTPr3n1P3Zs0jPwU) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [Alien](https://open.spotify.com/album/2ubcKYeOHGJ5UHHNBAuaKb) | 4:12 | 2021-12-15 |  |
 | [Main Title And First Victim](https://open.spotify.com/track/1g10rYqM3jJQsWRnXCFcx7) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jaws \(The Collector's Edition Soundtrack\)](https://open.spotify.com/album/6qUytVWmtw4xh2tjCv39GE) | 3:26 | 2021-12-15 |  |
@@ -25,8 +26,9 @@
 | [Psycho Suite](https://open.spotify.com/track/2AfA142FyTrSA58SArYR5r) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [99 Must\-Have Halloween Classics](https://open.spotify.com/album/0b9hNMy12w8qGs8eYNwM1L) | 2:07 | 2021-12-15 |  |
 | [Psycho Theme \( Bernard Herman \- Ensign Music \)](https://open.spotify.com/track/40cXtLMqZo33qFeY2uVhFn) | [Halloween](https://open.spotify.com/artist/5Ure3b6cjh5Gk29qg82eym) | [Halloween Themes / Horror Movie Music That Will Scare You More Than Sound Fx](https://open.spotify.com/album/0ZbEWtaLdNW3MNbeFf7ZVf) | 1:02 | 2021-12-15 |  |
 | [Reanimator Prologue & Main Title](https://open.spotify.com/track/6w8V10yvjN3cU9iqJYwXqq) | [Richard Band](https://open.spotify.com/artist/0TXK10MEUmsJGH4lMosMiT) | [Re\-Animator: Prologue and Main Title](https://open.spotify.com/album/2HNiURAevNka5UetR9us36) | 4:15 | 2021-12-15 |  |
-| [Reel 9](https://open.spotify.com/track/1Y61rEEjZfAoM19LA2UTkQ) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/4fxuoOfryOYbq6UXsb0Ani) | 10:56 | 2021-12-15 |  |
+| [Reel 9](https://open.spotify.com/track/1Y61rEEjZfAoM19LA2UTkQ) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/4fxuoOfryOYbq6UXsb0Ani) | 10:56 | 2021-12-15 | 2022-11-11 |
 | [Reel 9](https://open.spotify.com/track/1pRGFSv1jsiVsTLMSTpQRB) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Soundtrack\)](https://open.spotify.com/album/1T9FXEBAlOOUvwNxjI2Jad) | 10:56 | 2021-12-15 | 2022-07-29 |
+| [Reel 9](https://open.spotify.com/track/3EvFms36jvks6vjMpXHf7l) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29MYWk2vo7Q3UEV5hAdyPz) | 10:58 | 2021-12-15 |  |
 | [Run To The Church](https://open.spotify.com/track/1F3yUGDxCfGH9Zx3KePnmK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Sixth Sense \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI) | 1:21 | 2021-12-15 |  |
 | [Side A](https://open.spotify.com/track/4hRKUei7qAK1kOth7cPaim) | [David Lynch](https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI), [Alan R\. Splet](https://open.spotify.com/artist/55AfCsXWthqoG9dDIGqVrD) | [Eraserhead Soundtrack](https://open.spotify.com/album/0dWqp2IrTBMumfADclgSJz) | 20:08 | 2021-12-15 |  |
 | [Side A](https://open.spotify.com/track/4s7BAf0bNlxyANBVVPRLKt) | [David Lynch & Alan R\. Splet](https://open.spotify.com/artist/29O0eYoRjupuO4wth6D0k7) | [Eraserhead Soundtrack](https://open.spotify.com/album/1l0NtS7ohVK9xqByCKVSlQ) | 20:08 | 2021-12-15 | 2022-07-29 |
@@ -43,7 +45,7 @@
 | [Theme from Twin Peaks \- Fire Walk with Me](https://open.spotify.com/track/6ov87ZmFzA62REV8KrbWXj) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [Twin Peaks: Fire Walk With Me \- Soundtrack](https://open.spotify.com/album/7KTThkarRqhJX5DVkDOo7Z) | 6:46 | 2021-12-15 |  |
 | [This is Halloween](https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:19 | 2021-12-15 |  |
 | [Tubular Bells \- Opening Theme / From "The Exorcist"](https://open.spotify.com/track/2hJyhHWeDrnTuy24TtD4sd) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Halloween Party](https://open.spotify.com/album/1AQGra8TF7PX94whCy7tsY) | 3:16 | 2021-12-15 |  |
-| [Twlight Zone](https://open.spotify.com/track/6WjHCLbxvuab3pd5JvOKU9) | [Halloween Tricksters](https://open.spotify.com/artist/2EghgP7EJUPg82OPWMZM9P) | [Halloween 18 Trick Or Treat Greats](https://open.spotify.com/album/0xN2Y2GiDdW6uT4AlgXzDE) | 0:56 | 2021-12-15 |  |
+| [Twlight Zone](https://open.spotify.com/track/6WjHCLbxvuab3pd5JvOKU9) | [Halloween Tricksters](https://open.spotify.com/artist/2EghgP7EJUPg82OPWMZM9P) | [Halloween 18 Trick Or Treat Greats](https://open.spotify.com/album/0xN2Y2GiDdW6uT4AlgXzDE) | 0:56 | 2021-12-15 | 2022-11-11 |
 | [X\-Files \- Theme](https://open.spotify.com/track/67AxhHs7ur6AlOkx95hZRh) | [Hollywood Pictures Orchestra](https://open.spotify.com/artist/0YuFB8lqApvW7rZMm9gSjU) | [Paranormal Activity](https://open.spotify.com/album/7HuR76g5Rpg6vWaFhNB0Go) | 3:25 | 2021-12-15 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Even Santa Gets the Blues",
+        "url": "https://open.spotify.com/album/59p0FNQoMY3oAIlRkc5cbT"
+      },
+      "artists": [
+        {
+          "name": "Coco Montoya",
+          "url": "https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268520,
+      "name": "A Bluesman's Christmas",
+      "url": "https://open.spotify.com/track/0ebmJPUkoWSW1z9dLV2Kxc"
+    },
+    {
+      "album": {
         "name": "Alligator Records' Genuine Houserockin' Christmas",
         "url": "https://open.spotify.com/album/7xUrOvlnlbrIbaSZRih5Z2"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 268520,
       "name": "A Bluesman's Christmas",
       "url": "https://open.spotify.com/track/7tjI7zKXCOVHS7cfaMMnLY"
@@ -260,6 +278,28 @@
     },
     {
       "album": {
+        "name": "Bring That Cadillac Back",
+        "url": "https://open.spotify.com/album/1fsbJpMdJJweo7WpHRPE2W"
+      },
+      "artists": [
+        {
+          "name": "Harry Crafton",
+          "url": "https://open.spotify.com/artist/7Lw6PSg8B1UZATxcdjGFnf"
+        },
+        {
+          "name": "Doc Bagby Orchestra",
+          "url": "https://open.spotify.com/artist/3RTvKGP29vt5X2rgLhP2tx"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157849,
+      "name": "Bring That Cadillac Back",
+      "url": "https://open.spotify.com/track/4DZuPRFZqXQoh7YkTJlRnM"
+    },
+    {
+      "album": {
         "name": "J. B. Summers and The Blues Shouters",
         "url": "https://open.spotify.com/album/7IfhBVKvJCcVYGeBEISaKY"
       },
@@ -283,7 +323,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 163533,
       "name": "Bring That Cadillac Back (feat. Harry Crafton & Doc Bagby Orchestra)",
       "url": "https://open.spotify.com/track/6UxSLMwVMOqEE3FXLag4hY"
@@ -301,10 +341,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 192906,
       "name": "Christmas",
       "url": "https://open.spotify.com/track/1MpFJiLGfXg7WQdYHbw2f9"
+    },
+    {
+      "album": {
+        "name": "Even Santa Gets the Blues",
+        "url": "https://open.spotify.com/album/59p0FNQoMY3oAIlRkc5cbT"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192906,
+      "name": "Christmas",
+      "url": "https://open.spotify.com/track/2vIpbFKJanQ18AZu2L1Fxy"
     },
     {
       "album": {
@@ -625,7 +683,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 183986,
       "name": "Christmas Time Blues",
       "url": "https://open.spotify.com/track/0bAEpMET7y6XlLqkm1eyrj"
@@ -647,6 +705,24 @@
       "duration_ms": 185000,
       "name": "Christmas Time Blues",
       "url": "https://open.spotify.com/track/659ac5HeJ5aG6ihR8lCtBe"
+    },
+    {
+      "album": {
+        "name": "White Christmas Songs",
+        "url": "https://open.spotify.com/album/5UXMUpb9O2YMpaePqgfWmr"
+      },
+      "artists": [
+        {
+          "name": "The Universal Orchestra",
+          "url": "https://open.spotify.com/artist/6f84grYUf94kmhjeeTP7TZ"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184973,
+      "name": "Christmas Time Blues",
+      "url": "https://open.spotify.com/track/4IVENDtB7TWaC8xAGYXJ8e"
     },
     {
       "album": {
@@ -679,10 +755,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 216560,
       "name": "Christmas Train",
       "url": "https://open.spotify.com/track/2AMep7trysJeDAyfQ7E96T"
+    },
+    {
+      "album": {
+        "name": "The Greatest Harmonica Blues Jams",
+        "url": "https://open.spotify.com/album/7asJGJCTowh5aFvsrzDgbC"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216560,
+      "name": "Christmas Train",
+      "url": "https://open.spotify.com/track/3xFdvDNOhsOcxpcPijfx9G"
     },
     {
       "album": {
@@ -697,7 +791,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 146440,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/4VOHFkCCdAjc7oDNMB72mg"
@@ -755,7 +849,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 222493,
       "name": "Fattening Up The Turkey",
       "url": "https://open.spotify.com/track/0fOsnjGID1a3D6LrfygqeG"
@@ -780,6 +874,24 @@
     },
     {
       "album": {
+        "name": "Hits of Slide Guitar Blues",
+        "url": "https://open.spotify.com/album/4mT2XxIa0w9jStmHnQaFwI"
+      },
+      "artists": [
+        {
+          "name": "Dave Hole",
+          "url": "https://open.spotify.com/artist/6qGv85JlIu536BngDpbI5X"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Fattening Up the Turkey",
+      "url": "https://open.spotify.com/track/3SyDs1botzuDspsq5plpYf"
+    },
+    {
+      "album": {
         "name": "Ghost From Christmas Past",
         "url": "https://open.spotify.com/album/5az7pvl1q5ms5eYuZLY82l"
       },
@@ -795,6 +907,24 @@
       "duration_ms": 237077,
       "name": "Ghost From Christmas Past",
       "url": "https://open.spotify.com/track/5UUoJxGN7cnwOlsX3wH0gI"
+    },
+    {
+      "album": {
+        "name": "The Best Of Lightnin' Hopkins",
+        "url": "https://open.spotify.com/album/7vAiJW4xi4VNmRjcZsLO33"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195745,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/6XsoEbKIVrLnR8tR9G42YR"
     },
     {
       "album": {
@@ -845,10 +975,46 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209362,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/7ecTsJ3c6LfkHcum1h43UG"
+    },
+    {
+      "album": {
+        "name": "Happy Xmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4vp3vf0hRKawrqUIzcr0P7"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209363,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/252sYQxjAudh5ryxYgES7s"
+    },
+    {
+      "album": {
+        "name": "Xmas Classics 2022",
+        "url": "https://open.spotify.com/album/11wM6OXgaB6Zb8LaK1LS0p"
+      },
+      "artists": [
+        {
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145426,
+      "name": "Hey Santa Claus",
+      "url": "https://open.spotify.com/track/6Ny289QAjWGyRGUNfMj4YR"
     },
     {
       "album": {
@@ -863,7 +1029,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 194133,
       "name": "I Gave My Love A Cherry",
       "url": "https://open.spotify.com/track/4XNmgQUj1n7QiuGgsN1JB3"
@@ -881,7 +1047,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174973,
       "name": "I'm Your Santa",
       "url": "https://open.spotify.com/track/0l7GHJ9ImzdO4E3iJSQKD9"
@@ -903,6 +1069,24 @@
       "duration_ms": 174973,
       "name": "I'm Your Santa",
       "url": "https://open.spotify.com/track/2j2xdfcAoQ48krzJlaTpof"
+    },
+    {
+      "album": {
+        "name": "A Blues Christmas",
+        "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
+      },
+      "artists": [
+        {
+          "name": "Lil Ed & The Blues Imperials",
+          "url": "https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176084,
+      "name": "I'm Your Santa",
+      "url": "https://open.spotify.com/track/1guNmLni0vdZ18SeoeyNSe"
     },
     {
       "album": {
@@ -1368,6 +1552,24 @@
     },
     {
       "album": {
+        "name": "No\u00ebl 2020",
+        "url": "https://open.spotify.com/album/0gbWx46O7msHBOfp6fYSkk"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162897,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/3CQa7Xu95cwlQVPd3UoiHB"
+    },
+    {
+      "album": {
         "name": "Rock 'N' Roll Rarities",
         "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
       },
@@ -1379,7 +1581,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 165733,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
@@ -1577,10 +1779,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 203266,
       "name": "Santa Claus Wants Some Lovin'",
       "url": "https://open.spotify.com/track/4NIprN2UmZsfOazPKLsU0j"
+    },
+    {
+      "album": {
+        "name": "A Blues Christmas",
+        "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204247,
+      "name": "Santa Claus Wants Some Lovin'",
+      "url": "https://open.spotify.com/track/76LyGWSSLkorS6J0hk66IP"
     },
     {
       "album": {

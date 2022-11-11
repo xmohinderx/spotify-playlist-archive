@@ -426,6 +426,24 @@
     },
     {
       "album": {
+        "name": "Matter of Time",
+        "url": "https://open.spotify.com/album/0sVpDSPL1inRRowIw7YI6g"
+      },
+      "artists": [
+        {
+          "name": "Dami Oniru",
+          "url": "https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/6Kh0SVrpJkEWbOGtFKAKFB"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/3dHnvFaf3fJFPqCOjzWURD"
       },
@@ -785,7 +803,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 198518,
       "name": "Murvlana",
       "url": "https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 320028,
       "name": "Olufunmi",
       "url": "https://open.spotify.com/track/2legF0L9V2l1LHsHl5QZWW"

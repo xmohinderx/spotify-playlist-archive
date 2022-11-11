@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 263080,
       "name": "A Warrior's Call",
       "url": "https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 201386,
       "name": "Army of the Night",
       "url": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 187560,
       "name": "Back in the Bizz",
       "url": "https://open.spotify.com/track/6dcxA7XvgrpD1ncyqdt4vh"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 380410,
       "name": "Chronos",
       "url": "https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 362093,
       "name": "Cirice",
       "url": "https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL"
@@ -981,6 +981,24 @@
       "duration_ms": 362093,
       "name": "Cirice",
       "url": "https://open.spotify.com/track/4pLyx7CeNx3MgaSddwvn48"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362093,
+      "name": "Cirice",
+      "url": "https://open.spotify.com/track/64l9IXCqGpYpp4ZXQY5ch6"
     },
     {
       "album": {
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 225040,
       "name": "Death Is Not Defeat",
       "url": "https://open.spotify.com/track/7xpfgUe2sxoBx7CFygbTPg"
@@ -1323,6 +1341,24 @@
       "duration_ms": 115413,
       "name": "Delusions of Saviour",
       "url": "https://open.spotify.com/track/06WUUNf7q18NZfjIsQFsfa"
+    },
+    {
+      "album": {
+        "name": "Speaker Of The Dead",
+        "url": "https://open.spotify.com/album/4BcTytmn7rMtxg2mESczbQ"
+      },
+      "artists": [
+        {
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Demons With Ryu",
+      "url": "https://open.spotify.com/track/2AdDWvTyoSIRTH9cvAjW3s"
     },
     {
       "album": {
@@ -1517,7 +1553,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272767,
       "name": "Drunken Dwarves",
       "url": "https://open.spotify.com/track/4qxK1lnNoYm1kevG69mhHU"
@@ -1589,7 +1625,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 228480,
       "name": "Electroheart",
       "url": "https://open.spotify.com/track/36KH2r0JLzix1WKHURR2MY"
@@ -1751,7 +1787,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 263973,
       "name": "Faster",
       "url": "https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl"
@@ -2435,7 +2471,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 229816,
       "name": "I Am Above",
       "url": "https://open.spotify.com/track/6qgpBezjMvybos30jStS2Z"
@@ -2889,10 +2925,32 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 246209,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/3EO0js63QHQQPqJt1TgBLQ"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/08BcCP01pQYy7IlXspguq0"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Rob Halford",
+          "url": "https://open.spotify.com/artist/4DaPmVnhvkVzcoWvXItWKO"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246209,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/4EjvoRrU4ShAP0XcvHfld2"
     },
     {
       "album": {
@@ -2943,7 +3001,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 193973,
       "name": "Lights, Camera, Action",
       "url": "https://open.spotify.com/track/739dWSjuCCJP9K5NXS2Ffa"
@@ -2968,6 +3026,24 @@
     },
     {
       "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/4CfoCZczl1vC3FPOtPVsZ3"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456312,
+      "name": "Locust",
+      "url": "https://open.spotify.com/track/16ccVhYWDadLROREZIUH08"
+    },
+    {
+      "album": {
         "name": "Unto The Locust",
         "url": "https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3"
       },
@@ -2979,7 +3055,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 456312,
       "name": "Locust",
       "url": "https://open.spotify.com/track/2A9BLDVuT6lfbRK3ZKBCFz"
@@ -3015,7 +3091,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 267680,
       "name": "Lola Montez",
       "url": "https://open.spotify.com/track/1wnq9TwifJ9ipLUFsm8vKx"
@@ -3069,7 +3145,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 161626,
       "name": "Looking Down the Barrel of Today",
       "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
@@ -3109,6 +3185,24 @@
       "duration_ms": 273194,
       "name": "Lost In The Static",
       "url": "https://open.spotify.com/track/5QLH7zAdcAJLgR25gtvtoK"
+    },
+    {
+      "album": {
+        "name": "Dig Deep",
+        "url": "https://open.spotify.com/album/5Y34qlvVSVLWVNr5cyLB4K"
+      },
+      "artists": [
+        {
+          "name": "After The Burial",
+          "url": "https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273194,
+      "name": "Lost In The Static",
+      "url": "https://open.spotify.com/track/7zKoAeplPMS3bcqIZ4crp4"
     },
     {
       "album": {
@@ -3375,7 +3469,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 253317,
       "name": "My Own Grave",
       "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
@@ -4097,7 +4191,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213000,
       "name": "Rotting In Vain",
       "url": "https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2"
@@ -4497,7 +4591,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 295762,
       "name": "Silence Speaks",
       "url": "https://open.spotify.com/track/5Tcwn9gpqDqmxc2oq7hshQ"
@@ -5066,6 +5160,24 @@
     },
     {
       "album": {
+        "name": "21st Century Rock",
+        "url": "https://open.spotify.com/album/0MTQHpAfLwgahG51aRalCK"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342821,
+      "name": "The Devil In I",
+      "url": "https://open.spotify.com/track/5boTgkaggB7RKUwj67dS5C"
+    },
+    {
+      "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
@@ -5077,7 +5189,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 342821,
       "name": "The Devil in I",
       "url": "https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK"
@@ -5153,7 +5265,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 232000,
       "name": "The Dirt (Est. 1981) [feat. Machine Gun Kelly]",
       "url": "https://open.spotify.com/track/0PloHvXx0nAIwVx1zYjm9F"
@@ -5481,7 +5593,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 291529,
       "name": "The Pale King",
       "url": "https://open.spotify.com/track/5SEXNeCl0i7Gzkw4kc9ln6"
@@ -5899,7 +6011,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 321161,
       "name": "Until the World Goes Cold",
       "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"
@@ -6151,7 +6263,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 243720,
       "name": "What Are You Waiting For",
       "url": "https://open.spotify.com/track/0Q4zzvZA2anhHTs0zjwQhy"
@@ -6241,7 +6353,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 229940,
       "name": "Wouldn't You Rather",
       "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"

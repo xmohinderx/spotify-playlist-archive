@@ -4,34 +4,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,028 likes - 115 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,411 likes - 115 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 |
 | 2 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 |
 | 3 | [NARUTO Main Theme](https://open.spotify.com/track/5kKloaKFvAuDNFi8m52hxy) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\- オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 4:26 |
-| 4 | [遥か彼方](https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG](https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA) | 4:03 |
+| 4 | [遥か彼方](https://open.spotify.com/track/3syX92mkM9exDZngUEvNH1) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [崩壊アンプリファー](https://open.spotify.com/album/1BZa5KjEDzfU2ut7QwiUHo) | 4:02 |
 | 5 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 |
 | 6 | [動天](https://open.spotify.com/track/2lN3LquWyOGx8xPSOhsqPT) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 3:03 |
 | 7 | [NARUTO Main Theme'16](https://open.spotify.com/track/2x9mxZswDySC1QOFFH09q7) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック Ⅲ](https://open.spotify.com/album/7DQCQeGbnpjr3tF7p3f2jA) | 4:25 |
 | 8 | [Sign](https://open.spotify.com/track/0xmWQKzc5m9rLv2ucDWxwD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:56 |
 | 9 | [沸き上がる闘志](https://open.spotify.com/track/7k9D5GUqhn0Jf3kBnfgQJ6) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\- オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 1:36 |
 | 10 | [疾風伝](https://open.spotify.com/track/0y2OZcxtwVvzk4vHsSJXwu) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 2:05 |
-| 11 | [ニワカ雨ニモ負ケズ](https://open.spotify.com/track/6flEDs8jmQ47ZSFZru59Fz) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [ニコ タッチズ ザ ウォールズ ノ ベスト](https://open.spotify.com/album/31Sf90opMedTvfBpfclIu4) | 4:21 |
+| 11 | [ニワカ雨ニモ負ケズ](https://open.spotify.com/track/3C0dmwjaTGl9xhQ9l3CBNJ) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [ニワカ雨ニモ負ケズ](https://open.spotify.com/album/2WXX8c9i6gYTXtEUwQ5ydu) | 4:22 |
 | 12 | [激と撃](https://open.spotify.com/track/4WoEh8QCiKcpjiueiVj58a) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\- オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 2:07 |
 | 13 | [青春狂騒曲](https://open.spotify.com/track/3zE6YLb2IBb8NriBuuXWQd) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [サンボマスターは君に語りかける](https://open.spotify.com/album/7jOQKynuTihfn4eDgwhAav) | 4:46 |
 | 14 | [CLOSER](https://open.spotify.com/track/2Kld61w2NR7zPPXtaHeIii) | [Joe Inoue](https://open.spotify.com/artist/04q6GxPQU1OTqHGrUxeufd) | [CLOSER](https://open.spotify.com/album/6S6fn5MUmZdzlKrrdr2XcB) | 3:28 |
-| 15 | [Diver](https://open.spotify.com/track/3PcKYVcZNSsLqI1xzXV5Aq) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [PASSENGER](https://open.spotify.com/album/2spjC5MxYOSbVC4sg19dTk) | 4:08 |
+| 15 | [Diver](https://open.spotify.com/track/7uulkOL4yWt0J6qlJxLBA1) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [Diver](https://open.spotify.com/album/4HhE75kXnln5jzdkbVfRC0) | 4:10 |
 | 16 | [波風サテライト](https://open.spotify.com/track/4OLVgNgoTslbcSAyR4PmCq) | [SNOWKEL](https://open.spotify.com/artist/12OSHhni6aZbqfUp7nzjKC) | [SNOWKEL SNORKEL](https://open.spotify.com/album/3mQPg4LfKeR0FYYqQ00oQv) | 4:11 |
-| 17 | [Hero's Come Back!!](https://open.spotify.com/track/7weHG0yOwtAcZ0qBhyODLF) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [vulgarhythm](https://open.spotify.com/album/3Pcj9i5JsK9N4gqaKzj51R) | 4:33 |
+| 17 | [Hero's Come Back!!](https://open.spotify.com/track/6d3gwOBgnDE9b60vOHZ9Bu) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [Hero's Come Back!!](https://open.spotify.com/album/0FBAy3kZs5TmlK9Ip3Uw0m) | 4:34 |
 | 18 | [哀と悲](https://open.spotify.com/track/6faRsCMylJKKQqESbwJTA9) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\- オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 2:59 |
 | 19 | [千夜](https://open.spotify.com/track/2VWDk6GcnMaysTpVQH121M) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック Ⅱ](https://open.spotify.com/album/1GoWJc6XFiHW1ewHcY1Xqm) | 2:09 |
 | 20 | [悲しみをやさしさに](https://open.spotify.com/track/4fKjIzm80Rpf4EUAt96hW2) | [Little by Little](https://open.spotify.com/artist/3zQx1Fk2lTUkSIdsL4oaxP) | [Sweet Noodle Pop](https://open.spotify.com/album/1x5VbOwCWOBVRce8F8nBMM) | 4:02 |
-| 21 | [ホタルノヒカリ](https://open.spotify.com/track/7AffKWcNn5Zv7QFgScW2ox) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [ハジマリノウタ](https://open.spotify.com/album/4oBB0RXPFxpfgeIeFalAbx) | 4:04 |
+| 21 | [ホタルノヒカリ \- 2021 Remastered](https://open.spotify.com/track/2FK96a4ApZ8UlIsgu3l9oU) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [BAKU](https://open.spotify.com/album/0zTNkegAjfYgBJQzbzWpEj) | 4:04 |
 | 22 | [形勢逆転](https://open.spotify.com/track/3MbKr047dH74iTk4nuxb7j) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 4:00 |
 | 23 | [出陣](https://open.spotify.com/track/4x9JFIsht1WWEv7go9vJcF) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 2:09 |
-| 24 | [カラノココロ](https://open.spotify.com/track/3uXKEQTzOngrZ1WWyMzuqO) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [anly one](https://open.spotify.com/album/6F4NXTkgztjaFk9KG4BWj2) | 4:24 |
+| 24 | [カラノココロ](https://open.spotify.com/track/6Is2ZYDC1fp3avCsNZySAd) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [カラノココロ](https://open.spotify.com/album/1HJMPl1NqzMKI2kTCkDp0K) | 4:25 |
 | 25 | [透明だった世界](https://open.spotify.com/track/3ILmwMefYZoQh5Cf5jeuUQ) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [Documentary](https://open.spotify.com/album/6RJ8dTBDiLHZb2tSb76Pdt) | 3:52 |
 | 26 | [ビバ★ロック \~japanese side\~](https://open.spotify.com/track/1mYNlXFX7lLH69B11yNPZv) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [ビバ★ロック](https://open.spotify.com/album/2agPtSGmUaEF1Xk0TPMiHI) | 3:31 |
 | 27 | [美しき碧い野獣](https://open.spotify.com/track/5zHi6caMFuPsiarfo7PQNG) | [Toshio Masuda](https://open.spotify.com/artist/78JmbZfna6DOfhSoxccZZw) | [NARUTO \-ナルト\- オリジナルサウンドトラック Ⅲ](https://open.spotify.com/album/1HObVU42QE1DcypM59MBFS) | 2:00 |
@@ -72,13 +72,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 62 | [Home Sweet Home](https://open.spotify.com/track/31NC8K8LtBk9GfgKxJnJYy) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Home Sweet Home](https://open.spotify.com/album/3nkKqrGjQWpDOY0qeUcx3Y) | 4:47 |
 | 63 | [つぼみ](https://open.spotify.com/track/1hLb5kYuXnTfoH6eh4TIj1) | [Maria](https://open.spotify.com/artist/60inTfOAmY46l1p13wTUZg) | [つぼみ](https://open.spotify.com/album/5Hl96OjUfEJvuoNiwn1IEO) | 4:04 |
 | 64 | [distance](https://open.spotify.com/track/17zGkwutNrdgAAfC61QLWF) | [Long Shot Party](https://open.spotify.com/artist/3JdNagrq4kPXQ3Coj6INjp) | [LONG SHOT PARTY](https://open.spotify.com/album/6LxMGTkHBLhdzgtN3oHJu2) | 3:07 |
-| 65 | [ラヴァーズ](https://open.spotify.com/track/5Do3qmFMpCjVLmtLhmj3a1) | [7!!](https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV) | [ドキドキ](https://open.spotify.com/album/3CkjjWdhr8y5wrIkNWkw21) | 3:42 |
-| 66 | [newsong](https://open.spotify.com/track/1hGay3CQSuDeE8X95IMV3C) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [BEST ALBUM dear, deer](https://open.spotify.com/album/34yRAx41NI2RMSYO3PE8qJ) | 3:31 |
-| 67 | [Moshimo](https://open.spotify.com/track/6qcj0oCHsCJSexlsVV6Ghr) | [Daisuke](https://open.spotify.com/artist/1UrLJfOnrfCZLeAAfdcYPO) | [星のドロップス](https://open.spotify.com/album/7ozAcyUtS0mdQxgKunRQq3) | 3:57 |
+| 65 | [ラヴァーズ](https://open.spotify.com/track/6TXHjBe9qtaT2FbMfddcME) | [7!!](https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV) | [ラヴァーズ](https://open.spotify.com/album/4tG3LqrNEgobkOqBxZOfmd) | 3:42 |
+| 66 | [newsong](https://open.spotify.com/track/2tNcvY9PZlEKrUJRx9OiGr) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [newsong e.p.](https://open.spotify.com/album/0C51JyLG85qQ5bc26Lv0TS) | 3:31 |
+| 67 | [Moshimo](https://open.spotify.com/track/6Kg19UJsggomlPU7vrggU3) | [Daisuke](https://open.spotify.com/artist/1UrLJfOnrfCZLeAAfdcYPO) | [Moshimo](https://open.spotify.com/album/12ntI2wTgYvnSHiRUgtQ0E) | 3:58 |
 | 68 | [月の大きさ](https://open.spotify.com/track/4bY2oZGA5Br3pTE1Jd1IfY) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [バレッタ TypeD](https://open.spotify.com/album/2NkG7Ei5PObrNHHcTgXLgF) | 3:56 |
 | 69 | [紅蓮](https://open.spotify.com/track/0ldzDKNON23ajcssPHjTKH) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [DOES](https://open.spotify.com/album/1KnBUiw5MLYjJsSqJWLTPU) | 4:03 |
 | 70 | [風](https://open.spotify.com/track/19yMWtwmIY2IzThaHG4IEV) | [Yamazaru](https://open.spotify.com/artist/6VuxycWaTHHrz5ZP5sNSsd) | [あいことば3](https://open.spotify.com/album/0OcKRcQ0m5Ox4RS6VeaKzh) | 4:09 |
-| 71 | [LINE](https://open.spotify.com/track/7pcN20ycxFODgvpQYHxMkH) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [Weather Song of SUKIMASWITCH](https://open.spotify.com/album/6A259cXcFtZMqOGCKRvGIa) | 4:40 |
+| 71 | [LINE](https://open.spotify.com/track/2ssjFpYFDvAx5To38GUR7n) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [ANIME KIDS](https://open.spotify.com/album/1ujdwGwEq3edJaMT4ti4LN) | 4:40 |
 | 72 | [それでは、また明日](https://open.spotify.com/track/4MofkwTlUx5LgADVqD0HM1) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [それでは、また明日](https://open.spotify.com/album/2si9SsOjJplp5DMpeHuOyn) | 3:43 |
 | 73 | [流れ星 〜Shooting Star〜](https://open.spotify.com/track/0OlmKJGeZyigVtRaKeAL7n) | [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [流れ星 〜Shooting Star〜](https://open.spotify.com/album/4XbW4UevuUiPxmCnZlZWq7) | 4:57 |
 | 74 | [五月雨](https://open.spotify.com/track/3aNugT13qqQoUKwfJKmcrk) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック Ⅱ](https://open.spotify.com/album/1GoWJc6XFiHW1ewHcY1Xqm) | 3:27 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 114 | [雄叫び](https://open.spotify.com/track/3jcW4gTJQQ5inpE8VxSSav) | [Yusuke](https://open.spotify.com/artist/0iWpuF3h43ZtZJxcUp8eti) | [雄叫び](https://open.spotify.com/album/68hM5eE9BgTn8AYhns8nug) | 3:41 |
 | 115 | [Future Eve](https://open.spotify.com/track/5B26nnZsdXY3KheV1oxo2M) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [欲望](https://open.spotify.com/album/1KRWNkaUdxDoEVgdUXfa76) | 3:52 |
 
-Snapshot ID: `MTYzMzM0MTU1MCwwMDAwMDAwMDk1YTZmZGVhZjY4NTFlOGM4MDNmNGY3YTU0ODI3NjIw`
+Snapshot ID: `MTYzMzM0MTU1MCwwMDAwMDAwMDYxZjJmNDg3M2YxMDRlZjAzOTY1ODYwNDAyNGEwNzNk`

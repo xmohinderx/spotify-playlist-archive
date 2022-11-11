@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: iann dior
 
-741 songs - 1 day 9 hr 44 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+743 songs - 1 day 9 hr 50 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Affection](https://open.spotify.com/track/5vjiqtNIdW5SoAvwZuTrdd) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [Zombie Boy](https://open.spotify.com/album/18kasz8LsMuzuSFBG9pR2J) | 3:44 | 2021-10-22 | 2022-04-11 |
 | [Afraid Of Love!](https://open.spotify.com/track/33swds4c8z7IhLNLEbsc1U) | [Y3NO](https://open.spotify.com/artist/3U0KAvNPfTiVrEDWMDPgbu), [Mario Judah](https://open.spotify.com/artist/5HFSWl4JPwju06kHxukvTe) | [Afraid Of Love!](https://open.spotify.com/album/2zQqYkHb209k0uNiNYurqm) | 2:35 | 2022-01-28 | 2022-03-02 |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2021-10-14 | 2022-06-17 |
-| [After Hours](https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [ONNAFRIDAY](https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb) | 2:37 | 2022-07-22 |  |
+| [After Hours](https://open.spotify.com/track/1OwKdSEkvIHlmp07Mtv43V) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [After Hours](https://open.spotify.com/album/30MvmpwBcUL1TNBcdcLQZS) | 2:37 | 2022-10-07 |  |
+| [After Hours](https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [ONNAFRIDAY](https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb) | 2:37 | 2022-07-22 | 2022-11-11 |
 | [After Hours](https://open.spotify.com/track/4eYYIs4VJJmJTfRkKegNq4) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [ONNAFRIDAY](https://open.spotify.com/album/4M4Lm0G81QTEJDvrdGznP3) | 2:37 | 2022-05-16 | 2022-07-26 |
 | [Agony](https://open.spotify.com/track/1Wj9ZhqrnbLal0Iyqk6QH1) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Stranger](https://open.spotify.com/album/6pbfofGywFkDyt1HoKYnRd) | 3:34 | 2021-10-23 | 2021-10-30 |
 | [agoraphobic](https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [agoraphobic](https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury) | 2:09 | 2021-02-03 |  |
@@ -80,7 +81,7 @@
 | [Belly of the Beast](https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3) | [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Belly of the Beast](https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ) | 2:20 | 2021-01-29 |  |
 | [Betrayed](https://open.spotify.com/track/4vaxvNDaLSoD36iZX515ug) | [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [TOTAL XANARCHY](https://open.spotify.com/album/2wmmYoAC48iNSTdU5Iwg6H) | 3:07 | 2022-07-22 |  |
 | [BETTER OFF DEAD](https://open.spotify.com/track/4ih3Y0t86lfK8m8pTgEx4I) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [BETTER OFF DEAD](https://open.spotify.com/album/3E1tSM6TIdeVmjDXZ0Xtsq) | 2:35 | 2020-12-18 | 2022-07-25 |
-| [BETTER OFF DEAD](https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:35 | 2022-07-22 |  |
+| [BETTER OFF DEAD](https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:35 | 2022-07-22 | 2022-11-11 |
 | [big talk](https://open.spotify.com/track/4lghbrxf9haQUp6BuRjAEq) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [big talk](https://open.spotify.com/album/0UbnM2uDTcv47CtHZTgdlz) | 2:02 | 2021-03-25 | 2022-07-29 |
 | [Billion Dollar Baby](https://open.spotify.com/track/2xI6cGymymC0cryJhfl71l) | [Ohsolow](https://open.spotify.com/artist/6PBi2MZwwSxgnb9oY5ZrVn), [sayk\_](https://open.spotify.com/artist/0tEV99Mi95s1JxCUezOgeo) | [Billion Dollar Baby](https://open.spotify.com/album/0F74gQslQ8AHQFY71JvdmT) | 1:55 | 2021-08-07 | 2022-04-21 |
 | [BirdsFlyStoned](https://open.spotify.com/track/2Sj6iNcBT206zP3ur65nUU) | [BirdsFlyStoned](https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r) | [Alabama Pimpin](https://open.spotify.com/album/50I7v1fJ58BRL9JTnmwDdJ) | 2:37 | 2022-01-14 | 2022-07-29 |
@@ -358,6 +359,7 @@
 | [Just Be Around](https://open.spotify.com/track/6v6Uz0WRESNjUnOjGzKamp) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [Just Be Around](https://open.spotify.com/album/6NOsVE43xhGcMZrj3Dr0Z5) | 2:53 | 2021-01-30 | 2021-02-24 |
 | [Just Friends](https://open.spotify.com/track/2zRbprdgFgVbe6h1pmzv5R) | [Memoria XI](https://open.spotify.com/artist/7qIHY5nwyAyxsM0U1e1UzN) | [Just Friends](https://open.spotify.com/album/1JcUX7jHeNKOzE56O9IlF0) | 2:30 | 2021-08-14 | 2022-04-23 |
 | [Just Like You Do](https://open.spotify.com/track/0sFqD0Mxcv3QLVyrWEddJ0) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Just Like You Do](https://open.spotify.com/album/31aCJnQY9WNHB7bLJe7QtD) | 2:38 | 2021-01-21 | 2021-04-24 |
+| [Key To My Heart](https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Key To My Heart](https://open.spotify.com/album/5MlRgizbT5l0vMtzSlBIvl) | 2:34 | 2022-10-07 |  |
 | [KILL CUPID](https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [EAT YOUR HEART OUT](https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC) | 4:09 | 2021-02-27 |  |
 | [KILL EM FOR ME \(feat\. KA$HDAMI\)](https://open.spotify.com/track/7ExIAULxz8L1mWrqq4YpKF) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [ANYWHERE BUT HERE](https://open.spotify.com/album/3lj9lqUr6MQxReCeV52SBo) | 2:38 | 2022-09-28 | 2022-10-22 |
 | [KILLING ME](https://open.spotify.com/track/7AfWXAbDZZctOhkHeGn4b3) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [KILLING ME](https://open.spotify.com/album/62v1j7MvQt3t7uTcUfp4hV) | 2:50 | 2021-10-14 | 2022-07-29 |

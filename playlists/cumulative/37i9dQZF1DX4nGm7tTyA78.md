@@ -4,7 +4,7 @@
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-70 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/4QTolJARsiGXtNoXJeFdWi)
+72 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/4QTolJARsiGXtNoXJeFdWi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,10 +34,12 @@
 | [Estamos Al Dia \(Remix\)](https://open.spotify.com/track/6pQlS7sD1ImR1SPh2KwGho) | [Micky Medina](https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78), [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [CSHALOM](https://open.spotify.com/artist/5SnxvQmYVN1duOHPQpequL) | [Estamos Al Dia \(Remix\)](https://open.spotify.com/album/1eKDgyIpeTFEyYtRzxoxi3) | 4:49 | 2020-08-28 |  |
 | [Esto Es para Ti](https://open.spotify.com/track/6gcgEWSCE4h3LP4IUP4Yid) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Esto Es para Ti](https://open.spotify.com/album/0iyJE8lY5dfEwArWxiYSGF) | 4:20 | 2020-08-28 |  |
 | [Esto Suena Bien](https://open.spotify.com/track/7cSgNzK1xqz2H3MHWIFOCL) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Esto Suena Bien](https://open.spotify.com/album/5dMNKaddEtUy2LEVR36H4q) | 4:14 | 2020-08-28 | 2022-07-29 |
-| [Esto Suena Bien \(feat\. Alex Zurdo, Oveja Cosmica\)](https://open.spotify.com/track/2J1FiT6W3vfZLOEsqUKGUz) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Alexis Velez](https://open.spotify.com/artist/6iZHTJnQ3Q9ldHwt8wg91Z), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Trapstornadores](https://open.spotify.com/album/6USTDDk6DVZ8DYtyGnl6iG) | 4:12 | 2020-08-28 |  |
+| [Esto Suena Bien \(feat\. Alex Zurdo & Oveja Cosmica\)](https://open.spotify.com/track/6wfoPSlv5JD0vgsrWqYyPk) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Esto Suena Bien](https://open.spotify.com/album/3CfkFiGzsu746gFZZwNVF3) | 4:14 | 2020-08-28 |  |
+| [Esto Suena Bien \(feat\. Alex Zurdo, Oveja Cosmica\)](https://open.spotify.com/track/2J1FiT6W3vfZLOEsqUKGUz) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Alexis Velez](https://open.spotify.com/artist/6iZHTJnQ3Q9ldHwt8wg91Z), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Trapstornadores](https://open.spotify.com/album/6USTDDk6DVZ8DYtyGnl6iG) | 4:12 | 2020-08-28 | 2022-11-11 |
 | [Gone](https://open.spotify.com/track/1A4BHF16dXjJM8zHulGdtT) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Gone](https://open.spotify.com/album/7Fifup8H6gJyKjeMLT2YO8) | 3:16 | 2020-08-28 | 2022-07-29 |
 | [Gone](https://open.spotify.com/track/3f2bvBnCadayg3R9nUNBKM) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Gone](https://open.spotify.com/album/19PiflxDqPzbUtWq9RSXbo) | 3:18 | 2020-08-28 |  |
-| [Gravy](https://open.spotify.com/track/4iUDeFnfywaSOPG5fPaIb1) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [20/20](https://open.spotify.com/album/0LJ2GhneIQZdDuXZtVLAjN) | 3:49 | 2020-08-28 |  |
+| [Gravy](https://open.spotify.com/track/4iUDeFnfywaSOPG5fPaIb1) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [20/20](https://open.spotify.com/album/0LJ2GhneIQZdDuXZtVLAjN) | 3:49 | 2020-08-28 | 2022-11-11 |
+| [Gravy](https://open.spotify.com/track/1QOToAQcpOrMdVH85hvz2m) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Gravy](https://open.spotify.com/album/38cKCzN4H5ZEVhydRaWQxd) | 3:50 | 2020-08-28 |  |
 | [Gravy](https://open.spotify.com/track/6cpfEoMf8sWeid3EVTuWq3) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Gravy](https://open.spotify.com/album/1YJcCaqfuuHQTJtJYRjJcX) | 3:50 | 2020-08-28 | 2022-07-29 |
 | [Green Card](https://open.spotify.com/track/7GP9H9G4JTqtyuYeaZLKeo) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 2:58 | 2020-08-28 |  |
 | [Hambre](https://open.spotify.com/track/09WDhsDxupGve070aX96bf) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Genelipsis](https://open.spotify.com/album/2cyhThTMj81byVvOOPkA8z) | 3:37 | 2020-08-28 |  |

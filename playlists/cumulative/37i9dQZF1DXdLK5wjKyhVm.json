@@ -809,10 +809,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 160000,
       "name": "Don't Rush",
       "url": "https://open.spotify.com/track/0tBWqDzAH3hzljUPWSSAxX"
+    },
+    {
+      "album": {
+        "name": "You're the Best Planet Earth I've Ever Known",
+        "url": "https://open.spotify.com/album/78d3AWjFXxSTQ7jkey9dhV"
+      },
+      "artists": [
+        {
+          "name": "Tenda Senda",
+          "url": "https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Don't Rush",
+      "url": "https://open.spotify.com/track/2x8F5a69gWhGKTdBEjxxsD"
     },
     {
       "album": {

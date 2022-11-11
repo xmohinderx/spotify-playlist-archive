@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-457 songs - 1 day 19 hr 12 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
+458 songs - 1 day 19 hr 15 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Blob on the Lawn](https://open.spotify.com/track/104LLrwbK0zPPtfvFKddp3) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/64TzDB3gO5C0NVlvuSQQpB) | 2:52 | 2022-03-11 | 2022-07-22 |
 | [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 | 2021-10-06 | 2022-04-10 |
 | [Blue Ice Cave](https://open.spotify.com/track/6e4JrbtTPhWWDlbnRWey8F) | [Lektromonk](https://open.spotify.com/artist/47anoF4IxhwqttTUhvIfuO) | [Blue Ice Cave](https://open.spotify.com/album/25TFCFVn3NhLcmzxgBmXM2) | 3:15 | 2022-02-18 | 2022-07-27 |
+| [Blue Surround](https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Infinite Echo](https://open.spotify.com/album/3hxC9wqR62FRcQGR2jcOh4) | 3:08 | 2022-11-11 |  |
 | [Border of Mind](https://open.spotify.com/track/5leVwcmopsoOVCVjKeZrnl) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Border of Mind](https://open.spotify.com/album/68lHjTeBd91IIFkGiBgIve) | 5:53 | 2021-10-06 | 2022-07-21 |
 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 | 2021-10-06 |  |
 | [Brace](https://open.spotify.com/track/2wbfjovJCZZJmNq1pUy0pq) | [Lucy Duncombe](https://open.spotify.com/artist/3It68RTn83sr4CoAGN4ZWQ) | [Brace/Mend](https://open.spotify.com/album/3Ss0T3XxCCEBLRW9FIL9qD) | 8:58 | 2021-10-06 | 2022-07-24 |
@@ -285,7 +286,7 @@
 | [On Deer Island](https://open.spotify.com/track/3B4gWlazMuJjYYoP4Y8Ocn) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [On Deer Island/Where They Lay](https://open.spotify.com/album/4er8vCjtXwJf9R5DPw3sj5) | 3:22 | 2021-10-06 | 2022-04-20 |
 | [Only a Flash of Light](https://open.spotify.com/track/1eXhFl6NxfjBZmnn8tyP5f) | [nthng](https://open.spotify.com/artist/1V0EQCS8125xaDrR4ZURGO) | [Unfinished](https://open.spotify.com/album/092PUhslAi3ldIwtlPiQ98) | 9:33 | 2022-03-30 | 2022-07-19 |
 | [Opto File 1](https://open.spotify.com/track/3yaMB8ZCRhTpqW5qfOHgns) | [Opto](https://open.spotify.com/artist/0mdVUK3zymRXiPGQPWw8KX), [Opiate](https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Opto Files](https://open.spotify.com/album/5XRjps58rLCNTGovm1dqJt) | 5:08 | 2021-10-06 | 2022-04-02 |
-| [Orbital](https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Orbital](https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4) | 2:15 | 2022-03-30 |  |
+| [Orbital](https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Orbital](https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4) | 2:15 | 2022-03-30 | 2022-11-11 |
 | [Orgias de Bordados](https://open.spotify.com/track/4JsNVQReHfh06eHLbqeLje) | [Evamuss](https://open.spotify.com/artist/3RFdmvqOyjqP4DDGhdTkX1) | [Despierta, Remedio, Cuenta](https://open.spotify.com/album/7ihbtOYJhuKirh98QgouJb) | 7:49 | 2021-10-06 | 2022-07-26 |
 | [Orphangene \- Soundtrack from the motion picture "Mondocane"](https://open.spotify.com/track/1pR5fyuTqpNrBbt4brVr3P) | [Federico Bisozzi](https://open.spotify.com/artist/16a53ClNidSSeOXww0IQcU), [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Orphangene \(Soundtrack from the motion picture "Mondocane"\)](https://open.spotify.com/album/0ogiNUNzmcxlq0u335WOpe) | 3:11 | 2022-02-18 | 2022-07-17 |
 | [Over & Over](https://open.spotify.com/track/4jbmBkyBit7Geqa5tALgWf) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Eyes of the Moon](https://open.spotify.com/album/0pmvwDNcm1CBWIwOYsiBDB) | 2:58 | 2021-10-06 | 2022-07-24 |

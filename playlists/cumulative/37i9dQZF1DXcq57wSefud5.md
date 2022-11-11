@@ -4,7 +4,7 @@
 
 > You'll be up with the sun and running to this playlist of fast paced feel good tunes!
 
-42 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/3cJYhu5XOiKw5Z1sCU5J49)
+44 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/3cJYhu5XOiKw5Z1sCU5J49)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [Call Me in the Afternoon](https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/7M2JPV9Q0OzWgI7v46Q9Dg) | 3:13 | 2022-07-29 | 2022-10-13 |
 | [Cassy O'](https://open.spotify.com/track/0KlUnDYTACNGFPFIUa3eZd) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:04 | 2022-07-29 |  |
 | [Cassy O'](https://open.spotify.com/track/4utxrxc5CohfZa6ZhWDdNn) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/7L4ZwpSwKQCerDQv9C4O1M) | 3:04 | 2015-07-25 | 2022-07-29 |
-| [Dime Store Cowgirl](https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:34 | 2022-07-29 |  |
+| [Dime Store Cowgirl](https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:34 | 2022-07-29 | 2022-11-11 |
 | [Dime Store Cowgirl](https://open.spotify.com/track/6oU7wRtqnudEKA00egD3sP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Dime Store Cowgirl](https://open.spotify.com/album/68FVTBYr7BfNK0djLweUcX) | 3:35 | 2015-07-25 | 2022-07-29 |
+| [Dime Store Cowgirl](https://open.spotify.com/track/26ocYTTJY9s9I0Hbq8B44v) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Female Country](https://open.spotify.com/album/09mXIrmJrisHosp2I5ri6R) | 3:35 | 2022-11-11 |  |
 | [Dust](https://open.spotify.com/track/7L3WVfrpwUN07jkvZg1vrP) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S) | 5:07 | 2015-07-25 |  |
 | [First Time](https://open.spotify.com/track/2qEv3RLo2KTgjP844901gV) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:44 | 2015-07-25 | 2022-07-29 |
 | [First Time](https://open.spotify.com/track/6OFKVE2HZdK3n2tbTDMhn3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:44 | 2022-07-29 |  |
@@ -35,7 +36,8 @@
 | [Live On](https://open.spotify.com/track/1zcs4HI1bvDmOJ2fIVTrdz) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 4:13 | 2015-07-25 |  |
 | [Mountain Sound](https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 3:31 | 2015-07-25 |  |
 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 | 2015-07-25 |  |
-| [Run](https://open.spotify.com/track/1G2y3ckwnDX4IOiemPOXEW) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [After It All](https://open.spotify.com/album/0HvAm2vysVverWiodCEhON) | 2:58 | 2022-07-29 |  |
+| [Run](https://open.spotify.com/track/1G2y3ckwnDX4IOiemPOXEW) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [After It All](https://open.spotify.com/album/0HvAm2vysVverWiodCEhON) | 2:58 | 2022-07-29 | 2022-11-11 |
+| [Run](https://open.spotify.com/track/2ATDLn7rLTcgVPPWCKJotH) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [The Complete Sire Albums](https://open.spotify.com/album/1xg1cljaT2FyyN3Xxf85Xw) | 2:58 | 2022-11-11 |  |
 | [Run](https://open.spotify.com/track/5xyRzgC5q0iWcDnak1CNoP) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Run](https://open.spotify.com/album/3SldntbJHFD0Xysdg41lqt) | 2:58 | 2015-07-25 | 2022-07-29 |
 | [Shake](https://open.spotify.com/track/33faLM9uNVtibuZIb37MOV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Shake](https://open.spotify.com/album/0oGxKW2JMIZe9HnfJgzxxm) | 4:01 | 2015-07-25 | 2022-07-29 |
 | [Shake](https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:01 | 2022-07-29 |  |

@@ -453,10 +453,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 224680,
       "name": "Grande amore",
       "url": "https://open.spotify.com/track/4IzDqftkFXUR8G2vaTd3Rb"
+    },
+    {
+      "album": {
+        "name": "Sanremo - Il meglio",
+        "url": "https://open.spotify.com/album/3Wr2wOJnoUFt72In5b2Z1E"
+      },
+      "artists": [
+        {
+          "name": "Il Volo",
+          "url": "https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226720,
+      "name": "Grande amore",
+      "url": "https://open.spotify.com/track/5KuAHTY8aMiWVVnNqZmfof"
     },
     {
       "album": {
@@ -1080,6 +1098,28 @@
     },
     {
       "album": {
+        "name": "Songs for Mother's Day",
+        "url": "https://open.spotify.com/album/2rf9GLP4UNK76ZzbuimoFN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266927,
+      "name": "The Prayer",
+      "url": "https://open.spotify.com/track/6PbRTsV5Uvouq757OnakoA"
+    },
+    {
+      "album": {
         "name": "These Are Special Times",
         "url": "https://open.spotify.com/album/0LvrjOn7CrNSs0jVUvrgVy"
       },
@@ -1117,7 +1157,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 268933,
       "name": "The Prayer",
       "url": "https://open.spotify.com/track/6zlY4xmlgqvn4LxjzoS2mz"

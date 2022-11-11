@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,083 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,113 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Firestarter](https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 4:39 |
+| 1 | [Firestarter](https://open.spotify.com/track/2Kq8vEOxe7rgKmAPRPPURu) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [PAY CLOSE ATTENTION: XL Recordings](https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw) | 4:40 |
 | 2 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
 | 3 | [Barking](https://open.spotify.com/track/2JbO1rep5Um3RAKB8szQrR) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Blockbuster](https://open.spotify.com/album/5gHmCqjB4VVbYzaoxTokGA) | 3:24 |
 | 4 | [Dance or Die \(feat\. Saul Williams\)](https://open.spotify.com/track/4t18Py5qQvK6DriDoPkPrO) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The ArchAndroid](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) | 3:12 |
-| 5 | [Flowers \- Sunship Edit](https://open.spotify.com/track/2Np6ZbVFXfhlk3Oin6i92t) | [Sweet Female Attitude](https://open.spotify.com/artist/1054JdBVMCPm9VpvkUcOYX) | [In Person](https://open.spotify.com/album/1aSBBYRCl4FcSm27hWaO8r) | 3:50 |
+| 5 | [Flowers \(Sunship Edit\)](https://open.spotify.com/track/5mbXK7wuy5MXvB7WyepMp0) | [Sweet Female Attitude](https://open.spotify.com/artist/1054JdBVMCPm9VpvkUcOYX) | [In Person](https://open.spotify.com/album/1qgmwdq92V17DpwbJSjVrm) | 3:49 |
 | 6 | [Only Child](https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Only Child](https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ) | 3:59 |
 | 7 | [Nothing Ain't Free](https://open.spotify.com/track/6xDOpnpNxFTvjFmIreV4uD) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Nothing Ain't Free](https://open.spotify.com/album/5yrkvyBJFwnK0fGDZypC5N) | 4:23 |
 | 8 | [Cola](https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Cola](https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4) | 3:49 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 22 | [See You There](https://open.spotify.com/track/05ZL7014sMgCT8M4D05TDa) | [TiDUS](https://open.spotify.com/artist/7IxX7YZFKExg98w2dxgsXj) | [See You There](https://open.spotify.com/album/2MlBeY3XdDK17lj7mJWfzU) | 4:32 |
 | 23 | [Leap](https://open.spotify.com/track/5uJxjqSehYT3ZutreHtc0z) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 4:49 |
 | 24 | [Memories](https://open.spotify.com/track/60n0uavWtFl3XMK7TzefB4) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [Memories](https://open.spotify.com/album/0l1cQuO8xp4OvoUtjkBCZN) | 3:47 |
-| 25 | [home with you](https://open.spotify.com/track/7BpykYGkewMF00FzSJLSgH) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:44 |
+| 25 | [home with you](https://open.spotify.com/track/6x4jMSgj7LaMLrqFXe6HQ8) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [home with you](https://open.spotify.com/album/7vs7eD7pLUSIWK4NCU6hIE) | 3:44 |
 | 26 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
 | 27 | [For Me](https://open.spotify.com/track/4O2I4UYYjPnsBE1EWmDUFO) | [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Soulection Black Label: Devin Tracy](https://open.spotify.com/album/61LtXSZFP4kSB776PrPcoP) | 3:25 |
 | 28 | [Love Shy \- Club Asylum Remix](https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Love Shy](https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1) | 3:41 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 44 | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS) | 3:43 |
 | 45 | [Hennesy \(feat\. Kewtiie\)](https://open.spotify.com/track/629l5nQsD1fCtSplf414pL) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [Hennesy \(feat\. Kewtiie\)](https://open.spotify.com/album/2RJyjy7QARZ3HMbJ36e3mc) | 4:01 |
 | 46 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
-| 47 | [nightmares](https://open.spotify.com/track/6BxhzevDe4Mzrabj9Pa1eZ) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:27 |
+| 47 | [nightmares](https://open.spotify.com/track/7qoPkinWQ1JyP34Eo2URAr) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [Spring Break 2022: Road Trip](https://open.spotify.com/album/6r3o3nQWDax5ise25ApXVb) | 3:27 |
 | 48 | [Stand on the Word \(1982 Version\)](https://open.spotify.com/track/6TOhXLevQUI4fjrxLL1nJE) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 4:46 |
 | 49 | [How To Get By](https://open.spotify.com/track/55CmUkpkQ8oPODu909WA1C) | [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [You Are Here](https://open.spotify.com/album/2N1NssWo9QEXqnpKLL3c9a) | 2:31 |
 | 50 | [Scrappy](https://open.spotify.com/track/6BfGVU213AQzBv39g2IzOU) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:35 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 57 | [Get On Uppa](https://open.spotify.com/track/3K60QrITzr3A7VfO9gj65y) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [la Heidi](https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT) | [Gran Paradiso](https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM) | 3:43 |
 | 58 | [For You You You](https://open.spotify.com/track/4z2g6uOZfujue1LoEPazpG) | [Lady Jay](https://open.spotify.com/artist/0rNTIEZKm4LYPn16AcpTaS), [Magnom](https://open.spotify.com/artist/66biqyq71uND4uIC1gXDeI) | [For You You You](https://open.spotify.com/album/4eJ0EqX6TSW1f2hZeeEJK3) | 2:46 |
 | 59 | [Don't Give Up](https://open.spotify.com/track/6vYDdhr1sO7pZQxpYUDJOY) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Tropkillaz](https://open.spotify.com/artist/36GZlkJaTZh25DKHVXe6Ad) | [Buuum Beats, Vol\. 1](https://open.spotify.com/album/7xUKP0lIDFp43w1xcaVGbb) | 3:47 |
-| 60 | [MY LOVE](https://open.spotify.com/track/2ZxNZ44fXzW19X43jyJP36) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [MY LOVE](https://open.spotify.com/album/1tq6KJo53wz0kVew3aAKPm) | 3:37 |
+| 60 | [MY LOVE](https://open.spotify.com/track/6nAZofNToXwIVVmRWqmcZ2) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [the ONE](https://open.spotify.com/album/3epv2krgx1ZUerQPUfb0wn) | 3:37 |
 | 61 | [Eleven](https://open.spotify.com/track/7hOSTRDXiNA7gHGX9cH6Xm) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Cashmere Tears](https://open.spotify.com/album/5y5Je353ZsPKl9fuO10ZpA) | 2:59 |
 | 62 | [PULL UP](https://open.spotify.com/track/4qe56i2s8HZLKIcXn6ofdS) | [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [PRINCESS](https://open.spotify.com/album/7n7QlAD8PJQswHuWW8Xdm8) | 2:58 |
 | 63 | [Goodbye](https://open.spotify.com/track/3PcocqQL1Qn6LtUxjSlk4R) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Jagged Little Thrill](https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j) | 4:33 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 72 | [Punk Champagne](https://open.spotify.com/track/3qMtWzB5qa4HdWm74ynLQu) | [Farai](https://open.spotify.com/artist/4BNLdtYbLEvnnFntN22bPL), [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei) | [Rebirth](https://open.spotify.com/album/527FeAIqpdQ9TB0c4B8Esu) | 3:23 |
 | 73 | [Out of sight \(yhyh\)](https://open.spotify.com/track/0CJgUhLHQuzHQnegA77DPr) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 4:31 |
 | 74 | [Shesha](https://open.spotify.com/track/5TFJIUlWmQfJZCWVUcBX00) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1) | [Shesha](https://open.spotify.com/album/6nkasAeJIl2VSGNQvoMQf5) | 6:43 |
-| 75 | [Vene](https://open.spotify.com/track/206f90xtTsjBqhzc6RwL90) | [G Pillola](https://open.spotify.com/artist/0sPRACMUPse4aZ8umTvLw7) | [Ciao belli](https://open.spotify.com/album/0zuikU98237Glp0PZg0y0K) | 3:01 |
+| 75 | [Vene](https://open.spotify.com/track/41DNvTYw9uVBzv5BmzD5aL) | [G Pillola](https://open.spotify.com/artist/0sPRACMUPse4aZ8umTvLw7) | [Vene](https://open.spotify.com/album/10lbYQ98KmMTwDSQcNdoJj) | 3:01 |
 | 76 | [The Egg](https://open.spotify.com/track/6bAa1rz1a9t3SKLkos8gG9) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [Kurzgesagt, Vol\. 6 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6FAs3MjcH9G8N23Q57VqQu) | 7:49 |
 | 77 | [WEST](https://open.spotify.com/track/4xQl2O5FPdnUdT01xnr4up) | [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [Melo\-Zed](https://open.spotify.com/artist/6c5n3tYI05A05V4u4dxMuv) | [SUGAR LIKE SALT](https://open.spotify.com/album/3TFtDNmg7a2oOEnM7bmPV6) | 3:42 |
-| 78 | [LOUSY](https://open.spotify.com/track/2wkW3RbMGYjbSCNsHShEEm) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 2:45 |
+| 78 | [LOUSY](https://open.spotify.com/track/0DwhsGbwyCtlvs905YIquT) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LOUSY](https://open.spotify.com/album/2LBvRNvI11vqYFdJP24Dwx) | 2:45 |
 | 79 | [About Her](https://open.spotify.com/track/7iQDsonHSnaT6hNBJUaRe9) | [Phazz](https://open.spotify.com/artist/0kjZvGERXMvPFSs6DB5UFF) | [About Her](https://open.spotify.com/album/2oPrc4DfMZTI1Bh2ZrSgfF) | 3:31 |
 | 80 | [Dreaming About You](https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Action](https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98) | 5:52 |
 
-Snapshot ID: `MTU5ODk4NjQzMCwwMDAwMDAwMDA4MDQ5NTVhOTMxN2RiMjQyZTMxYzdhNjc3MmY4NDJh`
+Snapshot ID: `MTU5ODk4NjQzMCwwMDAwMDAwMDg1YmE5MjUwNWQ5NzhlMDQ5MmEwNzI5NjU4NTg0NDA2`

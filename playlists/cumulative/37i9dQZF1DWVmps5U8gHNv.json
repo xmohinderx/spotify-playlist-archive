@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "1965",
+        "url": "https://open.spotify.com/album/5Xix2kY4ojYBOotAx3QuiY"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173813,
+      "name": "Catch the Wind",
+      "url": "https://open.spotify.com/track/4RsvHWZpSoCHRwS0SFpECF"
+    },
+    {
+      "album": {
         "name": "What's Bin Did and What's Bin Hid",
         "url": "https://open.spotify.com/album/3lpCSdIUmTWkb3BrAxDZSR"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 173813,
       "name": "Catch the Wind",
       "url": "https://open.spotify.com/track/6aXKbU2QGsOms8UT3eUOg1"
@@ -988,6 +1006,24 @@
     },
     {
       "album": {
+        "name": "1970s Music",
+        "url": "https://open.spotify.com/album/4EAI2WgVfL1PC1RaKlBwGx"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/3XiejUiakZ6Sop3EXxTfIi"
+    },
+    {
+      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
       },
@@ -999,7 +1035,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228840,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
@@ -1079,10 +1115,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213600,
       "name": "In Spite of Ourselves (feat. Iris DeMent)",
       "url": "https://open.spotify.com/track/1k691v8ChLgDiuLLKnjyj6"
+    },
+    {
+      "album": {
+        "name": "Sittin' on a Rainbow",
+        "url": "https://open.spotify.com/album/1gtFcfpZ7vHETb9CO1G36I"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Iris DeMent",
+          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "In Spite of Ourselves (feat. Iris Dement)",
+      "url": "https://open.spotify.com/track/2GOX3QZHw0OZmebXdgQRFt"
     },
     {
       "album": {
@@ -1403,10 +1461,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 489106,
       "name": "Matty Groves",
       "url": "https://open.spotify.com/track/6PANXCHzEANzajOgtwLMnN"
+    },
+    {
+      "album": {
+        "name": "Folk Music",
+        "url": "https://open.spotify.com/album/7GDONoah42N8bVPTY8G9tK"
+      },
+      "artists": [
+        {
+          "name": "Fairport Convention",
+          "url": "https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490253,
+      "name": "Matty Groves",
+      "url": "https://open.spotify.com/track/2k512lGXvUnWUvKz9jIlPO"
     },
     {
       "album": {
@@ -1637,10 +1713,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 124000,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
+    },
+    {
+      "album": {
+        "name": "Lakehouse Life",
+        "url": "https://open.spotify.com/album/47mQoM02y17IKagvqObh7Q"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/6qnLo1sdhWKem5hNev1fie"
     },
     {
       "album": {
@@ -1709,10 +1803,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 119450,
       "name": "Road",
       "url": "https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol"
+    },
+    {
+      "album": {
+        "name": "Digital Box Set",
+        "url": "https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119466,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/2jEODSKD7kohAI7mGrFVmn"
     },
     {
       "album": {
@@ -1745,10 +1857,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 283640,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "album": {
+        "name": "The Essential John Denver",
+        "url": "https://open.spotify.com/album/6v3zs4PYQw1esV7ZtrjZut"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283960,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/3L2Zetc43qCSJEH5DwsEa2"
     },
     {
       "album": {
@@ -1835,10 +1965,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 203397,
       "name": "Something on Your Mind",
       "url": "https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e"
+    },
+    {
+      "album": {
+        "name": "Something on Your Mind",
+        "url": "https://open.spotify.com/album/6BN8tJLdplkqC3MjiRQCuU"
+      },
+      "artists": [
+        {
+          "name": "Karen Dalton",
+          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205880,
+      "name": "Something on Your Mind",
+      "url": "https://open.spotify.com/track/1yVIf4C7SD5VORxYZ3llM9"
     },
     {
       "album": {
@@ -2004,6 +2152,24 @@
     },
     {
       "album": {
+        "name": "The Windstar Greatest Hits",
+        "url": "https://open.spotify.com/album/6o8Ios5LjCRheF5T6mwoi5"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195800,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/3eE44UW8GYv47YCgFD38rr"
+    },
+    {
+      "album": {
         "name": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
         "url": "https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU"
       },
@@ -2015,7 +2181,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 197813,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"
@@ -2112,6 +2278,24 @@
     },
     {
       "album": {
+        "name": "The Essential Simon & Garfunkel",
+        "url": "https://open.spotify.com/album/08KZ5fbzYRYPu4ZRPi60MT"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307733,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/499CC6TMQObjLWI6w4EC0b"
+    },
+    {
+      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -2123,7 +2307,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 308520,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
@@ -2159,10 +2343,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 180493,
       "name": "The First Cut Is The Deepest - Stereo Version",
       "url": "https://open.spotify.com/track/44NEZGVj6bElfwpLb1LBVx"
+    },
+    {
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/1q0D3N7qYPg5WNDV1JH7tc"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "The First Cut Is The Deepest - Stereo Version",
+      "url": "https://open.spotify.com/track/2iW3yQQPq17POuYxVtQGXx"
     },
     {
       "album": {
@@ -2202,6 +2404,24 @@
     },
     {
       "album": {
+        "name": "The Best 70s Album In The World...Ever!",
+        "url": "https://open.spotify.com/album/0Bk04pBIir0vs237hKcfWT"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "The Night They Drove Old Dixie Down",
+      "url": "https://open.spotify.com/track/1dPlKLJHNetQdrdqcOufKO"
+    },
+    {
+      "album": {
         "name": "How Sweet the Sound",
         "url": "https://open.spotify.com/album/5OdF8tz3Au9u7awZKr4xqE"
       },
@@ -2231,7 +2451,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 206066,
       "name": "The Night They Drove Old Dixie Down",
       "url": "https://open.spotify.com/track/0uHYplBhwLYey7f9qAmnSM"
@@ -2285,10 +2505,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 185413,
       "name": "The Sound of Silence - Acoustic Version",
       "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "album": {
+        "name": "The Graduate - Music From The Broadway Comedy",
+        "url": "https://open.spotify.com/album/28oPljw32I8H4LWfdQ2z7z"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "The Sound of Silence - Electric Version",
+      "url": "https://open.spotify.com/track/0g4EqkvvfN78Qop0flCs8K"
     },
     {
       "album": {
@@ -2339,10 +2577,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 274493,
       "name": "The Weight - Remastered 2000",
       "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+    },
+    {
+      "album": {
+        "name": "70s Rock Essentials",
+        "url": "https://open.spotify.com/album/2nUKl9sXFdOVPyRV3dGoWA"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/1ctcjestGXW13ej3kJjvou"
     },
     {
       "album": {
@@ -2677,10 +2933,54 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 200560,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
+    },
+    {
+      "album": {
+        "name": "70's Music - I Grandi Successi",
+        "url": "https://open.spotify.com/album/62SQumLuxmWJvXzIYul0pg"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200573,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/7JS7F316cTGvEeiRUzsBfJ"
+    },
+    {
+      "album": {
+        "name": "100 Greatest Acoustic Songs",
+        "url": "https://open.spotify.com/album/4744LKhHEUK88uQPtDc5AH"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215960,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/45HHqS11ZZQcA9px1SBDnK"
     },
     {
       "album": {
@@ -2703,7 +3003,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 216573,
       "name": "Wildflowers - 2015 Remaster",
       "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"

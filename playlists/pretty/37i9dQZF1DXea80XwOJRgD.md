@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 
 > Some heart and soul for those up late.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,164 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,218 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 25 | [So Good Today \(feat\. The Dap\-Kings\)](https://open.spotify.com/track/0jJSIuK4FbK3yisVwGGMus) | [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Welcome to the Remixes](https://open.spotify.com/album/0FQQn9kTrlOFGcbtfy9b7v) | 3:20 |
 | 26 | [Drop of Honey](https://open.spotify.com/track/6e2RwVYEGnsH20GsRBVlNW) | [Eric Kufs](https://open.spotify.com/artist/18KeavvXnAdX2lYib7wgyr) | [The Long \- EP](https://open.spotify.com/album/0UO14h8YsBVpz9GgkllwMo) | 4:17 |
 | 27 | [Better Man](https://open.spotify.com/track/321cXoYTsPtmNaVGubsz4o) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO) | 5:29 |
-| 28 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:09 |
+| 28 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:09 |
 | 29 | [Have You Heard Anything from the Lord Today](https://open.spotify.com/track/5OCwYvNcTGvP4XpaNNr9LN) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [My Love Divine Degree](https://open.spotify.com/album/1IsiXen1EXcsHlF5LVhUP0) | 3:21 |
 | 30 | [Made a Fool of Me](https://open.spotify.com/track/6mND5p3oGGyLe9d6flens2) | [Nicky Egan](https://open.spotify.com/artist/3hv0XXNWxgBu7S0df8xEMy) | [The 45 Homestead Project](https://open.spotify.com/album/1xWTWwjBHRcVELnZvdgvaS) | 4:35 |
 | 31 | [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 |
 | 32 | [Into The Deep](https://open.spotify.com/track/1ihtjid4pu4fMMnu6eQPjw) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Into The Deep \(Deluxe Edition\)](https://open.spotify.com/album/4SYn1sKCxhkoO1vRqEqjoS) | 3:42 |
-| 33 | [Hanging Tree](https://open.spotify.com/track/42USfeQzbKwVuVXNYT2y9d) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Hanging Tree](https://open.spotify.com/album/41mqbGnQlvmMSUz8Obf8s6) | 3:10 |
+| 33 | [Hanging Tree](https://open.spotify.com/track/0iz7cMoU81wtTzmeitpcQP) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Sankofa.org presents 17](https://open.spotify.com/album/4eXSMX2V9mpHakBpFaWMBe) | 3:10 |
 | 34 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 35 | [Gracefully](https://open.spotify.com/track/6o48EgHLxA0g0NLcDXukz7) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3OfyDcQy6XHkxMMGLrSJHT) | 3:38 |
 | 36 | [I Just Want You](https://open.spotify.com/track/11je301F3XSDfB9cGriUWa) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [Side 1](https://open.spotify.com/album/2kdYwte5WukmMd0SpztTgT) | 3:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 47 | [Part Time Love](https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:49 |
 | 48 | [Your Love Will Blow Me Away When My Heart Aches](https://open.spotify.com/track/7mTXXQLhBp3W0UCx4bLfYf) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:03 |
 | 49 | [I'd Rather Go Blind](https://open.spotify.com/track/7xtpbJoe4D8NxpK6jMn88a) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Loving You More…In The Spirit Of Etta James](https://open.spotify.com/album/5SCIDpdnpyjDm2bjCj8cuF) | 4:11 |
-| 50 | [Falling](https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z) | 2:39 |
+| 50 | [Falling](https://open.spotify.com/track/6oUMWq0hCCAdtpcp2GemLd) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [NOW That's What I Call Music! Vol\. 74](https://open.spotify.com/album/6numEuZLppWcXTtfhRJQmd) | 2:34 |
 
-Snapshot ID: `MTY2NDcyNjM4MywwMDAwMDAwMDYwM2MxMjFlNmMxNjUwZDZlNWY1MWQyNDI5ZjNkMTRl`
+Snapshot ID: `MTY2NDcyNjM4MywwMDAwMDAwMDY1ODkxYjdlMjE1MzYwMzNlYTU1MTA3MDQ1MDRjYmQ2`

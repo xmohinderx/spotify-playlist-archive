@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,979 likes - 71 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,992 likes - 71 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Let's Go](https://open.spotify.com/track/1UUZXCnGoBypfLcEqZoNBX) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Reflection](https://open.spotify.com/album/2z5JAOOwIIWog5UDQydquq) | 3:40 |
+| 1 | [Let's Go](https://open.spotify.com/track/1vob9SkbqjYFtnNybJbpAa) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Let's Go](https://open.spotify.com/album/2gS32OlOYmfw5M8FEdfMmT) | 3:40 |
 | 2 | [Nik Com](https://open.spotify.com/track/1Oxf4JleXC7UfIzu0OfQto) | [Nídia](https://open.spotify.com/artist/3BKX2WA8UjZgTIJ2juyQ7G) | [Não Fales Nela Que A Mentes](https://open.spotify.com/album/37k7KzGQIMEnoxD15qq4uL) | 2:24 |
 | 3 | [Everything Evaporate](https://open.spotify.com/track/4Ne6Wt5fYHbx3SvTUfr3kR) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Everything Evaporate](https://open.spotify.com/album/1wKKrYxulFvFe0JUtK5rzC) | 6:40 |
 | 4 | [Max](https://open.spotify.com/track/7aWWOiX3LsB80ozbNTSTZb) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Believer](https://open.spotify.com/album/6L0IdiiAC6ELOGyksKclzn) | 4:17 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 13 | [Simplicity Mind Tool](https://open.spotify.com/track/44EWg3rLB9A6kTRri8hpia) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:40 |
 | 14 | [The Steady Heart](https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA) | 5:39 |
 | 15 | [Grove \(feat\. Embaci\)](https://open.spotify.com/track/5z9UHbaTlxlGFmo0QF3r8Q) | [Elysia Crampton](https://open.spotify.com/artist/75v4Rn3SqXn6dmq2PFrRgN), [Embaci](https://open.spotify.com/artist/7lQGSAbIBqelsj0cSMiXIf) | [ORCORARA 2010](https://open.spotify.com/album/53C5AOi5JakQFaFWWRUt93) | 4:43 |
-| 16 | [home with you](https://open.spotify.com/track/7BpykYGkewMF00FzSJLSgH) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:44 |
+| 16 | [home with you](https://open.spotify.com/track/6x4jMSgj7LaMLrqFXe6HQ8) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [home with you](https://open.spotify.com/album/7vs7eD7pLUSIWK4NCU6hIE) | 3:44 |
 | 17 | [Insecure Behaviour and Fuckery](https://open.spotify.com/track/2MXOfWXA8LLtpW820uDHe0) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [Nova](https://open.spotify.com/artist/3rNhRAltBbferGhIGlZFmh) | [Reflection](https://open.spotify.com/album/2z5JAOOwIIWog5UDQydquq) | 4:59 |
 | 18 | [Two Halves Touching](https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 3:50 |
 | 19 | [Saturn](https://open.spotify.com/track/1VvsZ7IjtrZ08hm2kEQhVh) | [Susannah Stark](https://open.spotify.com/artist/33Sq6l1YFnUCRWeyYwsVIq) | [Time Together \(Hues & Intensities\)](https://open.spotify.com/album/6CEKHac7n0h7wfp1rmhQWK) | 4:54 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 23 | [Screaming Colours](https://open.spotify.com/track/2tXEqUJploWqralhIPjmik) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 6:13 |
 | 24 | [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 |
 | 25 | [Seen Any Monsters Lately?](https://open.spotify.com/track/5Oqr3XF8VkOMYcZwud2Esp) | [Rachel Lyn](https://open.spotify.com/artist/7aI1w9YIJsFMyVpQivifbP) | [Oh Daydream](https://open.spotify.com/album/1eCWhDovH4FrjSSZpiLRpD) | 3:34 |
-| 26 | [Magic Square](https://open.spotify.com/track/1w5qL6CSESiVhCAAIBHce5) | [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee) | [Maquishti](https://open.spotify.com/album/6RSCxwbIAA8Wyc86A0cigc) | 6:53 |
+| 26 | [Magic Square](https://open.spotify.com/track/6vYRvDBxUecnGCSVGnG5Fl) | [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee) | [Improvisation VI](https://open.spotify.com/album/32FTSuKnK88CRfZM9vuvsr) | 6:53 |
 | 27 | [Enter](https://open.spotify.com/track/1k7Y1GmFVagVYl7VckoLMn) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Spells](https://open.spotify.com/album/79Cgoda0fP6Y3JC9RS2d5n) | 1:44 |
 | 28 | [Carousel \- The Keep Remix](https://open.spotify.com/track/3MT91VktYkeYXl3Oa3s7oi) | [Such Small Hands](https://open.spotify.com/artist/3AE296ekeJvGNsRQ7MZuAr), [The Keep](https://open.spotify.com/artist/4pVuGCnocXntPcLGQN5y3t) | [Carousel \(The Keep Remix\)](https://open.spotify.com/album/6YkF8diIHec5IQ2CAFAeLx) | 4:22 |
 | 29 | [Transparent, In Movement](https://open.spotify.com/track/5Q2XN3tPkxtDegL1T1dvPX) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Everything Evaporate](https://open.spotify.com/album/1wKKrYxulFvFe0JUtK5rzC) | 8:00 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 34 | [Clean](https://open.spotify.com/track/5BHHAEdvkq7Z4vMXr9PPyT) | [Pan Daijing](https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR) | [Jade](https://open.spotify.com/album/6TolOVlI4gfOEuMit1ydWL) | 3:08 |
 | 35 | [Spring](https://open.spotify.com/track/17pxEWa1ro5iPHjjdnvjjU) | [Ola Szmidt](https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw) | [Spring](https://open.spotify.com/album/3TJlMqvBFIxMDJD8GADy1p) | 5:16 |
 | 36 | [Timbu Limbu And Her War Bass](https://open.spotify.com/track/6e0eVsUOcWSykyieIlpxrQ) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Timbu Limbu And Her War Bass](https://open.spotify.com/album/69zfdOF5MIl9a3dRezJwT7) | 3:36 |
-| 37 | [discrete \(the market\)](https://open.spotify.com/track/6qUpvBSrrwlWogJR7kRYOo) | [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/0UnY8jxUamnb3hYkUVN8pK) | 6:34 |
+| 37 | [discrete \(the market\)](https://open.spotify.com/track/31r541ZxOLyQ0Hw8Ay04z8) | [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [discrete \(the market\)](https://open.spotify.com/album/3AyGSU1g5dj4rvv5o36c6B) | 6:34 |
 | 38 | [Bitterness](https://open.spotify.com/track/78bmUqAUwZyocVG2vHFfSm) | [Flora Yin\-Wong](https://open.spotify.com/artist/6G9Fk5r3RJUQSpsZWh6g6B) | [Holy Palm](https://open.spotify.com/album/67WZCZhqrzUIOMeyRfhkjy) | 3:56 |
 | 39 | [ABBA/Mary \- Christina Vantzou Remix](https://open.spotify.com/track/4qdXA8vkqzhmyV4PaHXOt4) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [ABBA/Mary \(Christina Vantzou Remix\)](https://open.spotify.com/album/3lvfmwUA0Ob9kNOshN5bEi) | 3:26 |
 | 40 | [Home Is Where the Music is](https://open.spotify.com/track/2BILRiKI5C4zAjLPDWqDkS) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Face to Phase](https://open.spotify.com/album/3JAHvyB4gAIjPPxQ6k2XRu) | 4:32 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 70 | [Hyphae](https://open.spotify.com/track/1P2vvqWQ36gkiUoxrY9z74) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Hyphae](https://open.spotify.com/album/3Y2DIQoC2UeA1oSr1vhTbF) | 6:27 |
 | 71 | [Teta 7hz \(Tool\) \[feat\. DeForrest Brown Jr.\]](https://open.spotify.com/track/3nHU4KLvIBXCSfcrKmaJZW) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:33 |
 
-Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMGZmNjI5ODhiY2Q5MDQ1M2JmY2UxZjQxNGExZGE0MDli`
+Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMDk4OWRjNWRkM2YyZmFlMjVlZGRmNGU5YzQ5ZGMzYWMx`

@@ -4,7 +4,7 @@
 
 > Everyone's welcome\. Cover: Zolita
 
-75 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/2yx49MiwxFvtLINia2IeXm)
+76 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/2yx49MiwxFvtLINia2IeXm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2022-05-06 |  |
 | [Mine](https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Mine](https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP) | 2:39 | 2022-05-06 |  |
 | [Misery Business](https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:31 | 2022-05-06 | 2022-07-29 |
-| [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 | 2022-05-23 |  |
+| [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 | 2022-05-23 | 2022-11-11 |
+| [Misery Business](https://open.spotify.com/track/7bJL09djprfjLQ2G1zEVrC) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Cool Kids](https://open.spotify.com/album/1mLxjBgGgvsTHhFCr6xHE5) | 3:31 | 2022-05-23 |  |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/32L05FkUrYfVlc0IwJ45ld) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/03t71EZD4QdMD6PI1QdZC2) | 2:17 | 2022-05-06 |  |
 | [My My My!](https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:24 | 2022-05-23 |  |
 | [My My My!](https://open.spotify.com/track/71T7xF5wLbDRg76jxAwDqA) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My!](https://open.spotify.com/album/6W9vAihnwRgnRJ7griWzLE) | 3:24 | 2022-05-06 | 2022-07-29 |

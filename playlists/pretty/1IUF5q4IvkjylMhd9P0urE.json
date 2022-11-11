@@ -1,13 +1,33 @@
 {
   "description": "Our favourite new music, updated monthly by the XL team. ",
-  "num_followers": 13808,
+  "num_followers": 13813,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "NTY5MCxjMGFkMDI3OGEzZTUxMTA4YTAyODUwYmNjMzA1ZGQzNmY3ZTQzNjlh",
+  "snapshot_id": "NTY5MyxhYzVkNGI3NzYzMTBjNjNjODcyNzk2Mjg4ODc2M2I5ZmZjZWJkOTAy",
   "tracks": [
+    {
+      "added_at": "2022-11-10 14:42:07",
+      "album": {
+        "name": "Rose Rouge",
+        "url": "https://open.spotify.com/album/7DodMymoQ0sFG6baosag8D"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 277786,
+      "name": "Rose Rouge",
+      "url": "https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN"
+    },
     {
       "added_at": "2022-10-10 14:19:33",
       "album": {
@@ -1151,30 +1171,6 @@
       "duration_ms": 187988,
       "name": "God Is The Space Between Us",
       "url": "https://open.spotify.com/track/5I73WkfhuOvavHVYk3TGrm"
-    },
-    {
-      "added_at": "2022-10-10 14:13:48",
-      "album": {
-        "name": "drifting",
-        "url": "https://open.spotify.com/album/5iq1qPDIk9UrhK6JQPTM0U"
-      },
-      "artists": [
-        {
-          "name": "NEY LIQA",
-          "url": "https://open.spotify.com/artist/4O5Ly3iCRwSJuxyDMPePV7"
-        },
-        {
-          "name": "LYAM",
-          "url": "https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve"
-        },
-        {
-          "name": "Tamim",
-          "url": "https://open.spotify.com/artist/0UxFTsSoaP5EfSnsj3mzuD"
-        }
-      ],
-      "duration_ms": 221180,
-      "name": "drifting",
-      "url": "https://open.spotify.com/track/2eF73epcx80GqHL6pR7nyE"
     },
     {
       "added_at": "2022-10-10 14:13:48",

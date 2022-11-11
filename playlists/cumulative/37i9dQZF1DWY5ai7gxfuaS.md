@@ -4,13 +4,14 @@
 
 > The most innovative and forward thinking metal right now\. Cover: Ghostemane
 
-126 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/74UBTR7z0vAmQsRIWWsXwK)
+129 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/74UBTR7z0vAmQsRIWWsXwK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 | 2022-03-10 |  |
 | [A Bellyful of Salt and Spleen](https://open.spotify.com/track/0MNI4YG8dQ82tRR2St6q6V) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [A Bellyful of Salt and Spleen](https://open.spotify.com/album/4MuT9lqZBCN7JSDEKuzEOP) | 4:36 | 2021-12-20 | 2022-07-29 |
-| [A Bellyful of Salt and Spleen](https://open.spotify.com/track/7pFdW0mdlfHPXAmQIPtQzL) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Throes of Joy in the Jaws of Defeatism \(Bonus Tracks Version\)](https://open.spotify.com/album/4O3oSTv5mauxfXPdMRrayQ) | 4:36 | 2022-07-26 |  |
+| [A Bellyful of Salt and Spleen](https://open.spotify.com/track/2lKPQGRL2KyIqfEYQyzeGc) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [A Bellyful of Salt and Spleen](https://open.spotify.com/album/7tyS8cEiRHj1i3HmvvUszv) | 4:36 | 2022-09-29 |  |
+| [A Bellyful of Salt and Spleen](https://open.spotify.com/track/7pFdW0mdlfHPXAmQIPtQzL) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Throes of Joy in the Jaws of Defeatism \(Bonus Tracks Version\)](https://open.spotify.com/album/4O3oSTv5mauxfXPdMRrayQ) | 4:36 | 2022-07-26 | 2022-11-11 |
 | [A Lament](https://open.spotify.com/track/2f4DGYqmBDbfxyPGmPAGoV) | [The Body](https://open.spotify.com/artist/1VFYpTpgmp7ANXqok2dTg3) | [A Lament](https://open.spotify.com/album/1WLtMJBOiWB6yQyEAfFsJA) | 5:54 | 2021-12-20 |  |
 | [ABYSS](https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [ABYSS](https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo) | 2:31 | 2022-09-29 |  |
 | [After You Comes the Flood](https://open.spotify.com/track/2C33v3NmRB9cb4L4cLmFWn) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Nowhere Now Here](https://open.spotify.com/album/4wP3wYSBo0h9UfAfG5D94a) | 5:31 | 2022-07-26 |  |
@@ -21,7 +22,8 @@
 | [Alone I Burn \- Radio Edit](https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE) | [Synthetic Blast](https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b) | [Alone I...](https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj) | 4:40 | 2022-09-29 |  |
 | [AN ITERATION](https://open.spotify.com/track/7vAWLTQr7F9KLKsIu7RbT6) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [AN ITERATION](https://open.spotify.com/album/0xMePIGPcoO7Xirx1Jh0da) | 2:53 | 2021-12-20 |  |
 | [Ancestral Recall](https://open.spotify.com/track/4F0cImmvDJ9IEvPgBHPaY9) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [Ancestral Recall](https://open.spotify.com/album/4ZAz2jdFFsLsuc6KJScGh1) | 3:54 | 2021-12-20 | 2022-07-29 |
-| [Ancestral Recall](https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [May Our Chambers Be Full](https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc) | 3:54 | 2022-07-26 |  |
+| [Ancestral Recall](https://open.spotify.com/track/66EQnrHuas3WUn8aIOVmdg) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [Ancestral Recall](https://open.spotify.com/album/0ppDekC0zA0aOKt9FxXVMY) | 3:54 | 2022-09-29 |  |
+| [Ancestral Recall](https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [May Our Chambers Be Full](https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc) | 3:54 | 2022-07-26 | 2022-11-11 |
 | [Arcana Imperii](https://open.spotify.com/track/3Vv0Lsh8rGZZSckd5PsOzd) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Ámr](https://open.spotify.com/album/5w24JkPfkFs4PPVSnrzO1y) | 4:53 | 2021-12-20 |  |
 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 | 2021-12-20 |  |
 | [As They Bloom](https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [As They Bloom](https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ) | 3:57 | 2022-09-29 |  |
@@ -56,7 +58,8 @@
 | [Envy](https://open.spotify.com/track/6gaiIOJF8LbjyvX7VKOLm8) | [Afterlife](https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX) | [Envy](https://open.spotify.com/album/1wJhK0tlMtM1c190rxaZCr) | 3:32 | 2021-12-20 | 2022-07-29 |
 | [EUGH!](https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx) | [SPIIRAL](https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC) | [EUGH!](https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X) | 1:22 | 2022-03-03 |  |
 | [FAIRY METAL](https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/6kfLbgw7Urv2Kyd2xSJALA) | 2:41 | 2022-03-04 | 2022-07-29 |
-| [FAIRY METAL](https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ) | 2:41 | 2022-07-26 |  |
+| [FAIRY METAL](https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ) | 2:41 | 2022-07-26 | 2022-11-11 |
+| [FAIRY METAL](https://open.spotify.com/track/4ipbPgiF2y8XPXgIsJYu2x) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/7t7lPSTAUgWQKj3w2zXAk4) | 2:41 | 2022-09-29 |  |
 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 | 2022-09-29 |  |
 | [Frost \(C\)](https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2) | [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Pyroclasts](https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f) | 10:56 | 2021-12-20 |  |
 | [FUCK WITH A WITCH 2](https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FUCK WITH A WITCH 2](https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e) | 1:30 | 2021-12-20 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-81 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
+83 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [OK](https://open.spotify.com/track/6FaOYioHDoL3Tt1c1Zn9EZ) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [OK, OK](https://open.spotify.com/album/0TERygqKJpDLNi8zwfyCzZ) | 5:46 | 2022-09-16 |  |
 | [On Off](https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN) | [Cirez D](https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB) | [On Off / Fast Forward](https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9) | 9:07 | 2022-09-16 |  |
 | [Patterns](https://open.spotify.com/track/1Wrgevw8ryE5ygjDBa9f10) | [Jürgen Kaisr](https://open.spotify.com/artist/6hzeX2ERTNIeQ3QolZk8sW) | [Patterns](https://open.spotify.com/album/2UxYojBKGpTT9IKmKL130T) | 7:48 | 2022-09-16 |  |
-| [Philly](https://open.spotify.com/track/1yjHf4kssDAt3AsJVzIx1w) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Philly](https://open.spotify.com/album/1tNdETUVwKwr0Ur02zAEm4) | 8:15 | 2022-10-07 |  |
+| [Philly](https://open.spotify.com/track/1yjHf4kssDAt3AsJVzIx1w) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Philly](https://open.spotify.com/album/1tNdETUVwKwr0Ur02zAEm4) | 8:15 | 2022-10-07 | 2022-11-11 |
+| [Philly](https://open.spotify.com/track/31pgniS2oEW6S2SNHCPnLV) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Present 10 Years Get Physical](https://open.spotify.com/album/3H7F4f1FFSov6xXVVpIpjZ) | 8:15 | 2022-11-07 |  |
 | [Philly](https://open.spotify.com/track/5WmWTKaOjVRLdTtZXHMzoH) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Philly](https://open.spotify.com/album/7pdcKXEVHGRdF2sE4w5Nx0) | 8:15 | 2022-09-16 | 2022-10-18 |
 | [Pictureoftheday \- Breitenstein Remix](https://open.spotify.com/track/7FwnbicTkdRzrzwWc8hkHp) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO), [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Pictureoftheday \- Breitenstein Remix](https://open.spotify.com/album/6du7BevPmXnj3oHFwiwD6f) | 8:19 | 2022-09-16 |  |
 | [Pictureoftheday \- Marco Faraone Remix](https://open.spotify.com/track/4VxbQKewmC9zm1qYDVx64W) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Pictureoftheday \- Marco Faraone Remix](https://open.spotify.com/album/4BtmVqZMhKF4qqo7lpIUAv) | 7:14 | 2022-09-16 |  |
@@ -79,7 +80,8 @@
 | [Subconscious](https://open.spotify.com/track/5R8PgzKg69PUSLxb2CDgzT) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Subconscious](https://open.spotify.com/album/5GuHgCcoVrDmGYnpPprN0S) | 5:39 | 2022-09-16 |  |
 | [The 8th Fire](https://open.spotify.com/track/6sNki8IYe6xTErgHgYLI3K) | [Ida Engberg](https://open.spotify.com/artist/5psccYjSTbvey4GWul62EB) | [Return to Consciousness](https://open.spotify.com/album/0xSqwS47kEg7mkD9b3k25S) | 6:20 | 2022-09-16 |  |
 | [The Blame \- Helsloot Remix](https://open.spotify.com/track/4HiowIhpREOxQ3reSVLQ8n) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [The Blame \(Helsloot Remix\)](https://open.spotify.com/album/6CER3OrpXoQlZxr9rAiGNj) | 6:44 | 2022-09-16 |  |
-| [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The House Of House](https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp) | 7:35 | 2022-09-16 |  |
+| [The House Of House \- Original Mix](https://open.spotify.com/track/4Dtv1NQTHSbzrja0fEVsX7) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The Ultimate Megamix](https://open.spotify.com/album/2NdTJ1aEFe0gCzFEsQwuxx) | 7:38 | 2022-11-07 |  |
+| [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The House Of House](https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp) | 7:35 | 2022-09-16 | 2022-11-11 |
 | [This Is a Dream](https://open.spotify.com/track/7AfMHMKIg9MKMN7rePjukN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [This Is a Dream](https://open.spotify.com/album/5KpV9ITrp6tRkR1Qp9DEaM) | 8:31 | 2022-09-16 |  |
 | [To The Disco](https://open.spotify.com/track/2EsImRV5hldowTEVn7ll7h) | [D\-Nox](https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT), [Gai Barone](https://open.spotify.com/artist/6ITKskiAcS4w9egVKClT7e) | [Katermukke Playground XI](https://open.spotify.com/album/3AEn2yhRRCVW3CqzBrke8k) | 7:12 | 2022-09-16 |  |
 | [Trauma \- Worakls Remix](https://open.spotify.com/track/1uXUZfJykefWuwj9VtyxIq) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Hungry 5 \(The Best of 5 Years\)](https://open.spotify.com/album/6cjXNVPvBuQdrCbllisAbD) | 10:00 | 2022-09-16 |  |

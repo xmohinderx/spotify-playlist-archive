@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,512 likes - 291 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,560 likes - 291 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 119 | [Lucy Goosey](https://open.spotify.com/track/5Qnot7dFk2OguRXGOzG3rN) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Pink Lemonade](https://open.spotify.com/album/2Hl7QyBwj65cFqpWBhgcSm) | 1:30 |
 | 120 | [Royal Highness](https://open.spotify.com/track/7uJKZCjiHRAde6xQm2Kx0Q) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Kid Tested & Mother Approved](https://open.spotify.com/album/2wz6cO6pnQb0qGfRYkMWVc) | 2:08 |
 | 121 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 |
-| 122 | [Walking to Adachi](https://open.spotify.com/track/5pFain5KYhtQ7PoZFp5u7l) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 2:21 |
+| 122 | [Walking to Adachi](https://open.spotify.com/track/0zHKDPdhYYuRsZP6UPYu0x) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 2:21 |
 | 123 | [Sweet Morning](https://open.spotify.com/track/3sDROMtJXbaBbFag9akZLY) | [Ouska](https://open.spotify.com/artist/1BhytEyR0LxnxXoeQPxGVV) | [Sweet Morning](https://open.spotify.com/album/4SzuMKqwnXnCuORNhqWuGO) | 2:40 |
 | 124 | [dreams](https://open.spotify.com/track/3zwzd8lU5jBKn7cc6KySnC) | [tawnbei](https://open.spotify.com/artist/2Np0o8All4XesC4ZMGufqI), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Tomorrow](https://open.spotify.com/album/4V64FySutmmfz5MZQTSVnN) | 1:15 |
 | 125 | [Summer](https://open.spotify.com/track/2qTZ6o9q4vxxVlGbsJCFTA) | [Sweet Oscar](https://open.spotify.com/artist/7hwWfUVrKczeyLavJykzzL), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Summer](https://open.spotify.com/album/1KnSRTKOePuA8bk3J5rfZz) | 1:56 |
@@ -162,7 +162,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 152 | [Pear Pressure](https://open.spotify.com/track/6Cr1O5VOD2QPYQWHTDRg3c) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/12EcN4Do1ydB2IPU5Wke1s) | 2:22 |
 | 153 | [So Addictive](https://open.spotify.com/track/2BDKKL4We7h8JwGk4NWpE5) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [So Addictive](https://open.spotify.com/album/5YoehEM1Hr5aE4gtrkN95m) | 3:12 |
 | 154 | [Fandango](https://open.spotify.com/track/69Q3BvKjpIeCJkCcvPxs7R) | [MAGICMINT](https://open.spotify.com/artist/7j9F86nfXHaXafSysyXi2w) | [Fandango](https://open.spotify.com/album/4cZZmm6GTU65XQGffLWeaS) | 2:07 |
-| 155 | [Tokyo Trainspotting](https://open.spotify.com/track/1bFNVPttUZyzRxfsJAFkJx) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 2:00 |
+| 155 | [Tokyo Trainspotting](https://open.spotify.com/track/5BytyiwDLVxJS1x4vgaeli) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 2:00 |
 | 156 | [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 |
 | 157 | [ela é](https://open.spotify.com/track/51ZIGh9waxNZQgBDYCkpwz) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [ela é](https://open.spotify.com/album/18ke2giSradV4W4KMNGFbR) | 1:48 |
 | 158 | [Something Has Happened](https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Artifacts](https://open.spotify.com/album/5J0M15urtyOM5CxTjtgT8F) | 1:56 |
@@ -300,4 +300,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 290 | [Sunrise](https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Sunrise](https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB) | 2:48 |
 | 291 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 |
 
-Snapshot ID: `MTY2Njk1ODgwMiwwMDAwMDAwMGMyMzY5ZWRjYWFlZmQwMWVlNDE2MDdhNTlmNGU5M2Fl`
+Snapshot ID: `MTY2Njk1ODgwMiwwMDAwMDAwMDc0OWVmM2Y3YmU4NWNlNDlmZTllYTQwNjMzNTg2Mjg1`

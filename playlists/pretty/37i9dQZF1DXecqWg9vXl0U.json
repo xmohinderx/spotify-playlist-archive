@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Bella \u00c1lvarez.",
-  "num_followers": 35871,
+  "num_followers": 35906,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzI1NDYwNSwwMDAwMDAwMGQ0ZTM5Mjg0ZTkzMDNjNzNjNjBiYzlmYzQwNGJlOGU1",
+  "snapshot_id": "MTY2NzI1NDYwNSwwMDAwMDAwMGY5MDAzZDNkNzcxNDFmZDgyNTRmNjFlMTJkNmQ5OWQy",
   "tracks": [
     {
       "added_at": "2022-10-31 22:16:45",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/1IVtRPT0lFcFcxBn9XRWon"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 185445,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/4VTS91UQjtt7A8hJQLE466"
+    },
+    {
+      "added_at": "2022-10-31 22:16:45",
+      "album": {
         "name": "Error 404",
         "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
       },
@@ -519,18 +535,18 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
-        "name": "Lejos",
-        "url": "https://open.spotify.com/album/1IVtRPT0lFcFcxBn9XRWon"
+        "name": "Horas Contigo",
+        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
       },
       "artists": [
         {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
         }
       ],
-      "duration_ms": 185445,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/4VTS91UQjtt7A8hJQLE466"
+      "duration_ms": 160028,
+      "name": "Horas Contigo",
+      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -551,22 +567,6 @@
       "duration_ms": 155253,
       "name": "Mi Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/7jC3idd95GXBbUxn9S8btI"
-    },
-    {
-      "added_at": "2022-10-31 22:16:45",
-      "album": {
-        "name": "Horas Contigo",
-        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 160028,
-      "name": "Horas Contigo",
-      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
-        "name": "Amor Variado",
-        "url": "https://open.spotify.com/album/5MdAMEUoYehho4eyLAkVTX"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 126227,
-      "name": "Espinas De Rosas",
-      "url": "https://open.spotify.com/track/1mOm59T1dzILITuOHfnkp1"
-    },
-    {
-      "added_at": "2022-10-31 22:16:45",
-      "album": {
         "name": "Siempre Hago Lo Que Quiero",
         "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 183056,
       "name": "Amantes Astrales",
       "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
+    },
+    {
+      "added_at": "2022-10-31 22:16:45",
+      "album": {
+        "name": "Amor Variado",
+        "url": "https://open.spotify.com/album/5MdAMEUoYehho4eyLAkVTX"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 126227,
+      "name": "Espinas De Rosas",
+      "url": "https://open.spotify.com/track/1mOm59T1dzILITuOHfnkp1"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
-        "name": "\u00c1ngel",
-        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
-    },
-    {
-      "added_at": "2022-10-31 22:16:45",
-      "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+        "name": "\u00c1ngel",
+        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 207266,
-      "name": "Dulce Amargo",
-      "url": "https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK"
+      "duration_ms": 178000,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -879,6 +863,22 @@
       "duration_ms": 181600,
       "name": "Amor Como Pu\u00f1al",
       "url": "https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8"
+    },
+    {
+      "added_at": "2022-10-31 22:16:45",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Dulce Amargo",
+      "url": "https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
-        "name": "Y Si",
-        "url": "https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        }
-      ],
-      "duration_ms": 114782,
-      "name": "Y Si",
-      "url": "https://open.spotify.com/track/081225Aw909qAbV9UjAQeM"
-    },
-    {
-      "added_at": "2022-10-31 22:16:45",
-      "album": {
         "name": "Fosis Met Amor",
         "url": "https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
+        "name": "Y Si",
+        "url": "https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        }
+      ],
+      "duration_ms": 114782,
+      "name": "Y Si",
+      "url": "https://open.spotify.com/track/081225Aw909qAbV9UjAQeM"
+    },
+    {
+      "added_at": "2022-10-31 22:16:45",
+      "album": {
         "name": "1990",
         "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 100500,
       "name": "1990",
       "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
-    },
-    {
-      "added_at": "2022-10-31 22:16:45",
-      "album": {
-        "name": "Wild Idea",
-        "url": "https://open.spotify.com/album/1ToPusrmJdTth68L0ZRQBU"
-      },
-      "artists": [
-        {
-          "name": "Andrea Franz",
-          "url": "https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G"
-        }
-      ],
-      "duration_ms": 237596,
-      "name": "Locura Por Ti",
-      "url": "https://open.spotify.com/track/4JfE73XGKx0IRpP56sEVzt"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -1095,42 +1079,18 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
-        "name": "Nada Mal",
-        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
+        "name": "Wild Idea",
+        "url": "https://open.spotify.com/album/1ToPusrmJdTth68L0ZRQBU"
       },
       "artists": [
         {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        },
-        {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+          "name": "Andrea Franz",
+          "url": "https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G"
         }
       ],
-      "duration_ms": 140952,
-      "name": "Nada Mal",
-      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
-    },
-    {
-      "added_at": "2022-10-31 22:16:45",
-      "album": {
-        "name": "Te Voy a Extra\u00f1ar",
-        "url": "https://open.spotify.com/album/4PpJ8Q9CMGidKj1EHhDEs8"
-      },
-      "artists": [
-        {
-          "name": "Era de Oro",
-          "url": "https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7"
-        },
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 217750,
-      "name": "Te Voy a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/16Ue2BIfTQKCukXrC8bu9Q"
+      "duration_ms": 237596,
+      "name": "Locura Por Ti",
+      "url": "https://open.spotify.com/track/4JfE73XGKx0IRpP56sEVzt"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -1155,6 +1115,26 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
+        "name": "Te Voy a Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/4PpJ8Q9CMGidKj1EHhDEs8"
+      },
+      "artists": [
+        {
+          "name": "Era de Oro",
+          "url": "https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7"
+        },
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "duration_ms": 217750,
+      "name": "Te Voy a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/16Ue2BIfTQKCukXrC8bu9Q"
+    },
+    {
+      "added_at": "2022-10-31 22:16:45",
+      "album": {
         "name": "Prometimos No Hablar",
         "url": "https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU"
       },
@@ -1167,6 +1147,42 @@
       "duration_ms": 259568,
       "name": "Prometimos No Hablar",
       "url": "https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF"
+    },
+    {
+      "added_at": "2022-10-31 22:16:45",
+      "album": {
+        "name": "Nada Mal",
+        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Nada Mal",
+      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
+    },
+    {
+      "added_at": "2022-10-31 22:16:45",
+      "album": {
+        "name": "Mr. Baby",
+        "url": "https://open.spotify.com/album/6vIIwphk7WTFX560uYyYDW"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "duration_ms": 188501,
+      "name": "Mr. Baby",
+      "url": "https://open.spotify.com/track/4JNw6A9TH89pAez18HmhVo"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -1203,22 +1219,6 @@
       "duration_ms": 220000,
       "name": "No Aguanto el Calor",
       "url": "https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70"
-    },
-    {
-      "added_at": "2022-10-31 22:16:45",
-      "album": {
-        "name": "Mr. Baby",
-        "url": "https://open.spotify.com/album/6vIIwphk7WTFX560uYyYDW"
-      },
-      "artists": [
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 188501,
-      "name": "Mr. Baby",
-      "url": "https://open.spotify.com/track/4JNw6A9TH89pAez18HmhVo"
     },
     {
       "added_at": "2022-10-31 22:16:45",

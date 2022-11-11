@@ -1,29 +1,13 @@
 {
   "description": "songs that break bones",
-  "num_followers": 127523,
+  "num_followers": 128031,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg2NjI2MiwwMDAwMDAwMDg1OTBhZGIwMGFhODRlYjFiNmRhOGViYTJjMzBjYTUw",
+  "snapshot_id": "MTY2Nzg2NjI2MiwwMDAwMDAwMDZiNmRlNTc2MGRiNWJkZmI5N2Q4MDU0ZTQ3ZjM2YTI3",
   "tracks": [
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
     {
       "added_at": "2022-11-04 22:24:27",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 170501,
       "name": "Major Distribution",
       "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
       "added_at": "2022-10-14 14:40:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "DiCaprio 2",
-        "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
+        "name": "Punk Tactics",
+        "url": "https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
         }
       ],
-      "duration_ms": 156780,
-      "name": "151 Rum",
-      "url": "https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p"
+      "duration_ms": 143552,
+      "name": "Punk Tactics",
+      "url": "https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -343,22 +343,6 @@
       "duration_ms": 174250,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "Punk Tactics",
-        "url": "https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH"
-      },
-      "artists": [
-        {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
-        }
-      ],
-      "duration_ms": 143552,
-      "name": "Punk Tactics",
-      "url": "https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -485,6 +469,22 @@
       "url": "https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9"
     },
     {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "Red Teenage Melody",
+        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 271413,
+      "name": "Still Cold / Pathway Private",
+      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
+    },
+    {
       "added_at": "2022-10-25 15:20:00",
       "album": {
         "name": "bag or die",
@@ -503,22 +503,6 @@
       "duration_ms": 178520,
       "name": "deadman (feat. Lil Toe)",
       "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "Red Teenage Melody",
-        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 271413,
-      "name": "Still Cold / Pathway Private",
-      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -555,26 +539,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Ethereal",
-        "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 171453,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3YFnfm9z8RmPFIZ7C16u4e"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "Freddie's Inferno",
         "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
       },
@@ -591,6 +555,26 @@
       "duration_ms": 108013,
       "name": "Want (feat. prodby668)",
       "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 171453,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3YFnfm9z8RmPFIZ7C16u4e"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -719,6 +703,22 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "duration_ms": 109595,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
         "name": "Melt My Eyez See Your Future",
         "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
       },
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX"
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
       },
       "artists": [
         {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
         }
       ],
-      "duration_ms": 109595,
-      "name": "Crisis",
-      "url": "https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR"
+      "duration_ms": 155744,
+      "name": "BACKROOM",
+      "url": "https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -779,22 +779,6 @@
       "duration_ms": 202613,
       "name": "DRAINO (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/5hOnCHMwQdXOd4qfAWEhKP"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "BACKROOM",
-      "url": "https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -879,6 +863,22 @@
       "duration_ms": 138352,
       "name": "Smack A Bitch",
       "url": "https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "While You Were Sleeping",
+        "url": "https://open.spotify.com/album/5gAiNgUKm0s1sFKfxcOH7f"
+      },
+      "artists": [
+        {
+          "name": "Cal Scruby",
+          "url": "https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu"
+        }
+      ],
+      "duration_ms": 128662,
+      "name": "Money Buy Drugs (Interlude)",
+      "url": "https://open.spotify.com/track/4LxHF9sQ6KXrxZatMPV2EL"
     },
     {
       "added_at": "2022-10-07 11:48:00",

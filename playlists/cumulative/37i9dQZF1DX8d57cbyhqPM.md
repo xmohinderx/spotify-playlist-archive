@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. / From the Congo, to the world\. 🌍  Photo: Koffi Olomide
 
-126 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
+127 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Trop c'est trop](https://open.spotify.com/track/6GvLQgYTEwmgTjadj3Agsw) | [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Trop c'est trop](https://open.spotify.com/album/1wL4WyHqFJwnS9F1IgxeFW) | 6:43 | 2022-06-30 |  |
 | [Trop d'style](https://open.spotify.com/track/3psZCp00KQYDNUEFomZuMt) | [Jobooy](https://open.spotify.com/artist/3zBTnQu40I1ZWfsDDoeBDH) | [Trop d'style](https://open.spotify.com/album/1JK3DwucZnzPmNqeRhcNID) | 2:51 | 2022-06-30 |  |
 | [Trouvez\-la moi](https://open.spotify.com/track/1VaQdhu4wt5Ic8GEmjIiF2) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Gentleman 2.0](https://open.spotify.com/album/4W1TprhYF2tlbhilWvi0A3) | 5:51 | 2022-06-30 | 2022-07-29 |
-| [Trouvez\-la moi](https://open.spotify.com/track/2HNpvUvyU9kYl41uha8cP7) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 5:51 | 2022-07-15 |  |
+| [Trouvez\-la moi](https://open.spotify.com/track/2HNpvUvyU9kYl41uha8cP7) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 5:51 | 2022-07-15 | 2022-11-11 |
+| [Trouvez\-la moi](https://open.spotify.com/track/4GCwwGStDEIQQWqUigg4Sa) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Gentleman 2.0 \(Réédition\)](https://open.spotify.com/album/6XARc5l24kwCi6AGv32w83) | 5:51 | 2022-10-28 |  |
 | [Tu M'as Tout Donné \- Extended Version](https://open.spotify.com/track/3jt07FhLh159y0nT9sjP7R) | [Luc Evarist](https://open.spotify.com/artist/46tjw4Tkvp0ZfQlC3OGmOJ) | [Tu M'as Tout Donné \(Extended Version\)](https://open.spotify.com/album/77PWsjBJ56uVOvjZDE1zIT) | 4:00 | 2022-06-30 | 2022-09-17 |
 | [VALABA](https://open.spotify.com/track/0hurXA0kT1G8xL1fs8ekxN) | [Odrey](https://open.spotify.com/artist/4uMgvCxdUFjIOy4Nl1wKMj), [Stone](https://open.spotify.com/artist/1QUKRGAAoys1E4p8kA7mHT) | [VALABA](https://open.spotify.com/album/3RhNnoJ7oIOj6HnRsMi6sz) | 2:34 | 2022-08-26 |  |
 | [WAKA WAKA](https://open.spotify.com/track/3IriOnjl5WTuREfvzDPjJ4) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [WAKA WAKA](https://open.spotify.com/album/7f2AMUr6ZW0OIfRzg7fsk3) | 3:32 | 2022-08-26 | 2022-08-29 |

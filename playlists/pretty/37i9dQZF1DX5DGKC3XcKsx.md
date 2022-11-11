@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,497 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,501 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 | 36 | [Pantera](https://open.spotify.com/track/1CodTczherooLAQWXobnCk) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [SIN PRONTUARIO](https://open.spotify.com/album/0JhThijVyy7mFSewn2Bkgx) | 2:26 |
 | 37 | [Polaris](https://open.spotify.com/track/2zCsasxMJ1KpTl8uWJSG2s) | [Lemur Kush](https://open.spotify.com/artist/3dZRodtVGMHccB1qQAcJAq), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Maxnprod](https://open.spotify.com/artist/46bWo9I0KV3GEaUth5sB3T) | [Dskts II](https://open.spotify.com/album/1619KiZpoSUpEmVBiKl8jj) | 3:01 |
 | 38 | [Hot Box](https://open.spotify.com/track/2GintlSiqb7EQiPJwa3etY) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Hot Box](https://open.spotify.com/album/1ts9do5lw5wt3Fa1H4iV3o) | 2:01 |
-| 39 | [Coronado II](https://open.spotify.com/track/4qWRrGNTuWaE1fJuLCv4zN) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [SIN PRONTUARIO](https://open.spotify.com/album/0JhThijVyy7mFSewn2Bkgx) | 2:31 |
+| 39 | [Coronado II](https://open.spotify.com/track/0Iu3Df8CfbwDnAEJtMIB7e) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Coronado II](https://open.spotify.com/album/6RzXqbM8rg41RvtkDOD9JS) | 2:31 |
 | 40 | [Again](https://open.spotify.com/track/4whT7h05caeS8PycSBRI2P) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [Again](https://open.spotify.com/album/1w15Pfpc6NrfY0ciKz7pxo) | 2:05 |
 | 41 | [Cali](https://open.spotify.com/track/6IWck0QI8n33UH2GZYq0HE) | [44 Kid](https://open.spotify.com/artist/6C5H5G8EN1hu9N1wtOF5Wb) | [Cali](https://open.spotify.com/album/45LvR7dWKVNLzoxFVEPwt5) | 3:12 |
 | 42 | [Caruso](https://open.spotify.com/track/28tCRcgXZoujhWaQLj2i6a) | [Kloudy Koon](https://open.spotify.com/artist/5b1CYOC0HvTPzWSawMATPv) | [Caruso](https://open.spotify.com/album/4jOFyt3sHYRHxsc3RDhBEj) | 2:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 | 69 | [Tu Mirada](https://open.spotify.com/track/3Bl6VMvrPDyVCQFYTGlygq) | [Alain Verdier](https://open.spotify.com/artist/0GbTibx6jki0CWRaf9JLSa) | [Tu Mirada](https://open.spotify.com/album/3L0HpohjbclTsSvGxH7X2t) | 2:13 |
 | 70 | [Ahora No Puedo Dormir](https://open.spotify.com/track/3iQDeOqPl30DkC7KUECpGs) | [Alain Verdier](https://open.spotify.com/artist/0GbTibx6jki0CWRaf9JLSa), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Ahora No Puedo Dormir](https://open.spotify.com/album/6k7BF11jOV9gSZjuLkw4i3) | 2:36 |
 
-Snapshot ID: `MTY0Mzk0MzYwMCwwMDAwMDAwMDljODhhODJmMDEyZWQ1NmVmZGUzYzIzZTdhNTc1MmM1`
+Snapshot ID: `MTY0Mzk0MzYwMCwwMDAwMDAwMDY2NzM3Y2UxZjgwYWQ4ODdjOTcwMDE1ODVjNzg5Y2M0`

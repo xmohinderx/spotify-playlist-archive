@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,320 likes - 167 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,761 likes - 167 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 133 | [Mouse](https://open.spotify.com/track/0fRDFVXOLTHEehUPzpp88s) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 1:30 |
 | 134 | [Paradise Found](https://open.spotify.com/track/1Mp9NQH50fNVtrAhlaAd4W) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx) | [Paradise Found](https://open.spotify.com/album/4xs7qmi2CHlnvGyMa21j6h) | 2:41 |
 | 135 | [Cheeky](https://open.spotify.com/track/5C0rxK7SXpM9OOld3gXgmH) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Cheeky](https://open.spotify.com/album/7BI2Lr8IqREw66MYWpMHEB) | 2:30 |
-| 136 | [Don't Rush](https://open.spotify.com/track/0tBWqDzAH3hzljUPWSSAxX) | [Tenda Senda](https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU) | [Don't Rush](https://open.spotify.com/album/5Xbdx8d0FoaogQTR2RKo4o) | 2:40 |
+| 136 | [Don't Rush](https://open.spotify.com/track/2x8F5a69gWhGKTdBEjxxsD) | [Tenda Senda](https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU) | [You're the Best Planet Earth I've Ever Known](https://open.spotify.com/album/78d3AWjFXxSTQ7jkey9dhV) | 2:40 |
 | 137 | [Guess What](https://open.spotify.com/track/5KYBJ1M2zcVPIweQFbzc3H) | [Solaze](https://open.spotify.com/artist/0hhu51LJW5yKTrUYlofBBx) | [Guess What](https://open.spotify.com/album/3jloYBQkAIogxGjsjWW9Vp) | 2:10 |
 | 138 | [Sit Back](https://open.spotify.com/track/5eYteJrika8ajQkVDU53Fp) | [Aican](https://open.spotify.com/artist/4UCgzSRu7AqsgDKDCaPeUb) | [Sit Back](https://open.spotify.com/album/7w9SH63qTQ7lg5BpEk7vMx) | 1:41 |
 | 139 | [Sunset in L\. A.](https://open.spotify.com/track/3e9LUXxxDxo5Wai5ZL4g1N) | [b\-auu](https://open.spotify.com/artist/0mgcipbSSbhDQ5RhMcqi4j), [Calmas Records](https://open.spotify.com/artist/3xHHNJkwyots8LoDMxGD9k) | [Sunset in L\. A.](https://open.spotify.com/album/2A5nLz0V0CipQLqxbMvSE1) | 2:14 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 166 | [Sun Day](https://open.spotify.com/track/5EIrJ59T18nnpxDBBn1yjJ) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Sun Day](https://open.spotify.com/album/1VjeX2hkfm4FZxixjy4I9A) | 1:54 |
 | 167 | [Remember That](https://open.spotify.com/track/7eCNgZU8r9GmyOJYA9q5oS) | [Tino Tapes](https://open.spotify.com/artist/6317TasPoXGpLcmnwqwB6y) | [Remember That](https://open.spotify.com/album/1iRAG8gw95qM7v6PGz18qH) | 2:21 |
 
-Snapshot ID: `MTY2Njk0NzkwOCwwMDAwMDAwMDhmYzNmZDE2NTI1NGFkNGUzZDE3NzAxNzVjM2ZkMWFj`
+Snapshot ID: `MTY2Njk0NzkwOCwwMDAwMDAwMDRiZmE0MWViOTVhMmJhZjA4NDMyMDcwZDIzMzc3M2Q2`

@@ -4,7 +4,7 @@
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-86 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
+87 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/48hal9e9KiRKsqzO0DPDbr) | [Natalie Fall](https://open.spotify.com/artist/6YZdKBkkOEdojatkaX7rzE) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/71HFzTLemAiujFpkRd6mxd) | 2:48 | 2022-06-01 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 | 2022-04-12 |  |
 | [It's Only A Paper Moon](https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46) | [Maki Yuoma](https://open.spotify.com/artist/3VUflANX1g7LBvBXRZKatX) | [I Keep Clinging To Close](https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7) | 4:26 | 2022-04-12 |  |
+| [Jitterbug Waltz](https://open.spotify.com/track/466GOMGOnG9eld0Hx4JWKm) | [Jenn Higgins](https://open.spotify.com/artist/1osOMrNNhLsHInJWbS6ejR) | [Polkadots and Moonbeams](https://open.spotify.com/album/4Ui5vnomcfy5yjjhTLnTYa) | 2:35 | 2022-11-10 |  |
 | [Just Friends](https://open.spotify.com/track/1f3DJiFqPSWaWoPvEsbFTp) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:01 | 2022-04-12 |  |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2022-04-12 |  |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/7E1eNodaXumIQKrnzv2kzb) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [A Foggy Day](https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1) | 3:52 | 2022-04-12 |  |

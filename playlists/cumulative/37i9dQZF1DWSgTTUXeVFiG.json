@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 177720,
       "name": "El Cantante - Live",
       "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
@@ -472,6 +472,24 @@
     },
     {
       "album": {
+        "name": "Tributo a La Salsa Colombiana 2",
+        "url": "https://open.spotify.com/album/0sirGi2mFLKpOUMam9kTCy"
+      },
+      "artists": [
+        {
+          "name": "Alberto Barros",
+          "url": "https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288306,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/5tjbIjf57RkHXNnbSjtV3d"
+    },
+    {
+      "album": {
         "name": "Lo Mejor de Alberto Barros, Vol. 2",
         "url": "https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ"
       },
@@ -483,7 +501,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 294130,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C"
@@ -501,7 +519,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 422280,
       "name": "La Murga - Live",
       "url": "https://open.spotify.com/track/0rcL0bGZpeN9stj0dHE3f0"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 336682,
       "name": "Mi Mundo Es de Ella",
       "url": "https://open.spotify.com/track/6LEhXpp41dCJzU2MB7t1Qw"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 330800,
       "name": "Qui\u00e9reme Tal Como Soy - Live",
       "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 330426,
       "name": "Se\u00f1or Sereno - En Vivo",
       "url": "https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4"
@@ -951,6 +969,64 @@
       "duration_ms": 280493,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR"
+    },
+    {
+      "album": {
+        "name": "40 Aniversario: EN VIVO",
+        "url": "https://open.spotify.com/album/3y6psCkk0iiyHW9RsZd1OU"
+      },
+      "artists": [
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        },
+        {
+          "name": "Richie Ray",
+          "url": "https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf"
+        },
+        {
+          "name": "Ricardo Ray",
+          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
+        },
+        {
+          "name": "Wille Colon",
+          "url": "https://open.spotify.com/artist/7FjTUD6W5stHN4LwBCcwkU"
+        },
+        {
+          "name": "Pedro Brull",
+          "url": "https://open.spotify.com/artist/5gNP6xGmxzC25B3Fhqg5eg"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Luisito Carrion",
+          "url": "https://open.spotify.com/artist/7Gkr47aENhNsnuE72IIuUl"
+        },
+        {
+          "name": "Bobby Valentin",
+          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/5pUnaPzP3a5oHMWgJHU0gp"
+        },
+        {
+          "name": "Papo Lucca",
+          "url": "https://open.spotify.com/artist/7vBicXCUm81QrCyx83xEfj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393810,
+      "name": "Sonido Bestial",
+      "url": "https://open.spotify.com/track/1FVahOIncroD7JyUrEslTm"
     },
     {
       "album": {

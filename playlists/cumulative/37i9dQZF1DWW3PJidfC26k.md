@@ -4,7 +4,7 @@
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-64 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/2MbvFGK8Q4PKjddwW7wsN9)
+65 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/2MbvFGK8Q4PKjddwW7wsN9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 | 2021-09-29 |  |
 | [B\-Flat Ontology](https://open.spotify.com/track/69pkS9mwKm0oVk9yyVLxaj) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/6lGi8cCtoERQXSpWnb0Hmr) | 5:40 | 2021-09-29 |  |
 | [Beside You](https://open.spotify.com/track/7hsfjU14z5Hf3waxOtMhqs) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm) | [Is It You, Is It Me \(Deluxe Edition\)](https://open.spotify.com/album/5BnrDEO4rsPTZe4LengNcF) | 6:32 | 2021-09-29 |  |
-| [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 | 2021-09-29 |  |
+| [Both Hands](https://open.spotify.com/track/2euBsj5xnafuZMJAP7LJdb) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [iTunes Original Session](https://open.spotify.com/album/3IXuAt2cfriD3hTnCK5GdE) | 3:33 | 2021-09-29 |  |
+| [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 | 2021-09-29 | 2022-11-11 |
 | [Both Hands](https://open.spotify.com/track/4FJsFAdLFGqrmuM74CIzhs) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/7cdszxdNxyYrL9wkPPpCcw) | 3:38 | 2021-09-29 | 2022-11-03 |
 | [Built To Roam](https://open.spotify.com/track/5a2yG11mx2vNBcOo6UMIel) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Roll The Bones X](https://open.spotify.com/album/6gujv1pAaPxIvDbv1hYq18) | 3:11 | 2021-09-29 |  |
 | [C'est La Vie](https://open.spotify.com/track/0PrzUbi3U7AZ9QILug8ni1) | [Cedric Watson](https://open.spotify.com/artist/2a8PsBPX3LvG671uuQGDpq) | [Le Troubadour Creole](https://open.spotify.com/album/42xqacOUmkXU3V9qchjMXH) | 3:46 | 2021-09-29 |  |

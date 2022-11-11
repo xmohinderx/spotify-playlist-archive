@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-186 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
+191 songs - 11 hr 12 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [From This Moment On](https://open.spotify.com/track/4b1yJPoWJeY9kEvegJsynM) | [Landon Johns](https://open.spotify.com/artist/7AjIWpOsi63AmNBKJ7hXLQ) | [Jazz Piano Standards](https://open.spotify.com/album/4PCL8srn8PF3Fdc4atwH00) | 3:57 | 2022-03-10 | 2022-06-10 |
 | [Georgia On My Mind](https://open.spotify.com/track/6KGqqJais6l3hxsn0D0U5d) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Georgia On My Mind](https://open.spotify.com/album/28eTmi4KQYJ3iu3pRqT27u) | 3:30 | 2021-12-14 |  |
 | [God Bless the Child](https://open.spotify.com/track/1CUlSxsssHNYP9DGrycKy2) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [God Bless the Child](https://open.spotify.com/album/7s6iI12sBcdegRHmnmE1mn) | 4:14 | 2022-06-14 |  |
+| [Good Night](https://open.spotify.com/track/2UatfwTngd99ugjekcg8Kw) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Good Night](https://open.spotify.com/album/0N3Zd0I4F8iTTzorbht0xH) | 2:15 | 2022-11-10 |  |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/5whJHDkwt2GoohrZSWkREv) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Have You Met Miss Jones?](https://open.spotify.com/album/3SE6WQEbpDPe0TUe7kGfuR) | 3:25 | 2021-12-14 | 2022-06-15 |
 | [Here's That Rainy Day](https://open.spotify.com/track/3DgjObIndXAIIsTM4YdroG) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 2:37 | 2021-12-14 |  |
 | [How Insensitive](https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE) | [Petra Britton](https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2) | [Ev'rything I Love](https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh) | 2:18 | 2022-03-10 |  |
@@ -118,6 +119,7 @@
 | [Nancy With The Laughing Face](https://open.spotify.com/track/18ZzGa3RrhJVzQ9BfGsDNl) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Nancy With The Laughing Face](https://open.spotify.com/album/4HFxsQ2FHwHR0icmcYdzEq) | 4:21 | 2022-10-27 |  |
 | [Never Let Me Go](https://open.spotify.com/track/6LkO16bRoZItqrR9yIbHQZ) | [Sonny Beckerlee](https://open.spotify.com/artist/0XMT5PoHDKRRWHj40qLg7K) | [Never Let Me Go](https://open.spotify.com/album/2aK4enHcBBbKBIYRwm1iSX) | 2:32 | 2022-05-18 |  |
 | [Night and Day](https://open.spotify.com/track/7LLw6w4VwOzLIKxEoV58lK) | [Dimitri Ivanov](https://open.spotify.com/artist/6Zo37jpF0sCAvjP5YM8xQO) | [Jazz Piano Nights](https://open.spotify.com/album/0DsmrLsp3Ypws2d9G3ZDSi) | 4:53 | 2022-03-10 | 2022-10-07 |
+| [Night And Day](https://open.spotify.com/track/3zd6DRIYrcH8OIn4fcim8k) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Night And Day](https://open.spotify.com/album/7MSOiBvqEcXe549Nq6eKG0) | 3:57 | 2022-11-10 |  |
 | [Night Mood](https://open.spotify.com/track/1zQJVpcXpaXJRETpADpD5f) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Night Mood](https://open.spotify.com/album/1Xsdw8DS23e5QULFLFqfRF) | 2:51 | 2022-08-11 |  |
 | [Old Devil Moon](https://open.spotify.com/track/4XCMZFYHKBq5Tyt2MUKtDZ) | [Cheryl Patterson](https://open.spotify.com/artist/5ieZXxVzN0lLVFMMUMQrQj) | [Old Devil Moon](https://open.spotify.com/album/6SfGQphn7E3nOTjlipaA2o) | 2:50 | 2022-03-10 | 2022-06-30 |
 | [Old Folks](https://open.spotify.com/track/14BLMhpVsywOPvT7zOaFu5) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Old Folks](https://open.spotify.com/album/3JCK1yX5Znu54wJTl2lbs0) | 4:20 | 2021-12-14 |  |
@@ -132,6 +134,7 @@
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/6LP9BZW28pX0k7jimKZHwI) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Polka Dots And Moonbeams](https://open.spotify.com/album/40pHngJ4KeyHmdnvr7GV21) | 3:45 | 2021-12-14 |  |
 | [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2022-01-13 |  |
 | [Pretty Are Your Eyes](https://open.spotify.com/track/3NQ3v7gp5iJTtCmKckSmWW) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Pretty Are Your Eyes](https://open.spotify.com/album/6oTeiJZ9MS3xbvul8mW3NE) | 3:25 | 2022-08-11 |  |
+| [Ripples of a Stream](https://open.spotify.com/track/3EcrZOYXed9rQb9Y9SN8fX) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Ripples of a Stream](https://open.spotify.com/album/05KhWBwxnPe8RuqjvEOFxy) | 2:01 | 2022-11-10 |  |
 | [Round Midnight](https://open.spotify.com/track/48K9qO5shnoV2kjZi5n4aj) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [Round Midnight](https://open.spotify.com/album/1U9wFo9e4BQz7JuYmjXkTo) | 3:50 | 2022-01-13 |  |
 | [Saint James Infirmary Blues](https://open.spotify.com/track/076g7APvGbCYC9wYiropf8) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Saint James Infirmary Blues](https://open.spotify.com/album/0UIZgy3M75tnAlxUKAxQPn) | 2:04 | 2022-08-31 |  |
 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/71cmAPzuEmZZ1HZu1PDUwU) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Say It \(Over And Over Again\)](https://open.spotify.com/album/4bw5L1NlVh6CQOccEEbOJw) | 4:27 | 2022-09-13 |  |
@@ -187,9 +190,11 @@
 | [When I Fall In Love](https://open.spotify.com/track/3Ko863Oq3qXwXXyor9VNci) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [When I Fall In Love](https://open.spotify.com/album/6YfxosS29pThRt7j2ACrom) | 4:12 | 2021-12-14 |  |
 | [Witchcraft](https://open.spotify.com/track/787b6CSG5VnNvAATPEk54g) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Witchcraft](https://open.spotify.com/album/5TVrp07TaKr7yDNSHu1FHT) | 4:07 | 2022-08-11 |  |
 | [Without A Song](https://open.spotify.com/track/2KxXG6EIywCiYcQuJa8Xwp) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Without A Song](https://open.spotify.com/album/55vOtTdjD34L98MWwl57oU) | 4:20 | 2022-06-14 |  |
+| [Witness of Love](https://open.spotify.com/track/0sX45CnQ5ugC1yUzfiKCSB) | [Michael Stylez](https://open.spotify.com/artist/0pW8YnlmlVXiGBfDH3v8j7) | [Witness of Love](https://open.spotify.com/album/5vfklJRWFT9stLnbAh911T) | 1:56 | 2022-11-10 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 | 2021-12-14 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/0QX4Wc3m1WlNxwEQqFmagK) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [You Don't Know What Love Is](https://open.spotify.com/album/3KdujtfsTqGw9eLtUDGnnz) | 3:42 | 2021-12-14 |  |
 | [You Go To My Head](https://open.spotify.com/track/459LZHA0yHx3SwF5t0UnDE) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [Memories Of You](https://open.spotify.com/album/7s8ph723NPqXXT8a1SIiY5) | 5:19 | 2021-12-14 | 2022-06-01 |
+| [You Know It's Me](https://open.spotify.com/track/1EzsGVXnTmukpzQ8u8F5gg) | [Tina Wellbeck](https://open.spotify.com/artist/4ijOrgStHlgSpuka4omdoe) | [You Know It's Me](https://open.spotify.com/album/70fqNXNdAYga8XSizrCfbS) | 2:37 | 2022-11-10 |  |
 | [you must believe in spring](https://open.spotify.com/track/4PfwJAIyn4509emIeIHkGs) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [You must believe in spring](https://open.spotify.com/album/2K69h6JK7ZyinakSj3GYKf) | 3:30 | 2022-03-10 |  |
 | [You Stepped Out Of A Dream](https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [You Stepped Out Of A Dream](https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS) | 2:35 | 2022-10-27 |  |
 | [You've Changed](https://open.spotify.com/track/6aNOZF4gBajxxwyUDipZHR) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:31 | 2021-12-14 |  |

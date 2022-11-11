@@ -297,6 +297,24 @@
     {
       "album": {
         "name": "The Bravery",
+        "url": "https://open.spotify.com/album/6Iwyh8h43Jl4U3orWe4oGC"
+      },
+      "artists": [
+        {
+          "name": "The Bravery",
+          "url": "https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219706,
+      "name": "An Honest Mistake",
+      "url": "https://open.spotify.com/track/203c3jfQ4JZn1BBfXG84I4"
+    },
+    {
+      "album": {
+        "name": "The Bravery",
         "url": "https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb"
       },
       "artists": [
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 219706,
       "name": "An Honest Mistake",
       "url": "https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX"
@@ -433,10 +451,28 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 211866,
       "name": "Bang Bang You're Dead",
       "url": "https://open.spotify.com/track/5ebF1fRVWiORoHm4xRU5WX"
+    },
+    {
+      "album": {
+        "name": "Songs About Betrayal",
+        "url": "https://open.spotify.com/album/3iUTmiiL0LTnDo84CY9yAO"
+      },
+      "artists": [
+        {
+          "name": "Dirty Pretty Things",
+          "url": "https://open.spotify.com/artist/6fHETUBbKmdmgybtFOFQuc"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214093,
+      "name": "Bang Bang You're Dead",
+      "url": "https://open.spotify.com/track/3JWjB54cg836t07xHmyTb5"
     },
     {
       "album": {
@@ -566,6 +602,24 @@
     },
     {
       "album": {
+        "name": "My Love Is Cool (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Uqtbi6LDSKDNNzfVU58PM"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224720,
+      "name": "Bros",
+      "url": "https://open.spotify.com/track/1EsHTu5Eyr6MoEiRNFwrTu"
+    },
+    {
+      "album": {
         "name": "My Love Is Cool",
         "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
       },
@@ -577,7 +631,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 224720,
       "name": "Bros",
       "url": "https://open.spotify.com/track/6NunWZuZ6g9KipJ9Q5Vck7"
@@ -667,10 +721,28 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 203733,
       "name": "Can't Stand Me Now",
       "url": "https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql"
+    },
+    {
+      "album": {
+        "name": "Time for Heroes - The Best of The Libertines",
+        "url": "https://open.spotify.com/album/4gq5rvmYsXX99ZBzlGcnnq"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "Can't Stand Me Now",
+      "url": "https://open.spotify.com/track/2R4bmZb28Dhd65ZBySr2jk"
     },
     {
       "album": {
@@ -739,10 +811,28 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
+    },
+    {
+      "album": {
+        "name": "Rock Workout",
+        "url": "https://open.spotify.com/album/5j2OY6R6Jsdl2HJiXS8Mwv"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215306,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/0HyzQzPSy0YEYlDjQLxOHE"
     },
     {
       "album": {
@@ -1099,7 +1189,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 256573,
       "name": "Farewell To The Fairground",
       "url": "https://open.spotify.com/track/09v3dFgd3YwrD0U5gkNaTg"
@@ -1121,6 +1211,24 @@
       "duration_ms": 256573,
       "name": "Farewell To The Fairground",
       "url": "https://open.spotify.com/track/32dk3UXnGv7lpN7FE3K2ws"
+    },
+    {
+      "album": {
+        "name": "Pop Rock Music",
+        "url": "https://open.spotify.com/album/60RwxzIELPK8ctg3xcx3f2"
+      },
+      "artists": [
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256573,
+      "name": "Farewell To The Fairground",
+      "url": "https://open.spotify.com/track/3Ex3Tpq19maYOTzSXrqaN9"
     },
     {
       "album": {
@@ -1171,10 +1279,28 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 200360,
       "name": "First",
       "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
+    },
+    {
+      "album": {
+        "name": "Hold My Home (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0TVRC5LerpnNkti1gWsuW7"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200360,
+      "name": "First",
+      "url": "https://open.spotify.com/track/4foq9UaCBFLWctCeVxLSSF"
     },
     {
       "album": {
@@ -1441,10 +1567,46 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 205306,
       "name": "Golden Touch - Full Length",
       "url": "https://open.spotify.com/track/06aMDKw1zNra92edkj2QrY"
+    },
+    {
+      "album": {
+        "name": "Throwback Thursday Mix Vol. 1",
+        "url": "https://open.spotify.com/album/7etzPoYPtSp59iPS9QqMuo"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205306,
+      "name": "Golden Touch - Full Length",
+      "url": "https://open.spotify.com/track/2w89lyNZWUYFss3f9c0rIh"
+    },
+    {
+      "album": {
+        "name": "Boyhood: Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/6gVaSasSnh85NVEoAUCqbQ"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Hate to Say I Told You So",
+      "url": "https://open.spotify.com/track/4WekEzcLyDDdPHG3G6dZg4"
     },
     {
       "album": {
@@ -1495,7 +1657,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199759,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
@@ -1809,6 +1971,24 @@
     {
       "album": {
         "name": "Baby Darling Doll Face Honey",
+        "url": "https://open.spotify.com/album/4lIHrAdqOfKTlIYIMcanJy"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "I Know What I Am",
+      "url": "https://open.spotify.com/track/1NmwD4CJILAT5KXYKv9zfZ"
+    },
+    {
+      "album": {
+        "name": "Baby Darling Doll Face Honey",
         "url": "https://open.spotify.com/album/324BTvXR9NMitN9KndHLKA"
       },
       "artists": [
@@ -1837,7 +2017,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 198000,
       "name": "I Know What I Am",
       "url": "https://open.spotify.com/track/5rMNQfYhBMlyitrMAiwQfc"
@@ -1913,6 +2093,24 @@
       "duration_ms": 174013,
       "name": "If You Wanna",
       "url": "https://open.spotify.com/track/0KNVDEeZWXZPIYKqJeRRpX"
+    },
+    {
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/6B8yhZXyWT9BIG3qoSI84x"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174013,
+      "name": "If You Wanna",
+      "url": "https://open.spotify.com/track/3VaCWm6MMabDxJAzpedeQi"
     },
     {
       "album": {
@@ -2006,6 +2204,24 @@
     },
     {
       "album": {
+        "name": "Euro 2020 Football Songs",
+        "url": "https://open.spotify.com/album/60CravIoyB7eI2h9D0Wvsv"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191293,
+      "name": "Let's Dance to Joy Division",
+      "url": "https://open.spotify.com/track/5it0RhaAkMdcDVbWBqw2WD"
+    },
+    {
+      "album": {
         "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
         "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
       },
@@ -2017,7 +2233,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 191293,
       "name": "Let's Dance to Joy Division",
       "url": "https://open.spotify.com/track/60Ih7J2Q1o9shvMC2OAALu"
@@ -2179,7 +2395,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 244293,
       "name": "Mountain at My Gates",
       "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
@@ -2201,6 +2417,24 @@
       "duration_ms": 244293,
       "name": "Mountain at My Gates",
       "url": "https://open.spotify.com/track/53L6A3I9vf7rgEZnMzx54E"
+    },
+    {
+      "album": {
+        "name": "Dance Monkey - 10's All Out",
+        "url": "https://open.spotify.com/album/4mLKJKA718bklMVI91jQJq"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244293,
+      "name": "Mountain at My Gates",
+      "url": "https://open.spotify.com/track/7gKVmuXbyweJz2BPKXBECl"
     },
     {
       "album": {
@@ -2251,10 +2485,28 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "album": {
+        "name": "Best Male Rock Singers",
+        "url": "https://open.spotify.com/album/0MNEMYOJEiBmLv6g3zqTNY"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/25vf0eCrswI3GcuMH4fL3R"
     },
     {
       "album": {
@@ -2269,10 +2521,28 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 226426,
       "name": "Munich",
       "url": "https://open.spotify.com/track/1TF8mSG5YHyaS4o3NeBSAo"
+    },
+    {
+      "album": {
+        "name": "The Back Room",
+        "url": "https://open.spotify.com/album/4BZeIOqnZgBvkbQzVrw5xZ"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226426,
+      "name": "Munich",
+      "url": "https://open.spotify.com/track/2kGyDYhG0V32j6xe03zJzZ"
     },
     {
       "album": {
@@ -2305,10 +2575,28 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 238853,
       "name": "My Number",
       "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
+    },
+    {
+      "album": {
+        "name": "Classic Indie",
+        "url": "https://open.spotify.com/album/7BaGjs9SbQqURlaCBQBkFV"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238853,
+      "name": "My Number",
+      "url": "https://open.spotify.com/track/6qJaB0ZANcuk1F2ou8jdzK"
     },
     {
       "album": {
@@ -2341,7 +2629,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 203506,
       "name": "Naive",
       "url": "https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m"
@@ -2363,6 +2651,24 @@
       "duration_ms": 203506,
       "name": "Naive",
       "url": "https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU"
+    },
+    {
+      "album": {
+        "name": "2000-talets Hits",
+        "url": "https://open.spotify.com/album/794LooHwpYbiQAheGZHplB"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206173,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/4QIiNhc3sOdPWamNiMEg0s"
     },
     {
       "album": {
@@ -2449,10 +2755,28 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 243973,
       "name": "Not Nineteen Forever",
       "url": "https://open.spotify.com/track/1bSkRvS1uWHI1QL0aJbvyC"
+    },
+    {
+      "album": {
+        "name": "Upbeat Indie",
+        "url": "https://open.spotify.com/album/46U1J1QmaiF8YARW1JwYE2"
+      },
+      "artists": [
+        {
+          "name": "Courteeners",
+          "url": "https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243973,
+      "name": "Not Nineteen Forever",
+      "url": "https://open.spotify.com/track/2Z1HRqk8Cl76A55TkPzmHg"
     },
     {
       "album": {

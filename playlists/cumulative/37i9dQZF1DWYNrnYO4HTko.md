@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-98 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/0OKXgg6EX7PXQvXM76xIJP)
+100 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/0OKXgg6EX7PXQvXM76xIJP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Fa Fa Fa \(The Sad Song\)](https://open.spotify.com/track/6qbqQXm7Evjur25Rd1ncqR) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Mo' Roots](https://open.spotify.com/album/5CrzqlkumMXwqDmxtniQkt) | 4:50 | 2021-10-01 |  |
 | [Fa Fa Fa Fa Fa \(Sad Song\)](https://open.spotify.com/track/2iHyljFOELGJpzZtGmbHBl) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Emotion \(Real World Gold\)](https://open.spotify.com/album/7CHL3hxXPT9sTnQv3hZe39) | 3:13 | 2021-10-01 |  |
 | [Fa Fa Fa Fa Fa \(Sad Song\)](https://open.spotify.com/track/4JRUOiN6gQcZkHJPzCxA1D) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Emotion \(Real World Gold\)](https://open.spotify.com/album/11XhdfiJyAwhsR8PUtKHFn) | 3:13 | 2021-10-01 | 2022-07-29 |
+| [Fa Fa Fa Fa Fa \(Sad Song\)](https://open.spotify.com/track/66jWnpVzdnDuszjY6SnhGH) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Emotion \(25th Anniversary Edition\)](https://open.spotify.com/album/43agRjUycGJBF2ZoEVBZwQ) | 3:13 | 2021-10-01 |  |
 | [Fa\-Fa\-Fa\-Fa\-Fa \(Sad Song\)](https://open.spotify.com/track/2OznXPmB9z1xOHNWlJzbur) | [The Commitments](https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX) | [The Commitments](https://open.spotify.com/album/0oApAGRZuXmvwR0tUmJWLL) | 2:52 | 2021-10-01 |  |
 | [Fa\-Fa\-Fa\-Fa\-Fa \(The Sad Song\)](https://open.spotify.com/track/3F5SslcptVL05Mt4DHt83S) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I Can't Make It Alone: The Axelrod Years](https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU) | 2:38 | 2021-10-01 |  |
 | [Good To Me](https://open.spotify.com/track/5DAWBCuEUbhJQgqp424IU9) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Something Good: The Muscle Shoals Sessions](https://open.spotify.com/album/3vlhZH8qM5AeRY9SQDU4XH) | 2:34 | 2021-10-01 |  |
@@ -59,6 +60,7 @@
 | [I've Been Loving You Too Long](https://open.spotify.com/track/5EMPc2auf81fkY6mLfOTAs) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Everlasting](https://open.spotify.com/album/3ftsdPLG1aVrGMOEK1WoZB) | 3:48 | 2021-10-01 | 2022-10-13 |
 | [I've Been Loving You Too Long](https://open.spotify.com/track/71wChc3CSiggAp5gnNPmI9) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Everlasting](https://open.spotify.com/album/0Ohny76eNCYxU4TQEm07iz) | 3:48 | 2021-10-01 |  |
 | [I've Been Loving You Too Long](https://open.spotify.com/track/6FYcUjSuBISmRIhCYiKvuB) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [The Percy Sledge Way](https://open.spotify.com/album/2QpYWeEUwnus0QgrWCO9Yu) | 2:47 | 2021-10-01 |  |
+| [I've Been Loving You Too Long](https://open.spotify.com/track/2XLgoBK5UUk1eh6AlH276f) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Temazos Soul Clásico](https://open.spotify.com/album/4q1VzMFzlKKJGT2GhpXdzp) | 3:06 | 2021-10-01 |  |
 | [I've Been Loving You Too Long](https://open.spotify.com/track/3F4OtBOeU19X9EHGC9tUHV) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul](https://open.spotify.com/album/05WixXdxsULFJn8f4XhuWI) | 3:06 | 2021-10-01 |  |
 | [I've Been Loving You Too Long](https://open.spotify.com/track/5O1DssQ6fsYworXsH9voyN) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul](https://open.spotify.com/album/5coBwIJ5Z8h2OlrimmdE1S) | 3:06 | 2021-10-01 | 2022-07-29 |
 | [I've Been Loving You Too Long](https://open.spotify.com/track/7ABA0eWzpQO0ZSZRWiSCaA) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [More Hot Rocks \(Big Hits & Fazed Cookies\)](https://open.spotify.com/album/58P2QxVBxqTLc3GIgoWTbz) | 2:54 | 2021-10-01 |  |

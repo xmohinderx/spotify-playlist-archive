@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,590 likes - 96 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,645 likes - 96 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The World Ender](https://open.spotify.com/track/3NNimGud58iHka1LHkda6D) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:30 |
+| 1 | [The World Ender](https://open.spotify.com/track/5FWRsgxsexj4WzWua9LSXs) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The World Ender](https://open.spotify.com/album/1K0cQknPcN6M1G47WQzPMN) | 4:30 |
 | 2 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 |
 | 3 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 |
 | 4 | [Downpour](https://open.spotify.com/track/7ssmctXdiUbOhVqCDdh6Ew) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Downpour](https://open.spotify.com/album/1tSRjNT3dwEEJMHrCPEJ8U) | 2:48 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 12 | [My Least Favorite Life \- From The HBO Series True Detective](https://open.spotify.com/track/7aDOYDChRnXeM1dmROvepj) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [My Least Favorite Life \(From The HBO Series True Detective\)](https://open.spotify.com/album/0DdAlZARgsnIJBIyla95fn) | 3:29 |
 | 13 | [Small Minds](https://open.spotify.com/track/5udZQ5BrYVsggZZovH97QN) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2) | 4:17 |
 | 14 | [Manuscripts](https://open.spotify.com/track/1vSwF9g9HvreKhSHJCkRac) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/71N8R4aZ6VDXWUP9jo8l08) | 3:43 |
-| 15 | [Belo Horizonte](https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Welcome To Kookoo Island](https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT) | 3:46 |
-| 16 | [Fire in the Empire](https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Empire](https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d) | 3:37 |
+| 15 | [Belo Horizonte](https://open.spotify.com/track/64UnMEEojxkLppM0fp2NOB) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Zdarlight 1992](https://open.spotify.com/album/2T1W5N2WJKa2cYgzyXmzXw) | 3:44 |
+| 16 | [Fire in the Empire](https://open.spotify.com/track/7mGH4VlY1XCNRAjGZIIiHk) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Fire in the Empire](https://open.spotify.com/album/6HRJVr7zJnqknkKyrKtjtR) | 3:37 |
 | 17 | [Riverina Kid](https://open.spotify.com/track/2NqpFQpXxN7npeYnqiC5ay) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV) | 4:01 |
 | 18 | [Beggars and Liars](https://open.spotify.com/track/4gXVe6im0ErsgAjnlMlvP6) | [Barn Swallow](https://open.spotify.com/artist/253nugtUUhzlGmERB9W53g) | [Barn Swallow](https://open.spotify.com/album/280Cs8jnSuuk4FXrLgIhvH) | 3:49 |
 | 19 | [Northern Wind](https://open.spotify.com/track/2uKpg1lT3YL40julYrNc1R) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Two](https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ) | 3:13 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 34 | [Crocodile Tears](https://open.spotify.com/track/63nVPOyNp8vZNblAozzNcP) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 3:55 |
 | 35 | [Western](https://open.spotify.com/track/0Yj69p8rcYLgSfo13eidUK) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 1:55 |
 | 36 | [Outlaw](https://open.spotify.com/track/4awD1KZtLOzWML7aHT0foF) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Sleeping in a Car](https://open.spotify.com/album/1HYtOxv874fM6grxLJrsK0) | 2:40 |
-| 37 | [Sirens](https://open.spotify.com/track/2jYHFtUZkROTD0nxW9U3uV) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 3:37 |
+| 37 | [Sirens](https://open.spotify.com/track/7tT2BrYZMf6QDRaoOKni7Y) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Run Lola Run](https://open.spotify.com/album/4QEIDOQyIMdhJ1M7Ta3vau) | 3:37 |
 | 38 | [The Comeback Kid](https://open.spotify.com/track/2AC00hOhYz5dEwt2EMyChQ) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [The Comeback Kid](https://open.spotify.com/album/1Fc9CDZu5z5wmL3n7ecW62) | 3:01 |
 | 39 | [Tumbleweeds](https://open.spotify.com/track/5CQFNX7cWQggHcTvCiGW5B) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [For You](https://open.spotify.com/album/72jR4MclaesjIdpdouVmYq) | 3:18 |
 | 40 | [Lead Me Home \- Live At Spotify House](https://open.spotify.com/track/1FL0VdCrrqc0UL8Uhrs2bH) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Spotify Sessions](https://open.spotify.com/album/2Fp0EDcJifEPk83CFrl6t9) | 2:31 |
-| 41 | [Widow's Peak](https://open.spotify.com/track/70rmykCzXyK5F4Xzh3xLww) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/3Jb4Qyb0nmKWW7JXhZQ3wA) | 3:51 |
+| 41 | [Widow's Peak](https://open.spotify.com/track/60Q9G9OhXkfe5Hfla12kd0) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Widow's Peak](https://open.spotify.com/album/0FyLW7baFYzM7hOWKt8zXF) | 3:51 |
 | 42 | [Kill Me Now](https://open.spotify.com/track/3Vsf6UhaGqYhgcExMhzinG) | [The Chapin Sisters](https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM) | [Lake Bottom Lp](https://open.spotify.com/album/5wqWiTzzqH6DDkQsUXW1m0) | 3:04 |
 | 43 | [Rodeo Queen](https://open.spotify.com/track/0QbVHMdkKg1sUJnnCfqMXQ) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [The Ghost of Escondido](https://open.spotify.com/album/5y3B2J9840NAzcmATOe5Lb) | 3:01 |
 | 44 | [My Match](https://open.spotify.com/track/3hWVPkxb1qBoH5SkR0cAQl) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 4:38 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 46 | [Ghost of a Lie](https://open.spotify.com/track/74hlOfvGAKlst81PCS86Id) | [The Accidentals](https://open.spotify.com/artist/5JqJWTzD2wSWAp7UmFSP5x) | [Bittersweet](https://open.spotify.com/album/098ZB04Lbsg4m1iANqIYmn) | 3:30 |
 | 47 | [Howlin' Shame](https://open.spotify.com/track/7iSWvwPtLY00TIUOIihtaO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 3:21 |
 | 48 | [Drifting on a Summer's Night](https://open.spotify.com/track/3e3X9Tzj7gHczvldaW4x3u) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Yarrow](https://open.spotify.com/album/7eQA5w0dxrdbTUPjh6L8cH) | 2:54 |
-| 49 | [What's Chasing You](https://open.spotify.com/track/2gGl2YokMEhgsB3CUJaW3u) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 2:41 |
+| 49 | [What's Chasing You](https://open.spotify.com/track/5aMc3fPEN2OjS5y2PUMhNI) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [What's Chasing You](https://open.spotify.com/album/6GkWMygpf1VKXDPGvwPRuT) | 2:41 |
 | 50 | [Big Sky](https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:32 |
 | 51 | [Land Of The Red Man](https://open.spotify.com/track/0n1qmC4kLGVtZ9BEi5iIx8) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Oklahoma Room: Folk Alliance International 2014](https://open.spotify.com/album/5FCZd4PWRL44BM9tdsVdyv) | 3:06 |
 | 52 | [Bronze \- Desert Mix](https://open.spotify.com/track/1PxH2A4J8Br5uS9Z2S9CN8) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. II](https://open.spotify.com/album/2vmKBrFef6FFwZtX1DBvcW) | 3:48 |
@@ -86,11 +86,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 76 | [You And I](https://open.spotify.com/track/5qoD9i5DqtUWKaxyW29Yt7) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [You And I](https://open.spotify.com/album/7k8UcNo3eeGLfzXUwUNjPO) | 3:45 |
 | 77 | [The Soundmaker](https://open.spotify.com/track/780ErBuX9zmXGzepTOQvVE) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [9 Dead Alive](https://open.spotify.com/album/4efFYAI6uWPYcxJiRl1hDC) | 4:52 |
 | 78 | [Whole Body Shakes](https://open.spotify.com/track/3QHpJbphRIACz3ltCwa76w) | [Woodpigeon](https://open.spotify.com/artist/5UDSvbfSs63qDk39xVtEdy) | [T R O U B L E](https://open.spotify.com/album/3hE4HzEUz3n3aKOarOXM6g) | 4:18 |
-| 79 | [Desolation Point](https://open.spotify.com/track/1xqwwhzRT5V5cSev8sxXOS) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/71N8R4aZ6VDXWUP9jo8l08) | 3:55 |
+| 79 | [Desolation Point](https://open.spotify.com/track/7HpHnuK94vWiyXI5iFld4X) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw) | 3:55 |
 | 80 | [Hollow](https://open.spotify.com/track/5XjyRmC8WTEWmbABLxrDWm) | [Beulah](https://open.spotify.com/artist/7JgsSijn01ytQ39BNwmmK0) | [Beulah](https://open.spotify.com/album/35EQitRTUiX6iYz3yegiST) | 2:18 |
 | 81 | [Work Song](https://open.spotify.com/track/4Vc3bzFxXdrABa2DxgyCMT) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:49 |
 | 82 | [Focus](https://open.spotify.com/track/3UYgCvyevt9yTawGrIdsd4) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 3:04 |
-| 83 | [False Hope](https://open.spotify.com/track/3CIvt8YmxXMUE5mCOQ7Cz9) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie](https://open.spotify.com/album/08cXCARUoHLoccf0y06Dlv) | 3:12 |
+| 83 | [False Hope](https://open.spotify.com/track/0gNLDjcR1RMuH5jBsgjNLa) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/2hGp4zeWcLdeQ0iq7Uj52Q) | 3:12 |
 | 84 | [Trouble Comes Knocking](https://open.spotify.com/track/4cBKfcBilileNL2Bggmnm8) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Timber Timbre](https://open.spotify.com/album/1peaWfJtqMtLmqKK79Cpxu) | 5:26 |
 | 85 | [Blackbird Song](https://open.spotify.com/track/685WYfzmOeDOF4laU8UuOv) | [Lee DeWyze](https://open.spotify.com/artist/1KNNZV9twnpQBqyUoGvWA6) | [Blackbird Song](https://open.spotify.com/album/6oWLeB5L4v1aGIg3o13wTM) | 4:14 |
 | 86 | [Quite Contrary](https://open.spotify.com/track/7apxI2PH7Jgf2gkfDFy5DV) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Parker Millsap](https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e) | 4:48 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 90 | [Jameson](https://open.spotify.com/track/5kRGdMdl0n0nDtsXmRg5i3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 3:08 |
 | 91 | [The Exchange](https://open.spotify.com/track/4nf5Cxq9O4mmQcKKYYOgj3) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/69JffH9w7GDmHTmebOjlPR) | 7:48 |
 | 92 | [Fallen Sun](https://open.spotify.com/track/5aQVQrIvs7zguPTuKGMrJx) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Flux](https://open.spotify.com/album/6rQDSlmYVHbdFl3gafwYVQ) | 4:00 |
-| 93 | [Bullet Proof Soul](https://open.spotify.com/track/4sHbjW3Dx2wyAZiO5Jz7Nz) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Sing Into My Mouth](https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl) | 4:38 |
+| 93 | [Bullet Proof Soul](https://open.spotify.com/track/0BwkrHVAVHdb2pSxL8yEMG) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Stargazing](https://open.spotify.com/album/1h81fExuUWbFElcVHk5x9Q) | 4:38 |
 | 94 | [No Bold Villian](https://open.spotify.com/track/4EtkNQqkp5oAycS1ayu3qp) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Timber Timbre](https://open.spotify.com/album/1peaWfJtqMtLmqKK79Cpxu) | 3:51 |
 | 95 | [A Church In Ruins \- From The HBO Series True Detective](https://open.spotify.com/track/1nOX0ALAjpYGys5keet5JJ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [A Church In Ruins \(From The HBO Series True Detective\)](https://open.spotify.com/album/1QHLQdd9J4JcJ8FomKvz1v) | 2:52 |
 | 96 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMGY3YzEzMjU2MWM3ZDhlMWRhMWRjYjA1YmRlNTc5MTgw`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDI1ZDA3NmY1OGU3NmM0ZjI3ZDc1NDFhMGFlNzY2Yzc2`

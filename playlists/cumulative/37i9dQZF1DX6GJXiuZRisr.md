@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-324 songs - 1 day 0 hr 33 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
+325 songs - 1 day 0 hr 38 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,8 +115,9 @@
 | [Golden \(feat\. Blondfire\)](https://open.spotify.com/track/1he0nibCzlDvB96EoJbbIZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Blondfire](https://open.spotify.com/artist/5ySYeIhqg4Rfs5tjteVMz3) | [Golden \(feat\. Blondfire\)](https://open.spotify.com/album/3lUeNPdccSYi4LK4pLvBiv) | 3:29 | 2021-05-07 |  |
 | [Grains](https://open.spotify.com/track/65kSgWVGY4JIWNLWnfEwbe) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Rogue](https://open.spotify.com/album/7mDi1BM9wnm55QUTedTelk) | 4:44 | 2021-05-07 | 2022-07-29 |
 | [Greece 2000](https://open.spotify.com/track/1GJX5BJFcdrFgIui67TdPF) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG), [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Greece 2000](https://open.spotify.com/album/0iYmm2VSDyLlCPTjRe815R) | 3:27 | 2022-08-12 | 2022-08-17 |
-| [Greece 2000](https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG), [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Greece 2000](https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV) | 3:27 | 2022-08-12 |  |
+| [Greece 2000](https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG), [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Greece 2000](https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV) | 3:27 | 2022-08-12 | 2022-11-11 |
 | [Haunt Me](https://open.spotify.com/track/17zdyEVw9oe9FBDevjOl5c) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me](https://open.spotify.com/album/4EMZGTv76C32KyS0dZRwad) | 4:59 | 2021-05-07 | 2022-10-13 |
+| [Haunt Me](https://open.spotify.com/track/4OEnG3txRzS0UebAHOA2bG) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me](https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3) | 4:59 | 2022-07-01 |  |
 | [Haunt Me V.2](https://open.spotify.com/track/2USVsdlxRntLqOROwO422o) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me V.2](https://open.spotify.com/album/5zzz3bqkSSoU9nOnpigjTM) | 4:58 | 2021-09-03 | 2022-08-13 |
 | [Hear Me Out](https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Hear Me Out](https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F) | 4:39 | 2022-08-05 |  |
 | [Heartbreak](https://open.spotify.com/track/5HopfU98O15r6TiQorUxSD) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Heartbreak](https://open.spotify.com/album/5bcLZ1o7ub4dgrVhaQBlDG) | 2:50 | 2022-08-19 |  |

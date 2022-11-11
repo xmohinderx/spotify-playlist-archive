@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 285893,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/4WhyHQ2BXi2VU1iaFbF6jv"
@@ -265,6 +265,28 @@
       "duration_ms": 285960,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/3zYufmyv6HOuiHn1eMR6Ja"
+    },
+    {
+      "album": {
+        "name": "Study Rock",
+        "url": "https://open.spotify.com/album/1DO5nxBBksJPHcChairaR5"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Cheb Mami",
+          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285960,
+      "name": "Desert Rose",
+      "url": "https://open.spotify.com/track/6Pvyc2KJELAXo0mgrn8paN"
     },
     {
       "album": {
@@ -780,6 +802,24 @@
     },
     {
       "album": {
+        "name": "Ma Fi Nom",
+        "url": "https://open.spotify.com/album/5e6600UJuMynlnlTPblo74"
+      },
+      "artists": [
+        {
+          "name": "Pascale Machaalani",
+          "url": "https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274186,
+      "name": "Nour El Chames",
+      "url": "https://open.spotify.com/track/5TRsfgM2TNIfqNXXNvMwBs"
+    },
+    {
+      "album": {
         "name": "Nour El Chams",
         "url": "https://open.spotify.com/album/6eugJv6YMD7lrYasmyOWOf"
       },
@@ -791,7 +831,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 273106,
       "name": "Nour El Chams",
       "url": "https://open.spotify.com/track/6aza2wOUMcyM46Jx4aFHeH"

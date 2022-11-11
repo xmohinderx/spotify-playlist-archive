@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: First Aid Kit
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,417 likes - 160 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,740 likes - 160 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 65 | [Spirit Finds Yours](https://open.spotify.com/track/5a784jrAMlhuqpp46yXIPd) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T) | [Eagle, Idaho](https://open.spotify.com/album/1NKTNi0HMBHs4KH1QPrO2l) | 3:21 |
 | 66 | [Miles Are Wide](https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [What Remains](https://open.spotify.com/album/69vVun5LtcOyTDYJEp5UEb) | 3:54 |
 | 67 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 |
-| 68 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 |
+| 68 | [Night Moves](https://open.spotify.com/track/3Nr8caV6QzUWyXEL6VlDYY) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Night Moves \(Morgan Page Throwback Mix\)](https://open.spotify.com/album/0GMglKRMxCRLuoGIHiPNjt) | 3:08 |
 | 69 | [Rambler](https://open.spotify.com/track/3ySpwWCOCVnVJWfxLshrXo) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Rambler](https://open.spotify.com/album/03YzaOt8huM6dxanWpUYhf) | 2:33 |
 | 70 | [Time Can Prove You Wrong](https://open.spotify.com/track/21k5ZKcSxFK52Nk0pBa75t) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Time Can Prove You Wrong](https://open.spotify.com/album/11ba8kyyWANbRHO7v1BtYN) | 4:20 |
 | 71 | [Thank You Very Much](https://open.spotify.com/track/1dImzi5IhVREgUQYl8kW35) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Thank You Very Much](https://open.spotify.com/album/4hjgLe9m4EOUo17Ors1BQv) | 5:27 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 159 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 |
 | 160 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDM1ZWNhMjFjNjAzZjgyYjgyM2IyNzQ2OThiM2UzMDRh`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDBiNjAxZjQyZDc5MzcyYjYxODIxMmM5MTAyYzJkNTNl`

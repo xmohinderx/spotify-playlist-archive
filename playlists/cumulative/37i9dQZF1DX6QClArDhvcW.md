@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-238 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+239 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [fotka](https://open.spotify.com/track/6Xtcf7QFYmF4ye41fkpOh9) | [Dan Betz](https://open.spotify.com/artist/79qPqKymS6xDTlnGzCraZr) | [fotka](https://open.spotify.com/album/6dURtxzLtI0TorlX6kxCk4) | 2:01 | 2022-05-20 |  |
 | [Found it hard](https://open.spotify.com/track/2AzFlRHnk47ucORREL1igj) | [Jerrick Lamar](https://open.spotify.com/artist/2xhhQBn6RvsBDYNwON3bN5) | [You Can´t See](https://open.spotify.com/album/6jTus5QZtP1MjvsChDmtBJ) | 1:49 | 2022-05-20 |  |
 | [found you](https://open.spotify.com/track/34E4d212hSahHYTKtdLOJa) | [okay cool](https://open.spotify.com/artist/60f8qPMkKfg2njIjbRtEox) | [found you](https://open.spotify.com/album/66TNCu6fQMtnc2QI0bTLBX) | 1:41 | 2022-08-19 |  |
-| [Free as a Bird](https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf) | 2:16 | 2022-07-29 |  |
+| [Free as a Bird](https://open.spotify.com/track/0ubmEMJ8mepIt4zLQCN1fR) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Relaxing Study Music](https://open.spotify.com/album/6XoR2ZWHiDmUZDNLr8CFrN) | 2:16 | 2022-10-28 |  |
+| [Free as a Bird](https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf) | 2:16 | 2022-07-29 | 2022-11-11 |
 | [Free as a Bird](https://open.spotify.com/track/7Aliz46GPdkIzoo0iHW8aQ) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/3SlSO5PTeflUYsTh4nPWEH) | 2:16 | 2022-05-20 | 2022-07-29 |
 | [Frozen Trees](https://open.spotify.com/track/5FkZ9xAb6k2XfHrR1zjnee) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [Frozen Trees](https://open.spotify.com/album/5Vj6vsFcWunXh1CbRZbtlQ) | 2:09 | 2022-05-20 |  |
 | [fusions](https://open.spotify.com/track/505vdK8fP7XVkNmK3zicyC) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [power to flow](https://open.spotify.com/album/5C8StkM3ZYGtkDAEqmV5ll) | 4:40 | 2022-05-20 | 2022-07-08 |

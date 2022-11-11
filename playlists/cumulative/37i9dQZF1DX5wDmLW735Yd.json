@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: SOLAH",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: MONSS",
   "name": "Massive Drum & Bass",
   "published_playlist_ids": [
     "5ouec8j4Own6wmunVKxeH3"
@@ -872,6 +872,24 @@
     },
     {
       "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/60I1UREM36C6JxSVPJT1nz"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179517,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/1PGirMzvw36N1ftzTKprpr"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/25u6Jd11wYorlIrHAksRtH"
       },
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187400,
       "name": "DEEP (feat. Non\u00f4)",
       "url": "https://open.spotify.com/track/1DcFYXbOSWr18OHlfp7Qng"
@@ -2523,7 +2541,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 192514,
       "name": "go - goddard. Remix",
       "url": "https://open.spotify.com/track/6RZo8T7GY9EoWZXC5i2587"
@@ -2743,7 +2761,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 235885,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1YF2iUHdWnbO3MWI7z5aQf"
@@ -3472,6 +3490,28 @@
     },
     {
       "album": {
+        "name": "Living For The Moment",
+        "url": "https://open.spotify.com/album/7BkyNi5lFIUiots8CU7Ue2"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Yola Recoba",
+          "url": "https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206485,
+      "name": "Living For The Moment",
+      "url": "https://open.spotify.com/track/4IjRB1gSSwBWgBTwbmKrS0"
+    },
+    {
+      "album": {
         "name": "Load Up",
         "url": "https://open.spotify.com/album/2J2ZwPE4wniGEQuWCFK6xu"
       },
@@ -4139,6 +4179,28 @@
       "duration_ms": 168653,
       "name": "No Time (feat. Nia Archives, Beenie Man, Cristale & ShaSimone)",
       "url": "https://open.spotify.com/track/1ONDma4NENd2D7ig3HvJ1Z"
+    },
+    {
+      "album": {
+        "name": "Noodle Poodle (Tommy Villiers Remix)",
+        "url": "https://open.spotify.com/album/7lYRpV61gd7klERMu7nyaO"
+      },
+      "artists": [
+        {
+          "name": "NiNE8",
+          "url": "https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231529,
+      "name": "Noodle Poodle - Tommy Villiers Remix",
+      "url": "https://open.spotify.com/track/3Iqd1QXYAChLtYDWCMYgBi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era
 
-[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 527 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 25 | [wys?](https://open.spotify.com/track/5NT67c2bpzilrBSc73JEoc) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Santi](https://open.spotify.com/artist/4TksvAnPyPpUidSjaJQJL6) | [Insert Project Name](https://open.spotify.com/album/6wcG6DtDwc6N7K0Vh5ZoMt) | 2:45 |
 | 26 | [Island Girl](https://open.spotify.com/track/6D1neH5gLH63jdEtBkQrWK) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Honest Conversations EP](https://open.spotify.com/album/0uhEvgV4CTlK8uaS8tshrp) | 2:16 |
 | 27 | [Coconut Lips](https://open.spotify.com/track/1IZJ3PvtyeRGmWDyH7IJfV) | [GMK](https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Coconut Lips](https://open.spotify.com/album/6MsvVk2Ts2wITEcov3Zz5Q) | 3:35 |
-| 28 | [Wishes And Butterflies](https://open.spotify.com/track/2bJiq43RRoWzh8szaaLD6K) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Wishes And Butterflies](https://open.spotify.com/album/3N9LYpcxF7H0pJGafs44VW) | 1:24 |
+| 28 | [Wishes And Butterflies](https://open.spotify.com/track/16p52wkCAmPke4havm9H8M) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Nigeria Chill Afrobeats](https://open.spotify.com/album/43O73p3plnSJKOd5Gpwgvq) | 1:24 |
 | 29 | [Take Me Home](https://open.spotify.com/track/4RbhOqxDhVedWUAJeYTn7b) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 2:51 |
 | 30 | [Shaken](https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo) | [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Shaken](https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF) | 3:33 |
 | 31 | [Radio](https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Radio](https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 79 | [Gold Grills](https://open.spotify.com/track/1EhYCGnX7XKFP44nGOrTXA) | [Mafeni](https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs) | [enjoy](https://open.spotify.com/album/3ARS1ArXJvbRxOGNZwSzni) | 3:17 |
 | 80 | [What You Like](https://open.spotify.com/track/3nW0Lor0OZW7muepNnkUI9) | [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Virtuoso](https://open.spotify.com/album/44q2jWpjess1qVcWm1jqoW) | 3:08 |
 
-Snapshot ID: `MTY2MDA0NjMwOSwwMDAwMDAwMDRmOGU5OGQzN2M3YTQzNmIyOTBlM2VjYjhkYzMxYTNk`
+Snapshot ID: `MTY2MDA0NjMwOSwwMDAwMDAwMGZmMWI5NzY3MjEzZjhlZjc1YjRkOWVjMWI3OTRhYWI4`

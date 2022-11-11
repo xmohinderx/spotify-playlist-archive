@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,617 likes - 57 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,649 likes - 57 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 35 | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/track/5loBbZKs1cj4HTHaLIaTSn) | [Jill Pitz](https://open.spotify.com/artist/0q4Gc8YuoF6mB9RHIi9FDQ), [Marjorie Hanna](https://open.spotify.com/artist/2QYf4fFPNKLq2miKubXR0n) | [The First Noel](https://open.spotify.com/album/123hrI7QAnWUXiZHVgKHca) | 1:59 |
 | 36 | [Angels from the Realms of Glory \(Instrumental Version\)](https://open.spotify.com/track/62hAUuevuzKsElvDCoYZxK) | [The O'Neill Brothers](https://open.spotify.com/artist/2szp9EHFXhBSuS3PmZwqvg) | [Most Memorable Christmas on Piano: Best of The O'Neill Brothers](https://open.spotify.com/album/6u3EBI80MtYdsiODnZgzzu) | 4:25 |
 | 37 | [Hark! a Thrilling Voice Is Sounding](https://open.spotify.com/track/1QJTGyetIQldxJCPnEQhOe) | [Andrey Jackson](https://open.spotify.com/artist/2yQZGNQJExPLfCB8kfTD88) | [Christian Hymns, Vol\. 4, Organ Accompaniments \(The Church Organist Series\)](https://open.spotify.com/album/30AOxaN0uerFFVNBUVs8lT) | 1:23 |
-| 38 | [The Holly & The Ivy](https://open.spotify.com/track/1xDE4ZqjA6Oi8yxIRn8goX) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance](https://open.spotify.com/album/5iSA8cwqAeL2Ep7RcnT62N) | 4:19 |
+| 38 | [The Holly & The Ivy](https://open.spotify.com/track/3DfDRcNWGsOmSQ8eRKi46c) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Dinner](https://open.spotify.com/album/2oEoV2IoVHqm3VT7K5WUQ6) | 4:19 |
 | 39 | [How Great Our Joy](https://open.spotify.com/track/7y1j9j23BVQxvpBfI5PC5C) | [Christmas Music Holiday Trio](https://open.spotify.com/artist/4XWZxmAaLdsJlJvUjlowZF) | [Relaxing Christmas Music, Vol\. 1](https://open.spotify.com/album/3TsPUuASpxKagXwi12SSmx) | 2:05 |
 | 40 | [Once In Royal Davids City](https://open.spotify.com/track/4PzC5QA9SkhDMO7MCItZXx) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 2:52 |
 | 41 | [I Saw Three Ships](https://open.spotify.com/track/012kxyu91sy0GV2cDHU8M4) | [Louis Landon](https://open.spotify.com/artist/43Ybg5x9TrGovf70jSMzah) | [Peaceful Solo Piano Christmas 2](https://open.spotify.com/album/1HM8IfS4L23ezwo6mV5u2x) | 2:31 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 56 | [Unto Us a Boy Is Born](https://open.spotify.com/track/185LBcu5JoC1k6wbGBVryT) | [Zach Rogers](https://open.spotify.com/artist/2SnuUdtCpixnnrut9aAsVf) | [Christmas Piano Hits \- Classic Xmas Piano Moods](https://open.spotify.com/album/4Xgbrg5lv7FMUmhBiE8KHs) | 1:39 |
 | 57 | [Veni, veni Emmanuel \(arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
 
-Snapshot ID: `MTY2ODAwNzY0MywwMDAwMDAwMDNhZDU2NGNmOGY2ZTZkZjdkMmE3YTc4MTQ2Y2ZhYzcw`
+Snapshot ID: `MTY2ODAwNzY0MywwMDAwMDAwMDRkYWFhZTcwZDNhMzYwOTMxZDZmZGRiMzczODE0NjFl`

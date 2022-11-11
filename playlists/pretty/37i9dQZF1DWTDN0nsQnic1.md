@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,572 likes - 59 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,613 likes - 59 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 11 | [Pasta Shinjuku](https://open.spotify.com/track/3GaJtMgcVrxwoIanmLrYaL) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_2](https://open.spotify.com/album/3SFbd4P6g9jDfDBzNF17zH) | 1:46 |
 | 12 | [Suspended](https://open.spotify.com/track/38K8mmhKeQ5A15xFZOeYzA) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Suspended](https://open.spotify.com/album/4e1u1Z1IvPsdH15Qd0gY6L) | 2:10 |
 | 13 | [Lemon Squeezy](https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Lemon Squeezy / Afrique](https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp) | 3:32 |
-| 14 | [I Wish](https://open.spotify.com/track/79IirvCpDrry68JTKlmQdU) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [I Wish](https://open.spotify.com/album/3LaOgyaShyrdyet6ftXxDy) | 3:48 |
+| 14 | [I Wish](https://open.spotify.com/track/5p8ltcSnSYqQz7WYSpRPBE) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Reverie](https://open.spotify.com/album/4sY8oLyD8SYQxLA1xc5Xq6) | 3:48 |
 | 15 | [Won't Stop](https://open.spotify.com/track/3E6vBWSs6zjoSnlUVmo3yS) | [Ashton Sellars](https://open.spotify.com/artist/0yihh2mdPS2cIc1DoCktHm), [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Won't Stop](https://open.spotify.com/album/1VqCHljcYQir5atLxEXSJW) | 3:03 |
 | 16 | [Time \(feat\. Rone'e Mozee\)](https://open.spotify.com/track/0kK40uWFqXRIguP8bR3zWA) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [The Elevator Album](https://open.spotify.com/album/6sqoYrqQFWonc33GsRZSvh) | 2:34 |
 | 17 | [Finding Home](https://open.spotify.com/track/2Eq4vwSxJrDsnl05zrFUPY) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Soul Feather](https://open.spotify.com/album/3X4BkDqWNOyXOIqYUBIlVx) | 2:14 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 58 | [Buttermilk](https://open.spotify.com/track/7MJC5ROiAjImSkGm85eIWa) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 3:25 |
 | 59 | [Trip 5](https://open.spotify.com/track/6sVSbqlpbATtUEOGC4XNLh) | [Heavy Mellow](https://open.spotify.com/artist/59WT73GxJi40AmPXYvJEYx), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Acid R&B Vol\. 1](https://open.spotify.com/album/6I5PK3PCQhOQHRwBHgCVfQ) | 2:22 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDIzZWM2Y2NjNjM4ZGEyNGUxYTdkMTM3NTVhM2Q5M2Jk`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGVmMTQ5OGE5NzY5NmZhYzdmZmNhZjk5NjU1M2YzMDVh`

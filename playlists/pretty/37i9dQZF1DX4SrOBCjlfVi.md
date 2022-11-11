@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring A Boogie, NLE Choppa and more\. Cover: Drake & 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,314 likes - 52 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,464 likes - 52 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 33 | [Al Pacino](https://open.spotify.com/track/4QqCwUVo0YDB4FZPkxQxOc) | [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Al Pacino](https://open.spotify.com/album/4c7QeDvdFGVHfe4Q4igrO3) | 2:25 |
 | 34 | [Smile](https://open.spotify.com/track/7KOhw4ELSXvFGRZNQaUvXS) | [Bobby Sessions](https://open.spotify.com/artist/1URwpSLjCBhRjnw4SUwNyL) | [I’d Rather Keep It To Myself](https://open.spotify.com/album/1C2n1iBEgtjvqlOeGPCAQ9) | 3:24 |
 | 35 | [Eastside \(with Lil Tjay\) \- Remix](https://open.spotify.com/track/7zOoDCREaLK0mFa478jmlH) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [LaZy, but i have goals \(Banned From Vermont\)](https://open.spotify.com/album/4Sfiv5MRybl90Z4iloexTy) | 2:37 |
-| 36 | [Cali Lovin \(feat\. King Combs\)](https://open.spotify.com/track/5nVA1ocVj4xcDozq0ijaDC) | [KINGMOSTWANTED](https://open.spotify.com/artist/7BCzdg9R0InC8COslhyNrQ), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [Notorious King](https://open.spotify.com/album/3MABv0l0QQ4AXqTQR2QX3r) | 2:48 |
+| 36 | [Cali Lovin](https://open.spotify.com/track/5nVA1ocVj4xcDozq0ijaDC) | [KINGMOSTWANTED](https://open.spotify.com/artist/7BCzdg9R0InC8COslhyNrQ), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [Notorious King](https://open.spotify.com/album/3MABv0l0QQ4AXqTQR2QX3r) | 2:48 |
 | 37 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 |
 | 38 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 |
 | 39 | [OOGA BOOGA!](https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [OOGA BOOGA!](https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt) | 2:19 |

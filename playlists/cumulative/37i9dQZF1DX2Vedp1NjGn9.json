@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Cults",
+        "url": "https://open.spotify.com/album/2jb0zRewft3L2AwCOMx3du"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172960,
+      "name": "Abducted",
+      "url": "https://open.spotify.com/track/0OLyp6n6yMwIzzlubXDrsK"
+    },
+    {
+      "album": {
         "name": "Within and Without",
         "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
       },
@@ -59,6 +77,24 @@
       "duration_ms": 246426,
       "name": "Balance",
       "url": "https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi"
+    },
+    {
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269800,
+      "name": "Bedouin Dress",
+      "url": "https://open.spotify.com/track/5bpLzcR6II5zhsqJWTMEqw"
     },
     {
       "album": {
@@ -153,7 +189,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209493,
       "name": "BTSTU - Edit",
       "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
@@ -405,7 +441,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 183506,
       "name": "Don't Sit Down 'Cause I've Moved Your Chair",
       "url": "https://open.spotify.com/track/577M06tqh2BwsT1qqZOBM1"
@@ -477,10 +513,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 238546,
       "name": "East Harlem",
       "url": "https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y"
+    },
+    {
+      "album": {
+        "name": "The English Riviera (10th Anniversary)",
+        "url": "https://open.spotify.com/album/4aWIxEe5tUjy3azvAfUnf3"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210080,
+      "name": "Everything Goes My Way",
+      "url": "https://open.spotify.com/track/01u3GIgILHV1uXILF3LGEW"
     },
     {
       "album": {
@@ -495,7 +549,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 210080,
       "name": "Everything Goes My Way",
       "url": "https://open.spotify.com/track/67wcAJeaNwGm0fcB4HzzYm"
@@ -675,7 +729,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 303386,
       "name": "Helplessness Blues",
       "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
@@ -697,6 +751,46 @@
       "duration_ms": 248706,
       "name": "Hey Moon",
       "url": "https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq"
+    },
+    {
+      "album": {
+        "name": "SBTRKT",
+        "url": "https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1PpfOKfKJR5gVfz7yejNB7"
+    },
+    {
+      "album": {
+        "name": "Circuital",
+        "url": "https://open.spotify.com/album/6CEe43cNzYyvRwHoRR2wFM"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "Holdin On To Black Metal",
+      "url": "https://open.spotify.com/track/6S5VkcX3Gmqw8EJY6yFy64"
     },
     {
       "album": {
@@ -873,7 +967,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 377973,
       "name": "Kaputt",
       "url": "https://open.spotify.com/track/6DrvUh7WxKy1lQxsHcxtN2"
@@ -909,7 +1003,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228000,
       "name": "L.I.F.E.G.O.E.S.O.N.",
       "url": "https://open.spotify.com/track/6y468DyY1V67RBNCwzrMrC"
@@ -949,6 +1043,24 @@
       "duration_ms": 263906,
       "name": "Landfill",
       "url": "https://open.spotify.com/track/7zUnbLzzq8g5IoKedMiRo9"
+    },
+    {
+      "album": {
+        "name": "Let England Shake",
+        "url": "https://open.spotify.com/album/2f8Rfpdol5jrJe3OL4YH6k"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189280,
+      "name": "Let England Shake",
+      "url": "https://open.spotify.com/track/2XwL9kTn9411Ed4p0MLYx3"
     },
     {
       "album": {
@@ -999,10 +1111,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 276720,
       "name": "Limit To Your Love",
       "url": "https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh"
+    },
+    {
+      "album": {
+        "name": "Suego Faults",
+        "url": "https://open.spotify.com/album/23pM83jp9nl1325SiAmCwk"
+      },
+      "artists": [
+        {
+          "name": "Wolf Gang",
+          "url": "https://open.spotify.com/artist/6EkvDqOOEX08BotcQppKoD"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268453,
+      "name": "Lions in Cages",
+      "url": "https://open.spotify.com/track/3Ufbnur2EwjNQoVKyoX1ue"
     },
     {
       "album": {
@@ -1186,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Bon Iver (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "Minnesota, WI",
+      "url": "https://open.spotify.com/track/4UTSlCiY4zTAEFyNbiJAJp"
+    },
+    {
+      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -1197,7 +1345,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 232440,
       "name": "Minnesota, WI",
       "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
@@ -1215,7 +1363,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 233655,
       "name": "Money",
       "url": "https://open.spotify.com/track/5Q1H7ASDiJpACNx5ziyhuN"
@@ -1269,7 +1417,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 210426,
       "name": "Naked Kids",
       "url": "https://open.spotify.com/track/3awm1x3kGmYIVrkNDBFP6U"
@@ -1287,7 +1435,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 369386,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/1abUzN0mxXuoiGsMvj1FxS"
@@ -1305,7 +1453,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 271013,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6"
@@ -1359,7 +1507,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 274853,
       "name": "No Light, No Light",
       "url": "https://open.spotify.com/track/5nkYDYUSb1bvLJ4nP8CnQ1"
@@ -1402,6 +1550,28 @@
     },
     {
       "album": {
+        "name": "SBTRKT",
+        "url": "https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Roses Gabor",
+          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "Pharaohs",
+      "url": "https://open.spotify.com/track/0pCfSt6UeiUQH8z90Hoaa6"
+    },
+    {
+      "album": {
         "name": "Era Extra\u00f1a",
         "url": "https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN"
       },
@@ -1413,7 +1583,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 264000,
       "name": "Polish Girl",
       "url": "https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE"
@@ -1449,7 +1619,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 280434,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/1fBLLpShMpr4DegsUlDWz4"
@@ -1575,7 +1745,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 303173,
       "name": "Seven Devils",
       "url": "https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx"
@@ -1611,7 +1781,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 163236,
       "name": "Shake, Shake, Shake",
       "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
@@ -1773,10 +1943,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 127640,
       "name": "The Cascades",
       "url": "https://open.spotify.com/track/0doAllpYP3hnusnTwFqmdG"
+    },
+    {
+      "album": {
+        "name": "Suego Faults",
+        "url": "https://open.spotify.com/album/23pM83jp9nl1325SiAmCwk"
+      },
+      "artists": [
+        {
+          "name": "Wolf Gang",
+          "url": "https://open.spotify.com/artist/6EkvDqOOEX08BotcQppKoD"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243773,
+      "name": "The King And All Of His Men",
+      "url": "https://open.spotify.com/track/3CBV0hbRVn5VniWCXnVERG"
     },
     {
       "album": {
@@ -1845,10 +2033,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 188040,
       "name": "Towers",
       "url": "https://open.spotify.com/track/2qHl2VvpKJ6ciB45nCtLB2"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/7CIKMtUUz31yX6MNX2nGbB"
     },
     {
       "album": {
@@ -1950,6 +2156,24 @@
     },
     {
       "album": {
+        "name": "Ceremonials",
+        "url": "https://open.spotify.com/album/5DMgU1P55Su3EVXGvgID1p"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333400,
+      "name": "What The Water Gave Me",
+      "url": "https://open.spotify.com/track/4XeNSsyUnBYJKSNa254nBA"
+    },
+    {
+      "album": {
         "name": "Ceremonials (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
@@ -1961,7 +2185,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 333466,
       "name": "What The Water Gave Me",
       "url": "https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8"
@@ -2001,7 +2225,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 224986,
       "name": "Will Do",
       "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"

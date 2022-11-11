@@ -366,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Thousand Year Waves",
+        "url": "https://open.spotify.com/album/1bdCUM3Vb48oetafSWkFna"
+      },
+      "artists": [
+        {
+          "name": "Night Gestalt",
+          "url": "https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348608,
+      "name": "Between Two Breaths",
+      "url": "https://open.spotify.com/track/1ZAd0tz89HBJSo7vyHzGiW"
+    },
+    {
+      "album": {
         "name": "Between Two Breaths",
         "url": "https://open.spotify.com/album/0mvMU44cr2G86elQUQkDIx"
       },
@@ -507,7 +525,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 508000,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws"

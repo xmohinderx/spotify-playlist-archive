@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174693,
       "name": "Blues, Stay Away From Me",
       "url": "https://open.spotify.com/track/7xVj55oXJ9eesE9f2XVHKe"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179600,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 161440,
       "name": "Fraulein",
       "url": "https://open.spotify.com/track/763CAJyB9ZXHntB3QCpduv"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 181653,
       "name": "Goodnight, Irene",
       "url": "https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR"
@@ -974,6 +974,24 @@
     },
     {
       "album": {
+        "name": "The Late Great",
+        "url": "https://open.spotify.com/album/4tCEvD05Sgmdt59D9lXFVb"
+      },
+      "artists": [
+        {
+          "name": "Carl Smith",
+          "url": "https://open.spotify.com/artist/4FmgWM5kNxZ8ibCNPS6hHN"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150040,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/4MesZpzwpsnypksd03rVEk"
+    },
+    {
+      "album": {
         "name": "Heartbreak USA 1953-1962",
         "url": "https://open.spotify.com/album/66M7jYsBkIHRd1ToZ2TYko"
       },
@@ -1087,7 +1105,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 133306,
       "name": "Honky Tonk Blues",
       "url": "https://open.spotify.com/track/3BzfkAB5qE3BNiVsdA35nu"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 127746,
       "name": "I Love You Because",
       "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
@@ -1387,6 +1405,24 @@
       "duration_ms": 132626,
       "name": "I'll Sail My Ship Alone",
       "url": "https://open.spotify.com/track/5rEggQfrPHRnZDi8fFeS0L"
+    },
+    {
+      "album": {
+        "name": "Good Old Country Music",
+        "url": "https://open.spotify.com/album/4rFH4XdtIsCat15Olnuvkn"
+      },
+      "artists": [
+        {
+          "name": "Sons of the Pioneers",
+          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133375,
+      "name": "I'll Sail My Ship Alone",
+      "url": "https://open.spotify.com/track/121wbuV1IKpsfnh4ENf5JB"
     },
     {
       "album": {
@@ -1491,7 +1527,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 138538,
       "name": "In the Jailhouse Now",
       "url": "https://open.spotify.com/track/1oSJCRGSS3CbV526xMogmR"
@@ -1841,7 +1877,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163426,
       "name": "Move It On Over",
       "url": "https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy"
@@ -2201,7 +2237,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 168333,
       "name": "The Auctioneer",
       "url": "https://open.spotify.com/track/6dlti8kcKyzkkPrnGp7FN7"
@@ -2483,10 +2519,28 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 154666,
       "name": "Walkin' After Midnight",
       "url": "https://open.spotify.com/track/7E8nKMtXMqIQbvl1Ta9Ucw"
+    },
+    {
+      "album": {
+        "name": "Walkin' After Midnight - The Essentials",
+        "url": "https://open.spotify.com/album/4oWwOE7r5PxbQOSH4I5HBJ"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152026,
+      "name": "Walkin' After Midnight - Re-Recorded",
+      "url": "https://open.spotify.com/track/69AMpC7FhKLpvvnKckPC3q"
     },
     {
       "album": {
@@ -2537,7 +2591,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 165453,
       "name": "White Lightning - Single Version",
       "url": "https://open.spotify.com/track/7o68KX6XyCS9lydBTH6TCP"
@@ -2613,6 +2667,28 @@
       "duration_ms": 137760,
       "name": "Why Baby Why - Single Version",
       "url": "https://open.spotify.com/track/2Nl4tN3rYAnnx8PpYOhQfN"
+    },
+    {
+      "album": {
+        "name": "Ramblin\u2019 Man (Undubbed Edition)",
+        "url": "https://open.spotify.com/album/3ZgPZQuoMZM4RM5y5amzUh"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146333,
+      "name": "Why Don't You Love Me",
+      "url": "https://open.spotify.com/track/5tP3bJn54lflOjlQ8CaTbV"
     },
     {
       "album": {
@@ -2707,7 +2783,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 164373,
       "name": "Your Cheatin' Heart",
       "url": "https://open.spotify.com/track/0WwmFdGXe7Yky4T2J1oqLk"

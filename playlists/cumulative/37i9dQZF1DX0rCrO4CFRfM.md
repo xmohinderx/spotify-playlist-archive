@@ -4,7 +4,7 @@
 
 > Relax to acoustic versions of your favorite rock songs.
 
-139 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/1rSuFGseWWum14bljXjPqj)
+140 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/1rSuFGseWWum14bljXjPqj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,12 +101,13 @@
 | [Radioactive \- Live](https://open.spotify.com/track/2YTdPCFxGx0t8Sw26dUKac) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [This Is Acoustic](https://open.spotify.com/album/6ivT2ATQqnTzLaUQM3Zjnv) | 4:32 | 2021-01-15 | 2022-07-29 |
 | [Radioactive \- Live London Sessions / 2013](https://open.spotify.com/track/3T09JC1tNKcHZPhisKKUm8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Expanded Edition / Super Deluxe\)](https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh) | 4:30 | 2022-09-22 |  |
 | [Run Away from It All \- Acoustic](https://open.spotify.com/track/3bAzV8yxS2AcfSYk8NTzKJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Southern Ground Sessions](https://open.spotify.com/album/0Nubt1CyorptJLXrGibnnZ) | 4:27 | 2021-01-15 | 2022-07-29 |
+| [Run Away from It All \- Acoustic](https://open.spotify.com/track/7MOTCiY8t7HHBwaBb2CafC) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Run Away from It All \(Acoustic\)](https://open.spotify.com/album/67YBhDZbe4OOZNwMdXGT4e) | 4:27 | 2022-09-22 |  |
 | [Sad Happy \- Acoustic](https://open.spotify.com/track/3KeEwsPOWFXcNbQlYwAcNT) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Sadder, Happier \- The Box Room Recordings](https://open.spotify.com/album/566lk3CKhQpUcMLugqZfjB) | 3:04 | 2021-01-16 | 2021-12-22 |
 | [Sailplane](https://open.spotify.com/track/4haNqJZCLgJxxTVDhZroKi) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 2:34 | 2020-11-10\* | 2021-05-28 |
 | [Save Me \- Acoustic](https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Us and Them \(Deluxe Edition\)](https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q) | 3:22 | 2020-11-10\* |  |
 | [Scars \- Acoustic Version](https://open.spotify.com/track/1yroKBwU3gJEeGq1qnxYJO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [To Be Loved: The Best Of Papa Roach \(Explicit Version\)](https://open.spotify.com/album/03n4EmWNweUARTWYtmlPqt) | 3:10 | 2020-11-10\* | 2022-07-29 |
-| [Scars \- Acoustic Version](https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Scars](https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D) | 3:11 | 2022-06-27 |  |
-| [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 | 2021-01-15 | 2022-11-05 |
+| [Scars \- Acoustic Version](https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Scars](https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D) | 3:11 | 2022-06-27 | 2022-11-11 |
+| [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 | 2021-01-15 |  |
 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/7bSHKIEXocorAU4pvmJaeN) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/5jInHIOP1Ca3j1vza33bvu) | 5:12 | 2021-10-11 | 2022-07-29 |
 | [Shooting Stars \- in the Woods](https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Shooting Stars \(in the Woods\)](https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1) | 4:23 | 2021-01-15 |  |
 | [Sing \- Reworked](https://open.spotify.com/track/5bYYSPBdBAO4yaZWX1F6z2) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Sing \(Reworked\)](https://open.spotify.com/album/6OtzPhPSJWdMuLeIcYzZ18) | 2:47 | 2021-04-19 | 2021-10-16 |
@@ -132,7 +133,7 @@
 | [Two Steps Behind \- String / Acoustic Version](https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 4:16 | 2021-01-15 |  |
 | [Vagabond \- Acoustic Version](https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4) | 2:40 | 2020-11-10\* |  |
 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 | 2020-11-10\* |  |
-| [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 | 2022-06-27 |  |
+| [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 | 2022-06-27 | 2022-11-11 |
 | [We're Going to Be Friends](https://open.spotify.com/track/6kWq3AzqJuSD00PyX7H7ol) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Jack White Acoustic Recordings 1998 \- 2016](https://open.spotify.com/album/7JCOdAGtntpYz061NH8yX5) | 2:23 | 2020-11-10\* | 2021-10-16 |
 | [When You Know \- Acoustic](https://open.spotify.com/track/2e514zTcksoDBPRFbMLFGz) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [When You Know \(Acoustic\)](https://open.spotify.com/album/0myoHs48we8cWNJ7TrWiAL) | 3:13 | 2021-10-09 | 2021-10-16 |
 | [When You're Gone \- Acoustic Version](https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [12" Masters \- The Essential Mixes](https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT) | 3:57 | 2022-06-27 |  |

@@ -4,7 +4,7 @@
 
 > Porter Robinson takes over the Guest List, featuring artists on this year's Second Sky lineup! Second Sky takes place October 29th, 2022 and tickets are available <a href="https://secondskyfest.com/">here</a>.
 
-97 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
+98 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Jennifer](https://open.spotify.com/track/3YlUuMG4Guve8SxlxYqJ2W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Jennifer](https://open.spotify.com/album/4IluqHZGQUxXellf1ycOYt) | 2:34 | 2021-03-16 |  |
 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 | 2022-10-18 |  |
 | [Killshot](https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [A Little Rhythm and a Wicked Feeling](https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc) | 3:56 | 2022-10-18 |  |
-| [Kimigaiinekuretara](https://open.spotify.com/track/3KCkxinjGuVsVO0doiPOV6) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 3:43 | 2022-10-18 |  |
+| [Kimiga iine kuretara](https://open.spotify.com/track/1gBn1DsjOMllcU0LYQFGEm) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Kimiga iine kuretara](https://open.spotify.com/album/6x1dAhEcVp22ScAsfoEcCQ) | 3:43 | 2022-10-21 |  |
+| [Kimigaiinekuretara](https://open.spotify.com/track/3KCkxinjGuVsVO0doiPOV6) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 3:43 | 2022-10-18 | 2022-11-11 |
 | [Language](https://open.spotify.com/track/3NRDLYyqIXja0UElvdzjkB) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Language](https://open.spotify.com/album/1qFaRvYByhkdCqJSIZJ5Pf) | 6:08 | 2022-10-18 |  |
 | [Lapdance from Asia](https://open.spotify.com/track/70Tn7Qn1LyVCTTd8EyyXGW) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Lapdance from Asia](https://open.spotify.com/album/39FgCD5p3mfqX17D5e5hMe) | 3:28 | 2021-03-16 | 2022-10-19 |
 | [Marilyn Monroe](https://open.spotify.com/track/6qXcX5uTDYKCqYuqnf5C7U) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Ison](https://open.spotify.com/album/2yjRCaDVCsAJjcavAPztVY) | 3:28 | 2021-03-16 | 2022-10-19 |

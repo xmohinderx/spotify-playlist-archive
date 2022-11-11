@@ -1,12 +1,12 @@
 {
   "description": "90s rock to fuel your ride. Cover: The Smashing Pumpkins",
-  "num_followers": 159787,
+  "num_followers": 160042,
   "original_name": "90s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyMDA3NSwwMDAwMDAwMGY3YWY0MDRiMGIzYjM5NWMxYzNjNGNjNGMzNGMxNGM4",
+  "snapshot_id": "MTY1NjUyMDA3NSwwMDAwMDAwMDI2MmM1OWY4NDk5Y2Y3MzM5MzFlYTc2ZTA5ZGM4MmNh",
   "tracks": [
     {
       "added_at": "2021-03-16 22:37:10",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-03-16 22:37:10",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 257480,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
-    },
-    {
-      "added_at": "2021-03-16 22:37:10",
-      "album": {
         "name": "Purple (2019 Remaster)",
         "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
       },
@@ -139,6 +123,22 @@
     {
       "added_at": "2021-03-16 22:37:10",
       "album": {
+        "name": "Throwing Copper",
+        "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
+      },
+      "artists": [
+        {
+          "name": "Live",
+          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+        }
+      ],
+      "duration_ms": 325600,
+      "name": "Lightning Crashes",
+      "url": "https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1"
+    },
+    {
+      "added_at": "2021-03-16 22:37:10",
+      "album": {
         "name": "Temple Of The Dog",
         "url": "https://open.spotify.com/album/63HdXCn0Xz1pRZc2GzMw7k"
       },
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-03-16 22:37:10",
       "album": {
-        "name": "Throwing Copper",
-        "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
-      },
-      "artists": [
-        {
-          "name": "Live",
-          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
-        }
-      ],
-      "duration_ms": 325600,
-      "name": "Lightning Crashes",
-      "url": "https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1"
-    },
-    {
-      "added_at": "2021-03-16 22:37:10",
-      "album": {
         "name": "Fashion Nugget",
         "url": "https://open.spotify.com/album/0xqBjioTJ32aszn90qV2m1"
       },
@@ -215,22 +199,6 @@
       "duration_ms": 222960,
       "name": "Bound For The Floor",
       "url": "https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY"
-    },
-    {
-      "added_at": "2021-03-16 22:37:10",
-      "album": {
-        "name": "Title Of Record (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 363800,
-      "name": "Take A Picture",
-      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
     },
     {
       "added_at": "2021-03-16 22:37:10",
@@ -347,22 +315,6 @@
     {
       "added_at": "2021-03-16 22:37:10",
       "album": {
-        "name": "Prolonging the Magic",
-        "url": "https://open.spotify.com/album/1vbpW28Od2ATmVyAZ0QZ3j"
-      },
-      "artists": [
-        {
-          "name": "CAKE",
-          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Never There",
-      "url": "https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl"
-    },
-    {
-      "added_at": "2021-03-16 22:37:10",
-      "album": {
         "name": "Transistor",
         "url": "https://open.spotify.com/album/66MztQRqLYgND6LTeIpRFx"
       },
@@ -379,6 +331,22 @@
     {
       "added_at": "2021-03-16 22:37:10",
       "album": {
+        "name": "Prolonging the Magic",
+        "url": "https://open.spotify.com/album/1vbpW28Od2ATmVyAZ0QZ3j"
+      },
+      "artists": [
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Never There",
+      "url": "https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl"
+    },
+    {
+      "added_at": "2021-03-16 22:37:10",
+      "album": {
         "name": "Alice In Chains",
         "url": "https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe"
       },
@@ -391,22 +359,6 @@
       "duration_ms": 327893,
       "name": "Heaven Beside You",
       "url": "https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv"
-    },
-    {
-      "added_at": "2021-03-16 22:37:10",
-      "album": {
-        "name": "Superunknown (20th Anniversary)",
-        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "Fell On Black Days",
-      "url": "https://open.spotify.com/track/21HWc9gFZKNdkGzGqHLq3A"
     },
     {
       "added_at": "2022-06-29 16:27:55",
@@ -439,6 +391,22 @@
       "duration_ms": 299506,
       "name": "In the Meantime",
       "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
+    },
+    {
+      "added_at": "2021-03-16 22:37:10",
+      "album": {
+        "name": "Superunknown (20th Anniversary)",
+        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "Fell On Black Days",
+      "url": "https://open.spotify.com/track/21HWc9gFZKNdkGzGqHLq3A"
     },
     {
       "added_at": "2021-03-16 22:37:10",
@@ -491,22 +459,6 @@
     {
       "added_at": "2021-03-16 22:37:10",
       "album": {
-        "name": "Bricks Are Heavy",
-        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Pretend We're Dead",
-      "url": "https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9"
-    },
-    {
-      "added_at": "2021-03-16 22:37:10",
-      "album": {
         "name": "Congratulations I'm Sorry",
         "url": "https://open.spotify.com/album/3PsTJAxjU734jZSuiLHUtE"
       },
@@ -523,6 +475,22 @@
     {
       "added_at": "2021-03-16 22:37:10",
       "album": {
+        "name": "Bricks Are Heavy",
+        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Pretend We're Dead",
+      "url": "https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9"
+    },
+    {
+      "added_at": "2021-03-16 22:37:10",
+      "album": {
         "name": "Angel Dust (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
       },
@@ -535,6 +503,22 @@
       "duration_ms": 259866,
       "name": "Midlife Crisis",
       "url": "https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy"
+    },
+    {
+      "added_at": "2021-03-16 22:37:10",
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "I'll Stick Around",
+      "url": "https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W"
     },
     {
       "added_at": "2022-06-29 16:27:55",
@@ -555,22 +539,6 @@
     {
       "added_at": "2021-03-16 22:37:10",
       "album": {
-        "name": "Foo Fighters",
-        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "I'll Stick Around",
-      "url": "https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W"
-    },
-    {
-      "added_at": "2021-03-16 22:37:10",
-      "album": {
         "name": "Transmissions From the Satellite Heart",
         "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
       },
@@ -583,6 +551,22 @@
       "duration_ms": 222278,
       "name": "She Don't Use Jelly",
       "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
+    },
+    {
+      "added_at": "2021-03-16 22:37:10",
+      "album": {
+        "name": "Til I Hear It From You",
+        "url": "https://open.spotify.com/album/1Hb3wpvKy2PytjaBAZNAut"
+      },
+      "artists": [
+        {
+          "name": "Gin Blossoms",
+          "url": "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Til I Hear It From You",
+      "url": "https://open.spotify.com/track/5TKuf1mxDlHdXcvdIDViUR"
     },
     {
       "added_at": "2022-06-29 16:27:55",
@@ -619,22 +603,6 @@
     {
       "added_at": "2021-03-16 22:37:10",
       "album": {
-        "name": "Marcy Playground",
-        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
-      },
-      "artists": [
-        {
-          "name": "Marcy Playground",
-          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Saint Joe On The School Bus",
-      "url": "https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC"
-    },
-    {
-      "added_at": "2021-03-16 22:37:10",
-      "album": {
         "name": "Rubberneck",
         "url": "https://open.spotify.com/album/7tFTqVGHceSlXOaz8IylBN"
       },
@@ -651,18 +619,18 @@
     {
       "added_at": "2021-03-16 22:37:10",
       "album": {
-        "name": "Til I Hear It From You",
-        "url": "https://open.spotify.com/album/1Hb3wpvKy2PytjaBAZNAut"
+        "name": "Marcy Playground",
+        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
       },
       "artists": [
         {
-          "name": "Gin Blossoms",
-          "url": "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
+          "name": "Marcy Playground",
+          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
         }
       ],
-      "duration_ms": 232466,
-      "name": "Til I Hear It From You",
-      "url": "https://open.spotify.com/track/5TKuf1mxDlHdXcvdIDViUR"
+      "duration_ms": 200156,
+      "name": "Saint Joe On The School Bus",
+      "url": "https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC"
     },
     {
       "added_at": "2021-03-16 22:37:10",
@@ -827,22 +795,6 @@
     {
       "added_at": "2021-03-16 22:37:10",
       "album": {
-        "name": "Good God's Urge",
-        "url": "https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM"
-      },
-      "artists": [
-        {
-          "name": "Porno for Pyros",
-          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
-        }
-      ],
-      "duration_ms": 227160,
-      "name": "Tahitian Moon",
-      "url": "https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr"
-    },
-    {
-      "added_at": "2021-03-16 22:37:10",
-      "album": {
         "name": "... Pushing The Salmanilla Envelope",
         "url": "https://open.spotify.com/album/35ZPbGg3xbn3TquPkhWE5s"
       },
@@ -855,6 +807,22 @@
       "duration_ms": 228200,
       "name": "High",
       "url": "https://open.spotify.com/track/2PmYWe7v0hJ6XJjeM2pDQp"
+    },
+    {
+      "added_at": "2021-03-16 22:37:10",
+      "album": {
+        "name": "Good God's Urge",
+        "url": "https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM"
+      },
+      "artists": [
+        {
+          "name": "Porno for Pyros",
+          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
+        }
+      ],
+      "duration_ms": 227160,
+      "name": "Tahitian Moon",
+      "url": "https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr"
     },
     {
       "added_at": "2021-03-16 22:37:10",
@@ -967,6 +935,38 @@
       "duration_ms": 344906,
       "name": "I'm Above",
       "url": "https://open.spotify.com/track/6NQZtrzKlUkY81Bw00avaI"
+    },
+    {
+      "added_at": "2021-03-16 22:37:10",
+      "album": {
+        "name": "Wax Ecstatic",
+        "url": "https://open.spotify.com/album/66c7nl612haIOxKKiTCimr"
+      },
+      "artists": [
+        {
+          "name": "Sponge",
+          "url": "https://open.spotify.com/artist/2JXDwIo5HsiwTcTPQytrZ8"
+        }
+      ],
+      "duration_ms": 248613,
+      "name": "Wax Ecstatic (To Sell Angelina)",
+      "url": "https://open.spotify.com/track/0SKiQidbB2lEY7us6yDt2m"
+    },
+    {
+      "added_at": "2021-03-16 22:37:10",
+      "album": {
+        "name": "Pack Up The Cats",
+        "url": "https://open.spotify.com/album/0v7rheoRfC87UP3A9737ih"
+      },
+      "artists": [
+        {
+          "name": "Local H",
+          "url": "https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "All The Kids Are Right",
+      "url": "https://open.spotify.com/track/50kQ7oNv9cGEs8JRC614hl"
     }
   ],
   "unique_name": "90s Rock Drive",

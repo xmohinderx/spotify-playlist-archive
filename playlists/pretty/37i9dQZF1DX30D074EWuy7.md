@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Il meglio del jazz italiano, in una selezione speciale a cura degli <a href="spotify:artist:1rWbZmR5D63aZU60lMtVZx">Studio Murena</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,622 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,632 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 5 | [You can't go home again](https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Shades of Chet](https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK) | 7:37 |
 | 6 | [Oltremare](https://open.spotify.com/track/7tTicfv9pQrdK2SGy644Kb) | [Raffaele Casarano](https://open.spotify.com/artist/6MnERY0Sy2OLv7YcI43XaB), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy) | [Oltremare](https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5) | 4:14 |
 | 7 | [Spears of Leaves](https://open.spotify.com/track/0fMtkZWxfjmmIalaAfeUM0) | [Karu](https://open.spotify.com/artist/68L2UQmHpBNsUkWBUn2iRv) | [Spears of Leaves](https://open.spotify.com/album/4ZM5RWTu7VvQDc3FV9wSK8) | 3:12 |
-| 8 | [How Do We Know We're Alive](https://open.spotify.com/track/1zFMvBk0MCRSUU2gxNFlZz) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 3:51 |
+| 8 | [How Do We Know We're Alive](https://open.spotify.com/track/2ZU2uV7bH48wu7auFnw2Qy) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [How Do We Know We're Alive](https://open.spotify.com/album/3DaFZoTxOJxdxvFFbO2qZy) | 3:51 |
 | 9 | [Groovy](https://open.spotify.com/track/7dsgdcIu2Pby6wnbsjRqSy) | [Andrea Biondi](https://open.spotify.com/artist/2rf3CCkBInxeMdrIUnczNP), [Jacopo Ferrazza](https://open.spotify.com/artist/6JQTj3KJJullWlmszH1VbJ) | [Aut Aut](https://open.spotify.com/album/0QBw8PAScglDL7C4957qy9) | 6:40 |
 | 10 | [hajar](https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD) | [Iosonouncane](https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW) | [IRA](https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL) | 11:02 |
 | 11 | [Transe Napolitaine](https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 49 | [Hangover](https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Alchimia](https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po) | 3:45 |
 | 50 | [Gigi](https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ) | [Fabio Concato](https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za), [Paolo Di Sabatino Trio](https://open.spotify.com/artist/2CvzltIoHXR8Dm74R2olgV) | [Gigi](https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a) | 7:14 |
 
-Snapshot ID: `MTY2NzgxMjAyNywwMDAwMDAwMGYwODZmYWIzNzllMDIyOWI0ZmRlMTY2MDE5Y2RhNjAw`
+Snapshot ID: `MTY2NzgxMjAyNywwMDAwMDAwMDZjNDhkOGYwMjhhNzgxOWNjZThlYzdjZGExMmIxNjBk`

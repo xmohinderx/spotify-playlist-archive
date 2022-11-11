@@ -4,7 +4,7 @@
 
 > Above the city of Los Angeles, here are a few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.
 
-69 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/3Rtd8cSKHPhlLrvluCR6Gh)
+72 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/3Rtd8cSKHPhlLrvluCR6Gh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 | 2019-12-05 |  |
 | [California](https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 3:50 | 2019-12-05 |  |
 | [California Dreamin'](https://open.spotify.com/track/4An0hbjs1THl9cQprYrN6G) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [All The Leaves Are Brown The Golden Era Collection](https://open.spotify.com/album/4uGjyKjByyT2rnTkUXqQgK) | 2:40 | 2019-12-05 | 2022-07-29 |
-| [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 | 2019-12-05 |  |
+| [California Dreamin' \- Single Version](https://open.spotify.com/track/5Ic5sCfnqBwazsdRpvihju) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [Road Trip Hits](https://open.spotify.com/album/4INtVvtW2OSy4FsYislcw3) | 2:39 | 2019-12-05 |  |
+| [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 | 2019-12-05 | 2022-11-11 |
 | [Carmelita](https://open.spotify.com/track/7hIdRDgUBPbqiQ7duhCyux) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Warren Zevon](https://open.spotify.com/album/5wY8fZoi9eFh3WMjLcHFps) | 3:34 | 2019-12-05 |  |
 | [Crayon Angels](https://open.spotify.com/track/7iKnwGAMdY6LYLILGnsGhT) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Judee Sill](https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf) | 2:45 | 2019-12-05 |  |
 | [Desperados Under the Eaves](https://open.spotify.com/track/6PAGJfVrbxdIhIJmbsDLim) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Warren Zevon](https://open.spotify.com/album/5wY8fZoi9eFh3WMjLcHFps) | 4:47 | 2019-12-05 |  |
@@ -55,14 +56,16 @@
 | [No Other](https://open.spotify.com/track/6gzhmgjSvFuwTLc6XyRv2Q) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 5:08 | 2019-12-05 |  |
 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 | 2019-12-05 |  |
 | [Out on the Weekend \- 2009 Remaster](https://open.spotify.com/track/7DqktFsRwJa0XDFPMjV1xJ) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 4:31 | 2019-12-05 |  |
-| [Peaches En Regalia](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 3:38 | 2019-12-05 |  |
+| [Peaches En Regalia](https://open.spotify.com/track/2OHgHf7E58OPmRk1vtvqSW) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Autumn Jazz](https://open.spotify.com/album/6ueI6AlonRqr37d90fwYss) | 3:38 | 2019-12-05 |  |
+| [Peaches En Regalia](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 3:38 | 2019-12-05 | 2022-11-11 |
 | [Peaches En Regalia](https://open.spotify.com/track/6pgg1PiWcNaBPQt1iiEVrQ) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0HAdB95fMVAojYTtQ74JDc) | 3:38 | 2019-12-05 | 2022-07-29 |
 | [Questions](https://open.spotify.com/track/7w1OJlqxiRxnC4ct8yNN1n) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Last Time Around](https://open.spotify.com/album/00MudAJNGTxCUkQrtRz2hY) | 2:57 | 2019-12-05 |  |
 | [She](https://open.spotify.com/track/33gpH6M10smcgSDUYescVD) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Best of The Monkees](https://open.spotify.com/album/338yWfNJWW2SXxVfIdczUD) | 2:37 | 2019-12-05 |  |
 | [She \- 2002 Remaster](https://open.spotify.com/track/7DK9shWJm361lm1ks32axt) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [GP](https://open.spotify.com/album/1PtpuplCBaViRQsJFAdWRf) | 5:01 | 2019-12-05 |  |
 | [So Far Away](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:55 | 2019-12-05 |  |
+| [Sweet Baby James](https://open.spotify.com/track/0prWSuAoWYurPMH6v0SAJe) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Summer BBQ](https://open.spotify.com/album/4dPMpSyZfWwCvCQaJyrZpj) | 2:51 | 2019-12-05 |  |
 | [Sweet Baby James](https://open.spotify.com/track/47cdhtxTfp7WvUbDpDeYa2) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 2:51 | 2019-12-05 | 2022-07-29 |
-| [Sweet Baby James \- 2019 Remaster](https://open.spotify.com/track/17PXXzOygMyXXUNLngVN5u) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 2:53 | 2019-12-05 |  |
+| [Sweet Baby James \- 2019 Remaster](https://open.spotify.com/track/17PXXzOygMyXXUNLngVN5u) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 2:53 | 2019-12-05 | 2022-11-11 |
 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 | 2019-12-05 |  |
 | [The Bells of Rhymney](https://open.spotify.com/track/1mpv6hIbfG75txI9zJGcf4) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Mr\. Tambourine Man](https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa) | 3:30 | 2019-12-05 |  |
 | [The Door Into Summer \- 2007 Remastered Version](https://open.spotify.com/track/2gzY74wkSgo1ts1IZbjxfT) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Pisces, Aquarius, Capricorn & Jones Ltd\. \(Deluxe Edition\)](https://open.spotify.com/album/0hYCs5ttzuQcu86VPCEsXF) | 2:50 | 2019-12-05 |  |

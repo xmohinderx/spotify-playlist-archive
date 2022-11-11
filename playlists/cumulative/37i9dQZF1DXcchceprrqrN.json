@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Endure",
+        "url": "https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9"
+      },
+      "artists": [
+        {
+          "name": "Special Interest",
+          "url": "https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203454,
+      "name": "Cherry Blue Intention",
+      "url": "https://open.spotify.com/track/2JrozyGS7r75L39rt3xoGx"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG"
       },
@@ -365,10 +383,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 267491,
       "name": "flutter",
       "url": "https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp"
+    },
+    {
+      "album": {
+        "name": "God Is a Circle",
+        "url": "https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "God Is a Circle",
+      "url": "https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx"
     },
     {
       "album": {
@@ -419,7 +455,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 200493,
       "name": "Hey Heartbreaker",
       "url": "https://open.spotify.com/track/5rHOYjTsgZSt4FTIkVtcVc"

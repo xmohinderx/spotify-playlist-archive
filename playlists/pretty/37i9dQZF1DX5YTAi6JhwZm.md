@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,890 likes - 107 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,991 likes - 107 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,11 +80,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 70 | [The Critic's Choice](https://open.spotify.com/track/67cJY01l5qsL6ckW0OgyHK) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Daniel Moore](https://open.spotify.com/artist/7ePbCvgnCDpz0SfaQHV8Bq) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 2:19 |
 | 71 | [I Got Rhythm](https://open.spotify.com/track/3p4C7vCwkqOD3bSlh96pls) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [The Hard Swing](https://open.spotify.com/album/5ppHHedKagWqeeg5O70CIz) | 3:07 |
 | 72 | [I'll Close My Eyes](https://open.spotify.com/track/76oiXjka5OXZJ4eqSQIDfY) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Blue's Moods](https://open.spotify.com/album/0GwJHqjwlCjcdIXeV7yELw) | 5:53 |
-| 73 | [Crazy Rhythm](https://open.spotify.com/track/5uubONzRpbCDvVK8q5WhTI) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:24 |
+| 73 | [Crazy Rhythm](https://open.spotify.com/track/0OwK9PZq50pOHW5Lm0A0Fx) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Concentration Music: Jazz](https://open.spotify.com/album/5XFrkw8RTzFpiWM5LynHtx) | 3:24 |
 | 74 | [Around the World](https://open.spotify.com/track/72dRQ0TXjgpKfSL5MXYXnj) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Around the World](https://open.spotify.com/album/5aAAWjKyIFCxAgU43bdgXP) | 7:49 |
 | 75 | [Dardanella](https://open.spotify.com/track/0QTq57fazdnHads8lz3G9G) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Future Stride](https://open.spotify.com/album/6nGurFCYFgfbZvyA7MB3sk) | 5:24 |
 | 76 | [Metamorphosis \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/6dNNF5G1fQOYbFlHXIqWtI) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 7:18 |
-| 77 | [Limehouse Blues](https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 4:40 |
+| 77 | [Limehouse Blues](https://open.spotify.com/track/0IjM1kO4TWfnZwUmbGSMsx) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley's Finest Hour](https://open.spotify.com/album/5A2yEKeGLhotbTCpugMIEq) | 4:39 |
 | 78 | [Stolen Sweets](https://open.spotify.com/track/377ALnPexo1VGmD8dqHRXl) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Comin' Your Way](https://open.spotify.com/album/18C4w4Di2mjHHYTDQyuwUX) | 6:12 |
 | 79 | [Newark News](https://open.spotify.com/track/1TGyRyiXEM1X6kwbr16xtW) | [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc) | [What Comes Next](https://open.spotify.com/album/2yen9cLjtZ8gNhADXYn8kP) | 5:08 |
 | 80 | [K.D.'s Motion \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/6CuppdxxPFj7v81NCHfaJa) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Afro\-Cuban \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ) | 5:28 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 91 | [Amanecer Contigo](https://open.spotify.com/track/2MYRUIraCra1ZrIqQRL8GY) | [Dafnis Prieto Sextet](https://open.spotify.com/artist/1IxYKYyHFmwGIqdI0zkcze) | [Amanecer Contigo](https://open.spotify.com/album/4L3hp7B19QX8YGFjcxBwqJ) | 6:21 |
 | 92 | [Two Bass Hit](https://open.spotify.com/track/1BunZU5dA3yusmUd6iqUhc) | [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Philly Joe's Beat](https://open.spotify.com/album/26rdHCTEMoSaRg1XD3HxCk) | 4:35 |
 | 93 | [Anything Goes](https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 3:39 |
-| 94 | [Four Brothers](https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 2:58 |
-| 95 | [Au Privave](https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Sonny Stitt Sits In With The Oscar Peterson Trio](https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu) | 3:59 |
+| 94 | [Four Brothers](https://open.spotify.com/track/1EXbbgXrb2zK4dwXaejFr6) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [On Contemporary: Art Pepper](https://open.spotify.com/album/5BPXepXoJpfXD3gzrUgQOt) | 3:00 |
+| 95 | [Au Privave](https://open.spotify.com/track/1751FZhDYecAN3xLPXL4BP) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Jazz Dinner](https://open.spotify.com/album/5f0Nbo8Ih7cOFR15fnprEK) | 3:59 |
 | 96 | [Wonder Why](https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs) | [Lafayette Harris, Jr.](https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT) | [You Can't Lose with the Blues](https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl) | 5:15 |
 | 97 | [Tenor madness](https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Swiss Nights, Vol\. 3](https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4) | 12:42 |
 | 98 | [Trouble Maker](https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Trouble Maker](https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS) | 6:47 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 106 | [Jakob’s Happy Song](https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW) | [Simon Westman Trio](https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw) | [Stay a While](https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE) | 5:32 |
 | 107 | [The People In Nassau](https://open.spotify.com/track/1x217IcZCRrvizzbwgPg6H) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Heads Up!](https://open.spotify.com/album/3pWwmaoyEy42Oac3pW3IPC) | 5:39 |
 
-Snapshot ID: `MTY2Nzk4NjM5MCwwMDAwMDAwMGNmMjg2MmFlZmU2MDI3MjRjZGE2NjQ2OWFhYjlmM2Ew`
+Snapshot ID: `MTY2Nzk4NjM5MCwwMDAwMDAwMDdmNjMzMjNlNTRiNGIxMzgzMmY4ODQ5M2U0MjI1MzRi`

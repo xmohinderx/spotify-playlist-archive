@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Public Enemies",
+        "url": "https://open.spotify.com/album/18mKMUsbUkKySqQszMzi0T"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170106,
+      "name": "Am I Blue?",
+      "url": "https://open.spotify.com/track/67xFDu53IPyGYV7qRANtEB"
+    },
+    {
+      "album": {
         "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
         "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
@@ -135,7 +153,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 164826,
       "name": "Am I Blue? - Take 2",
       "url": "https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX"
@@ -697,6 +715,28 @@
     {
       "album": {
         "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/3ZLZm4HdGvAtJ1DdNFylqi"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        },
+        {
+          "name": "The Three Sounds",
+          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324106,
+      "name": "Gee Baby, Ain't I Good to You",
+      "url": "https://open.spotify.com/track/0fIczzw8byT5OEd2Yg7ed1"
+    },
+    {
+      "album": {
+        "name": "Blue Hour",
         "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
       },
       "artists": [
@@ -725,7 +765,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 324106,
       "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
       "url": "https://open.spotify.com/track/5VT0WgAxTEPowUywwuObwZ"
@@ -1544,6 +1584,32 @@
     },
     {
       "album": {
+        "name": "Les 50 Tr\u00e9sors du Jazz",
+        "url": "https://open.spotify.com/album/6lbgEcXd2OptvyIybLU8dt"
+      },
+      "artists": [
+        {
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        },
+        {
+          "name": "E.Y. Harbourg",
+          "url": "https://open.spotify.com/artist/19erDSohWWEd8UnIK8MsHc"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/2b2lG9SCigi2yG6mhemwXd"
+    },
+    {
+      "album": {
         "name": "Swingin' Easy",
         "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
@@ -1847,7 +1913,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 151373,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/6TMoKdGcSIHjLfyzINFB5X"
@@ -2003,10 +2069,32 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204333,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/07l1kkIQkfNlCmVwMC4GD0"
+    },
+    {
+      "album": {
+        "name": "The Complete Lester Young Studio Sessions On Verve",
+        "url": "https://open.spotify.com/album/5uD7yoQZensEeRQow76SeW"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "These Foolish Things",
+      "url": "https://open.spotify.com/track/3FaczqNKZUq0dy4FC0QdEs"
     },
     {
       "album": {
@@ -2490,6 +2578,28 @@
     },
     {
       "album": {
+        "name": "Spotlight on Louis Armstrong",
+        "url": "https://open.spotify.com/album/6mmTCXQNKyhkOx7mTPzsaQ"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385533,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/4t1Awn1O7SRlSYOf7ZEWRW"
+    },
+    {
+      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson",
         "url": "https://open.spotify.com/album/6EX3QQ06sp8JgyJudZyLow"
       },
@@ -2527,7 +2637,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 385706,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"

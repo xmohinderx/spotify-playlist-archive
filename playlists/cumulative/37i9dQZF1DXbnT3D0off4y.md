@@ -4,7 +4,7 @@
 
 > The official Ozark playlist with all the music from Season 4.
 
-37 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/5U25p66mg1TN4sZewAZ6iz)
+38 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/5U25p66mg1TN4sZewAZ6iz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 | 2022-04-29 |  |
 | [Bring It On Home to Me](https://open.spotify.com/track/5EoYc5wvRYOtkudLfrjsL1) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:44 | 2022-04-29 |  |
 | [Brother](https://open.spotify.com/track/6p0FKwX4Hpx3DsVcb8OsNt) | [Romany Rye](https://open.spotify.com/artist/6gWHnfRFZNcAjbygp7WD0k) | [Highway 1, Looking Back Carefully](https://open.spotify.com/album/4FvRN6nbbFD2jaMEThlXGA) | 4:36 | 2022-04-29 |  |
-| [Ca Plane Pour Moi](https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq) | 3:02 | 2022-04-29 |  |
+| [CA Plane Pour Moi](https://open.spotify.com/track/1z9FAvswI7gpzjUL0JAKJY) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Winning London \(Music From the Mary\-Kate & Ashely Olsen Movie\)](https://open.spotify.com/album/0yHbKnfhOEUT0FoDJQGtzy) | 2:58 | 2022-04-29 |  |
+| [Ca Plane Pour Moi](https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq) | 3:02 | 2022-04-29 | 2022-11-11 |
 | [Ca plane pour moi](https://open.spotify.com/track/71yCMlsD6qbD7NmNUEoVNR) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1wLw41yiDGcZowrw3L3Bkd) | 3:02 | 2022-04-29 | 2022-11-05 |
 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 | 2022-04-29 |  |
 | [Can It Be All so Simple](https://open.spotify.com/track/6OCYTygzbVwil2UFkREQiD) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [The Essential Wu\-Tang Clan](https://open.spotify.com/album/0qtA1fEpJAvz8xGqUESxHU) | 4:11 | 2022-04-29 |  |

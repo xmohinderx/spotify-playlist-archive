@@ -2198,6 +2198,24 @@
     },
     {
       "album": {
+        "name": "Side B",
+        "url": "https://open.spotify.com/album/3QdmdNXgpy0GScerOTwvkg"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252973,
+      "name": "Mesmerised",
+      "url": "https://open.spotify.com/track/4lMtKkkqdMCYDxas6mhIiT"
+    },
+    {
+      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -2209,7 +2227,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 252973,
       "name": "Mesmerised",
       "url": "https://open.spotify.com/track/7qfnAR8gVQZG1cSsRIoKnG"
@@ -3593,10 +3611,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 198437,
       "name": "Summer Blues",
       "url": "https://open.spotify.com/track/65rtflKWXabjsB9ekBbsgZ"
+    },
+    {
+      "album": {
+        "name": "Summer Blues",
+        "url": "https://open.spotify.com/album/1G4CR3KeyYRrD16cWpXJF7"
+      },
+      "artists": [
+        {
+          "name": "Martha Da'ro",
+          "url": "https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198437,
+      "name": "Summer Blues",
+      "url": "https://open.spotify.com/track/71mrqChmbDeuUARpuT3SdV"
     },
     {
       "album": {
@@ -4035,10 +4071,36 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 225800,
       "name": "Waterfall - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6MnmCvMN8VXzCC39Bgw0Gk"
+    },
+    {
+      "album": {
+        "name": "Waterfall (TOKiMONSTA Remix)",
+        "url": "https://open.spotify.com/album/7K06SCEOBuR8u4WDKPbuHh"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "Waterfall - TOKiMONSTA Remix",
+      "url": "https://open.spotify.com/track/6NfofBHFZZjxXsPVPIXCYx"
     },
     {
       "album": {

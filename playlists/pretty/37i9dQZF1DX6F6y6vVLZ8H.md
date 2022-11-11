@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,972 likes - 53 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,017 likes - 53 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 14 | [Police Truck](https://open.spotify.com/track/6M4yg3BknyHmRnsvlkuHD5) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 2:24 |
 | 15 | [Duck Eat Duck World](https://open.spotify.com/track/0VuJkzId5KlafuZTN38P4B) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 2:10 |
 | 16 | [Cyclone](https://open.spotify.com/track/2qQieiApQ1TkvkZGLkbCH0) | [Dub Pistols](https://open.spotify.com/artist/4LYX3rRdXV2l99wR5YPFoK) | [Point Blank](https://open.spotify.com/album/4IMpWiEUoJKedGQ21Nmmq4) | 3:34 |
-| 17 | [IN\-TO\-IT](https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising \(Pt\. 1\)](https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN) | 3:15 |
+| 17 | [IN\-TO\-IT](https://open.spotify.com/track/7xa2A6epfgi9NTABAGOQhi) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [IN\-TO\-IT](https://open.spotify.com/album/0YmdhKq9b7REkzdQq6LPan) | 3:16 |
 | 18 | [Here and Now](https://open.spotify.com/track/5lsMyHFs19kw0jYNP0MNKK) | [The Ernies](https://open.spotify.com/artist/1kNq8yT2S4lD5jetHxcyug) | [Meson Ray](https://open.spotify.com/album/2JHRbAV8L0f6P6cbZItoI2) | 3:30 |
 | 19 | [Vilified](https://open.spotify.com/track/1zlxmKxBTo0vZebDNl3WWs) | [Even Rude](https://open.spotify.com/artist/5b6NZkhncbICzEVWlQVzqq) | [Superabsorbent](https://open.spotify.com/album/1bPRVSF2bCP7Tpakdp7u2T) | 3:30 |
 | 20 | [West Coast](https://open.spotify.com/track/41hKOXSa1WMSpdQgsgK0fc) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/0qI8J5xjJcdBG52FASB3RC) | 3:22 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 23 | [Sedona](https://open.spotify.com/track/3oQMwKCFTi3wKi9VANfTbE) | [JunkBunny](https://open.spotify.com/artist/2UdPcvUuTpvrq7flh94PaE) | [Junk Rock](https://open.spotify.com/album/1uxlk6rLTGtccpbOyv6h6J) | 3:09 |
 | 24 | [May 16](https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Let's Talk About Feelings](https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz) | 2:56 |
 | 25 | [Bomb Drop](https://open.spotify.com/track/1U9DTcVgCPu7GEZXMeQ4Uu) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Sound the Alarm](https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61) | 3:06 |
-| 26 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 |
+| 26 | [bloody valentine](https://open.spotify.com/track/6wQhDvk2AX6bg6Om9DDDEO) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Rock Gym Workout](https://open.spotify.com/album/3GviLEhdfqHM3qjMl3Th7F) | 3:25 |
 | 27 | [Bass \(feat\. Tech N9ne & Hopsin\)](https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Special Occasion](https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp) | 3:53 |
 | 28 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
 | 29 | [Let's Ride](https://open.spotify.com/track/7fZBLUmhCMvIWQbigBPpOo) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Let's Ride](https://open.spotify.com/album/2m1guXMoPRTLjxzOhiJ765) | 3:24 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 40 | [Run It up Pt\. II](https://open.spotify.com/track/16oNPQ2sVbzZyAscp4SFHD) | [Spilt Milk](https://open.spotify.com/artist/5a4YbQRezrArmu3VxdMGao), [Relaye](https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya) | [Run It up Pt\. II](https://open.spotify.com/album/723LwYSgRF5wC9niD819eF) | 2:34 |
 | 41 | [Firecracker](https://open.spotify.com/track/7cJvf5ZrfXDTcYHq1iXuRW) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Suburban Teenage Wasteland Blues \(Reissue\)](https://open.spotify.com/album/76f9KTJVuMIpYRv2hsW8R0) | 2:54 |
 | 42 | [Subculture](https://open.spotify.com/track/2C4GLr8jLEpHun7tIrBtaS) | [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX), [DJ Cheapshot](https://open.spotify.com/artist/55sQ5EIwjKLQx4WKJT2Xia), [Ryu](https://open.spotify.com/artist/7DdVoBdO8siOFROHpk56s3), [Leon Rockmore](https://open.spotify.com/artist/0cFOfuSKwo5BuElfJfp147) | [Subculture B/W Windows](https://open.spotify.com/album/6TSIzPIcgwHnjHAz4H48W9) | 3:47 |
-| 43 | [Same In The End](https://open.spotify.com/track/3kGt9uxpJzKTxwp2uJHrU5) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:36 |
+| 43 | [Same In The End](https://open.spotify.com/track/4vu0dC8JfMv07g0lZ9Yxh4) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime \(10th Anniversary Edition / Deluxe Edition\)](https://open.spotify.com/album/4kq4T5cWLlP8NJkMA3S6AN) | 2:36 |
 | 44 | [Cyco Vision](https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Freedumb](https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C) | 1:49 |
 | 45 | [New Girl](https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 2:03 |
 | 46 | [Like This](https://open.spotify.com/track/5wKdgps461nDhzUvU6qNmf) | [Super Best Frens Club](https://open.spotify.com/artist/0ozGbOEjps1hYGadCD1brV) | [Like This](https://open.spotify.com/album/1CHzcqISZAkAht1GLXBZ9W) | 2:10 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 52 | [Slow Learner](https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:11 |
 | 53 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 |
 
-Snapshot ID: `MTY2MDY2OTM0NSwwMDAwMDAwMGZkZjFhY2E0YzhiZGFjZTE3NGM2MGYzZGM1MjJiNGNl`
+Snapshot ID: `MTY2MDY2OTM0NSwwMDAwMDAwMDc3MTFlMDJlN2Q5MDYxZTgwYmMwMjdjNmYyMmY1YTU2`

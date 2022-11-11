@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 534620,
+  "num_followers": 534847,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MjQ1NCwwMDAwMDAwMGUyMmE0YmFkNTk4Y2ZjNWZmNTU1ZWVmNTNjZjg0OGEz",
+  "snapshot_id": "MTY2Njk2MjQ1NCwwMDAwMDAwMDIyMzM5MWMyZjE1NjljZmNiZThlNmIwY2IxMzcxNjgz",
   "tracks": [
     {
       "added_at": "2022-10-28 13:07:34",
@@ -107,6 +107,26 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
+        "name": "Kaleidoscope Colours",
+        "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Maybemahri",
+          "url": "https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "Kaleidoscope Colours",
+      "url": "https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
         "name": "Les Gout",
         "url": "https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 317003,
       "name": "La Perla - Tourist Remix",
       "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
-        "name": "Kaleidoscope Colours",
-        "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Maybemahri",
-          "url": "https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "Kaleidoscope Colours",
-      "url": "https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -571,38 +571,6 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5"
-      },
-      "artists": [
-        {
-          "name": "Sintra",
-          "url": "https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 373487,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/43wAEql15k2lLyDC568uTE"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
         "name": "BRONSON Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
       },
@@ -631,6 +599,38 @@
       "duration_ms": 307889,
       "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Hayden James Remix",
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5"
+      },
+      "artists": [
+        {
+          "name": "Sintra",
+          "url": "https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 373487,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/43wAEql15k2lLyDC568uTE"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -723,6 +723,30 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
+        "name": "Voices Above",
+        "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Malone",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        },
+        {
+          "name": "Archila",
+          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
+        }
+      ],
+      "duration_ms": 190942,
+      "name": "Voices Above",
+      "url": "https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
         "name": "Lay It All On Me",
         "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
       },
@@ -779,30 +803,6 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Voices Above",
-        "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Malone",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        },
-        {
-          "name": "Archila",
-          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
-        }
-      ],
-      "duration_ms": 190942,
-      "name": "Voices Above",
-      "url": "https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
         "name": "Petit Matin",
         "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
       },
@@ -835,22 +835,18 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
       },
       "artists": [
         {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
         }
       ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
+      "duration_ms": 479075,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -867,6 +863,26 @@
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -891,22 +907,6 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        }
-      ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
         "name": "Future Disco: Poolside Sounds Vol. 10",
         "url": "https://open.spotify.com/album/7cwwAxGBAmVPItcXgBu8b6"
       },
@@ -919,6 +919,30 @@
       "duration_ms": 228187,
       "name": "All That Glitters",
       "url": "https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
+        "name": "Noso",
+        "url": "https://open.spotify.com/album/3dlsgQpKfWqdYBAKUvm70Y"
+      },
+      "artists": [
+        {
+          "name": "Edu Imbernon",
+          "url": "https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088"
+        },
+        {
+          "name": "Nico Casal",
+          "url": "https://open.spotify.com/artist/2kSXdqONuui7oIahM6f6W7"
+        },
+        {
+          "name": "Solomon Grey",
+          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
+        }
+      ],
+      "duration_ms": 443189,
+      "name": "Noso",
+      "url": "https://open.spotify.com/track/5zstGbYLZtqURQGakwa3gZ"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -987,46 +1011,6 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Noso",
-        "url": "https://open.spotify.com/album/3dlsgQpKfWqdYBAKUvm70Y"
-      },
-      "artists": [
-        {
-          "name": "Edu Imbernon",
-          "url": "https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088"
-        },
-        {
-          "name": "Nico Casal",
-          "url": "https://open.spotify.com/artist/2kSXdqONuui7oIahM6f6W7"
-        },
-        {
-          "name": "Solomon Grey",
-          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
-        }
-      ],
-      "duration_ms": 443189,
-      "name": "Noso",
-      "url": "https://open.spotify.com/track/5zstGbYLZtqURQGakwa3gZ"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
         "name": "Sint Maarten",
         "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
+        "name": "Lunaire",
+        "url": "https://open.spotify.com/album/1o5rn6aA1xYmeH1iycw4gN"
+      },
+      "artists": [
+        {
+          "name": "Effemar",
+          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
+        }
+      ],
+      "duration_ms": 214591,
+      "name": "Lunaire",
+      "url": "https://open.spotify.com/track/72nMF220X1qe9OBskVHD71"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
         "name": "St Claire",
         "url": "https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q"
       },
@@ -1063,18 +1063,34 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Lunaire",
-        "url": "https://open.spotify.com/album/1o5rn6aA1xYmeH1iycw4gN"
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz"
       },
       "artists": [
         {
-          "name": "Effemar",
-          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
         }
       ],
-      "duration_ms": 214591,
-      "name": "Lunaire",
-      "url": "https://open.spotify.com/track/72nMF220X1qe9OBskVHD71"
+      "duration_ms": 420272,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/1jtwpsdVEAxcHMuTDkmsla"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
+        "name": "NOSTALGIA*",
+        "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "NOSTALGIA*",
+      "url": "https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -1099,54 +1115,6 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "NOSTALGIA*",
-        "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
-      },
-      "artists": [
-        {
-          "name": "MATVE\u00cf",
-          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "NOSTALGIA*",
-      "url": "https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 420272,
-      "name": "Ceremony",
-      "url": "https://open.spotify.com/track/1jtwpsdVEAxcHMuTDkmsla"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
-      },
-      "artists": [
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
         "name": "Stars Wrapped In Skin EP",
         "url": "https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr"
       },
@@ -1163,6 +1131,22 @@
       "duration_ms": 387887,
       "name": "Neverland - Aparde Remix",
       "url": "https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -1187,18 +1171,22 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Donde Chile",
-        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
+        "name": "What U Doing",
+        "url": "https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV"
       },
       "artists": [
         {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
         }
       ],
-      "duration_ms": 434406,
-      "name": "Pura Vida",
-      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
+      "duration_ms": 229523,
+      "name": "What U Doing",
+      "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -1219,26 +1207,6 @@
       "duration_ms": 275369,
       "name": "Collide",
       "url": "https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
-        "name": "What U Doing",
-        "url": "https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 229523,
-      "name": "What U Doing",
-      "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -1335,6 +1303,22 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
+        "name": "Studio A Pt.1",
+        "url": "https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO"
+      },
+      "artists": [
+        {
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+        }
+      ],
+      "duration_ms": 367578,
+      "name": "Basic Juno",
+      "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j"
       },
@@ -1351,22 +1335,6 @@
       "duration_ms": 219440,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
-        "name": "Studio A Pt.1",
-        "url": "https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO"
-      },
-      "artists": [
-        {
-          "name": "Ian Pooley",
-          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
-        }
-      ],
-      "duration_ms": 367578,
-      "name": "Basic Juno",
-      "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -1507,6 +1475,22 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
+        "name": "Camaleon",
+        "url": "https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        }
+      ],
+      "duration_ms": 359211,
+      "name": "Camaleon",
+      "url": "https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
         "name": "Feels Good",
         "url": "https://open.spotify.com/album/0nDWkPeHxo5aW66dbNm1PF"
       },
@@ -1523,6 +1507,26 @@
       "duration_ms": 281891,
       "name": "Feels Good",
       "url": "https://open.spotify.com/track/2WYgu5SgxDS4F6LwLssMZt"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
+        "name": "Diving Into Minds",
+        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
+      },
+      "artists": [
+        {
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        },
+        {
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+        }
+      ],
+      "duration_ms": 387302,
+      "name": "Diving Into Minds - Club Mix",
+      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
     }
   ],
   "unique_name": "Deep House Blend",

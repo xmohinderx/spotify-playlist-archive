@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "A Villain's Monologue",
       "url": "https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 234922,
       "name": "Ella",
       "url": "https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV"
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 211045,
       "name": "Entertain You",
       "url": "https://open.spotify.com/track/2yiDAvEEqGrkKZpNYCJ5Wm"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 161318,
       "name": "FAIRY METAL",
       "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
@@ -1833,7 +1833,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 193499,
       "name": "I Disagree",
       "url": "https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ"
@@ -2677,7 +2677,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 216520,
       "name": "One Second",
       "url": "https://open.spotify.com/track/6gsgFHFxZTUL6W9j1sGeUD"
@@ -2881,7 +2881,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 229327,
       "name": "Radium Girls",
       "url": "https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v"
@@ -3169,7 +3169,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 219280,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/39sAePHCDbaZlpLow8lRp4"
@@ -3909,7 +3909,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 207445,
       "name": "The Steeple",
       "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
@@ -4133,6 +4133,24 @@
       "duration_ms": 302416,
       "name": "Vakuum",
       "url": "https://open.spotify.com/track/36nwwsQJZbfRFZNCbqn4qH"
+    },
+    {
+      "album": {
+        "name": "Feberdr\u00f6m",
+        "url": "https://open.spotify.com/album/0Yqdj3KUlv24X7PIK0RV5w"
+      },
+      "artists": [
+        {
+          "name": "GAUPA",
+          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302416,
+      "name": "Vakuum",
+      "url": "https://open.spotify.com/track/57nUabDrFFazqfafSr5UzF"
     },
     {
       "album": {

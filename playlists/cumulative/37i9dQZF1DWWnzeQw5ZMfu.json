@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 441666,
       "name": "Crazy - Live",
       "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 254341,
       "name": "Footloose - Live at John F. Kennedy Stadium, 13th July 1985",
       "url": "https://open.spotify.com/track/1wM7Y8fdOTJD9ZaHHfi1MS"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 202833,
       "name": "Hurts So Good - Live From The Studio",
       "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
@@ -3037,6 +3037,24 @@
       "duration_ms": 246146,
       "name": "The Lady In Red - Live",
       "url": "https://open.spotify.com/track/107TF9ikYY7Cnpm4FQ5v0k"
+    },
+    {
+      "album": {
+        "name": "Live in Dortmund",
+        "url": "https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246146,
+      "name": "The Lady In Red - Live",
+      "url": "https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp"
     },
     {
       "album": {

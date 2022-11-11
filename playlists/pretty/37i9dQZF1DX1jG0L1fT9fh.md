@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 
 > Enjoy music from "KENGAN ASHURA"! "音楽で辿る、Netflixオリジナルアニメシリーズ「ケンガンアシュラ」の世界。
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,501 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,522 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sorrow Like Lightning / Ai\-shiden\-issen](https://open.spotify.com/track/6je3xFNqYLYLUp12JX8b8o) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Omedetai Atama de Naniyori 2](https://open.spotify.com/album/6TmQRe8HMrOoGatMBLP3Tf) | 3:11 |
+| 1 | [Sorrow Like Lightning / Ai\-shiden\-issen](https://open.spotify.com/track/5UnQWHa6w10et1huDEtoII) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Aishidenissen](https://open.spotify.com/album/4kv18tu0MEWXpzIz5WDmQO) | 3:14 |
 | 2 | [Ashura](https://open.spotify.com/track/3s0gzo5HXzWsNWIZehFEGP) | [TAEYO](https://open.spotify.com/artist/2nZaGgjgDDlxleFV47azlV) | [Ashura](https://open.spotify.com/album/2t9jICyK70zMX3ESeb2X1C) | 2:24 |
 | 3 | [King & Ashley](https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [King & Ashley](https://open.spotify.com/album/31usMFo80loZLgeHF7yljO) | 3:23 |
-| 4 | [Born This Way](https://open.spotify.com/track/58d9FID3lkY1DhHuQ71Vsf) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [Born This Way](https://open.spotify.com/album/0cYPt4ip9CIeeg6e3v3Yzp) | 2:47 |
+| 4 | [Born This Way](https://open.spotify.com/track/7nTUrBZ75T323NFQUIAUjC) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Yzer](https://open.spotify.com/artist/6ddEkqVqLpfgQwaGQGMXCQ), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Bark](https://open.spotify.com/artist/2Bcv6wxg5utKznPPCiOxvm) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 2:47 |
 | 5 | [Kengan](https://open.spotify.com/track/6TAg3R8ku21TdzZxjzxcBM) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 1:58 |
 | 6 | [Gekitotsu](https://open.spotify.com/track/1a3zRVtzkUWPv2BydOJD6D) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 2:13 |
 | 7 | [Kyouteki](https://open.spotify.com/track/5gVXEEc2duUZGurJdWmFh6) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 2:01 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 | 39 | [Shitou](https://open.spotify.com/track/0KAdaH8W42wWW0WE8uE8Lh) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 2:32 |
 | 40 | [Eccentric Parade](https://open.spotify.com/track/0neSATRBSylvwnttpqxUwK) | [Akinari Suzuki](https://open.spotify.com/artist/6BZSloar9skDGo2lVsveeC) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 3:37 |
 
-Snapshot ID: `MTYyMjAwOTc2MSwwMDAwMDAwMDIyOWMzYTU1MzIwN2ExMmM5ZTg0MDMwZTdiMTdkYjgz`
+Snapshot ID: `MTYyMjAwOTc2MSwwMDAwMDAwMGRjNmQzNjYxZDU5MDUxM2JmOTMyZTA1NDUzNjM5OTI1`

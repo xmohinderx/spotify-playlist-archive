@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "My Valentine",
+        "url": "https://open.spotify.com/album/1MmyCf2RxFqsDY0X5UBLB4"
+      },
+      "artists": [
+        {
+          "name": "Ayushmann Khurrana",
+          "url": "https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240786,
+      "name": "Pani Da Rang Male (From \"Vicky Donor\")",
+      "url": "https://open.spotify.com/track/4diinDw5e8SKgscOqkcm7U"
+    },
+    {
+      "album": {
         "name": "Vicky Donor",
         "url": "https://open.spotify.com/album/2zJbSTXQKOlCUHw4Cnh6iB"
       },
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 240786,
       "name": "Pani Da Rang Male (From \"Vicky Donor\")",
       "url": "https://open.spotify.com/track/6eTPyEkYUmDUFvNxJdNuOD"

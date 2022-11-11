@@ -4,12 +4,13 @@
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-97 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/78EHvdOEXG9LXU2nIHnS9Q)
+100 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/78EHvdOEXG9LXU2nIHnS9Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16 Days](https://open.spotify.com/track/49FGDCURPhI4VGn3Y7bmLT) | [Whiskeytown](https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem) | [Strangers Almanac \[Deluxe Edition\]](https://open.spotify.com/album/1LdMwGDQsjsAXRrslK5TLX) | 3:54 | 2020-10-13 | 2022-07-29 |
-| [16 Days](https://open.spotify.com/track/3aFMz2anc9vurZw6bPunI6) | [Whiskeytown](https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem) | [Strangers Almanac](https://open.spotify.com/album/29gnqAHOpVJJL3h8wPrlMl) | 3:54 | 2020-10-13 |  |
+| [16 Days](https://open.spotify.com/track/3aFMz2anc9vurZw6bPunI6) | [Whiskeytown](https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem) | [Strangers Almanac](https://open.spotify.com/album/29gnqAHOpVJJL3h8wPrlMl) | 3:54 | 2020-10-13 | 2022-11-11 |
+| [16 Days](https://open.spotify.com/track/6zh48IKkVxVFJ0x4d4L8GK) | [Whiskeytown](https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem) | [Americana Rock](https://open.spotify.com/album/5A9mQFpDyzvEwnteUyKknt) | 3:54 | 2020-10-13 |  |
 | [7 & 7](https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:49 | 2020-10-13 |  |
 | [Always A Friend](https://open.spotify.com/track/7136gj6H3nc3ZIKmJmxKRT) | [Alejandro Escovedo](https://open.spotify.com/artist/1Cc79YAHP7xvQAVQSjveP6) | [Real Animal](https://open.spotify.com/album/5xIyoIpTJy9fhNNFHSNk9l) | 3:35 | 2020-10-13 | 2022-07-29 |
 | [Always A Friend](https://open.spotify.com/track/7jks9PIkGKjVTZI1M2Inyt) | [Alejandro Escovedo](https://open.spotify.com/artist/1Cc79YAHP7xvQAVQSjveP6) | [Real Animal](https://open.spotify.com/album/16j325rtPoZToR89ZjEwhK) | 3:35 | 2020-10-13 |  |
@@ -80,7 +81,8 @@
 | [Save It For A Rainy Day](https://open.spotify.com/track/6IZIEhCq9crPjl2jGUvELS) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Rainy Day Music](https://open.spotify.com/album/3vI8vpQDeh7NaNEY1AilPm) | 3:07 | 2020-10-13 |  |
 | [She Took A Lot Of Pills \(And Died\)](https://open.spotify.com/track/1lz3mp3MJmF910If1so02W) | [Robbie Fulks](https://open.spotify.com/artist/0l5iOYpiSkQFYR3uPNoMDe) | [Country Love Songs](https://open.spotify.com/album/7pPvsIGZU0LwQBhU6LVKII) | 2:43 | 2020-10-13 |  |
 | [Silence](https://open.spotify.com/track/0HglUzvGGNtNi7mCqjkW7S) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/2IsiRbh1i0Pkx2q6n3f6ci) | 4:07 | 2020-10-13 | 2022-07-29 |
-| [Silence](https://open.spotify.com/track/5g79xHG0De0dDHe1Hkum66) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/6P9VUVYvKNP7DULIJ5p7Ks) | 4:07 | 2020-10-13 |  |
+| [Silence](https://open.spotify.com/track/2GhrCXqIgvveXt07wFKvQ8) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/2GV6xnWl34jwrYLG0W3KDC) | 4:07 | 2020-10-13 |  |
+| [Silence](https://open.spotify.com/track/5g79xHG0De0dDHe1Hkum66) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/6P9VUVYvKNP7DULIJ5p7Ks) | 4:07 | 2020-10-13 | 2022-11-11 |
 | [Six O'Clock News](https://open.spotify.com/track/6sXAa3GAG0m9jvY6T8RCrq) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Failer](https://open.spotify.com/album/6ukGcvX7wdteMvzUyoTnrc) | 4:34 | 2020-10-13 | 2022-07-29 |
 | [Six O'Clock News](https://open.spotify.com/track/46zWnizX8Zny8ydVg04KVL) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Failer](https://open.spotify.com/album/3ZYobhZ7YRCG96p7P7BIek) | 4:36 | 2020-10-13 |  |
 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 | 2020-10-13 |  |
@@ -90,7 +92,8 @@
 | [The Asp and the Albatross](https://open.spotify.com/track/0yC5J6p9L0FEFgLtT3okwg) | [Freakwater](https://open.spotify.com/artist/6JjE9yVvCNV5EbUpvS7JcQ) | [Scheherazade](https://open.spotify.com/album/5hI8Yg8s5j7r4OAsohNIQ8) | 3:10 | 2020-10-13 | 2022-11-05 |
 | [The Asp and the Albatross](https://open.spotify.com/track/1ybxT91p0y92dHZZUW5CZm) | [Freakwater](https://open.spotify.com/artist/6JjE9yVvCNV5EbUpvS7JcQ) | [Scheherarade](https://open.spotify.com/album/5K2EDfhJXYzol3W17Jfasx) | 3:10 | 2020-10-13 |  |
 | [The Ballad of Bitter Honey](https://open.spotify.com/track/20yy7wGUByZptk1ww20KIC) | [Eef Barzelay](https://open.spotify.com/artist/1uRMuS0KuwZwFJSYgV0PaW) | [Bitter Honey \(redux\)](https://open.spotify.com/album/01Uenvl1WeGH8d7oPf0s7z) | 3:34 | 2020-10-13 |  |
-| [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/0mhsQSfSDq1x45qcC0jc80) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/11IsKz96KxcLAoCycv6LrT) | 3:00 | 2020-10-13 |  |
+| [The Battle](https://open.spotify.com/track/5spa4mGwzzcm3MiidE07ay) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [No Depression: What It Sounds Like Vol\. 2](https://open.spotify.com/album/5sUaB2pDqV7CVF9rMzXOZn) | 2:59 | 2020-10-13 |  |
+| [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/0mhsQSfSDq1x45qcC0jc80) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/11IsKz96KxcLAoCycv6LrT) | 3:00 | 2020-10-13 | 2022-11-11 |
 | [The Battle \(feat: Ryan Adams\)](https://open.spotify.com/track/2NuSgERr71Qf3SPDJchUIY) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk) | [Battle EP](https://open.spotify.com/album/4jRa95kGlrwPCxZAirwz8u) | 3:00 | 2020-10-13 | 2022-07-29 |
 | [The Dreaming Dead](https://open.spotify.com/track/7vnAgnnk9FW4gBy3W2gj3q) | [Jesse Sykes & The Sweet Hereafter](https://open.spotify.com/artist/02ojXsd1103Qc2uU5uhJHZ) | [Oh, My Girl](https://open.spotify.com/album/08024Yl9vqP9YR1Jf4OOrA) | 6:03 | 2020-10-13 |  |
 | [The El](https://open.spotify.com/track/6C0SXBkORzmP9elNb2gMcu) | [Rhett Miller](https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5) | [The Instigator](https://open.spotify.com/album/0Pup5rX8QvSNgSBLX7Vu69) | 3:09 | 2020-10-13 |  |

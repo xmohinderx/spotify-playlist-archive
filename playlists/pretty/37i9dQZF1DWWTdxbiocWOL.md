@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Aerial post\-rock sounds to take you somewhere else.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,134 likes - 50 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,378 likes - 50 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 25 | [Pat Stains](https://open.spotify.com/track/6AUEBEvvQcwptYx6AeAQ1s) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 6:55 |
 | 26 | [Threads](https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 5:39 |
 | 27 | [Above The Clouds Lies Eternal Sun](https://open.spotify.com/track/0WCvBujFldzGsAimcyjchH) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 3:53 |
-| 28 | [Logic of a Dream](https://open.spotify.com/track/1WQ96gvJgsd3CwxMPEUZYC) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Wilderness](https://open.spotify.com/album/1MUhDxkdqg5IyNYylLu7P8) | 6:37 |
+| 28 | [Logic of a Dream](https://open.spotify.com/track/0URVKq4PQMcU2zzvzZFyLU) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Logic of a Dream](https://open.spotify.com/album/2JW1tOY8auzODdapMMbxUO) | 6:37 |
 | 29 | [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 3:39 |
 | 30 | [Debutante](https://open.spotify.com/track/0jpggEnuQFHj3uJIthfCQS) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/1JorSz3YkTUuNMyLu18dUd) | 7:21 |
 | 31 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |
 | 32 | [Frozen Twilight](https://open.spotify.com/track/6yMlHBgwnIhrF2Qvnt2Yyn) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [A Moment of Stillness \(2011 Remastered Edition\)](https://open.spotify.com/album/1eVrXeDRsZQFM4DtSbUzKr) | 6:17 |
 | 33 | [In Illusions Of Order](https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g) | [Red Sparowes](https://open.spotify.com/artist/4MT9A89Dq8xRJ9hMvvPiJw) | [The Fear Is Excruciating, But Therein Lies The Answer](https://open.spotify.com/album/1mLisF7qgSwVDrQ4gklpcR) | 7:36 |
-| 34 | [Mogwai Fear Satan](https://open.spotify.com/track/5rVFrWKhJNe1iuGK0BPgTC) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team](https://open.spotify.com/album/0qXr1kAu0GXoFoa55MbrLK) | 16:19 |
+| 34 | [Mogwai Fear Satan](https://open.spotify.com/track/3v2JDIu7n8DJ83V2pCKyqu) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team \(Deluxe Edition\)](https://open.spotify.com/album/03Oli2dCjoYM5YS4f8R2pd) | 16:19 |
 | 35 | [Mlàdek](https://open.spotify.com/track/1begl8Bjbo8q1eVtr5XGOV) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Empros](https://open.spotify.com/album/2evkzWDPHn96GZ0In9GG1w) | 7:39 |
 | 36 | [Troglodyte](https://open.spotify.com/track/2eUvRQF5eZtSkwuz0NwzMZ) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/4mdYlF5OcDdolPcrEuG8T4) | 4:57 |
 | 37 | [Golden Hill](https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [Spine And Sensory \(Expanded And Remastered\)](https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 49 | [I'm Jim Morrison, I'm Dead](https://open.spotify.com/track/1fV2Bp9JpE1CavonususVW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [The Hawk Is Howling](https://open.spotify.com/album/6XfWE0VdiRbH9QWfyLibxW) | 6:44 |
 | 50 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 6:47 |
 
-Snapshot ID: `MTY2NDUyNzY3MSwwMDAwMDAwMGM0MTkwZjFhYzY4NjVkYTNlMDYxM2U3ZDUyNjVlMDBl`
+Snapshot ID: `MTY2NDUyNzY3MSwwMDAwMDAwMDg1YmRlZDZmZTMyNzY3YmMzNWFhZWU4ODljZTJjNGY2`

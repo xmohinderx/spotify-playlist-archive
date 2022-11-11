@@ -216,6 +216,28 @@
     },
     {
       "album": {
+        "name": "Viaje EDM",
+        "url": "https://open.spotify.com/album/5VpnQVaeuUNN9pNgRbr2LW"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "Catch & Release - Deepend Remix",
+      "url": "https://open.spotify.com/track/59nMM3eQPHxMEaACbN1Ur1"
+    },
+    {
+      "album": {
         "name": "When The Lights Go Down",
         "url": "https://open.spotify.com/album/58QMygeIUrtywKMkasnDUk"
       },
@@ -231,7 +253,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 195173,
       "name": "Catch & Release - Deepend Remix",
       "url": "https://open.spotify.com/track/11BAVEGi1ivJ6JWLqKUNrZ"
@@ -588,6 +610,28 @@
     },
     {
       "album": {
+        "name": "Chilled Dance Classics",
+        "url": "https://open.spotify.com/album/3GRRFmCreE0OfhK0VN3vkn"
+      },
+      "artists": [
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        },
+        {
+          "name": "Phoebe Killdeer",
+          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276600,
+      "name": "Fade Out Lines - The Avener Rework",
+      "url": "https://open.spotify.com/track/0kHEf6I4cKqCeuts7sMBwo"
+    },
+    {
+      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
       },
@@ -625,7 +669,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 276600,
       "name": "Fade Out Lines - The Avener Rework",
       "url": "https://open.spotify.com/track/2y2TNx72H4oE01TkztsAR6"
@@ -920,6 +964,28 @@
     },
     {
       "album": {
+        "name": "Chilled Dance Classics",
+        "url": "https://open.spotify.com/album/3GRRFmCreE0OfhK0VN3vkn"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244174,
+      "name": "Help Me Lose My Mind",
+      "url": "https://open.spotify.com/track/4cvaESSvqB5ozZcYA07lBt"
+    },
+    {
+      "album": {
         "name": "Settle (Deluxe)",
         "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
       },
@@ -935,7 +1001,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 244480,
       "name": "Help Me Lose My Mind",
       "url": "https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C"
@@ -1023,10 +1089,32 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 198000,
       "name": "How Hard I Try",
       "url": "https://open.spotify.com/track/0OfZ9imMwFU03zc2wl8pBt"
+    },
+    {
+      "album": {
+        "name": "Dawn EP",
+        "url": "https://open.spotify.com/album/0tLCK5jxAQ6MklecDKkmzY"
+      },
+      "artists": [
+        {
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+        },
+        {
+          "name": "James Hersey",
+          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "How Hard I Try",
+      "url": "https://open.spotify.com/track/0eM28VT5EVi49J5b4h9qOn"
     },
     {
       "album": {
@@ -1049,6 +1137,28 @@
       "duration_ms": 198000,
       "name": "How Hard I Try (feat. James Hersey)",
       "url": "https://open.spotify.com/track/7uzudGwu8EG5deuFD7EEJm"
+    },
+    {
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/07UKVsstXPhVacXjjPJAJh"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195704,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/0OeFuOAu0P1ONYz5EDdqb2"
     },
     {
       "album": {
@@ -1089,7 +1199,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
@@ -1335,10 +1445,36 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG"
+    },
+    {
+      "album": {
+        "name": "Lean On (Remixes)",
+        "url": "https://open.spotify.com/album/7dGgwByFn57Fg9FVng8aZh"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176561,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/5HV6C387PhPGCFJPxWdLGY"
     },
     {
       "album": {
@@ -1882,6 +2018,24 @@
     },
     {
       "album": {
+        "name": "Portable Sunshine",
+        "url": "https://open.spotify.com/album/6xoQC0YWhU59xGEJ2ADF2c"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188846,
+      "name": "On the Beach",
+      "url": "https://open.spotify.com/track/6LXsFtxgSJDjNlSWy799or"
+    },
+    {
+      "album": {
         "name": "Strawtown",
         "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
       },
@@ -1893,7 +2047,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 188846,
       "name": "On The Beach",
       "url": "https://open.spotify.com/track/6OjSqRwvwPZy99Z7lA8CIY"
@@ -2363,7 +2517,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 181855,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/2UsnjLHBKPaaRjZiWYUCpj"
@@ -2389,6 +2543,32 @@
       "duration_ms": 181867,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/6ksRossV4vKsXntCCZbhaM"
+    },
+    {
+      "album": {
+        "name": "45 Min Workout",
+        "url": "https://open.spotify.com/album/5ewrkcFUx1cGLxIh1jya9e"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Kimberly Anne",
+          "url": "https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180336,
+      "name": "Show Me Love - EDX Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/1NTvk8oOpR1uT50FdZPm2j"
     },
     {
       "album": {
@@ -2619,10 +2799,28 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 183587,
       "name": "Summer Air",
       "url": "https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB"
+    },
+    {
+      "album": {
+        "name": "Ultra 2018",
+        "url": "https://open.spotify.com/album/3AzYBzp7m7FyhDApPbg51J"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183587,
+      "name": "Summer Air",
+      "url": "https://open.spotify.com/track/68cHAftHIabVHNeWkQOhZe"
     },
     {
       "album": {

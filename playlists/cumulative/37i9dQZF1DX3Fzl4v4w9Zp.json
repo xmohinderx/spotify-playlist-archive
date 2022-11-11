@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228800,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 228800,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l"
@@ -723,10 +723,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 245889,
       "name": "Blood Harmony",
       "url": "https://open.spotify.com/track/03DkpmmMGvsyuNjb7rBn72"
+    },
+    {
+      "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/3TqV8iVdm8DPX4KXMPGiM5"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245889,
+      "name": "Blood Harmony",
+      "url": "https://open.spotify.com/track/2SKhgi7oS1MNE3rSRHcJBA"
     },
     {
       "album": {
@@ -1298,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Drained",
+        "url": "https://open.spotify.com/album/1Qa1Ts5OAfJikGuI3LooYZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235478,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4jUNRATNc84n5nlxzGeLfg"
+    },
+    {
+      "album": {
         "name": "CRY",
         "url": "https://open.spotify.com/album/2hQB96fVsBj6D0uoy2Hbs8"
       },
@@ -1327,7 +1363,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 237244,
       "name": "CRY",
       "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"

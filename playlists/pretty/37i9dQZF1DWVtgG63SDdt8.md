@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Benjamin William Hastings
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,402 likes - 99 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,547 likes - 99 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 28 | [HOMIE](https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [SAO!](https://open.spotify.com/artist/5nvwoFVHtYJsI16yn2vDT2), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Alfa Tavares](https://open.spotify.com/artist/6TvGpg3Or2JKDGF2TFpUBW) | [HOMIE](https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY) | 2:33 |
 | 29 | [Vans X Adidas](https://open.spotify.com/track/0iKldjsTD0Z7eNZub4PAf5) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Vans X Adidas](https://open.spotify.com/album/0MhbwHcPDPyWzB8JWkNcFe) | 3:54 |
 | 30 | [I Rely](https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Rely](https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB) | 3:49 |
-| 31 | [Get to Me](https://open.spotify.com/track/7GkAQmgom9NT1yXyzlKkDW) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Get to Me](https://open.spotify.com/album/3UwdDxduUTUbWjtaxrNdqP) | 3:18 |
+| 31 | [Get to Me](https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Get to Me](https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y) | 3:18 |
 | 32 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 |
 | 33 | [Your Word My Mind](https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Your Word My Mind](https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6) | 2:29 |
 | 34 | [Still Hungry](https://open.spotify.com/track/5Pfd2yyAFif05Ie3oorPoB) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [ZOU](https://open.spotify.com/artist/0p8iLYWR8cuT4AovbkPIxu), [Scootie Wop](https://open.spotify.com/artist/4AERNlPWo2z86KfUCfu2LU), [outr.cty](https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w) | [Still Hungry](https://open.spotify.com/album/5Aalwoihbm3hpdDQaGpXp2) | 3:24 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 95 | [When He Calls My Name](https://open.spotify.com/track/4h8MVJKzRxYJxrneTjzV8Y) | [Doug Mathis](https://open.spotify.com/artist/3eYyzVjQv651odVDdtAfV9) | [God's Got a Plan](https://open.spotify.com/album/4XGDBu9M726VXNQhXw5oVA) | 3:34 |
 | 96 | [I Wouldn't Mind Dying](https://open.spotify.com/track/7qTu4zKETT1E9mYnDoenGb) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [I Wouldn't Mind Dying](https://open.spotify.com/album/5tPslLVYpdk86KRi0n8u8i) | 2:29 |
 | 97 | [Let Go \- Live](https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Live At The Manor](https://open.spotify.com/album/2N1DotQ4xbhStr5YXnOO6W) | 4:34 |
-| 98 | [In the Room \(feat\. Chris Brown\)](https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:48 |
+| 98 | [In the Room \(feat\. Chris Brown\)](https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:48 |
 | 99 | [Resurrection Day](https://open.spotify.com/track/4EHzPA0YxBw6YyvGceqK0T) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm) | 4:16 |
 
-Snapshot ID: `MTY2NzUzNDgyMCwwMDAwMDAwMDMxZmRkYThmM2UwZjE5ZmI4ZWZhYjAxNjMzNmE2MmEy`
+Snapshot ID: `MTY2NzUzNDgyMCwwMDAwMDAwMDczYjgxZTZlNTI1NjdkNDFjNjJjNzU0NGJkMjY0ZGI4`

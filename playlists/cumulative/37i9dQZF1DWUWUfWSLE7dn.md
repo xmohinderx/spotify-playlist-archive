@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-151 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+152 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Legends of the Fall](https://open.spotify.com/track/31loMj4ZFxOedEd2bHHQjg) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr), [Vic Frasier](https://open.spotify.com/artist/4yDDgkE98qUsBfWkMSstfi) | [Legends Of The Fall Original Motion Picture Soundtrack](https://open.spotify.com/album/1h8CXTofLlK1jaLooye58o) | 4:16 | 2022-03-09 | 2022-11-09 |
 | [Let's Run Away Together](https://open.spotify.com/track/7jxJHRmtMpGNR3EmxnspDB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/4dgeskwXtoICOIJuPqXBAt) | 2:57 | 2022-03-09 | 2022-07-29 |
 | [Let's Run Away Together](https://open.spotify.com/track/2HfkmgoO8fLWRFeksDGpa6) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/1s1aADIorXvJ1DUmMKxWId) | 2:57 | 2022-07-29 | 2022-11-09 |
+| [Letting Go](https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 9:25 | 2022-11-10 |  |
 | [Longing for Home](https://open.spotify.com/track/5hlTmuQfCoH7MSEDmAP4Vo) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Human Revolution](https://open.spotify.com/album/6vsWQN5DoKQ6OydmtfBT0r) | 2:09 | 2022-03-09 | 2022-11-09 |
 | [Lord Of The Isles](https://open.spotify.com/track/3zLNU3h0xqTmQylllUa1JS) | [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [A History Of Scotland](https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY) | 2:07 | 2022-03-09 | 2022-11-09 |
 | [Love Story](https://open.spotify.com/track/4Gg43XFgDBpctwZ2pFyb57) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Love Story](https://open.spotify.com/album/2sZMi1e8K2hgKysJxQ0onH) | 2:45 | 2022-05-27 | 2022-11-09 |

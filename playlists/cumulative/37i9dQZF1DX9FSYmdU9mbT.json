@@ -222,6 +222,24 @@
     },
     {
       "album": {
+        "name": "Nossa Velha Inf\u00e2ncia",
+        "url": "https://open.spotify.com/album/0J3tpUINMvTiOCklBoxBb5"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253626,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/1bnSsCeLiWIDcw214J5Eso"
+    },
+    {
+      "album": {
         "name": "Personalidade",
         "url": "https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o"
       },
@@ -233,7 +251,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 256626,
       "name": "Aquarela",
       "url": "https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc"
@@ -501,10 +519,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 123386,
       "name": "Chega de Saudade",
       "url": "https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4"
+    },
+    {
+      "album": {
+        "name": "40 sucessos da bossa-nova",
+        "url": "https://open.spotify.com/album/7yDTrxLWGQT1Xw9W7NyCE5"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124266,
+      "name": "Chega de saudade",
+      "url": "https://open.spotify.com/track/5mACr7DRLnGOAsLIyMjiVg"
     },
     {
       "album": {
@@ -609,10 +645,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 261600,
       "name": "Como Nossos Pais",
       "url": "https://open.spotify.com/track/2ZC8sdv4Kvuql7Q9T8Agzv"
+    },
+    {
+      "album": {
+        "name": "O melhor do viol\u00e3o na MPB",
+        "url": "https://open.spotify.com/album/5b1uKyFCab8LXuaadeQTge"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263200,
+      "name": "Como nossos pais",
+      "url": "https://open.spotify.com/track/2NAYT8wKUBQHGs2WWbO6B1"
     },
     {
       "album": {
@@ -663,10 +717,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 383626,
       "name": "Constru\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3FIuBxOxuQ6kYy8JO0gq2a"
+    },
+    {
+      "album": {
+        "name": "Brasil Anos 70",
+        "url": "https://open.spotify.com/album/7CiALzol1H2XDl3culsO9S"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383626,
+      "name": "Constru\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4zqDrHbBP5W4uIZs1jkmtr"
     },
     {
       "album": {
@@ -981,7 +1053,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 291933,
       "name": "Espelhos d'\u00c1gua",
       "url": "https://open.spotify.com/track/2O7xS5JAHwGqetnkuhvLuJ"
@@ -1007,6 +1079,28 @@
       "duration_ms": 291933,
       "name": "Espelhos D'\u00e1gua",
       "url": "https://open.spotify.com/track/4QuKUXkg7eaNgxdtkUIeSL"
+    },
+    {
+      "album": {
+        "name": "Espelhos d'\u00c1gua",
+        "url": "https://open.spotify.com/album/0ZSgZoQkwPq30MIxV6AiV8"
+      },
+      "artists": [
+        {
+          "name": "Patricia Marx",
+          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291933,
+      "name": "Espelhos d'\u00c1gua",
+      "url": "https://open.spotify.com/track/5vUiNgl1rdhYHQORVNtrRP"
     },
     {
       "album": {
@@ -1650,6 +1744,28 @@
     },
     {
       "album": {
+        "name": "Doce MPB",
+        "url": "https://open.spotify.com/album/2XAc4keBjM6sGyrVAsiLhW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben",
+          "url": "https://open.spotify.com/artist/0Kl4OTnin2VOkJV360fsT4"
+        },
+        {
+          "name": "Trio Mocoto",
+          "url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252506,
+      "name": "Oba, L\u00e1 Vem Ela",
+      "url": "https://open.spotify.com/track/1o60EW97NdtvYJiIlZSLOG"
+    },
+    {
+      "album": {
         "name": "For\u00e7a Bruta (1970)",
         "url": "https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4"
       },
@@ -1679,7 +1795,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 254373,
       "name": "Oba, L\u00e1 Vem Ela",
       "url": "https://open.spotify.com/track/4u0Xdy7BizHLrcPIf7c6h2"
@@ -1697,7 +1813,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 275906,
       "name": "Olhos Nos Olhos",
       "url": "https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl"
@@ -1719,6 +1835,24 @@
       "duration_ms": 275906,
       "name": "Olhos Nos Olhos",
       "url": "https://open.spotify.com/track/30F630HDvFOckjhqBZfl9L"
+    },
+    {
+      "album": {
+        "name": "Doce MPB",
+        "url": "https://open.spotify.com/album/2XAc4keBjM6sGyrVAsiLhW"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275906,
+      "name": "Olhos Nos Olhos",
+      "url": "https://open.spotify.com/track/7oSdOcEsu9SMYHoK0ifbVh"
     },
     {
       "album": {
@@ -1935,7 +2069,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 246492,
       "name": "Relic\u00e1rio - Ao Vivo",
       "url": "https://open.spotify.com/track/2PUhHR1V0Erg6Zs5eMklji"
@@ -1961,6 +2095,28 @@
       "duration_ms": 246492,
       "name": "Relic\u00e1rio - Ao Vivo",
       "url": "https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1"
+    },
+    {
+      "album": {
+        "name": "Inverno MPB",
+        "url": "https://open.spotify.com/album/24xQXjLv8gfAe8ndJ1vyxb"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        },
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246492,
+      "name": "Relic\u00e1rio - Ao Vivo",
+      "url": "https://open.spotify.com/track/7cQbJ4mKMniaxF7CXGCcgr"
     },
     {
       "album": {
@@ -2200,6 +2356,24 @@
     },
     {
       "album": {
+        "name": "Meu Pai \u00c9 um Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/7moS3MqWSLCfY7QKGUk2WJ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238973,
+      "name": "Vitoriosa",
+      "url": "https://open.spotify.com/track/4CG3tZlqn6KjM4wGSRaO8e"
+    },
+    {
+      "album": {
         "name": "Ivan Lins",
         "url": "https://open.spotify.com/album/3hXVmp2gOuoo2Oa3glN108"
       },
@@ -2211,7 +2385,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 241306,
       "name": "Vitoriosa",
       "url": "https://open.spotify.com/track/3vJJqxkNLVHibD3gRttOHP"
@@ -2265,7 +2439,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 212493,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
@@ -2291,6 +2465,28 @@
       "duration_ms": 214866,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk"
+    },
+    {
+      "album": {
+        "name": "Mulheres da MPB",
+        "url": "https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/3PzD3zi0UeNw3dTYGbAZCy"
     },
     {
       "album": {

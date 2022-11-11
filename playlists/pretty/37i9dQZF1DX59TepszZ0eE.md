@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=30kKyVSiQHO0XN\_Fsd07xA">Benjamin Dube</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,408 likes - 75 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,416 likes - 75 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 17 | [Ungamandla Ami \(Live\)](https://open.spotify.com/track/0mLaY1RrsYTNLtr0YlQwfB) | [Pastor Lungi Ndala](https://open.spotify.com/artist/5LpVjFP0GwCJRrPjyTo6ec) | [Ungamandla Ami \(Live\)](https://open.spotify.com/album/1JC8YX7rApVmJmeKWTwk3Q) | 5:33 |
 | 18 | [Wakhazimula \- Live](https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Wakhazimula \(Live\)](https://open.spotify.com/album/7G9ZPEePMWoWw4ZXcWc1hg) | 8:07 |
 | 19 | [Hallelujah Nkateko \(Lihle's Version\) \- Live](https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 5:36 |
-| 20 | [Elshadai Adonai Medley \(Live\)](https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Precious Mosotho](https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 7:00 |
+| 20 | [Elshadai Adonai Medley \- Live](https://open.spotify.com/track/2aeDfyS5sH88NEG3kR7laM) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Precious Mosotho](https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF) | [Collaborations, Vol\. 1 \(Live\)](https://open.spotify.com/album/4icur5o7RxzW78Zkwe15Xc) | 7:00 |
 | 21 | [The 4th Man](https://open.spotify.com/track/78aypN49XOCv12qx2v35wE) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [The 4th Man](https://open.spotify.com/album/3xzLg7y8Bmc02X5IWu8FAM) | 6:37 |
 | 22 | [Ebenezer](https://open.spotify.com/track/7f9S6zqIN62gFphKylbd6F) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Africa For Jesus](https://open.spotify.com/album/0fTvvmaFCgpExHxRz4sAkt) | 8:51 |
 | 23 | [Thelumoya](https://open.spotify.com/track/4m3si6zfyw7JI045D2iiUx) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2), [Tshepiso Motaung](https://open.spotify.com/artist/5W1gtTJxIuuNRso18Ng6f0) | [Thelumoya](https://open.spotify.com/album/5YIOuPvc6JJfmGWmQeLEmY) | 5:01 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 61 | [Ndikhokhele Bawo](https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW) | [Cape Town Youth Choir](https://open.spotify.com/artist/4e1wKyDJhWiTS9zY8UH2kf) | [Ndikhokhele Bawo](https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX) | 3:32 |
 | 62 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 |
 | 63 | [Nkosi Ndithembe Wena](https://open.spotify.com/track/0EZNwUJat1DX09UdqoEm4S) | [Joey Mofoleng](https://open.spotify.com/artist/6zS58BpzrB57jlKWpQ7ZUW) | [After This](https://open.spotify.com/album/72vZlTX5LfYF5FT4DHIhGC) | 3:22 |
-| 64 | [Ekugcineni \- Live](https://open.spotify.com/track/73TDScJYYrLlUBjuve3fQc) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 5:31 |
+| 64 | [Ekugcineni \- Live](https://open.spotify.com/track/3qvS5d00o5xkhAe1xUT3tg) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Men of Gospel \(Live\)](https://open.spotify.com/album/2BSsdCjhHphW8YU4C0OzJ7) | 5:31 |
 | 65 | [Sibabaza Wena \- Live](https://open.spotify.com/track/1gDzT790azKHH5wkHCYOaW) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sibabaza Wena \(Live\)](https://open.spotify.com/album/3MwJ24l4rzuioInlgNwgf2) | 5:40 |
 | 66 | [Settle for Less \(Live\)](https://open.spotify.com/track/4Xo9grcw19YyxmpHzTbML4) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [The Uprising](https://open.spotify.com/artist/4DW2FpAZ3RVvVr5sXOHbW1) | [The Dawn \(Live\)](https://open.spotify.com/album/69i6OVB0BEPOaQYf7fn7tl) | 3:50 |
 | 67 | [Jesu Ufik'ekuseni \(feat\. Thinah Zungu\) \[Live\]](https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l) | [Sipho Ngwenya](https://open.spotify.com/artist/72Tl2cXPC1vmagob3mPdoe), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Intimate Worship Season, Vol\. 2 \(Live\)](https://open.spotify.com/album/467zjiBxAx2DLgW9jKt96E) | 6:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 74 | [The Lord Is My Sheperd](https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [The Lord Is My Sheperd](https://open.spotify.com/album/4Q325PCLn40PKPLMQzgSS0) | 4:56 |
 | 75 | [Ziphozenkosi](https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx) | 4:52 |
 
-Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMGI4NjM0NmQ5NzUyMmUxOWNjMzBlY2ExZDVmNGEzM2U4`
+Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMGVlMmVkMjg0OTdkOGY5ZjZjN2QyZDM2NGY5ZGJjMDEz`

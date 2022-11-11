@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,741 likes - 57 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,791 likes - 57 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 4 | [Create](https://open.spotify.com/track/5FqE1Cd1rt7ijK76BlFx87) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Create](https://open.spotify.com/album/7yYs9yoqpDz0nkeNdzYpvR) | 3:54 |
 | 5 | [Koi](https://open.spotify.com/track/4nmjL1mUKOAfAbo9QG9tSE) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 4:11 |
 | 6 | [Family Song](https://open.spotify.com/track/3Ms2WsIGHExju0gpucrWxv) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Family Song](https://open.spotify.com/album/1oJznhV4m2H2PeeNkCnKbR) | 5:24 |
-| 7 | [SUN](https://open.spotify.com/track/7rIBp3U5Igzn44l7Z7mOtE) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 4:01 |
+| 7 | [SUN](https://open.spotify.com/track/2JxraLWLNzRpLhPmFx3a1w) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [SUN](https://open.spotify.com/album/5729BXTN8NmCuCkjQTlSL6) | 4:03 |
 | 8 | [Dancing On The Inside \(New Year's Eve\)](https://open.spotify.com/track/4yZhE66HniB1CMpEQMaTAx) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [FUSHIGI/CREATE](https://open.spotify.com/album/1tUDKOZlY1s83HQ2D2AZxj) | 3:48 |
 | 9 | [Pop Virus](https://open.spotify.com/track/6hDBkm6B8HF9B4oATW28YN) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 3:02 |
 | 10 | [Into The Sun](https://open.spotify.com/track/6Aw4apZtDh41tu3F0obxDt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Stephen Malkmus](https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Axel Concato](https://open.spotify.com/artist/1vmJHFbi8KRWgmOmOU0M5V) | [Into The Sun](https://open.spotify.com/album/2rOnO3lQDhLV6EHoARg3xz) | 3:20 |
 | 11 | [Week End](https://open.spotify.com/track/5eZdmSbdCtO344dC0A3CB2) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 4:30 |
-| 12 | [Idea](https://open.spotify.com/track/30QnX1bcrFYqWQNKfWclr8) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 4:40 |
+| 12 | [Idea](https://open.spotify.com/track/0645JPZvbWYtwOIMSUBrXY) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Idea](https://open.spotify.com/album/2qiA2JQR9MpFuCGJ3Lwxfv) | 4:39 |
 | 13 | [Doraemon](https://open.spotify.com/track/2pcuXnZhTirLXsfXGVFTv2) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Doraemon](https://open.spotify.com/album/5VGCJPjawUCJhP4PG2IKtp) | 3:59 |
 | 14 | [Sakura no Mori](https://open.spotify.com/track/7eEvKU1yG1JaaBEjyV7ySN) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 5:10 |
 | 15 | [Tokiyo](https://open.spotify.com/track/588HgBgBK9Z2z3MMkGu7YN) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 4:15 |
-| 16 | [Kudaranai no Nakani](https://open.spotify.com/track/3PhezG0b5NSLgvAcxdQ13G) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Episode](https://open.spotify.com/album/6gPzhi9DkK9XXbH9PZuDR8) | 4:20 |
+| 16 | [Kudaranai no Nakani](https://open.spotify.com/track/3jgeWUZGUO78fkKF0Q4oA4) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Kudaranai no Nakani](https://open.spotify.com/album/1MU427kNQa3hclVCxa5cKv) | 4:19 |
 | 17 | [Cube](https://open.spotify.com/track/0KS2Tet5hEKRYrsLJkVILV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Cube](https://open.spotify.com/album/5PEW5e7jELgzt5QH0dHHpx) | 3:25 |
 | 18 | [Yume no Sotohe](https://open.spotify.com/track/5gco2ws1tdB6Md3vFqbwf4) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx) | 3:51 |
 | 19 | [Sarashi\-mono \(feat\. PUNPEE\)](https://open.spotify.com/track/1HU8n15qhw1py9JjLoHCaE) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Same Thing](https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue) | 3:50 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 33 | [Drinking Dance](https://open.spotify.com/track/2kslhvz31NSZ6eKSiiNH5a) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Koi](https://open.spotify.com/album/0dQHVhTZlbT2S7vq6pM0t7) | 3:40 |
 | 34 | [Ranshi](https://open.spotify.com/track/2Tg1VOIfnI1w6GZDf7owty) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Film](https://open.spotify.com/album/20B8tfOi3zX4Fi1Qm3f5CY) | 3:28 |
 | 35 | [Moon Sick](https://open.spotify.com/track/4FLycfLPnJSx6lCJg3PbnD) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [SUN](https://open.spotify.com/album/5729BXTN8NmCuCkjQTlSL6) | 2:39 |
-| 36 | [Continues](https://open.spotify.com/track/67Sio6JxPyqHG62lnJrWL8) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 4:28 |
+| 36 | [Continues](https://open.spotify.com/track/2j07bmaxncaCWCRU2cYltM) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Koi](https://open.spotify.com/album/0dQHVhTZlbT2S7vq6pM0t7) | 4:26 |
 | 37 | [Down Town](https://open.spotify.com/track/7aGylKLUnZ5QHngdviZSsb) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 3:51 |
 | 38 | [Hada](https://open.spotify.com/track/1FbnblJUrxTv7uGSilSu54) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 3:59 |
 | 39 | [Sapiens](https://open.spotify.com/track/2YXAvGaZ0NidrX5keTA4dM) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 3:52 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 48 | [Get a Feel](https://open.spotify.com/track/0EDr2psGs1hBVSKHOS5lOY) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 3:07 |
 | 49 | [Bakemono](https://open.spotify.com/track/1dHbm7QRN71DiFqwRAL963) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx) | 2:27 |
 | 50 | [Kuse no Uta](https://open.spotify.com/track/2hNwpwWM7x1TfNgrbumlEF) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Baka no Uta](https://open.spotify.com/album/2tr63kOkJSfR8PRiIqWkXz) | 4:44 |
-| 51 | [Shiranai](https://open.spotify.com/track/4thliUqGlsr5HrgNaHnKB5) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx) | 4:54 |
+| 51 | [Shiranai](https://open.spotify.com/track/4ZUP1sXvg3NESkF458HNQg) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Shiranai](https://open.spotify.com/album/7c3Bu72RPwlH8WcvVV0K5N) | 4:53 |
 | 52 | [Film](https://open.spotify.com/track/4heHCAVdN0df6wrtN6moAI) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx) | 4:49 |
 | 53 | [Mirai](https://open.spotify.com/track/1seHFXkqjgRsahTag8RbCU) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Episode](https://open.spotify.com/album/6gPzhi9DkK9XXbH9PZuDR8) | 3:18 |
 | 54 | [Tomato](https://open.spotify.com/track/23Vc7bWEZKZaTpb7gyxOhL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [FUSHIGI/CREATE](https://open.spotify.com/album/1tUDKOZlY1s83HQ2D2AZxj) | 2:48 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 56 | [Comedy \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/track/55ACw2lzo3PvmuzRmoYVVQ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Comedy \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/album/39Iq6BG49jqLDli2On1ttE) | 3:54 |
 | 57 | [Nomad](https://open.spotify.com/track/753sRMieYWBC6HGodwtkjI) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:24 |
 
-Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMDRmNGJlMGI3OTNiNjI1NTVhNzk0MDAzZTczMjkxYTRi`
+Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMDMwZGM2ZGJiMjMwNTVlNTUyMDc2YWJjZWU3NGE2MWFh`

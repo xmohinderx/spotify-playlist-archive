@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,915 likes - 54 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,937 likes - 54 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Why Can't We Live Together \- Dance Mix](https://open.spotify.com/track/03D5kL0VCxprd9Whxs0GUl) | [Mary Hubert ‎](https://open.spotify.com/artist/5Go8NXGC6mzMUWj7frJgvJ) | [I'm Coming on the Scene](https://open.spotify.com/album/4o03e5C0jhzgRwLwls7gBV) | 5:33 |
 | 2 | [It's Your Move \- 2001 Remaster](https://open.spotify.com/track/0Jk5AbcBCNcbHkhekktlNO) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Italiana Vol\. 2](https://open.spotify.com/album/7ednEENmMOClNIW1g3BBGK) | 5:13 |
-| 3 | [No Estás](https://open.spotify.com/track/1WwwQNmRvAuguGRqVjhrpe) | [Isamar & Compañía](https://open.spotify.com/artist/4F0L22BujtumRndkZFD7gb) | [Sonrisa Furtiva](https://open.spotify.com/album/61xxUrpQk7QS55DJotZAPh) | 5:42 |
+| 3 | [No Estás](https://open.spotify.com/track/7Axo21SkCwTBhGobMCJmCb) | [Isamar & Compañía](https://open.spotify.com/artist/4RZ0uJC9gDXYWhT6mpnelO) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/4athIGponDiJRR4djOgwbJ) | 5:40 |
 | 4 | [Dance II](https://open.spotify.com/track/5iPyzbAvw84pJBJsFu05P4) | [Discovery Zone](https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt) | [Remote Control](https://open.spotify.com/album/3ikMmpjQ8lDqeDPwChZTSM) | 4:31 |
 | 5 | [Rock the Hour](https://open.spotify.com/track/3eE6sq26zJpkHchsp1jaRy) | [TPO Meets Linda Masters](https://open.spotify.com/artist/2Cy9p4lXvvtvXbAFNxN5Oj) | [Linda](https://open.spotify.com/album/4jQqwOjJ0GWORJBdq4y7sT) | 4:09 |
 | 6 | [Watch Out \- Remix](https://open.spotify.com/track/5ftOo80c8NVs7Hf0q7zyFY) | [Brandi Wells](https://open.spotify.com/artist/1eqmETCNp9LudDT0nBycHw) | [Watch Out](https://open.spotify.com/album/6SlOoxl1MiILSzj4GWj3Wv) | 7:23 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 9 | [Michelada](https://open.spotify.com/track/2Qb7hDgPIt97he85BZFr5j) | [Zombies In Miami](https://open.spotify.com/artist/42ZWiibQTSxTJSBV7oziPy), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Michelada Brothers](https://open.spotify.com/album/6AdVgEAX7QaYOElbOqqoxp) | 7:08 |
 | 10 | [Double Spire \- Club Mix](https://open.spotify.com/track/6gu3S17qiN7SomonE1t5Gp) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:24 |
 | 11 | [Emotional Healer \- Dance Mix](https://open.spotify.com/track/6H4R0LgNzgp1cfQxSWPUA9) | [Space Ghost](https://open.spotify.com/artist/3YfpfN9dOwJUoeqXoWazgi) | [Dance Planet Remixes](https://open.spotify.com/album/6ZqMR4wBWbYkZCPM6h0MBH) | 6:19 |
-| 12 | [Human Sound](https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:26 |
+| 12 | [Human Sound](https://open.spotify.com/track/1BpcVnAhL6LuS8q3l03ONd) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Human Sound](https://open.spotify.com/album/0Kh4wcY7TbLk7VIY7SDLYg) | 5:26 |
 | 13 | [Take to the Sky](https://open.spotify.com/track/3h0EkSXXm8Dk6MD1sCXgvO) | [J\. Caesar](https://open.spotify.com/artist/6ORvJlDfKQanl44XNrLvJK) | [Scenic Route \- The Road Less Travelled Vol\. 1 \(Compilation\)](https://open.spotify.com/album/70AivDpenFkFM1tYl7v4Yx) | 5:24 |
 | 14 | [Play with Me \(Jane\) \- Sweet Garage Mix](https://open.spotify.com/track/3sU7qHqWOWPk1YEplL2kvP) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Play With Me \(Jane\)](https://open.spotify.com/album/5yw7I6Mf12GNkqimorLZQY) | 5:44 |
 | 15 | [Hi\-Score \- 12" Dub Mix](https://open.spotify.com/track/6QuhjnR8ZMsad3CUKG0YAb) | [16 Bit](https://open.spotify.com/artist/3d4s7eLnN9yIBc9W96WwvB) | [Hi\-Score](https://open.spotify.com/album/0efbDOFM6pKwXbDW3vUZR6) | 5:47 |
@@ -61,6 +61,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 51 | [Endless \(I\)](https://open.spotify.com/track/0SV0LrEVoJlCOz1PUs4BlG) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Endless \(I\)](https://open.spotify.com/album/4gWsAD86Must9kdw85wm6d) | 7:30 |
 | 52 | [Escape to Eora Country \(Under a Blood Flower Moon\)](https://open.spotify.com/track/3Nfk5i3RLSc00NKv2oKZGN) | [AROHA](https://open.spotify.com/artist/64wDMxrfNSdTPeu0NM54fc) | [Escape to Eora Country \(Under a Blood Flower Moon\)](https://open.spotify.com/album/1XOCZnwZDDGXFa5H0jQ9l9) | 5:47 |
 | 53 | [Vagabond du Coeur \- Jex Opolis Remix](https://open.spotify.com/track/3dprpHK0RESjM0PNSmxly5) | [Master Phil](https://open.spotify.com/artist/1zcj3pyhHJD0QABmmnAw4q), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Vagabond du Coeur \(Jex Opolis Remix\)](https://open.spotify.com/album/6tZtz5yvt6Hlf1EQ4WyfrZ) | 6:53 |
-| 54 | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 |
+| 54 | [B.O.T.A\. \(Baddest of Them All\)](https://open.spotify.com/track/5Ccu0dFiUGhwWL2ytzwbi8) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Daily Pop Mix](https://open.spotify.com/album/3QhVs1hEwCwOihE8bsjIbO) | 5:58 |
 
-Snapshot ID: `MTY1NzY5NDQ3NCwwMDAwMDAwMGEzMDAxNTQ0NWM2YTk1ZDA3MWRiYzVhMzdlZDgwNTc2`
+Snapshot ID: `MTY1NzY5NDQ3NCwwMDAwMDAwMDM4ZWJiNzkzNjM1MjlmZmQ4NjdlYjAwMmY1YThkZWU4`

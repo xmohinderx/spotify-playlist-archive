@@ -351,10 +351,28 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 163712,
       "name": "First Time",
       "url": "https://open.spotify.com/track/03R9GOTrB56l1znR4j5jhR"
+    },
+    {
+      "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/3VOetHtDXdOu2ScKlUlyd3"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163712,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2xdCrFLOOJ7VCvvaGAjnQh"
     },
     {
       "album": {

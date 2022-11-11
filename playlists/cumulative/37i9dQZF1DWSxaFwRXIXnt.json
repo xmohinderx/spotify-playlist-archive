@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 340427,
       "name": "Jaata Hai Tu Kahan",
       "url": "https://open.spotify.com/track/407QycChulo2g2SfEqMopF"
@@ -921,6 +921,24 @@
       "duration_ms": 317000,
       "name": "Main Koi Aisa Geet Gaoon",
       "url": "https://open.spotify.com/track/0WBClBemYPJR44H6uIn0kp"
+    },
+    {
+      "album": {
+        "name": "Javed Akhtar's - Bollywood Collection",
+        "url": "https://open.spotify.com/album/0t4Uy11wbt8f6fVPtaB00a"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340427,
+      "name": "Main To Hoon Pagal (From \"Baadshah\")",
+      "url": "https://open.spotify.com/track/3AL9Ccvpz5SthxG3yQY4ST"
     },
     {
       "album": {
@@ -1407,10 +1425,32 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 278546,
       "name": "Tere Naina",
       "url": "https://open.spotify.com/track/3hoXhwP0ub9LdSJV4olDIc"
+    },
+    {
+      "album": {
+        "name": "Kajol: Bollywood Darling",
+        "url": "https://open.spotify.com/album/6wGEpTjzw96BwEH4Jn1SHD"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278546,
+      "name": "Tere Naina (From \"My Name Is Khan\")",
+      "url": "https://open.spotify.com/track/6CvLwH4XxFBEmLh6qkZ7DK"
     },
     {
       "album": {
@@ -1429,7 +1469,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 366573,
       "name": "Tu Mere Samne",
       "url": "https://open.spotify.com/track/08XzRV4mGjGwbpvYw68xBk"
@@ -1455,6 +1495,28 @@
       "duration_ms": 366573,
       "name": "Tu Mere Samne",
       "url": "https://open.spotify.com/track/4FVmp1Vgcjhq1hyjYPlEke"
+    },
+    {
+      "album": {
+        "name": "Darr with Jhankar Beats",
+        "url": "https://open.spotify.com/album/1MzJAquXT3T72gF9iIcGeW"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365706,
+      "name": "Tu Mere Samne (Jhankar Beats)",
+      "url": "https://open.spotify.com/track/0OX7mMzLghrLbKlJooJ8nT"
     },
     {
       "album": {
@@ -1715,10 +1777,32 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 353693,
       "name": "Zara Sa Jhoom Loon Main",
       "url": "https://open.spotify.com/track/4AfLtSXcvG8AkfQjDR0gJ1"
+    },
+    {
+      "album": {
+        "name": "Live The Moment",
+        "url": "https://open.spotify.com/album/3h1WauTcZMADpYuoB7H0b0"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353693,
+      "name": "Zara Sa Jhoom Loon Main (From \"Dilwale Dulhania Le Jayenge\")",
+      "url": "https://open.spotify.com/track/3hAd5GHUnf8F2VdAddm95u"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSxaFwRXIXnt"

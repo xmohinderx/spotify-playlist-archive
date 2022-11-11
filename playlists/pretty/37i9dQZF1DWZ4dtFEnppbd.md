@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4dtFEnppbd.md) - [plain]
 
 > Sounds of spiritual comfort and cultural traditions of triumph.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,113 likes - 27 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,114 likes - 27 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4dtFEnppbd.md) - [plain]
 | 12 | [When Sunday Comes](https://open.spotify.com/track/1JIyzwxYKUktXe7tn4oqk9) | [Daryl Coley](https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01) | [Compositions: A Decade Of Song](https://open.spotify.com/album/5EXmnESegPhactTtjsF8md) | 7:33 |
 | 13 | [Jesus Is Love](https://open.spotify.com/track/52i3VeUFbCRk3z8YgBFM7N) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Best Of Lionel Richie 20th Century Masters The Millennium Collection](https://open.spotify.com/album/6UaOmeGGHUSHyy3F4ngAwa) | 6:06 |
 | 14 | [Great Is Thy Faithfulness](https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Delores "Mom" Winans](https://open.spotify.com/artist/5UMZOxh7uusc8idFcHNe7T) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:00 |
-| 15 | [Everything You Touch Is A Song](https://open.spotify.com/track/0nFEeSOwXfkYKSShg2RR1V) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Tomorrow](https://open.spotify.com/album/1OFvGlqOQ1gSJ6Jf6DFVRS) | 5:23 |
+| 15 | [Everything You Touch Is A Song](https://open.spotify.com/track/4loGT4uKwIx4qkJYAicjkA) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [House Of Gospel Anthology \- The 80'S Volume 1](https://open.spotify.com/album/7LFIe0Z0iVzi6YiPcZucC2) | 5:23 |
 | 16 | [Now Behold the Lamb](https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 6:58 |
 | 17 | [The Potter's House \- Live](https://open.spotify.com/track/2GLX6WynSRAirDye9AtKkw) | [Tramaine Hawkins](https://open.spotify.com/artist/3VrvtMPf98keYfWoBPx4OR) | [Tramaine Hawkins Live](https://open.spotify.com/album/0e7ByrzFOoMGqhPTQttAT4) | 6:35 |
 | 18 | [Safe In His Arms](https://open.spotify.com/track/4TsOvX4vJ41XOBA0Dmks9k) | [Rev\. Milton Brunson](https://open.spotify.com/artist/3Tiff2zKob5oG6m7AQpbis), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI) | [Fifty Blessed Years](https://open.spotify.com/album/4IddWR3TFYrrjYJ4SyaPtK) | 5:04 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4dtFEnppbd.md) - [plain]
 | 22 | [How Great Thou Art](https://open.spotify.com/track/6irtSIChqibVEqf6DNfV3Q) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Precious Lord](https://open.spotify.com/album/07su16Rgh6gRQlJ65bgThM) | 3:34 |
 | 23 | [Heavenly Choir](https://open.spotify.com/track/4esEKIxsmfIJX7x6TWWyBM) | [The Canton Spirituals](https://open.spotify.com/artist/1EPpCbbQoN5loEfqOeuvFs) | [Live in Memphis](https://open.spotify.com/album/6r9Qb40H8qmnNjaZFjgI9p) | 8:59 |
 | 24 | [Medley: Precious Lord, Take My Hand / You've Got a Friend \- Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72](https://open.spotify.com/track/0xmbZP4ZwecZcVRxOaWuKE) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Amazing Grace \(Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72\)](https://open.spotify.com/album/5pIUimaQ6XePPXbMUi3te0) | 5:44 |
-| 25 | [Going Up Yonder](https://open.spotify.com/track/477kgQbTTs9CSEJAZL9e9j) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [The Light Years](https://open.spotify.com/album/4pYsME51r7rDRZcdEv9DGB) | 5:10 |
+| 25 | [Goin' Up Yonder](https://open.spotify.com/track/1l1xhtNsfCFhyK3HraaiNQ) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [Gospel Heritage Christmas, Vol\. 3](https://open.spotify.com/album/3qslBgw2OwfSJ0eSzgSTXe) | 5:10 |
 | 26 | [Calvary](https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj) | [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Live in Concert](https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B) | 9:33 |
-| 27 | [The Center of My Joy](https://open.spotify.com/track/01uA4LkBFfp2xEeIojihtC) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Textures](https://open.spotify.com/album/11vPXkDqXaKM84D1ggfpHl) | 5:17 |
+| 27 | [The Center of My Joy](https://open.spotify.com/track/7vaPBsS0kw9AypFXeUukpr) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [The Iconic Artists of Gospel Music](https://open.spotify.com/album/3WVOkxBtWd7vmuapji6UHL) | 5:16 |
 
-Snapshot ID: `MTU0OTQ4NDExOCwwMDAwMDAwMDlkOTJmNTI4NmNiZjM2ZjJjOGVkYTM4ZTk4ZDFkYTNk`
+Snapshot ID: `MTU0OTQ4NDExOCwwMDAwMDAwMDg3OGI4OGViNWU1YjdhOWQzZTkyYzA2YzE1ZjFjYmYy`

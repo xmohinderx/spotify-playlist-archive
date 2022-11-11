@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kARsEuLzU3.md) - [plain]
 
 > Your queens are here Pink Panda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,273 likes - 134 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,284 likes - 134 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kARsEuLzU3.md) - [plain]
 | 45 | [My Darling](https://open.spotify.com/track/4MNxW4903jCMP83JOlExBt) | [Pink BnN](https://open.spotify.com/artist/3Gav9MwXbCfIRfjOylBqWx) | [My Darling](https://open.spotify.com/album/3jRk17Q7BWZIe6VMECh2oW) | 3:07 |
 | 46 | [Without You](https://open.spotify.com/track/3vPziyKexMmkgD71LTpo9O) | [Yoon Bo Mi](https://open.spotify.com/artist/5WPIiO8qOU3bd9Pcg7XbqM) | [Cinderella & Four Knights, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1IP2tb095xBhGDsHkqxMKE) | 4:12 |
 | 47 | [Don’t Make Me Laugh](https://open.spotify.com/track/1x1fJKxcqAzn7Z1rWRSaHt) | [OH HAYOUNG](https://open.spotify.com/artist/3mTOjpZV1L0iW54wn90H8K) | [OH!](https://open.spotify.com/album/3Y5LqwodVtoyeRkWfzmlcE) | 3:00 |
-| 48 | [Strange](https://open.spotify.com/track/5tRk2bmw4SGYNchKrprYRZ) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [I Hate You Juliet \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/694a8URn9rniVXNyGS14w4) | 3:18 |
+| 48 | [Strange](https://open.spotify.com/track/3aZBXslvI53xTvcaWeiu4D) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [I Hate You Juliet \(Original Television Soundtrack\)](https://open.spotify.com/album/0HzYxSwjuPsLCVsmPi1yNB) | 3:18 |
 | 49 | [Like the wind](https://open.spotify.com/track/2iyImRgmnpWHwW6HC6P70z) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Dream](https://open.spotify.com/album/2G6b8wax6wLnR6zMixJCfA) | 3:53 |
 | 50 | [The Spring \(Feat\. Hareem\)](https://open.spotify.com/track/2zIzG8DixwwggdVkoteFhP) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Ha Reem](https://open.spotify.com/artist/1W614N7Ay3I5ztoreaRy0h) | [The Space](https://open.spotify.com/album/76L4Nk0YReykAK1z9sXh5x) | 3:52 |
 | 51 | [Cliché](https://open.spotify.com/track/1ebTi2GCZnVb2vN1WxzVhB) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Dear](https://open.spotify.com/album/6gIu2MCKFkXziZ6GL02MsX) | 3:44 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kARsEuLzU3.md) - [plain]
 | 58 | [처음 느껴본 이별 \(FEAT\. 곽진언\)](https://open.spotify.com/track/6vTeq3LUudbmObtSWEqIMP) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [The Space](https://open.spotify.com/album/76L4Nk0YReykAK1z9sXh5x) | 4:04 |
 | 59 | [It's OK](https://open.spotify.com/track/4w2mDlYymPP5pJTa5i4vxo) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Dream](https://open.spotify.com/album/2G6b8wax6wLnR6zMixJCfA) | 3:10 |
 | 60 | [Home](https://open.spotify.com/track/112tJrUs0jrIvZZ9YC63dN) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Dream](https://open.spotify.com/album/2G6b8wax6wLnR6zMixJCfA) | 3:23 |
-| 61 | [I PRAY 4 YOU](https://open.spotify.com/track/4XwW7LHHmQilz4gLISOQXX) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [School 2017 Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/1APuSx8wJm615bNJPzn7uY) | 3:50 |
+| 61 | [I Pray 4 You](https://open.spotify.com/track/0r0awKG0EeVkEawitHErOM) | [Kim Nam Joo](https://open.spotify.com/artist/4cHMW4DkVD7XZ04YvsJIkI), [Bomi](https://open.spotify.com/artist/1f8WhWpusN7MtCkedZWpck) | [School 2017 \(Orignial Television Soundtrack\)](https://open.spotify.com/album/4TZOMc6w0nzSFyKx8mDquD) | 3:50 |
 | 62 | [Love is](https://open.spotify.com/track/0eRJDYUrxbw9MzO1O0quBs) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Dream](https://open.spotify.com/album/2G6b8wax6wLnR6zMixJCfA) | 3:54 |
 | 63 | [Heaven](https://open.spotify.com/track/4XLM8v5Z646F6pwEYjr9Qm) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Dear](https://open.spotify.com/album/6gIu2MCKFkXziZ6GL02MsX) | 3:26 |
 | 64 | [Let's Eat Together \(feat.YOON BOMI of Apink\)](https://open.spotify.com/track/6dy31xfy9MkOV8eMYT0QFk) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2), [YOON BOMI](https://open.spotify.com/artist/41OOBawIDbmcvVkjD4M2P7) | [Let's Eat Together](https://open.spotify.com/album/5e0GEbTh4INJ2LdLdbfZZa) | 2:56 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kARsEuLzU3.md) - [plain]
 | 133 | [I Need You](https://open.spotify.com/track/449PKQf3Eh8Ty9TkaJb7hv) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Secret Garden](https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs) | 3:48 |
 | 134 | [Prince](https://open.spotify.com/track/5aFbPiWGXzBKClONPU13zv) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Snow Pink](https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr) | 3:49 |
 
-Snapshot ID: `MTY1NzYzNjcyMywwMDAwMDAwMDdjZmQ1NDM3NWI1MTRjM2EzMjc2ZTZmNzQwMjY3YTg4`
+Snapshot ID: `MTY1NzYzNjcyMywwMDAwMDAwMGYyYTk4ZmRhOGZmNzgxODgxMjIyNzZjOWRiODBiZDQx`

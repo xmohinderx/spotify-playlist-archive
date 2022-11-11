@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuoVJ0dR3g.md) - [plain]
 
 > Generation defining music, one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,401 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,421 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuoVJ0dR3g.md) - [plain]
 | 33 | [Too Much of Not Enough](https://open.spotify.com/track/4FhNIcwh5wjUnptqRwdgoy) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 4:44 |
 | 34 | [Madman](https://open.spotify.com/track/66BwWfwHYkoGSi6iUUj98I) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 2:43 |
 | 35 | [Dearest Helpless](https://open.spotify.com/track/03BpiU265TNopnUCVQLaMT) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 3:34 |
-| 36 | [Tuna in the Brine](https://open.spotify.com/track/5kmagO5ooNVld9ZGmsRWMf) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 5:39 |
+| 36 | [Tuna In the Brine](https://open.spotify.com/track/6pnV9NKOoKYrdcbrOuN5lV) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Grunge Ballads](https://open.spotify.com/album/3qHHW8MjwoASvLV9QpaHav) | 5:39 |
 | 37 | [Blind](https://open.spotify.com/track/3OoZg5GIrewNd7kDTlgWPU) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:55 |
 | 38 | [Acid Rain](https://open.spotify.com/track/5v42NtdHwtLD0Fe6AcBP84) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Tomorrow \- EP](https://open.spotify.com/album/7v0I0ENVfc783mB4JlqhY8) | 3:32 |
 | 39 | [World Upon Your Shoulders](https://open.spotify.com/track/3tCvj7xraydixVUIYcNCtr) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuoVJ0dR3g.md) - [plain]
 | 49 | [Findaway](https://open.spotify.com/track/6pcyozjE7GDIbf4oN8ctLe) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 2:58 |
 | 50 | [New Race](https://open.spotify.com/track/7FiYoxUf2GAhstQu7NkYlo) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:20 |
 
-Snapshot ID: `MTY2NzQ4MDE1NCwwMDAwMDAwMDk3OGIzMmI3YzUwYTgyNTY3NTMxODNiYWYxMWRkMmU5`
+Snapshot ID: `MTY2NzQ4MDE1NCwwMDAwMDAwMGI2OWRmNmUzMjQxNGM4MjA5YjljOWM3NzMxZjRkOTVk`

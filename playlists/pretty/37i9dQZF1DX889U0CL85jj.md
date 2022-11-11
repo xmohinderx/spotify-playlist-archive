@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,377,182 likes - 151 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,377,647 likes - 151 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 25 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 |
 | 26 | [Tag](https://open.spotify.com/track/0LrVtzdvd2ojEuFMUURlA1) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Tag](https://open.spotify.com/album/66ULdjZjnE8Dbq6XBLzPt0) | 3:10 |
 | 27 | [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 |
-| 28 | [moonlight](https://open.spotify.com/track/2Qn6WHJrY5Im82Jux8FboH) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:39 |
+| 28 | [moonlight](https://open.spotify.com/track/70MgcT507FGdoDBBLdmsqu) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [moonlight](https://open.spotify.com/album/6jvIUGhZWFV3FkyLM4c3WN) | 2:39 |
 | 29 | [I'll Be Around](https://open.spotify.com/track/54PkkR2tqM1UhveOmTaDag) | [Linda Diaz](https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3) | [I'll Be Around](https://open.spotify.com/album/2VvQzDQTF5gjA2bq12vZZt) | 2:40 |
 | 30 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 |
 | 31 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
-| 32 | [Charlie](https://open.spotify.com/track/4rpQqMvt3APBHHONRjsVhP) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Charlie](https://open.spotify.com/album/5uU4vi2829KfY06HHjckw3) | 3:05 |
-| 33 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 |
+| 32 | [Charlie](https://open.spotify.com/track/60XFDDnbdo98aJ281UasVA) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Photograph](https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6) | 3:05 |
+| 33 | [Slowing Down](https://open.spotify.com/track/4PPodWxVosPAXvwLlqbjyt) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/3Yo08VwO5AZjYxM9XC6IXp) | 5:20 |
 | 34 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 |
 | 35 | [Dream About You \(feat\. Halima\)](https://open.spotify.com/track/0cl805dKSvEQNUBD7iq9ZD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [London Safari](https://open.spotify.com/album/4HSk5BHyYIk15DOSUJGkwo) | 3:04 |
 | 36 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 74 | [My Sunny Day \- Kina Remix](https://open.spotify.com/track/17uhetjXsCctreur8sxfqo) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF) | [My Sunny Day \(Kina Remix\)](https://open.spotify.com/album/4GKIrekHWizVNtsyHFeWgV) | 1:56 |
 | 75 | [Alphamale](https://open.spotify.com/track/4YjSFVKbjEXHEgFiE4aFP4) | [Mandaworld](https://open.spotify.com/artist/2N6Ed6g2uFyP2D03Bxo3x3) | [Alphamale](https://open.spotify.com/album/6xAxbY22ClrcbdF4H6fMhJ) | 4:57 |
 | 76 | [Slowdiving](https://open.spotify.com/track/4oqyzxXvzHTptWo5l2tlpz) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [Hundred Fifty Roses](https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR) | 3:14 |
-| 77 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 |
+| 77 | [Greener](https://open.spotify.com/track/4nYtmcShP6O7QQX7dEPcQM) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/album/1t12ZzaOf2r1v47MlqzOEM) | 3:54 |
 | 78 | [My Friend](https://open.spotify.com/track/1HaiuKlLZqB1J1od7sqGhc) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 5:27 |
 | 79 | [IDK](https://open.spotify.com/track/6NrwVoFmjeNsEtrgZTMo4T) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [Pale Blue](https://open.spotify.com/album/5VTDwmPmnnDecdsd374oye) | 3:33 |
 | 80 | [you and the everything of everything](https://open.spotify.com/track/1Y8F8VNZ3Ij0MaD8PcpGpW) | [RⱯHM ⚉](https://open.spotify.com/artist/0d5QT5iD8kwkVqqBolki7F) | [you and the everything of everything](https://open.spotify.com/album/3CmN3ZRXYAdz2S3fNtlg49) | 2:40 |
@@ -153,11 +153,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 143 | [Cotton Candy](https://open.spotify.com/track/2UvMgTm9y3lStOyQE2yxKA) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/6II8lvrYj3muBLAzrC0Kzw) | 2:34 |
 | 144 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 145 | [Stranger \(feat\. Saba & Jarreau Vandal\)](https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:39 |
-| 146 | [Like a Bird](https://open.spotify.com/track/43l9LF9XUXvsSucTp7NOfm) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Ritual](https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w) | 3:09 |
+| 146 | [Like a Bird](https://open.spotify.com/track/1tIpbQ5fXklxNJAVO5lv5p) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [New Daze](https://open.spotify.com/album/7uBehObICbzbtZtKzd9aAl) | 3:09 |
 | 147 | [Doors To Kick](https://open.spotify.com/track/304031hRDCZEAIItiKxSol) | [Bobby Freemont](https://open.spotify.com/artist/52vZqisxn7wkDk6sZe8jkD), [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2) | [Doors To Kick](https://open.spotify.com/album/7cBQcCvIUy9MP78nK77xDp) | 3:26 |
-| 148 | [either side](https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:47 |
+| 148 | [either side](https://open.spotify.com/track/0GLHrNUjLXCTSCNkhxEiyZ) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [either side](https://open.spotify.com/album/3rAwadK10RPpqYufZSYl3r) | 2:47 |
 | 149 | [Zombies](https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Zombies](https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs) | 3:12 |
-| 150 | [Hate That I Love You](https://open.spotify.com/track/3b1hMSra86BaMQRROVk4JD) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:32 |
+| 150 | [Hate That I Love You](https://open.spotify.com/track/1rOGjb8wAmr7ObgLuT2U86) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Hate That I Love You](https://open.spotify.com/album/2Bxs8q5gmTNHcHhf1TPhN3) | 3:32 |
 | 151 | [Diamond](https://open.spotify.com/track/0CDf8A5GogzQdJlTh4L22f) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Diamond](https://open.spotify.com/album/314L5eEcSAupRv9pQdKiMj) | 3:23 |
 
-Snapshot ID: `MTY2Nzg2MzcxOCwwMDAwMDAwMDg2MGU5ZTliZjU4MDU1ZTVkOTU2N2I4ZmNkZWM2YTE1`
+Snapshot ID: `MTY2Nzg2MzcxOCwwMDAwMDAwMDdjZWU2MmNkMjZiMDQ3ODg1YjI3ZGFkNjNhZmI0MTE3`

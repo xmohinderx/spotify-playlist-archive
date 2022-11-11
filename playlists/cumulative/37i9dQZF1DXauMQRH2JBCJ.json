@@ -238,6 +238,24 @@
     },
     {
       "album": {
+        "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
+      },
+      "artists": [
+        {
+          "name": "Anika Noni Rose",
+          "url": "https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144426,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/2GLyruWagsv8o7aGNXboH1"
+    },
+    {
+      "album": {
         "name": "The Princess and the Frog",
         "url": "https://open.spotify.com/album/6UtWL1MOnEAua8BQb0l1g2"
       },
@@ -267,7 +285,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 144826,
       "name": "Almost There - From \"The Princess and the Frog\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/3aJgAgTI9srxcTuyzVDtkm"
@@ -649,10 +667,32 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 194160,
       "name": "Go the Distance",
       "url": "https://open.spotify.com/track/0D1OY0M5A0qD5HGBvFmFid"
+    },
+    {
+      "album": {
+        "name": "NOW That's What I Call Disney",
+        "url": "https://open.spotify.com/album/2q1CZCUv9MxonuzgFkC8hS"
+      },
+      "artists": [
+        {
+          "name": "Roger Bart",
+          "url": "https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195186,
+      "name": "Go the Distance - From \"Hercules\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/3F4SrzdNtviMetb8oSYZog"
     },
     {
       "album": {
@@ -805,10 +845,48 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 140226,
       "name": "I Won't Say (I'm In Love)",
       "url": "https://open.spotify.com/track/0PKmDncVOiNQLO6D1P6PXi"
+    },
+    {
+      "album": {
+        "name": "Disney Classics",
+        "url": "https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0"
+      },
+      "artists": [
+        {
+          "name": "Susan Egan",
+          "url": "https://open.spotify.com/artist/7CckquWatDQSr3PFKkjM8M"
+        },
+        {
+          "name": "Cheryl Freeman",
+          "url": "https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd"
+        },
+        {
+          "name": "LaChanze",
+          "url": "https://open.spotify.com/artist/3zT7dcLl9wbSXsVh3VQx3A"
+        },
+        {
+          "name": "Vaneese Thomas",
+          "url": "https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK"
+        },
+        {
+          "name": "Lillias White",
+          "url": "https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139440,
+      "name": "I Won't Say (I'm In Love) - From \"Hercules\"",
+      "url": "https://open.spotify.com/track/4p9nwYUhmGYmfIDYCmAdzQ"
     },
     {
       "album": {
@@ -918,6 +996,24 @@
     },
     {
       "album": {
+        "name": "French Cafe",
+        "url": "https://open.spotify.com/album/4Nhg2RiTf4USiTqAKsGL3z"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205213,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/541kGNeBBWilXUDjIagIYO"
+    },
+    {
+      "album": {
         "name": "Highlights From His Decca Years",
         "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
       },
@@ -929,7 +1025,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 206333,
       "name": "La vie en rose - Single Version",
       "url": "https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD"
@@ -1122,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "La Princesa y el sapo (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217746,
+      "name": "Never Knew I Needed",
+      "url": "https://open.spotify.com/track/5cGQ9Ctjjm5wKzmOCBlhwR"
+    },
+    {
+      "album": {
         "name": "Never Knew I Needed",
         "url": "https://open.spotify.com/album/5MO7LCHbuwp6OePA2R8e7g"
       },
@@ -1133,7 +1247,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 216613,
       "name": "Never Knew I Needed - From \"The Princess and the Frog\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2Ei07VELTKHy7bJHWxNDRI"
@@ -1393,7 +1507,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 164453,
       "name": "Remember Me (D\u00fao)",
       "url": "https://open.spotify.com/track/48HBOFsmgIZI5GR3VnIzWL"
@@ -1419,6 +1533,28 @@
       "duration_ms": 164453,
       "name": "Remember Me (D\u00fao)",
       "url": "https://open.spotify.com/track/4uXtUq8f0Vbcsjixby3scy"
+    },
+    {
+      "album": {
+        "name": "Coco (Colonna Sonora Originale)",
+        "url": "https://open.spotify.com/album/0PCGDp3bAyWoJiqzoyVBkv"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164453,
+      "name": "Remember Me (D\u00fao)",
+      "url": "https://open.spotify.com/track/75hlRbQoPIcPE4jBnSHXtb"
     },
     {
       "album": {
@@ -1887,7 +2023,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 195066,
       "name": "When You Wish Upon a Star",
       "url": "https://open.spotify.com/track/1WrPa4lrIddctGWAIYYfP9"
@@ -1909,6 +2045,28 @@
       "duration_ms": 117693,
       "name": "When You Wish Upon A Star",
       "url": "https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf"
+    },
+    {
+      "album": {
+        "name": "NOW That's What I Call Disney",
+        "url": "https://open.spotify.com/album/2q1CZCUv9MxonuzgFkC8hS"
+      },
+      "artists": [
+        {
+          "name": "Cliff Edwards",
+          "url": "https://open.spotify.com/artist/0aeRagbqQCOKkVURrvcMrn"
+        },
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "When You Wish Upon a Star - From \"Pinocchio\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1b9abuUjdHG9kDCndQvUIT"
     },
     {
       "album": {

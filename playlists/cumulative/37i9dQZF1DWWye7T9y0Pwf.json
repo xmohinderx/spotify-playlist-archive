@@ -1368,6 +1368,32 @@
     },
     {
       "album": {
+        "name": "HOUSE OF KETA",
+        "url": "https://open.spotify.com/album/053Vp0HYLeXNSAbHK3mI6w"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "Kenjii",
+          "url": "https://open.spotify.com/artist/0gK6u95aXuNa8jNjhgPc0o"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217880,
+      "name": "HOUSE OF KETA",
+      "url": "https://open.spotify.com/track/0olMIQ9WvI5kEryFGJo6J9"
+    },
+    {
+      "album": {
         "name": "W",
         "url": "https://open.spotify.com/album/2ykygMGjCj9xRwHsZGn3cT"
       },
@@ -1413,7 +1439,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 217880,
       "name": "HOUSE OF KETA",
       "url": "https://open.spotify.com/track/2AjIYVOpQL1CMOjv8Z0IRT"

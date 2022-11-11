@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWaD7ByJaBc.md) - [plain]
 
 > Artist, producer and writer behind many of your favourite songs makes his Pride selection for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,342 likes - 23 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,344 likes - 23 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWaD7ByJaBc.md) - [plain]
 | 4 | [SHY \(feat\. Brayton Bowman\)](https://open.spotify.com/track/2mw5S1dAoQQVaPzzw3L4GP) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [SHY \(feat\. Brayton Bowman\)](https://open.spotify.com/album/5YUvTwep48ur21zr49sDKk) | 3:24 |
 | 5 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |
 | 6 | [MNEK: A Moment \- \#PressPlayForPride](https://open.spotify.com/track/6bXZLjfifow3OZ4bDtg4Xc) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [\#PressPlayForPride](https://open.spotify.com/album/3pjz5PfLYPdrxQfHuM7nao) | 0:46 |
-| 7 | [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 |
+| 7 | [Ready For Your Love](https://open.spotify.com/track/47QylltdW541V0NPOsygrB) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Feel Good Dance Zone](https://open.spotify.com/album/2F4nLH9MJUxfjz8JQZKOQN) | 3:19 |
 | 8 | [Nobody](https://open.spotify.com/track/4V3AFyNbIcTFCHGB0BtlSL) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Gold Link](https://open.spotify.com/artist/5ejcLivtopCjlEYaC5QK82) | [Leisure](https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO) | 3:20 |
 | 9 | [LITE SPOTS](https://open.spotify.com/track/3Fc7k96EGOGiJBMZUxbpq7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:50 |
 | 10 | [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWaD7ByJaBc.md) - [plain]
 | 22 | [MNEK: Pride \- \#PressPlayForPride](https://open.spotify.com/track/5ShOjEUeSBr4fgBelfB7Vd) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [\#PressPlayForPride](https://open.spotify.com/album/3pjz5PfLYPdrxQfHuM7nao) | 0:25 |
 | 23 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
 
-Snapshot ID: `MTQ5OTA3MzM2MCwwMDAwMDAwMGFmMTczNmJkYzc5ODhhODhkYWJhMGQzOWFlODJhZWIw`
+Snapshot ID: `MTQ5OTA3MzM2MCwwMDAwMDAwMGMwYjMwYmI4MzYwZjJmMzY5NGFmYzVkMTk5N2FlOTBh`

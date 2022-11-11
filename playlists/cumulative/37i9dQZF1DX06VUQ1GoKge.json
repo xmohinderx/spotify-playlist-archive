@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 238813,
       "name": "99",
       "url": "https://open.spotify.com/track/5otXJIeiF43SPz7R7ov8GX"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 263080,
       "name": "A Warrior's Call",
       "url": "https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83"
@@ -275,6 +275,24 @@
       "duration_ms": 340132,
       "name": "All Out Life",
       "url": "https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5"
+    },
+    {
+      "album": {
+        "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2021-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231444,
+      "name": "Amaranth",
+      "url": "https://open.spotify.com/track/0RsOUnm1wNpbXxZ8a4abOP"
     },
     {
       "album": {
@@ -923,7 +941,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 227440,
       "name": "Choke",
       "url": "https://open.spotify.com/track/1BW2QdLe6RtJTMJDSYmg9w"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 234226,
       "name": "Du hast",
       "url": "https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 173174,
       "name": "Holy Roller",
       "url": "https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 395500,
       "name": "Kai Tangata",
       "url": "https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 284026,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 253317,
       "name": "My Own Grave",
       "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
@@ -2441,7 +2459,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 256266,
       "name": "Ordinary Story",
       "url": "https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc"
@@ -2783,7 +2801,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 225026,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB"
@@ -3559,7 +3577,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 218133,
       "name": "Under and Over It",
       "url": "https://open.spotify.com/track/7DyCmfT0WNViykLTHGT3yO"

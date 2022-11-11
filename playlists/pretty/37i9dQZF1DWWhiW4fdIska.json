@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 14746,
+  "num_followers": 14770,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMDVjYjUxMzVjODViMmZiMzc5ZjE2NjczYTYxY2M3YjI3",
+  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMDZiMzEyZTk2OGNjYmQ1ZjhhMzhlZDliOThiM2VlNDAy",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -231,22 +231,6 @@
       "duration_ms": 301266,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 431853,
-      "name": "Stone Crazy",
-      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -643,6 +627,26 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "In Session (Remaster w/ eBooklet)",
+        "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 910480,
+      "name": "Blues At Sunrise",
+      "url": "https://open.spotify.com/track/466HB0s7nG40VJ7dplDmaI"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "Blue Guitar",
         "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
       },
@@ -671,26 +675,6 @@
       "duration_ms": 195693,
       "name": "Cuttin' In",
       "url": "https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "In Session",
-        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 910573,
-      "name": "Blues At Sunrise",
-      "url": "https://open.spotify.com/track/2iRvnj638AaNON730B5yIs"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -835,6 +819,22 @@
       "duration_ms": 316666,
       "name": "It's My Own Fault",
       "url": "https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Buddy's Blues",
+        "url": "https://open.spotify.com/album/1VUo4Kxd4tLGHrx13V1TVu"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 431906,
+      "name": "Stone Crazy",
+      "url": "https://open.spotify.com/track/3vn0f3JPAErg8fzJs19ObG"
     }
   ],
   "unique_name": "Classic Blues Guitar",

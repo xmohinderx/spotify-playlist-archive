@@ -690,6 +690,24 @@
     },
     {
       "album": {
+        "name": "I Love Rock 'N' Roll: Anthems for Hard Times",
+        "url": "https://open.spotify.com/album/3tnfZZT3fglzc62rC4R0zv"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228640,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5t3aFNzwIEl8mxiR5abgJG"
+    },
+    {
+      "album": {
         "name": "The Foundation",
         "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
@@ -701,7 +719,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228653,
       "name": "Free",
       "url": "https://open.spotify.com/track/4BaAxwS4VoeCYk9TuXQs7f"
@@ -1834,6 +1852,24 @@
     },
     {
       "album": {
+        "name": "Late Nights And Longnecks (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/7zWRRC8wHbEVsFYEfQVqR8"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "The Ones That Didn\u2019t Make It Back Home",
+      "url": "https://open.spotify.com/track/5FuRFQ9pP3ftNZT4hgSqyw"
+    },
+    {
+      "album": {
         "name": "Late Nights And Longnecks",
         "url": "https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K"
       },
@@ -1845,7 +1881,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 191018,
       "name": "The Ones That Didn\u2019t Make It Back Home",
       "url": "https://open.spotify.com/track/6Vmb8Ru0BvjWGozOVGApRd"
@@ -1997,10 +2033,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174837,
       "name": "We Didn't Have Much",
       "url": "https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX"
+    },
+    {
+      "album": {
+        "name": "New Country Hits: January 2022",
+        "url": "https://open.spotify.com/album/1zWgzrN2EaChN5QPgxdFca"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174837,
+      "name": "We Didn't Have Much",
+      "url": "https://open.spotify.com/track/4WUJBgEvVaNyDnfmG2bpaQ"
     },
     {
       "album": {
@@ -2040,6 +2094,24 @@
     },
     {
       "album": {
+        "name": "4th of July",
+        "url": "https://open.spotify.com/album/78gK94dhgh6ol8WkfX0L6f"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "Where I Find God",
+      "url": "https://open.spotify.com/track/1kczRjh9aT7N82jtCYbkqF"
+    },
+    {
+      "album": {
         "name": "Where I Find God",
         "url": "https://open.spotify.com/album/26pbiUILSs4FA7boHlB3QY"
       },
@@ -2069,7 +2141,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 249613,
       "name": "Where I Find God",
       "url": "https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa"

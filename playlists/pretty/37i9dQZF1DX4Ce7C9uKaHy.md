@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,288 likes - 80 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,293 likes - 80 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 5 | [Solitude](https://open.spotify.com/track/68Q59HvGVaA4kQbAbJoh00) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Dreamer](https://open.spotify.com/album/0I2bgaPp0ktK6AXGlADqHI) | 2:04 |
 | 6 | [Again](https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH) | 2:23 |
 | 7 | [Transcend](https://open.spotify.com/track/0rPj7S7wJ7IF4PiUXlRRfY) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs) | [Perpetual](https://open.spotify.com/album/22cGIyIDKV7ZcOMuiBqf8R) | 2:01 |
-| 8 | [Sundown](https://open.spotify.com/track/1ZNBBIqH0beHORllNd3Uud) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86) | [Sundown](https://open.spotify.com/album/3Q7VU1KXqFwgvVqcf2RmTf) | 2:48 |
+| 8 | [Sundown](https://open.spotify.com/track/6Q9QZRk3FjWWrbz1szGh2M) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86) | [Chillhop Yearmix 2020](https://open.spotify.com/album/2g9frEs9937i2AxcwM0PWS) | 2:48 |
 | 9 | [Down River](https://open.spotify.com/track/4U09TYIzR2k3oo3gXiknjm) | [dryhope](https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t) | [Contrasts](https://open.spotify.com/album/7wDFM8dEj8csU071gXJmkH) | 2:24 |
 | 10 | [Great Fairy's Fountain](https://open.spotify.com/track/1umuPHLW27T84q7nap3Aer) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Great Fairy's Fountain](https://open.spotify.com/album/0B10tHXVpvJ2Ii6IKXUZuf) | 1:52 |
 | 11 | [looking through old pictures of us](https://open.spotify.com/track/76ypgNi0b7oDbboHzXi2qK) | [dankush](https://open.spotify.com/artist/4zxP5ygXMD6Ycjfi3M8Gkf) | [looking through old pictures of us](https://open.spotify.com/album/2QE3VXl4HdXYM1Vl8s7CWP) | 2:40 |
 | 12 | [hey x](https://open.spotify.com/track/0ux0CW8DioEvqSl1oI4mlV) | [Miro](https://open.spotify.com/artist/5xvi5IOvzPsJxrQwVYrOXw) | [hi, i'm minty](https://open.spotify.com/album/4EYbb8gsQGvQveOC4KzMDn) | 3:19 |
-| 13 | [Hourglass](https://open.spotify.com/track/1YYdaHYdCOCyAeWUfSiUkE) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Hourglass](https://open.spotify.com/album/2s5jwScnGM1tHRvVvHv1Iz) | 1:54 |
+| 13 | [Hourglass](https://open.spotify.com/track/3ktO0IHeFZ4trq6ojXC2dG) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Clearing](https://open.spotify.com/album/78qfYPOyspcz0N39IOmi9C) | 1:54 |
 | 14 | [in my head](https://open.spotify.com/track/7KwEzXyn7vmPHr7wqmThLA) | [anybodyy](https://open.spotify.com/artist/1aub8GgJikwSG4wUMWZrzl) | [a lifetime / in my head](https://open.spotify.com/album/63wBnahx47YdNGVY39pjDX) | 1:56 |
 | 15 | [Melatonin](https://open.spotify.com/track/1fMTAkArOgnwGTj1mYahyZ) | [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [Melatonin](https://open.spotify.com/album/5cYAPF3N32r7wUEl8WtGRI) | 3:32 |
 | 16 | [I know you better](https://open.spotify.com/track/1U5feIyPWBl8tRkSk4cwWR) | [hiraeth.](https://open.spotify.com/artist/5oLTLuHsqyA78zxL9l3Udp) | [I know you better](https://open.spotify.com/album/4iKYslxWY70QS5XpofwuC2) | 1:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 79 | [Take Five](https://open.spotify.com/track/11ppb9MvpzxbmChaakrKKK) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Take Five](https://open.spotify.com/album/1lIfPSq2TmUxaGOiUKmUP0) | 2:18 |
 | 80 | [Moonlight](https://open.spotify.com/track/0fgWMwqn3me97RFl2CTOKP) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 3](https://open.spotify.com/album/2AldFXJiuHfti8YgkUNQTG) | 3:38 |
 
-Snapshot ID: `MTU4ODc3NDkzMCwwMDAwMDAwMGFjNzFiNjhiMDc3ZGY1Nzk1M2VlZjRmYTlkNTNiMGVm`
+Snapshot ID: `MTU4ODc3NDkzMCwwMDAwMDAwMGVmYTEwOTI5ZTg4YTZiM2IyZDgzYzFhODk4ODAxY2Rm`

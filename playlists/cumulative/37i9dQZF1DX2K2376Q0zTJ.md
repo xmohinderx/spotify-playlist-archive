@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  春ねむり
 
-587 songs - 1 day 11 hr 0 min - [published](https://open.spotify.com/playlist/41lFKfewPWEL5zWVowuASC)
+588 songs - 1 day 11 hr 4 min - [published](https://open.spotify.com/playlist/41lFKfewPWEL5zWVowuASC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [i/o](https://open.spotify.com/track/5tE1DWfXwKUlN9N6lUbqmq) | [MINAKEKKE](https://open.spotify.com/artist/4PJ4EXyGkUrYuZt9AwW3eT) | [i/o](https://open.spotify.com/album/0d5rs7EK6PHbsiIzOJqWzO) | 3:28 | 2022-01-04 |  |
 | [Ideals](https://open.spotify.com/track/5mtJlCniBac2Jhx0eorAPZ) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [On This Planet](https://open.spotify.com/album/50jTBdULiq1mR4B8DG5m6e) | 2:55 | 2022-07-05 | 2022-08-03 |
 | [If](https://open.spotify.com/track/10q5xuxzTGWyBtG0fQfseC) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [If](https://open.spotify.com/album/4wxvHYc2ESuh2euEMn2SlF) | 3:15 | 2021-11-30 | 2022-01-05 |
-| [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 | 2022-07-05 |  |
+| [Ikiru](https://open.spotify.com/track/4JWu1gBP7n65gWQpCaB8Jp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Ikiru](https://open.spotify.com/album/1s1I4gJuMJJBLZbH9JupgE) | 4:01 | 2022-11-08 |  |
+| [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 | 2022-07-05 | 2022-11-11 |
 | [Illegal](https://open.spotify.com/track/698DmNlHSMoRsRu7TljpLX) | [Marukido](https://open.spotify.com/artist/2TGGk4cLMH1vGMAktQBhZT), [Ayu](https://open.spotify.com/artist/7HF7JMvXXQFblGwMUYb8lP), [namichie](https://open.spotify.com/artist/3RtSsC1hY28YyW1UrYbA7V) | [Illegal](https://open.spotify.com/album/5GyV8gh1ptkAUOQHiIEXnd) | 4:08 | 2022-08-02 | 2022-09-07 |
 | [Im tryin : \(](https://open.spotify.com/track/5BdpvU671vob2De9LCGbDH) | [Lilniina](https://open.spotify.com/artist/2sQQn4m6eLqk0wt3TOkaGw) | [PricE of pAssioN](https://open.spotify.com/album/7EgtaXD6tVPw5Z4h425KKZ) | 1:31 | 2022-02-01 | 2022-03-08 |
 | [In My Head](https://open.spotify.com/track/2dzL4vLcb8uGjP8YoskjfO) | [THE LET'S GO's](https://open.spotify.com/artist/6taxB6tZsn4SxvlmPjfmXz) | [In My Head](https://open.spotify.com/album/58yZDJ4mn5BuEFZuBkSHB8) | 2:28 | 2022-05-04 | 2022-06-01 |

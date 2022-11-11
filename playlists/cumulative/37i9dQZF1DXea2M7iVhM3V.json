@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Run the Jewels 2 (Instrumentals)",
+        "url": "https://open.spotify.com/album/2nEgrwFRPKoYG3TNwLd2Sf"
+      },
+      "artists": [
+        {
+          "name": "Run The Jewels",
+          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152253,
+      "name": "Blockbuster Night, Pt. 1",
+      "url": "https://open.spotify.com/track/5l8Yx15PGe6b5JYUusmbCl"
+    },
+    {
+      "album": {
         "name": "Run the Jewels 2",
         "url": "https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY"
       },
@@ -81,7 +99,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 152253,
       "name": "Blockbuster Night, Pt. 1",
       "url": "https://open.spotify.com/track/1AESnzWt4iMrEPGG7TjXAa"
@@ -339,7 +357,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 243053,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/0hXJmucLNpF138QY9FJvsT"
@@ -361,6 +379,24 @@
       "duration_ms": 243053,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/7GjjSQwQwq6gjcH1kQeNVn"
+    },
+    {
+      "album": {
+        "name": "Electronic Earth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7wxCRm6icWYVAfazHIBmSs"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243453,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/2L1R3Ly0Sx2fvt72JOpbIN"
     },
     {
       "album": {
@@ -495,10 +531,32 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228026,
       "name": "Just What I Am",
       "url": "https://open.spotify.com/track/20bJBbPapGQ4bqs0YcA9xY"
+    },
+    {
+      "album": {
+        "name": "Rap Essentials",
+        "url": "https://open.spotify.com/album/1cCacxveckFvuFnehpHMRJ"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "King Chip",
+          "url": "https://open.spotify.com/artist/5NjUjtjtkzZqRuWFdspT1K"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228026,
+      "name": "Just What I Am",
+      "url": "https://open.spotify.com/track/2AL3OhJT6TeZIiYUZUnSeW"
     },
     {
       "album": {
@@ -725,10 +783,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 203200,
       "name": "Rack City",
       "url": "https://open.spotify.com/track/0srwKuJPH8yBzzFUJMBQM2"
+    },
+    {
+      "album": {
+        "name": "Hype Songs",
+        "url": "https://open.spotify.com/album/2pSPjaQZgHuhtR8aCCOotf"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Rack City",
+      "url": "https://open.spotify.com/track/4Q9J0lLlO0BOs29mV9VlyF"
     },
     {
       "album": {
@@ -899,7 +975,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 249333,
       "name": "Yonkers",
       "url": "https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav"
@@ -921,6 +997,24 @@
       "duration_ms": 249333,
       "name": "Yonkers",
       "url": "https://open.spotify.com/track/1zsAAnB6dMpGOvXjoYP9Um"
+    },
+    {
+      "album": {
+        "name": "Yonkers",
+        "url": "https://open.spotify.com/album/4KUXmY53T1DLMZ0lVJsjjw"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "Yonkers",
+      "url": "https://open.spotify.com/track/7fnH9vpllrPLuIgLQ2x7ji"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXea2M7iVhM3V"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 
 > Songs so beautiful, made for the night
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,264 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,287 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 23 | [So Close Now](https://open.spotify.com/track/1P5WxDUWkG5xwgbnTn4i21) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [So Close Now](https://open.spotify.com/album/6FTDsy98nHodCOgQ8e2b3F) | 3:37 |
 | 24 | [U](https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:08 |
 | 25 | [Dermot \(see yourself in my eyes\)](https://open.spotify.com/track/1zAIRb8mTj8CcAUXW2FoMd) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:48 |
-| 26 | [Night Drive](https://open.spotify.com/track/2ehugDWnbyKOsT0YEDvufH) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/4GyAthXR1rB5aTV4dY5DIP) | 4:16 |
+| 26 | [Night Drive](https://open.spotify.com/track/3Usxl2P8wJ7voC2l2cqSd7) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Night Drive](https://open.spotify.com/album/6sQTwnbFLuiLNSn4SlpzoW) | 4:16 |
 | 27 | [Silver](https://open.spotify.com/track/2O5A6C5FDRgx2xufseMDOE) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx) | [Kele EP](https://open.spotify.com/album/2FqP3RHU3Z5JOoXMhUjeXG) | 4:10 |
 | 28 | [Wildflower](https://open.spotify.com/track/2mIQWWaYinwqKxjEmE8Ave) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Wildflower](https://open.spotify.com/album/3mbvYM42ufrBY4ISpF8rtP) | 3:38 |
 | 29 | [Passionfruit](https://open.spotify.com/track/5HwHdYpk3QiOUhsfWKYkFq) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 4:34 |
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 39 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 |
 | 40 | [Fall](https://open.spotify.com/track/2ig2SCNvE1jtjzZhTWZjA5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:17 |
 | 41 | [I Will Wave To You](https://open.spotify.com/track/5p39yQKTqsjc5Y3XNgoXVM) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [I Will Wave To You / Heterize](https://open.spotify.com/album/4oLxNhAdMueTwNU6l3tFxt) | 4:19 |
-| 42 | [Still Here](https://open.spotify.com/track/0ohx2z14GguzZPmd3Xn7Xy) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Maybe We Could](https://open.spotify.com/album/3VtEYbEgLnLwJPml2lOYLi) | 3:34 |
+| 42 | [Still Here](https://open.spotify.com/track/7pxtqeUQDD6q52etWM1UeW) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Somehow](https://open.spotify.com/album/4Ewcp68CLkfu4Zzj4r0JAS) | 3:34 |
 | 43 | [Ritual](https://open.spotify.com/track/2LwYxvZHiYuiDREh29K5lG) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Breaking My Mind / Ritual](https://open.spotify.com/album/0mYepiqOEbEaDTaBmNZj9Z) | 4:16 |
 | 44 | [Freedom \- Franky Wah x Future Utopia Remix](https://open.spotify.com/track/6JUmowMz2GFdVaY2G5VHgq) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [12 Questions After Dark](https://open.spotify.com/album/2UOnLN1LGCxkPDULJXjKOQ) | 4:18 |
 | 45 | [Run](https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [U](https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf) | 5:59 |
 | 46 | [hold on](https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [hold on](https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ) | 3:28 |
 | 47 | [JOY \(Overcome\)](https://open.spotify.com/track/5jDR7oIt1Ibz0xuZRhJuAf) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Overcome\)](https://open.spotify.com/album/5UqtSRZcARg0vpN4SZvO5I) | 3:36 |
-| 48 | [Light Up](https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5) | 3:48 |
+| 48 | [Light Up](https://open.spotify.com/track/3UttVkIDEczHL8wb2JUas0) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Light Up](https://open.spotify.com/album/28YxcvOmLBAade532hXQaA) | 3:48 |
 | 49 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
 | 50 | [East Side](https://open.spotify.com/track/0AVoN6YquWdecZzjGeaPsk) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [East Side](https://open.spotify.com/album/1j4SpjaiQb1p5tTEOhMgF6) | 3:19 |
 | 51 | [Sonoran](https://open.spotify.com/track/7925XkbGxCdaj8CRht1pJt) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [MJ Cole Presents Madrugada](https://open.spotify.com/album/2BZVe7dId9BVvwziNOSQQT) | 4:09 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 68 | [Clear Blue Skies](https://open.spotify.com/track/4n8bUj3AY5ftS3d5dD43MZ) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [A Bath Full of Ecstasy](https://open.spotify.com/album/6lkUImwpLYQnkiygVaMoAJ) | 6:45 |
 | 69 | [Please \- Ross From Friends Remix](https://open.spotify.com/track/36nBJIfzFTvSQ5m7VlN6VD) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Please \(Ross From Friends Remix\)](https://open.spotify.com/album/3ztiVhYIsgqQAxdrYovhXM) | 4:57 |
 | 70 | [Talia](https://open.spotify.com/track/49KMGrpCasQj4bP7R27nEL) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Talia](https://open.spotify.com/album/3fr1pMdhBZKMGRbfkki8OD) | 4:33 |
-| 71 | [Fall Again](https://open.spotify.com/track/3DU0kVyL8d8DgINz9qBxPQ) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Help](https://open.spotify.com/album/3dfh1q4L1CJyyIC47Sinln) | 4:10 |
+| 71 | [Fall Again](https://open.spotify.com/track/4XZyoKQDW23k96PFkcsmAO) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Fall Again](https://open.spotify.com/album/2q8T7PMRRMMXhEm5fhvKG4) | 4:10 |
 | 72 | [Sacred](https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y) | 5:47 |
 | 73 | [Bagsy Not In Net](https://open.spotify.com/track/3J09NCAVxby84HQxp8C0dO) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:26 |
 | 74 | [JOY \(Warm Bullet\)](https://open.spotify.com/track/651ISDzJhS2cIYtXlHiMXl) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Fred](https://open.spotify.com/artist/3oHPPysnsyCHI6qEIiWDSK) | [JOY \(journal.30.03.2020\)](https://open.spotify.com/album/61RjvAdIxRfGijHvmVRgb7) | 4:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 79 | [Little Girl](https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/65Omxu0Zx1jcdJhLJ4OuRw) | 4:12 |
 | 80 | [The Sun Is Warm and Directly Above You](https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [The Sun Is Warm and Directly Above You](https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1) | 3:42 |
 
-Snapshot ID: `MTY1ODg1NzYyOCwwMDAwMDAwMDhlNzQyZDU4OWM4ZjBiYWIxZTI3YTM1YTFjODdmNjdi`
+Snapshot ID: `MTY1ODg1NzYyOCwwMDAwMDAwMDE3MmQxYmRiZDlhNzIwOTljZWY2YWJiN2QzYWJmNGI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,238 likes - 70 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,310 likes - 70 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 2 | [Eagle Flies High](https://open.spotify.com/track/0dVWvNnTXDmHtQKuQ4xYNu) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi) | [Eagle River](https://open.spotify.com/album/4Xr5LjZL78urG5Wv09ewLy) | 3:32 |
 | 3 | [The Two Feathers](https://open.spotify.com/track/41SCDPYvddVF6dVnQ33U18) | [Cheryl B\. Engelhardt](https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [The Passenger](https://open.spotify.com/album/6BOlCg7eDQ6dECEPIXOuK5) | 3:26 |
 | 4 | [Wind Spirit](https://open.spotify.com/track/4o3bNPUWTYfRbu8hg6j7s9) | [Bill Miller](https://open.spotify.com/artist/2l8E4EL4K1KGVjKbkDKpKP) | [Spirit Songs: The Best Of Bill Miller](https://open.spotify.com/album/6jKizuqUjYCyPbFHvvysKe) | 2:56 |
-| 5 | [Inviting the Rain Spirits](https://open.spotify.com/track/407L2dxJWj7vOPgeWBY1cQ) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Healers of the Flute](https://open.spotify.com/album/6Dd1QnIuHrg5pilZn9BL26) | 4:54 |
-| 6 | [Council of the Flocks](https://open.spotify.com/track/0H0lhPBWOTrfPmR9o0ZEV6) | [Alice Gomez](https://open.spotify.com/artist/3MrlGi7epLyRUbC9F6p3XQ), [Eric Casillas](https://open.spotify.com/artist/4ZErN3ia0trBrMP88iZgaE), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK), [Mesa Music Consort](https://open.spotify.com/artist/2BQnWxr7muleTey50XBtAt) | [Wind Riders](https://open.spotify.com/album/2oyZtr5NOa8bkTBHRUU3r5) | 5:33 |
+| 5 | [Calling the Spirits](https://open.spotify.com/track/7CNwZiq2qAVvAhfyK6LCPB) | [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Stress Release](https://open.spotify.com/album/359jd8aPANBPW4RK04BsvU) | 4:54 |
+| 6 | [Council of the Flocks](https://open.spotify.com/track/2q0pPNtcPXBi2Veb69LSd0) | [Mesa Music Consort](https://open.spotify.com/artist/2BQnWxr7muleTey50XBtAt) | [Spirit Feathers](https://open.spotify.com/album/5JKCgbvoNTU12Bihmt9ig8) | 5:34 |
 | 7 | [Baby Steps](https://open.spotify.com/track/2AqfTYUmy87yGGQV18FnWM) | [Mad Dog Friedman](https://open.spotify.com/artist/1mSYpJ1EIm18MC57GLGkg7) | [Touched](https://open.spotify.com/album/5BRU0kmqRF9aHTWkc7GcUO) | 2:24 |
 | 8 | [Nocturnal Spirits](https://open.spotify.com/track/5VVE2ZfhYaqJidMm0JJRyI) | [Joseph FireCrow](https://open.spotify.com/artist/6dsM8kgVKhrheuqmDaviZg) | [Night Walk](https://open.spotify.com/album/2YaOLFTueNlOlR5DdhP9Ne) | 4:18 |
 | 9 | [Oneness](https://open.spotify.com/track/4q1KFH2a5abfgXUgPSVCHB) | [Ann Licater](https://open.spotify.com/artist/5utgQcBcWNJKpODrerbyEL) | [Invitation from Within](https://open.spotify.com/album/2zqDJRJWYb7010Hwj7ePhh) | 2:29 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 18 | [Red Hawk Hill](https://open.spotify.com/track/2YBLASHNLeFdlbUDioE5UW) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Red Hawk Hill](https://open.spotify.com/album/6hwOFe2iX2u9vXsZTVWiiF) | 3:29 |
 | 19 | [Ephemera](https://open.spotify.com/track/1GkS209qUwcBt04MJ1RDca) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Connections](https://open.spotify.com/album/4R6ioJh3mvtJrE7PS9wmnw) | 5:05 |
 | 20 | [Taos Summer Nights](https://open.spotify.com/track/3NMtFLp7SAusoKo1UI62Xr) | [Robert Mirabal](https://open.spotify.com/artist/3rCzOTPZysU7pjOi6fmwJg) | [Song Carrier](https://open.spotify.com/album/59mxUFZ7iAE29OF35AANwA) | 4:48 |
-| 21 | [Evening Star](https://open.spotify.com/track/4E5hoFyCrxg5Q7SJFvzr3b) | [Kyle Councillor](https://open.spotify.com/artist/6Aa8dXlGxUfWmhAsbojBzI) | [Livin' The Good Life](https://open.spotify.com/album/4RM2fB8xhMUhTu0OvXGmZQ) | 4:22 |
+| 21 | [Evening Star](https://open.spotify.com/track/6M528mJhSbjvrraZ36Id30) | [Ojibway People](https://open.spotify.com/artist/1ZRY5q3HnD3efePL0544VC) | [Native American Flute](https://open.spotify.com/album/1bhhUJq9wxV0STbUNFC9cA) | 4:20 |
 | 22 | [Wood over Water](https://open.spotify.com/track/26hPXzXur3l8zyYJqCsejp) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi) | [Eagle River](https://open.spotify.com/album/4Xr5LjZL78urG5Wv09ewLy) | 4:13 |
 | 23 | [Dance of the Coyote](https://open.spotify.com/track/6dAMfIdThXm5dSZtnNw1m6) | [Tony Duncan](https://open.spotify.com/artist/57j0g1L7kjnLpoDKjyaU8m) | [Earth Warrior \- Light of our Ancestors](https://open.spotify.com/album/3DIpGvfh9BjK8cV5tiPfEr) | 3:08 |
 | 24 | [Inward Journey](https://open.spotify.com/track/4XUvVbcITJLPEmA59suKV3) | [R\. Carlos Nakai](https://open.spotify.com/artist/2D38buglrcCl9TMZ45tkh1) | [Canyon Trilogy](https://open.spotify.com/album/3XRepPhs3JVUlwQSe7W8Sp) | 3:13 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 52 | [Within My Heart](https://open.spotify.com/track/6lZhqWTCznlvIwvHuKo1Vy) | [Mary Youngblood](https://open.spotify.com/artist/0pRrf0i6X4uUIdzYrA2mDz) | [Beneath The Raven Moon](https://open.spotify.com/album/123PtYXhb7uvCSbBHv9Qwo) | 3:14 |
 | 53 | [East/West](https://open.spotify.com/track/0mGBqjK2f3tewleF9uCTdc) | [Peter Phippen](https://open.spotify.com/artist/6m1FJ6QgwWWl11vk6mkEI0) | [Night Song](https://open.spotify.com/album/5x4NgkZof89D4qwA92AbxD) | 3:58 |
 | 54 | [Courtship Song](https://open.spotify.com/track/3bzc0xRyNkeXvESUvE2VYr) | [Robert Mirabal](https://open.spotify.com/artist/3rCzOTPZysU7pjOi6fmwJg) | [Music From A Painted Cave](https://open.spotify.com/album/1m5WXwfbkc1Jbw9Kh1H4RE) | 3:59 |
-| 55 | [Deer Spirits Welcome the Dawn](https://open.spotify.com/track/3nfeZM8TXJWjAA8fWVNtsO) | [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Ritual Mesa](https://open.spotify.com/album/5ENn6kbZmmmaZvTWdabIAa) | 2:09 |
+| 55 | [Deer Spirits Welcome the Dawn](https://open.spotify.com/track/2ezj1EA5BU3735MG0KNVar) | [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Winds of Health: Native American Flute and Nature Sounds for Bikram Yoga](https://open.spotify.com/album/6oHKRosP8ZDewQUVSQQFPk) | 2:07 |
 | 56 | [Awakening Of The Beauty Within](https://open.spotify.com/track/4YPnMiG3qbVhQv4gqHhpJ3) | [Kelvin Mockingbird](https://open.spotify.com/artist/3YTqSZPBF9lDp06TvqzdDv) | [Sacred Fire](https://open.spotify.com/album/5BxGr6annQoAOQx2UP4tqv) | 9:43 |
-| 57 | [Ancient Wisdom](https://open.spotify.com/track/1wvN1iKjY3wMr1mxKH2euD) | [Alice Gomez](https://open.spotify.com/artist/3MrlGi7epLyRUbC9F6p3XQ) | [Healer's Suite](https://open.spotify.com/album/6YXTvGErZJOIEmyuKuIzCr) | 3:36 |
+| 57 | [Ancient Wisdom](https://open.spotify.com/track/0BBoA5gIspd1uPe5MtTWhe) | [Alice Gomez](https://open.spotify.com/artist/3MrlGi7epLyRUbC9F6p3XQ) | [Spirit Prayer: Best of Native American Flute](https://open.spotify.com/album/3NhLLltbvnhL1tDXlB6CLm) | 3:36 |
 | 58 | [Sky](https://open.spotify.com/track/6UenLLk6evUCGRTJydVYvv) | [J\. Reuben Silverbird](https://open.spotify.com/artist/2dRWH3NPjbiZIFKc0sLUta) | [Shaman Spirit](https://open.spotify.com/album/1m0UCKvB5mbW0hFYdc6KDm) | 4:47 |
 | 59 | [Native Flute Symphony \- The Journey](https://open.spotify.com/track/0MpgQBGeLGD0HrYYZcAKLM) | [John Two\-Hawks](https://open.spotify.com/artist/67Gb7eYu3zEzI8rCg8kpii) | [Vision Seeker \- A Journey in Native Flute, Drum & Voice](https://open.spotify.com/album/2afkInoGkt2kqrMnWhs0na) | 4:08 |
 | 60 | [Of Shadow and Light](https://open.spotify.com/track/60EPxhYda9FZCgzhxbi3h8) | [John Two\-Hawks](https://open.spotify.com/artist/67Gb7eYu3zEzI8rCg8kpii) | [Hidden Medicine](https://open.spotify.com/album/1NZuFkLtkaStYMRRLXk12a) | 4:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 69 | [Brother Wolf](https://open.spotify.com/track/57kOtzCpHthVIepprNw5Wi) | [Music Body and Spirit](https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:15 |
 | 70 | [Healer's Quest](https://open.spotify.com/track/1bvtmhS3ELHZUjo8Od6cBZ) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Healers of the Flute](https://open.spotify.com/album/6Dd1QnIuHrg5pilZn9BL26) | 3:12 |
 
-Snapshot ID: `MTY2NjgyMTEwNSwwMDAwMDAwMDJhMzIxNjEyN2I0YmY2YTY2OGYzMTQ0Mzc5NmE3Y2M4`
+Snapshot ID: `MTY2NjgyMTEwNSwwMDAwMDAwMGIxZjNmMDUzOGY0NmRjZjQ0NjI4MTIwMzdlMjI3ODBj`

@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 114384,
+  "num_followers": 114399,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMGFlYmQ0YTJlOGZiODZlOWY3ZGMxMzhlMDkyMzVhNzUz",
+  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMGJlNTRiMGE4OWUxZDUwNTg4OGUyYjk0NjY5OWU2MDll",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -467,22 +467,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Good Times Are So Hard To Find",
-        "url": "https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9"
-      },
-      "artists": [
-        {
-          "name": "Blue Cheer",
-          "url": "https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "Good Times Are So Hard To Find",
-      "url": "https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Psychotic Reaction",
         "url": "https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 133133,
       "name": "The World",
       "url": "https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Good Times Are So Hard To Find",
+        "url": "https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9"
+      },
+      "artists": [
+        {
+          "name": "Blue Cheer",
+          "url": "https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "Good Times Are So Hard To Find",
+      "url": "https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -529,10 +529,10 @@
       "url": "https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam"
     },
     {
-      "added_at": "2018-02-28 19:55:41",
+      "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "Psychedelic Resurrection",
-        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
+        "name": "Psychedelic Lollipop",
+        "url": "https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
         }
       ],
-      "duration_ms": 137346,
-      "name": "We Ain't Got Nothin' yet",
-      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
+      "duration_ms": 250960,
+      "name": "Sometimes I Think About",
+      "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -689,10 +689,10 @@
       "url": "https://open.spotify.com/track/3i9f1ZX8IbZVsZSoSuHO8D"
     },
     {
-      "added_at": "2022-03-28 19:25:04",
+      "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Psychedelic Lollipop",
-        "url": "https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX"
+        "name": "Psychedelic Resurrection",
+        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
       },
       "artists": [
         {
@@ -700,25 +700,9 @@
           "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
         }
       ],
-      "duration_ms": 250960,
-      "name": "Sometimes I Think About",
-      "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "The Crazy World of Arthur Brown",
-        "url": "https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr"
-      },
-      "artists": [
-        {
-          "name": "The Crazy World Of Arthur Brown",
-          "url": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "I Put a Spell on You",
-      "url": "https://open.spotify.com/track/4mLPC3KlU71mb4eDMddLmT"
+      "duration_ms": 137346,
+      "name": "We Ain't Got Nothin' yet",
+      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -735,6 +719,22 @@
       "duration_ms": 238320,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/6FNHbGuJ8GkB0bty9Jm3c6"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "The Crazy World of Arthur Brown",
+        "url": "https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr"
+      },
+      "artists": [
+        {
+          "name": "The Crazy World Of Arthur Brown",
+          "url": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/4mLPC3KlU71mb4eDMddLmT"
     },
     {
       "added_at": "2018-02-28 19:55:41",

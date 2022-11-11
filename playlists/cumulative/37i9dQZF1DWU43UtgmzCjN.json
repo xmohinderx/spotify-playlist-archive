@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Los Mas Buscados",
+        "url": "https://open.spotify.com/album/78v7U6lkses8rPAyYnafVc"
+      },
+      "artists": [
+        {
+          "name": "El As De La Sierra",
+          "url": "https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172733,
+      "name": "Catarino Y Los Rurales",
+      "url": "https://open.spotify.com/track/4JjSbhab8PAHZzXW0n7Sk0"
+    },
+    {
+      "album": {
         "name": "24 Exitazos Serie Lindisima",
         "url": "https://open.spotify.com/album/49Zi6kGRaeHIBdEmtllEVD"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 175000,
       "name": "Catarino y Los Rurales",
       "url": "https://open.spotify.com/track/7pBNNMq6Bm3mVLCoNx1PnK"
@@ -232,6 +250,24 @@
     },
     {
       "album": {
+        "name": "Corridos Perrones 2020",
+        "url": "https://open.spotify.com/album/6Ul4tdi3BM7pExAomBYlBq"
+      },
+      "artists": [
+        {
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219160,
+      "name": "El Bazucazo",
+      "url": "https://open.spotify.com/track/2kCxExwXbyVe0Efffz6bjz"
+    },
+    {
+      "album": {
         "name": "Pistiando En La Sierra",
         "url": "https://open.spotify.com/album/38YQoxbWhfJHIz9o0VmcH6"
       },
@@ -243,7 +279,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 219160,
       "name": "El Bazucazo",
       "url": "https://open.spotify.com/track/4zShCKR8dEqLNMTlZkH6zJ"
@@ -355,7 +391,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187893,
       "name": "El Jardinero",
       "url": "https://open.spotify.com/track/6Ije7DlkQW6yWLMSmxxTdW"
@@ -377,6 +413,24 @@
       "duration_ms": 188013,
       "name": "El Jardinero",
       "url": "https://open.spotify.com/track/4krFbcx6JaiVgE09o9Vo1B"
+    },
+    {
+      "album": {
+        "name": "Solo \u00c9xitos Originales",
+        "url": "https://open.spotify.com/album/5C0NtlV6nT5q1jyWFxDwYr"
+      },
+      "artists": [
+        {
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "El Jardinero",
+      "url": "https://open.spotify.com/track/0C7BYwQCy97wohoDE41D9y"
     },
     {
       "album": {
@@ -557,7 +611,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 186720,
       "name": "La Banda Del Carro Rojo",
       "url": "https://open.spotify.com/track/6WDwbOSL8PGwokjxxZ7FDG"
@@ -579,6 +633,24 @@
       "duration_ms": 186720,
       "name": "La Banda Del Carro Rojo",
       "url": "https://open.spotify.com/track/7yTXEoI8CBAgekFhtjjYo5"
+    },
+    {
+      "album": {
+        "name": "Super Cantina Mix",
+        "url": "https://open.spotify.com/album/7CplfGTrsZOAHttNW8vP5z"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186880,
+      "name": "La Banda Del Carro Rojo",
+      "url": "https://open.spotify.com/track/32WjeF4mYiLUkhlrNcXXAd"
     },
     {
       "album": {
@@ -629,10 +701,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 195613,
       "name": "La Camioneta Gris",
       "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
+    },
+    {
+      "album": {
+        "name": "Mezcla Mexicana",
+        "url": "https://open.spotify.com/album/5RyK7OP8o5WrlqzTAcZau3"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198346,
+      "name": "La Camioneta Gris",
+      "url": "https://open.spotify.com/track/61AMt2RcGeddpfJNPJ0hWD"
     },
     {
       "album": {
@@ -784,6 +874,24 @@
     },
     {
       "album": {
+        "name": "Sabor a Tierra Caliente",
+        "url": "https://open.spotify.com/album/4Dd5RkifpUqlgYBsB3myVg"
+      },
+      "artists": [
+        {
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167560,
+      "name": "La Raza Michoacana - Banda",
+      "url": "https://open.spotify.com/track/0LcZV0gcYQ05b2ApGAlHyz"
+    },
+    {
+      "album": {
         "name": "Sus Grandes Exitos - Con Banda",
         "url": "https://open.spotify.com/album/063MoOtxMsfp8QhCcD2OZM"
       },
@@ -795,7 +903,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 167560,
       "name": "La Raza Michoacana - Banda",
       "url": "https://open.spotify.com/track/5E3OwMsYmS9HFZaL4Qx12j"

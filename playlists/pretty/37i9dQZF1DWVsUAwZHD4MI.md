@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,050 likes - 78 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,081 likes - 78 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 21 | [D Way You Do Me \(Prod\. Plata\)](https://open.spotify.com/track/0VfPpXQUmi1i6mUOac5VLi) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Slow Wine Mixtape](https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas) | 4:50 |
 | 22 | [Horns](https://open.spotify.com/track/0rcyKRZTyfM0y6qmDPH548) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [XTC \(The Lost Scrolls\)](https://open.spotify.com/album/0PBqzcm8XBZ873Ib5OWGdM) | 2:09 |
 | 23 | [Redlight](https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:02 |
-| 24 | [Catastral](https://open.spotify.com/track/0zahQZiY4j3EiwFxLd7rAO) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Catastral](https://open.spotify.com/album/72bJcpMKicXWaHt322G6as) | 3:13 |
+| 24 | [Catastral](https://open.spotify.com/track/4PDnVUHUOsE9uI8gb2gjuA) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [m♡rtal](https://open.spotify.com/album/4jVTHVhg89w5GPCsmOpcyV) | 3:13 |
 | 25 | [Head on Fire \- Danny L Harle Remix](https://open.spotify.com/track/3iDHkSTaDcFzsqGCsv5S5J) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Head on Fire \(Danny L Harle Remix\)](https://open.spotify.com/album/1jh1ugyuAmyGDQ5MYyAjAI) | 3:05 |
 | 26 | [Six Seven Times](https://open.spotify.com/track/2jknEB3TLUX5vEaLI4gttE) | [Flunk](https://open.spotify.com/artist/1Tz1kM5vFyBpzD22fHW609) | [Morning Star](https://open.spotify.com/album/5CcQRGb2CV6AofHROdyvHg) | 4:38 |
 | 27 | [In a Manner of Speaking](https://open.spotify.com/track/4ygRdvjxDYngbgddCtXDjT) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Nouvelle vague](https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1) | 3:58 |
 | 28 | [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 |
 | 29 | [Ray of Light](https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:20 |
 | 30 | [Picanya 2400 \- Edit](https://open.spotify.com/track/5DiQ3VjKVa9GgSoKj4Fwgh) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Picanya 2400](https://open.spotify.com/album/57kBut65htYBqDDN41dx0E) | 4:09 |
-| 31 | [Club GTA](https://open.spotify.com/track/3ShG3u3BEGei2zWxnvtKPj) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Signals in My Head](https://open.spotify.com/album/1SJo1a9KzyNnnwhjkHOb2n) | 4:06 |
+| 31 | [Club GTA](https://open.spotify.com/track/6gprNjWcdzCM014vfg97bn) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Club GTA](https://open.spotify.com/album/5MCj5iZz6khuIRp9pG3xDT) | 4:06 |
 | 32 | [Total Eclipse of the Heart \- Alternative 7 Inch](https://open.spotify.com/track/4TeGZLhI6hIKCwiRCvEkwK) | [Nicki French](https://open.spotify.com/artist/1RfiRshRC2YlSG4Y1zNkAE) | [Total Eclipse of the Heart](https://open.spotify.com/album/5mra2vTBQLmEfPZwtV2alH) | 3:49 |
 | 33 | [Mommy](https://open.spotify.com/track/13qSIkriq6c8jWFLv6Lt7z) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Mommy](https://open.spotify.com/album/5q0eJFO2tBIPXovoQoWudO) | 2:34 |
 | 34 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 36 | [Wherever You Are \(I Feel Love\) \- Dance Edit](https://open.spotify.com/track/5UMPU1mnk33js2bPuQXsRf) | [Laava](https://open.spotify.com/artist/2El8i3F2IL8wwy4jw4pX4B) | [Wherever You Are \(I Feel Love\)](https://open.spotify.com/album/1mwdveC7ss6ljPKUpJxsnu) | 3:42 |
 | 37 | [Fine Day \- James Holden Remix](https://open.spotify.com/track/1rjfXh4pK1gUJ7lT2zxnkB) | [Kirsty Hawkshaw](https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT) | [Meta Message](https://open.spotify.com/album/1MY1GwxbWx8sEWwY7TBPRQ) | 7:27 |
 | 38 | [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 |
-| 39 | [Sana Sana](https://open.spotify.com/track/234Pt4fwI6ObMlqbbHcuaH) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Is It Real](https://open.spotify.com/album/0m5ILJR9QO3c97WthDnFtD) | 3:06 |
+| 39 | [Sana Sana](https://open.spotify.com/track/4rU6PqKRLkzbd6PVDjHBJk) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [By My Side/Sana Sana](https://open.spotify.com/album/35HjbF4UqASswV5F3BbNF1) | 3:06 |
 | 40 | [X](https://open.spotify.com/track/3LUvWNx3ceBjsOeuDOMEsl) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 2:51 |
 | 41 | [Nasty Girl](https://open.spotify.com/track/7AieOtwbgEHjfVLh8d1iit) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 2:48 |
 | 42 | [papi bones \(feat\. shygirl\)](https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:40 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 77 | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/track/3VlqU2BNVsIl5MQpNOAbG7) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj) | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/album/4pWJWWFJFknXNb0rFrV8zl) | 3:06 |
 | 78 | [Love Me Still](https://open.spotify.com/track/372TjIX9F2p8WXOs7zaPYd) | [J!mmy](https://open.spotify.com/artist/5EKRIE9OkMU5e5l5kbWAQa), [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Love Me Still](https://open.spotify.com/album/4uA5ljpobuwL5AhtEubmSG) | 3:12 |
 
-Snapshot ID: `MTY2NTc1NTMxOCwwMDAwMDAwMDIzNzUzODQ2MGU5MGE0NGRiOWNiYTA4NmViOGFmOTZk`
+Snapshot ID: `MTY2NTc1NTMxOCwwMDAwMDAwMGIyMmU5ZWRkZjA4ZWQ4MWQ3NzIyZDVlOTVkYmVjMTEx`

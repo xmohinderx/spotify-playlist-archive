@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Roddy Ricch
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,826 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,884 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 32 | [Shine](https://open.spotify.com/track/6JKittheH60MeRx5B8u51b) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Shine](https://open.spotify.com/album/5sWeE47I8hfL7eDY9XLKnk) | 2:14 |
 | 33 | [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 |
 | 34 | [Did A Lot](https://open.spotify.com/track/3OV02vqUlHie0Ja5kep6Sz) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs) | [LA SUMMERS2](https://open.spotify.com/album/18xu8eyrzg2paLjUGJOgDh) | 2:49 |
-| 35 | [Ooh Ooh \(feat\. Kamaiyah\)](https://open.spotify.com/track/79Csbflmj17xJiATcjOlB8) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/1IXCMUaQ662JRUz6KOH0IS) | 3:48 |
+| 35 | [Ooh Ooh \(feat\. Kamaiyah\)](https://open.spotify.com/track/0eYbr09DWlQfZSYJTvheeu) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [G Way 3](https://open.spotify.com/album/7hhRY1PXp3mnJy0pchCX04) | 3:48 |
 | 36 | [Special Delivery \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/7y4lH2lX55Drq1FkQzl8p8) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Special Delivery \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/5ytNo79AWEUJ8HQ8D5OsWn) | 2:46 |
 | 37 | [Tattoo](https://open.spotify.com/track/4azcJZucw55aWmad1redPa) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Impostor Syndrome](https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6) | 2:31 |
 | 38 | [Pistol Packin](https://open.spotify.com/track/6Cel5MA3hUownZYYp13pO6) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Parkside Baby](https://open.spotify.com/album/40xueAJsLMp79qy7VqLz2P) | 2:03 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 51 | [Teach U How To Play](https://open.spotify.com/track/4iiwARZ0XDDG70UvL0skme) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Teach U How To Play](https://open.spotify.com/album/4R09J6lWN5YfS8gEjHbQeQ) | 2:14 |
 | 52 | [Gangsters Anonymous](https://open.spotify.com/track/0WDo3YEg8ShNfoq6rhX57R) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs) | [LA SUMMERS2](https://open.spotify.com/album/18xu8eyrzg2paLjUGJOgDh) | 2:03 |
 | 53 | [Booty Dancer](https://open.spotify.com/track/4qdHoLbbIDaaWytfsBK62p) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Booty Dancer](https://open.spotify.com/album/5fG5ECAPTouiAMqHiIjHrP) | 2:20 |
-| 54 | [Gang Gang](https://open.spotify.com/track/5wS0BO0Mg4p3TfqNEJggR0) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/1IXCMUaQ662JRUz6KOH0IS) | 2:57 |
+| 54 | [Gang Gang](https://open.spotify.com/track/41OQzTfVOGpI5F1LZFxS4s) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/7hhRY1PXp3mnJy0pchCX04) | 2:57 |
 | 55 | [How Far I Came \(Feat\. Roddy Ricch\)](https://open.spotify.com/track/0fGtT5bFSjtUzbSFPUQczD) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:23 |
 | 56 | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ) | 3:59 |
 | 57 | [Hands on the Floor](https://open.spotify.com/track/0dXjSZ5dX51mZaynbdQeWH) | [Su'Lan](https://open.spotify.com/artist/5Z76BEGQXFYvZxbJx9fL4g) | [Forever Da Gang](https://open.spotify.com/album/1DWBzaZdbcePhYHTDOfi8p) | 2:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 59 | [Settled \(feat\. Russ\)](https://open.spotify.com/track/46cBzfiGyZetFFC9P9LATk) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [The Blue Hour](https://open.spotify.com/album/4DTVVsFW3Jhi4Jw8flTAGR) | 3:41 |
 | 60 | [Fire Proof](https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Fire Proof](https://open.spotify.com/album/1lkXpwEqvshMPhGFLm8gJI) | 2:02 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGQwNWNmZDlkM2NjNDZiNDE3NmQwZGY0ZTU3NjhkZmM4`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDkxNmYyMGNjOWU0ODM2MTBhMzAyOTlhNWUwOWNjZWVl`

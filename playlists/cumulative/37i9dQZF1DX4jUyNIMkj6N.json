@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 193622,
       "name": "Dark",
       "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 136960,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9"
@@ -1616,6 +1616,24 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/5KGvjHsl3He6zOSszh8uFH"
+      },
+      "artists": [
+        {
+          "name": "Sonic L\u00f8land",
+          "url": "https://open.spotify.com/artist/3g4SAPEqsPhWUsAzRqnu8o"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225426,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3y30CMKgom7ymwPVnDuoQ4"
+    },
+    {
+      "album": {
         "name": "Lou Lou",
         "url": "https://open.spotify.com/album/39Tx9lVSciEVoYmCCdpkXH"
       },
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 263080,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb"
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 241400,
       "name": "Signals",
       "url": "https://open.spotify.com/track/6drhkuOJp1qekWmTydy0Vt"
@@ -2825,7 +2843,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 229533,
       "name": "Was There Nothing?",
       "url": "https://open.spotify.com/track/1IwlH20GMbWBZoXOddGxe1"
@@ -3120,6 +3138,24 @@
     },
     {
       "album": {
+        "name": "You Might Remember",
+        "url": "https://open.spotify.com/album/0lf0A4pohS1Wv2Gb6tZ5Pw"
+      },
+      "artists": [
+        {
+          "name": "Benedikt",
+          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239375,
+      "name": "You Might Remember",
+      "url": "https://open.spotify.com/track/4P3Rko9bTrYAN3au5s8ko1"
+    },
+    {
+      "album": {
         "name": "Your Everything",
         "url": "https://open.spotify.com/album/4DSrFEcnUllROeMoWimU4C"
       },
@@ -3189,7 +3225,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 216328,
       "name": "Zeven",
       "url": "https://open.spotify.com/track/1fW3S0ANHrRLxOGd1MbhTP"

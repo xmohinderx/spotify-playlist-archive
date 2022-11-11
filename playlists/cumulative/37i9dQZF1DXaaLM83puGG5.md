@@ -4,7 +4,7 @@
 
 > Keeping the party going where ever you are w/ Black Market Flea
 
-323 songs - 19 hr 46 min - [published](https://open.spotify.com/playlist/4kHlGm9ha80s1MDcD5zhCA)
+324 songs - 19 hr 49 min - [published](https://open.spotify.com/playlist/4kHlGm9ha80s1MDcD5zhCA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Hayi](https://open.spotify.com/track/6QHggizLwlsEWktQ2CcUib) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ) | [Contagious](https://open.spotify.com/album/5P319u6XstqCetDIbyHqhB) | 5:10 | 2022-09-03 | 2022-10-26 |
 | [Hbcu](https://open.spotify.com/track/7brATUQ7T0sjP0fmc8CCmt) | [3blackkids](https://open.spotify.com/artist/6qD0mLVdasGDeQ6zXK54Nj) | [Hbcu](https://open.spotify.com/album/6rSVg06obH4jiYGJKShnMZ) | 2:47 | 2022-10-25 |  |
 | [HEAD TO HADES](https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 2:55 | 2022-10-25 |  |
-| [Heads High](https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 3:31 | 2022-10-25 |  |
+| [Heads High](https://open.spotify.com/track/0LotB1fTYcGZOWpTlAVtX6) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Trojan Classic Jamaican Sounds Since 1968](https://open.spotify.com/album/2vitRjnvtWLL0Oq840faaE) | 3:24 | 2022-10-25 |  |
+| [Heads High](https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 3:31 | 2022-10-25 | 2022-11-11 |
 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 | 2022-05-27 | 2022-08-25 |
 | [Heat](https://open.spotify.com/track/1ePHqUkosKq7ZgQMz655Cw) | [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [GOLD](https://open.spotify.com/album/6lGftkhFewTcopQuLZfHzl) | 3:20 | 2021-11-10 | 2022-01-29 |
 | [Heavy \(with Nigo\)](https://open.spotify.com/track/39w2YI59aWcTSzdqana42B) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 3:19 | 2022-04-08 | 2022-09-03 |

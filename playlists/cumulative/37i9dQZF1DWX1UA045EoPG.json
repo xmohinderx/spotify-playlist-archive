@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "Future Disco: Beach Life 2.0",
+        "url": "https://open.spotify.com/album/6UUxuEIJ6ygesbtQZ2D8zm"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275620,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/5pNwF0rBqhPkMxNXxXZkI3"
+    },
+    {
+      "album": {
         "name": "Joy, Ease, Lightness",
         "url": "https://open.spotify.com/album/4kyr762vpU3cdZTqto4NdF"
       },
@@ -99,7 +117,7 @@
       ],
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 275620,
       "name": "Change",
       "url": "https://open.spotify.com/track/7HPoNHUAZaXkMFoKUL8Dah"
@@ -112,7 +130,7 @@
       "artists": [
         {
           "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+          "url": "https://open.spotify.com/artist/1VGj7BaUru5Te0iAl36oXm"
         }
       ],
       "date_added": "2018-09-14",
@@ -262,6 +280,32 @@
     },
     {
       "album": {
+        "name": "Dangerous (Touch Sensitive Remix)",
+        "url": "https://open.spotify.com/album/54UxhHBaQwRqvp7SWjrR4N"
+      },
+      "artists": [
+        {
+          "name": "Umii",
+          "url": "https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc"
+        },
+        {
+          "name": "Reva DeVito",
+          "url": "https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz"
+        },
+        {
+          "name": "B. Bravo",
+          "url": "https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231652,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0SCcYTx5we9EKTPvEXxld5"
+    },
+    {
+      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/5d1GP0Dl62bgaOQ8euQJAn"
       },
@@ -281,7 +325,7 @@
       ],
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 231652,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3WOB7zFoez5ziVhUHtqqD9"
@@ -488,6 +532,28 @@
     },
     {
       "album": {
+        "name": "Summer BBQ: EDM",
+        "url": "https://open.spotify.com/album/6ut9dZVLX9wVX6C3qQ5o4X"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185084,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/2iclqE8w8T7sAqzhFQGbRG"
+    },
+    {
+      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/2GOATjSsnYmidOyRs0xHuZ"
       },
@@ -525,7 +591,7 @@
       ],
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 185084,
       "name": "Hurting (feat. AlunaGeorge)",
       "url": "https://open.spotify.com/track/7h8e5oCD5ZRu0VPNHEN6A5"

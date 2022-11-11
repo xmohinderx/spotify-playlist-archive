@@ -27,6 +27,28 @@
     {
       "album": {
         "name": "Not For Kids Only",
+        "url": "https://open.spotify.com/album/04Pcnr0XxfUjABKJGesMnb"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184906,
+      "name": "A Horse Named Bill",
+      "url": "https://open.spotify.com/track/3Du452g205ZZfxGMWlyoRx"
+    },
+    {
+      "album": {
+        "name": "Not For Kids Only",
         "url": "https://open.spotify.com/album/4aHVExUb9ZqOppOMAdp5aw"
       },
       "artists": [
@@ -659,7 +681,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 260133,
       "name": "Divino Maravilhoso",
       "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
@@ -713,7 +735,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 224000,
       "name": "Era uma Vez",
       "url": "https://open.spotify.com/track/16v1xv9QCx1kGXl6fJvTIz"
@@ -947,7 +969,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 141133,
       "name": "Have a Happy",
       "url": "https://open.spotify.com/track/0ZHU70DESs5rz0wdTJiUAr"
@@ -1005,7 +1027,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 171333,
       "name": "I Got a Boy and His Name Is John (with June Carter Cash)",
       "url": "https://open.spotify.com/track/2HCxr7MRt7iTevb58uwd9o"
@@ -1433,7 +1455,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 179120,
       "name": "O Mar Serenou",
       "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
@@ -1469,7 +1491,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 167568,
       "name": "O Sal da Terra",
       "url": "https://open.spotify.com/track/374SHBJGZL3oaArhIi2GFi"
@@ -1613,7 +1635,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140080,
       "name": "One and One Makes Two",
       "url": "https://open.spotify.com/track/14hfHTtZCp3xkD68IeQAEr"
@@ -1635,6 +1657,24 @@
       "duration_ms": 195266,
       "name": "Os Alquimistas Est\u00e3o Chegando Os Alquimistas",
       "url": "https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa"
+    },
+    {
+      "album": {
+        "name": "Vinicius: Sucessos do Poeta",
+        "url": "https://open.spotify.com/album/2iyPgENBxrb7Em6aCtXLzW"
+      },
+      "artists": [
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122066,
+      "name": "Pela Luz Dos Olhos Teus",
+      "url": "https://open.spotify.com/track/17RazUjuedPH44SoWaRTGI"
     },
     {
       "album": {
@@ -1873,7 +1913,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 201360,
       "name": "S\u00e1 Marina",
       "url": "https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H"
@@ -2003,7 +2043,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 180266,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
@@ -2057,7 +2097,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 214026,
       "name": "Time of the Season - Mono Version",
       "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
@@ -2097,7 +2137,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 162400,
       "name": "Tiro Ao \u00c1lvaro",
       "url": "https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2"
@@ -2253,6 +2293,28 @@
       "duration_ms": 179268,
       "name": "Voc\u00ea mentiu",
       "url": "https://open.spotify.com/track/2GsvXMAz16fKroAmaCxLfL"
+    },
+    {
+      "album": {
+        "name": "Kisses",
+        "url": "https://open.spotify.com/album/5yV6JVfsLGdi3QMclVkvMW"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179268,
+      "name": "Voc\u00ea mentiu",
+      "url": "https://open.spotify.com/track/51RD9ZadNXepSPBdDrAmNa"
     },
     {
       "album": {

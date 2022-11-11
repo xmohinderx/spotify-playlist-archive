@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Charlotte de Witte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,999,891 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,000,180 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 40 | [This Love](https://open.spotify.com/track/5wjv0l8FDhufvyFdokJqG1) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [This Love](https://open.spotify.com/album/7AYgLeHoyIxOYiJcVwVs1c) | 2:37 |
 | 41 | [Feel Like That](https://open.spotify.com/track/2GlzL3MAoqg6sKFEC3tKFQ) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel Like That](https://open.spotify.com/album/3VrM26Y9zVHzAVHov5uzWE) | 2:39 |
 | 42 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
-| 43 | [Lightning To Strike](https://open.spotify.com/track/4wc6fFKSf4opxdNajyHPc4) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Lightning To Strike](https://open.spotify.com/album/1aNnUYONYEnpd5jhZactiH) | 2:58 |
+| 43 | [Lightning to Strike \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/5HRyKKqVJcx3xOkaqKmX1a) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [EDC Orlando 2022](https://open.spotify.com/album/3tz1GLgKDQUEZaw9KYeaGb) | 2:58 |
 | 44 | [Nightmares](https://open.spotify.com/track/0DcLHMYuZDZboftsQSrANc) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Nightmares](https://open.spotify.com/album/1F1pC0ykx8JTys8LnxMv9f) | 3:57 |
 | 45 | [Just Words](https://open.spotify.com/track/7I4yaEqhvAhz795dN0mMre) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Just Words](https://open.spotify.com/album/1FMCftRNNz9GGDuDHCxpqd) | 2:51 |
 | 46 | [Live On Love](https://open.spotify.com/track/5ScYUv4grVUOvOECp6TiKZ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Live On Love](https://open.spotify.com/album/6FoPkqK70wBaMbL3glpMWR) | 2:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 79 | [Sweet Lies](https://open.spotify.com/track/1ciemDCppxQbYhXzqMoBV0) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Sweet Lies](https://open.spotify.com/album/0Uf9BYVnE9KkSZMPSf4RJN) | 2:01 |
 | 80 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDE2OTRhMDAxNjVkY2VhY2UxYzRjMTJhZGQ5ZTY0Mjkz`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDAwYjY2NGMwNzc5OGVjNGNlZjNjMDY5NTJhZjYzODQ0`

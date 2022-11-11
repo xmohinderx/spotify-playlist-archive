@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz",
-  "num_followers": 14875,
+  "num_followers": 14985,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwMTQxNCwwMDAwMDAwMGJlOTA5ODc1NjA2ZjFmYzEyZDdhNWNkY2FiOTc5Y2Qx",
+  "snapshot_id": "MTY2NDYwMTQxNCwwMDAwMDAwMDhjYmZhYjY0ZjczYmZiNzVlNTk0NjFlYzcxMWU1MzQw",
   "tracks": [
     {
       "added_at": "2022-10-01 05:16:54",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Made Whole",
-        "url": "https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM"
-      },
-      "artists": [
-        {
-          "name": "Gil Joe",
-          "url": "https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h"
-        }
-      ],
-      "duration_ms": 212210,
-      "name": "Made Whole",
-      "url": "https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
         "name": "Pepper Dem",
         "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 168813,
       "name": "Pepper Dem",
       "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
+        "name": "Made Whole",
+        "url": "https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM"
+      },
+      "artists": [
+        {
+          "name": "Gil Joe",
+          "url": "https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h"
+        }
+      ],
+      "duration_ms": 212210,
+      "name": "Made Whole",
+      "url": "https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/4HUTFKjRVJGPSIbMFDI1fo"
-      },
-      "artists": [
-        {
-          "name": "Konola",
-          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
-        }
-      ],
-      "duration_ms": 195918,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/3H4fCGhKPlPz7okIvwz1kg"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
         "name": "Highly Favoured",
         "url": "https://open.spotify.com/album/5EG3FrFomhVsocyhiwkJYA"
       },
@@ -855,22 +839,18 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x"
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/4HUTFKjRVJGPSIbMFDI1fo"
       },
       "artists": [
         {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+          "name": "Konola",
+          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
         }
       ],
-      "duration_ms": 134217,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf"
+      "duration_ms": 195918,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/3H4fCGhKPlPz7okIvwz1kg"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -887,6 +867,26 @@
       "duration_ms": 155530,
       "name": "Revival",
       "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 134217,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -951,26 +951,6 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
-      },
-      "artists": [
-        {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
         "name": "Higher Life",
         "url": "https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 186000,
       "name": "Conflicted",
       "url": "https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
+      },
+      "artists": [
+        {
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
     },
     {
       "added_at": "2022-10-01 05:16:54",

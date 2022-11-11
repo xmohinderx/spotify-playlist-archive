@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-1,111 songs - 1 day 18 hr 49 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
+1,112 songs - 1 day 18 hr 52 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,8 @@
 | [Fireplace](https://open.spotify.com/track/4G6LvFbZthvRaYjsNMUEDi) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [Fireplace](https://open.spotify.com/album/4xmBteg8ZM4xKxHBT0oMq5) | 1:48 | 2022-04-08 | 2022-07-15 |
 | [Fireside Chat](https://open.spotify.com/track/5FTYsFo0PtsnqGY2Bjsb79) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Fireside Chat](https://open.spotify.com/album/36pGiftpvnmsVt11JuAxHA) | 2:23 | 2022-05-20 |  |
 | [Fireside Patio](https://open.spotify.com/track/5NTL19CSAlnx8vygMevuf9) | [Mask the Man](https://open.spotify.com/artist/2oBRQMRQ4B3A0jovCWaJxC) | [Moraga](https://open.spotify.com/album/21ZbYn81zkSEFh7EHu4fxQ) | 1:59 | 2021-12-07 | 2022-06-03 |
-| [first rays of light](https://open.spotify.com/track/3qjtnUlnZaIDXvjgdAs7pr) | [Nosllyah](https://open.spotify.com/artist/0bzL30yrC2B9SMa1dcrRvl), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [first rays of light](https://open.spotify.com/album/5TbyVC0mJwwzz28C2xlpq6) | 2:32 | 2022-10-28 |  |
+| [first rays of light](https://open.spotify.com/track/3qjtnUlnZaIDXvjgdAs7pr) | [Nosllyah](https://open.spotify.com/artist/0bzL30yrC2B9SMa1dcrRvl), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [first rays of light](https://open.spotify.com/album/5TbyVC0mJwwzz28C2xlpq6) | 2:32 | 2022-10-28 | 2022-11-11 |
+| [first rays of light](https://open.spotify.com/track/4aG2WS8peHpNj6R4Tb4iLC) | [Nosllyah](https://open.spotify.com/artist/0bzL30yrC2B9SMa1dcrRvl), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [Kitten Tapes](https://open.spotify.com/album/0Y7eUGGlosICpsVvnyB1I2) | 2:32 | 2022-10-28 |  |
 | [first rays of light](https://open.spotify.com/track/7LIFJvNlXh7Bdzu7JHIU4e) | [Nosllyah](https://open.spotify.com/artist/0bzL30yrC2B9SMa1dcrRvl), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [first rays of light](https://open.spotify.com/album/0jNSDHHgaoAd6GzcZXqCzp) | 2:32 | 2022-05-13 | 2022-11-05 |
 | [First Steps](https://open.spotify.com/track/74oZIjkre9SlT1ONaP4Ers) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [First Steps](https://open.spotify.com/album/1kzrxU2NR2U4mdXWcmSQlp) | 2:29 | 2022-05-27 |  |
 | [Flippant](https://open.spotify.com/track/3NKlu0qfwPt55dmaWBHQIq) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Flippant](https://open.spotify.com/album/2qnYGVaRprhma6n88eF4Yp) | 2:21 | 2021-12-07 |  |

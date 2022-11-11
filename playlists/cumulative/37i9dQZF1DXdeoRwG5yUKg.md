@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-129 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
+131 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,14 +128,16 @@
 | [What I Could Do](https://open.spotify.com/track/4kp6uyc8s2G0RVLrxmPZOz) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Love is an Army](https://open.spotify.com/album/1Q807PRrnwhyztEp63LTsz) | 4:07 | 2020-11-05 |  |
 | [What I Could Do](https://open.spotify.com/track/5srEzUANfAqAe9T9gSM3U7) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Love Is an Army](https://open.spotify.com/album/4uFhns7SLmcnhf6xHCUI18) | 4:07 | 2020-11-05 | 2022-07-29 |
 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 | 2020-11-05 |  |
-| [What's the Matter with You](https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT) | 3:52 | 2020-11-05 |  |
+| [What's the Matter with You](https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT) | 3:52 | 2020-11-05 | 2022-11-11 |
 | [What's the Matter with You](https://open.spotify.com/track/4G9KOVinbchBNFGB2YTyvK) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Wild Wild West / What's the Matter with You](https://open.spotify.com/album/7bCcvjetUXDx01xYos2tVb) | 3:52 | 2020-11-05 | 2022-10-20 |
+| [What's the Matter with You](https://open.spotify.com/track/4hWYkaP4BEZPROMXnF1Vc2) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Wild Wild West / What's the Matter with You](https://open.spotify.com/album/0jotRZwh5y6BZkMYIr8rN8) | 3:52 | 2020-11-05 |  |
 | [Who Will Come for Me](https://open.spotify.com/track/3dItRGOkWJkuNEsyEl4DmZ) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Love Wins Again](https://open.spotify.com/album/3u5xHMTxsYnDpOGpckM8lv) | 4:38 | 2020-11-05 | 2022-07-29 |
 | [Who Will Come for Me](https://open.spotify.com/track/7hEsiIvB2jg0BI3Xe8F4eg) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Love Wins Again](https://open.spotify.com/album/5koT5jFcF9Iy0iZjG09rBT) | 4:38 | 2020-11-05 |  |
 | [Why Don't You Stay?](https://open.spotify.com/track/44CgGAQHAxrRWRSNS9mFQ8) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:33 | 2020-11-05 |  |
 | [Worst In Me](https://open.spotify.com/track/1zX45MGjbDDt2zceTraRvn) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Worst In Me](https://open.spotify.com/album/20BncSSGfvm3kCZZ8C28MU) | 3:56 | 2020-11-05 | 2022-09-10 |
 | [You Ruined That Song For Me](https://open.spotify.com/track/7e8LdgIws3VVqkON2puJwN) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [You Ruined That Song For Me](https://open.spotify.com/album/3aRX20jl9YSVFMGUY5ZUoV) | 3:19 | 2022-09-02 |  |
-| [You Were Mine](https://open.spotify.com/track/4njmTrh1kqxmPql07KKnlT) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM!](https://open.spotify.com/album/1Gke51utVy7IagtyciRGMA) | 3:43 | 2020-11-05 |  |
+| [You Were Mine](https://open.spotify.com/track/4njmTrh1kqxmPql07KKnlT) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM!](https://open.spotify.com/album/1Gke51utVy7IagtyciRGMA) | 3:43 | 2020-11-05 | 2022-11-11 |
+| [You Were Mine](https://open.spotify.com/track/6RAfGW0UE6DS1tysl71axP) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [You Were Mine](https://open.spotify.com/album/73FfFoBNTaiRsKEOH0Mxpk) | 3:43 | 2020-11-05 |  |
 | [You Were Mine](https://open.spotify.com/track/6VFbrvnjVfrSRPIwEf7ept) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [You Were Mine](https://open.spotify.com/album/0qZHzQ6plJgW7SqP1fDF1A) | 3:43 | 2020-11-05 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

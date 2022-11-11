@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-75 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/5H6hqlvktBn3pbjzKS7Ytr)
+76 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/5H6hqlvktBn3pbjzKS7Ytr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,8 +77,9 @@
 | [Trips! \(feat\. Noyz Narcos & Yung Snapp\)](https://open.spotify.com/track/43P3NYzztjQHkxoai6MbB9) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 2:29 | 2022-06-16 |  |
 | [Tutto bene](https://open.spotify.com/track/48bU70Alq9O3HHIBwiaFX3) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Tutto bene](https://open.spotify.com/album/2bzUMRxsqJ3cceZWFA71zB) | 3:02 | 2022-08-22 |  |
 | [Veleno 8 \(feat\. Gemitaiz\)](https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 3:02 | 2022-04-15 |  |
+| [Vita sbagliata](https://open.spotify.com/track/3jyYT2cWGcVNg74vTCr5Ac) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:13 | 2022-09-15 |  |
 | [Vita sbagliata](https://open.spotify.com/track/46k6vPzXj1JYKFqJNghNHA) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:13 | 2022-04-15 | 2022-10-26 |
-| [Vita sbagliata](https://open.spotify.com/track/4ThoVGWZoI3w0eKvKlWkej) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 3:13 | 2022-09-15 |  |
+| [Vita sbagliata](https://open.spotify.com/track/4ThoVGWZoI3w0eKvKlWkej) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 3:13 | 2022-09-15 | 2022-11-11 |
 | [Vivi o muori \(feat\. Guè\)](https://open.spotify.com/track/7Fg7qvvwCR3NyHWya91x2o) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:04 | 2022-04-15 | 2022-09-16 |
 | [WEEKEND \(feat\. Lazza, Madame & Massimo Pericolo\)](https://open.spotify.com/track/6xOC20CkoRKAwGWh32nPHL) | [BLOODY VINYL](https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU), [Slait](https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w), [5019](https://open.spotify.com/artist/0bIICDFvg6PqEWaZsfvpCR), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [BV3](https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW) | 3:00 | 2022-07-15 |  |
 | [WEEKEND \(feat\. Lazza, Madame & Massimo Pericolo\)](https://open.spotify.com/track/1FVZhwZiab6cEAxAOS9j5v) | [BLOODY VINYL](https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU), [Slait](https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [BV3](https://open.spotify.com/album/6qAapBZqjiATXktzwBzzLC) | 3:00 | 2022-04-15 | 2022-07-29 |

@@ -593,6 +593,24 @@
     {
       "album": {
         "name": "Harajuku Style",
+        "url": "https://open.spotify.com/album/12Z4j3pe23QvErapS6dF2S"
+      },
+      "artists": [
+        {
+          "name": "Natsu Fuji",
+          "url": "https://open.spotify.com/artist/5r2d1vMFtAGUsUOvH6WiSy"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216857,
+      "name": "Egg Reverie (Kawaii Trap Ver.)",
+      "url": "https://open.spotify.com/track/5MHxyIziBiXnrQmJ0Pk4Xw"
+    },
+    {
+      "album": {
+        "name": "Harajuku Style",
         "url": "https://open.spotify.com/album/6LS8MGht2B6yazRdwoulTi"
       },
       "artists": [
@@ -621,7 +639,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 216894,
       "name": "Egg Reverie - Kawaii Version",
       "url": "https://open.spotify.com/track/59gRUT8dmNBr6VpT2VnBQy"

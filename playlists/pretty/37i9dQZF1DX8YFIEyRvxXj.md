@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 
 > These artists changed the world by changing their tune\.  Their music not only grooved but moved the world with personal and political messages.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,985 likes - 22 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,026 likes - 22 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 |
 | 2 | [I Should Be Proud](https://open.spotify.com/track/2nxSAQBvF6gDIwZmG6B9nO) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Natural Resources](https://open.spotify.com/album/2LVHRojdrMALUMJpXX4aFJ) | 2:56 |
-| 3 | [Ball Of Confusion \(That's What The World Is Today\) \- Single Version/Mono](https://open.spotify.com/track/6SN51pk4UOfKa9Q9DoXEtF) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 4:06 |
+| 3 | [Ball Of Confusion \(That's What The World Is Today\) \- Single Version/Mono](https://open.spotify.com/track/6jgiZygyAJ9mebZwhRnZyr) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Motown: The Revolution](https://open.spotify.com/album/3uTpxAjAxFu7mW2hh4okbq) | 4:05 |
 | 4 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
 | 5 | [Friendship Train](https://open.spotify.com/track/6ZuT1W9PtkDMit1dbDs8jz) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [20th Century Masters: The Millennium Collection: Best Of Gladys Knight & The Pips](https://open.spotify.com/album/69XU1bvrFrlSonYJpWKjrn) | 3:50 |
 | 6 | [Stoned Love \- Single Version](https://open.spotify.com/track/03IOfDZjjJNG8lDrpEB0ZS) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Gold](https://open.spotify.com/album/7bPBdkx7Vm2vqDkwnfNlg8) | 2:57 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 | 17 | [Penitentiary Philosophy](https://open.spotify.com/track/4Nngx0azfbJibdS5oT3dG8) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:09 |
 | 18 | [Village Ghetto Land](https://open.spotify.com/track/1xZv5HMOdnP1V4pfDFHdA1) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:25 |
 | 19 | [Black Maybe](https://open.spotify.com/track/1sod6MCxrE8QaGsT7AdbeO) | [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Syreeta](https://open.spotify.com/album/6U4UAwqd7pbDloRFSwuWLY) | 4:34 |
-| 20 | [Standing In The Shadows Of Love](https://open.spotify.com/track/2sD2XkPogLt7keXttj7F9o) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:37 |
+| 20 | [Standing In The Shadows Of Love](https://open.spotify.com/track/1mpBEnhwDEGepVVuOLPP7u) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [20th Century Masters: The Millennium Collection: Best Of The Four Tops](https://open.spotify.com/album/0OsqdLxQpBWI2Fw6Ztxc0D) | 2:41 |
 | 21 | [Zoom](https://open.spotify.com/track/14Tj6yYXItEhy466a0yeR0) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 6:44 |
 | 22 | [O\-o\-h Child](https://open.spotify.com/track/4huOPF1DlqeSkF3PPcUYcJ) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Best Of The Spinners](https://open.spotify.com/album/1YtoIFW84QtpYVlkOR8xTe) | 3:13 |
 
-Snapshot ID: `MTU2MTQ5NzM1OCwwMDAwMDAwMDQyMjE3NzIwZjNkMjdkZWNkMGZlYzM1NTJkMTQxZTk2`
+Snapshot ID: `MTU2MTQ5NzM1OCwwMDAwMDAwMDAyMTQ5NmRhN2I4MjNjMTliMDMzOTc4MGVlNzc5YmE3`

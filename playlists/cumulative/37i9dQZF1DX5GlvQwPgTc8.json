@@ -19,7 +19,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 206066,
       "name": "Alors on danse - Radio Edit",
       "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 163216,
       "name": "Body",
       "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 222040,
       "name": "Call on Me - Ryan Riback Remix",
       "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
@@ -396,6 +396,24 @@
     },
     {
       "album": {
+        "name": "Hey Hey",
+        "url": "https://open.spotify.com/album/3hsd4yQ7Bk7k2OpRyGTtF1"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        }
+      ],
+      "date_added": "2019-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190053,
+      "name": "Hey Hey",
+      "url": "https://open.spotify.com/track/0R8dsqbzcoHoqUN5MLWyOi"
+    },
+    {
+      "album": {
         "name": "Home (feat. Bonn)",
         "url": "https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9"
       },
@@ -484,6 +502,28 @@
     },
     {
       "album": {
+        "name": "J'adore",
+        "url": "https://open.spotify.com/album/4XMXX49JGGjeQmTj6bPjpw"
+      },
+      "artists": [
+        {
+          "name": "Four7",
+          "url": "https://open.spotify.com/artist/47rjPnYCVxWRWpkJy6dOVT"
+        },
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/5RNVaSXkAsve6d2bfZmB0F"
+        }
+      ],
+      "date_added": "2019-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308341,
+      "name": "J'adore",
+      "url": "https://open.spotify.com/track/2ULz7EuDpQ9iifrbHLmpbx"
+    },
+    {
+      "album": {
         "name": "Neon Future III",
         "url": "https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL"
       },
@@ -529,6 +569,28 @@
       "duration_ms": 162461,
       "name": "L'amour toujours (feat. Delaney Jane) - Ti\u00ebsto Edit",
       "url": "https://open.spotify.com/track/4UutBLYMby6whu2bMYh9Oa"
+    },
+    {
+      "album": {
+        "name": "LIES",
+        "url": "https://open.spotify.com/album/4FFUfSYqKjyp2X63FMYUVC"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2020-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167419,
+      "name": "LIES",
+      "url": "https://open.spotify.com/track/3Shi5fUIeuoNQWV0hjYXNs"
     },
     {
       "album": {
@@ -609,7 +671,7 @@
       ],
       "date_added": "2019-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 160183,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo"
@@ -634,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "date_added": "2019-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173215,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs"
+    },
+    {
+      "album": {
         "name": "Move All Night",
         "url": "https://open.spotify.com/album/6tqBfSCLLuwkpaz2qGEsG6"
       },
@@ -653,7 +733,7 @@
       ],
       "date_added": "2019-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 197419,
       "name": "Move All Night",
       "url": "https://open.spotify.com/track/6RKFXPdoCBRcLljsxKZUNw"
@@ -845,7 +925,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204654,
       "name": "Particula",
       "url": "https://open.spotify.com/track/0e8fTfa0ZKCwOi2UdULooT"
@@ -985,6 +1065,28 @@
       "duration_ms": 159535,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7"
+    },
+    {
+      "album": {
+        "name": "SBCNCSLY",
+        "url": "https://open.spotify.com/album/1uaZVqFa2S1skSpLNZ0oHp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "date_added": "2020-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384555,
+      "name": "SBCNCSLY",
+      "url": "https://open.spotify.com/track/0DWIaEumpHd41vATkCGUK2"
     },
     {
       "album": {
@@ -1169,6 +1271,28 @@
       "duration_ms": 325520,
       "name": "Walking with Elephants",
       "url": "https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG"
+    },
+    {
+      "album": {
+        "name": "Who's Got Your Love",
+        "url": "https://open.spotify.com/album/2ddicfthS1XeBDkhDqnWI3"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Daniel Blume",
+          "url": "https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj"
+        }
+      ],
+      "date_added": "2019-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Who's Got Your Love",
+      "url": "https://open.spotify.com/track/5EpR6BqAnwR9PPl6sIrzGy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5GlvQwPgTc8"

@@ -44,8 +44,8 @@
     },
     {
       "album": {
-        "name": "California Adi\u00f3s",
-        "url": "https://open.spotify.com/album/3UePWSFrp52fyNLW0jVVfl"
+        "name": "S\u00faper \u00c9xitos Gruperos",
+        "url": "https://open.spotify.com/album/6oyOIw1KOFHXuDwFRxFHXO"
       },
       "artists": [
         {
@@ -58,7 +58,43 @@
       "date_removed": null,
       "duration_ms": 166823,
       "name": "Anda Borracho El Buey",
+      "url": "https://open.spotify.com/track/3ITRb4gFyVGy6KPPnCtTHx"
+    },
+    {
+      "album": {
+        "name": "California Adi\u00f3s",
+        "url": "https://open.spotify.com/album/3UePWSFrp52fyNLW0jVVfl"
+      },
+      "artists": [
+        {
+          "name": "Banda Guadalajara Express",
+          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 166823,
+      "name": "Anda Borracho El Buey",
       "url": "https://open.spotify.com/track/4fCBHIPstTkPivVYoPMZ5d"
+    },
+    {
+      "album": {
+        "name": "Sabor a Pac\u00edfico",
+        "url": "https://open.spotify.com/album/66P9tgSBBxn0c5yZRjPmhI"
+      },
+      "artists": [
+        {
+          "name": "Hechizeros Band",
+          "url": "https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Arrempujala Arremangala",
+      "url": "https://open.spotify.com/track/7f9eibFCLRGSA8acWdW1Rr"
     },
     {
       "album": {
@@ -73,7 +109,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 219840,
       "name": "Arrempujala Arremangala",
       "url": "https://open.spotify.com/track/5erRHg0WJ7YnEXJmOkUNy6"
@@ -278,6 +314,24 @@
     },
     {
       "album": {
+        "name": "El Son De Los Vaquero's Musical",
+        "url": "https://open.spotify.com/album/6T9IN7RdHI7ch8zYIdXj0j"
+      },
+      "artists": [
+        {
+          "name": "Vaquero's Musical",
+          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163874,
+      "name": "El Caracol",
+      "url": "https://open.spotify.com/track/0uvmjxPGYByH6qOvVcX9XD"
+    },
+    {
+      "album": {
         "name": "Los Mejor De Vaquero's Musical",
         "url": "https://open.spotify.com/album/6qNFfXga8mDY359akhMKjx"
       },
@@ -307,7 +361,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 163874,
       "name": "El Caracol",
       "url": "https://open.spotify.com/track/6EhUL5fqcXGaOpZUnfQJHO"
@@ -476,6 +530,24 @@
     },
     {
       "album": {
+        "name": "16 \u00c9xitos",
+        "url": "https://open.spotify.com/album/1H6argCU79lwgTej5HA0WQ"
+      },
+      "artists": [
+        {
+          "name": "Vaquero's Musical",
+          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172361,
+      "name": "El Torero Cotorro",
+      "url": "https://open.spotify.com/track/5EPr9Q3f5NaCq3TbcV0bi8"
+    },
+    {
+      "album": {
         "name": "10 \u00c9xitos, Vol. 2",
         "url": "https://open.spotify.com/album/6sMOTcEnLdXpTPdHIVbKEc"
       },
@@ -487,7 +559,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 172361,
       "name": "El Torero Cotorro",
       "url": "https://open.spotify.com/track/6Btr1VUmPoPsniS5uhaq2Z"
@@ -505,7 +577,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215440,
       "name": "Esa Chica Me Vacila",
       "url": "https://open.spotify.com/track/0Kq767bcSdi2VKJsIzAfb9"
@@ -527,6 +599,24 @@
       "duration_ms": 215440,
       "name": "Esa Chica Me Vacila",
       "url": "https://open.spotify.com/track/2MumlASDSaTeEj78T6T0lz"
+    },
+    {
+      "album": {
+        "name": "Lo Maximo de Banda Boom, Vol. 4",
+        "url": "https://open.spotify.com/album/6qSOf7aBaPQMuyhuWqNnSN"
+      },
+      "artists": [
+        {
+          "name": "Banda Boom",
+          "url": "https://open.spotify.com/artist/00608sMSbuz1IpmDzSrFZk"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "Esa Chica Me Vacila",
+      "url": "https://open.spotify.com/track/4URuM9CZ5EsDVxXMmEAUJu"
     },
     {
       "album": {
@@ -566,6 +656,24 @@
     },
     {
       "album": {
+        "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
+        "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "Eso no, no, no",
+      "url": "https://open.spotify.com/track/2do2io6XKKJarHpRcGrPWu"
+    },
+    {
+      "album": {
         "name": "Banda Peque\u00f1os Musical",
         "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
       },
@@ -595,7 +703,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 175400,
       "name": "Eso no, no, no",
       "url": "https://open.spotify.com/track/5oXY2tOOcrI6ePYJfNrx3d"
@@ -649,10 +757,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 217521,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+    },
+    {
+      "album": {
+        "name": "Puro Fuego - Quebraditas",
+        "url": "https://open.spotify.com/album/7ET9TEPdwGtMF9PYroaJ8I"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/2nSbVFNo6FdvZ7ZCuZytYH"
     },
     {
       "album": {
@@ -728,6 +854,24 @@
     },
     {
       "album": {
+        "name": "A Bailar Con La Banda",
+        "url": "https://open.spotify.com/album/2ev4BdYJSYgwDlszVWCCtC"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208352,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/5bFeY600WJCHE97pAxeHVG"
+    },
+    {
+      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
@@ -739,7 +883,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 208352,
       "name": "La Bota",
       "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
@@ -775,7 +919,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 175706,
       "name": "La cuca",
       "url": "https://open.spotify.com/track/6fAgsEWreF327VmKHhKQYf"
@@ -797,6 +941,24 @@
       "duration_ms": 175706,
       "name": "La cuca",
       "url": "https://open.spotify.com/track/7xnM2mrHUyb1Lr8gUhj4j7"
+    },
+    {
+      "album": {
+        "name": "Con Meneito",
+        "url": "https://open.spotify.com/album/5dNoLSDdUTH8sx6N9xRIuS"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176586,
+      "name": "La cuca",
+      "url": "https://open.spotify.com/track/2Xxafxwo75p3JaBvk96inW"
     },
     {
       "album": {
@@ -829,7 +991,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 183133,
       "name": "La Danza Del Coyote",
       "url": "https://open.spotify.com/track/2mIy6LxmVeUS0WKSclC81G"
@@ -847,7 +1009,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187768,
       "name": "La Danza del Coyote",
       "url": "https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS"
@@ -1027,7 +1189,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 191920,
       "name": "Las Mulas De Moreno",
       "url": "https://open.spotify.com/track/2qddNacr8jnBI5sAdGFjHc"
@@ -1049,6 +1211,24 @@
       "duration_ms": 191920,
       "name": "Las Mulas De Moreno",
       "url": "https://open.spotify.com/track/5R6tl5k34hZpqvwgib7T6R"
+    },
+    {
+      "album": {
+        "name": "Cumbias De Verano Best Hits",
+        "url": "https://open.spotify.com/album/5gMQ53e92izjiUVRJtFVOm"
+      },
+      "artists": [
+        {
+          "name": "Hechizeros Band",
+          "url": "https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191946,
+      "name": "Las Mulas De Moreno",
+      "url": "https://open.spotify.com/track/11NMXX012iWvMTdBwo5Xwl"
     },
     {
       "album": {
@@ -1081,10 +1261,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 214987,
       "name": "Mambo Lupita",
       "url": "https://open.spotify.com/track/5WXizCxqmrlovOExcVmaFE"
+    },
+    {
+      "album": {
+        "name": "Workout Regional Mexican Style",
+        "url": "https://open.spotify.com/album/5Ahp1caOywSLxpo9d2bBL8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214987,
+      "name": "Mambo Lupita",
+      "url": "https://open.spotify.com/track/5Ygv02mdCKe4EwvxTwYGZX"
     },
     {
       "album": {
@@ -1171,10 +1369,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 241870,
       "name": "No Bailes De Caballito",
       "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
+    },
+    {
+      "album": {
+        "name": "A Bailar Con La Banda",
+        "url": "https://open.spotify.com/album/2ev4BdYJSYgwDlszVWCCtC"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241870,
+      "name": "No Bailes De Caballito",
+      "url": "https://open.spotify.com/track/3VYLfI2nCOSj7jetmxfWlm"
     },
     {
       "album": {
@@ -1243,10 +1459,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 207737,
       "name": "Orgullosa Mar\u00eda",
       "url": "https://open.spotify.com/track/1nZKtN7ZTkU3b49EtKW2Qj"
+    },
+    {
+      "album": {
+        "name": "Su Majestad Mi Banda El Mexicano Con Ustedes...",
+        "url": "https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207737,
+      "name": "Orgullosa Mar\u00eda",
+      "url": "https://open.spotify.com/track/44jCTRKB5XefL8x3MSqdro"
     },
     {
       "album": {
@@ -1466,6 +1700,24 @@
     },
     {
       "album": {
+        "name": "12 Grandes exitos Vol. 1",
+        "url": "https://open.spotify.com/album/27wOTAQ88ojIKEl4RGo0CG"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154693,
+      "name": "Tenis m\u00e1gicos",
+      "url": "https://open.spotify.com/track/4JFVSaQK4CMrxtYfHXuNlk"
+    },
+    {
+      "album": {
         "name": "Las 20 Poderosas (USA)",
         "url": "https://open.spotify.com/album/43eQSAjeMmLHKPslPiUB7l"
       },
@@ -1477,7 +1729,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 154693,
       "name": "Tenis m\u00e1gicos",
       "url": "https://open.spotify.com/track/7jcjJi2aVb8F1V1Ct4vBtK"

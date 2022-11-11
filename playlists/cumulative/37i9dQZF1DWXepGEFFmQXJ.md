@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Morgan Evans
+> The cream of today's Country crop\. Cover: Brad Cox
 
-252 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+255 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Drinking Songs](https://open.spotify.com/track/4rqjF6HMDIPWx52U09kNwV) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Drinking Songs](https://open.spotify.com/album/1fOOTVggmp78uXc2P5lJo1) | 3:12 | 2022-01-06 | 2022-08-23 |
 | [Dumb Decisions](https://open.spotify.com/track/18xKANAGiaYX5m0V79IoaJ) | [Caitlyn Shadbolt](https://open.spotify.com/artist/4AnRUN3FJq0GZ0RCoRpgNC), [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Dumb Decisions](https://open.spotify.com/album/1ijpDGHA4Dd8OkBXbi762a) | 3:22 | 2022-05-06 |  |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-09-08 |  |
+| [Face In The Crowd](https://open.spotify.com/track/4rdl2BHBQ58Q9X4iopHTnx) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Face In The Crowd](https://open.spotify.com/album/6IRQx9Mm5W4BJdKBG6m7Nh) | 2:41 | 2022-11-10 |  |
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2022-06-02 |  |
 | [Fallin' Off The Heartline](https://open.spotify.com/track/0gILEUGgjSoBwykGgE6mR9) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Fallin' Off The Heartline](https://open.spotify.com/album/2LFp80sTreSfHpKdjJaWKT) | 3:44 | 2022-03-17 | 2022-06-17 |
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-12-30 | 2022-03-05 |
@@ -86,6 +87,7 @@
 | [Get It Girl](https://open.spotify.com/track/4mmq0ddxmYMaclRzat1syG) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Get It Girl](https://open.spotify.com/album/4YMLdLyEfY41B8PlFBUFQ5) | 3:19 | 2021-12-30 | 2022-04-01 |
 | [Get To Know Ya](https://open.spotify.com/track/1jS01RraB3eTBL3GnYXCaN) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Get To Know Ya](https://open.spotify.com/album/73OAVag102lgJ7XCQ4zHFb) | 3:25 | 2022-01-27 | 2022-05-27 |
 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-03-17 | 2022-06-10 |
+| [GHOSTED](https://open.spotify.com/track/3FJEkL4zxl9pNg3UAGcLT6) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [GHOSTED](https://open.spotify.com/album/5mVRTqoL3PSrmdSai5lqsK) | 3:23 | 2022-11-10 |  |
 | [Glad It's Not Me](https://open.spotify.com/track/3zdL4Dghu09U3n6Wfv5UHu) | [Sabrina Durante](https://open.spotify.com/artist/5PesT0eGdPuhh1eljhtaX3) | [Glad It’s Not Me](https://open.spotify.com/album/2doK7K5fVjeTPl2unU6eyS) | 3:44 | 2022-03-24 | 2022-06-17 |
 | [Go Around](https://open.spotify.com/track/344682dEszsdZqQS4vYuUr) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Go Around](https://open.spotify.com/album/6xUvrvbSTXnEIRPKOGnhJh) | 3:23 | 2022-08-18 |  |
 | [God Took His Time On You](https://open.spotify.com/track/3QaA5jdFoAvcnxhfE50vCs) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [God Took His Time On You](https://open.spotify.com/album/553FYAh936iamVcIN0rx9F) | 3:35 | 2021-12-30 | 2022-07-01 |
@@ -128,6 +130,7 @@
 | [KEITH \- Pop Remix](https://open.spotify.com/track/5P9CxTCFWzaom9YM2dnVDN) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [KEITH \(Pop Remix\)](https://open.spotify.com/album/7iI58yZEmaNGVhGGMq6v8m) | 2:52 | 2022-03-31 | 2022-05-09 |
 | [Kiss Me Like You Mean It](https://open.spotify.com/track/2XBzrwJxSVLFt2sF45HT9W) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Light It Up](https://open.spotify.com/album/4mu4JS9y4EMTe8DdTvh1BE) | 3:06 | 2022-06-30 | 2022-09-30 |
 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 | 2022-09-08 |  |
+| [Last Time Last](https://open.spotify.com/track/7ePwjDCWZSmEtzrUvFCoEy) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Last Time Last](https://open.spotify.com/album/3DvNKelL2qwF1ArBNvSec6) | 3:37 | 2022-11-10 |  |
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2022-01-21 | 2022-05-27 |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-03-17 | 2022-08-19 |
 | [Let It Go](https://open.spotify.com/track/4KM1P14d6Svovepg4UEitL) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Let It Go](https://open.spotify.com/album/1DSIDbiZQGXHTrftbKArNv) | 3:26 | 2022-03-31 | 2022-07-08 |

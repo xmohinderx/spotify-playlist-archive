@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 605322,
+  "num_followers": 605411,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMGIyZjc4YzYwODAwNjlhMjEzZWZhZTE0Mzc0NzUxZTI3",
+  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMDFiZGU5ZDkzYmU3ODczYzBkNDQxNTE4M2IzZjE1Nzdk",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq"
-      },
-      "artists": [
-        {
-          "name": "Jessica Reedy",
-          "url": "https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6"
-        }
-      ],
-      "duration_ms": 246106,
-      "name": "Put It On The Altar",
-      "url": "https://open.spotify.com/track/1no67NVun0BIparrhLtPM6"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
         "name": "Revealed",
         "url": "https://open.spotify.com/album/1WBCOU7em7eF48hAk3i5FD"
       },
@@ -403,22 +387,6 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Your Great Name",
-        "url": "https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 379562,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
       },
@@ -431,46 +399,6 @@
       "duration_ms": 193791,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
-        "url": "https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
-      "url": "https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Make Room",
-        "url": "https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 408814,
-      "name": "Not Lucky, I'm Loved",
-      "url": "https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -519,6 +447,30 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
+        "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
+        "url": "https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
+      "url": "https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
         "name": "Gotta Believe",
         "url": "https://open.spotify.com/album/0oS2D0IgnyGkkaUVmdJ1Dv"
       },
@@ -531,22 +483,6 @@
       "duration_ms": 170843,
       "name": "Gotta Believe",
       "url": "https://open.spotify.com/track/6XQnntAqVSQkcaBQP7HIJO"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Strong God",
-      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -567,22 +503,6 @@
       "duration_ms": 257093,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Broken Record",
-        "url": "https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 238084,
-      "name": "Won't Let Go",
-      "url": "https://open.spotify.com/track/37s52ztttg63S3jIDQNo7v"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -623,6 +543,38 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 245901,
+      "name": "Strong God",
+      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Broken Record",
+        "url": "https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 238084,
+      "name": "Won't Let Go",
+      "url": "https://open.spotify.com/track/37s52ztttg63S3jIDQNo7v"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
         "name": "V2...",
         "url": "https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY"
       },
@@ -635,22 +587,6 @@
       "duration_ms": 223666,
       "name": "Praise on the Inside",
       "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 275582,
-      "name": "Just for Me",
-      "url": "https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -687,18 +623,42 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Forever Yours",
-        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
+        "name": "Famous For (I Believe) - Collection",
+        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
       },
       "artists": [
         {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        },
+        {
+          "name": "Donald Lawrence & Company",
+          "url": "https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as"
         }
       ],
-      "duration_ms": 244133,
-      "name": "I Need A Word",
-      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
+      "duration_ms": 278460,
+      "name": "Famous For (I Believe) [Sunday A.M. Version]",
+      "url": "https://open.spotify.com/track/3O1OvEm2Kho4oEAMnnLXaP"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 275582,
+      "name": "Just for Me",
+      "url": "https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -715,6 +675,54 @@
       "duration_ms": 220849,
       "name": "You Waited (Radio Edit) [Live]",
       "url": "https://open.spotify.com/track/5Hfmsb1SeH4GP2qi6eGCO0"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "I Need A Word",
+      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Avery*sunshine Album",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 282826,
+      "name": "Blessin Me",
+      "url": "https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "I See Miracles",
+        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 260431,
+      "name": "I See Miracles",
+      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
     }
   ],
   "unique_name": "Spread the Gospel",

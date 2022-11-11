@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-86 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/2dxvfaJZHLYH4XzE7Sth5o)
+88 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/2dxvfaJZHLYH4XzE7Sth5o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Memories](https://open.spotify.com/track/20AYTqY5fkCDvNN1EJytyh) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Chords & Melodies](https://open.spotify.com/album/0AXZJQdtYuxOqn50svT1eB) | 4:19 | 2022-08-30 |  |
 | [Memories](https://open.spotify.com/track/2CpsluedxDXHfOiqIVGg6N) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Chords & Melodies](https://open.spotify.com/album/5eO2X97XMmGxuDNyPSFa0Z) | 4:19 | 2022-05-26 | 2022-09-30 |
 | [METRO \- XL Middleton Remix](https://open.spotify.com/track/52QdtRrirgHtZJ6JLSbpD8) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [METRO \(XL Middleton Remix\)](https://open.spotify.com/album/4QAelJ3mjmDtK9tkGOblvV) | 3:41 | 2022-05-26 |  |
+| [Monthly Project 2020 June Yoon Jong Shin \- Summer, Anyway](https://open.spotify.com/track/1YJMHH9j5xCnaC0UAza07f) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2020 June Yoon Jong Shin \- Summer, Anyway](https://open.spotify.com/album/6bC0KXhZSgJFRKCLgEiCul) | 5:43 | 2022-08-30 |  |
 | [MOONLIGHT](https://open.spotify.com/track/3R65jxrYZy7oRvmrBnox7J) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [MOONLIGHT](https://open.spotify.com/album/2awLWuhPKSgSJWrqSSWS1j) | 4:45 | 2022-05-26 |  |
 | [Moonset](https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Moonset with KozyPop](https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19) | 3:46 | 2022-05-26 |  |
 | [Mujyuryoku Fantasia](https://open.spotify.com/track/6ybC10sFcKQMi6TdC4Ejsv) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Summer Love Story](https://open.spotify.com/album/1rw8tou2EeehTwI6oGhsJV) | 4:57 | 2022-05-26 |  |
@@ -59,11 +60,12 @@
 | [RIDE ON TIME](https://open.spotify.com/track/7a6Gj71tooMRmxcZwdGNnh) | [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [RIDE ON TIME](https://open.spotify.com/album/5nS4tUBMNOf9ZX8bd5bgbl) | 4:35 | 2022-05-26 |  |
 | [Senja dan Kahlua](https://open.spotify.com/track/0YtWMWrO3A5urhzDFAzTgx) | [Kurosuke](https://open.spotify.com/artist/5Le7DsHESXGLb12JNKPpnR) | [Lagu Baru Dari Masa Lalu, Vol\. 1](https://open.spotify.com/album/5b2swSWZfAc8EZ5v0VTzSi) | 4:37 | 2022-05-26 |  |
 | [Serenata Jiwa Lara](https://open.spotify.com/track/7ivFVBVYH5akFOtOAyeJ4j) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Dian Sastrowardoyo](https://open.spotify.com/artist/2z03bPWIFofruoPDCNj7GG) | [Serenata Jiwa Lara](https://open.spotify.com/album/3nDWFZkpTnxeyAHs4348DQ) | 4:39 | 2022-05-26 |  |
+| [Sigurado](https://open.spotify.com/track/3T8yMLawoliJaN1hAGFFmv) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Sigurado](https://open.spotify.com/album/5bRwSxYckOjIw3oISF6MQk) | 5:39 | 2022-08-30 |  |
 | [Sigurado](https://open.spotify.com/track/2rzc2Lr2oYz73WLyOKkBW2) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [U D D](https://open.spotify.com/album/1jflilZfnSbZ9vU3aMNnxL) | 5:39 | 2022-05-26 | 2022-07-29 |
-| [Sigurado](https://open.spotify.com/track/4XCFHies3PCuxqzGJaKsu6) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [U D D](https://open.spotify.com/album/1soFNLmLx08oNlhgBtQB5g) | 5:39 | 2022-05-26 |  |
+| [Sigurado](https://open.spotify.com/track/4XCFHies3PCuxqzGJaKsu6) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [U D D](https://open.spotify.com/album/1soFNLmLx08oNlhgBtQB5g) | 5:39 | 2022-05-26 | 2022-11-11 |
 | [Step in Step in](https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Step in Step in](https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4) | 3:38 | 2022-05-26 |  |
 | [Summer Hibernation](https://open.spotify.com/track/7h9y9f4gE9u3NmC89d0Flb) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [Anything Goes](https://open.spotify.com/album/1i8cyjNDcIzXTKznYzfF9a) | 3:07 | 2022-05-26 |  |
-| [Summer, Anyway](https://open.spotify.com/track/2UnKYBjiwH3AK14PXJRWzv) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2020 Yoon Jong Shin](https://open.spotify.com/album/0aQdWBzoZP9MFmYW9N68FK) | 5:43 | 2022-05-26 |  |
+| [Summer, Anyway](https://open.spotify.com/track/2UnKYBjiwH3AK14PXJRWzv) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2020 Yoon Jong Shin](https://open.spotify.com/album/0aQdWBzoZP9MFmYW9N68FK) | 5:43 | 2022-05-26 | 2022-11-11 |
 | [Summer, Anyway \(Monthly Project 2020 June Yoon Jong Shin\)](https://open.spotify.com/track/5dhBFsbrOcZhLbJFImgvsd) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Summer, Anyway \(Monthly Project 2020 June Yoon Jong Shin\)](https://open.spotify.com/album/2z6kAL1yr6a2OiHBJ9CDWQ) | 5:43 | 2022-05-26 | 2022-07-29 |
 | [Summum Bonum](https://open.spotify.com/track/09bEFRkwyd648AXubqQxir) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [CASSA NOVA](https://open.spotify.com/album/6ElKO6Gwlw0xV4Nt6tBvoH) | 4:41 | 2022-05-26 | 2022-07-29 |
 | [Summum Bonum](https://open.spotify.com/track/1i0GPOOiWudGbWlApdADbp) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Cassa Nova](https://open.spotify.com/album/7qDgQiJVHJwOiFtYCBYIxn) | 4:41 | 2022-05-26 |  |

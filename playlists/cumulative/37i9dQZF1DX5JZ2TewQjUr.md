@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: hirsk
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: LilithQueenB
 
-299 songs - 17 hr 14 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+304 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [call me at night.](https://open.spotify.com/track/1TbIDnBOU6zt8znlnjK3W3) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [call me at night.](https://open.spotify.com/album/55t9N8HJ0nv4lLXBsBQsKC) | 3:01 | 2022-08-04 | 2022-11-04 |
 | [Candy](https://open.spotify.com/track/1ITGuB4Tgap1WaDcbamsRI) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Candy](https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd) | 2:22 | 2022-06-24 | 2022-11-04 |
 | [caution tape](https://open.spotify.com/track/4kvxJvder2lfnQII57KmTR) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [caution tape](https://open.spotify.com/album/6xpY8pLdWXeTPvx9lqWyau) | 2:20 | 2022-05-26 | 2022-06-10 |
+| [Christopher Luke](https://open.spotify.com/track/7KnylTHkKv0Jwq9wcKVu02) | [The Language Lab](https://open.spotify.com/artist/4Qj1fEqHSJ3hQc5fHtUsnf) | [Your Boyfriends \(Deleted Scene\)](https://open.spotify.com/album/2IXOvkGVO7gZwgqMPPRqzY) | 2:59 | 2022-11-10 |  |
 | [Close my eyes 全部都係你](https://open.spotify.com/track/2C4NU1PZKZQA6Qu5ej93qQ) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [Close my eyes 全部都係你](https://open.spotify.com/album/5bWvx8LCfaGYlJGk3n6Meg) | 3:10 | 2022-06-09 | 2022-09-09 |
 | [CLOSER](https://open.spotify.com/track/1BnsGKpBhdGIfNjItPla86) | [Lil.Lulu](https://open.spotify.com/artist/1DLCJfQBgwlD8SfBopLSE8) | [CLOSER](https://open.spotify.com/album/3oVNoU0fW0LDIS4cBPliOq) | 3:32 | 2022-09-22 |  |
 | [Coffee or tea](https://open.spotify.com/track/05dIejxjljs2szxWX3PKLV) | [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ) | [Coffee or tea](https://open.spotify.com/album/5cYa0ENtyWPMnfCGEBXVje) | 2:32 | 2022-08-18 |  |
@@ -41,6 +42,7 @@
 | [cry baby](https://open.spotify.com/track/0wZVP1xzfhtXEzni1euLwG) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [cry baby](https://open.spotify.com/album/4AxO9XKqwFHv5BlT4UsxjL) | 3:57 | 2022-10-13 |  |
 | [DAI MOND](https://open.spotify.com/track/6I0Y1KlUkH1pwKNKeanzRQ) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [DAI MOND](https://open.spotify.com/album/0KND9Ae7tkWf0Ml2vgbH6e) | 3:08 | 2022-05-26 | 2022-07-29 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 3:14 | 2022-06-09 | 2022-09-09 |
+| [Dancing in Delirium](https://open.spotify.com/track/6VPECBUXUyqaHNdwJTRaYs) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [Dancing in Delirium](https://open.spotify.com/album/072k6yfPLKbZG2iz7cBL51) | 2:40 | 2022-11-10 |  |
 | [DEMONS](https://open.spotify.com/track/0UMhOCEAdwvxWaZ0K7V6KU) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [DEMONS](https://open.spotify.com/album/4ZCF8pOZliBXL2RhM7VDFW) | 2:27 | 2022-05-26 | 2022-07-29 |
 | [dirty af1s](https://open.spotify.com/track/5QtkOcCpbMfcVjDkzlx9al) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [dirty af1s](https://open.spotify.com/album/1MR4kqZbbAYSojdJpqeyAb) | 3:27 | 2022-10-13 |  |
 | [Dive Into](https://open.spotify.com/track/5duQk4TjziGGXduPwBC7f4) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt), [Anagreta](https://open.spotify.com/artist/1SipH088atGLTvgOSYagbm) | [Dive Into](https://open.spotify.com/album/1KZaiyn4EbSFEOdXFsWC7Z) | 4:03 | 2022-05-26 | 2022-07-29 |
@@ -93,6 +95,7 @@
 | [Kowloon 九龍](https://open.spotify.com/track/0XLcxPWoiIPPmcU1kEpDc0) | [Hallex M](https://open.spotify.com/artist/0f270Jn8Iq2r631GA5429f) | [Kowloon 九龍](https://open.spotify.com/album/0Et4ZqBmHGbwRnRvJH6JEd) | 6:40 | 2022-07-28 | 2022-09-09 |
 | [L.over Remix](https://open.spotify.com/track/5WTAyEu3w3YIjHN2q8eb61) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [L.over Remix](https://open.spotify.com/album/6gBgfP26HuP5JE2SjFZ0uc) | 3:18 | 2022-05-26 | 2022-07-29 |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-05-26 | 2022-07-29 |
+| [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 | 2022-11-10 |  |
 | [LIES](https://open.spotify.com/track/6mPxpQM6VCS076j6UuYQLZ) | [HeartShine](https://open.spotify.com/artist/2N77bYeH8lzQ2jfhSiqNDB) | [LIES](https://open.spotify.com/album/4QzMt6ksSwYOHepTfo22lW) | 2:33 | 2022-09-22 |  |
 | [Lights Camera Action](https://open.spotify.com/track/0AnwtaDOeEOGfG5WPA3H8Y) | [Haysen Cheng](https://open.spotify.com/artist/0nh7l4AluXpKHvqx1f3biK), [Harikiri](https://open.spotify.com/artist/6l8D5mZvv6wusxpawsw1t6) | [Lights Camera Action](https://open.spotify.com/album/5sZg0L4un96F5ed8x2g3XG) | 2:14 | 2022-06-02 | 2022-09-09 |
 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 | 2022-07-16 | 2022-11-04 |
@@ -192,6 +195,7 @@
 | [Wherever the Wind Blows](https://open.spotify.com/track/3rcUdlMn6YQx8Byr511yo9) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Aquilo](https://open.spotify.com/album/3w8Rdn8i5qPGKVPURtvi42) | 3:28 | 2022-07-14 | 2022-11-04 |
 | [WHITELIES](https://open.spotify.com/track/1ZCni5M2ETDB01M2TqLvgA) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [WHITELIES](https://open.spotify.com/album/2c2NXy8ZwXA22gCAIMIB4Z) | 4:11 | 2022-06-09 | 2022-09-09 |
 | [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-05-26 | 2022-07-29 |
+| [Why are you so sad](https://open.spotify.com/track/7uLHPFAUNfSVkNRGh0T3xK) | [Ethan Tong](https://open.spotify.com/artist/6ism2YHCPqfxz6Rja13RUb) | [Why are you so sad](https://open.spotify.com/album/2baNs4wCqVuoMkGMUkh3Ys) | 3:08 | 2022-11-10 |  |
 | [why don't you remember me](https://open.spotify.com/track/6BfUZXWYF6nYrLhJipbNTQ) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [crybox](https://open.spotify.com/album/1etOALJ9XwB1iHpOfLB0On) | 4:21 | 2022-10-06 | 2022-11-04 |
 | [WILL BE FINE](https://open.spotify.com/track/2NGVGh8HDC1lxQj7Ua3cPh) | [Andy Is Typing](https://open.spotify.com/artist/3cKjWAYtDVV9OlDnJcT57t) | [WILL BE FINE](https://open.spotify.com/album/0cuz2NZsZ47cSICyiLIQbf) | 3:09 | 2022-09-22 |  |
 | [Wondering](https://open.spotify.com/track/7uL1EQOXRHV36aPxCcrltC) | [mue](https://open.spotify.com/artist/4nINHlTXP0sDUGWHmf4cLi) | [Wondering](https://open.spotify.com/album/6YWHGKMDDHYdxjAIYaId5K) | 4:09 | 2022-10-27 |  |
@@ -239,6 +243,7 @@
 | [拖延症](https://open.spotify.com/track/3z4itVDmorH5NctDqtS8XB) | [Rainraiin](https://open.spotify.com/artist/2CwG7xfcTi9ihVoV7sLUoB) | [拖延症](https://open.spotify.com/album/1XTBRg5ycDEvW3GMnJm2I6) | 3:08 | 2022-08-18 | 2022-11-04 |
 | [拖拉有罪](https://open.spotify.com/track/10CPHJpx6SAESNNtQUWKuv) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [拖拉有罪](https://open.spotify.com/album/0Es6ouJZyy0fl99yemY1j8) | 3:22 | 2022-09-22 |  |
 | [換我](https://open.spotify.com/track/7IQiDM8vp4qPIMLtCgBO6U) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl) | [換我](https://open.spotify.com/album/0XLXFnADRmgz6ZiyAX6ou1) | 4:24 | 2022-05-26 | 2022-07-29 |
+| [擔遮要考牌 \(feat\. krizzzi\)](https://open.spotify.com/track/4LfVcVXLedvOIhSRJiA1nu) | [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d), [krizzzi](https://open.spotify.com/artist/1N8S0OQkQl1A9SObdckDJG) | [擔遮要考牌 \(feat\. krizzzi\)](https://open.spotify.com/album/0Eg1rCFjXx1KRYtcM6Kenj) | 3:29 | 2022-11-10 |  |
 | [支力會\(S\)](https://open.spotify.com/track/32d9V77uEwFJJkSgm2pgpU) | [薛晉寧](https://open.spotify.com/artist/51gtz3TwZi8vKNM74TVYdP) | [支力會\(S\)](https://open.spotify.com/album/5G63G72oiF8ggAEatxEcsu) | 2:30 | 2022-09-15 | 2022-11-04 |
 | [新しい夢](https://open.spotify.com/track/6EiynkTuHZlV4pZNDa0gVs) | [乙女シンドリーム](https://open.spotify.com/artist/1Efsbqw7CE223XEihVWRFU) | [新しい夢/恋のおまじない我愛你](https://open.spotify.com/album/3YMFOov3nRBGTnyHj99NIC) | 3:47 | 2022-10-06 |  |
 | [新的世界 New World](https://open.spotify.com/track/6a3lZEaqHnRoda9XBON1Ue) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy), [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [新的世界 New World](https://open.spotify.com/album/4RadJm3zCzJkD9D0jObPs0) | 2:41 | 2022-09-08 |  |

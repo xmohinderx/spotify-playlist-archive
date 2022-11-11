@@ -6,6 +6,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Vivir Muriendo",
+        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
+      },
+      "artists": [
+        {
+          "name": "Astrid Hadad",
+          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244813,
+      "name": "A Mi Me Mato\u0301 La Vida",
+      "url": "https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43"
+    },
+    {
+      "album": {
         "name": "Songbook 3 El Amor Es Vida",
         "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
       },
@@ -598,6 +616,24 @@
     },
     {
       "album": {
+        "name": "Caracoles",
+        "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
+      },
+      "artists": [
+        {
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145484,
+      "name": "El Funeral",
+      "url": "https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI"
+    },
+    {
+      "album": {
         "name": "Sus Grandes Corridos y Rancheras",
         "url": "https://open.spotify.com/album/3smCO3bWe2bjBkMNt3UL1V"
       },
@@ -895,7 +931,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 511333,
       "name": "La llorona",
       "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
@@ -1357,7 +1393,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 202053,
       "name": "Muri\u00f3 La Flor",
       "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
@@ -1411,10 +1447,28 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 276133,
       "name": "No es serio este cementerio",
       "url": "https://open.spotify.com/track/0vJVhBOvRSjG0KBbFpx46Y"
+    },
+    {
+      "album": {
+        "name": "Ana, Jos\u00e9, Nacho",
+        "url": "https://open.spotify.com/album/4l3E8sfadY7Ye5F6jlp6i6"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "No es serio este cementerio",
+      "url": "https://open.spotify.com/track/1rj0elTfavuMUblDwi8wFG"
     },
     {
       "album": {
@@ -1567,7 +1621,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204617,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
@@ -1611,6 +1665,24 @@
       "duration_ms": 264533,
       "name": "Recu\u00e9rdame",
       "url": "https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo"
+    },
+    {
+      "album": {
+        "name": "Cantando Con la Muerte",
+        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
+      },
+      "artists": [
+        {
+          "name": "Los Folkloristas",
+          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156306,
+      "name": "Refalosa del Adi\u00f3s (Refalosa) [Chile]",
+      "url": "https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew"
     },
     {
       "album": {
@@ -1827,7 +1899,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 172643,
       "name": "Uy que miedo",
       "url": "https://open.spotify.com/track/1PsMejyv5k5cS24FNDuYy2"
@@ -1867,7 +1939,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 131039,
       "name": "Vengan Abuelitos",
       "url": "https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh"

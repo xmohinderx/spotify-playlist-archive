@@ -4,7 +4,7 @@
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-137 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/2CpcnxVCpB06kTXNN47C8u)
+139 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/2CpcnxVCpB06kTXNN47C8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,12 @@
 | [下雨了](https://open.spotify.com/track/2WbV5lenncUu7VhZThGbjR) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 5:05 | 2021-11-22 |  |
 | [下雨天](https://open.spotify.com/track/3BfjVIPmUpIrgqLdOJP1My) | [Nan Quan Mama](https://open.spotify.com/artist/48Smhc0ISwYYRSad1uXSns) | [優的良曲南搞小孩](https://open.spotify.com/album/4OUsiM08OuFmQf0dYS88kM) | 4:13 | 2021-11-22 |  |
 | [下雨天](https://open.spotify.com/track/63Qpnrn403cKcE8Y1N0nx0) | [Nan Quan Mama](https://open.spotify.com/artist/48Smhc0ISwYYRSad1uXSns) | [南搞小孩](https://open.spotify.com/album/7AFqbLLzn0dQagVDuQ8Nwk) | 4:13 | 2021-11-22 | 2022-07-29 |
-| [下雨天](https://open.spotify.com/track/1rCKpLcFlEMsohPxWPdmQ1) | [与少年他](https://open.spotify.com/artist/3xcvAsqetqeBCnBKBvjCQE), [芝麻Mochi](https://open.spotify.com/artist/0EG7xDeBfiTY274OAt2rmV) | [下雨天](https://open.spotify.com/album/5vz6yRGaRVLPpwAN3X3EvV) | 4:25 | 2021-11-22 |  |
+| [下雨天](https://open.spotify.com/track/1rCKpLcFlEMsohPxWPdmQ1) | [与少年他](https://open.spotify.com/artist/3xcvAsqetqeBCnBKBvjCQE), [芝麻Mochi](https://open.spotify.com/artist/0EG7xDeBfiTY274OAt2rmV) | [下雨天](https://open.spotify.com/album/5vz6yRGaRVLPpwAN3X3EvV) | 4:25 | 2021-11-22 | 2022-11-11 |
 | [下雨天](https://open.spotify.com/track/1NuU0pzdDjkuzMJ9Z5XbQW) | [張傑](https://open.spotify.com/artist/1HqyRvEnqddArUHn00V1db) | [小醜/英雄](https://open.spotify.com/album/5Mg614sMau5ZzlqfE9al12) | 4:35 | 2021-11-22 | 2022-07-28 |
 | [下雨天](https://open.spotify.com/track/5iHMbxkuqPnd9iT0LNqP8V) | [張傑](https://open.spotify.com/artist/1HqyRvEnqddArUHn00V1db) | [小丑/英雄](https://open.spotify.com/album/5aAAO9mFJV5Y9BWhquOcHY) | 4:35 | 2022-09-05 |  |
 | [下雨天](https://open.spotify.com/track/1Yc1BqPYFaUP8Ktm89lqKr) | [楊培安](https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1) | [午夜兩點半的我](https://open.spotify.com/album/3HkkCV2VJbRXJ2mTiUPHqM) | 4:33 | 2021-11-22 | 2022-07-29 |
 | [下雨天](https://open.spotify.com/track/0MmaEacabpK8Yp3Mdeo5uY) | [芝麻](https://open.spotify.com/artist/5VGgFE9nPgMfEnYiPT5J2B) | [下雨天](https://open.spotify.com/album/5klejo7VSWYX1nP6mMKQ88) | 4:25 | 2021-11-22 | 2022-07-29 |
+| [下雨天](https://open.spotify.com/track/0Y8yibBrGfaE5ADExEfIE5) | [芝麻Mochi](https://open.spotify.com/artist/0EG7xDeBfiTY274OAt2rmV) | [下雨天](https://open.spotify.com/album/31TMlXzN0emPvZ3D0JFMxY) | 4:25 | 2022-09-05 |  |
 | [下雨天特別容易寂寞](https://open.spotify.com/track/31fqacrSZrOFmC0r0ajuYj) | [大頭](https://open.spotify.com/artist/5lo4iJvHEZTnE8frAhKexh) | [孤獨蜉蝣](https://open.spotify.com/album/4sVH6G5IXdiwu3zoYpESGc) | 3:51 | 2021-11-22 | 2022-07-28 |
 | [下雨的夜晚](https://open.spotify.com/track/0SH79vh3rXHDWFwerUsAkZ) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [冬 未了](https://open.spotify.com/album/3ocSaUwFSAOecoSc4I6ZkU) | 4:30 | 2021-11-22 |  |
 | [下雨的夜晚](https://open.spotify.com/track/4KbwDvkJalLYtseKjyoDvA) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [下雨的夜晚](https://open.spotify.com/album/4wUpprqBt1iTny5vbR2PvJ) | 4:30 | 2021-11-22 | 2022-07-28 |
@@ -65,7 +66,7 @@
 | [微雨](https://open.spotify.com/track/4Xmums18xhKhwgWtOKXnZy) | [邵雨薇](https://open.spotify.com/artist/05PoS1s7QgQDp202WsZ8SP) | [微雨](https://open.spotify.com/album/43wEkgik29K31WN42WmlRr) | 3:53 | 2021-11-22 |  |
 | [怎麼又是下雨天](https://open.spotify.com/track/4ytwN2vT5kMdki4LmmHpKS) | [Ken Deng 肯鄧](https://open.spotify.com/artist/67WEyeIvKyJEX30EzqrXoC), [NaiXin](https://open.spotify.com/artist/77FgzteLtghErXTnE6l1PS) | [Montagne D'amour 愛情山](https://open.spotify.com/album/6GqTOdNqk78tx5LJo3v5Tg) | 4:04 | 2022-09-05 | 2022-11-04 |
 | [想要淋雨的人 \(電影《全面攻佔3:天使救援》中文宣傳曲\)](https://open.spotify.com/track/6tpw6fA4DDrwWp5Ettz2MC) | [Quarterback](https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3) | [想要淋雨的人 \(電影《全面攻佔3:天使救援》中文宣傳曲\)](https://open.spotify.com/album/1NU6x0Fn10YFh0bq0vwgp9) | 3:31 | 2021-11-22 | 2022-10-03 |
-| [愛上下雨天](https://open.spotify.com/track/55BYgPXgJY7SFHBJ6jUz6g) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [新鮮](https://open.spotify.com/album/4k8c7UGWxzwlkdvjy3Wlx7) | 4:28 | 2021-11-22 | 2022-11-02 |
+| [愛上下雨天](https://open.spotify.com/track/55BYgPXgJY7SFHBJ6jUz6g) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [新鮮](https://open.spotify.com/album/4k8c7UGWxzwlkdvjy3Wlx7) | 4:28 | 2021-11-22 |  |
 | [整座城市都在下雨](https://open.spotify.com/track/2tC9417EOGfxP1mYHXn9rl) | [Teresa Tseng](https://open.spotify.com/artist/4bliFwoYKuaWBNHMOOu72z) | [想遇見](https://open.spotify.com/album/4Q44cNWQXpBdBzUUDgQIMK) | 5:09 | 2022-09-05 | 2022-10-07 |
 | [整座城市都在下雨](https://open.spotify.com/track/4E8wNU9geZMNFW8K1au54s) | [Teresa Tseng](https://open.spotify.com/artist/4bliFwoYKuaWBNHMOOu72z) | [想遇見](https://open.spotify.com/album/0dH2XqKTKGgcMvTDURokVY) | 5:09 | 2021-11-22 | 2022-07-21 |
 | [晴天雨天](https://open.spotify.com/track/1AzQjh998Ha3YKhVsUMnd5) | [唐貓 SUGARCAT](https://open.spotify.com/artist/4aWERTpHN8Z4OEtq9hcLR9) | [晴天雨天](https://open.spotify.com/album/5df0AO6gNJBe5KvX4C3tKw) | 3:47 | 2021-11-22 |  |
@@ -76,14 +77,15 @@
 | [淋雨中](https://open.spotify.com/track/1rJLmeWNZWCadABxGee6BO) | [林宇中](https://open.spotify.com/artist/5v5S1It3qh2HHacQj24HO2) | [淋雨中](https://open.spotify.com/album/5zRbDXc4LYF59A7oTo1dXO) | 3:58 | 2021-11-22 |  |
 | [滯留鋒](https://open.spotify.com/track/4lMNnQmrG15MzxbFXECbCy) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [滯留鋒](https://open.spotify.com/album/6cHxc7xRPejbtlr0VfOgxJ) | 5:07 | 2021-11-22 |  |
 | [滯留鋒](https://open.spotify.com/track/6T9B2sBqcAuLl53JeMwqVI) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [滯留鋒](https://open.spotify.com/album/4vbgeL7up3pJv699Hnku5A) | 5:07 | 2021-11-22 | 2022-07-29 |
-| [濕了,就不怕會下雨](https://open.spotify.com/track/4raq39Uzg89n9zPEVlmqjx) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [離心力](https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco) | 2:59 | 2022-09-05 |  |
+| [濕了,就不怕會下雨](https://open.spotify.com/track/4raq39Uzg89n9zPEVlmqjx) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [離心力](https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco) | 2:59 | 2022-09-05 | 2022-11-11 |
 | [热带雨 \- 《热带雨》电影同名主题曲](https://open.spotify.com/track/7JrUmfeLQTT4zO0KAqnBIe) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [热带雨 \(《热带雨》电影同名主题曲\)](https://open.spotify.com/album/6JHeFZxMEsEbnTAqK8cK2O) | 4:06 | 2021-11-22 |  |
 | [現在正在下雨,但是你不在](https://open.spotify.com/track/6Y2F3Iwa1ZMI9cJT4Y1bVw) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [摩登悲劇](https://open.spotify.com/album/5RceUqTiztLNmT5IXwZZEX) | 1:51 | 2021-11-22 | 2022-07-24 |
 | [突然一场雨](https://open.spotify.com/track/3z2KgOHzQ2DyetrAmNVdM8) | [蓝心羽](https://open.spotify.com/artist/5IUx51U4VsEk4wGQvZQcf2) | [突然一场雨](https://open.spotify.com/album/4m8AS1PYiVX3eNgApqDuis) | 3:50 | 2022-09-05 |  |
 | [等待雨散](https://open.spotify.com/track/0xb9qQq48lPhlrmPf4EnG5) | [WONFU](https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy) | [旺情歌](https://open.spotify.com/album/2PjCxy7d085P2vQ3Nt3Vg3) | 4:43 | 2021-11-22 |  |
 | [等雨](https://open.spotify.com/track/6ZFbVCOCfticaZjBQ0dLDA) | [Hu Xia](https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR) | [拾](https://open.spotify.com/album/5AgltDdpS6cBwYNsctFypI) | 4:09 | 2021-11-22 | 2022-09-26 |
 | [聽見下雨的聲音](https://open.spotify.com/track/0nt1LAZjaTjrf30S8hdRDU) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [哎呦 不錯哦](https://open.spotify.com/album/1aYDr6muZPmwYvstDnIbeH) | 4:39 | 2021-11-22 |  |
-| [聽見下雨的聲音](https://open.spotify.com/track/0AoLF8kZSDuMz032j4ZnC0) | [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [聽見下雨的聲音](https://open.spotify.com/album/5B4YcASgajCBvssOCKyoNk) | 4:40 | 2021-11-22 |  |
+| [聽見下雨的聲音](https://open.spotify.com/track/0AoLF8kZSDuMz032j4ZnC0) | [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [聽見下雨的聲音](https://open.spotify.com/album/5B4YcASgajCBvssOCKyoNk) | 4:40 | 2021-11-22 | 2022-11-11 |
+| [聽見下雨的聲音](https://open.spotify.com/track/0UMYkzjCT09LAX6xp3Zvam) | [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [聽見下雨的聲音 電影原聲帶](https://open.spotify.com/album/7FF7fSMqhXWHcxUTwycuHK) | 4:42 | 2022-09-05 |  |
 | [聽見下雨的聲音](https://open.spotify.com/track/22NAGVzy0ctgT9E2mYMRTC) | [玩聲樂團](https://open.spotify.com/artist/75OXQk14pr8AhmV159yq85) | [VOX 2](https://open.spotify.com/album/47zpJDU5Djszna4nNVhq83) | 4:11 | 2021-11-22 | 2022-07-23 |
 | [聽見下雨的聲音\(電影主題曲\)](https://open.spotify.com/track/2OOK2CFsrYsFHR4roIHett) | [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [聽見下雨的聲音](https://open.spotify.com/album/2zsHqT7FqywxoRvAvD3v0t) | 4:42 | 2021-11-22 | 2022-07-28 |
 | [茉莉雨](https://open.spotify.com/track/46PzflyM0fehl0AtZutikH) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [新地球](https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8) | 4:16 | 2021-11-22 |  |
@@ -115,7 +117,7 @@
 | [雨下得真好](https://open.spotify.com/track/6CoS4JNpTyILwqD8zMu4jw) | [Harlem Yu](https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY) | [靠近](https://open.spotify.com/album/6FPVhgOuGhengkAf916BRs) | 4:48 | 2021-11-22 | 2022-07-28 |
 | [雨不停。流 \- 電視劇《無神之地不下雨》片尾曲](https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [雨不停。流 \(電視劇《無神之地不下雨》片尾曲\)](https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU) | 4:25 | 2021-11-22 |  |
 | [雨中漫步 \(feat\. Polly\)](https://open.spotify.com/track/1tRmb5T439pSwUH1ImjCwd) | [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [Polly](https://open.spotify.com/artist/3cYDoS8wWlR3ttRBIJkqxC) | [雨中漫步 \(feat\. Polly\)](https://open.spotify.com/album/3QYtIT9ZPrsBnT3YWL6emO) | 2:32 | 2021-11-22 | 2022-07-19 |
-| [雨你](https://open.spotify.com/track/49Wr8GLOfs9lviBkR9rbQH) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD), [Kin Lee](https://open.spotify.com/artist/0IC9cjThGaA7tg8teGugWN) | [雨你](https://open.spotify.com/album/15kyCeWOWRYoO49SUu5SmC) | 3:03 | 2021-11-22 | 2022-11-08 |
+| [雨你](https://open.spotify.com/track/49Wr8GLOfs9lviBkR9rbQH) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD), [Kin Lee](https://open.spotify.com/artist/0IC9cjThGaA7tg8teGugWN) | [雨你](https://open.spotify.com/album/15kyCeWOWRYoO49SUu5SmC) | 3:03 | 2021-11-22 |  |
 | [雨停之後 \(網絡劇《在悠長的時光裡等你》插曲\)](https://open.spotify.com/track/5ExaLMiN88y3anmQZM2Oi9) | [莫非定律More Feel](https://open.spotify.com/artist/5GhwOMwt3cfHb5LX8cCf7j) | [《在悠長的時光里等你》網絡劇原聲帶](https://open.spotify.com/album/7oGUwwttjGTePD4ZD6NwCZ) | 4:43 | 2021-11-22 | 2022-07-29 |
 | [雨停雨下](https://open.spotify.com/track/3cM2mN3vHLpMVXQb4CzWge) | [林文荪](https://open.spotify.com/artist/0lCnaAXCVtMY2wizkUfr3F) | [最高的地方](https://open.spotify.com/album/2Ihs0bP0lAkMfVPMXETVEz) | 6:06 | 2021-11-22 | 2022-07-22 |
 | [雨和太陽](https://open.spotify.com/track/7GJxG9P2SW3peeqg29dJK0) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 3:20 | 2021-11-22 |  |
@@ -126,7 +128,7 @@
 | [雨天](https://open.spotify.com/track/1h96VTvVSeoauuCXNSVxSk) | [戚薇](https://open.spotify.com/artist/2MOq4wdhVbkqa7TsiIrlIQ) | [我的新鮮女友](https://open.spotify.com/album/5g3u91tAuVLIGInnw7g0DA) | 4:30 | 2021-11-22 | 2022-07-24 |
 | [雨天 \- 電視劇《繁星四月》插曲](https://open.spotify.com/track/6LSTVdxrfSOCCeO07WKTHx) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [雨天](https://open.spotify.com/album/2RmppTD74HT6VSB0GM0Zso) | 4:34 | 2021-11-22 |  |
 | [雨天小情歌](https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk) | [時光街樂隊](https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D) | [雨天小情歌](https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM) | 4:24 | 2021-11-22 | 2022-10-19 |
-| [雨天的尾巴 \- 滬尾小情歌](https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [陳綺貞 精選](https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY) | 3:35 | 2022-09-05 |  |
+| [雨天的尾巴 \- 滬尾小情歌](https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [陳綺貞 精選](https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY) | 3:35 | 2022-09-05 | 2022-11-11 |
 | [雨天的尾巴 \- 滬尾小情歌](https://open.spotify.com/track/0KQ0XFKAPAFpLDk534H1aK) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [陳綺貞精選](https://open.spotify.com/album/7KImFSQ8P2Xy2AqqKQLkWl) | 3:35 | 2021-11-22 | 2022-07-20 |
 | [雨天練習](https://open.spotify.com/track/2DOi724KaHE6Ymcxs1Skut) | [依錚依靜](https://open.spotify.com/artist/4TzVVyHE0QPx5f8e4AQfZ8) | [心靈感應](https://open.spotify.com/album/5IwnwzK6VmLCP6kFubDN8l) | 1:40 | 2021-11-22 | 2022-09-12 |
 | [雨季不再來](https://open.spotify.com/track/30oVE79TbVinAaY20uM4VC) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [眼淚博物館](https://open.spotify.com/album/7zYdHfR3NHfp43ULyFHQGK) | 4:32 | 2021-11-22 | 2022-07-29 |

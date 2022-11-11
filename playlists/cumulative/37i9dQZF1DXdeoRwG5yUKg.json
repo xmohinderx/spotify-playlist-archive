@@ -2255,7 +2255,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 232724,
       "name": "What's the Matter with You",
       "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
@@ -2277,6 +2277,24 @@
       "duration_ms": 232724,
       "name": "What's the Matter with You",
       "url": "https://open.spotify.com/track/4G9KOVinbchBNFGB2YTyvK"
+    },
+    {
+      "album": {
+        "name": "Wild Wild West / What's the Matter with You",
+        "url": "https://open.spotify.com/album/0jotRZwh5y6BZkMYIr8rN8"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2020-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/4hWYkaP4BEZPROMXnF1Vc2"
     },
     {
       "album": {
@@ -2381,10 +2399,28 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 223577,
       "name": "You Were Mine",
       "url": "https://open.spotify.com/track/4njmTrh1kqxmPql07KKnlT"
+    },
+    {
+      "album": {
+        "name": "You Were Mine",
+        "url": "https://open.spotify.com/album/73FfFoBNTaiRsKEOH0Mxpk"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        }
+      ],
+      "date_added": "2020-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223577,
+      "name": "You Were Mine",
+      "url": "https://open.spotify.com/track/6RAfGW0UE6DS1tysl71axP"
     },
     {
       "album": {

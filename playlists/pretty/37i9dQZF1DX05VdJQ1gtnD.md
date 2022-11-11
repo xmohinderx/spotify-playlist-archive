@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 
 > Warming instrumental guitar for sitting by the fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,952 likes - 157 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,025 likes - 157 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 133 | [Come To My Window](https://open.spotify.com/track/2PbBN3RdEoS9EmNcmZzUHh) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Come To My Window](https://open.spotify.com/album/0E0UTRTQUYrcOpO7bZoovG) | 3:29 |
 | 134 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 |
 | 135 | [waking up in a new world](https://open.spotify.com/track/3q0Nbk3V4XgpOXpS4IWHTJ) | [Victor Santos](https://open.spotify.com/artist/1VIfeRsZv9cw7shAwqBDOW) | [Roses](https://open.spotify.com/album/09p5h5U8OsTHA9dIaXGVes) | 4:43 |
-| 136 | [Readers](https://open.spotify.com/track/4tkACn8vZjisGUrhTzlmRX) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/2jzgwz3nkjprtt1epZDN43) | 3:01 |
+| 136 | [Readers](https://open.spotify.com/track/4uNnr1XfaipIG9TBFsZTt2) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [The Cereal Killers: Bedtime Guitar](https://open.spotify.com/album/4R57k9bpcwczFvwrnfhskU) | 3:01 |
 | 137 | [Thoughts](https://open.spotify.com/track/7HfFKtI0a6u8l4XE9QetHy) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Thoughts](https://open.spotify.com/album/58Tn036XqbSSbwRkgPfzoO) | 3:16 |
 | 138 | [Dublin](https://open.spotify.com/track/7t82AQOD8JSHkLOZRSC0BM) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Dublin](https://open.spotify.com/album/5PMaZ9o8XkTqg9TyYC6YpE) | 1:42 |
 | 139 | [Neverland](https://open.spotify.com/track/5dBfxNan60Il2DqEFYIcMQ) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Neverland](https://open.spotify.com/album/6jJjT7skytiWDi4reLn9Gk) | 2:30 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 156 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 |
 | 157 | [Fine](https://open.spotify.com/track/20OtNAS1rEsQFcLaaNZzTj) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Fine](https://open.spotify.com/album/5DoF619iMc4eb6HDfNu7Yt) | 1:52 |
 
-Snapshot ID: `MTY2Njk2NTA3MiwwMDAwMDAwMDU1YTkxYWUxZjc0MjFlY2NlZjJlMTM3NjMxNzFhZjJj`
+Snapshot ID: `MTY2Njk2NTA3MiwwMDAwMDAwMGNlZjQ4Zjk3MTUzMTE4YjEwMDBkMjI2NzM2ZjRkMmY1`

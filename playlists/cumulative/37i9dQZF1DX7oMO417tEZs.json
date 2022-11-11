@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 284606,
       "name": "All Along (Kaytranada Remix)",
       "url": "https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 284606,
       "name": "All Along (Kaytranada Remix)",
       "url": "https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be"
@@ -5235,7 +5235,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 194430,
       "name": "Japanese Black Pine",
       "url": "https://open.spotify.com/track/1k1RnBXKfruZerrRtNq1qe"
@@ -5257,6 +5257,24 @@
       "duration_ms": 194430,
       "name": "Japanese Black Pine",
       "url": "https://open.spotify.com/track/4WYtahAVDnkTAjRqCalZ6d"
+    },
+    {
+      "album": {
+        "name": "Come and Love Me, Destroyer, Vol. 1",
+        "url": "https://open.spotify.com/album/3TaBIFpaiSjB2XWNlYY6JA"
+      },
+      "artists": [
+        {
+          "name": "Zanski",
+          "url": "https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194430,
+      "name": "Japanese Black Pine",
+      "url": "https://open.spotify.com/track/6OfA9nmLdgMTWHCLh0dkfx"
     },
     {
       "album": {

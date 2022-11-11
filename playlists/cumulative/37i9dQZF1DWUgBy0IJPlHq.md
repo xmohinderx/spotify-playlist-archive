@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Lainey Wilson
 
-350 songs - 21 hr 32 min - [published](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
+351 songs - 21 hr 35 min - [published](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Broken Families](https://open.spotify.com/track/2WB5G1nEq09QJoNDL9ShrR) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Broken Families](https://open.spotify.com/album/1dljQ7Haw2glHe01n1cV93) | 3:17 | 2022-02-25 | 2022-04-02 |
 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 | 2021-12-17 |  |
 | [Broken Token](https://open.spotify.com/track/0Hrud84lLW4GiCeHILpY1z) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Broken Token](https://open.spotify.com/album/603kTkT5RDUYY40nsI1Xg4) | 2:38 | 2022-08-19 | 2022-10-31 |
-| [Broken Token](https://open.spotify.com/track/2vsfsEGV4axAfD9l7L9QpJ) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Honey Harper & The Infinite Sky](https://open.spotify.com/album/400XedHANVhPNbid6j0UQc) | 2:38 | 2022-10-28 |  |
+| [Broken Token](https://open.spotify.com/track/2vsfsEGV4axAfD9l7L9QpJ) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Honey Harper & The Infinite Sky](https://open.spotify.com/album/400XedHANVhPNbid6j0UQc) | 2:38 | 2022-10-28 | 2022-11-11 |
+| [Broken Token](https://open.spotify.com/track/2zYDk8l0CJApb7hUNRAFve) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 2:38 | 2022-10-28 |  |
 | [Bubba Shot the Jukebox](https://open.spotify.com/track/7I2GxY2DVhw63KjUBg0WvZ) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Slappers, Bangers & Certified Twangers, Vol\. 2](https://open.spotify.com/album/6JIvjLVu35EUL1tGaxfHIJ) | 3:08 | 2021-12-17 | 2022-03-12 |
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2022-04-08 | 2022-08-20 |
 | [C'mon Baby, Cry](https://open.spotify.com/track/6RdQx3nZNjYIZ9nlBw6JLG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco: Chapter 1](https://open.spotify.com/album/5lGeIKePKFplfWbgfTBA8e) | 3:30 | 2022-02-11 | 2022-04-09 |

@@ -225,6 +225,24 @@
     {
       "album": {
         "name": "Angels We Have Heard On High",
+        "url": "https://open.spotify.com/album/5Vfxiz4U5upC1MURchp7nr"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158475,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/5NDXZph9YC0ZU7PO7PPLZs"
+    },
+    {
+      "album": {
+        "name": "Angels We Have Heard On High",
         "url": "https://open.spotify.com/album/5I62hbC0Y0xxSJ8Xj9LKJ3"
       },
       "artists": [
@@ -271,7 +289,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 189260,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/2o8rF3D43FbniUVatDtSlz"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 107063,
       "name": "Carol Of The Beers",
       "url": "https://open.spotify.com/track/4G2pd7tgadvUSPLlQqOBzN"
@@ -476,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Tis The Season To Be Fearless",
+        "url": "https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a"
+      },
+      "artists": [
+        {
+          "name": "Sparks The Rescue",
+          "url": "https://open.spotify.com/artist/07DRdecWdrPljDGClOl3nL"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201827,
+      "name": "Christmas Brings Me Down",
+      "url": "https://open.spotify.com/track/6JT5mL6HCTBIFWeYNMfexd"
+    },
+    {
+      "album": {
         "name": "A GC Christmas, Pt. 1",
         "url": "https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N"
       },
@@ -487,7 +523,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 181991,
       "name": "Christmas by the Phone",
       "url": "https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP"
@@ -577,7 +613,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 177666,
       "name": "Christmas Day",
       "url": "https://open.spotify.com/track/52fJLPcouUhbUYY8YPjPMg"
@@ -613,7 +649,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 241653,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/5Kl7ZklgYOFjNWTFk5Q5QL"
@@ -667,7 +703,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255400,
       "name": "Christmas Shoes",
       "url": "https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl"
@@ -757,7 +793,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 238422,
       "name": "Christmas With You",
       "url": "https://open.spotify.com/track/0enn0hF3toElN9rxQVMo4Y"
@@ -977,7 +1013,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 216609,
       "name": "Ex-Miss",
       "url": "https://open.spotify.com/track/1XjwY71f2bseVdodL3ak1Z"
@@ -1013,7 +1049,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 217426,
       "name": "Ex-Miss",
       "url": "https://open.spotify.com/track/0GematrDvLx1cEh5tTZY4Y"
@@ -1053,7 +1089,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209373,
       "name": "Father Christmas",
       "url": "https://open.spotify.com/track/4ye8DKOAbTLH5a2Y0Zpxkn"
@@ -1179,7 +1215,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 192226,
       "name": "Forget December",
       "url": "https://open.spotify.com/track/2BHNw4MANcwKf69MF4LR8z"
@@ -1467,7 +1503,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 157746,
       "name": "I Had A Heart",
       "url": "https://open.spotify.com/track/32l3HV3vwkoVjagjLGdJll"
@@ -1727,7 +1763,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 267773,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/6VV8EboIsnmgv8Yy11g6Ww"
@@ -1781,7 +1817,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": null,
       "duration_ms": 188333,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/22rBktERctuWCLmnV51Td5"
@@ -1889,7 +1925,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 124066,
       "name": "Merry Christmas (I Don't Wanna Fight Tonight) - 2002 Remaster",
       "url": "https://open.spotify.com/track/2T3tEaSThdC9J9mnvxJWoZ"
@@ -1907,7 +1943,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 227973,
       "name": "Merry Christmas, Happy Holidays",
       "url": "https://open.spotify.com/track/64q83lEZPlPy88UMvdbiTB"
@@ -1943,7 +1979,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199253,
       "name": "Merry Christmas, Kiss My Ass",
       "url": "https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5"
@@ -1979,7 +2015,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 201640,
       "name": "Mr. Winter",
       "url": "https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY"
@@ -2033,7 +2069,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 139133,
       "name": "New Year's Revolution",
       "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
@@ -2069,7 +2105,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215200,
       "name": "Nothing For Christmas",
       "url": "https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV"
@@ -2159,7 +2195,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 160586,
       "name": "Oi To The World",
       "url": "https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2"
@@ -2595,7 +2631,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "The War On Christmas Is Over (If You Buy It)",
       "url": "https://open.spotify.com/track/6F6VIAmrqiXgeAXycoHOs4"
@@ -2617,7 +2653,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 234893,
       "name": "Things I Want",
       "url": "https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c"
@@ -2671,7 +2707,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 207000,
       "name": "This Christmas (I'll Burn It To The Ground)",
       "url": "https://open.spotify.com/track/4lc26OWTRFdEZediB0picq"
@@ -2725,7 +2761,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 214733,
       "name": "This Holiday",
       "url": "https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx"
@@ -2761,7 +2797,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 137346,
       "name": "This Time of Year",
       "url": "https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm"
@@ -3017,7 +3053,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
@@ -3053,7 +3089,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177640,
       "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
       "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"

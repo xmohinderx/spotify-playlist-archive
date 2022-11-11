@@ -1,12 +1,12 @@
 {
   "description": "The newest songs from LGBTQIA+ artists. Cover: Muna",
-  "num_followers": 815432,
+  "num_followers": 815460,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDlkN2VjOTc1NDBkZGFiMTdiNWU2YTMyMDlhN2ZmZDU4",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGRlOTFkNmYyNGRlMGZjMTRhYmI5YzNhZDJiY2Q0NjQw",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "would you love me now?",
-        "url": "https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 205646,
-      "name": "would you love me now?",
-      "url": "https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "HOLY FVCK",
         "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 180260,
       "name": "EAT ME (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "would you love me now?",
+        "url": "https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 205646,
+      "name": "would you love me now?",
+      "url": "https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "curious/furious",
-        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 184905,
-      "name": "curious/furious",
-      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "blue water road",
         "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 207551,
       "name": "everything",
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "curious/furious",
+        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 184905,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Fall In Love With A Girl (feat. Beabadoobee)",
         "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 190853,
       "name": "fall in love with a girl (feat. Beabadoobee)",
       "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Nonante-Cinq",
+        "url": "https://open.spotify.com/album/0pcRdTAIkItbFdyRA4CVZM"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "CP_009_ \u00c9videmment",
+      "url": "https://open.spotify.com/track/5XoaHIInmGuv7j6KssXWBg"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "for the girls",
         "url": "https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB"
       },
@@ -591,22 +611,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Nonante-Cinq",
-        "url": "https://open.spotify.com/album/0pcRdTAIkItbFdyRA4CVZM"
+        "name": "I THINK YOU TURNED ME",
+        "url": "https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl"
       },
       "artists": [
         {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "Orelsan",
-          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
         }
       ],
-      "duration_ms": 206120,
-      "name": "CP_009_ \u00c9videmment",
-      "url": "https://open.spotify.com/track/5XoaHIInmGuv7j6KssXWBg"
+      "duration_ms": 132250,
+      "name": "I THINK YOU TURNED ME",
+      "url": "https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -623,22 +639,6 @@
       "duration_ms": 245808,
       "name": "Hold The Girl",
       "url": "https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "I THINK YOU TURNED ME",
-        "url": "https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl"
-      },
-      "artists": [
-        {
-          "name": "Chandler Leighton",
-          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
-        }
-      ],
-      "duration_ms": 132250,
-      "name": "I THINK YOU TURNED ME",
-      "url": "https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Way I Go",
-        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
-      },
-      "artists": [
-        {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
-        }
-      ],
-      "duration_ms": 247829,
-      "name": "Way I Go",
-      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
       },
@@ -851,22 +835,6 @@
       "duration_ms": 195800,
       "name": "Feel It All The Time",
       "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Broken Memories",
-        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 151307,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -919,22 +887,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "WET",
         "url": "https://open.spotify.com/album/6PmonSZBxYfIpW12oeCV3o"
       },
@@ -947,6 +899,22 @@
       "duration_ms": 163378,
       "name": "WET",
       "url": "https://open.spotify.com/track/7q7Pc8oHXldntr7YKN4PFz"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 219373,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -967,54 +935,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Smoking Weed Alone",
-        "url": "https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Smoking Weed Alone",
-      "url": "https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "rising (the deluxe)",
-        "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "kaleidoscope",
-      "url": "https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "If It's Not God",
-        "url": "https://open.spotify.com/album/1xRImmscq4t4IAm1G9OSVt"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "If It's Not God",
-      "url": "https://open.spotify.com/track/3pjXm7eAzDGJSjSlLKijPG"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
       },
@@ -1027,6 +947,22 @@
       "duration_ms": 188915,
       "name": "To You",
       "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Smoking Weed Alone",
+        "url": "https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Smoking Weed Alone",
+      "url": "https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1079,22 +1015,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Inside Voices / Outside Voices",
-        "url": "https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 225033,
-      "name": "Weirdo",
-      "url": "https://open.spotify.com/track/0aIj36K0tuJIt6kpN4Jbtq"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "just another song",
         "url": "https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj"
       },
@@ -1111,22 +1031,6 @@
       "duration_ms": 168700,
       "name": "just another song",
       "url": "https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Queen Bitch",
-        "url": "https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH"
-      },
-      "artists": [
-        {
-          "name": "Kailee Morgue",
-          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "Queen Bitch",
-      "url": "https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1167,22 +1071,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Do You Well (feat. Perfume Genius)",
-        "url": "https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK"
+        "name": "Queen Bitch",
+        "url": "https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH"
       },
       "artists": [
         {
-          "name": "Nakhane",
-          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
         }
       ],
-      "duration_ms": 213293,
-      "name": "Do You Well (feat. Perfume Genius)",
-      "url": "https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol"
+      "duration_ms": 161013,
+      "name": "Queen Bitch",
+      "url": "https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1203,18 +1103,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Homerun Hitter",
-        "url": "https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11"
+        "name": "Do You Well (feat. Perfume Genius)",
+        "url": "https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK"
       },
       "artists": [
         {
-          "name": "Greyson Chance",
-          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
         }
       ],
-      "duration_ms": 272453,
-      "name": "Homerun Hitter",
-      "url": "https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG"
+      "duration_ms": 213293,
+      "name": "Do You Well (feat. Perfume Genius)",
+      "url": "https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1235,6 +1139,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Homerun Hitter",
+        "url": "https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "duration_ms": 272453,
+      "name": "Homerun Hitter",
+      "url": "https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Shaking Hands With Elvis",
         "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
       },
@@ -1247,6 +1167,90 @@
       "duration_ms": 209087,
       "name": "Hollywood Forever Cemetery",
       "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "My Friend Mica",
+        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 173905,
+      "name": "Legs",
+      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "homecoming!",
+        "url": "https://open.spotify.com/album/6oxQZpgS63Ah61H7fjsGHC"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "stupid games",
+      "url": "https://open.spotify.com/track/3wHX2s10YcSPt6ftT9qKwv"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "BIG!",
+        "url": "https://open.spotify.com/album/4xrzNkHJXlkvwYyVipesug"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "duration_ms": 184166,
+      "name": "SHE CAN DANCE",
+      "url": "https://open.spotify.com/track/13k1V6Qr0c3ZX20oOiiGfl"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "In My Drinks",
+        "url": "https://open.spotify.com/album/6dX7u9yE0pG75ufDtb2B4u"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "duration_ms": 203605,
+      "name": "In My Drinks",
+      "url": "https://open.spotify.com/track/1GQhJMCZ4oN5lJ2H8HPouL"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Nobody But Me (feat. Cold War Kids)",
+        "url": "https://open.spotify.com/album/5Q4MnV0Phqr0R5eEM78Ycr"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 224519,
+      "name": "Nobody But Me (feat. Cold War Kids)",
+      "url": "https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9"
     }
   ],
   "unique_name": "Out Now",

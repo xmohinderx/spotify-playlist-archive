@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,050 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,043 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 15 | [Moonlight](https://open.spotify.com/track/3vegrQVpcg38k6D20s6TTm) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Moonlight](https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn) | 3:40 |
 | 16 | [Roll \(Burbank Funk\)](https://open.spotify.com/track/01bfHCsUTwydXCHP1VoLlI) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 3:11 |
 | 17 | [Before You Get a Boyfriend.](https://open.spotify.com/track/4KVTbc2x0EahbAaLHv8TkH) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Before You Get a Boyfriend.](https://open.spotify.com/album/09vk699RVpDUZ0fPXbTfZS) | 4:13 |
-| 18 | [Hurting \(feat\. AlunaGeorge\)](https://open.spotify.com/track/7h8e5oCD5ZRu0VPNHEN6A5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 3:05 |
+| 18 | [Hurting](https://open.spotify.com/track/2iclqE8w8T7sAqzhFQGbRG) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Summer BBQ: EDM](https://open.spotify.com/album/6ut9dZVLX9wVX6C3qQ5o4X) | 3:05 |
 | 19 | [Mona Lisa Bonet](https://open.spotify.com/track/06I2oTgzyWBjw6qJcKGMkk) | [Latrell James](https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc) | [Mona Lisa Bonet](https://open.spotify.com/album/6t3OXIO6WN2k24g8xRsam6) | 2:05 |
-| 20 | [Dangerous](https://open.spotify.com/track/3WOB7zFoez5ziVhUHtqqD9) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [This Time](https://open.spotify.com/album/5d1GP0Dl62bgaOQ8euQJAn) | 3:51 |
+| 20 | [Dangerous](https://open.spotify.com/track/0SCcYTx5we9EKTPvEXxld5) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [Dangerous \(Touch Sensitive Remix\)](https://open.spotify.com/album/54UxhHBaQwRqvp7SWjrR4N) | 3:51 |
 | 21 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 |
 | 22 | [Rollercoaster](https://open.spotify.com/track/2MLgNLIkT0SZ2YPhZ8rbg4) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Rollercoaster](https://open.spotify.com/album/4ZCormQxAfZzBFxNx0jnfm) | 3:17 |
 | 23 | [La Piña](https://open.spotify.com/track/3fmIXrnXgt6ZzXWHewbvSC) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [La Piña](https://open.spotify.com/album/4Ur27mAxzS8CzHr942EuGE) | 3:39 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 34 | [Ladders](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:47 |
 | 35 | [Way Out](https://open.spotify.com/track/3CiBI1yRg9oUygxCOXlxUq) | [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [Way Out](https://open.spotify.com/album/0mZWmkD3zpDu8qEnGHl5oI) | 3:19 |
 | 36 | [Goodbyes \(feat\. Method Man\)](https://open.spotify.com/track/1YItRRQXVa3GtFSZ0RmgXA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Goodbyes \(feat\. Method Man\)](https://open.spotify.com/album/4mo8TcrCcCfn4bjZmpgyIC) | 3:21 |
-| 37 | [Changed](https://open.spotify.com/track/1eqUhiAigR4rtx5EmZkiNl) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Changed](https://open.spotify.com/album/1PyVw5kgM8EZGH0BABIvTK) | 3:50 |
+| 37 | [Changed](https://open.spotify.com/track/1eqUhiAigR4rtx5EmZkiNl) | [iamalex](https://open.spotify.com/artist/1VGj7BaUru5Te0iAl36oXm) | [Changed](https://open.spotify.com/album/1PyVw5kgM8EZGH0BABIvTK) | 3:50 |
 | 38 | [Disco Yes](https://open.spotify.com/track/61Ivix5DTnDPVjp1dgLyov) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:40 |
 | 39 | [MPH](https://open.spotify.com/track/7tzRTFrsbmx9M4O8iQug7H) | [MIKNNA](https://open.spotify.com/artist/53htGvuREf9YT5LYk5HEvb) | [MPH](https://open.spotify.com/album/7MBwB6nRv4cikVJEWevUHU) | 3:33 |
-| 40 | [Change](https://open.spotify.com/track/7HPoNHUAZaXkMFoKUL8Dah) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Joy, Ease, Lightness](https://open.spotify.com/album/5ybMFVNupOM0QpV9d8hciD) | 4:35 |
+| 40 | [Change](https://open.spotify.com/track/5pNwF0rBqhPkMxNXxXZkI3) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Future Disco: Beach Life 2.0](https://open.spotify.com/album/6UUxuEIJ6ygesbtQZ2D8zm) | 4:35 |
 | 41 | [Someone That You Love](https://open.spotify.com/track/3S2LNcyJre3hvJbPTcoghO) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Olivia Nelson](https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj) | [Someone That You Love](https://open.spotify.com/album/3luWrggbv1wxvfwB7mxHtR) | 2:57 |
 | 42 | [Holding](https://open.spotify.com/track/2CRycjpFt9XRENYDZSQzfo) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Holding](https://open.spotify.com/album/54KICMlCqj1F9wgR0QAmEv) | 3:00 |
 | 43 | [Zesty Surprise](https://open.spotify.com/track/1kgwqnaAleyIrREmXRYIKo) | [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB) | [Zesty Surprise](https://open.spotify.com/album/1nvOH8ihLCbnpg2ICSKET3) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 49 | [Getaway](https://open.spotify.com/track/0SOg0VldvpnbaPZfS4ZXgJ) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Getaway](https://open.spotify.com/album/1RcahBHAZTy2HroE7F4F1f) | 2:16 |
 | 50 | [Left & Right](https://open.spotify.com/track/5N6d8ri3KFmAhVIXGydnLN) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Aréna](https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j) | [Left & Right](https://open.spotify.com/album/7ELdoHPpEJ9uOdM02EzBXL) | 3:08 |
 
-Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMGQwYTA1Y2EyYTc2NGEwMTZkYTdiOGRkNDMzOTJiMTRk`
+Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMGFlMmIyMDc0MzY3ZDNkZTEwMGMyMWNjZjJjZDZjZDBm`

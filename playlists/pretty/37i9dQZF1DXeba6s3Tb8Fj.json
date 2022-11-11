@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 4970,
+  "num_followers": 4979,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDQ3Y2NiODcxMjY3N2E2OGI0Y2M4YmQwOGY0M2YwOTc4",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMGM0ZmY3NGQ3MzY3NzFhMjZjM2U2MzE2OWYzMGY4YzIw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Mariama",
-        "url": "https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI"
+        "name": "Tassili (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN"
       },
       "artists": [
         {
-          "name": "Boubacar Traor\u00e9",
-          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
         }
       ],
-      "duration_ms": 338933,
-      "name": "Mariama Kaba",
-      "url": "https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ"
+      "duration_ms": 253453,
+      "name": "Tenere Taqhim Tossam",
+      "url": "https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -519,22 +519,6 @@
       "duration_ms": 367185,
       "name": "Iyat Ninhay / Jaguar (A Great Desert I Saw)",
       "url": "https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Tassili (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 253453,
-      "name": "Tenere Taqhim Tossam",
-      "url": "https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -571,6 +555,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Kongo Magni",
+        "url": "https://open.spotify.com/album/0aYCT3cI8cb4q3iRFx8oAe"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "duration_ms": 323293,
+      "name": "Karkar / Vincent",
+      "url": "https://open.spotify.com/track/0tLfhiNrN6tyZrDrnpDUeI"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Temet",
         "url": "https://open.spotify.com/album/1RK0pJy13gdxRchYDEemSq"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 183720,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/0oh6nHFPCxP2reKoRjuI6Q"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Kongo Magni",
-        "url": "https://open.spotify.com/album/0aYCT3cI8cb4q3iRFx8oAe"
-      },
-      "artists": [
-        {
-          "name": "Boubacar Traor\u00e9",
-          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
-        }
-      ],
-      "duration_ms": 323293,
-      "name": "Karkar / Vincent",
-      "url": "https://open.spotify.com/track/0tLfhiNrN6tyZrDrnpDUeI"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -779,22 +763,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Wanita",
-        "url": "https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg"
-      },
-      "artists": [
-        {
-          "name": "Rokia Traor\u00e9",
-          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
-        }
-      ],
-      "duration_ms": 351533,
-      "name": "Tchwa",
-      "url": "https://open.spotify.com/track/3AF8QpzspG8btjyd4s3bjM"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Sahara Sessions",
         "url": "https://open.spotify.com/album/4pmsnCSw9i2y3MP24QZaid"
       },
@@ -811,18 +779,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Imidiwan: Companions",
-        "url": "https://open.spotify.com/album/1T0sA1dBhet0q3KQlklEhL"
+        "name": "Wanita",
+        "url": "https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg"
       },
       "artists": [
         {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+          "name": "Rokia Traor\u00e9",
+          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
         }
       ],
-      "duration_ms": 328853,
-      "name": "Tenhert",
-      "url": "https://open.spotify.com/track/3eWaUgRTojLlBHfVrETuXD"
+      "duration_ms": 351533,
+      "name": "Tchwa",
+      "url": "https://open.spotify.com/track/3AF8QpzspG8btjyd4s3bjM"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -839,6 +807,22 @@
       "duration_ms": 400800,
       "name": "Tamalah",
       "url": "https://open.spotify.com/track/1x3Y5XIrFf01LIqus4kQKI"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Imidiwan: Companions",
+        "url": "https://open.spotify.com/album/1T0sA1dBhet0q3KQlklEhL"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 328853,
+      "name": "Tenhert",
+      "url": "https://open.spotify.com/track/3eWaUgRTojLlBHfVrETuXD"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -863,6 +847,22 @@
       "duration_ms": 251500,
       "name": "The Lighthouse Keeper",
       "url": "https://open.spotify.com/track/56pRhM8fsMvWGL0dAnzj9W"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Boubacar Traor\u00e9",
+        "url": "https://open.spotify.com/album/6JpKWVHssUoCJfunCx8p9F"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "duration_ms": 336224,
+      "name": "Mariama Kaba",
+      "url": "https://open.spotify.com/track/3JFEvfG2SZkaFSETgznyw7"
     },
     {
       "added_at": "2020-12-01 05:01:00",

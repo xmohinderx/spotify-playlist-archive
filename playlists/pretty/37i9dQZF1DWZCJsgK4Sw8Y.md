@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,493 likes - 87 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,596 likes - 87 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hero](https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:06 |
 | 2 | [Anthem For The Underdog](https://open.spotify.com/track/6FFwt1ea9hJ4MfMQLywahm) | [12 Stones](https://open.spotify.com/artist/0DrXhci3WAyo0WJv1RBOG6) | [Anthem For The Underdog \(Bonus Track Version\)](https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv) | 3:04 |
-| 3 | [All Around Me](https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 3:18 |
+| 3 | [All Around Me](https://open.spotify.com/track/4RgROifXVgxP6c8VETwWSq) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Female Rockers](https://open.spotify.com/album/1GXtqtmRnjLjxZVzuzOpGS) | 3:18 |
 | 4 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 |
 | 5 | [Anthem Of The Lonely](https://open.spotify.com/track/1bKRtH1leT7y003VikaXUc) | [Nine Lashes](https://open.spotify.com/artist/6L5kgEyFIlckHbMdRM2KXQ) | [World We View](https://open.spotify.com/album/5hNY9GQIaQR7MOelvlY0qu) | 4:01 |
 | 6 | [Move](https://open.spotify.com/track/0PLDTR5M7gcT4m69CZfpcf) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Made In Canada: The 1998 \- 2010 Collection](https://open.spotify.com/album/4PffG7ZGaGVTAWRclqOTg2) | 3:28 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 22 | [Monster](https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 2:58 |
 | 23 | [Fall, Goliath, Fall](https://open.spotify.com/track/3i3XwvrLZ74c97On7g2VkK) | [Project 86](https://open.spotify.com/artist/7toVzxZQU21OjB5PqXNvTF) | [Wait for the Siren](https://open.spotify.com/album/62ZjB6ny3sUujvynLd81Uu) | 4:20 |
 | 24 | [Impossible](https://open.spotify.com/track/473xAny4InLJTlWnUNEwZq) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Glory](https://open.spotify.com/album/7f68ciNKoEoIcjYRKWz7Z5) | 3:58 |
-| 25 | [Collapsing \(feat\. Björn "Speed" Strid\)](https://open.spotify.com/track/2WVQXKecFNKwjfJab3M2xc) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [The World Is a Thorn \(Deluxe Edition\)](https://open.spotify.com/album/735AGDPrJkkaFEnl4UjlfN) | 3:38 |
+| 25 | [Collapsing \(feat\. Björn "Speed" Strid\)](https://open.spotify.com/track/2WrCs2nN9bsKoEOb6GA96G) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [The World Is a Thorn](https://open.spotify.com/album/1wFufr2EJubTesfemYQb2O) | 3:38 |
 | 26 | [Bring Me Down \(EP Mix\)](https://open.spotify.com/track/2HnL824x6jylDli8X5oepD) | [Pillar](https://open.spotify.com/artist/2Tkg8omOIsTL617yXVt26e) | [Broken Down: The EP](https://open.spotify.com/album/08cIEavAAdghVEpAiP2FO2) | 3:32 |
 | 27 | [Whispers in the Dark](https://open.spotify.com/track/6rSuL1ViLO7Aljn2WD09s4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:24 |
 | 28 | [Rawkfist](https://open.spotify.com/track/6dJ19Ei1VCDoBbEEboCxir) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [20th Century Masters \- The Millennium Collection: The Best Of Thousand Foot Krutch](https://open.spotify.com/album/0oYFgjXHENrlHEsHIf7b45) | 3:03 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 40 | [This Is A Call](https://open.spotify.com/track/4vhubdDhCQbqCxeGyiCtbu) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The Ultimate Collection](https://open.spotify.com/album/5njAxKASvYBhOEByLb3hw0) | 3:50 |
 | 41 | [Best Night Of Our Lives \- Best Night Of Our Lives Album Version](https://open.spotify.com/track/1ETGlDwGxJ9BDT2FxhbrjI) | [Everyday Sunday](https://open.spotify.com/artist/7DUuU3jQh3RHTzQ7x46dtH) | [Best Night Of Our Lives](https://open.spotify.com/album/6oZg7b4DPt3XCqbqIVXTMH) | 3:14 |
 | 42 | [Crash](https://open.spotify.com/track/2PQ5qbGvqqaNryS14cSNC9) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Crash](https://open.spotify.com/album/6EXEpRGL3vNulelPB5HZKc) | 3:51 |
-| 43 | [I'm So Sick](https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:55 |
+| 43 | [I'm So Sick](https://open.spotify.com/track/0TbA7Sifl9VRtb6kjZkqQP) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf \(Deluxe Edition\)](https://open.spotify.com/album/4t0LIEbqqzBXeSrujs5Rv6) | 2:55 |
 | 44 | [Smash Hit](https://open.spotify.com/track/1BG7rc6jbEwVlcRTHF6xLZ) | [All Star United](https://open.spotify.com/artist/220W5pIj3LHNWFHqYE5Wxl) | [All Star United](https://open.spotify.com/album/7dcNgHh8gh9Y09BbpqpCvL) | 3:25 |
 | 45 | [I Am a Stone](https://open.spotify.com/track/4nhVsU2AMH8nXG1NXIkzO2) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [True Defiance \(Deluxe Edition\)](https://open.spotify.com/album/1c2cRD8ASzsUH81E3epXYQ) | 5:46 |
 | 46 | [Through It All](https://open.spotify.com/track/3nB5TJEl7taRMwlaoHiOry) | [Spoken](https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l) | [Illusion](https://open.spotify.com/album/2PDQgUQiITwFIdNz5QiL5w) | 3:36 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 86 | [Preacher's Kid](https://open.spotify.com/track/1MYeiUMvuupmhDqMqwM2tN) | [Johnny Q\. Public](https://open.spotify.com/artist/0TLrBAUaGIFgurLKPIPaCi) | [Extra Ordinary](https://open.spotify.com/album/3Ou72BgMUjJImE7s53V8iZ) | 3:59 |
 | 87 | [Rise](https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:20 |
 
-Snapshot ID: `MTYyNzYxNzY2MCwwMDAwMDAwMDY3ZjBkMjRlZmEyYTdhNGY3YTAwMmI3ZDEzOGIzMzc3`
+Snapshot ID: `MTYyNzYxNzY2MCwwMDAwMDAwMDczZDhkZTRmZGU3NWI1YzUzNjE5Zjc3MGJkNDA1YzE4`

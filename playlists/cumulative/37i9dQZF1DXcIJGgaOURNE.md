@@ -4,12 +4,13 @@
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-78 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/5TTbBHGFjJRX445BkgEwaI)
+79 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/5TTbBHGFjJRX445BkgEwaI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [50/50](https://open.spotify.com/track/3I4G8p5a0n1I7owUfaUUpH) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [50/50](https://open.spotify.com/album/0CfK7axWPYSxqUpnaMhECd) | 3:35 | 2022-04-12 |  |
-| [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 | 2022-04-12 |  |
+| [A Forest](https://open.spotify.com/track/5kw9KkeBlF6XK2ngmu88Q8) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [New Wave Pop Hits](https://open.spotify.com/album/1H4O4RMVEbsIEd68QoguDR) | 5:54 | 2022-09-26 |  |
+| [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 | 2022-04-12 | 2022-11-11 |
 | [A Kele Nta](https://open.spotify.com/track/288dVpSCtcRn5nveawFJTj) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [MHD](https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE) | 3:24 | 2022-04-12 |  |
 | [Acid Gentle Moves](https://open.spotify.com/track/79PMfyJVpmvhRjVqlEQQNB) | [Underspreche](https://open.spotify.com/artist/27APxtslZbXwYbuMxVLltm) | [Secret Weapons Part 12](https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD) | 5:23 | 2022-04-12 |  |
 | [Acido](https://open.spotify.com/track/0jyq80GMUC7TH2mFiv1c5H) | [Aera](https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk) | [Secret Weapons Part 14 VI/VI](https://open.spotify.com/album/2WXfh7YuJUFA5Z19wdZGCi) | 6:44 | 2022-09-26 |  |

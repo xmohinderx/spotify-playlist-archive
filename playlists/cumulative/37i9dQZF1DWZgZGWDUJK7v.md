@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: Good Doctor\(굿닥터\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: The Year We Turned 29\(아홉수 우리들\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-92 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+96 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Cinderella's Love \(Daily JoJo\)](https://open.spotify.com/track/6nkoJCo2lwG3HBValDvApj) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Daily JoJo \(Original Webtoon Soundtrack\) Pt.2](https://open.spotify.com/album/0YGbevSnSPmsRyOoMAosrW) | 2:56 | 2022-11-03 |  |
 | [Colored With You \(Romance 101 X SHIN YOUG JAE\)](https://open.spotify.com/track/7407spBhE4FpSMML8wyZ15) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Colored With You \(Romance 101 X SHIN YOUG JAE\)](https://open.spotify.com/album/0YEH7wpxm6ehAXFRObJPDG) | 3:27 | 2022-05-09 |  |
 | [Crush on you \(No brakes for your curves\)](https://open.spotify.com/track/5eHVjWcQKMsTRwT6OtJd0q) | [Jeong Yu Jin](https://open.spotify.com/artist/1XtBI35SSGjQXm1auxDOmD), [Sujin](https://open.spotify.com/artist/1CO3fh4c1J46zsUWpHMITX) | [Crush on you \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/5vwF93uqQGNxV1BiDuWqqr) | 3:08 | 2022-05-09 |  |
+| [Cry Baby](https://open.spotify.com/track/3IDF7N86lrcWaJEt9C1gbS) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Cry Baby](https://open.spotify.com/album/5gvtuOuBl0BECmw76yifnW) | 4:00 | 2022-11-10 |  |
 | [Cry Baby](https://open.spotify.com/track/7vBX6cVsCPFSx2C58hpZ4f) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Cry Baby](https://open.spotify.com/album/0OWATchDPifiDyvGEf2ddO) | 4:00 | 2022-05-09 | 2022-07-29 |
-| [Cry Baby](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:01 | 2022-07-20 |  |
+| [Cry Baby](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:01 | 2022-07-20 | 2022-11-11 |
 | [Dear\. My Fool \(WEBTOON 'Discovery of Love' X Lee Seok Hoon\)](https://open.spotify.com/track/2nWmHvBuS5ukeu3ozEy9WC) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Dear\. My Fool \(WEBTOON 'Discovery of Love' X Lee Seok Hoon\)](https://open.spotify.com/album/5S7p6IEM04HzSyOVjl3kuu) | 3:48 | 2022-07-12 |  |
 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 | 2022-08-02 |  |
 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 | 2022-05-09 |  |
@@ -76,6 +77,7 @@
 | [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 | 2022-05-09 |  |
 | [Star \(Back to you X An Da Eun\)](https://open.spotify.com/track/2Y1R1w2TOzYQTqntArpHXn) | [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Star \(Back to you X An Da Eun\)](https://open.spotify.com/album/15gLG6IxJWK0Fa33mehRzV) | 4:58 | 2022-05-09 |  |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-05-09 |  |
+| [Survival Log X YOUNGDOONG \- Keep going\(Original Webtoon Soundtrack\)](https://open.spotify.com/track/2K5aam6OaUxiSIkPARLFkZ) | [영둥이](https://open.spotify.com/artist/6WNQgcI0bd9sNw8EznPOgF) | [Survival Log X YOUNGDOONG \- Keep going\(Original Webtoon Soundtrack\)](https://open.spotify.com/album/6gXXtK0DiUHEttuZnWjyc3) | 2:33 | 2022-11-10 |  |
 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 | 2022-05-09 |  |
 | [Tear Thief \(The Forbidden Marriage X Kim Jong Kook\)](https://open.spotify.com/track/67Ouhn0JV62GyxpLBDXfVZ) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Tear Thief \(The Forbidden Marriage X Kim Jong Kook\)](https://open.spotify.com/album/5uRHJ5gqXFB7q4Je5PlhLR) | 3:50 | 2022-05-09 |  |
 | [TEARS \(WEBTOON 'Discovery of Love' X HWANG CHI YEUL\)](https://open.spotify.com/track/0pRpX95wMdfhszOe7QkVYx) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [TEARS \(WEBTOON 'Discovery of Love' X HWANG CHI YEUL\)](https://open.spotify.com/album/5aXUCMv5HgCScCSUKhxVPT) | 3:51 | 2022-07-04 |  |
@@ -92,6 +94,7 @@
 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 | 2022-05-09 |  |
 | [What I want](https://open.spotify.com/track/2ScUp6vBAjf54kK6nxSHdo) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [What I want \(From "Odd Girl Out" \[Original Soundtrack\]\)](https://open.spotify.com/album/3lWs144DBXJa8j6hERrwQK) | 3:58 | 2022-05-09 |  |
 | [When We Were Young](https://open.spotify.com/track/7EbqPyHFpXmcTTewbsX9hz) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [When We Were Young \(Good Doctor X XIA\)](https://open.spotify.com/album/5PF1OECcTJ7s3XhEHr1lNd) | 3:18 | 2022-08-25 |  |
+| [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 | 2022-11-10 |  |
 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 | 2022-05-09 |  |
 | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/track/7wlip8qEudClSmF4GmUlis) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/album/5yqtkANmdpmA8nzGalFjb5) | 4:20 | 2022-05-09 |  |
 | [Write about you \(Romance 101 X Lyn\)](https://open.spotify.com/track/340ukejhWUMEDKdHCCpJm4) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Write about you \(Romance 101 X Lyn\)](https://open.spotify.com/album/6sD8MQDSyDX4CYQeOG5rWo) | 3:27 | 2022-05-09 |  |
@@ -100,5 +103,6 @@
 | [Your Name \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 1\]](https://open.spotify.com/track/77HhbrrRrEJzBcgaaUx3cZ) | [EB](https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC) | [Your Name \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 1\]](https://open.spotify.com/album/0425VpxacGwIfKNdxvR4rj) | 3:14 | 2022-05-09 |  |
 | [내가 미안해](https://open.spotify.com/track/4aoDe43Tdn2bd8hXWn0cgX) | [Rumy](https://open.spotify.com/artist/56q60vgstYOBFxfFQ6Q0PL) | [바이트미 \(Original Webtoon Soundtrack\) Pt\. 9](https://open.spotify.com/album/0BHhkr4LxrVN0GcEtLrUG6) | 3:26 | 2022-10-14 |  |
 | [동행](https://open.spotify.com/track/26UHIMqrtQsEVvxRNJXYFa) | [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [동행 \(웹툰 '제독의 괴물아내' OST X 정홍일\)](https://open.spotify.com/album/768NZNG8kbhEJxqJBIilaM) | 4:11 | 2022-05-09 |  |
+| [또 한번 찾아올까요](https://open.spotify.com/track/3k9W2HpTJNVaoMAyd9tR4e) | [Woo Yi Kyung](https://open.spotify.com/artist/2cxVq9Bv0QGLHBuk59LpZY) | [바이트미 \(Original Webtoon Soundtrack\) Pt.12](https://open.spotify.com/album/2JS3Y3BUIEyeRb4oTSHUdB) | 3:27 | 2022-11-10 |  |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

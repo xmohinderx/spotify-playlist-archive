@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,781 likes - 140 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,961 likes - 140 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 65 | [Cruel Summer](https://open.spotify.com/track/2lJVlO1UwZdTYRSHQoSpGj) | [Esqapades](https://open.spotify.com/artist/2C2tv6F19vAPlgpvih613k) | [Cruel Summer](https://open.spotify.com/album/17yiKBHLT2LBbHGMaCxfsY) | 3:23 |
 | 66 | [Easy](https://open.spotify.com/track/1xU2zC6bxsIFM2UHyXYqsW) | [Bossa de Carnaval](https://open.spotify.com/artist/3ydiYqDYKAvrnp1qfUjLQ3) | [Easy](https://open.spotify.com/album/2tBLls66FoItnyIBHlAJFE) | 3:45 |
 | 67 | [Toxic \- Bossa Nova Version](https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61) | [Tea Lundgren](https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc) | [Toxic](https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk) | 2:55 |
-| 68 | [Self Control](https://open.spotify.com/track/4zbdRytE8NuhnVQLkSJhOE) | [Starburkes & The Tea Leaf](https://open.spotify.com/artist/2KPb8cUs99PY1FVmlgev0x) | [Acoustic Coffee House](https://open.spotify.com/album/4jrVgcZN7Q3voamIhYi3gb) | 3:35 |
+| 68 | [Self Control](https://open.spotify.com/track/1FVe8gMPBWQGqTV3DpLmog) | [Kids Music All\-Stars](https://open.spotify.com/artist/5F521ymFBaFwpssPjxSCII) | [Kid's Hits Today](https://open.spotify.com/album/4pQqFqdcTTOFyE4Fy3DOsZ) | 3:35 |
 | 69 | [Do You Really Want To Hurt Me](https://open.spotify.com/track/0LPoUT1JqblTamBXpKXHtt) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:42 |
 | 70 | [Weak](https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef) | [La Cabana Reyo](https://open.spotify.com/artist/2OULNPMNW4thsI4HFAm0y3) | [Weak](https://open.spotify.com/album/0KrngwmfWFAvlwbaWI25Nb) | 3:23 |
 | 71 | [O Negócio É Amar](https://open.spotify.com/track/75GdH53EoZBW6ninKYW9yF) | [Levitação](https://open.spotify.com/artist/3UN99pD6bZtalFMfjSBBTJ), [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [O Negócio É Amar](https://open.spotify.com/album/5T0ngrl4wkJuMeTwNIH2zl) | 3:19 |
@@ -123,13 +123,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 113 | [Satisfaction](https://open.spotify.com/track/3GM0jj5lOJzQmN34GcK9Gp) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Bossa Nova Covers](https://open.spotify.com/album/1WPwzOJRhEbB2DA7ViQoid) | 3:43 |
 | 114 | [Valerie](https://open.spotify.com/track/3FYkUS445ZbxKwe4wIWFkp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Velvet Vault](https://open.spotify.com/album/6UNWzTuMXf32wIZWtKiCvg) | 4:13 |
 | 115 | [Green Light \(Bossa Version\)](https://open.spotify.com/track/22YXs3a3c8c6mOqUvi4Z98) | [Rachelle Spring](https://open.spotify.com/artist/3LPPGZrVd6moExHlmR7zLr) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 4:24 |
-| 116 | [Something Just Like This \- Bossa Mix](https://open.spotify.com/track/5wqJ934lye7Apsg5LjjbLx) | [Purple Sparks](https://open.spotify.com/artist/0haWJk8mUdWGoSmbR08pns) | [Something Just Like this \(Bossa Mix\)](https://open.spotify.com/album/0STA8ez0uqV9V3hOrUi0uf) | 3:35 |
+| 116 | [Something Just Like This \- Bossa Mix](https://open.spotify.com/track/6fEQg8xlw5KUR3is41kAv6) | [Purple Sparks](https://open.spotify.com/artist/0haWJk8mUdWGoSmbR08pns) | [New Hits in Bossa Mode](https://open.spotify.com/album/1mtOPd9WQL5MbRBcypA6Mh) | 3:35 |
 | 117 | [Bleeding Love \(Bossa Version\)](https://open.spotify.com/track/6USGOSD8d9KCbpVsAMDpK6) | [Rachelle Spring](https://open.spotify.com/artist/3LPPGZrVd6moExHlmR7zLr) | [Relaxing Bossa Lounge 3](https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o) | 3:45 |
 | 118 | [Call Me Maybe \(Bossa Nova Version\) \[Originally Performed By Carly Rae Jepsen\]](https://open.spotify.com/track/52gkD0XbLxHRaIvXGOVkPu) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 3:48 |
 | 119 | [Don´t Stop ´till You Get Enough](https://open.spotify.com/track/4VrvrQe8C9QxUVxQoWKHFv) | [Scubba](https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV), [Alanah](https://open.spotify.com/artist/417Zhwldkb0YZiVmM1pMah) | [Bossa N' Disco](https://open.spotify.com/album/33wAEyfeK20Z28mDCxxRpK) | 5:13 |
 | 120 | [Rude](https://open.spotify.com/track/2jz3QOQ5vZ37EeiGwFCiy6) | [Alana Marie](https://open.spotify.com/artist/0TJqjUyiiT1yckuKKASNMa), [Franco Sattamini](https://open.spotify.com/artist/4QNUm4TIC6WTlHxQzQf9BT) | [Naked Bossa](https://open.spotify.com/album/6G8mBCMLC17Id0xLSNYWcP) | 4:07 |
 | 121 | [Dancing In the Moonlight](https://open.spotify.com/track/42jBmDWtXI0dEhAcGubGvi) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Dancing In the Moonlight](https://open.spotify.com/album/17rpmPzW0sUNMgMfwMpoXL) | 3:32 |
-| 122 | [Seven Nation Army](https://open.spotify.com/track/1hBqtK4qAms8tUHz0bNzSY) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [More Than a Woman](https://open.spotify.com/album/3kdEJ01bQu7Y3vfsJ4vaEY) | 3:06 |
+| 122 | [Seven Nation Army](https://open.spotify.com/track/6y1pK4TwTsR1fJdkdYJE4T) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Vintage Bossa Café](https://open.spotify.com/album/4aOESzlJmSUE3DB8AfT6Od) | 3:06 |
 | 123 | [Beat It](https://open.spotify.com/track/6UWQ9q6gNZC8AQh3otkUFa) | [Scubba](https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV), [Lizette](https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 3:54 |
 | 124 | [Wonderwall](https://open.spotify.com/track/5prVNiMkpcCPPNXNcWPEeb) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 4:20 |
 | 125 | [Do You Know \(The Ping Pong Song\) \(Bossa Version\)](https://open.spotify.com/track/3KZN0tA4b4BdhiJYQYlprg) | [Billynho Blanco](https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf) | [Relaxing Bossa Lounge 3](https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o) | 3:48 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 139 | [Señorita](https://open.spotify.com/track/7oJXhK3Dq8VpiOoRxWxpD0) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Señorita](https://open.spotify.com/album/7Gw6zmZWTTfLZ4TG9BcyGi) | 3:10 |
 | 140 | [No Woman, No Cry](https://open.spotify.com/track/501YlAetaUihOReeVjAJq1) | [Urban Love](https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7), [Astrud C](https://open.spotify.com/artist/0NK0MNkLVmoTRc6wKP7Bb0), [moana](https://open.spotify.com/artist/444nnv3ACMwwt0N2eiI9fs) | [Bossa n' Marley](https://open.spotify.com/album/7IEYnDhRLDixYADs3fSEC0) | 4:45 |
 
-Snapshot ID: `MTY2NTY1OTM5NywwMDAwMDAwMGQ1NjFlYzEzMWU4ODY2YTlkMWQ5MWI3NWE5ZGNhZDc3`
+Snapshot ID: `MTY2NTY1OTM5NywwMDAwMDAwMGEwNzc4NDRmMzYzYTI3YmEyMGI3ZjUzMjhiMTQ3YWQ1`

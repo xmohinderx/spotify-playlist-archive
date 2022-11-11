@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Mare Advertencia Lirika en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,911 likes - 94 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,927 likes - 94 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 35 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
 | 36 | [Qué Pasó?](https://open.spotify.com/track/1OWKUTJresDbTamd3t9G55) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:20 |
 | 37 | [El Amor de Mi Vida](https://open.spotify.com/track/5qJ2xUNWrQiNETr0gS20IU) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y) | [Florecer](https://open.spotify.com/album/4No47iGe2xTVqiLQgRG5GJ) | 4:03 |
-| 38 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
+| 38 | [1977](https://open.spotify.com/track/3td82bWICyYsUn75PlqsWS) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [THIS is Latin Hip\-Hop](https://open.spotify.com/album/3I1Q2rYaUhtvMzlF93WOrG) | 3:21 |
 | 39 | [Madre Mía](https://open.spotify.com/track/4wREpwAeOahQ37NBO47QqT) | [Beelial](https://open.spotify.com/artist/04iTZQYr3kP61HCOBZPz7k) | [Madre Mía](https://open.spotify.com/album/6mWj8CTUKbpTqYHmJShw7j) | 3:10 |
 | 40 | [Arrepentío](https://open.spotify.com/track/3vrwBbEWUh43drfQSXcVmZ) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [Arrepentío](https://open.spotify.com/album/5Tof0SEOU9DsgKDustwSgp) | 3:30 |
 | 41 | [Las Hijas Del Rap](https://open.spotify.com/track/0ZqIeOJEc6GGFI0remPX2Z) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Las Hijas Del Rap](https://open.spotify.com/album/2yzvkD2AxrxFQDWDy19by8) | 3:00 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 93 | [No Estoy](https://open.spotify.com/track/2WkJqdOBHuGi44d8dnSHuK) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [No Estoy](https://open.spotify.com/album/0LiFjBoSemLpzSCOsGXTOF) | 3:58 |
 | 94 | [Me Voy](https://open.spotify.com/track/5vx06yKyMpmgLfTeq7vv9K) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Jess Puente](https://open.spotify.com/artist/7A5Nk3dHjJheI5Zga7fSE6), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Me Voy](https://open.spotify.com/album/6JeUFhsLRJtKOLG5qQEHbJ) | 3:25 |
 
-Snapshot ID: `MTY2Nzg3MTEyNywwMDAwMDAwMGMwYmNiMGE4ZTJiMmQ0NDJjZWJhNWEzNTViZDBmY2Zh`
+Snapshot ID: `MTY2Nzg3MTEyNywwMDAwMDAwMDlhY2Y3N2UxNDc1MDVlYjI0YmJiYzdjNzM3ZDI3YWYy`

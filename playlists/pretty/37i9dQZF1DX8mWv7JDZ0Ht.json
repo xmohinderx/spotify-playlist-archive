@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc",
-  "num_followers": 410956,
+  "num_followers": 411054,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAwOTQ0MywwMDAwMDAwMGYxM2JhYjY2MGU0NTk4MjNjMmFhZWI4MmU2N2MxYTAz",
+  "snapshot_id": "MTY2ODAwOTQ0MywwMDAwMDAwMDY2ZjFlZjExZDZkNGRmNTcwZTExYjJiZmNkMzE3ZWM4",
   "tracks": [
     {
       "added_at": "2022-11-09 15:57:23",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
-        "name": "desficava",
-        "url": "https://open.spotify.com/album/2uwvJFTttwIKSleeqtK2JX"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 153665,
-      "name": "desficava",
-      "url": "https://open.spotify.com/track/3QhZwPJ2cGkS093fsQ5T0V"
-    },
-    {
-      "added_at": "2022-11-09 15:57:23",
-      "album": {
         "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
         "url": "https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 294545,
       "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
       "url": "https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq"
+    },
+    {
+      "added_at": "2022-11-09 15:57:23",
+      "album": {
+        "name": "desficava",
+        "url": "https://open.spotify.com/album/2uwvJFTttwIKSleeqtK2JX"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "desficava",
+      "url": "https://open.spotify.com/track/3QhZwPJ2cGkS093fsQ5T0V"
     },
     {
       "added_at": "2022-11-09 15:57:23",
@@ -251,22 +251,22 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
-        "name": "Tudo Pah (Casa Filtr)",
-        "url": "https://open.spotify.com/album/4UKtzqwGYpn2miqMvpDfhO"
+        "name": "Melhor Agora",
+        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
       },
       "artists": [
         {
-          "name": "Priscilla Alcantara",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         },
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 163770,
-      "name": "Tudo Pah - Casa Filtr",
-      "url": "https://open.spotify.com/track/5QPj2GvEMAsca12RmRiMoX"
+      "duration_ms": 152376,
+      "name": "TE AMO (em caixa alta)",
+      "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
     },
     {
       "added_at": "2022-11-09 15:57:23",
@@ -287,22 +287,22 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
-        "name": "Melhor Agora",
-        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
+        "name": "Tudo Pah (Casa Filtr)",
+        "url": "https://open.spotify.com/album/4UKtzqwGYpn2miqMvpDfhO"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "Priscilla Alcantara",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 152376,
-      "name": "TE AMO (em caixa alta)",
-      "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
+      "duration_ms": 163770,
+      "name": "Tudo Pah - Casa Filtr",
+      "url": "https://open.spotify.com/track/5QPj2GvEMAsca12RmRiMoX"
     },
     {
       "added_at": "2022-11-09 15:57:23",
@@ -627,22 +627,22 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
-        "name": "Olho de Girassol",
-        "url": "https://open.spotify.com/album/6sFjAGgZMaQTYa4j5OlJhj"
+        "name": "O Velho e a Flor",
+        "url": "https://open.spotify.com/album/0UTyRrnBF6udLySAWfLBDL"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         },
         {
-          "name": "Br\u00e1ulio Bessa",
-          "url": "https://open.spotify.com/artist/4G22JHSJnunUt8t3yMt46A"
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
         }
       ],
-      "duration_ms": 194673,
-      "name": "Olho de Girassol",
-      "url": "https://open.spotify.com/track/3s0A8jRhbklln6u5eZFxSX"
+      "duration_ms": 161357,
+      "name": "O Velho e a Flor",
+      "url": "https://open.spotify.com/track/2oKVyl56KtxaO05okhItx5"
     },
     {
       "added_at": "2022-11-09 15:57:23",
@@ -663,22 +663,22 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
-        "name": "O Velho e a Flor",
-        "url": "https://open.spotify.com/album/0UTyRrnBF6udLySAWfLBDL"
+        "name": "Olho de Girassol",
+        "url": "https://open.spotify.com/album/6sFjAGgZMaQTYa4j5OlJhj"
       },
       "artists": [
         {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         },
         {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+          "name": "Br\u00e1ulio Bessa",
+          "url": "https://open.spotify.com/artist/4G22JHSJnunUt8t3yMt46A"
         }
       ],
-      "duration_ms": 161357,
-      "name": "O Velho e a Flor",
-      "url": "https://open.spotify.com/track/2oKVyl56KtxaO05okhItx5"
+      "duration_ms": 194673,
+      "name": "Olho de Girassol",
+      "url": "https://open.spotify.com/track/3s0A8jRhbklln6u5eZFxSX"
     },
     {
       "added_at": "2022-11-09 15:57:23",
@@ -743,6 +743,38 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/29C6tX4odBAjZlLQBaQWMp"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 226243,
+      "name": "X",
+      "url": "https://open.spotify.com/track/6W8LexF36gzcCMHOYVUH3M"
+    },
+    {
+      "added_at": "2022-11-09 15:57:23",
+      "album": {
+        "name": "caminhada",
+        "url": "https://open.spotify.com/album/6LGr34aE3K72nW4Jm6d9nH"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 129186,
+      "name": "caminhada",
+      "url": "https://open.spotify.com/track/5AZbqiteR8VtDDWi3BkqBk"
+    },
+    {
+      "added_at": "2022-11-09 15:57:23",
+      "album": {
         "name": "Somos Instantes",
         "url": "https://open.spotify.com/album/50cLjaea6W3hkVgK9nFDuB"
       },
@@ -763,22 +795,6 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/29C6tX4odBAjZlLQBaQWMp"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 226243,
-      "name": "X",
-      "url": "https://open.spotify.com/track/6W8LexF36gzcCMHOYVUH3M"
-    },
-    {
-      "added_at": "2022-11-09 15:57:23",
-      "album": {
         "name": "Ser feliz \u00e9 se encontrar",
         "url": "https://open.spotify.com/album/0bRVFFwxcXgs84fFWYCi30"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 180937,
       "name": "Ser feliz \u00e9 se encontrar",
       "url": "https://open.spotify.com/track/1sjRl2U0YHcOyq79N5CWQg"
-    },
-    {
-      "added_at": "2022-11-09 15:57:23",
-      "album": {
-        "name": "caminhada",
-        "url": "https://open.spotify.com/album/6LGr34aE3K72nW4Jm6d9nH"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 129186,
-      "name": "caminhada",
-      "url": "https://open.spotify.com/track/5AZbqiteR8VtDDWi3BkqBk"
     },
     {
       "added_at": "2022-11-09 15:57:23",
@@ -851,6 +851,26 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
+        "name": "Existencial",
+        "url": "https://open.spotify.com/album/1dLe3d2uFDp4bihR4ZW7XS"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
+        },
+        {
+          "name": "Garcia Gab\u00e9",
+          "url": "https://open.spotify.com/artist/6fQFOL3N5uANNq4MYEVeGl"
+        }
+      ],
+      "duration_ms": 162237,
+      "name": "Existencial",
+      "url": "https://open.spotify.com/track/5n6zkfOjjVkQPOhBKGNSAn"
+    },
+    {
+      "added_at": "2022-11-09 15:57:23",
+      "album": {
         "name": "Me Beija",
         "url": "https://open.spotify.com/album/6jT8SLaJHeOgSReiWWNLQI"
       },
@@ -871,22 +891,18 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
-        "name": "Existencial",
-        "url": "https://open.spotify.com/album/1dLe3d2uFDp4bihR4ZW7XS"
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/3vXGRIRvX8rGxu79ktxSI2"
       },
       "artists": [
         {
-          "name": "Z\u00e9Vitor",
-          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
-        },
-        {
-          "name": "Garcia Gab\u00e9",
-          "url": "https://open.spotify.com/artist/6fQFOL3N5uANNq4MYEVeGl"
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
         }
       ],
-      "duration_ms": 162237,
-      "name": "Existencial",
-      "url": "https://open.spotify.com/track/5n6zkfOjjVkQPOhBKGNSAn"
+      "duration_ms": 179521,
+      "name": "MENTIRA",
+      "url": "https://open.spotify.com/track/6jrk9SYMQh8dhOAYTjU3A2"
     },
     {
       "added_at": "2022-11-09 15:57:23",
@@ -927,22 +943,6 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/3vXGRIRvX8rGxu79ktxSI2"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 179521,
-      "name": "MENTIRA",
-      "url": "https://open.spotify.com/track/6jrk9SYMQh8dhOAYTjU3A2"
-    },
-    {
-      "added_at": "2022-11-09 15:57:23",
-      "album": {
         "name": "\u00c1gua Salgada",
         "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
       },
@@ -955,22 +955,6 @@
       "duration_ms": 201558,
       "name": "\u00c1gua Salgada",
       "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
-    },
-    {
-      "added_at": "2022-11-09 15:57:23",
-      "album": {
-        "name": "Doideira",
-        "url": "https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 157573,
-      "name": "Doideira",
-      "url": "https://open.spotify.com/track/4aodXHEeYiQHyLBc0ElCX3"
     },
     {
       "added_at": "2022-11-09 15:57:23",
@@ -1007,22 +991,6 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
-        "name": "gostosa",
-        "url": "https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 154820,
-      "name": "gostosa",
-      "url": "https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb"
-    },
-    {
-      "added_at": "2022-11-09 15:57:23",
-      "album": {
         "name": "Adoro Amar Voc\u00ea",
         "url": "https://open.spotify.com/album/0dMtLl7Qgizyv3ry7MaZVl"
       },
@@ -1043,6 +1011,38 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
+        "name": "Doideira",
+        "url": "https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 157573,
+      "name": "Doideira",
+      "url": "https://open.spotify.com/track/4aodXHEeYiQHyLBc0ElCX3"
+    },
+    {
+      "added_at": "2022-11-09 15:57:23",
+      "album": {
+        "name": "gostosa",
+        "url": "https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 154820,
+      "name": "gostosa",
+      "url": "https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb"
+    },
+    {
+      "added_at": "2022-11-09 15:57:23",
+      "album": {
         "name": "Que Fase",
         "url": "https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 139058,
       "name": "Qual Fita",
       "url": "https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V"
-    },
-    {
-      "added_at": "2022-11-09 15:57:23",
-      "album": {
-        "name": "Produtividade",
-        "url": "https://open.spotify.com/album/6uc1ia5Sjn54gWDoPipvz5"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Produtividade",
-      "url": "https://open.spotify.com/track/56FdRY4mgXyS4HC0lZdwkX"
     },
     {
       "added_at": "2022-11-09 15:57:23",
@@ -1103,6 +1087,38 @@
       "duration_ms": 104237,
       "name": "Onda Forte",
       "url": "https://open.spotify.com/track/6tLsgc4dTkdEja9eZhaHEt"
+    },
+    {
+      "added_at": "2022-11-09 15:57:23",
+      "album": {
+        "name": "Produtividade",
+        "url": "https://open.spotify.com/album/6uc1ia5Sjn54gWDoPipvz5"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Produtividade",
+      "url": "https://open.spotify.com/track/56FdRY4mgXyS4HC0lZdwkX"
+    },
+    {
+      "added_at": "2022-11-09 15:57:23",
+      "album": {
+        "name": "Defeito De F\u00e1brica",
+        "url": "https://open.spotify.com/album/5lZc6lIMSx15e8bTc55Qhv"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 146782,
+      "name": "Defeito De F\u00e1brica",
+      "url": "https://open.spotify.com/track/5056Bz31L4FjX468aNTpbi"
     },
     {
       "added_at": "2022-11-09 15:57:23",
@@ -1159,18 +1175,22 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
-        "name": "Defeito De F\u00e1brica",
-        "url": "https://open.spotify.com/album/5lZc6lIMSx15e8bTc55Qhv"
+        "name": "me diz (onde que isso vai dar)",
+        "url": "https://open.spotify.com/album/0uqM63Os3PzmyNceXp3nFX"
       },
       "artists": [
         {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+          "name": "Davi Bandeira",
+          "url": "https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68"
+        },
+        {
+          "name": "Leandro Buenno",
+          "url": "https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B"
         }
       ],
-      "duration_ms": 146782,
-      "name": "Defeito De F\u00e1brica",
-      "url": "https://open.spotify.com/track/5056Bz31L4FjX468aNTpbi"
+      "duration_ms": 157976,
+      "name": "me diz (onde que isso vai dar) - remix",
+      "url": "https://open.spotify.com/track/1TmIANDx58ikRR4m4y4xaV"
     },
     {
       "added_at": "2022-11-09 15:57:23",
@@ -1207,22 +1227,6 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
-        "name": "Sem Filtro",
-        "url": "https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1"
-      },
-      "artists": [
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        }
-      ],
-      "duration_ms": 229032,
-      "name": "Sem Filtro",
-      "url": "https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC"
-    },
-    {
-      "added_at": "2022-11-09 15:57:23",
-      "album": {
         "name": "T\u00e1 Dif\u00edcil Entender",
         "url": "https://open.spotify.com/album/4BO1RnFXPHscnuoLtcp5Vq"
       },
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
-        "name": "me diz (onde que isso vai dar)",
-        "url": "https://open.spotify.com/album/0uqM63Os3PzmyNceXp3nFX"
+        "name": "Sem Filtro",
+        "url": "https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1"
       },
       "artists": [
         {
-          "name": "Davi Bandeira",
-          "url": "https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68"
-        },
-        {
-          "name": "Leandro Buenno",
-          "url": "https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B"
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
         }
       ],
-      "duration_ms": 157976,
-      "name": "me diz (onde que isso vai dar) - remix",
-      "url": "https://open.spotify.com/track/1TmIANDx58ikRR4m4y4xaV"
+      "duration_ms": 229032,
+      "name": "Sem Filtro",
+      "url": "https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC"
     },
     {
       "added_at": "2022-11-09 15:57:23",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-11-09 15:57:23",
       "album": {
+        "name": "ELA \u00c9 UM 10",
+        "url": "https://open.spotify.com/album/6zFcmzYKrpJT9rTs9FAovf"
+      },
+      "artists": [
+        {
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+        }
+      ],
+      "duration_ms": 111949,
+      "name": "ELA \u00c9 UM 10",
+      "url": "https://open.spotify.com/track/0ZzaOfISh45LGsb3NLz8Yy"
+    },
+    {
+      "added_at": "2022-11-09 15:57:23",
+      "album": {
         "name": "F\u00eanix",
         "url": "https://open.spotify.com/album/3q7IXJZeH9uhFVlrmgGLYR"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 226386,
       "name": "F\u00eanix",
       "url": "https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV"
-    },
-    {
-      "added_at": "2022-11-09 15:57:23",
-      "album": {
-        "name": "ELA \u00c9 UM 10",
-        "url": "https://open.spotify.com/album/6zFcmzYKrpJT9rTs9FAovf"
-      },
-      "artists": [
-        {
-          "name": "Sophi",
-          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
-        }
-      ],
-      "duration_ms": 111949,
-      "name": "ELA \u00c9 UM 10",
-      "url": "https://open.spotify.com/track/0ZzaOfISh45LGsb3NLz8Yy"
     },
     {
       "added_at": "2022-11-09 15:57:23",

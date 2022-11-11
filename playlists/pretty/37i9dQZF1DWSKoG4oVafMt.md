@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jas
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,801 likes - 154 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,873 likes - 154 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,9 +137,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 127 | [Pariyan Toh Sohni \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/track/2jjB2GkX4k4CamDeHmC25E) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Pariyan Toh Sohni \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/album/4K48x0dgwU2zLDC8d4x4sy) | 2:55 |
 | 128 | [Jatta](https://open.spotify.com/track/11lHthXPloRp8YMBx69ite) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 3:09 |
 | 129 | [Mera Yaar \- From "Lekh"](https://open.spotify.com/track/3hbvd8p3NPTDOCLWnj2Vzy) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Mera Yaar \(From "Lekh"\)](https://open.spotify.com/album/55x9uPyJJdmMbP1A2wJRSg) | 4:17 |
-| 130 | [Taareyan Toh Paar \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/track/5rjjXeJizYVzCFdYUkDHXC) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daoud Music](https://open.spotify.com/artist/25GIbgESjRMJaCTFjSK7e0) | [Taareyan Toh Paar \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/album/6gBteY722GhCnAi1Ac7Dmz) | 3:10 |
+| 130 | [Taareyan Toh Paar](https://open.spotify.com/track/3qrK5TIkUbNxAUfATciMyt) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Main Viyah Nahi Karona Tere Naal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5q9U1dmh17HFjgwEwNdsGH) | 3:10 |
 | 131 | [Galwakdi \- From "Galwakdi"](https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [R Guru](https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V) | [Galwakdi \(From "Galwakdi"\)](https://open.spotify.com/album/6dbzxc1FRdwLrx3x28mXHd) | 4:07 |
-| 132 | [Jinna Jinna \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/track/5fNgjdkdMnBVJtxSHBeU5S) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Jinna Jinna \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/album/0EY4glJc5eqR3HP87AupHt) | 3:14 |
+| 132 | [Jinna Jinna](https://open.spotify.com/track/3HhX98RjjN3upy74jDqwc7) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Main Viyah Nahi Karona Tere Naal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5q9U1dmh17HFjgwEwNdsGH) | 3:14 |
 | 133 | [Naah](https://open.spotify.com/track/50BYymJYX2k7hnmfiXnYXs) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Naah](https://open.spotify.com/album/61MLWkKNzRwx2Fa1uLrEoG) | 3:05 |
 | 134 | [Shoulder](https://open.spotify.com/track/52qyAdSzwJUJIAjNTF6w7K) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 3:33 |
 | 135 | [Dreams Unfold](https://open.spotify.com/track/046srpP68Vu1evgrTPEQOU) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Dreams Unfold](https://open.spotify.com/album/6Gqu6tiY8zJPtgaXHBwSwZ) | 3:13 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 153 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
 | 154 | [Aj Kal Ve](https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 3:23 |
 
-Snapshot ID: `MTY2Nzk3ODY3NiwwMDAwMDAwMGE3ZmQzYzhkYjY0ZTlhYzA3ZmZmNzIyODQyZGQyMjIx`
+Snapshot ID: `MTY2Nzk3ODY3NiwwMDAwMDAwMGFmOGI0NTgxYTZjNTEzNDM5YzY0YTFlMjA4OTE5MTNl`

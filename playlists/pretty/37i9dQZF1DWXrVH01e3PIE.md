@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Muerejoven en la casa del Trap de Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,068 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,184 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 39 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 |
 | 40 | [Otro De Esos Días](https://open.spotify.com/track/4KeX3jUuwS0Lr9RGFicu4V) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Otro De Esos Días](https://open.spotify.com/album/4jYEjce5w0bg26AfO4dCq4) | 3:13 |
 | 41 | [PUFF](https://open.spotify.com/track/2Asa5boIOZADugCzoy0lRS) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [PUFF](https://open.spotify.com/album/6jb35yKFOV9HY6QeKKaa69) | 2:20 |
-| 42 | [Eternidad](https://open.spotify.com/track/0WPkqQuAj8qox8Tmkxlv7o) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Eternidad](https://open.spotify.com/album/6VNyKs6MzAYGmIs276uNJH) | 2:43 |
+| 42 | [eternidad](https://open.spotify.com/track/0WPkqQuAj8qox8Tmkxlv7o) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [eternidad](https://open.spotify.com/album/6VNyKs6MzAYGmIs276uNJH) | 2:43 |
 | 43 | [ORO Y PLATINO](https://open.spotify.com/track/1ND2wzmMW3t9HHaHPMIaNo) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [ORO Y PLATINO](https://open.spotify.com/album/0xhqz1zfuhkPcA2XkPjWfh) | 2:48 |
 | 44 | [Mami Lo Siento](https://open.spotify.com/track/3QI0dCmyNujFycD1le2zk4) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Mami Lo Siento](https://open.spotify.com/album/69OFUHi0ccQbkD6ArPJ4jX) | 2:53 |
 | 45 | [Tumbando el Club \(feat\. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki\) \- Remix](https://open.spotify.com/track/0OWcpVA83HI8Pb5DybDuoX) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Coqeéin Montana](https://open.spotify.com/artist/4StQh17zinsbJ4r5ekmPj7), [Marcianos Crew](https://open.spotify.com/artist/0Hkx0YcHHxDRRbH9WsSW0I), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Tumbando el Club \(feat\. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki\) \[Remix\]](https://open.spotify.com/album/36ehOw44KSj8riww8Eamd8) | 7:36 |

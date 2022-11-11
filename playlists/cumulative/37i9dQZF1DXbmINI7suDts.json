@@ -324,6 +324,24 @@
     },
     {
       "album": {
+        "name": "I Have a Dream",
+        "url": "https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255764,
+      "name": "I Have a Dream",
+      "url": "https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O"
+    },
+    {
+      "album": {
         "name": "After The Pain",
         "url": "https://open.spotify.com/album/2UldGFRlxpHh12VjkuEajQ"
       },
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204814,
       "name": "Kiisa",
       "url": "https://open.spotify.com/track/6shA8gHbr9tWQ7awaTaKQN"
@@ -649,6 +667,28 @@
       "duration_ms": 258405,
       "name": "Mulisa Omusubbawa",
       "url": "https://open.spotify.com/track/5Efm581hRW2myabSJPwFba"
+    },
+    {
+      "album": {
+        "name": "Muunda",
+        "url": "https://open.spotify.com/album/2ImbElVQUItrSNaWJB5VMG"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        },
+        {
+          "name": "King Saha",
+          "url": "https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214838,
+      "name": "Muunda",
+      "url": "https://open.spotify.com/track/2Ce8M6T6HihuA8m0I17GlZ"
     },
     {
       "album": {

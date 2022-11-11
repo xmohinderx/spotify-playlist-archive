@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,508 likes - 28 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,517 likes - 28 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 18 | [Theme from "Beetlejuice: The Animated Series" by Danny Elfman](https://open.spotify.com/track/1r8fZ2HxjBWDEvs7lqXWAJ) | [Dominik Hauser](https://open.spotify.com/artist/4MTfVjZzx72caVcbCjUK73) | [Theme from "Beetlejuice: The Animated Series" by Danny Elfman](https://open.spotify.com/album/13wjqvHMQ6xDJ0JpEHWvln) | 1:01 |
 | 19 | [Creeper's Tale \(From "Jeepers Creepers"\)](https://open.spotify.com/track/3q7ssMXeWyeoPyTGsqOUpO) | [Bennett Salvay](https://open.spotify.com/artist/1lWGijAqSCPZNmxnq1Yv9O), [Victor Salva](https://open.spotify.com/artist/1BID9hmfIGrMMfjMLPByDU) | [Jeepers Creepers \(Score\)](https://open.spotify.com/album/1tDx9id2MipEJLN5MVYhHk) | 2:42 |
 | 20 | [Down the Pipe](https://open.spotify.com/track/5HhLdKwIy2ZpuX8yjZpWm6) | [David Julyan](https://open.spotify.com/artist/1zkJxFjrO1fE8teyro4C3I) | [The Descent \- Original Film Soundtrack](https://open.spotify.com/album/4vBUedgDbjIGu2El09pwBJ) | 2:54 |
-| 21 | [Twlight Zone](https://open.spotify.com/track/6WjHCLbxvuab3pd5JvOKU9) | [Halloween Tricksters](https://open.spotify.com/artist/2EghgP7EJUPg82OPWMZM9P) | [Halloween 18 Trick Or Treat Greats](https://open.spotify.com/album/0xN2Y2GiDdW6uT4AlgXzDE) | 0:56 |
+| 21 | [Main Theme from "The Twilight Zone" \- Cover Version](https://open.spotify.com/track/1kVUH8NaVztttLE38uZ567) | [Sacre](https://open.spotify.com/artist/3ufml7IesKyMSlLYDFtCM9) | [Halloween Monster Collection \- 55 Classic Tracks from the Best Scary Movies](https://open.spotify.com/album/1rLvz13VSlwKUdA4DVYwec) | 1:01 |
 | 22 | [Psycho Suite](https://open.spotify.com/track/2AfA142FyTrSA58SArYR5r) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [99 Must\-Have Halloween Classics](https://open.spotify.com/album/0b9hNMy12w8qGs8eYNwM1L) | 2:07 |
 | 23 | [Reanimator Prologue & Main Title](https://open.spotify.com/track/6w8V10yvjN3cU9iqJYwXqq) | [Richard Band](https://open.spotify.com/artist/0TXK10MEUmsJGH4lMosMiT) | [Re\-Animator: Prologue and Main Title](https://open.spotify.com/album/2HNiURAevNka5UetR9us36) | 4:15 |
 | 24 | [Ave Satani \- From "The Omen"](https://open.spotify.com/track/2n2Uugl3wR9s2pYjIKbbL9) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [The Omen \(The Deluxe Edition / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4mt098QxrMToyd5GIbJzdm) | 2:35 |
-| 25 | [Reel 9](https://open.spotify.com/track/1Y61rEEjZfAoM19LA2UTkQ) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/4fxuoOfryOYbq6UXsb0Ani) | 10:56 |
+| 25 | [Reel 9](https://open.spotify.com/track/3EvFms36jvks6vjMpXHf7l) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29MYWk2vo7Q3UEV5hAdyPz) | 10:58 |
 | 26 | [Side A](https://open.spotify.com/track/4hRKUei7qAK1kOth7cPaim) | [David Lynch](https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI), [Alan R\. Splet](https://open.spotify.com/artist/55AfCsXWthqoG9dDIGqVrD) | [Eraserhead Soundtrack](https://open.spotify.com/album/0dWqp2IrTBMumfADclgSJz) | 20:08 |
 | 27 | [This is Halloween](https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:19 |
 | 28 | [The Twilight Zone \- Remastered 1992](https://open.spotify.com/track/2pdqaNUADr4vkmml8wveJd) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35), [Kevin Reeves](https://open.spotify.com/artist/3hXPNhCTXeyEnwwrXHpMNC), [Ron Furmanek](https://open.spotify.com/artist/7LrLiL3hiy4IDwbWH29vnG) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 2:36 |
 
-Snapshot ID: `MTY1ODkyNjc0MywwMDAwMDAwMDdiYTU3NjgzMWY3N2I4YzA0YmQ1ODIxZjcyZjI3ZTUz`
+Snapshot ID: `MTY1ODkyNjc0MywwMDAwMDAwMGY5MTk5ZjY4ZTM2ZTIwMmMzYWQ2OTMwMDVhY2VkNzdh`

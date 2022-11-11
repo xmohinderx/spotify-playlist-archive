@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,302 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 16 | [Ukiokoka](https://open.spotify.com/track/1QtFu0IWKC9XM93ZeiYFyP) | [Eko Dydda](https://open.spotify.com/artist/0F0AWv6Giki7xrNkzI27hs) | [Ukiokoka](https://open.spotify.com/album/2q1iT6EVxA3V9Af9GUHgIX) | 3:01 |
 | 17 | [Horera](https://open.spotify.com/track/3SZtn6Vo9q9zaLRrx02UkZ) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq), [Yo Alex](https://open.spotify.com/artist/2dyAmcFC6RZpQdECgopzAT), [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe) | [Horera](https://open.spotify.com/album/0HKGeIN1EWRdZXvL84U9mX) | 3:26 |
 | 18 | [Rada!](https://open.spotify.com/track/42hNeofs70B4RNLFQQylsu) | [Karwirwa Laura](https://open.spotify.com/artist/7zUicfuuQ82TkhpQp1AXvA), [Stonee Jiwe](https://open.spotify.com/artist/7fBagWqtKxfG3Zxr7H38Eb) | [Rada!](https://open.spotify.com/album/0FYVz8qoGeSnA52VosS6tu) | 3:09 |
-| 19 | [Far Above](https://open.spotify.com/track/7hiGfUcMXTdILXfIlFDD3S) | [Danny Gift](https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK) | [Bright Dawn Riddim](https://open.spotify.com/album/7kM83QA7i1CaBIByXSIIzh) | 3:36 |
+| 19 | [Far Above](https://open.spotify.com/track/4xJ6LdzyX4BBx19XuGqR6q) | [Danny Gift](https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK) | [Bright Dawn Riddim](https://open.spotify.com/album/56dKSbQijsJuvVxdQNiUkm) | 3:36 |
 | 20 | [Anza Na Mimi](https://open.spotify.com/track/1IbqQnaUT7ZJdG9vZmVOlV) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Anza Na Mimi](https://open.spotify.com/album/437wUYeGnL8aZcWtA7g9uL) | 3:42 |
 | 21 | [Nivute](https://open.spotify.com/track/5Fpv3Rb1a9SfjmG6oGm4g1) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Zaidi](https://open.spotify.com/album/1XUrgCEu95MYR1z6rZfm5J) | 3:43 |
 | 22 | [I Believe](https://open.spotify.com/track/6aDDgd5crYJ0OQPdq3TUmQ) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [I Believe](https://open.spotify.com/album/3omHcm5ucQJ26WUjdoF9DA) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 49 | [Enjoy \(Yo Blessings\)](https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [Enjoy \(Yo Blessings\)](https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy) | 3:15 |
 | 50 | [Ulimi wangu](https://open.spotify.com/track/67J85D0hnKBI12SKKPTLi5) | [Timam Evans](https://open.spotify.com/artist/3Pl2sjphziaizyq0JUBzVO) | [Ulimi wangu](https://open.spotify.com/album/4ehQVrrB1CKU7lE0ZIFG5A) | 3:39 |
 
-Snapshot ID: `MTY2Njk0MDExOCwwMDAwMDAwMDU3YjQ1NTQ2ZjFhYzM5NWE0ODQ3YWIzNTc5YTRhMDI4`
+Snapshot ID: `MTY2Njk0MDExOCwwMDAwMDAwMDExNDI1MzA4MjhlMWY1ZjFmYTlmNDhkOGMxMGExYTU5`

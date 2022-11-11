@@ -4,7 +4,7 @@
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-113 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
+115 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Emerging](https://open.spotify.com/track/7833wL428Kl5gD1Yatcwv6) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC), [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Emerging](https://open.spotify.com/album/06okB10q356etzN1QWVWg7) | 7:18 | 2022-03-11 |  |
 | [Every Something Is An Echo Of Nothing](https://open.spotify.com/track/4pPsxK4Hiw8VjGIdIlQkUj) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi), [Ulla](https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN) | [Memories of Log](https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b) | 4:00 | 2022-05-18 |  |
 | [Fallin Into Space](https://open.spotify.com/track/0mRI398jCGgDuJXoG79LSz) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/3f5TwahHoUqJVnNrhp68Mm) | 4:58 | 2022-03-11 | 2022-08-04 |
-| [Fallin Into Space](https://open.spotify.com/track/2AxGUdCW0me3Wkx5SAh3im) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/2MqJM7oZ4FOCowQORhfBKc) | 4:58 | 2022-07-08 |  |
+| [Fallin Into Space](https://open.spotify.com/track/2AxGUdCW0me3Wkx5SAh3im) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/2MqJM7oZ4FOCowQORhfBKc) | 4:58 | 2022-07-08 | 2022-11-11 |
+| [Fallin Into Space](https://open.spotify.com/track/694DlFZO0Zfnv56YsDJFgv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [Fallin Into Space](https://open.spotify.com/album/0juf6j62bKEDij4cjPGYLC) | 4:58 | 2022-10-04 |  |
 | [Festival](https://open.spotify.com/track/5xvxj0UCFAliZgWCHwwOLX) | [Chris Other](https://open.spotify.com/artist/6jEDdYtgiDQrVXUJ3dvpAV) | [Festival](https://open.spotify.com/album/3KhDY7aQucUF8kcRib2YVR) | 6:46 | 2022-03-11 |  |
 | [Floor Position](https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [Everything is Already There](https://open.spotify.com/album/1he2AlYOWu58VJxZQPzdJK) | 2:56 | 2022-03-11 |  |
 | [For The Love Of God](https://open.spotify.com/track/5O3XXvyLQ9h0EtFo9yFJhA) | [Marston Mortaine](https://open.spotify.com/artist/2MaUxtqrFQdF1LFLJT8rXV) | [For The Love Of God](https://open.spotify.com/album/4A2p0cyba3VpmD4VwnrdxP) | 4:05 | 2022-04-01 |  |
@@ -56,7 +57,8 @@
 | [Golden Hour](https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS), [Simonel](https://open.spotify.com/artist/4x0ePWZjRP0nwFRuU174vR) | [Endlessness](https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE) | 3:19 | 2022-03-11 |  |
 | [Great Lakes](https://open.spotify.com/track/5TRO29klRrOunwmiU6ej6k) | [Sailcloth](https://open.spotify.com/artist/3LMjQj2ObPaIwoyX3I9DJL) | [Great Lakes](https://open.spotify.com/album/1ypubdMSYePWglqnZULrCm) | 2:53 | 2022-03-11 |  |
 | [Hidden](https://open.spotify.com/track/6X5wDFw0cCvLNYWfimW3vz) | [Ssaliva](https://open.spotify.com/artist/3pPIWa19bNbZaA4xNt81HB) | [Hidden / Riffle](https://open.spotify.com/album/1UmLSPYZtsuTKmn8x9y8eK) | 2:25 | 2022-03-11 |  |
-| [Hot & Cold](https://open.spotify.com/track/1SkH8HgcPIuOVnoNiqECwY) | [The Same](https://open.spotify.com/artist/0SiPcv6coOaUouLSSpYYbQ) | [Sync or Swim](https://open.spotify.com/album/1BTEBJq4FP2a8KvZK800nt) | 4:13 | 2022-07-08 |  |
+| [Hot & Cold](https://open.spotify.com/track/1SkH8HgcPIuOVnoNiqECwY) | [The Same](https://open.spotify.com/artist/0SiPcv6coOaUouLSSpYYbQ) | [Sync or Swim](https://open.spotify.com/album/1BTEBJq4FP2a8KvZK800nt) | 4:13 | 2022-07-08 | 2022-11-11 |
+| [Hot & Cold](https://open.spotify.com/track/4ypXEPRvMElIAfUQRkSnlI) | [The Same](https://open.spotify.com/artist/0SiPcv6coOaUouLSSpYYbQ) | [Hot & Cold](https://open.spotify.com/album/2VBCCSodgOILblLpdtxRHW) | 4:13 | 2022-10-04 |  |
 | [Hot & Cold](https://open.spotify.com/track/6O8yQmwt7sD0QpWcWVisX3) | [The Same](https://open.spotify.com/artist/0SiPcv6coOaUouLSSpYYbQ) | [Sync or Swim](https://open.spotify.com/album/6bmhv6caMBm5UjXjknt11t) | 4:13 | 2022-03-11 | 2022-08-04 |
 | [I'm Transmitting Tonight](https://open.spotify.com/track/0eztk0w79uHB0RCXUYQ7Ao) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 5:16 | 2022-08-19 |  |
 | [Info Pandemie](https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL) | [DarkSonicTales](https://open.spotify.com/artist/0UwpvJPYgGfPN8GD2uSvZv) | [DarkSonicTales](https://open.spotify.com/album/35f8YfklsxyPtiMONCQ5XG) | 2:57 | 2022-03-11 |  |

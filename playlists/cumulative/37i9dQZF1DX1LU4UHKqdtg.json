@@ -835,7 +835,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 159927,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0yWA2HMf5Mv3OxgQLUzCgd"
@@ -2326,6 +2326,32 @@
     },
     {
       "album": {
+        "name": "Fire To The Fuse",
+        "url": "https://open.spotify.com/album/3DvhVqD9ypcJoq8oLy3iOL"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224169,
+      "name": "Fire To The Fuse",
+      "url": "https://open.spotify.com/track/6yK2AGL6oamq6FP8iqmOBw"
+    },
+    {
+      "album": {
         "name": "FLASH",
         "url": "https://open.spotify.com/album/3oEJDNtdlHeHJL2l0hAaTA"
       },
@@ -3041,7 +3067,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 206093,
       "name": "I Like You",
       "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
@@ -4908,6 +4934,36 @@
     },
     {
       "album": {
+        "name": "Redlight",
+        "url": "https://open.spotify.com/album/7jermIBGjkYPdB94Pi9uCn"
+      },
+      "artists": [
+        {
+          "name": "Fudasca",
+          "url": "https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "Ted Park",
+          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202981,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/1YUQeCQyj8sNKNkFjxweTo"
+    },
+    {
+      "album": {
         "name": "AURA",
         "url": "https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm"
       },
@@ -4919,7 +4975,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 207506,
       "name": "Replay",
       "url": "https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds"

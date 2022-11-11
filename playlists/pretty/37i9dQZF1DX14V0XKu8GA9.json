@@ -1,15 +1,15 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 17679,
+  "num_followers": 17703,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDA1YzEzZjlkYjdmODM4ZGFmMWE1NjYwZDQ4NGJmZGNl",
+  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMGI4MWFmY2ExZGVlZDU1MmQ1ZTU5YzY1ZjRiZTMxNTg3",
   "tracks": [
     {
-      "added_at": "2022-11-10 01:24:23",
+      "added_at": "2022-11-11 01:29:25",
       "album": {
         "name": "Gahdamn",
         "url": "https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0"
@@ -923,22 +923,22 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Double Up",
-        "url": "https://open.spotify.com/album/60fjnVP2cNnusvwPSMpF4c"
+        "name": "Street Lights",
+        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
       },
       "artists": [
         {
-          "name": "xBValentine",
-          "url": "https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu"
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
         },
         {
-          "name": "Krystall Poppin",
-          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
         }
       ],
-      "duration_ms": 135809,
-      "name": "Double Up",
-      "url": "https://open.spotify.com/track/3bINLdpXM79obFwY6pESAS"
+      "duration_ms": 153934,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "Double Up",
+        "url": "https://open.spotify.com/album/60fjnVP2cNnusvwPSMpF4c"
+      },
+      "artists": [
+        {
+          "name": "xBValentine",
+          "url": "https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu"
+        },
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        }
+      ],
+      "duration_ms": 135809,
+      "name": "Double Up",
+      "url": "https://open.spotify.com/track/3bINLdpXM79obFwY6pESAS"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "Gang Coast",
         "url": "https://open.spotify.com/album/23HhYyOQQFZfP9Kn8a5YJS"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 196608,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/5yON9SNjj5hajnelP9KoFm"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "Street Lights",
-        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 153934,
-      "name": "Street Lights",
-      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Smile Now",
-        "url": "https://open.spotify.com/album/7FmKk2Wwe2kzpnd4daiQNU"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 170514,
-      "name": "Smile Now",
-      "url": "https://open.spotify.com/track/5aEOxRLzokgAREPRH3MHLJ"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "City Playa",
         "url": "https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 146526,
       "name": "City Playa",
       "url": "https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "From The Gravel",
+        "url": "https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo"
+      },
+      "artists": [
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        }
+      ],
+      "duration_ms": 117629,
+      "name": "From The Gravel",
+      "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "From The Gravel",
-        "url": "https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo"
+        "name": "Smile Now",
+        "url": "https://open.spotify.com/album/7FmKk2Wwe2kzpnd4daiQNU"
       },
       "artists": [
         {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
         }
       ],
-      "duration_ms": 117629,
-      "name": "From The Gravel",
-      "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
+      "duration_ms": 170514,
+      "name": "Smile Now",
+      "url": "https://open.spotify.com/track/5aEOxRLzokgAREPRH3MHLJ"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "No Chaser",
-        "url": "https://open.spotify.com/album/5yQQE5vCl9jre6OgS0WTv1"
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
       },
       "artists": [
         {
           "name": "Reverie",
           "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        },
+        {
+          "name": "YeloHill",
+          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
         }
       ],
-      "duration_ms": 171241,
-      "name": "No Chaser",
-      "url": "https://open.spotify.com/track/0W2WjKSYqPVSeIcuQGdzEA"
+      "duration_ms": 159653,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1307,26 +1311,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "SLIDIN",
-        "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
-      },
-      "artists": [
-        {
-          "name": "Omar Cruz",
-          "url": "https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28"
-        },
-        {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
-        }
-      ],
-      "duration_ms": 158007,
-      "name": "SLIDIN",
-      "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "Sometime In The H",
         "url": "https://open.spotify.com/album/6mklfbk9hBGbOr5AZ3WqOK"
       },
@@ -1343,6 +1327,26 @@
       "duration_ms": 169795,
       "name": "7 Days",
       "url": "https://open.spotify.com/track/3j45prVuGZPxCPwY5jRxMR"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "SLIDIN",
+        "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
+      },
+      "artists": [
+        {
+          "name": "Omar Cruz",
+          "url": "https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28"
+        },
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        }
+      ],
+      "duration_ms": 158007,
+      "name": "SLIDIN",
+      "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1387,22 +1391,18 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
+        "name": "No Chaser",
+        "url": "https://open.spotify.com/album/5yQQE5vCl9jre6OgS0WTv1"
       },
       "artists": [
         {
           "name": "Reverie",
           "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
-        },
-        {
-          "name": "YeloHill",
-          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
         }
       ],
-      "duration_ms": 159653,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB"
+      "duration_ms": 171241,
+      "name": "No Chaser",
+      "url": "https://open.spotify.com/track/0W2WjKSYqPVSeIcuQGdzEA"
     },
     {
       "added_at": "2022-09-23 15:32:00",

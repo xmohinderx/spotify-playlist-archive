@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,905 likes - 70 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,985 likes - 70 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 25 | [Altered States](https://open.spotify.com/track/7y1iuaeJdDlBl1iFmBCNJ7) | [Ferhat Albayrak](https://open.spotify.com/artist/1I8QV9H94JcJ0tvgkGZGPt), [Kuvoka](https://open.spotify.com/artist/33S2vuMYuPC5X7TwQjVDl8) | [Altered States](https://open.spotify.com/album/4aegvScXPcQds6qJI2YITA) | 5:53 |
 | 26 | [Sensation \- Radio Edit](https://open.spotify.com/track/2ay8zTIxN01I6rFEeRQcUd) | [Luis Miranda](https://open.spotify.com/artist/41zyWmhhxxcTSTy5Yul7hC) | [Sensation EP](https://open.spotify.com/album/5f6BI2SpMHeFGWAkyqA3jO) | 5:23 |
 | 27 | [Pink Flamingo](https://open.spotify.com/track/5Zw5gZ3xM6v9AYJR4bU1sE) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE), [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx) | [Numbers](https://open.spotify.com/album/3VQmEgbd7RQocjK7o0vGQ4) | 5:57 |
-| 28 | [Party Started \(Set It Off\)](https://open.spotify.com/track/6V0q9nG9UqYhNWyD62qjAA) | [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj), [Strafe](https://open.spotify.com/artist/7MRMahYCfHhumbcvdV8joK) | [Party Started \(Set It Off\)](https://open.spotify.com/album/4q3odp3wACk0ax5G1LoBgx) | 4:07 |
+| 28 | [Party Started \(Set It Off\)](https://open.spotify.com/track/5B8NZNbPBy2I862vRLfkIZ) | [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj), [Strafe](https://open.spotify.com/artist/7MRMahYCfHhumbcvdV8joK) | [Party Started EP](https://open.spotify.com/album/1qv2QeH9DOUCbGv8dwwlb1) | 4:07 |
 | 29 | [Speed Trials On Acid \(feat\. Dan Diamond\) \- Extended Mix](https://open.spotify.com/track/6xB38bOAdGdciy4W2i5FlL) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/album/1bns5qLB6y3g6KEo9QGsfR) | 5:07 |
 | 30 | [In Motion \- Original Mix](https://open.spotify.com/track/3QCQ7ZoB6pqNqGT95FElWv) | [Marco Bailey](https://open.spotify.com/artist/23zJj2W0TQ0SvF4Fwo7mZK), [Sigvard](https://open.spotify.com/artist/6IrZoI6X8RzaqH4nMl8V3m) | [Unjust Images EP](https://open.spotify.com/album/3jw0JnPopHVbT5aomB5coZ) | 5:06 |
 | 31 | [Stay Out All Night \- Carl Cox Remix](https://open.spotify.com/track/4N6y6lAaIUYB359Uko8Yxm) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Stay Out All Night \(Remixes\)](https://open.spotify.com/album/2lxXGuqOgt9S6SywMfo5ea) | 6:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 69 | [Very Chic Blackman \(Horatio Remix\)](https://open.spotify.com/track/60JxGJU55HwhvdXA1YdRlT) | [Eric Powell](https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo), [Horatio](https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD) | [Very Chic Blackman \(Remixes\)](https://open.spotify.com/album/2yMdBa2weNQI8hHh3URqEx) | 6:39 |
 | 70 | [Unfold](https://open.spotify.com/track/3AqJH0b0cFwLddG3uPqNSh) | [Charlie Thorstenson](https://open.spotify.com/artist/4z8CviapCGt8PluR1ORwbH) | [Kretsloop](https://open.spotify.com/album/7MmGhK7aYe7SGRJan5YZ9h) | 7:21 |
 
-Snapshot ID: `MTY2MDU3NDIyMSwwMDAwMDAwMGJiMDNjZTNkODI5MTBiNjFiMTBkMTUwZmU4NDZjZmJh`
+Snapshot ID: `MTY2MDU3NDIyMSwwMDAwMDAwMGMwOTdmMmUwODg1ODQwMDlhMzJhZWRhYWQxZWJmZjI0`

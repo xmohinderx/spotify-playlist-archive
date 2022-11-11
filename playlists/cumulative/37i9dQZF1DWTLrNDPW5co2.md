@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: TAAHLIAH
 
-90 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
+91 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Harmonic Frequencies](https://open.spotify.com/track/2U2dlU4ELCrmUOnojBsMcT) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/4KI8PM8G8iT5tc2yAz3PBl) | 4:10 | 2021-10-15 |  |
 | [He Is the Voice I Hear](https://open.spotify.com/track/0bC0IHtRUfM82mozT9cjCh) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [He Is the Voice I Hear](https://open.spotify.com/album/76LFRQ0iWwIJLvdyxL6CzK) | 10:29 | 2021-10-15 |  |
 | [Hip Hop Spa](https://open.spotify.com/track/4pA0yTeV9l0aSwXX593ZBN) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Genre\-Specific Xperience](https://open.spotify.com/album/3SHUtCuskxWnDgBHhupzaF) | 4:24 | 2021-10-15 |  |
-| [Human Sound](https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:26 | 2022-07-14 |  |
+| [Human Sound](https://open.spotify.com/track/1BpcVnAhL6LuS8q3l03ONd) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Human Sound](https://open.spotify.com/album/0Kh4wcY7TbLk7VIY7SDLYg) | 5:26 | 2022-07-14 |  |
+| [Human Sound](https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:26 | 2022-07-14 | 2022-11-11 |
 | [Human Sound](https://open.spotify.com/track/51wGOeZ7ma3shFJf1Qgs7E) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 5:26 | 2022-06-03 | 2022-07-29 |
 | [ICU \(feat\. Nomi Ruiz\)](https://open.spotify.com/track/2qT5wU3DiOItGKaLK0EHWT) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S), [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Muvaland](https://open.spotify.com/album/0dJgQS7Aj49uuvGMZTvF14) | 3:08 | 2021-10-15 |  |
 | [If You Were Mine](https://open.spotify.com/track/7d5CdPCDQdFgG580YM2yhU) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [If You Were Mine](https://open.spotify.com/album/5kerw9tRpakleiSbiSvUnI) | 3:19 | 2022-06-03 |  |

@@ -1,15 +1,35 @@
 {
-  "description": "spooky season \ud83c\udf83",
-  "num_followers": 266374,
+  "description": "dirty south szn",
+  "num_followers": 266414,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzkxNjQxMSwwMDAwMDAwMGRlMmUzMTViZmJhYjRhMzMyZmUzODhjYjRiZTUxOTMx",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGJlZjg5NjIyMTM3ODM0YTc4M2I4NDhiZTAyMWY1Yzdj",
   "tracks": [
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "HARRAGAS",
+        "url": "https://open.spotify.com/album/6cBGLSHXMl3M5fXj2MQ77L"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        },
+        {
+          "name": "Manny Flaco",
+          "url": "https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S"
+        }
+      ],
+      "duration_ms": 140444,
+      "name": "HARRAGAS",
+      "url": "https://open.spotify.com/track/2V6Z4Nzl7aYBQwThnQGHXV"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "DAY ONE",
         "url": "https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj"
@@ -25,27 +45,7 @@
       "url": "https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "MEDAN VI FALLER",
-        "url": "https://open.spotify.com/album/285NfeomqN2o31wYPnbI6I"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Stakset",
-          "url": "https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI"
-        },
-        {
-          "name": "Thrife",
-          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
-        }
-      ],
-      "duration_ms": 179134,
-      "name": "ANTISOCIAL",
-      "url": "https://open.spotify.com/track/1fdDWZpg2ywI873ZpywLt1"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/1UFZHmtfwLQ9kDcWPFS5H7"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/68QsNtxSwSrwn5kFa7SpQN"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "The Only Wan (Deluxe)",
         "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
@@ -81,7 +81,47 @@
       "url": "https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "MEDAN VI FALLER",
+        "url": "https://open.spotify.com/album/285NfeomqN2o31wYPnbI6I"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Stakset",
+          "url": "https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI"
+        },
+        {
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+        }
+      ],
+      "duration_ms": 179134,
+      "name": "ANTISOCIAL",
+      "url": "https://open.spotify.com/track/1fdDWZpg2ywI873ZpywLt1"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "No Borders: European Compilation Project",
+        "url": "https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 171429,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/0yytFV5LM6FCKaeANeVvfv"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Man In The Mirror",
         "url": "https://open.spotify.com/album/1N8rjDhx0auy6sws8tqTHz"
@@ -97,7 +137,39 @@
       "url": "https://open.spotify.com/track/75m5sibaeNwWvuDMS2qp0z"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "P\u00e5 En L\u00f6rdag",
+        "url": "https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 152701,
+      "name": "P\u00e5 En L\u00f6rdag",
+      "url": "https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Doppio Passo",
+        "url": "https://open.spotify.com/album/5EZIPpBqS4FEhaqWKvePGX"
+      },
+      "artists": [
+        {
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+        }
+      ],
+      "duration_ms": 187076,
+      "name": "Doppio Passo",
+      "url": "https://open.spotify.com/track/5z0FnVkoJlQU1bbhbTSSfC"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/1JMiRE2UTSrnGIBZT0KNDZ"
@@ -117,7 +189,83 @@
       "url": "https://open.spotify.com/track/3HQ2hJIvStlHS8SRWFGdId"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Aktiverad (Remix)",
+        "url": "https://open.spotify.com/album/6Cox8rBFZpO7gDRZ1rzck2"
+      },
+      "artists": [
+        {
+          "name": "Alawee",
+          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
+        },
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        }
+      ],
+      "duration_ms": 108720,
+      "name": "Aktiverad (Remix)",
+      "url": "https://open.spotify.com/track/0pWGH2bShzIr8PEtd3ngey"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "TO\u00d9TO\u00d9",
+        "url": "https://open.spotify.com/album/4xEOdo2eFdxKxE5QY0KMKq"
+      },
+      "artists": [
+        {
+          "name": "HAVAL",
+          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+        },
+        {
+          "name": "Manny Flaco",
+          "url": "https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S"
+        }
+      ],
+      "duration_ms": 145808,
+      "name": "TO\u00d9TO\u00d9",
+      "url": "https://open.spotify.com/track/3Xvc8YRyYzBm5KFEWHUQoM"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Var \u00c4r Du",
+        "url": "https://open.spotify.com/album/1KgPLaqOu3KCNnYyZDTmz4"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Var \u00c4r Du",
+      "url": "https://open.spotify.com/track/4gYkCCBvqX0os3uDOJ2vED"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "OFFERKOFTA",
+        "url": "https://open.spotify.com/album/3pEaFGEZpJSNqHq9szdEso"
+      },
+      "artists": [
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "Mackan",
+          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "OFFERKOFTA",
+      "url": "https://open.spotify.com/track/1BfknTgibIdZ1pAdudI1nz"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Love & Toxic?",
         "url": "https://open.spotify.com/album/37vGTropk8VtKiysRQ4jko"
@@ -141,23 +289,27 @@
       "url": "https://open.spotify.com/track/1Aj5Fennst2h7kTsZjgFUU"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Var \u00c4r Du",
-        "url": "https://open.spotify.com/album/1KgPLaqOu3KCNnYyZDTmz4"
+        "name": "KLAR",
+        "url": "https://open.spotify.com/album/2fNDH0gjpEaTJJ6140y03X"
       },
       "artists": [
         {
-          "name": "B.Baby",
-          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+          "name": "ABDIFATAH",
+          "url": "https://open.spotify.com/artist/02X8uyJgzIxRtcXl4D0Mt0"
+        },
+        {
+          "name": "CharlyC",
+          "url": "https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV"
         }
       ],
-      "duration_ms": 145777,
-      "name": "Var \u00c4r Du",
-      "url": "https://open.spotify.com/track/4gYkCCBvqX0os3uDOJ2vED"
+      "duration_ms": 157812,
+      "name": "KLAR",
+      "url": "https://open.spotify.com/track/10FK9EUknv3vnbEodHPPbA"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Partner (feat. Aleksej)",
         "url": "https://open.spotify.com/album/4WRY0N4iMUn3ckYbd1QL54"
@@ -177,43 +329,59 @@
       "url": "https://open.spotify.com/track/4eeaLsWKGiqZIUcrByHGPd"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Aktiverad (Klick Klack)",
-        "url": "https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4"
+        "name": "Tappat - Spotify Singles",
+        "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
       },
       "artists": [
         {
-          "name": "Alawee",
-          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
         }
       ],
-      "duration_ms": 154122,
-      "name": "Aktiverad (Klick Klack)",
-      "url": "https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la"
+      "duration_ms": 150543,
+      "name": "Tappat - Spotify Singles",
+      "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "TO\u00d9TO\u00d9",
-        "url": "https://open.spotify.com/album/4xEOdo2eFdxKxE5QY0KMKq"
+        "name": "REDO",
+        "url": "https://open.spotify.com/album/2ggF9YDXbgX0ZL8d3TiHf2"
       },
       "artists": [
         {
-          "name": "HAVAL",
-          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+          "name": "Simeon",
+          "url": "https://open.spotify.com/artist/5R42oko4xV2U7uqlZXbzqk"
         },
         {
-          "name": "Manny Flaco",
-          "url": "https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S"
+          "name": "Rami",
+          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
         }
       ],
-      "duration_ms": 145808,
-      "name": "TO\u00d9TO\u00d9",
-      "url": "https://open.spotify.com/track/3Xvc8YRyYzBm5KFEWHUQoM"
+      "duration_ms": 150114,
+      "name": "REDO",
+      "url": "https://open.spotify.com/track/0vtaj5Uv6KzORb5Q2Zvu20"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "The Only Wan (Deluxe)",
+        "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 206243,
+      "name": "K\u00e4rlek",
+      "url": "https://open.spotify.com/track/1Sifod3DxO7JNbHXfOnLnD"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "ZUTTLUKTEN",
         "url": "https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw"
@@ -233,71 +401,59 @@
       "url": "https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Tappat - Spotify Singles",
-        "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
+        "name": "100",
+        "url": "https://open.spotify.com/album/1MXCv3dM79ueLAnN0xnVdQ"
       },
       "artists": [
         {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+          "name": "Sickan",
+          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
         }
       ],
-      "duration_ms": 150543,
-      "name": "Tappat - Spotify Singles",
-      "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
+      "duration_ms": 135000,
+      "name": "100",
+      "url": "https://open.spotify.com/track/0n1QYqFJHL1OqG7lB3b8Vd"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "P\u00e5 En L\u00f6rdag",
-        "url": "https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS"
+        "name": "En Chans",
+        "url": "https://open.spotify.com/album/2iWpYrj5Crkov7rTVn7TCU"
       },
       "artists": [
         {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
         }
       ],
-      "duration_ms": 152701,
-      "name": "P\u00e5 En L\u00f6rdag",
-      "url": "https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk"
+      "duration_ms": 124615,
+      "name": "En Chans",
+      "url": "https://open.spotify.com/track/2JDsYmNrm68Om1TK0D4VeA"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "The Only Wan (Deluxe)",
-        "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
+        "name": "Michael Myers",
+        "url": "https://open.spotify.com/album/73Rhi1qW9fhKgYi7Tnf3AE"
       },
       "artists": [
         {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
         }
       ],
-      "duration_ms": 206243,
-      "name": "K\u00e4rlek",
-      "url": "https://open.spotify.com/track/1Sifod3DxO7JNbHXfOnLnD"
+      "duration_ms": 136500,
+      "name": "Michael Myers",
+      "url": "https://open.spotify.com/track/1lfZHJvOACgkH2ErrMjc9G"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "UNDER TIDEN 3",
-        "url": "https://open.spotify.com/album/2EF6zvkYnHdJF2pEet0vuw"
-      },
-      "artists": [
-        {
-          "name": "GULEED",
-          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
-        }
-      ],
-      "duration_ms": 114285,
-      "name": "Ohlala",
-      "url": "https://open.spotify.com/track/6rDawF724WdHlVa52BGANS"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "MEDAN VI FALLER",
         "url": "https://open.spotify.com/album/285NfeomqN2o31wYPnbI6I"
@@ -317,39 +473,63 @@
       "url": "https://open.spotify.com/track/0rogcWicjVz9sL1CJMm8tR"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/1MXCv3dM79ueLAnN0xnVdQ"
+        "name": "DUBBELT",
+        "url": "https://open.spotify.com/album/1kCuWYeT82ozXFOVsPonRk"
       },
       "artists": [
         {
-          "name": "Sickan",
-          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
         }
       ],
-      "duration_ms": 135000,
-      "name": "100",
-      "url": "https://open.spotify.com/track/0n1QYqFJHL1OqG7lB3b8Vd"
+      "duration_ms": 158636,
+      "name": "DUBBELT",
+      "url": "https://open.spotify.com/track/6ucH6MDH2YJSEWsmWn7TPd"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Michael Myers",
-        "url": "https://open.spotify.com/album/73Rhi1qW9fhKgYi7Tnf3AE"
+        "name": "UNDER TIDEN 3",
+        "url": "https://open.spotify.com/album/2EF6zvkYnHdJF2pEet0vuw"
       },
       "artists": [
         {
-          "name": "Z.E",
-          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
         }
       ],
-      "duration_ms": 136500,
-      "name": "Michael Myers",
-      "url": "https://open.spotify.com/track/1lfZHJvOACgkH2ErrMjc9G"
+      "duration_ms": 114285,
+      "name": "Ohlala",
+      "url": "https://open.spotify.com/track/6rDawF724WdHlVa52BGANS"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Vikt",
+        "url": "https://open.spotify.com/album/1C2KUz89AAgHqCf6xqWlHG"
+      },
+      "artists": [
+        {
+          "name": "Rami",
+          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
+        },
+        {
+          "name": "Mackan",
+          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Vikt",
+      "url": "https://open.spotify.com/track/2Jub86Y9MLipu7R2pmdvcW"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Vem",
         "url": "https://open.spotify.com/album/6Kb2vhdaj624ZEC18vJCIG"
@@ -373,27 +553,7 @@
       "url": "https://open.spotify.com/track/37I1hXdQVga3MAR9dOn0c3"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "DUBBELT",
-        "url": "https://open.spotify.com/album/1kCuWYeT82ozXFOVsPonRk"
-      },
-      "artists": [
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        },
-        {
-          "name": "01an",
-          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
-        }
-      ],
-      "duration_ms": 158636,
-      "name": "DUBBELT",
-      "url": "https://open.spotify.com/track/6ucH6MDH2YJSEWsmWn7TPd"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "SOLVALLA",
         "url": "https://open.spotify.com/album/2j5ELaAQ6EmPiO79lnJIBn"
@@ -409,27 +569,79 @@
       "url": "https://open.spotify.com/track/3mhy4u6MBKCfAj18o67DHr"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Vikt",
-        "url": "https://open.spotify.com/album/1C2KUz89AAgHqCf6xqWlHG"
+        "name": "Narnia",
+        "url": "https://open.spotify.com/album/50DRuTbiPt6kANqNov3wL0"
       },
       "artists": [
         {
-          "name": "Rami",
-          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
+          "name": "Euroo",
+          "url": "https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH"
         },
         {
-          "name": "Mackan",
-          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
+          "name": "Luwapp",
+          "url": "https://open.spotify.com/artist/3RHR0RmiXBuc3BBJOrHBj8"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Vikt",
-      "url": "https://open.spotify.com/track/2Jub86Y9MLipu7R2pmdvcW"
+      "duration_ms": 137209,
+      "name": "Narnia",
+      "url": "https://open.spotify.com/track/5Dapp02vk3WQ44jPAWjPyA"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Aktiverad (Klick Klack)",
+        "url": "https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4"
+      },
+      "artists": [
+        {
+          "name": "Alawee",
+          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
+        }
+      ],
+      "duration_ms": 154122,
+      "name": "Aktiverad (Klick Klack)",
+      "url": "https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "SEVILLA",
+        "url": "https://open.spotify.com/album/3tgk1Bzv0iVukij9boSLnN"
+      },
+      "artists": [
+        {
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "SEVILLA",
+      "url": "https://open.spotify.com/track/05tLudzJAr4iHnDiWWdA59"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Kombo",
+        "url": "https://open.spotify.com/album/2L0hVBAJUf7CUc6s1t3cUr"
+      },
+      "artists": [
+        {
+          "name": "N\u00e4\u00e4\u00e4k",
+          "url": "https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S"
+        },
+        {
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Kombo",
+      "url": "https://open.spotify.com/track/1d3rQzgOHhmf4z7tQ12odl"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "S\u00d6DERMALM (Remix)",
         "url": "https://open.spotify.com/album/3UwYbsJK4kFYtSGENGqK7S"
@@ -457,63 +669,39 @@
       "url": "https://open.spotify.com/track/3tVnfy2EiiiEgLgkbQ1weS"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "SEVILLA",
-        "url": "https://open.spotify.com/album/3tgk1Bzv0iVukij9boSLnN"
+        "name": "ALLVARLIGT + D KLART DOM HATAR OSS",
+        "url": "https://open.spotify.com/album/3O5mHDGkMkz3OaDpW2wCgb"
       },
       "artists": [
         {
-          "name": "Thrife",
-          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+          "name": "Jelassi",
+          "url": "https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ"
         }
       ],
-      "duration_ms": 175522,
-      "name": "SEVILLA",
-      "url": "https://open.spotify.com/track/05tLudzJAr4iHnDiWWdA59"
+      "duration_ms": 198893,
+      "name": "ALLVARLIGT",
+      "url": "https://open.spotify.com/track/6z74pgGsEewRC0WJ90staR"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "En Chans",
-        "url": "https://open.spotify.com/album/2iWpYrj5Crkov7rTVn7TCU"
+        "name": "ALLVARLIGT + D KLART DOM HATAR OSS",
+        "url": "https://open.spotify.com/album/3O5mHDGkMkz3OaDpW2wCgb"
       },
       "artists": [
         {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+          "name": "L1NA",
+          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
         }
       ],
-      "duration_ms": 124615,
-      "name": "En Chans",
-      "url": "https://open.spotify.com/track/2JDsYmNrm68Om1TK0D4VeA"
+      "duration_ms": 134106,
+      "name": "D KLART DOM HATAR OSS",
+      "url": "https://open.spotify.com/track/2YKJ2m1l8GxKjzcCVVy7v2"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "Narnia",
-        "url": "https://open.spotify.com/album/50DRuTbiPt6kANqNov3wL0"
-      },
-      "artists": [
-        {
-          "name": "Euroo",
-          "url": "https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH"
-        },
-        {
-          "name": "Luwapp",
-          "url": "https://open.spotify.com/artist/3RHR0RmiXBuc3BBJOrHBj8"
-        }
-      ],
-      "duration_ms": 137209,
-      "name": "Narnia",
-      "url": "https://open.spotify.com/track/5Dapp02vk3WQ44jPAWjPyA"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "V\u00e5gorna",
         "url": "https://open.spotify.com/album/0dqa53gaDVWLfbpM9BL6XZ"
@@ -533,39 +721,23 @@
       "url": "https://open.spotify.com/track/4UxcCFStKnPIyhOt70esUA"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "ALLVARLIGT + D KLART DOM HATAR OSS",
-        "url": "https://open.spotify.com/album/3O5mHDGkMkz3OaDpW2wCgb"
+        "name": "Joker",
+        "url": "https://open.spotify.com/album/32Lkj8gC7FsN1Gg9Zn2gcS"
       },
       "artists": [
         {
-          "name": "L1NA",
-          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
+          "name": "Yocee",
+          "url": "https://open.spotify.com/artist/77TzeR7C0uNqn1uBPiqty6"
         }
       ],
-      "duration_ms": 134106,
-      "name": "D KLART DOM HATAR OSS",
-      "url": "https://open.spotify.com/track/2YKJ2m1l8GxKjzcCVVy7v2"
+      "duration_ms": 176854,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/0g4CTDdkSQ2YbpM8ElnNqg"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "ALLVARLIGT + D KLART DOM HATAR OSS",
-        "url": "https://open.spotify.com/album/3O5mHDGkMkz3OaDpW2wCgb"
-      },
-      "artists": [
-        {
-          "name": "Jelassi",
-          "url": "https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "ALLVARLIGT",
-      "url": "https://open.spotify.com/track/6z74pgGsEewRC0WJ90staR"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Devilish",
         "url": "https://open.spotify.com/album/6gFdMohjEfbgysvBwTedKF"
@@ -585,7 +757,7 @@
       "url": "https://open.spotify.com/track/21qmv5S238wxa9ZDiwbllJ"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Tar hand om dig",
         "url": "https://open.spotify.com/album/2efLOVdyxvkHRcPjLXOHEv"
@@ -601,7 +773,7 @@
       "url": "https://open.spotify.com/track/2GcKDi81Fn68QAnwWV0E6j"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "TICK TACK",
         "url": "https://open.spotify.com/album/5gRppL8hyAuI6XW7w4L8Nd"
@@ -617,7 +789,7 @@
       "url": "https://open.spotify.com/track/5XRZL49gUcxJGepV6G2t4b"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "ENSAM",
         "url": "https://open.spotify.com/album/1Eg9sKvnGFV6hD84W0hLML"
@@ -633,7 +805,7 @@
       "url": "https://open.spotify.com/track/1oDpIq7M6EtxYdqJr5uTMD"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "The Only Wan",
         "url": "https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3"
@@ -649,59 +821,7 @@
       "url": "https://open.spotify.com/track/03XktnlHaenNj1tJP8zQFs"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "Politik",
-        "url": "https://open.spotify.com/album/35JqPfpEGCGQhyMBRZFLvQ"
-      },
-      "artists": [
-        {
-          "name": "2M",
-          "url": "https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c"
-        }
-      ],
-      "duration_ms": 160225,
-      "name": "Politik",
-      "url": "https://open.spotify.com/track/1zWFof0FbjUCkY4rJ9s3fN"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "NUMBER",
-        "url": "https://open.spotify.com/album/6khYXZo4YuYPN076H2WHEO"
-      },
-      "artists": [
-        {
-          "name": "RAMEL",
-          "url": "https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h"
-        },
-        {
-          "name": "PERALTA",
-          "url": "https://open.spotify.com/artist/5SxgrFNQ6ZeuBcvFfClaMa"
-        }
-      ],
-      "duration_ms": 128274,
-      "name": "NUMBER",
-      "url": "https://open.spotify.com/track/5wEOkGKgNaCDQUhYOsKhZX"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "Du & jag",
-        "url": "https://open.spotify.com/album/68kyp45qkQ0RIS9mFeBaRy"
-      },
-      "artists": [
-        {
-          "name": "PABI",
-          "url": "https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8"
-        }
-      ],
-      "duration_ms": 181122,
-      "name": "Du & jag",
-      "url": "https://open.spotify.com/track/1GPWWJOl7bAU4zSjLTeH7e"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "4 grabbar",
         "url": "https://open.spotify.com/album/482jRh8WulwsYwi4iiUwVa"
@@ -717,7 +837,7 @@
       "url": "https://open.spotify.com/track/5BtXbZ4dArIaZka8pNzSp0"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "DIRTY",
         "url": "https://open.spotify.com/album/3YqGFGM11gO0iXhn5a2lo0"
@@ -737,7 +857,7 @@
       "url": "https://open.spotify.com/track/2acI4LUjCjPuFk0Y05yVNZ"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "AMO",
         "url": "https://open.spotify.com/album/0rsdh7RmT619F6n5bwLsGn"
@@ -757,7 +877,43 @@
       "url": "https://open.spotify.com/track/0O0DuN2YEF96wZvsQIly2V"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "NUMBER",
+        "url": "https://open.spotify.com/album/6khYXZo4YuYPN076H2WHEO"
+      },
+      "artists": [
+        {
+          "name": "RAMEL",
+          "url": "https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h"
+        },
+        {
+          "name": "PERALTA",
+          "url": "https://open.spotify.com/artist/5SxgrFNQ6ZeuBcvFfClaMa"
+        }
+      ],
+      "duration_ms": 128274,
+      "name": "NUMBER",
+      "url": "https://open.spotify.com/track/5wEOkGKgNaCDQUhYOsKhZX"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Du & jag",
+        "url": "https://open.spotify.com/album/68kyp45qkQ0RIS9mFeBaRy"
+      },
+      "artists": [
+        {
+          "name": "PABI",
+          "url": "https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8"
+        }
+      ],
+      "duration_ms": 181122,
+      "name": "Du & jag",
+      "url": "https://open.spotify.com/track/1GPWWJOl7bAU4zSjLTeH7e"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "V\u00e4rlden \u00c4r Min",
         "url": "https://open.spotify.com/album/5pcYXImczLJvMDrdwMnzK2"
@@ -773,23 +929,39 @@
       "url": "https://open.spotify.com/track/5MYNw9kukOCUUU6KiE0ypb"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Kanin",
-        "url": "https://open.spotify.com/album/2bFTKsYWPfS3mcWWUyA3mH"
+        "name": "KIRA",
+        "url": "https://open.spotify.com/album/7GiKeEqtlaHQgDlRPA2Q6C"
       },
       "artists": [
         {
-          "name": "AKI",
-          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+          "name": "O\u2019Melly",
+          "url": "https://open.spotify.com/artist/4DkJGLzJj2E2FACgUyHdbl"
         }
       ],
-      "duration_ms": 209577,
-      "name": "Kanin",
-      "url": "https://open.spotify.com/track/5F54clxPQgW66v7WSlhU8d"
+      "duration_ms": 122205,
+      "name": "KIRA",
+      "url": "https://open.spotify.com/track/3vkq3QPrKNarm2EKOSPaB9"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Police",
+        "url": "https://open.spotify.com/album/23klDTxN5Qe2wuZ9ad1y37"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Police",
+      "url": "https://open.spotify.com/track/3B903DhOIENm4wNq356KJj"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "MEDAN VI FALLER",
         "url": "https://open.spotify.com/album/285NfeomqN2o31wYPnbI6I"
@@ -809,79 +981,23 @@
       "url": "https://open.spotify.com/track/5YT5uSoZwwUetLOqYwRT3K"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Police",
-        "url": "https://open.spotify.com/album/23klDTxN5Qe2wuZ9ad1y37"
+        "name": "Kanin",
+        "url": "https://open.spotify.com/album/2bFTKsYWPfS3mcWWUyA3mH"
       },
       "artists": [
         {
-          "name": "1.Cuz",
-          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
         }
       ],
-      "duration_ms": 163333,
-      "name": "Police",
-      "url": "https://open.spotify.com/track/3B903DhOIENm4wNq356KJj"
+      "duration_ms": 209577,
+      "name": "Kanin",
+      "url": "https://open.spotify.com/track/5F54clxPQgW66v7WSlhU8d"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "NERVOUS",
-        "url": "https://open.spotify.com/album/36oHp22A3Nmsed2MfrJB1Q"
-      },
-      "artists": [
-        {
-          "name": "Greekazo",
-          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
-        },
-        {
-          "name": "Mackan",
-          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
-        }
-      ],
-      "duration_ms": 130800,
-      "name": "NERVOUS",
-      "url": "https://open.spotify.com/track/02TdJAx7jP57xQZTG4NGV8"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "KING",
-        "url": "https://open.spotify.com/album/3X4FhxvxlxIfys5myws53m"
-      },
-      "artists": [
-        {
-          "name": "Seedy",
-          "url": "https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv"
-        },
-        {
-          "name": "ORIO",
-          "url": "https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "KING",
-      "url": "https://open.spotify.com/track/1vnSV4XXxMldCtUhTaem18"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "GITT",
-        "url": "https://open.spotify.com/album/6HIedHgGtmRQSJBiqIn7yg"
-      },
-      "artists": [
-        {
-          "name": "Lamix",
-          "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
-        }
-      ],
-      "duration_ms": 170225,
-      "name": "GITT",
-      "url": "https://open.spotify.com/track/7jjBieRzHT48hUUA1ZAwHC"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Hela V\u00e4gen Upp",
         "url": "https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP"
@@ -901,55 +1017,27 @@
       "url": "https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Sluter upp",
-        "url": "https://open.spotify.com/album/5Sj7q7gQ9jRfICCOzFoSgR"
+        "name": "KING",
+        "url": "https://open.spotify.com/album/3X4FhxvxlxIfys5myws53m"
       },
       "artists": [
         {
-          "name": "AKI",
-          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Sluter upp",
-      "url": "https://open.spotify.com/track/4UPNMRfvCsAG9yhzXQnnmz"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "Trap",
-        "url": "https://open.spotify.com/album/2BrSwCJGDVzRqnPV6T3ZR6"
-      },
-      "artists": [
+          "name": "Seedy",
+          "url": "https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv"
+        },
         {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+          "name": "ORIO",
+          "url": "https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Trap",
-      "url": "https://open.spotify.com/track/52Rfxgs43UCT1Y0zeLXtcS"
+      "duration_ms": 185142,
+      "name": "KING",
+      "url": "https://open.spotify.com/track/1vnSV4XXxMldCtUhTaem18"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "Selfmade (Deluxe)",
-        "url": "https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 124270,
-      "name": "Xatar",
-      "url": "https://open.spotify.com/track/5MDEk3mfOcZs4BRgalCqyC"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "De Ghetto",
         "url": "https://open.spotify.com/album/0QeKyKDdiWADH5cOCsWPGh"
@@ -965,23 +1053,7 @@
       "url": "https://open.spotify.com/track/2ThusgzPbWkmX4coEv9PRt"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "Iskall",
-        "url": "https://open.spotify.com/album/6v0d5S1ThRIdzjYYOXKm12"
-      },
-      "artists": [
-        {
-          "name": "Artie",
-          "url": "https://open.spotify.com/artist/6QRV4iTMBVKyGEjmer3xoE"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Iskall",
-      "url": "https://open.spotify.com/track/74O1I8JKc865AlNhyruN4L"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Min sida",
         "url": "https://open.spotify.com/album/4gckrKgW6eka6u8q9LA2DC"
@@ -1001,39 +1073,23 @@
       "url": "https://open.spotify.com/track/6MrrbSfi1tRJSGUkXDlgTb"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Midnatt",
-        "url": "https://open.spotify.com/album/3suLV5WJS3L9v7kG3IKAbM"
+        "name": "F\u00f6rsvinna",
+        "url": "https://open.spotify.com/album/0AiIiVTgeZnJHHkOZxwJGv"
       },
       "artists": [
         {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+          "name": "Tal\u00e9",
+          "url": "https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f"
         }
       ],
-      "duration_ms": 184759,
-      "name": "Midnatt",
-      "url": "https://open.spotify.com/track/2WbFll5FxW0JEKIyijHNcb"
+      "duration_ms": 175200,
+      "name": "F\u00f6rsvinna",
+      "url": "https://open.spotify.com/track/4sjoEJ5yxh3Ipn34WHtXUC"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "5 av 5",
-        "url": "https://open.spotify.com/album/5o2NuQTb4f8jHkrQU9ckkt"
-      },
-      "artists": [
-        {
-          "name": "Mohel\u00e1",
-          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "5 av 5",
-      "url": "https://open.spotify.com/track/2kRPB6FKB8TEw4kHtEgtSP"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "BLICKA TILLBAKA",
         "url": "https://open.spotify.com/album/5Wnka168rFcyVOWpXYhcw9"
@@ -1049,7 +1105,7 @@
       "url": "https://open.spotify.com/track/0GFwhFEGQ5fLKGMSjAD01u"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Milly",
         "url": "https://open.spotify.com/album/5t0JJOfYML4rJrTuyvLSZB"
@@ -1069,7 +1125,7 @@
       "url": "https://open.spotify.com/track/3UjxSOYjAHZVYu7bfebKJ9"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "CAMARO",
         "url": "https://open.spotify.com/album/7w8GmU1ZOcKMgyQE2cZWRA"
@@ -1085,23 +1141,7 @@
       "url": "https://open.spotify.com/track/4f1bPWI0d6ZfKX5gNsLaxw"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
-      "album": {
-        "name": "DE GHETTO",
-        "url": "https://open.spotify.com/album/6nGb3g8zG08gGbwgJgFd3H"
-      },
-      "artists": [
-        {
-          "name": "Gaboro",
-          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
-        }
-      ],
-      "duration_ms": 155900,
-      "name": "DE GHETTO",
-      "url": "https://open.spotify.com/track/1SICUCTpf6FaYUUwyk16RK"
-    },
-    {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "F\u00e4ltet",
         "url": "https://open.spotify.com/album/7kJZwvgeWdHIhGhYaQ1DiB"
@@ -1121,7 +1161,23 @@
       "url": "https://open.spotify.com/track/1T9pZV9TRkIJ2Ht4twB7ab"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Tiara",
+        "url": "https://open.spotify.com/album/07ciCnGQVOCLmoBVAGnoBC"
+      },
+      "artists": [
+        {
+          "name": "Raees",
+          "url": "https://open.spotify.com/artist/7qqX1NATkbO31TVxBYyNlJ"
+        }
+      ],
+      "duration_ms": 126060,
+      "name": "Tiara",
+      "url": "https://open.spotify.com/track/2uwk5NMtm40YyHqISer1aL"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Slim Thick",
         "url": "https://open.spotify.com/album/48y9ck9AA5inMgK6wBfR9U"
@@ -1137,7 +1193,59 @@
       "url": "https://open.spotify.com/track/74DJLJwUxPvPwOOPQDSdvF"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "NERVOUS",
+        "url": "https://open.spotify.com/album/36oHp22A3Nmsed2MfrJB1Q"
+      },
+      "artists": [
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "Mackan",
+          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
+        }
+      ],
+      "duration_ms": 130800,
+      "name": "NERVOUS",
+      "url": "https://open.spotify.com/track/02TdJAx7jP57xQZTG4NGV8"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "DE GHETTO",
+        "url": "https://open.spotify.com/album/6nGb3g8zG08gGbwgJgFd3H"
+      },
+      "artists": [
+        {
+          "name": "Gaboro",
+          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+        }
+      ],
+      "duration_ms": 155900,
+      "name": "DE GHETTO",
+      "url": "https://open.spotify.com/track/1SICUCTpf6FaYUUwyk16RK"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Iskall",
+        "url": "https://open.spotify.com/album/6v0d5S1ThRIdzjYYOXKm12"
+      },
+      "artists": [
+        {
+          "name": "Artie",
+          "url": "https://open.spotify.com/artist/6QRV4iTMBVKyGEjmer3xoE"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Iskall",
+      "url": "https://open.spotify.com/track/74O1I8JKc865AlNhyruN4L"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Internet (Spotify Studio 100 Recording)",
         "url": "https://open.spotify.com/album/4U1ARXYplRDpLRth2YBocA"
@@ -1157,7 +1265,7 @@
       "url": "https://open.spotify.com/track/1gnCpBKizZd2w23fb0eOS2"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Woman \u2013 Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/4qGxMmnCtIluxut29qDVUy"
@@ -1173,7 +1281,7 @@
       "url": "https://open.spotify.com/track/2NsStPAsAhgdVqFl67R56M"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Ded\u00e4r \u2013 Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/35ziEJaUtgMrNzN4OtsRdl"
@@ -1193,7 +1301,7 @@
       "url": "https://open.spotify.com/track/06CHD99F2QktVszKVpKqCs"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Going Lit - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/46LsdSRGIqiDUvNdXa0hq8"
@@ -1213,7 +1321,7 @@
       "url": "https://open.spotify.com/track/3gxAIJwFeYpba15gx9zXre"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Guitar - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/3ymlmZD01qezHfoQlDtUWB"
@@ -1233,7 +1341,7 @@
       "url": "https://open.spotify.com/track/3h8WBhNnafO0wzsEnGeJfX"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "fuego (feat. GABIFUEGO) [Spotify Studio 100 Recording]",
         "url": "https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5"
@@ -1257,7 +1365,7 @@
       "url": "https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "En Stund (Spotify Studio 100 Recording)",
         "url": "https://open.spotify.com/album/5rfIp18A4D6aRHMKuRJOG9"
@@ -1273,7 +1381,7 @@
       "url": "https://open.spotify.com/track/4bFeSR93jyLv2QPcmzOJRp"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "OuOu (Spotify Studio 100 Recording)",
         "url": "https://open.spotify.com/album/7n9tKJ15sySDyVOJxrl4xo"
@@ -1293,7 +1401,7 @@
       "url": "https://open.spotify.com/track/44EsiFbw1i2wSvYMvC76pJ"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Studio 100",
         "url": "https://open.spotify.com/album/1a6R6CjMJ6E3e1MEPPw544"
@@ -1309,7 +1417,7 @@
       "url": "https://open.spotify.com/track/6ZFe0Rzy31duWc50Ivk4lJ"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Studio 100",
         "url": "https://open.spotify.com/album/4NwLiXienqAagaTO3B31Ej"
@@ -1333,7 +1441,7 @@
       "url": "https://open.spotify.com/track/3xPMakIXmuSEbiw0qW0waN"
     },
     {
-      "added_at": "2022-11-07 10:06:39",
+      "added_at": "2022-11-10 23:00:00",
       "album": {
         "name": "Studio 100 (feat. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats)",
         "url": "https://open.spotify.com/album/574wYm0J5Vr8PBtG030M2C"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,259 likes - 477 songs - 1 day 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268 likes - 477 songs - 1 day 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -347,8 +347,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 337 | [All Quiet On The Western Front \- Remastered 2003](https://open.spotify.com/track/3Hsyqlz2VCeMi39JYkFX3k) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 6:07 |
 | 338 | [Lies](https://open.spotify.com/track/2lIkaxlhbqzNwQCE8PHKYp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 4:26 |
 | 339 | [Stone's Throw From Hurtin'](https://open.spotify.com/track/1MFXJPUz79xxyaxvvg6Q6U) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:44 |
-| 340 | [Crazy Water](https://open.spotify.com/track/3QapUPFJkO7bMjn5BF1Jlz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:42 |
-| 341 | [Princess \- Remastered 2003](https://open.spotify.com/track/4CXqTPvtAyxH7YnRvxloDr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:55 |
+| 340 | [Princess \- Remastered 2003](https://open.spotify.com/track/4CXqTPvtAyxH7YnRvxloDr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:55 |
+| 341 | [Crazy Water](https://open.spotify.com/track/3QapUPFJkO7bMjn5BF1Jlz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:42 |
 | 342 | [Georgia](https://open.spotify.com/track/5xUQD7REvYCR2hwMS0uH9o) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:50 |
 | 343 | [Understanding Women](https://open.spotify.com/track/1L209N6WHxTyzljrKhRKN4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:03 |
 | 344 | [Heart Blanche Intro](https://open.spotify.com/track/2UWOyb5yo1aB7sgQbXrBFM) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Heart Blanche](https://open.spotify.com/album/7gUiG0bEsWsD5kEUHVIajS) | 1:22 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Planes](https://open.spotify.com/track/1Fm7IY67rMkXDi7UR4TjIO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 4:31 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc4MDA3MjQsMDAwMDAwMDA2MWUwNWZlODA0MjFhM2JhNjUxYjNmZTRiMzQ1MTAyNQ==`
+Snapshot ID: `Mjc4MDIxNjQsMDAwMDAwMDA4YjU0ZWQzZWQ5ZjNhMjJiZjM3ZDY5NGE1ODUyOWJkNw==`

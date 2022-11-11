@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Polkadots and Moonbeams",
+        "url": "https://open.spotify.com/album/4Ui5vnomcfy5yjjhTLnTYa"
+      },
+      "artists": [
+        {
+          "name": "Jenn Higgins",
+          "url": "https://open.spotify.com/artist/1osOMrNNhLsHInJWbS6ejR"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155250,
+      "name": "Jitterbug Waltz",
+      "url": "https://open.spotify.com/track/466GOMGOnG9eld0Hx4JWKm"
+    },
+    {
+      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion"
       },

@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-251 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+255 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [\[Nowhere\]](https://open.spotify.com/track/1KR69UXMtGLsKvtwyBTny4) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/4ewVQNBZP2p3sekqciKE6r) | 2:08 | 2021-09-06 | 2022-07-29 |
 | [\[Nowhere\]](https://open.spotify.com/track/24JJbx6jhyzsEyobFgpNZu) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 2:08 | 2022-07-11 |  |
 | [A Journey Within](https://open.spotify.com/track/4mEZtX5K7cSCS3f3GKj5m2) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [A Journey Within](https://open.spotify.com/album/3JltKqtffoJe4Mgp5JBl38) | 2:58 | 2021-09-06 |  |
-| [Affinity](https://open.spotify.com/track/6QBMi35bWSwDCnPYqFJ7CJ) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [City Life](https://open.spotify.com/album/2i47kGSyOtZQA7kckmakTO) | 2:28 | 2022-07-11 |  |
+| [Affinity](https://open.spotify.com/track/2AlN38UqnsvqOLFxsCUWWH) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 2:28 | 2022-10-21 |  |
+| [Affinity](https://open.spotify.com/track/6QBMi35bWSwDCnPYqFJ7CJ) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [City Life](https://open.spotify.com/album/2i47kGSyOtZQA7kckmakTO) | 2:28 | 2022-07-11 | 2022-11-11 |
 | [Affinity](https://open.spotify.com/track/1pJAweP34zFBSOplMQc1m0) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [City Life](https://open.spotify.com/album/6fjaKnvd9PFGQxe37E9UfM) | 2:28 | 2021-09-06 | 2022-07-29 |
 | [Afterglow](https://open.spotify.com/track/4HMfywbOXTM8HjyqQeb1ao) | [Mike Fields](https://open.spotify.com/artist/6ofXqT4mojrdSwyAzTZYQ8) | [Afterglow](https://open.spotify.com/album/7wCn2LxnXgDusSLXJKjQlb) | 2:55 | 2021-09-06 |  |
 | [Afterwards](https://open.spotify.com/track/6Sh79I3cwBcHZSAOHLW8Nm) | [Flying In Dreams](https://open.spotify.com/artist/3CAgOXjFOTetKEvhnSEcZu) | [Afterwards](https://open.spotify.com/album/27svDAOfmAUybkn2vZycdo) | 3:20 | 2021-09-06 |  |
@@ -180,7 +181,8 @@
 | [Placidity](https://open.spotify.com/track/1XtkmIXg2o5SqOrNI8Szvk) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Placidity](https://open.spotify.com/album/7v2OxlHooP4Plr1HE5pMeE) | 2:45 | 2021-09-06 |  |
 | [Prayer of Dreams](https://open.spotify.com/track/56Q6Ub5JGADQglD5FaKqfk) | [Videung](https://open.spotify.com/artist/5otZiXoT8hB9Gi1oFcz4h0) | [Prayer of Dreams](https://open.spotify.com/album/41MmwTxWQMuKWI8I2wWh8J) | 3:00 | 2021-09-06 |  |
 | [Pre](https://open.spotify.com/track/6BtLpTJ34fTAJMsYlGP4KG) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Philosophers](https://open.spotify.com/album/719Uu5vBFVSLv8KnMNte0A) | 1:47 | 2021-09-06 | 2022-07-29 |
-| [Pre](https://open.spotify.com/track/18C9lmTgz4iysYbfqXOCJh) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Philosophers](https://open.spotify.com/album/6CXGJJW4997QYQzKRSAbGC) | 1:47 | 2022-07-11 |  |
+| [Pre](https://open.spotify.com/track/18C9lmTgz4iysYbfqXOCJh) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Philosophers](https://open.spotify.com/album/6CXGJJW4997QYQzKRSAbGC) | 1:47 | 2022-07-11 | 2022-11-11 |
+| [Pre](https://open.spotify.com/track/6CQoENYuGo2GAoj2Gh6XmA) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 1:47 | 2022-10-21 |  |
 | [Projections](https://open.spotify.com/track/0pgh65p0D9uDSdOrmsaTgu) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Projections](https://open.spotify.com/album/518vvUBj26HuDFKyjYejAp) | 2:40 | 2021-09-06 |  |
 | [Purple Sky](https://open.spotify.com/track/5Oieu8wCXlEtEvXu6fFjBD) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Purple Sky](https://open.spotify.com/album/1A55cYEukwiRbFZtBaFz49) | 2:36 | 2021-09-06 |  |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-09-06 |  |
@@ -248,7 +250,8 @@
 | [Water Lillies](https://open.spotify.com/track/1sVIrkPZob1Ul6aIqy8n8z) | [A Teardrop In The Lake](https://open.spotify.com/artist/0s4v0h7Hiez273tp6lDeL0) | [Water Lillies](https://open.spotify.com/album/1Ugt1z1iTwo8bAt9Y6gNmF) | 3:48 | 2021-09-06 |  |
 | [Way Home](https://open.spotify.com/track/3yPnVoPrPjPV7cTtfRB50o) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Way Home](https://open.spotify.com/album/2JOXFsxulNevoTsBvMmeKS) | 2:28 | 2021-09-06 |  |
 | [We Are Forever](https://open.spotify.com/track/0u7ghYOO8OSamsX8yakIVw) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:13 | 2021-09-06 | 2022-07-29 |
-| [We Are Forever](https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:14 | 2022-07-11 |  |
+| [We Are Forever](https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:14 | 2022-07-11 | 2022-11-11 |
+| [We Are Forever](https://open.spotify.com/track/2ralu13lkIdpY1ynZTpVJO) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 2:14 | 2022-10-21 |  |
 | [Where We Meet](https://open.spotify.com/track/4sFQxujUhJEOFCgFgxF8Yp) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Calming Piano for Yoga and Meditation Vol 1](https://open.spotify.com/album/2IzcSEAadl9qSUOaLMGcEk) | 2:14 | 2022-02-17 |  |
 | [White Waves](https://open.spotify.com/track/76hDUyI5Avauy1nCOEaruh) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Eon](https://open.spotify.com/album/4NTj46M6CQfk5YcrtKrZW6) | 2:44 | 2021-09-06 |  |
 | [Wild Trails](https://open.spotify.com/track/2urxHALnoeVxG82o57q0ny) | [Epi\-Soothe](https://open.spotify.com/artist/3nbFHhWXhyhU1QACy18PlF) | [Wild Trails](https://open.spotify.com/album/3tMJzCDzTcRS8o6pImIE2c) | 3:38 | 2021-09-06 | 2022-08-24 |
@@ -256,7 +259,8 @@
 | [With Resolve](https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [With Resolve](https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ) | 2:09 | 2021-09-06 |  |
 | [Within A Dream](https://open.spotify.com/track/3DBptL02EYie8QdPFMqyPo) | [Ambient Saga](https://open.spotify.com/artist/6jXJLmPCp6G9qpAK8XJZ81) | [White Blossoms](https://open.spotify.com/album/5cdqQpm9t9rMTtQ5tp3lWL) | 3:09 | 2021-09-06 |  |
 | [You \- Ambient Dream](https://open.spotify.com/track/1ylQubRj7mAtG5MumE0sLN) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [You](https://open.spotify.com/album/2F5NGDaK7SiGJd0h5CfvPa) | 3:36 | 2021-09-06 | 2022-07-29 |
-| [You \- Ambient Dream](https://open.spotify.com/track/3My2BCqIKfxU8WkieHPVYV) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [You](https://open.spotify.com/album/7qTEMrV6yfEuERhJ8HgW0F) | 3:36 | 2022-07-11 |  |
+| [You \- Ambient Dream](https://open.spotify.com/track/3My2BCqIKfxU8WkieHPVYV) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [You](https://open.spotify.com/album/7qTEMrV6yfEuERhJ8HgW0F) | 3:36 | 2022-07-11 | 2022-11-11 |
+| [You \- Ambient Dream](https://open.spotify.com/track/4pOCwMwCYLe917B7GjOzEM) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [Music For Dreams](https://open.spotify.com/album/7FVXnDsiClWsdbjZz0v6Ic) | 3:36 | 2022-10-21 |  |
 | [You Belong Here](https://open.spotify.com/track/4hdiJKemt2xAjUpOj0WyHc) | [Across The Great Valley](https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav) | [And Then We Fell from the Sky](https://open.spotify.com/album/5aqwggCLFYvtEUmGu23nzT) | 3:37 | 2021-09-06 |  |
 | [Ängarna](https://open.spotify.com/track/13RPTSwWAEQ2XU7PgHj6YQ) | [Himlavalv](https://open.spotify.com/artist/4lFZjO0NQUgvQLC8G6J8uC) | [Ängarna](https://open.spotify.com/album/48qEJ2qLRnVcrd9b4unnAJ) | 3:05 | 2021-09-06 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,932 likes - 103 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,961 likes - 103 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 30 | [The Light](https://open.spotify.com/track/0PaOYkEinHPDxK4yq7sR5l) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Into The Blue Again](https://open.spotify.com/album/79ceEHSgk3hWNMTSOWeb4V) | 4:29 |
 | 31 | [Sheets Two](https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 2:38 |
 | 32 | [92982.3](https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z) | 7:07 |
-| 33 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |
+| 33 | [Happiness \- 2019 Remaster](https://open.spotify.com/track/369SPXhIIEEwJ6UQKnlwHJ) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps \(2019 Remaster\)](https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz) | 9:19 |
 | 34 | [13 Ghosts II](https://open.spotify.com/track/1HwDwWdJgbI23mGJpGqBL6) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Ghosts I\-IV](https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp) | 3:13 |
 | 35 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 |
 | 36 | [dlp 2.1](https://open.spotify.com/track/6rGCDGnhg2ztHpV7bT2dG2) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A) | 10:50 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 47 | [Ba Ba](https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ba Ba Ti Ki Di Do](https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q) | 6:12 |
 | 48 | [Muim \(Colleen Mix\)](https://open.spotify.com/track/4GN0WoIfo80dMHkN0BaOpT) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd), [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Utopía](https://open.spotify.com/album/13erHC29vAcOrFeLe7cGJ6) | 4:29 |
 | 49 | [Verdantique](https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq) | [Nudge](https://open.spotify.com/artist/5xqHn8w4t2BZEPTY6XxxZD) | [As Good As Gone](https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ) | 0:45 |
-| 50 | [In McDonalds](https://open.spotify.com/track/0WxZZUJuDXZlxfrWaqp1DG) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 2:07 |
+| 50 | [In McDonalds](https://open.spotify.com/track/2p0JF9yYRnRPxf71Ih7OhD) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Hyperdub 10.3](https://open.spotify.com/album/2VfJkWFzdWOtJzNFQrdhWQ) | 2:07 |
 | 51 | [I Imagine](https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Grinning Cat](https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH) | 2:34 |
 | 52 | [Ripple and Fade](https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:17 |
 | 53 | [Jesus / Pop](https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Sings Reign Rebuilder](https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir) | 1:42 |
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 99 | [Tarazed](https://open.spotify.com/track/2EHHEsmOV84A9GwSBPvK21) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Equatorial Stars](https://open.spotify.com/album/2X1K3oGsTNpiHEFt71kfUU) | 5:03 |
 | 100 | [Wholesome](https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7) | [Philip Jeck](https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK) | [7](https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3) | 8:26 |
 | 101 | [Aegina Airlines](https://open.spotify.com/track/2qvXaAyYLBo6PaP85cb1Xn) | [The Dead Texan](https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT) | [The Dead Texan](https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo) | 2:48 |
-| 102 | [Woe Is the Transgression I](https://open.spotify.com/track/2zpTolaAqlsIauPX764rMs) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/63Gy5cxnjLWYpxbcjEezgj) | 8:44 |
+| 102 | [Woe Is the Transgression I](https://open.spotify.com/track/549E9zf4YxHcUQ2R5oLZ1C) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Rifts](https://open.spotify.com/album/4elad9vD5Vz49Qb6ApvQu0) | 8:44 |
 | 103 | [Don't Bother They're Here](https://open.spotify.com/track/477naywDON3t1iAF4COlOV) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 10:10 |
 
-Snapshot ID: `MTY2NDg4NzY1MiwwMDAwMDAwMGVmZDNhN2JkNmU4YjQ0NzQxMjRkOGY3ZGY3ZGYwNDcz`
+Snapshot ID: `MTY2NDg4NzY1MiwwMDAwMDAwMDExZDUyOTIxZTdjMjUxMmE5YzkyOWJiYmEyYjZlNjI5`

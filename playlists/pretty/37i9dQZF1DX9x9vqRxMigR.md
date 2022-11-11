@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,260 likes - 153 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,264 likes - 153 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 39 | [Homecoming](https://open.spotify.com/track/6hVrALHnE9h0bSpnOwX7gG) | [Lore](https://open.spotify.com/artist/2szlp4jqn8XBTqnhpvwtNk) | [Homecoming](https://open.spotify.com/album/3gWApeKQBMmNe0UqqqV4y0) | 4:13 |
 | 40 | [Que Si Quieres, Moreno](https://open.spotify.com/track/7KBuW5SXwxaCBCPWtPWbw6) | [Viguela](https://open.spotify.com/artist/2MPy4JFvIlApj1PbxNTHBF) | [A Tiempo Real: A New Take on Spanish Tradition](https://open.spotify.com/album/37vhTf1m8xlhVMNM25gauO) | 4:36 |
 | 41 | [A Song for Rose \(Will You Remember Me\)](https://open.spotify.com/track/0UdTAY5ogRVxuten1vcBBs) | [Heidi Talbot](https://open.spotify.com/artist/3aQzmN6t6h7hpWAjN1L0pJ) | [Here We Go 1, 2, 3](https://open.spotify.com/album/4Qi8NNjsdtDUIQYY2xzCKS) | 5:00 |
-| 42 | [Silver Lining](https://open.spotify.com/track/3y2ThkLdQlID0gFvopwnkm) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Bywater Call](https://open.spotify.com/album/0hEimpHPAWWfWs4v55F0Kz) | 4:56 |
-| 43 | [As the River Flows](https://open.spotify.com/track/5ulmigTF4psOkLhwToBkAK) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Woman](https://open.spotify.com/album/6PKfvEiC1FXhm0ylnBRsya) | 3:46 |
+| 42 | [Silver Lining](https://open.spotify.com/track/6lI6ygpmnhxiVWc2pqsYUq) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Bywater Call](https://open.spotify.com/album/4RshexUVMhQgKZFuLi9GMG) | 4:56 |
+| 43 | [As The River Flows](https://open.spotify.com/track/1LvRSLxKzEWeGTnGLJexLC) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [As The River Flows](https://open.spotify.com/album/5SbuAZ7Klkiz8QuVik3Ptm) | 3:51 |
 | 44 | [No Ambition](https://open.spotify.com/track/2boeCV3GC9vppcMxPxapdB) | [Stillhouse Junkies](https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj) | [No Ambition](https://open.spotify.com/album/3jSrbvQPsCIPDDIJMMcn6w) | 7:26 |
 | 45 | [Difyrrwch](https://open.spotify.com/track/1qSmdST7sFwE7bYs7WboBK) | [The Trials of Cato](https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC) | [Hide and Hair](https://open.spotify.com/album/4tzSvK1Mo2GsW9jcIXrBd0) | 3:01 |
 | 46 | [Résilience](https://open.spotify.com/track/6OtRJLv735mNyjMUEhVBAP) | [Shaun Ferguson](https://open.spotify.com/artist/6kiX8WET2BNj1JNxIjbuNy) | [Résilience](https://open.spotify.com/album/51QV387QsmaV1zj6Jw10s5) | 4:05 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 74 | [Map & No Direction](https://open.spotify.com/track/6ztqu9mx8dUMOFkSlpBbAc) | [Beth Bombara](https://open.spotify.com/artist/6AGx2BbS0q2WsOwCOmBQME) | [Map & No Direction](https://open.spotify.com/album/3OFrZYkDBpkIl8p3JrgZPf) | 3:49 |
 | 75 | [O Death](https://open.spotify.com/track/0hBcnTQnRdxx6cutL5NCTY) | [Basset](https://open.spotify.com/artist/6PK5jTymkiAxeOjjqOIAQ3) | [Basset EP](https://open.spotify.com/album/2gmdibaeAbb8ePc8elPKQF) | 4:03 |
 | 76 | [Where Shall We Begin](https://open.spotify.com/track/770MBuciu9zO7iV3HNzke1) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Where Shall We Begin](https://open.spotify.com/album/3HaZ7j556nxKzPHcv3uz8C) | 3:02 |
-| 77 | [Eurydice](https://open.spotify.com/track/7JiIfHsVGiC4nVyaOoVEoS) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [The Eternal Rocks Beneath](https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS) | 4:37 |
+| 77 | [Eurydice](https://open.spotify.com/track/2dxq3U31qBd10DmoK2NIaI) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [Eurydice](https://open.spotify.com/album/4qlcqjpeAsuyQgeuXU3FKc) | 4:37 |
 | 78 | [Bloodthirsty](https://open.spotify.com/track/5vm5XiTvG1WqSKzCcdovh4) | [Dani Larkin](https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi) | [Notes For A Maiden Warrior](https://open.spotify.com/album/5DpiwNQuYxUTkoLgR5PSG0) | 2:36 |
 | 79 | [Inside Out](https://open.spotify.com/track/0O9q0skb5Xt8jKZCZdL02u) | [The Heart Collectors](https://open.spotify.com/artist/0DEsyMMqjveH8o0Higee5E) | [Time To Say I Love You](https://open.spotify.com/album/2atu32OqtlBCYxvmmgvEPK) | 4:23 |
 | 80 | [Taking Flight: Maison De Glace / Indian Point / Reel De Mattawa / Struan Robertson](https://open.spotify.com/track/0d94SvrvIQna15oQI5GeN6) | [Mari Black](https://open.spotify.com/artist/1qZGcliZIQTfmkJcuUyeIQ) | [Flight](https://open.spotify.com/album/3xZAUeubzmPwC9ISwXLCm9) | 4:48 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 87 | [Je veux m'y marier / Le talencourt](https://open.spotify.com/track/1OO5XumJ22bglUWWs3pId3) | [Grosse Isle](https://open.spotify.com/artist/608gEqY93wuJtHdofldWwR) | [Le bonhomme sept heures / The Bonesetter](https://open.spotify.com/album/52ylZOnjjntlhhTcjaHbNH) | 4:21 |
 | 88 | [Ku'u Poli'ahu](https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:43 |
 | 89 | [The Bear \(Trio\)](https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV) | [Matt the Electrician](https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn) | [The Doubles](https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V) | 4:24 |
-| 90 | [The It Girl](https://open.spotify.com/track/3v2Zzn2Dh5QpVCiV2jkHsa) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Woman in Color](https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg) | 2:42 |
+| 90 | [The It Girl](https://open.spotify.com/track/6tZmwrFzANQW9AoSZBMmb8) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [The It Girl](https://open.spotify.com/album/4qOJiOFQcGwQ97sIONUWXN) | 2:42 |
 | 91 | [That's Me](https://open.spotify.com/track/1o4OnhyEpocW1O69xDybmM) | [Tara MacLean](https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ) | [Silence](https://open.spotify.com/album/0xOrJZIcjEmuLFygeCY8Kv) | 4:34 |
 | 92 | [Helpless Wanderer](https://open.spotify.com/track/4Ft8AHTuhuRi0e3rMM9LHA) | [Underhill Rose](https://open.spotify.com/artist/3jrCADOrZCtzhNMCOekvPm) | [Something Real](https://open.spotify.com/album/1aLIPBFFED0RqXtI90dM8X) | 3:17 |
 | 93 | [Malama Mau Hawai'i](https://open.spotify.com/track/0DA5kNBQY5Fr8mPYcw9kHW) | [Waipuna](https://open.spotify.com/artist/67Fj3eYbIWEdcJUhAPl2YJ) | [Mana'o Pili](https://open.spotify.com/album/1LNcOfjnESfJ1SK9cNY4o9) | 4:53 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 152 | [Colorblind](https://open.spotify.com/track/1XdZWeMVsFrzso8pd77g7E) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj), [Peter Groenwald](https://open.spotify.com/artist/2wqqNArnu0CDW5rZFHVAYK) | [Colorblind](https://open.spotify.com/album/5Ptnky6pcPheTjCPrBsR1t) | 2:58 |
 | 153 | [Yemaya \(Ile Ladde\)](https://open.spotify.com/track/3oHbYtoQrQwjakUd4OfzYz) | [Okan](https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt), [Rauzzy Ferrer](https://open.spotify.com/artist/2kyhJaXsjTZOEdp5LVpnj0) | [Yemaya \(Ile Ladde\)](https://open.spotify.com/album/3bl3gaq46FVVtgJksDM9up) | 4:22 |
 
-Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMGJjMWZmMzkwMWU5YzQxYjRmZmRiYTAxZDEyNTFkZTg1`
+Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMGNkNWY2YjU4MDkzYzgwYTVkYWZlZTIzYmE1MjUyMDBj`

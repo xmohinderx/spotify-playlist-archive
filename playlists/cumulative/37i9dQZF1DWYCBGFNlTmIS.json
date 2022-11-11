@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 177323,
       "name": "\u6bcf\u7576\u8b8a\u5e7b\u6642",
       "url": "https://open.spotify.com/track/2DL0htS3Ee4EJlVdaM3KwT"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 177323,
       "name": "\u6bcf\u7576\u8b8a\u5e7b\u6642",
       "url": "https://open.spotify.com/track/78C752I4sPRnHFtbjJtOAe"
@@ -1483,10 +1483,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 197973,
       "name": "\u9010\u500b\u9010\u500b",
       "url": "https://open.spotify.com/track/2m1oTvhKULLdLHKNRCKp3J"
+    },
+    {
+      "album": {
+        "name": "\u9010\u500b\u9010\u500b",
+        "url": "https://open.spotify.com/album/6f3Rg4bUm5Nn8uxJwPDqEh"
+      },
+      "artists": [
+        {
+          "name": "Jan Curious",
+          "url": "https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199608,
+      "name": "\u9010\u500b\u9010\u500b",
+      "url": "https://open.spotify.com/track/33X11EPiUsM8qXGtpx5BhY"
     },
     {
       "album": {
@@ -1544,6 +1562,24 @@
     },
     {
       "album": {
+        "name": "\u96e3\u5fd8\u8a31\u51a0\u5091Sam Hui 30\u5e74",
+        "url": "https://open.spotify.com/album/1nG8714ZVyfUjNJYBdAZ79"
+      },
+      "artists": [
+        {
+          "name": "Sam Hui",
+          "url": "https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180333,
+      "name": "\u9435\u5854\u51cc\u96f2",
+      "url": "https://open.spotify.com/track/4uoXk5wvUcL9TOZVDxWTnq"
+    },
+    {
+      "album": {
         "name": "\u9b3c\u99ac\u96d9\u661f",
         "url": "https://open.spotify.com/album/0YcznUqb6s6kRPmuTp6MVN"
       },
@@ -1573,7 +1609,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 182906,
       "name": "\u9435\u5854\u51cc\u96f2",
       "url": "https://open.spotify.com/track/5ALKwvEgxQpqrtCAJCvQhA"

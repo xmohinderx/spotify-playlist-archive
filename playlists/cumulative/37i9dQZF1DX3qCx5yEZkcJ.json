@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 142349,
       "name": "dreams",
       "url": "https://open.spotify.com/track/0mmnXGa5hBUWWn7AdVNeY9"
@@ -3175,7 +3175,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 128496,
       "name": "Its Rainy",
       "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
@@ -3529,7 +3529,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 109333,
       "name": "Laguna Beach",
       "url": "https://open.spotify.com/track/40ELRRvQ0pqUWJxGxUC6rE"
@@ -6026,6 +6026,24 @@
     },
     {
       "album": {
+        "name": "Silently Beats",
+        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
+    },
+    {
+      "album": {
         "name": "Cadillac Mountain",
         "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
       },
@@ -7667,7 +7685,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 144950,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF"
@@ -7703,7 +7721,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 144950,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC"

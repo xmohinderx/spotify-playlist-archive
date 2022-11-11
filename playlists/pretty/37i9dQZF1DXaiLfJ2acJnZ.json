@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35229,
+  "num_followers": 35239,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDlhZjU4YzBjYmQ1ZDEwZTQxYjg4ZWY0YWMxOTc1MjEy",
+  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDgyOTBkODkzZTNmOWM5OWZiMDQ5NTBiYTU3OGJkNTMw",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Welcome To The Madhouse",
-        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "dancing in the kitchen",
         "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
       },
@@ -347,22 +331,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 172232,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Cloudy Day",
         "url": "https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow"
       },
@@ -419,22 +387,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/0nTp6hAIuLmbxoWX0gWmYM"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 137352,
-      "name": "X&Y",
-      "url": "https://open.spotify.com/track/5s8msIjj5PJ5UBNsjddZBL"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
         "url": "https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR"
       },
@@ -455,6 +407,22 @@
       "duration_ms": 213571,
       "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
       "url": "https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/0nTp6hAIuLmbxoWX0gWmYM"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "duration_ms": 137352,
+      "name": "X&Y",
+      "url": "https://open.spotify.com/track/5s8msIjj5PJ5UBNsjddZBL"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -603,22 +571,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 228303,
-      "name": "More",
-      "url": "https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
       },
@@ -631,6 +583,22 @@
       "duration_ms": 199883,
       "name": "American Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 228303,
+      "name": "More",
+      "url": "https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -667,6 +635,30 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "froge.mp3",
+        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        }
+      ],
+      "duration_ms": 178520,
+      "name": "say it",
+      "url": "https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/6oeqSsMiS8lxIi1L34ykXM"
       },
@@ -699,42 +691,18 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "froge.mp3",
-        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0"
       },
       "artists": [
         {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        },
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
         }
       ],
-      "duration_ms": 178520,
-      "name": "say it",
-      "url": "https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 196682,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
+      "duration_ms": 159490,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -755,18 +723,18 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL"
       },
       "artists": [
         {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
         }
       ],
-      "duration_ms": 159490,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
+      "duration_ms": 196682,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -851,22 +819,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "life's a beach",
-        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 202090,
-      "name": "have a great day",
-      "url": "https://open.spotify.com/track/5EKvSbDk01gFTw8IQNFzUz"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Pretty Face",
         "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
       },
@@ -879,38 +831,6 @@
       "duration_ms": 204907,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 175508,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "East End Coast",
-        "url": "https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 226035,
-      "name": "East End Coast",
-      "url": "https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -935,6 +855,38 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "East End Coast",
+        "url": "https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 226035,
+      "name": "East End Coast",
+      "url": "https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "duration_ms": 175508,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "LUCID",
         "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
       },
@@ -947,22 +899,6 @@
       "duration_ms": 218108,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "My 100",
-        "url": "https://open.spotify.com/album/07jiOfso7WpV92RIsd3AEm"
-      },
-      "artists": [
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "My 100",
-      "url": "https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -983,6 +919,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "My 100",
+        "url": "https://open.spotify.com/album/07jiOfso7WpV92RIsd3AEm"
+      },
+      "artists": [
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "My 100",
+      "url": "https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Ain't Got No Friends",
         "url": "https://open.spotify.com/album/3OWRyVAA36otEE4Rn50wok"
       },
@@ -999,22 +951,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "New Wave EP",
-        "url": "https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "New Wave",
-      "url": "https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Through the Phone",
         "url": "https://open.spotify.com/album/6cozhiaZ4S8vZ8nRgJMAf2"
       },
@@ -1027,6 +963,22 @@
       "duration_ms": 204680,
       "name": "Through the Phone",
       "url": "https://open.spotify.com/track/7wTV32F69jrY1myCj5jok2"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "New Wave EP",
+        "url": "https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte"
+      },
+      "artists": [
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "New Wave",
+      "url": "https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1071,18 +1023,18 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "DEACON",
-        "url": "https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV"
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
       },
       "artists": [
         {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Fellowship",
-      "url": "https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM"
+      "duration_ms": 171228,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1119,22 +1071,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
-      },
-      "artists": [
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 171228,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Sister Ray",
         "url": "https://open.spotify.com/album/1hvYAoC2BdhbvLwj0EIADJ"
       },
@@ -1163,22 +1099,6 @@
       "duration_ms": 208197,
       "name": "The Sun\u2019s Gonna Rise",
       "url": "https://open.spotify.com/track/21RwRFSFMOuDcaIqy3aiIH"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "Favourite Song",
-        "url": "https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh"
-      },
-      "artists": [
-        {
-          "name": "Tim Chadwick",
-          "url": "https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL"
-        }
-      ],
-      "duration_ms": 219455,
-      "name": "Favourite Song",
-      "url": "https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1215,22 +1135,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA"
-      },
-      "artists": [
-        {
-          "name": "Wild Youth",
-          "url": "https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Summer Fling",
         "url": "https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE"
       },
@@ -1243,6 +1147,22 @@
       "duration_ms": 215789,
       "name": "Summer Fling",
       "url": "https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA"
+      },
+      "artists": [
+        {
+          "name": "Wild Youth",
+          "url": "https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1263,6 +1183,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "unbreak ur heart",
+        "url": "https://open.spotify.com/album/3hrfzsCJwiyWh17y6RuYJt"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 203367,
+      "name": "unbreak ur heart",
+      "url": "https://open.spotify.com/track/1qQk95hRxQ19H2hVnDXeoW"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Meet You There",
         "url": "https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e"
       },
@@ -1275,22 +1211,6 @@
       "duration_ms": 178470,
       "name": "You Give Me More",
       "url": "https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "One Of Those Days",
-        "url": "https://open.spotify.com/album/7LvYLEwoGiAJfb6vvq90Py"
-      },
-      "artists": [
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 208563,
-      "name": "One of Those Days",
-      "url": "https://open.spotify.com/track/1Ircz8F9jlgC59clzg28Tu"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1339,6 +1259,86 @@
       "duration_ms": 200626,
       "name": "Never Get It Right",
       "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Cloudy Day (Acoustic)",
+        "url": "https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 185139,
+      "name": "Cloudy Day - Acoustic",
+      "url": "https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "One Of Those Days",
+        "url": "https://open.spotify.com/album/7LvYLEwoGiAJfb6vvq90Py"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 208563,
+      "name": "One of Those Days",
+      "url": "https://open.spotify.com/track/1Ircz8F9jlgC59clzg28Tu"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "You Got",
+        "url": "https://open.spotify.com/album/5UABExKvBESU6jrqQ6zB4r"
+      },
+      "artists": [
+        {
+          "name": "BEKA",
+          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+        }
+      ],
+      "duration_ms": 206435,
+      "name": "You Got",
+      "url": "https://open.spotify.com/track/4vUrdybdDNrJN15IjJcwhK"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Bottled Up",
+        "url": "https://open.spotify.com/album/3sSwZcy3p5NVyKT28C1AnT"
+      },
+      "artists": [
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "duration_ms": 189269,
+      "name": "Bottled Up",
+      "url": "https://open.spotify.com/track/62OhbVFaFnxYDhz07TdTnV"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Sleepover",
+        "url": "https://open.spotify.com/album/7EN5v9KXPXjQXVWuUlpiXx"
+      },
+      "artists": [
+        {
+          "name": "Litany",
+          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
+        }
+      ],
+      "duration_ms": 168199,
+      "name": "Sleepover",
+      "url": "https://open.spotify.com/track/1X0oGnw7yE9fZUeKUdrYFg"
     }
   ],
   "unique_name": "Wholesome",

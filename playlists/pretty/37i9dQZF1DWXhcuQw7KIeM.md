@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,638 likes - 80 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,753 likes - 80 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 3 | [Akva \- Live](https://open.spotify.com/track/5sCfp94Viu01VFQlNL1Zf2) | [KAUAN](https://open.spotify.com/artist/2QgzO1Z5XYu9zj3nOYsXUa) | [Akva \(Live\)](https://open.spotify.com/album/0vJfKqs1FC63IShbggiyyu) | 6:44 |
 | 4 | [Isä Meidän](https://open.spotify.com/track/7rdSeeSS4JcYjUQtLSuRhZ) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Isä Meidän](https://open.spotify.com/album/63Hue96M6GYO6jc0QG4eWC) | 4:04 |
 | 5 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
-| 6 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/6maBoD5dTSlChuGblBLc8E) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn \- First Flight of the White Raven](https://open.spotify.com/album/7rMCly66gjyiT6KFNNAuTB) | 5:28 |
+| 6 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/7o2r2AYbKNQV1GE6Bmke6a) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven Live\)](https://open.spotify.com/album/0NKnjpBvXwcgscEcpTdxjx) | 5:28 |
 | 7 | [Zeit der Raben](https://open.spotify.com/track/2dsW7ufpe4Kzaai1oA2wR5) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Pagan](https://open.spotify.com/album/7lN8bCpi9N1shlyZiT5Cgr) | 3:36 |
 | 8 | [Jólanótt](https://open.spotify.com/track/0LHxitnBVBbmRVqCZH8I74) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Jólanótt](https://open.spotify.com/album/212WacUd6V0YsXOcRAt3uk) | 3:25 |
 | 9 | [House Carpenter](https://open.spotify.com/track/2reP1SrOvXsViM6eeLqZmA) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Folkesange](https://open.spotify.com/album/1aRhu0xtlPbAb1X8us0uOD) | 3:38 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 21 | [Yggdrasil](https://open.spotify.com/track/27nlXliCG4tYCox6Ov9p40) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 4:15 |
 | 22 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |
 | 23 | [Ég felé](https://open.spotify.com/track/4PSVK92v0jtq8NiOtgqnFe) | [The Moon & The Nightspirit](https://open.spotify.com/artist/7hm6tfDbNUdRrz2hfRpJG3) | [Ősforras](https://open.spotify.com/album/012OIS7HI85MqcAOKHL6fP) | 5:56 |
-| 24 | [Varjo](https://open.spotify.com/track/0rBunHSvmi7ee3VSzna3er) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Under the Surface](https://open.spotify.com/album/7srCSseLFjcDZFwip9QLwJ) | 5:39 |
+| 24 | [Varjo](https://open.spotify.com/track/2Qggo2P26yyyuzdHgueQc0) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Varjo](https://open.spotify.com/album/4wqAwqEXhub8SrdidM4pYP) | 5:39 |
 | 25 | [Unnr \| MINDBEACH](https://open.spotify.com/track/38oAbSWuIpMZB7Ny0Z42zC) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Borgar Magnason](https://open.spotify.com/artist/0UvE0FOPYcShzzE4IYmD5n), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn), [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Unnr \| MINDBEACH](https://open.spotify.com/album/5B2Gsb3s1p0sNtPbj8HT4Y) | 9:36 |
 | 26 | [Hrafnsmál \- The Words of the Raven](https://open.spotify.com/track/2XtzI4BRKIKBQh9CsoDIc7) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: Out of the North \(Original Soundtrack\)](https://open.spotify.com/album/5iDRB3mIvV9ceXZIkXA4KT) | 5:20 |
 | 27 | [Fæcele](https://open.spotify.com/track/36P9S31Td4pdmDd95c9OGe) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Fæcele](https://open.spotify.com/album/5r7j50lSSkS8kFO6CRFJFN) | 3:12 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 47 | [Floki Appears to Kill Athelstan](https://open.spotify.com/track/5Z0GKdBhTmCsrIkM41DtRW) | [Trevor Morris](https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq) | [The Vikings III \(Music from the TV Series\)](https://open.spotify.com/album/75Xg8NYCUQd131qcp1Q8Cd) | 3:11 |
 | 48 | [The Empire of Winds](https://open.spotify.com/track/2mg3b0qMy3z8aFZ08kT3U2) | [Alpine Universe](https://open.spotify.com/artist/2p2f0IoFel8v0mdBqGsw1C) | [The Empire of Winds \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4yfCaNi6PU9euTYdQFAnjk) | 3:04 |
 | 49 | [Räven](https://open.spotify.com/track/1tzL0ZN9RGFPROrFikLVZk) | [Hedningarna](https://open.spotify.com/artist/0Y5ldP4uHArYLgHdljfmAu) | [TRÄ](https://open.spotify.com/album/7cdb2iO13iwekXoOlYej94) | 4:52 |
-| 50 | [Rún](https://open.spotify.com/track/34hYH6o60RtUv5u5UUgnd0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Vikings Chant \(Alfar Fagrahvél Edition\)](https://open.spotify.com/album/3yapZbvOcHcqs4vH0VPfgF) | 2:40 |
+| 50 | [Rún](https://open.spotify.com/track/1MjMpqiHCPQdPUdG44P2U4) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [SKÁLD](https://open.spotify.com/album/7IjcTZQThdCKOl7DYvX0Zu) | 2:40 |
 | 51 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 |
 | 52 | [Krigsgaldr](https://open.spotify.com/track/5P9qFmIiMqE6r2UfwVIdIZ) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Ofnir](https://open.spotify.com/album/6vohdbsWGcqbqiAimhGj6N) | 8:58 |
 | 53 | [The Path to Valhalla](https://open.spotify.com/track/5Y0890ieCPQ7InnCOMbpYm) | [Zergananda](https://open.spotify.com/artist/17l0IpeSiUshT3GEQjbJKb) | [The Path to Valhalla](https://open.spotify.com/album/5sqkryWnUZtlOCWbE5h5CB) | 4:50 |
-| 54 | [Lorn and Loath](https://open.spotify.com/track/2fIMFAMxuJEwNBnsD1gI7l) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Fire in the White Stone](https://open.spotify.com/album/1ZSrG9WgZewjkbKTw1gwg6) | 7:35 |
+| 54 | [Lorn and Loath](https://open.spotify.com/track/73qYS0GZUcEwTagjlHt3Jd) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Lorn and Loath](https://open.spotify.com/album/4cAXLQhqL9YpxktpvuuFTF) | 7:35 |
 | 55 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 |
 | 56 | [Leaves of Yggdrasil](https://open.spotify.com/track/2EWcUGmy6Ohy83O3v7VDYk) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Leaves of Yggdrasil](https://open.spotify.com/album/66yggjv8KoaW4ArUPj36jS) | 4:00 |
 | 57 | [Norðrljós](https://open.spotify.com/track/0Sjps7HTP1MUPUXqBMXTt0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Norðrljós](https://open.spotify.com/album/4UC8HNvhmz0b0ZspOcbmCa) | 3:20 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 77 | [L'appel Du Vide](https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Atoms Aligned, Coming Undone](https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e) | 7:44 |
 | 78 | [Mandara](https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt) | [Vas](https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55) | [Feast Of Silence](https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4) | 6:23 |
 | 79 | [A Hajnal Köszöntése](https://open.spotify.com/track/1zPWdZU3ffm5Knjn1rI0Uu) | [The Moon & The Nightspirit](https://open.spotify.com/artist/7hm6tfDbNUdRrz2hfRpJG3) | [Metanoia](https://open.spotify.com/album/3TnGjy4KW6dwCXtsKjod7D) | 5:56 |
-| 80 | [Storm Son](https://open.spotify.com/track/6obT3ZJ0SQLSGuFS6PWaT8) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [E](https://open.spotify.com/album/4I62KutcTuOqExb7fDeJU3) | 10:54 |
+| 80 | [Storm Son](https://open.spotify.com/track/3UVz5L4dNHmovBj7xCvDfZ) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Nuclear Blast Showdown Winter 2017](https://open.spotify.com/album/4P6R6IRALy9NKyqTOiLKyB) | 10:54 |
 
-Snapshot ID: `MTY2NTEyNjAwMCwwMDAwMDAwMDI4NTVmYjViZmMyMzQ5MWIyZGY0MmEyZGE1YTk0ZTU1`
+Snapshot ID: `MTY2NTEyNjAwMCwwMDAwMDAwMDMxZWI4MGI0ZmJiMmY3YjMzYzQ5MzZhYTc4NTYxY2Nm`

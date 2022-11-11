@@ -219,7 +219,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 279357,
       "name": "Alright",
       "url": "https://open.spotify.com/track/7EqB4Si62qbT1P8Yf3ZPKH"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 462053,
       "name": "Andalusia",
       "url": "https://open.spotify.com/track/75LdAXSmYSJkS2aVYBxxDW"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174172,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
@@ -587,10 +587,32 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 169805,
       "name": "Bones",
       "url": "https://open.spotify.com/track/6lt8Z886tMHpNqzOFWX8Yn"
+    },
+    {
+      "album": {
+        "name": "Death Stranding (Songs from the Video Game)",
+        "url": "https://open.spotify.com/album/1H5k5QgsFjnMPzlXfWq8QH"
+      },
+      "artists": [
+        {
+          "name": "Low Roar",
+          "url": "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
+        },
+        {
+          "name": "J\u00f3fri\u00f0ur",
+          "url": "https://open.spotify.com/artist/4DRyAvgLUeJzNhUrDMJ2va"
+        }
+      ],
+      "date_added": "2018-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170106,
+      "name": "Bones (feat. J\u00f3fri\u00f0ur)",
+      "url": "https://open.spotify.com/track/16hWU8zGX7EOJJA4xV3hHw"
     },
     {
       "album": {
@@ -1035,7 +1057,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 288334,
       "name": "Dorian",
       "url": "https://open.spotify.com/track/0ZilhIkx5dOgRSi7GdnKqp"
@@ -1179,7 +1201,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 275053,
       "name": "Fire-scene",
       "url": "https://open.spotify.com/track/3gMm2hNU0B9vMiJJGSMWfk"
@@ -1277,7 +1299,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 384142,
       "name": "First Weeks",
       "url": "https://open.spotify.com/track/5B4chrLWhupcxEqOQu0aqg"
@@ -1433,7 +1455,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 334053,
       "name": "Friends Make Garbage (Good Friends Take It Out)",
       "url": "https://open.spotify.com/track/0h3CnJ0DLrVcxggoDBDcNR"
@@ -2097,7 +2119,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 229986,
       "name": "Made of Gold",
       "url": "https://open.spotify.com/track/2HdZcT7RL1cgVz5sbvmyQ5"
@@ -2284,6 +2306,24 @@
     },
     {
       "album": {
+        "name": "All We Grow",
+        "url": "https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "date_added": "2018-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187293,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/6YrXFihFXI14T1FgjIUdRh"
+    },
+    {
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/3lhfsi28kDMTySq1ZSstz6"
       },
@@ -2313,7 +2353,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 565720,
       "name": "My Dove, My Lamb",
       "url": "https://open.spotify.com/track/2XhWwcxr9BJCZsCqVyeswH"
@@ -2463,7 +2503,7 @@
       ],
       "date_added": "2020-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 175882,
       "name": "new forever",
       "url": "https://open.spotify.com/track/7Bep0HEgNNeoygVMpXq5Gl"
@@ -2686,6 +2726,24 @@
     },
     {
       "album": {
+        "name": "Chance Of Rain",
+        "url": "https://open.spotify.com/album/0ItFk3ohAXF6hiGMHEaUl0"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "date_added": "2018-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89790,
+      "name": "Out",
+      "url": "https://open.spotify.com/track/307LMAWIYSpyNweOpB1vR3"
+    },
+    {
+      "album": {
         "name": "Romantic Works",
         "url": "https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm"
       },
@@ -2733,7 +2791,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 213560,
       "name": "Please",
       "url": "https://open.spotify.com/track/09C592kGYvxDfJSBnzufCU"
@@ -2809,6 +2867,24 @@
       "duration_ms": 249399,
       "name": "Save Me - Skeleton Mix",
       "url": "https://open.spotify.com/track/1t6QtgCmzFzfmeDkSa530b"
+    },
+    {
+      "album": {
+        "name": "It's Alright / Save Me",
+        "url": "https://open.spotify.com/album/59yTGmtPBLnDKUzf9IwXXJ"
+      },
+      "artists": [
+        {
+          "name": "Majik",
+          "url": "https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9"
+        }
+      ],
+      "date_added": "2018-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249399,
+      "name": "Save Me - Skeleton Mix",
+      "url": "https://open.spotify.com/track/2AIYNJI5UGR5MjTEIBmX0D"
     },
     {
       "album": {
@@ -3634,6 +3710,24 @@
     },
     {
       "album": {
+        "name": "The Exit Papers",
+        "url": "https://open.spotify.com/album/03bk7xDFfgDrXlsScEUM7i"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "date_added": "2018-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217146,
+      "name": "Untitled 1",
+      "url": "https://open.spotify.com/track/79fDSadl4Qs17tWm4woC99"
+    },
+    {
+      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
       },
@@ -3789,7 +3883,7 @@
       ],
       "date_added": "2019-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175374,
       "name": "We're Not Different",
       "url": "https://open.spotify.com/track/11eWOSoWyzWBq863KATd9g"
@@ -3897,7 +3991,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 217782,
       "name": "Wrapped In Piano Strings",
       "url": "https://open.spotify.com/track/4zCKcMys29lH8xOYeiDYod"
@@ -3969,7 +4063,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 245538,
       "name": "Your Love Is an Island",
       "url": "https://open.spotify.com/track/79irqIr5JmGSHeLtu8tntd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,921 likes - 195 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,230 likes - 195 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 101 | [Lo\-Fi Disco](https://open.spotify.com/track/2julBmkb51MrSa4jjW5ghK) | [Fuchsia Farro](https://open.spotify.com/artist/7b4QcBY9Rb12Lp8hse7Jtr) | [Color Of My Dreams](https://open.spotify.com/album/4Fx26dD3bFwmTXQbXJE9Ij) | 1:46 |
 | 102 | [Radio Head](https://open.spotify.com/track/465eA0AbmDTORT39flcRfZ) | [Bell Chenko](https://open.spotify.com/artist/5saowJ1itYDsVZG8Bp6pPo) | [Radio Head](https://open.spotify.com/album/0qQRICDc4ARCQBqLeMhFfm) | 2:06 |
 | 103 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 |
-| 104 | [Free as a Bird](https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf) | 2:16 |
+| 104 | [Free as a Bird](https://open.spotify.com/track/0ubmEMJ8mepIt4zLQCN1fR) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Relaxing Study Music](https://open.spotify.com/album/6XoR2ZWHiDmUZDNLr8CFrN) | 2:16 |
 | 105 | [Better Life](https://open.spotify.com/track/32jgxWTiEcXChtfT4BdFyK) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Better Life](https://open.spotify.com/album/43SGwBqaSpuOA5D9stfmLy) | 2:40 |
 | 106 | [Nocturnal](https://open.spotify.com/track/4XGwbJ6HEiXKzIr4YDVagb) | [Milky Moustache Beats](https://open.spotify.com/artist/6RRj0SxwUF7hIJlrfhfPOu), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Nocturnal](https://open.spotify.com/album/0Cujyod7nrlnQyE7pAFaLa) | 2:12 |
 | 107 | [On Repeat](https://open.spotify.com/track/3fY4AgYbIUJZvz7hl0326O) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [On Repeat](https://open.spotify.com/album/14CoxikyUkUvWAp9itXBjS) | 2:30 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 194 | [Adventure Time](https://open.spotify.com/track/49qgo51BRqysyr1FdfGCi7) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [Lasting Memories](https://open.spotify.com/album/75vXCfbM1TdyfXLgMC1hyS) | 2:11 |
 | 195 | [Terraforma](https://open.spotify.com/track/5O2obBZsd58cpx1GE0XECe) | [Gabriel Cavalcanti](https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL) | [Terraforma](https://open.spotify.com/album/2OjwyKz7hqO5EL9JLw3Al0) | 1:38 |
 
-Snapshot ID: `MTY2Njk1NzYzOSwwMDAwMDAwMDNiNTQ4OGY5ZGU2ZGM2ODRiNjE1MDY4ZjZiNGNmYmIz`
+Snapshot ID: `MTY2Njk1NzYzOSwwMDAwMDAwMDM0NzBlZDViZjE4MzNlZDk2MGJmYTIyODNiYmQxNjMx`

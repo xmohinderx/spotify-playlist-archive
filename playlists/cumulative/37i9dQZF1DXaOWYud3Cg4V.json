@@ -102,6 +102,28 @@
     },
     {
       "album": {
+        "name": "Drift and Dream",
+        "url": "https://open.spotify.com/album/5foPEuNXIPYQIpUZgWnRzz"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        },
+        {
+          "name": "Clyde McPhatter",
+          "url": "https://open.spotify.com/artist/4WL6MC4jDW7w7K9hfc4MVS"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164933,
+      "name": "Bip Bam (with Clyde McPhatter)",
+      "url": "https://open.spotify.com/track/2ohbZgw4yyWbkm5TbR2QLz"
+    },
+    {
+      "album": {
         "name": "Let the Boogie-Woogie Roll: Greatest Hits 1953-1958",
         "url": "https://open.spotify.com/album/3kn3zuGVSTkIeFKYnPgI7B"
       },
@@ -117,7 +139,7 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 167960,
       "name": "Bip Bam (with Clyde McPhatter)",
       "url": "https://open.spotify.com/track/3U7ZZvQMprdLea0cD3QEKX"
@@ -135,7 +157,7 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 149013,
       "name": "Bo Diddley",
       "url": "https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9"
@@ -157,6 +179,24 @@
       "duration_ms": 168000,
       "name": "Bo Diddley",
       "url": "https://open.spotify.com/track/1RB0enoqsqHElR3Pag8pzU"
+    },
+    {
+      "album": {
+        "name": "His Best",
+        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Bo Diddley",
+      "url": "https://open.spotify.com/track/2lLF5XCfPhdIEQpOKdzYYg"
     },
     {
       "album": {
@@ -286,6 +326,24 @@
     },
     {
       "album": {
+        "name": "Night Time Is The Right Time",
+        "url": "https://open.spotify.com/album/1z6dHWh26VqiXmSaeYtOO4"
+      },
+      "artists": [
+        {
+          "name": "Nappy Brown",
+          "url": "https://open.spotify.com/artist/7oR6vQt8KT2ZWUpC65jTha"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143800,
+      "name": "Don't Be Angry",
+      "url": "https://open.spotify.com/track/7CFe4QdrdRWyIMcrLKsCEY"
+    },
+    {
+      "album": {
         "name": "Don't Be Angry!",
         "url": "https://open.spotify.com/album/1osQILjanYqyjUaCLeW5ZY"
       },
@@ -297,7 +355,7 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 147506,
       "name": "Don't Be Angry",
       "url": "https://open.spotify.com/track/5EsIiqZ3FoOzuP5xZSeZVY"
@@ -315,7 +373,7 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 158640,
       "name": "Easy, Easy Baby",
       "url": "https://open.spotify.com/track/2s6pzL98avAtHxH5GaqII2"
@@ -340,6 +398,42 @@
     },
     {
       "album": {
+        "name": "Stompin' At The Savoy: Things Have Changed, 1951-1955",
+        "url": "https://open.spotify.com/album/4PQhht499yz7xILENVNWtb"
+      },
+      "artists": [
+        {
+          "name": "Varetta Dillard",
+          "url": "https://open.spotify.com/artist/39AMDMPl2TPIIylBZX8P3O"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159440,
+      "name": "Easy, Easy Baby",
+      "url": "https://open.spotify.com/track/7CpMiDI1ecDLqNjhvNjc9D"
+    },
+    {
+      "album": {
+        "name": "R&B Dynamite",
+        "url": "https://open.spotify.com/album/5XsFFc74dnFosYrGajjD8I"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Good Rockin' Daddy",
+      "url": "https://open.spotify.com/track/2HatosrnFbnuPBOzxnpC4E"
+    },
+    {
+      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -351,7 +445,7 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 145120,
       "name": "Good Rockin' Daddy",
       "url": "https://open.spotify.com/track/2tVssyr73lk9hNQr5z7iAD"
@@ -466,6 +560,24 @@
     },
     {
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: The Best Of Blues Classics",
+        "url": "https://open.spotify.com/album/54zrwb4I3fkDaCgfhw16gE"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/2CbYVyT8FubKppn9zil1Uq"
+    },
+    {
+      "album": {
         "name": "Precious & Rare: Big Mama Thornton",
         "url": "https://open.spotify.com/album/2pOwJN6EjTB2vKLIIcmXXV"
       },
@@ -495,7 +607,7 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 171066,
       "name": "Hound Dog - Big Mama Thornton",
       "url": "https://open.spotify.com/track/1D2Rry5X9rQefHiAgjDyzH"
@@ -556,6 +668,24 @@
     },
     {
       "album": {
+        "name": "The Very Best of Atomic Adams (Remastered)",
+        "url": "https://open.spotify.com/album/4hbxxQbHZ633mT1kDz9i0Z"
+      },
+      "artists": [
+        {
+          "name": "Faye Adams",
+          "url": "https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179386,
+      "name": "Hurts Me to My Heart 2 - Remastered",
+      "url": "https://open.spotify.com/track/5goezNyn5YdFi2kQUnhZkm"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5RDZpiJYGaM5ktJEpaEty2"
       },
@@ -589,10 +719,32 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 193493,
       "name": "I Don't Hurt Anymore",
       "url": "https://open.spotify.com/track/46bCPNzRmwxbdcyv8YYauN"
+    },
+    {
+      "album": {
+        "name": "The Complete Dinah Washington On Mercury, Vol. 3 (1952-1954)",
+        "url": "https://open.spotify.com/album/6PZZc2r0YoCPAS0DaGVImG"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Hal Mooney And His Orchestra",
+          "url": "https://open.spotify.com/artist/47ybDT1ZbixVpHfk1CWGzA"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193506,
+      "name": "I Don't Hurt Anymore",
+      "url": "https://open.spotify.com/track/4k73O6d8SDdef8i4GptF9m"
     },
     {
       "album": {
@@ -733,10 +885,28 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 156653,
       "name": "It Ain't The Meat, It's The Motion",
       "url": "https://open.spotify.com/track/5DowgjLju7riW4EXaZfdTZ"
+    },
+    {
+      "album": {
+        "name": "The King Records R&B Anthology - Volume 3",
+        "url": "https://open.spotify.com/album/6zqWINptwJ8VludlxT1swz"
+      },
+      "artists": [
+        {
+          "name": "The Swallows",
+          "url": "https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155053,
+      "name": "It Ain\u2019t The Meat",
+      "url": "https://open.spotify.com/track/7y77bXkLLokdDSaJnjEmoq"
     },
     {
       "album": {
@@ -751,10 +921,28 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 180413,
       "name": "It Hurts Me to My Heart",
       "url": "https://open.spotify.com/track/5zlYphxm4NbQLdwjmdedqP"
+    },
+    {
+      "album": {
+        "name": "60s Greatest Hits",
+        "url": "https://open.spotify.com/album/1C4XnRTIjHVsxdPOdRiBBY"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Harrison",
+          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139827,
+      "name": "Kansas City",
+      "url": "https://open.spotify.com/track/4ivBgTQamQRSlpg8fSsxe8"
     },
     {
       "album": {
@@ -787,7 +975,7 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 150333,
       "name": "Kansas City",
       "url": "https://open.spotify.com/track/4GvyP7CnBJEV2t7L7vOkjw"
@@ -823,7 +1011,7 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 145443,
       "name": "Lovin' Machine",
       "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
@@ -845,6 +1033,24 @@
       "duration_ms": 147434,
       "name": "Lovin' Machine - Remastered",
       "url": "https://open.spotify.com/track/78qg91r1MLlt4UvingYV6A"
+    },
+    {
+      "album": {
+        "name": "The King Records R&B Anthology - Volume 3",
+        "url": "https://open.spotify.com/album/6zqWINptwJ8VludlxT1swz"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146906,
+      "name": "Lovin\u2019 Machine",
+      "url": "https://open.spotify.com/track/2BCKipL4j7nJPkJSmmkscJ"
     },
     {
       "album": {
@@ -913,10 +1119,28 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 183040,
       "name": "Pink Champagne",
       "url": "https://open.spotify.com/track/720ucZYHzfmoHxge37h8Pk"
+    },
+    {
+      "album": {
+        "name": "Best - Swamp Blues",
+        "url": "https://open.spotify.com/album/6k1J8HrEsLzAeisvTUPvZO"
+      },
+      "artists": [
+        {
+          "name": "Joe Liggins & His Honeydrippers",
+          "url": "https://open.spotify.com/artist/0ACLFWuyN82lEvIRzg7HR1"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179493,
+      "name": "Pink Champagne",
+      "url": "https://open.spotify.com/track/3ZZL75etRHlrYwzXA2DgHh"
     },
     {
       "album": {
@@ -985,10 +1209,28 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 164973,
       "name": "Port Of Rico",
       "url": "https://open.spotify.com/track/25wcxxmSx7jlpkQTgqpojg"
+    },
+    {
+      "album": {
+        "name": "Flying Home",
+        "url": "https://open.spotify.com/album/3Wd9FdgYuWHOSJrI5od7MU"
+      },
+      "artists": [
+        {
+          "name": "Illinois Jacquet & His Orchestra",
+          "url": "https://open.spotify.com/artist/1Aou8CvVAN2aeFHIU4qAWw"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165359,
+      "name": "Port Of Rico",
+      "url": "https://open.spotify.com/track/6akKOJzSlnt1QHCFGX2lDR"
     },
     {
       "album": {
@@ -1003,7 +1245,7 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 169493,
       "name": "Rag Mop",
       "url": "https://open.spotify.com/track/5SOjgaven2icwH6GrRgzGL"
@@ -1025,6 +1267,24 @@
       "duration_ms": 169200,
       "name": "Rag Mop - Single Version",
       "url": "https://open.spotify.com/track/57xDXZvNTiWSTEb3sr9qRX"
+    },
+    {
+      "album": {
+        "name": "Priceless Jazz 37: Lionel Hampton",
+        "url": "https://open.spotify.com/album/0CwoZvK4LAS9gKTBnvw9pF"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "Rag Mop - Single Version",
+      "url": "https://open.spotify.com/track/3CKLsVI1QZgNY7pbHMUbFl"
     },
     {
       "album": {
@@ -1151,10 +1411,32 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 186026,
       "name": "Smooth Sailing",
       "url": "https://open.spotify.com/track/6vubuLvaXL1bO4hQbAzG2E"
+    },
+    {
+      "album": {
+        "name": "Jubilee Vibes",
+        "url": "https://open.spotify.com/album/0FoPklfcJIW3cogJcJF8AA"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Ray Charles Singers",
+          "url": "https://open.spotify.com/artist/716xTLDou3FHSi9mXOMU1Z"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187400,
+      "name": "Smooth Sailing",
+      "url": "https://open.spotify.com/track/1eredMnT1NJXYDwk80mVNJ"
     },
     {
       "album": {
@@ -1187,10 +1469,46 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 153573,
       "name": "Soft",
       "url": "https://open.spotify.com/track/5u87THoJXo4YgI7pxjwaqI"
+    },
+    {
+      "album": {
+        "name": "Rock And Roll Dance Party",
+        "url": "https://open.spotify.com/album/5w3vZg5PuLbQmi1xJAUgXd"
+      },
+      "artists": [
+        {
+          "name": "Tiny Bradshaw",
+          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157066,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/5Um4DKloKdFfzVTlKdA5ED"
+    },
+    {
+      "album": {
+        "name": "Doo Wop",
+        "url": "https://open.spotify.com/album/6BiKPAs21uM4stg3vJelRM"
+      },
+      "artists": [
+        {
+          "name": "The Monotones",
+          "url": "https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138440,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/0xk7fU0J6ZMcVHPSboDlsP"
     },
     {
       "album": {
@@ -1205,7 +1523,7 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 138440,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
@@ -1313,10 +1631,28 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 148733,
       "name": "Well All Right",
       "url": "https://open.spotify.com/track/2Sr6cn0EoafyV5brhrOEda"
+    },
+    {
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/1PXqvaRKvq3RTrpWZLL3AH"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149266,
+      "name": "Well All Right",
+      "url": "https://open.spotify.com/track/2zvy8r2VNO3L2k7hreWtiQ"
     },
     {
       "album": {

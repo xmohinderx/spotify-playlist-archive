@@ -37,7 +37,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 234973,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 262680,
       "name": "Can\u2019t Let Go, Juno",
       "url": "https://open.spotify.com/track/0eM4CcU3AaE7m4FGH8vgql"
@@ -754,6 +754,24 @@
     },
     {
       "album": {
+        "name": "Good Grief (Expanded Edition)",
+        "url": "https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264040,
+      "name": "Dusty Trails",
+      "url": "https://open.spotify.com/track/1nKQHAv7zGcDoGJGqB0qFk"
+    },
+    {
+      "album": {
         "name": "Good Grief (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5YUPhKtmR093OVGI4StTMx"
       },
@@ -857,6 +875,24 @@
       "duration_ms": 229800,
       "name": "Easy Rider",
       "url": "https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU"
+    },
+    {
+      "album": {
+        "name": "Cautionary Tale",
+        "url": "https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Easy Way Out",
+      "url": "https://open.spotify.com/track/7LxDRQTixbz1RpJNQubcFe"
     },
     {
       "album": {
@@ -1301,7 +1337,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 252506,
       "name": "Hurtin' (On the Bottle)",
       "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
@@ -1770,6 +1806,24 @@
     },
     {
       "album": {
+        "name": "Moonshine Freeze",
+        "url": "https://open.spotify.com/album/5RYg5ZR0qfRebkseuqlGJj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221666,
+      "name": "Moonshine Freeze",
+      "url": "https://open.spotify.com/track/5jzHvA7xPl24wKuICkpEWL"
+    },
+    {
+      "album": {
         "name": "Latigo",
         "url": "https://open.spotify.com/album/1i3BxSvctee1L1zbPSOUBQ"
       },
@@ -2221,7 +2275,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 209373,
       "name": "Rye Whiskey",
       "url": "https://open.spotify.com/track/0gVTOC191ScBI2Frj9NQQX"
@@ -2383,7 +2437,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 370200,
       "name": "Song for Zula",
       "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
@@ -2589,7 +2643,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 267946,
       "name": "There Will Be Time",
       "url": "https://open.spotify.com/track/0CzbkuvsT2gSUkASIRqo7o"
@@ -2781,6 +2835,24 @@
     {
       "album": {
         "name": "Benjamin Booker",
+        "url": "https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166480,
+      "name": "Violent Shiver",
+      "url": "https://open.spotify.com/track/1kJP08Hra8FQBz5dG80k3m"
+    },
+    {
+      "album": {
+        "name": "Benjamin Booker",
         "url": "https://open.spotify.com/album/4Vc6WXe1zMhXLMOOW6gGx4"
       },
       "artists": [
@@ -2845,7 +2917,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213706,
       "name": "Way down We Go",
       "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
@@ -2881,7 +2953,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 161690,
       "name": "What's Chasing You",
       "url": "https://open.spotify.com/track/2gGl2YokMEhgsB3CUJaW3u"
@@ -2899,7 +2971,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 284720,
       "name": "When The Tequila Runs Out",
       "url": "https://open.spotify.com/track/23Q4sMxgEKRXDMi62xPP5R"
@@ -2957,6 +3029,24 @@
       "duration_ms": 157380,
       "name": "Whiskey Fever",
       "url": "https://open.spotify.com/track/5c4X3PrLDtzAqXOWDtfX2t"
+    },
+    {
+      "album": {
+        "name": "The Essential Gary Stewart",
+        "url": "https://open.spotify.com/album/5pZ8JRHGLRSUVT6EmOXb0c"
+      },
+      "artists": [
+        {
+          "name": "Gary Stewart",
+          "url": "https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Whiskey Trip",
+      "url": "https://open.spotify.com/track/4izowlxQFW0BUzukGGerm4"
     },
     {
       "album": {
@@ -3097,7 +3187,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 214160,
       "name": "You Worry Me",
       "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"

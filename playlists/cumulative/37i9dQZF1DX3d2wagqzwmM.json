@@ -242,6 +242,28 @@
     },
     {
       "album": {
+        "name": "Back To Where We Started",
+        "url": "https://open.spotify.com/album/4Oe7H10BsC7n7hiAFruhQa"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209776,
+      "name": "Back To Where We Started",
+      "url": "https://open.spotify.com/track/3Xkf0dPNJbLMzi2BuGmbDo"
+    },
+    {
+      "album": {
         "name": "Bassman",
         "url": "https://open.spotify.com/album/0DqcG0ERIGT3N9R5WtReg9"
       },
@@ -1291,7 +1313,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 266492,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD"
@@ -2009,7 +2031,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 238125,
       "name": "INTO THE UNKNOWN",
       "url": "https://open.spotify.com/track/3Y6CWrNdkuaJ5iW2Y829fU"
@@ -4051,6 +4073,32 @@
       "duration_ms": 168251,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1mA59ka5t7zodO1FO0Xzzj"
+    },
+    {
+      "album": {
+        "name": "Thrill",
+        "url": "https://open.spotify.com/album/5TqgtXhlVZi0KwEdWr1AST"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Linka",
+          "url": "https://open.spotify.com/artist/4wiFBUvu3Vqn8gZpY81szc"
+        },
+        {
+          "name": "Gregor Potter",
+          "url": "https://open.spotify.com/artist/3QgGgYrGPyaHh4n1d65Ukd"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217615,
+      "name": "Thrill",
+      "url": "https://open.spotify.com/track/0n8PMT5vyu8lffykqYvOIo"
     },
     {
       "album": {

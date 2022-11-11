@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > Porter Robinson takes over the Guest List, featuring artists on this year's Second Sky lineup! Second Sky takes place October 29th, 2022 and tickets are available <a href="https://secondskyfest.com/">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,586 likes - 56 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,626 likes - 56 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 22 | [Want U There](https://open.spotify.com/track/6bgUfXTnC8XCnsTkiucJtD) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Want U There](https://open.spotify.com/album/4nbLoYqrWa7FZ6v0Cvp6Jq) | 2:56 |
 | 23 | [Drift \- Acid Mix](https://open.spotify.com/track/5LiYW1rG67exQ0a3ECB4su) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Tangential Zones](https://open.spotify.com/album/1AL6GsdQ5SI97EpMGouJmS) | 3:31 |
 | 24 | [Fresh Static Snow](https://open.spotify.com/track/1LikBIcmCec6zE64SHFcMK) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:58 |
-| 25 | [Kimigaiinekuretara](https://open.spotify.com/track/3KCkxinjGuVsVO0doiPOV6) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 3:43 |
+| 25 | [Kimiga iine kuretara](https://open.spotify.com/track/1gBn1DsjOMllcU0LYQFGEm) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Kimiga iine kuretara](https://open.spotify.com/album/6x1dAhEcVp22ScAsfoEcCQ) | 3:43 |
 | 26 | [Core](https://open.spotify.com/track/6Knx4Tp8hE7IlYtde2dCYI) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [VOID](https://open.spotify.com/album/5UWAfUBImV6jcswkXkXZOs) | 3:56 |
 | 27 | [Dark Artifact](https://open.spotify.com/track/3Sf6ijn5pjxt7Pasrnycn5) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Tangential Zones](https://open.spotify.com/album/1AL6GsdQ5SI97EpMGouJmS) | 2:49 |
 | 28 | [EON BREAK](https://open.spotify.com/track/2aGn7X6ixuE9P3zaykgoWM) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG) | 3:40 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 55 | [Furnace Loop](https://open.spotify.com/track/2Afn9DVEGZdNToKzo1HD4I) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Airborne Lard](https://open.spotify.com/album/3d8kb3eoguY0W0rL1Fh9Dy) | 2:51 |
 | 56 | [Pressure](https://open.spotify.com/track/11AZJufpf0EdlyGes9Jgrh) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:29 |
 
-Snapshot ID: `MTY2NjM2NDQwMCwwMDAwMDAwMDU0Y2U3MTYyNzk1NzA0ODA5MDEzYmIwZDJlYzk3ZGVl`
+Snapshot ID: `MTY2NjM2NDQwMCwwMDAwMDAwMDkyZGRiYjUxNTI2NmY0MDVjZDA5N2FmZDQ2ZTA5NTEw`

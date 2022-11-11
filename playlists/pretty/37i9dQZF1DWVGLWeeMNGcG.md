@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGLWeeMNGcG.md) - [plain]
 
 > From the past to the present, soul music has evolved into many different sounds and Motown has been at the forefront.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,213 likes - 31 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,253 likes - 31 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGLWeeMNGcG.md) - [plain]
 | 11 | [Ain't No Mountain High Enough \- Single Version](https://open.spotify.com/track/0yLchb1kn0jtEgIRtoTCwq) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2fRnRS1s58KLndlxOi8c36) | 6:20 |
 | 12 | [I Want You Back](https://open.spotify.com/track/4CbUtLtAcgLJ7mAIeooJS8) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Motown Legends: Jackson 5 \- Never Can Say Goodbye](https://open.spotify.com/album/0QalicmGWZvuRQ3qznxKIc) | 3:00 |
 | 13 | [Intimate Friends](https://open.spotify.com/track/7H3JKR6vI3UWEtYrKSvUKG) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [The Ultimate Collection: Eddie Kendricks](https://open.spotify.com/album/7LLbmy5yQitJH9jlzwGy5z) | 5:53 |
-| 14 | [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 |
+| 14 | [Shotgun](https://open.spotify.com/track/1ZfxCQmXWYmTWwBgCy48Os) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Motown Party](https://open.spotify.com/album/1iNRf0nkYYB4zBTv34zF0x) | 2:59 |
 | 15 | [Mister Magic](https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Mister Magic](https://open.spotify.com/album/3DnS9jBOXBVx6oPAbsQDGZ) | 9:01 |
 | 16 | [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 |
 | 17 | [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/7eflaRnXGmpD5Dk7coPvec) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:38 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGLWeeMNGcG.md) - [plain]
 | 30 | [Angel](https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1) | [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [BEcoming](https://open.spotify.com/album/49eOVYOGoUjNjgyplB6JJF) | 3:05 |
 | 31 | [Don't Go](https://open.spotify.com/track/11ZPIe8MUvf8yXEWS1vNQZ) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Long Song Away](https://open.spotify.com/album/3Yluqlq1TaCXXTf52WskES) | 3:01 |
 
-Snapshot ID: `MTU2MTQ5NzA0NiwwMDAwMDAwMDllMjVhOTM4NmRiNTlhM2YwZWE3MzU4ZDc3N2IwY2Rl`
+Snapshot ID: `MTU2MTQ5NzA0NiwwMDAwMDAwMDM1N2QzYzRkOTY5NTZmYTg0YWJmMDU4YjI1OTk4YTc0`

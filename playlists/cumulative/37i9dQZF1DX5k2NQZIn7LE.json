@@ -141,6 +141,28 @@
     {
       "album": {
         "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
+      },
+      "artists": [
+        {
+          "name": "Quratulain Balouch",
+          "url": "https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q"
+        },
+        {
+          "name": "Haroon Shahid",
+          "url": "https://open.spotify.com/artist/4OasZ0m66s8HZzsyQAYCGJ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454500,
+      "name": "Baliye (Laung Gawacha)",
+      "url": "https://open.spotify.com/track/0iPR8H2UgvQuKcU245NC5J"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 9",
         "url": "https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL"
       },
       "artists": [
@@ -181,7 +203,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 454500,
       "name": "Baliye (Laung Gawacha) [Coke Studio Season 9]",
       "url": "https://open.spotify.com/track/63LTVXh5TujgeB202CbqGa"
@@ -1449,10 +1471,28 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 146891,
       "name": "Shuru Karein",
       "url": "https://open.spotify.com/track/3yqoD9SYDfwvNEdU2NEpFx"
+    },
+    {
+      "album": {
+        "name": "Coke Studio (Season 14)",
+        "url": "https://open.spotify.com/album/6A9M0zgEwr15R3kUehBzRl"
+      },
+      "artists": [
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146891,
+      "name": "Shuru Karein",
+      "url": "https://open.spotify.com/track/5q7YPRbhsEglQUBacUCTlP"
     },
     {
       "album": {

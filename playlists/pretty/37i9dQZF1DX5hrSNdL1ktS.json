@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55171,
+  "num_followers": 55175,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ5NDI5NywwMDAwMDAwMGQxMjA2YTY5MDEzMDZhNjM4ZDkwZjdkYTI5NjNmMWQ4",
+  "snapshot_id": "MTY2NDQ5NDI5NywwMDAwMDAwMGFjMjBkZjdkZGY0Mzg1MWU4ZjZlZTY0OWFiMjI1YTQw",
   "tracks": [
     {
       "added_at": "2022-09-29 23:31:37",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "INESTABLE",
+        "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "INESTABLE",
+      "url": "https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "Equivocado",
         "url": "https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 246780,
       "name": "Equivocado",
       "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "INESTABLE",
-        "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
-      },
-      "artists": [
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "INESTABLE",
-      "url": "https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "KRMA",
         "url": "https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ"
       },
@@ -851,22 +835,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Mal Acompa\u00f1ada",
-        "url": "https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G"
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
       },
       "artists": [
         {
-          "name": "Martinez",
-          "url": "https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy"
-        },
-        {
-          "name": "Philip Ariaz",
-          "url": "https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC"
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
         }
       ],
-      "duration_ms": 201496,
-      "name": "Mal Acompa\u00f1ada",
-      "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
+      "duration_ms": 150441,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -887,6 +867,26 @@
       "duration_ms": 197142,
       "name": "Mi Plan B",
       "url": "https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Mal Acompa\u00f1ada",
+        "url": "https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G"
+      },
+      "artists": [
+        {
+          "name": "Martinez",
+          "url": "https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy"
+        },
+        {
+          "name": "Philip Ariaz",
+          "url": "https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC"
+        }
+      ],
+      "duration_ms": 201496,
+      "name": "Mal Acompa\u00f1ada",
+      "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
     },
     {
       "added_at": "2022-09-29 23:31:37",

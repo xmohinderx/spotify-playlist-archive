@@ -783,6 +783,24 @@
     {
       "album": {
         "name": "Hood Rich Life",
+        "url": "https://open.spotify.com/album/22eF4qZ2hPJHhrEZIM5Hqa"
+      },
+      "artists": [
+        {
+          "name": "Druguse",
+          "url": "https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208530,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/0wxtjSaYesWNnuPg9RwFRV"
+    },
+    {
+      "album": {
+        "name": "Hood Rich Life",
         "url": "https://open.spotify.com/album/2U51TV6gM2Sm3mknG4Bf1P"
       },
       "artists": [
@@ -811,7 +829,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 208530,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/1QVn0sWicVdDIeSzjH9Azl"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 277004,
       "name": "Feel",
       "url": "https://open.spotify.com/track/19sCGOTZKnlb5XPbBklcQz"
@@ -887,6 +905,24 @@
       "duration_ms": 277004,
       "name": "Feel",
       "url": "https://open.spotify.com/track/1iKW2yrouUd2E3tK4tj8Tu"
+    },
+    {
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/6Qoue7wn6cvMAanDsVRKID"
+      },
+      "artists": [
+        {
+          "name": "Xyla",
+          "url": "https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277004,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/1mLBoCFmY9LPV8SlHzzCbV"
     },
     {
       "album": {
@@ -1456,6 +1492,24 @@
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Juke It Up",
+      "url": "https://open.spotify.com/track/25cEeyviQOhlYjp4GJOIhI"
+    },
+    {
+      "album": {
+        "name": "Juke Pack Vol.1",
+        "url": "https://open.spotify.com/album/57aIkTNeK5ygccVD4oLf2C"
+      },
+      "artists": [
+        {
+          "name": "EQ Why",
+          "url": "https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 168000,
       "name": "Juke It Up",
       "url": "https://open.spotify.com/track/31z2au3mgJYzC6SK5rgPh8"

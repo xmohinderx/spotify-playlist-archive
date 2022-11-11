@@ -1360,6 +1360,24 @@
     },
     {
       "album": {
+        "name": "What Should We Do This Summer ?",
+        "url": "https://open.spotify.com/album/2owTqqcIqHbuOiOiv8Alji"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140808,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/3gEYp77UDNnrLthRPd1XqR"
+    },
+    {
+      "album": {
         "name": "Seven",
         "url": "https://open.spotify.com/album/3e3JdUqN93nSTtx0MIHTuK"
       },
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 140808,
       "name": "Seven",
       "url": "https://open.spotify.com/track/3zMLVcYxdBYXfzd3v0UK4k"

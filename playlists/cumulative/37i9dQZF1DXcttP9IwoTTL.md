@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-200 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/2Ef1pT9lprEUZ0GG1CMnv6)
+201 songs - 19 hr 58 min - [published](https://open.spotify.com/playlist/2Ef1pT9lprEUZ0GG1CMnv6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Take My Body](https://open.spotify.com/track/4JQj2KLmIn7tGH36NGIq2c) | [Michael Cignarale](https://open.spotify.com/artist/7CgEx3HP2QJP3R9QMaRTip) | [Operatic Orgasm](https://open.spotify.com/album/6UYgV8z0sn8jh9PFZXHskq) | 7:32 | 2022-05-13 | 2022-07-16 |
 | [Talom](https://open.spotify.com/track/3mMukwl5iDMi518Uf9usgg) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Talom](https://open.spotify.com/album/5KFDMwb90MGxvAnK8ndolH) | 7:37 | 2022-11-07 |  |
 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/68cpQ6mpnMiE96PbUwJs7q) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/4LAeJVXkFuJmcIpZ5XMW6Q) | 4:43 | 2022-05-13 | 2022-07-29 |
-| [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG) | 4:47 | 2022-07-15 |  |
+| [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG) | 4:47 | 2022-07-15 | 2022-11-11 |
+| [Tell Me Why \- M&M Full Vocal Mix](https://open.spotify.com/track/64uUwYABwplNS7wgsVkiOS) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Pure Rave \- The Very Best Of Old Skool](https://open.spotify.com/album/3v5BpAStWBBZpyHr1wsngS) | 4:43 | 2022-11-07 |  |
 | [That Beat In My Heart](https://open.spotify.com/track/0dUdoU9lyCDxwkMskVIxUw) | [Infravision](https://open.spotify.com/artist/3cUeIGkhrVqzKVBqFqwpvs), [Pablo Bozzi](https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL), [Kendal](https://open.spotify.com/artist/2NJZShOescj4yIvO1d4yiV) | [That Beat In My Heart](https://open.spotify.com/album/6thcMl1XeXBaTiffSoSKz1) | 6:56 | 2022-10-14 |  |
 | [That Beat In My Heart](https://open.spotify.com/track/77JXhvfpvZWzXU9A8XeSva) | [Infravision](https://open.spotify.com/artist/3cUeIGkhrVqzKVBqFqwpvs), [Pablo Bozzi](https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL), [Kendal](https://open.spotify.com/artist/2NJZShOescj4yIvO1d4yiV) | [That Beat In My Heart](https://open.spotify.com/album/42tOfy7Gz7oG0uoejsgmuw) | 6:56 | 2022-09-16 | 2022-11-05 |
 | [The Church](https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [The Church](https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W) | 7:20 | 2021-12-10 | 2022-05-14 |

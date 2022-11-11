@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Suicide Season (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HN58gcFvTkDSdes9K5oAr"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302560,
+      "name": "Chelsea Smile",
+      "url": "https://open.spotify.com/track/04d0mhsVSGVINGKsdCxAai"
+    },
+    {
+      "album": {
         "name": "Suicide Season Cut Up!",
         "url": "https://open.spotify.com/album/3Ou5J2Jlzut0NnrXgqLFof"
       },
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 302560,
       "name": "Chelsea Smile",
       "url": "https://open.spotify.com/track/3eSnqrgqm1R0mkgz80Cpzq"

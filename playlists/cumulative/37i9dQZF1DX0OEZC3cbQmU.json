@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "Livres Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/2KiB0YFcNRgKOnlji9Ysx7"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447843,
+      "name": "Lindo \u00c9s + S\u00f3 Quero Ver Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pIQ9nPm7mz5doKqv25tcy"
+    },
+    {
+      "album": {
         "name": "Livres ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C"
       },
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 447843,
       "name": "Lindo \u00c9s + S\u00f3 Quero Ver Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E"
@@ -1020,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Ousado Amor",
+        "url": "https://open.spotify.com/album/5OJWqVSt6IRFzXO6wmLEY7"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333902,
+      "name": "Ousado Amor",
+      "url": "https://open.spotify.com/track/1Pf1iSsQ7fpSQa7hG3IwQd"
+    },
+    {
+      "album": {
         "name": "Isaias Saad",
         "url": "https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc"
       },
@@ -1031,7 +1067,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 333902,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai"
@@ -1533,10 +1569,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 372173,
       "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Tudo Sobre Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6dYnB33nT7G2RhhfOQr6ok"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372173,
+      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HMdbgEuBQHTcitMmhfmB9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0OEZC3cbQmU"

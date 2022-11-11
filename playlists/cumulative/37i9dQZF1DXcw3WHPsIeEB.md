@@ -4,7 +4,7 @@
 
 > Progressive beats and harmonies for the late hours.
 
-58 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/1JHfEmSUyPHhf48VoBCtg6)
+59 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/1JHfEmSUyPHhf48VoBCtg6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Bonzai View](https://open.spotify.com/track/6fQByeRUNdzB9g1dU5RvcK) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m) | [Bonzai View](https://open.spotify.com/album/4WAq1BnkxlC0GOhdkU7w0j) | 3:32 | 2022-02-01 |  |
 | [By Design](https://open.spotify.com/track/4HltUhQXotO1Hzkrl5eKIo) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Collagically Speaking](https://open.spotify.com/album/4odXFRfbmTNdyjiidyDgDb) | 5:27 | 2022-02-01 |  |
 | [Can We? Take A Break](https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [4 Rooms](https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ) | 2:44 | 2022-02-01 |  |
-| [Chandler](https://open.spotify.com/track/0xaTg3VQlkaeWmmBuzSKR4) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Honk If You're Sad](https://open.spotify.com/album/7hfF5ThQJ3JPuQ4EWqDzZj) | 3:41 | 2022-02-10 |  |
+| [Chandler](https://open.spotify.com/track/0xaTg3VQlkaeWmmBuzSKR4) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Honk If You're Sad](https://open.spotify.com/album/7hfF5ThQJ3JPuQ4EWqDzZj) | 3:41 | 2022-02-10 | 2022-11-11 |
+| [Chandler](https://open.spotify.com/track/3YgD8B3jAUSv3ak4KmRFj8) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Chandler](https://open.spotify.com/album/36WR1CVqqG3peDsLtF8kmK) | 3:41 | 2022-02-10 |  |
 | [Chandler](https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Chandler](https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8) | 3:41 | 2022-02-10 | 2022-07-29 |
 | [City Dreams](https://open.spotify.com/track/1fFmd1dNthme62J8Kvmkhb) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Phøn](https://open.spotify.com/artist/6v2EgPbnVH1tpRh4GXAejH), [Javier Santiago](https://open.spotify.com/artist/3L3oWS9VsgTRBF7HFHdOEz), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [The New Heritage](https://open.spotify.com/album/2wybYLaccS7y16e0bqr1zK) | 4:58 | 2022-02-01 |  |
 | [crybaby](https://open.spotify.com/track/1cmT8FoyHG61aBeyPnAOF2) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 4:46 | 2022-02-01 |  |

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Forever Delayed",
+        "url": "https://open.spotify.com/album/528UKMsqR0kfioYOim3LJU"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260826,
+      "name": "A Design for Life",
+      "url": "https://open.spotify.com/track/63CnbOZpBn0AOfM96fyhr7"
+    },
+    {
+      "album": {
         "name": "Everything Must Go 20 (Remastered)",
         "url": "https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 257640,
       "name": "A Design for Life - Remastered",
       "url": "https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a"
@@ -59,6 +77,24 @@
       "duration_ms": 236583,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
+    },
+    {
+      "album": {
+        "name": "A Girl Like You",
+        "url": "https://open.spotify.com/album/20loIMI5WGNWqiJkWSa6w1"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/6x5qZeyuotaGjOcSpA5OjX"
     },
     {
       "album": {
@@ -163,7 +199,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 230866,
       "name": "Beautiful Ones",
       "url": "https://open.spotify.com/track/7lYkggWrQNo4tsGpY4yOOG"
@@ -188,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Coming up (Remastered)",
+        "url": "https://open.spotify.com/album/4BZqlrgFosYjmsdxAoLRJb"
+      },
+      "artists": [
+        {
+          "name": "The London Suede",
+          "url": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "Beautiful Ones (Remastered)",
+      "url": "https://open.spotify.com/track/04vXMjOAJN6uijN7h9MxS5"
+    },
+    {
+      "album": {
         "name": "Urban Hymns (Remastered 2016)",
         "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
       },
@@ -199,7 +253,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
@@ -242,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Original 90's",
+        "url": "https://open.spotify.com/album/0gcWX7WaUs1dvEKts5eXIl"
+      },
+      "artists": [
+        {
+          "name": "Cornershop",
+          "url": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240386,
+      "name": "Brimful of Asha - Norman Cook Radio Edit Remix",
+      "url": "https://open.spotify.com/track/7lB85NDkki1PzLkhbmjqsB"
+    },
+    {
+      "album": {
         "name": "The Greatest Hits: Why Try Harder",
         "url": "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
       },
@@ -253,10 +325,28 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 240933,
       "name": "Brimful Of Asha - Norman Cook Remix Single Version",
       "url": "https://open.spotify.com/track/6gbdLLUhocAjThL3GvV6Lx"
+    },
+    {
+      "album": {
+        "name": "Going For Gold (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5pI0xiAcNEgVQYEvUJoKi4"
+      },
+      "artists": [
+        {
+          "name": "Shed Seven",
+          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262817,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/4I0cEEEM9gFuqpFe2nMlq4"
     },
     {
       "album": {
@@ -271,7 +361,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 265133,
       "name": "Chasing Rainbows",
       "url": "https://open.spotify.com/track/4IFC2bM8SquqQYOu9tiQ8C"
@@ -293,6 +383,24 @@
       "duration_ms": 265133,
       "name": "Chasing Rainbows",
       "url": "https://open.spotify.com/track/5l6ab2amq8jjuNqaxFsVrl"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289373,
+      "name": "Cigarettes & Alcohol",
+      "url": "https://open.spotify.com/track/3nK2qGHdVAEOuVAmMSWQPW"
     },
     {
       "album": {
@@ -325,7 +433,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 289146,
       "name": "Cigarettes & Alcohol - Remastered",
       "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
@@ -469,10 +577,28 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 410026,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/2M4PVaTJGjXV91X8HAVQEx"
+    },
+    {
+      "album": {
+        "name": "Best Ever 00's",
+        "url": "https://open.spotify.com/album/3dd87FvEV8OPE7NcaR3fWC"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410026,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/69eKObws4LEAincKI8wnoi"
     },
     {
       "album": {
@@ -505,10 +631,28 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 273573,
       "name": "Disco 2000",
       "url": "https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC"
+    },
+    {
+      "album": {
+        "name": "Britpop Best Of",
+        "url": "https://open.spotify.com/album/2xBiP8hkV5kbHQbpCtZa9l"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273613,
+      "name": "Disco 2000",
+      "url": "https://open.spotify.com/track/6Pd0ozllTIoZmu4rj6j7qN"
     },
     {
       "album": {
@@ -577,10 +721,28 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 210200,
       "name": "Girl From Mars",
       "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
+    },
+    {
+      "album": {
+        "name": "Ultimate Dad",
+        "url": "https://open.spotify.com/album/3PRhYrUJIpOcA7u6LNHNCS"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Girl From Mars",
+      "url": "https://open.spotify.com/track/1zHzvXKrLkhqcBnUVIViWb"
     },
     {
       "album": {
@@ -631,7 +793,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 265493,
       "name": "Going For Gold",
       "url": "https://open.spotify.com/track/5TBXjIlpKHlVrUVwlpY5e5"
@@ -656,6 +818,24 @@
     },
     {
       "album": {
+        "name": "Going For Gold (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5pI0xiAcNEgVQYEvUJoKi4"
+      },
+      "artists": [
+        {
+          "name": "Shed Seven",
+          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257348,
+      "name": "Going For Gold - Parr Street Session Version",
+      "url": "https://open.spotify.com/track/7eg2eDZymXWdrNjgokJyzj"
+    },
+    {
+      "album": {
         "name": "Ace A's + Killer B's",
         "url": "https://open.spotify.com/album/1mkXcNQ9jiQmyHDugV7vGf"
       },
@@ -674,6 +854,24 @@
     },
     {
       "album": {
+        "name": "Ace A's + Killer B's",
+        "url": "https://open.spotify.com/album/4YPpC6s1gbCDKI2Ikwl43s"
+      },
+      "artists": [
+        {
+          "name": "Dodgy",
+          "url": "https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239840,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/2odAJrD8IL4FNwRlbDynH9"
+    },
+    {
+      "album": {
         "name": "Free Peace Sweet",
         "url": "https://open.spotify.com/album/2C5AMWVyaTWboPCe49JVnl"
       },
@@ -685,7 +883,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 241306,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/3uvTySdxejOSPEACJsajdW"
@@ -908,6 +1106,24 @@
     },
     {
       "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/6iRlMwKBc2sGWXU3YdnzSb"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276866,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/2txVTsXqTNbBbeFLxTBvC2"
+    },
+    {
+      "album": {
         "name": "Definitely Maybe (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
       },
@@ -919,7 +1135,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 276666,
       "name": "Live Forever - Remastered",
       "url": "https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW"
@@ -973,10 +1189,28 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 293586,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF"
+    },
+    {
+      "album": {
+        "name": "Pop Rock Mix",
+        "url": "https://open.spotify.com/album/7g7CX41rKVrdM8dU5OjMwQ"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293586,
+      "name": "Lucky Man - Remastered 2016",
+      "url": "https://open.spotify.com/track/0GaeqZw5Js5DHgakVZ7iiv"
     },
     {
       "album": {
@@ -1009,7 +1243,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 305693,
       "name": "Motorcycle Emptiness",
       "url": "https://open.spotify.com/track/61dhQ6Mc3H66zxx1hBdeoI"
@@ -1063,7 +1297,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 251266,
       "name": "Mulder and Scully",
       "url": "https://open.spotify.com/track/4RAD0ENNSFiT31DoqT9HDm"
@@ -1232,6 +1466,24 @@
     },
     {
       "album": {
+        "name": "Stop The Clocks",
+        "url": "https://open.spotify.com/album/1zaPsC8dBFfesoY62MwMFa"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320920,
+      "name": "Rock 'n' Roll Star",
+      "url": "https://open.spotify.com/track/5vy5D17mK3XU0Pc7odmjsG"
+    },
+    {
+      "album": {
         "name": "Definitely Maybe (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
       },
@@ -1243,7 +1495,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 322946,
       "name": "Rock 'n' Roll Star - Remastered",
       "url": "https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u"
@@ -1366,6 +1618,24 @@
     },
     {
       "album": {
+        "name": "Kid Friendly Indie",
+        "url": "https://open.spotify.com/album/5BtGO49XN1zgXPs58Us8lk"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240840,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/3BsybJyF8vLOIp0hRabZR5"
+    },
+    {
+      "album": {
         "name": "Gold Mother",
         "url": "https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6"
       },
@@ -1395,7 +1665,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 244866,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/66IC0uXoVyYT5q3R27bbZy"
@@ -1539,7 +1809,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 186040,
       "name": "The Day We Caught The Train",
       "url": "https://open.spotify.com/track/4oPF43XotiOin8UroIsE0t"
@@ -1564,6 +1834,24 @@
     },
     {
       "album": {
+        "name": "Indie Kids",
+        "url": "https://open.spotify.com/album/30caEA5hJUE3rmoHuQgc9v"
+      },
+      "artists": [
+        {
+          "name": "Ocean Colour Scene",
+          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "The Day We Caught The Train",
+      "url": "https://open.spotify.com/track/5wAHLuyuX5QPMxVwI3zyAs"
+    },
+    {
+      "album": {
         "name": "Urban Hymns (Deluxe / Remastered 2016)",
         "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
       },
@@ -1575,7 +1863,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 304880,
       "name": "The Drugs Don't Work",
       "url": "https://open.spotify.com/track/15kLz0zNFdtsaJdXKSGmTU"
@@ -1597,6 +1885,24 @@
       "duration_ms": 305066,
       "name": "The Drugs Don't Work",
       "url": "https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5"
+    },
+    {
+      "album": {
+        "name": "Classic Old Rock",
+        "url": "https://open.spotify.com/album/05VVXqIrKhyEY6WV0dx6f7"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304880,
+      "name": "The Drugs Don't Work - Remastered 2016",
+      "url": "https://open.spotify.com/track/7lDpOSDljfCqhO1BARCwEH"
     },
     {
       "album": {
@@ -1647,10 +1953,28 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 238120,
       "name": "The Only One I Know",
       "url": "https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9"
+    },
+    {
+      "album": {
+        "name": "Some Friendly - Expanded Edition",
+        "url": "https://open.spotify.com/album/68rwqpsf8qNu0VBRrL4WKd"
+      },
+      "artists": [
+        {
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237920,
+      "name": "The Only One I Know - Remastered",
+      "url": "https://open.spotify.com/track/7ke8GqFXOWbpQBoQIZiQRF"
     },
     {
       "album": {
@@ -1708,6 +2032,24 @@
     },
     {
       "album": {
+        "name": "Happy Songs",
+        "url": "https://open.spotify.com/album/1FVsTVNu2YGVYcOjY7VtHk"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154840,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/1TcqfEXrQH8KUAJ5zkgcET"
+    },
+    {
+      "album": {
         "name": "The La's",
         "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
       },
@@ -1719,7 +2061,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 162160,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
@@ -1924,6 +2266,24 @@
     },
     {
       "album": {
+        "name": "You're Gorgeous",
+        "url": "https://open.spotify.com/album/0w3Xv8KShYNkRmbwA8596X"
+      },
+      "artists": [
+        {
+          "name": "Babybird",
+          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222133,
+      "name": "You're Gorgeous",
+      "url": "https://open.spotify.com/track/6RGi9jE8sgHZztW0vrywQY"
+    },
+    {
+      "album": {
         "name": "Ugly Beautiful",
         "url": "https://open.spotify.com/album/1jDQR7dZB0TrGIZJ4vcrLb"
       },
@@ -1935,7 +2295,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 222440,
       "name": "You're Gorgeous",
       "url": "https://open.spotify.com/track/5COBer69wpwkCPPaLr1gFb"

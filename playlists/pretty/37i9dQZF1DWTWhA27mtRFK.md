@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,921 likes - 58 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,021 likes - 58 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 14 | [Ever New](https://open.spotify.com/track/6nXk3XcfNmwtig7acQxRbc) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:08 |
 | 15 | [Attaining Peace](https://open.spotify.com/track/4o6vJWuNT0w01fPMISWOVV) | [JD Emmanuel](https://open.spotify.com/artist/39eBp0j2hpQyucio2z0el6) | [Wizards](https://open.spotify.com/album/08Ak0ziV7ddHUu4gf91U9z) | 5:06 |
 | 16 | [The Way Home](https://open.spotify.com/track/1sWNTVYnz0xbo3AWtBuM2m) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [The Way Home](https://open.spotify.com/album/2QDMuThy1sVnQzLm7qffIM) | 24:53 |
-| 17 | [Equinox](https://open.spotify.com/track/4Xfbsq2VWNYln8kR8nQGQ9) | [Jonathan Goldman](https://open.spotify.com/artist/5KnTqREHfCARDD8im3isVg), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Celestial Reiki](https://open.spotify.com/album/2n3hCih5TcYCYzbwq76bLT) | 23:20 |
+| 17 | [Equinox](https://open.spotify.com/track/1qffQn2iLImD2RVW7iknSi) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Lyghte](https://open.spotify.com/artist/7BM1CqDXHL4Yv65Q46Spen) | [Celestial Realms](https://open.spotify.com/album/6f6dlAEjzxDP5QBS6SLEyX) | 23:20 |
 | 18 | [Music for Gymnastics](https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS) | 24:17 |
 | 19 | [Crystallite](https://open.spotify.com/track/4qweydPdHM3ShcZ4ZSWXQe) | [Don Campbell](https://open.spotify.com/artist/0Bb6vF6PtIh30Xw5K2dGZq) | [Essence](https://open.spotify.com/album/06OojbB6tTCwP8n3NfHuGB) | 19:02 |
 | 20 | [Morning Splendor](https://open.spotify.com/track/5BfnCpWSG8cirVL9FNUDzz) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 6:02 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 57 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
 | 58 | [See My Wings Shining: Brow / 3rd Eye Chakra](https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:17 |
 
-Snapshot ID: `MTY2NDg4NjUyNCwwMDAwMDAwMDlkNzZmYmMzNmU1NTFkZWNhOTBjNWExMTA0YzgyZjVi`
+Snapshot ID: `MTY2NDg4NjUyNCwwMDAwMDAwMGQ2OTUzOTJmNWJmMTIzMWYzOTk3YmZmYzNkMDdiODZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Marvel’s Spidey and His Amazing Friends in one playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,465 likes - 158 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,505 likes - 158 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,11 +160,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 | 150 | [This Is How You Jump](https://open.spotify.com/track/2xm4g5CXQLhzTSSIgAm8c0) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party](https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7) | 0:58 |
 | 151 | [Magic](https://open.spotify.com/track/4ffkQhUj5FFLjEZqCyUFQE) | [T.O.T.S\. \- Cast](https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4) | [Disney Junior Music: T.O.T.S\. \(Vol\. 2\)](https://open.spotify.com/album/0HmGQsRl57a8wykK9ZxW1m) | 1:28 |
 | 152 | [Choo Choo Express](https://open.spotify.com/track/1rAoksjU0W2EMPvhda7J53) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Mickey Mouse Clubhouse: Meeska, Mooska, Mickey Mouse](https://open.spotify.com/album/5JELCeixADV7FQBTgSkqlr) | 1:58 |
-| 153 | [Happy Thanks a Bunch Day](https://open.spotify.com/track/0TvI13tx9sRbrJXzE8PhiH) | [Mickey](https://open.spotify.com/artist/7sWkR5prBNPnBJ4iDmgfrh), [Minnie](https://open.spotify.com/artist/4kc6FNAU1bVjmj4kws7xiZ), [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64), [Donald](https://open.spotify.com/artist/2Xx0gxHzqRTmRhSOPVF8tN), [Daisy](https://open.spotify.com/artist/0JWDwibeuQ4VutQqnyyAax), [Pluto](https://open.spotify.com/artist/4h1QfVKE46WTDiQgrmeuv8), [Pete](https://open.spotify.com/artist/2KwrOBhFnyoNTuPG8Wb2ls) | [Mickey Mouse Clubhouse: Meeska, Mooska, Mickey Mouse](https://open.spotify.com/album/5JELCeixADV7FQBTgSkqlr) | 1:54 |
+| 153 | [Happy Thanks a Bunch Day](https://open.spotify.com/track/1N03LSnQ3ExNt5o2nydnWo) | [Mickey](https://open.spotify.com/artist/7sWkR5prBNPnBJ4iDmgfrh), [Minnie](https://open.spotify.com/artist/4kc6FNAU1bVjmj4kws7xiZ), [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64), [Donald](https://open.spotify.com/artist/3M9CqiLGObWndTeSA2W73n), [Daisy](https://open.spotify.com/artist/3VX2P89G8Xmmvht0pmCHEE), [Pluto](https://open.spotify.com/artist/4h1QfVKE46WTDiQgrmeuv8), [Pete](https://open.spotify.com/artist/1Tj66K9GwHmjKmkOAUMMAw) | [Minnie's Favorites \(Songs from "Mickey Mouse Clubhouse"\)](https://open.spotify.com/album/67ivsWL0DsH3Jh0cCGKx3m) | 1:53 |
 | 154 | [Hot Dog! \- From "Mickey Mouse Clubhouse"](https://open.spotify.com/track/7HbVnCiUwE9Web7ZL9xHbv) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 2:28 |
 | 155 | [Mickey's Countdown](https://open.spotify.com/track/4Bh2C4lcLbilZDq1lDFWri) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Mickey Mouse Clubhouse](https://open.spotify.com/album/2xqbyzv6NncmREgqNFP5Ee) | 2:37 |
 | 156 | [Hot Dog! Dance Break 2019 \- From "Mickey Mouse Mixed\-Up Adventures"](https://open.spotify.com/track/3496wR3HlANisZ2PnCSW7r) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Hot Dog! Dance Break 2019 \(From “Mickey Mouse Mixed\-Up Adventures”\)](https://open.spotify.com/album/0uPKxPvPWaKl5NvXwETJFA) | 1:23 |
 | 157 | [\(Muppet Baby\) You Can Be a Star](https://open.spotify.com/track/3IZDkjTFymwe24SA0Br1Pw) | [Cast \- Muppet Babies](https://open.spotify.com/artist/0veQuV0UE46gR3hDsjlrBP) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 1:10 |
 | 158 | [The Nancy Way](https://open.spotify.com/track/2NCcDPOWpga6sCZXI4kJGR) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:42 |
 
-Snapshot ID: `MTY2NjQ3NTc5NiwwMDAwMDAwMDhkNWM5OTdkYjUxNzA4NjRkYWIzODhiZDY4ZGFkOWNk`
+Snapshot ID: `MTY2NjQ3NTc5NiwwMDAwMDAwMDk3ZjA2MGRjN2MzNjQ3ODk4OTNiZmNjOWU3YTYwOGU2`

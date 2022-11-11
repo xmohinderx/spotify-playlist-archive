@@ -4,7 +4,7 @@
 
 > The Bollywood crooner's best songs.
 
-85 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/5a0HCfJmRc8ZpTMvehGeYq)
+86 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/5a0HCfJmRc8ZpTMvehGeYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Tera Hua \(From "Cash"\)](https://open.spotify.com/track/6HDBzDFSDYSmKzadobMr7e) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss), [Riya Duggal](https://open.spotify.com/artist/5goNlHuuRk93uDY86KcLET) | [Tera Hua \(From "Cash"\)](https://open.spotify.com/album/3JuAV5XPKsHyOPxftMSejw) | 4:13 | 2021-12-08 |  |
 | [Tera Yaar Hoon Main](https://open.spotify.com/track/4ZTx87kAgEwlPMzoojFZWg) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 4:24 | 2021-12-08 |  |
 | [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/1lZk7TnMgvS3mSlfeWW1b3) | 5:46 | 2022-08-04 |  |
-| [Tere Ho Ke Rahenge \(From "Raja Natwarlal"\)](https://open.spotify.com/track/2ORutu6EpRb3FiM1VPwDaO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Arijit Singh \- Stream This Album](https://open.spotify.com/album/35MBXcVOt0eTCQfhQadFHA) | 4:03 | 2022-07-17 |  |
+| [Tere Ho Ke Rahenge \(From "Raja Natwarlal"\)](https://open.spotify.com/track/2ORutu6EpRb3FiM1VPwDaO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Arijit Singh \- Stream This Album](https://open.spotify.com/album/35MBXcVOt0eTCQfhQadFHA) | 4:03 | 2022-07-17 | 2022-11-11 |
+| [Tere Hoke Rehengay](https://open.spotify.com/track/2ywBU12d5BEkiOOEDVrBgy) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Raja Natwarlal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6fu9KREc6SHMJuA7gHNfKg) | 4:03 | 2022-08-08 |  |
 | [Tere Hoke Rehengay \(From "Raja Natwarlal"\)](https://open.spotify.com/track/2xx5UUXkVWnotowONhWyjD) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tere Ho Ke Rahenge & Other Hits](https://open.spotify.com/album/6C1SfoyHxRRZnBWOVHSop8) | 4:03 | 2021-12-08 | 2022-07-29 |
 | [Teri Meri Kahaani](https://open.spotify.com/track/14eFqoEf1NBm7kh2jWc3TU) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Gabbar Is Back](https://open.spotify.com/album/0pCSIpQw2LzncVyGVnoAul) | 5:31 | 2021-12-08 |  |
 | [The Breakup Song](https://open.spotify.com/track/7BjQd0sfYsMGVrTpRdBNTT) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XfOSDomcrv4lDvlrxknlt) | 4:12 | 2021-12-08 |  |

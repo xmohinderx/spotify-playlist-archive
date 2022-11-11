@@ -144,6 +144,28 @@
     },
     {
       "album": {
+        "name": "M\u00fasica de recuerdos",
+        "url": "https://open.spotify.com/album/5vGZasVDxNJKLiOBMSR0ku"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418000,
+      "name": "A Nightingale Sang In Berkeley Square",
+      "url": "https://open.spotify.com/track/3S5rdzd10raLDAOli1HpR8"
+    },
+    {
+      "album": {
         "name": "More Stan Getz For Lovers",
         "url": "https://open.spotify.com/album/2x71Afmn0jKbcAMNXQGWRK"
       },
@@ -181,7 +203,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 419626,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM"
@@ -2875,10 +2897,32 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 319733,
       "name": "My Little Brown Book",
       "url": "https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN"
+    },
+    {
+      "album": {
+        "name": "cosy autumn jazz",
+        "url": "https://open.spotify.com/album/1N8ifrvGovGJ063efZvpBR"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321973,
+      "name": "My Little Brown Book",
+      "url": "https://open.spotify.com/track/0T6uiezTUBBMHTHVkMS6Jp"
     },
     {
       "album": {
@@ -2967,6 +3011,40 @@
       "duration_ms": 254026,
       "name": "My Romance - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
+    },
+    {
+      "album": {
+        "name": "Shifting Ground",
+        "url": "https://open.spotify.com/album/5pGjNfdASiPjFltomAP3h6"
+      },
+      "artists": [
+        {
+          "name": "\u00d6rjan Hult\u00e9n Orion",
+          "url": "https://open.spotify.com/artist/3AFXTkGYYzu4TcOTVRpd0K"
+        },
+        {
+          "name": "\u00d6rjan Hult\u00e9n",
+          "url": "https://open.spotify.com/artist/7mN9uLkwc857ZRZVSxAY6R"
+        },
+        {
+          "name": "Torbj\u00f6rn Gulz",
+          "url": "https://open.spotify.com/artist/4dFMnksV445NMDiYjurHPz"
+        },
+        {
+          "name": "Filip Augustson",
+          "url": "https://open.spotify.com/artist/12WGIS6hNRIywU3FJSGOiB"
+        },
+        {
+          "name": "Peter Danemo",
+          "url": "https://open.spotify.com/artist/1slCkSS7B9eyPOzgG5lLE7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "Mystique No. 12",
+      "url": "https://open.spotify.com/track/5V66ktMtWl2d1hmr9mspKw"
     },
     {
       "album": {
@@ -3247,6 +3325,24 @@
       "duration_ms": 228403,
       "name": "On a Turquoise Cloud",
       "url": "https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs"
+    },
+    {
+      "album": {
+        "name": "One Fine Day",
+        "url": "https://open.spotify.com/album/6ciCIBC5QF3o1j2wuAAXK5"
+      },
+      "artists": [
+        {
+          "name": "Jan Harbeck Quartet",
+          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264573,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/3wWnjO4iTLDqjIvlOVoOPX"
     },
     {
       "album": {
@@ -4265,10 +4361,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 325400,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO"
+    },
+    {
+      "album": {
+        "name": "Smooth Jazz Songs",
+        "url": "https://open.spotify.com/album/0mKS4DN5IKCH9LPcBPhzES"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325400,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/6asSD4BK2rC5sPGQaueX6N"
     },
     {
       "album": {
@@ -4999,10 +5113,32 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 286893,
       "name": "Who Could Care?",
       "url": "https://open.spotify.com/track/1kBKndNFG5Um2DK87FYk1m"
+    },
+    {
+      "album": {
+        "name": "Jazz Sax Festival",
+        "url": "https://open.spotify.com/album/2RdHPLOMOLhGkCG7mTG7Io"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286893,
+      "name": "Who Could Care?",
+      "url": "https://open.spotify.com/track/2TdqT2IBlGFxP8c3AeoX4K"
     },
     {
       "album": {

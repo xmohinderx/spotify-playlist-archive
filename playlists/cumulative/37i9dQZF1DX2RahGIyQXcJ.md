@@ -4,7 +4,7 @@
 
 > Best of hip hop tracks from South Asia\. Cover: aleemrk
 
-150 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
+151 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Auqaat](https://open.spotify.com/track/4L5OF54HxMufkCVuc70vBo) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Auqaat](https://open.spotify.com/album/2GypgjkQA80a9g4fyI2t3Z) | 5:12 | 2021-12-03 |  |
 | [Awaara \(feat\. Reet Talwar\)](https://open.spotify.com/track/3AKYDhu8XN15p8Jx3qyODi) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5) | [Awaara \(feat\. Reet Talwar\)](https://open.spotify.com/album/25pfK7fECZwdohzFgE9b34) | 3:14 | 2021-12-03 | 2022-06-17 |
 | [BAAZ](https://open.spotify.com/track/5AiPk1WhVkVOouovFAtLFO) | [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [BAAZ](https://open.spotify.com/album/4K2e39AggprCvkHwA5AR8W) | 4:31 | 2021-12-03 |  |
+| [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2022-11-10 |  |
 | [Baller](https://open.spotify.com/track/7ecil8YftFlihyxZPe66tk) | [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Lit Happu](https://open.spotify.com/artist/0z6H0b4Jvoti5MtOvXQR5l) | [Chaand Paar](https://open.spotify.com/album/5n1hD5KEXWdbeQQY9Rl4aY) | 2:56 | 2022-04-07 | 2022-06-03 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2022-10-10 |  |
 | [Bandish](https://open.spotify.com/track/0LAQGavx2bOA6zx63c1oPw) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Bandish](https://open.spotify.com/album/0BKQwNIOay1F9kt9iEYsI0) | 4:52 | 2021-12-03 | 2022-07-19 |

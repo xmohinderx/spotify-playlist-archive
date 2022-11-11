@@ -524,6 +524,28 @@
     },
     {
       "album": {
+        "name": "Dulce Veneno (Sigues Aqu\u00ed)",
+        "url": "https://open.spotify.com/album/6ATlr7ZZQSIsUbLt9iq0yO"
+      },
+      "artists": [
+        {
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+        },
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258234,
+      "name": "Dulce Veneno - Sigues Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0LoI3j520Qk59LGE9SSGes"
+    },
+    {
+      "album": {
         "name": "De Todo un Poco",
         "url": "https://open.spotify.com/album/28FDFSEkA2zhVB5q6GL6CS"
       },
@@ -539,7 +561,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 258234,
       "name": "Dulce Veneno - Sigues Aqu\u00ed",
       "url": "https://open.spotify.com/track/2u0bUWgV8Ac8O3gnnA5xI0"

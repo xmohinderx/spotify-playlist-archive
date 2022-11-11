@@ -6835,10 +6835,28 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 220083,
       "name": "Hello",
       "url": "https://open.spotify.com/track/113qTjXNHTzKH6cyg37H9a"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6tkeQet02GENAKucYh6PB8"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220083,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/1RNUyXFz6UYnDzdpdCAB5u"
     },
     {
       "album": {

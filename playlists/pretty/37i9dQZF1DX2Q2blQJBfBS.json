@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 11231,
+  "num_followers": 11569,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzAxNjAwMCwwMDAwMDAwMGFjMzFjNzZhMTgxZDNmODY3MDY3NzM1MTEyYzdiZmI3",
+  "snapshot_id": "MTY2NzAxNjAwMCwwMDAwMDAwMDkwMzhiOGYxMmEwODM0N2I5NzZlNTQ5ZWE2ZWFlY2Nh",
   "tracks": [
     {
       "added_at": "2022-10-29 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "One Day It'll All Make Sense",
-        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "Invocation",
-      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "This Thing Of Ours 2",
         "url": "https://open.spotify.com/album/0bFVjwPABfPBSWimES0TJ6"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 114092,
       "name": "6 Five Heartbeats (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5psl7bZImUdYdKfajE2r2v"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "One Day It'll All Make Sense",
+        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "Invocation",
+      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Whos The Man ? Soundtrack",
+        "url": "https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Party And Bullshit",
+      "url": "https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Donuts",
         "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
       },
@@ -733,6 +749,22 @@
       "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
     },
     {
+      "added_at": "2022-06-24 12:00:00",
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 98720,
+      "name": "Time: The Donut of the Heart",
+      "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Only Built 4 Cuban Linx...",
@@ -761,22 +793,6 @@
       "url": "https://open.spotify.com/track/6eAIynPK19mHRypXB26o6X"
     },
     {
-      "added_at": "2022-06-24 12:00:00",
-      "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 98720,
-      "name": "Time: The Donut of the Heart",
-      "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "The Plugs I Met",
@@ -795,38 +811,6 @@
       "duration_ms": 268339,
       "name": "Crowns for Kings (Feat. Black Thought)",
       "url": "https://open.spotify.com/track/0FQeZmAKQLLnZC5iTN6JuR"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Whos The Man ? Soundtrack",
-        "url": "https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "Party And Bullshit",
-      "url": "https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 208570,
-      "name": "Understood",
-      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -859,6 +843,22 @@
       "duration_ms": 215640,
       "name": "Just Another Case",
       "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 208570,
+      "name": "Understood",
+      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1101,6 +1101,22 @@
       "url": "https://open.spotify.com/track/42Bczh6IIyTYJduQnfS92p"
     },
     {
+      "added_at": "2022-09-30 04:10:30",
+      "album": {
+        "name": "KISS THE RING",
+        "url": "https://open.spotify.com/album/0JvoIKuIaMFmGeRUmHvvQg"
+      },
+      "artists": [
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        }
+      ],
+      "duration_ms": 205316,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/39UU4AyLap5LY9aIPm0X7h"
+    },
+    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "The Elephant Man's Bones",
@@ -1119,22 +1135,6 @@
       "duration_ms": 169106,
       "name": "Zig Zag Zig",
       "url": "https://open.spotify.com/track/5hbpUs8trEqNLftzB57HZr"
-    },
-    {
-      "added_at": "2022-09-30 04:10:30",
-      "album": {
-        "name": "KISS THE RING",
-        "url": "https://open.spotify.com/album/0JvoIKuIaMFmGeRUmHvvQg"
-      },
-      "artists": [
-        {
-          "name": "Rome Streetz",
-          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
-        }
-      ],
-      "duration_ms": 205316,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/39UU4AyLap5LY9aIPm0X7h"
     },
     {
       "added_at": "2022-10-14 13:44:02",
@@ -1247,22 +1247,6 @@
       "duration_ms": 225303,
       "name": "Kool",
       "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Clockers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
-      },
-      "artists": [
-        {
-          "name": "Crooklyn Dodgers",
-          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Return of The Crooklyn Dodgers",
-      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1601,28 +1585,40 @@
       "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
     },
     {
-      "added_at": "2022-10-14 13:44:02",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Duck Czn: Tiger Style",
-        "url": "https://open.spotify.com/album/79dXRvICjB1MEh59eKYKTi"
+        "name": "The Last Huzzah!",
+        "url": "https://open.spotify.com/album/1MrBtygrsb5xa74FXK4kkw"
       },
       "artists": [
         {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+          "name": "Mr. Muthafuckin' eXquire",
+          "url": "https://open.spotify.com/artist/1Sq6VkcHqHAuFvURbH3sXQ"
         },
         {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+          "name": "Despot",
+          "url": "https://open.spotify.com/artist/53biWpwSE0neKmFFdmpGd1"
         },
         {
-          "name": "Juju Gotti",
-          "url": "https://open.spotify.com/artist/3TYhHJh2wilFc8Dl0imwiu"
+          "name": "KOOL A.D.",
+          "url": "https://open.spotify.com/artist/6Xnvmw6KieZ1nVs0YdWemQ"
+        },
+        {
+          "name": "Heems",
+          "url": "https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
         }
       ],
-      "duration_ms": 142824,
-      "name": "Love is Luh",
-      "url": "https://open.spotify.com/track/3hdiBpmtZ1hjhB8WidoFAa"
+      "duration_ms": 331937,
+      "name": "The Last Huzzah!",
+      "url": "https://open.spotify.com/track/4m7rYtLTr5vPPjlmkemR0C"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1665,40 +1661,28 @@
       "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2022-10-14 13:44:02",
       "album": {
-        "name": "The Last Huzzah!",
-        "url": "https://open.spotify.com/album/1MrBtygrsb5xa74FXK4kkw"
+        "name": "Duck Czn: Tiger Style",
+        "url": "https://open.spotify.com/album/79dXRvICjB1MEh59eKYKTi"
       },
       "artists": [
         {
-          "name": "Mr. Muthafuckin' eXquire",
-          "url": "https://open.spotify.com/artist/1Sq6VkcHqHAuFvURbH3sXQ"
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
         },
         {
-          "name": "Despot",
-          "url": "https://open.spotify.com/artist/53biWpwSE0neKmFFdmpGd1"
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
         },
         {
-          "name": "KOOL A.D.",
-          "url": "https://open.spotify.com/artist/6Xnvmw6KieZ1nVs0YdWemQ"
-        },
-        {
-          "name": "Heems",
-          "url": "https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu"
-        },
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          "name": "Juju Gotti",
+          "url": "https://open.spotify.com/artist/3TYhHJh2wilFc8Dl0imwiu"
         }
       ],
-      "duration_ms": 331937,
-      "name": "The Last Huzzah!",
-      "url": "https://open.spotify.com/track/4m7rYtLTr5vPPjlmkemR0C"
+      "duration_ms": 142824,
+      "name": "Love is Luh",
+      "url": "https://open.spotify.com/track/3hdiBpmtZ1hjhB8WidoFAa"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1725,30 +1709,6 @@
       "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Looking for Water (feat. Boldy James)",
-        "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
-      },
-      "artists": [
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        },
-        {
-          "name": "Real Bad Man",
-          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 163850,
-      "name": "Looking for Water (feat. Boldy James)",
-      "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
-    },
-    {
       "added_at": "2022-07-08 12:00:00",
       "album": {
         "name": "Lyrics to GO, Vol. 3",
@@ -1763,26 +1723,6 @@
       "duration_ms": 68830,
       "name": "Cherry Beach",
       "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "The Black Mobius",
-        "url": "https://open.spotify.com/album/1sAeVV3MOJ7WgJFbQ7An8D"
-      },
-      "artists": [
-        {
-          "name": "LORD JAH-MONTE OGBON",
-          "url": "https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0"
-        },
-        {
-          "name": "SadhuGold",
-          "url": "https://open.spotify.com/artist/1G7eIKYQAYMnqNbHC9nROF"
-        }
-      ],
-      "duration_ms": 63504,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/6RwVEhegJzYvwGwt8U7hZW"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1807,18 +1747,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Balens Cho (Hot Candles)",
-        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+        "name": "The Black Mobius",
+        "url": "https://open.spotify.com/album/1sAeVV3MOJ7WgJFbQ7An8D"
       },
       "artists": [
         {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+          "name": "LORD JAH-MONTE OGBON",
+          "url": "https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0"
+        },
+        {
+          "name": "SadhuGold",
+          "url": "https://open.spotify.com/artist/1G7eIKYQAYMnqNbHC9nROF"
         }
       ],
-      "duration_ms": 168000,
-      "name": "LABOU",
-      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
+      "duration_ms": 63504,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/6RwVEhegJzYvwGwt8U7hZW"
     },
     {
       "added_at": "2022-05-20 12:00:00",
@@ -1835,6 +1779,30 @@
       "duration_ms": 146573,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Looking for Water (feat. Boldy James)",
+        "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "Real Bad Man",
+          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 163850,
+      "name": "Looking for Water (feat. Boldy James)",
+      "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
     },
     {
       "added_at": "2022-07-15 12:00:00",
@@ -1883,30 +1851,50 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Component System with the Auto Reverse",
-        "url": "https://open.spotify.com/album/7bvUQdrsKA3o6lkjV1ZRPk"
+        "name": "90s Underground Hip Hop",
+        "url": "https://open.spotify.com/album/0Vvh3iPjsoearq8LKPYjsg"
       },
       "artists": [
         {
-          "name": "Open Mike Eagle",
-          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
+          "name": "Crooklyn Dodgers 95'",
+          "url": "https://open.spotify.com/artist/56D5VnuoX3l7bs2kgcrQvJ"
         },
         {
-          "name": "RAP FERRERIA",
-          "url": "https://open.spotify.com/artist/1TZWbbk7dpKRVKE1EUs5Bt"
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
         },
         {
-          "name": "STILL RIFT",
-          "url": "https://open.spotify.com/artist/3boWloc2DdH8TVDWv9t9IR"
+          "name": "Chubb Rock",
+          "url": "https://open.spotify.com/artist/4dVRITwfej74WkmNpgYVPb"
         },
         {
-          "name": "Video Dave",
-          "url": "https://open.spotify.com/artist/3S8c2jzWW8n1JgryQzRfD2"
+          "name": "O.C.",
+          "url": "https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q"
+        },
+        {
+          "name": "Jeru The Damaja",
+          "url": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
         }
       ],
-      "duration_ms": 185493,
-      "name": "Multi-Game Arcade Cabinet",
-      "url": "https://open.spotify.com/track/46lQe6895zxB3HRP6YPbnl"
+      "duration_ms": 304800,
+      "name": "Return of The Crooklyn Dodgers",
+      "url": "https://open.spotify.com/track/7tojsPuAq9a1puP9ApOJnV"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Balens Cho (Hot Candles)",
+        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "LABOU",
+      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1943,6 +1931,22 @@
       "duration_ms": 152281,
       "name": "Not a Lot to Fear",
       "url": "https://open.spotify.com/track/4lKmBs5dS81vXwJ2FsMbWE"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "I'll Fight You",
+        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
+      },
+      "artists": [
+        {
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "I'll Fight You",
+      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
     },
     {
       "added_at": "2022-05-10 19:26:35",

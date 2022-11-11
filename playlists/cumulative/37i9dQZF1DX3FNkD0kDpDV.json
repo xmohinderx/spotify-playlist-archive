@@ -3436,6 +3436,24 @@
     },
     {
       "album": {
+        "name": "It's Something We Can All Learn From",
+        "url": "https://open.spotify.com/album/3A0l9ph0gpxgqnsaEkJTdO"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341181,
+      "name": "It's Something We Can All Learn From",
+      "url": "https://open.spotify.com/track/4FKa9QfCez3WAiN39Uw1WK"
+    },
+    {
+      "album": {
         "name": "Systems Up, Windows Down",
         "url": "https://open.spotify.com/album/1krJI0qspdg43IAO8NJ3FF"
       },
@@ -3447,7 +3465,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 341181,
       "name": "It's Something We Can All Learn From",
       "url": "https://open.spotify.com/track/4o7cSs2ZvZwAFTnJIR3Yph"
@@ -5515,10 +5533,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 261373,
       "name": "Really Want That",
       "url": "https://open.spotify.com/track/14d8jfNLB5I9Lcxb205VAe"
+    },
+    {
+      "album": {
+        "name": "First Light (Volume 1)",
+        "url": "https://open.spotify.com/album/6cKAIdUZob2xbczyccf8Zj"
+      },
+      "artists": [
+        {
+          "name": "Jace XL",
+          "url": "https://open.spotify.com/artist/3rZ0D1eTJ7qUfu5LqxXpSM"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261373,
+      "name": "Really Want That",
+      "url": "https://open.spotify.com/track/7aBhTto2U9sncGzR42zOFA"
     },
     {
       "album": {

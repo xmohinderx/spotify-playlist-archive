@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173949,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
+    },
+    {
+      "album": {
         "name": "Bikole",
         "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
       },
@@ -259,7 +277,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 112566,
       "name": "Body Goals",
       "url": "https://open.spotify.com/track/7pBahgD8wtjGZlM2Rvrs9F"
@@ -339,6 +357,24 @@
       "duration_ms": 175000,
       "name": "Chai Mata",
       "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
+    },
+    {
+      "album": {
+        "name": "Mun G Singles",
+        "url": "https://open.spotify.com/album/6xpiZsqFrXT8O5bFIRCXSJ"
+      },
+      "artists": [
+        {
+          "name": "Mun G",
+          "url": "https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270054,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/2Ro8OuIwKZzAB3K1qxzfnC"
     },
     {
       "album": {
@@ -481,6 +517,32 @@
       "duration_ms": 232967,
       "name": "Entebbe",
       "url": "https://open.spotify.com/track/21xGdajxrlSN1T4VFBEYi9"
+    },
+    {
+      "album": {
+        "name": "Vibes Out The East",
+        "url": "https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz"
+      },
+      "artists": [
+        {
+          "name": "Navio",
+          "url": "https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ"
+        },
+        {
+          "name": "Stogie T",
+          "url": "https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs"
+        },
+        {
+          "name": "Ben Pol",
+          "url": "https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235558,
+      "name": "Extra Mile",
+      "url": "https://open.spotify.com/track/7CM7FycQQWAzem52QgJllq"
     },
     {
       "album": {
@@ -874,6 +936,28 @@
     },
     {
       "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137333,
+      "name": "Mama I Made It (feat. Lagum the Rapper)",
+      "url": "https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ"
+    },
+    {
+      "album": {
         "name": "Mbipambana",
         "url": "https://open.spotify.com/album/6agyrH6gmk3uz1JAAj7MIR"
       },
@@ -961,7 +1045,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 141177,
       "name": "Mufele - Radio Edit",
       "url": "https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm"
@@ -1033,7 +1117,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 194455,
       "name": "Nteredde",
       "url": "https://open.spotify.com/track/7obRw7Iy6DbqvyuPyiqzUj"
@@ -1255,7 +1339,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 212073,
       "name": "Raha",
       "url": "https://open.spotify.com/track/2GJMYdqcS8uMRdUdwHJCY1"

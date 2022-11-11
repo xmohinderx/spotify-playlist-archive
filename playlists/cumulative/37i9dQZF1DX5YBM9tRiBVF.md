@@ -4,7 +4,7 @@
 
 > Listen to women from Belgium, at full volume\. Cover: Chibi Ichigo
 
-252 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
+253 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [bathroom floor](https://open.spotify.com/track/5JvEHdLTVmD6I9a3EMoOjL) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [bathroom floor](https://open.spotify.com/album/2wqQU2IjzsCVRv96k0bd0u) | 3:30 | 2022-11-01 |  |
 | [Beef](https://open.spotify.com/track/5Tx8lSpnmdQQSllMInasLh) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV), [Miss Angel](https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi) | [Way Too Nice](https://open.spotify.com/album/1rBubETeqMI42LaNGqGXpG) | 2:18 | 2022-05-31 | 2022-10-05 |
 | [Belgium In The Rain](https://open.spotify.com/track/5dIzB9W0TQbBFzU4QX0zdj) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [Hidden Stories](https://open.spotify.com/album/0hLdIt0UanXnwLrRJPgjIa) | 3:07 | 2022-02-02 | 2022-05-04 |
-| [Best Friend](https://open.spotify.com/track/3Tgw8MO3QaOKrSovX93OoT) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Best Friend](https://open.spotify.com/album/7DJoUssMTS1AkOfi2BUiiW) | 3:04 | 2022-09-06 |  |
+| [Best Friend](https://open.spotify.com/track/3Tgw8MO3QaOKrSovX93OoT) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Best Friend](https://open.spotify.com/album/7DJoUssMTS1AkOfi2BUiiW) | 3:04 | 2022-09-06 | 2022-11-11 |
+| [Best Friend](https://open.spotify.com/track/7lbL1inGrIwCplb614QaDM) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Caesar](https://open.spotify.com/album/5pKazBOpXtPVNLyN3F2hE0) | 3:04 | 2022-11-01 |  |
 | [Big Steppa](https://open.spotify.com/track/4e12fHlVIUMsYTar3KWhEt) | [Miss Angel](https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi) | [Big Steppa](https://open.spotify.com/album/5JPptLdU8bcX9V1cWQ32OG) | 2:28 | 2022-04-05 | 2022-06-01 |
 | [Black Mirror](https://open.spotify.com/track/6ZlKRS9DzYSAzcz9a2E528) | [LANI](https://open.spotify.com/artist/3C0EAgBRXUuNECI6jj7h3R) | [Black Mirror](https://open.spotify.com/album/396mMwSI3zcs5Udp2nUP84) | 3:08 | 2022-03-07 | 2022-05-04 |
 | [Blame](https://open.spotify.com/track/5O9FmwhbfiTsZOZ4OneIJO) | [Luka](https://open.spotify.com/artist/6WBbsJlHIOOowphog0nNzy) | [Blame](https://open.spotify.com/album/6XBPLIIDC4FkDN8vwKxeIX) | 2:46 | 2022-05-31 | 2022-09-07 |

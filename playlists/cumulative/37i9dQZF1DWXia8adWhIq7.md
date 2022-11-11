@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Tamara Pyller
 
-83 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/4QDjpH3HmVOxtM4Kgm7yQa)
+84 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/4QDjpH3HmVOxtM4Kgm7yQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Ensimesmo \- Acústico](https://open.spotify.com/track/690Rz5W01uGPGm754L5diO) | [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Daniel Alves](https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK), [Midian Nascimento](https://open.spotify.com/artist/2SlY9FvHwUMC2kyrgbCLtE) | [Vivente Acústico](https://open.spotify.com/album/1dzFWWFq7oEdbCc5xa2SN8) | 3:32 | 2022-08-05 |  |
 | [Espelhos](https://open.spotify.com/track/5c7Ua3kWdYtg0WrL0VrPOd) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Espelhos](https://open.spotify.com/album/5l8HGwOHkfH4GTXYNb16ip) | 3:21 | 2022-08-05 | 2022-10-15 |
 | [Esperarei Com Paciência](https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Esperarei com Paciência](https://open.spotify.com/album/53C192EeqK9cTA0dohXePM) | 5:29 | 2022-08-05 |  |
-| [Eu Digo Sim](https://open.spotify.com/track/5iM0mfAZx3H6G8D2ZCejWz) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [Eu Digo Sim](https://open.spotify.com/album/6m24zX6QTmUfZaBg3V2DxL) | 4:39 | 2022-08-05 |  |
+| [Eu Digo Sim](https://open.spotify.com/track/3l5V0o9V3XqKsenxlyUQFn) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [Teu Abraço Faz a Diferença](https://open.spotify.com/album/4AjL13617OAPBmkdO68s3i) | 4:39 | 2022-10-14 |  |
+| [Eu Digo Sim](https://open.spotify.com/track/5iM0mfAZx3H6G8D2ZCejWz) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [Eu Digo Sim](https://open.spotify.com/album/6m24zX6QTmUfZaBg3V2DxL) | 4:39 | 2022-08-05 | 2022-11-11 |
 | [Eu Não Sei Viver Sem Deus](https://open.spotify.com/track/4Qv4gxwa4xeQQ2K3wHItrR) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 4:41 | 2022-08-05 |  |
 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 | 2022-08-05 |  |
 | [Eu To Vivo](https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Eu To Vivo](https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt) | 4:16 | 2022-08-05 |  |

@@ -4,7 +4,7 @@
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-53 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/0i8A8Zhxmw4y6l8ycNdq8a)
+54 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/0i8A8Zhxmw4y6l8ycNdq8a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Angola Penitentiary Blues](https://open.spotify.com/track/4tj55qA2H2NqDOyPwFWHVa) | [Robert Pete Williams](https://open.spotify.com/artist/2FUdiUbyZmIznvKtZcecib) | [The Sonet Blues Story](https://open.spotify.com/album/1I2xwu4aLkqEr7ZqgSj5Jh) | 7:07 | 2022-03-28 | 2022-07-27 |
 | [Baby Scratch My Back \- Single Version](https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:53 | 2022-03-28 |  |
 | [Big Chief \- Remastered](https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:14 | 2022-03-28 |  |
-| [Blues Stew](https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Walking On Fire](https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI) | 3:34 | 2022-03-28 | 2022-11-08 |
+| [Blues Stew](https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Walking On Fire](https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI) | 3:34 | 2022-03-28 |  |
 | [Boppin' The Rock](https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R) | [Clifton Chenier](https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY) | [Zodico Blues & Boogie](https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC) | 2:21 | 2022-03-28 |  |
 | [Brown Skin Woman](https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:47 | 2022-03-28 |  |
 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 | 2022-03-28 |  |
@@ -23,6 +23,7 @@
 | [Evil Woman](https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:21 | 2022-03-28 |  |
 | [G.I\. Blues](https://open.spotify.com/track/78c7KEe4gDHvIfARFWiBD1) | [Lightnin' Slim](https://open.spotify.com/artist/6MNoS1yW9FWwlYFaGjkz72) | [My Babe](https://open.spotify.com/album/4lqqF4GL8eICjJpRE4XDba) | 2:29 | 2022-03-28 | 2022-07-29 |
 | [Gather by the River](https://open.spotify.com/track/1GfYJPRzsv1Yq994QmjTiF) | [Davell Crawford](https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D) | [Our New Orleans](https://open.spotify.com/album/2F0HgryBMVR6AY79ajK8qU) | 3:38 | 2022-03-28 | 2022-07-28 |
+| [Gather by the River](https://open.spotify.com/track/5bxFlzZ2fdlt740q1YikpQ) | [Davell Crawford](https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 3:40 | 2022-03-28 |  |
 | [Georgia Morning Dew](https://open.spotify.com/track/7njTQhjl2SIBLutKCw4r1l) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb) | 3:17 | 2022-03-28 |  |
 | [Gonna Stick To You Baby](https://open.spotify.com/track/5rTs9t774oyGMOlEgAOgz6) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [I'm A Mojo Man: The Best Of The Excello Singles](https://open.spotify.com/album/6ubAM1dJPDqNTDjgIssTha) | 2:06 | 2022-03-28 |  |
 | [Greasy Man](https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Let's Talk It Over](https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8) | 5:56 | 2022-03-28 |  |
@@ -45,7 +46,7 @@
 | [One For The Highway](https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Classified \(Remixed & Expanded Edition\)](https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo) | 2:34 | 2022-03-28 |  |
 | [One More Night](https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [Been Gone Too Long](https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO) | 4:15 | 2022-03-28 |  |
 | [Reconsider Me](https://open.spotify.com/track/2yTmmNuGgUIfSwx9BouWuP) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/1wDtgCR0JI2PM9B3jTJZ5e) | 3:55 | 2022-03-28 | 2022-07-29 |
-| [Reconsider Me](https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb) | 3:55 | 2022-03-28 |  |
+| [Reconsider Me](https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb) | 3:55 | 2022-03-28 | 2022-11-11 |
 | [Saint James Infirmary](https://open.spotify.com/track/4ccdgqrPG8n28V0FWnWWL9) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/3QYOWNnvJBThutwlzjBhry) | 2:23 | 2022-03-28 |  |
 | [Shake Your Hips \- Single Version](https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:29 | 2022-03-28 |  |
 | [St\. James Infirmary](https://open.spotify.com/track/6FKasUNG1KT4r9TR9rKdll) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [The Bright Mississippi](https://open.spotify.com/album/3zcTpC2o6RtnpfYTjN4Jzy) | 3:51 | 2022-03-28 |  |
@@ -59,7 +60,7 @@
 | [Walking On A Tightrope](https://open.spotify.com/track/3lAejrcq32dCRxFRKU963x) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Walking On A Tightrope \- The Songs Of Percy Mayfield](https://open.spotify.com/album/0y8DC0UY7ebAOeYh8RlOV2) | 5:46 | 2022-03-28 | 2022-07-29 |
 | [Well I Done Got Over It](https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl) | [Guitar Slim](https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s) | [Sufferin' Mind](https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5) | 2:27 | 2022-03-28 |  |
 | [Where Did You Sleep Last Night](https://open.spotify.com/track/0p5zJBYoJOzVLBiDeA0PvS) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [The Tradition Masters: Lead Belly](https://open.spotify.com/album/5T3n0RS8Xgq3yPoRpOailM) | 3:01 | 2022-03-28 | 2022-11-03 |
-| [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 | 2022-03-28 |  |
+| [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 | 2022-03-28 | 2022-11-11 |
 | [Yellow Dog Blues](https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Armstrong Plays W\. C\. Handy](https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2) | 4:15 | 2022-03-28 |  |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

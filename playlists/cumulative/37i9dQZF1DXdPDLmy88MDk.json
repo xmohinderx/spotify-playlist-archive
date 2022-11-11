@@ -612,6 +612,36 @@
     },
     {
       "album": {
+        "name": "ZEN - Sunrise Meditation",
+        "url": "https://open.spotify.com/album/2Rr3PpBQCZYFiMHCTqparE"
+      },
+      "artists": [
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata Resnick",
+          "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
+        },
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202724,
+      "name": "Dream 13 - Short Edit",
+      "url": "https://open.spotify.com/track/5UUsWPxBoRGs3EakiDjwwO"
+    },
+    {
+      "album": {
         "name": "Sleep (Remixes)",
         "url": "https://open.spotify.com/album/6pBq7xlUDUChkJZmy4jqD0"
       },
@@ -635,7 +665,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 202724,
       "name": "Dream 13 - Short Edit",
       "url": "https://open.spotify.com/track/7GwO8RkgIDNEVov1qgZ04S"
@@ -1405,10 +1435,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 324015,
       "name": "Le Onde",
       "url": "https://open.spotify.com/track/1ULzttQgU3Q9EaIpdoxF1T"
+    },
+    {
+      "album": {
+        "name": "Relaxing Classical",
+        "url": "https://open.spotify.com/album/1IgpoX287uoldZN4gRe9ne"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324015,
+      "name": "Le Onde",
+      "url": "https://open.spotify.com/track/6v2KksnZsSPNkwWuYVb6Cn"
     },
     {
       "album": {
@@ -2025,10 +2073,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 231804,
       "name": "PAN",
       "url": "https://open.spotify.com/track/05j4VSG0fxZHI7MB3mMyVO"
+    },
+    {
+      "album": {
+        "name": "Lernen & Konzentration mit klassischer Musik",
+        "url": "https://open.spotify.com/album/3A6sHGAkGqPXPJ0zXrS6ML"
+      },
+      "artists": [
+        {
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231804,
+      "name": "PAN",
+      "url": "https://open.spotify.com/track/55aHD4btBsO6T3IQKkJqza"
     },
     {
       "album": {
@@ -2217,7 +2283,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 282400,
       "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile",
       "url": "https://open.spotify.com/track/2MA6EUDm6EYmeRbT9QP8cX"
@@ -2243,6 +2309,28 @@
       "duration_ms": 282400,
       "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile (Featured in \"The Lost World: Jurassic Park\")",
       "url": "https://open.spotify.com/track/4JlmuGWtPY2McQsQq6MUmw"
+    },
+    {
+      "album": {
+        "name": "Immortal Beethoven",
+        "url": "https://open.spotify.com/album/16KdTJohpfErxyKRMFPbyz"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Piano Sonata No. 8 in C Minor, Op. 13, \"Pathetique\": II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/4Vj1KFHLNtUujc5yn6viN6"
     },
     {
       "album": {
@@ -2301,7 +2389,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 364648,
       "name": "re:member",
       "url": "https://open.spotify.com/track/6wUU6ff7O1jlE4NOrv01gI"
@@ -2323,6 +2411,28 @@
       "duration_ms": 367185,
       "name": "re:member",
       "url": "https://open.spotify.com/track/6quyqbfWoWG9iXrtYl8yG2"
+    },
+    {
+      "album": {
+        "name": "Neoclassical Essentials",
+        "url": "https://open.spotify.com/album/1K9xfQszoXfGcoTckJZzpR"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "London Recording Orchestra",
+          "url": "https://open.spotify.com/artist/0Uiss6Wjtadn5gitFaNaVH"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364648,
+      "name": "re:member",
+      "url": "https://open.spotify.com/track/2uizZ3OHcCNjJiqAoN8TgK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3AAjWIbHAc.md) - [plain]
 
 > Get your kid's day started with these high\-energy songs in English and Spanish!
 
-[Spotify](https://open.spotify.com/user/spotify) - 595 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 596 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3AAjWIbHAc.md) - [plain]
 | 37 | [We Go Together](https://open.spotify.com/track/46wRVsmiyO8ephW0wbKtjZ) | [The Sausage Factory Singers](https://open.spotify.com/artist/6V6io3ApRj18jjB2SORQsr) | [The Secret Life of Pets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ayJFbJkkZtMkPbden2vh4) | 1:24 |
 | 38 | [Será un Día Fenomenal \(De "Phineas & Ferb"\)](https://open.spotify.com/track/2yKwySjvnUXeIQ4eqwBmFj) | [Super Banda Infantil](https://open.spotify.com/artist/7mtajIQbgVMoKTabPTzXVU) | [Canciones Infantiles](https://open.spotify.com/album/4yu4Wj0D2Jz2FNWuJplHIB) | 3:06 |
 | 39 | [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 |
-| 40 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 |
+| 40 | [One Love \- Medley](https://open.spotify.com/track/2V2by56rK60UxMHPtG02OJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 2:52 |
 | 41 | [It’s Gonna Be A Lovely Day \(The Secret Life Of Pets 2\)](https://open.spotify.com/track/4xsA7WwjehjdZHc1tgG7z0) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [The Secret Life Of Pets 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6v3cV4buefnvRAVq3WzAIE) | 3:51 |
 | 42 | [Move Your Feet / D.A.N.C.E\. / It's A Sunshine Day](https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Ron Funches](https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP), [Walt Dohrn](https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd), [Caroline Hjelt](https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME), [Aino Jawo](https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV), [Kunal Nayyar](https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 2:36 |
 | 43 | [Stronger \- From "Under the Sea: A Descendants Short Story"](https://open.spotify.com/track/6xjTZCCyLNEOw7AsGV8A5e) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Stronger \(From "Under the Sea: A Descendants Short Story"\)](https://open.spotify.com/album/0CQNdsdRnm3U1yt1x3DuvO) | 4:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3AAjWIbHAc.md) - [plain]
 | 59 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 |
 | 60 | [True Friend](https://open.spotify.com/track/3mgawAnZJZNZTFaZPofjNC) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 2 \(Original Soundtrack\)](https://open.spotify.com/album/2Kl34Wu4F27ptdgtUoErJs) | 3:09 |
 
-Snapshot ID: `MTY0NzI3NzIxMiwwMDAwMDAwMGZiM2Q4NTQyN2M1NWYzMGQyZWE0ZGJmYjA2NGQyZjkw`
+Snapshot ID: `MTY0NzI3NzIxMiwwMDAwMDAwMDExYzlkODU0ZDQ0MzdiOTYyMjIzZTY4MWNmNzA0MWE3`

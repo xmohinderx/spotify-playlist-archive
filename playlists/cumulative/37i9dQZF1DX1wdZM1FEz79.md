@@ -2,9 +2,9 @@
 
 ### [K\-Pop Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean acoustic tunes\. \(Cover: 10CM, BIG Naughty\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean acoustic tunes\. \(Cover: Stella Jang\(스텔라장\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-417 songs - 1 day 0 hr 54 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
+418 songs - 1 day 0 hr 56 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [All My Sadness](https://open.spotify.com/track/2Oty3yrmADQB5snSoBguvE) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 4:21 | 2022-03-31 | 2022-04-11 |
 | [Always You](https://open.spotify.com/track/6mkSD9scFtL0vaUgZ1pIub) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/3TYy1tiVsuOWibt2ptlFUD) | 3:13 | 2022-03-31 | 2022-04-21 |
 | [Another Day](https://open.spotify.com/track/01UPzueYKNIRn4R9l5neB5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:46 | 2021-12-10 | 2022-07-24 |
-| [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-08 |  |
+| [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-08 | 2022-11-11 |
 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2022-04-21 |  |
 | [Apricot](https://open.spotify.com/track/7aNOH4B73XDeLOL1yGhwU5) | [ONEE](https://open.spotify.com/artist/6qFD5SSrBTyg4aVi0EQEXI) | [Indifferent People](https://open.spotify.com/album/1wVHZ8ouYutwHL7H5Gl9s6) | 3:15 | 2022-01-13 | 2022-02-07 |
 | [At the end of the day](https://open.spotify.com/track/0nJLLHH6Y3iOe5uGou2m6s) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [At the end of the day](https://open.spotify.com/album/6arlyz7d91rjANtfyPQ1t6) | 3:55 | 2022-03-31 | 2022-04-15 |
@@ -191,6 +191,7 @@
 | [Just 10 centimeters](https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Just 10 centimeters](https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL) | 3:15 | 2022-09-27 |  |
 | [Just another breakup song \(with Yun DDanDDan of 2016\)](https://open.spotify.com/track/7rTVQk8fang6utPONH93NV) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Old Pieces](https://open.spotify.com/album/4xzSvcmwdc0CHsRh3vPBJT) | 3:50 | 2022-06-09 | 2022-06-14 |
 | [Just thinking about you](https://open.spotify.com/track/1ew4EemwjPuSsCuj1ezEfB) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Just thinking about you](https://open.spotify.com/album/5Svdk66Dvkf51EyVQCIf5u) | 3:38 | 2021-12-10 | 2022-07-24 |
+| [KeeB Going](https://open.spotify.com/track/06BqqEcWYMAw2KexwfjSNW) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [KeeB Going](https://open.spotify.com/album/2lSRYdUmYfIP6mDZVI3AFb) | 1:47 | 2022-11-11 |  |
 | [Keep This Moment](https://open.spotify.com/track/0ykk20f023G61Ds0IeF4KB) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0) | [Keep This Moment \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.4](https://open.spotify.com/album/5j7JmzdgWs2VSyGLod2VKs) | 3:20 | 2022-05-13 | 2022-05-31 |
 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 | 2022-01-13 | 2022-07-29 |
 | [laputa](https://open.spotify.com/track/6mWT5oEv9Wzo1KS6jKKv63) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [laputa](https://open.spotify.com/album/4D9zbUsH9mRlf5prtdu5fQ) | 3:02 | 2022-03-31 | 2022-04-21 |

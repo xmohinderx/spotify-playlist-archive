@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee.
 
-109 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
+112 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Endurance](https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d) | [Road Kahan](https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs) | [Endurance / Heart](https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW) | 3:20 | 2022-09-15 |  |
 | [Falling](https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I) | [Road Kahan](https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs) | [Falling](https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL) | 3:02 | 2022-09-15 |  |
 | [Falling Upwards](https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Falling Upwards](https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj) | 5:43 | 2022-09-15 |  |
-| [Float](https://open.spotify.com/track/2U6OKVqexxZKLwQe7purlV) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [The Island](https://open.spotify.com/album/7Lq4U7ZWU1Xm7u9OKoHKU9) | 4:07 | 2022-10-13 |  |
+| [Float](https://open.spotify.com/track/2U6OKVqexxZKLwQe7purlV) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [The Island](https://open.spotify.com/album/7Lq4U7ZWU1Xm7u9OKoHKU9) | 4:07 | 2022-10-13 | 2022-11-11 |
+| [Float](https://open.spotify.com/track/7mj2TROxaQSpRH1IKaTeMO) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Float](https://open.spotify.com/album/0VT6v6yIjICbZRsqJJ9LLO) | 4:07 | 2022-10-13 |  |
 | [Float](https://open.spotify.com/track/7omCw0COR7xdEqGdAo15Qs) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Float](https://open.spotify.com/album/7wNrgLd06nnEGKmN41nXYI) | 4:07 | 2022-09-15 | 2022-10-14 |
 | [Gaia \- Radio Edit](https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Gaia](https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp) | 4:05 | 2022-09-15 |  |
 | [Good Life](https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Good Life](https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ) | 3:43 | 2022-09-15 |  |
@@ -77,7 +78,8 @@
 | [One 4 the Dreamers](https://open.spotify.com/track/2TXzAr3G4t3Ojh8udkFDiW) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Elevation](https://open.spotify.com/album/59qFQKextrHGWvevo8az3R) | 6:39 | 2022-09-15 | 2022-11-08 |
 | [Overdrive](https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93) | [Silo](https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA) | [Overdrive](https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18) | 4:30 | 2022-09-15 |  |
 | [Para Mi](https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Chill Executive Officer \(CEO\), Vol\. 20 \[Selected by Maykel Piron\]](https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu) | 2:38 | 2022-09-15 |  |
-| [Parrot Fever](https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Parrot Fever](https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD) | 4:28 | 2022-09-15 |  |
+| [Parrot Fever](https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Parrot Fever](https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD) | 4:28 | 2022-09-15 | 2022-11-11 |
+| [Parrot Fever](https://open.spotify.com/track/2wqaCHxbJ4HVQzGcQQMwKE) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Lo\-Fi Beats: House](https://open.spotify.com/album/3lHhEDBnztBWcFrZ5v6gUO) | 4:28 | 2022-10-13 |  |
 | [Pelicanism](https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1) | [Marc Bianco](https://open.spotify.com/artist/6XD63w7shze8nTGtkm32Y3), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Speak Like the Hurricane](https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF) | 6:57 | 2022-09-15 |  |
 | [Petricor](https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Petricor](https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG) | 3:24 | 2022-09-15 |  |
 | [Pro’s & Con’s \- Kraak & Smaak Remix](https://open.spotify.com/track/17BrcbqJAd1VT7rZHZEGyU) | [Ishi](https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Nia Brock](https://open.spotify.com/artist/3dcSf5pZ3LaQFZu7UeWg3k) | [Pro's & Con's \(Kraak & Smaak Remix\)](https://open.spotify.com/album/2tRojFBP52p93DUFiSZ9Lv) | 5:04 | 2022-09-15 |  |
@@ -102,7 +104,8 @@
 | [Swan Lake \- Someone Rework](https://open.spotify.com/track/4PuyLqIsvrVA29KO3ktsvP) | [Someone](https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE), [Darius Timmer](https://open.spotify.com/artist/450YE3kgC7YLb3hV7djIPk), [Dan Huijser](https://open.spotify.com/artist/6PymBeotbwOXRKsXjWRRah) | [Swan Lake \(Someone Rework\)](https://open.spotify.com/album/1CnLwouBrnGAqYbvaN8Q90) | 3:23 | 2022-09-15 |  |
 | [Tell Me Who I Am](https://open.spotify.com/track/1OtO771VNXXuuijjFU0mbr) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Tell Me Who I Am](https://open.spotify.com/album/0CWxAlJ9ov32aFcMZJJjn7) | 3:37 | 2022-10-13 |  |
 | [Tempranillo](https://open.spotify.com/track/48KcLnGPfXDikD5Snv7q16) | [Corren Cavini](https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8) | [Tempranillo](https://open.spotify.com/album/2wJKMd7MSk2KB3JmlYfc4J) | 6:17 | 2022-09-15 | 2022-11-08 |
-| [The Whistle Song \- House Kitsuné America](https://open.spotify.com/track/01HYlXXE8wpY22Za43ihzj) | [Allen French](https://open.spotify.com/artist/7IMSmMHDPpZL0ZjOr8ssOj) | [The Whistle Song \(House Kitsuné America\)](https://open.spotify.com/album/1X7DeddTvPUAbZqnbwTjFx) | 4:08 | 2022-09-15 |  |
+| [The Whistle Song \- House Kitsuné America](https://open.spotify.com/track/7ENAbf0QGKnXWTy6gddq0G) | [Allen French](https://open.spotify.com/artist/7IMSmMHDPpZL0ZjOr8ssOj) | [Café del Mar Chillhouse Mix XI \(DJ Mix\)](https://open.spotify.com/album/3Xgc8kJPLq8Ck7a1BULNjf) | 4:06 | 2022-10-13 |  |
+| [The Whistle Song \- House Kitsuné America](https://open.spotify.com/track/01HYlXXE8wpY22Za43ihzj) | [Allen French](https://open.spotify.com/artist/7IMSmMHDPpZL0ZjOr8ssOj) | [The Whistle Song \(House Kitsuné America\)](https://open.spotify.com/album/1X7DeddTvPUAbZqnbwTjFx) | 4:08 | 2022-09-15 | 2022-11-11 |
 | [Through The Night](https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Luminous](https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0) | 4:00 | 2022-09-15 |  |
 | [Tide \(feat\. Andreya Triana\)](https://open.spotify.com/track/4mjno1cpVrlldeElighIIw) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Half Light](https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn) | 3:06 | 2022-09-15 |  |
 | [Tom's Bar](https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs) | 4:10 | 2022-09-15 |  |

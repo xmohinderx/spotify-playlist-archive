@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Dubdogz
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,756 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,786 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 41 | [See The Ocean](https://open.spotify.com/track/17zIFu7KK3q3uUBG4vsY3r) | [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [See The Ocean](https://open.spotify.com/album/6wOQT6BrVoz8hWsXEPL64g) | 3:38 |
 | 42 | [Had To Tell You \(feat\. Leo\)](https://open.spotify.com/track/4Y5HIDTNt5dCOGEoBVJ5An) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Leo](https://open.spotify.com/artist/1mayFXufhLNGA2RfF01R05) | [Had To Tell You \(feat\. Leo\)](https://open.spotify.com/album/5jo1PzbuPElQPlMozafqDI) | 3:07 |
 | 43 | [Push The Feeling On](https://open.spotify.com/track/0XkWaA0Vyls3Jd15oYWG9L) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Push The Feeling On](https://open.spotify.com/album/1UasoHOSOcPNtRII5u3wiL) | 2:54 |
-| 44 | [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 |
+| 44 | [Body On My Mind](https://open.spotify.com/track/2hKr4BrXEPAsmTCcX8aV5J) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 002](https://open.spotify.com/album/7DwBtsPSp8U1dVFQWtKqjk) | 2:49 |
 | 45 | [I Know](https://open.spotify.com/track/0iZDUCkSEzzBllavstdPsd) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [I Know](https://open.spotify.com/album/1AERPcpgt9mOmzJykuqHsI) | 2:39 |
 | 46 | [Don't Wake Me Up](https://open.spotify.com/track/3edsNcYEr1eufTkadK09MF) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1) | [Don't Wake Me Up](https://open.spotify.com/album/07UqcOSS4JQ1Si9TwomEHw) | 3:32 |
 | 47 | [Good Good](https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Good Good](https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc) | 2:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 59 | [Gimme Gimme](https://open.spotify.com/track/73j31E7LkV0cgb6fkbyZWR) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Gimme Gimme](https://open.spotify.com/album/0DE70DL84J6TAGv980nTgV) | 2:27 |
 | 60 | [I Want Love \- Cat Dealers Remix](https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [I Want Love \(Cat Dealers Remix\)](https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS) | 3:41 |
 
-Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMGQxNWRmMGQyZTRkNTA3ZjUyNmY3MzQ4MWJhYTI0MDdh`
+Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMDg4MmFhOWQ0MTNkZGVjYzhlZWM0YmVlYTllYjliMzRl`

@@ -4,7 +4,7 @@
 
 > Sleater\-Kinney, in celebration of their new album "Path of Wellness," co\-curate a list of the defining songs of the riot grrrl era, and the bands keeping its spirit alive.
 
-112 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/3w6EKs1xpDEvjIzzOzbqdF)
+116 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/3w6EKs1xpDEvjIzzOzbqdF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,10 +21,12 @@
 | [Bright Yellow Gun](https://open.spotify.com/track/5B4M7SIVdfoclqKoSbvykA) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/5DrPmYzVSJwbRboOJQbqqS) | 3:43 | 2021-06-11 | 2022-07-29 |
 | [Bright Yellow Gun](https://open.spotify.com/track/5ZIDI3l4PZOQ40OfzaKChO) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/1vVQEsE0szv3T5nf7IrZKr) | 3:43 | 2021-06-11 |  |
 | [Bright Yellow Gun](https://open.spotify.com/track/6Addv8fHU00jjDoWYGtSMa) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/6Lhb12HmS4gx0lOVrdXjWz) | 3:43 | 2021-06-11 | 2022-10-13 |
+| [Cannonball](https://open.spotify.com/track/05jUpJAbg7xtLzB5lsnm64) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Cannonball](https://open.spotify.com/album/1syQ3F5kKN1JdqF6fbDMDc) | 3:33 | 2021-06-11 |  |
 | [Cannonball](https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61) | 3:33 | 2021-06-11 | 2022-07-29 |
-| [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 | 2021-06-11 |  |
+| [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 | 2021-06-11 | 2022-11-11 |
 | [Celebrity Skin](https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj) | 2:42 | 2021-06-11 | 2022-07-29 |
-| [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 | 2021-06-11 |  |
+| [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 | 2021-06-11 | 2022-11-11 |
+| [Celebrity Skin](https://open.spotify.com/track/4xlo4oy4TEoUVEOP7wIGlH) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Femei de zece](https://open.spotify.com/album/7kX2JgtQpRHZMOhrDPb8JP) | 2:42 | 2021-06-11 |  |
 | [Cents Cents Money Money](https://open.spotify.com/track/4hESSfpi81WtBmaWxQN5b6) | [Blowout](https://open.spotify.com/artist/6JYNcpvRMjgry4ERB6bLLZ) | [No Beer, No Dad](https://open.spotify.com/album/7Am439nHyL7iypSjAIzmP3) | 2:34 | 2021-06-11 | 2022-07-29 |
 | [Cents Cents Money Money](https://open.spotify.com/track/7fTSouGcePc6eJo0I381Hu) | [Blowout](https://open.spotify.com/artist/6JYNcpvRMjgry4ERB6bLLZ) | [No Beer, No Dad \(Redux\)](https://open.spotify.com/album/32J9rARwZWTK6SMggaofZj) | 2:34 | 2021-06-11 |  |
 | [Cool Schmool](https://open.spotify.com/track/5SQhahcpnWJ6AXZ1N4YIvT) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/5B3FlfoWVwLazsuELgRcAC) | 2:01 | 2021-06-11 |  |
@@ -64,7 +66,8 @@
 | [Hey Heartbreaker](https://open.spotify.com/track/2U3DCTEnAF66pImTkso4Qo) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [EP01](https://open.spotify.com/album/7n281LqWVqFX2D2hbBULgM) | 3:33 | 2021-06-11 |  |
 | [Hey Heartbreaker](https://open.spotify.com/track/368gF4TWtcJduCfcR0uKPd) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [EP01](https://open.spotify.com/album/5AaJfXlHtrlfQh8KfXiIZh) | 3:33 | 2021-06-11 | 2022-07-29 |
 | [High In The Grass](https://open.spotify.com/track/0tqmC3Jdr9zYd45jubwZzn) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/1eUPlL6mb3jmAOJGylGgK1) | 4:05 | 2021-06-11 | 2022-07-29 |
-| [High In The Grass](https://open.spotify.com/track/5Q6rxFg2Qu8Jno7tccIQYo) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/2EQxYuMIrAs2SjeSZ4iwxA) | 4:05 | 2021-06-11 |  |
+| [High In The Grass](https://open.spotify.com/track/5Q6rxFg2Qu8Jno7tccIQYo) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/2EQxYuMIrAs2SjeSZ4iwxA) | 4:05 | 2021-06-11 | 2022-11-11 |
+| [High In The Grass](https://open.spotify.com/track/5nxjwpFLJiiWSIXZDPNQXH) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [High In The Grass](https://open.spotify.com/album/2vHokUIMJPf1a3YOlS9Mjn) | 4:05 | 2021-06-11 |  |
 | [I Don't Want You Anyway](https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb) | [Look Blue Go Purple](https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv) | [Look Blue Go Purple Compilation](https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00) | 2:57 | 2021-06-11 |  |
 | [I Hate the Weekend](https://open.spotify.com/track/2lCStc28NuNBBIH4pLyYtb) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [Lost Time](https://open.spotify.com/album/0VYPxPMRu8D7PYvsCgwuRE) | 2:05 | 2021-06-11 | 2022-07-29 |
 | [I Hate the Weekend](https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [Lost Time](https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh) | 2:05 | 2021-06-11 |  |
@@ -85,7 +88,8 @@
 | [Not Too Soon](https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ) | 3:10 | 2021-06-11 | 2022-07-29 |
 | [Not Too Soon](https://open.spotify.com/track/0LmTJN6QFKQ0APV8CV1ebB) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5ejnwNGskDCpNjBnBGw67h) | 3:10 | 2021-06-11 |  |
 | [Not Too Soon](https://open.spotify.com/track/0gvjs4NDHjwlC8fyWoOTUz) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/4Tvtq50di0OrLLSWAcAubS) | 3:10 | 2021-06-11 | 2022-10-14 |
-| [Oh Me I'm Never](https://open.spotify.com/track/3QkXPqDZ1iGFxc1A2LVBAV) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/1mXYp6A3liyKgvsrgt0b1y) | 2:57 | 2021-06-11 |  |
+| [Oh Me I'm Never](https://open.spotify.com/track/3QkXPqDZ1iGFxc1A2LVBAV) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/1mXYp6A3liyKgvsrgt0b1y) | 2:57 | 2021-06-11 | 2022-11-11 |
+| [Oh Me I'm Never](https://open.spotify.com/track/7BEwff8qjTmXlQdprxiA5j) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [This Is It](https://open.spotify.com/album/6YE1UoV3kWoCDd3U1ln3gs) | 2:57 | 2021-06-11 |  |
 | [Oh Me I'm Never](https://open.spotify.com/track/7M8kwE3DzZgTHJG8DHEfr6) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU) | 2:57 | 2021-06-11 | 2022-07-29 |
 | [Pay Day](https://open.spotify.com/track/1nhR7KIUkseo34qydXcNAU) | [Gauche](https://open.spotify.com/artist/6GVrQ3dvXPc2VcEslMAgk4) | [Pay Day](https://open.spotify.com/album/1zIhUyCkOyRGo9aEc4c5de) | 2:50 | 2021-06-11 | 2022-07-29 |
 | [Pay Day](https://open.spotify.com/track/3RdLdk0tw9Tx2iIvCESmDP) | [Gauche](https://open.spotify.com/artist/6GVrQ3dvXPc2VcEslMAgk4) | [A People's History of Gauche](https://open.spotify.com/album/3F5wJTFeJeHXR8RAQfVzTW) | 2:50 | 2021-06-11 |  |

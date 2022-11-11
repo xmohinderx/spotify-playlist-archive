@@ -254,6 +254,24 @@
     },
     {
       "album": {
+        "name": "Kiss Somebody - Country Favorites",
+        "url": "https://open.spotify.com/album/01yzvQ3kzsbUsQFJyF33yi"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270413,
+      "name": "Black Crow",
+      "url": "https://open.spotify.com/track/2Mf0weOgnhLU7KIoMI6lLo"
+    },
+    {
+      "album": {
         "name": "Shine On Rainy Day",
         "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
       },
@@ -265,7 +283,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 270413,
       "name": "Black Crow",
       "url": "https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG"
@@ -582,6 +600,24 @@
     },
     {
       "album": {
+        "name": "Cheats and Liars",
+        "url": "https://open.spotify.com/album/2rZ2hqlzxMXvj2XN1i8DSZ"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228795,
+      "name": "Cheats and Liars",
+      "url": "https://open.spotify.com/track/4PXYmSraZ4JEZsaBDJh2QG"
+    },
+    {
+      "album": {
         "name": "Shining in the Half Light",
         "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
       },
@@ -593,7 +629,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228795,
       "name": "Cheats and Liars",
       "url": "https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf"
@@ -676,6 +712,24 @@
     },
     {
       "album": {
+        "name": "Drained",
+        "url": "https://open.spotify.com/album/1Qa1Ts5OAfJikGuI3LooYZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235478,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4jUNRATNc84n5nlxzGeLfg"
+    },
+    {
+      "album": {
         "name": "CRY",
         "url": "https://open.spotify.com/album/2hQB96fVsBj6D0uoy2Hbs8"
       },
@@ -705,7 +759,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 237244,
       "name": "CRY",
       "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
@@ -1073,10 +1127,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 197520,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
+    },
+    {
+      "album": {
+        "name": "Grandes Temazos: Blues",
+        "url": "https://open.spotify.com/album/4gXvc3NifLO9FboTiRyf0b"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197522,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/31IHnEkFJuvWm3oJPmiAsH"
     },
     {
       "album": {
@@ -1235,10 +1307,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 176093,
       "name": "Glitter & Gold",
       "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning Chill",
+        "url": "https://open.spotify.com/album/09pF9CzWsqeq0eYQZuzZj8"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "Glitter & Gold",
+      "url": "https://open.spotify.com/track/7uP8uTAPc9CG5VxGu8gxtM"
     },
     {
       "album": {
@@ -1512,6 +1602,24 @@
     },
     {
       "album": {
+        "name": "Heavy Load Blues (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438840,
+      "name": "Heavy Load",
+      "url": "https://open.spotify.com/track/0QLhmYdldYoRRSn5qQbwTZ"
+    },
+    {
+      "album": {
         "name": "Heavy Load",
         "url": "https://open.spotify.com/album/5KvAYLiVGfNVZUBdGVWNs1"
       },
@@ -1541,7 +1649,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 438840,
       "name": "Heavy Load",
       "url": "https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2"
@@ -1691,7 +1799,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 169808,
       "name": "Howlin' Back Again",
       "url": "https://open.spotify.com/track/0VjnoDDlSpYjue7QBdY1WA"
@@ -1745,7 +1853,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 169808,
       "name": "Howlin' Back Again",
       "url": "https://open.spotify.com/track/7o1E1ehrs1aXZXEkQ9rHNH"
@@ -2194,6 +2302,28 @@
     },
     {
       "album": {
+        "name": "Swagger, Steel & Spurs",
+        "url": "https://open.spotify.com/album/01zaNaojDp8OJJ1J60gm6R"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Jamie N Commons",
+          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189320,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/2cuSqUUALtdW2R5Lq6jlcv"
+    },
+    {
+      "album": {
         "name": "The Reason EP",
         "url": "https://open.spotify.com/album/45rrGouDjyjtHKgLvoVw7v"
       },
@@ -2231,7 +2361,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 189706,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB"
@@ -3293,7 +3423,7 @@
     {
       "album": {
         "name": "Something\u2019s Got a Hold on Me",
-        "url": "https://open.spotify.com/album/5QKPqc66fu8qqsYLxgfZGj"
+        "url": "https://open.spotify.com/album/4o9cqOlJSAKCvsSUZhwdiz"
       },
       "artists": [
         {
@@ -3304,6 +3434,24 @@
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188156,
+      "name": "Something\u2019s Got a Hold on Me",
+      "url": "https://open.spotify.com/track/35Eprx1uTRZCPv1lEhKw2u"
+    },
+    {
+      "album": {
+        "name": "Something\u2019s Got a Hold on Me",
+        "url": "https://open.spotify.com/album/5QKPqc66fu8qqsYLxgfZGj"
+      },
+      "artists": [
+        {
+          "name": "Angel Snow",
+          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 188156,
       "name": "Something\u2019s Got a Hold on Me",
       "url": "https://open.spotify.com/track/5MAbReBs2DiDoJM0egoalR"
@@ -3429,7 +3577,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 155026,
       "name": "Step In",
       "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
@@ -3451,6 +3599,24 @@
       "duration_ms": 155026,
       "name": "Step In",
       "url": "https://open.spotify.com/track/3NG5DtW4VQT7DjNzWtVNTy"
+    },
+    {
+      "album": {
+        "name": "Step In",
+        "url": "https://open.spotify.com/album/0VhKwExkg99sIQA9xwBCbD"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "Step In",
+      "url": "https://open.spotify.com/track/3RI449DPz5BeY9927KWYlH"
     },
     {
       "album": {
@@ -3711,6 +3877,24 @@
     {
       "album": {
         "name": "Thousand Mile Night",
+        "url": "https://open.spotify.com/album/3NrqvphiHgZq1golNdpyKv"
+      },
+      "artists": [
+        {
+          "name": "Jonah Tolchin",
+          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235173,
+      "name": "Thousand Mile Night",
+      "url": "https://open.spotify.com/track/34Uf3UWc5oUd5f0NxZ1KJR"
+    },
+    {
+      "album": {
+        "name": "Thousand Mile Night",
         "url": "https://open.spotify.com/album/4LkEoMZMHwVWLByjtt4wQf"
       },
       "artists": [
@@ -3721,7 +3905,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 235173,
       "name": "Thousand Mile Night",
       "url": "https://open.spotify.com/track/4q4F2OEZJ2EQuRNBKytiDr"
@@ -3765,7 +3949,7 @@
     {
       "album": {
         "name": "Trouble",
-        "url": "https://open.spotify.com/album/22osKK5opQGAkqObk6rJx8"
+        "url": "https://open.spotify.com/album/15BCxVp8zXumVNdvS4HQGc"
       },
       "artists": [
         {
@@ -3776,6 +3960,24 @@
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 247702,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/2y1aq4yTcDjZKtqhAU5SAW"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/22osKK5opQGAkqObk6rJx8"
+      },
+      "artists": [
+        {
+          "name": "Hamish Anderson",
+          "url": "https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 247702,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/4az5pchkq5BEmJTB7fpbxU"
@@ -4359,10 +4561,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 185160,
       "name": "Worry",
       "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
+    },
+    {
+      "album": {
+        "name": "Bon Bon",
+        "url": "https://open.spotify.com/album/5u1bPXcWROJ0KXse0icl13"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185160,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/6gKXluuZ0TqOa8yogV6Fe2"
     },
     {
       "album": {

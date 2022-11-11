@@ -154,6 +154,24 @@
     },
     {
       "album": {
+        "name": "Rancheras Con Sentimiento",
+        "url": "https://open.spotify.com/album/7DpZO4gbLPjDloVzQIsUmY"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230478,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/6yWiq9v0NT5fLscGJgFEe2"
+    },
+    {
+      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
         "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
@@ -165,7 +183,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 231418,
       "name": "Cucurrucucu Paloma",
       "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
@@ -429,10 +447,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 511333,
       "name": "La llorona",
       "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Latinos",
+        "url": "https://open.spotify.com/album/75dDEKX32UnwGAa3DCeuNi"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511333,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/4XxP2iRFejPyfQzMhR32Kf"
     },
     {
       "album": {
@@ -697,10 +733,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 276133,
       "name": "No es serio este cementerio",
       "url": "https://open.spotify.com/track/0vJVhBOvRSjG0KBbFpx46Y"
+    },
+    {
+      "album": {
+        "name": "Ana, Jos\u00e9, Nacho",
+        "url": "https://open.spotify.com/album/4l3E8sfadY7Ye5F6jlp6i6"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "No es serio este cementerio",
+      "url": "https://open.spotify.com/track/1rj0elTfavuMUblDwi8wFG"
     },
     {
       "album": {

@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Autumn Playlist",
+        "url": "https://open.spotify.com/album/2WkLSByy5oHXHTTR9HeeJB"
+      },
+      "artists": [
+        {
+          "name": "Chrissi",
+          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215356,
+      "name": "Back In The Day",
+      "url": "https://open.spotify.com/track/2RzuBCRT8HfBbG7YCjLcEP"
+    },
+    {
+      "album": {
         "name": "Back In The Day",
         "url": "https://open.spotify.com/album/0kYwSyUR9NhGRsZFeid1Kv"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215356,
       "name": "Back In The Day",
       "url": "https://open.spotify.com/track/4Ydl2Ov6AtHaCG2D3iS8Kv"
@@ -289,7 +307,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 170812,
       "name": "Cry Over Boys",
       "url": "https://open.spotify.com/track/1d9Ve8caYURgqYEVuEHMww"
@@ -311,6 +329,24 @@
       "duration_ms": 170812,
       "name": "Cry Over Boys",
       "url": "https://open.spotify.com/track/218q4fCmVERKhXEZDr6g4P"
+    },
+    {
+      "album": {
+        "name": "Chilled Mix",
+        "url": "https://open.spotify.com/album/36hNUgf2fLpK4BV8xiwv7T"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170812,
+      "name": "Cry Over Boys",
+      "url": "https://open.spotify.com/track/2EQc28mf62IeoDoEOw6OoG"
     },
     {
       "album": {
@@ -401,10 +437,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 154043,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/1CN3tvx826AiRlcZSKjGdl"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3Fku3yYulCxkAjxwfwNUUH"
+      },
+      "artists": [
+        {
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154043,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/5G7gZxPsYbFOnqh885QI4F"
     },
     {
       "album": {
@@ -650,6 +704,24 @@
     },
     {
       "album": {
+        "name": "They'll Never Love You Like I Can",
+        "url": "https://open.spotify.com/album/50osPJHagZ1hMitkefI0Qb"
+      },
+      "artists": [
+        {
+          "name": "Emily Burns",
+          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203731,
+      "name": "Is It Just Me?",
+      "url": "https://open.spotify.com/track/0JXlZpEvNNRMUvbjlKJk8s"
+    },
+    {
+      "album": {
         "name": "My Town",
         "url": "https://open.spotify.com/album/18SfYsQ4uFVYaMVctPDAvX"
       },
@@ -661,7 +733,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 203731,
       "name": "Is It Just Me?",
       "url": "https://open.spotify.com/track/1o2E5CwlBWuVElc41EqOSU"
@@ -791,10 +863,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 193874,
       "name": "Rules",
       "url": "https://open.spotify.com/track/3pX2nQSp8Xafya67qsSPDv"
+    },
+    {
+      "album": {
+        "name": "The LOVERS",
+        "url": "https://open.spotify.com/album/1SSHh4TwugjrspuolmKDSf"
+      },
+      "artists": [
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193874,
+      "name": "Rules",
+      "url": "https://open.spotify.com/track/56v0dZUln42eldanf3BSGk"
     },
     {
       "album": {
@@ -1015,10 +1105,32 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174586,
       "name": "this is how you fall in love",
       "url": "https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS"
+    },
+    {
+      "album": {
+        "name": "Lonesome",
+        "url": "https://open.spotify.com/album/5l75wh2G3ndvREVMxMoXhJ"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175599,
+      "name": "this is how you fall in love",
+      "url": "https://open.spotify.com/track/05L6XIWzFdiNaUyaB9AgB8"
     },
     {
       "album": {
@@ -1177,10 +1289,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 201264,
       "name": "Worst Ways",
       "url": "https://open.spotify.com/track/3Vyg7aVSl2vOMSSw5X11pD"
+    },
+    {
+      "album": {
+        "name": "Worst Ways",
+        "url": "https://open.spotify.com/album/7h5tazd3LMN0ApQUfzmYS7"
+      },
+      "artists": [
+        {
+          "name": "Rudie Edwards",
+          "url": "https://open.spotify.com/artist/0UoYusnqGbla21PGYGmLfk"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201264,
+      "name": "Worst Ways",
+      "url": "https://open.spotify.com/track/3meazHJAqUpYa8P3SjsBiB"
     },
     {
       "album": {
@@ -1213,7 +1343,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
@@ -1235,6 +1365,24 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "album": {
+        "name": "Best of 2021 Pop",
+        "url": "https://open.spotify.com/album/4c5bF6Y7O0j9tNYac8Zh6K"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/6IzH7ucSwoenS89CQtfLWk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYp3yzk1civi"

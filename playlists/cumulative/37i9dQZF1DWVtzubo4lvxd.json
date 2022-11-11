@@ -85,6 +85,24 @@
     {
       "album": {
         "name": "Romance",
+        "url": "https://open.spotify.com/album/7pKuX4GEQp8hsy4Z702aKm"
+      },
+      "artists": [
+        {
+          "name": "Huey Daze",
+          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125901,
+      "name": "Acknowledgement",
+      "url": "https://open.spotify.com/track/1dAQ0d23E43gznWA5bvXZT"
+    },
+    {
+      "album": {
+        "name": "Romance",
         "url": "https://open.spotify.com/album/2v8fJtNbT42y6huBvyyvIT"
       },
       "artists": [
@@ -261,6 +279,28 @@
       "duration_ms": 137764,
       "name": "Atlantic.Wav",
       "url": "https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL"
+    },
+    {
+      "album": {
+        "name": "Autumn Chills",
+        "url": "https://open.spotify.com/album/6YwhevuTpiBj2f4ABjntyF"
+      },
+      "artists": [
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        },
+        {
+          "name": "Hubert Daviz",
+          "url": "https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Autumn Chills",
+      "url": "https://open.spotify.com/track/1QeNanRwlzQT8gQ2RDsSqP"
     },
     {
       "album": {
@@ -853,7 +893,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 133165,
       "name": "Faces",
       "url": "https://open.spotify.com/track/39qwnp9qlLcYd4bq6s5HMj"
@@ -2181,7 +2221,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 148014,
       "name": "Open Window",
       "url": "https://open.spotify.com/track/703hSWNgehWT0F16awNLr1"
@@ -2199,7 +2239,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 160456,
       "name": "ORANGE",
       "url": "https://open.spotify.com/track/2QFvsZEjbketrpCgCNC9Zp"
@@ -2607,7 +2647,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 196923,
       "name": "Silience",
       "url": "https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu"

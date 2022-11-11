@@ -67,7 +67,7 @@
     {
       "album": {
         "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+        "url": "https://open.spotify.com/album/3tawGkhiyexNEKVufU4SZX"
       },
       "artists": [
         {
@@ -78,6 +78,24 @@
       "date_added": "2019-10-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230920,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/12Yp7LeRlVcqtdU6ErC5vX"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2019-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 231013,
       "name": "Animals",
       "url": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
@@ -131,10 +149,28 @@
       ],
       "date_added": "2019-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 294573,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
+    },
+    {
+      "album": {
+        "name": "Divas Pop",
+        "url": "https://open.spotify.com/album/0LCGxljG8jn5oaJcRItyMj"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2019-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/7jUIPRC4R6B7NkKZof0Uci"
     },
     {
       "album": {
@@ -174,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Sad Songs 2022",
+        "url": "https://open.spotify.com/album/2jursZ0O8mPO12oEW8g83J"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2019-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286253,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/2xg25sUiSxP1BrCzfvsCBp"
+    },
+    {
+      "album": {
         "name": "Born To Die \u2013 Paradise Edition (Special Version)",
         "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
       },
@@ -185,7 +239,7 @@
       ],
       "date_added": "2019-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 286253,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/5wEreUfwxZxWnEol61ulIi"
@@ -203,10 +257,28 @@
       ],
       "date_added": "2019-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 373000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu"
+    },
+    {
+      "album": {
+        "name": "Work from Home - Rock Edition",
+        "url": "https://open.spotify.com/album/7vjYrisJrotluSrJvKn7B1"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2019-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373200,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1UCEhzomguqcJ7FbkFzaux"
     },
     {
       "album": {
@@ -293,10 +365,28 @@
       ],
       "date_added": "2019-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 189640,
       "name": "Dead in the Water",
       "url": "https://open.spotify.com/track/2VHMbDcuKELIqvB7bh1QhE"
+    },
+    {
+      "album": {
+        "name": "Skeleton Coast I",
+        "url": "https://open.spotify.com/album/7JeIC2EtoZvPqJfT4yXWOB"
+      },
+      "artists": [
+        {
+          "name": "SPELLES",
+          "url": "https://open.spotify.com/artist/76UfJrb52tTTiDQNWEeCBY"
+        }
+      ],
+      "date_added": "2019-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189640,
+      "name": "Dead in the Water",
+      "url": "https://open.spotify.com/track/2ZvRgpb9gf5ejw0eH5FcU0"
     },
     {
       "album": {
@@ -380,6 +470,24 @@
     },
     {
       "album": {
+        "name": "Capodanno 80's Party",
+        "url": "https://open.spotify.com/album/0RC9BkBImV6IAL5942zXHv"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2019-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251760,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/3q6iKaLcyppKggDzS9RucN"
+    },
+    {
+      "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
@@ -391,7 +499,7 @@
       ],
       "date_added": "2019-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -506,6 +614,24 @@
     },
     {
       "album": {
+        "name": "Manic: Confessional EP",
+        "url": "https://open.spotify.com/album/3PIznIAobzDeru0ESIlmHz"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2019-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181805,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/0kyEN28OSLoVmZFimA09eB"
+    },
+    {
+      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
       },
@@ -517,7 +643,7 @@
       ],
       "date_added": "2019-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 181805,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/2ufmtcIFdFpuUYBPXK5f67"
@@ -777,10 +903,28 @@
       ],
       "date_added": "2019-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 212047,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/3sesq9P6ndjuqaq5om7sxT"
+    },
+    {
+      "album": {
+        "name": "Halloween Songs",
+        "url": "https://open.spotify.com/album/6gkjZRDaSatdlwp9ZMtIzu"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "date_added": "2019-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212047,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/42wM0o1ljWLGcZ8xNFcUlA"
     },
     {
       "album": {
@@ -1135,10 +1279,28 @@
       ],
       "date_added": "2019-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 217364,
       "name": "One Way Or Another",
       "url": "https://open.spotify.com/track/59CLe8stbcx4XYBWdsfbwK"
+    },
+    {
+      "album": {
+        "name": "80's Hits It's Party Time",
+        "url": "https://open.spotify.com/album/0OJqkYr2eYrJumOuxCvMUz"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2019-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215106,
+      "name": "One Way Or Another - Remastered/2001",
+      "url": "https://open.spotify.com/track/1nVI3acPU8MWnaOfXBEYyX"
     },
     {
       "album": {
@@ -1250,6 +1412,24 @@
     },
     {
       "album": {
+        "name": "Halloween for Kids",
+        "url": "https://open.spotify.com/album/7oYdF4y0Djq4nQpyHlcfYq"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2019-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236480,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/6tUEdj7qGKPN3rV6GpBwuc"
+    },
+    {
+      "album": {
         "name": "Hitsville USA, The Motown Collection 1972-1992",
         "url": "https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP"
       },
@@ -1261,7 +1441,7 @@
       ],
       "date_added": "2019-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 238773,
       "name": "Somebody's Watching Me - Single Version",
       "url": "https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv"
@@ -1490,6 +1670,28 @@
     },
     {
       "album": {
+        "name": "Step Back In Time: The Definitive Collection (Expanded)",
+        "url": "https://open.spotify.com/album/6dZIEsIXM2oY3aN0npklmB"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2019-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235946,
+      "name": "Where the Wild Roses Grow - 2011 - Remaster",
+      "url": "https://open.spotify.com/track/4lKtuFVbBcQP7nwpLS0V8K"
+    },
+    {
+      "album": {
         "name": "Murder Ballads (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW"
       },
@@ -1505,7 +1707,7 @@
       ],
       "date_added": "2019-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 237080,
       "name": "Where the Wild Roses Grow - 2011 - Remaster",
       "url": "https://open.spotify.com/track/3OwtuzRo8mc7lgsBau9MWk"

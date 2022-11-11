@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > Essential kids songs to add to your family's collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,320 likes - 110 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,321 likes - 110 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 92 | [Crayon Kids](https://open.spotify.com/track/4M3nufr1L2tt1U1ISbOIiO) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Crayon Kids](https://open.spotify.com/album/68ytofYrtp1M86bkZsC01y) | 4:31 |
 | 93 | [Awesome Blossom](https://open.spotify.com/track/73LhvPZug2UePzRWjXriCV) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:39 |
 | 94 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 |
-| 95 | [Hey Little Heart](https://open.spotify.com/track/7lNWxEfi2bySX6IaPwX4GE) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [In My Garden](https://open.spotify.com/album/2D8ZsWo3AN7YzzmUYVbAA3) | 2:41 |
+| 95 | [Hey Little Heart](https://open.spotify.com/track/4tNfOvzC709Jjw20H0VBv2) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Hey Little Heart](https://open.spotify.com/album/0BVkMt0XuRNRU2SXdSOxVo) | 2:41 |
 | 96 | [Sing Out](https://open.spotify.com/track/4EKSLfEacTdoqOA9W0Y9JS) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq), [Mariand Torres](https://open.spotify.com/artist/3x4ArwCXrGaFMa84AkW9Nh) | [Sing Out](https://open.spotify.com/album/2oVGbRVEBDJ9uBoBykU0q7) | 2:55 |
 | 97 | [It Takes All Kinds](https://open.spotify.com/track/6buOAgCVrNmVjxa3VmKgd7) | [Alastair Moock](https://open.spotify.com/artist/5NwLASbIjDj6FUgaEa1NMz) | [All Kinds of You and Me](https://open.spotify.com/album/3ssKvHMvJ0QMpWO9Wo1Szv) | 3:07 |
 | 98 | [I'm Always Me](https://open.spotify.com/track/3706vBqhCe42c5ulhhE2S1) | [Narwhals and Waterfalls](https://open.spotify.com/artist/3bGbqC8l55hrX4dbovAMBX) | [Simple SEL](https://open.spotify.com/album/7jakIO1K3h45nW7UqmGG2Q) | 3:08 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 109 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 |
 | 110 | [It's You I Like](https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: SLEEP](https://open.spotify.com/album/0nEw5zT6pJke7ivN6qnoXn) | 1:37 |
 
-Snapshot ID: `MTY2NTEzMTg2NywwMDAwMDAwMDEzZWI4YWY1NDI5ZmU1Y2VkMmM5Y2YzMjYzMDk0NWVl`
+Snapshot ID: `MTY2NTEzMTg2NywwMDAwMDAwMDliYWU4NjllMDAwY2NhYmFlOGJhYmMzNzVlMDc0OTdj`

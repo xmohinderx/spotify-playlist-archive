@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "Ricardo Gonzalez \"Cepill\u00edn\"",
+        "url": "https://open.spotify.com/album/51eGlVyvZn3ZRW9mIG5Scs"
+      },
+      "artists": [
+        {
+          "name": "Cepillin",
+          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149681,
+      "name": "Amor Chiquito",
+      "url": "https://open.spotify.com/track/7CizjeYnfea12IJX0x4BML"
+    },
+    {
+      "album": {
         "name": "El Payasito de la Tele \"Cepill\u00edn\"",
         "url": "https://open.spotify.com/album/6c3b5DEPxFCnFBxTnDKJ0K"
       },
@@ -53,7 +71,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 152189,
       "name": "Amor Chiquito",
       "url": "https://open.spotify.com/track/2DG50cgFWTnqWXAoDjAkPU"
@@ -226,6 +244,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits - We Will Rock You Edition",
+        "url": "https://open.spotify.com/album/4Qcy60knPmSHjWmOsVVwhL"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163306,
+      "name": "Crazy Little Thing Called Love - Remastered",
+      "url": "https://open.spotify.com/track/4hNKm844QktyaKubGM8Ggk"
+    },
+    {
+      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -237,7 +273,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 163373,
       "name": "Crazy Little Thing Called Love - Remastered 2011",
       "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
@@ -266,6 +302,24 @@
     },
     {
       "album": {
+        "name": "\u00c9xitos de la Salsa",
+        "url": "https://open.spotify.com/album/4dE8XD9VBh3UDOio2LsqKc"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 622520,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/166cUvnNBa5ZoFWLIsLZfU"
+    },
+    {
+      "album": {
         "name": "Comedia",
         "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
@@ -277,10 +331,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 626880,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Carlos Gardel",
+        "url": "https://open.spotify.com/album/09TK8ye7vqvteQc4A59CwL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203885,
+      "name": "El Dia Que Me Quieras",
+      "url": "https://open.spotify.com/track/5f1RX31fGl8upawhonitG9"
     },
     {
       "album": {
@@ -295,10 +367,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 201933,
       "name": "El D\u00eda Que Me Quieras (Remasterizado 2022)",
       "url": "https://open.spotify.com/track/1Nkq4Ks8Q3aXlmxD3iLx9v"
+    },
+    {
+      "album": {
+        "name": "The Best Of - Ultimate Collection (All Time Hits)",
+        "url": "https://open.spotify.com/album/4u05OpDUVaKKaT7hV8c8KI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241333,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/5gu7Q6mpdYxVhpFYYE8ZPS"
     },
     {
       "album": {
@@ -313,7 +403,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 256200,
       "name": "El Triste",
       "url": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
@@ -511,10 +601,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 278866,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "album": {
+        "name": "Festej\u00e1 con ritmos latinos",
+        "url": "https://open.spotify.com/album/3nnjSxO8sva22SJQgOwKYL"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/7HL0P35A96wkutKopiovaX"
     },
     {
       "album": {
@@ -601,10 +709,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 193933,
       "name": "Mar\u00eda Bonita",
       "url": "https://open.spotify.com/track/6QQ6qVTv2G7CnAhTw5iZug"
+    },
+    {
+      "album": {
+        "name": "Celebrando La Historia De M\u00e9xico",
+        "url": "https://open.spotify.com/album/3pjv7wa4opgEwM5CbDRklZ"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200493,
+      "name": "Mar\u00eda Bonita",
+      "url": "https://open.spotify.com/track/1R1rLtnun7WAEDPufdb3dz"
     },
     {
       "album": {
@@ -720,6 +846,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor de Julio Jaramillo",
+        "url": "https://open.spotify.com/album/1vmIQyW1o8tKb4vtBefwi7"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195926,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/14g4Oi7wtimsoJYLjtiCa9"
+    },
+    {
+      "album": {
         "name": "El Ruise\u00f1or de America",
         "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
       },
@@ -731,10 +875,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 195936,
       "name": "Nuestro Juramento",
       "url": "https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll"
+    },
+    {
+      "album": {
+        "name": "Salsa Hits Vol. 1",
+        "url": "https://open.spotify.com/album/09MwMLWF7NltEqilzZQYYw"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/0FuISXHRJrqpNAx7Unvn9D"
     },
     {
       "album": {
@@ -749,7 +911,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 274018,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"

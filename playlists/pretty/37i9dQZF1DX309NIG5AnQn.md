@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Hay otro sonido y lo encontrás acá\. <br/>Foto: Buenos Vampiros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,467 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,473 likes - 79 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 30 | [El Canto De Las Ranas](https://open.spotify.com/track/6cGrk0pu2xrhKq10ITS8F6) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH) | [El Canto De Las Ranas](https://open.spotify.com/album/1Dv4i4xkh9X0esjdZMyMvm) | 5:05 |
 | 31 | [Era un Día Perfecto](https://open.spotify.com/track/2p4q16NmSsr8vobCRfigQl) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC), [Chary Loquero](https://open.spotify.com/artist/2js5TqocdHmmCV22px3iDE) | [Era un Día Perfecto](https://open.spotify.com/album/2I4sJxvwWdkpeIJ6Y8UboE) | 2:58 |
 | 32 | [¿Cuánto Falta?](https://open.spotify.com/track/6Xt4PwgXPHenb5K4UE2S1d) | [Tranki Punki](https://open.spotify.com/artist/1voO7UCR96uHnMVl0uyMp7), [Susy Shock](https://open.spotify.com/artist/7cSEm0IEhlSHyPx0rXC6oY) | [Marea Negra](https://open.spotify.com/album/4iEcgpEhZvR6PcbAvBABXC) | 3:27 |
-| 33 | [Toxi](https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B) | 2:33 |
+| 33 | [Toxi](https://open.spotify.com/track/2LsDtdyR8SlNWVsRoxADK8) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Toxi](https://open.spotify.com/album/2q4SXmZTr90weHmEIN8mEa) | 2:33 |
 | 34 | [Vértigo](https://open.spotify.com/track/1PNX59Q0WypLQ0BHPaQgxa) | [Privia](https://open.spotify.com/artist/6YNt4OQyBcr8Hc45UAS8z4) | [Vértigo](https://open.spotify.com/album/6IOe1xvpCdRRSn0Bq0M4Ve) | 3:05 |
 | 35 | [Lo Que Guarden Tus Ojos](https://open.spotify.com/track/71fxuzel9fUGYTOTaQDb4g) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Lo Que Guarden Tus Ojos](https://open.spotify.com/album/7At1MTQ5r0FoGocoMMR68k) | 3:16 |
 | 36 | [Dulces Sueños, y Hasta Siempre !](https://open.spotify.com/track/2cbKcRgL0jBJ2BGIAJyOSX) | [electro reno](https://open.spotify.com/artist/3ch5YUSBJld17z6WfbKVXq), [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Un Pie en la Tumba](https://open.spotify.com/album/6IHjEeDPQX1nBU45c6DLYt) | 1:37 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 78 | [Algo de Mí, Algo de Vos](https://open.spotify.com/track/5QLSpgVelBjHe6S7tMxzY7) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Algo de Mí, Algo de Vos](https://open.spotify.com/album/2OjRONkL7HZt4jhaXX0MDn) | 4:33 |
 | 79 | [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 |
 
-Snapshot ID: `MTY0ODE3NzIwMCwwMDAwMDAwMDkzY2Q2NWJjYTUyNzEyNGY2YjExMWRjOGU4MTQxZjY5`
+Snapshot ID: `MTY0ODE3NzIwMCwwMDAwMDAwMGYyY2FmMmQzMTZiYzNmMTdmNDZiNTM1YWIxZDYxM2Vj`

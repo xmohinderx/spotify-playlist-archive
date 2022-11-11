@@ -4,7 +4,7 @@
 
 > Generation defining music, one playlist.
 
-60 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/5dxrgiDbd1PKMHmIO4juKN)
+61 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/5dxrgiDbd1PKMHmIO4juKN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Too Much of Not Enough](https://open.spotify.com/track/6RhophzGHp8ekQLC1HjEzo) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 4:42 | 2021-09-16 | 2022-07-29 |
 | [Too Much of Not Enough](https://open.spotify.com/track/4FhNIcwh5wjUnptqRwdgoy) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 4:44 | 2021-09-16 |  |
 | [Trash](https://open.spotify.com/track/0ZV25tpsovvI9ar3B3C5sh) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 2:46 | 2021-09-16 |  |
-| [Tuna in the Brine](https://open.spotify.com/track/5kmagO5ooNVld9ZGmsRWMf) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 5:39 | 2021-09-16 |  |
+| [Tuna in the Brine](https://open.spotify.com/track/5kmagO5ooNVld9ZGmsRWMf) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 5:39 | 2021-09-16 | 2022-11-11 |
+| [Tuna In the Brine](https://open.spotify.com/track/6pnV9NKOoKYrdcbrOuN5lV) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Grunge Ballads](https://open.spotify.com/album/3qHHW8MjwoASvLV9QpaHav) | 5:39 | 2022-11-03 |  |
 | [Tuna in the Brine](https://open.spotify.com/track/3gubenMKEX0gJDJjm1gGzN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 5:40 | 2021-09-16 | 2022-07-29 |
 | [Undecided](https://open.spotify.com/track/3Yhi0Tz3zAD5Q7OUekXsdz) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:36 | 2021-09-16 |  |
 | [Untitled](https://open.spotify.com/track/2dPKS3Cegk5YgO1HB64FUr) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:30 | 2021-09-16 |  |

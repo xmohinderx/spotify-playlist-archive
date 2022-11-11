@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 
 > In loving memory of Marie Fredriksson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,929 likes - 52 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,081 likes - 52 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 | 2 | [Let Your Heart Dance With Me](https://open.spotify.com/track/6Zz5roTd5pRgkrH7Mc8qdh) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Let Your Heart Dance With Me](https://open.spotify.com/album/7CCCA04QzihpAgSqXdatI7) | 3:07 |
 | 3 | [Listen To Your Heart](https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 5:28 |
 | 4 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:18 |
-| 5 | [The Look](https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 3:57 |
+| 5 | [The Look](https://open.spotify.com/track/7akWKDSf4k0Q0AHGoG91hu) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 3:57 |
 | 6 | [Dressed For Success](https://open.spotify.com/track/7dOyP04azUFikPvAkhRBeJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 4:09 |
 | 7 | [Fading Like A Flower \(Every Time You Leave\)](https://open.spotify.com/track/7qSd3WHSPUtmt6c36pwJaY) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Deluxe Version\)](https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R) | 3:50 |
 | 8 | [Joyride \- Single Version](https://open.spotify.com/track/3Skwc4sh1QHUGcWrFBFWSF) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:01 |
 | 9 | [Spending My Time](https://open.spotify.com/track/47PQWnMc01EmIH0PD2UuGb) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Deluxe Version\)](https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R) | 4:35 |
 | 10 | [Dangerous](https://open.spotify.com/track/7LwsqxyIqOCF9vbdHmdIvT) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 3:48 |
-| 11 | [How Do You Do!](https://open.spotify.com/track/3BK8mbUFbBZ3mI5HE4eqCR) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 3:09 |
+| 11 | [How Do You Do!](https://open.spotify.com/track/2D7GRdSAcRkBsDtXsnjh1v) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 3:09 |
 | 12 | [Sleeping in My Car \- Single Version](https://open.spotify.com/track/0CicjlSiN0HdzD2nigN9j4) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 3:34 |
 | 13 | [Things Will Never Be The Same](https://open.spotify.com/track/2jKycIEA5nZOJxviK83FAX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 4:26 |
 | 14 | [The Big L.](https://open.spotify.com/track/3Me4YCKqNWLXZXl0CN3trv) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The 30 Biggest Hits XXX](https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ) | 4:25 |
@@ -29,19 +29,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 | 19 | [Crash! Boom! Bang!](https://open.spotify.com/track/6RpIFxTwkNIVuO5pV9ui9G) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(Extended Version\)](https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV) | 5:01 |
 | 20 | [Wish I Could Fly](https://open.spotify.com/track/0WA3oDtGuzprTGI5qEZuTl) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Have A Nice Day](https://open.spotify.com/album/0nH1MMlYBi0LcAXpA2KaDn) | 4:39 |
 | 21 | [Milk and Toast and Honey](https://open.spotify.com/track/5zKyU6CL3L0QA2J4jcBzRM) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The 30 Biggest Hits XXX](https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ) | 4:04 |
-| 22 | [Run To You](https://open.spotify.com/track/6f4xbgWKdECm1QyTGEm1ua) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(Extended Version\)](https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV) | 3:39 |
+| 22 | [Run to You \- G.M\. Remaster '03](https://open.spotify.com/track/4pjvjrnAQK2sYnaiT7zq6V) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The 30 Biggest Hits XXX](https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ) | 3:38 |
 | 23 | [Church Of Your Heart](https://open.spotify.com/track/6broBHB7ObAA2BhzLT2nlX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 3:15 |
 | 24 | [Habla El Corazón \(Listen to Your Heart\)](https://open.spotify.com/track/2V9cNEWIimaJCXMw4tL6Sk) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 5:11 |
 | 25 | [The Rain](https://open.spotify.com/track/52MEUtRBkwR4mjVuU7Rzmo) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 4:49 |
 | 26 | [What's She Like?](https://open.spotify.com/track/2fvm3jbdwHSTLHe1yBA1tU) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(Extended Version\)](https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV) | 4:14 |
-| 27 | [Paint](https://open.spotify.com/track/32f8ABUmz8CSXztbvabYf3) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 3:30 |
+| 27 | [Paint](https://open.spotify.com/track/6I65MPuHaxas6QldsBSIkJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! 30th Anniversary Edition](https://open.spotify.com/album/70EpMMqKGTqr61NHxBlLvt) | 3:30 |
 | 28 | [You Don't Understand Me](https://open.spotify.com/track/2ml34OiH9fNXFS9bS5Q6in) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:28 |
 | 29 | [June Afternoon](https://open.spotify.com/track/3tSdiH7uUhSQG7QQtj9uTr) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:11 |
 | 30 | [Soy Una Mujer \(Fading Like a Flower\)](https://open.spotify.com/track/69RnMA6JzuVCG0osd731iU) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 3:48 |
-| 31 | [Vulnerable](https://open.spotify.com/track/4JAi20NP5hkUpaKvwtX1nO) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(Extended Version\)](https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV) | 5:00 |
+| 31 | [Vulnerable](https://open.spotify.com/track/0u1lCJm4VPLWQwhVPk3YE9) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The Ballad Hits](https://open.spotify.com/album/2vYVXGQRRtaicjLpt5INMP) | 5:00 |
 | 32 | [\(Do You Get\) Excited?](https://open.spotify.com/track/1VXThXSlJDfst2CkNxvAz9) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 4:15 |
 | 33 | [A Thing About You](https://open.spotify.com/track/7JqAHnv9YZOPN8HTR4Fq7M) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The Ballad Hits](https://open.spotify.com/album/2vYVXGQRRtaicjLpt5INMP) | 3:46 |
-| 34 | [Never Is A Long Time](https://open.spotify.com/track/2yGYbjVEnivRH6KN87yu5W) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 3:45 |
+| 34 | [Never Is A Long Time](https://open.spotify.com/track/1Bj9M4ODqlvhQT42tarhbe) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(Extended Version\)](https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q) | 3:45 |
 | 35 | [Silver Blue](https://open.spotify.com/track/18TTA9AhwSqIh5WAlwVDXK) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism](https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy) | 4:06 |
 | 36 | [Salvation](https://open.spotify.com/track/5PadY2fmWAzotfo4pocchC) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The Ballad Hits](https://open.spotify.com/album/2vYVXGQRRtaicjLpt5INMP) | 4:37 |
 | 37 | [The Centre Of The Heart \- 2003 Remaster](https://open.spotify.com/track/0aPwBQtbBwcZidIQx4lrfX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The 30 Biggest Hits XXX](https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ) | 3:23 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 | 48 | [This One](https://open.spotify.com/track/1x3zGk6n2aSXmrf7cCZDN5) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 3:11 |
 | 49 | [Easy Way Out](https://open.spotify.com/track/652SjitiLFptw9ac34uQoz) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Travelling](https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq) | 3:38 |
 | 50 | [Un día sin tí \(Spending My Time\)](https://open.spotify.com/track/7Jwp98P2bsP5n5lE2We8GJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 4:39 |
-| 51 | [She's Got Nothing on \(But the Radio\)](https://open.spotify.com/track/3GOgvkh0JfVo17FBiPUe87) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Charm School Revisited](https://open.spotify.com/album/1UFaRYryIZM1T3Dxgu2fEt) | 3:34 |
+| 51 | [She's Got Nothing on \(But the Radio\)](https://open.spotify.com/track/5MyqtugXD2gTCDXKVGHM5c) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Greatest Hits](https://open.spotify.com/album/4htx3t5YHqgyTgHw3xinsf) | 3:34 |
 | 52 | [Why Dontcha?](https://open.spotify.com/track/2XoC5eg7dngMTiySchGYFU) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 2:45 |
 
-Snapshot ID: `MTY1MTczNzg4NywwMDAwMDAwMDVhYjdiYTI2Zjg2YTEyMzI5MGZlNzU1YzM0M2FkMGI3`
+Snapshot ID: `MTY1MTczNzg4NywwMDAwMDAwMGYxOWNlZjgyNmUyNTMyNDE0YTQ2MTYyMzk1OTk2NWMy`

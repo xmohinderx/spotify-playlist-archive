@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,787 likes - 98 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,858 likes - 98 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 30 | [O Rangreza \- From "O Rangreza"](https://open.spotify.com/track/63Tdaqeaw7WeVkugjAkMux) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [O Rangreza \(From "O Rangreza"\)](https://open.spotify.com/album/5n5z6itVAu9lUsiYUmVa0C) | 5:47 |
 | 31 | [Bulleya](https://open.spotify.com/track/0Bz7dfqPY4JOGZO3O1j8Wh) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 |
 | 32 | [O Re](https://open.spotify.com/track/4AHvMLWvuGZn62sCpFEtj7) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 5:21 |
-| 33 | [Noor E Khuda](https://open.spotify.com/track/60d1uQmqTZ1Lg2SGJYdQTI) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [We Are Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0WepPP0SOdbZD6oFHzAM4X) | 6:36 |
+| 33 | [Noor E Khuda](https://open.spotify.com/track/1hYGGAiBaKuBgkoMZC5Kpu) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Shah Rukh Khan \- Raja of Bollywood](https://open.spotify.com/album/24QRpt2JtTr76etVIutFMV) | 6:37 |
 | 34 | [Javeda Zindag](https://open.spotify.com/track/7KKgE6UHxqhuxkNV2k3AKn) | [Kshitij](https://open.spotify.com/artist/2SzDI11JbzzEnNFYB6MrkS), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 8:22 |
 | 35 | [Mere Ali Moula Ali](https://open.spotify.com/track/0j0oUCC2zHb2vCSUULqqDL) | [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W), [Jaan Nissar Lone](https://open.spotify.com/artist/61d8y45wk2tqiXKcebtev7) | [Mere Ali Moula Ali](https://open.spotify.com/album/6jvA9YEttzrot17nFihVcj) | 5:00 |
 | 36 | [Duma dum mast qalandar](https://open.spotify.com/track/4AnFOrG0buaFD9DYCty84Q) | [Reshma](https://open.spotify.com/artist/0xawOgbaKGtq7KSlrRWrWP) | [Dumadum Mast Qalandar\- 5 Powerpacked Renditions](https://open.spotify.com/album/4so80ydgtvJRV2lAhP00r1) | 9:19 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 97 | [Husn E Haqiqi](https://open.spotify.com/track/1Yi1XZNXOGk49Eh8WI5FGG) | [Darvesh](https://open.spotify.com/artist/1mPsFzgP5Zg6gdnfyKWMyJ) | [Husn E Haqiqi](https://open.spotify.com/album/402uZx2nCUK3MWpvqrVNxW) | 6:39 |
 | 98 | [Naukar Shah Da](https://open.spotify.com/track/0QPOtQjf1Nl1wVNcPV6e4s) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Naukar Shah Da](https://open.spotify.com/album/54Kjgaj9mL1n2iFyKxZ70v) | 4:13 |
 
-Snapshot ID: `MTY2NzQxODQwNiwwMDAwMDAwMDhjZTRkYWFlMDg0ZDM2MDg3ZTI1MzFjZDg2NDMzY2Yw`
+Snapshot ID: `MTY2NzQxODQwNiwwMDAwMDAwMGVlYzg1M2E2ZjVmODQzODc0MDg1MTM0NWM2YTAxOWY3`

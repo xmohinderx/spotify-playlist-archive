@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> it's a generation ⛓ cover: avril lavigne & yungblud
+> it's a generation ⛓ cover: jxdn
 
-407 songs - 20 hr 33 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
+413 songs - 20 hr 52 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Death Wish](https://open.spotify.com/track/5TeiMihQPtOXalkkhQC25r) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6), [Mason Levi](https://open.spotify.com/artist/2lx2zCw0a5evbYvfBlft1J) | [Death Wish](https://open.spotify.com/album/6wU1BcX0FRXBFHyNZ7XtQP) | 3:14 | 2022-07-07 | 2022-09-16 |
 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-02-11 | 2022-08-05 |
 | [December](https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 3:38 | 2022-01-07 | 2022-01-21 |
-| [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-08-27 |  |
+| [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-08-27 | 2022-11-11 |
+| [DEEP CUTS](https://open.spotify.com/track/7q9xpIuDaUShbrXdFw54gu) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [No Future? Yeah Right \(feat\. Rou Reynolds\)](https://open.spotify.com/album/5axzKeJiGWgRV4OlFdSPHL) | 4:14 | 2022-11-11 |  |
 | [DEMONS](https://open.spotify.com/track/32xcZLqIik5c21zDJj9xAV) | [The Tyne](https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V) | [BORN ON THE INTERNET](https://open.spotify.com/album/5qMCPAIS3GDGQHPl8N0Mvx) | 2:22 | 2022-08-04 | 2022-09-09 |
 | [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2022-01-07 | 2022-03-25 |
 | [Devotion And Desire](https://open.spotify.com/track/27O9FuS1UIm6ZyLplgLQAH) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Bayside](https://open.spotify.com/album/2QtIreQj0XrhypG6U5H4o5) | 3:29 | 2022-10-20 | 2022-11-01 |
@@ -211,6 +212,7 @@
 | [Lazy Bones \(feat\. Boy Destroy\)](https://open.spotify.com/track/0GSdOOCnH72bwjeioW8dYb) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB), [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Lazy Bones \(feat\. Boy Destroy\)](https://open.spotify.com/album/7acp6aBWpECA3tBZd3ipxD) | 2:15 | 2022-01-07 | 2022-01-28 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-03-18 | 2022-07-22 |
 | [Lies](https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Lies](https://open.spotify.com/album/2EIv15518bIEB1LKkeDijG) | 2:50 | 2022-05-12 | 2022-06-10 |
+| [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 | 2022-11-11 |  |
 | [LIKE YOU](https://open.spotify.com/track/7LQTL3hhiZ7ZXKt7dACDrK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [THE BEST DAY OF MY LIFE](https://open.spotify.com/album/2bzsluckPjoDg17ERuLJac) | 2:59 | 2022-01-07 | 2022-02-04 |
 | [locked out](https://open.spotify.com/track/2gpqdIv5iZzssla3QhcS7X) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [locked out](https://open.spotify.com/album/6gXs2b3V73mqBt4hroIZaA) | 2:56 | 2022-05-05 |  |
 | [looking at porn](https://open.spotify.com/track/2WLH4kW5gS9G5nPtoo8qGg) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [looking at porn](https://open.spotify.com/album/1v1VzddkiTxhqEaDhqtkdC) | 2:40 | 2022-01-21 | 2022-04-01 |
@@ -249,7 +251,8 @@
 | [My Therapist Told Me](https://open.spotify.com/track/08Ngb5MY4QnSXmawXGhW5p) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [My Therapist Told Me](https://open.spotify.com/album/4J4qnIjpeLbhDiBoqCvSPk) | 2:58 | 2022-02-11 | 2022-04-01 |
 | [Nevermind It To Hell](https://open.spotify.com/track/60m9qQoMAu3KfPg3YxqyHG) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [Softy](https://open.spotify.com/album/3xHMtK8SksnWDUUTrWOlmF) | 2:44 | 2022-03-04 | 2022-04-01 |
 | [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:09 | 2022-07-29 | 2022-09-23 |
-| [Next Ex](https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:09 | 2022-09-22 |  |
+| [Next Ex](https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:09 | 2022-09-22 | 2022-11-11 |
+| [Next Ex](https://open.spotify.com/track/0STS8KJXMAwSr4OmJV2THj) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Rock Brandneu](https://open.spotify.com/album/78ZxW9RlB2wiVZZnNo93R9) | 2:10 | 2022-11-11 |  |
 | [Nino](https://open.spotify.com/track/0vRhAqPvF2yFCcRHWWTeJf) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Nino](https://open.spotify.com/album/1SHFgXR5Lw4T2vGWXrL8NR) | 1:49 | 2022-01-07 | 2022-02-04 |
 | [no more](https://open.spotify.com/track/46RrAbibdqv8FpIgoEwSkL) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [no more](https://open.spotify.com/album/67x9FY7e6O6PEfZnBUOUFy) | 2:44 | 2022-02-18 | 2022-07-22 |
 | [NOT actin rite](https://open.spotify.com/track/7Iwh9fDTuiiLtN6tfU0RSa) | [JSTNXMLLR](https://open.spotify.com/artist/7Ibb0686FyhOvwYCuVa3CG) | [NOT actin rite](https://open.spotify.com/album/6n7aidZ2WpTzxT7CwjefSw) | 2:50 | 2022-08-11 |  |
@@ -262,8 +265,9 @@
 | [old tattoos](https://open.spotify.com/track/3EhIdQSKO7AwGK9of76U0Z) | [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [old tattoos](https://open.spotify.com/album/3o3DDHOfxhoxrGXxXNRCCP) | 2:29 | 2022-01-14 | 2022-02-11 |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2021-12-31 | 2022-01-08 |
 | [Paralyzed](https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Paralyzed](https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9) | 2:42 | 2021-12-31 | 2022-01-08 |
+| [Paranoid](https://open.spotify.com/track/0VGWr1QxSZQmvyxa5UHafg) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Lifeless Stars](https://open.spotify.com/album/0L3360c90nToRVL7FOBCOU) | 4:17 | 2022-11-11 |  |
 | [Paranoid](https://open.spotify.com/track/1ZLaWZGs81unqMVQZIasEa) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Paranoid](https://open.spotify.com/album/0lePSvQnli7PXVgVLGAXK3) | 4:17 | 2022-07-21 | 2022-10-21 |
-| [Paranoid](https://open.spotify.com/track/2pLqMA9nKEHLLfBGHroLOh) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:17 | 2022-10-31 |  |
+| [Paranoid](https://open.spotify.com/track/2pLqMA9nKEHLLfBGHroLOh) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:17 | 2022-10-31 | 2022-11-11 |
 | [Paranoid](https://open.spotify.com/track/6gGS0hjDNTPXlCowTPou0X) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Paranoid](https://open.spotify.com/album/4v7M2QPlvrPIZvMTnAO082) | 4:17 | 2022-03-31 | 2022-07-29 |
 | [Parasocial \(feat\. Mark Hoppus\)](https://open.spotify.com/track/02ZcHMPCRSV7u5SMkN8XO2) | [Ricky Himself](https://open.spotify.com/artist/5vz4AsHBUwAQ7qrhG5yyBS), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Parasocial \(feat\. Mark Hoppus\)](https://open.spotify.com/album/6o9Z4lpxjIylszd1wn3B5p) | 3:05 | 2022-02-11 | 2022-04-01 |
 | [Partycrasher](https://open.spotify.com/track/5QfVA7ZS9RtZCefzNedeIe) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Partycrasher](https://open.spotify.com/album/2Vbn9c20CFkn25VxtztPzo) | 3:09 | 2022-02-11 | 2022-05-13 |
@@ -312,6 +316,7 @@
 | [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-08-27 |  |
 | [So Contagious](https://open.spotify.com/track/3Nnm4EROP8wEnMpcmapvLR) | [Acceptance](https://open.spotify.com/artist/4zCbNayYzorqdzd9mPrghW) | [Phantoms](https://open.spotify.com/album/4TV5UrWG9ZnI6FxSawplwM) | 3:04 | 2022-10-20 | 2022-11-01 |
 | [Soak](https://open.spotify.com/track/1yTAMGYb5hcJXBRJh4oqMj) | [Waxflower](https://open.spotify.com/artist/6ZIpcOBGC8WtihYI8n7hf8) | [Soak](https://open.spotify.com/album/3Jj07iZX7NzaWpOI5qVTBm) | 2:41 | 2022-01-07 | 2022-02-11 |
+| [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 | 2022-11-11 |  |
 | [sober](https://open.spotify.com/track/7qhIVH6Vov1CxFX7X7s8RM) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [BOYFRIENDZ](https://open.spotify.com/artist/0iZ1Gwx0L2YqRDBTF3JzqT) | [sober](https://open.spotify.com/album/1EicEDUEVlEAYYWPIL8Oxf) | 3:06 | 2022-01-07 | 2022-03-18 |
 | [Sober/Hungover \(feat\. Arizona Zervas\)](https://open.spotify.com/track/4yfQyGR61s7Mc5898V1BE6) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [Sober/Hungover \(feat\. Arizona Zervas\)](https://open.spotify.com/album/7eZqdxIfr07B8Vr02Ijd5K) | 2:49 | 2022-01-07 | 2022-01-28 |
 | [sound in my head](https://open.spotify.com/track/6tgaf9F3ZHgIlXpdymEfUe) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [you were good to me \(deluxe\)](https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T) | 2:31 | 2022-09-22 |  |
@@ -365,6 +370,7 @@
 | [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 | 2022-09-15 |  |
 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 | 2021-12-31 | 2022-01-08 |
 | [Time Machine](https://open.spotify.com/track/0tYfi7vl6FbspcxyGHCDCu) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [Time Machine](https://open.spotify.com/album/30w21xul3TETE8LNZGLE5l) | 2:33 | 2022-01-07 | 2022-03-25 |
+| [Time of Your Life](https://open.spotify.com/track/6QvZeQylq5VDMkBx4Uvb0f) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Time of Your Life](https://open.spotify.com/album/1817WuNlDWoq89RhEofTXA) | 2:55 | 2022-11-11 |  |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-01 |  |
 | [Toaster For A Swim](https://open.spotify.com/track/3o5fFjZNcwZnKwF8deFHL0) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [\(e\)motion sickness](https://open.spotify.com/album/19QF8Q16dquh9yICxiJKEf) | 3:14 | 2022-08-27 |  |
 | [Too Soon](https://open.spotify.com/track/2idpJZnXSvfURT7xk9iYF0) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Loud Without Noise](https://open.spotify.com/album/2dAeC1Va8oTjkXEZ2laVxO) | 3:10 | 2022-11-04 |  |

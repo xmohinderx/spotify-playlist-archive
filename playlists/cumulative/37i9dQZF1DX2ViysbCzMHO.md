@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-202 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+203 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Drunk Too](https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Drunk Too](https://open.spotify.com/album/2AccCtAAKQrx8b1bvPcftg) | 2:42 | 2021-12-17 |  |
 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 | 2021-12-17 |  |
 | [Even In My Dreams \- Acoustic](https://open.spotify.com/track/5WqhoP1sXe81DyB91q77aw) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Even In My Dreams Acoustic](https://open.spotify.com/album/50eTd9xEFGizDaZDR7U7uo) | 3:11 | 2022-04-08 | 2022-07-19 |
-| [Every Other Memory \- Acoustic](https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:41 | 2021-12-17 | 2022-11-05 |
+| [Every Other Memory \- Acoustic](https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:41 | 2021-12-17 |  |
 | [Faithfully \- Acoustic](https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Faithfully \(Acoustic\)](https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh) | 4:37 | 2021-12-17 |  |
 | [Fall In Love \- Acoustic](https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love \(Acoustic\)](https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD) | 3:58 | 2022-04-15 |  |
 | [Fall in Love \- Acoustic](https://open.spotify.com/track/17DTmTAm5l3P8vvC8lO25z) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [12/12 \(Acoustic Pt\. 1\)](https://open.spotify.com/album/1ZGQkU4wtCJ0sNHQYlDQ6w) | 2:45 | 2021-12-17 | 2022-07-09 |
@@ -119,7 +119,8 @@
 | [Memorize You \- Acoustic](https://open.spotify.com/track/3iQRMV1RML1TBMioordUI5) | [Laine Hardy](https://open.spotify.com/artist/2e4sMCgdXD5TkFquoTEA4j) | [Memorize You \(Acoustic\)](https://open.spotify.com/album/27n9Nh4PEeY6Wwf1mvl8JL) | 3:16 | 2021-12-17 | 2022-08-13 |
 | [Mood \(Casual Sessions\)](https://open.spotify.com/track/52H1bXbps0XxpqDGqvtMRS) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Mood \(Casual Sessions\)](https://open.spotify.com/album/3EyViIpqLAjrGbxl8cbwsh) | 3:29 | 2022-04-01 | 2022-07-12 |
 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 | 2022-07-08 | 2022-07-29 |
-| [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2022-07-15 |  |
+| [More Hearts Than Mine](https://open.spotify.com/track/3TRlhYlnRVlQQMQbh3m2Tv) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [TikTok Sounds](https://open.spotify.com/album/49FLPP6KDpXKwldgjkoCUR) | 3:34 | 2022-11-04 |  |
+| [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2022-07-15 | 2022-11-11 |
 | [Narcissist \- Piano Version](https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Narcissist \(Piano Version\)](https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR) | 2:33 | 2022-04-29 |  |
 | [Nashville Or Nothing \- Stripped](https://open.spotify.com/track/2SujI6xuygJQ2fjJIwqjyS) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Nashville Or Nothing \(Stripped\)](https://open.spotify.com/album/7HIwS7l4C8LpiOg4ekFKrV) | 3:05 | 2022-04-22 | 2022-07-23 |
 | [Neon Moon](https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Neon Moon](https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT) | 2:41 | 2021-12-17 |  |
@@ -184,7 +185,7 @@
 | [Under My Skin \- Stripped](https://open.spotify.com/track/5jZgXhm2cSQmOTDJQENojy) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin \(Stripped\)](https://open.spotify.com/album/7216gXKQDpH8s38HJasmhS) | 3:05 | 2021-12-17 | 2022-07-29 |
 | [Us \(Acoustic\)](https://open.spotify.com/track/335YyFuHhO42xeENv3QT1a) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Us \(Acoustic\)](https://open.spotify.com/album/2JpnvFRNhalClaoZ4AbPuK) | 2:59 | 2022-04-01 |  |
 | [Waiting For You \- Acoustic](https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Studio 900 Sessions](https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK) | 3:05 | 2021-12-17 |  |
-| [Want It Again](https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 2:52 | 2022-07-15 |  |
+| [Want It Again](https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 2:52 | 2022-07-15 | 2022-11-11 |
 | [Want It Again](https://open.spotify.com/track/7KRcMPOGQA0WOw0T8qeXD7) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/54gUAvhpOHFDhHGAINyogO) | 2:52 | 2021-12-17 | 2022-07-29 |
 | [Watch Me Quit](https://open.spotify.com/track/6b9j8qFKyRDMF7BBcx4YLG) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [Watch Me Quit](https://open.spotify.com/album/4DvaYpQR2MuYv8l7LsXROq) | 5:48 | 2021-12-17 | 2022-01-15 |
 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 | 2022-08-26 |  |

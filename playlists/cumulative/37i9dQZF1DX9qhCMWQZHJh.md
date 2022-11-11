@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-70 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/0jqxyVDehbifbJp5LcYEor)
+72 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/0jqxyVDehbifbJp5LcYEor)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Choices \(Interlude\)](https://open.spotify.com/track/7yBpSyKmbZYLS8Rgz6ZD0B) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Blackheart](https://open.spotify.com/album/2IPKoEWJgWuM83zZOq3vkW) | 2:58 | 2022-05-06 |  |
 | [Cleo at Abbey Road](https://open.spotify.com/track/3b2Cti7tr0bZGmOI8pZsuk) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo at Abbey Road](https://open.spotify.com/album/3kZ3L3D6paw2abdWW88LGn) | 3:54 | 2022-04-11 |  |
 | [Come Together](https://open.spotify.com/track/1l32mo5oW5oIRRjNnVJBNR) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 3:40 | 2022-04-11 |  |
-| [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2022-04-11 |  |
+| [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2022-04-11 | 2022-11-11 |
+| [Destroy Myself Just For You](https://open.spotify.com/track/40iHwasC0kEK8fgaEfQReF) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Destroy Myself Just For You](https://open.spotify.com/album/1X71Gke5NpopGMNbNxEB35) | 2:26 | 2022-04-11 |  |
 | [Do It 4 U](https://open.spotify.com/track/131TA14qK6E6e3OYvq2KTd) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [D∆WN](https://open.spotify.com/artist/5FC4ZICxoYTYQbN1sGFKx1) | [Human Energy](https://open.spotify.com/album/5mvjXE0GQ6qm9IsoUGykAE) | 3:40 | 2022-04-11 |  |
 | [Essentially](https://open.spotify.com/track/2OZXdq8Z8pyvGWDnzhHFEX) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Essentially](https://open.spotify.com/album/0nO6SoUfhavtCo0JflL3SJ) | 3:16 | 2022-04-11 | 2022-10-14 |
 | [Essentially](https://open.spotify.com/track/7MI12qNsacindN65MWoMYR) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Essentially](https://open.spotify.com/album/77DrlB8DpvYIo2pSyw5z5s) | 3:16 | 2022-04-11 |  |
@@ -33,8 +34,9 @@
 | [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2022-04-11 | 2022-10-13 |
 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 | 2022-04-11 |  |
 | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/track/5CBEzaNEuv3OO32kZoXgOX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 5:37 | 2022-05-06 |  |
-| [Gibson Girl](https://open.spotify.com/track/02yzNsWcv7BtITeIoIqeVU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:42 | 2022-04-11 |  |
+| [Gibson Girl](https://open.spotify.com/track/02yzNsWcv7BtITeIoIqeVU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:42 | 2022-04-11 | 2022-11-11 |
 | [Gibson Girl](https://open.spotify.com/track/2C5C6grASn2TzfsrGu54tZ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Gibson Girl](https://open.spotify.com/album/5iQkSBngJVrm7mbhQ6iFaT) | 5:42 | 2022-04-11 | 2022-10-13 |
+| [Gibson Girl](https://open.spotify.com/track/2HhoibDFEwiioEa9Q5BErU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Gibson Girl](https://open.spotify.com/album/2XF3FudnkRkKXBAXzZSzJs) | 5:42 | 2022-04-11 |  |
 | [GLOWED UP](https://open.spotify.com/track/4v20N4W83XDJORt7WCedII) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:58 | 2022-05-06 |  |
 | [Good 2 Yourself](https://open.spotify.com/track/14BJVFg03Ep2iytTOSCEy1) | [Life in Sweatpants](https://open.spotify.com/artist/1gz7b6h7Jmh8Ixn8byJmCQ) | [Good 2 Yourself](https://open.spotify.com/album/3Crx0tSFjXYhJVERZJ5hXl) | 3:50 | 2022-04-11 |  |
 | [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 | 2022-05-06 |  |

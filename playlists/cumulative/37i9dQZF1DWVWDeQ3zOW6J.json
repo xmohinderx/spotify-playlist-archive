@@ -335,7 +335,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 211400,
       "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
       "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 626880,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
@@ -516,6 +516,28 @@
     },
     {
       "album": {
+        "name": "El Exigente",
+        "url": "https://open.spotify.com/album/2ot49MV7IVovrfxCARtxAV"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Harlow",
+          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
+        },
+        {
+          "name": "Larry Harlow",
+          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213773,
+      "name": "El Exigente",
+      "url": "https://open.spotify.com/track/09j8C1kYNjY66EVtl4nhl0"
+    },
+    {
+      "album": {
         "name": "\u00c9xitos, Vol. 1",
         "url": "https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep"
       },
@@ -581,7 +603,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 294640,
       "name": "El Yerbero Del Barrio",
       "url": "https://open.spotify.com/track/0u8lmRThcVenfXivdewmFM"
@@ -617,7 +639,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 289960,
       "name": "Estamos en Salsa",
       "url": "https://open.spotify.com/track/6nONybSopBGecWPK0pcvva"
@@ -683,10 +705,32 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 293946,
       "name": "Fuego Y Pa' Lante",
       "url": "https://open.spotify.com/track/5HpLBkDWIhJpehZMNRSKi5"
+    },
+    {
+      "album": {
+        "name": "Guisando: Doing A Job",
+        "url": "https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241640,
+      "name": "Guisando",
+      "url": "https://open.spotify.com/track/2H1VVvCqRoaBE5TGks5Bsj"
     },
     {
       "album": {
@@ -741,7 +785,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 176880,
       "name": "Incomprendido",
       "url": "https://open.spotify.com/track/3ImM4OW5DAs91JVoReV6m6"
@@ -777,7 +821,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 163560,
       "name": "Juancito Trucupey",
       "url": "https://open.spotify.com/track/2Xr2pWBvV4ofRkheeleKIf"
@@ -821,7 +865,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 456960,
       "name": "Juanito Alima\u00f1a",
       "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
@@ -839,7 +883,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 206200,
       "name": "La Cazuela",
       "url": "https://open.spotify.com/track/269rQv3OAIS5XcaQ6RLr2i"
@@ -857,7 +901,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 186306,
       "name": "La Cumbancha",
       "url": "https://open.spotify.com/track/66dtKlJQaldv0pL0zASzGm"
@@ -923,7 +967,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 156546,
       "name": "La Esquina Del Movimiento",
       "url": "https://open.spotify.com/track/28eTHRQGyFfQPqzwNWCYws"
@@ -989,7 +1033,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
@@ -1025,7 +1069,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 303106,
       "name": "La Receta",
       "url": "https://open.spotify.com/track/0IPkxdfbTM1m9DM4B6mkIW"
@@ -1043,7 +1087,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 244800,
       "name": "Las Tumbas",
       "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
@@ -1079,7 +1123,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 177680,
       "name": "Lluvia con Nieve",
       "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
@@ -1119,7 +1163,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 248733,
       "name": "Manyoma",
       "url": "https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9"
@@ -1141,6 +1185,24 @@
       "duration_ms": 442622,
       "name": "Marejada Feliz",
       "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
+    },
+    {
+      "album": {
+        "name": "Salsa De La Mata, Vol. 4",
+        "url": "https://open.spotify.com/album/20AoqHFvi0yKJNrIWgEizJ"
+      },
+      "artists": [
+        {
+          "name": "Louie Colon",
+          "url": "https://open.spotify.com/artist/1o5OdP2RQP48nZuUIoKKTW"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184346,
+      "name": "Mas Salsa Que Pescado",
+      "url": "https://open.spotify.com/track/6QbNFxPtXsHcDrS3eOkFS0"
     },
     {
       "album": {
@@ -1351,7 +1413,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 312386,
       "name": "Prende El Fog\u00f3n",
       "url": "https://open.spotify.com/track/5o1kiwkFXoJET4FW4pKtlE"
@@ -1391,6 +1453,28 @@
       "duration_ms": 277413,
       "name": "Que Lio",
       "url": "https://open.spotify.com/track/6vpNZMYGeJ3rnwcToI9BQd"
+    },
+    {
+      "album": {
+        "name": "The Originals: El Cantante",
+        "url": "https://open.spotify.com/album/0aeABbfuKPEc27O8fl5pjJ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277186,
+      "name": "Qu\u00e9 L\u00edo",
+      "url": "https://open.spotify.com/track/2jFbuXFDhtIfcRIz9GrG9w"
     },
     {
       "album": {
@@ -1463,7 +1547,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 181093,
       "name": "Salsa Y Sabor",
       "url": "https://open.spotify.com/track/6PK9NhUfcPQL5vfkg44dYE"
@@ -1656,6 +1740,24 @@
     },
     {
       "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/5dCUPytZuMb9jxp8e6sUTV"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256349,
+      "name": "Traigo Salsa",
+      "url": "https://open.spotify.com/track/0NxgJNpQQ4Gw3HR67VySRJ"
+    },
+    {
+      "album": {
         "name": "Esto Fu\u00e9 Lo Que Trajo El Barco",
         "url": "https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf"
       },
@@ -1667,7 +1769,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 256349,
       "name": "Traigo Salsa",
       "url": "https://open.spotify.com/track/21o9ccByT4ApG6msAqGqYy"
@@ -1805,10 +1907,32 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 270626,
       "name": "Yamulemau",
       "url": "https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45"
+    },
+    {
+      "album": {
+        "name": "Greatest Salsa Classics Of Colombia, Vol. 1",
+        "url": "https://open.spotify.com/album/29k81bFSFRcvmCuiKo8UyI"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270626,
+      "name": "Yamulemau",
+      "url": "https://open.spotify.com/track/7ktPnKG6J4RQfPhwZWUzKm"
     },
     {
       "album": {

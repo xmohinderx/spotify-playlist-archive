@@ -4,7 +4,7 @@
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: The Rudeboyz, Maluma y Adam Levine
 
-197 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
+198 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Att: Amor](https://open.spotify.com/track/6xihliy8JGYJXd6uYF0Ncu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Att: Amor](https://open.spotify.com/album/3uZJ2nD5tSXK8h7XkpRKkX) | 2:12 | 2022-04-01 | 2022-04-09 |
 | [Aurora \- Remix](https://open.spotify.com/track/7nHtmtk2wtQoRTBA8tEMWy) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Aurora \(Remix\)](https://open.spotify.com/album/3dgoNFp7Rdw1KBH3n5YIAO) | 4:02 | 2022-10-21 |  |
 | [Bachata Blue](https://open.spotify.com/track/4o24fPjYFIONeqAMtZIoYr) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Bachata Blue](https://open.spotify.com/album/2Id90GOl0vizaORLB1bzoy) | 3:15 | 2022-01-18 | 2022-02-05 |
-| [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2022-07-22 |  |
+| [Baila Conmigo](https://open.spotify.com/track/3YvB7icPctdaAk6FMzcv8O) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Posada Latina Vol\. 4](https://open.spotify.com/album/2GW4hWom7uGV0jBDhM5wXD) | 3:06 | 2022-10-21 |  |
+| [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2022-07-22 | 2022-11-11 |
 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/0D75ciM842cdUMKSMfAR9y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/album/3DWab9ul4t4YpZuOPmUJvd) | 3:06 | 2021-12-10 | 2022-07-29 |
 | [Baila Kumi](https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Baila Kumi](https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav) | 3:26 | 2021-12-10 | 2022-01-19 |
 | [Bailaito](https://open.spotify.com/track/2VPViVkDETMH8MRBH0t4dj) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv) | [Bailaito](https://open.spotify.com/album/16ja2Wgq1XaFUM45DLtGw8) | 2:38 | 2022-05-06 | 2022-06-11 |

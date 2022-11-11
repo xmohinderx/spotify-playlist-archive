@@ -190,6 +190,28 @@
     },
     {
       "album": {
+        "name": "It's My Birthday",
+        "url": "https://open.spotify.com/album/5UVRoTzN9xjPly2LzqMlIH"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306600,
+      "name": "Birthday Song",
+      "url": "https://open.spotify.com/track/00apxh5gMRZqfrUbZnlMGw"
+    },
+    {
+      "album": {
         "name": "Based On A T.R.U. Story (Deluxe)",
         "url": "https://open.spotify.com/album/1wBFRaacNYmqfkidUZ0NtM"
       },
@@ -205,7 +227,7 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 306600,
       "name": "Birthday Song",
       "url": "https://open.spotify.com/track/5qkWTBmDmZjogwIvbKtJQv"
@@ -346,6 +368,32 @@
     },
     {
       "album": {
+        "name": "Unforgettable Hip Hop",
+        "url": "https://open.spotify.com/album/2oXpgMarRwPXB2ezYftU9L"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247226,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/1jQEfsZw8EuQhEzu9ma5C0"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/1jn7r3jVqImGZNX6cMb4Lv"
       },
@@ -365,7 +413,7 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 247226,
       "name": "Circles",
       "url": "https://open.spotify.com/track/3ohFiHO9TkqjdsZrmxnLrM"
@@ -1422,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "Throwback Thursday R&B Jams",
+        "url": "https://open.spotify.com/album/13Eiw8EAMPWby4QLHtkbFz"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281306,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/7BSnwGH37ggErkQbDPBXIq"
+    },
+    {
+      "album": {
         "name": "Get Lifted",
         "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
       },
@@ -1433,7 +1499,7 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 281466,
       "name": "Ordinary People",
       "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
@@ -1838,6 +1904,48 @@
     },
     {
       "album": {
+        "name": "Hip Hop Chillout",
+        "url": "https://open.spotify.com/album/7mSeJvfnwqKpgSw5h8qJ47"
+      },
+      "artists": [
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275080,
+      "name": "The Morning",
+      "url": "https://open.spotify.com/track/09AVotFaAaxkZVqS1isVtT"
+    },
+    {
+      "album": {
         "name": "Kanye West Presents Good Music Cruel Summer",
         "url": "https://open.spotify.com/album/0cGgwoMge4N2zpTiP2GU6d"
       },
@@ -1915,7 +2023,7 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 275080,
       "name": "The Morning",
       "url": "https://open.spotify.com/track/6KdwBL0OFecxLc1cSV9WVp"

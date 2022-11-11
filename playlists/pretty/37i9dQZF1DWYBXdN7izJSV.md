@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,399 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,475 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 26 | [Sweet Old World](https://open.spotify.com/track/72cC7aXgTx3us9bTOBbLUF) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 5:05 |
 | 27 | [The Dreaming Dead](https://open.spotify.com/track/7vnAgnnk9FW4gBy3W2gj3q) | [Jesse Sykes & The Sweet Hereafter](https://open.spotify.com/artist/02ojXsd1103Qc2uU5uhJHZ) | [Oh, My Girl](https://open.spotify.com/album/08024Yl9vqP9YR1Jf4OOrA) | 6:03 |
 | 28 | [Love Is Just A Wrecking Ball](https://open.spotify.com/track/3uj5B8qhKQbMxtXGGG5V3w) | [Del Barber](https://open.spotify.com/artist/596XrMi1b7txL6jMiyb1yk) | [Where The City Ends](https://open.spotify.com/album/5ZXpVBRxmYSP7f2gG01aFY) | 4:20 |
-| 29 | [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/0mhsQSfSDq1x45qcC0jc80) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/11IsKz96KxcLAoCycv6LrT) | 3:00 |
+| 29 | [The Battle](https://open.spotify.com/track/5spa4mGwzzcm3MiidE07ay) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [No Depression: What It Sounds Like Vol\. 2](https://open.spotify.com/album/5sUaB2pDqV7CVF9rMzXOZn) | 2:59 |
 | 30 | [Kerosene](https://open.spotify.com/track/3TGpooseyntR0X8EBQzdgC) | [The Bottle Rockets](https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW) | [The Bottle Rockets & The Brooklyn Side](https://open.spotify.com/album/11wjQ6TTqZQjUTumb8THVm) | 3:12 |
 | 31 | [Gathering Flowers For The Master's Bouquet](https://open.spotify.com/track/0dA2DNenFzwMkSCyTL3wnb) | [Blood Oranges](https://open.spotify.com/artist/4u4wxGuvHyV56OlAKesNNC) | [The Slaughter Rule \(Original Movie Soundtrack\)](https://open.spotify.com/album/7FE8uV5jYFd5OiFWiKIBDU) | 4:40 |
 | 32 | [Officer Down](https://open.spotify.com/track/2hS1eS0RAg5b9VzRPSPK6J) | [Carolyn Mark](https://open.spotify.com/artist/5LEbX3AeiknZxV5zOIFhCH), [NQ Arbuckle](https://open.spotify.com/artist/0UXWUsqoGhYC4sCiEe7tEk) | [Let's Just Stay Here](https://open.spotify.com/album/610I6r165R7zGCI2rFlQc7) | 3:57 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 42 | [Brimstone Rock](https://open.spotify.com/track/1nzQhAyJBeWmR75nGcrbKG) | [16 Horsepower](https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3) | [Low Estate](https://open.spotify.com/album/5uoiYvMMws1vvpUUXXF2RM) | 4:28 |
 | 43 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 |
 | 44 | [Can't Let Go](https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:28 |
-| 45 | [Silence](https://open.spotify.com/track/5g79xHG0De0dDHe1Hkum66) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/6P9VUVYvKNP7DULIJ5p7Ks) | 4:07 |
+| 45 | [Silence](https://open.spotify.com/track/2GhrCXqIgvveXt07wFKvQ8) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/2GV6xnWl34jwrYLG0W3KDC) | 4:07 |
 | 46 | [The Ballad of Bitter Honey](https://open.spotify.com/track/20yy7wGUByZptk1ww20KIC) | [Eef Barzelay](https://open.spotify.com/artist/1uRMuS0KuwZwFJSYgV0PaW) | [Bitter Honey \(redux\)](https://open.spotify.com/album/01Uenvl1WeGH8d7oPf0s7z) | 3:34 |
 | 47 | [On the Streets](https://open.spotify.com/track/7tUKfZVKojU3kaOkJIjEgf) | [Rico Bell](https://open.spotify.com/artist/6LrIoFLMuU0yXD86WBmNe0) | [Return of Rico Bell](https://open.spotify.com/album/4K9578TovhVb0BFKyLuFGa) | 3:55 |
 | 48 | [Victoria](https://open.spotify.com/track/0mmSXKVBMjfYkLLJVQ5tF9) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Hit By A Train: The Best Of Old 97's](https://open.spotify.com/album/5fyrNg3ZGMZzY0V5gqUAFA) | 3:51 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 62 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 |
 | 63 | [Whiskey Angel](https://open.spotify.com/track/3Z1BWdwfiXnmLdnNBfRv9u) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [Whiskey Angel](https://open.spotify.com/album/5c6mKZXRDC5vCKqVTpU9kf) | 4:52 |
 | 64 | [Timebomb](https://open.spotify.com/track/2S6yBUXa5KddBV0CqBkcP1) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Too Far To Care](https://open.spotify.com/album/0Jo6Fx3HfybzdNhwXOPD7D) | 3:08 |
-| 65 | [16 Days](https://open.spotify.com/track/3aFMz2anc9vurZw6bPunI6) | [Whiskeytown](https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem) | [Strangers Almanac](https://open.spotify.com/album/29gnqAHOpVJJL3h8wPrlMl) | 3:54 |
+| 65 | [16 Days](https://open.spotify.com/track/6zh48IKkVxVFJ0x4d4L8GK) | [Whiskeytown](https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem) | [Americana Rock](https://open.spotify.com/album/5A9mQFpDyzvEwnteUyKknt) | 3:54 |
 | 66 | [Indianapolis](https://open.spotify.com/track/4dCFpIPmSWi2fDQvcdp9dK) | [The Bottle Rockets](https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW) | [24 Hours A Day](https://open.spotify.com/album/6oEpo2mn9gFX5B8MQUy1qy) | 3:32 |
 | 67 | [Quiet Corners & Empty Spaces](https://open.spotify.com/track/7crEMhx5kDsaV7hHmL0gkE) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Paging Mr\. Proust](https://open.spotify.com/album/68Gfrh064D2bJfIAw2jdkn) | 3:06 |
 | 68 | [Welfare Music](https://open.spotify.com/track/5urzRMfyfuYbvpjZDqm8tY) | [The Bottle Rockets](https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW) | [The Bottle Rockets & The Brooklyn Side](https://open.spotify.com/album/11wjQ6TTqZQjUTumb8THVm) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 74 | [Chickamauga](https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:42 |
 | 75 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
 
-Snapshot ID: `MTYwMjYwNDIxMSwwMDAwMDAwMDZhZTVmYWRjNTAwZGM3YTViZTIyMWMzZTBlZDUxMDg0`
+Snapshot ID: `MTYwMjYwNDIxMSwwMDAwMDAwMDNjZjU4MTk3ZDVjNDc3OTMyYzhjMWUyYzM1Zjc0ZjA5`

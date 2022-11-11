@@ -229,6 +229,24 @@
     {
       "album": {
         "name": "Already There",
+        "url": "https://open.spotify.com/album/3OuB3yBpdD2UQ04c3bpnS2"
+      },
+      "artists": [
+        {
+          "name": "Nesta",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212587,
+      "name": "Already There",
+      "url": "https://open.spotify.com/track/10cQQwLpu5aCzrJF2wlvjw"
+    },
+    {
+      "album": {
+        "name": "Already There",
         "url": "https://open.spotify.com/album/0GdbOxuBPfGIQ9KVyldXGZ"
       },
       "artists": [
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 212587,
       "name": "Already There",
       "url": "https://open.spotify.com/track/7pWE9Saa0N4wUZZXBZPZVY"
@@ -478,6 +496,24 @@
     },
     {
       "album": {
+        "name": "Chaos In My Court",
+        "url": "https://open.spotify.com/album/4dVCexXqcS9KDwdOXeUkSn"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201069,
+      "name": "Bitter Tonic",
+      "url": "https://open.spotify.com/track/0YNfWT27oMAyECkBd3T4Ix"
+    },
+    {
+      "album": {
         "name": "Bitter Tonic",
         "url": "https://open.spotify.com/album/5HkMoc2wvYlM4TdA5Np8GJ"
       },
@@ -489,7 +525,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 201069,
       "name": "Bitter Tonic",
       "url": "https://open.spotify.com/track/7AS4NDnLzj6ecCNY0m021h"
@@ -1240,6 +1276,24 @@
     },
     {
       "album": {
+        "name": "golden hour",
+        "url": "https://open.spotify.com/album/6LabIkq8jNU7azZGdkuC7G"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/34VhnIUNsHQFDyxhymwnZl"
+    },
+    {
+      "album": {
         "name": "this is what ____ feels like (Vol. 1-4)",
         "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
       },
@@ -1251,7 +1305,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -3148,6 +3202,24 @@
     },
     {
       "album": {
+        "name": "Stuck In The Middle",
+        "url": "https://open.spotify.com/album/64hLB1z6eR03woX3HDJZSU"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/4y3BUo2hp0MxylfbUaqRyJ"
+    },
+    {
+      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
@@ -3159,7 +3231,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 196133,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/44TzvSZLIkM7Y7MEnrvkIl"
@@ -3487,7 +3559,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176124,
-      "name": "Victoria\u2019s Secret",
+      "name": "Victoria's Secret",
       "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
     },
     {

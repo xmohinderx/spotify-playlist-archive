@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,430 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,509 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 3 | [Roulman](https://open.spotify.com/track/6kuEgsXZ5KjidJfsq6hMFV) | [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF), [Junior](https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj), [Black\-T](https://open.spotify.com/artist/1nFZ21xwCakE48rU514Ao6), [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Roulman](https://open.spotify.com/album/1YsiqO5UH3bKIV37dwdcBS) | 2:56 |
 | 4 | [Ghetto Rèd](https://open.spotify.com/track/7woCBSbM2dMJXO7glFsUS4) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Ghetto Rèd](https://open.spotify.com/album/6XFbhUBLtF9IfRImw7Wlo4) | 2:36 |
 | 5 | [Get Nasty](https://open.spotify.com/track/2nmOykp8PBne3zvqRU3bkQ) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6) | [Get Nasty](https://open.spotify.com/album/60bAgobaL5KdkJ8tC0M7r0) | 2:17 |
-| 6 | [Dancehall Wine](https://open.spotify.com/track/6ra6I1zN1PXRhTocLdaIfo) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Dancehall Wine](https://open.spotify.com/album/6wW1nEfVxqFVjJpeAXEKQO) | 3:29 |
+| 6 | [Dancehall Wine](https://open.spotify.com/track/1UFUC9QOnQQPf6g5cAdsWX) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Dancehall Wine](https://open.spotify.com/album/5aolARGoUHmdVDWuOQxIjb) | 3:29 |
 | 7 | [Asé](https://open.spotify.com/track/3im7T2q63a1razKvpV8pao) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Lucidity](https://open.spotify.com/album/4kGAKJMjCxOR17Q9Cd4O3h) | 3:43 |
 | 8 | [Come](https://open.spotify.com/track/1wE06ItQpK0wjAhCpwfsH4) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Mafio House](https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw) | [Come](https://open.spotify.com/album/3VihwCwktiRiqN8TuLJe6C) | 2:28 |
 | 9 | [So Me Stay](https://open.spotify.com/track/7uQMZflowxzc7S1XM7KXIF) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Outta Body Experience Riddim](https://open.spotify.com/album/7mbglZnNuCUrYTzfLKgMDW) | 3:25 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [Breaking News](https://open.spotify.com/track/7b4PA6QeHODOBZ3uOamuHG) | [Daly](https://open.spotify.com/artist/3f9kMCz94xuAamS24WbmGL), [Railfé](https://open.spotify.com/artist/3TA0DO95SXcr3GDsQCHuNU), [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE) | [Breaking News](https://open.spotify.com/album/0zKHxF5htpYQMhExjG8UW5) | 3:48 |
 | 40 | [MA JOLIE](https://open.spotify.com/track/44poH5uwgwcfhprLBBt9a6) | [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG), [Marginal](https://open.spotify.com/artist/3WbS1ppPV9QmsO29NG28fG) | [To be continued](https://open.spotify.com/album/0n6uzzVODatFJWYUP0Sc6i) | 2:48 |
 
-Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMDFhMzQ0NWY4YzFhODQwZDVhODRkZDUzNDA2OTc1ZDgz`
+Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMDAxNGM4YmRmZTgxMjQwNjg0ODI5ZGNiOWZkNjRlYmI5`

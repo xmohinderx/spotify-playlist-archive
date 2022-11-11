@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-470 songs - 1 day 2 hr 21 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+472 songs - 1 day 2 hr 27 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,8 +181,9 @@
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-07-08 |  |
 | [Hypochondriac](https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hypochondriac](https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe) | 3:22 | 2020-10-09 | 2021-06-22 |
 | [I Believe](https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:37 | 2019-08-02 | 2019-12-09 |
+| [I Don't Care](https://open.spotify.com/track/1citIkNWmi2MJIFss9Tqso) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 3:03 | 2022-11-03 |  |
 | [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 | 2022-09-08 | 2022-10-31 |
-| [I Don't Care](https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi) | 3:03 | 2022-09-28 |  |
+| [I Don't Care](https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi) | 3:03 | 2022-09-28 | 2022-11-11 |
 | [i don't want to watch the world end with someone else](https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [i don't want to watch the world end with someone else](https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP) | 3:04 | 2020-05-15 | 2021-03-06 |
 | [I Feel A Darkness](https://open.spotify.com/track/5vUCL54PaKIOtf2EBWhYI3) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Feel A Darkness](https://open.spotify.com/album/1e1ciC1PrqfyHHOl0LyZi3) | 3:41 | 2020-02-28 | 2020-04-24 |
 | [I Got So High That I Saw Jesus](https://open.spotify.com/track/0ouTaNuDfXPLnXkKi4AYOO) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Got So High That I Saw Jesus](https://open.spotify.com/album/7qnNmLMaMfljQNUMyaXpIo) | 3:37 | 2020-03-20 | 2020-04-12 |
@@ -367,7 +368,8 @@
 | [Second Time Around](https://open.spotify.com/track/1fpyZfZKpympQ7aq6cgRaU) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Second Time Around](https://open.spotify.com/album/5qkBqdPopQb0c6rpygODAa) | 3:57 | 2020-06-29 | 2021-03-06 |
 | [Secrets](https://open.spotify.com/track/2f3dmUxPh77g1mcDhEun28) | [MARLOE.](https://open.spotify.com/artist/6hQSRQtUFztVdmaQq9NgEh) | [Secrets](https://open.spotify.com/album/5BytM3LC1p8c5L67ggnP3F) | 3:02 | 2020-03-27 | 2021-06-18 |
 | [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 | 2021-10-16 | 2022-07-29 |
-| [see you later \(ten years\)](https://open.spotify.com/track/7FKkswFflI5Txc3Y4gH0IB) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/6RQzi0RPigwT6Y75lVTtYv) | 3:08 | 2022-07-14 |  |
+| [see you later \(ten years\)](https://open.spotify.com/track/6tJ5lE3OZ4Rd7KYExupx66) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Easy 20's](https://open.spotify.com/album/57zfO6YukeUdyQMR2rnpLx) | 3:08 | 2022-11-03 |  |
+| [see you later \(ten years\)](https://open.spotify.com/track/7FKkswFflI5Txc3Y4gH0IB) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/6RQzi0RPigwT6Y75lVTtYv) | 3:08 | 2022-07-14 | 2022-11-11 |
 | [Selfish](https://open.spotify.com/track/5SCyrDAsqu3iryTewIgFzg) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4plpuG3ZuucaxXhIo2gobJ) | 2:08 | 2022-02-10 | 2022-07-29 |
 | [Selfish](https://open.spotify.com/track/625zvGkOpwTNi4tZ54bdZH) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4F1hweOR3EvXq0VxMm6bUF) | 2:08 | 2022-07-14 |  |
 | [Send Me on My Way](https://open.spotify.com/track/0Eko4AsGljvQQHb0T7cu1N) | [Guy Meets Girl](https://open.spotify.com/artist/5YqGCzRaUM6XZss3tWRNAY) | [Send Me on My Way](https://open.spotify.com/album/0Q9gYCnSArFUpFhCDXxRAD) | 3:44 | 2021-07-23 | 2022-01-28 |

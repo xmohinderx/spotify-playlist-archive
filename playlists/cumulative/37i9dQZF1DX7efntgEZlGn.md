@@ -4,7 +4,7 @@
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-54 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/4voCCAakSbdaILEDDIaot8)
+55 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/4voCCAakSbdaILEDDIaot8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Cheza Gospel](https://open.spotify.com/track/23QRgJ0c7GmQens8wuX9N3) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Cheza Gospel](https://open.spotify.com/album/2VH1TToc1g3wnCzl3cGIM7) | 3:34 | 2022-04-13 |  |
 | [Donjo](https://open.spotify.com/track/7s61PhYsflmINKwYsQfPpI) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Chapter IV](https://open.spotify.com/album/58JBueyer8tCatNlJ1f3OM) | 3:18 | 2022-04-13 |  |
 | [Enjoy \(Yo Blessings\)](https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [Enjoy \(Yo Blessings\)](https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy) | 3:15 | 2022-04-13 |  |
-| [Far Above](https://open.spotify.com/track/7hiGfUcMXTdILXfIlFDD3S) | [Danny Gift](https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK) | [Bright Dawn Riddim](https://open.spotify.com/album/7kM83QA7i1CaBIByXSIIzh) | 3:36 | 2022-04-13 |  |
+| [Far Above](https://open.spotify.com/track/4xJ6LdzyX4BBx19XuGqR6q) | [Danny Gift](https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK) | [Bright Dawn Riddim](https://open.spotify.com/album/56dKSbQijsJuvVxdQNiUkm) | 3:36 | 2022-04-13 |  |
+| [Far Above](https://open.spotify.com/track/7hiGfUcMXTdILXfIlFDD3S) | [Danny Gift](https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK) | [Bright Dawn Riddim](https://open.spotify.com/album/7kM83QA7i1CaBIByXSIIzh) | 3:36 | 2022-04-13 | 2022-11-11 |
 | [Fundi Wa Mbao](https://open.spotify.com/track/0bDMecbVcSax1k9yz1j8yi) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Fundi Wa Mbao](https://open.spotify.com/album/4ZJzh5CyMF3pMI2Fz71PmK) | 3:24 | 2022-04-13 |  |
 | [Halellujah](https://open.spotify.com/track/5sEKcXRZ3vGZmIoMKa931I) | [Stivo simple boy](https://open.spotify.com/artist/6xB2biiMZCEImA2wB1qm5s), [Made in Kibera](https://open.spotify.com/artist/1az6RcKSE89nahPJFRImGB) | [Halellujah](https://open.spotify.com/album/7IaUFhIEkUBCgQ0dwsPgTo) | 3:04 | 2022-04-13 |  |
 | [Hinya](https://open.spotify.com/track/2vp3E0GaE2VBHY1EbVuy5p) | [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe), [Yo Alex](https://open.spotify.com/artist/3PA8YnbJW4N0PuiPamfEJb) | [NOW THAT WE ARE HERE](https://open.spotify.com/album/1lvyxxI5vdtdLTY64WUVYP) | 5:16 | 2022-04-13 |  |

@@ -4,7 +4,7 @@
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-68 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/0GWHPq4ASrEkmOe3SooidX)
+69 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/0GWHPq4ASrEkmOe3SooidX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Cathedral \- Single Version](https://open.spotify.com/track/1f58yLGx0V9LO1SUCXRHTM) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Cathedral](https://open.spotify.com/album/4ei8RLoVH7O6nrdWXENMu9) | 4:29 | 2018-11-27 |  |
 | [Come to the Water \- Live](https://open.spotify.com/track/6k8nSBE7GoGhuzA22WIKR0) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV), [Lauren Harris](https://open.spotify.com/artist/1PK9PSLsDrIo0ZoxdQLqob) | [Wildfire \(Live Worship From New Wine 2015\)](https://open.spotify.com/album/7p1R5IAIHlBPQWbJj1ljTP) | 5:36 | 2018-11-27 |  |
 | [Control](https://open.spotify.com/track/7qVe4ov5tPg2c8aWdmtli2) | [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Control](https://open.spotify.com/album/4hqrDfpDCRmGsZFS3fpCYa) | 3:29 | 2018-11-27 |  |
-| [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 | 2018-11-27 |  |
+| [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 | 2018-11-27 | 2022-11-11 |
 | [Counting Every Blessing](https://open.spotify.com/track/1qBc3napddNgGXTNJD4KzC) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News](https://open.spotify.com/album/6OHG76iMuqKrUQME0mp5sm) | 5:02 | 2018-11-27 | 2022-07-29 |
+| [Counting Every Blessing](https://open.spotify.com/track/2SRk4jVwh5t51JAmiWFCZK) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Happy Mothers Day](https://open.spotify.com/album/0HzA266ajlk8r9EwqYUe1D) | 5:02 | 2018-11-27 |  |
 | [Dead Things To Life](https://open.spotify.com/track/1N6iHugrcCD36X7Jn5dcCK) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [Lament](https://open.spotify.com/album/6V52ayLRHPyg54r8WTIrQl) | 4:26 | 2018-11-27 |  |
 | [Dead Things to Life](https://open.spotify.com/track/4El97CCFAmScrdVIiouNES) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [Dead Things to Life](https://open.spotify.com/album/0r5Ss03zJNIcoT4ufTJ7pc) | 4:26 | 2018-11-27 | 2022-07-29 |
 | [Every Season \- Live](https://open.spotify.com/track/3xj41KhhyHxkX893yLnprb) | [Junior Garr & Friends](https://open.spotify.com/artist/0uphFCmHEPD1ey1TJUUNCi), [Dayna Evanow](https://open.spotify.com/artist/0v3lycbra9EPX29pH6bDO0) | [The Selah Sessions](https://open.spotify.com/album/62dDbRFjWgSHEiJBQj8bzf) | 3:47 | 2018-11-27 |  |

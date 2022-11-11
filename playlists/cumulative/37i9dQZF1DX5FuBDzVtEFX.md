@@ -4,7 +4,7 @@
 
 > Kick back to the soothing sounds of the Ukulele...
 
-63 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/5kx3r9YtSZYk38uX4TbE3b)
+65 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/5kx3r9YtSZYk38uX4TbE3b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,8 +30,9 @@
 | [I Can't Help Falling in love With You](https://open.spotify.com/track/77jMuW14AXkXo8W70yOpi5) | [Jason Block](https://open.spotify.com/artist/7FajeDhGVkJPETdVpLRTNT) | [I Can't Help Falling in love With You](https://open.spotify.com/album/5KlN1qor27NtU13C2mLrTb) | 2:12 | 2021-11-12 |  |
 | [Imagine](https://open.spotify.com/track/47PO2OEQcl8ucwlqjqA9Cf) | [Henry Peluta](https://open.spotify.com/artist/1K2QS2snv1XDRxrCuDS81u) | [Imagine](https://open.spotify.com/album/0Qwp2XwzSz0NnsdIdKbFPD) | 3:14 | 2021-11-12 |  |
 | [In My Life](https://open.spotify.com/track/6xetFi399audH6OFTpaQU5) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [My Life](https://open.spotify.com/album/1pv5UZccWyxBmWG1s2RjE2) | 3:29 | 2021-11-12 | 2022-07-29 |
-| [Kalena Kai](https://open.spotify.com/track/491T7mr4TMQoGNDgceIIAo) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Wooden Boat](https://open.spotify.com/album/5zMsw0HrRHbUI2sbPB28Ku) | 4:22 | 2022-04-15 |  |
+| [Kalena Kai](https://open.spotify.com/track/491T7mr4TMQoGNDgceIIAo) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Wooden Boat](https://open.spotify.com/album/5zMsw0HrRHbUI2sbPB28Ku) | 4:22 | 2022-04-15 | 2022-11-11 |
 | [Kalena Kai](https://open.spotify.com/track/42ZtKeVuYhMZRvnByfxX2M) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Wooden Boat](https://open.spotify.com/album/0RYdFktBJKdNLh8rRAYvAp) | 4:25 | 2021-11-12 | 2022-07-29 |
+| [Kalena Kai](https://open.spotify.com/track/60kmRexBGemg7K5vrBJHFR) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY), [George Winston](https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3) | [Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol\. 1](https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56) | 4:21 | 2022-04-15 |  |
 | [Kaulana Kawaihae](https://open.spotify.com/track/0MgHhWRVG3tRYuCKT84eFZ) | [Bryan Tolentino](https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg), [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | ['Ukulele Friends](https://open.spotify.com/album/1652rH7CKlqwpdlR5T72v9) | 3:53 | 2021-11-12 |  |
 | [Ke Kali Nei Au](https://open.spotify.com/track/0tBRc2STeBIcBpTsNgKoKX) | [Glenn Johnston](https://open.spotify.com/artist/5ziVZBrfaiY7QR9HTsDQZT) | [Ke Kali Nei Au](https://open.spotify.com/album/6JIMGGlCTdN4BhIDoMQnN6) | 2:51 | 2021-11-12 |  |
 | [Ku U I Po](https://open.spotify.com/track/6LNrHG2e2B5ugSG0kZKnyY) | [Mele Malu](https://open.spotify.com/artist/1j0UFRQZPUHRCU1wn0j6Ep) | [Ku\-U\-I\-Po](https://open.spotify.com/album/66l49ZPKngpfNtXaWMxKFW) | 2:15 | 2021-11-12 |  |
@@ -59,7 +60,8 @@
 | [Sweet Leilani](https://open.spotify.com/track/6KipZAjvYE3SmI4HLZcYWD) | [Baduria, Don](https://open.spotify.com/artist/3WWy94RglmoCo77fGZWA1Y) | [Ukulele Magic](https://open.spotify.com/album/1jjUASOpJXdr7L7N7iFjyy) | 2:53 | 2021-11-12 |  |
 | [The Girl From Ipanema](https://open.spotify.com/track/6L1xLNQFpqJRuZiS93XprM) | [Ailani Akoni](https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k) | [Ipanema](https://open.spotify.com/album/6aDeFSTaYOrxoNKtjKtihO) | 3:23 | 2021-11-12 |  |
 | [The Last Desert Island](https://open.spotify.com/track/2qYEYkzSQZGTVMnMVD8lJm) | [Harry Kalapana](https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8) | [Sounds of Summer](https://open.spotify.com/album/6NQkN4ftESiy98lsM1r1rd) | 2:58 | 2021-11-12 | 2022-07-29 |
-| [The Last Desert Island](https://open.spotify.com/track/2t2zjf0KwsvopZZGIDEmtZ) | [Harry Kalapana](https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8) | [Aloha Hawaii \- Hawaiian Guitar](https://open.spotify.com/album/74YxF21kujpq7BnpqbVo73) | 2:59 | 2022-04-15 |  |
+| [The Last Desert Island](https://open.spotify.com/track/2t2zjf0KwsvopZZGIDEmtZ) | [Harry Kalapana](https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8) | [Aloha Hawaii \- Hawaiian Guitar](https://open.spotify.com/album/74YxF21kujpq7BnpqbVo73) | 2:59 | 2022-04-15 | 2022-11-11 |
+| [The Last Desert Island](https://open.spotify.com/track/38lroBrr8nZTbR9k2BjjOE) | [Harry Kalapana](https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8) | [Tiki Music \- Hawaii \- Vol\. 2](https://open.spotify.com/album/7qcECDRvsYo4Q15KUdMPF1) | 2:59 | 2022-04-15 |  |
 | [The Lazy Song \- Ukulele](https://open.spotify.com/track/3NEHhzWhUqFupyHv1IMoNc) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 3:11 | 2021-11-12 |  |
 | [The Long Way Home](https://open.spotify.com/track/49ICOMMk86hTzzJXefGQwg) | [The Beach Bums](https://open.spotify.com/artist/3CQRFlwnNQMzMYyoiKjaPD) | [The Long Way Home](https://open.spotify.com/album/3nMSrc9Bfj8AKc61Tiz6xb) | 1:43 | 2021-11-12 |  |
 | [Three Little Birds \- Ukulele](https://open.spotify.com/track/6j5onmBo098pRm9pFEXuUv) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 3:21 | 2021-11-12 |  |

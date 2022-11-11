@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 245200,
       "name": "Bones",
       "url": "https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 237165,
       "name": "California Girl",
       "url": "https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 189617,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/2uLo22etHF1lbCBngK0Bim"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 218451,
       "name": "DEEP END",
       "url": "https://open.spotify.com/track/4oXgYIpKj7qMCJ2U0xvR6y"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 200351,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217245,
       "name": "Fiire",
       "url": "https://open.spotify.com/track/0Lsdnv0bZyvuji8Y9fxnn0"
@@ -2059,7 +2059,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 154893,
       "name": "MICHELLE",
       "url": "https://open.spotify.com/track/25CsbJSuItQQnhyC02vnnk"
@@ -2153,6 +2153,24 @@
       "duration_ms": 163087,
       "name": "Mushrooms",
       "url": "https://open.spotify.com/track/5q5oNwAs28k9dtnkAliFdX"
+    },
+    {
+      "album": {
+        "name": "My Demise",
+        "url": "https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot"
+      },
+      "artists": [
+        {
+          "name": "Porsh Bet$",
+          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "My Demise",
+      "url": "https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD"
     },
     {
       "album": {
@@ -2421,7 +2439,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 176552,
       "name": "PIE",
       "url": "https://open.spotify.com/track/69W17RttaPLLzfZKc5g1ey"
@@ -2783,7 +2801,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 183896,
       "name": "Skin on Skin",
       "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
@@ -3249,7 +3267,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
@@ -3693,7 +3711,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 118363,
       "name": "\u200erubber \u200echecks",
       "url": "https://open.spotify.com/track/2VJ40dmMMmZCxZkeEbPKpo"

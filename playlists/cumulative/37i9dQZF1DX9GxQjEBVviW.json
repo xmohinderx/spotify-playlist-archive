@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174666,
       "name": "16 Candles",
       "url": "https://open.spotify.com/track/4ht9nNdPiJbbBhwUvPf4Lg"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 162293,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Crying In The Chapel",
       "url": "https://open.spotify.com/track/35vjuw2ttf6OL5vFXY9w5v"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 152200,
       "name": "Heartaches",
       "url": "https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 106760,
       "name": "Hey Senorita",
       "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "In the Still of the Night",
       "url": "https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 129333,
       "name": "Little Darlin'",
       "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 154466,
       "name": "My True Story",
       "url": "https://open.spotify.com/track/1zfxyezgvocPSjSVup5ND4"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 147266,
       "name": "Sh-Boom",
       "url": "https://open.spotify.com/track/6ZKB999ZdaFVgrYWvxkl49"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169226,
       "name": "Shop Around",
       "url": "https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 166586,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/4YSdo81Wt11kR7M1zc94vD"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 158840,
       "name": "Since I Don't Have You (Alternative Take)",
       "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
@@ -1187,6 +1187,24 @@
       "duration_ms": 141583,
       "name": "Speedoo",
       "url": "https://open.spotify.com/track/4UGr3S283MmxmRIq83xoWq"
+    },
+    {
+      "album": {
+        "name": "The Fabulous Cadillacs",
+        "url": "https://open.spotify.com/album/5UoyKbXmb2JNJSFMxL1VpY"
+      },
+      "artists": [
+        {
+          "name": "The Cadillacs",
+          "url": "https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141253,
+      "name": "Speedoo (Alternative Take)",
+      "url": "https://open.spotify.com/track/3fy76k7I8YMUOR7bn7EcM5"
     },
     {
       "album": {
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 149586,
       "name": "Zoom Zoom Zoom",
       "url": "https://open.spotify.com/track/6xLW0o4fWTYbslOIDaJBOw"

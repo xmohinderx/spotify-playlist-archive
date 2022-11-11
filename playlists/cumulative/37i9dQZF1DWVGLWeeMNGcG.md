@@ -4,7 +4,7 @@
 
 > From the past to the present, soul music has evolved into many different sounds and Motown has been at the forefront.
 
-34 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/3cK9yg3609ko0saEs1Ekc8)
+35 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/3cK9yg3609ko0saEs1Ekc8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,9 @@
 | [Motownphilly](https://open.spotify.com/track/3PqhQ5G24At0yDQuJBLZjT) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO) | 3:55 | 2019-06-14 |  |
 | [Reach Out I'll Be There \- Single Version / Mono](https://open.spotify.com/track/0PpamSdfQzIAvj5OB9Bz54) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Essential Collection: Four Tops](https://open.spotify.com/album/6f0YDFC5WfPHvqhLdJyZm8) | 3:02 | 2019-06-14 |  |
 | [Shop Around](https://open.spotify.com/track/47IRIQxGDe2Sc6F4pe2FMf) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Hi We're The Miracles](https://open.spotify.com/album/2fvokJVgfNIjWbGzudJQfT) | 2:50 | 2019-06-14 |  |
-| [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 | 2019-06-14 |  |
+| [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 | 2019-06-14 | 2022-11-11 |
 | [Shotgun](https://open.spotify.com/track/6VzM9C7CXyn1BQdgTJVqDx) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/4aDsONCBMpZ6AAjZctYEYS) | 2:56 | 2019-06-14 | 2022-07-29 |
+| [Shotgun](https://open.spotify.com/track/1ZfxCQmXWYmTWwBgCy48Os) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Motown Party](https://open.spotify.com/album/1iNRf0nkYYB4zBTv34zF0x) | 2:59 | 2019-06-14 |  |
 | [Square Biz](https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Best Of/20th Century](https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7) | 6:23 | 2019-06-14 |  |
 | [Square Biz](https://open.spotify.com/track/5lAH3vLN4Gc3jDM25cMIgH) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [20th Century Masters: The Millennium Collection: Best of Teena Marie](https://open.spotify.com/album/7rBP3Z4FX95gFPTXgs4MMo) | 6:25 | 2019-06-14 | 2022-07-29 |
 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 | 2019-06-14 |  |

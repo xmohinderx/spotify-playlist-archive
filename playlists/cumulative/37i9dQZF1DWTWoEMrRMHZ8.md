@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Ana Gabriela
 
-330 songs - 19 hr 58 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
+331 songs - 20 hr 2 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,8 @@
 | [Valente](https://open.spotify.com/track/3AUAfawYAvwLaL3SlZWgQD) | [Arthur Nogueira](https://open.spotify.com/artist/0Kaxu0W1DHP5OQ4FDWMjh4) | [Valente](https://open.spotify.com/album/0Na74mLtHpPONrk9MJmsPX) | 3:32 | 2021-12-24 | 2022-01-22 |
 | [Ventania](https://open.spotify.com/track/0tP3EI2TtAHu4hvlgmNHmE) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Claudia Dantas](https://open.spotify.com/artist/1vIqqyiF9QFl8Z8WIHEzG7) | [Ventania](https://open.spotify.com/album/3i2LOsgLugd1YksxeKrg5Z) | 4:02 | 2022-10-07 | 2022-10-15 |
 | [Vento Sardo](https://open.spotify.com/track/1NbWJcul8xK4AtYzTBLCnm) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Portas](https://open.spotify.com/album/3l2TdM4HyHoifHzpfzhvaT) | 4:15 | 2021-12-24 | 2022-07-29 |
-| [Vento Sardo](https://open.spotify.com/track/6zqqCZA5EOvMXj5nRKuTy7) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Portas](https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A) | 4:15 | 2022-07-22 |  |
+| [Vento Sardo](https://open.spotify.com/track/6zqqCZA5EOvMXj5nRKuTy7) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Portas](https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A) | 4:15 | 2022-07-22 | 2022-11-11 |
+| [Vento Sardo](https://open.spotify.com/track/71JSog0YrgWmY0D0CPkqot) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Vento Sardo](https://open.spotify.com/album/4kxqusV3GpgSuMBUSv5aU2) | 4:15 | 2022-11-09 |  |
 | [Vermelho Esperança](https://open.spotify.com/track/5U9Xv9WkBPTOignYWp6niI) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Laila Garin](https://open.spotify.com/artist/0aTcBGYTXm8CWo0RB5elE8) | [Vermelho Esperança](https://open.spotify.com/album/27nM8BDWnZAMBZjoP5tszu) | 3:53 | 2022-02-01 | 2022-04-02 |
 | [Vertigem](https://open.spotify.com/track/7n89SLMdyzUITl1JwgQ5QE) | [Theo Bial](https://open.spotify.com/artist/2spkAIBJRP7badm280YyB5) | [Vertigem](https://open.spotify.com/album/5WsKg8oo2Q05vnBkYQ58XV) | 3:24 | 2022-05-10 | 2022-06-28 |
 | [Vinte Vinte \- Adeus Brasil](https://open.spotify.com/track/5To7O0SazLAevNU9mcVLPt) | [Renato Teixeira](https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI) | [Vinte Vinte \(Adeus Brasil\)](https://open.spotify.com/album/5twbB9A8EvYKeVfTnqqxvl) | 3:05 | 2022-07-22 |  |

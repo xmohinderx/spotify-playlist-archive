@@ -434,6 +434,24 @@
     },
     {
       "album": {
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/0IrcO4h2IURsFVFiyciNiO"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170093,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/06paPnT9vsd9qonDCsOzTX"
+    },
+    {
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/2jpQor1ZFocZF7Io0eI8mR"
       },
@@ -445,7 +463,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 170093,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/4NuHkMJ4V4MKv0U9GuVvPJ"
@@ -517,10 +535,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 189712,
       "name": "DIMANCHE SOIR",
       "url": "https://open.spotify.com/track/0DRFO9deu2BA5HWhvMb2uc"
+    },
+    {
+      "album": {
+        "name": "OCTEMBRE",
+        "url": "https://open.spotify.com/album/6U0usnBvoliJcfq7xxmEZA"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189712,
+      "name": "DIMANCHE SOIR",
+      "url": "https://open.spotify.com/track/1xTasIo5MGbmSi792apTaz"
     },
     {
       "album": {
@@ -1010,6 +1046,24 @@
     },
     {
       "album": {
+        "name": "Ready For The High",
+        "url": "https://open.spotify.com/album/6ArkLLoHB2pJwgblP2zvNL"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169213,
+      "name": "If You Ever Leave, I'm Coming with You",
+      "url": "https://open.spotify.com/track/0nKpc6sQltAgsbjotGDSix"
+    },
+    {
+      "album": {
         "name": "If You Ever Leave, I'm Coming with You",
         "url": "https://open.spotify.com/album/3VGiUssrBkq8DKNdnbZRBR"
       },
@@ -1057,7 +1111,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 169213,
       "name": "If You Ever Leave, I'm Coming with You",
       "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
@@ -1804,6 +1858,24 @@
     },
     {
       "album": {
+        "name": "Tried to Tell You",
+        "url": "https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/1UyCPh6PUEHylaNwru6tbI"
+    },
+    {
+      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -1815,7 +1887,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
@@ -1858,6 +1930,24 @@
     },
     {
       "album": {
+        "name": "HELGMYS",
+        "url": "https://open.spotify.com/album/3T6WfgQ7b6evh5m2cHm81h"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/2kzb2c50m1prBuB1m9rhTZ"
+    },
+    {
+      "album": {
         "name": "Run Away to Mars",
         "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
       },
@@ -1869,7 +1959,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
@@ -1934,6 +2024,24 @@
     },
     {
       "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/1ggmWhoTcBC3o1pWbDoS2T"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182426,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/115g7lVvFUEtJoOTCCGVnh"
+    },
+    {
+      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
       },
@@ -1963,7 +2071,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 182426,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
@@ -2025,10 +2133,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 178697,
       "name": "Soft",
       "url": "https://open.spotify.com/track/34SC5Kt2OU0lCW96LDeFyP"
+    },
+    {
+      "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/2PYiWekEEz6JX8QzOswYX2"
+      },
+      "artists": [
+        {
+          "name": "GRAE",
+          "url": "https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178697,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/3Hbj7fHLLUKZHXKvlldYhr"
     },
     {
       "album": {
@@ -2169,7 +2295,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 124763,
       "name": "The Hearse",
       "url": "https://open.spotify.com/track/0rcoSjQLh5QXhCmBYBdNDW"
@@ -2191,6 +2317,24 @@
       "duration_ms": 124763,
       "name": "The Hearse",
       "url": "https://open.spotify.com/track/19RXOH7xG0Po5NaWkNo9AX"
+    },
+    {
+      "album": {
+        "name": "The Hearse",
+        "url": "https://open.spotify.com/album/1yXGBtlnQWKE7EoK9Wo42S"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124763,
+      "name": "The Hearse",
+      "url": "https://open.spotify.com/track/4OWwJ7gwDenLKBYfR2QYJC"
     },
     {
       "album": {
@@ -2230,6 +2374,24 @@
     },
     {
       "album": {
+        "name": "U&ME (Baauer Remix)",
+        "url": "https://open.spotify.com/album/7ftT31XifyMfoUIyoqxkop"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/23YxxyxIHbIj8zBf4ZfGSX"
+    },
+    {
+      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn"
       },
@@ -2241,7 +2403,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 198840,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"
@@ -2313,7 +2475,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 220213,
       "name": "Understand It",
       "url": "https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh"
@@ -2335,6 +2497,24 @@
       "duration_ms": 220213,
       "name": "Understand It",
       "url": "https://open.spotify.com/track/2RubaaZsnVHTz8dcZVJq4z"
+    },
+    {
+      "album": {
+        "name": "Understand It",
+        "url": "https://open.spotify.com/album/1z9aCbHFLbiQwrLwhNHq2M"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220213,
+      "name": "Understand It",
+      "url": "https://open.spotify.com/track/7AlEk4lAmkWBTu9jIGqWZH"
     },
     {
       "album": {

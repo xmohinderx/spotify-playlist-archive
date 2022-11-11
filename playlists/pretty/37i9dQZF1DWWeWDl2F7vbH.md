@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,252 likes - 55 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,302 likes - 55 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Where Love Lives \(Come On In\) \- Classic Mix](https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 6:56 |
 | 2 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
-| 3 | [Love Can't Turn Around](https://open.spotify.com/track/3al6ULdpX9IOZIFEZCAxT1) | [Farley "Jackmaster" Funk](https://open.spotify.com/artist/0B9P7RXrukgIdmutz9XMVN) | [Farley "Jackmaster" Funk](https://open.spotify.com/album/1BZmUUewG88xIvYjXY0VUb) | 4:11 |
+| 3 | [Love Can't Turn Around](https://open.spotify.com/track/3VkRZoBcxH9YElQmuuup7U) | [Darryl Pandy](https://open.spotify.com/artist/4DdTAu2ze9ocUPqcFg1sKs) | [Love Can't Turn Around](https://open.spotify.com/album/6dHZ3tQRgpTTDml5Ed6mn1) | 4:13 |
 | 4 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 |
 | 5 | [Mystery of Love](https://open.spotify.com/track/1E8hMeQvfgvQPjN3BZ2viF) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Amnesia](https://open.spotify.com/album/201nAW1V2QI2jDbGci7K3g) | 7:10 |
 | 6 | [Someday](https://open.spotify.com/track/5bGlU4BXhMRMMHWZnHuKhj) | [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [CeCe Rogers](https://open.spotify.com/album/7nxYXN1wJ2PsPpQI09abMx) | 3:50 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 39 | [I've Lost Control](https://open.spotify.com/track/4soPG45sARVq4ZTLqKUwlG) | [Sleezy D](https://open.spotify.com/artist/3wD0bhAy5hb5nqcTReldti) | [I've Lost Control](https://open.spotify.com/album/0n6enbHiJdreu7M34ZuMkR) | 9:45 |
 | 40 | [It's My Life](https://open.spotify.com/track/7pfhvQZld6TbfbST95KzCH) | [Da Posse](https://open.spotify.com/artist/6oHc1xzJP7C3YdsFvKZL4P) | [Strings](https://open.spotify.com/album/7CDOl2IKWOqNMwn4rp8Nmi) | 5:22 |
 | 41 | [Percolator \- Original Mix](https://open.spotify.com/track/5JYbPUFjUn0i8BQy1C5JTs) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT) | [Percolator \(Original Mix\)](https://open.spotify.com/album/7E5OUkUh3NKIo9rlVGcb81) | 4:13 |
-| 42 | [Acid Tracks](https://open.spotify.com/track/2aLXJJ2zOsBJlGTxiG0yMi) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/6g7DeZAKsyubcQpyWw7WZZ) | 12:17 |
+| 42 | [Acid Tracks](https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro) | 12:19 |
 | 43 | [Dance You Mutha \- Radio Mutha](https://open.spotify.com/track/7LmXZmZh26Kix8scl972qB) | [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Dance You Mutha](https://open.spotify.com/album/2DfYPScpfIGYHsKk9IlrAO) | 4:20 |
 | 44 | [Children Of The Night](https://open.spotify.com/track/4Ydz0OkLiC3OQprdtEbFbI) | [Kevin Irving](https://open.spotify.com/artist/0YHkLrAH0UrZ3H7WMFdDgh) | [Frankie Knuckles Presents: His Greatest Hits from Trax Records](https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT) | 3:55 |
 | 45 | [Can You Party](https://open.spotify.com/track/0oWsLdL42QXWzHA1mzekTC) | [Royal House](https://open.spotify.com/artist/0daYmCWEivMhG9FsmwgyFL) | [Can You Party](https://open.spotify.com/album/6XDDcGr98kPfkv1FZ5fYoI) | 5:10 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 54 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 |
 | 55 | [Dream Girl \- Wet Dream](https://open.spotify.com/track/5HvPR4mRFKQwVpu7GRR9wz) | [Pierre's Phantasy Club](https://open.spotify.com/artist/6zJNLG5DvKim9OzkEGy1TM) | [Dream Girl](https://open.spotify.com/album/2i9YUbpKYs3wNZjk2o9fMa) | 8:53 |
 
-Snapshot ID: `MTYyMjUzMjY3MiwwMDAwMDAwMGM5MThhZmUwNjAzNGI4M2IzMTNmYmVjYmQwY2M3ZWIw`
+Snapshot ID: `MTYyMjUzMjY3MiwwMDAwMDAwMGJjZmI0ODU2ZDFkMjNlNmQ5YTM4ZjkyNzhmYTMzNTE5`

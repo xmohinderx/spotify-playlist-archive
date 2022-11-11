@@ -732,6 +732,32 @@
     },
     {
       "album": {
+        "name": "Reggaeton Tuanis",
+        "url": "https://open.spotify.com/album/4daeWPpWyjMQ6NuYlaxncb"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/5vCu0PvdUPMAvhy8mHZBxw"
+    },
+    {
+      "album": {
         "name": "Mi Gente (feat. Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/55228F4QRlYDzJ4H02tDHA"
       },
@@ -751,7 +777,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209733,
       "name": "Mi Gente (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/0GzmMQizDeA2NVMUaZksv0"
@@ -1292,6 +1318,24 @@
     },
     {
       "album": {
+        "name": "Shower Studio",
+        "url": "https://open.spotify.com/album/3CHZ4q1Z6A47iYz0opP8gB"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/4K3Do0kIWdq1ZIEwhBa7ct"
+    },
+    {
+      "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
@@ -1303,7 +1347,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 193533,
       "name": "Stupid Love",
       "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
@@ -1395,7 +1439,7 @@
     {
       "album": {
         "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
       },
       "artists": [
         {
@@ -1410,6 +1454,28 @@
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "date_added": "2020-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
@@ -1435,6 +1501,24 @@
       "duration_ms": 215520,
       "name": "We Found Love (feat. Rihanna)",
       "url": "https://open.spotify.com/track/0385HqYimoTQaHZP17KwG1"
+    },
+    {
+      "album": {
+        "name": "Queen 40 Limited Edition Collector's Box Set Vol. 2",
+        "url": "https://open.spotify.com/album/1PpNIByYpOjEhXhX6JT4AL"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2020-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/1jmX5Dojaopg8DT05Mw5Ig"
     },
     {
       "album": {
@@ -1467,7 +1551,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 122066,
       "name": "We Will Rock You - Remastered 2011",
       "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
@@ -1489,7 +1573,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 172854,
       "name": "X",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
@@ -1515,6 +1599,28 @@
       "duration_ms": 173627,
       "name": "X",
       "url": "https://open.spotify.com/track/39N9RPD9MRb5WmoLzNzPeA"
+    },
+    {
+      "album": {
+        "name": "Reggaet\u00f3n 2020 - \u00c9xitos Urbanos",
+        "url": "https://open.spotify.com/album/72cMrdnkM1mJfvvIxvv4ya"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2020-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173627,
+      "name": "X",
+      "url": "https://open.spotify.com/track/3s2C419Hcz7UxBIxyNCSC2"
     },
     {
       "album": {

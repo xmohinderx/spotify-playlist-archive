@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-73 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/4LUAUdOKbwrwzojI0QmfBY)
+75 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/4LUAUdOKbwrwzojI0QmfBY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Love On A Real Train \- From 'Risky Business' Original Motion Picture Soundtrack](https://open.spotify.com/track/0DYCw5AZIX3S11QQUiPiqN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Hyperborea \(Deluxe Version / Remastered 2020\)](https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U) | 3:59 | 2022-07-29 |  |
 | [Malarone](https://open.spotify.com/track/0WC0j1iLJRkb6P041h4jiU) | [Linea Aspera](https://open.spotify.com/artist/7ovuEJn78rNJmBBnLqc1NU) | [Linea Aspera](https://open.spotify.com/album/6YbyDgrqvbMeNRRhyismmZ) | 4:11 | 2022-07-29 |  |
 | [Meadows \- Original](https://open.spotify.com/track/4eP88gKj64WSvxcG3xxIWk) | [Smallpeople](https://open.spotify.com/artist/1yrqDFnKpbYCPSa6ZwgHOV), [RAU](https://open.spotify.com/artist/0s1dGxIS5ZVaO6RDvOsyPO) | [Meadows EP](https://open.spotify.com/album/2mSxKkIscujytuvurDyosT) | 8:00 | 2022-07-29 |  |
-| [Memories Fade](https://open.spotify.com/track/4sYvvnzal0yQJ8qGEJeR3M) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 5:03 | 2022-07-29 |  |
+| [Memories Fade](https://open.spotify.com/track/4sYvvnzal0yQJ8qGEJeR3M) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 5:03 | 2022-07-29 | 2022-11-11 |
+| [Memories Fade](https://open.spotify.com/track/1Qr9NCPskdaN394Oxt0eAA) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting \(Deluxe Edition\)](https://open.spotify.com/album/6Sv5PjYWap5poTCrJJYjwk) | 5:05 | 2022-07-29 |  |
 | [Momus](https://open.spotify.com/track/5Dk6NPiP14FqIml2okckiM) | [Aleksandir](https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b) | [Momus / Sacro](https://open.spotify.com/album/5RjynTbAenCC08h5ALbnvK) | 6:36 | 2022-07-29 |  |
 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 | 2022-07-29 |  |
 | [Night Ride \(with Lex Amor\)](https://open.spotify.com/track/4O2K5Hxr8VgNG9QuqvYuby) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Night Ride \(with Lex Amor\)](https://open.spotify.com/album/5M0HJSbecbLAfXiWxjoPqo) | 2:43 | 2022-07-29 |  |
@@ -71,8 +72,9 @@
 | [Se Rompen](https://open.spotify.com/track/7e8l7wpK6qow08gSoNxtcK) | [Waleed](https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs) | [Se Rompen](https://open.spotify.com/album/2xwO3JeOSSCSwFWwNkmP4O) | 5:22 | 2022-07-29 |  |
 | [See Other People](https://open.spotify.com/track/1kEd5QLxm8yfcTr3CVxGNS) | [Cosmin TRG](https://open.spotify.com/artist/4jRLIIrKvl4rAmir58oDK0) | [Generation Dubstep](https://open.spotify.com/album/7oOdk7kXghCgkLaSbh1SwH) | 4:59 | 2022-07-29 |  |
 | [Send Return](https://open.spotify.com/track/4qSeVRw2SPqZnHWsLXfHJE) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Send Return](https://open.spotify.com/album/3EIYsOioUOBlxSf2tMpGsU) | 3:35 | 2022-07-29 |  |
-| [Singin' in the Rain](https://open.spotify.com/track/0lju7TCZwpvslleR7OgY9h) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [See You in the Morning](https://open.spotify.com/album/5NlNNBvhqaqdXRFflrNkx1) | 3:28 | 2022-07-29 |  |
+| [Singin' in the Rain](https://open.spotify.com/track/0lju7TCZwpvslleR7OgY9h) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [See You in the Morning](https://open.spotify.com/album/5NlNNBvhqaqdXRFflrNkx1) | 3:28 | 2022-07-29 | 2022-11-11 |
 | [Singin' in the Rain](https://open.spotify.com/track/73GhZu2dr1h6RdpiWFJx1j) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [See You in the Morning](https://open.spotify.com/album/09xoxcs7kOCDCRkoFeFVNa) | 3:28 | 2022-07-29 | 2022-10-19 |
+| [Singin' in the Rain](https://open.spotify.com/track/7tRiLnyxqBhHerlzubD0sw) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [Pop Is...](https://open.spotify.com/album/5fJGphABYZDUrrAi7HSBkm) | 3:28 | 2022-07-29 |  |
 | [Sola Sistim](https://open.spotify.com/track/4hWuNTCyQeQkzBPjjVE9rX) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [A Hundred Days Off](https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg) | 6:26 | 2022-07-29 |  |
 | [Sympathetic Cycle](https://open.spotify.com/track/7tX0JrCDjtYJRKjeFz7SNH) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [A Violet Sleep EP](https://open.spotify.com/album/2Sean6tGeNquVJS5jIHxMn) | 5:01 | 2022-07-29 |  |
 | [Talia](https://open.spotify.com/track/49KMGrpCasQj4bP7R27nEL) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Talia](https://open.spotify.com/album/3fr1pMdhBZKMGRbfkki8OD) | 4:33 | 2022-07-29 |  |

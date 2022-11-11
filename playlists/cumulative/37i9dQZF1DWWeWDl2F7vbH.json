@@ -113,10 +113,28 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 737173,
       "name": "Acid Tracks",
       "url": "https://open.spotify.com/track/2aLXJJ2zOsBJlGTxiG0yMi"
+    },
+    {
+      "album": {
+        "name": "Acid Tracks",
+        "url": "https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 739626,
+      "name": "Acid Tracks",
+      "url": "https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU"
     },
     {
       "album": {
@@ -766,6 +784,24 @@
     },
     {
       "album": {
+        "name": "Love Can't Turn Around",
+        "url": "https://open.spotify.com/album/6dHZ3tQRgpTTDml5Ed6mn1"
+      },
+      "artists": [
+        {
+          "name": "Darryl Pandy",
+          "url": "https://open.spotify.com/artist/4DdTAu2ze9ocUPqcFg1sKs"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Love Can't Turn Around",
+      "url": "https://open.spotify.com/track/3VkRZoBcxH9YElQmuuup7U"
+    },
+    {
+      "album": {
         "name": "Farley \"Jackmaster\" Funk",
         "url": "https://open.spotify.com/album/1BZmUUewG88xIvYjXY0VUb"
       },
@@ -777,7 +813,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 251026,
       "name": "Love Can't Turn Around",
       "url": "https://open.spotify.com/track/3al6ULdpX9IOZIFEZCAxT1"

@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-86 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
+87 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [Blue Earth](https://open.spotify.com/track/4JAIpmm35zsuwvJvqG2gD6) | [Bo Ramsey](https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd) | [How Many Miles](https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0) | 3:23 | 2022-04-15 |  |
 | [Blue Nights](https://open.spotify.com/track/4nQkcnKRluoyu2UfanfqWX) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Blue Nights](https://open.spotify.com/album/0vhl5DqH30xs6lj7V1QzNO) | 2:38 | 2022-10-10 |  |
 | [Blues 'Fore Dawn \- Instrumental](https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ) | [Guitar](https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI) | 4:54 | 2022-04-15 |  |
+| [Blues After Hours](https://open.spotify.com/track/3leJdx93IHBZilIUu4ROEp) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues Masters: Pee Wee Crayton](https://open.spotify.com/album/3fZa1iAXkV4fPH91EdBmTM) | 5:09 | 2022-10-14 |  |
 | [Blues After Hours](https://open.spotify.com/track/56ENCoeGxJ9PWnAJpEktgs) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [If I Ever Get Lucky](https://open.spotify.com/album/5ypZMTcLSmNU8Bya5ZXaqK) | 5:09 | 2022-04-15 | 2022-07-29 |
-| [Blues After Hours](https://open.spotify.com/track/59AKB7WO9P4Z1jiS7zQntK) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues Legend Vol\. 13](https://open.spotify.com/album/3UeiL4Lg24S67ztbaBeL32) | 5:09 | 2022-07-08 |  |
+| [Blues After Hours](https://open.spotify.com/track/59AKB7WO9P4Z1jiS7zQntK) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues Legend Vol\. 13](https://open.spotify.com/album/3UeiL4Lg24S67ztbaBeL32) | 5:09 | 2022-07-08 | 2022-11-11 |
 | [Blues Boys Tune](https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 3:29 | 2022-04-15 |  |
 | [Blues for Magic Sam](https://open.spotify.com/track/2fZjnNYEvJO76sc6kqN24z) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/5bj6EpqoaEgKeaEH6Qivnh) | 5:24 | 2022-04-15 | 2022-07-29 |
 | [Blues for Magic Sam](https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/4wf5RpT8tm8BrgfuRmjojU) | 5:24 | 2022-07-08 |  |

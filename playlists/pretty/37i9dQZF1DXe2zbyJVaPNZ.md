@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 
 > Ambient waves for ethereal days
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,288 likes - 112 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,380 likes - 112 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 29 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
 | 30 | [Above the Clouds](https://open.spotify.com/track/3gpvkHtd5Tl48wZkkw0xoz) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Above the Clouds](https://open.spotify.com/album/5l5Obv9lGFcDTXs1yfikCk) | 3:22 |
 | 31 | [Coming Up for Air](https://open.spotify.com/track/0X7iktHTTvyMfGaufN7qRI) | [Sinerider](https://open.spotify.com/artist/078yWg2B5y9LrSGUiyKRQi) | [Moon Phase](https://open.spotify.com/album/0YN30MfuqGiAnzGS3Jum0D) | 4:53 |
-| 32 | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/track/3nWcjWALonQpDBsyRP5725) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/album/3N4fmmPCO3Vh6QTKCiDyob) | 5:08 |
+| 32 | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/track/1H0BgYKS69p9fITJ4vWrXF) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [An Introduction to Hammock](https://open.spotify.com/album/6rixSK0uFTufD1gXvnB9ir) | 5:10 |
 | 33 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 |
 | 34 | [Distant Stars](https://open.spotify.com/track/4Wtytfcgk9Giy8Hea4DG1i) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Distant Stars](https://open.spotify.com/album/2Wv7iYzGIQwUGLuZBUbkGR) | 3:19 |
 | 35 | [When Everything Fades \- Applefish Rework](https://open.spotify.com/track/1TM6iMXR7IdX3Zc1rCwO9r) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Forever Ago](https://open.spotify.com/album/06LhQdbiI54iofiFmoOx12) | 4:44 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 111 | [Cosmic Dust](https://open.spotify.com/track/0yuKkb9X0PxKU5WWhpPD2i) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Starburst](https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j) | 3:51 |
 | 112 | [Iridescent Path](https://open.spotify.com/track/4tHjZx4Z77XSC64Zhai6MG) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Somnolent](https://open.spotify.com/album/7mtYE21I5eKozv4spdgauR) | 5:51 |
 
-Snapshot ID: `MTY2NTc2Mjc5MiwwMDAwMDAwMGFkMWFhM2ZlZmI2ZTIzMTExMTU0MmJjMDM0ZjZhZjNl`
+Snapshot ID: `MTY2NTc2Mjc5MiwwMDAwMDAwMGVkZjI1ZmIyZGViYzA1MmI2NmZlZTNlYTVhODllYzU3`

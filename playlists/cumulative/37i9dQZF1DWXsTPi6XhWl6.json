@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228349,
       "name": "Lake Michigan",
       "url": "https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG"
@@ -1118,6 +1118,24 @@
     },
     {
       "album": {
+        "name": "God's Favorite Customer",
+        "url": "https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183532,
+      "name": "Mr. Tillman",
+      "url": "https://open.spotify.com/track/6wOk4I34MXPyqEfzoQZBNL"
+    },
+    {
+      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 299685,
       "name": "New Birth in New England",
       "url": "https://open.spotify.com/track/1SmzAbt4g7a1FfAIwovtwq"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 307213,
       "name": "Ragged Wood",
       "url": "https://open.spotify.com/track/2qvToeBdYliw6n0nEsKJQa"
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 196163,
       "name": "Rambling Man",
       "url": "https://open.spotify.com/track/5qgyfyptP3pLeWs9maKPkg"
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 370200,
       "name": "Song for Zula",
       "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
@@ -1663,7 +1681,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 208960,
       "name": "Sucker's Prayer",
       "url": "https://open.spotify.com/track/3pxhPssdL2SJObXb5hpCRu"
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 223933,
       "name": "Twenty Miles",
       "url": "https://open.spotify.com/track/69XEXAbJTZwFfVz7ayfg3I"

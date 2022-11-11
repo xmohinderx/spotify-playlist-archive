@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-121 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+125 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Chutoro](https://open.spotify.com/track/2THxskift0F2b5wCjjLpzw) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Chutoro EP](https://open.spotify.com/album/2KmUmTZICpnb2pvJI1DiOb) | 5:50 | 2022-09-15 |  |
 | [Clap & Stomp](https://open.spotify.com/track/5Cs8GSuYsD7gSq0lbL5hqC) | [Javonntte](https://open.spotify.com/artist/2qBuzbYgrjGhnf79c60kxi) | [Return of the Private Party](https://open.spotify.com/album/55SMgIcyCEkwCEv2ahugt7) | 5:37 | 2022-09-15 |  |
 | [Closer](https://open.spotify.com/track/5A8rwVPuBWN1oUw7lD4jzP) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 7:04 | 2022-09-15 |  |
+| [Daughters \- Oliver Schories Remix](https://open.spotify.com/track/3XJRsEt8YMsLPXZNsLBVtU) | [Frivolous](https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [The Tiny House of Delusion \(REMIXES\)](https://open.spotify.com/album/7JNnB7EaDlJC23S6NQN4Fu) | 6:40 | 2022-11-10 |  |
 | [Descend](https://open.spotify.com/track/5UKeDBuyUvMAbxTgbdohBB) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Dive](https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot) | 4:57 | 2022-09-15 |  |
 | [Desire](https://open.spotify.com/track/7BFEDDCUYqYXnVH5ItVvOo) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Desire](https://open.spotify.com/album/0T9t94ZmiwFdMybdAi213o) | 5:52 | 2022-10-13 |  |
 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 | 2022-09-15 |  |
@@ -114,10 +115,12 @@
 | [These Changes](https://open.spotify.com/track/3UCArpyMo2NeLSJxUskh54) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB), [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [These Changes](https://open.spotify.com/album/1YUQSljtJY15Q6yalbfsj1) | 5:16 | 2022-09-15 |  |
 | [This Beat](https://open.spotify.com/track/4onagusNvGUXp4OWSs13OM) | [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [This Beat EP](https://open.spotify.com/album/4SrNCRDDdBrzXI5ggewHcJ) | 2:56 | 2022-09-15 |  |
 | [Time To Smoke](https://open.spotify.com/track/0nXIRF7CP1a6pQocggvnDu) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [The Reset](https://open.spotify.com/album/4CYp809RvpYL1gVuOvpfiV) | 8:46 | 2022-11-08 |  |
+| [Together We Rise](https://open.spotify.com/track/4sHYIG3VE8ZZKnf7lC5nFT) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [First Contact](https://open.spotify.com/album/4ULoeeCtktRn9rs6nf19jo) | 4:34 | 2022-11-10 |  |
 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 | 2022-09-15 |  |
 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG) | 3:11 | 2022-09-15 |  |
 | [Trying to Make it Home](https://open.spotify.com/track/3Hht1URCb1TqwcZAwU4pXK) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Trying to Make it Home](https://open.spotify.com/album/51mdZ0LmdmesB6Tcdk7nJi) | 5:42 | 2022-09-15 |  |
 | [ut i rommet](https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [Kløbb Ka2 \(Vol\. 3\)](https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N) | 7:26 | 2022-09-15 |  |
+| [Vaal](https://open.spotify.com/track/1VwrgkMDeccLvOdX9q5QJs) | [Crouwel](https://open.spotify.com/artist/1VeS9qe7asGQH9s5J5fjZE) | [Vaal](https://open.spotify.com/album/7FuSN7H620KARGtXqV9LK6) | 3:48 | 2022-11-10 |  |
 | [Versace Sheets](https://open.spotify.com/track/6BIQD6X5xCUzo2npyxlI8q) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [Versace Sheets](https://open.spotify.com/album/1dK1HNiuslX2RX6unebXYH) | 6:06 | 2022-09-15 |  |
 | [Visual Basic](https://open.spotify.com/track/4Y2v5FZUIOXTFWACv7Xipb) | [25 Places](https://open.spotify.com/artist/2HzPIOCKMoZReg1bH2kZLb) | [Visual Basic](https://open.spotify.com/album/3G34ZRXT0PmHhgYY5jtUzY) | 5:23 | 2022-09-15 |  |
 | [Wanna Get High?](https://open.spotify.com/track/6lrQqRqjfAX1caZ29PYyDs) | [Francesco Pico](https://open.spotify.com/artist/6MLTrcIa71KDQTTMpLRZUn) | [Perpetual E\-Motion \(Episode 5: Whanna Get High?\)](https://open.spotify.com/album/5MyDMn977sdt8kcR04EbLC) | 7:35 | 2022-09-15 |  |
@@ -127,6 +130,7 @@
 | [Without You](https://open.spotify.com/track/2gJKKQbQnlkSETAYH0aVuc) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul), [Edwin Oosterwal](https://open.spotify.com/artist/5Uxtm1bgCt8Fe7Dzr0pQzA) | [Without You](https://open.spotify.com/album/2JzfY0rPZuMF108kh8uB43) | 6:31 | 2022-09-15 |  |
 | [Woza](https://open.spotify.com/track/4GwGt8X3xWCq8qzu5F1126) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Linos Rosetta](https://open.spotify.com/artist/6xw7X7OPtVBwDZhFSbVMWO) | [Woza](https://open.spotify.com/album/0BKzS7GdsxwJ5m4dLwZMbg) | 4:19 | 2022-09-15 |  |
 | [Yipalo](https://open.spotify.com/track/1soxvPNeBojuyZIMFmpDZz) | [Ribas Abbas](https://open.spotify.com/artist/4juB9Jqv2v88qmIhZOT088) | [Yipalo](https://open.spotify.com/album/7oPSQ8xywCGe14Jk2QBus9) | 5:47 | 2022-09-15 |  |
+| [You \- Edit](https://open.spotify.com/track/1jH7hiI0cpqofP2yI0dihS) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [You \(Edit\)](https://open.spotify.com/album/1g0z09fYWlrT1oekKW0jnY) | 3:58 | 2022-11-10 |  |
 | [You Want That](https://open.spotify.com/track/78rZKFNN1Hy6SmdR1805uL) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [You Want That](https://open.spotify.com/album/1inngIYvfwsxn2XQHeQf0P) | 5:52 | 2022-09-15 |  |
 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 | 2022-09-15 |  |
 

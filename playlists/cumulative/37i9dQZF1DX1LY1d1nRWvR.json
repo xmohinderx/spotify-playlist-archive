@@ -278,6 +278,32 @@
     },
     {
       "album": {
+        "name": "Boro",
+        "url": "https://open.spotify.com/album/3PZz5CUq6iaaSReo5O7Yko"
+      },
+      "artists": [
+        {
+          "name": "Yarni",
+          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
+        },
+        {
+          "name": "Jonoa",
+          "url": "https://open.spotify.com/artist/6br5gZuWFULycPE9ePuqk1"
+        },
+        {
+          "name": "Rachel Shirley",
+          "url": "https://open.spotify.com/artist/6B8GzjIukc5DrGu32pabAI"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352909,
+      "name": "Golden Gai",
+      "url": "https://open.spotify.com/track/57U4RtkzOsK0vIVc6lu8ez"
+    },
+    {
+      "album": {
         "name": "Trips #2: Vietnam",
         "url": "https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY"
       },
@@ -493,7 +519,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 371861,
       "name": "Mogeri",
       "url": "https://open.spotify.com/track/6Iq7a7HZ6eFpsAVW6Qfohp"
@@ -657,7 +683,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 251082,
       "name": "Oh I Miss Her So",
       "url": "https://open.spotify.com/track/5psuezepdKbS4Iwl8kRY7M"
@@ -683,7 +709,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 239373,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ"
@@ -719,7 +745,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 327231,
       "name": "Rainbow Road",
       "url": "https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd"
@@ -737,7 +763,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 513226,
       "name": "Salaam",
       "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
@@ -1012,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Music is King 2019 Appreciation Mix (DJ Mix)",
+        "url": "https://open.spotify.com/album/6ZNoVc15w0AyCOkwNhxHjW"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409173,
+      "name": "The Sapiens (Original Mix) [Mixed]",
+      "url": "https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3"
+    },
+    {
+      "album": {
         "name": "The Sun Is Warm and Directly Above You",
         "url": "https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1"
       },
@@ -1135,7 +1179,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 235803,
       "name": "Yardley Suite",
       "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"

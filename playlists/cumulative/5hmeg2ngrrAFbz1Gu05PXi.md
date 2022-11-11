@@ -4,13 +4,14 @@
 
 > Get into the flow and stay focused while writing code with music curated by the JetBrains team.
 
-105 songs - 9 hr 49 min - not published yet
+106 songs - 9 hr 55 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Faith In Her'](https://open.spotify.com/track/3iZaENWBwO9cRKrSVXyK3F) | [Clubroot](https://open.spotify.com/artist/5lHhbrX9ll4e8ilhvLzzI6) | [III \- MMXII](https://open.spotify.com/album/2PExdzGxnYXuf1EMMKzMyF) | 4:35 | 2022-10-18 |  |
 | [22:41](https://open.spotify.com/track/1wvwpqp33lJ90fMOZ9odG3) | [Danger](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi) | [太鼓](https://open.spotify.com/album/7oBQawcEH4AvrUb1IgSI0p) | 4:37 | 2022-10-18 |  |
 | [4 Impromptus, Op\. 142, D\. 935: No\. 3 in B\-Flat Major\. Theme \(Andante\) with Variations](https://open.spotify.com/track/4mi74LE95kdgZPlEsicZiY) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Schubert: The Complete Impromptus/Moments Musicaux](https://open.spotify.com/album/4ZVlF7D9W6af6S0Vs8pmLF) | 11:50 | 2022-10-18 |  |
+| [A New Error](https://open.spotify.com/track/1fmoCZ6mtMiqA5GHWPcZz9) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [Moderat](https://open.spotify.com/album/2HEh23ogCT3wiYfag2iMxD) | 6:07 | 2022-11-10 |  |
 | [After Thoughts](https://open.spotify.com/track/27szvF97Tu95GxN98N52fy) | [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [The Beauty in All](https://open.spotify.com/album/5YLc9396aArq9HUenhiopz) | 5:25 | 2022-10-18 |  |
 | [Agony's Embrace](https://open.spotify.com/track/1znQv3sLeR1aCSWbjgCwKN) | [GHOST DATA](https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf) | [Void Walker](https://open.spotify.com/album/67zNdS1Mhqu7a7m3ZnUoEq) | 4:05 | 2022-10-18 |  |
 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 | 2022-10-18 |  |

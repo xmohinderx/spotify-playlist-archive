@@ -4,11 +4,12 @@
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-74 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/5noqwCCsnUWZmorBqtfD0M)
+76 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/5noqwCCsnUWZmorBqtfD0M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 | 2021-05-05 |  |
+| [24K Magic](https://open.spotify.com/track/3bO7y94nEH5eIhC1licVVa) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Billionaire \- 10's Most Upbeat Pop](https://open.spotify.com/album/7CVsVD2xyKRlOTLnNvCD90) | 3:45 | 2021-05-05 |  |
+| [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 | 2021-05-05 | 2022-11-11 |
 | [504](https://open.spotify.com/track/7GSRWFN6ThzMKGh6vqBZ1u) | [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Unlock Your Mind](https://open.spotify.com/album/30DZF2u3CHEE3pWZibviRQ) | 4:39 | 2021-05-05 |  |
 | [Alcool](https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/6NL1azymAHn7XLuVTuyLe5) | 2:49 | 2021-05-05 | 2022-10-15 |
 | [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 | 2021-05-05 |  |
@@ -18,7 +19,8 @@
 | [Believe It When You See It](https://open.spotify.com/track/3uJ7YB1zCQH0Y49sd5t1hq) | [Doctorfunk](https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L) | [Second Opinion](https://open.spotify.com/album/4pR78haiOUY4q8NDeXY5Qd) | 5:48 | 2021-05-05 |  |
 | [Brooklyn Streets](https://open.spotify.com/track/3YYWRLag07rQGmsogEwkz5) | [The Gold Magnolias](https://open.spotify.com/artist/52YDbdT312mNbnVxG52i1d) | [Sail On Glamdog](https://open.spotify.com/album/44n41LwvonKN1uSCWGSves) | 3:40 | 2021-05-05 |  |
 | [Call You Back](https://open.spotify.com/track/18IaulJ5ITzyQdDFyIsK1P) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn), [Haley Dekle](https://open.spotify.com/artist/7wjZTTRz5QZ8GfJPJbmH1C) | [Call You Back](https://open.spotify.com/album/1Jop1c4s9yv7e1ZOsiEAOh) | 2:49 | 2021-05-05 |  |
-| [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 | 2021-05-05 |  |
+| [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/0j12Gr44QXICpHG970RbR7) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [NOW That's What I Call Music, Vol\. 59](https://open.spotify.com/album/7Dt2L4GbuzNlvCJ09M6McQ) | 3:53 | 2021-05-05 |  |
+| [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 | 2021-05-05 | 2022-11-11 |
 | [Change](https://open.spotify.com/track/2U2OWAIT6F4ZLpH6Yy8TR7) | [Nojazz](https://open.spotify.com/artist/6KLnaNNqxZlVKGMavwJ8Zn) | [Soul Stimulation](https://open.spotify.com/album/26lKujx8VZ8nUFRXKRn2tC) | 3:37 | 2021-05-05 |  |
 | [Cineramascope](https://open.spotify.com/track/63dv2zKXPamiHHOKQBOzbU) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Corey Henry](https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh) | [Ya\-Ka\-May \(Deluxe Edition\)](https://open.spotify.com/album/7DgwPKmMoPrZylKAeQ50z6) | 3:14 | 2021-05-05 |  |
 | [City Heights](https://open.spotify.com/track/16Hj0P5jkxkhRMkL1Spz3Y) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [The Sure Fire Soul Ensemble](https://open.spotify.com/album/6xX9JoQh6kquEkXmudqfO3) | 3:43 | 2021-05-05 |  |

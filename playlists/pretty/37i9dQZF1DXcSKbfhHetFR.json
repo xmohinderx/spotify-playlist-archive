@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7486,
+  "num_followers": 7489,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGFkNGExYWUwOThiN2Q5OGJkNzYwYmRmNmI1YWE4NDBi",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDFkOWZlMzM1NmU2MzRmM2I5M2FlM2ZiNWM3MTE2NmJh",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -39,22 +39,6 @@
       "duration_ms": 305053,
       "name": "Dis-moi pas \u00e7a",
       "url": "https://open.spotify.com/track/3v9aoyKNPznNmB9nEmzjie"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Vilain Pingouin",
-        "url": "https://open.spotify.com/album/1ODLZJUUkSVaoLILmTYMtu"
-      },
-      "artists": [
-        {
-          "name": "Vilain Pingouin",
-          "url": "https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi"
-        }
-      ],
-      "duration_ms": 238973,
-      "name": "Le train",
-      "url": "https://open.spotify.com/track/3WXD1s3xsBGydb1rgZagd6"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -351,6 +335,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "Sans foi ni loi",
+        "url": "https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9"
+      },
+      "artists": [
+        {
+          "name": "Les Pistolets Roses",
+          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Grossiere ind\u00e9cence",
+      "url": "https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Hepatite B",
         "url": "https://open.spotify.com/album/3KB7pIIY4WlHjZSqV8nXs5"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Sans foi ni loi",
-        "url": "https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9"
-      },
-      "artists": [
-        {
-          "name": "Les Pistolets Roses",
-          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Grossiere ind\u00e9cence",
-      "url": "https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Western Romance",
         "url": "https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX"
       },
@@ -479,22 +463,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "AW",
-        "url": "https://open.spotify.com/album/658WdTob3JXKse2edU1PiH"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9e Watters",
-          "url": "https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H"
-        }
-      ],
-      "duration_ms": 229906,
-      "name": "Si exceptionnel",
-      "url": "https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "D\u00e9jeuner sur l'herbe",
         "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
       },
@@ -507,6 +475,22 @@
       "duration_ms": 192093,
       "name": "J'pourrais pas vivre avec toi",
       "url": "https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "AW",
+        "url": "https://open.spotify.com/album/658WdTob3JXKse2edU1PiH"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9e Watters",
+          "url": "https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H"
+        }
+      ],
+      "duration_ms": 229906,
+      "name": "Si exceptionnel",
+      "url": "https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -559,6 +543,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "D\u00e9jeuner sur l'herbe",
+        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
+      },
+      "artists": [
+        {
+          "name": "Les Breastfeeders",
+          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Mini-jupe et watusi",
+      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Projet Orange",
         "url": "https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Rita-Rita",
-        "url": "https://open.spotify.com/album/5qSOmPrjjKPs5HGuPH6BHj"
-      },
-      "artists": [
-        {
-          "name": "Rita-Rita",
-          "url": "https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Je suis down",
-      "url": "https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Courtepointes",
         "url": "https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 184973,
       "name": "Cit\u00e9 rock suicide",
       "url": "https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Rita-Rita",
+        "url": "https://open.spotify.com/album/5qSOmPrjjKPs5HGuPH6BHj"
+      },
+      "artists": [
+        {
+          "name": "Rita-Rita",
+          "url": "https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Je suis down",
+      "url": "https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -639,22 +639,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "D\u00e9jeuner sur l'herbe",
-        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
-      },
-      "artists": [
-        {
-          "name": "Les Breastfeeders",
-          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Mini-jupe et watusi",
-      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "l'amour la haine les animaux les automobiles",
         "url": "https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW"
       },
@@ -671,22 +655,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Vent fou",
-        "url": "https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t"
-      },
-      "artists": [
-        {
-          "name": "Jorane",
-          "url": "https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7"
-        }
-      ],
-      "duration_ms": 79840,
-      "name": "Vent fou",
-      "url": "https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Thermoplastique",
         "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
       },
@@ -699,6 +667,22 @@
       "duration_ms": 173626,
       "name": "Thermoplastique",
       "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Vent fou",
+        "url": "https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t"
+      },
+      "artists": [
+        {
+          "name": "Jorane",
+          "url": "https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7"
+        }
+      ],
+      "duration_ms": 79840,
+      "name": "Vent fou",
+      "url": "https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -731,6 +715,22 @@
       "duration_ms": 219800,
       "name": "Une araign\u00e9e au plafond",
       "url": "https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Les belles ann\u00e9es : L'anthologie",
+        "url": "https://open.spotify.com/album/5pRpQH9bLCUqmB7mjdYQ9D"
+      },
+      "artists": [
+        {
+          "name": "Vilain Pingouin",
+          "url": "https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi"
+        }
+      ],
+      "duration_ms": 241960,
+      "name": "Le train",
+      "url": "https://open.spotify.com/track/3ZlwPpbhy6sodaMMps52Jr"
     },
     {
       "added_at": "2020-06-23 14:47:30",

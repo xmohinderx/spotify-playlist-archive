@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,853 likes - 102 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,882 likes - 102 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 75 | [The Deepest Of Sorrow](https://open.spotify.com/track/5TrqCiv8CSLHbSbvk0XDLo) | [Pathiena](https://open.spotify.com/artist/0gFioxhm0NLtIrUKSLkmUW) | [The Deepest Of Sorrow](https://open.spotify.com/album/7x43if6epaRgG3Mlj3dtwQ) | 3:32 |
 | 76 | [Sunn Bhavara](https://open.spotify.com/track/5bYBUKAIs1F4DcdcNfbMgj) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [OK Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6) | 4:23 |
 | 77 | [Rasiya](https://open.spotify.com/track/4GdSydpo68O9XnTnnmSntO) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:38 |
-| 78 | [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/68pnUjdZYEgYuHArZRxETk) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [OK \(Expanded Edition\)](https://open.spotify.com/album/78TxUdER5QfLxTBpXu1UZm) | 5:50 |
+| 78 | [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/6eksDMdyTYPB3e1nycPx6c) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Winter Mix 2021](https://open.spotify.com/album/5gfKfF2hnSbYCdI21NilnF) | 5:50 |
 | 79 | [Raga Hamsdhwani](https://open.spotify.com/track/1H7V3AzrqHvO5wnP4AcUw1) | [Utsav Lal](https://open.spotify.com/artist/4Pcg6hzSg5EesPpNIbyYKd) | [Piano Moods of Indian Ragas](https://open.spotify.com/album/0w5TiC3gMe2m69oUsMskrC) | 13:01 |
 | 80 | [Naked](https://open.spotify.com/track/7KoXzM3IboDJxRl7DXIT7y) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Rise](https://open.spotify.com/album/5v2AgCxdfQlVcoXQ0QQEoP) | 4:16 |
 | 81 | [Hope](https://open.spotify.com/track/0UcmCmfs4dwM2d931pgyjy) | [The Sinis Spirit](https://open.spotify.com/artist/4FQayJgrEjwuTnwghtmrE9) | [Hope](https://open.spotify.com/album/56Is3vrKgrVrgEyLXwyAed) | 3:42 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 101 | [Shiva Moon \(Prem Joshua & Maneesh de Moor's Moon Nectar Remix\)](https://open.spotify.com/track/0xU1OWWZdbmCjLWpC9YDau) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Dakini Lounge: Prem Joshua Remixed](https://open.spotify.com/album/3POYtJ1eftAtmn3VoZkc7A) | 8:14 |
 | 102 | [Tangerine Thumri \(Orange Turban Mix\)](https://open.spotify.com/track/1ZpDROkwHFYtpsRkBTG2Sr) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1), [Maneesh de Moor](https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA) | [Shiva Moon](https://open.spotify.com/album/1TtTFpcrxspPiuBsD7f1gT) | 7:12 |
 
-Snapshot ID: `MTY2MzkxMTM4MiwwMDAwMDAwMDljMzBmZGQyZTE2YTcwN2EyNjI3MmE1ODFjZmJlMjNi`
+Snapshot ID: `MTY2MzkxMTM4MiwwMDAwMDAwMDgzOWZjNmRkZDdlMDliMjkzOTQ0NTM0YmNkYjA3Yzhi`

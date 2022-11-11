@@ -237,10 +237,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 243955,
       "name": "America",
       "url": "https://open.spotify.com/track/5lZSpbb0BQsequomhDDWv0"
+    },
+    {
+      "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/2t8ahnWq9Ni1bO7U1VTEW3"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243955,
+      "name": "America",
+      "url": "https://open.spotify.com/track/67VbIy5GGBaoXjNtWXLBS6"
     },
     {
       "album": {
@@ -352,6 +370,24 @@
     },
     {
       "album": {
+        "name": "Quiet Moment Ballads",
+        "url": "https://open.spotify.com/album/3GsjwdiCGkKqD51G4NRtI8"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206702,
+      "name": "Attention - Acoustic",
+      "url": "https://open.spotify.com/track/2xp0omM9ej1ErRQ1J5kKnA"
+    },
+    {
+      "album": {
         "name": "Attention (Acoustic + Remixes)",
         "url": "https://open.spotify.com/album/4y0Z0P5jwoy0e6x9aeG8QP"
       },
@@ -363,7 +399,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 206702,
       "name": "Attention - Acoustic",
       "url": "https://open.spotify.com/track/4I8s6vwzHT2geqH91w2Dyg"
@@ -551,10 +587,28 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 164350,
       "name": "Better - Acoustic",
       "url": "https://open.spotify.com/track/2CLB1qOBXhCNAfW7PDZlO9"
+    },
+    {
+      "album": {
+        "name": "Acoustic chill 2020",
+        "url": "https://open.spotify.com/album/46hH4VHo5r4juSC3POdSTm"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164350,
+      "name": "Better - Acoustic",
+      "url": "https://open.spotify.com/track/5FgALOtk8mekV6LFF6gzC5"
     },
     {
       "album": {
@@ -1250,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "Faking In Love (Acoustic)",
+        "url": "https://open.spotify.com/album/5X3jthoHHDe99VpesjJhwH"
+      },
+      "artists": [
+        {
+          "name": "Jacob Whitesides",
+          "url": "https://open.spotify.com/artist/05tyvnDgYMhgagYbUx9td4"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196652,
+      "name": "Faking In Love - Acoustic",
+      "url": "https://open.spotify.com/track/6Gx8b4dFfqfeT6ppzVJMDd"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/2GmDBzYrKuqmBDXTNY9NBg"
       },
@@ -1261,7 +1333,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 196652,
       "name": "Faking In Love - Acoustic",
       "url": "https://open.spotify.com/track/6UjBD8tDFXHDSozQWt5AKq"
@@ -1470,6 +1542,24 @@
     },
     {
       "album": {
+        "name": "Best Of 2021: Acoustic Hits",
+        "url": "https://open.spotify.com/album/58HqTqoXGzn7VL0NrnHUSl"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174438,
+      "name": "Girls Like Us - Acoustic Version",
+      "url": "https://open.spotify.com/track/0t2js2WZR3zWP3CTPwRIkd"
+    },
+    {
+      "album": {
         "name": "Girls Like Us (Acoustic Versions)",
         "url": "https://open.spotify.com/album/4xyYIlpGoVGEicd3Hc0WHX"
       },
@@ -1481,7 +1571,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174438,
       "name": "Girls Like Us - Acoustic Version",
       "url": "https://open.spotify.com/track/1jfxr7knjiUEk0us86bRBz"
@@ -1654,6 +1744,24 @@
     },
     {
       "album": {
+        "name": "Hey Mr. Music Man",
+        "url": "https://open.spotify.com/album/1nzMLmAeWS7W7VZaa9h7PT"
+      },
+      "artists": [
+        {
+          "name": "Tainted Lady",
+          "url": "https://open.spotify.com/artist/5vDofI5lIB1H73lH1y0eQ7"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238971,
+      "name": "Hey Mr. Music Man",
+      "url": "https://open.spotify.com/track/261HmiNCIF3U64TpCD341h"
+    },
+    {
+      "album": {
         "name": "Sounds Like Freedom // Feels Like War",
         "url": "https://open.spotify.com/album/0NacDa1cGrR8tEsY22nycf"
       },
@@ -1665,7 +1773,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 238971,
       "name": "Hey Mr. Music Man",
       "url": "https://open.spotify.com/track/47TOrAWRuedFKPdnOOeLqw"
@@ -1856,6 +1964,24 @@
     },
     {
       "album": {
+        "name": "Chillax",
+        "url": "https://open.spotify.com/album/29vMAFOme5FtzIilc4Npqk"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184638,
+      "name": "IDK You Yet",
+      "url": "https://open.spotify.com/track/01ioNtYyhbVVhET2FtmAOK"
+    },
+    {
+      "album": {
         "name": "IDK You Yet (Live on Piano)",
         "url": "https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2"
       },
@@ -1867,7 +1993,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 184638,
       "name": "IDK You Yet",
       "url": "https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk"
@@ -2727,7 +2853,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 173400,
       "name": "New Eyes - Acoustic",
       "url": "https://open.spotify.com/track/4edFT7XYhwdnuRDECPQqGa"
@@ -2749,7 +2875,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 173400,
       "name": "New Eyes - Acoustic",
       "url": "https://open.spotify.com/track/5DT4EK2kBjooW9mKACFodW"
@@ -3432,6 +3558,24 @@
     },
     {
       "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/4Qd8lWWPRLv4x6ZZVJykRB"
+    },
+    {
+      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -3443,7 +3587,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
@@ -3505,10 +3649,32 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 227413,
       "name": "Sorry I'm Gone",
       "url": "https://open.spotify.com/track/60r0gseRNjgAfF3EiiRFXL"
+    },
+    {
+      "album": {
+        "name": "Sorry I'm Gone",
+        "url": "https://open.spotify.com/album/32VtRj64SYPRTqiNGNQChC"
+      },
+      "artists": [
+        {
+          "name": "Kyle Lionhart",
+          "url": "https://open.spotify.com/artist/3VLXw7Phdo2mLlUoB5B59j"
+        },
+        {
+          "name": "Emily Reid",
+          "url": "https://open.spotify.com/artist/3TT6dzzXE5aV42E7PiGuAD"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227413,
+      "name": "Sorry I'm Gone",
+      "url": "https://open.spotify.com/track/6COA6vUTp6ElKpEMfJUDq8"
     },
     {
       "album": {
@@ -3556,6 +3722,24 @@
     },
     {
       "album": {
+        "name": "spark (acoustic version)",
+        "url": "https://open.spotify.com/album/6i4Fr88uQpqbLsbhP0i2bo"
+      },
+      "artists": [
+        {
+          "name": "Lewis Watson",
+          "url": "https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215213,
+      "name": "spark - acoustic version",
+      "url": "https://open.spotify.com/track/1Bf6t21wDuopvxEjEG0Axx"
+    },
+    {
+      "album": {
         "name": "the love that you want (Acoustic)",
         "url": "https://open.spotify.com/album/14hXoTfUY2iXfr65WvMWou"
       },
@@ -3567,7 +3751,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215213,
       "name": "spark - Acoustic Version",
       "url": "https://open.spotify.com/track/3t9VNPLPtOSHhdDdTx7VFM"
@@ -4007,10 +4191,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 201072,
       "name": "Wasn't Expecting That",
       "url": "https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn"
+    },
+    {
+      "album": {
+        "name": "Soft 10's",
+        "url": "https://open.spotify.com/album/5nLe1daKdWUczOnLQVFAEb"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201072,
+      "name": "Wasn't Expecting That",
+      "url": "https://open.spotify.com/track/1OmAaRqTdBDH4Efcrgbthz"
     },
     {
       "album": {

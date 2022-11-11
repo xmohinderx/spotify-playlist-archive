@@ -687,6 +687,24 @@
     {
       "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297746,
+      "name": "Como duele el frio",
+      "url": "https://open.spotify.com/track/4y5fhagJbgjeMo7nWh34ee"
+    },
+    {
+      "album": {
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
       "artists": [
@@ -715,7 +733,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 298826,
       "name": "Como Duele El Frio",
       "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
@@ -2666,6 +2684,24 @@
     },
     {
       "album": {
+        "name": "Presente Y Futuro",
+        "url": "https://open.spotify.com/album/3oeBPJdALfu8Ou124ezdxt"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/3VOTGRKPPm3AiFNPv6lbGd"
+    },
+    {
+      "album": {
         "name": "Presente y Futuro",
         "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
       },
@@ -2695,7 +2731,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 300408,
       "name": "Nunca Niegues Que Te Amo",
       "url": "https://open.spotify.com/track/0XWWn8bfpir8M3YHq1h7uJ"
@@ -3071,10 +3107,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 298986,
       "name": "Quiero Que Seas Mi Estrella",
       "url": "https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn"
+    },
+    {
+      "album": {
+        "name": "Por el Mundo Entero",
+        "url": "https://open.spotify.com/album/7BJTzb8pFpOSG6JpvWTCrU"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300120,
+      "name": "Quiero Que Seas Mi Estrella",
+      "url": "https://open.spotify.com/track/6V5PmiX4malndCwTohPXgS"
     },
     {
       "album": {
@@ -3431,10 +3485,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 294640,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/6f9wNWLVMRX9QbsStbaI4Q"
+    },
+    {
+      "album": {
+        "name": "Por el Mundo Entero",
+        "url": "https://open.spotify.com/album/7BJTzb8pFpOSG6JpvWTCrU"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296640,
+      "name": "Si Tu Amor No Vuelve",
+      "url": "https://open.spotify.com/track/7Kr0Vnbv1PYoIgfUyhJuFf"
     },
     {
       "album": {
@@ -3492,6 +3564,24 @@
     },
     {
       "album": {
+        "name": "Salsa Gorda... Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/4KEQJY7F6bTCPFEjS5izI2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293786,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/6HfbilH07cTYLvjy2zMlFG"
+    },
+    {
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -3503,7 +3593,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 293893,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"

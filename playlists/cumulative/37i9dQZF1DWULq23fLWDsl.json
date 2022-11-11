@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 227346,
       "name": "Call Your Girlfriend",
       "url": "https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 278080,
       "name": "Dancing On My Own - Radio Edit",
       "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 239293,
       "name": "Don't Let It Pass",
       "url": "https://open.spotify.com/track/1ghaBtBdpuZMg5nV9E2qRU"
@@ -528,6 +528,24 @@
     },
     {
       "album": {
+        "name": "High Violet (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0ZHwBlV4OAweXWwbUemkmT"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340186,
+      "name": "England",
+      "url": "https://open.spotify.com/track/2C0xQEQPtwDc9yhx3UtUsB"
+    },
+    {
+      "album": {
         "name": "High Violet",
         "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
       },
@@ -539,7 +557,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 340186,
       "name": "England",
       "url": "https://open.spotify.com/track/3KpJsilpYiHAVEMoCKYjFv"
@@ -593,10 +611,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 166200,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/3YlFtz805JwhDGy0fLasBO"
+    },
+    {
+      "album": {
+        "name": "Rope & Summit EP",
+        "url": "https://open.spotify.com/album/6reDXT9sAge6HzdmE350tG"
+      },
+      "artists": [
+        {
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3eYqU6kYLsN67CYz1CvSds"
     },
     {
       "album": {
@@ -629,10 +665,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 202589,
       "name": "Get Some",
       "url": "https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt"
+    },
+    {
+      "album": {
+        "name": "Wounded Rhymes (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202589,
+      "name": "Get Some",
+      "url": "https://open.spotify.com/track/77xik5R8pJqWIdZoYTeWV3"
     },
     {
       "album": {
@@ -935,10 +989,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 206186,
       "name": "King of Spain",
       "url": "https://open.spotify.com/track/7nf794AzR4NDuhNOnkJoOd"
+    },
+    {
+      "album": {
+        "name": "King of Spain",
+        "url": "https://open.spotify.com/album/0OMR85nZdzXwU5v5v225kC"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207946,
+      "name": "King of Spain",
+      "url": "https://open.spotify.com/track/3wTFSdatTjW8VmYNPtIiHk"
     },
     {
       "album": {
@@ -1058,6 +1130,24 @@
     },
     {
       "album": {
+        "name": "This Will All Blow Over In Time",
+        "url": "https://open.spotify.com/album/7mbnjdQ71PNVZ7VqIyhTLv"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162935,
+      "name": "Louder Than Ever",
+      "url": "https://open.spotify.com/track/61xc3SlEw9wRpePDz87ryd"
+    },
+    {
+      "album": {
         "name": "Mine Is Yours",
         "url": "https://open.spotify.com/album/69Kgl92Q1X2n7ERDX4me1r"
       },
@@ -1123,7 +1213,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 166906,
       "name": "Meyrin Fields",
       "url": "https://open.spotify.com/track/0Em7kYMP9LGyRNc7KroJTZ"
@@ -1357,7 +1447,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 366146,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6SAtB7zpZ209gCDxU4i9oG"
@@ -1411,7 +1501,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 229893,
       "name": "Rill Rill",
       "url": "https://open.spotify.com/track/3GbjOImkNo5nFT2GQxVr11"
@@ -1465,10 +1555,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228546,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
+    },
+    {
+      "album": {
+        "name": "Philharmonics (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3Mj2AdZblvorS19tdG95hZ"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228546,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/7idJS1YOV1eABaJE8iQsEK"
     },
     {
       "album": {
@@ -1573,7 +1681,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 164186,
       "name": "Something Good Can Work",
       "url": "https://open.spotify.com/track/59kNaCxnyX7Ezt1m6KxGLY"
@@ -1595,6 +1703,24 @@
       "duration_ms": 164186,
       "name": "Something Good Can Work",
       "url": "https://open.spotify.com/track/5yDX0yhtLyf0zEXEqXqyAa"
+    },
+    {
+      "album": {
+        "name": "Kitsun\u00e9 Maison Compilation 7",
+        "url": "https://open.spotify.com/album/0IoQT8SLSAIYS3kBPF4rBg"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165320,
+      "name": "Something Good Can Work",
+      "url": "https://open.spotify.com/track/2Sk6M1FAJq0ftXRnNJxAXf"
     },
     {
       "album": {
@@ -1791,6 +1917,24 @@
       "duration_ms": 348440,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg"
+    },
+    {
+      "album": {
+        "name": "High Violet (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0ZHwBlV4OAweXWwbUemkmT"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279760,
+      "name": "Terrible Love",
+      "url": "https://open.spotify.com/track/6gIgCC8fMTYW7D3cdrMlIs"
     },
     {
       "album": {
@@ -2039,10 +2183,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 178666,
       "name": "White Sky",
       "url": "https://open.spotify.com/track/1QdVwO5xqAI88pNn2qfNjU"
+    },
+    {
+      "album": {
+        "name": "White Sky",
+        "url": "https://open.spotify.com/album/0JS3ey7Ayv5iL2NBeBDyK0"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "White Sky",
+      "url": "https://open.spotify.com/track/362rO6fBWBJ1WUJgEjTLcQ"
     },
     {
       "album": {

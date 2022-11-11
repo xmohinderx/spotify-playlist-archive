@@ -474,6 +474,24 @@
     },
     {
       "album": {
+        "name": "Punk Goes Classic Rock",
+        "url": "https://open.spotify.com/album/64RLAKcWXgTpahzJbgEqZz"
+      },
+      "artists": [
+        {
+          "name": "The Almost",
+          "url": "https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271173,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/396oLs4Mt8k45Lv5aD6EF3"
+    },
+    {
+      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi"
       },
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 237198,
       "name": "Live Like That",
       "url": "https://open.spotify.com/track/6QbbxQtijqLfUV90Vlm1Xh"
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199531,
       "name": "Reason",
       "url": "https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R"
@@ -1660,6 +1678,24 @@
     },
     {
       "album": {
+        "name": "At Midnight - EP",
+        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/0wtFB7vmIRecZhXQbDQ9Z1"
+    },
+    {
+      "album": {
         "name": "See A Victory",
         "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
       },
@@ -1671,7 +1707,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 363230,
       "name": "See A Victory",
       "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
@@ -1765,7 +1801,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 208325,
       "name": "Spend a Life",
       "url": "https://open.spotify.com/track/0YrLt5LEmJ8SqGnEmXzll7"
@@ -1827,7 +1863,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 244653,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9"
@@ -1867,7 +1903,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 236933,
       "name": "The God Who Stays",
       "url": "https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK"
@@ -1889,6 +1925,24 @@
       "duration_ms": 236933,
       "name": "The God Who Stays",
       "url": "https://open.spotify.com/track/3YJp7Sud4zR2dTnf0Ita0T"
+    },
+    {
+      "album": {
+        "name": "The God Who Stays",
+        "url": "https://open.spotify.com/album/3Fh8ppnoZ6ToZXePDKAq1l"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236933,
+      "name": "The God Who Stays",
+      "url": "https://open.spotify.com/track/5Xl34OQj59DQ8n5qgtTKiC"
     },
     {
       "album": {
@@ -1921,7 +1975,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 261880,
       "name": "The Only Name (Yours Will Be)",
       "url": "https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF"
@@ -1957,7 +2011,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225996,
       "name": "The Same Jesus",
       "url": "https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL"
@@ -2087,7 +2141,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 276746,
       "name": "Today Is The Day",
       "url": "https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj"

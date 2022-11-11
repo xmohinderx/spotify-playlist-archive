@@ -475,10 +475,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 360426,
       "name": "Entre Dos Aguas",
       "url": "https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa"
+    },
+    {
+      "album": {
+        "name": "El Flamenco es... Paco De Lucia",
+        "url": "https://open.spotify.com/album/4EtA69YGY0HJdIluqGUKGP"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362093,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/1VvRKrSSsTBctlbilgKHmm"
     },
     {
       "album": {

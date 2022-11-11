@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 
 > Positive and uplifting ambient instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,738 likes - 231 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,723 likes - 231 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,10 +170,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 160 | [The Only One](https://open.spotify.com/track/4ZhN4DujGaKdSTYi1ZFDbj) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Requiescence](https://open.spotify.com/album/3bhAl8RnnUNyNz53wlqOLf) | 4:21 |
 | 161 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 |
 | 162 | [As With The Night Sky](https://open.spotify.com/track/5uS36I6YMNcYIELbLNcsnz) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I – Beginnings](https://open.spotify.com/album/72bKzpkvAToOhG3EuzUrTi) | 2:27 |
-| 163 | [Affinity](https://open.spotify.com/track/6QBMi35bWSwDCnPYqFJ7CJ) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [City Life](https://open.spotify.com/album/2i47kGSyOtZQA7kckmakTO) | 2:28 |
+| 163 | [Affinity](https://open.spotify.com/track/2AlN38UqnsvqOLFxsCUWWH) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 2:28 |
 | 164 | [Corridors](https://open.spotify.com/track/66CiuQCGRMNy6sRzsi1Q6j) | [Mylo Rivers](https://open.spotify.com/artist/20MoKIG566PkzNMFkRldKy) | [Corridors of Diamonds](https://open.spotify.com/album/1M4Dd2Z9ulJQmITzC0q8A2) | 3:21 |
 | 165 | [New Year's Day](https://open.spotify.com/track/6ivDkaSCLNSPmElwC9C3b2) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [New Year's Day](https://open.spotify.com/album/02wzDF6qH6mIzpkcnCyLrQ) | 2:29 |
-| 166 | [You \- Ambient Dream](https://open.spotify.com/track/3My2BCqIKfxU8WkieHPVYV) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [You](https://open.spotify.com/album/7qTEMrV6yfEuERhJ8HgW0F) | 3:36 |
+| 166 | [You \- Ambient Dream](https://open.spotify.com/track/4pOCwMwCYLe917B7GjOzEM) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [Music For Dreams](https://open.spotify.com/album/7FVXnDsiClWsdbjZz0v6Ic) | 3:36 |
 | 167 | [Just Look at You](https://open.spotify.com/track/62X7ld1sa8RHl4zRtSvfHf) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [432 Water Crystals](https://open.spotify.com/album/6jSQXGouXgIfiwa9icJO68) | 3:07 |
 | 168 | [View from above](https://open.spotify.com/track/6g27Rgmh70pRtObHez98FU) | [Crosswood](https://open.spotify.com/artist/0f9ikBIWz9YiVZ3ut8sGYR) | [View from above](https://open.spotify.com/album/42r3FDP6ja38BMV15Y2a1F) | 2:19 |
 | 169 | [Halcyon](https://open.spotify.com/track/4DkgaBjJfrfavy1bWQb6vf) | [William Duhamel](https://open.spotify.com/artist/2MJK51yXcbWpaiL0MWCAtp) | [Halcyon](https://open.spotify.com/album/0qRTjn6f3uNJTGfcaQfJ0c) | 2:23 |
@@ -192,7 +192,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 182 | [Constellations](https://open.spotify.com/track/5Pw7gSuLEETmwqeKlo5lCk) | [Sulfur Springs](https://open.spotify.com/artist/4W3lH1l0pEtX21XX6nOIRF) | [Constellations](https://open.spotify.com/album/02oBO0Zh8FRrXDtTZRUlY7) | 4:23 |
 | 183 | [mellow](https://open.spotify.com/track/7CVgHbVQmNtUVXKZOgonJK) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [mellow](https://open.spotify.com/album/5M6bsvJuj33pYJrUo8p3Q2) | 2:24 |
 | 184 | [The Dusk](https://open.spotify.com/track/1IP6Rxvohb7Sv6c7eqCzx8) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [The Dusk](https://open.spotify.com/album/0Ed6n6t6YsIFh4XbInQaVv) | 2:40 |
-| 185 | [Pre](https://open.spotify.com/track/18C9lmTgz4iysYbfqXOCJh) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Philosophers](https://open.spotify.com/album/6CXGJJW4997QYQzKRSAbGC) | 1:47 |
+| 185 | [Pre](https://open.spotify.com/track/6CQoENYuGo2GAoj2Gh6XmA) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 1:47 |
 | 186 | [Technicolor Dreams](https://open.spotify.com/track/7xRxetB77E4m36hb2kt5fy) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Technicolor Dreams](https://open.spotify.com/album/3ysyQAP6BJZ8MgnGlAEHbW) | 3:03 |
 | 187 | [](https://open.spotify.com/track/5S9d4zV0jeAKVmikBBpHoA) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 0:00 |
 | 188 | [Evening Tide](https://open.spotify.com/track/3IVpqqweRwUvQ49ovda18Y) | [Catherine Holm](https://open.spotify.com/artist/4L8nmO7kqdX1K9ydfCfbh7) | [Evening Tide](https://open.spotify.com/album/5DMLJNgADhisXz3RpXQO9v) | 2:01 |
@@ -233,11 +233,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 223 | [Petrichor](https://open.spotify.com/track/2hx0o7fZRPkmknXSgncOij) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Dark Sky City](https://open.spotify.com/album/1n30D8qOtqf6IimgHXz8wF) | 2:51 |
 | 224 | [Butterfly Traces](https://open.spotify.com/track/2IrPTNvYOoR92JZoNz79N2) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:46 |
 | 225 | [Coda](https://open.spotify.com/track/2TFQPFUqRtgj1auq9b5PlR) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Endeavour](https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH) | 3:00 |
-| 226 | [We Are Forever](https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:14 |
+| 226 | [We Are Forever](https://open.spotify.com/track/2ralu13lkIdpY1ynZTpVJO) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 2:14 |
 | 227 | [Conundrums](https://open.spotify.com/track/4g70brh8cJRNX2PqPzLqNw) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Hearts Beat Loud \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16wCSAPcCvedM9X0sOksYO) | 1:46 |
 | 228 | [Elsewhere](https://open.spotify.com/track/4j8TABxneaueiBpMqSvzpU) | [Claude Sabatier](https://open.spotify.com/artist/5oRDhVSff6UD1uX7cZa7mf) | [Elsewhere](https://open.spotify.com/album/5h2qI21HMY4KMOqL00RBFc) | 1:58 |
 | 229 | [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 1:58 |
 | 230 | [Cross My Heart](https://open.spotify.com/track/50BBDsisFzJGiFbg6FDRAV) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:28 |
 | 231 | [Lunaria](https://open.spotify.com/track/64NfNdH3XaMEpchQznOuxl) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 1:52 |
 
-Snapshot ID: `MTY2NjM5MDkxNCwwMDAwMDAwMGYyZmVjMTBmOTAzNDgyM2JiNWJjZTIyMTljMGZmZmMw`
+Snapshot ID: `MTY2NjM5MDkxNCwwMDAwMDAwMGNmNWQ3M2MwYzM5ZjM5ODdjYzU0M2E5OTVjMTE3OTg4`

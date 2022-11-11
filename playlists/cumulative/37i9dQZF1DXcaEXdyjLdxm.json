@@ -1054,6 +1054,24 @@
     },
     {
       "album": {
+        "name": "Live from East West Studios",
+        "url": "https://open.spotify.com/album/3zNNbGEqcF5tane8GyHDwd"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214107,
+      "name": "Stay High - Live from East West Studios",
+      "url": "https://open.spotify.com/track/0YVoE5qqywmssnNwA3wNsY"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KQQIiKcpLntswP4sW62yK"
       },
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 214107,
       "name": "Stay High - Recorded At East West Studios",
       "url": "https://open.spotify.com/track/0LeA15NV8v9W1HrZvD3rqS"
@@ -1231,10 +1249,28 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 247346,
       "name": "Tell Me You Love Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ"
+    },
+    {
+      "album": {
+        "name": "Tell Me You Love Me (Remixes)",
+        "url": "https://open.spotify.com/album/6N5R4CLYRqoYXq1MHOcKxw"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247360,
+      "name": "Tell Me You Love Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6oGAlnYsUl59EsgJYhCw4p"
     },
     {
       "album": {

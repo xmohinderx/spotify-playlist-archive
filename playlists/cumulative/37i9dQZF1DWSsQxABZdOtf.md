@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-71 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/22V2A3qGlZBRfAvB6XMm0w)
+72 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/22V2A3qGlZBRfAvB6XMm0w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [VINEGAR HILL](https://open.spotify.com/track/0QqIz4Ut84n1hEqcqn7HSN) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [BADBOI](https://open.spotify.com/album/3ucILeyhjCVjm9Uy6g9tNu) | 3:03 | 2022-09-08 |  |
 | [Wet](https://open.spotify.com/track/4UYvRJDzEIKvyHRMA8LPNC) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Wet](https://open.spotify.com/album/5ResSYzjEMB3SbKvC8XmxQ) | 2:58 | 2022-09-08 |  |
 | [Wetty](https://open.spotify.com/track/1AGjPImzNSPuIBsTvYG7mw) | [Amadeezy](https://open.spotify.com/artist/21xuoAcyt3fBIJfDjX22n9) | [Wetty](https://open.spotify.com/album/5PyO8aPtuxIHFpbSiYs6CB) | 3:28 | 2022-09-08 |  |
-| [When You Hear The Bassline](https://open.spotify.com/track/7Apfq5pmWkC4zGOTW6HN5P) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ms\. Thing](https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen) | [Guns Don't Kill People...Lazers Do \(Deluxe\)](https://open.spotify.com/album/4DvCigoRqkEXZg496IgZiv) | 3:18 | 2022-09-08 |  |
+| [When You Hear The Bassline](https://open.spotify.com/track/3Rrbkk9I0uyqt5khMH4IGB) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ms\. Thing](https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen) | [Guns Don't Kill People...Lazers Do](https://open.spotify.com/album/690h3YPCXOCE022G31IUaH) | 3:18 | 2022-09-08 |  |
+| [When You Hear The Bassline](https://open.spotify.com/track/7Apfq5pmWkC4zGOTW6HN5P) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ms\. Thing](https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen) | [Guns Don't Kill People...Lazers Do \(Deluxe\)](https://open.spotify.com/album/4DvCigoRqkEXZg496IgZiv) | 3:18 | 2022-09-08 | 2022-11-11 |
 | [Ya Rab](https://open.spotify.com/track/1m5D1gtZgpoN5ehQV9U5Gp) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN) | [Ya Rab](https://open.spotify.com/album/5IqvVDo3c4nupExAKBcri4) | 3:23 | 2022-09-08 |  |
 
 \*This playlist was first scraped on 2022-09-19. Prior content cannot be recovered.

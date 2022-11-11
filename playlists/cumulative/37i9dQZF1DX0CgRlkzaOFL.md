@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-66 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/1wR9DeurDAT9iRMvHlECcH)
+67 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/1wR9DeurDAT9iRMvHlECcH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Passacaille in Barcelona](https://open.spotify.com/track/2xH7QrBeYXbX3l4ftsZxsO) | [Taku Matsushiba](https://open.spotify.com/artist/3ITwaLbY4bFzc57CVTKT2u) | [ユートラ/ユーリ!!! on ICE サウンド・トラックCOLLECTION](https://open.spotify.com/album/5kcCBXLWAvaifoNOaNEVuN) | 3:13 | 2022-03-25 |  |
 | [pfAD\-10:罪](https://open.spotify.com/track/3a3yOY5NhZV9msnSMC1T5e) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Takafumi Wada](https://open.spotify.com/artist/3sxGuh5kVr4exa9PABWTm1) | [七つの大罪 オリジナル・サウンドトラック 2](https://open.spotify.com/album/67H16vW2PEzBo2ZrTkWVHz) | 2:12 | 2022-03-25 |  |
 | [Piano Sonata No\. 16 in A Minor, D\. 845: I\. Moderato](https://open.spotify.com/track/00tZj5a6Yv5fXTZUQJyiPb) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Schubert](https://open.spotify.com/album/51e2j0LCoTQafc9wKXd2PE) | 12:38 | 2022-03-25 | 2022-07-29 |
-| [Piano Sonata No\. 16 in A Minor, D\. 845: I\. Moderato](https://open.spotify.com/track/69wjQMavWgK3aCEeVU5BwL) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Schubert](https://open.spotify.com/album/1krbiT1gkPdIzn1pSscOye) | 12:38 | 2022-04-19 |  |
+| [Piano Sonata No\. 16 in A Minor, D\. 845: I\. Moderato](https://open.spotify.com/track/2GbzKuTKEjjOSnwcQmr3FV) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Complete Solo Recordings](https://open.spotify.com/album/4TYN0UFkb3dXb2RJmE1rLa) | 12:38 | 2022-04-19 |  |
+| [Piano Sonata No\. 16 in A Minor, D\. 845: I\. Moderato](https://open.spotify.com/track/69wjQMavWgK3aCEeVU5BwL) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Schubert](https://open.spotify.com/album/1krbiT1gkPdIzn1pSscOye) | 12:38 | 2022-04-19 | 2022-11-11 |
 | [piece by ten](https://open.spotify.com/track/50R5pS4Ptd7tioFFaqo9F6) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「攻殻機動隊 STAND ALONE COMPLEX be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 2:45 | 2022-03-25 |  |
 | [Ravel: Daphnis et Chloé, M\. 57, Pt\. 3: Lever du jour](https://open.spotify.com/track/0bHetlK2xHzhOEGPEdp1SI) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Philippe Jordan](https://open.spotify.com/artist/7oRn2Jv3j0f23EjcSSCR9W), [Choeur du Théatre National de l'Opéra de Paris](https://open.spotify.com/artist/2YZN9zFVhkAQFOggweug3X), [Orchestre de l'Opéra National de Paris](https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK) | [Ravel : Daphnis & Chloé, La Valse](https://open.spotify.com/album/2HU1cvBMOFZNqofsWY9bQC) | 5:01 | 2022-03-25 |  |
 | [Rei\-Opus V](https://open.spotify.com/track/4qTEtgqsduWNmXPvMsfwMS) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:59 | 2022-04-19 |  |

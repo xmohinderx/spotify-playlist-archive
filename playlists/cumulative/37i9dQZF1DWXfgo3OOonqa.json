@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "spooky season \ud83c\udf83",
+  "description": "dirty south szn",
   "name": "100",
   "published_playlist_ids": [
     "1YkCPMAEafAvzqDRhr0Ocd"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 133773,
       "name": "5 av 5",
       "url": "https://open.spotify.com/track/2kRPB6FKB8TEw4kHtEgtSP"
@@ -629,6 +629,28 @@
       "duration_ms": 154122,
       "name": "Aktiverad (Klick Klack)",
       "url": "https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la"
+    },
+    {
+      "album": {
+        "name": "Aktiverad (Remix)",
+        "url": "https://open.spotify.com/album/6Cox8rBFZpO7gDRZ1rzck2"
+      },
+      "artists": [
+        {
+          "name": "Alawee",
+          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
+        },
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108720,
+      "name": "Aktiverad (Remix)",
+      "url": "https://open.spotify.com/track/0pWGH2bShzIr8PEtd3ngey"
     },
     {
       "album": {
@@ -3284,6 +3306,24 @@
     },
     {
       "album": {
+        "name": "Doppio Passo",
+        "url": "https://open.spotify.com/album/5EZIPpBqS4FEhaqWKvePGX"
+      },
+      "artists": [
+        {
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187076,
+      "name": "Doppio Passo",
+      "url": "https://open.spotify.com/track/5z0FnVkoJlQU1bbhbTSSfC"
+    },
+    {
+      "album": {
         "name": "Dora",
         "url": "https://open.spotify.com/album/3TLtu73beYMwt4SIVLdNU9"
       },
@@ -4420,6 +4460,24 @@
     },
     {
       "album": {
+        "name": "F\u00f6rsvinna",
+        "url": "https://open.spotify.com/album/0AiIiVTgeZnJHHkOZxwJGv"
+      },
+      "artists": [
+        {
+          "name": "Tal\u00e9",
+          "url": "https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "F\u00f6rsvinna",
+      "url": "https://open.spotify.com/track/4sjoEJ5yxh3Ipn34WHtXUC"
+    },
+    {
+      "album": {
         "name": "G-CODE",
         "url": "https://open.spotify.com/album/2iq0rnASwKLB5xlTzVedGp"
       },
@@ -4637,7 +4695,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 170225,
       "name": "GITT",
       "url": "https://open.spotify.com/track/7jjBieRzHT48hUUA1ZAwHC"
@@ -5209,6 +5267,28 @@
       "duration_ms": 115389,
       "name": "Harraga",
       "url": "https://open.spotify.com/track/1zvjknh2u5bsN719NSBGmm"
+    },
+    {
+      "album": {
+        "name": "HARRAGAS",
+        "url": "https://open.spotify.com/album/6cBGLSHXMl3M5fXj2MQ77L"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        },
+        {
+          "name": "Manny Flaco",
+          "url": "https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140444,
+      "name": "HARRAGAS",
+      "url": "https://open.spotify.com/track/2V6Z4Nzl7aYBQwThnQGHXV"
     },
     {
       "album": {
@@ -6242,6 +6322,24 @@
     },
     {
       "album": {
+        "name": "Joker",
+        "url": "https://open.spotify.com/album/32Lkj8gC7FsN1Gg9Zn2gcS"
+      },
+      "artists": [
+        {
+          "name": "Yocee",
+          "url": "https://open.spotify.com/artist/77TzeR7C0uNqn1uBPiqty6"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176854,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/0g4CTDdkSQ2YbpM8ElnNqg"
+    },
+    {
+      "album": {
         "name": "Allt jag har",
         "url": "https://open.spotify.com/album/2lC2Ikke3js0INuXJdoKt2"
       },
@@ -6546,6 +6644,46 @@
     },
     {
       "album": {
+        "name": "KIRA",
+        "url": "https://open.spotify.com/album/7GiKeEqtlaHQgDlRPA2Q6C"
+      },
+      "artists": [
+        {
+          "name": "O\u2019Melly",
+          "url": "https://open.spotify.com/artist/4DkJGLzJj2E2FACgUyHdbl"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122205,
+      "name": "KIRA",
+      "url": "https://open.spotify.com/track/3vkq3QPrKNarm2EKOSPaB9"
+    },
+    {
+      "album": {
+        "name": "KLAR",
+        "url": "https://open.spotify.com/album/2fNDH0gjpEaTJJ6140y03X"
+      },
+      "artists": [
+        {
+          "name": "ABDIFATAH",
+          "url": "https://open.spotify.com/artist/02X8uyJgzIxRtcXl4D0Mt0"
+        },
+        {
+          "name": "CharlyC",
+          "url": "https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157812,
+      "name": "KLAR",
+      "url": "https://open.spotify.com/track/10FK9EUknv3vnbEodHPPbA"
+    },
+    {
+      "album": {
         "name": "Afronine",
         "url": "https://open.spotify.com/album/3kxWI2UtwW4NCrnrDUoOXd"
       },
@@ -6615,6 +6753,28 @@
       "duration_ms": 137142,
       "name": "Kolla p\u00e5 mig nu",
       "url": "https://open.spotify.com/track/5wGxkWz2qIJVnDdtocTtOI"
+    },
+    {
+      "album": {
+        "name": "Kombo",
+        "url": "https://open.spotify.com/album/2L0hVBAJUf7CUc6s1t3cUr"
+      },
+      "artists": [
+        {
+          "name": "N\u00e4\u00e4\u00e4k",
+          "url": "https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S"
+        },
+        {
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "Kombo",
+      "url": "https://open.spotify.com/track/1d3rQzgOHhmf4z7tQ12odl"
     },
     {
       "album": {
@@ -8059,7 +8219,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 184759,
       "name": "Midnatt",
       "url": "https://open.spotify.com/track/2WbFll5FxW0JEKIyijHNcb"
@@ -8864,6 +9024,28 @@
     },
     {
       "album": {
+        "name": "OFFERKOFTA",
+        "url": "https://open.spotify.com/album/3pEaFGEZpJSNqHq9szdEso"
+      },
+      "artists": [
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "Mackan",
+          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "OFFERKOFTA",
+      "url": "https://open.spotify.com/track/1BfknTgibIdZ1pAdudI1nz"
+    },
+    {
+      "album": {
         "name": "Offside",
         "url": "https://open.spotify.com/album/26HqefOZ5kw9YqCtFKq3n0"
       },
@@ -9547,7 +9729,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 160225,
       "name": "Politik",
       "url": "https://open.spotify.com/track/1zWFof0FbjUCkY4rJ9s3fN"
@@ -9835,6 +10017,28 @@
       "duration_ms": 225226,
       "name": "Rashida Jones (Attack of the Clones)",
       "url": "https://open.spotify.com/track/2bBXf2pRAMBNEfd4ii8NNZ"
+    },
+    {
+      "album": {
+        "name": "REDO",
+        "url": "https://open.spotify.com/album/2ggF9YDXbgX0ZL8d3TiHf2"
+      },
+      "artists": [
+        {
+          "name": "Simeon",
+          "url": "https://open.spotify.com/artist/5R42oko4xV2U7uqlZXbzqk"
+        },
+        {
+          "name": "Rami",
+          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150114,
+      "name": "REDO",
+      "url": "https://open.spotify.com/track/0vtaj5Uv6KzORb5Q2Zvu20"
     },
     {
       "album": {
@@ -10575,7 +10779,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 192000,
       "name": "Sluter upp",
       "url": "https://open.spotify.com/track/4UPNMRfvCsAG9yhzXQnnmz"
@@ -10623,6 +10827,28 @@
       "duration_ms": 173600,
       "name": "Sl\u00e5 tillbaks",
       "url": "https://open.spotify.com/track/3009VcC2Z0lf1sZBuJnJbN"
+    },
+    {
+      "album": {
+        "name": "No Borders: European Compilation Project",
+        "url": "https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171429,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/0yytFV5LM6FCKaeANeVvfv"
     },
     {
       "album": {
@@ -11568,6 +11794,24 @@
     },
     {
       "album": {
+        "name": "Tiara",
+        "url": "https://open.spotify.com/album/07ciCnGQVOCLmoBVAGnoBC"
+      },
+      "artists": [
+        {
+          "name": "Raees",
+          "url": "https://open.spotify.com/artist/7qqX1NATkbO31TVxBYyNlJ"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126060,
+      "name": "Tiara",
+      "url": "https://open.spotify.com/track/2uwk5NMtm40YyHqISer1aL"
+    },
+    {
+      "album": {
         "name": "TICK TACK",
         "url": "https://open.spotify.com/album/3VcBxD6jYxyOimnBLQ010Z"
       },
@@ -11951,7 +12195,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 177600,
       "name": "Trap",
       "url": "https://open.spotify.com/track/52Rfxgs43UCT1Y0zeLXtcS"
@@ -13073,7 +13317,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 124270,
       "name": "Xatar",
       "url": "https://open.spotify.com/track/5MDEk3mfOcZs4BRgalCqyC"

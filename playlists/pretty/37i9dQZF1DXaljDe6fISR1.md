@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: 509\-E
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,545 likes - 66 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,663 likes - 66 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Oitavo Anjo](https://open.spotify.com/track/2eCvTrc70dsKhJQRuNDfdN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 5:28 |
+| 1 | [Pot\-Pourri: Oitavo Anjo / Porque É Proibido Pisar Na Grama \(Música Incidental\)](https://open.spotify.com/track/6C5g2462PAu2twgi3MMSwn) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C) | [Rap \- Edição Especial](https://open.spotify.com/album/20OITeapzgrpqEY0tny63t) | 5:28 |
 | 2 | [Briga de Casal \(Estilo Vagabundo 5\)](https://open.spotify.com/track/4ZZSTRy9eugd4v9falGoMs) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv) | [Briga de Casal \(Estilo Vagabundo 5\)](https://open.spotify.com/album/5e1VkQhetJMWxRb77LGPCj) | 3:10 |
 | 3 | [Vida Loka, Pt\. 1](https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 5:03 |
 | 4 | [That's My Way](https://open.spotify.com/track/4M7bbRsVNB8iWQaX8Sbfln) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Leon Mobley](https://open.spotify.com/artist/6uEEza0WufPi44ybkWACFc) | [Contra Nós Ninguém Será](https://open.spotify.com/album/23ieEuWkymGJWTP3PlXLRa) | 5:39 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 56 | [Zé Brasileiro](https://open.spotify.com/track/5UBXVQfXgkDl2N423nNtgi) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Sujeito Homem 2](https://open.spotify.com/album/2yOFsIGhzQijRHc7qj0l4o) | 4:36 |
 | 57 | [Sr\. Tempo Bom](https://open.spotify.com/track/6vbN5VPXXh2Co1rA9wEJAw) | [Thaíde & DJ Hum](https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW), [Ieda Hills](https://open.spotify.com/artist/4C6FdPXAivI1RSEL63afq4) | [Preste Atenção](https://open.spotify.com/album/4QhLW1Z07WU2CrQcerA7wy) | 4:42 |
 | 58 | [Mulher Elétrica](https://open.spotify.com/track/7FuwhCYus3htyXClROmiFZ) | [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [William Magalhães](https://open.spotify.com/artist/4MJN4aIU640fw6oayplA0n) | [Boogie Naipe](https://open.spotify.com/album/6HsKHQGO3oineHD04cm17X) | 3:33 |
-| 59 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/66073TiPtbCattnpSkyuKq) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 6:23 |
+| 59 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/7E3mRwZRKczueVE7tUJkZv) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Hip Hop \- Rap](https://open.spotify.com/album/6amf30HfWUp6yF3aHjv2jE) | 6:23 |
 | 60 | [Capítulo 4, Versículo 3](https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 8:06 |
 | 61 | [E Se](https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 4:33 |
 | 62 | [Primeiro de Abril](https://open.spotify.com/track/2tBFtrnooWaXd2xSUOda0s) | [Mc Marechal](https://open.spotify.com/artist/5YZEcrC3yHeiZ1bBvwKRUF) | [Primeiro de Abril](https://open.spotify.com/album/52UF3ws60swmmFVsRxZ51x) | 4:09 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 65 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
 | 66 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/1Rn7tUyMiTVxlu4H53cAzV) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe\)](https://open.spotify.com/album/67NEEqfjTcla2g5k9TP2rZ) | 4:01 |
 
-Snapshot ID: `MTY2NTcxNjQ2MCwwMDAwMDAwMGJmOTMzYTVjMzJjOGU3ODE3ZTZhNzIzMzQ0YmQ2MWJm`
+Snapshot ID: `MTY2NTcxNjQ2MCwwMDAwMDAwMDA2NTVhNDcyNTgwNGM5NWYzY2ZjOGMzNDNiNjBkZjY0`

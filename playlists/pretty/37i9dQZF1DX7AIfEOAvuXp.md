@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,289 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,286 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 |
-| 2 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 |
+| 1 | [Mad at Disney](https://open.spotify.com/track/3JGnevG7tLMY3UQFU8JinB) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Chill On The Beach](https://open.spotify.com/album/5MyS2ruaCIY0EHeuZkuici) | 2:16 |
+| 2 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/6UVxCRDAXLjz95fs5bl7Xr) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:45 |
 | 3 | [Weekend](https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N) | 3:08 |
 | 4 | [Calvaire](https://open.spotify.com/track/1rJRb5A6ZfqOuqLCwpD7Ld) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/3RuhXnLH8SZT5GnHyGe9gf) | 1:57 |
 | 5 | [Come Over](https://open.spotify.com/track/0gTqEEZKoCn53BZAU1A4DG) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 1](https://open.spotify.com/album/1AQvLVWkgAxzSa8zJbYkdW) | 2:15 |
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 10 | [pissed](https://open.spotify.com/track/5KXYsV0p2xWQCjXizedRpt) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [pissed](https://open.spotify.com/album/5qEmrjZKIvBUBikMMbzeML) | 1:47 |
 | 11 | [TIME + ENERGY](https://open.spotify.com/track/4SbosulGVDqJDmKd8BIsMJ) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BABY BLUE](https://open.spotify.com/album/50ushkrGR4nNTCRNzxs8kb) | 2:58 |
 | 12 | [Sensitive](https://open.spotify.com/track/06DPYEqSX1jMaxvnXNVshB) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/1KkWCmPdnd4Cv86DHNQctM) | 2:54 |
-| 13 | [Medallion](https://open.spotify.com/track/46Y9vXsmtnYZdEwny4o1Dd) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:27 |
+| 13 | [Medallion](https://open.spotify.com/track/4SrzMsdRQaV5IzzHTg3s5M) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division \(Deluxe\)](https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq) | 2:27 |
 | 14 | [Holy Shit](https://open.spotify.com/track/3AXiBIeLoChBL3McZtMLy2) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Holy Shit](https://open.spotify.com/album/22ds4Dxf4qzzGww2lznCeW) | 2:40 |
 | 15 | [Cat Girls Are Ruining My Life!](https://open.spotify.com/track/4SPBwOTXgku4QvmRtMEGfW) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Cat Girls Are Ruining My Life!](https://open.spotify.com/album/13vJf0S7wWfz9NC9nBhWqW) | 1:37 |
-| 16 | [Freckles](https://open.spotify.com/track/1uGHLISx2ACSIYbQbKdwEg) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Pity Party](https://open.spotify.com/album/6f5E0fgEQox4MmTJqxOnrD) | 2:38 |
-| 17 | [The 1](https://open.spotify.com/track/4RZyqmqauYuQlvB4NfElJc) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:56 |
+| 16 | [Freckles](https://open.spotify.com/track/4eePXbF5P9C65DdlAzBwnD) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Freckles](https://open.spotify.com/album/4E0Gtoyrc4RQxkXbc0tae9) | 2:38 |
+| 17 | [The 1](https://open.spotify.com/track/311lnc9FJHqg5XWV6VE4XI) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/30vPoPfOku0lYgfTE903vA) | 2:56 |
 | 18 | [AMBER](https://open.spotify.com/track/29wrhqZUPQFPjREFM6vayu) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [HUES.](https://open.spotify.com/album/1iIGc6gmBf9I0iWYPpjZLU) | 3:31 |
-| 19 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 |
+| 19 | [Better Place](https://open.spotify.com/track/7HkjqnIkhZKRrByBReoNdz) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Better Place \(Super Flu Remix\)](https://open.spotify.com/album/56hJYPMJvT1VmVmpzYb9ve) | 3:46 |
 | 20 | [SG Lou](https://open.spotify.com/track/2fkWyHBfRt87VD2Iilb6AM) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [SG Lou](https://open.spotify.com/album/1jBjIutXhOUYpAWrveficC) | 3:52 |
 | 21 | [What Dreams Are Made Of](https://open.spotify.com/track/4kU3W9CBmw5s7f5R5A8Axt) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [MOJO](https://open.spotify.com/album/1xtL6ok6dwZ473pkdzgUy2) | 4:25 |
 | 22 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 |
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 28 | [The City](https://open.spotify.com/track/46VVqPB050Euv6hIxeV45l) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [The City](https://open.spotify.com/album/7aOqSME6hWSephSVHYIsxt) | 4:11 |
 | 29 | [Catching Eyes](https://open.spotify.com/track/2aUYt0CwHeJLrlgi0akUGp) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3vyUE4IyiLM471hbKVQ9i2) | 4:09 |
 | 30 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
-| 31 | [blocked](https://open.spotify.com/track/2SkipftGTsn9rj44V1Lsg0) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [blocked](https://open.spotify.com/album/6pZIjP0eETD7I1TlGgwQgt) | 2:23 |
-| 32 | [Maple Syrup Tears](https://open.spotify.com/track/5t7VNXoXW1CYjSZNO1jziH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow](https://open.spotify.com/album/2enxw36RLbDfhKytuzHbOJ) | 3:13 |
+| 31 | [blocked](https://open.spotify.com/track/1d9bdKAIj6xiUshen6hi21) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [all\-star](https://open.spotify.com/album/3ONpDbEZkBVMGl8B5dRmVk) | 2:23 |
+| 32 | [Maple Syrup Tears](https://open.spotify.com/track/2snyzlnvbLkQnigbqxgV78) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [aw / ct: Andy's Journey](https://open.spotify.com/album/0wlenQo8hjG24humXxrwYC) | 3:13 |
 | 33 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 |
 | 34 | [eighty\-five](https://open.spotify.com/track/3QqdwK6b3QTRIWkT9oNYb1) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN), [Atwood](https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [Colliding With Mars](https://open.spotify.com/artist/2K7iE9Z2ySIBKsG8UnG8PR), [Garrett.](https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY), [planet girl](https://open.spotify.com/artist/40DgzqFfLrkIx2mas3Bpfv) | [eighty\-five](https://open.spotify.com/album/7CsSVXp6GWGA7kTaqbUxm2) | 3:12 |
 | 35 | [Darcy](https://open.spotify.com/track/0GS5GAoxVPeTWa8fV8j1mq) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Darcy](https://open.spotify.com/album/3QfHn3nLiI8UQyqGjfFDYL) | 3:24 |
 | 36 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
 | 37 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
 | 38 | [talking in my sleep](https://open.spotify.com/track/16UfdNMAfLPkBqq1JgMdAl) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [talking in my sleep](https://open.spotify.com/album/1MMru7B3vILRGqQyQNw4Ug) | 2:34 |
-| 39 | [Stormy](https://open.spotify.com/track/2SNFIHJSbzReDu0ewTbdUu) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [EREZ](https://open.spotify.com/album/5ValAPJZMl7J1tBYMlSZnz) | 2:16 |
+| 39 | [Stormy](https://open.spotify.com/track/1ZzPPevYF770uhL5v5sQ0h) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Stormy](https://open.spotify.com/album/5h1joQz0q1BCk1ysL3uVNl) | 2:16 |
 | 40 | [Nena](https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/5eYJgVtDk7Az1vRWKNfuzY) | 2:33 |
-| 41 | [VOCES](https://open.spotify.com/track/4GPrUV2O7u9bL5VsTh3RrB) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/0AbXWJGEy8k6hBxZPVGCJW) | 3:22 |
+| 41 | [VOCES](https://open.spotify.com/track/3EycM23n47OTpgrvxfvLwR) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [SUMMER COLLECTION](https://open.spotify.com/album/20F4iuvxtJk9qItlADN6y3) | 3:22 |
 | 42 | [Icarus](https://open.spotify.com/track/0rlX8acfJKPQ3NVHjxR7ml) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09) | 2:30 |
 | 43 | [777](https://open.spotify.com/track/5GfNUR8fEjBWVj7NDhFbSl) | [Skeleton Club](https://open.spotify.com/artist/0mOedQDhVFd4i2a69wDR2R) | [777](https://open.spotify.com/album/67xksZSESsdyA8fWQyeUy1) | 2:47 |
 | 44 | [Around the Truth](https://open.spotify.com/track/3uViVAERfpg6uahaUGWPuL) | [Tezza](https://open.spotify.com/artist/6T3zoiBS7q6g0H7rSnKvRd) | [Around the Truth](https://open.spotify.com/album/5kProv9UJsZG2qu9XioLlo) | 3:26 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 50 | [Next To You](https://open.spotify.com/track/081hXBEkvg9ZMUmzBIFPor) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:52 |
 | 51 | [out 4 a breather](https://open.spotify.com/track/4LSxhWoG9I6SQFMkd6X031) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [out 4 a breather](https://open.spotify.com/album/1pJdFDoGjolYy9eb2b1IIa) | 3:21 |
 | 52 | [NO !](https://open.spotify.com/track/7I9MF93LZ0MFz7n4avNkb3) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [NO !](https://open.spotify.com/album/1ndLXbMIeHH3cczAMwgQHT) | 3:44 |
-| 53 | [boys lie](https://open.spotify.com/track/3LsgzGDQMbt1VVQeO99IJb) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/1t3y9LahH5pUediQTB1Eht) | 2:25 |
+| 53 | [boys lie](https://open.spotify.com/track/1mV0iuIaNMoZTHFMcFsABS) | [BAYLI](https://open.spotify.com/artist/2i8UsIjQQuoFAENgHG6nW6) | [boys lie](https://open.spotify.com/album/2vBuUHQmH2Y94cXhrNDfOg) | 2:25 |
 | 54 | [Quantum Physics](https://open.spotify.com/track/4y9OmPdcd9qSECK7Daz588) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [If It Comes Down To It](https://open.spotify.com/album/5V68mtjh04q5DvhyYnmmBw) | 2:38 |
 | 55 | [Sweatshirt](https://open.spotify.com/track/44SMpuP6NAhV6l5OIwE090) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Sweatshirt](https://open.spotify.com/album/2BxTahQtqyiQ89mnX9rtmH) | 3:27 |
 | 56 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 62 | [Loving You Is a Mountain](https://open.spotify.com/track/0SkEBMQtYIJod3piPJMQeZ) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Three](https://open.spotify.com/album/0ZXvg7lMTyzDpEeY09Yqxg) | 3:28 |
 | 63 | [Hoops](https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hoops](https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p) | 3:19 |
 | 64 | [Crunch](https://open.spotify.com/track/5YEt6KT2JuTI62ehTcgWTS) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Crunch](https://open.spotify.com/album/2jqxS9oJnNlgfXIhUeLdyi) | 3:21 |
-| 65 | [no friends](https://open.spotify.com/track/3sn9wuO5D2n2zxIlPDqnRL) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 1:45 |
+| 65 | [no friends](https://open.spotify.com/track/0d53wU97tPqHNXcKXlBpCx) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [Gen Z Females](https://open.spotify.com/album/64KbwO0rUAWOr7Efz0mbyF) | 1:45 |
 | 66 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 |
 | 67 | [& Cry!](https://open.spotify.com/track/1Kz558WodSH2k1RI3QRBfz) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [& Cry!](https://open.spotify.com/album/2ozN6WSOV1MMQPlpUf6Mdd) | 2:49 |
 | 68 | [Places/Plans](https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu) | 3:03 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 81 | [STILL WITH U](https://open.spotify.com/track/2rH5V5b9LaYu3NhGKqigd8) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [STILL WITH U](https://open.spotify.com/album/3oXSU7U0mL1ynT8ne1yBZh) | 3:08 |
 | 82 | [Moonboy](https://open.spotify.com/track/3j4P8ytkoDpBFePPrXHEbe) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Moonboy](https://open.spotify.com/album/2LhpR3TL7xqk8N4wJBTGIN) | 2:12 |
 | 83 | [ripped jeans](https://open.spotify.com/track/229Nu0G3uLnijxO8d69NVA) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [ripped jeans](https://open.spotify.com/album/4WQt08qyCGByVqqQXbPetC) | 2:02 |
-| 84 | [moonlight](https://open.spotify.com/track/2Qn6WHJrY5Im82Jux8FboH) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:39 |
+| 84 | [moonlight](https://open.spotify.com/track/70MgcT507FGdoDBBLdmsqu) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [moonlight](https://open.spotify.com/album/6jvIUGhZWFV3FkyLM4c3WN) | 2:39 |
 | 85 | [Sansevieria](https://open.spotify.com/track/3APZAHZbjudqp4755vGl2K) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 4:24 |
 | 86 | [Don't Trust Me](https://open.spotify.com/track/5xz9GcQI6wDVjSFneT8J6n) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [Booyah](https://open.spotify.com/album/0DZlZyJFLtBjT0jQVtcmnR) | 2:00 |
 | 87 | [DOLORES](https://open.spotify.com/track/1qvjv6ynVQlWc940b3n6Ne) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [DOLORES](https://open.spotify.com/album/5Tgtg0Dw1hWDJ4n62SUnR2) | 4:10 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 101 | [Bass Jumpin](https://open.spotify.com/track/1T6PwHz0L4zdTyGInqG4xd) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Bass Jumpin](https://open.spotify.com/album/5REn5qlzivqOk4dqhwZZWo) | 2:36 |
 | 102 | [Black Cat](https://open.spotify.com/track/4TpGdf05nm8lYiBPbXjwv2) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN) | 2:56 |
 
-Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMGE4MTc0MDliMTU0NGU1MmI5OTc2ZWQ4NWI4NDRiNmJl`
+Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMGIxNjkxOGU1NzNiZDc2NWVhMWRhZDIxODE4YzZiMTFi`

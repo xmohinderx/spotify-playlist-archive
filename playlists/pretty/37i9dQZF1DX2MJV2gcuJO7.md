@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJV2gcuJO7.md) - [plain]
 
 > Enjoy music from "BORUTO"! / 音楽で辿る「BORUTO\-ボルト\- NARUTO NEXT GENERATIONS」の世界。 ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,225 likes - 90 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,236 likes - 90 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJV2gcuJO7.md) - [plain]
 | 4 | [トワイライト・ファズ](https://open.spotify.com/track/1iqqpk0ggxcXqAoecLawcH) | [THIS IS JAPAN](https://open.spotify.com/artist/753OhFtxllDpBJvOmxh6CD) | [トワイライト・ファズ](https://open.spotify.com/album/0rM1GFRTXUcsDBBXebJibX) | 3:34 |
 | 5 | [GOLD](https://open.spotify.com/track/7DeZ5S6wvmsRUq8qVCj4le) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GOLD](https://open.spotify.com/album/58Ehuw7hNz8w3dkj2RpQy4) | 3:35 |
 | 6 | [VOLTAGE](https://open.spotify.com/track/1ochPJNz2afOUWuFKm18zm) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [VOLTAGE](https://open.spotify.com/album/3z5JK4QaE9LvXveYO5q695) | 3:49 |
-| 7 | [Prologue](https://open.spotify.com/track/0MQxa7P9R7dqOfLqwXcA3R) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WANDERING \(Special Edition\)](https://open.spotify.com/album/5zfUqHCsRWT7BaQT3mKuUY) | 3:37 |
+| 7 | [Prologue](https://open.spotify.com/track/1iZeVXwYthcY3HWarxbXNb) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [KIZUNA \(Special Edition\)](https://open.spotify.com/album/2PkIFK9tEzYBVKeuiEFVSi) | 3:37 |
 | 8 | [我武者羅](https://open.spotify.com/track/0L9JNPLUBrdshUMYzYQifY) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [我武者羅](https://open.spotify.com/album/78IFr46G72yZkCKzU4HIKn) | 3:56 |
 | 9 | [バトンロード](https://open.spotify.com/track/1xXCgoSoO0WS1sBIqRYiSO) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [バトンロード](https://open.spotify.com/album/4WJOWRFnD2n2pd9Ybh17Ve) | 4:41 |
 | 10 | [風になれ](https://open.spotify.com/track/2evnWujOZVv2yOk3V6FYbn) | [Ray](https://open.spotify.com/artist/5DjK0HQaczIK7lWWcsGnVG), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\- NARUTO NEXT GENERATIONS オリジナルサウンドトラック Ⅰ](https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE) | 4:55 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJV2gcuJO7.md) - [plain]
 | 89 | [家族](https://open.spotify.com/track/0WDI60wWIN2lY8eARtE1J7) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\- NARUTO NEXT GENERATIONS オリジナルサウンドトラック Ⅱ](https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom) | 2:16 |
 | 90 | [子の成長](https://open.spotify.com/track/6vTCpVZejtWHyDvUjTUef1) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\- NARUTO NEXT GENERATIONS オリジナルサウンドトラック Ⅱ](https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom) | 2:00 |
 
-Snapshot ID: `MTY2NzM4ODkxMSwwMDAwMDAwMGUxNjlmNjQ4ZDAzN2IyYjU0YmYyYTUzZGIxZWYzNDA3`
+Snapshot ID: `MTY2NzM4ODkxMSwwMDAwMDAwMGIwZGMwYmJlZjJkMWUyMWQ2ZjJlNTIzMjFlMTcwM2I3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,833 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,995 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 6 | [Papuk](https://open.spotify.com/track/54eSAFrT7YqBxitvqZJIgc) | [Julian Luger](https://open.spotify.com/artist/6PxHwSZFaidQkagrCE3LlA) | [Pool of Thoughts](https://open.spotify.com/album/082ENN7CJl15GNseXv8B2F) | 2:06 |
 | 7 | [Caught in the Waves](https://open.spotify.com/track/3aWysoJyL6qFWbadYRCkH8) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Everything Else Will Follow](https://open.spotify.com/album/7J8e3AjZc7mN82khAvAI6I) | 2:28 |
 | 8 | [Partners in Crime](https://open.spotify.com/track/0MC5OUFlsS6wn3tuOYLF5I) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Partners in Crime](https://open.spotify.com/album/0ntMgYnq6D9hswNnEwy3PP) | 3:27 |
-| 9 | [Petricor](https://open.spotify.com/track/4XWqS8UGO5x4ClB2yH0nbW) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur) | [Elements \(Deluxe\)](https://open.spotify.com/album/5jzohQ50TA36qTumAG1rEA) | 6:34 |
+| 9 | [Petricor](https://open.spotify.com/track/5Hdv2ubFZAp1tWdWamf90B) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur) | [Cinema](https://open.spotify.com/album/2zMtXfGkXIlc3dWXxHmSEX) | 6:35 |
 | 10 | [The Sanctuary Within](https://open.spotify.com/track/5WsT8YFHlMz56vfcgJYGaU) | [Erasmus Talbot](https://open.spotify.com/artist/2P5kUKkNT67xnSyi3bBOoB) | [Light in the Attic](https://open.spotify.com/album/65jhpuyU0R9JPfnC8wcN4x) | 3:06 |
 | 11 | [Cloudsailing](https://open.spotify.com/track/7aHbZez2yeqJFJWalKL0WH) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Windflower](https://open.spotify.com/album/5pMpxNkROAIq7wygp4oHbl) | 3:19 |
 | 12 | [Dust Turns to Gold](https://open.spotify.com/track/0PAlIXkZ3DXJqAmx1BAXMX) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [The Final Cut](https://open.spotify.com/album/744UTU1JhhXLIqSAF4Q6kp) | 3:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 69 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
 | 70 | [Crossroad at Dawn](https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Lineage 2 \- Chaotic Chronicle](https://open.spotify.com/album/0BawDoh2xMnec8hK6XkQ2L) | 2:00 |
 
-Snapshot ID: `MTY2MzMyMDU3NCwwMDAwMDAwMDE4ZDAzMzRiZjc0MGViYTE4M2M1NjBlMWFlMzMwYTgw`
+Snapshot ID: `MTY2MzMyMDU3NCwwMDAwMDAwMGFlYTAyNzU1MTBmM2Y0ZDEwMzFhYTFlODgxNmQ3YmI4`

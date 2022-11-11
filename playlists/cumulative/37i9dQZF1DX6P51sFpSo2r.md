@@ -4,7 +4,7 @@
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: Bring Me The Horizon
 
-72 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
+73 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,9 @@
 | [Caboose](https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw) | [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Progression Through Unlearning](https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu) | 2:33 | 2022-01-17 |  |
 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 | 2022-01-17 |  |
 | [Chaney Can't Quite Riff Like Helmet's Page Hamilton](https://open.spotify.com/track/0Czv4guRdFGrQWSxWeLmkJ) | [Evergreen Terrace](https://open.spotify.com/artist/5YQUrpDa5dkmo9Vk8hHQP9) | [Wolfbiker](https://open.spotify.com/album/0KTVwCbYSpkUuPXvQYbhJE) | 4:40 | 2022-01-17 |  |
+| [Chelsea Smile](https://open.spotify.com/track/04d0mhsVSGVINGKsdCxAai) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season \(Deluxe Edition\)](https://open.spotify.com/album/2HN58gcFvTkDSdes9K5oAr) | 5:02 | 2022-11-04 |  |
 | [Chelsea Smile](https://open.spotify.com/track/0IebF3yDXM6KJX1xhMkdoe) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season Cut Up!](https://open.spotify.com/album/3Ou5J2Jlzut0NnrXgqLFof) | 5:02 | 2022-01-17 | 2022-07-29 |
-| [Chelsea Smile](https://open.spotify.com/track/3eSnqrgqm1R0mkgz80Cpzq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB) | 5:02 | 2022-01-17 |  |
+| [Chelsea Smile](https://open.spotify.com/track/3eSnqrgqm1R0mkgz80Cpzq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB) | 5:02 | 2022-01-17 | 2022-11-11 |
 | [Concubine](https://open.spotify.com/track/1ui9EPnCqTurWbYICi9Gld) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Jane Doe](https://open.spotify.com/album/2gtM4m6sglJDrX3toJWZO6) | 1:19 | 2022-01-17 |  |
 | [DEMON\(S\)](https://open.spotify.com/track/6t1Bmjef4I067PKxd6CRlQ) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Deliver Us](https://open.spotify.com/album/0quhTPjAecYoUNdtD4NABf) | 3:48 | 2022-01-17 |  |
 | [Dying in Your Arms](https://open.spotify.com/track/2nuA1esWzYEgnfQ4DpsSsm) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 2:53 | 2022-01-17 |  |

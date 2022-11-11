@@ -4,7 +4,7 @@
 
 > IYKYK 💔🥀
 
-275 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/6hdW75HewRIei2mn7kkcEI)
+276 songs - 15 hr 52 min - [published](https://open.spotify.com/playlist/6hdW75HewRIei2mn7kkcEI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,8 @@
 | [Quiero Estar Contigo](https://open.spotify.com/track/7aaW2FiJ3bGELNtGp6PUo7) | [Ekipo Inicial](https://open.spotify.com/artist/0zykJcUDLHRS0nZEoG5slZ) | [Quiero Estar Contigo](https://open.spotify.com/album/0dMiI3roMGiGxCTlopNjmu) | 4:31 | 2022-06-03 | 2022-06-11 |
 | [Quiero Llorar y No Puedo](https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy) | 3:44 | 2022-01-01 |  |
 | [Quiero Ser](https://open.spotify.com/track/2kVLk4yuZCOZuqxIHfOTaf) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW) | [Quiero Ser](https://open.spotify.com/album/3Fb0ImmxdtFNo46B2kQubI) | 3:33 | 2022-09-23 | 2022-10-15 |
-| [Quiero Ser](https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:29 | 2022-07-22 |  |
+| [Quiero Ser](https://open.spotify.com/track/0iEW2LlHNXVyZhwO96sL3z) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Quiero Ser](https://open.spotify.com/album/3m8CehR62XfplLx70gamwo) | 3:29 | 2022-10-14 |  |
+| [Quiero Ser](https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:29 | 2022-07-22 | 2022-11-11 |
 | [Quiero Ser](https://open.spotify.com/track/2vYYytKYc2MJN6MvkFL7fY) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Quiero Ser](https://open.spotify.com/album/4ZZiiVRnqfz8ssM80aeAkG) | 3:29 | 2022-01-01 | 2022-07-27 |
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2022-02-11 |  |
 | [Recuerdos](https://open.spotify.com/track/3Q1E7EfAN0lXgsoxkhROdR) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Recuerdos](https://open.spotify.com/album/3Qoz6D1Wow3kfNLe75xHws) | 3:11 | 2022-01-01 |  |

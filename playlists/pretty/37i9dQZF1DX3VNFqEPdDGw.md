@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,548 likes - 53 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,562 likes - 53 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 34 | [Dabde Ni](https://open.spotify.com/track/6Uiuq2p2SUXgoN8hrxvCHZ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Dabde Ni](https://open.spotify.com/album/1236zEPDcZelmCVboTx4AO) | 3:27 |
 | 35 | [It Ain't Legal](https://open.spotify.com/track/0i7w67qCK2iCDtraKCshXZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 3:34 |
 | 36 | [Lahore](https://open.spotify.com/track/0Fv8C5OjucKsasQtb7WlIn) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT), [Deep Sidhu](https://open.spotify.com/artist/1c52W7HepD1XDSapOn2UiY) | [Lahore](https://open.spotify.com/album/3NloRIpQK823s5V46bhtpL) | 3:37 |
-| 37 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1fOK4kKr4lCqQDV4rhLVvq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/4HhEO2x0yF6vdqvhHBrRMp) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/3MtObjRseu7Tr6QIf6ud0d) | 2:58 |
+| 37 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/2NjqwLui8XcyX3lpUMPXYt) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/4HhEO2x0yF6vdqvhHBrRMp) | [End and Other Hits](https://open.spotify.com/album/16UX1fEBG5TKRCoZ8i4azk) | 2:58 |
 | 38 | [Majha Block](https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Majha Block](https://open.spotify.com/album/284tuekFOZ6066Schm1gE7) | 4:09 |
 | 39 | [Still Standing](https://open.spotify.com/track/6qJwdPK0bMWyX2ys3lZ23y) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [Underrated](https://open.spotify.com/album/2k3QwEDSQHgQLclE3Cvcov) | 2:38 |
 | 40 | [Badmashi \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/23WL7wGsgqhINOShpCxdK5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Badmashi \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/0N2q3zfrzjDL8xHKuoqir3) | 2:38 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 52 | [Old Skool](https://open.spotify.com/track/4V9rQZOGILc4YfBnCDXgTz) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Old Skool](https://open.spotify.com/album/357wf3qJ5AukE3IfN4e1Am) | 4:13 |
 | 53 | [Pyar Bolda](https://open.spotify.com/track/3RtR0XXNGtBHJkFgY6OvTQ) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Pyar Bolda](https://open.spotify.com/album/3ZcDbMWG4m26hPhQXFLFc8) | 2:42 |
 
-Snapshot ID: `MTY2NTEzNTM0OCwwMDAwMDAwMGI3Yjk0MjZjZWVkNWYxMjJlMDIwN2Y3YWVkYzExYjQx`
+Snapshot ID: `MTY2NTEzNTM0OCwwMDAwMDAwMDkxMmQ0YjliMmNiMmMyN2FiYjk2ODhmMzNiNjkwZjI3`

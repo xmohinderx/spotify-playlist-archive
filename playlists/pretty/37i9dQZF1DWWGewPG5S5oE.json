@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002cover: \u6cb3\u91ce\u7950\u4eae",
-  "num_followers": 19334,
+  "num_followers": 19383,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzkxOTYwMCwwMDAwMDAwMGFhMjAxZmUwMWQ0MzhmMGM5NDZlMTNkZWIzMjYxOTBj",
+  "snapshot_id": "MTY2NzkxOTYwMCwwMDAwMDAwMDBhMTFjN2QxMGYzYmU4ZTAzYTM4ZTNiY2E4NmMzYzEx",
   "tracks": [
     {
       "added_at": "2022-11-08 15:00:00",
@@ -323,30 +323,6 @@
     {
       "added_at": "2022-11-08 15:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev"
-      },
-      "artists": [
-        {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        },
-        {
-          "name": "Anthony Jackson",
-          "url": "https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC"
-        },
-        {
-          "name": "Simon Phillips",
-          "url": "https://open.spotify.com/artist/1OGCS507PQzgLappLg26AK"
-        }
-      ],
-      "duration_ms": 445133,
-      "name": "Seeker",
-      "url": "https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD"
-    },
-    {
-      "added_at": "2022-11-08 15:00:00",
-      "album": {
         "name": "Dear Family",
         "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
       },
@@ -363,6 +339,22 @@
       "duration_ms": 179106,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD"
+      },
+      "artists": [
+        {
+          "name": "T-SQUARE",
+          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
+        }
+      ],
+      "duration_ms": 349520,
+      "name": "Night Cruise",
+      "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
     },
     {
       "added_at": "2022-11-08 15:00:00",
@@ -395,34 +387,18 @@
     {
       "added_at": "2022-11-08 15:00:00",
       "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD"
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH"
       },
       "artists": [
         {
-          "name": "T-SQUARE",
-          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
         }
       ],
-      "duration_ms": 349520,
-      "name": "Night Cruise",
-      "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
-    },
-    {
-      "added_at": "2022-11-08 15:00:00",
-      "album": {
-        "name": "Looking Back / Paint It Black",
-        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
-      },
-      "artists": [
-        {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
-        }
-      ],
-      "duration_ms": 221247,
-      "name": "Looking Back",
-      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
+      "duration_ms": 321346,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
     },
     {
       "added_at": "2022-11-08 15:00:00",
@@ -439,6 +415,22 @@
       "duration_ms": 379520,
       "name": "Extra Freedom",
       "url": "https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
+        "name": "Looking Back / Paint It Black",
+        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "duration_ms": 221247,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
     },
     {
       "added_at": "2022-11-08 15:00:00",
@@ -507,22 +499,6 @@
     {
       "added_at": "2022-11-08 15:00:00",
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH"
-      },
-      "artists": [
-        {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        }
-      ],
-      "duration_ms": 321346,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
-    },
-    {
-      "added_at": "2022-11-08 15:00:00",
-      "album": {
         "name": "Orange Mug",
         "url": "https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS"
       },
@@ -539,22 +515,6 @@
     {
       "added_at": "2022-11-08 15:00:00",
       "album": {
-        "name": "Making Us Alive (Live)",
-        "url": "https://open.spotify.com/album/6XKlNZcHNiWIh0T1bKcr6y"
-      },
-      "artists": [
-        {
-          "name": "\u6851\u539f\u3042\u3044",
-          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
-        }
-      ],
-      "duration_ms": 352053,
-      "name": "She's A Rainbow - Live",
-      "url": "https://open.spotify.com/track/4o0FeJv0qP71n5JfgKZSgL"
-    },
-    {
-      "added_at": "2022-11-08 15:00:00",
-      "album": {
         "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
         "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
       },
@@ -567,6 +527,22 @@
       "duration_ms": 256360,
       "name": "\u4e59\u5973\u306e\u7948\u308a",
       "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
+        "name": "Making Us Alive (Live)",
+        "url": "https://open.spotify.com/album/6XKlNZcHNiWIh0T1bKcr6y"
+      },
+      "artists": [
+        {
+          "name": "\u6851\u539f\u3042\u3044",
+          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+        }
+      ],
+      "duration_ms": 352053,
+      "name": "She's A Rainbow - Live",
+      "url": "https://open.spotify.com/track/4o0FeJv0qP71n5JfgKZSgL"
     },
     {
       "added_at": "2022-11-08 15:00:00",
@@ -591,6 +567,22 @@
     {
       "added_at": "2022-11-08 15:00:00",
       "album": {
+        "name": "MISIA SOUL JAZZ SESSION",
+        "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
+      },
+      "artists": [
+        {
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+        }
+      ],
+      "duration_ms": 350880,
+      "name": "It's just love",
+      "url": "https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
         "name": "Ishonsho Abe",
         "url": "https://open.spotify.com/album/62Io1sWPF4COlD4jBApYk5"
       },
@@ -607,18 +599,18 @@
     {
       "added_at": "2022-11-08 15:00:00",
       "album": {
-        "name": "MISIA SOUL JAZZ SESSION",
-        "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
+        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
       },
       "artists": [
         {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
         }
       ],
-      "duration_ms": 350880,
-      "name": "It's just love",
-      "url": "https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv"
+      "duration_ms": 247893,
+      "name": "Moonlight Syndrome",
+      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
     },
     {
       "added_at": "2022-11-08 15:00:00",
@@ -639,22 +631,6 @@
       "duration_ms": 138412,
       "name": "Death by Glamour (with Jacob Koller)",
       "url": "https://open.spotify.com/track/4YtvTTg4uE31kyFhCRC9Vw"
-    },
-    {
-      "added_at": "2022-11-08 15:00:00",
-      "album": {
-        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
-      },
-      "artists": [
-        {
-          "name": "ADAM at",
-          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Moonlight Syndrome",
-      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
     },
     {
       "added_at": "2022-11-08 15:00:00",
@@ -695,6 +671,30 @@
     {
       "added_at": "2022-11-08 15:00:00",
       "album": {
+        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
+        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
+      },
+      "artists": [
+        {
+          "name": "BimBomBam Orchestra",
+          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
+        },
+        {
+          "name": "\u5143\u6674",
+          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
+        },
+        {
+          "name": "\u67f4\u7530\u4eae",
+          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
+        }
+      ],
+      "duration_ms": 427000,
+      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
+      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
         "name": "\u30dc\u30c3\u30b5\u30fb\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
         "url": "https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg"
       },
@@ -727,30 +727,6 @@
       "duration_ms": 311233,
       "name": "Spain",
       "url": "https://open.spotify.com/track/2MAcJ1Z0ShlQPDXPWsZwwc"
-    },
-    {
-      "added_at": "2022-11-08 15:00:00",
-      "album": {
-        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
-        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
-      },
-      "artists": [
-        {
-          "name": "BimBomBam Orchestra",
-          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
-        },
-        {
-          "name": "\u5143\u6674",
-          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
-        },
-        {
-          "name": "\u67f4\u7530\u4eae",
-          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
-      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
     },
     {
       "added_at": "2022-11-08 15:00:00",
@@ -843,8 +819,8 @@
     {
       "added_at": "2022-11-08 15:00:00",
       "album": {
-        "name": "Squall",
-        "url": "https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj"
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
       },
       "artists": [
         {
@@ -852,9 +828,9 @@
           "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
         }
       ],
-      "duration_ms": 236907,
-      "name": "Squall",
-      "url": "https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni"
+      "duration_ms": 247800,
+      "name": "Spartacus",
+      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
     },
     {
       "added_at": "2022-11-08 15:00:00",
@@ -875,6 +851,22 @@
     {
       "added_at": "2022-11-08 15:00:00",
       "album": {
+        "name": "NEW",
+        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
+      },
+      "artists": [
+        {
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Red Ocean",
+      "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
+    },
+    {
+      "added_at": "2022-11-08 15:00:00",
+      "album": {
         "name": "83",
         "url": "https://open.spotify.com/album/5Y9LSZnzVuGGW61KdcYdI4"
       },
@@ -891,18 +883,22 @@
     {
       "added_at": "2022-11-08 15:00:00",
       "album": {
-        "name": "NEW",
-        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
+        "name": "Confirmation",
+        "url": "https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej"
       },
       "artists": [
         {
-          "name": "JABBERLOOP",
-          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        },
+        {
+          "name": "re os - REO MATSUMOTO",
+          "url": "https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW"
         }
       ],
-      "duration_ms": 300560,
-      "name": "Red Ocean",
-      "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
+      "duration_ms": 295176,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
     }
   ],
   "unique_name": "Modern Jazz Japan",

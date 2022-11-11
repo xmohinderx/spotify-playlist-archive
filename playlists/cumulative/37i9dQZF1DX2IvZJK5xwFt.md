@@ -4,14 +4,15 @@
 
 > Only the best rock in the world\. Cover: Måneskin
 
-228 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
+229 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Line](https://open.spotify.com/track/73gS8oIeBx85oEDce2Mkgg) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Everything Is Dangerous But Nothing's Surprising](https://open.spotify.com/album/02isuorLo6tPExAe4qGVAD) | 3:10 | 2022-05-26 | 2022-06-10 |
 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2022-05-06 |  |
-| [ADHD](https://open.spotify.com/track/3ZqJEsAtQrrVVkWAOaqkRt) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form](https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL) | 2:45 | 2022-10-06 |  |
+| [ADHD](https://open.spotify.com/track/3ZqJEsAtQrrVVkWAOaqkRt) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form](https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL) | 2:45 | 2022-10-06 | 2022-11-11 |
 | [ADHD](https://open.spotify.com/track/5tGVX0JhfjZc08cRK8Q6Dk) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form](https://open.spotify.com/album/7o6ZqDkitrak5YhaFGpcKV) | 2:45 | 2022-05-12 | 2022-10-14 |
+| [ADHD](https://open.spotify.com/track/6kaxIqJSqJzDXa8d29jnKf) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form \(Deluxe\)](https://open.spotify.com/album/6DlsrwDnj9S9YvLWgdFeNz) | 2:45 | 2022-10-27 |  |
 | [All My Friends Are Turning Blue](https://open.spotify.com/track/77xjaND0eyUHUK1zkBY3DQ) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [All My Friends Are Turning Blue](https://open.spotify.com/album/3J3UxKYc8Nsp8p9ysbNlvO) | 3:39 | 2022-05-06 | 2022-05-13 |
 | [All Or Nothing](https://open.spotify.com/track/0zOqKu2FY6N6BiNoC91MgY) | [Ultra Mega Cat Attack](https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg) | [All Or Nothing](https://open.spotify.com/album/6Ois0be5wOtbLrIL3Ik3iO) | 3:35 | 2022-06-16 |  |
 | [Angel Numbers](https://open.spotify.com/track/6ND0L5nr36N57nWWGbuY4F) | [Hamish Hawk](https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8) | [Angel Numbers](https://open.spotify.com/album/4QgETdX1QjaF27i2OrSNqB) | 3:07 | 2022-06-16 | 2022-07-01 |
@@ -200,8 +201,8 @@
 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 | 2022-05-13 |  |
 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 | 2022-09-29 |  |
 | [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 | 2022-10-06 |  |
-| [Time Bomb](https://open.spotify.com/track/0DS97YTu4Y9CRCDLQfGkAh) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 4:14 | 2022-10-06 |  |
-| [Time Bomb](https://open.spotify.com/track/4kco9GEeZq1UYDvIR62MdR) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Time Bomb](https://open.spotify.com/album/2VQu0sncvxE7gDT4wL2CgK) | 4:14 | 2022-09-22 | 2022-10-17 |
+| [Time Bomb](https://open.spotify.com/track/0DS97YTu4Y9CRCDLQfGkAh) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 4:14 | 2022-10-06 | 2022-11-11 |
+| [Time Bomb](https://open.spotify.com/track/4kco9GEeZq1UYDvIR62MdR) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Time Bomb](https://open.spotify.com/album/2VQu0sncvxE7gDT4wL2CgK) | 4:14 | 2022-09-22 |  |
 | [Time Bomb](https://open.spotify.com/track/5t9dzCexML40kn7AwjffI7) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Time Bomb](https://open.spotify.com/album/4mizBF4mEdyICj3ElcIyPM) | 4:14 | 2022-09-22 | 2022-09-24 |
 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 | 2022-07-07 | 2022-09-30 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-01 | 2022-09-30 |

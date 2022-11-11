@@ -165,7 +165,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 212426,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/0rzY0whyLE68ENX7mvoHAN"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 249693,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/3rU0sziIji4mxvd39x6Z5X"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 175533,
       "name": "Christmas at Hogwarts",
       "url": "https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd"
@@ -335,6 +335,24 @@
       "duration_ms": 283960,
       "name": "Christmas Eve Montage",
       "url": "https://open.spotify.com/track/1GjrbiapTZYBYZvdZDtvEz"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283960,
+      "name": "Christmas Eve Montage",
+      "url": "https://open.spotify.com/track/6VNtoQ5FSWZhiGgJ3DZSUb"
     },
     {
       "album": {
@@ -367,7 +385,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 163093,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
@@ -410,6 +428,28 @@
     },
     {
       "album": {
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "The Commanders",
+          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176699,
+      "name": "Cool Yule",
+      "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
+    },
+    {
+      "album": {
         "name": "The Decca Singles 1949-1958",
         "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
@@ -447,7 +487,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 339444,
       "name": "Dimensions",
       "url": "https://open.spotify.com/track/1F3pzdYyCJlnQoCM9gFzaU"
@@ -613,7 +653,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
@@ -913,7 +953,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 219306,
       "name": "Heroes And Villains - Remastered 2001",
       "url": "https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4"
@@ -985,7 +1025,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 264973,
       "name": "Hush",
       "url": "https://open.spotify.com/track/4aU82r5G2KTUh3HmPHCbM1"
@@ -1253,7 +1293,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 223840,
       "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/6kOXFFNTzraDTj6fceHenx"
@@ -1438,6 +1478,24 @@
     },
     {
       "album": {
+        "name": "8 Mile [Music From And Inspired By The Motion Picture (Expanded Edition)]",
+        "url": "https://open.spotify.com/album/6J0h9KIXtjtoAqJnz1CDwA"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320293,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/2w5fsswM1MlJu5rV44Qsf1"
+    },
+    {
+      "album": {
         "name": "Curtain Call: The Hits (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
       },
@@ -1449,7 +1507,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 326466,
       "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
@@ -1507,7 +1565,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213973,
       "name": "Love My Way",
       "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
@@ -1735,7 +1793,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 309386,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
@@ -1959,7 +2017,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 308200,
       "name": "Reunion of Friends",
       "url": "https://open.spotify.com/track/0rpSIjKSmZ2SFO6vmLJpXl"
@@ -1977,7 +2035,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 165733,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
@@ -2031,7 +2089,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 142600,
       "name": "Santa Claus Is Back In Town",
       "url": "https://open.spotify.com/track/5b1jXYUOgAX5QAHXPVHdld"
@@ -2103,7 +2161,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 356626,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY"
@@ -2121,7 +2179,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 144373,
       "name": "Skating",
       "url": "https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98"
@@ -2157,7 +2215,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 175986,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4"
@@ -2463,7 +2521,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 192160,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
@@ -2517,7 +2575,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 116066,
       "name": "The Kiss",
       "url": "https://open.spotify.com/track/1s7bN2otnn6E4oLgTvRgzE"
@@ -2647,7 +2705,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
@@ -2741,7 +2799,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 214066,
       "name": "Vitamin C - 2004 Remastered Version",
       "url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
@@ -2767,7 +2825,7 @@
     {
       "album": {
         "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "url": "https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj"
       },
       "artists": [
         {
@@ -2778,6 +2836,24 @@
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Wanksta - From \"8 Mile\" Soundtrack",
+      "url": "https://open.spotify.com/track/5Ze7YIFfDfSk8DV261zQVt"
+    },
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 219400,
       "name": "Wanksta - From \"8 Mile\" Soundtrack",
       "url": "https://open.spotify.com/track/6rpNe6gSkmiYW6BfSFATi5"
@@ -2817,7 +2893,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 254626,
       "name": "We Wish You a Merry Christmas / End Title - Voice",
       "url": "https://open.spotify.com/track/7FOJKfiyl1tegmYRqs7AuZ"

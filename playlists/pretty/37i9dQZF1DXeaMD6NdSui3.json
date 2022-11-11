@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 97826,
+  "num_followers": 97878,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMGYyZDliNGNiNzFiOGY4ZjFkM2JjNTg4ZjQ5Y2RmOWEx",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDAxMzZmMTQzMTY0ZmQwODJhYTE0OTk1ZDczNjZmNzMx",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -55,22 +55,6 @@
       "duration_ms": 232706,
       "name": "Scratch My Back",
       "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -153,6 +137,22 @@
       "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
     },
     {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "The Essential Jimmie Vaughan",
+        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 383760,
+      "name": "Dengue Woman Blues",
+      "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
+    },
+    {
       "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "The Fabulous Thunderbirds",
@@ -183,38 +183,6 @@
       "duration_ms": 219840,
       "name": "Pride and Joy",
       "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "The Essential Jimmie Vaughan",
-        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 383760,
-      "name": "Dengue Woman Blues",
-      "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -285,36 +253,20 @@
       "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
+      "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+        "name": "Texas Sugar Strat Magik",
+        "url": "https://open.spotify.com/album/6nsMGqPX8iHHB7FN8XaO6p"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Chris Duarte Group",
+          "url": "https://open.spotify.com/artist/4kA3u3oThWqVYQhT47dGyW"
         }
       ],
-      "duration_ms": 247400,
-      "name": "I Ain't Drunk - Remastered",
-      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 293293,
-      "name": "Mojo Boogie - Remastered",
-      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
+      "duration_ms": 276560,
+      "name": "My Way Down",
+      "url": "https://open.spotify.com/track/2VZYQKBRyGQdVMrzUhRf7J"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -333,20 +285,36 @@
       "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
+      "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
       },
       "artists": [
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
         }
       ],
-      "duration_ms": 320706,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
+      "duration_ms": 305053,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Los Lonely Boys",
+        "url": "https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA"
+      },
+      "artists": [
+        {
+          "name": "Los Lonely Boys",
+          "url": "https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj"
+        }
+      ],
+      "duration_ms": 287200,
+      "name": "Crazy Dream",
+      "url": "https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -371,66 +339,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Texas Sugar Strat Magik",
-        "url": "https://open.spotify.com/album/6nsMGqPX8iHHB7FN8XaO6p"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
         {
-          "name": "Chris Duarte Group",
-          "url": "https://open.spotify.com/artist/4kA3u3oThWqVYQhT47dGyW"
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 276560,
-      "name": "My Way Down",
-      "url": "https://open.spotify.com/track/2VZYQKBRyGQdVMrzUhRf7J"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "I Got My Mojo Working",
-      "url": "https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Los Lonely Boys",
-        "url": "https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA"
-      },
-      "artists": [
-        {
-          "name": "Los Lonely Boys",
-          "url": "https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj"
-        }
-      ],
-      "duration_ms": 287200,
-      "name": "Crazy Dream",
-      "url": "https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
-      },
-      "artists": [
-        {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
+      "duration_ms": 320706,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -487,22 +407,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "We The People",
-        "url": "https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV"
-      },
-      "artists": [
-        {
-          "name": "Guitar Shorty",
-          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
-        }
-      ],
-      "duration_ms": 260200,
-      "name": "We The People",
-      "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "The Best Of Freddie King: The Shelter Years",
         "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
       },
@@ -551,26 +455,6 @@
       "duration_ms": 273346,
       "name": "Whiskey Drinkin' Blues",
       "url": "https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/3TYX7tmA1rKq7I8qOVuvFs"
-      },
-      "artists": [
-        {
-          "name": "Smokin' Joe Kubek",
-          "url": "https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B"
-        },
-        {
-          "name": "Bnois King",
-          "url": "https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "Don't Lose My Number",
-      "url": "https://open.spotify.com/track/7gcjudElezAMCD28CxD8cr"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -677,22 +561,6 @@
       "url": "https://open.spotify.com/track/04kG9s73OxBkpC701Ifp62"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Deep In The Heart",
-        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
-      },
-      "artists": [
-        {
-          "name": "W.C. Clark",
-          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
-        }
-      ],
-      "duration_ms": 293373,
-      "name": "My Texas Home",
-      "url": "https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n"
-    },
-    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "Bluesman for Life",
@@ -707,6 +575,22 @@
       "duration_ms": 310480,
       "name": "Bluesman for Life - Remastered",
       "url": "https://open.spotify.com/track/7tD3yMdZrZ2uHPyj0WvupF"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Deep In The Heart",
+        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
+      },
+      "artists": [
+        {
+          "name": "W.C. Clark",
+          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
+        }
+      ],
+      "duration_ms": 293373,
+      "name": "My Texas Home",
+      "url": "https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -827,6 +711,126 @@
       "duration_ms": 227067,
       "name": "Shakin' Dem Bones",
       "url": "https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Alligator Records 40th Anniversary Collection",
+        "url": "https://open.spotify.com/album/6E6fhFKS1Xjj3xrjqhFJOR"
+      },
+      "artists": [
+        {
+          "name": "Guitar Shorty",
+          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
+        }
+      ],
+      "duration_ms": 261706,
+      "name": "We The People",
+      "url": "https://open.spotify.com/track/70QEXn72EvNtMksvgN5Spg"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Greatest Blues Covers",
+        "url": "https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 268466,
+      "name": "Honey, Hush Aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/2OcI0qBGh43Ujr4xhxUGg7"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "80s Blues",
+        "url": "https://open.spotify.com/album/1f1p5nDSrG561cljILaAdJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Mojo Boogie",
+      "url": "https://open.spotify.com/track/59yxiso5Y2tDoxsd0qgwOY"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Hits Of Louisiana Blues",
+        "url": "https://open.spotify.com/album/4vdeYoUJtqjxuCTrAQIkl5"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 286960,
+      "name": "I Got My Mojo Working",
+      "url": "https://open.spotify.com/track/3WGCnwhHVi3JfQPTa0MjzO"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Telephone Blues - 23 Rare Blues Tracks",
+        "url": "https://open.spotify.com/album/50gSqCcMUKzElCzFAWP5Gd"
+      },
+      "artists": [
+        {
+          "name": "Bnois King",
+          "url": "https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1"
+        },
+        {
+          "name": "Smokin' Joe Kubek",
+          "url": "https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "Don't Lose My Number",
+      "url": "https://open.spotify.com/track/5vQZ72uzVs3zqTgVS7pklD"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Top 20 Blues Rock",
+        "url": "https://open.spotify.com/album/7816hv6YTu3RjuzNadgcLd"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        },
+        {
+          "name": "Liggins",
+          "url": "https://open.spotify.com/artist/3WQde6IXfmy8Luyfgtwx0a"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "I Ain't Drunk",
+      "url": "https://open.spotify.com/track/0Ps8inIPQRyoiMsPV5KWlv"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Electric Blues: 1980s",
+        "url": "https://open.spotify.com/album/0XFcb1A8zHeIPohzMh3tLz"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6EYGWDNSuWJ6aY80DyvwfA"
     },
     {
       "added_at": "2016-03-18 21:56:19",

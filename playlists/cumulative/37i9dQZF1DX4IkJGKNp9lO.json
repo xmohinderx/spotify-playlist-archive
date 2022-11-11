@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 123333,
       "name": "Abab",
       "url": "https://open.spotify.com/track/0dy6fTM1ac2mAmkDPUB6xz"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 90493,
       "name": "Arbetsl\u00f6s",
       "url": "https://open.spotify.com/track/5Lb9ECALk7W9U0lXju7ePo"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 172133,
       "name": "Bakom Spegeln",
       "url": "https://open.spotify.com/track/19RCzCRRAaIVVSf2WDtVRB"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 167648,
       "name": "Brinner",
       "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
@@ -639,6 +639,24 @@
       "duration_ms": 258733,
       "name": "Den H\u00e4r \u00c4r Till Er",
       "url": "https://open.spotify.com/track/4QihvZNdzxHc9Upqk7HFmC"
+    },
+    {
+      "album": {
+        "name": "Den H\u00e4r \u00c4r Till Er",
+        "url": "https://open.spotify.com/album/3l1A9HHdfzlRg6O4hdQ8OE"
+      },
+      "artists": [
+        {
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263973,
+      "name": "Den H\u00e4r \u00c4r Till Er",
+      "url": "https://open.spotify.com/track/4FU7skLnl1FpRIbFezJ0j1"
     },
     {
       "album": {
@@ -923,7 +941,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 239893,
       "name": "Dunken",
       "url": "https://open.spotify.com/track/6EuZqZCVpZi3IqWssVB7eE"
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 186800,
       "name": "Grav\u00f6l",
       "url": "https://open.spotify.com/track/01AKl5g1N4xZvJ23NSxCuZ"
@@ -1599,7 +1617,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 207866,
       "name": "Jag G\u00e5r Upp Och H\u00e5ller K\u00e4ften",
       "url": "https://open.spotify.com/track/4wBImoo0wHN7nuqcFp2M8j"
@@ -1770,6 +1788,24 @@
     },
     {
       "album": {
+        "name": "Bakom ljuset",
+        "url": "https://open.spotify.com/album/08RgYPSeJy5g9JBInnyLei"
+      },
+      "artists": [
+        {
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136944,
+      "name": "Kaos",
+      "url": "https://open.spotify.com/track/7C5vwqLlWULrV4aaigbHKX"
+    },
+    {
+      "album": {
         "name": "Kollektivt sj\u00e4lvmord",
         "url": "https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L"
       },
@@ -1803,6 +1839,24 @@
       "duration_ms": 180550,
       "name": "Kom och dansa lite",
       "url": "https://open.spotify.com/track/3ojMPfMkEHaFdMu3C2Olh6"
+    },
+    {
+      "album": {
+        "name": "Alderland",
+        "url": "https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180573,
+      "name": "Kom och dansa lite",
+      "url": "https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje"
     },
     {
       "album": {
@@ -2249,7 +2303,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 156656,
       "name": "Masspsykos",
       "url": "https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu"
@@ -2321,7 +2375,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243680,
       "name": "Meningsl\u00f6sa M\u00e5ndag",
       "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
@@ -2411,7 +2465,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 167266,
       "name": "Mitt Sista Andetag",
       "url": "https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa"
@@ -2555,7 +2609,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 219146,
       "name": "N\u00e5gon form av svar",
       "url": "https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t"
@@ -2573,7 +2627,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 196840,
       "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
       "url": "https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU"
@@ -2753,7 +2807,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 167480,
       "name": "Psykist Instabil",
       "url": "https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO"
@@ -3264,6 +3318,24 @@
     },
     {
       "album": {
+        "name": "Mvh Grannen",
+        "url": "https://open.spotify.com/album/3sTZbgkB9ffVceA3RAIifb"
+      },
+      "artists": [
+        {
+          "name": "Pastoratet",
+          "url": "https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204132,
+      "name": "St\u00e4ll dig upp",
+      "url": "https://open.spotify.com/track/3jvZ5ypCXvlDbqVkK3bx5C"
+    },
+    {
+      "album": {
         "name": "Gbg Noir",
         "url": "https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN"
       },
@@ -3689,7 +3761,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204109,
       "name": "Varje ensam natt",
       "url": "https://open.spotify.com/track/08PsVeAcmLKotmovg8ZADv"
@@ -3743,7 +3815,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 190026,
       "name": "Vem s\u00e4tter m\u00e4rket",
       "url": "https://open.spotify.com/track/6n6bwxNTBMhqzxlDcK6Gm7"
@@ -3941,7 +4013,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 185933,
       "name": "\u00c4lska Mig",
       "url": "https://open.spotify.com/track/3iSt8hTzeb5SKdHLVwTFcc"

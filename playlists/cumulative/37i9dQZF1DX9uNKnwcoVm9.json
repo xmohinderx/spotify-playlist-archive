@@ -59,7 +59,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 229720,
       "name": "Abro Mis Brazos",
       "url": "https://open.spotify.com/track/5nkdEfOSuBaHmSeDCPgw5e"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 299600,
       "name": "Como Dijiste",
       "url": "https://open.spotify.com/track/5Q5ArHcJlRcWLZMRBRN4sX"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 393533,
       "name": "Donde Tu Est\u00e1s",
       "url": "https://open.spotify.com/track/16jKWnXGPFPZzMkcwjXFl2"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 534748,
       "name": "Donde T\u00fa est\u00e1s feat. Rebeca Zamorano",
       "url": "https://open.spotify.com/track/4hvmopV4wO0CTe9DgicOOF"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 300460,
       "name": "El es mi amigo fiel",
       "url": "https://open.spotify.com/track/1kGHibUdAJTVn0X3RpdC8E"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 270933,
       "name": "El Proceso",
       "url": "https://open.spotify.com/track/5MjSIkSafNOHiDqE8nL9m4"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 231753,
       "name": "En las Manos de Dios",
       "url": "https://open.spotify.com/track/4wauES61ARPVjMndN9DeyB"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 254600,
       "name": "En paz",
       "url": "https://open.spotify.com/track/0rgd3UShOGwxs2Qpp0krBV"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 356064,
       "name": "Eres Santo",
       "url": "https://open.spotify.com/track/6mrBXtE99uuU9s2G3XrLvy"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 300186,
       "name": "Gloria En Lo Alto",
       "url": "https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 323693,
       "name": "Gracias Se\u00f1or",
       "url": "https://open.spotify.com/track/6fVAVie4PzmKAoMAZBGtz1"
@@ -1713,7 +1713,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 447491,
       "name": "Lo Unico Que Quiero",
       "url": "https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp"
@@ -1739,6 +1739,28 @@
       "duration_ms": 447491,
       "name": "Lo Unico Que Quiero",
       "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
+    },
+    {
+      "album": {
+        "name": "Legado de Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/4lFpO4MS2Ul66ycjGAj0QT"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447439,
+      "name": "Lo \u00danico Que Quiero",
+      "url": "https://open.spotify.com/track/2gvqTCMJeYumigiTcCHFsi"
     },
     {
       "album": {
@@ -1865,6 +1887,24 @@
       "duration_ms": 374491,
       "name": "Me rindo ante ti",
       "url": "https://open.spotify.com/track/1yOT1gkct6I0w4wPBNc3y1"
+    },
+    {
+      "album": {
+        "name": "Mi confianza est\u00e1 en ti (remix)",
+        "url": "https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333653,
+      "name": "Mi confianza est\u00e1 en ti (remix)",
+      "url": "https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN"
     },
     {
       "album": {
@@ -2287,7 +2327,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 380316,
       "name": "Precioso Jes\u00fas",
       "url": "https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2"
@@ -2316,6 +2356,24 @@
     },
     {
       "album": {
+        "name": "Que se abra el Cielo (Audio Performance Trax)",
+        "url": "https://open.spotify.com/album/1dWBTXOnGMq253POsx7lkV"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445906,
+      "name": "Que se abra el Cielo - Live",
+      "url": "https://open.spotify.com/track/6z13TK2cDVyKj4Gmd1y5af"
+    },
+    {
+      "album": {
         "name": "Eterno (Live)",
         "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
       },
@@ -2331,7 +2389,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 445906,
       "name": "Qu\u00e9 Se Abra El Cielo (Feat. Marcos Brunet)",
       "url": "https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv"
@@ -2660,6 +2718,24 @@
     },
     {
       "album": {
+        "name": "Toda la Gloria",
+        "url": "https://open.spotify.com/album/5Vt4GH5dbZs4ckSI0ipuiN"
+      },
+      "artists": [
+        {
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357644,
+      "name": "Toda la Gloria",
+      "url": "https://open.spotify.com/track/16TBvss2BzA7av0e0MGgzn"
+    },
+    {
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5nKR0GJScbq5pcb7PGdBW9"
       },
@@ -2689,7 +2765,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 360386,
       "name": "Toda la Gloria",
       "url": "https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn"
@@ -2743,7 +2819,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 387450,
       "name": "Tu Voluntad",
       "url": "https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G"
@@ -2921,7 +2997,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 305040,
       "name": "Yo Quiero Estar Donde Tu Est\u00e1s",
       "url": "https://open.spotify.com/track/4yHpEcaH1WLJ2e6MlMXZXd"
@@ -2957,7 +3033,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 356280,
       "name": "Yo Quiero Mas de Cristo",
       "url": "https://open.spotify.com/track/0H79dPuHeHPkfR51XfwBUD"

@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 193090,
       "name": "Catastral",
       "url": "https://open.spotify.com/track/0zahQZiY4j3EiwFxLd7rAO"
@@ -189,6 +189,24 @@
       "duration_ms": 193090,
       "name": "Catastral",
       "url": "https://open.spotify.com/track/3MEAIsuHmcUZCk5Qfp97Zl"
+    },
+    {
+      "album": {
+        "name": "m\u2661rtal",
+        "url": "https://open.spotify.com/album/4jVTHVhg89w5GPCsmOpcyV"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193090,
+      "name": "Catastral",
+      "url": "https://open.spotify.com/track/4PDnVUHUOsE9uI8gb2gjuA"
     },
     {
       "album": {
@@ -239,10 +257,28 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 246413,
       "name": "Club GTA",
       "url": "https://open.spotify.com/track/3ShG3u3BEGei2zWxnvtKPj"
+    },
+    {
+      "album": {
+        "name": "Club GTA",
+        "url": "https://open.spotify.com/album/5MCj5iZz6khuIRp9pG3xDT"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246413,
+      "name": "Club GTA",
+      "url": "https://open.spotify.com/track/6gprNjWcdzCM014vfg97bn"
     },
     {
       "album": {
@@ -1153,10 +1189,32 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 186666,
       "name": "Sana Sana",
       "url": "https://open.spotify.com/track/234Pt4fwI6ObMlqbbHcuaH"
+    },
+    {
+      "album": {
+        "name": "By My Side/Sana Sana",
+        "url": "https://open.spotify.com/album/35HjbF4UqASswV5F3BbNF1"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        },
+        {
+          "name": "La Favi",
+          "url": "https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/4rU6PqKRLkzbd6PVDjHBJk"
     },
     {
       "album": {

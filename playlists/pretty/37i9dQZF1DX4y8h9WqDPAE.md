@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: CoCo Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,753,983 likes - 88 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,754,156 likes - 88 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

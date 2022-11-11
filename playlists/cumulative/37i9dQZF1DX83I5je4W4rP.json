@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "40oz. To Freedom",
+        "url": "https://open.spotify.com/album/0vuwlanMPucXrYMGnOjhYL"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185440,
+      "name": "Badfish",
+      "url": "https://open.spotify.com/track/2fXLhLA7cPYEmQ1NbeAtBD"
+    },
+    {
+      "album": {
         "name": "Sublime Greatest Hits",
         "url": "https://open.spotify.com/album/0E2blcrvyduixEolxZXot7"
       },
@@ -171,7 +189,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 188085,
       "name": "Badfish",
       "url": "https://open.spotify.com/track/4paJ10JPNCyOaLtz2cY928"
@@ -385,6 +403,28 @@
       "duration_ms": 283426,
       "name": "Bowl For Two",
       "url": "https://open.spotify.com/track/7wCgKgkuthR3K568qESxDp"
+    },
+    {
+      "album": {
+        "name": "Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation",
+        "url": "https://open.spotify.com/album/1tqFk7TTYICk0Mhk9XUX9L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253933,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/01cbb52SrkVOB8VuFaPoGP"
     },
     {
       "album": {
@@ -635,7 +675,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 196160,
       "name": "Catching Lightning",
       "url": "https://open.spotify.com/track/5BMlzRHulVFs4r9wUv1mJB"
@@ -1201,7 +1241,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 256266,
       "name": "Follow The Sun",
       "url": "https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0"
@@ -1517,7 +1557,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219015,
-      "name": "Highshool Steady - Kaua'i Mix",
+      "name": "Highschool Steady - Kaua'i Mix",
       "url": "https://open.spotify.com/track/7ImUgqoBEVQAtgcE5uSMA3"
     },
     {
@@ -1591,7 +1631,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143856,
       "name": "I Like the Way You Roll (feat. Slightly Stoopid)",
       "url": "https://open.spotify.com/track/2dBQiMLWP9cWCYfwB56YHf"
@@ -1791,7 +1831,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 304322,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY"
@@ -1941,7 +1981,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 275244,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/4kFJNoQNvBcJDenyQc5Rk3"
@@ -2049,7 +2089,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213733,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/0xtvV6h7qWiTjab9GIoWkZ"
@@ -2373,7 +2413,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 255850,
       "name": "On & On (with Iration)",
       "url": "https://open.spotify.com/track/56XNpU7rDh8fUShQR7BXtO"
@@ -2391,7 +2431,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 172933,
       "name": "One Love / People Get Ready - Medley",
       "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
@@ -2529,7 +2569,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 177440,
       "name": "Pressure Drop",
       "url": "https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg"
@@ -2599,6 +2639,24 @@
       "duration_ms": 204000,
       "name": "Respect",
       "url": "https://open.spotify.com/track/75aYfg2Tji6Uxmreajjxsg"
+    },
+    {
+      "album": {
+        "name": "Ride (Edit)",
+        "url": "https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220310,
+      "name": "Ride - Edit",
+      "url": "https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb"
     },
     {
       "album": {
@@ -2713,7 +2771,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 296719,
       "name": "Round n Round (feat. Pepper & Kaleo Wassman)",
       "url": "https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX"
@@ -2731,7 +2789,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 182746,
       "name": "Santeria",
       "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
@@ -2923,7 +2981,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 170348,
       "name": "Slice of Sunshine (with Claire Wright)",
       "url": "https://open.spotify.com/track/6sAf6WUpAcHkqkja62xup4"
@@ -3017,7 +3075,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 183506,
       "name": "Social Drinker",
       "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
@@ -3493,7 +3551,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213280,
       "name": "The Game",
       "url": "https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje"
@@ -3685,7 +3743,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 213233,
       "name": "Two (with The Hip Abduction)",
       "url": "https://open.spotify.com/track/14Yv4l3SQsgQ1XAcWtP8kw"
@@ -3921,7 +3979,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 170906,
       "name": "What I Got",
       "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"

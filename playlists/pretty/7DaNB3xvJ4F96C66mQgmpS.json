@@ -1,12 +1,12 @@
 {
   "description": "The best workout playlist is here. Listen to rap, rock, and electronic bangers from a variety of artists, and discover new favorite tracks to power you through.",
-  "num_followers": 89840,
+  "num_followers": 89839,
   "original_name": "Workout Bangers",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MTUzOSxhOTdlNjMwZDJiZGJiYjdkZmNlYTZlMDQ0YzJmMTU5ZTVhMDdhNWY5",
+  "snapshot_id": "MTU0MSxhYjM0MWEwZDE3MjcyNjg0Mzg1MjljYzQxZTM4YmNiZmIxZjViYTE5",
   "tracks": [
     {
       "added_at": "2022-11-07 01:49:14",
@@ -425,6 +425,22 @@
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
+      "added_at": "2022-11-10 06:39:14",
+      "album": {
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Temper",
+      "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"
+    },
+    {
       "added_at": "2022-11-07 01:49:14",
       "album": {
         "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
@@ -451,6 +467,22 @@
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
+    },
+    {
+      "added_at": "2022-11-10 06:39:15",
+      "album": {
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 363521,
+      "name": "Rap God",
+      "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
     },
     {
       "added_at": "2022-11-07 01:49:14",

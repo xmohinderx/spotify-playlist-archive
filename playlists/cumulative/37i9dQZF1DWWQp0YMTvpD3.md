@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-274 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+275 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [Think It Through](https://open.spotify.com/track/5dQStS5S139vgcybY6gUJL) | [Billy Mccray](https://open.spotify.com/artist/2EqQ9FPklGoK7YmlJQ1qA4) | [Think It Through](https://open.spotify.com/album/5kqO9S5yFkV9x3FiqGFPA2) | 2:28 | 2022-03-25 |  |
 | [This Here Story](https://open.spotify.com/track/2UFmyJ6CuTle51ytDLuNeW) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [This Here Story](https://open.spotify.com/album/5IokwBzlxqb66EH4IbGl5R) | 3:54 | 2022-10-28 |  |
 | [This Life \- Y.V.E\. 48 Remix](https://open.spotify.com/track/1tfVM4uwraShkT3vPClGcq) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [This Life \(Y.V.E\. 48 Remix\)](https://open.spotify.com/album/2togNluo2gMQRkkWOOnum2) | 2:29 | 2022-02-11 | 2022-07-29 |
-| [This Life \- Y.V.E\. 48 Remix](https://open.spotify.com/track/7bB7YV957eCZIlbUuq5DCT) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Dreamcycle Remixed](https://open.spotify.com/album/3wevT6WYX9tZcuIjqw78AP) | 2:29 | 2022-07-29 |  |
+| [This Life \- Y.V.E\. 48 Remix](https://open.spotify.com/track/4UU42jIRT8rUaIaT9jfhaW) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [This Life \(Y.V.E\. 48 Remix\)](https://open.spotify.com/album/7qUEeiTeDYJZlfiVQ5ooPo) | 2:29 | 2022-10-28 |  |
+| [This Life \- Y.V.E\. 48 Remix](https://open.spotify.com/track/7bB7YV957eCZIlbUuq5DCT) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Dreamcycle Remixed](https://open.spotify.com/album/3wevT6WYX9tZcuIjqw78AP) | 2:29 | 2022-07-29 | 2022-11-11 |
 | [Through the fields](https://open.spotify.com/track/0GyZq3mNQYAPDTWJUVWB4V) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Through the fields](https://open.spotify.com/album/4msZok2Vb2B7SG7etPBv2T) | 2:56 | 2021-10-26 | 2022-02-12 |
 | [Throw Down The Key](https://open.spotify.com/track/763ZUZsvNs1ZQjl1jFU66k) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Throw Down The Key](https://open.spotify.com/album/0sNMyl46kuOREnBTroiPJc) | 1:57 | 2022-02-11 |  |
 | [Ticket to Wonderland](https://open.spotify.com/track/5H3vSTtXZnGPH5VsncrzVz) | [Purple Mermaids](https://open.spotify.com/artist/7pQw9ynXXDSkJpXHtimv9n) | [Ticket to Wonderland](https://open.spotify.com/album/1LLoRgliEXdo13eNQwzRGb) | 2:37 | 2021-10-12 | 2022-02-12 |

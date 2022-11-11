@@ -4,7 +4,7 @@
 
 > La nueva ola del rock argentino\. Foto: Riel
 
-179 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
+180 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Carrusel](https://open.spotify.com/track/6MkDBrI4UHVzF06xiTV5KY) | [Roma](https://open.spotify.com/artist/6pCsEBDlqd9GDJ1SNDlM7f) | [Carrusel](https://open.spotify.com/album/1EU9Qzbxg0eP01976h4slk) | 3:21 | 2022-06-29 | 2022-08-27 |
 | [Chica Rutera](https://open.spotify.com/track/7mULoTsK56Nfyf7o50LKk3) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Poseidotica](https://open.spotify.com/artist/35c7I7m05XIsgtiCq1o99U) | [Chica Rutera](https://open.spotify.com/album/677rkyQAwxStGoAqiRiLiy) | 5:08 | 2022-06-29 | 2022-08-27 |
 | [Ciudatella Nacional](https://open.spotify.com/track/7LuLZp0bGul3psMpbQ49i2) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC) | [Poesía para Edificios](https://open.spotify.com/album/6GyP4VIgIVm4UHcgAtnVdz) | 3:46 | 2022-07-19 |  |
-| [Coleccionando cicatrices](https://open.spotify.com/track/2Ug1MOeq7WsZI3e3RmIXIQ) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:56 | 2022-07-22 |  |
+| [Coleccionando cicatrices](https://open.spotify.com/track/2Ug1MOeq7WsZI3e3RmIXIQ) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:56 | 2022-07-22 | 2022-11-11 |
+| [Coleccionando Cicatrices](https://open.spotify.com/track/0nFNXj5EVrMR4q2Qm74CtP) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/732rZ7r8CfbcxZt7kiXpug) | 3:58 | 2022-10-28 |  |
 | [Coleccionando Cicatrices](https://open.spotify.com/track/2bPWrKKz9TrV8Q6x5zEQEv) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/3ch8w03YXSOE0BTtul5uNr) | 3:58 | 2022-06-29 | 2022-07-29 |
 | [COMO SI FUERA](https://open.spotify.com/track/2ExiAhtleheHlq9MtG0mxI) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [COMO SI FUERA](https://open.spotify.com/album/0msOamo2vupl5aos2VJScQ) | 2:50 | 2022-08-12 |  |
 | [Como Vos](https://open.spotify.com/track/0EYTcO3KhYOq8R1MVv447o) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Como Vos](https://open.spotify.com/album/4MtXhW68YIgZlt5alIbYT2) | 3:24 | 2022-09-09 |  |
@@ -134,8 +135,8 @@
 | [No Quiero Salir](https://open.spotify.com/track/0Z9EiIeAxn26L0lTVOn1aH) | [Los Burritos](https://open.spotify.com/artist/20pbYX3EUvtEdG3Cjx9qG1) | [No Quiero Salir](https://open.spotify.com/album/2XYNPtHlKeJTxPAmyIbkmq) | 2:18 | 2022-06-29 |  |
 | [No Te Desvistas](https://open.spotify.com/track/4zZG2DSVUWzakbLBx0sfPY) | [Simón Abentin](https://open.spotify.com/artist/3Zs1HOnF2dqmc60qkEziol) | [Tocable, Adorable](https://open.spotify.com/album/3blcyiycMdmmomf37A0SoP) | 2:13 | 2022-06-29 | 2022-07-20 |
 | [Nuevo Comienzo](https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nuevo Comienzo](https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg) | 3:06 | 2022-10-28 |  |
-| [Olimpica](https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Olimpica](https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n) | 3:45 | 2022-07-29 | 2022-08-21 |
-| [Olimpica](https://open.spotify.com/track/7jTQYRAAppaWtQuOYZdY3z) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:45 | 2022-08-19 |  |
+| [Olimpica](https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Olimpica](https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n) | 3:45 | 2022-07-29 |  |
+| [Olimpica](https://open.spotify.com/track/7jTQYRAAppaWtQuOYZdY3z) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:45 | 2022-08-19 | 2022-11-11 |
 | [Oro de Abeja](https://open.spotify.com/track/2q3GgW71FqrEfFFtdWC3tJ) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Estado de Enlace](https://open.spotify.com/album/4wQOcHIqzPgS3dMbXWKy8z) | 3:48 | 2022-07-19 |  |
 | [Ovbio](https://open.spotify.com/track/7w1oeRk6mx4SnvYH6GpPEK) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU) | [Ovbio](https://open.spotify.com/album/2zSH51juxxucmg3HuoUDyD) | 4:04 | 2022-07-19 |  |
 | [Para Enloquecer](https://open.spotify.com/track/6xFNObwvVvrGg3hY8fT05I) | [BIGGER](https://open.spotify.com/artist/7Mjn4aYeV5bxOB4mlVsGZc) | [El Otro Lado](https://open.spotify.com/album/4yL0j3KXs4tzmIl3Zs96ER) | 3:19 | 2022-06-29 | 2022-07-20 |

@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/66k2BD3Z2gtQt0UgXhZJSf"
+      },
+      "artists": [
+        {
+          "name": "Da\u00f0i Freyr",
+          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "10 Years",
+      "url": "https://open.spotify.com/track/2wxvW9II2IMhqSme5YC9n3"
+    },
+    {
+      "album": {
         "name": "10 Years",
         "url": "https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x"
       },
@@ -59,7 +77,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 166000,
       "name": "10 Years",
       "url": "https://open.spotify.com/track/6N6HSN3zytFXva8LTUUvIL"
@@ -412,6 +430,32 @@
     },
     {
       "album": {
+        "name": "Dangerous (Touch Sensitive Remix)",
+        "url": "https://open.spotify.com/album/54UxhHBaQwRqvp7SWjrR4N"
+      },
+      "artists": [
+        {
+          "name": "Umii",
+          "url": "https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc"
+        },
+        {
+          "name": "Reva DeVito",
+          "url": "https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz"
+        },
+        {
+          "name": "B. Bravo",
+          "url": "https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231652,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0SCcYTx5we9EKTPvEXxld5"
+    },
+    {
+      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/5d1GP0Dl62bgaOQ8euQJAn"
       },
@@ -431,7 +475,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 231652,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3WOB7zFoez5ziVhUHtqqD9"
@@ -1406,6 +1450,24 @@
     },
     {
       "album": {
+        "name": "Skin on Skin",
+        "url": "https://open.spotify.com/album/06sMD24BpQ0SWuqw05u7CT"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183896,
+      "name": "Skin on Skin",
+      "url": "https://open.spotify.com/track/1JgJhFTOlrZ9EgaYQfDEpP"
+    },
+    {
+      "album": {
         "name": "Dream in Colour",
         "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
       },
@@ -1417,7 +1479,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 183896,
       "name": "Skin on Skin",
       "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
@@ -1869,7 +1931,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 168333,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/5lMJEmLGzqbdFuOaonB0eO"
@@ -1895,6 +1957,28 @@
       "duration_ms": 168333,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/5xRMmHOAQiVJ2QeDv0gTS7"
+    },
+    {
+      "album": {
+        "name": "Your Touch",
+        "url": "https://open.spotify.com/album/0stnWhCCa90eJjTPGqVhXf"
+      },
+      "artists": [
+        {
+          "name": "The APX",
+          "url": "https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM"
+        },
+        {
+          "name": "Mink Slide",
+          "url": "https://open.spotify.com/artist/4pW7lEAcGKdR77rKW6cYPJ"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168411,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/7irxgIZPujseydOU1F9DGr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdb5FEvfgsH9"

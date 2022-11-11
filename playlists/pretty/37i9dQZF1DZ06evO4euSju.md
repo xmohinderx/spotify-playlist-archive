@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 21 | [Kibo](https://open.spotify.com/track/5iQPGnGBClKTf4pHdhNuAg) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 2:37 |
 | 22 | [Bloom](https://open.spotify.com/track/4dIcol4M56nWvq8OA5bm4n) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 4:37 |
 
-Snapshot ID: `Mjc4MDA0MzMsMDAwMDAwMDA2YjQxNjcyZWFjMDg0MGQzM2MwNWQ4MTgwYmIwMTIyYQ==`
+Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDAxNzBiNjhkMzQ0MjZhZmY0ZjAwYzYyMThmNzM0ODk1Ng==`

@@ -495,10 +495,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 443426,
       "name": "I Don't Want to Be a Freak (But I Can't Help Myself)",
       "url": "https://open.spotify.com/track/0T6oYSJ8kLPN7a02xpDRZ3"
+    },
+    {
+      "album": {
+        "name": "Dynasty: The Best of...",
+        "url": "https://open.spotify.com/album/5HjQlUnDRs1nhP4dv7XA4m"
+      },
+      "artists": [
+        {
+          "name": "Dynasty",
+          "url": "https://open.spotify.com/artist/7E8yETzDbHYASNxtFQysf7"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447400,
+      "name": "I Don't Want to Be a Freak (But I Can't Help Myself)",
+      "url": "https://open.spotify.com/track/2N5t1DbVS69NKnLxqvSUiL"
     },
     {
       "album": {
@@ -1178,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Winning Combinations",
+        "url": "https://open.spotify.com/album/5EOSeQnJ1yAvgKy5igt3m2"
+      },
+      "artists": [
+        {
+          "name": "Atlantic Starr",
+          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272026,
+      "name": "When Love Calls",
+      "url": "https://open.spotify.com/track/4VDmyTwRKj6go51r15DCGu"
+    },
+    {
+      "album": {
         "name": "The Best Of Atlantic Starr",
         "url": "https://open.spotify.com/album/31j5ZI5u1bMPFwdWWe7g6D"
       },
@@ -1189,7 +1225,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 273106,
       "name": "When Love Calls",
       "url": "https://open.spotify.com/track/490n3MPr9AL7oiDXIJrIiB"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Buen provecho!",
-  "num_followers": 223410,
+  "num_followers": 223427,
   "original_name": "Hora de la Comida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ4NjE5NSwwMDAwMDAwMDc4ZjM4ZGM0ZTcyMzU2M2JlNWQ4YmFjMjYxNThjNjUw",
+  "snapshot_id": "MTY0ODQ4NjE5NSwwMDAwMDAwMGFiODM4ZTVmZDY4NTA4ZDBhNzIxMThlM2ViNzRmNWQ1",
   "tracks": [
     {
       "added_at": "2022-03-28 16:49:55",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 302493,
-      "name": "Cruz de navajas",
-      "url": "https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "Crazy Rich Asians (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 201933,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -323,54 +323,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
-        "name": "Lugares Imaginarios",
-        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 185122,
-      "name": "Tu Paisaje",
-      "url": "https://open.spotify.com/track/3Bmt4jOf8kcJteJdvtEZNs"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "Un A\u00f1o",
         "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
       },
@@ -387,6 +339,22 @@
       "duration_ms": 164440,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Lugares Imaginarios",
+        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 185122,
+      "name": "Tu Paisaje",
+      "url": "https://open.spotify.com/track/3Bmt4jOf8kcJteJdvtEZNs"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -563,22 +531,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "Perfect (Acoustic)",
         "url": "https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv"
       },
@@ -655,26 +607,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "MEMORIA FUTURO",
-        "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 221390,
-      "name": "Respiro (Cap. 8)",
-      "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -691,6 +623,26 @@
       "duration_ms": 195226,
       "name": "Ma\u00f1ana Es Too Late",
       "url": "https://open.spotify.com/track/7ckO8bTkYT5YzwzwnZ6v5a"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "MEMORIA FUTURO",
+        "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 221390,
+      "name": "Respiro (Cap. 8)",
+      "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -727,22 +679,6 @@
       "duration_ms": 203800,
       "name": "What Do You Mean? - Acoustic",
       "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
-        "name": "One Call Away (Acoustic + Remixes)",
-        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -827,22 +763,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Amor Presente",
-        "url": "https://open.spotify.com/album/6qPyFeApmk6187F7yoQvcd"
-      },
-      "artists": [
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 256373,
-      "name": "Bailar",
-      "url": "https://open.spotify.com/track/1Z9JRMA4ogC9vTpv0JxWph"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "AOL Sessions",
         "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
       },
@@ -855,6 +775,22 @@
       "duration_ms": 181133,
       "name": "Kiss Me - AOL Sessions Acoustic Version",
       "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Amor Presente",
+        "url": "https://open.spotify.com/album/6qPyFeApmk6187F7yoQvcd"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 256373,
+      "name": "Bailar",
+      "url": "https://open.spotify.com/track/1Z9JRMA4ogC9vTpv0JxWph"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -1179,6 +1115,22 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
+        "name": "Since U Been Gone",
+        "url": "https://open.spotify.com/album/1aF6m76ZjCEH8tN6W9W9Uk"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 221170,
+      "name": "Since U Been Gone - Acoustic Version",
+      "url": "https://open.spotify.com/track/4iObEYRE4FLm0D90gmZFef"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
         "name": "Slide (Acoustic Version)",
         "url": "https://open.spotify.com/album/71psLPZdo5Y1yqdd5pQ37W"
       },
@@ -1247,22 +1199,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Since U Been Gone",
-        "url": "https://open.spotify.com/album/1aF6m76ZjCEH8tN6W9W9Uk"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 221170,
-      "name": "Since U Been Gone - Acoustic Version",
-      "url": "https://open.spotify.com/track/4iObEYRE4FLm0D90gmZFef"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "Solo M\u00eda",
         "url": "https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc"
       },
@@ -1299,22 +1235,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Happy Now (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
-      },
-      "artists": [
-        {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Happy Now - Acoustic",
-      "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "Without Me",
         "url": "https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim"
       },
@@ -1327,6 +1247,22 @@
       "duration_ms": 130222,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Happy Now (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Happy Now - Acoustic",
+      "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -1511,6 +1447,22 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
+        "name": "MILLONES",
+        "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 187298,
+      "name": "Lado B",
+      "url": "https://open.spotify.com/track/4ER0Cnu2cbSV34VYP54BoK"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
         "name": "Perd\u00f3name (feat. Farruko) [Urban Version]",
         "url": "https://open.spotify.com/album/3yZxWMLmrq92OFyNVIhcvO"
       },
@@ -1527,22 +1479,6 @@
       "duration_ms": 187177,
       "name": "Perd\u00f3name (feat. Farruko) - Urban Version",
       "url": "https://open.spotify.com/track/0vGSX0dFbYttMdJFQc9ReZ"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
-        "name": "MILLONES",
-        "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 187298,
-      "name": "Lado B",
-      "url": "https://open.spotify.com/track/4ER0Cnu2cbSV34VYP54BoK"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -1579,22 +1515,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Born To Be Yours",
-        "url": "https://open.spotify.com/album/7gAsbwcqVhQJSDk7uypt8x"
-      },
-      "artists": [
-        {
-          "name": "Sweetfire",
-          "url": "https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj"
-        }
-      ],
-      "duration_ms": 249341,
-      "name": "Born To Be Yours - Acoustic Version",
-      "url": "https://open.spotify.com/track/2TyG4StdLQyrE4G4hV6pKO"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "Epitafio",
         "url": "https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK"
       },
@@ -1607,6 +1527,22 @@
       "duration_ms": 157120,
       "name": "Epitafio",
       "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Born To Be Yours",
+        "url": "https://open.spotify.com/album/7gAsbwcqVhQJSDk7uypt8x"
+      },
+      "artists": [
+        {
+          "name": "Sweetfire",
+          "url": "https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj"
+        }
+      ],
+      "duration_ms": 249341,
+      "name": "Born To Be Yours - Acoustic Version",
+      "url": "https://open.spotify.com/track/2TyG4StdLQyrE4G4hV6pKO"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -1723,6 +1659,70 @@
       "duration_ms": 149647,
       "name": "Son\u0303e",
       "url": "https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 159342,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/47jv81dOwBzrAbYgQfs5u0"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Covers EP",
+        "url": "https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q"
+      },
+      "artists": [
+        {
+          "name": "The Lidls",
+          "url": "https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE"
+        }
+      ],
+      "duration_ms": 153268,
+      "name": "Havana/Attention",
+      "url": "https://open.spotify.com/track/2LoRKuH9DWBqJJJ8IKGqG9"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Bolero Falaz",
+        "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
+      },
+      "artists": [
+        {
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
+        }
+      ],
+      "duration_ms": 263500,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Juego de Amor",
+        "url": "https://open.spotify.com/album/34i7W2TuiUVTJoIsroG0Q9"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 238094,
+      "name": "Juego de Amor",
+      "url": "https://open.spotify.com/track/6xZ8P2C0gYWEy3EgkXVGuL"
     }
   ],
   "unique_name": "Hora de la Comida",

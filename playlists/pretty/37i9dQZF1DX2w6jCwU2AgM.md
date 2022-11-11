@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2w6jCwU2AgM.md) - [plain]
 
 > Dejate llevar por estas suaves melodías acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,569 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,568 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2w6jCwU2AgM.md) - [plain]
 | 2 | [Distant Fortune](https://open.spotify.com/track/6dqF3sWFq18Jav3zHjYrJ2) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 3:21 |
 | 3 | [Forests](https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o) | [Sebastian Winskog](https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb) | [Meadow / Forests](https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur) | 2:20 |
 | 4 | [Whispers](https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Whispers](https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9) | 3:08 |
-| 5 | [Svalbard](https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg) | 3:19 |
+| 5 | [Svalbard](https://open.spotify.com/track/0sKhVvGUSHVXjU44bUTmhV) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [The Cereal Killers: Bedtime Guitar](https://open.spotify.com/album/4R57k9bpcwczFvwrnfhskU) | 3:19 |
 | 6 | [Magic Wind](https://open.spotify.com/track/77ekrhV3OHhwaTO4CNoFo5) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Moods](https://open.spotify.com/album/0RAExk1jIs0Q9CSso8uAR8) | 2:02 |
 | 7 | [La Storia D'Amor](https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [La Storia D'amor](https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q) | 2:50 |
 | 8 | [Raining Slowly](https://open.spotify.com/track/3C2hFxPFsNrnMXW861bnHY) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Raining Slowly](https://open.spotify.com/album/5JjOIm7QVc6EwPerFtOWcD) | 2:39 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2w6jCwU2AgM.md) - [plain]
 | 39 | [My Deep Desolation](https://open.spotify.com/track/4XJSzXV0jSjM4DWAOW0TIm) | [Don Steale](https://open.spotify.com/artist/2HwPnlL403PomZYlx8SHQs) | [Crying Hearts](https://open.spotify.com/album/1RdSUHUIA1QzBhjN42KoJA) | 3:54 |
 | 40 | [Adagio Albinoni](https://open.spotify.com/track/5xEcZIjrJu3DI7hz8k4Ltw) | [Richard Mollenbeck](https://open.spotify.com/artist/2zFkwocH9Ah8KpUzydbcrO) | [Classical Guitar for Study](https://open.spotify.com/album/1E5EqMSPzEnbaYbWnHIMCY) | 2:35 |
 | 41 | [Prana](https://open.spotify.com/track/0ZxsWODBFbPJW9dRVDwn0c) | [Pacecamp](https://open.spotify.com/artist/1k3YN6p4gb48dCrbLgwbht) | [Pacecamp](https://open.spotify.com/album/6Zqz556VwtsGihABRGb30i) | 3:02 |
-| 42 | [Sweet Feelings](https://open.spotify.com/track/4kdbwH3JqAzhSYhJyVllro) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Sweet Feeling](https://open.spotify.com/album/2HNIxzVUo0dUcyWMI5f7iR) | 3:37 |
+| 42 | [Sweet Feelings](https://open.spotify.com/track/6REcPKu2cOxitLoFioV63z) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Chill Out Radio](https://open.spotify.com/album/4Krz9PFhDHBtrnZ28tBvgr) | 3:37 |
 | 43 | [Somewhere in Paris](https://open.spotify.com/track/5XSYoYpF1RBnddnKXSFbQS) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Somewhere in Paris](https://open.spotify.com/album/1Jcfg22eDo6NZJIRFx06fl) | 2:32 |
 | 44 | [Forthcoming](https://open.spotify.com/track/1B6O3Sh8xOPSPxW3bkF08C) | [Bernard](https://open.spotify.com/artist/0qIdo63s9m0JI8LOQFFb0f) | [Forthcoming](https://open.spotify.com/album/2HWiG766V2iRoOLRJvh2kZ) | 3:32 |
-| 45 | [Adelita](https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy) | 1:48 |
+| 45 | [Adelita](https://open.spotify.com/track/2gxKi69et7b1bJbg8fkwmY) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Francisco Tárrega: Autumn Landscapes](https://open.spotify.com/album/6CG3EI4AeH5aS3N2DuFRO2) | 1:48 |
 | 46 | [Pavane, Op\. 50](https://open.spotify.com/track/2cvTKsArRvSBWid2gRrJxo) | [Marcel Depuis](https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa) | [Dramatique Musique Classique](https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4) | 3:28 |
 | 47 | [Gymnopedie](https://open.spotify.com/track/3TB9KL7iUVd7N5ihzghGw4) | [Richard Mollenbeck](https://open.spotify.com/artist/2zFkwocH9Ah8KpUzydbcrO) | [Classical Guitar for Study](https://open.spotify.com/album/1E5EqMSPzEnbaYbWnHIMCY) | 3:37 |
 | 48 | [Rosemary's Baby Theme](https://open.spotify.com/track/5SWqj9P1hb29x9Yzv5lDMD) | [Miranda Boumedin](https://open.spotify.com/artist/7EoXdWfRaaIxcEqlXjKmJ2) | [Movie Themes](https://open.spotify.com/album/0RsqbJJYqeuthyi7sHx96K) | 2:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2w6jCwU2AgM.md) - [plain]
 | 59 | [Le Practicante](https://open.spotify.com/track/5hZI2AZbUQsmhVPDlI2Pz8) | [Freddie Hultana](https://open.spotify.com/artist/2kbBom27w5NJydUVB2SonR) | [Le Practicante](https://open.spotify.com/album/49cUz7PXynIGPMMMFAa7gg) | 2:55 |
 | 60 | [First Movement](https://open.spotify.com/track/2aAGxtISP7yQsmPud1HZWH) | [Daniel Westley](https://open.spotify.com/artist/34D309TQ5JMm3vgtJRWRl7) | [First Movement](https://open.spotify.com/album/1OjSi20Z6vq1tog9FD8EtR) | 2:26 |
 
-Snapshot ID: `MTYwOTMzODUxMywwMDAwMDAwMGIxYWM4YjY4ZWRkNDYzOTM5YjExOTg4MDg4NjAyNzE0`
+Snapshot ID: `MTYwOTMzODUxMywwMDAwMDAwMDUwZjMxM2JlMDlmMGVmZDVmYjEwYjA4YWYwZjA4ODg3`

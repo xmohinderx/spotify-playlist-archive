@@ -1,12 +1,12 @@
 {
   "description": "Tengan a la mano las m\u00e1scaras de lucha libre y la tabla de surf.",
-  "num_followers": 58084,
+  "num_followers": 58119,
   "original_name": "Rockabilly Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3MTY2MywwMDAwMDAwMDUxYzM4ZWQ5Y2NkODNkNTEwNmI4ZGU4Nzc4MTNmYzEx",
+  "snapshot_id": "MTY2MDg3MTY2MywwMDAwMDAwMDljNWUxOGU4ZTMxY2M2NGZlODZjZDVmODEwMDk2NGI5",
   "tracks": [
     {
       "added_at": "2022-08-19 01:14:23",
@@ -39,22 +39,6 @@
       "duration_ms": 136426,
       "name": "Human Fly",
       "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Go Champs Go!",
-        "url": "https://open.spotify.com/album/56dcDUhBf8fOnveET5B61r"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 135026,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/020XZ8mDVjzbnmvjL6GKls"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -179,6 +163,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Wheeltappers and Shunters",
+        "url": "https://open.spotify.com/album/29dq0K1Y0GQDmBq40Q3nux"
+      },
+      "artists": [
+        {
+          "name": "Clinic",
+          "url": "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
+        }
+      ],
+      "duration_ms": 129186,
+      "name": "Ferryboat of the Mind",
+      "url": "https://open.spotify.com/track/7cTY2CP1WFNb6yKiXKeW0d"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Acapulco Golden",
         "url": "https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr"
       },
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Wheeltappers and Shunters",
-        "url": "https://open.spotify.com/album/29dq0K1Y0GQDmBq40Q3nux"
-      },
-      "artists": [
-        {
-          "name": "Clinic",
-          "url": "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
-        }
-      ],
-      "duration_ms": 129186,
-      "name": "Ferryboat of the Mind",
-      "url": "https://open.spotify.com/track/7cTY2CP1WFNb6yKiXKeW0d"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Wading Out / Shell Island",
         "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 203680,
       "name": "Shell Island",
       "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "60s Rock Instrumental Collection, Vol. 2",
+        "url": "https://open.spotify.com/album/4rsapx0Krcb08U1NubmC6f"
+      },
+      "artists": [
+        {
+          "name": "The Ventures",
+          "url": "https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "Wipeout",
+      "url": "https://open.spotify.com/track/7MDhNSelA2xaMH60WCypF4"
     },
     {
       "added_at": "2022-08-09 01:44:14",
@@ -263,18 +263,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "60s Rock Instrumental Collection, Vol. 2",
-        "url": "https://open.spotify.com/album/4rsapx0Krcb08U1NubmC6f"
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
       "artists": [
         {
-          "name": "The Ventures",
-          "url": "https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35"
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Fr\u00e1ncisco Familiar",
+          "url": "https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ"
         }
       ],
-      "duration_ms": 233466,
-      "name": "Wipeout",
-      "url": "https://open.spotify.com/track/7MDhNSelA2xaMH60WCypF4"
+      "duration_ms": 162013,
+      "name": "Hombre Lobo Adolescente",
+      "url": "https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -311,26 +315,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Rebel Cats Y Sus Amigos",
-        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
-      },
-      "artists": [
-        {
-          "name": "Rebel Cats",
-          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
-        },
-        {
-          "name": "Fr\u00e1ncisco Familiar",
-          "url": "https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Hombre Lobo Adolescente",
-      "url": "https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Surf Extremo",
         "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 139400,
       "name": "Fuera Ropa",
       "url": "https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Acapulco Golden",
+        "url": "https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "duration_ms": 88253,
+      "name": "Tangatutanga",
+      "url": "https://open.spotify.com/track/6jKsTrjBw58EylG0U0Pxws"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -363,22 +363,6 @@
       "duration_ms": 229213,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/0bPl0bTLYzpnkIZOtES29O"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Acapulco Golden",
-        "url": "https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr"
-      },
-      "artists": [
-        {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
-        }
-      ],
-      "duration_ms": 88253,
-      "name": "Tangatutanga",
-      "url": "https://open.spotify.com/track/6jKsTrjBw58EylG0U0Pxws"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -431,22 +415,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Outta Here",
-        "url": "https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "There But for the Grace of God Go I",
-      "url": "https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Walk Don't Run - All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/6OezD06HfOjBAQiXqTsXTJ"
       },
@@ -463,18 +431,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb"
       },
       "artists": [
         {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
         }
       ],
-      "duration_ms": 221418,
-      "name": "Wading Out",
-      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
+      "duration_ms": 187666,
+      "name": "There But for the Grace of God Go I",
+      "url": "https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -495,6 +463,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Inadaptado",
+        "url": "https://open.spotify.com/album/2gSOt3UB4wkBFd8kWYzQCg"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos Rockabilly",
+          "url": "https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3"
+        }
+      ],
+      "duration_ms": 136733,
+      "name": "Inadaptado",
+      "url": "https://open.spotify.com/track/6Vu86eSC53iqUvwCH17y3E"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "The Lost Album",
         "url": "https://open.spotify.com/album/7zaDIege7cTVCOkGyto9Bw"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 173106,
       "name": "Psycho for Your Love",
       "url": "https://open.spotify.com/track/45XtqGyKhOkkYIeOND0KF7"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+      },
+      "artists": [
+        {
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Wading Out",
+      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -547,6 +547,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Perfume de Violetas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/03663WodvoLxswAm8iHB4r"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "duration_ms": 135440,
+      "name": "Olvidemos el Romance .. Cojamos Ya!",
+      "url": "https://open.spotify.com/track/2xGPn1g68eJfGY4c3qEwlZ"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Black is Beltza (Soinu-banda)",
         "url": "https://open.spotify.com/album/55mpYFZNTBOYBy7fiIW3PE"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 257853,
       "name": "Bocanegra",
       "url": "https://open.spotify.com/track/57e8weoxM68ESpTZrv1KPX"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Perfume de Violetas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/03663WodvoLxswAm8iHB4r"
-      },
-      "artists": [
-        {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
-        }
-      ],
-      "duration_ms": 135440,
-      "name": "Olvidemos el Romance .. Cojamos Ya!",
-      "url": "https://open.spotify.com/track/2xGPn1g68eJfGY4c3qEwlZ"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Daikaiju",
-        "url": "https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG"
-      },
-      "artists": [
-        {
-          "name": "Daikaiju",
-          "url": "https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC"
-        }
-      ],
-      "duration_ms": 506360,
-      "name": "Farewell to Monster Island",
-      "url": "https://open.spotify.com/track/4L84ElkLcocqS6iuQjbL9m"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Death Calavera 2.2",
         "url": "https://open.spotify.com/album/3LG8wwHzcv0WgsxVeVaigW"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 172573,
       "name": "Vaquero",
       "url": "https://open.spotify.com/track/7jJEMBy2f4bLHJZ8yG2Pxg"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Daikaiju",
+        "url": "https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG"
+      },
+      "artists": [
+        {
+          "name": "Daikaiju",
+          "url": "https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC"
+        }
+      ],
+      "duration_ms": 506360,
+      "name": "Farewell to Monster Island",
+      "url": "https://open.spotify.com/track/4L84ElkLcocqS6iuQjbL9m"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -667,18 +667,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Inadaptado",
-        "url": "https://open.spotify.com/album/2gSOt3UB4wkBFd8kWYzQCg"
+        "name": "Swingin' Singles",
+        "url": "https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3"
       },
       "artists": [
         {
-          "name": "Los Gatos Rockabilly",
-          "url": "https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3"
+          "name": "The Bomboras",
+          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
         }
       ],
-      "duration_ms": 136733,
-      "name": "Inadaptado",
-      "url": "https://open.spotify.com/track/6Vu86eSC53iqUvwCH17y3E"
+      "duration_ms": 115266,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Swingin' Singles",
-        "url": "https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3"
-      },
-      "artists": [
-        {
-          "name": "The Bomboras",
-          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
-        }
-      ],
-      "duration_ms": 115266,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Guadalupe Plata 2015",
         "url": "https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy"
       },
@@ -731,22 +715,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Surf Riders from the Swamp Lagoon",
-        "url": "https://open.spotify.com/album/1PvhsuI9Rp7UA0Y4aFaeGp"
-      },
-      "artists": [
-        {
-          "name": "Messer Chups",
-          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Popcorno Revenge",
-      "url": "https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "I Wanna Believe",
         "url": "https://open.spotify.com/album/6EnAmJs0JJSoXNchktGik8"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 238400,
       "name": "Piangi Con Me",
       "url": "https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Surf Riders from the Swamp Lagoon",
+        "url": "https://open.spotify.com/album/1PvhsuI9Rp7UA0Y4aFaeGp"
+      },
+      "artists": [
+        {
+          "name": "Messer Chups",
+          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Popcorno Revenge",
+      "url": "https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -795,22 +779,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Mondo Zombie Boogaloo",
-        "url": "https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6"
-      },
-      "artists": [
-        {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "It's Monster Surfing Time",
-      "url": "https://open.spotify.com/track/70FzFTP41ewLArLpyO8YKZ"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Rebel Cats Y Sus Amigos",
         "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
@@ -839,6 +807,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Mondo Zombie Boogaloo",
+        "url": "https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "It's Monster Surfing Time",
+      "url": "https://open.spotify.com/track/70FzFTP41ewLArLpyO8YKZ"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Daikaiju",
         "url": "https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG"
       },
@@ -851,26 +835,6 @@
       "duration_ms": 209746,
       "name": "The Trouble With Those Mothra Girls",
       "url": "https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "The Neanderthals In Space",
-        "url": "https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei"
-      },
-      "artists": [
-        {
-          "name": "The Neanderthals",
-          "url": "https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8"
-        },
-        {
-          "name": "Eddie Angel (Los Straitjackets)",
-          "url": "https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "Space Oddity",
-      "url": "https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -907,22 +871,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Sonido Bestia",
-        "url": "https://open.spotify.com/album/3X31PsiKoR8dBnc9wrQCIc"
-      },
-      "artists": [
-        {
-          "name": "Fenomeno Fuzz",
-          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "La Viuda Negra",
-      "url": "https://open.spotify.com/track/0vlcfidir85v3y6ths4HWZ"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Canten en Espanol",
         "url": "https://open.spotify.com/album/2HpUINC7m9OS5B5hpPi5OO"
       },
@@ -935,22 +883,6 @@
       "duration_ms": 155840,
       "name": "Demolicion",
       "url": "https://open.spotify.com/track/4pRfLTRysjmc0gDRg9pRjr"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Rock en Espanol, Vol. 1",
-        "url": "https://open.spotify.com/album/1i5umb6OsQrLPqWA84vKql"
-      },
-      "artists": [
-        {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Hey Lupe",
-      "url": "https://open.spotify.com/track/1U0KCm09KsWCZjuEqQhctq"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -971,6 +903,42 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "The Neanderthals In Space",
+        "url": "https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei"
+      },
+      "artists": [
+        {
+          "name": "The Neanderthals",
+          "url": "https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8"
+        },
+        {
+          "name": "Eddie Angel (Los Straitjackets)",
+          "url": "https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Space Oddity",
+      "url": "https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Sonido Bestia",
+        "url": "https://open.spotify.com/album/3X31PsiKoR8dBnc9wrQCIc"
+      },
+      "artists": [
+        {
+          "name": "Fenomeno Fuzz",
+          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "La Viuda Negra",
+      "url": "https://open.spotify.com/track/0vlcfidir85v3y6ths4HWZ"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Taste the Blood of Guitaracula",
         "url": "https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB"
       },
@@ -983,6 +951,22 @@
       "duration_ms": 165720,
       "name": "Surf De L'amour",
       "url": "https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Rock en Espanol, Vol. 1",
+        "url": "https://open.spotify.com/album/1i5umb6OsQrLPqWA84vKql"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Hey Lupe",
+      "url": "https://open.spotify.com/track/1U0KCm09KsWCZjuEqQhctq"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -1115,22 +1099,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Surf Quake!",
-        "url": "https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz"
-      },
-      "artists": [
-        {
-          "name": "The Volcanos",
-          "url": "https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i"
-        }
-      ],
-      "duration_ms": 127760,
-      "name": "The Last Wave",
-      "url": "https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Guateque Estelar",
         "url": "https://open.spotify.com/album/5fLy3qmhRpmV4DPtqw4DGj"
       },
@@ -1143,38 +1111,6 @@
       "duration_ms": 311960,
       "name": "Chicas Kamikaze",
       "url": "https://open.spotify.com/track/72kbuWvm36guCtSreHM203"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Cosmopolis 1988-2008",
-        "url": "https://open.spotify.com/album/6bqafutEdknOXRTPcdGuLC"
-      },
-      "artists": [
-        {
-          "name": "Laika & The Cosmonauts",
-          "url": "https://open.spotify.com/artist/6UmSNX1sClVl8rYnig3t9i"
-        }
-      ],
-      "duration_ms": 119760,
-      "name": "Surfs You Right!",
-      "url": "https://open.spotify.com/track/3RB3YqLO7eV8VDogl73bLg"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "The Octopus Incident? (This Was the Day That Engulfed the Space in Terror)",
-        "url": "https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0"
-      },
-      "artists": [
-        {
-          "name": "Hawaii Samurai",
-          "url": "https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "Pintor",
-      "url": "https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -1195,34 +1131,34 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Naci\u00f3n Apache",
-        "url": "https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp"
+        "name": "Surf Quake!",
+        "url": "https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz"
       },
       "artists": [
         {
-          "name": "Twin Tones",
-          "url": "https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV"
+          "name": "The Volcanos",
+          "url": "https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i"
         }
       ],
-      "duration_ms": 125360,
-      "name": "Bandidos",
-      "url": "https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr"
+      "duration_ms": 127760,
+      "name": "The Last Wave",
+      "url": "https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q"
     },
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+        "name": "The Octopus Incident? (This Was the Day That Engulfed the Space in Terror)",
+        "url": "https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0"
       },
       "artists": [
         {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+          "name": "Hawaii Samurai",
+          "url": "https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK"
         }
       ],
-      "duration_ms": 126626,
-      "name": "Surfin Beer",
-      "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
+      "duration_ms": 158386,
+      "name": "Pintor",
+      "url": "https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -1247,6 +1183,38 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Surf Extremo",
+        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 126626,
+      "name": "Surfin Beer",
+      "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Naci\u00f3n Apache",
+        "url": "https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp"
+      },
+      "artists": [
+        {
+          "name": "Twin Tones",
+          "url": "https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV"
+        }
+      ],
+      "duration_ms": 125360,
+      "name": "Bandidos",
+      "url": "https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Martinis & Bikinis",
         "url": "https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz"
       },
@@ -1259,6 +1227,38 @@
       "duration_ms": 141825,
       "name": "El Bikini de la Chica Popof",
       "url": "https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Canciones Basura",
+        "url": "https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO"
+      },
+      "artists": [
+        {
+          "name": "Yucat\u00e1n A Go-Go",
+          "url": "https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh"
+        }
+      ],
+      "duration_ms": 171080,
+      "name": "Abuela Zombie",
+      "url": "https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Defcon 5...4...3...2...1",
+        "url": "https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe"
+      },
+      "artists": [
+        {
+          "name": "Man Or Astro-Man?",
+          "url": "https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY"
+        }
+      ],
+      "duration_ms": 193796,
+      "name": "Defcon 5",
+      "url": "https://open.spotify.com/track/5Esuk5nhe9nBgTDLXZWh0V"
     }
   ],
   "unique_name": "Rockabilly Surf",

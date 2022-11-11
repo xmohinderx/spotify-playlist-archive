@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-212 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/7kUHzfQSFAaDbXKKviMUZk)
+216 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/7kUHzfQSFAaDbXKKviMUZk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Hey Brother](https://open.spotify.com/track/4M11hawY5nZYgSRsp0CHGt) | [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [Hey Brother](https://open.spotify.com/album/5qx09udi8zpTid44NMxxer) | 2:44 | 2022-08-26 |  |
 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2022-08-26 |  |
 | [Hold On](https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Hold On](https://open.spotify.com/album/4UycA6we6inG3usBonCkN5) | 3:37 | 2022-08-26 |  |
-| [Home / Dirty Paws](https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 2:53 | 2022-08-26 |  |
+| [Home / Dirty Paws](https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 2:53 | 2022-08-26 | 2022-11-11 |
+| [Home / Dirty Paws](https://open.spotify.com/track/7jeMhsrYnRC4369jwAzWxP) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Home / Dirty Paws](https://open.spotify.com/album/5esnPiLknsgKX8lxt2qjsa) | 2:53 | 2022-10-28 |  |
 | [How To Love](https://open.spotify.com/track/2RJaWX69GrNwbARQrQYAL2) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [How To Love](https://open.spotify.com/album/0GmJ7gDYpeaGRneIUWt7jC) | 3:32 | 2022-08-26 |  |
 | [How to Save a Life](https://open.spotify.com/track/6k3wI7hjfJgerqdp7pxnAb) | [Shelby Park](https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet) | [How to Save a Life](https://open.spotify.com/album/0gHv5J9HmvZAcBUwavoQbd) | 4:25 | 2022-08-26 |  |
 | [Hurt Somebody](https://open.spotify.com/track/6lkqQkiH2XsllW3EmsddH3) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Summer Haze](https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj) | [Hurt Somebody](https://open.spotify.com/album/0bMfWsJ0vqEvTblnLblWpB) | 3:27 | 2022-08-26 |  |
@@ -119,7 +120,8 @@
 | [Issues \- Acoustic](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues \(Acoustic\)](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 | 2022-08-26 |  |
 | [Kiss the Girl](https://open.spotify.com/track/3ES0Q2d2dvNyPNGAtJVUqe) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8) | 2:10 | 2022-08-26 | 2022-10-01 |
 | [Kiss the Girl](https://open.spotify.com/track/4wJcS2F4VoJM2DR8en4EaW) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/1UzG66W3YFBdLnDG8Bh7hl) | 2:10 | 2022-09-29 |  |
-| [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 | 2022-08-26 |  |
+| [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 | 2022-08-26 | 2022-11-11 |
+| [Landslide](https://open.spotify.com/track/4LukM96ZHxPL8KPhdEARzS) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Landslide](https://open.spotify.com/album/5dUOVCaTo5aaXt1S7zRnzt) | 3:38 | 2022-10-28 |  |
 | [Let Her Go](https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Let Her Go](https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc) | 2:55 | 2022-08-26 |  |
 | [Let Me Down Slowly](https://open.spotify.com/track/0U8jEPi2k3UZqHK0jvzEe0) | [Powell Sullivan](https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS) | [Let Me Down Slowly](https://open.spotify.com/album/13m8lRDEDFZt7uoCqeCbZq) | 2:40 | 2022-08-26 |  |
 | [Let Me Go](https://open.spotify.com/track/3lPtqlfDC01vQg8ceLfYRi) | [Ben Botfield](https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy) | [Let Me Go](https://open.spotify.com/album/70oL3Ba6SMappFHoaje6ni) | 2:30 | 2022-08-26 |  |
@@ -167,11 +169,13 @@
 | [Right Here Right Now](https://open.spotify.com/track/0d4V5zGWtZzsuWdr0cDPty) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Right Here Right Now](https://open.spotify.com/album/6KGK5IwZeEqf50uS3SOkXS) | 3:29 | 2022-08-26 |  |
 | [Ruin My Life](https://open.spotify.com/track/2bl1hEoJTAAgbbw9u1U7wY) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Ruin My Life](https://open.spotify.com/album/4aid7u08MEo6TJTkShJFEN) | 3:28 | 2022-08-26 |  |
 | [Salt And The Sea](https://open.spotify.com/track/1JWtd8xh4Q5dyvnpBKh8L0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Salt And The Sea](https://open.spotify.com/album/6GVE4CFlrukN6Od0AnWL0c) | 4:22 | 2022-08-26 |  |
-| [Save Me from Myself](https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil) | 3:17 | 2022-08-26 |  |
+| [Save Me from Myself](https://open.spotify.com/track/0nGDvPqbLFdAK6YSnup81H) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Adaptation, Vol\. 2](https://open.spotify.com/album/1GcwB9rGjefLQTB99KuCyL) | 3:17 | 2022-10-28 |  |
+| [Save Me from Myself](https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil) | 3:17 | 2022-08-26 | 2022-11-11 |
 | [Say](https://open.spotify.com/track/2kowzxt2lnJhw9yQqOOG2n) | [The Albertson Duo](https://open.spotify.com/artist/0jbFImQ3Ja4NWpzob434nE) | [Say](https://open.spotify.com/album/5gOVhTYiwAK8EbmgaPWVfB) | 3:22 | 2022-08-26 |  |
 | [Say Yes](https://open.spotify.com/track/731dSbCulpvDSrbqqCX8Az) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Say Yes](https://open.spotify.com/album/5l4P7N8kapeqHFOysjbj3H) | 2:21 | 2022-08-26 |  |
 | [Say you won't let go](https://open.spotify.com/track/3jUhEX67qxI3SNbfk6kMSH) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Say you won't let go](https://open.spotify.com/album/0U4G71eZFGgeMSlOZ3qDYF) | 3:19 | 2022-10-28 |  |
-| [She Doesn't Mind](https://open.spotify.com/track/1bmt9LlrjBT0JH1nHpoiaI) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Covers By OSIS \(Pt\. 1\)](https://open.spotify.com/album/5TDrj1NmZ1JGtV837nf2iK) | 3:29 | 2022-08-26 |  |
+| [She Doesn't Mind](https://open.spotify.com/track/1bmt9LlrjBT0JH1nHpoiaI) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Covers By OSIS \(Pt\. 1\)](https://open.spotify.com/album/5TDrj1NmZ1JGtV837nf2iK) | 3:29 | 2022-08-26 | 2022-11-11 |
+| [She Doesn't Mind](https://open.spotify.com/track/2Zis5AikaFO9h8rM5e4Z1v) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [She Doesn't Mind](https://open.spotify.com/album/0evXINNrzDRfe18Y9qXR8D) | 3:29 | 2022-10-28 |  |
 | [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 | 2022-10-28 |  |
 | [Silence](https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D) | [Reggii](https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP) | [Silence](https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk) | 2:54 | 2022-08-26 |  |
 | [Since U Been Gone \- Acoustic Version](https://open.spotify.com/track/4iObEYRE4FLm0D90gmZFef) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Since U Been Gone](https://open.spotify.com/album/1aF6m76ZjCEH8tN6W9W9Uk) | 3:41 | 2022-08-26 |  |

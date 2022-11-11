@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTfdxNcD5sS.md) - [plain]
 
 > We found dancing\. Listen to a selection from <a href="https://www.thewarehouseproject.com/ticketlist">The Warehouse Project</a> to celebrate their return to Manchester this month!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,284 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,333 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTfdxNcD5sS.md) - [plain]
 | 7 | [Lady Science \- NYC Sunrise](https://open.spotify.com/track/6cnfseLPZpaPq53XYw6NIv) | [Soul Capsule](https://open.spotify.com/artist/7cXMDkf45UtgRlxemP1I4o) | [Seth Troxler \- The Lab 03](https://open.spotify.com/album/0mKtPZ9E96U6gQX15cfHto) | 9:22 |
 | 8 | [Bad Space Habits](https://open.spotify.com/track/4oQnUyUJD1nU8UboxF2oAC) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Grab the Wheel](https://open.spotify.com/album/5SfgVot2mDAfpHcusl2p72) | 6:53 |
 | 9 | [These Things Will Come To Be](https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:56 |
-| 10 | [Hungry For The Power \- Jamie Jones Ridge Street Remix](https://open.spotify.com/track/0fhsLuoWjfqGIg9ucb3Jab) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Remix Album](https://open.spotify.com/album/2M8DuRnkOsYlM9MAa2XLGr) | 6:46 |
+| 10 | [Hungry For The Power \- Jamie Jones Ridge Street Remix](https://open.spotify.com/track/0pD9kpqznUhnLSLnYcGPGo) | [AZARI](https://open.spotify.com/artist/4eQ3rdpKpUppzKWHnnly5S), [III](https://open.spotify.com/artist/1PIdgDl8Y7v2CilSXqSqs2), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Hungry For The Power](https://open.spotify.com/album/16vwGGPzqZ4Ldc0Fi3N6go) | 6:46 |
 | 11 | [Around \- Solomun Vox](https://open.spotify.com/track/5qA35ZZWFOqynheP5x8rty) | [Noir](https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9), [Hayze](https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Around](https://open.spotify.com/album/1TaZYikPW0Cjp1f6O685fN) | 6:58 |
 | 12 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 |
 | 13 | [Can You See Me?](https://open.spotify.com/track/1lJxzeAVTZ7Hs7B5jFluMl) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Resonant Body](https://open.spotify.com/album/4tCzrHhdqQ8CiM9e3tZR0F) | 8:22 |
 | 14 | [Our World \(With a Boy On Its Shoulders\)](https://open.spotify.com/track/4K9edHSD48LUXe7g3nTuGW) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Our World \(With a Boy On Its Shoulders\)](https://open.spotify.com/album/2NhzzLcP5AzTqiniG9Qtqe) | 8:31 |
-| 15 | [When A Fire Starts To Burn](https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:44 |
+| 15 | [When A Fire Starts To Burn](https://open.spotify.com/track/4WQ3Eqgy6ouMRRrgsFmysW) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Let's Dance](https://open.spotify.com/album/4silLPOhYilJ0RuXW5Xy1i) | 4:43 |
 | 16 | [Only Human](https://open.spotify.com/track/4waVSC9eSkrt6RxJK3DhwW) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Only Human](https://open.spotify.com/album/4dVxavcdnxTHyrM4U5U0kD) | 7:56 |
 | 17 | [Closing Shot](https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD) | 8:23 |
 | 18 | [Roy Keane](https://open.spotify.com/track/4YU7kjwU5ebyKS9QzkcAFK) | [Brame & Hamo](https://open.spotify.com/artist/0GH3NHvWddE49Egn2D5aRg) | [Club Orange EP](https://open.spotify.com/album/7fAGnHQ6poScvCt2gxcxHK) | 6:43 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTfdxNcD5sS.md) - [plain]
 | 43 | [Eyes Of My Mind](https://open.spotify.com/track/6eLNnJwSlwEStbIAZVAYzd) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Eyes Of My Mind](https://open.spotify.com/album/0WaYnVmCtKMrDTWffsSKb2) | 9:12 |
 | 44 | [78 To Stanley Bay](https://open.spotify.com/track/74LRqSi9vqy4vnxCLInNAw) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [816 To Nunhead](https://open.spotify.com/album/1OKJNHif5s5NzcScX4ac44) | 5:07 |
 | 45 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
-| 46 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
+| 46 | [Can't Do Without You](https://open.spotify.com/track/1wFpgoUnIXCUA9CJiwiW4p) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love \(Expanded Edition\)](https://open.spotify.com/album/1NARQBmcxcYtB30XwFa8Yz) | 3:56 |
 | 47 | [It Makes You Forget \(Itgehane\) \- Edit](https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 3:56 |
 | 48 | [Made To Stray](https://open.spotify.com/track/7M0GDtHcuJrTMWtnSs48I3) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Cold Spring Fault Less Youth](https://open.spotify.com/album/6ETAoJJ5NhxsGyD53cHApT) | 4:46 |
 | 49 | [The Heat](https://open.spotify.com/track/2ru82sMlycieEodGcKyszh) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:16 |
 | 50 | [Weak Become Heroes](https://open.spotify.com/track/7yiRZW9cHqDF7Fn5Pgi6MY) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Original Pirate Material](https://open.spotify.com/album/6HAJ0LRCEqJeaCDm2lSsq8) | 5:32 |
 
-Snapshot ID: `MTY1NTE5OTYwOSwwMDAwMDAwMDA1NTQzYTBkMGJkYzJhMGQ5Y2I2MDI4NDk1NzVkNzUx`
+Snapshot ID: `MTY1NTE5OTYwOSwwMDAwMDAwMGU5Y2I5OGI3ZDRjZGM3ZTUyY2IyOTJmZDYxMDZkOWUx`

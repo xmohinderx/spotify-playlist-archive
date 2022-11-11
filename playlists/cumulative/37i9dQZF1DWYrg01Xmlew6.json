@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il meglio da Napoli e dalla scena campana. Cover: Peppe Soks, MV Killa, Yung Snapp",
+  "description": "Il meglio da Napoli e dalla scena campana. Cover: Geolier, Lazza",
   "name": "Int 'o Rione",
   "published_playlist_ids": [
     "24YJoDhwO3164C86soW14C"
@@ -23,6 +23,24 @@
       "duration_ms": 120121,
       "name": "'O NOMME",
       "url": "https://open.spotify.com/track/7vTtjwKa63wPERKQ3B7mlE"
+    },
+    {
+      "album": {
+        "name": "A' vita senz' e te (Me fa paura)",
+        "url": "https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142798,
+      "name": "A' vita senz' e te (Me fa paura)",
+      "url": "https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I"
     },
     {
       "album": {
@@ -377,6 +395,24 @@
       "duration_ms": 201440,
       "name": "Chello Che Vu\u00f3 (feat. Geolier)",
       "url": "https://open.spotify.com/track/6sDPfKayq1ESoRhJpRHG77"
+    },
+    {
+      "album": {
+        "name": "CHI S MOV",
+        "url": "https://open.spotify.com/album/5bfoRPpcH9ageXHInpChQr"
+      },
+      "artists": [
+        {
+          "name": "Hosawa",
+          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "CHI S MOV",
+      "url": "https://open.spotify.com/track/74NGmB3Wos02vi3JuuH3am"
     },
     {
       "album": {
@@ -741,7 +777,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204735,
       "name": "Emirates (feat. Rocco Hunt)",
       "url": "https://open.spotify.com/track/0qDJ4qOa1xisB7oMmJhD2n"
@@ -2239,10 +2275,28 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 148875,
       "name": "Te penso ancora",
       "url": "https://open.spotify.com/track/34ki4KNkR0lZmCDOASSLpx"
+    },
+    {
+      "album": {
+        "name": "Rivoluzione",
+        "url": "https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148875,
+      "name": "Te penso ancora",
+      "url": "https://open.spotify.com/track/3ULxZjqSg06WTPjhurRA1G"
     },
     {
       "album": {
@@ -2405,7 +2459,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199396,
       "name": "TU",
       "url": "https://open.spotify.com/track/3UqlUOFqUvP79SS5tj2LSg"

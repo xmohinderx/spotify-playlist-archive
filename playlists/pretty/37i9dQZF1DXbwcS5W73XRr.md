@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,318 likes - 48 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,354 likes - 48 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 | 7 | [Mystery of Love \- Mixed](https://open.spotify.com/track/40JBwyos6icQnW7Gyv9OEn) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [DJ\-Kicks \(Motor City Drum Ensemble\) \[DJ Mix\]](https://open.spotify.com/album/2Z0yypS9AyYAbuxzeOAMhx) | 2:32 |
 | 8 | [Let The Music Use You](https://open.spotify.com/track/1625ER4xx3r4P8kBcOCVPY) | [The Nightwriters](https://open.spotify.com/artist/06SAdf9QB0xFf5BicN99SV) | [Frankie Knuckles Presents: His Greatest Hits from Trax Records](https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT) | 7:57 |
 | 9 | [The House Music Anthem / Move Your Body](https://open.spotify.com/track/4ECiSO5OmUy41ifKknjsf4) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Trax Records: The 20th Anniversary Collection Mixed by Maurice Joshua & Paul Johnson](https://open.spotify.com/album/36k9wYTYtNHdZOnu65jtj6) | 3:26 |
-| 10 | [151 \- Original Mix](https://open.spotify.com/track/4V5Hap0FGupSWoz67VWTwH) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [151](https://open.spotify.com/album/62ZqIUicNX18Lg5vAb4vLQ) | 6:00 |
+| 10 | [151 \- Original Mix](https://open.spotify.com/track/163Ni0PRgYyDeOxdDfZlNM) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [Top Secret File No\. 001](https://open.spotify.com/album/3j9qI1ifIWQMDDaIbPvQcE) | 6:00 |
 | 11 | [Nervous Acid](https://open.spotify.com/track/60nOSJvQcCm11cj6bWX561) | [Bobby Konders](https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj), [The House Rhythms](https://open.spotify.com/artist/35WBzsxs7xOPMurF6M32GN) | [A Lost Era in NYC 1987 \- 1992](https://open.spotify.com/album/0yyM3vkmFtkOkLKzz44qnC) | 5:00 |
-| 12 | [I'll House You](https://open.spotify.com/track/51GEHfWZuwIg5XHY50XSyS) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [Straight Out The Jungle](https://open.spotify.com/album/4h2veBvPhM1RazJi8J1Siy) | 4:57 |
+| 12 | [I'll House You](https://open.spotify.com/track/67yiLipIhi6dBMdrt5KfPv) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [I'll House You '98](https://open.spotify.com/album/0MeAW8iEobS9PZpcQZQWJF) | 4:59 |
 | 13 | [Jack Your Body \- Original Club Mix](https://open.spotify.com/track/0qD3sHqLrmKDcRX3MKvsFX) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Best Of DJ International \- Part One](https://open.spotify.com/album/5Pu8tU3qumOLfYcS50TBmn) | 6:53 |
 | 14 | [Carino](https://open.spotify.com/track/6yeq9TXrOcczL1ryPHkbFF) | [T Coy](https://open.spotify.com/artist/5GhM94hOJlFALbn1Ta4Py6) | [Deconstruction Reconstructed 001](https://open.spotify.com/album/41qB3TlEKssRZE9tb56ZAF) | 5:13 |
 | 15 | [Stakker Humanoid \- 12" Original](https://open.spotify.com/track/5Oe5EZOuQvbxT05KQzb3RS) | [Humanoid](https://open.spotify.com/artist/4wC3UWodo9z17rNtV1Lka1) | [Your Body Robotic \(Part 2\)](https://open.spotify.com/album/0kdd4Tj2EI5HCAJu6x43HZ) | 5:00 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 | 29 | [As Acid Turns \- Remastered](https://open.spotify.com/track/6ifUZhFHTdlbfMbnZHMr4R) | [Liddell Townsell](https://open.spotify.com/artist/0xOcbgGtO2dW15jRS1sTWo) | [Traxbox \(Trax Records Remastered\)](https://open.spotify.com/album/0W9YJK5QTGJdGLwybMJh3w) | 5:12 |
 | 30 | [Distant Planet](https://open.spotify.com/track/7tXx01zHIkh0MKb4EZcquy) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Four Most Cuts Presents \- Mr\. Fingers](https://open.spotify.com/album/0cWsPRLyYxRpm3m8Xlle4J) | 5:20 |
 | 31 | [Jiggerwatts](https://open.spotify.com/track/2BOlLDk3nkfUDwujfr5EQe) | [Phortune](https://open.spotify.com/artist/3SKiqrQqIsYjfR8KpY5WW3) | [Phuture and Other Classics from DJ Pierre](https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy) | 6:09 |
-| 32 | [Circus Bells](https://open.spotify.com/track/3267ZeKC3HBe8igcCJqPL4) | [Robert Armani](https://open.spotify.com/artist/3sHkYrW1ZXf3juwNvnxQO6) | [Circus Bells](https://open.spotify.com/album/3Df96kVOxYlgjBksvqAh1t) | 3:51 |
-| 33 | [Acid Tracks](https://open.spotify.com/track/2aLXJJ2zOsBJlGTxiG0yMi) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/6g7DeZAKsyubcQpyWw7WZZ) | 12:17 |
+| 32 | [Circus Bells](https://open.spotify.com/track/5blCevjkWeCVQji67T4Gy7) | [Robert Armani](https://open.spotify.com/artist/3sHkYrW1ZXf3juwNvnxQO6) | [Circus Bells \(Classic Mixes\)](https://open.spotify.com/album/3uUqv4di3d2xf0Nmx5b9Y5) | 3:51 |
+| 33 | [Acid Tracks](https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro) | 12:19 |
 | 34 | [Can You Feel The Bass?](https://open.spotify.com/track/0jeZ9aBy0mII4l0ENKU6lI) | [Phortune](https://open.spotify.com/artist/3SKiqrQqIsYjfR8KpY5WW3) | [Phuture and Other Classics from DJ Pierre](https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy) | 5:12 |
 | 35 | [Feel the Mood \(Remastered\) \[with Hot Hands Hula\]](https://open.spotify.com/track/42BJlSs5Uj10MHzTaFarx4) | [Maurice Joshua](https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd), [Hot Hands Hula](https://open.spotify.com/artist/43hYD3sNCTNkLowMSBZidQ) | [Traxbox \(Trax Records Remastered\)](https://open.spotify.com/album/0W9YJK5QTGJdGLwybMJh3w) | 4:10 |
 | 36 | [That Shit's Wild](https://open.spotify.com/track/6MOG2ZNDvNlDgyhFUTLkFL) | [Dr\. Derelict](https://open.spotify.com/artist/2Za6MJDy9CzxcP1NAQiJH9) | [Acid Trax, Vol\. 2](https://open.spotify.com/album/2aFMnyMBJvJLBzzvQpGnte) | 4:22 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 | 39 | [Bango Acid](https://open.spotify.com/track/6xInVVhRj1jTWtWUs0UW2z) | [Mike](https://open.spotify.com/artist/440CnoykSB1CSrJcHRczqV) | [Trax Records: Acid Classics](https://open.spotify.com/album/6s3RtH9fxAKATbB3yMKxX6) | 4:21 |
 | 40 | [Art Of Acid](https://open.spotify.com/track/7hHy4kIiwqHSxaHJAArRG4) | [Mr\. Lee](https://open.spotify.com/artist/7GXl7JNlpliaLZhSVRLQKu) | [The Acid Fantaslee](https://open.spotify.com/album/6yDvk7cGZ15ZR6BXHjHFuU) | 8:34 |
 | 41 | [R U Hot Enough](https://open.spotify.com/track/5utwAiCblRWtJ0iFgf6enr) | [Virgo](https://open.spotify.com/artist/2ByXYkrbs6o7fQGrn17gZt) | [The House That Trax Built II](https://open.spotify.com/album/2B71OJE2Y3cqyFWxPwFSLP) | 7:40 |
-| 42 | [I Want You](https://open.spotify.com/track/1sF4BQ6SNpyJf3qI18Yk34) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [The Godfathers of House \#1](https://open.spotify.com/album/4fhV8wDzdR1EfkhiCotons) | 7:46 |
+| 42 | [I Want You](https://open.spotify.com/track/5DNGoWW2SahLU0F5mac7MF) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Greatest Hits](https://open.spotify.com/album/34JhQsl3BlrRWe9OHGyfUs) | 7:46 |
 | 43 | [Bird in a Gilded Cage \- Radio Mix](https://open.spotify.com/track/7tB9afUddCKQpTwU5Zg56x) | [Jungle Wonz](https://open.spotify.com/artist/4ny8n9yM1Eko9j7oe8ZFXS) | [Bird in a Gilded Cage](https://open.spotify.com/album/2GxanZ4kE6gHZaNf6VefqF) | 4:02 |
 | 44 | [That Shits Wild](https://open.spotify.com/track/4R5XpoWJvtUkS33E1lFiSJ) | [Der Wasaw](https://open.spotify.com/artist/0yEuNoHAneHqj7EugxxthL) | [Mad On Acid Vol\. 1 CD2](https://open.spotify.com/album/7u1t3m5nMwr27S5D7LUwsy) | 4:21 |
 | 45 | [Dream Girl \- Wet Dream](https://open.spotify.com/track/5HvPR4mRFKQwVpu7GRR9wz) | [Pierre's Phantasy Club](https://open.spotify.com/artist/6zJNLG5DvKim9OzkEGy1TM) | [Dream Girl](https://open.spotify.com/album/2i9YUbpKYs3wNZjk2o9fMa) | 8:53 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 | 47 | [Pump Up the Acid \- Hardrock Striker K.O\. 12'S Mix](https://open.spotify.com/track/5Nk6yokDV2LbWOoZdv1Oks) | [Michael Oliver](https://open.spotify.com/artist/7r11QZJAzMlhmSvRae4R3P) | [Jackin' the Acid](https://open.spotify.com/album/73G2j2LnFxvszt5FeNs9kb) | 6:19 |
 | 48 | [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af), [Angela McCluskey](https://open.spotify.com/artist/0cJMitw1iwiFVc1MwfRxWX), [Mark Tinley](https://open.spotify.com/artist/0ytLhQB1D6Syrgetn8QHco), [Pam Hogg](https://open.spotify.com/artist/7uyKQ6IUwjoSSiwvmFi0YG) | [The Garden of Eden](https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX) | 4:01 |
 
-Snapshot ID: `MTUyOTU3NjkwNSwwMDAwMDAwMGI0MGRmYzJhNDMwZjE1OTU1NjVjYWVlNzk4ZmQ2Y2Zj`
+Snapshot ID: `MTUyOTU3NjkwNSwwMDAwMDAwMDdjZjMzOWIyOTcwOGRlZWRlNTNkOTNkZDExZTBkMGRj`

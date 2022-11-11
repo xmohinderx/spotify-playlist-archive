@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 218733,
       "name": "El Chico Aquel",
       "url": "https://open.spotify.com/track/3GwJnpt01qkamcjLnLX8Bp"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209386,
       "name": "Inv\u00e9ntame",
       "url": "https://open.spotify.com/track/1nwdRwqxMlKl3c7Qh8KsrG"
@@ -1345,7 +1345,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 223666,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2"
@@ -1915,10 +1915,32 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 191360,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/3xLurRYVT2h298sWgCQSGZ"
+    },
+    {
+      "album": {
+        "name": "Desede El Cielo, Por Siempre Vivos",
+        "url": "https://open.spotify.com/album/3XpSjRTzVndkUuU8KtHZv6"
+      },
+      "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
+        {
+          "name": "Jos\u00e9 Manuel Zamacona",
+          "url": "https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193240,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/3WD4AM2QyxPjhw333SEinR"
     },
     {
       "album": {
@@ -2273,7 +2295,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 299626,
       "name": "Ser\u00e1 Mejor Que Te Vayas",
       "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
@@ -2403,7 +2425,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 295200,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/3crvH7jcVEdeZdE594WDgq"
@@ -2464,6 +2486,24 @@
     },
     {
       "album": {
+        "name": "La Mejor Coleccion",
+        "url": "https://open.spotify.com/album/0buwhHKqDg7XEUK3DCeoKq"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267240,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/5pZdSlWadBNnc62m6Tc2sB"
+    },
+    {
+      "album": {
         "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
         "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
       },
@@ -2493,7 +2533,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 263800,
       "name": "Si Te Pudiera Mentir - Live Version",
       "url": "https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ"
@@ -2637,7 +2677,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215626,
       "name": "Sin \u00c9l",
       "url": "https://open.spotify.com/track/4vwNVm3Jrdj7G9w5XJX4x3"
@@ -2905,6 +2945,24 @@
       "duration_ms": 227693,
       "name": "Vete Con Ella",
       "url": "https://open.spotify.com/track/7KdE3FPSxki2wwXDfq6ktE"
+    },
+    {
+      "album": {
+        "name": "La Mejor Interprete de Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/2KNFsV9QcoYYSZKIfCMTK7"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234813,
+      "name": "Vete Con Ella",
+      "url": "https://open.spotify.com/track/0qyvsjsNuMWQVAm2JK8n2W"
     },
     {
       "album": {
@@ -3233,7 +3291,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 228920,
       "name": "\u00bfA D\u00f3nde Vamos A Parar?",
       "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"

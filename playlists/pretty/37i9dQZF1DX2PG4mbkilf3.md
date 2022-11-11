@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Dylan Sinclair.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,994 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,036 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 32 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 |
 | 33 | [Best Friends \- Remix](https://open.spotify.com/track/3YZmW6AUHsbN7KhOTd944i) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Best Friends \(Remix\)](https://open.spotify.com/album/4a8uxN5j5ZSWuioZ9cHqWk) | 2:55 |
 | 34 | [Don't Mind](https://open.spotify.com/track/2xv35DpHy7xmnCkPWKo4dC) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Nene](https://open.spotify.com/album/6IgiDt94AUYI6TANSG6SNa) | 3:17 |
-| 35 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 4:44 |
+| 35 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 |
 | 36 | [Do You Wanna](https://open.spotify.com/track/57R8c5G1hnjCFNUHgdiFfC) | [Staasia Daniels](https://open.spotify.com/artist/0VLvev050tpAMCM7FeVZ0n) | [Do You Wanna](https://open.spotify.com/album/07qWqYUaNoD3bUqJfd8K9o) | 2:55 |
 | 37 | [All That Matters \- Spotify Singles](https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Spotify Singles](https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc) | 3:44 |
 | 38 | [Don't go](https://open.spotify.com/track/1KRSiMMebZLfWSd5TTW6i4) | [Persis](https://open.spotify.com/artist/74rFJaOCffY3YqFzwNe7yX) | [Don't go](https://open.spotify.com/album/0qLH3BtvnQBP4LWiiRFo87) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Moments Ago](https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P) | [JJ Adrian](https://open.spotify.com/artist/4crJ8wTee0AgPI72R7YS77) | [Moments Ago / Yesterday Feels](https://open.spotify.com/album/77obPp4tcowHZwET3NGtBB) | 2:42 |
 | 100 | [Kauai](https://open.spotify.com/track/1eBtqzkwNl4vzpqkclynDw) | [Makadi](https://open.spotify.com/artist/1rEQ6P5WQcRxmHkH9d43Ld) | [BRGNDY](https://open.spotify.com/album/7815yHEIOhqzMytNCPelra) | 2:36 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGRkNDIyMDJhYWRmZmJiN2VhZDVhZDU3OGRiY2FiZGNl`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGNmNmVkYzAwNDFlOWZkMDZiNDhiYzEzZTFkNjQyNWFh`

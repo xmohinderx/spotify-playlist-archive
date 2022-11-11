@@ -4,7 +4,7 @@
 
 > Anything from hidden local gems to pop classics about the journey to embracing all kinds of love.
 
-79 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
+81 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,9 @@
 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 | 2022-04-07 | 2022-06-24 |
 | [Cocktail](https://open.spotify.com/track/3fpZCgUe70u50OJMbpM84S) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [好風光](https://open.spotify.com/album/2olyf0rTeI1FNoU8mSTPAx) | 4:34 | 2022-06-23 | 2022-07-29 |
 | [Come With Me](https://open.spotify.com/track/35MCt0BeMs2pWtYNhMR92l) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE), [AF](https://open.spotify.com/artist/6CygVJXs3ziiuKWNA4TkF9) | [Come With Me](https://open.spotify.com/album/7GboJALajHDdhgqetBTZRU) | 3:14 | 2022-06-23 | 2022-07-29 |
+| [Crave You](https://open.spotify.com/track/2BtImFZlm7U8a2Cr9sEbaW) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down to Earth](https://open.spotify.com/album/04GVpETpPlXbSs83NcmBUJ) | 3:54 | 2022-07-28 |  |
 | [Crave You](https://open.spotify.com/track/4ESWJepzBtY2lR9oZDYVaP) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/5V8798yQx7GwVCXQTyIOJz) | 3:54 | 2022-07-28 | 2022-11-03 |
-| [Crave You](https://open.spotify.com/track/5mdzg7ZwebXNb90LPRusAs) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb) | 3:54 | 2022-07-28 |  |
+| [Crave You](https://open.spotify.com/track/5mdzg7ZwebXNb90LPRusAs) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb) | 3:54 | 2022-07-28 | 2022-11-11 |
 | [Dangerous \(feat\. Joywave\) \- Oliver Remix](https://open.spotify.com/track/3PVukkbEGmJGoyJG2lfBPP) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [1.6 \(feat\. Joywave\)](https://open.spotify.com/album/4Sl5PqIX7DpX39AiCNnYQh) | 4:37 | 2022-07-28 |  |
 | [DEMONS](https://open.spotify.com/track/0UMhOCEAdwvxWaZ0K7V6KU) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [DEMONS](https://open.spotify.com/album/4ZCF8pOZliBXL2RhM7VDFW) | 2:27 | 2022-07-28 |  |
 | [Elio](https://open.spotify.com/track/026J1RDgiiTTqJ0cENHQhB) | [Higgo Raj](https://open.spotify.com/artist/3YEVEdKje1zmAHh8Hsxgnb) | [EUM001: Ups and Downs](https://open.spotify.com/album/5q8Y41IplrcB2QqqmE4bR1) | 3:47 | 2022-04-07 | 2022-06-24 |
@@ -33,8 +34,9 @@
 | [Keep Ya Head Up](https://open.spotify.com/track/4Tttv4p2xuAq1LpQ7LI95E) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:23 | 2022-07-28 |  |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2022-04-07 | 2022-06-24 |
 | [LA FAMA](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 | 2022-07-28 |  |
+| [Light Switch](https://open.spotify.com/track/0F1TxVw4mWkqp9vJrnw65w) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Simply Feelgood](https://open.spotify.com/album/6r5uHLa2JBpivqjVTYZdiT) | 3:05 | 2022-07-28 |  |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-04-07 | 2022-10-16 |
-| [Light Switch](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:07 | 2022-07-28 |  |
+| [Light Switch](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:07 | 2022-07-28 | 2022-11-11 |
 | [Little Miss Janice](https://open.spotify.com/track/22EE8dhOA8t2XSPMYiQSWi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [Little Miss Janice](https://open.spotify.com/album/5d14ViywYO9XTuIVwM4wZ7) | 3:31 | 2022-07-28 |  |
 | [Lunatic](https://open.spotify.com/track/2uodDdo4jqShIEAFy8yuIY) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:21 | 2022-07-28 |  |
 | [Mad About You](https://open.spotify.com/track/59mt82b6ADPPjvgZTec8MZ) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [Something About You](https://open.spotify.com/album/6mm0i9d3JxQiyquwF5F6oS) | 3:39 | 2022-06-23 | 2022-07-29 |

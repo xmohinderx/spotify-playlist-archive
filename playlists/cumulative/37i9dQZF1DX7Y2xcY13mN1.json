@@ -753,7 +753,7 @@
     {
       "album": {
         "name": "Songs of Tommy Makem",
-        "url": "https://open.spotify.com/album/7sISBfKNQJdWxJRY8vMEm1"
+        "url": "https://open.spotify.com/album/7bOc9jb25IV1noFgJjgT5g"
       },
       "artists": [
         {
@@ -764,6 +764,24 @@
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204426,
+      "name": "The Butcher Boy",
+      "url": "https://open.spotify.com/track/1QLPlGwxxd1xoMLAtKSMGU"
+    },
+    {
+      "album": {
+        "name": "Songs of Tommy Makem",
+        "url": "https://open.spotify.com/album/7sISBfKNQJdWxJRY8vMEm1"
+      },
+      "artists": [
+        {
+          "name": "Tommy Makem",
+          "url": "https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 204426,
       "name": "The Butcher Boy",
       "url": "https://open.spotify.com/track/4A4GkentJ6FWXXM86RwzJI"
@@ -1185,10 +1203,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 614363,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
+    },
+    {
+      "album": {
+        "name": "The Young People",
+        "url": "https://open.spotify.com/album/7uruJbMIWhZ8MjeyC1WZK3"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 614363,
+      "name": "The Wild Rover",
+      "url": "https://open.spotify.com/track/1h0T3Lc5K2sj0oTHAzpUCE"
     },
     {
       "album": {

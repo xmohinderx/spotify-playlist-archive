@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Pop Chill",
+        "url": "https://open.spotify.com/album/2yUz9QKekYKZPKpyNbH3px"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157867,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0IDnurzMLSgapUP0Ov35zc"
+    },
+    {
+      "album": {
         "name": "The Sad Vegan",
         "url": "https://open.spotify.com/album/3Q0RCCVgwcJgN0zUDooJoW"
       },
@@ -131,7 +149,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 157867,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1VvsPJMas06GEwf5NLV1vw"
@@ -1091,10 +1109,28 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 206950,
       "name": "Harvard",
       "url": "https://open.spotify.com/track/6sqw8w1n1sopzGaNIwZL4N"
+    },
+    {
+      "album": {
+        "name": "Harvard",
+        "url": "https://open.spotify.com/album/0vL8mPohJxL66f1QreIYzD"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208685,
+      "name": "Harvard",
+      "url": "https://open.spotify.com/track/5sgUExXhrZ2duO8epviG4M"
     },
     {
       "album": {
@@ -1243,6 +1279,24 @@
     {
       "album": {
         "name": "FOTO",
+        "url": "https://open.spotify.com/album/0g6leOTleM7GMkiEyyFpbM"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241678,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/1RiiGHLsoWe1rH2jB9OBNI"
+    },
+    {
+      "album": {
+        "name": "FOTO",
         "url": "https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A"
       },
       "artists": [
@@ -1271,7 +1325,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 241678,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/40ZsN7vKatjbyoY8zx0DM8"
@@ -1332,6 +1386,24 @@
     },
     {
       "album": {
+        "name": "Beat the Summer Heat",
+        "url": "https://open.spotify.com/album/5Euc3hA6j2DR6i2p94Ld2F"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135521,
+      "name": "Honeypie",
+      "url": "https://open.spotify.com/track/6hm5IhXExtryvlKgT1bV9s"
+    },
+    {
+      "album": {
         "name": "For Abby",
         "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
       },
@@ -1343,7 +1415,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 135581,
       "name": "Honeypie",
       "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
@@ -1458,6 +1530,24 @@
     },
     {
       "album": {
+        "name": "Icing on the Cake",
+        "url": "https://open.spotify.com/album/0NTSAbg2vworUiqVVMZRqE"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116655,
+      "name": "Icing on the Cake",
+      "url": "https://open.spotify.com/track/3N4CnZQA8odhd854hHuPce"
+    },
+    {
+      "album": {
         "name": "2nd",
         "url": "https://open.spotify.com/album/1NNr44atY90LWvAcDcwqMU"
       },
@@ -1469,7 +1559,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 116655,
       "name": "Icing on the Cake",
       "url": "https://open.spotify.com/track/5vgag6LYnA7LhlUw6u4K5T"
@@ -1783,10 +1873,32 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 180261,
       "name": "Make You Wait",
       "url": "https://open.spotify.com/track/37f7JmemPNdPEJajylUrFz"
+    },
+    {
+      "album": {
+        "name": "Three, Fever",
+        "url": "https://open.spotify.com/album/6VdrVl350WhMaS1xdn6r5k"
+      },
+      "artists": [
+        {
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+        },
+        {
+          "name": "Hans.",
+          "url": "https://open.spotify.com/artist/5Hs5HX81qk47VTS6ZW1Mms"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180261,
+      "name": "Make You Wait",
+      "url": "https://open.spotify.com/track/6hynSfOyysRcPe9LbqtIHL"
     },
     {
       "album": {
@@ -1981,7 +2093,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 172338,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/3mDU9150jy8FYm8BtImUSw"
@@ -2003,6 +2115,24 @@
       "duration_ms": 172338,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/5Lp117p0NotCBlMHVxdizb"
+    },
+    {
+      "album": {
+        "name": "Scrapbook",
+        "url": "https://open.spotify.com/album/6NHsBUolj79TMpOuAAOxS9"
+      },
+      "artists": [
+        {
+          "name": "Postcard Boy",
+          "url": "https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172338,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/6RqSSzecXK7hpcXk7vzloB"
     },
     {
       "album": {
@@ -2133,7 +2263,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 197727,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
@@ -2155,6 +2285,24 @@
       "duration_ms": 197727,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/6CLeGoAfyJZ7BpO9lZiWFS"
+    },
+    {
+      "album": {
+        "name": "You're A Dog!",
+        "url": "https://open.spotify.com/album/5yGBckx1viKr9BJBIjI7Uq"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197727,
+      "name": "Shawty",
+      "url": "https://open.spotify.com/track/6ymbbgqzw817pp3IvEHtQa"
     },
     {
       "album": {
@@ -2357,7 +2505,7 @@
     {
       "album": {
         "name": "SEX",
-        "url": "https://open.spotify.com/album/5Xz5UbVUN2fqucwGnpwXJg"
+        "url": "https://open.spotify.com/album/4xUu3G2buom8s1bffx6OCO"
       },
       "artists": [
         {
@@ -2368,6 +2516,24 @@
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202826,
+      "name": "Sue",
+      "url": "https://open.spotify.com/track/0CMUmDILSCGK6U07Bkzp0p"
+    },
+    {
+      "album": {
+        "name": "SEX",
+        "url": "https://open.spotify.com/album/5Xz5UbVUN2fqucwGnpwXJg"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 202826,
       "name": "Sue",
       "url": "https://open.spotify.com/track/0yygnZCAvPeopsfgI1IWFC"
@@ -2450,6 +2616,28 @@
     },
     {
       "album": {
+        "name": "Twenties (Deluxe)",
+        "url": "https://open.spotify.com/album/0bD5bkHCUBQcf6sNg8aRcd"
+      },
+      "artists": [
+        {
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+        },
+        {
+          "name": "Landon Sears",
+          "url": "https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226153,
+      "name": "Sweet (feat. Landon Sears)",
+      "url": "https://open.spotify.com/track/3E51fR2o2BKKsANMxoAtEP"
+    },
+    {
+      "album": {
         "name": "Twenties",
         "url": "https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9"
       },
@@ -2465,7 +2653,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 226153,
       "name": "Sweet (feat. Landon Sears)",
       "url": "https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY"
@@ -2580,6 +2768,24 @@
     },
     {
       "album": {
+        "name": "CRAYOLA",
+        "url": "https://open.spotify.com/album/26XpI9rAvpr02jCCJpZUIJ"
+      },
+      "artists": [
+        {
+          "name": "dwilly",
+          "url": "https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171964,
+      "name": "ugh!",
+      "url": "https://open.spotify.com/track/2agPCYUKrqbMczF3s0o03P"
+    },
+    {
+      "album": {
         "name": "ugh!",
         "url": "https://open.spotify.com/album/0xxmUhhzJBVAlIuNHuYskZ"
       },
@@ -2591,7 +2797,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 171964,
       "name": "ugh!",
       "url": "https://open.spotify.com/track/5p6SMibx8q56JAwC64P8qg"
@@ -2634,6 +2840,24 @@
     },
     {
       "album": {
+        "name": "House on Wheels EP",
+        "url": "https://open.spotify.com/album/31v7kC1Y246cmvmspqLtoI"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/0ORDQOXfdrTi6UkEjiGUI2"
+    },
+    {
+      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/28fxM5KaCES9DolERx2MUq"
       },
@@ -2663,7 +2887,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 184615,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/4CYob98Mwk0mYZWCoLaS3u"

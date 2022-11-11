@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,893 likes - 66 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,922 likes - 66 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 5 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 |
 | 6 | [Neray Neray Vas](https://open.spotify.com/track/5P9gtOtId7RoyakIvlPGwM) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Butt Brothers](https://open.spotify.com/artist/6KaZO6OFp295joGZ74oY5U) | [Neray Neray Vas](https://open.spotify.com/album/6EpM6TDOrXbJp65oKySgCt) | 3:47 |
 | 7 | [Kana Yaari](https://open.spotify.com/track/7MTUN4bpk7Im3Sxz9oCULf) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO), [Wahab Bugti](https://open.spotify.com/artist/2IBpBrzMIaeeXJnzfJIVLA) | [Kana Yaari](https://open.spotify.com/album/6DRq94aOT9Ml8WhJ4PzNGT) | 3:46 |
-| 8 | [Shuru Karein](https://open.spotify.com/track/3yqoD9SYDfwvNEdU2NEpFx) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Shuru Karein](https://open.spotify.com/album/1MxsE2k1buYRltVVXfcivf) | 2:26 |
+| 8 | [Shuru Karein](https://open.spotify.com/track/5q7YPRbhsEglQUBacUCTlP) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Coke Studio \(Season 14\)](https://open.spotify.com/album/6A9M0zgEwr15R3kUehBzRl) | 2:26 |
 | 9 | [Daachi Waaliya](https://open.spotify.com/track/1uBcSRrHdMrTwLIoBYoUMi) | [Hadiqa Kiani](https://open.spotify.com/artist/63wazelWDcHlj6vxmpjR7H) | [Daachi Waaliya](https://open.spotify.com/album/73YNgJro1GEHAzecBWrPs2) | 8:02 |
 | 10 | [Kinaray](https://open.spotify.com/track/3chvS4B3KaT7wCyoVLO88I) | [Mekaal Hassan Band](https://open.spotify.com/artist/0XSTzPae7xbdt1ZH0fbpZR) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 4:21 |
 | 11 | [Bari Barsi](https://open.spotify.com/track/6FHdRD3043EI2j9K5jdIXg) | [Josh](https://open.spotify.com/artist/7inbx3OpLVuQ4vv9XZO11I), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 4:38 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 40 | [Jhalliya \(Coke Studio Season 9\)](https://open.spotify.com/track/5VFdLShbyF8zbSJUntxeMe) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Masooma Anwar](https://open.spotify.com/artist/3uGlE431zQyS14tBgF5v3v), [Shahzad Nawaz](https://open.spotify.com/artist/7AA9yYS854NOiReCqUnHDJ) | [Jhalliya \(Coke Studio Season 9\)](https://open.spotify.com/album/5BurzqY4eWJs03pwsZMv2X) | 7:11 |
 | 41 | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/track/3mdWh20oySW08m75NxSC51) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Naeem Abbas Rufi](https://open.spotify.com/artist/47xe2IGE9DzGXpsFVvmXaF) | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/album/53Itk6l9qzgKvvTBopDjhi) | 7:12 |
 | 42 | [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/track/7292h5pidNaLfrse63T3dQ) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/album/3kVakoirMWEX5BwkicGWZv) | 11:06 |
-| 43 | [Baliye \(Laung Gawacha\) \[Coke Studio Season 9\]](https://open.spotify.com/track/63LTVXh5TujgeB202CbqGa) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Haroon Shahid](https://open.spotify.com/artist/4OasZ0m66s8HZzsyQAYCGJ) | [Baliye \(Laung Gawacha\) \[Coke Studio Season 9\]](https://open.spotify.com/album/5GapIc38IFHkRJG7tjan1X) | 7:34 |
+| 43 | [Baliye \(Laung Gawacha\)](https://open.spotify.com/track/0iPR8H2UgvQuKcU245NC5J) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Haroon Shahid](https://open.spotify.com/artist/4OasZ0m66s8HZzsyQAYCGJ) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 7:34 |
 | 44 | [Bholay Bhalay](https://open.spotify.com/track/1l0WMc3wnW3Q74Np0frIwM) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Bholay Bhalay](https://open.spotify.com/album/7lm9AVvyohgeuwrDLl6iCu) | 6:42 |
 | 45 | [Sasu Mangay \(Coke Studio Season 9\)](https://open.spotify.com/track/4yaPqGCFobhA8swEwsi0l8) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u) | [Sasu Mangay \(Coke Studio Season 9\)](https://open.spotify.com/album/3UDM9uEEFxrvwsCZo3YIlp) | 6:44 |
 | 46 | [Ya Qurban](https://open.spotify.com/track/6a90yS7H9LBnR7qFRXDvwB) | [Khumariyaan](https://open.spotify.com/artist/1fHYh13Os6tJSOL7hQ0dba) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 4:54 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 65 | [Laila O Laila](https://open.spotify.com/track/65GexggyAOfTLMWLKQS4eb) | [Rostam Mirlashari](https://open.spotify.com/artist/5zlHJ38vwLDvO6sf1lneZz), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:29 |
 | 66 | [Charkha Nolakha](https://open.spotify.com/track/0GKo5LtZM9SvqxZvnxz8hk) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Qayaas](https://open.spotify.com/artist/070AvN8e3WycppehEutQao), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 6:42 |
 
-Snapshot ID: `MTY2NTU5NzkyNywwMDAwMDAwMGY0MDg3ZjQzYTBiY2QxMjdiMWQ0Y2Q0ZTdiNDRhOWE1`
+Snapshot ID: `MTY2NTU5NzkyNywwMDAwMDAwMGY1ZmY2OTNmN2FhMDBmYTM4MTIyNzY2NDI4MDQ4ZjVk`

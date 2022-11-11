@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: meenoi\(미노이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,401 likes - 58 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,492 likes - 58 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

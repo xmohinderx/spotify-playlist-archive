@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Pocket Park",
+        "url": "https://open.spotify.com/album/1VS8e1raK66dzG2RijR3Ee"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311720,
+      "name": "Mayonaka no Door / Stay With Me",
+      "url": "https://open.spotify.com/track/1hlhidUoY7Q6TWaLFnxysA"
+    },
+    {
+      "album": {
         "name": "Miki Matsubara Best Collection",
         "url": "https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5"
       },
@@ -307,7 +325,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 312293,
       "name": "Mayonaka no Door / Stay With Me",
       "url": "https://open.spotify.com/track/2BHj31ufdEqVK5CkYDp9mA"
@@ -379,7 +397,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 233200,
       "name": "Rainbow Sealine",
       "url": "https://open.spotify.com/track/3NQ3e5j7qcscVxKsUQlfOs"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 355666,
       "name": "Shinin\u2019 You, Shinin\u2019 Day",
       "url": "https://open.spotify.com/track/4PW7Cq7lNMIrEnojsB0jHC"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 239893,
       "name": "SUMMER BLUE",
       "url": "https://open.spotify.com/track/4Ad4HmvkDvFZ5eYaxQcTKh"
@@ -491,6 +509,24 @@
       "duration_ms": 239893,
       "name": "SUMMER BLUE",
       "url": "https://open.spotify.com/track/5W4ojZyjeSz4VUzamBodcN"
+    },
+    {
+      "album": {
+        "name": "Summer Blue",
+        "url": "https://open.spotify.com/album/1OGCoUWA7LRmo8KJvp1rxl"
+      },
+      "artists": [
+        {
+          "name": "Bread And Butter",
+          "url": "https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239900,
+      "name": "Summer Blue",
+      "url": "https://open.spotify.com/track/1QEntcPui8bdiIXno4tcUI"
     },
     {
       "album": {
@@ -1057,7 +1093,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 234666,
       "name": "\u30d7\u30fc\u30eb\u30b5\u30a4\u30c9",
       "url": "https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX"
@@ -1457,7 +1493,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 231760,
       "name": "\u65e5\u4ed8\u5909\u66f4\u7dda",
       "url": "https://open.spotify.com/track/4b0inPorpxAXDgUjzkLl8M"

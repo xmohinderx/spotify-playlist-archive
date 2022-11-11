@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes.
 
-81 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
+83 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Slow Down](https://open.spotify.com/track/4EVGxsNUEf1hFq4eZXdhtm) | [Chromatiks](https://open.spotify.com/artist/2kgYddab6YcXcoDek1zivO), [Bona Bones](https://open.spotify.com/artist/5gW0xZN1FxeI1Wdi1qY3tN), [Exhel Boladisco](https://open.spotify.com/artist/0jlTWrSGnWuIYJfXQwNMg9) | [Slow Down](https://open.spotify.com/album/4QGqj4P4GD9ABJXcEC6WT1) | 3:25 | 2021-03-12 |  |
 | [So Ruff, so Tuff](https://open.spotify.com/track/3k0Jp5IYHtBeSNKUEOqE0i) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 3:35 | 2020-09-18 |  |
 | [Superman](https://open.spotify.com/track/31XzTmTkP3yQAzCbZ2uz8A) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [The Many Facets Of Roger](https://open.spotify.com/album/2hWMz4KhFIl7Qff82wMEXF) | 4:08 | 2020-09-18 |  |
-| [Talkbox Fever \(feat\. the Talkbox Allstars\)](https://open.spotify.com/track/45hT7TQvXxSXRoByXERCEf) | [Funkmaster Ozone](https://open.spotify.com/artist/34AGOPbiy3xFk6irkjYyuu), [The Talkbox Allstars](https://open.spotify.com/artist/1X6Jt2x6QcFZQUfLGgL932) | [Released and Unreleased, Vol\. 1](https://open.spotify.com/album/0iSIU1wDFfiJzV4sJ5L2gw) | 6:21 | 2020-09-18 |  |
+| [Talkbox Fever](https://open.spotify.com/track/2g4uko7dEjgIqkUPTiSOQ0) | [Funkmaster Ozone](https://open.spotify.com/artist/34AGOPbiy3xFk6irkjYyuu) | [Westcoast Pioneers](https://open.spotify.com/album/4ozmLwrsmz9GQnkXn4Q9tG) | 6:21 | 2020-09-18 |  |
+| [Talkbox Fever \(feat\. the Talkbox Allstars\)](https://open.spotify.com/track/45hT7TQvXxSXRoByXERCEf) | [Funkmaster Ozone](https://open.spotify.com/artist/34AGOPbiy3xFk6irkjYyuu), [The Talkbox Allstars](https://open.spotify.com/artist/1X6Jt2x6QcFZQUfLGgL932) | [Released and Unreleased, Vol\. 1](https://open.spotify.com/album/0iSIU1wDFfiJzV4sJ5L2gw) | 6:21 | 2020-09-18 | 2022-11-11 |
 | [Tell Everybody](https://open.spotify.com/track/07Y2w7XP9eNhzwZuXUI72R) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Feets Don't Fail Me Now](https://open.spotify.com/album/3EzImBJBzD8gBwT6YNBbht) | 7:12 | 2020-09-18 |  |
 | [Temu's Talkbox Groove](https://open.spotify.com/track/2JTXaMVZ2da6nP1cgqndU3) | [Temu](https://open.spotify.com/artist/6qqTmbtiK0b7OBYZtvFwlW) | [Relic of the Mothership](https://open.spotify.com/album/741ZrZnUXNxP2xPFJhvCs3) | 4:49 | 2020-09-18 |  |
 | [Throw Down](https://open.spotify.com/track/7BrvrJ78kPJ9Ug9OgEyisJ) | [Dogg Master](https://open.spotify.com/artist/7D7OH1u01xndWNoeG153gy) | [Injection](https://open.spotify.com/album/3iFYspDpTbR31Fcr8x43WJ) | 3:47 | 2020-09-18 |  |
@@ -85,7 +86,8 @@
 | [What U Do](https://open.spotify.com/track/4Y6D4pNgcDIQ0zeeARUmcd) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [What U Do](https://open.spotify.com/album/1FB09P6gwDqt4iD9iUcXyZ) | 5:42 | 2020-09-18 |  |
 | [When I Hit the Block](https://open.spotify.com/track/4Vy23imXjy2kg8zaaX5D7O) | [Throwback Zack](https://open.spotify.com/artist/75csMNFe2KTbVYOko3sLzv) | [Cloud 9](https://open.spotify.com/album/4gvxF2lP3osUa2MXxq3atT) | 3:46 | 2020-09-18 |  |
 | [Winning](https://open.spotify.com/track/5aoEP8goqbvoI7ITs2SVAo) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [Winning](https://open.spotify.com/album/4UQCFBr4wdsGQmcdXyoVcV) | 3:39 | 2020-09-18 |  |
-| [With the Music](https://open.spotify.com/track/7ADWPWvgegTdPYEqRtQXYe) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS) | [With the Music](https://open.spotify.com/album/57q2lXAoPUWJTBvlSpzy7F) | 6:17 | 2020-09-18 |  |
+| [With the Music](https://open.spotify.com/track/7ADWPWvgegTdPYEqRtQXYe) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS) | [With the Music](https://open.spotify.com/album/57q2lXAoPUWJTBvlSpzy7F) | 6:17 | 2020-09-18 | 2022-11-11 |
+| [With the Music](https://open.spotify.com/track/5so4fWOUupeEepFqixqdMt) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS) | [With the Music](https://open.spotify.com/album/4h465iyTznZQouao9JLwif) | 6:18 | 2020-09-18 |  |
 | [With You](https://open.spotify.com/track/7hA8vD3WERUwEOTGMMJd3J) | [Daze](https://open.spotify.com/artist/4lTYJ693x10unejOLxoCYr) | [Contrast](https://open.spotify.com/album/41jrWLM0K9x7F3Ux7OJGgv) | 4:06 | 2020-09-18 |  |
 | [With You](https://open.spotify.com/track/079mLSjKkiSnpcSueMrNtQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4PCIOf8X75vWdD1PbLpg3c) | 4:08 | 2020-09-18 |  |
 | [With You](https://open.spotify.com/track/34RnMx1hRtypnn03BkTkHV) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4tfomAZjkkF736D6WTK7tC) | 4:08 | 2020-09-18 | 2022-11-06 |

@@ -4,7 +4,7 @@
 
 > Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-110 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/69wekaeiYRD9lqR2LK7zID)
+111 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/69wekaeiYRD9lqR2LK7zID)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [AOTF\-s1](https://open.spotify.com/track/4UsCRRCctHBF45wci4a4BR) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 7:57 | 2022-02-08 | 2022-07-29 |
 | [AOTF\-s2](https://open.spotify.com/track/5sXmXSfvguJBhQRDzQMqZ8) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:33 | 2022-02-08 | 2022-06-22 |
 | [AOTF\-s3](https://open.spotify.com/track/2fA7GDUDBo2SO1GRLC5uWe) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:42 | 2022-02-08 | 2022-06-22 |
+| [Ashes on The Fire](https://open.spotify.com/track/5ArBY68oLECgcHXDGFxa7u) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Attack on Titan The Final Season Original Soundtrack](https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi) | 4:34 | 2022-06-21 |  |
 | [Ashes on The Fire](https://open.spotify.com/track/6bXCGI0zBTjvwYBlDkFey3) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 4:34 | 2022-02-08 | 2022-07-29 |
-| [Ashes on The Fire \(Attack on Titan The Final Season Original Soundtrack\)](https://open.spotify.com/track/7uF1nTuJRGUlZzODPcmPva) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Ashes on The Fire \(Attack on Titan The Final Season Original Soundtrack\)](https://open.spotify.com/album/2D75BWyFdglxuY29CGfF4i) | 4:34 | 2022-06-21 |  |
+| [Ashes on The Fire \(Attack on Titan The Final Season Original Soundtrack\)](https://open.spotify.com/track/7uF1nTuJRGUlZzODPcmPva) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Ashes on The Fire \(Attack on Titan The Final Season Original Soundtrack\)](https://open.spotify.com/album/2D75BWyFdglxuY29CGfF4i) | 4:34 | 2022-06-21 | 2022-11-11 |
 | [Ashes on The Fire \-PTV\-](https://open.spotify.com/track/0NpwE7Q2djpqpqqtfJVdjm) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02](https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx) | 5:06 | 2022-06-21 | 2022-07-29 |
 | [Ashes on The Fire \-PTV\-](https://open.spotify.com/track/3SUfTmtF04eIHQ00WPSixB) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Attack On Titan The Final Season Original Soundtrack 02](https://open.spotify.com/album/6ZhZFePX82sWsRzKMdaprL) | 5:06 | 2022-06-21 |  |
 | [Atonement](https://open.spotify.com/track/4L7hOg9UuE0VE6aHkPTtYG) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:18 | 2022-02-08 | 2022-06-22 |

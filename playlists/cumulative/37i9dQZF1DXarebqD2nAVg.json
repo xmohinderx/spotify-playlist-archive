@@ -1065,10 +1065,28 @@
       ],
       "date_added": "2019-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 92612,
       "name": "Stella's Story",
       "url": "https://open.spotify.com/track/5mKWuGgnZDnpl9wGKpwMDY"
+    },
+    {
+      "album": {
+        "name": "Stella's Story",
+        "url": "https://open.spotify.com/album/1lB48D6lIXrimXTiiTFCBI"
+      },
+      "artists": [
+        {
+          "name": "Kendall Miles",
+          "url": "https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2"
+        }
+      ],
+      "date_added": "2019-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92612,
+      "name": "Stella's Story",
+      "url": "https://open.spotify.com/track/1xiAUfSyDT1hNqeCQRVjhA"
     },
     {
       "album": {
@@ -1239,10 +1257,32 @@
       ],
       "date_added": "2019-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
+    },
+    {
+      "album": {
+        "name": "TheSoundYouNeed, Vol. 3",
+        "url": "https://open.spotify.com/album/2yCHE5EqiUvMMmp7BFqkEj"
+      },
+      "artists": [
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        },
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        }
+      ],
+      "date_added": "2019-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/2AX75ICyQYG0yBNiemLDY8"
     },
     {
       "album": {

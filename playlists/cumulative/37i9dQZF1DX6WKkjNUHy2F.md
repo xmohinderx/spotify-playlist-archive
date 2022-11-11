@@ -4,7 +4,7 @@
 
 > The inspiration to be who you truly are—that’s at the center of the Pride playlist curated by the pop vocalist and Queen collaborator.
 
-33 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/2D6Av3yzPkip4DMqjTyV9j)
+34 songs - 2 hr 1 min - [published](https://open.spotify.com/playlist/2D6Av3yzPkip4DMqjTyV9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Queen](https://open.spotify.com/track/1DfRCC2qpjjzc6l5DmTjkG) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Too Bright](https://open.spotify.com/album/571wQuGuOOLTbbyYoujGra) | 3:50 | 2022-07-29 |  |
 | [Queen](https://open.spotify.com/track/52WTLETEHs5jwCr7LCq0VW) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Too Bright](https://open.spotify.com/album/28FxHb9OJRzAch4DwUUsaT) | 3:50 | 2017-06-02 | 2022-07-29 |
 | [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 | 2017-06-02 |  |
-| [Shine](https://open.spotify.com/track/0SjaL4cjD4PXOY4orbZSMZ) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 4:15 | 2022-07-29 |  |
+| [Shine](https://open.spotify.com/track/0SjaL4cjD4PXOY4orbZSMZ) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 4:15 | 2022-07-29 | 2022-11-11 |
 | [Shine](https://open.spotify.com/track/4Qrxdjj3nFhjrqcnUU5r6a) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8) | 4:15 | 2017-06-02 | 2022-07-29 |
+| [Shine](https://open.spotify.com/track/7fymo275KG2hK7SBfxf72C) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Pop Hits 2015](https://open.spotify.com/album/3ZagUWHI0FtnJ4PJflqUGR) | 4:15 | 2022-11-11 |  |
 | [Supermodel \(You Better Work\)](https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel of the World](https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA) | 3:59 | 2022-07-29 |  |
 | [Supermodel \(You Better Work\)](https://open.spotify.com/track/7tvMOBSGPAl4Gyiq6fdiRd) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel To The World](https://open.spotify.com/album/2NBh8cWPygbHUaLUmhYSJt) | 3:59 | 2017-06-02 | 2022-07-29 |
 | [The Light](https://open.spotify.com/track/0O14ArbnhIczAkSh0bIINk) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High](https://open.spotify.com/album/6hN2y18fg4KVGMaltxfdXZ) | 3:35 | 2017-06-02 |  |

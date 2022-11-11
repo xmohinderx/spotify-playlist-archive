@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,338 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,369 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 55 | [Mimetic](https://open.spotify.com/track/6jtNPGYjvuUN0cWXjuAk5a) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX) | [Rogue Intruder, Soul Enhancer](https://open.spotify.com/album/5GDLaN1HaXPTAx16UYZAvZ) | 5:34 |
 | 56 | [Still Life](https://open.spotify.com/track/6YV2ZpwYd6w1mXPvKgSJUR) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Still Life](https://open.spotify.com/album/2v3WKTcGhKCXhok9uFoQqb) | 4:26 |
 | 57 | [Going Modd](https://open.spotify.com/track/7yzSIvMahNSLwvgwqV3p21) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Epic B](https://open.spotify.com/artist/6xY8OHC6hKe0hCheJvIUNz) | [Going Modd](https://open.spotify.com/album/2KYHSDryMLYVclmNthRcl6) | 3:05 |
-| 58 | [Stingray Shuffle](https://open.spotify.com/track/0NRQU03YgYNli44FANtQDN) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/7JsfdXH01XsWF2uVqvpPOk) | 2:43 |
+| 58 | [Stingray Shuffle](https://open.spotify.com/track/4cQq04HMFxcX30UcOntbiP) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/4ZXL28H9AGmkQUVWTpYHOO) | 2:43 |
 | 59 | [Harbinger](https://open.spotify.com/track/3smLcr5e84zq10h2LXByED) | [Alec Ness](https://open.spotify.com/artist/3qIOkb1528LbR4UIwJefsr) | [Temporary Awareness of Passing](https://open.spotify.com/album/1Or89jf0Su8WpBINgkvVLI) | 3:07 |
 | 60 | [Alucard](https://open.spotify.com/track/2ibgB5zU0EGIh1x7JM8AMD) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [Alucard](https://open.spotify.com/album/0KlEXfI6QhODTsxKdSjrl4) | 5:12 |
 
-Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMDRhNTA3NjhhNzQwN2E4NDkxZGQ5NzM3MThhODU1M2Y2`
+Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMGI4ZGI5MGYzN2E3ZWY1OTRiNzMwNDFmOTk4YWQwZjI3`

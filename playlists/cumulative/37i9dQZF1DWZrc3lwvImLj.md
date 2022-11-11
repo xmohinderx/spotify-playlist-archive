@@ -4,7 +4,7 @@
 
 > Beautifully sad piano music
 
-236 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/0bGmdUzxwndch2yv1y7eLw)
+237 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/0bGmdUzxwndch2yv1y7eLw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Cadeques](https://open.spotify.com/track/4Be9pGAhN2aR1PTefJJX51) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Cadeques](https://open.spotify.com/album/4mSsoEQzC6aRFjVsjQbC7r) | 2:52 | 2021-12-14 | 2022-08-04 |
 | [Camera Obscura](https://open.spotify.com/track/6cbLWx2NlOs3LvpfR44NPg) | [Jose Carcavelos](https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H) | [Camera Obscura](https://open.spotify.com/album/5tuhTyI3R9LUbF6EH1p5cU) | 2:11 | 2021-12-14 | 2022-06-07 |
 | [Candlelight](https://open.spotify.com/track/2LdHJepGKdvmPPbm0pC6QC) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Candlelight](https://open.spotify.com/album/2vFW1pn1Arj2jgozPMLdy4) | 2:21 | 2022-05-20 | 2022-10-18 |
-| [Candlelight](https://open.spotify.com/track/7pUfoepuxnZzQZqqvrVJR3) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:21 | 2022-09-23 |  |
+| [Candlelight](https://open.spotify.com/track/6aoi5DA6gXsCBMGKa9ZkLQ) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Candlelight](https://open.spotify.com/album/5jRPY0qmViLdSaLKjjZlX2) | 2:21 | 2022-09-23 |  |
+| [Candlelight](https://open.spotify.com/track/7pUfoepuxnZzQZqqvrVJR3) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:21 | 2022-09-23 | 2022-11-11 |
 | [Canvas](https://open.spotify.com/track/6iZ4MWY41vHw9o26UxCmec) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Canvas](https://open.spotify.com/album/7GpwHsdoI4GMzxUHy2DWhJ) | 2:18 | 2022-03-30 |  |
 | [Cinematique](https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Cinematique](https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT) | 2:54 | 2022-01-19 |  |
 | [Close To You](https://open.spotify.com/track/7zuK6SB9iQN17ZLOdCcCjd) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Close To You](https://open.spotify.com/album/18AxWYSX9I2yR5PagBl4r3) | 2:07 | 2021-12-14 | 2022-05-05 |

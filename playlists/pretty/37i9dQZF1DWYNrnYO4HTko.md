@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256 likes - 92 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 259 likes - 92 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 79 | [These Arms of Mine \(feat\. Huey Lewis\)](https://open.spotify.com/track/4XiDLc8PRfXHuHySYKUuSV) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Huey Lewis](https://open.spotify.com/artist/2OU0OH164ypvP4G3AYynXs) | [S.O.S\. 2: Save Our Soul: Soul on a Mission](https://open.spotify.com/album/254UZFKtZ4L2TYfU49ovAW) | 2:32 |
 | 80 | [Security](https://open.spotify.com/track/19tqWReLPd4VXEetDVArLT) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:30 |
 | 81 | [Respect](https://open.spotify.com/track/6OIHBaasbCpSwMjmH3BNSJ) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [This is Ann Peebles](https://open.spotify.com/album/0ubu5A9vzSiS7BTdRX7Ilc) | 2:15 |
-| 82 | [I've Been Loving You Too Long](https://open.spotify.com/track/3F4OtBOeU19X9EHGC9tUHV) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul](https://open.spotify.com/album/05WixXdxsULFJn8f4XhuWI) | 3:06 |
+| 82 | [I've Been Loving You Too Long](https://open.spotify.com/track/2XLgoBK5UUk1eh6AlH276f) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Temazos Soul Clásico](https://open.spotify.com/album/4q1VzMFzlKKJGT2GhpXdzp) | 3:06 |
 | 83 | [I've Got Dreams To Remember](https://open.spotify.com/track/6TqJXwrYdR9eCgNXa7P0gU) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [The Alligator Records 20th Anniversary Collection](https://open.spotify.com/album/7eCp9EyxEp6bnWpeNoDLi2) | 4:32 |
 | 84 | [Hard To Handle \- Live In New Orleans / 1991](https://open.spotify.com/track/5xoWWp0HdXcSiybbU8pfSE) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Live! \(Live In New Orleans / 1991\)](https://open.spotify.com/album/6qQ9kfQ2IVuDwTJAEGtXc7) | 3:38 |
 | 85 | [Dock Of The Bay \- Remastered 2003](https://open.spotify.com/track/12PlOIMP73jVDCL21uQ5iM) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [A Natural Woman](https://open.spotify.com/album/7flJiihAzrz0UWCjswUc4A) | 2:40 |
-| 86 | [Fa Fa Fa Fa Fa \(Sad Song\)](https://open.spotify.com/track/2iHyljFOELGJpzZtGmbHBl) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Emotion \(Real World Gold\)](https://open.spotify.com/album/7CHL3hxXPT9sTnQv3hZe39) | 3:13 |
+| 86 | [Fa Fa Fa Fa Fa \(Sad Song\)](https://open.spotify.com/track/66jWnpVzdnDuszjY6SnhGH) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Emotion \(25th Anniversary Edition\)](https://open.spotify.com/album/43agRjUycGJBF2ZoEVBZwQ) | 3:13 |
 | 87 | [Nobody's Fault But Mine](https://open.spotify.com/track/5Ksa4HCbpVeqjk9xQOhjAI) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 2:39 |
 | 88 | [Respect \(feat\. Wayne Henderson\)](https://open.spotify.com/track/5WefFRKDoyJJ8zVCfvtIhU) | [The Freedom Sounds Featuring Wayne Henderson](https://open.spotify.com/artist/0B8tMvNxl04bM3bhgYAl4b), [Wayne Henderson](https://open.spotify.com/artist/55PU5eP7Ndxn5T3TvBdXZ2) | [People Get Ready \(feat\. Wayne Henderson\)](https://open.spotify.com/album/4sZJQZA40YWfofsHINS1Gs) | 2:56 |
 | 89 | [Respect](https://open.spotify.com/track/5lOUxU6giZYMVkLZDGyih0) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va) | [Songs](https://open.spotify.com/album/1CVOf9xngqh7U7FvOs0OSr) | 3:05 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 91 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 |
 | 92 | [Where You Lead Me](https://open.spotify.com/track/7CQfHbaz8di8UFbayDCRCl) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/6K1TG5C0rzi1tfNEmUI4CY) | 2:29 |
 
-Snapshot ID: `MTYzMzA2MDgwMCwwMDAwMDAwMDFhMTY0YmU0ZjZjNTljODI3NDlhYzJjNDhiOTcxYzdj`
+Snapshot ID: `MTYzMzA2MDgwMCwwMDAwMDAwMDdhYWIyMzExN2JhNjhiN2MzZDQzOThkNGU3NDU3MjVi`

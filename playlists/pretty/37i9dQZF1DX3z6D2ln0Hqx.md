@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z6D2ln0Hqx.md) - [plain]
 
 > For Motown, diversity and equality wasn’t just a goal, it was the key to success\. These women brought Motown into the hearts of many.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,809 likes - 22 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,829 likes - 22 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z6D2ln0Hqx.md) - [plain]
 | 15 | [Candy Man](https://open.spotify.com/track/2STCPBRYYnsGlzmhNktVou) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [Mary Jane Girls](https://open.spotify.com/album/1CHUsg2g2nY9Qi35DiMOM6) | 4:30 |
 | 16 | [I Love Every Little Thing About You](https://open.spotify.com/track/4A5LitMW22j96x1wceYcFh) | [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [The Complete Motown Singles Vol\. 12B: 1972](https://open.spotify.com/album/4XOpRI5PgYWkkcaU9bLEHV) | 3:42 |
 | 17 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
-| 18 | [Sending My Love](https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 3:40 |
+| 18 | [Sending My Love](https://open.spotify.com/track/2iFEJykQ895vembLmQNa67) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Bedroom Jams](https://open.spotify.com/album/4lDhUSlM0N1c4VUs9QoV0X) | 3:41 |
 | 19 | [Extraordinary Love \- Fall Version](https://open.spotify.com/track/6DUsIIU6AGpnPfIJImNZoD) | [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [Extraordinary Love \(Fall Version\)](https://open.spotify.com/album/1RvwunYOa0UjDNlAWjq2L6) | 4:40 |
-| 20 | [Video](https://open.spotify.com/track/3H5pp4f0rvJ72AB7UHswY8) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Dinner Party](https://open.spotify.com/album/55BxFSeJAUHIIzctEAGBOb) | 4:06 |
+| 20 | [Video](https://open.spotify.com/track/5OvtHC1axvrFvtAV2H2KG7) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Chilled Summer](https://open.spotify.com/album/2i2K253TAzT22nTWpJKFZs) | 4:11 |
 | 21 | [Steelo](https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:17 |
 | 22 | [I Love Your Smile](https://open.spotify.com/track/2UX4NQt9AEGmwm3WlyOkhV) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 4:23 |
 
-Snapshot ID: `MTU2MTc1NDUyOSwwMDAwMDAwMDhhYzFkNzI4ZTNiYTU1YzZjZWI1MTUxZjUzYjFmZDIz`
+Snapshot ID: `MTU2MTc1NDUyOSwwMDAwMDAwMGFmNTNkYmMwY2YxODM3YjNiMWExM2U1NmU1NjhiYzkz`

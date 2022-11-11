@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 443426,
       "name": "Adagio For Strings",
       "url": "https://open.spotify.com/track/3Q2M6sNKDwoqZGBvwdFqZr"
@@ -470,6 +470,24 @@
     },
     {
       "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/6TQUSCFEAaprlLgqBgMSXb"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214883,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/4u4JMXuhg94qU88lzeiiuq"
+    },
+    {
+      "album": {
         "name": "Who Needs Guitars Anyway?",
         "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
       },
@@ -481,7 +499,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 214883,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
@@ -528,6 +546,28 @@
     },
     {
       "album": {
+        "name": "15 Years Get Physical - The Past, the Present and the Future",
+        "url": "https://open.spotify.com/album/26NtF1DkR2ZbWUoZtmEUCr"
+      },
+      "artists": [
+        {
+          "name": "M.A.N.D.Y.",
+          "url": "https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435975,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/0IvBzwnja9ElmpWKYfBz7i"
+    },
+    {
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/2iPHV0vUp2IoooYQXHIyI8"
       },
@@ -565,7 +605,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 438013,
       "name": "Body Language - Original Mix",
       "url": "https://open.spotify.com/track/52wJfSCcUt8qFkU0KYvQ4S"
@@ -587,6 +627,24 @@
       "duration_ms": 270964,
       "name": "Cafe Del Mar - Radio Edit",
       "url": "https://open.spotify.com/track/4LIbYKwuUBMKmqyZZC7XVg"
+    },
+    {
+      "album": {
+        "name": "Throwback Summer Hits",
+        "url": "https://open.spotify.com/album/087jVCsvpH25w3QGaHqA3z"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167120,
+      "name": "Call on Me",
+      "url": "https://open.spotify.com/track/2zk6o36bmhyaqkkkzB0ToK"
     },
     {
       "album": {
@@ -619,7 +677,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 171360,
       "name": "Call on Me - Radio Mix",
       "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
@@ -1174,6 +1232,28 @@
     },
     {
       "album": {
+        "name": "Elements Of Life",
+        "url": "https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421026,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/2VDUicTMbyYiFm5HXSFzXK"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/0abTIR0UNo66Nw38K47k03"
       },
@@ -1285,7 +1365,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 216360,
       "name": "Exploration of Space",
       "url": "https://open.spotify.com/track/0P2sfcfRD0lWw4b8eXegmR"
@@ -1481,10 +1561,32 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 271586,
       "name": "Fire",
       "url": "https://open.spotify.com/track/1lJUIg0FtOqApq4XPQqjrk"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/64oDknHyUnKOtO3mqgj6SB"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "Simon Lebon",
+          "url": "https://open.spotify.com/artist/7pHJTrmyl1pzvdUTMVll6J"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271586,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5PFMrQuqg89oRPAUEI8RuP"
     },
     {
       "album": {
@@ -1539,6 +1641,24 @@
       "duration_ms": 173920,
       "name": "Flight 643 (Radio Edit)",
       "url": "https://open.spotify.com/track/2AXmhtQ9nLGGapHG2AeTZV"
+    },
+    {
+      "album": {
+        "name": "Magikal Journey -The Hits Collection 1998 - 2008",
+        "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Flight 643 - Radio Edit",
+      "url": "https://open.spotify.com/track/7FojwQYmHwQkh4G1GlEIOO"
     },
     {
       "album": {
@@ -1789,10 +1909,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 178494,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1QfJwbwcWUHheqVo3yRfpd"
+    },
+    {
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/4r56hd7zVVKVLxNHBL0a2P"
+      },
+      "artists": [
+        {
+          "name": "Lasgo",
+          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178494,
+      "name": "Gone - Radio Edit",
+      "url": "https://open.spotify.com/track/6bgtaPN7goEPAbgtJqWNNC"
     },
     {
       "album": {
@@ -1909,7 +2047,7 @@
     {
       "album": {
         "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
+        "url": "https://open.spotify.com/album/0PlRTmqlHWYxPGw1No0qMv"
       },
       "artists": [
         {
@@ -1920,6 +2058,24 @@
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 221493,
+      "name": "Heartbreak - M'black Radio Edit",
+      "url": "https://open.spotify.com/track/58OBBfC4Nvra1cyg4XNrvS"
+    },
+    {
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 221493,
       "name": "Heartbreak - Radio Edit",
       "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
@@ -2127,6 +2283,28 @@
     {
       "album": {
         "name": "I Found U",
+        "url": "https://open.spotify.com/album/2OpgObhTsN2hvBjySWr4cW"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Max C",
+          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174946,
+      "name": "I Found U - Radio Edit",
+      "url": "https://open.spotify.com/track/5Z0m37GTpYVK8ewXLUeh2q"
+    },
+    {
+      "album": {
+        "name": "I Found U",
         "url": "https://open.spotify.com/album/1WoQtItFeo0FGesGkDHDv8"
       },
       "artists": [
@@ -2137,7 +2315,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 171692,
       "name": "I Found U - Remode Radio Edit",
       "url": "https://open.spotify.com/track/4brtBQaAKwan97CyLNIG6t"
@@ -2159,7 +2337,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 283040,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/62h4GYm6aTqS0dsfJtKYIX"
@@ -2188,8 +2366,48 @@
     },
     {
       "album": {
+        "name": "I Remember",
+        "url": "https://open.spotify.com/album/5CFRJxPEEdedwfTs0suFpb"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281460,
+      "name": "I Remember - Strobelite Mix",
+      "url": "https://open.spotify.com/track/3sJ2XGBUSqlJhgsmuYZKzK"
+    },
+    {
+      "album": {
         "name": "Disconnect (Platinum Edition)",
         "url": "https://open.spotify.com/album/1tgLUNsCerUQYAXp3DPK4Y"
+      },
+      "artists": [
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 225400,
+      "name": "Imagination - Ti\u00ebsto Radio Edit",
+      "url": "https://open.spotify.com/track/091jue13VJFSl0OAJG6BJH"
+    },
+    {
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/0EnN7ySalZosePBvcRha2v"
       },
       "artists": [
         {
@@ -2202,7 +2420,7 @@
       "date_removed": null,
       "duration_ms": 225400,
       "name": "Imagination - Ti\u00ebsto Radio Edit",
-      "url": "https://open.spotify.com/track/091jue13VJFSl0OAJG6BJH"
+      "url": "https://open.spotify.com/track/4s9UlYHUvhEA1BdBel8AyI"
     },
     {
       "album": {
@@ -2493,10 +2711,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 242053,
       "name": "L'Amour Toujours",
       "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"
+    },
+    {
+      "album": {
+        "name": "40 Best Trance Hits Ever, Vol. 2",
+        "url": "https://open.spotify.com/album/1rD8DOM49stggfQEN4tWti"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242133,
+      "name": "L'Amour Toujours - Radio Version",
+      "url": "https://open.spotify.com/track/1QS3X0Uslam2beuDKRvE81"
     },
     {
       "album": {
@@ -2569,7 +2805,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 205106,
       "name": "Lola's Theme - Radio Edit",
       "url": "https://open.spotify.com/track/2o7V26rsF1ukcRI005S0LL"
@@ -2731,10 +2967,40 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199386,
       "name": "Love Is Gone - Fred Riester & Joachim Garraud Radio Edit Remix",
       "url": "https://open.spotify.com/track/2MGRnjJc7C0z3EOEWRqcMw"
+    },
+    {
+      "album": {
+        "name": "Pop Life",
+        "url": "https://open.spotify.com/album/2ox4UcntoWsFQL5RDPKFUF"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Chris Willis",
+          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+        },
+        {
+          "name": "Fred Riester",
+          "url": "https://open.spotify.com/artist/26wzW8jdKfy5i8U7kGmGbE"
+        },
+        {
+          "name": "Joachim Garraud",
+          "url": "https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199386,
+      "name": "Love Is Gone - Fred Riester & Joachim Garraud Radio Edit Remix",
+      "url": "https://open.spotify.com/track/3VqiuUUlGRpByX8StPmqDB"
     },
     {
       "album": {
@@ -2785,7 +3051,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 172493,
       "name": "Me and Myself (Wolfgang Gartner Radio Edit)",
       "url": "https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV"
@@ -2825,7 +3091,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 249533,
       "name": "Missing - Todd Terry Club Mix / US Radio Edit",
       "url": "https://open.spotify.com/track/36sL3KPEfXIp5KH3tDO7oo"
@@ -2843,7 +3109,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 237293,
       "name": "Move For me",
       "url": "https://open.spotify.com/track/3GhICQNsmPCPgG7RyHAV8q"
@@ -2865,6 +3131,28 @@
       "duration_ms": 237386,
       "name": "Move For Me",
       "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
+    },
+    {
+      "album": {
+        "name": "I Remember",
+        "url": "https://open.spotify.com/album/5CFRJxPEEdedwfTs0suFpb"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235872,
+      "name": "Move for Me",
+      "url": "https://open.spotify.com/track/2WapmUdFpzEo5QaghBR8xU"
     },
     {
       "album": {
@@ -3009,10 +3297,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 393333,
       "name": "Put Your Hands Up For Detroit - Club Mix",
       "url": "https://open.spotify.com/track/3fbGgsysR0OKzsdr20HD4T"
+    },
+    {
+      "album": {
+        "name": "Put Your Hands Up For Detroit",
+        "url": "https://open.spotify.com/album/4DcsHjjs2adHwgWDxFbln0"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393373,
+      "name": "Put Your Hands Up For Detroit - Dub Mix",
+      "url": "https://open.spotify.com/track/5vnNIdgwsgt5z3xdxHvM6j"
     },
     {
       "album": {
@@ -3154,6 +3460,24 @@
     },
     {
       "album": {
+        "name": "Rocker / Gate 23",
+        "url": "https://open.spotify.com/album/5CaCeXJdoJPMg6az6EdUX3"
+      },
+      "artists": [
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288053,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/1QMxjywRTNyCWeAA4I8Wf1"
+    },
+    {
+      "album": {
         "name": "Transphormer",
         "url": "https://open.spotify.com/album/4ajNKZkMmn46mVusmeJUc7"
       },
@@ -3165,7 +3489,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 288053,
       "name": "Rocker",
       "url": "https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup"
@@ -3227,7 +3551,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 202053,
       "name": "Shadows - Inpetto Edit",
       "url": "https://open.spotify.com/track/3KqXPyaLysWraUSi4PuSnz"
@@ -3489,10 +3813,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 224531,
       "name": "Sun Is Up",
       "url": "https://open.spotify.com/track/1TtteYFQeZfSU8AmfIAOvu"
+    },
+    {
+      "album": {
+        "name": "Non Stop Hits",
+        "url": "https://open.spotify.com/album/4ZzOy4MGRkIYACL9RKNv9o"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224531,
+      "name": "Sun Is Up",
+      "url": "https://open.spotify.com/track/2yyE0qe7yO0h9ntWfLmjpa"
     },
     {
       "album": {
@@ -3561,10 +3903,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 365080,
       "name": "Swoon",
       "url": "https://open.spotify.com/track/2drOnGxH4NvagDjre7GXCd"
+    },
+    {
+      "album": {
+        "name": "Further",
+        "url": "https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365080,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L"
     },
     {
       "album": {
@@ -3717,7 +4077,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 239213,
       "name": "The Longest Road - deadmau5 Remix Edit",
       "url": "https://open.spotify.com/track/77w8cBOdasP7aNcPD9Dec8"
@@ -3765,10 +4125,32 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199133,
       "name": "The Sound of Goodbye - Above & Beyond UK Edit",
       "url": "https://open.spotify.com/track/1GMw17BGY1vDWNJ4xVo9V6"
+    },
+    {
+      "album": {
+        "name": "Best Of Female Vocal Trance 2014",
+        "url": "https://open.spotify.com/album/4qQzO1kS2iWuW8ZzSRM5q0"
+      },
+      "artists": [
+        {
+          "name": "Perpetuous Dreamer",
+          "url": "https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy"
+        },
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "The Sound Of Goodbye - Above & Beyond UK Edit",
+      "url": "https://open.spotify.com/track/6vlpDXnLJVi4GaLzMIGQCk"
     },
     {
       "album": {
@@ -3931,7 +4313,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 177026,
       "name": "Traffic - Radio Edit",
       "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
@@ -4007,10 +4389,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 218586,
       "name": "What Hurts The Most",
       "url": "https://open.spotify.com/track/2rVa6UVT2f95l3bGcMGCWQ"
+    },
+    {
+      "album": {
+        "name": "Perfect Day (Premium Edition)",
+        "url": "https://open.spotify.com/album/3QulohHqVV4TJvlknidB3I"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/782R9qTsGd0D44O7cHFa5n"
     },
     {
       "album": {
@@ -4029,6 +4429,24 @@
       "duration_ms": 219706,
       "name": "What Hurts the Most - Radio Mix U.S.",
       "url": "https://open.spotify.com/track/3OW3uDpM7mgLe3xU6EYX5q"
+    },
+    {
+      "album": {
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/6VxkEWtAKwOLXzM26xK6oB"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "When Love Takes Over (feat. Kelly Rowland)",
+      "url": "https://open.spotify.com/track/0gqLairXmwf8MLIWmPYqhn"
     },
     {
       "album": {
@@ -4061,7 +4479,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,799 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,817 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 27 | [ONLY U \(feat\. Terrian\)](https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Only U Forever](https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL) | 3:22 |
 | 28 | [Shed a Little Light](https://open.spotify.com/track/6fO7SWzkzIQCYhyIB8FH42) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Hope](https://open.spotify.com/album/0Vy0pKZuZGoNDtiXfEg1YD) | 3:31 |
 | 29 | [Gabriel & the Vagabond](https://open.spotify.com/track/6mrOdPoRpEvya0NVBWAo5X) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Hope](https://open.spotify.com/album/0Vy0pKZuZGoNDtiXfEg1YD) | 5:05 |
-| 30 | [Get to the Point](https://open.spotify.com/track/7GtgIxxDuPWJE4PmJzMLWd) | [Mogli the Iceburg](https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy), [Joey Vantes](https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc) | [Sad People Make Dope Music 2](https://open.spotify.com/album/2hh3smYVb1LzqVMC0Kk96j) | 3:20 |
+| 30 | [Get to the Point](https://open.spotify.com/track/1HgGj4WxlNXcXIuK6yRlrz) | [Mogli the Iceburg](https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy), [Joey Vantes](https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc) | [Get to the Point](https://open.spotify.com/album/174ooCzMlQMKhUXTuuNVN4) | 3:19 |
 | 31 | [Within The Rose](https://open.spotify.com/track/3RGPlHgxzIVMnrpdWR0EgM) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3) | 3:52 |
 | 32 | [We Don't Eat](https://open.spotify.com/track/1y3PhboJrxMNOpLxkMsTiM) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Bonus Version\)](https://open.spotify.com/album/4Lluitxz8wV7jq5qljjG4I) | 4:53 |
 | 33 | [Love Yourz](https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:31 |
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 38 | [Bury Me](https://open.spotify.com/track/5wXM3N6mZVKY1KogR8aj8x) | [George Glew](https://open.spotify.com/artist/3841DHBEOAE2ksodVZkV7U) | [Bury Me](https://open.spotify.com/album/4TxEIUXckIIuvTT1UPCsKy) | 3:45 |
 | 39 | [Your Love Is Strong](https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Limbs & Branches](https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI) | 5:09 |
 | 40 | [Blinded By Your Grace, Pt\. 2 \(feat\. MNEK\)](https://open.spotify.com/track/0ihguwGVwKihJ1Nj8fGQlY) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:50 |
-| 41 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 |
+| 41 | [River](https://open.spotify.com/track/4B7iMBGmm5woNqs6Oj3GpT) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Mellow Summer](https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl) | 3:58 |
 | 42 | [Only God Can Judge Me](https://open.spotify.com/track/1C6L5Lir4LeWhkPo722Rs0) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [Let the Trap Say Amen](https://open.spotify.com/album/1oDkUnjCBAHsaQtr0J0s3t) | 2:57 |
-| 43 | [Chill Pill \(Experiment 2\)](https://open.spotify.com/track/5DmZvacVjbIbldPDYl3J26) | [Hawk House](https://open.spotify.com/artist/0ot8XpQrZOe4nHZ6EMJHJ9) | [A Handshake To The Brain](https://open.spotify.com/album/13nel2sv4uGInxb1qlds78) | 3:32 |
+| 43 | [Chill Pill \(Experiment 2\)](https://open.spotify.com/track/58S8PMxk5PgDxYoy8DTSNk) | [Hawk House](https://open.spotify.com/artist/0ot8XpQrZOe4nHZ6EMJHJ9) | [Morning Relaxing](https://open.spotify.com/album/3u725fz8XBZIa2tzBf9zaM) | 3:32 |
 | 44 | [Like Really](https://open.spotify.com/track/1rxbz8vhGvydIbOWkh60gw) | [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [The Iceberg](https://open.spotify.com/album/2dEkjiUBO6Z2aeolcJ7sCy) | 3:44 |
 | 45 | [The Beauty Between \(feat\. Andy Mineo\)](https://open.spotify.com/track/2PijveBc576V08lWc5ymdp) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [The Beauty Between \(feat\. Andy Mineo\)](https://open.spotify.com/album/1XRuaO2foZK4H4GPKneQto) | 4:08 |
 | 46 | [Body in Motion](https://open.spotify.com/track/11xpBwmHDLUb8luVNFfQex) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 3:41 |
 | 47 | [Elementary Trill](https://open.spotify.com/track/2XheQ3uh5mpq1Jq5zifNQQ) | [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [Soul Rebel](https://open.spotify.com/album/0WcuWIFO0zSHXmeockAYR8) | 3:42 |
-| 48 | [The Isle Of Arran](https://open.spotify.com/track/2YQ1cc9xWnp5qI08rKt6wv) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:34 |
+| 48 | [The Isle Of Arran](https://open.spotify.com/track/4CpmImAOOBaT46jz5qukCt) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Best Of 2017 Hip Hop](https://open.spotify.com/album/0LpITwRJ2IlzdPLGZL7W2a) | 3:34 |
 | 49 | [Wings](https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:06 |
 
-Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMGZmNmFkODcwZWE1ZDFmYzllNzdiNGY5NzUzMzRkYmVh`
+Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMGU0NDNmMTZjMDAyNGY0NDczZjNlODUzYTA3ODA0YTI3`

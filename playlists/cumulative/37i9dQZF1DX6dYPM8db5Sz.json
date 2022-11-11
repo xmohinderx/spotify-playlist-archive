@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The freshest South African alternative & folk pop jams. Cover: <a href=\"https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx?si=kizXYmNKShGZ8fQOCD3V6w\">James Deacon</a>",
+  "description": "The freshest South African alternative and indie music. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=1kLL2uwqRpudjJjI6yFrAA\">HONEYMOAN</a>",
   "name": "SAlt",
   "published_playlist_ids": [
     "725N8DiCOBrEyrBxUeYOar"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "On the way to Beatenberg",
+        "url": "https://open.spotify.com/album/414CQfkaibycxv5kLfxsGe"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "85",
+      "url": "https://open.spotify.com/track/3aA2ckaNAxezqR7jwPJqeJ"
+    },
     {
       "album": {
         "name": "A Long Time",
@@ -273,7 +291,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 221714,
       "name": "Bowie",
       "url": "https://open.spotify.com/track/3KjgybWtSpHSOj5doyDTpX"
@@ -335,10 +353,28 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 163200,
       "name": "Clean",
       "url": "https://open.spotify.com/track/5uaNJ6LhylyBCTYNUy7z0C"
+    },
+    {
+      "album": {
+        "name": "cold",
+        "url": "https://open.spotify.com/album/3sq9US2YY0YruWQbvV8Yfo"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271229,
+      "name": "cold",
+      "url": "https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6"
     },
     {
       "album": {
@@ -382,6 +418,24 @@
     },
     {
       "album": {
+        "name": "Don't Walk Away",
+        "url": "https://open.spotify.com/album/1yZF9UfpLcSHDi8Sw46wk8"
+      },
+      "artists": [
+        {
+          "name": "Jonny Hayes",
+          "url": "https://open.spotify.com/artist/4RscgyBOMvKeYLQ6OOF3sp"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230068,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/6c8yTt07EyE1jc41GK98s7"
+    },
+    {
+      "album": {
         "name": "It's Gonna Be Fine",
         "url": "https://open.spotify.com/album/0Y9S6SMnmE40sf7EW8BmiQ"
       },
@@ -418,6 +472,24 @@
     },
     {
       "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/7IQueyGAvp9urNG0tt0UhR"
+      },
+      "artists": [
+        {
+          "name": "Jamie-Lee Sexton",
+          "url": "https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175862,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/3QuJghCGUmoDxarw1Wa1lJ"
+    },
+    {
+      "album": {
         "name": "First Blood",
         "url": "https://open.spotify.com/album/1LcWdAYFGeLOpvIjXktrIo"
       },
@@ -447,7 +519,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 126302,
       "name": "Flawed Guy",
       "url": "https://open.spotify.com/track/38L0QwyBMuqWlpC4oBl4UV"
@@ -469,6 +541,24 @@
       "duration_ms": 177000,
       "name": "Gaslight (Caught Fire)",
       "url": "https://open.spotify.com/track/6TYU5CqDddOWEcD0n2KiGJ"
+    },
+    {
+      "album": {
+        "name": "ghost in the machine",
+        "url": "https://open.spotify.com/album/2HNFlTUUoE4UTfX0gSKlEp"
+      },
+      "artists": [
+        {
+          "name": "emerger",
+          "url": "https://open.spotify.com/artist/6RyGTscMqtqj8eP4mhxoY7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207439,
+      "name": "ghost in the machine",
+      "url": "https://open.spotify.com/track/6g26JrVvHq2JTviCK8Rov2"
     },
     {
       "album": {
@@ -602,6 +692,24 @@
     },
     {
       "album": {
+        "name": "How Do I Tell You",
+        "url": "https://open.spotify.com/album/2ZXG2gt26oPHl6dL5uCKXs"
+      },
+      "artists": [
+        {
+          "name": "S\u014cNN",
+          "url": "https://open.spotify.com/artist/1mujbWE1l8sIS8v0Wj6kaJ"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178246,
+      "name": "How Do I Tell You",
+      "url": "https://open.spotify.com/track/0q1oVDXjgMByl8ff7b4h3t"
+    },
+    {
+      "album": {
         "name": "How to skate",
         "url": "https://open.spotify.com/album/47KWlhSeN3mTuaVLHyXein"
       },
@@ -631,7 +739,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 241141,
       "name": "I Am a Stranger Here",
       "url": "https://open.spotify.com/track/5yJCttxoj7lsGOefIC20Ly"
@@ -649,7 +757,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 178026,
       "name": "I forgot to be profound today",
       "url": "https://open.spotify.com/track/4qQkXP67AhIq6GJYgVfodt"
@@ -685,7 +793,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204210,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/6mdTa1cq8lDcgj6PDlUg6l"
@@ -721,7 +829,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 232000,
       "name": "Izibongo Zami",
       "url": "https://open.spotify.com/track/0cBmKjNZdIFdNk7eXvp1bT"
@@ -764,6 +872,32 @@
     },
     {
       "album": {
+        "name": "loser",
+        "url": "https://open.spotify.com/album/6ugUDr9rOoVQqLkrwVSgQX"
+      },
+      "artists": [
+        {
+          "name": "screwyounick",
+          "url": "https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK"
+        },
+        {
+          "name": "iris day",
+          "url": "https://open.spotify.com/artist/76aEuFvHvQUH4BKVPRUSWn"
+        },
+        {
+          "name": "Belak",
+          "url": "https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127596,
+      "name": "loser",
+      "url": "https://open.spotify.com/track/3EZVljsec0JN8ia1I9f3U2"
+    },
+    {
+      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/5K5weaJCO4Nno8yI2mm4Ev"
       },
@@ -793,7 +927,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 206117,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7C18nGbnjKfSYZfxNaNisK"
@@ -819,7 +953,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199646,
       "name": "Manic Pixie Dream",
       "url": "https://open.spotify.com/track/64SrkyDiOaleVgq6SF5WLy"
@@ -859,6 +993,24 @@
       "duration_ms": 311678,
       "name": "Nice",
       "url": "https://open.spotify.com/track/0wbvC5m9im0mBkUtoVC0BA"
+    },
+    {
+      "album": {
+        "name": "Norton Howard",
+        "url": "https://open.spotify.com/album/2JuZ9oLEWps7Vn74Qy9sRi"
+      },
+      "artists": [
+        {
+          "name": "Hiding Bigfoot",
+          "url": "https://open.spotify.com/artist/1e0Tfbil1OBGrWWc0bapxF"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169285,
+      "name": "Norton Howard",
+      "url": "https://open.spotify.com/track/4T8QaK0d7ws3Fp5OiPLCGD"
     },
     {
       "album": {
@@ -1068,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "Shortcuts",
+        "url": "https://open.spotify.com/album/0MuIUbsI2sYNnC7QSIyZsZ"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173800,
+      "name": "Shortcuts",
+      "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
+    },
+    {
+      "album": {
         "name": "Skip to the Present",
         "url": "https://open.spotify.com/album/38w9omFsu7BjToXXhmAUgR"
       },
@@ -1079,7 +1249,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 178693,
       "name": "Skip to the Present",
       "url": "https://open.spotify.com/track/5hoWCQ7LUVLzAWZZfKBoTH"
@@ -1104,6 +1274,24 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/27eAjlHZCuJ5LhlTaT29C0"
+      },
+      "artists": [
+        {
+          "name": "Hanukug",
+          "url": "https://open.spotify.com/artist/0mHXobgLsjgAyj32UXRwpj"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126005,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2BgpHPF021lgW7igZGGCVa"
+    },
+    {
+      "album": {
         "name": "Super Grassy",
         "url": "https://open.spotify.com/album/2iBK98Wm4Tgwuc5x3JnEqD"
       },
@@ -1115,7 +1303,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 168203,
       "name": "Super Grassy",
       "url": "https://open.spotify.com/track/438hj5SxbaUS0ubnTaT3ma"
@@ -1245,7 +1433,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 262677,
       "name": "WatchMeDance",
       "url": "https://open.spotify.com/track/0E7J90rpq6eq2i2m3fKmf1"
@@ -1285,6 +1473,42 @@
       "duration_ms": 166250,
       "name": "Who am I to follow",
       "url": "https://open.spotify.com/track/3N1ymSDgFeaApDPTZ8f4lW"
+    },
+    {
+      "album": {
+        "name": "Wicked Wonder",
+        "url": "https://open.spotify.com/album/7jkhgLNww9XsvR7f5WwqRb"
+      },
+      "artists": [
+        {
+          "name": "Zebraman",
+          "url": "https://open.spotify.com/artist/6pxjx9DJmtwI56sHl0NBLB"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170007,
+      "name": "Wicked Wonder",
+      "url": "https://open.spotify.com/track/5mkXZy7MQ3GIDgWKDhv082"
+    },
+    {
+      "album": {
+        "name": "You Belong To Me",
+        "url": "https://open.spotify.com/album/20sqcskAFIfVh30MvH8aG1"
+      },
+      "artists": [
+        {
+          "name": "True nESS",
+          "url": "https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209293,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/0GwY3N9lLgnkH5C2i3Xi3G"
     },
     {
       "album": {

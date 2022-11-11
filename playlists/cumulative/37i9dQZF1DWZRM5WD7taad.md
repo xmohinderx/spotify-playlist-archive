@@ -4,11 +4,12 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Mare Advertencia Lirika en portada.
 
-121 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+122 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 | 2022-06-27 |  |
+| [1977](https://open.spotify.com/track/3td82bWICyYsUn75PlqsWS) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [THIS is Latin Hip\-Hop](https://open.spotify.com/album/3I1Q2rYaUhtvMzlF93WOrG) | 3:21 | 2022-10-16 |  |
+| [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 | 2022-06-27 | 2022-11-11 |
 | [1977](https://open.spotify.com/track/6DEfT3ck2WORjZJn6Xyt39) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/57jzsyG5Huh4Jrb0rkDu5S) | 3:24 | 2021-12-13 | 2022-07-29 |
 | [90's](https://open.spotify.com/track/1I5TzzXzQjVVl9iFi3Jh50) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [90's](https://open.spotify.com/album/3ugKqSFHw2RVmGKEwd3zMl) | 2:18 | 2021-12-13 | 2022-07-29 |
 | [90's](https://open.spotify.com/track/2joekpIeB4D30yg6P12RF5) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [90's](https://open.spotify.com/album/6JGCt2W3OKRLXXtn6RcTN1) | 2:18 | 2022-06-27 |  |

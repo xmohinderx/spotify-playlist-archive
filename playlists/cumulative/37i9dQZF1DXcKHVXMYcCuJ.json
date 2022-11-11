@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 183583,
       "name": "17 Years",
       "url": "https://open.spotify.com/track/01SLU6jHM9uzY6upyP4DnB"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 217733,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/4OE8lJeG82iSDhHo3reh1N"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 185467,
       "name": "Corpse Pose",
       "url": "https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 302811,
       "name": "Ghetto Blaster",
       "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
@@ -1704,6 +1704,24 @@
     },
     {
       "album": {
+        "name": "Finelines",
+        "url": "https://open.spotify.com/album/4c2WjXHuK2BbKapEeAX10R"
+      },
+      "artists": [
+        {
+          "name": "My Vitriol",
+          "url": "https://open.spotify.com/artist/75SjeTpGbsxZDpwPeVGERn"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153495,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/5cbpFhNhLtccw5s4rCeNjl"
+    },
+    {
+      "album": {
         "name": "Them Crooked Vultures",
         "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
       },
@@ -1751,7 +1769,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 238253,
       "name": "Handwritten",
       "url": "https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK"
@@ -2745,6 +2763,24 @@
       "duration_ms": 253373,
       "name": "Monster Side",
       "url": "https://open.spotify.com/track/1Djt22Ts5uyrItiDSTxDCp"
+    },
+    {
+      "album": {
+        "name": "Water & Solutions",
+        "url": "https://open.spotify.com/album/4enPQLBdrmgyL6NwrMZXx1"
+      },
+      "artists": [
+        {
+          "name": "Far",
+          "url": "https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135826,
+      "name": "Mother Mary",
+      "url": "https://open.spotify.com/track/6qYWC8j3X10bGhtDOhXFu5"
     },
     {
       "album": {
@@ -3821,7 +3857,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 216643,
       "name": "Smiling Shame",
       "url": "https://open.spotify.com/track/53ujnmrXFTtWs79zS2qMjF"
@@ -4541,7 +4577,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254630,
       "name": "Too Rich to Die",
       "url": "https://open.spotify.com/track/0jVg9DxcZ8Mfi7sdfKlk08"
@@ -4685,10 +4721,28 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 180111,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/154P8pqseR6k7BaMKffzeM"
+    },
+    {
+      "album": {
+        "name": "All These Countless Nights (Reworked - Deluxe Version)",
+        "url": "https://open.spotify.com/album/3uFlKT7oKZFybvN7IE3MBm"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180111,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/6mB3Re4uNg5jR3NGy253ol"
     },
     {
       "album": {
@@ -5067,7 +5121,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 410933,
       "name": "Will You Smile Again For Me",
       "url": "https://open.spotify.com/track/5AM9nodUIrP4qKMtlGJFay"

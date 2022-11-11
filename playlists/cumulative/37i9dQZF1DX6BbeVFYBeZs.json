@@ -1977,6 +1977,24 @@
     {
       "album": {
         "name": "Preludio del valle",
+        "url": "https://open.spotify.com/album/3bymqGhrl8dwY9BlSWU5Sw"
+      },
+      "artists": [
+        {
+          "name": "Pablo Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151616,
+      "name": "Preludio del valle",
+      "url": "https://open.spotify.com/track/0wzQxAGzGl09uxJHQVWP8Z"
+    },
+    {
+      "album": {
+        "name": "Preludio del valle",
         "url": "https://open.spotify.com/album/6fceBxIT2s9h539LNpb90Z"
       },
       "artists": [
@@ -2005,7 +2023,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 151616,
       "name": "Preludio del valle",
       "url": "https://open.spotify.com/track/4zvQKekRAM8gUYBmkCPuTP"

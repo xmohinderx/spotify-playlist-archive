@@ -4,7 +4,7 @@
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-58 songs - 3 hr 12 min - not published yet
+59 songs - 3 hr 15 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Bad](https://open.spotify.com/track/0f5W28eFordHQEp0GSaePF) | [Farveblind](https://open.spotify.com/artist/5AlPqg8caYE9Dc7r9pCN3g), [KillASon](https://open.spotify.com/artist/1CDeoqnIdiK79e2j7BhyFY) | [Boxes](https://open.spotify.com/album/46z2rjRxnhFPSmd30RJt1f) | 2:58 | 2022-11-01 |  |
 | [Banned](https://open.spotify.com/track/0E9PYMiivqgM8q0drwdRIE) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7xG25QpXrPlgiWGXoa15uJ) | 3:26 | 2022-11-01 |  |
 | [Big Cat](https://open.spotify.com/track/4gWFVnJbFw4rujwprj0poR) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP), [P!NCH](https://open.spotify.com/artist/1jPCm4Q8uClWX205mz4FKV) | [Big Cat](https://open.spotify.com/album/7wI7GOKtZqLavdRTlgJvyE) | 3:32 | 2022-11-01 |  |
-| [Blah Blah Blah](https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Balance](https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3) | 3:03 | 2022-11-01 |  |
+| [Blah Blah Blah](https://open.spotify.com/track/1PzPstFTSyOXHhCYoKZCcG) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Trance Top 1000 \(Mini Mix 009\) \- Armada Music](https://open.spotify.com/album/50VJh8k4sYPXl8zu5SDfF6) | 3:03 | 2022-11-01 |  |
+| [Blah Blah Blah](https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Balance](https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3) | 3:03 | 2022-11-01 | 2022-11-11 |
 | [Brainfreeze](https://open.spotify.com/track/6kwaYcQCLqWRYlG7Vpffsg) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/3mh4YBAPUHSKZ2VjWGfB3H) | 4:16 | 2022-11-01 |  |
 | [Champion](https://open.spotify.com/track/2XvvNyH2WkQjfpdkc8Lf5B) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Champion](https://open.spotify.com/album/6yZ6emVn0iq4PG0pKKymVk) | 3:30 | 2022-11-01 |  |
 | [Club Believer](https://open.spotify.com/track/16GcTUKAsORkkuSUm8AXeO) | [Jeak](https://open.spotify.com/artist/4JUettwlB4WVsbyV4nesPo), [Tiborg](https://open.spotify.com/artist/017LB7BYpa2Bmvzbkg0fHE) | [Electronic Dance Music](https://open.spotify.com/album/0NQ6fkJ9IQp43f1Bw8SoXY) | 3:17 | 2022-11-01 |  |

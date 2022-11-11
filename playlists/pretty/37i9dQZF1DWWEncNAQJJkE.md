@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 
 > Our editorial picks for Hip\-Hop’s best of 2021 in Canada\. Cover: Belly
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,819 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,829 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 | 97 | [Have It](https://open.spotify.com/track/5y4h7197GyNQDn9yMaUbCH) | [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy), [Young Smoke](https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD) | [Have It](https://open.spotify.com/album/6FZPIuooODyA3GUCQRffsR) | 2:33 |
 | 98 | [P's & Q's](https://open.spotify.com/track/4IJT3yD3ILkxSfu6fr42sh) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [P's & Q's](https://open.spotify.com/album/4NJbMrdkQyEY9nHY2yPL7l) | 2:33 |
 | 99 | [Not Like You](https://open.spotify.com/track/2HLQeFGlRplpeMmHWBbpx5) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT) | [Not Like You](https://open.spotify.com/album/6LRUE6Wi6z7tvcc2NsybJ1) | 3:10 |
-| 100 | [Super](https://open.spotify.com/track/3sjtQ07ptlPzw2N4YmGW3S) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 2:57 |
+| 100 | [Super](https://open.spotify.com/track/7EfNYbF2dhLianIfDSnhHS) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Locked In](https://open.spotify.com/album/3wwjsAWTsiMXwdlNOArJj7) | 2:57 |
 
-Snapshot ID: `MTY0MDIxNzUyMSwwMDAwMDAwMGE0YjJkYTc1ZDc0MDk2OGE5ZTI5YWM3YTc1ZWNkOGE0`
+Snapshot ID: `MTY0MDIxNzUyMSwwMDAwMDAwMDI5NjBlNjg2M2ViZGI4YTA1Yzc0ODZkNzE1ZWY4NGUx`

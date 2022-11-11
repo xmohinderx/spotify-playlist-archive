@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "New Wave Pop Hits",
+        "url": "https://open.spotify.com/album/1H4O4RMVEbsIEd68QoguDR"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354933,
+      "name": "A Forest",
+      "url": "https://open.spotify.com/track/5kw9KkeBlF6XK2ngmu88Q8"
+    },
+    {
+      "album": {
         "name": "Seventeen Seconds (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 354933,
       "name": "A Forest - 2006 Remaster",
       "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"

@@ -4,7 +4,7 @@
 
 > The songs that defined Nigeria's Alté era
 
-84 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/4AfobrCRq8eWikHPvogUQe)
+85 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/4AfobrCRq8eWikHPvogUQe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Up To You \- Ikon Mix](https://open.spotify.com/track/3I3tClYQhS7kh9qf0L2IKr) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [Palmwine Music](https://open.spotify.com/album/4reE9Z0ffJqJA37fUlmQjW) | 4:24 | 2022-07-27 |  |
 | [What You Like](https://open.spotify.com/track/3nW0Lor0OZW7muepNnkUI9) | [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Virtuoso](https://open.spotify.com/album/44q2jWpjess1qVcWm1jqoW) | 3:08 | 2022-07-27 |  |
 | [Whoa!](https://open.spotify.com/track/23j9rRRZ04w0Do8maFAkyf) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Amaa Rae](https://open.spotify.com/artist/5FRud7eNBSrwf10dezE0hq) | [Insert Project Name](https://open.spotify.com/album/6wcG6DtDwc6N7K0Vh5ZoMt) | 3:25 | 2022-07-27 |  |
-| [Wishes And Butterflies](https://open.spotify.com/track/2bJiq43RRoWzh8szaaLD6K) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Wishes And Butterflies](https://open.spotify.com/album/3N9LYpcxF7H0pJGafs44VW) | 1:24 | 2022-07-27 |  |
+| [Wishes And Butterflies](https://open.spotify.com/track/16p52wkCAmPke4havm9H8M) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Nigeria Chill Afrobeats](https://open.spotify.com/album/43O73p3plnSJKOd5Gpwgvq) | 1:24 | 2022-07-27 |  |
+| [Wishes And Butterflies](https://open.spotify.com/track/2bJiq43RRoWzh8szaaLD6K) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Wishes And Butterflies](https://open.spotify.com/album/3N9LYpcxF7H0pJGafs44VW) | 1:24 | 2022-07-27 | 2022-11-11 |
 | [Work](https://open.spotify.com/track/3Bko3cIQk6egVQXFwj80LI) | [The Forbidden](https://open.spotify.com/artist/2aGNFPJih8vw7mjGfE81Qx), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Work](https://open.spotify.com/album/4uOtexXX1aCxsKvZZtPAUE) | 3:46 | 2022-07-27 |  |
 | [Wuse II](https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Wuse II \(feat\. Odunsi\)](https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg) | 4:29 | 2022-07-27 |  |
 | [wys?](https://open.spotify.com/track/5NT67c2bpzilrBSc73JEoc) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Santi](https://open.spotify.com/artist/4TksvAnPyPpUidSjaJQJL6) | [Insert Project Name](https://open.spotify.com/album/6wcG6DtDwc6N7K0Vh5ZoMt) | 2:45 | 2022-07-27 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-94 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/0LmubJwhwYXatOoMu2UsGp)
+95 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/0LmubJwhwYXatOoMu2UsGp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Friday Blues](https://open.spotify.com/track/0RgihmZAu8nKlHNNjP66R9) | [Hockins](https://open.spotify.com/artist/3sDQqAcTSTEblYLXhSmZXg) | [Friday Blues](https://open.spotify.com/album/3RNLd2fCwJSun5lh13dWvh) | 3:52 | 2022-07-29 |  |
 | [Gunk](https://open.spotify.com/track/4Nv1liSp522fuF1AGu6Yxs) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 5:14 | 2022-07-29 |  |
 | [Guns](https://open.spotify.com/track/60IzOczom5b0OCdryKqutH) | [Guau](https://open.spotify.com/artist/3B09YsVwUYEmbxDAHqJhvs) | [Guns](https://open.spotify.com/album/3wbk0LqWoZ0Azv7hp3iUlS) | 4:19 | 2021-09-16 | 2022-07-30 |
-| [Hard Drive Gold \- Maya Jane Coles Remix](https://open.spotify.com/track/36nPdSMOJexTZFGHXrVihF) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [The Dream \(Deluxe\)](https://open.spotify.com/album/58LG7c1GqHKIDtGH1dsDLd) | 5:13 | 2022-07-29 |  |
+| [Hard Drive Gold \- Maya Jane Coles Remix](https://open.spotify.com/track/36nPdSMOJexTZFGHXrVihF) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [The Dream \(Deluxe\)](https://open.spotify.com/album/58LG7c1GqHKIDtGH1dsDLd) | 5:13 | 2022-07-29 | 2022-11-11 |
+| [Hard Drive Gold \- Maya Jane Coles Remix](https://open.spotify.com/track/4eCDqqV0iT5mPO05RX8PQZ) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Hard Drive Gold \(Maya Jane Coles Remix\)](https://open.spotify.com/album/4GNWeMhLB2Pl3FDageeupB) | 5:13 | 2022-07-29 |  |
 | [Head Rush](https://open.spotify.com/track/7FZWiDRvXC91nwhTkquBzd) | [James View](https://open.spotify.com/artist/07CtYKvP7pqKd2aIBqhgpr) | [Growler EP](https://open.spotify.com/album/5MwQ72acWxo6t93UAVooUf) | 4:52 | 2022-07-29 |  |
 | [Heart Breaker](https://open.spotify.com/track/4WVuuNGFq9CusXUdaviYPd) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv) | [Heart Breaker](https://open.spotify.com/album/1UG9lHQS3y5z56owpsLlI1) | 6:14 | 2021-09-16 | 2022-07-30 |
 | [His Rope](https://open.spotify.com/track/02epNlK5mV917A8TzXoxso) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Her Revolution / His Rope](https://open.spotify.com/album/4ciK8DtBglOBd0FYznsg98) | 5:32 | 2021-09-16 | 2022-07-30 |

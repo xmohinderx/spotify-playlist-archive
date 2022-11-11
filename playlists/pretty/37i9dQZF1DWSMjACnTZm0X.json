@@ -1,13 +1,37 @@
 {
-  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi?si=hX0ud9u5TMGZP-zFPS5t6g\">Yaba Buluku Boyz</a>",
-  "num_followers": 3337,
+  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG?si=4hPgcoMARkObvNDG0CJSsQ\">Costa Titch</a>",
+  "num_followers": 3346,
   "original_name": "Piano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM4Mjk2MSwwMDAwMDAwMDNiMzcwNjVlYzE2ZjA0NDAyMDY1NDdmZTM4M2I4MjZh",
+  "snapshot_id": "MTY2ODExNzU0MCwwMDAwMDAwMGRiMWE0MDlhZTY1OWMzMzdlOTliMjA0NjIwZDUzZmQ3",
   "tracks": [
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Mr Big Flexa",
+        "url": "https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi"
+        },
+        {
+          "name": "Ma Gang Official",
+          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
+        }
+      ],
+      "duration_ms": 250671,
+      "name": "Goat",
+      "url": "https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4"
+    },
     {
       "added_at": "2022-11-02 09:56:01",
       "album": {
@@ -51,6 +75,38 @@
       "duration_ms": 230829,
       "name": "Zukunft Pink (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Mozambique (feat. 10x Guluva & Young Silly Coon)",
+        "url": "https://open.spotify.com/album/6jQrJD5qjoxVBBooTpHMEK"
+      },
+      "artists": [
+        {
+          "name": "Justin99",
+          "url": "https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI"
+        },
+        {
+          "name": "Star'Jazz",
+          "url": "https://open.spotify.com/artist/5iSqsyNKGA6wZt74I9m0t4"
+        },
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        },
+        {
+          "name": "10x Guluva",
+          "url": "https://open.spotify.com/artist/6ERjd6Gp7PLOeLcYdo17mW"
+        },
+        {
+          "name": "Young Silly Coon",
+          "url": "https://open.spotify.com/artist/3xxr6QSbGhTcj8c5DYWLVD"
+        }
+      ],
+      "duration_ms": 454698,
+      "name": "Mozambique (feat. 10x Guluva & Young Silly Coon)",
+      "url": "https://open.spotify.com/track/6y6XLG70Bys7LyDkN8lwhD"
     },
     {
       "added_at": "2022-09-22 21:59:00",
@@ -99,6 +155,22 @@
       "duration_ms": 168421,
       "name": "Sunmomi",
       "url": "https://open.spotify.com/track/5TqtBDyIdZiTpfJZL2o10M"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "EP Ya Baba",
+        "url": "https://open.spotify.com/album/0EkFZZ27esrer52Rqb9iF7"
+      },
+      "artists": [
+        {
+          "name": "Gusba Banana",
+          "url": "https://open.spotify.com/artist/0JQngxUcKlWPmUklxDidWb"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Mashonzha",
+      "url": "https://open.spotify.com/track/6fVhiCUu6bhwRQflSayHbh"
     },
     {
       "added_at": "2022-08-11 21:59:00",
@@ -291,6 +363,30 @@
       "duration_ms": 381466,
       "name": "Ekhaya",
       "url": "https://open.spotify.com/track/1T2pzBmz9yh5ddK8KZbtG7"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Kokokokoko",
+        "url": "https://open.spotify.com/album/3pfrpbYDEG3liawfrAI5Xk"
+      },
+      "artists": [
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        },
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        {
+          "name": "Theology HD",
+          "url": "https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH"
+        }
+      ],
+      "duration_ms": 259519,
+      "name": "Kokokokoko",
+      "url": "https://open.spotify.com/track/1wEARf9O4Y99NAY89Zk6Tw"
     },
     {
       "added_at": "2022-08-04 21:59:00",
@@ -545,6 +641,30 @@
       "url": "https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw"
     },
     {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Cleopatra (feat. Alex Price)",
+        "url": "https://open.spotify.com/album/0MIKGb3t0qcRRLftv6Nv99"
+      },
+      "artists": [
+        {
+          "name": "Dj Yo!",
+          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
+        },
+        {
+          "name": "Goya Menor",
+          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
+        },
+        {
+          "name": "Alex Price",
+          "url": "https://open.spotify.com/artist/2VbPcJ9yPMsZP3Ihap9hnv"
+        }
+      ],
+      "duration_ms": 175342,
+      "name": "Cleopatra (feat. Alex Price)",
+      "url": "https://open.spotify.com/track/3VkVbl3uuVnceUaGUlrN83"
+    },
+    {
       "added_at": "2022-06-16 21:59:00",
       "album": {
         "name": "Bathini (feat. Young Stunna & Artwork Sounds)",
@@ -679,8 +799,8 @@
     {
       "added_at": "2022-05-23 07:21:35",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v"
+        "name": "Rema Compilation",
+        "url": "https://open.spotify.com/album/0FWlT1szHKSCPkIkXAJFKL"
       },
       "artists": [
         {
@@ -690,7 +810,7 @@
       ],
       "duration_ms": 238911,
       "name": "Woman",
-      "url": "https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo"
+      "url": "https://open.spotify.com/track/1fxspkjz7rBZKTtVa8dwgg"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -719,6 +839,26 @@
       "duration_ms": 450000,
       "name": "Mystery Lady - Scorpion Kings Remix",
       "url": "https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Nitongoze (feat. Diamond Platnumz)",
+        "url": "https://open.spotify.com/album/1ZQ99HHidfORTcxmZDVF0o"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 185044,
+      "name": "Nitongoze (feat. Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/3nhcujaIb4YbrhRqIMZv7G"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -771,8 +911,8 @@
     {
       "added_at": "2022-05-23 07:21:35",
       "album": {
-        "name": "I Did It (Bum Bum)",
-        "url": "https://open.spotify.com/album/7E1fYgJc0JPn19Rj1dOj7G"
+        "name": "Lagos to Jozi",
+        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
       },
       "artists": [
         {
@@ -786,7 +926,7 @@
       ],
       "duration_ms": 223651,
       "name": "I Did It (Bum Bum)",
-      "url": "https://open.spotify.com/track/0Y1DdSpkxR1YX1lOxk1V6Z"
+      "url": "https://open.spotify.com/track/5BjWsMcUj81j4Ly58yQVP2"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -945,154 +1085,6 @@
       "url": "https://open.spotify.com/track/2M1Xc54nz93rStrYVA3lzU"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/258cdpLnvAW9YaxL8d0wNt"
-      },
-      "artists": [
-        {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/3rz6XDJwU2d1gBY5bbcdtT"
-        },
-        {
-          "name": "Sino Msolo",
-          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
-        },
-        {
-          "name": "Tweezy",
-          "url": "https://open.spotify.com/artist/25siXbZn4L4BKHPwZQmTI7"
-        },
-        {
-          "name": "Yumbs",
-          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
-        }
-      ],
-      "duration_ms": 453296,
-      "name": "Wamuhle",
-      "url": "https://open.spotify.com/track/2QXy2Boct78JseFVlEnR7C"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "All of This Remixes, Vol. 1",
-        "url": "https://open.spotify.com/album/2C7i3ULo1L5InPW5uKGyF5"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
-        },
-        {
-          "name": "Dlala Mlungu",
-          "url": "https://open.spotify.com/artist/0Z8ueK7EmNvhb6UQpET43Q"
-        }
-      ],
-      "duration_ms": 333951,
-      "name": "All of This - Major League Djz x Dlala Mlungu Remix",
-      "url": "https://open.spotify.com/track/6WPLujVPQnO6KKiKeM55JD"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Kunjani",
-        "url": "https://open.spotify.com/album/5A75lUyWtHmQy8u1qym21S"
-      },
-      "artists": [
-        {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
-        },
-        {
-          "name": "Sho Madjozi",
-          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
-        }
-      ],
-      "duration_ms": 261896,
-      "name": "Kunjani",
-      "url": "https://open.spotify.com/track/1eAoxRoicPL7yEBe2yUXg9"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Hallelu",
-        "url": "https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM"
-      },
-      "artists": [
-        {
-          "name": "Masterkraft",
-          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 213492,
-      "name": "Hallelu",
-      "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Oga",
-        "url": "https://open.spotify.com/album/4ikCqtLjgppUAO0b5mpCN5"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "Bontle Smith",
-          "url": "https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC"
-        },
-        {
-          "name": "Sayfar",
-          "url": "https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Oga",
-      "url": "https://open.spotify.com/track/08VqaGj8UrSeO6QeYAwdY2"
-    },
-    {
-      "added_at": "2022-08-04 21:59:00",
-      "album": {
-        "name": "OCEAN (GuiltyBeatz Remix)",
-        "url": "https://open.spotify.com/album/1jlNrH2DpKVDFGKUWtjoQz"
-      },
-      "artists": [
-        {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
-        }
-      ],
-      "duration_ms": 246371,
-      "name": "OCEAN - GuiltyBeatz Remix",
-      "url": "https://open.spotify.com/track/0R1LtMkJJxzE1cwKjwemkG"
-    },
-    {
       "added_at": "2022-08-11 21:59:00",
       "album": {
         "name": "Jaiye Foreign",
@@ -1111,26 +1103,6 @@
       "duration_ms": 190164,
       "name": "Jaiye Foreign",
       "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Tembisa",
-        "url": "https://open.spotify.com/album/0Rt6K8G2SbuCmjncX7B5lw"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Aymos",
-          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
-        }
-      ],
-      "duration_ms": 325636,
-      "name": "Tembisa",
-      "url": "https://open.spotify.com/track/1OdNCZD8SfPpXcDfwg0OMk"
     },
     {
       "added_at": "2022-05-23 07:21:35",
@@ -1155,30 +1127,6 @@
       "duration_ms": 412043,
       "name": "Mang' Dakiwe (Remix)",
       "url": "https://open.spotify.com/track/7fu1rvKAKfb4vxYJzgA6Vo"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Everything I Wanted (Amapiano Remixes)",
-        "url": "https://open.spotify.com/album/3B99jZUN7yZaC5EMk3mS09"
-      },
-      "artists": [
-        {
-          "name": "Mariechan",
-          "url": "https://open.spotify.com/artist/6uUSNroJE7n5EvrPre1VCI"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 459281,
-      "name": "Everything I Wanted (DJ Maphorisa & Kabza De Small Mix)",
-      "url": "https://open.spotify.com/track/58C02H66DFbJGMlh6wkung"
     }
   ],
   "unique_name": "Piano to the World",

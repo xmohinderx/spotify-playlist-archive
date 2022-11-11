@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: I Prevail",
-  "num_followers": 855726,
+  "num_followers": 855789,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0NTIwMCwwMDAwMDAwMDkzZWVkZTI2MDg5YjViZTViNDk0ZGRiYzdhYmJkNDgx",
+  "snapshot_id": "MTY2NzU0NTIwMCwwMDAwMDAwMGEwZDRhZWM5NGJiZDg0MzZhYjZmNTljOWRkYTQxZDA1",
   "tracks": [
     {
       "added_at": "2022-11-04 07:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-11-04 07:00:00",
       "album": {
-        "name": "Cross My Heart",
-        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
-      },
-      "artists": [
-        {
-          "name": "Eyes Wide Open",
-          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Cross My Heart",
-      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
-    },
-    {
-      "added_at": "2022-11-04 07:00:00",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 204040,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq"
+    },
+    {
+      "added_at": "2022-11-04 07:00:00",
+      "album": {
+        "name": "Cross My Heart",
+        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
+      },
+      "artists": [
+        {
+          "name": "Eyes Wide Open",
+          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Cross My Heart",
+      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
     },
     {
       "added_at": "2022-11-04 07:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-11-04 07:00:00",
       "album": {
-        "name": "Rain Down",
-        "url": "https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc"
-      },
-      "artists": [
-        {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
-        }
-      ],
-      "duration_ms": 247391,
-      "name": "Rain Down",
-      "url": "https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi"
-    },
-    {
-      "added_at": "2022-11-04 07:00:00",
-      "album": {
         "name": "Darkbloom",
         "url": "https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 209840,
       "name": "Plagued",
       "url": "https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF"
+    },
+    {
+      "added_at": "2022-11-04 07:00:00",
+      "album": {
+        "name": "Rain Down",
+        "url": "https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 247391,
+      "name": "Rain Down",
+      "url": "https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi"
     },
     {
       "added_at": "2022-11-04 07:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-11-04 07:00:00",
       "album": {
-        "name": "You Must Die",
-        "url": "https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 162894,
-      "name": "You Must Die",
-      "url": "https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E"
-    },
-    {
-      "added_at": "2022-11-04 07:00:00",
-      "album": {
         "name": "Venenosa",
         "url": "https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2022-11-04 07:00:00",
       "album": {
-        "name": "Ketamine",
-        "url": "https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke"
+        "name": "You Must Die",
+        "url": "https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj"
       },
       "artists": [
         {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
         }
       ],
-      "duration_ms": 172019,
-      "name": "Ketamine",
-      "url": "https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj"
+      "duration_ms": 162894,
+      "name": "You Must Die",
+      "url": "https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E"
     },
     {
       "added_at": "2022-11-04 07:00:00",
@@ -655,18 +639,18 @@
     {
       "added_at": "2022-11-04 07:00:00",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
+        "name": "Ketamine",
+        "url": "https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke"
       },
       "artists": [
         {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
         }
       ],
-      "duration_ms": 223050,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
+      "duration_ms": 172019,
+      "name": "Ketamine",
+      "url": "https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj"
     },
     {
       "added_at": "2022-11-04 07:00:00",
@@ -683,6 +667,22 @@
       "duration_ms": 201026,
       "name": "Sol",
       "url": "https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S"
+    },
+    {
+      "added_at": "2022-11-04 07:00:00",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 223050,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
     },
     {
       "added_at": "2022-11-04 07:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-11-04 07:00:00",
       "album": {
-        "name": "Deadly Potential",
-        "url": "https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy"
-      },
-      "artists": [
-        {
-          "name": "Unseen Faith",
-          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
-        },
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Deadly Potential",
-      "url": "https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp"
-    },
-    {
-      "added_at": "2022-11-04 07:00:00",
-      "album": {
         "name": "Coffin",
         "url": "https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 264306,
       "name": "Aching Longing",
       "url": "https://open.spotify.com/track/49UQKQom802JUWPq63lxEb"
+    },
+    {
+      "added_at": "2022-11-04 07:00:00",
+      "album": {
+        "name": "Deadly Potential",
+        "url": "https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy"
+      },
+      "artists": [
+        {
+          "name": "Unseen Faith",
+          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
+        },
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Deadly Potential",
+      "url": "https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp"
     },
     {
       "added_at": "2022-11-04 07:00:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2022-11-04 07:00:00",
       "album": {
+        "name": "NWWM",
+        "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
+      },
+      "artists": [
+        {
+          "name": "Borders",
+          "url": "https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO"
+        },
+        {
+          "name": "Dropout Kings",
+          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "NWWM",
+      "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
+    },
+    {
+      "added_at": "2022-11-04 07:00:00",
+      "album": {
         "name": "Dead Circus",
         "url": "https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY"
       },
@@ -887,22 +907,6 @@
       "duration_ms": 190250,
       "name": "Dead Circus",
       "url": "https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh"
-    },
-    {
-      "added_at": "2022-11-04 07:00:00",
-      "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
-      },
-      "artists": [
-        {
-          "name": "Our Promise",
-          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
-        }
-      ],
-      "duration_ms": 198657,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
     },
     {
       "added_at": "2022-11-04 07:00:00",
@@ -923,22 +927,18 @@
     {
       "added_at": "2022-11-04 07:00:00",
       "album": {
-        "name": "NWWM",
-        "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
       },
       "artists": [
         {
-          "name": "Borders",
-          "url": "https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO"
-        },
-        {
-          "name": "Dropout Kings",
-          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
+          "name": "Our Promise",
+          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
         }
       ],
-      "duration_ms": 182750,
-      "name": "NWWM",
-      "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
+      "duration_ms": 198657,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
     },
     {
       "added_at": "2022-11-04 07:00:00",

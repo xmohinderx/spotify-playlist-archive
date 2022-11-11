@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Smino
 
-321 songs - 17 hr 48 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
+322 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Not For Nothing \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Richer Than I Ever Been \(Deluxe\)](https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH) | 3:56 | 2022-01-28 |  |
 | [One More Chance](https://open.spotify.com/track/0oEpUfyFdrdakg2ZIBPu95) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [Subjxct 5](https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV), [Navy Blue](https://open.spotify.com/artist/2PmAn8zBjcG0goqfOmX43A) | [One More Chance](https://open.spotify.com/album/5NXS9OmiHYfXeVLy4DKW9u) | 4:24 | 2022-10-21 |  |
 | [One of Us](https://open.spotify.com/track/0KBg8fop4DsefGLKkkuenn) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:02 | 2022-07-22 |  |
-| [Ooh Ooh \(feat\. Kamaiyah\)](https://open.spotify.com/track/79Csbflmj17xJiATcjOlB8) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/1IXCMUaQ662JRUz6KOH0IS) | 3:48 | 2022-10-14 |  |
+| [Ooh Ooh \(feat\. Kamaiyah\)](https://open.spotify.com/track/79Csbflmj17xJiATcjOlB8) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/1IXCMUaQ662JRUz6KOH0IS) | 3:48 | 2022-10-14 | 2022-11-11 |
+| [Ooh Ooh \(feat\. Kamaiyah\)](https://open.spotify.com/track/0eYbr09DWlQfZSYJTvheeu) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [G Way 3](https://open.spotify.com/album/7hhRY1PXp3mnJy0pchCX04) | 3:48 | 2022-11-04 |  |
 | [Open Air](https://open.spotify.com/track/5JURxzoZ0r9FP6N01XRAAi) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:12 | 2022-04-22 | 2022-10-22 |
 | [Open Arms](https://open.spotify.com/track/2Sg5W2srrqlMwC6bqE0qsx) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Survivor's Guilt](https://open.spotify.com/album/6URnbR6SZsQmhopg3x68ea) | 2:44 | 2022-07-22 |  |
 | [Outlawz \(feat\. Jazmine Sullivan & 21 Savage\)](https://open.spotify.com/track/6rdKv5xmdOs3zsg6mpBK53) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Outlawz \(feat\. Jazmine Sullivan & 21 Savage\)](https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY) | 4:49 | 2021-11-12 | 2022-07-23 |

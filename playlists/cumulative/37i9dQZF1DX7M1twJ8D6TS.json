@@ -863,6 +863,24 @@
     {
       "album": {
         "name": "Happier Alone",
+        "url": "https://open.spotify.com/album/2PJdY41DZQOc7zaEfqxdP1"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224027,
+      "name": "Happier Alone",
+      "url": "https://open.spotify.com/track/1vvUJRVvs5XurGvVpj9i5B"
+    },
+    {
+      "album": {
+        "name": "Happier Alone",
         "url": "https://open.spotify.com/album/4WpXUnUqr8d45uNhH3HqEH"
       },
       "artists": [
@@ -891,7 +909,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 224027,
       "name": "Happier Alone",
       "url": "https://open.spotify.com/track/7vtbbBGH2hKTVMnhJlLpn7"
@@ -1154,6 +1172,24 @@
     },
     {
       "album": {
+        "name": "Rodeo Queen",
+        "url": "https://open.spotify.com/album/004kYUSCiElargxpZxoeiP"
+      },
+      "artists": [
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247186,
+      "name": "Horses in Heaven",
+      "url": "https://open.spotify.com/track/4qbSO1kx7OE4ZDOhA41h9C"
+    },
+    {
+      "album": {
         "name": "Horses in Heaven",
         "url": "https://open.spotify.com/album/5rHZUvMU0CGCA38fqhh7L8"
       },
@@ -1169,7 +1205,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 247186,
       "name": "Horses in Heaven",
       "url": "https://open.spotify.com/track/3IQqdI9Z4th4c7TcFwTdS7"
@@ -2431,7 +2467,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 246576,
       "name": "This Damn Song",
       "url": "https://open.spotify.com/track/2M6VNGj5BrClV62olW5OcR"
@@ -2453,6 +2489,24 @@
       "duration_ms": 246576,
       "name": "This Damn Song",
       "url": "https://open.spotify.com/track/2ODPQRkPAC77NTEhAsROVf"
+    },
+    {
+      "album": {
+        "name": "Acoustic Covers (Deluxe)",
+        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246576,
+      "name": "This Damn Song",
+      "url": "https://open.spotify.com/track/4Y59DQ2OlXBIcusVLs2XfU"
     },
     {
       "album": {

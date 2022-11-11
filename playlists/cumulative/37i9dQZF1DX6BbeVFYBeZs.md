@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-175 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+176 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,8 +114,9 @@
 | [Poems](https://open.spotify.com/track/2Q6S3qdjXAz6Gl83N7kVl8) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Poems](https://open.spotify.com/album/46UpqsSr4A8LuQ2eTF1fWH) | 2:26 | 2022-06-17 |  |
 | [Poesia](https://open.spotify.com/track/0NynGB7s6MfjI3hPo5dG8Z) | [Humberto Montoya](https://open.spotify.com/artist/62gwHrOGPCG9ZTH8HJpFde) | [Poesia](https://open.spotify.com/album/0NbGMkj7EFzNAPkvfzMPQ0) | 2:05 | 2022-08-17 |  |
 | [Pont\-Neuf](https://open.spotify.com/track/1aUihnmoI7VFaGnkyeuamf) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Pont\-Neuf](https://open.spotify.com/album/59efgTiQRg2BPHdD5fqdcV) | 3:04 | 2022-06-17 | 2022-08-18 |
+| [Preludio del valle](https://open.spotify.com/track/0wzQxAGzGl09uxJHQVWP8Z) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Preludio del valle](https://open.spotify.com/album/3bymqGhrl8dwY9BlSWU5Sw) | 2:31 | 2022-10-28 |  |
 | [Preludio del valle](https://open.spotify.com/track/0zLFC5UEE8pHiFCk3VdJW3) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Preludio del valle](https://open.spotify.com/album/6fceBxIT2s9h539LNpb90Z) | 2:31 | 2022-06-17 | 2022-07-29 |
-| [Preludio del valle](https://open.spotify.com/track/4zvQKekRAM8gUYBmkCPuTP) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Trazos](https://open.spotify.com/album/6uuhDerUvpdUD4giKbSRjs) | 2:31 | 2022-07-29 |  |
+| [Preludio del valle](https://open.spotify.com/track/4zvQKekRAM8gUYBmkCPuTP) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Trazos](https://open.spotify.com/album/6uuhDerUvpdUD4giKbSRjs) | 2:31 | 2022-07-29 | 2022-11-11 |
 | [Present Moments](https://open.spotify.com/track/4TV5Zl2N48iIATpHpcO10u) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Dançando](https://open.spotify.com/album/5ZBBJRTOzKoKBhxKXywfLk) | 3:11 | 2022-06-17 |  |
 | [Prosperidad](https://open.spotify.com/track/7mkQ2a3jgE3d4qbdgjPw6I) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Prosperidad](https://open.spotify.com/album/1flJyeI9kmqmR1AXN6SJ7D) | 3:46 | 2022-06-17 |  |
 | [Purechucho](https://open.spotify.com/track/6fkS6EqkQKsqOk4PLSaWzI) | [Ringunguinja](https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu) | [El Pejo](https://open.spotify.com/album/5jO5hpZ9DQ9GHqovA1jdoh) | 2:35 | 2022-06-17 | 2022-10-07 |

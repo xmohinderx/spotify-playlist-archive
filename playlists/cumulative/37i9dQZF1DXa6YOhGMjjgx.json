@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 188267,
       "name": "[Insert Girls Name Here]",
       "url": "https://open.spotify.com/track/3TXyUyEa1BtBvxuxxh0bW8"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 294173,
       "name": "Be By Your Side",
       "url": "https://open.spotify.com/track/1Vh0ZXykuBBR0mcERksAqw"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 178404,
       "name": "Burning Down a Denny's",
       "url": "https://open.spotify.com/track/3CYwtWdHsegf5DqGVNQ3JK"
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 201177,
       "name": "Going Clear",
       "url": "https://open.spotify.com/track/3SfnQmi3RLvIK4B2bGC4wg"
@@ -2249,7 +2249,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 241859,
       "name": "Lava Lamp Pisco",
       "url": "https://open.spotify.com/track/23TrkSJOvl2mnka8F6POxd"
@@ -2289,6 +2289,24 @@
       "duration_ms": 180000,
       "name": "Less Is More",
       "url": "https://open.spotify.com/track/7f0owLbR340tr059vrOu93"
+    },
+    {
+      "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/5HFHCbXFgWSVg6wzUlDTRu"
+      },
+      "artists": [
+        {
+          "name": "Demob Happy",
+          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Less Is More",
+      "url": "https://open.spotify.com/track/7w3fpRHULr70wtGdPfMufh"
     },
     {
       "album": {
@@ -2595,7 +2613,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 272666,
       "name": "My Honest Face",
       "url": "https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei"
@@ -2617,6 +2635,24 @@
       "duration_ms": 274053,
       "name": "My Honest Face",
       "url": "https://open.spotify.com/track/0UB9FchcGKnQ7GCDl9dJjF"
+    },
+    {
+      "album": {
+        "name": "My Honest Face",
+        "url": "https://open.spotify.com/album/52fKsRuzOum7y9iGC67GSn"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274053,
+      "name": "My Honest Face",
+      "url": "https://open.spotify.com/track/4H0Scy44MR3N43McpzUtjk"
     },
     {
       "album": {
@@ -3067,7 +3103,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 203064,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm"
@@ -3125,6 +3161,24 @@
       "duration_ms": 220816,
       "name": "Seven White Horses",
       "url": "https://open.spotify.com/track/6GRdjS6T0xO677c0h8rfj6"
+    },
+    {
+      "album": {
+        "name": "Seven White Horses",
+        "url": "https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB"
+      },
+      "artists": [
+        {
+          "name": "Starbenders",
+          "url": "https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220816,
+      "name": "Seven White Horses",
+      "url": "https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI"
     },
     {
       "album": {
@@ -3381,7 +3435,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 279463,
       "name": "T.I.K.",
       "url": "https://open.spotify.com/track/5E6L7A7Gg0jvdgB47tSXa4"
@@ -3425,10 +3479,32 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199928,
       "name": "TGIF (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/6yHGQ5QdOkjXzlsJXx88xe"
+    },
+    {
+      "album": {
+        "name": "TGIF (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6iJUFzxgiJKvrReWU0THNa"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199928,
+      "name": "TGIF (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/7MxfzO0meZnMOrrmDkQb4W"
     },
     {
       "album": {
@@ -3573,7 +3649,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 224306,
       "name": "This is Our Life",
       "url": "https://open.spotify.com/track/6ckVL9k9M43EKpeXwASuf6"

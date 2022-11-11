@@ -4,7 +4,7 @@
 
 > Fancy Hagood co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Music City has to offer!
 
-45 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/5JA3OzXsYtkJcZ1drSuF8x)
+46 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/5JA3OzXsYtkJcZ1drSuF8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Dirty Laundry](https://open.spotify.com/track/5evhsjVuWvgy2yIjzruUkm) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Dirty Laundry](https://open.spotify.com/album/0iugauMckC6uDrok1LO249) | 2:49 | 2021-06-01 |  |
 | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR) | 3:33 | 2021-06-01 |  |
 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 | 2021-06-01 |  |
-| [First Time](https://open.spotify.com/track/03R9GOTrB56l1znR4j5jhR) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:43 | 2021-06-01 |  |
+| [First Time](https://open.spotify.com/track/03R9GOTrB56l1znR4j5jhR) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:43 | 2021-06-01 | 2022-11-11 |
+| [First Time](https://open.spotify.com/track/2xdCrFLOOJ7VCvvaGAjnQh) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [First Time](https://open.spotify.com/album/3VOetHtDXdOu2ScKlUlyd3) | 2:43 | 2021-06-01 |  |
 | [First Time](https://open.spotify.com/track/71TiQOgPAUZzn3BEKS4Ku4) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/3sgLYw5U3KArFr36kFCyEr) | 2:43 | 2021-06-01 | 2022-07-29 |
 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 | 2021-06-01 |  |
 | [Good Man](https://open.spotify.com/track/4Nzqf2Fx6oIcJOEsRBnjbI) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:05 | 2021-06-01 |  |

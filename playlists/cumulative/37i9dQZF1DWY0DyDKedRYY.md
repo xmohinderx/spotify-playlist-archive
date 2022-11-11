@@ -4,7 +4,7 @@
 
 > Doechii is our newest RADAR artist.
 
-345 songs - 17 hr 59 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
+346 songs - 18 hr 3 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Arroz Con Leche](https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Arroz Con Leche](https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn) | 2:35 | 2022-04-08 | 2022-05-18 |
 | [Attachments \(feat\. Coi Leray\)](https://open.spotify.com/track/4nyRXQQkM69kmaxiyCKMCr) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Attachments \(feat\. Coi Leray\)](https://open.spotify.com/album/6CMpc5ukVsV1HJUWwLMHBJ) | 2:51 | 2021-12-01 | 2022-04-09 |
 | [Avísame \(with Nohemy\)](https://open.spotify.com/track/07uB4aCMcWWwYZw64TRQZJ) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P) | [Avísame \(with Nohemy\)](https://open.spotify.com/album/3nHPUsHILfc0zHjoFjHc8c) | 3:25 | 2022-04-08 | 2022-05-18 |
-| [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-09-06 |  |
+| [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-09-06 | 2022-11-11 |
+| [B.O.T.A\. \(Baddest of Them All\) \[Edit\] \- Radio Edit](https://open.spotify.com/track/0MUVKM0uQXXMtN09oxj9pB) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [BEST WORKOUT BEATS](https://open.spotify.com/album/095gE2jde1eeiAV1fn2Mdd) | 3:46 | 2022-09-06 |  |
 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 | 2021-12-01 | 2022-04-09 |
 | [Being Honest](https://open.spotify.com/track/3PbRjYudOMppYH3vjW0o8c) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:33 | 2021-12-01 | 2022-04-09 |
 | [Bellakeame](https://open.spotify.com/track/2ay6hILOrRtXpi7Wpsmasr) | [Roa](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Bellakeame](https://open.spotify.com/album/4HEW97ER8ogI1KdHns3WH5) | 2:03 | 2022-04-08 | 2022-05-18 |

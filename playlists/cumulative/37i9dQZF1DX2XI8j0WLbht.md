@@ -4,7 +4,7 @@
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-125 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/2QwlzrEjUwHNpvdCZVIDMX)
+128 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/2QwlzrEjUwHNpvdCZVIDMX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Besos de Mezcal](https://open.spotify.com/track/3GoUbPBzAC6ABtFNdJmniO) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Indestructible](https://open.spotify.com/album/6VBZup38Otx23Ff3tx9qfW) | 3:08 | 2022-03-04 |  |
 | [Candela / Morena](https://open.spotify.com/track/56vTla01WudJTnLHGCbLEx) | [Pa' Sumecha](https://open.spotify.com/artist/5Mk2GwwJut38y1BxxfDyka) | [Son Jarocho](https://open.spotify.com/album/3Oq8SYIASucRZNlegqqIst) | 9:55 | 2022-03-04 | 2022-07-29 |
 | [Candela / Morena](https://open.spotify.com/track/68WB8EIHWyQEWOSyqujGPi) | [Pa' Sumecha](https://open.spotify.com/artist/5Mk2GwwJut38y1BxxfDyka) | [Son Jarocho](https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu) | 9:55 | 2022-03-04 |  |
-| [Cariñito](https://open.spotify.com/track/03dzTYCKFMjo7qwbYec61S) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:39 | 2022-03-04 |  |
+| [Cariñito](https://open.spotify.com/track/03dzTYCKFMjo7qwbYec61S) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:39 | 2022-03-04 | 2022-11-11 |
 | [Cariñito](https://open.spotify.com/track/5pCmR2xzpvlNXKvYTmiJ6S) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Cariñito](https://open.spotify.com/album/5A4QVw5WA5lxKZ38hwxHly) | 3:39 | 2022-03-04 | 2022-07-29 |
+| [Cariñito](https://open.spotify.com/track/0ZLtbVx0ublaucYlwSZ1Y0) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile \(Edición Especial\)](https://open.spotify.com/album/0kVxx8Q2lvS9lurAvysbJv) | 3:39 | 2022-03-04 |  |
 | [Cascabel](https://open.spotify.com/track/0xehShyVfkqLIJPNhPvLpY) | [Ariles](https://open.spotify.com/artist/7v4Q7XBBDiCUrSOgWoi5PO) | [Son Jarocho](https://open.spotify.com/album/0cJtBVpwDMgRJAkApvsyup) | 7:05 | 2022-03-04 |  |
 | [Cascabel](https://open.spotify.com/track/7KMZLP9Ehk6rbFHs6F3QWR) | [Centeno](https://open.spotify.com/artist/0SXDnCbgaeQMMXjXaspnUb) | [Cascabel](https://open.spotify.com/album/4LKr3W9nb0ZAU56TsKgye5) | 3:14 | 2022-03-04 |  |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 | 2022-04-20 |  |
@@ -63,7 +64,8 @@
 | [La Bamba Rebelde](https://open.spotify.com/track/61eRbW77tBH1SjQrGkZvdt) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/0o4Yp01humYmlsZ4Jnhs3g) | 5:21 | 2022-03-04 | 2022-07-29 |
 | [La Bamba Rebelde](https://open.spotify.com/track/3cyREPYKAMQNfki246eknU) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 5:23 | 2022-03-04 |  |
 | [La Bruja](https://open.spotify.com/track/4xCF91YN6bBBjyinIjF3nQ) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [La Bruja](https://open.spotify.com/album/65mbMV0ibFBZEW4NIqzbRy) | 3:39 | 2022-03-04 | 2022-07-29 |
-| [La Bruja](https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Ten Spins Round the Sun \(10 Year Anniversary Album\)](https://open.spotify.com/album/6S64UMOLWRLhuUwdi7S0qi) | 3:39 | 2022-03-04 |  |
+| [La Bruja](https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Ten Spins Round the Sun \(10 Year Anniversary Album\)](https://open.spotify.com/album/6S64UMOLWRLhuUwdi7S0qi) | 3:39 | 2022-03-04 | 2022-11-11 |
+| [La Bruja](https://open.spotify.com/track/4qKhQkzaHv2JjuOwTjqeQV) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [La Bruja](https://open.spotify.com/album/7DkmzX4YfIgH13348gjXST) | 3:39 | 2022-03-04 |  |
 | [La Canícula](https://open.spotify.com/track/5kQ2OzJ6OJZgkc3u7P65ey) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Canícula](https://open.spotify.com/album/5fw1tmc1GBEunY8wjXgGBA) | 3:07 | 2022-03-04 |  |
 | [La llorona](https://open.spotify.com/track/4Mq73FvzLlMdy0VuOvVzjN) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 6:44 | 2022-03-04 |  |
 | [La Llorona](https://open.spotify.com/track/4c9VVKlTrfrIzNbEyDWYzO) | [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [La Llorona](https://open.spotify.com/album/3sV4fTa3XvPRJEF1MSWpks) | 5:48 | 2022-03-04 |  |
@@ -80,8 +82,9 @@
 | [Lágrimas Negras](https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Lágrimas Negras](https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ) | 5:18 | 2022-03-04 |  |
 | [Mariquita, María](https://open.spotify.com/track/19vFUwhgotqh80npE8xFKO) | [Tonana](https://open.spotify.com/artist/6174y8dXW0u3e5i5Y1xo9g) | [Tonana](https://open.spotify.com/album/5oCRFr4Jio2bFZoRfpRtD7) | 3:49 | 2022-03-04 |  |
 | [Mañana Sureña](https://open.spotify.com/track/5z5qmE6mS3PJ52Ld5psFhp) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mañana Sureña](https://open.spotify.com/album/7EYn7eWr2kmXcXgE1zOLzS) | 4:51 | 2022-03-04 |  |
+| [Mezcal](https://open.spotify.com/track/0nY56BAHCxcX7XVrcUG9dA) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Fièvre](https://open.spotify.com/album/6Df5Ml1ZfUVn1vfJEMULyl) | 3:52 | 2022-03-04 |  |
 | [Mezcal](https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo) | 3:52 | 2022-03-04 | 2022-10-14 |
-| [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 | 2022-03-04 |  |
+| [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 | 2022-03-04 | 2022-11-11 |
 | [Mi Conga Es De Akokán](https://open.spotify.com/track/6FJ0VplefpgvlK4sqzDwlE) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [Mi Conga Es De Akokán](https://open.spotify.com/album/7j6GwM7a2pz8J1kIfOTodZ) | 3:32 | 2022-03-04 |  |
 | [Mis Muertos](https://open.spotify.com/track/4f0MX5DNAc2qwP1pSI7YHT) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/6ZoGWwn54s7pE5Mv3H9PqD) | 2:21 | 2022-03-04 | 2022-07-29 |
 | [Mis Muertos](https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em) | 2:21 | 2022-03-04 |  |

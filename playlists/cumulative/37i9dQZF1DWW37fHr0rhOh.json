@@ -37,10 +37,28 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 123025,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/43Bq77lTBLMxEf5phduzKH"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/5pkTyzCT0J9jF82k4WC8Tc"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123025,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/7jtQO77dvRhXpeOKAva25x"
     },
     {
       "album": {
@@ -343,10 +361,28 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 255053,
       "name": "Hidden Heroes",
       "url": "https://open.spotify.com/track/3KxtrZs43aVh8dYw8OwDL1"
+    },
+    {
+      "album": {
+        "name": "Hidden Heroes (Made Popular by The Talleys) [Performance Track]",
+        "url": "https://open.spotify.com/album/5kfhO6C9SrQYC40ZFMQUiO"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Performance Tracks",
+          "url": "https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253053,
+      "name": "Hidden Heroes (Demonstration)",
+      "url": "https://open.spotify.com/track/6cGwowaGo9Wt4pwGGDOVny"
     },
     {
       "album": {
@@ -477,10 +513,28 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 289760,
       "name": "If You Knew Him",
       "url": "https://open.spotify.com/track/4lWaLcpZhP7GgTqFgjc5t7"
+    },
+    {
+      "album": {
+        "name": "Daywind 30: 30 Years Of Southern Gospel Excellence",
+        "url": "https://open.spotify.com/album/4uBSJsvF2byS5gRlvTiavx"
+      },
+      "artists": [
+        {
+          "name": "The Perrys",
+          "url": "https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291720,
+      "name": "If You Knew Him",
+      "url": "https://open.spotify.com/track/3gXHhrxJLiGR4ujyzE2MTZ"
     },
     {
       "album": {
@@ -782,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Next Cloud (Made Popular By The Kingsmen) [Performance Track]",
+        "url": "https://open.spotify.com/album/3Mqj0Sj3NO2pYeBH7TAp2v"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Performance Tracks",
+          "url": "https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231506,
+      "name": "Next Cloud (Demonstration in C)",
+      "url": "https://open.spotify.com/track/42QpDYWAsjh8r6siXDVQwS"
+    },
+    {
+      "album": {
         "name": "We Will Stand Our Ground",
         "url": "https://open.spotify.com/album/2mK1OSCYxXpeHgh4kUZm0D"
       },
@@ -865,10 +937,28 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 281786,
       "name": "Pray On the Little Days",
       "url": "https://open.spotify.com/track/6rewBlPgraytKwejxDd4A0"
+    },
+    {
+      "album": {
+        "name": "Pray On the Little Days [Made Popular by Mark Bishop] (Performance Track)",
+        "url": "https://open.spotify.com/album/0suhsrbjZFl0dgqFP962Ic"
+      },
+      "artists": [
+        {
+          "name": "Mark Bishop",
+          "url": "https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280013,
+      "name": "Pray On the Little Days - Demonstration in B-C#",
+      "url": "https://open.spotify.com/track/7rRXM2Ha49osbVwbierHMD"
     },
     {
       "album": {
@@ -1161,7 +1251,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 340773,
       "name": "Sometimes It Takes A Mountain",
       "url": "https://open.spotify.com/track/0LpbCChXvttSqSi51Wnfo7"
@@ -1183,6 +1273,24 @@
       "duration_ms": 340773,
       "name": "Sometimes It Takes A Mountain",
       "url": "https://open.spotify.com/track/5XX76HSOKKdewC3wZ49sdo"
+    },
+    {
+      "album": {
+        "name": "Gaither Classics",
+        "url": "https://open.spotify.com/album/6Bd2Fn0S5Q6kADVDA7tcUO"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342026,
+      "name": "Sometimes It Takes A Mountain",
+      "url": "https://open.spotify.com/track/6WLtVTxSBD5kZxuHsxGoag"
     },
     {
       "album": {
@@ -1377,7 +1485,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 231626,
       "name": "The Next Cloud",
       "url": "https://open.spotify.com/track/5UhDenv71Txc65I7rIMWVk"
@@ -1575,7 +1683,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 196160,
       "name": "Unspoken Request",
       "url": "https://open.spotify.com/track/0YgjI0mxkyf52glsaxk2oX"
@@ -1597,6 +1705,24 @@
       "duration_ms": 196160,
       "name": "Unspoken Request",
       "url": "https://open.spotify.com/track/6twhBwsKg8IPd0idLy5Zit"
+    },
+    {
+      "album": {
+        "name": "Unspoken Request (Made Popular by The McKameys) [Performance Track]",
+        "url": "https://open.spotify.com/album/2gX7DzWxGd09iVEroSp1rS"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Performance Tracks",
+          "url": "https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193386,
+      "name": "Unspoken Request (Performance Track Demonstration in C)",
+      "url": "https://open.spotify.com/track/0p5ruUrdjKfGTVK9AMARO3"
     },
     {
       "album": {
@@ -1636,6 +1762,24 @@
     },
     {
       "album": {
+        "name": "Saving Grace: A Southern Gospel Collection, Volume 2",
+        "url": "https://open.spotify.com/album/2TMCK04TXbJpNTkwcZcYvn"
+      },
+      "artists": [
+        {
+          "name": "The Blackwood Brothers",
+          "url": "https://open.spotify.com/artist/3GgfNlLtZp79tPYCTQvG66"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134106,
+      "name": "You Can Find What I Found",
+      "url": "https://open.spotify.com/track/3tmRnBrLUxXJqQybD69Usq"
+    },
+    {
+      "album": {
         "name": "Forever: 80th Anniversary Recording",
         "url": "https://open.spotify.com/album/6vPk10tx1o4cy6HVikmTqX"
       },
@@ -1647,7 +1791,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 132093,
       "name": "You Can Find What I Found",
       "url": "https://open.spotify.com/track/031WW1NOdbLJdKImkq7wEg"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,305 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,316 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 70 | [Bandages](https://open.spotify.com/track/32z65nCDfiHwd7Ly1AyN2t) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Bandages](https://open.spotify.com/album/7qUzSfHicu7sV7EIflvMtR) | 2:54 |
 | 71 | [Waterfall](https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [La cascade](https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo) | 3:07 |
 | 72 | [The Current](https://open.spotify.com/track/6uu7udcraPTdInoWMtcGka) | [Katherine Fischer](https://open.spotify.com/artist/4JeHckTNyuauGu638Tz6no) | [The Current](https://open.spotify.com/album/1Xqov9cUBzmDVU6LIMacjD) | 3:03 |
-| 73 | [No Body](https://open.spotify.com/track/2T9s8CK07B6dElJ6fmHeyt) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Someday is Today](https://open.spotify.com/album/5CnTQkaRdKn8NQ29Ig9gKe) | 4:33 |
+| 73 | [No Body](https://open.spotify.com/track/1sSLVuaVThvfUjGRUuopgA) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Miss Miss Miss](https://open.spotify.com/album/29368c8WE9XT7lsmkPG5GY) | 4:33 |
 | 74 | [drowning](https://open.spotify.com/track/2CCMmAVXaG3LO2t3Aj4L5G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [drowning](https://open.spotify.com/album/5Ytwvvh8F2E4pszQQFFv7i) | 3:06 |
-| 75 | [iknowiknow](https://open.spotify.com/track/7ig0m6wR3xUP0ECJR1iJkL) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [WOAH](https://open.spotify.com/album/0ucs6jX7iFtv1e1SS8HTO5) | 2:10 |
+| 75 | [iknowiknow](https://open.spotify.com/track/06QdpP2rRADWxOdNaUn1rl) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [iknowiknow](https://open.spotify.com/album/0lKuwrBnAHiDBXh0mFx9Z3) | 2:10 |
 | 76 | [With You](https://open.spotify.com/track/3s9hD6HdtpeaIbr2gxgGJr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 2:51 |
 | 77 | [Heavy Heart](https://open.spotify.com/track/0OmapDIHy05UtpIf4eG60E) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [That Was You and Me](https://open.spotify.com/album/02erdeh5796mUBRQLIi6qH) | 3:10 |
 | 78 | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 |
 | 100 | [Snake](https://open.spotify.com/track/3AYCM68uOBBJohCXZ107P0) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Snake](https://open.spotify.com/album/0dryzQjbnmvdyOVr2q4Rkr) | 4:04 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDFjOTc0NzQxMGNlZjk1YzE1NDBjOGNkNGI2ZWEzNTM2`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGE0ODFmYTZjNzMwZGU5YTAzZWQ2ZGU3MTAyNDY0Mjk2`

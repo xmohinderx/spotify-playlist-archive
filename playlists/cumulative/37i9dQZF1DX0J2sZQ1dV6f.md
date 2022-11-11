@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-193 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/0Zp5ISfQqmS4W6Y0xRDYYd)
+194 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/0Zp5ISfQqmS4W6Y0xRDYYd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Culo](https://open.spotify.com/track/7A7hQYnll4bWw4uw8mR4rl) | [Ben Carrillo](https://open.spotify.com/artist/2LaHOt5YZlFAhZ22KDI5fS) | [Nirvana](https://open.spotify.com/album/5YGkxBye5c4FTIuDnWAkcH) | 2:38 | 2022-03-21 | 2022-04-20 |
 | [Curazao](https://open.spotify.com/track/2gMau9LsRZtWOrq5cBGywB) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Curazao](https://open.spotify.com/album/6uzezSBR2loiWEjeRFu8VM) | 3:59 | 2022-03-21 | 2022-07-09 |
 | [Dale Duro](https://open.spotify.com/track/2i2LSBD8eAINyo9G9nZEfa) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Diaz Antes](https://open.spotify.com/album/5gk9ozZKJuosICdYgwa5JW) | 3:05 | 2022-03-21 | 2022-04-20 |
-| [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 | 2022-07-28 |  |
+| [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 | 2022-07-28 | 2022-11-11 |
 | [Dile](https://open.spotify.com/track/72YHgP5Zueyh9ilIjkaEaB) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Dile/Intocable](https://open.spotify.com/album/4kcgkJgiTg9eUIhX2ZRuJo) | 3:25 | 2022-04-25 | 2022-07-29 |
+| [Dile](https://open.spotify.com/track/2H76zGXt2hHBeWWzbcgH1i) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Perreo On Fire](https://open.spotify.com/album/0tIE049CaXlx8hsUS0cKeM) | 3:26 | 2022-11-02 |  |
 | [El Doggy \(feat\. Ovi & Randy\) \- Perreo](https://open.spotify.com/track/2HpFUVAWXnE9PbMTXaxtIT) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Randy](https://open.spotify.com/artist/6J4e8oWHITp1msfeyZg66B) | [El Doggy \(feat\. Ovi & Randy\) \[Perreo\]](https://open.spotify.com/album/2S5Py3y97OSaYRs8Fzldv9) | 3:00 | 2022-07-08 |  |
 | [El Efecto](https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [El Efecto](https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r) | 3:37 | 2022-07-08 |  |
 | [El Efecto \- Remix](https://open.spotify.com/track/74j34STf8L6uADnTN69ohv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [El Efecto \(Remix\)](https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo) | 4:49 | 2022-04-19 | 2022-07-09 |

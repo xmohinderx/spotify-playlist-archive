@@ -4,7 +4,7 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-121 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/7vO4O5wNNjqWMnmzz1WRbr)
+122 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/7vO4O5wNNjqWMnmzz1WRbr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [DNA of a Locksmith](https://open.spotify.com/track/7jMJGOAmkXVTXEefBkI7iw) | [Pelin Pelin](https://open.spotify.com/artist/1n18TXS3Ht4GrRSqySy8qe) | [Scenic Route \- The Road Less Travelled Vol\. 1 \(Compilation\)](https://open.spotify.com/album/70AivDpenFkFM1tYl7v4Yx) | 2:12 | 2022-10-10 |  |
 | [Don't Come Back](https://open.spotify.com/track/40abQyBSHucRHdknpYereh) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Hi\-Fidelity](https://open.spotify.com/album/2SmiEsb9wHeMYWAtqfvl7q) | 3:37 | 2022-09-16 | 2022-11-09 |
 | [DON'T CRY 4 ME](https://open.spotify.com/track/5woU0nbpPOCYEvVFTWX23V) | [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [4 THA HOMIEZ](https://open.spotify.com/album/7tkk5pnSzfaxPQExYTUPLI) | 3:23 | 2022-09-16 | 2022-11-09 |
-| [drifting](https://open.spotify.com/track/2eF73epcx80GqHL6pR7nyE) | [NEY LIQA](https://open.spotify.com/artist/4O5Ly3iCRwSJuxyDMPePV7), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Tamim](https://open.spotify.com/artist/0UxFTsSoaP5EfSnsj3mzuD) | [drifting](https://open.spotify.com/album/5iq1qPDIk9UrhK6JQPTM0U) | 3:41 | 2022-10-10 |  |
+| [drifting](https://open.spotify.com/track/2eF73epcx80GqHL6pR7nyE) | [NEY LIQA](https://open.spotify.com/artist/4O5Ly3iCRwSJuxyDMPePV7), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Tamim](https://open.spotify.com/artist/0UxFTsSoaP5EfSnsj3mzuD) | [drifting](https://open.spotify.com/album/5iq1qPDIk9UrhK6JQPTM0U) | 3:41 | 2022-10-10 | 2022-11-11 |
 | [Drifting Thru \(feat\. Dayor\)](https://open.spotify.com/track/41G3cbF7mPqwmBs7ZaApT8) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Dayor](https://open.spotify.com/artist/3jaMpJnB8UCixGAlNJU6sD) | [ovrdose.](https://open.spotify.com/album/0hF4X9O2CDVKkowMz3SIdy) | 3:44 | 2022-10-10 |  |
 | [Dust](https://open.spotify.com/track/5Go4qXmqUAypKZKCI3ynck) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Icons](https://open.spotify.com/album/5sJJC4UoKTfJaW0jO6YYCG) | 5:05 | 2022-09-16 | 2022-11-09 |
 | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 | 2022-09-16 | 2022-11-09 |
@@ -98,6 +98,7 @@
 | [Reject](https://open.spotify.com/track/0wHM0iZGIGesNlXMD3itps) | [nil00](https://open.spotify.com/artist/3TADf84189Yznq4sPkRrXs) | [00](https://open.spotify.com/album/5RxACHCu81dsGxQkiWbsg0) | 3:00 | 2022-11-08 |  |
 | [Ressaca](https://open.spotify.com/track/32Gt9yyt4yDKD8sVyGS1ig) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Ressaca](https://open.spotify.com/album/6XDY3vEmW4Y2FDrIEnaht5) | 3:25 | 2022-09-16 | 2022-11-09 |
 | [RIDE WITH ME](https://open.spotify.com/track/1TJOIVjPHbnqloF9pvDOf6) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [RIDE WITH ME](https://open.spotify.com/album/5tY1nlCQNEqmtXmTxgblRc) | 2:57 | 2022-11-08 |  |
+| [Rose Rouge](https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [Rose Rouge](https://open.spotify.com/album/7DodMymoQ0sFG6baosag8D) | 4:37 | 2022-11-10 |  |
 | [Run The Credits](https://open.spotify.com/track/6EUTtLcAwmiHt73el9kfKP) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Hideous Bastard](https://open.spotify.com/album/4l3zlqIjR8K1tB1b8Yyn0f) | 4:21 | 2022-09-16 | 2022-11-09 |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-16 | 2022-11-09 |
 | [Sangoma](https://open.spotify.com/track/729WnoXA7mkkO2prQoXSvI) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 2:45 | 2022-09-16 | 2022-10-11 |

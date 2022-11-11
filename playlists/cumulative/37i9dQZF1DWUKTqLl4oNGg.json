@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Road Trip Hits",
+        "url": "https://open.spotify.com/album/4INtVvtW2OSy4FsYislcw3"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "date_added": "2019-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "California Dreamin' - Single Version",
+      "url": "https://open.spotify.com/track/5Ic5sCfnqBwazsdRpvihju"
+    },
+    {
+      "album": {
         "name": "If You Can Believe Your Eyes & Ears",
         "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 162373,
       "name": "California Dreamin' - Single Version",
       "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
@@ -862,6 +880,24 @@
     },
     {
       "album": {
+        "name": "Autumn Jazz",
+        "url": "https://open.spotify.com/album/6ueI6AlonRqr37d90fwYss"
+      },
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "date_added": "2019-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218893,
+      "name": "Peaches En Regalia",
+      "url": "https://open.spotify.com/track/2OHgHf7E58OPmRk1vtvqSW"
+    },
+    {
+      "album": {
         "name": "Hot Rats",
         "url": "https://open.spotify.com/album/0WYYrC9My9rYWigac003hw"
       },
@@ -873,7 +909,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 218893,
       "name": "Peaches En Regalia",
       "url": "https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l"
@@ -970,6 +1006,24 @@
     },
     {
       "album": {
+        "name": "Summer BBQ",
+        "url": "https://open.spotify.com/album/4dPMpSyZfWwCvCQaJyrZpj"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2019-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "Sweet Baby James",
+      "url": "https://open.spotify.com/track/0prWSuAoWYurPMH6v0SAJe"
+    },
+    {
+      "album": {
         "name": "Sweet Baby James",
         "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
       },
@@ -999,7 +1053,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 173733,
       "name": "Sweet Baby James - 2019 Remaster",
       "url": "https://open.spotify.com/track/17PXXzOygMyXXUNLngVN5u"

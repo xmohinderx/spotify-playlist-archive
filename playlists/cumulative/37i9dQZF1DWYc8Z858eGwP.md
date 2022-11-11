@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=s7Ba4WY\_RJ63\_SmmSavT\-g">Black Sherif </a>
 
-133 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
+135 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Early Momo](https://open.spotify.com/track/3wYuNJPSFESv8kQ5HMQaGA) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Good Girl LA](https://open.spotify.com/artist/0qiNIeeeTOtNE6YHZ0c56e) | [Early Momo](https://open.spotify.com/album/202NJs9xDY00wxMTSRQhVu) | 3:13 | 2021-05-03 | 2022-05-06 |
 | [Effects Of Thoughts](https://open.spotify.com/track/78ACXVGjnl6C0R8IbMhePg) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Effects Of Thoughts](https://open.spotify.com/album/0ZuwDdFNfDG6bCRmGyLpPa) | 2:51 | 2021-05-21 | 2022-05-06 |
 | [Ekorso](https://open.spotify.com/track/04qEuAt4TR3p2KQlJecNsu) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Ekorso](https://open.spotify.com/album/52WRXL8Z5JeODCqBU39Ork) | 3:44 | 2021-05-03 | 2022-05-06 |
-| [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-08-22 |  |
+| [Electricity](https://open.spotify.com/track/4SQvlCmuP6yYfFXO0Ge29z) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Just Pop Hits](https://open.spotify.com/album/60oLjos6nFcbMOQAykbxdN) | 2:12 | 2022-09-15 |  |
+| [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-08-22 | 2022-11-11 |
 | [Enjoyment](https://open.spotify.com/track/0C1wC8uhOzENMF59dxYmnK) | [Jujuboy Star](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a) | [Enjoyment](https://open.spotify.com/album/5OCy2YLDVn8yNVwxVVW7E1) | 3:06 | 2021-05-03 | 2022-05-06 |
 | [Everything](https://open.spotify.com/track/4ZTfcSSj7D52KPzgetsqip) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA) | [Small World](https://open.spotify.com/album/2L3Bo8bYXwCxD1Njtmx80W) | 3:11 | 2021-05-03 | 2022-05-06 |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2022-05-05 | 2022-11-04 |
@@ -62,7 +63,8 @@
 | [Homecoming](https://open.spotify.com/track/4JarBqnRDomlBMgwQvYufj) | [Tatum](https://open.spotify.com/artist/2QEcI3EFfkqudULt1yKWKJ) | [Homecoming](https://open.spotify.com/album/6RbwKieTmXS5vY8xFGklTx) | 3:35 | 2021-10-14 | 2022-05-06 |
 | [Hot Stuff](https://open.spotify.com/track/6kl5YOLuMKktqFK2db4CBo) | [UBeyond](https://open.spotify.com/artist/1fg6FOcNJXJNFg2ejI6ZXc), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [Glitch Vol\. 2: The Future is Now](https://open.spotify.com/album/4L3QTRI4nyNhhBJkuSUY4c) | 4:22 | 2022-05-05 | 2022-07-01 |
 | [Hustlers Prayer \(feat\. A\-Reece\)](https://open.spotify.com/track/20n6BIeYGqoNZOcPll4DGL) | [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Pheli Makaveli](https://open.spotify.com/album/5Q697iJ7riLxRMBvJqbXPb) | 3:39 | 2021-10-14 | 2022-05-06 |
-| [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2022-08-25 |  |
+| [i'm a mess](https://open.spotify.com/track/2w59syAry1MicY2KKlfBYm) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [I'm Good \- Top Hits](https://open.spotify.com/album/2byDsnMrcXS1xNrCa7GPpR) | 2:33 | 2022-09-15 |  |
+| [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2022-08-25 | 2022-11-11 |
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2022-08-25 |  |
 | [In My Dreams Last Night](https://open.spotify.com/track/0Tupq0XA3sxGgbqMHsqVM7) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [In My Dreams Last Night](https://open.spotify.com/album/3IArDU57iCdwaSv5qT3dhC) | 3:38 | 2021-05-21 | 2022-05-06 |
 | [In My Mind \- A COLORS SHOW](https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [In My Mind \- A COLORS SHOW](https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd) | 2:16 | 2022-08-22 |  |

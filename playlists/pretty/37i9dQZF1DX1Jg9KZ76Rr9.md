@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 
 > A look back at some of the most impactful songs of 2017.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,833 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,835 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 | 14 | [No Good](https://open.spotify.com/track/0gnS1k4dyGPuD3TtHFaCD8) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [VINYL: Music From The HBO® Original Series \- Vol\. 1](https://open.spotify.com/album/3K6FbYh9Hlet8XXryMuqPc) | 3:55 |
 | 15 | [Love Is Mystical](https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:34 |
 | 16 | [The Man](https://open.spotify.com/track/5aWhs651KYM26HYM16kRdk) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:10 |
-| 17 | [Walk On Water](https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:05 |
-| 18 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 |
+| 17 | [Walk On Water](https://open.spotify.com/track/2x58hfSPTxHhWAKEf3H5ic) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [New Rock Hits](https://open.spotify.com/album/29A9CcxgHaM77ZpaikWGeG) | 3:05 |
+| 18 | [Believer](https://open.spotify.com/track/1yLWMKQfnoTKbkP57WcUR8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Summer Vacation Roadtrip](https://open.spotify.com/album/3HN6SAS06UO6DfYcMcOe06) | 3:24 |
 | 19 | [Cold Cold Cold](https://open.spotify.com/track/1Q3t9fWvHUXKsMmpD2XpUu) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:34 |
 | 20 | [Sorry](https://open.spotify.com/track/6rAXHPd18PZ6W8m9EectzH) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
 | 21 | [It's A Trip!](https://open.spotify.com/track/6IY3cC281mz9q0bViUEldz) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Content](https://open.spotify.com/album/5RKLyPZ4P8WhO1uxDMXGe7) | 3:03 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 | 45 | [Holy Mountain](https://open.spotify.com/track/7iQmD0bfguAQOpU1V3Bp8w) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Who Built The Moon?](https://open.spotify.com/album/2pzI39O9jAVFghND0SiQHm) | 3:54 |
 | 46 | [KILL4ME](https://open.spotify.com/track/6UIo6YbaXihIZ72MWUpcGb) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Heaven Upside Down](https://open.spotify.com/album/6kbfR3NJmBGlgsTPAYmezz) | 3:59 |
 | 47 | [Song \#3](https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:16 |
-| 48 | [Champion](https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:12 |
+| 48 | [Champion](https://open.spotify.com/track/2JioiIliFNxC1yx3KsIGlx) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Boxing workout music 2020](https://open.spotify.com/album/7MawaenOFJRETzCCmO05Sv) | 3:12 |
 | 49 | [Lullaby](https://open.spotify.com/track/4GVECHfy7uEukej163TsnA) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Modern Ruin](https://open.spotify.com/album/76ZaWI0Q5lVqtv67P8BsGE) | 3:14 |
 | 50 | [Alone](https://open.spotify.com/track/6c9xVWbPeVPgrmWTYYeMTr) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:41 |
 | 51 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 | 88 | [Pain](https://open.spotify.com/track/59P1nrdEImkAKa1nyW9X2e) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 5:30 |
 | 89 | [Periscope \(feat\. Skylar Grey\)](https://open.spotify.com/track/5ADZl5Ty5O9EGy8ABSqXCg) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:36 |
 | 90 | [So Tied Up \- moreBishop](https://open.spotify.com/track/4IX15vcT5ZqDY7AlQcPB9a) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC), [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [SO SO SO SO Tied Up](https://open.spotify.com/album/2ocwMuAbMdEdvx2aSbD0Xp) | 3:11 |
-| 91 | [Sober Up \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5jiYx70OBzEI99jx1Gn3FN) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click](https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC) | 3:38 |
+| 91 | [Sober Up \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/3R60V1uJ11KayIvfEiZLy4) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click \(Deluxe Edition\)](https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5) | 3:38 |
 | 92 | [Thunder](https://open.spotify.com/track/2zffJrsswcDnVhLW5sXYsp) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Plastic Soul](https://open.spotify.com/album/0LASSuakCUPGw4mVBSnXnA) | 3:43 |
-| 93 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
+| 93 | [hometown](https://open.spotify.com/track/66fqQMyrd72d6MOP1X0VcY) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [the boys](https://open.spotify.com/album/7fnpUcZ2WQa8fZpp5iCbTo) | 4:16 |
 | 94 | [Over and Over Again](https://open.spotify.com/track/4tLJlbnRoUz8BOfy2Xcsgk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Canyon](https://open.spotify.com/album/2hqtN1MEtZFZTQZ4XwjoMe) | 5:14 |
 | 95 | [Less Than](https://open.spotify.com/track/7jDKJSjIjT93v7brsZDcoT) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Add Violence](https://open.spotify.com/album/28DJ00Yr5oOhH0uOUgTQwc) | 3:30 |
 | 96 | [Make War](https://open.spotify.com/track/6GdEIwsXvpfda24vliflHo) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Make War](https://open.spotify.com/album/32l9F8JtIkqdoWKXULnU6s) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 | 99 | [The Promise](https://open.spotify.com/track/3tM778lBLL9SjnN0OHWgHH) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [The Promise](https://open.spotify.com/album/44xvS1Lm42hYEMorJxwQ7z) | 4:20 |
 | 100 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
 
-Snapshot ID: `MTUxMjgzNzA5MywwMDAwMDAwMDgwZGUzZGFjZmE5MThhYzMwNjNhNmVmNjUzNzUzYTY0`
+Snapshot ID: `MTUxMjgzNzA5MywwMDAwMDAwMGI1NjFiNDZhMjNjNzAzYjM2MzdmMTJlOGUwODg1N2Mw`

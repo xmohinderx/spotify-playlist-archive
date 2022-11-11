@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Smino
 
-1,748 songs - 4 day 2 hr 15 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,749 songs - 4 day 2 hr 19 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -977,8 +977,8 @@
 | [Luvaroq](https://open.spotify.com/track/4WaqKOyMYufVzW57VrYc6U) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Luvaroq](https://open.spotify.com/album/1pXnRcKwgFFQDSyUNWng6b) | 3:40 | 2021-10-01 | 2022-01-22 |
 | [Lydia \(Please Make It Better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 | 2021-04-17 | 2021-07-21 |
 | [M.I.A.](https://open.spotify.com/track/2rFQ1Bgm8w6nqKVANQVhMz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [M.I.A.](https://open.spotify.com/album/5EMVxC5yzZD8o3JnGWaDNx) | 3:27 | 2022-04-22 | 2022-05-20 |
-| [M1](https://open.spotify.com/track/3XhLn2Ed0UrCvkwjcKghxB) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [M1](https://open.spotify.com/album/7jS4q5FI3ZWqbHd8MR491t) | 3:01 | 2022-10-07 | 2022-10-24 |
-| [M1](https://open.spotify.com/track/47WiZ1kbkYGhmKNKjy6cuv) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:01 | 2022-10-07 |  |
+| [M1](https://open.spotify.com/track/3XhLn2Ed0UrCvkwjcKghxB) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [M1](https://open.spotify.com/album/7jS4q5FI3ZWqbHd8MR491t) | 3:01 | 2022-10-07 |  |
+| [M1](https://open.spotify.com/track/47WiZ1kbkYGhmKNKjy6cuv) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:01 | 2022-10-07 | 2022-11-11 |
 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 | 2022-10-21 |  |
 | [MAGIC](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 | 2022-02-18 | 2022-04-23 |
 | [Magic Loop](https://open.spotify.com/track/268QdafLK67UZrGLuU1Yzw) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Magic Loop](https://open.spotify.com/album/6Hf6waAeu2HqDc8fHLRaBz) | 2:36 | 2019-07-30\* | 2019-08-09 |
@@ -1630,7 +1630,8 @@
 | [Vanta](https://open.spotify.com/track/6bwTJ1pTQYl72MoJFkrVfq) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Vanta](https://open.spotify.com/album/1pvANImf3RHxjtYICcKFVl) | 3:02 | 2021-07-15 | 2021-10-02 |
 | [Vein](https://open.spotify.com/track/5fwNv59LHYCQFiYAxQukj8) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Vein](https://open.spotify.com/album/2H7Y1nEbMi9Vq2qFNZq89B) | 3:04 | 2020-03-07 | 2020-07-18 |
 | [Vertigo](https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Vertigo](https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm) | 3:38 | 2022-09-16 | 2022-10-24 |
-| [Vertigo](https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:38 | 2022-09-16 |  |
+| [Vertigo](https://open.spotify.com/track/6XD1yarbMj454t9D4NldlG) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [M1](https://open.spotify.com/album/7jS4q5FI3ZWqbHd8MR491t) | 3:38 | 2022-09-16 |  |
+| [Vertigo](https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:38 | 2022-09-16 | 2022-11-11 |
 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 | 2020-06-16 | 2020-11-13 |
 | [Vibe Session 2](https://open.spotify.com/track/1mww40cWQK873rdKklWP7r) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM), [Ictooicy](https://open.spotify.com/artist/19cyiv0rM3o9U8WboDW0Js), [ria of mars](https://open.spotify.com/artist/0gtJJVbTPtOIhz5oKVVNhC) | [Vibe Session 2](https://open.spotify.com/album/4qIpFTCICoWrVcHwTsT6jA) | 3:33 | 2021-02-18 | 2021-06-12 |
 | [VINYL](https://open.spotify.com/track/2V4mZoAUYA22VDny8KAg8f) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [VINYL](https://open.spotify.com/album/368TKDyiyzFTwCyHJ0uWqc) | 3:13 | 2020-11-27 | 2021-02-27 |

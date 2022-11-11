@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,200 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,203 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 21 | [Every Mountain View](https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh) | [Carinthia](https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU) | [Fields](https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s) | 6:51 |
 | 22 | [Broke33](https://open.spotify.com/track/166QeYXOW2yS5Xy3q9V3GK) | [Medisin](https://open.spotify.com/artist/6lIxY5ICk6CAzFHERpAZnv) | [539 / 918](https://open.spotify.com/album/0s4EPOmFEtFvVxydSdnubg) | 2:42 |
 | 23 | [Reckless Love](https://open.spotify.com/track/4odhDLNCwWGUBiuyh0SYzH) | [Greg & Janna](https://open.spotify.com/artist/50hdYBalxcpRtX8yfmUGIZ) | [Reckless Love](https://open.spotify.com/album/0VN15bs7ifMLjFeOX0WzW3) | 4:57 |
-| 24 | [Water Harp](https://open.spotify.com/track/0uQIzIuNMfzCZCtRGSr4l9) | [Yoga Music](https://open.spotify.com/artist/6ppQ1vjjme5Jtz2ceBFcWY), [Yoga Workout Music](https://open.spotify.com/artist/6RVXIMP9f30jw4rBAn9RfW), [Internal Yoga](https://open.spotify.com/artist/01KhCk3LxZ60TnXjqdY5VI) | [Yoga Practice & Mindfulness Music](https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj) | 2:45 |
+| 24 | [Water Harp](https://open.spotify.com/track/071YfvTMFY01C6mT1Y1ecv) | [Massage Therapy Music](https://open.spotify.com/artist/4hKUd7Y5CiAGqVk2Z4NV9P), [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C), [Massage](https://open.spotify.com/artist/0HvEQZLOZip1nNQ9Vb4pbl) | [Relaxing Massage Music](https://open.spotify.com/album/1vZINsIj1FbZAL8CGgOgLd) | 2:45 |
 | 25 | [Letters](https://open.spotify.com/track/0cqSEpg2nYbneh7RGNrDcp) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/5m0Qi0Nb6i8sQSqUu6HL69) | 3:26 |
 | 26 | [Great I Am \- Live](https://open.spotify.com/track/3rJAP9G6hjx2kN8Jsvas09) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn) | [You Hold It All \(Live\)](https://open.spotify.com/album/7ELf5tQ4o4MQP1d6Ps8t5R) | 5:28 |
 | 27 | [Weight of Heaven](https://open.spotify.com/track/32VNyf4R5Ed5ijLMpBAKGv) | [Mezzo Piano](https://open.spotify.com/artist/5DD8fdenQJ9zgVLaQVYdPQ) | [Love Has a Name](https://open.spotify.com/album/5hoVbdPfcDCKAisfnOyE3c) | 4:30 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 37 | [Water Position](https://open.spotify.com/track/0xewZVFTSDqOri45S4MuSq) | [Hybrid Leisureland](https://open.spotify.com/artist/2BKGxQhaUFgd8xAIkd5yb4) | [Keeping track of the human race](https://open.spotify.com/album/5hX85Wm3Ul9fZOZGxNRntt) | 6:03 |
 | 38 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 |
 | 39 | [All Is Not Lost](https://open.spotify.com/track/1hxWqVqA9w1a8RiNgiU03u) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [All Is Not Lost](https://open.spotify.com/album/0yqtrHyclhTchWJPvK3XvO) | 3:48 |
-| 40 | [Sun Eclipse](https://open.spotify.com/track/2JuK7bIn9EAf0KOHL7LRuj) | [Musica Relajante](https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D), [Nature Sounds Nature Music](https://open.spotify.com/artist/2w5q7SKsUmpdUuyf5HOA2c), [Entspannungsmusik](https://open.spotify.com/artist/3xeIqGEgOD8QQstyUXSz4J) | [Nature Meditation Music](https://open.spotify.com/album/2gWI9xDvQ9wDGow7Uxe5uY) | 1:52 |
+| 40 | [Sun Eclipse](https://open.spotify.com/track/7yL0WjEZ1nMec510uy6VyO) | [Deep Sleep](https://open.spotify.com/artist/4gGGFclZZyED2i5BgzGAlD), [Lullabies for Deep Meditation](https://open.spotify.com/artist/7dJ05O9EOtFVROVfEEHBBc), [Musica para Dormir Dream House](https://open.spotify.com/artist/6qT095FGSoqAikk7INAJzX) | [Música Clásica para Bebés](https://open.spotify.com/album/0LZlw9VkGjo8LerCXIv0nE) | 1:52 |
 | 41 | [1A](https://open.spotify.com/track/7DBHgRCxyDh8G3p62yHd9g) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Monads](https://open.spotify.com/album/2qrEhYgAOyshZHr08hlMaf) | 1:41 |
 | 42 | [Dawn](https://open.spotify.com/track/5rFYyHoZgm6EaOw1NsHJP5) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:31 |
 | 43 | [Holy Holy](https://open.spotify.com/track/4bAPk8AwHTAs5eMOt2yjbj) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [All Is Not Lost](https://open.spotify.com/album/3tFBH9TyKnenOi1E6bjRbz) | 2:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 59 | [Without Shelter](https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [The Grunewald Church Session](https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY) | 6:58 |
 | 60 | [Great Is Our God](https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Young Oceans](https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB) | 4:33 |
 
-Snapshot ID: `MTUzMDk4Mzk4MywwMDAwMDAwMGYwMzA5OTQ0MzIyMTNmNzA1MDY4ZDAwYWUwMGFjZmY1`
+Snapshot ID: `MTUzMDk4Mzk4MywwMDAwMDAwMDIzZGU2MjdiMjI5NjQwZGU5ODc2ODMyOTA1ZDA3MDUx`

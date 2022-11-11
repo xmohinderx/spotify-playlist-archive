@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 344000,
       "name": "Ala Baali (Coke Studio Season 9)",
       "url": "https://open.spotify.com/track/17yaTW0cJjw5v0YAbh3EHv"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 528684,
       "name": "Balaghal Ula Be Kamalihi",
       "url": "https://open.spotify.com/track/3bMpN3xG4bcPm94FYq7vLG"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 454500,
       "name": "Baliye (Laung Gawacha) [Coke Studio Season 9]",
       "url": "https://open.spotify.com/track/63LTVXh5TujgeB202CbqGa"
@@ -1697,7 +1697,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 183368,
       "name": "Coke Studio Season 9: Aye Rah-E-Haq Ke Shaheedo",
       "url": "https://open.spotify.com/track/2FFbQ7czCZUOLLDdfkTMQW"
@@ -3119,7 +3119,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 400000,
       "name": "Janay Na Tu (Coke Studio Season 9)",
       "url": "https://open.spotify.com/track/4DhadmYDxp6Ms11HIdZQaC"
@@ -3689,7 +3689,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 468500,
       "name": "Kinara",
       "url": "https://open.spotify.com/track/2IuMxhVvsQy0emYrupaMgM"
@@ -3751,7 +3751,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 217090,
       "name": "Ko Ko Korina",
       "url": "https://open.spotify.com/track/2czlMEVauz8zW15bhDAs2H"
@@ -4457,7 +4457,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 592000,
       "name": "Maula-E-Kull",
       "url": "https://open.spotify.com/track/6uAhKs1xbzs4QIREQzHXb1"
@@ -5477,7 +5477,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 265662,
       "name": "Pani da Bulbula",
       "url": "https://open.spotify.com/track/6GilNJ7SOCtyculJkKhGkA"
@@ -5825,7 +5825,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 597866,
       "name": "Rabba Ho",
       "url": "https://open.spotify.com/track/7pHeWftiVZ64s3E7gnTz3n"
@@ -6917,10 +6917,28 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 146891,
       "name": "Shuru Karein",
       "url": "https://open.spotify.com/track/3yqoD9SYDfwvNEdU2NEpFx"
+    },
+    {
+      "album": {
+        "name": "Coke Studio (Season 14)",
+        "url": "https://open.spotify.com/album/6A9M0zgEwr15R3kUehBzRl"
+      },
+      "artists": [
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146891,
+      "name": "Shuru Karein",
+      "url": "https://open.spotify.com/track/5q7YPRbhsEglQUBacUCTlP"
     },
     {
       "album": {
@@ -7529,7 +7547,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 422000,
       "name": "Uddi Ja (Coke Studio Season 9)",
       "url": "https://open.spotify.com/track/4zppewvc7dMM9P7fwywsGR"
@@ -7921,7 +7939,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 348784,
       "name": "Yo Soch",
       "url": "https://open.spotify.com/track/6S2GWSxMpcEnP3wDc0FdsY"

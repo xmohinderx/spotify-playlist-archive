@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,659 likes - 68 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,852 likes - 68 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 | 63 | [All Time Low](https://open.spotify.com/track/0SuLAslEMFZAXf0SwY7syi) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:37 |
 | 64 | [Feels Like \(feat\. Stormzy\) \- LOXE Remix](https://open.spotify.com/track/2swyFMOrTT4zkodisWLq93) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [LOXE](https://open.spotify.com/artist/4Jb1EAbXK4BpbQopoeMWKT) | [For All We Know \- The Remixes \- EP](https://open.spotify.com/album/1Yc1t2yclQXZ6djjYMOped) | 3:34 |
 | 65 | [Warning Light](https://open.spotify.com/track/4eYqUolWDMh8CkwLz2cftB) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Warning Light](https://open.spotify.com/album/6n1tvArHGTk29S4aGK2Se2) | 3:47 |
-| 66 | [Momma's Prayers](https://open.spotify.com/track/482wtNOgjcKepFrwPeIT5Q) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 5:05 |
+| 66 | [Momma's Prayers](https://open.spotify.com/track/2B7UQC6hC3StWF1Nd2rWVU) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [LOVE](https://open.spotify.com/album/0k6KxQhaHBIBP7X69ttp8f) | 5:05 |
 | 67 | [Look Like \(feat\. JMC, Jadakiss & Stormzy\)](https://open.spotify.com/track/57CtjJsx9jwTQDiO4ShMAe) | [Charlie Sloth](https://open.spotify.com/artist/3ICo3DF8pXFJEdzph2b6gh), [JMC](https://open.spotify.com/artist/33R5xZXaJcXP5TXA3tydgO), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [The Plug](https://open.spotify.com/album/2QzCZabgxczZat17TC4x52) | 3:50 |
 | 68 | [Chains \- Stormzy Remix](https://open.spotify.com/track/3IgShuJaI7JUFK3A0ncjJf) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Chains](https://open.spotify.com/album/1gs9NA48hWHDS35qVOonZi) | 3:49 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDBkODM1MTExMGI2OWQyZDQzMmJkNWQ3ODNiNTYzYmM2`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMGY3NzcwMTM3MzQ0ZTEyZTg5MmFmN2FkZWZiNTVkZGM3`

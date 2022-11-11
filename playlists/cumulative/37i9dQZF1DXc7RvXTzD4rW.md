@@ -4,11 +4,12 @@
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 宮野真守
 
-140 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/5RQGiwmI9wGlhuVRQit3UC)
+143 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/5RQGiwmI9wGlhuVRQit3UC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Adolescence](https://open.spotify.com/track/2OVkxlBoVKBYo3ZjaJSjnz) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Adolescence](https://open.spotify.com/album/7u5BqBGPH70vfUZh6HTjo9) | 3:54 | 2022-08-05 |  |
+| [Adolescence](https://open.spotify.com/track/2OVkxlBoVKBYo3ZjaJSjnz) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Adolescence](https://open.spotify.com/album/7u5BqBGPH70vfUZh6HTjo9) | 3:54 | 2022-08-05 | 2022-11-11 |
+| [Adolescence](https://open.spotify.com/track/5wiN2xtxIthUK9RokrTRRo) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Nostalgia](https://open.spotify.com/album/2n2Ob4KJu14O6zjSsaK8hl) | 3:54 | 2022-11-02 |  |
 | [adrenaline!!! \- TrySail Live Tour 2021 "Re Bon Voyage"](https://open.spotify.com/track/6O0yjUbqWb4SOjH8VDcab5) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TrySail Live Tour 2021 "Re Bon Voyage"](https://open.spotify.com/album/40AJJY1WOjKdjSf3P9fzgh) | 4:35 | 2022-08-30 |  |
 | [AGARISM](https://open.spotify.com/track/5K1P3emj5y1CKNWHnZfE1g) | [江口拓也](https://open.spotify.com/artist/7M4999xcRPjRunHN5lu9Oj) | [EGURand](https://open.spotify.com/album/5hT3Df6xhY1A9NEeNC4t3j) | 2:44 | 2022-05-31 | 2022-09-23 |
 | [ALRIGHT!](https://open.spotify.com/track/0V4AQZP769SHFH513BNqsZ) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [BLOOMING](https://open.spotify.com/album/6tfuzGK6gBxZlZgM0PUmWV) | 4:27 | 2022-08-05 | 2022-08-31 |
@@ -37,7 +38,8 @@
 | [Fanfare!!](https://open.spotify.com/track/5P79Y9MK1EzWGIis54F6ep) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [シャッフル \-Bright 3 Waves\-](https://open.spotify.com/album/6jpr8lf8u9QH2NDp22ksIw) | 4:04 | 2022-05-31 | 2022-08-06 |
 | [Fight\-oh\-Fight!](https://open.spotify.com/track/5ZxsYi8VpFyklvlmI70U8P) | [SMILE PRINCESS](https://open.spotify.com/artist/2ru6Gg9AH0c3ygsQ0jWJtn) | [SMILE PRINCESS BEST FACE OFF](https://open.spotify.com/album/7Hsm62UNySMmkODq1ZmxwX) | 3:38 | 2022-08-30 |  |
 | [Fine Days](https://open.spotify.com/track/7IvySywtSMnhPm2pDPIDfj) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fine Days](https://open.spotify.com/album/5G2H3tBsXRon4X7ska2MwG) | 3:40 | 2022-11-02 |  |
-| [Futari Pinocchio](https://open.spotify.com/track/7x7ca3HLIyu6kGyL6e64mA) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Futari Pinocchio](https://open.spotify.com/album/6K1Gm6CcYyM2xfnur1gE58) | 3:42 | 2022-08-05 |  |
+| [Futari Pinocchio](https://open.spotify.com/track/0JiuRuxJdzBguh0tH5tKbv) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Futari Pinocchio](https://open.spotify.com/album/4s9gwGsLijOGqPWNXtEPgW) | 3:42 | 2022-11-02 |  |
+| [Futari Pinocchio](https://open.spotify.com/track/7x7ca3HLIyu6kGyL6e64mA) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Futari Pinocchio](https://open.spotify.com/album/6K1Gm6CcYyM2xfnur1gE58) | 3:42 | 2022-08-05 | 2022-11-11 |
 | [Futurism](https://open.spotify.com/track/4qA2NaMNYTyMdJ8ZscECVf) | [Minako Kotobuki](https://open.spotify.com/artist/1NGAO9BGAOwKrv0dtjXRpP) | [シャッフル \-Precious 4 Stars\-](https://open.spotify.com/album/1Tok6e8q3GraJP63lgmTSe) | 4:43 | 2022-05-31 | 2022-08-06 |
 | [Fuwa Fuwa Time \- From CrosSing](https://open.spotify.com/track/2VkhXYlEEx0753IjeQCeof) | [Onishi Aguri](https://open.spotify.com/artist/3hp538apqv8zWeIa31uKe7) | [Fuwa Fuwa Time \- From CrosSing](https://open.spotify.com/album/2umPEmciHjUCfqziD1B7zG) | 3:58 | 2022-08-30 | 2022-11-03 |
 | [glow](https://open.spotify.com/track/4ncBdqzk2bviwGT2ZQUAPW) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [glow](https://open.spotify.com/album/7pIOEgfTkYsMZwsjdKw5Z0) | 5:14 | 2022-07-13 | 2022-08-06 |
@@ -53,8 +55,8 @@
 | [KindanKajitsu](https://open.spotify.com/track/7tQbwkztzZrsY6H3eNeKGq) | [Eri Kitamura](https://open.spotify.com/artist/3IYKCbAUuXkZdkiAeYEKwC) | [IRiDESCENT%V!SION](https://open.spotify.com/album/39UmoCVQLTqseM8uksxdVm) | 3:12 | 2022-08-05 |  |
 | [Kodokunagunshyuu](https://open.spotify.com/track/6g9Drm0itXNceqTlMBMYYz) | [Takehito Koyasu](https://open.spotify.com/artist/6LrHNyRFO2meXtX0WhXkBM) | [Kodokunagunshyuu](https://open.spotify.com/album/0Llu5DAYhTsWr43Hvhwaup) | 3:40 | 2022-11-02 |  |
 | [Kyokansarenakutemoiijanai](https://open.spotify.com/track/0ILqv4nIfyMSHg7WPJBwlw) | [Rie Takahashi](https://open.spotify.com/artist/0ENel7sUUXjVGUsP0xvwEJ) | [Kyokansarenakutemoiijanai](https://open.spotify.com/album/1O0nkN0Qp1rcdwJHsNds6p) | 3:53 | 2022-11-02 |  |
-| [Kyoutaiaika](https://open.spotify.com/track/3pxftpVRwWGMq1bZchhVLS) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 4:03 | 2022-09-22 |  |
-| [Kyoutaiaika](https://open.spotify.com/track/6NnWap955obIpmguOjHwoQ) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Kyoutaiaika](https://open.spotify.com/album/4PIp9Z8g2XHXLQcFoRIhyS) | 4:03 | 2022-09-22 | 2022-10-29 |
+| [Kyoutaiaika](https://open.spotify.com/track/3pxftpVRwWGMq1bZchhVLS) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 4:03 | 2022-09-22 | 2022-11-11 |
+| [Kyoutaiaika](https://open.spotify.com/track/6NnWap955obIpmguOjHwoQ) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Kyoutaiaika](https://open.spotify.com/album/4PIp9Z8g2XHXLQcFoRIhyS) | 4:03 | 2022-09-22 |  |
 | [Love me, Choose me](https://open.spotify.com/track/6RedpoCKKhmd6OWPghPGIG) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [Apiacere](https://open.spotify.com/album/0SmPHcLtOFL7cwPwu07sQr) | 3:40 | 2022-08-05 |  |
 | [LOVE&MOON](https://open.spotify.com/track/7c9jAu2ln1PFzqF2a2wD2X) | [高野麻里佳](https://open.spotify.com/artist/3d5BMnkKOiXyuPOxxaO50E) | [LOVE&MOON](https://open.spotify.com/album/6hodN3snVIv1TUixHMq6Xf) | 3:40 | 2022-11-02 |  |
 | [Love\-Evidence](https://open.spotify.com/track/4KmhIHRUmZ7ND8RM8Trt2o) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Love\-Evidence](https://open.spotify.com/album/6TDFwzNnos4RFkmDG7lNnG) | 3:25 | 2022-05-31 | 2022-08-31 |
@@ -64,7 +66,8 @@
 | [Only My Story](https://open.spotify.com/track/0w3THtjQhu09ujdulaP4WZ) | [Shirai Yusuke](https://open.spotify.com/artist/1ccP8i48kDMJVsHt2GM6io) | [11\-Eleven\-](https://open.spotify.com/album/3FwWnmYRq6bdES3Zszblgx) | 3:21 | 2022-08-30 | 2022-09-23 |
 | [OveR](https://open.spotify.com/track/4zkoAH6gFmFXkGI4oIbUDf) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [OveR](https://open.spotify.com/album/1tDtjs2Ys6xIdc9UQywigo) | 4:06 | 2022-05-31 | 2022-09-23 |
 | [Page](https://open.spotify.com/track/7o840hKh2apRUScyJLpdvh) | [青山吉能](https://open.spotify.com/artist/41AMM7nACzTXN8OCVTsFvP) | [Page](https://open.spotify.com/album/20529PQLvWrojRnsO7MlAG) | 3:55 | 2022-05-31 | 2022-08-06 |
-| [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 | 2022-07-13 |  |
+| [Pokerface](https://open.spotify.com/track/4GveOt59Hk6tKeDIbkG7ae) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/4dELVIOLcAs8JBT0vHGDIN) | 3:55 | 2022-11-02 |  |
+| [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 | 2022-07-13 | 2022-11-11 |
 | [PROLOGUE](https://open.spotify.com/track/2leYGEirFsGtl6fuQwXVXT) | [Yuka Iguchi](https://open.spotify.com/artist/2pEoqcvCSXliNrd8peAUiP) | [OPENING THEME FROM TV SERIES ”BIBLIOPHILE PRINCESS”](https://open.spotify.com/album/2qGFHbqCOWEZt5cs4IgiPv) | 4:04 | 2022-11-02 |  |
 | [REAL\-EYES](https://open.spotify.com/track/4dvWchb4P8bNqeO0UsHoEc) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [REAL\-EYES](https://open.spotify.com/album/2RxLu921dpayn2D3xyFmxz) | 4:07 | 2022-05-31 | 2022-07-14 |
 | [S.O.S](https://open.spotify.com/track/0PQq6VYNSo9jWPwMBr1JLr) | [sweet ARMS](https://open.spotify.com/artist/4VNX81QK24dwtTCv4lx8Ae) | [TVアニメ「デート・ア・ライブIV」エンディング・テーマ「S.O.S」](https://open.spotify.com/album/5EHoQqsyT6u2OjSkuSSOEd) | 4:28 | 2022-05-31 | 2022-09-23 |

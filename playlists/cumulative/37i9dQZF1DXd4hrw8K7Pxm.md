@@ -4,7 +4,7 @@
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-74 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/4kV4p5GG7I9PAKbvOcs33Y)
+78 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/4kV4p5GG7I9PAKbvOcs33Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Counting Stars](https://open.spotify.com/track/6O33j9aabTuZcD1U40LdtM) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/3tCHNcehvK6wsvuvFAkpgH) | 2:56 | 2020-10-16 |  |
 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 | 2020-10-16 |  |
 | [Dancing On My Own](https://open.spotify.com/track/2TmLZLv57mW4OA3Il1ULsf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/2sgfT0ExcSuQOGZ9DM3nMJ) | 4:20 | 2020-10-16 | 2022-07-29 |
-| [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2020-10-16 |  |
+| [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2020-10-16 | 2022-11-11 |
+| [Dancing On My Own](https://open.spotify.com/track/570NPFCzlYS5sA1i4DV11Z) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Sleeping Music 2020](https://open.spotify.com/album/5xx7Ea1pERX3v4kjvReNbs) | 4:20 | 2020-10-16 |  |
 | [Fast Car \(feat\. Tall Heights\)](https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc), [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [All or Nothing / Fast Car](https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV) | 4:32 | 2020-10-16 |  |
 | [Fight Song](https://open.spotify.com/track/0IrhV0bATs87xuR8OF0wtB) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Fight Song](https://open.spotify.com/album/1BiEHzeJtADPwVNOKBwKtc) | 4:00 | 2020-10-16 |  |
 | [Fight Song](https://open.spotify.com/track/1e7HQG3E9nsK5JiwsHtVdu) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Fight Song](https://open.spotify.com/album/2XIpY89NBO1ar8jtCXypWE) | 4:00 | 2020-10-16 | 2022-07-29 |
@@ -43,7 +44,8 @@
 | [In My Life](https://open.spotify.com/track/3QGTAH2zBXS0EgLdrouSgF) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:23 | 2020-10-16 |  |
 | [In My Life](https://open.spotify.com/track/6IZOM0mpvqxtHXngtLdwJ7) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, em Qualquer Lugar](https://open.spotify.com/album/25gF6m29zFfS7NRTZ9SMq6) | 2:23 | 2020-10-16 | 2022-07-29 |
 | [Iris](https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL) | 3:01 | 2020-10-16 |  |
-| [Let Her Go](https://open.spotify.com/track/0OO5mz0bqvvlJFvukSX8Jq) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/5dxFt6HCaP9lnjojZIvQVI) | 2:52 | 2020-10-16 |  |
+| [Let Her Go](https://open.spotify.com/track/0OO5mz0bqvvlJFvukSX8Jq) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/5dxFt6HCaP9lnjojZIvQVI) | 2:52 | 2020-10-16 | 2022-11-11 |
+| [Let Her Go](https://open.spotify.com/track/3vEEkb5YDQSqRfZGGs3PiV) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Let Her Go](https://open.spotify.com/album/5Ugz4RCogKbxzvd5LGC4JA) | 2:52 | 2020-10-16 |  |
 | [Let Her Go](https://open.spotify.com/track/5fa6CrQwHwthEoCvTtd5Ig) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/6zUsMpfw5Nif1o0kYtidiR) | 2:52 | 2020-10-16 | 2022-07-29 |
 | [Let It Go](https://open.spotify.com/track/71pa4bKxO1QHetRxhGo86P) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Let It Go](https://open.spotify.com/album/1Qz3RQIIaZFs53H51f0oMD) | 4:04 | 2020-10-16 | 2022-07-29 |
 | [Let It Go](https://open.spotify.com/track/2bYvSAL6llWo0Sdunh2syC) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I), [Tanner Townsend](https://open.spotify.com/artist/1vgJ0JDHRTjDKpUpm3dQaE) | [Let It Go](https://open.spotify.com/album/5QnjKvKE0Ztxd7rnmcqI18) | 4:04 | 2020-10-16 |  |
@@ -59,7 +61,8 @@
 | [Radioactive \- Acoustic Version](https://open.spotify.com/track/3gpLCZcf7RTqvgQKZCEpOT) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Radioactive \(Acoustic Version\)](https://open.spotify.com/album/6bRyQvILVlQcFuqI9DDjUN) | 3:13 | 2020-10-16 |  |
 | [Scars To Your Beautiful](https://open.spotify.com/track/4JPM6TuFJgccpoKLKmleDD) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Scars To Your Beautiful](https://open.spotify.com/album/7wMuoQxclWrghUMcDyzMhJ) | 4:17 | 2020-10-16 |  |
 | [Skinny Love](https://open.spotify.com/track/0xJtHBdhpdLuClaSQYddI4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Skinny Love](https://open.spotify.com/album/4N50QyWU1zcBJBDMsppgHm) | 3:20 | 2020-10-16 | 2022-07-29 |
-| [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 | 2020-10-16 |  |
+| [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 | 2020-10-16 | 2022-11-11 |
+| [Skinny Love](https://open.spotify.com/track/6DCw1EGYF8KkLtSbWjqJVU) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Break Up Songs](https://open.spotify.com/album/2FRDG4xVPb9med42ldotMU) | 3:21 | 2020-10-16 |  |
 | [Someone Like You](https://open.spotify.com/track/6VtoP2sJt5oCmPOQIve2sf) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz) | 4:36 | 2020-10-16 |  |
 | [Someone Like You](https://open.spotify.com/track/7enqj4wDuXUnZiW0t0Fxbi) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [New Acoustic Sessions, Vol\. 3](https://open.spotify.com/album/6P2Be2yAYKOFa0lMrsegyx) | 4:36 | 2020-10-16 | 2022-07-29 |
 | [Sorry](https://open.spotify.com/track/36eJpXzNjDktQDqr88mtQ3) | [Savannah Outen](https://open.spotify.com/artist/0FcC38n7nTB9YS1xhFOKDX) | [Sorry](https://open.spotify.com/album/38CdD0Vt4B0gVCAYcGv5gX) | 3:12 | 2020-10-16 |  |
@@ -80,7 +83,8 @@
 | [Wild Horses](https://open.spotify.com/track/1P3JfNdQLDlQUFmo0r5QyK) | [Charlotte Martin](https://open.spotify.com/artist/5Cmht6FxXbw5GtPOCrzjNM) | [On Your Shore](https://open.spotify.com/album/4azwQskqRbcF2yUske9S7q) | 5:31 | 2020-10-16 |  |
 | [Wonderwall](https://open.spotify.com/track/3N7wclRSF2D2RT3O27LEOE) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [When We Rise \(Original Television Soundtrack\)](https://open.spotify.com/album/1U15HyG9LIxbSitBJOLGBC) | 4:00 | 2020-10-16 |  |
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nicholas Cloud](https://open.spotify.com/artist/13i070mBPykWRF84H8Ht3Q), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 | 2020-10-16 |  |
-| [Yellow](https://open.spotify.com/track/1qZYM5Jp7zqtjn3nWH4UAz) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Sexual Woman](https://open.spotify.com/album/0Rxjl3rKekDtTxantH5LQX) | 4:14 | 2020-10-16 |  |
+| [Yellow](https://open.spotify.com/track/1qZYM5Jp7zqtjn3nWH4UAz) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Sexual Woman](https://open.spotify.com/album/0Rxjl3rKekDtTxantH5LQX) | 4:14 | 2020-10-16 | 2022-11-11 |
+| [Yellow](https://open.spotify.com/track/6lQgAddTsoie2795TU2Oqa) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Yellow](https://open.spotify.com/album/3qTl5f2s43FPr6QBToxM2X) | 4:14 | 2020-10-16 |  |
 | [Yellow](https://open.spotify.com/track/0V3U7zeVUEOqbiYzzXnw0a) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Yellow](https://open.spotify.com/album/6tr7N2OwQIVJvb2eKykcUx) | 4:17 | 2020-10-16 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

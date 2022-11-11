@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > In honor of our beloved friend and Kuya Dj Efechto\. This a collection of songs he loved, that influenced him, and tracks he produced or scratched on\. Turn your system to the Red for Efechto\.  Guest curated by Propaganda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,798 likes - 23 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,799 likes - 23 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,6 +30,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 20 | [Summertime In The LBC](https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN) | [Dove Shack](https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF) | [This Is The Shack](https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU) | 3:58 |
 | 21 | [Last But Not Least](https://open.spotify.com/track/6MCQnvP1QGtArwqdS2ELWw) | [Scribbling Idiots](https://open.spotify.com/artist/5wtqb9aDZC2CuiumSWsv7L), [DJ Efechto](https://open.spotify.com/artist/3URMfrDdC2LRia3gcWlpG1), [Magestik Legend](https://open.spotify.com/artist/3CByGtJcf5rs4nztXSw1YS), [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Theory Hazit](https://open.spotify.com/artist/23yxO4nVI3C2CoXIkYLifD) | [Invitation Only](https://open.spotify.com/album/14QqEVs1jDkcgsnd9zPBAr) | 3:25 |
 | 22 | [Slow Cook](https://open.spotify.com/track/6OMuYzjJwxY12osD8QAXU1) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t) | [Crooked](https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4) | 3:58 |
-| 23 | [So Far to Go](https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 5:36 |
+| 23 | [So Far To Go \- Instrumental](https://open.spotify.com/track/4b6Vfi3nqr6B3BJKkwLmJr) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining Instrumentals](https://open.spotify.com/album/4CjZRdriTNh1CyIEwjzoTB) | 5:36 |
 
-Snapshot ID: `MTU0MjgyODQ2MCwwMDAwMDAwMDVjMGYxNmE0MGU3NjVkYzRlZjI0ODEyMDlmYjMwZGQy`
+Snapshot ID: `MTU0MjgyODQ2MCwwMDAwMDAwMDNjYWFlYmU1ZjRiNThmYTA5MTExNDVkZDdmMWUzMjE5`

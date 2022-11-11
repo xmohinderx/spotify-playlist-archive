@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 87dance\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Heo Hoy Kyung\(허회경\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-517 songs - 1 day 7 hr 38 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
+518 songs - 1 day 7 hr 42 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [a car going nowhere](https://open.spotify.com/track/15iXRayrmpaA6QmtEKqpX4) | [ESAE](https://open.spotify.com/artist/573hBKu7MUNNUbp0OKhuRr) | [a car going nowhere](https://open.spotify.com/album/6bmqmW6zsY9fAdsI7k0E1b) | 3:47 | 2021-12-21 | 2022-07-29 |
 | [A Car Going Nowhere](https://open.spotify.com/track/4BHTnUF9Wl5lVSrw9ZLVJb) | [ESAE](https://open.spotify.com/artist/573hBKu7MUNNUbp0OKhuRr) | [A Car Going Nowhere](https://open.spotify.com/album/5yR8GbZR66gjAoyt5Voc2O) | 3:47 | 2022-09-20 | 2022-09-29 |
 | [a letter from fall 여름의 끝, 가을편지](https://open.spotify.com/track/6oL5GjrArTyGLG9izorkqZ) | [Joa Band](https://open.spotify.com/artist/3rCJ0bFbcUt9f9CuWhm6hp) | [a letter from fall 여름의 끝, 가을편지](https://open.spotify.com/album/4gHLx1ZdRuKEj08ZY0llxn) | 3:44 | 2022-03-31 | 2022-04-18 |
-| [A Long Dream](https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy) | 4:18 | 2022-07-27 |  |
+| [A Long Dream](https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy) | 4:18 | 2022-07-27 | 2022-11-11 |
 | [a particular thing 별일 \(feat\. Parc Jae Jung\)](https://open.spotify.com/track/3SfGwHuSbRkawRw7PFI81n) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Rotary](https://open.spotify.com/album/7CbrplovlgNSO5Qo8X7sVa) | 4:20 | 2022-04-12 | 2022-04-21 |
 | [a song i like to sing](https://open.spotify.com/track/5BDScyCac0wCKu1ZvCpk8K) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [a song i like to sing](https://open.spotify.com/album/4rnDUUhsDdMgFFoeg5DrqT) | 2:40 | 2021-12-21 | 2022-04-20 |
 | [A Trail Of Seasons](https://open.spotify.com/track/6g2xMxNkfTZ1kkyccaHyaD) | [onsu](https://open.spotify.com/artist/0AJ5Vo2rQGlmsiVYYwyQrJ) | [A Trail Of Seasons](https://open.spotify.com/album/6tBEtld4QZaiOkh1V8497y) | 4:08 | 2022-03-31 | 2022-04-05 |
@@ -78,7 +78,7 @@
 | [Cho Shim](https://open.spotify.com/track/3aBUjaRyaYy4SeGgtWNQrb) | [Kiha & The Faces](https://open.spotify.com/artist/0oN8IZB1C3lY1ABKwJOu1I) | [Cho Shim](https://open.spotify.com/album/7my2kBdURtWlo6XGzFVYW8) | 3:16 | 2022-03-31 | 2022-04-07 |
 | [chocolate trip](https://open.spotify.com/track/0ol6tWu3kZ00ayldBNA0fp) | [Shin Onyu & Kim Kang](https://open.spotify.com/artist/7sxSiet6ZE19Q9N2C0dMzT) | [chocolate trip](https://open.spotify.com/album/5tGEMXwyGb0jkvbTCEnkX0) | 4:07 | 2022-03-31 | 2022-04-25 |
 | [City Lights](https://open.spotify.com/track/36xcAYhiCUnzBoydVmxkO3) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [City Lights](https://open.spotify.com/album/2TJmQDLlBkXQiMLI9H6gG6) | 4:01 | 2021-12-21 | 2022-05-28 |
-| [city snail](https://open.spotify.com/track/6IXYWgfzEP2Raa7E4JK2rB) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [city snail](https://open.spotify.com/album/5Ii8pas6FicEhbLa2sifLj) | 3:36 | 2022-10-31 |  |
+| [city snail](https://open.spotify.com/track/6IXYWgfzEP2Raa7E4JK2rB) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [city snail](https://open.spotify.com/album/5Ii8pas6FicEhbLa2sifLj) | 3:36 | 2022-10-31 | 2022-11-11 |
 | [Cliché](https://open.spotify.com/track/2i4r6SnXUtGAqjHZ7nJHrB) | [Couch Peach](https://open.spotify.com/artist/1Bjp4QYmnT2wUDrgJxYF9b) | [Cliché](https://open.spotify.com/album/3pPuexxtl6nMRlbdJCZYlb) | 2:38 | 2022-02-16 | 2022-07-28 |
 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 | 2021-12-12 |  |
 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 | 2021-12-12 |  |
@@ -133,7 +133,7 @@
 | [Falling Star](https://open.spotify.com/track/3Zfb4u1goGP0NQV08lxZ56) | [Up\-Dawn](https://open.spotify.com/artist/2iuvwj3RhVBo3OM1WTSlZu) | [Falling Star](https://open.spotify.com/album/163ztGWzGI1Wk6sB9QAPHG) | 4:03 | 2021-12-21 | 2022-07-21 |
 | [Far 멀리](https://open.spotify.com/track/7y4ye2TL1fT2WUTes5Q921) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Between 사이](https://open.spotify.com/album/6H8uxH4wbBRchrN1O6lgOh) | 3:34 | 2022-03-31 | 2022-04-16 |
 | [Feel Better](https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Things I Loved Most 2](https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf) | 3:30 | 2021-12-21 | 2022-07-28 |
-| [Fighting! 응원해](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting! 응원해](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 | 2022-10-07 | 2022-11-05 |
+| [Fighting! 응원해](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting! 응원해](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 | 2022-10-07 |  |
 | [Fighting! 응원해](https://open.spotify.com/track/6jD4BKw85zAOpK9DCx6uYm) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting! 응원해](https://open.spotify.com/album/2DGqiNKAYJIJuqcQfKU2Hi) | 3:05 | 2021-12-12 | 2022-07-21 |
 | [Fine](https://open.spotify.com/track/6VVNdVTR3akq26mrvlEUQJ) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [Fine](https://open.spotify.com/album/6KXd8ZKlGFulveeHsOH5cX) | 2:57 | 2022-03-31 | 2022-04-13 |
 | [FINE](https://open.spotify.com/track/1HP9RKXLLbanlco3KB0QsN) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [FINE](https://open.spotify.com/album/3lowzloIMuCOyzPGCWXbks) | 2:37 | 2022-07-08 | 2022-08-09 |
@@ -293,6 +293,7 @@
 | [MOOD FOR LOVE](https://open.spotify.com/track/4U46xmSU9CczDNPEUx20OD) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/53P5weqc2cb75Bg3LuFPcZ) | 3:24 | 2021-12-21 | 2022-05-27 |
 | [Moonlight \(Feat\. YooJeong\)](https://open.spotify.com/track/3UXHgrtANbsoWAn5DfUcz6) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Moonlight](https://open.spotify.com/album/4QagrJlMwIQYju8jKPLj8B) | 2:29 | 2022-03-18 | 2022-07-29 |
 | [MUSE](https://open.spotify.com/track/0ixKAyXnjZ97RC9RlEpdug) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:32 | 2022-03-31 | 2022-07-09 |
+| [My Dear Love](https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Memoirs](https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0) | 4:14 | 2022-11-11 |  |
 | [My Journey](https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [My Journey](https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG) | 3:23 | 2022-07-22 | 2022-07-26 |
 | [My Last Teen](https://open.spotify.com/track/13vw7pAaPFnJLsv66FeXnq) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [My Last Teen](https://open.spotify.com/album/1WkXMTU4ozoGKFQmM9xyIB) | 2:55 | 2021-12-21 | 2022-07-22 |
 | [My Little Lambs](https://open.spotify.com/track/3mLf0rGbBQHpkK0Sm8IQR6) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [My Little Lambs](https://open.spotify.com/album/3qSiB7QbxOnt7bx6ieXtm4) | 3:37 | 2022-08-04 | 2022-08-19 |

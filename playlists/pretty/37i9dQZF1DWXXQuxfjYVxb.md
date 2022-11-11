@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXQuxfjYVxb.md) - [plain]
 
 > The very best of Cardi B\. Listen to Cardi's new song  "UP" Okurr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,975 likes - 43 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,133 likes - 43 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXQuxfjYVxb.md) - [plain]
 | 38 | [Lit Thot](https://open.spotify.com/track/0kfumbp5lPQvPrMTrqsaNv) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Gangsta Bitch Music Vol 1](https://open.spotify.com/album/4hRSrC7bRqBqDDSfhe5qRO) | 3:01 |
 | 39 | [Right Now](https://open.spotify.com/track/4fc7s6ducbIc1gpaHqLJfJ) | [PHresher](https://open.spotify.com/artist/0FTrIsp2Mg7Bkf8eXQrISa), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Right Now](https://open.spotify.com/album/6zfTXn9P1NS9Vapp9mA7QY) | 3:44 |
 | 40 | [Hectic \(feat\. DJ Hardwerk\)](https://open.spotify.com/track/6GBEjkFlNzM2trwa8rgnIU) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [DJ Hardwerk](https://open.spotify.com/artist/5eX67XYPPv11MhDIdIoCN4) | [Gangsta Bitch Music Vol\. 2](https://open.spotify.com/album/47IM97GbpNyDREWlr2HtNM) | 2:52 |
-| 41 | [Be Careful](https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:30 |
-| 42 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 |
+| 41 | [Be Careful](https://open.spotify.com/track/7GC5lsImioJu5DLUF3Sj0U) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Hip Hop Millennials](https://open.spotify.com/album/5XbNM7tm5uidGzfxCQbJ0Q) | 3:30 |
+| 42 | [Bodak Yellow](https://open.spotify.com/track/5HJVxXaEPzAyuWaUVrYCs6) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Workout Hip\-Hop](https://open.spotify.com/album/1qZeX7Pp3WQTaWF6BygaER) | 3:43 |
 | 43 | [Bartier Cardi \(feat\. 21 Savage\)](https://open.spotify.com/track/0dIoGTQXDh1wVnhIiSyYEa) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:44 |
 
-Snapshot ID: `MTYxMjU0MzY0OCwwMDAwMDAwMDRiODQ3ZmM3M2IyYzZjM2U2NWZmNzYyMWJmNmE5ZmQ4`
+Snapshot ID: `MTYxMjU0MzY0OCwwMDAwMDAwMDNjODQ0MWY3Nzc0NzJmYTVhYzQwNDhhMTgyNWZkYjYx`

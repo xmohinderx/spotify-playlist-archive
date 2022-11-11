@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-100 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
+102 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/0nRb93SrNeOFVhnEPqG2gr) | [Richard Smithfield](https://open.spotify.com/artist/2tprHPIiUQTLlefPxrcZuB) | [Jazzy Christmas](https://open.spotify.com/album/10xlo91UUjERC1DjH2NU9M) | 5:01 | 2021-12-21 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/2e3zjySEdkrM0Il8JAqJHC) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [All I Want for Christmas Is You](https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu) | 2:18 | 2022-10-20 |  |
 | [Jingle Bells](https://open.spotify.com/track/40wnIrpSNGnU2xtprgYHme) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 2:34 | 2021-12-21 |  |
-| [Jolly Old Saint Nicholas](https://open.spotify.com/track/3rEK1zgBRES9twQz0Cqqi5) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Christmas Meets Jazz](https://open.spotify.com/album/4DIxYBpOVMQGxK8BKYrUgJ) | 4:50 | 2021-12-21 |  |
+| [Jolly Old Saint Nicholas](https://open.spotify.com/track/3cm0t1XEtQD5Qq970UYHD0) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Christmas meets Jazz](https://open.spotify.com/album/0GrYYWpfGBcrHEIPIW1Fsf) | 4:50 | 2022-11-10 |  |
+| [Jolly Old Saint Nicholas](https://open.spotify.com/track/3rEK1zgBRES9twQz0Cqqi5) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Christmas Meets Jazz](https://open.spotify.com/album/4DIxYBpOVMQGxK8BKYrUgJ) | 4:50 | 2021-12-21 | 2022-11-11 |
 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/50mhd6xVp1pfSxLbV1G9Kl) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Christmas meets Jazz](https://open.spotify.com/album/2VsPkNzP7Cur70oIqATTPA) | 4:50 | 2021-12-21 | 2022-07-29 |
 | [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 | 2021-12-21 |  |
 | [Let It Snow](https://open.spotify.com/track/3DQFbtGXEnr4uWIh04ljQr) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Jingle Bell Rock](https://open.spotify.com/album/1ZToBj4EZu8gnR2hLsrFwW) | 2:03 | 2021-12-21 |  |
@@ -95,7 +96,7 @@
 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 | 2022-10-13 |  |
 | [Toyland](https://open.spotify.com/track/3frljinYzzUNd5YRIF6xhj) | [Eli Starr Trio](https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7) | [Happy Christmas](https://open.spotify.com/album/0vaiiGYLM0VxFC0Krfd1zq) | 3:53 | 2022-10-20 |  |
 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 | 2021-12-21 |  |
-| [Walking In A Winter Wonderland](https://open.spotify.com/track/7kWKkAC6yJwyrrNVeXAEMX) | [Jan Ullah](https://open.spotify.com/artist/5LtsQvgd7D0tJTq6K1cB35) | [Walking In A Winter Wonderland](https://open.spotify.com/album/6EAPnYnaQNTXthDRsqnuOt) | 2:21 | 2021-12-21 |  |
+| [Walking In A Winter Wonderland](https://open.spotify.com/track/7kWKkAC6yJwyrrNVeXAEMX) | [Jan Ullah](https://open.spotify.com/artist/5LtsQvgd7D0tJTq6K1cB35) | [Walking In A Winter Wonderland](https://open.spotify.com/album/6EAPnYnaQNTXthDRsqnuOt) | 2:21 | 2021-12-21 | 2022-11-11 |
 | [We Three Kings \(Jazz Version\)](https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [A Jazzy Little Christmas](https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3) | 3:08 | 2021-12-21 |  |
 | [We Wish You A Merry Christmas](https://open.spotify.com/track/24qIDUtuHes8hTXrs13HR6) | [Little Tree Trio](https://open.spotify.com/artist/307akv5BTJh4p9auz0sc0F) | [Merry Christmas](https://open.spotify.com/album/3mhiSS0lSViQWiEpV3rsuY) | 2:33 | 2021-12-21 |  |
 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/2OMXwyF3J4vYDxk5DzV03s) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/2Q8QtI11tk9L9jBskjBF7E) | 4:28 | 2021-12-21 |  |
@@ -106,7 +107,8 @@
 | [White Christmas](https://open.spotify.com/track/0X5GOwlZZgW0lT1NsCuir5) | [Sian Sullivan](https://open.spotify.com/artist/4VVP1CLZbbGay53RL2Gbe6) | [White Christmas](https://open.spotify.com/album/7iQnxZfcvdaaQX1fYRAfof) | 4:21 | 2022-10-07 |  |
 | [White Christmas \- Remastered](https://open.spotify.com/track/0uiPNd0fdoklct761AycxJ) | [Booker Ervin](https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy) | [Structurally Sound](https://open.spotify.com/album/4T7k8nLuMrFoiJSL1rlq0k) | 4:30 | 2021-12-21 | 2022-10-08 |
 | [Winter Weather / I've Got My Love to Keep Me Warm](https://open.spotify.com/track/7iuHxTfZzyhBxqZjqNrI0I) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [Martinis & Mistletoe: Christmas Jazz Piano](https://open.spotify.com/album/6irxdg4sz5ikmTg3ysQhbK) | 3:48 | 2021-12-21 |  |
-| [Winter Wonderland](https://open.spotify.com/track/0mIkPyFnpT5m4fFgLkQIxO) | [Tyler Yarema](https://open.spotify.com/artist/0KcV91K9QvNzCPxKq2K9yx), [Steve Wingfield](https://open.spotify.com/artist/2enPADqimWmAb5ovuXQihi), [Chris Gale](https://open.spotify.com/artist/0b8busMyBUGIilON3R2NJA) | [Tis the Season to Be Jazzy](https://open.spotify.com/album/02SiURFcsnXEBsgeBz8uWM) | 4:19 | 2021-12-21 |  |
+| [Winter Wonderland](https://open.spotify.com/track/2xWHyOzveoGRMIZaA9I9ZR) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Winter Wonderland](https://open.spotify.com/album/6UyHrMcTsIKAtJEIWoWYI3) | 3:52 | 2022-11-10 |  |
+| [Winter Wonderland](https://open.spotify.com/track/0mIkPyFnpT5m4fFgLkQIxO) | [Tyler Yarema](https://open.spotify.com/artist/0KcV91K9QvNzCPxKq2K9yx), [Steve Wingfield](https://open.spotify.com/artist/2enPADqimWmAb5ovuXQihi), [Chris Gale](https://open.spotify.com/artist/0b8busMyBUGIilON3R2NJA) | [Tis the Season to Be Jazzy](https://open.spotify.com/album/02SiURFcsnXEBsgeBz8uWM) | 4:19 | 2021-12-21 | 2022-11-11 |
 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 | 2022-10-20 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

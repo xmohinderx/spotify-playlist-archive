@@ -2053,10 +2053,36 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 309800,
       "name": "Silent Lake",
       "url": "https://open.spotify.com/track/5wo64VP0ZKuEL1zrF13mcs"
+    },
+    {
+      "album": {
+        "name": "Silent Lake",
+        "url": "https://open.spotify.com/album/6mlRVWYqT57HUSYP7HlUHx"
+      },
+      "artists": [
+        {
+          "name": "Mychael Danna",
+          "url": "https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2"
+        },
+        {
+          "name": "Tim Cl\u00e9ment",
+          "url": "https://open.spotify.com/artist/7Le5b3UCWqI7DXAyeajEaY"
+        },
+        {
+          "name": "Mychael Danna & Tim Cl\u00e9ment",
+          "url": "https://open.spotify.com/artist/67LR42mlwQaGonptLxhDLm"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309800,
+      "name": "Silent Lake",
+      "url": "https://open.spotify.com/track/7tKp39PUo2jkRdGWbb19pY"
     },
     {
       "album": {

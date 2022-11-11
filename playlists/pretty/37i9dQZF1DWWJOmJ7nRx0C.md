@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Bad Omens
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,752 likes - 151 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,006 likes - 151 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 90 | [Motherlode](https://open.spotify.com/track/50lNoDOWVxhdWbmgvecuXa) | [The Standstills](https://open.spotify.com/artist/2OCAyLpPne0X14kjvE535s), [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Motherlode](https://open.spotify.com/album/1uMPUDzADwngjGfHFUCuf8) | 3:02 |
 | 91 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
 | 92 | [New Era](https://open.spotify.com/track/4zNXCkMYWJSHN7t23Eek2r) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [New Era](https://open.spotify.com/album/3NnxQ5HSHpZGl0MCyVEwFA) | 3:07 |
-| 93 | [Waiting on You](https://open.spotify.com/track/7kAH59f7kgFaRScFnPI8BL) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Rain City Drive](https://open.spotify.com/album/5sgQU7Ac1EtuuYTBcVOCUm) | 3:16 |
+| 93 | [Waiting on You](https://open.spotify.com/track/3xAekfDSvmsOboUMNNbGUi) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Dying For](https://open.spotify.com/album/7HGE4asjAK1E8124srNfug) | 3:16 |
 | 94 | [Spillways](https://open.spotify.com/track/0WHtcCpZnoyFlQg3Mf2cdN) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 |
 | 95 | [Sacred Kiss](https://open.spotify.com/track/3zRZjDl3t6kwKzK9lKdo5N) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 4:04 |
 | 96 | [CHOKE \(with grandson & Zero 9:36\)](https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [CHOKE](https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z) | 2:40 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 100 | [What Would You Do? \[Feat\. Gavin Rossdale\]](https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Gavin Rossdale](https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6) | [What Would You Do?](https://open.spotify.com/album/4w2yJlTLXCQWtzQMo8kWxa) | 4:50 |
 | 101 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 |
 | 102 | [Out](https://open.spotify.com/track/6qaIFzZNuTJE2oD3seVat2) | [Robot Monster](https://open.spotify.com/artist/5hUuP1ezGGEm6JSUdFcA9t) | [Out](https://open.spotify.com/album/7tf1eM1QJIJ9ZvmpURBlF2) | 3:17 |
-| 103 | [100 Little Deaths](https://open.spotify.com/track/1iK6objrHYqNj6TjFhbEKJ) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/3wrOixk8SLnjk4siR58e8q) | 3:33 |
+| 103 | [100 Little Deaths](https://open.spotify.com/track/65B9xDVwOLjOi2Sm4bRVdm) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [100 Little Deaths \(Radio Edit\)](https://open.spotify.com/album/2bmYfuRVtzB5vAbr56K72G) | 3:33 |
 | 104 | [SAY](https://open.spotify.com/track/7t8yNLOj8NSUxALwftaF7r) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [SAY](https://open.spotify.com/album/6mXPbUWAiKuMklIf64Jgv6) | 2:59 |
 | 105 | [My Own Device](https://open.spotify.com/track/1oOKI3gpk9skLhK54CQrwf) | [Archetypes Collide](https://open.spotify.com/artist/6Gnk08ItppARKX1z1EW3Vn) | [My Own Device](https://open.spotify.com/album/6V035P8rKn8whAVj0DDbEs) | 3:06 |
 | 106 | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn) | 3:04 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 150 | [Where You Go I Go](https://open.spotify.com/track/38maix7OKjT3XwFZn8D6pu) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [APOPHYSITIS](https://open.spotify.com/album/4n1Y8Djpo0xnuhuPWcKYbR) | 3:22 |
 | 151 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 
-Snapshot ID: `MTY2NzgzODQ1NSwwMDAwMDAwMDYwZTM5Mzk2ZDFkZTBjMDlmYzc5ZTNiODc2OTZlZTEx`
+Snapshot ID: `MTY2NzgzODQ1NSwwMDAwMDAwMDg3ODg0NzllMTA2OWVlZDNjNDQ5ZjRhMGEyN2I5ZjM2`

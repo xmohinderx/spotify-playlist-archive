@@ -4,7 +4,7 @@
 
 > New music from Drake & 21 Savage is finally here! R.I.P\. Takeoff 🕊
 
-495 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/524c90ob7nnH5efTtaRnrW)
+497 songs - 1 day 0 hr 55 min - [published](https://open.spotify.com/playlist/524c90ob7nnH5efTtaRnrW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 | 2022-07-22 | 2022-09-24 |
 | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/track/1OdXwV1ZqMDuMKsPThVfSB) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/album/55lsB4N2SNet2krI1SBXht) | 3:37 | 2022-08-26 | 2022-10-08 |
 | [Bill](https://open.spotify.com/track/6Q8cOsrmZHZkz1WZtTegoU) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Bill](https://open.spotify.com/album/6jADK6WCiV6CpcfPUPRn3t) | 3:28 | 2022-03-18 | 2022-03-26 |
-| [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-07-22 |  |
+| [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-07-22 | 2022-11-11 |
+| [BILLIE EILISH.](https://open.spotify.com/track/5eMsJ357tcd0mrGsgBnfSI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Release Round Up Vol.4](https://open.spotify.com/album/5Ke5G7lbi2BCgDc5VLn8Xh) | 1:39 | 2022-11-04 |  |
 | [BILLIE EILISH.](https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i) | 1:39 | 2022-06-03 | 2022-08-01 |
 | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI) | 3:49 | 2021-12-31 | 2022-01-15 |
 | [Blame Me](https://open.spotify.com/track/3cxLYJ38ReOdnWNMGsR2WR) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Blame Me](https://open.spotify.com/album/3mRoh87HR5ixABjz2OWbZe) | 3:32 | 2022-08-19 | 2022-09-17 |
@@ -303,7 +304,8 @@
 | [My 24th Birthday](https://open.spotify.com/track/5nXB98pCGSh1gXSovAlc0U) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [My 24th Birthday](https://open.spotify.com/album/5Q8Ac801if6yJwkbrFmV5D) | 6:23 | 2022-06-24 | 2022-08-13 |
 | [My Escape](https://open.spotify.com/track/5joeIfncVcIwkrOqyXvKCx) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [My Escape](https://open.spotify.com/album/1OM4rOFBBHRbN588TxCrD3) | 3:43 | 2021-12-31 | 2022-02-05 |
 | [My Favorite Song](https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Taylor Allderdice](https://open.spotify.com/album/5cpYhM2NdVjJXMy9uZhD2J) | 3:52 | 2022-04-22 | 2022-06-11 |
-| [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2022-07-22 |  |
+| [N95](https://open.spotify.com/track/4GsMplCKuZQaYoLKlYXK8i) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [NOW That's What I Call Music! Vol\. 83](https://open.spotify.com/album/3qCvZmBYk84q2vj3jonmEu) | 3:12 | 2022-11-04 |  |
+| [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2022-07-22 | 2022-11-11 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-13 | 2022-08-01 |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-18 | 2022-04-23 |
 | [Neck & Wrist \(feat\. JAY\-Z & Pharrell\)](https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Neck & Wrist](https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3) | 3:29 | 2022-04-08 | 2022-05-14 |

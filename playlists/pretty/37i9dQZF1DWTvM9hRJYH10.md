@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Jordana Bryant
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,349 likes - 147 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,357 likes - 147 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 37 | [Enough](https://open.spotify.com/track/15poSUJkngb2fNk04ECdTr) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Enough](https://open.spotify.com/album/4EkLOP880Zw0F4Gnq1ltuj) | 3:20 |
 | 38 | [Tell 'Em Why](https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Tell 'Em Why](https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER) | 2:46 |
 | 39 | [18](https://open.spotify.com/track/2UiAhExxpMfBODuhZITng7) | [Jennifer Hart](https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu) | [18](https://open.spotify.com/album/5or963yixy9GLAOjcmpkRt) | 2:54 |
-| 40 | [Not Supposed To Know Each Other](https://open.spotify.com/track/2K52TQ4HqTz2ZbCrhkFw0p) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:41 |
+| 40 | [Not Supposed To Know Each Other](https://open.spotify.com/track/6jphhFUpKLzmptrwS35j0I) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:41 |
 | 41 | [Casual](https://open.spotify.com/track/5gDMFKZB0BT42aDJB0AGPI) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Casual](https://open.spotify.com/album/5biFk4V11QxQO2J8Q9kMmr) | 2:43 |
 | 42 | [Better With A Girl](https://open.spotify.com/track/1AhqYT646NhyThWhi3xX3r) | [Bella Raye](https://open.spotify.com/artist/0vOWMBQMjtApMkFJKEi0AX) | [Better With A Girl](https://open.spotify.com/album/2E1SORtryE4hbLVd5oQ8wd) | 3:01 |
 | 43 | [Stone Harbor](https://open.spotify.com/track/7gTcD9zdcjHTRBnrpAQwbD) | [Holdyn Barder](https://open.spotify.com/artist/6PIHqwkUR98s655qDrXMeo) | [Stone Harbor](https://open.spotify.com/album/4k95Vi7LSRuJIQJUih6yoV) | 3:46 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 146 | [Couldn't Care Less](https://open.spotify.com/track/6Rk9YL0M14ofFwYKJKwUTc) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Thank God For All The Boys](https://open.spotify.com/album/6XEhHN6bknsDNn0Y8OCP0Z) | 3:08 |
 | 147 | [Broke It Down](https://open.spotify.com/track/6ZdihJGxUzaM8BHCpSWLxO) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Broke It Down](https://open.spotify.com/album/6qRYlTlWMwzlhGqiE9w7yR) | 3:21 |
 
-Snapshot ID: `MTY2NzQwMDY4NiwwMDAwMDAwMDRiNDJmNWI1NzI0MTdkNTYyYjFhNGQyMTJmMGFlYzFj`
+Snapshot ID: `MTY2NzQwMDY4NiwwMDAwMDAwMGY3ZjVlZDBlMWExMjkwMjcxNzEwMjM1Y2RiM2I5ZTMy`

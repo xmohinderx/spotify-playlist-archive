@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Rezz
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,566 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,656 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 36 | [Trompeta](https://open.spotify.com/track/6o4BO9LLCPe5p43YKZzFuv) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Trompeta](https://open.spotify.com/album/3fyDFUE6R0Q8TdFHC5q2nz) | 3:08 |
 | 37 | [Say Yes](https://open.spotify.com/track/1YIYwFUDRzlQK0IXAVxPcN) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Say Yes](https://open.spotify.com/album/16Iue70ll51hWnwDiFiQrY) | 2:41 |
 | 38 | [Not About You](https://open.spotify.com/track/4rRmrn7Z5qySuAjD4Ep9bR) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Not About You](https://open.spotify.com/album/6zZCXte8GWJPvFOS2UUKYV) | 2:57 |
-| 39 | [Trials](https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 2:13 |
+| 39 | [Trials](https://open.spotify.com/track/2kQHYQlKivJFHO2CC0GDJ3) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Trials \(NGHTMRE & SPACE LACES Club Mix\)](https://open.spotify.com/album/5BhTksD3LCLkchjrS2I5HZ) | 2:13 |
 | 40 | [Bass Music](https://open.spotify.com/track/0i9EOVFM9AxFbY0IxA2coY) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [TVBOO](https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW) | [Bass Music](https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28) | 4:06 |
 | 41 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 |
 | 42 | [Work That](https://open.spotify.com/track/1ZvhgcnGpISg32eK7JadSe) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt) | [Work That](https://open.spotify.com/album/1Lm3v0jBatwrndrI7vkV6F) | 2:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 74 | [LEFT TO RIGHT](https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3) | 2:26 |
 | 75 | [SHiNE](https://open.spotify.com/track/3eGTeMHX7bB8YhUuXs9IV3) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1) | [SHiNE](https://open.spotify.com/album/5todskDJAkfo8TYsGGtCEh) | 3:35 |
 
-Snapshot ID: `MTY2Njk4MTM0MywwMDAwMDAwMGY4YTVkMmRlZDYwNmFiYTc1ODlmZDI5MWY0MmM5OWJk`
+Snapshot ID: `MTY2Njk4MTM0MywwMDAwMDAwMDE4M2Y3ZGYxNzE1NDU3YzUxYzE3ZWIyM2JjZjAwNzZk`

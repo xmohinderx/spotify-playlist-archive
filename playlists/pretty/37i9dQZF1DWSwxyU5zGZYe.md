@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,381 likes - 48 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,442 likes - 48 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dil Na Jaaneya](https://open.spotify.com/track/6zyozkRLgDlqZIUJzCwkgP) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Dil Na Jaaneya \(From "Good Newwz"\)](https://open.spotify.com/album/0pC6hbRSbTDIoDKk9aIPPR) | 3:51 |
 | 2 | [Meri Tum Ho \(Unplugged\)](https://open.spotify.com/track/1BVlbuPTabrUN73h7LgyaY) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 3:33 |
-| 3 | [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/6eTPyEkYUmDUFvNxJdNuOD) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor](https://open.spotify.com/album/2zJbSTXQKOlCUHw4Cnh6iB) | 4:00 |
+| 3 | [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/4diinDw5e8SKgscOqkcm7U) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [My Valentine](https://open.spotify.com/album/1MmyCf2RxFqsDY0X5UBLB4) | 4:00 |
 | 4 | [Mitra Re \(Reprise\)](https://open.spotify.com/track/0VvSU2eXRF3E0b1hClv1uX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Mitra Re \(Reprise\)](https://open.spotify.com/album/1IeFurDxEca30wboHFE2I7) | 3:29 |
 | 5 | [Ananya](https://open.spotify.com/track/6ikAlFXHkc3OCZDCaHgfCP) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Toofaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4OyNs3aq7N8uwIRlZS7pdq) | 3:52 |
 | 6 | [Lamha](https://open.spotify.com/track/6NoZFaxMEH9VN1xNa7NYaE) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3k1WMGUrn1raJVWoGrNPww) | 3:38 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 47 | [Channa Mereya \- Unplugged](https://open.spotify.com/track/0xHvmWCpz9Pnn1sDvRehAs) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 2:45 |
 | 48 | [Roobaroo](https://open.spotify.com/track/3vqJY3pVELLIxqXXyI08yr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 4:42 |
 
-Snapshot ID: `MTY2MTc4MjY3MCwwMDAwMDAwMDcxNGEyMjhkMmI4ZGIxNDRlMjZmMWQyYTM2NTZmNzg5`
+Snapshot ID: `MTY2MTc4MjY3MCwwMDAwMDAwMDc5Njc3ZWVjMTg4ODVmZWEzODAyNmQzNzExYTVlZTE1`

@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 31165,
+  "num_followers": 31218,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkwNTkxMSwwMDAwMDAwMGFjOTI4ZmU0MGQ0NDZjYmZlNWYxNzBkZTk3N2MyYzc0",
+  "snapshot_id": "MTY2MDkwNTkxMSwwMDAwMDAwMDRmYmIzZGI4OTJjNWU5YWMwYWRjNTYzYWM1MWMxYzJk",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -71,8 +71,8 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Johann Sebastian Bach : Concertos For Two, Three And Four Harpsichords",
-        "url": "https://open.spotify.com/album/4oeVee0QfTVVX2UPvI5uqw"
+        "name": "Johann Sebastian Bach: Harpsichord Concertos III",
+        "url": "https://open.spotify.com/album/7qjdqeKScMlcXFy6Vmm3rx"
       },
       "artists": [
         {
@@ -80,21 +80,21 @@
           "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
         },
         {
-          "name": "Michael Behringer",
-          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
-        },
-        {
           "name": "Robert Hill",
           "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Michael Behringer",
+          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
         },
         {
           "name": "Johann Sebastian Bach",
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         }
       ],
-      "duration_ms": 207973,
-      "name": "Concerto For 2 Keyboards In C Minor, BWV 1062: I. - Allegro",
-      "url": "https://open.spotify.com/track/3yZEUIdqCvuPvxVXWETXBL"
+      "duration_ms": 285466,
+      "name": "Concerto For 2 Keyboards in C Minor, BWV 1060: I. Allegro",
+      "url": "https://open.spotify.com/track/3521xl1xZ9X6DidY1LyLxL"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -155,70 +155,6 @@
       "duration_ms": 110773,
       "name": "Goldberg Variations, BWV 988: Var. 1",
       "url": "https://open.spotify.com/track/78sZ6qdT6HFK2NZPSoClLa"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Johann Sebastian Bach : Concertos For Two, Three And Four Harpsichords",
-        "url": "https://open.spotify.com/album/4oeVee0QfTVVX2UPvI5uqw"
-      },
-      "artists": [
-        {
-          "name": "Cologne Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
-        },
-        {
-          "name": "Christoph Anselm Noll",
-          "url": "https://open.spotify.com/artist/2yrKYpJMXZuHvLwt0KhWt8"
-        },
-        {
-          "name": "Roderick Shaw",
-          "url": "https://open.spotify.com/artist/2uXVqtUt7EJ3m7QEb9WxaL"
-        },
-        {
-          "name": "Gerald Hambitzer",
-          "url": "https://open.spotify.com/artist/1xWkZfLpMgjzLJzlReQNlc"
-        },
-        {
-          "name": "Robert Hill",
-          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
-        },
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Concerto For 4 Harpsichords In A Minor, BWV 1065: III. Allegro",
-      "url": "https://open.spotify.com/track/29VbJKD8INeKkz1fgMmZal"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Johann Sebastian Bach : Concertos For Two, Three And Four Harpsichords",
-        "url": "https://open.spotify.com/album/4oeVee0QfTVVX2UPvI5uqw"
-      },
-      "artists": [
-        {
-          "name": "Cologne Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
-        },
-        {
-          "name": "Michael Behringer",
-          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
-        },
-        {
-          "name": "Robert Hill",
-          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
-        },
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        }
-      ],
-      "duration_ms": 285760,
-      "name": "Concerto For 2 Keyboards In C Minor, BWV 1060: I. Allegro",
-      "url": "https://open.spotify.com/track/781TUTZWgtsB4ShYBl2KFt"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -687,46 +623,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
-        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 102760,
-      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801 / Anna Magdalena's Notebook (Fragments)",
-        "url": "https://open.spotify.com/album/2eCYStBziLfnCLBXu79MWw"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Janos Sebestyen",
-          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
-        }
-      ],
-      "duration_ms": 50306,
-      "name": "Clavierbuchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Minuet in D Minor, BWV Anh. II 132",
-      "url": "https://open.spotify.com/track/483bj6UuRHHGPhhhVVtrOE"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach: Keyboard Partitas Nos. 1-6",
         "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
       },
@@ -791,6 +687,34 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach: Keyboard Concertos",
+        "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        },
+        {
+          "name": "Les Violons du Roy",
+          "url": "https://open.spotify.com/artist/0JjlFfPu43HSIHEUP3zKvP"
+        },
+        {
+          "name": "Bernard Labadie",
+          "url": "https://open.spotify.com/artist/0z1Xm1EDwfBTBpsMQlBFOD"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: I. \u2014",
+      "url": "https://open.spotify.com/track/4AFBKPO6wT9zLHnSAQo4gf"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach, J.s.: From The W.f. Bach Notebook / 5 Little Preludes",
         "url": "https://open.spotify.com/album/7xSObzYExuN0kkixkfSXTo"
       },
@@ -827,34 +751,6 @@
       "duration_ms": 342040,
       "name": "Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
       "url": "https://open.spotify.com/track/7Ja4zr92OkUWRAHAtkhIxi"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach: Keyboard Concertos",
-        "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        },
-        {
-          "name": "Les Violons du Roy",
-          "url": "https://open.spotify.com/artist/0JjlFfPu43HSIHEUP3zKvP"
-        },
-        {
-          "name": "Bernard Labadie",
-          "url": "https://open.spotify.com/artist/0z1Xm1EDwfBTBpsMQlBFOD"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: I. \u2014",
-      "url": "https://open.spotify.com/track/4AFBKPO6wT9zLHnSAQo4gf"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -907,46 +803,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach, J.S.: English Suites Nos. 4-6, Bwv 809-811",
-        "url": "https://open.spotify.com/album/3Bcig5Swn4x4KrHea3b2ab"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 544493,
-      "name": "English Suite No. 6 in D Minor, BWV 811: I. Prelude",
-      "url": "https://open.spotify.com/track/6vBFn3JVbd8hvsUU0uPLn6"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "J.S. Bach: Partitas Nos. 5-6, Bwv 829-830",
-        "url": "https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 252786,
-      "name": "Partita No. 5 in G major, BWV 829 : II. Allemande",
-      "url": "https://open.spotify.com/track/2pDSPZte0uGQMXSUnhxNzS"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach: The Well-Tempered Clavier, Vol. I",
         "url": "https://open.spotify.com/album/5o6DNs6vKQvQw2gKHgZZVV"
       },
@@ -963,6 +819,158 @@
       "duration_ms": 85599,
       "name": "The Well-Tempered Clavier, Vol. 1: Prelude No. 11 in F Major, BWV 856",
       "url": "https://open.spotify.com/track/3JqdRHakoYB8mduMJ9GuYt"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801 / Anna Magdalena's Notebook (Fragments)",
+        "url": "https://open.spotify.com/album/7o2NF0vvFYqq7CLP8PlFcB"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Janos Sebestyen",
+          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
+        }
+      ],
+      "duration_ms": 50306,
+      "name": "Notenb\u00fcchlein vor Anna Magdalena Bach, Book 2: Minuet in D Minor, BWV Anh. II 132",
+      "url": "https://open.spotify.com/track/0yggGOgr8lNJgUGBCNofh8"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 3",
+        "url": "https://open.spotify.com/album/3TvmccGkejrXD2k047NXBI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gerald Hambitzer",
+          "url": "https://open.spotify.com/artist/1xWkZfLpMgjzLJzlReQNlc"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Christoph Anselm Noll",
+          "url": "https://open.spotify.com/artist/2yrKYpJMXZuHvLwt0KhWt8"
+        },
+        {
+          "name": "Robert Shaw",
+          "url": "https://open.spotify.com/artist/24K3MJ131xjKnqDf87M3Qm"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Concerto for 4 Keyboards in A Minor, BWV 1065 (arr. of Vivaldi's, Concerto for 4 Violins in B Minor, Op. 3, No. 10, RV 580): III. Allegro",
+      "url": "https://open.spotify.com/track/1rASWEBeTjmvWvK5jIGmqF"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach, J.S.: Concertos for Two, Three and Four Harpsichords",
+        "url": "https://open.spotify.com/album/0sWnJN5bMvJM8p2G4yuvda"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Michael Behringer",
+          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Concerto for 2 Keyboards in C Minor, BWV 1062: I. (Allegro)",
+      "url": "https://open.spotify.com/track/7s4KxZxOf7odG9NSmtbzCL"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach: Partitas Nos. 5-6, Bwv 829-830",
+        "url": "https://open.spotify.com/album/45hpNIkF0E398IbixnH9m3"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 252786,
+      "name": "Partita No. 5 in G Major, BWV 829: II. Allemande",
+      "url": "https://open.spotify.com/track/1oi4rx10o74j7rqk8suClF"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach, J.S.: English Suites Nos. 4-6, Bwv 809-811",
+        "url": "https://open.spotify.com/album/1snsyGmFTelTBj48fPRHBX"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 544493,
+      "name": "English Suite No. 6 in D Minor, BWV 811: I. Prelude",
+      "url": "https://open.spotify.com/track/32cYz7QarUtpgbHy2F9gj6"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Easy-Listening Piano Classics: Bach",
+        "url": "https://open.spotify.com/album/1RYyM0yCtSZEPxEwYzQe3q"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 96893,
+      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/7vGTdPgKgTWktgLNcAelWf"
     }
   ],
   "unique_name": "Bach Piano",

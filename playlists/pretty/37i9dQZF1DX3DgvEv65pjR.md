@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 | 27 | [Blueneck](https://open.spotify.com/track/4hsfbnqymyRKixQZJpOiXW) | [Chris Housman](https://open.spotify.com/artist/6kpQQUxQqxZEXaaWEoFdhY) | [Blueneck](https://open.spotify.com/album/26sJLYRYYqSbzX28jkS2Nm) | 2:55 |
 | 28 | [Remind Me Of You](https://open.spotify.com/track/72jf3DDz9utQpLpHs2jfXv) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Remind Me Of You](https://open.spotify.com/album/26sL1Mhq8kEduQGGeY2jGq) | 2:40 |
 | 29 | [Sometimes Love Takes So Long](https://open.spotify.com/track/0EJI36CptZJo8y9COiqSu4) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J) | [Illiterate Light](https://open.spotify.com/album/101nIHm9fdR1wLMgjiLmhT) | 3:40 |
-| 30 | [First Time](https://open.spotify.com/track/03R9GOTrB56l1znR4j5jhR) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:43 |
+| 30 | [First Time](https://open.spotify.com/track/2xdCrFLOOJ7VCvvaGAjnQh) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [First Time](https://open.spotify.com/album/3VOetHtDXdOu2ScKlUlyd3) | 2:43 |
 | 31 | [Compassion](https://open.spotify.com/track/5WqBxHItzxkS8eYpJCi8qb) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Compassion](https://open.spotify.com/album/2sgo2GoNu0Wa7ttKCm8icB) | 3:56 |
 | 32 | [Battles](https://open.spotify.com/track/44yKM9BdCTLyuSRWW2twxv) | [Emily West](https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA) | [All For You](https://open.spotify.com/album/4yOZivzG8tdyRPXdXooXRP) | 2:56 |
 | 33 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 | 39 | [All My Worry](https://open.spotify.com/track/1MwEsNbSXgpjmfAN3JMzzS) | [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha), [Joe Pisapia](https://open.spotify.com/artist/5b3G440uTn9vamEasYG0eH) | [Kate York & Joe Pisapia](https://open.spotify.com/album/05pNWaK791JPgmURl9kWRc) | 4:16 |
 | 40 | [All Good Cowboys](https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs) | [Mercy Bell](https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG) | [Mercy Bell](https://open.spotify.com/album/0DqRo10IE9EQwVM5Uva7l7) | 3:51 |
 
-Snapshot ID: `MTYyMjUyNzIwMCwwMDAwMDAwMDRlOTIwNDcwM2I2MTljMzI2YjUwMjc4OTk1Nzc2NzU4`
+Snapshot ID: `MTYyMjUyNzIwMCwwMDAwMDAwMDllMjIwMmMwN2Q3M2JkNmNmYzgzNzhjZjQ3ZjAwMGFh`

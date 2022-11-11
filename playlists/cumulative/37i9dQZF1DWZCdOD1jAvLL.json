@@ -6330,6 +6330,28 @@
     },
     {
       "album": {
+        "name": "Trials (NGHTMRE & SPACE LACES Club Mix)",
+        "url": "https://open.spotify.com/album/5BhTksD3LCLkchjrS2I5HZ"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133274,
+      "name": "Trials",
+      "url": "https://open.spotify.com/track/2kQHYQlKivJFHO2CC0GDJ3"
+    },
+    {
+      "album": {
         "name": "DRMVRSE",
         "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
       },
@@ -6345,7 +6367,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 133274,
       "name": "Trials",
       "url": "https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie"

@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-54 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/6huaxOIVGcotGlqbksbqmW)
+55 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/6huaxOIVGcotGlqbksbqmW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Can You Imagine](https://open.spotify.com/track/2RFWIe4Kyuydzgo7kBJQ8E) | [Rey Macc](https://open.spotify.com/artist/7BVMpH5dEz4jE03STFwdqZ), [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv), [Isaiah Misanvu](https://open.spotify.com/artist/5mR64cshBueO6oPDga4cgh) | [Can You Imagine](https://open.spotify.com/album/26ZsfOw4zyS5q3QUh0mZdk) | 3:17 | 2022-09-08 |  |
 | [Coronation](https://open.spotify.com/track/4H2N1mJ1ASwOICfB7KssiX) | [The Abstract Kid](https://open.spotify.com/artist/4MdaPhRU2AMaylIfyWm8cW), [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz) | [Coronation](https://open.spotify.com/album/0BejVTOe8sGM9SCXnsy0Bx) | 3:06 | 2022-09-08 |  |
 | [Crocs &jersey](https://open.spotify.com/track/568EH1ZKN7cAD0jEQnAEPq) | [Keinoh Music](https://open.spotify.com/artist/0sKiFuMsuB9nVLXovDc5bb), [Otis Banuchi](https://open.spotify.com/artist/24o0ghLqqWJsq3Tk9Ngukc), [Fakher Ahmed](https://open.spotify.com/artist/5CAnXsi43dznJE7qXujny3) | [Crocs &jersey](https://open.spotify.com/album/21XTnqu53Mkb5xyQ0M2Dal) | 2:43 | 2022-09-08 |  |
-| [Demons](https://open.spotify.com/track/2CkBcDSWW1VuB0t9kRpsA7) | [Malunda](https://open.spotify.com/artist/7xFi0ADsYYigQwaxsgv5aI) | [Demons](https://open.spotify.com/album/2CGb3UbrAPB7l4lBoi9ySP) | 2:46 | 2022-09-08 |  |
+| [Demons](https://open.spotify.com/track/2CkBcDSWW1VuB0t9kRpsA7) | [Malunda](https://open.spotify.com/artist/7xFi0ADsYYigQwaxsgv5aI) | [Demons](https://open.spotify.com/album/2CGb3UbrAPB7l4lBoi9ySP) | 2:46 | 2022-09-08 | 2022-11-11 |
 | [Different](https://open.spotify.com/track/7dPEajZhYQWXSivOPXbJwV) | [The Abstract Kid](https://open.spotify.com/artist/4MdaPhRU2AMaylIfyWm8cW) | [Different](https://open.spotify.com/album/6jOaaBvrDq3OKVRkVujc9E) | 2:28 | 2022-09-08 |  |
 | [Dotted Lines & Commas](https://open.spotify.com/track/0hw8BvO4OQ2f6GaF7NQI7p) | [Blixxack](https://open.spotify.com/artist/7tzeAMvtPF9coHEEwLZhRJ), [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp) | [Dotted Lines & Commas](https://open.spotify.com/album/0PKfULSEkUoaXXxUoI0fgP) | 4:37 | 2022-09-08 |  |
 | [DREAM ON](https://open.spotify.com/track/7GTP1QvmSflHQnnB7lz94d) | [STONE AGE UG](https://open.spotify.com/artist/3hqfpgUMBqJI3YX7yQ5Zgs) | [DREAM ON](https://open.spotify.com/album/08E4UuhEG1PkjKJ0yuIdCR) | 3:57 | 2022-09-08 | 2022-10-15 |
@@ -40,11 +40,12 @@
 | [MPAMBANA](https://open.spotify.com/track/6gWmIxytedd5sLaBcy3tX2) | [B\-Flex](https://open.spotify.com/artist/5AmM3bldOswTf8fyDWbQpm), [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp) | [TRUTH & RIGHTS](https://open.spotify.com/album/6VfbwPYvbTiJUAbzKcbk7C) | 3:30 | 2022-09-08 |  |
 | [Naomi birthday song](https://open.spotify.com/track/2lQrFQNl5kmZoNCs1KkAL8) | [ml godi](https://open.spotify.com/artist/6xa4Dk2GZqhLboPS1eXDqg) | [Collection](https://open.spotify.com/album/1YogiBfwL9qhYX1bENFWgZ) | 2:38 | 2022-09-08 |  |
 | [Ndolelele](https://open.spotify.com/track/644cjZFzNtNz5dNYwvSuH9) | [Byg Ben Sukuya](https://open.spotify.com/artist/2FU7huRrOYj7J461geVgXH), [Sharon Sento](https://open.spotify.com/artist/0HQs6VxGr3meRHHTkvObxy) | [NDURA EP](https://open.spotify.com/album/4DWD8hAqgT9nzglxp1dVSG) | 3:23 | 2022-09-08 |  |
-| [NEKOLEERA GYANGE, Pt\. II \- Remix](https://open.spotify.com/track/6hNst8b7DzmhiOZ8PwSrPU) | [STONE AGE UG](https://open.spotify.com/artist/3hqfpgUMBqJI3YX7yQ5Zgs), [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [NEKOLEERA GYANGE, Pt\. II \(Remix\)](https://open.spotify.com/album/7s91qlzHth6sGjqW2I1mni) | 3:09 | 2022-09-08 |  |
+| [NEKOLEERA GYANGE, Pt\. II \- Remix](https://open.spotify.com/track/6hNst8b7DzmhiOZ8PwSrPU) | [STONE AGE UG](https://open.spotify.com/artist/3hqfpgUMBqJI3YX7yQ5Zgs), [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [NEKOLEERA GYANGE, Pt\. II \(Remix\)](https://open.spotify.com/album/7s91qlzHth6sGjqW2I1mni) | 3:09 | 2022-09-08 | 2022-11-11 |
 | [Nekyo kyene](https://open.spotify.com/track/4MAtvNHJiuwUuNQyFHhC4E) | [Ebrahim Soul'o](https://open.spotify.com/artist/2YZW7Vm2kjy63WJQQ1UM4w) | [Conjolted](https://open.spotify.com/album/7dzbjLQcOssXTqqzu1HLrI) | 3:26 | 2022-09-08 |  |
 | [Never Left](https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6) | [Cxnrvd](https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ) | [Never Left](https://open.spotify.com/album/1S9nZvo7L2skkCIx6QxlNN) | 2:52 | 2022-09-08 |  |
 | [Nobody](https://open.spotify.com/track/6krUogRWd9GJTqmLX4qiGH) | [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp), [J\-Wats](https://open.spotify.com/artist/5SICeSfCoS3DTaNhNnZj94) | [Nobody](https://open.spotify.com/album/6jLFWGaIVgdgKXBIJZKkNn) | 3:43 | 2022-09-08 |  |
 | [Ooh Oh](https://open.spotify.com/track/0FzlmiqeA77DpGyNg9Pr7e) | [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6), [Cxnrvd](https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ), [Ledra](https://open.spotify.com/artist/1siBA2GUGaVN7S8cOo0Xgs) | [Ooh Oh](https://open.spotify.com/album/4kUfLU4ZhW0syFNV4vStBs) | 3:05 | 2022-09-08 |  |
+| [Sacrifice](https://open.spotify.com/track/1fsXR9y56hVIl5pfjB3fm2) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Sacrifice](https://open.spotify.com/album/5tuuHx8rbMEpudC8FT89cB) | 2:39 | 2022-11-10 |  |
 | [Skin Care](https://open.spotify.com/track/24ToDCZUSlY2mCHFR5YOVO) | [Blixxack](https://open.spotify.com/artist/7tzeAMvtPF9coHEEwLZhRJ) | [Skin Care](https://open.spotify.com/album/72oEAxauWEA7liK85rYnee) | 3:14 | 2022-09-08 |  |
 | [stars](https://open.spotify.com/track/2IRthOa69PZ1juCQ7ZGJSk) | [antigravity!](https://open.spotify.com/artist/1YLvt6xBvA3OhAZ9FjY1vV) | [stars](https://open.spotify.com/album/6KLjec6wpFGBw6okysaj6R) | 3:37 | 2022-09-08 |  |
 | [StepBack](https://open.spotify.com/track/4kBWaLZse3pejcPzEr89kH) | [Ynxg\_Brian](https://open.spotify.com/artist/7gb2liYztEueG9OqFjGxdV) | [StepBack](https://open.spotify.com/album/3Tlz9vfEbltuYfNzHqctDX) | 2:08 | 2022-09-08 |  |

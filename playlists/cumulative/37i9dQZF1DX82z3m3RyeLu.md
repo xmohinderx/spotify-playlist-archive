@@ -4,7 +4,7 @@
 
 > Listen BAEKHYUN's all solo tracks here.
 
-42 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/5iO0HQRIaGTet3jq2WjD07)
+43 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/5iO0HQRIaGTet3jq2WjD07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [UN Village](https://open.spotify.com/track/0WSTInLqMrT9po0LAHpZCJ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [City Lights \- The 1st Mini Album](https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3) | 3:55 | 2021-03-30 |  |
 | [Underwater](https://open.spotify.com/track/7tIFeLQFS7A6DLcZ12Mv3U) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:19 | 2021-03-30 |  |
 | [YOUNG](https://open.spotify.com/track/49HmLcTG7tsqz32TF3rnCC) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [YOUNG](https://open.spotify.com/album/5XN0VfKWEWpxhjcks8MGLe) | 3:49 | 2021-03-30 |  |
-| [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 | 2021-03-30 |  |
+| [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 | 2021-03-30 | 2022-11-11 |
+| [너를 사랑하고 있어](https://open.spotify.com/track/2w6rMzo6ECQi8ubNeO9UQS) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Q8yAIQxE4JrdWNy1h7lKv) | 3:13 | 2021-03-30 |  |
 | [너에게 가는 이 길 위에서 \(너.이.길\)](https://open.spotify.com/track/6NyEYh3xw55B8d5WK5kSrf) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [HYENA \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/5PUCfHi8hSo2wrH2W79Kbs) | 3:58 | 2021-03-30 |  |
 | [두근거려 \(Beautiful\)](https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [우리 옆집에 EXO가 산다 \(EXO NEXT DOOR\) OST](https://open.spotify.com/album/5r1LKUMNugaBQcHow1pNuc) | 3:44 | 2021-03-30 |  |
 | [비처럼 음악처럼](https://open.spotify.com/track/28XlJkvSn8Dq99UkThmoeQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [2015 가요대전 Limited Edition](https://open.spotify.com/album/5QxeSMFLJ70kPLHzRiL2Nx) | 3:01 | 2021-03-30 |  |

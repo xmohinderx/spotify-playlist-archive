@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-64 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/1ltNc3ZBZ5slAqB5oA5cdE)
+65 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/1ltNc3ZBZ5slAqB5oA5cdE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Rerocc](https://open.spotify.com/track/6cUTZnDarVMD7EBgCj97YW) | [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [The Blue M&M 3](https://open.spotify.com/album/2qyo6pRUbmVXDoITP4aOP6) | 3:19 | 2022-03-01 |  |
 | [Ride On The Ride Rhythm \- Track Edits](https://open.spotify.com/track/2DdDYcA8I8Q63TxlMeqV5a) | [Victor Romeo](https://open.spotify.com/artist/0yxKR9FQOh5DZQ6rykLi7c), [Cool Dave\-O](https://open.spotify.com/artist/7uOERa8mBHs2Cz6up6lR6w) | [Hardcore Traxx: Dance Mania Records 1986\-1995](https://open.spotify.com/album/0xvNLtTDM3fE3MjD6LrlNS) | 5:41 | 2022-03-01 |  |
 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 | 2022-03-01 |  |
-| [Rock Your Baby](https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [George McCrae \- Disco Pioneer](https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt) | 3:20 | 2022-03-01 |  |
+| [Rock Your Baby](https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [George McCrae \- Disco Pioneer](https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt) | 3:20 | 2022-03-01 | 2022-11-11 |
+| [Rock Your Baby](https://open.spotify.com/track/2RjGcQcwjK8vaEDYG5X1hN) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [70s Power Hits](https://open.spotify.com/album/0DttnmmvDLLg4068gJdIMo) | 3:20 | 2022-03-01 |  |
 | [Rolled Into](https://open.spotify.com/track/7ey9Vy7ItOngqKZaNWZaOZ) | [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [Otto](https://open.spotify.com/album/3ucYiqS68iOWRqRg9Ec3X7) | 4:59 | 2022-03-01 |  |
 | [Shake The Room \(feat\. Quavo\)](https://open.spotify.com/track/5Ar2IdS42hvVwV7EhflI8b) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 2:45 | 2022-03-01 |  |
 | [sparko](https://open.spotify.com/track/6SqxjFzb0cvtWyEE3elRj3) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Herron](https://open.spotify.com/artist/1bpUoSimXPBJ4ynN4mDOeh) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 2:15 | 2022-03-01 |  |

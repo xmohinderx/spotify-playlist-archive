@@ -218,6 +218,24 @@
     },
     {
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc"
+      },
+      "artists": [
+        {
+          "name": "Jol\u00e9",
+          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150491,
+      "name": "Alpine Green",
+      "url": "https://open.spotify.com/track/5ViF51pwzCt6zGHNVYEPJr"
+    },
+    {
+      "album": {
         "name": "Alpine Green",
         "url": "https://open.spotify.com/album/0nocoG26Snubuxek095d2y"
       },
@@ -229,7 +247,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 150491,
       "name": "Alpine Green",
       "url": "https://open.spotify.com/track/5eBrtJj35okckUbYP78X14"
@@ -1040,6 +1058,24 @@
     },
     {
       "album": {
+        "name": "Lichtenberg Figures",
+        "url": "https://open.spotify.com/album/0uR6QYGmCHT2l0osmTyLrS"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Thieves",
+          "url": "https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/4QbhVyTI7X8tXUjt1De4fa"
+    },
+    {
+      "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/4uQKSajaSAXIcf9RzvbHa9"
       },
@@ -1051,7 +1087,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204293,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/6qm17pxCWOfHIkKOdnLaoQ"
@@ -1285,10 +1321,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 242033,
       "name": "Lightly Looms - 7\" Version",
       "url": "https://open.spotify.com/track/0NsVmoq9k7ZgRRHYaWGnp4"
+    },
+    {
+      "album": {
+        "name": "Lightly Looms (7\" Version)",
+        "url": "https://open.spotify.com/album/5UZuuGmjOx9WEQrGM3lFfA"
+      },
+      "artists": [
+        {
+          "name": "Michael Baker",
+          "url": "https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242033,
+      "name": "Lightly Looms - 7\" Version",
+      "url": "https://open.spotify.com/track/1qBQeSe1RY38u6sNaw1ORM"
     },
     {
       "album": {
@@ -1418,6 +1472,24 @@
     },
     {
       "album": {
+        "name": "Mend A Man",
+        "url": "https://open.spotify.com/album/0p5Zy6S3IZb2p4BRAXWqFv"
+      },
+      "artists": [
+        {
+          "name": "Ulysses Wells",
+          "url": "https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285245,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/1lbehCx8hANqaOquivcgi2"
+    },
+    {
+      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/5ttHzLR58uxppFPtPdQCTK"
       },
@@ -1447,7 +1519,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 285245,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/6H6cjoBykuGKzyLpNFHGib"

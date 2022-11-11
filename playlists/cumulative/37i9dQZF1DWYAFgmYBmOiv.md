@@ -4,7 +4,7 @@
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-85 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
+88 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 | 2022-07-07 | 2022-10-14 |
 | [1901](https://open.spotify.com/track/7hExqd5aeA6cdDFx6sBfd3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7bJTscIEKaObZS61RmpviI) | 3:13 | 2022-07-07 | 2022-07-29 |
 | [2am](https://open.spotify.com/track/0LQ8OWUZXRd7qu5ujC3758) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Chronchitis](https://open.spotify.com/album/6aojA7xVxXyXlJjzAheiIQ) | 4:59 | 2022-07-07 | 2022-07-29 |
-| [2am](https://open.spotify.com/track/4cs6ORX8aKd6rtVdwAnnel) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Chronchitis](https://open.spotify.com/album/2lKYJFAYLywsVOxLMRoAOe) | 4:59 | 2022-07-07 |  |
+| [2am](https://open.spotify.com/track/4cs6ORX8aKd6rtVdwAnnel) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Chronchitis](https://open.spotify.com/album/2lKYJFAYLywsVOxLMRoAOe) | 4:59 | 2022-07-07 | 2022-11-11 |
+| [2am](https://open.spotify.com/track/6j00YWxtOgfHICJsFEb5Gx) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [2am \- Single](https://open.spotify.com/album/19riw0861BcVHxwrJbiybk) | 4:59 | 2022-07-07 |  |
 | [Anyone Can Play Guitar](https://open.spotify.com/track/23oUaizFBFVFI5PxJrkiO5) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:37 | 2022-04-14 | 2022-07-08 |
 | [Automatic](https://open.spotify.com/track/2Nghjyjd1l1p21oQ4ywk7t) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [Drugstore Heaven](https://open.spotify.com/album/22LWHEt5nZlH8ZTo0YywgC) | 3:29 | 2022-07-07 |  |
 | [Back Together](https://open.spotify.com/track/1KoXAHzunI8OY34GwmnIQV) | [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Back Together](https://open.spotify.com/album/5aW4rl6oNbpoL0LwteyYNH) | 4:09 | 2022-07-07 |  |
@@ -38,7 +39,8 @@
 | [dayaway](https://open.spotify.com/track/6Fk8wkBXvJdjf6A2vcEZJa) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [dayaway](https://open.spotify.com/album/45bxPNY3YTYkQCvRjml7pn) | 3:29 | 2022-07-07 |  |
 | [Daydream](https://open.spotify.com/track/7JcOhztbr6Qvhycgyx0Ea9) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Deception Bay](https://open.spotify.com/album/32lqkV59tbtXqcQeyasTmO) | 3:48 | 2022-07-07 |  |
 | [Disco Man](https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj) | 3:12 | 2022-07-07 |  |
-| [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 | 2022-07-07 |  |
+| [Dreaming](https://open.spotify.com/track/2NsqAf9DHFzu5wIeO66fpS) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Perez Hilton Presents "Pop Up! \#4"](https://open.spotify.com/album/5Bnvm9CtIRFDEBjkYLRGC0) | 3:35 | 2022-07-07 |  |
+| [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 | 2022-07-07 | 2022-11-11 |
 | [Dreaming](https://open.spotify.com/track/79M4YK2A4CNxvmdc6A7her) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Dreaming](https://open.spotify.com/album/1iyAKzNIBvKyEeLS0RwpMC) | 3:36 | 2022-07-07 | 2022-07-29 |
 | [Drift](https://open.spotify.com/track/1bJulrRtEET3KyjpYpaAlX) | [Peached](https://open.spotify.com/artist/7ihtWddopw2KlLH90xZQiL) | [Peached](https://open.spotify.com/album/1JXoCmmLYvbifDmKOOneYM) | 3:30 | 2022-07-07 |  |
 | [Drift](https://open.spotify.com/track/4CfIRbigdkyDGmgHtHONw3) | [Peached](https://open.spotify.com/artist/7ihtWddopw2KlLH90xZQiL) | [Peached](https://open.spotify.com/album/0U1y40quTVSQcDC6IXomkY) | 3:30 | 2022-07-07 | 2022-10-13 |
@@ -75,7 +77,8 @@
 | [Santa Monica](https://open.spotify.com/track/4x8GnM2L8jKmhVXwZsbpJY) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV) | [Santa Monica](https://open.spotify.com/album/2tIhzdbx8VBXoAPylE1xsF) | 2:46 | 2022-07-07 | 2022-08-26 |
 | [Santa Monica](https://open.spotify.com/track/5R4LHqbN7o4h4hIPKN5SCE) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV) | [Santa Monica](https://open.spotify.com/album/4Tjv9KvSUIDKhDNtG1t4zm) | 2:46 | 2022-07-07 |  |
 | [Save Room](https://open.spotify.com/track/1h2LOOg8VaNIZoXxc2J9rk) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted/Once Again](https://open.spotify.com/album/6Fgfn4OyOWRsHd7m6DwMEz) | 3:55 | 2022-07-07 | 2022-07-29 |
-| [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 | 2022-07-07 |  |
+| [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 | 2022-07-07 | 2022-11-11 |
+| [Save Room](https://open.spotify.com/track/5Y3525kHmyPBX4TWqPY4Mq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [R&B Summer Mix](https://open.spotify.com/album/5vWkCTOFti5ycfczgo389O) | 3:55 | 2022-07-07 |  |
 | [Set Sail](https://open.spotify.com/track/0VuFPUbrZXZX5eX0fFqIZV) | [Turf Club](https://open.spotify.com/artist/6N1cMPOKUEJfPv56YWM7y9) | [Set Sail](https://open.spotify.com/album/78JSYJrcVfje0FCciktQt2) | 2:15 | 2022-07-07 |  |
 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 | 2022-07-07 |  |
 | [Simple Life](https://open.spotify.com/track/1uwvhkMMQlnaHQ8wtldM7K) | [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG) | [Casey Abrams](https://open.spotify.com/album/6wq7YT3Nq1Qq5tB6DC8Ok7) | 3:36 | 2022-07-07 |  |

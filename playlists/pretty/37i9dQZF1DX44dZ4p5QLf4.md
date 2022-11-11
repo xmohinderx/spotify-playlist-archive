@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,875 likes - 111 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,963 likes - 111 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 90 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
 | 91 | [Home](https://open.spotify.com/track/3wa8JC8fe9gtsrMj7pXiKz) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/0uqPboQOJKyyLKAx41LygI) | 3:03 |
 | 92 | [Chanel Pearls \(with Jill Scott\)](https://open.spotify.com/track/3jWkuKai8qoTRvshbkxh0A) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [God Don't Make Mistakes](https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG) | 3:18 |
-| 93 | [Tell Him](https://open.spotify.com/track/0XsVWP7NBrKrQpqPJQDVrc) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Starfruit](https://open.spotify.com/album/4JnOTToBfdGzJUP7Qy2nYL) | 3:54 |
+| 93 | [Tell Him](https://open.spotify.com/track/43hH54oEoLOl35Z6s88k4a) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Tell Him](https://open.spotify.com/album/539D13Gt9WGYWmcNpIZHPt) | 3:54 |
 | 94 | [Anger](https://open.spotify.com/track/3Ykugegz7ThqmJ3rLXjMq3) | [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D), [Fabrik](https://open.spotify.com/artist/0Tf7on9sUYYHevISgz3phb) | [Anger](https://open.spotify.com/album/4bqhj2QElfjpe2N2mIWBfT) | 2:37 |
 | 95 | [Introvert Hotline](https://open.spotify.com/track/5SQxSIapsaziYnZRLwfPSU) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Introvert Hotline](https://open.spotify.com/album/0HxAmiI6pF4ZRaLGv63HnX) | 3:17 |
 | 96 | [Built My Home](https://open.spotify.com/track/3AD3MLwYNvon9yRs0V0RZq) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Miss Catharsis](https://open.spotify.com/album/6WXAkUlv4T6qjem1tANKZL) | 3:17 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 110 | [Hurray](https://open.spotify.com/track/4pa46ELAejI7w1mkeKI4Hu) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Hurray](https://open.spotify.com/album/1hSEGYKjYidrzq8xXnxgu7) | 3:47 |
 | 111 | [Save Me, Pt\. 2](https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Save Me, Pt\. 2](https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F) | 2:31 |
 
-Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMGYzYzYyZTlmM2M4ZWZlZDkzZmVjNGZlZWI2Y2I1ZjE2`
+Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMDRlNzkzOTFhMGUwNjM3OTI2YTJiNjMzZDkyMmMxOGMy`

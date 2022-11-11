@@ -4,7 +4,7 @@
 
 > Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
-68 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/6Oa8CkO2ISfYH7FRf5Faa7)
+69 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/6Oa8CkO2ISfYH7FRf5Faa7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [The Adam Project](https://open.spotify.com/track/0h2oliFUGdQzHE9TjCpeHe) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Adam Project](https://open.spotify.com/album/3mBBGGBVmBMHMfmrT4s7pH) | 4:55 | 2022-07-13 |  |
 | [The bioluminescence of the night](https://open.spotify.com/track/7mJNJKQ1eZFKMmJoaqyw55) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner](https://open.spotify.com/album/1H81jGoWeLI8ufq42GfDPn) | 3:37 | 2021-12-16 |  |
 | [The Consolations Of Philosophy](https://open.spotify.com/track/5gbBbzBnuat3nBDZWNHusF) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Black Mirror \- Nosedive \(Music From The Original TV Series\)](https://open.spotify.com/album/2PgwF3dLz3ESa0pyNDMWK5) | 5:36 | 2021-12-16 | 2022-07-29 |
-| [The Consolations of Philosophy](https://open.spotify.com/track/6gllTV2Gyhpn7OwunTAaQH) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Black Mirror \- Nosedive \(Music From The Original TV Series\)](https://open.spotify.com/album/6I3nSno00gBaLTJF4epBQY) | 5:36 | 2022-07-20 |  |
+| [The Consolations of Philosophy](https://open.spotify.com/track/6gllTV2Gyhpn7OwunTAaQH) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Black Mirror \- Nosedive \(Music From The Original TV Series\)](https://open.spotify.com/album/6I3nSno00gBaLTJF4epBQY) | 5:36 | 2022-07-20 | 2022-11-11 |
+| [The Consolations of Philosophy \- Music From "Black Mirror" TV Series](https://open.spotify.com/track/1eqf3ZsdpqMDJjEgm8D8Hx) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Classical For Revising](https://open.spotify.com/album/15n3JICpoTrlCUwngnhuz9) | 5:36 | 2022-07-20 |  |
 | [The Departure](https://open.spotify.com/track/5aaMPcWc1ANkAeqZcTRf90) | [Michael Nyman](https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8) | [Film Music 1980 \- 2001](https://open.spotify.com/album/160KzWMXXdj6cUWaqsb8Yp) | 3:49 | 2021-12-16 |  |
 | [The Hollowgram](https://open.spotify.com/track/6b744aI3Y18cm2AizIndGd) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [Total Recall \(Music from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6NohF98RDsGmogC9WMlx9I) | 5:40 | 2021-12-16 |  |
 | [The Lamb \(For String Orchestra\)](https://open.spotify.com/track/5BTKOw2T18rGBgcS0kCljX) | [Filharmonie Brno](https://open.spotify.com/artist/7wkqgHCWQh885KiCSUvqH5) | [Children Of Men \(Music From The Motion Picture\)](https://open.spotify.com/album/3ZoSfZo1yWlUk0E8uCSt1m) | 3:20 | 2022-07-20 |  |

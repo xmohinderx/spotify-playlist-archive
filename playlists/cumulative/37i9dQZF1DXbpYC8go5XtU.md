@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-158 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
+159 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Shape of a Dream \- Sound Bath](https://open.spotify.com/track/3h58Vv1UpPgP88s0zh4OTs) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Shape of a Dream](https://open.spotify.com/album/4wJXcvFwAEyMVWIW08znpO) | 4:04 | 2022-03-10 |  |
 | [Signals](https://open.spotify.com/track/3dmgdlknLnVte97AURFYyf) | [Marcus Woods](https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4) | [Signals](https://open.spotify.com/album/7C7WpnmXw6RufxybdZbZlS) | 2:46 | 2021-12-22 |  |
 | [Silent Lake](https://open.spotify.com/track/6pZ5qQo50eOzxikg1xSvzh) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Silent Lake](https://open.spotify.com/album/6X3gMefUTyakZ9WigRsPo3) | 5:09 | 2021-12-22 | 2022-07-29 |
-| [Silent Lake](https://open.spotify.com/track/5wo64VP0ZKuEL1zrF13mcs) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2), [Tim Clément](https://open.spotify.com/artist/7Le5b3UCWqI7DXAyeajEaY), [Mychael Danna & Tim Clément](https://open.spotify.com/artist/67LR42mlwQaGonptLxhDLm) | [North of Niagara](https://open.spotify.com/album/7DVRo79zwyA4vaadYCFxfu) | 5:09 | 2022-07-08 |  |
+| [Silent Lake](https://open.spotify.com/track/5wo64VP0ZKuEL1zrF13mcs) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2), [Tim Clément](https://open.spotify.com/artist/7Le5b3UCWqI7DXAyeajEaY), [Mychael Danna & Tim Clément](https://open.spotify.com/artist/67LR42mlwQaGonptLxhDLm) | [North of Niagara](https://open.spotify.com/album/7DVRo79zwyA4vaadYCFxfu) | 5:09 | 2022-07-08 | 2022-11-11 |
+| [Silent Lake](https://open.spotify.com/track/7tKp39PUo2jkRdGWbb19pY) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2), [Tim Clément](https://open.spotify.com/artist/7Le5b3UCWqI7DXAyeajEaY), [Mychael Danna & Tim Clément](https://open.spotify.com/artist/67LR42mlwQaGonptLxhDLm) | [Silent Lake](https://open.spotify.com/album/6mlRVWYqT57HUSYP7HlUHx) | 5:09 | 2022-10-14 |  |
 | [Simple](https://open.spotify.com/track/3NycsY2xkMtw46D7rlUs3v) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Holy](https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY) | 3:12 | 2022-03-25 |  |
 | [Simple Retreat](https://open.spotify.com/track/6UzDYojpXWsuPcI4HZmJyU) | [Eiden Carl](https://open.spotify.com/artist/6UmlzYjrIhJUwj0D3CxYUi) | [Equanimity](https://open.spotify.com/album/52xMZto4FqEu09Vzrp7NHm) | 2:33 | 2021-12-22 |  |
 | [Six](https://open.spotify.com/track/3l1Ld5EdRs8OMdbzgqcolH) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 5:34 | 2021-12-22 |  |

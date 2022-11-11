@@ -4048,6 +4048,28 @@
     },
     {
       "album": {
+        "name": "Miss Miss Miss",
+        "url": "https://open.spotify.com/album/29368c8WE9XT7lsmkPG5GY"
+      },
+      "artists": [
+        {
+          "name": "Living Hour",
+          "url": "https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia"
+        },
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239016,
+      "name": "Feelings Meeting",
+      "url": "https://open.spotify.com/track/4QCpHmXO4C7HU2bkkcvTna"
+    },
+    {
+      "album": {
         "name": "Feelings Meeting",
         "url": "https://open.spotify.com/album/3L7nYxjsSoPUxpXivTutSf"
       },
@@ -4085,7 +4107,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 239016,
       "name": "Feelings Meeting",
       "url": "https://open.spotify.com/track/7yAWOJIWEbyWj9pHu2j9jD"
@@ -8293,10 +8315,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 224000,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
+    },
+    {
+      "album": {
+        "name": "Olympus",
+        "url": "https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E"
     },
     {
       "album": {
@@ -9733,10 +9773,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 320186,
       "name": "Slowing Down",
       "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
+    },
+    {
+      "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/3Yo08VwO5AZjYxM9XC6IXp"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320186,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/4PPodWxVosPAXvwLlqbjyt"
     },
     {
       "album": {
@@ -9946,6 +10004,24 @@
     },
     {
       "album": {
+        "name": "Pictures of You",
+        "url": "https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "Someone to Love",
+      "url": "https://open.spotify.com/track/5UIdBn6A2gHCRmmdghSnFo"
+    },
+    {
+      "album": {
         "name": "Someone to Love",
         "url": "https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5"
       },
@@ -9975,7 +10051,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 236666,
       "name": "Someone to Love",
       "url": "https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T"
@@ -12467,7 +12543,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 210120,
       "name": "You Follow Me Around",
       "url": "https://open.spotify.com/track/39O3wOayzkkTy0aqmqtTbp"
@@ -12485,7 +12561,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 210120,
       "name": "You Follow Me Around",
       "url": "https://open.spotify.com/track/3PpvZqgohg0VaNiGDUMWEO"

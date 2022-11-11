@@ -4,7 +4,7 @@
 
 > You feel the sun on your face.
 
-96 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/1c2X5gtsaUdjfhq6okPYv2)
+98 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/1c2X5gtsaUdjfhq6okPYv2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Cousin Joe Pt 1](https://open.spotify.com/track/3hJPEhPVe5r122YyR938Sb) | [Sugar Belly](https://open.spotify.com/artist/0ssb4YvbdaKz7NlQAcrbX6) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:39 | 2021-04-23 |  |
 | [Crabwalking](https://open.spotify.com/track/4jYXEy2Rv5V5jcf4JAiR7o) | [Prince Jazzbo](https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 3:15 | 2021-04-23 | 2022-07-29 |
 | [Danger In Your Eyes](https://open.spotify.com/track/2PQeK7uGoKfc1sGRTN1cFR) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:53 | 2021-04-23 |  |
-| [Declaration of Rights](https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/1wPbCwn6OsBQj9VfziLYjQ) | 3:19 | 2021-04-23 |  |
+| [Declaration of Rights](https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/1wPbCwn6OsBQj9VfziLYjQ) | 3:19 | 2021-04-23 | 2022-11-11 |
+| [Declaration of Rights](https://open.spotify.com/track/72d00Av5BisHp8KZDjR3ie) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [Original Jamaican Classics, Vol\. 1](https://open.spotify.com/album/2pumKN2jSlSPdXjHe2veJg) | 3:19 | 2021-04-23 |  |
 | [Declaration Of Rights](https://open.spotify.com/track/3t1rBSQTTvmgzSsnSORInf) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [Soul Jazz Records Presents Studio One Story](https://open.spotify.com/album/5Mr1LHcR1zseZQ087rNg1W) | 3:20 | 2021-04-23 | 2022-07-29 |
 | [Drum Song](https://open.spotify.com/track/7m7XbZbG4otW7AtUOtn7iU) | [Devon "Soul" Russell](https://open.spotify.com/artist/6mN77Xtmaxsk2zvOrDRHTE) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:53 | 2021-04-23 | 2022-07-29 |
 | [Freedom Sounds](https://open.spotify.com/track/4dNDYHH9JPAHc339r1y8ty) | [Soul Brothers](https://open.spotify.com/artist/1UTxQ0jbtZoJPXD9cUC3iD) | [Studio One Ska Fever! More Ska Sounds from Sir Coxsone's Downbeat 1962\-65](https://open.spotify.com/album/2X9XmbPk2hthOpLcZ5lHnj) | 4:10 | 2021-04-23 | 2022-07-29 |
@@ -52,7 +53,7 @@
 | [Keep on Moving](https://open.spotify.com/track/3fooEYpcvSYV8XWRRZ59AD) | [Lord Tanamo](https://open.spotify.com/artist/0jCQfGTP2CuiYqPiVTmzU6) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 2:30 | 2021-04-23 |  |
 | [Kinky Reggae \- Original Album Version](https://open.spotify.com/track/7rzl3uAXLQMWznyVUaoeer) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:37 | 2021-04-23 | 2022-08-19 |
 | [Live Up to Your Name](https://open.spotify.com/track/7yaIFvg4FW9U3PRnBisAqi) | [Prince Lincoln](https://open.spotify.com/artist/7a6rxqAzBbhDL9fl4NXZzA) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:59 | 2021-04-23 |  |
-| [Lively Up Yourself](https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 5:10 | 2021-04-23 | 2022-08-19 |
+| [Lively Up Yourself](https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 5:10 | 2021-04-23 |  |
 | [Locust](https://open.spotify.com/track/3jFPay48ActRmwHnhPHwu7) | [The Ethiopian](https://open.spotify.com/artist/5dl6NImlsBk6gGlZOp9IkU) | [Studio One Kings](https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj) | 4:19 | 2021-04-23 |  |
 | [Love and Affection](https://open.spotify.com/track/2OGB6WhcDJ2kMl1uAPRt7j) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Studio One Groups](https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo) | 2:39 | 2021-04-23 | 2022-07-29 |
 | [Love Jah](https://open.spotify.com/track/2kNtkx2Bh9qRKELpJMdIks) | [Im and Sound Dimension](https://open.spotify.com/artist/1nfvWfqnzY3Mkn6CFwfe96) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:36 | 2021-04-23 |  |
@@ -100,9 +101,10 @@
 | [Trouble Maker](https://open.spotify.com/track/3rynEqoZC5xwZ0FgSj3m49) | [Wailing Souls](https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:58 | 2021-04-23 |  |
 | [Truth And Rights](https://open.spotify.com/track/4UDhprhFPKxJZ2ChNSJsKG) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 3:01 | 2021-04-23 |  |
 | [Waiting In Vain](https://open.spotify.com/track/4Gq2ydMKhDZmctzkmk2bYo) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 4:16 | 2021-04-23 | 2022-07-29 |
-| [Waiting In Vain](https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 4:16 | 2021-04-23 |  |
+| [Waiting In Vain](https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 4:16 | 2021-04-23 | 2022-11-11 |
 | [Where's Garvey](https://open.spotify.com/track/32fwQQjAdnaW9TuqJdW8rw) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Studio One Ska Fever! More Ska Sounds from Sir Coxsone's Downbeat 1962\-65](https://open.spotify.com/album/2X9XmbPk2hthOpLcZ5lHnj) | 2:14 | 2021-04-23 | 2022-07-29 |
-| [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 | 2021-04-23 |  |
+| [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 | 2021-04-23 | 2022-11-11 |
+| [Where's Garvey](https://open.spotify.com/track/67WLLqIoGXbcTS6FwfrL0Z) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Ska Sounds, Vol\. 1](https://open.spotify.com/album/5SnwwIFYmfaJlsa37OI3NG) | 2:14 | 2021-04-23 |  |
 | [You'll Get Your Pay](https://open.spotify.com/track/0QS4vNmAoV6Y0FMz0FTYhe) | [Linton Cooper \(w\. The Brentford Disco Set\)](https://open.spotify.com/artist/0Zc8HYdVsRDDYj2atgS3aI) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 2:56 | 2021-04-23 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

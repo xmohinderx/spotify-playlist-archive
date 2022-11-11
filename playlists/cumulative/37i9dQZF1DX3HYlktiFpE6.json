@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 276526,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/7EZjj4CRzBfeEAVfQMDqWu"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 245500,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/5QxAO4f3EuP40hhHkiRcO1"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 336693,
       "name": "Come Sail Away",
       "url": "https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 221066,
       "name": "Creep - Studio Version",
       "url": "https://open.spotify.com/track/0bkEVRYVWuKBCWOX6kY2kT"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 204160,
       "name": "Medley: Killer Queen / Bohemian Rhapsody / Somebody To Love",
       "url": "https://open.spotify.com/track/191HHrs8Bwa8VZ4IJ2iG67"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 259026,
       "name": "Misty Mountains",
       "url": "https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ"
@@ -1097,6 +1097,24 @@
       "duration_ms": 260315,
       "name": "Misty Mountains (A Cappella)",
       "url": "https://open.spotify.com/track/1g5OHdV7X0nOaB9Vy8sGdN"
+    },
+    {
+      "album": {
+        "name": "Songs of Middle Earth",
+        "url": "https://open.spotify.com/album/0ocEjdrrdGiP4N2JmZj9cJ"
+      },
+      "artists": [
+        {
+          "name": "Peter Hollens",
+          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258513,
+      "name": "Misty Mountains - Solo Version",
+      "url": "https://open.spotify.com/track/3fMdTXx79MvNWnB7orsq4d"
     },
     {
       "album": {
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 115706,
       "name": "Wavin' Flag",
       "url": "https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE"

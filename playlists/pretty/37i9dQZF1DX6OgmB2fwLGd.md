@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Featuring new music by Yung Gravy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,261,987 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262,250 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 67 | [less than me \(with NoCap\)](https://open.spotify.com/track/1giAAC2ehzhihRYA7sxYHO) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [WORLD DAMINATION](https://open.spotify.com/album/3N8tj0jEEDRSKwET5u3xgW) | 3:14 |
 | 68 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:47 |
 | 69 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 |
-| 70 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 |
+| 70 | [BILLIE EILISH.](https://open.spotify.com/track/5eMsJ357tcd0mrGsgBnfSI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Release Round Up Vol.4](https://open.spotify.com/album/5Ke5G7lbi2BCgDc5VLn8Xh) | 1:39 |
 | 71 | [One Night](https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lil Boat](https://open.spotify.com/album/4bJqW1SBOvsfcEzZwsjdjx) | 4:03 |
 | 72 | [komission](https://open.spotify.com/track/14o2zRByqbosC6uTHnL4bw) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [komission](https://open.spotify.com/album/10zEBwtS1N4lzIhTiez1nY) | 1:15 |
 | 73 | [Gotsta Get Paid](https://open.spotify.com/track/6s3x9zSwfzgi1IY9iDXjYh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Prettiest Problem](https://open.spotify.com/track/4xJGDw3NuNpfzIluJjAoye) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DAMU UP](https://open.spotify.com/artist/6llShcWedgxXoOR1dpsXD1) | [Prettiest Problem](https://open.spotify.com/album/1B2TwkqjAO0CBknczIjuRk) | 2:17 |
 | 100 | [TOOYOUNG](https://open.spotify.com/track/737kPzO3GT2cALxjXouTVC) | [Take45](https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO) | [Boy On Mars 2](https://open.spotify.com/album/2ailm754W0FoyX3Bf0o1Jq) | 1:47 |
 
-Snapshot ID: `MTY2ODAwNTE3NywwMDAwMDAwMDIwYzFiODYxOWI0MjVlNjQ4OGMwNzk3OTVjNzUzYzg4`
+Snapshot ID: `MTY2ODAwNTE3NywwMDAwMDAwMDA3NzZlNGZiMzBmYjI1YzZhNGY4ZDg1OTQ1N2Q2ODA0`

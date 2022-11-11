@@ -302,6 +302,24 @@
     },
     {
       "album": {
+        "name": "about u",
+        "url": "https://open.spotify.com/album/1YHRqOs5yxMvHVX69bJuxv"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194773,
+      "name": "about u",
+      "url": "https://open.spotify.com/track/5zLGJENQMphktQdZ1qipP4"
+    },
+    {
+      "album": {
         "name": "Acryl",
         "url": "https://open.spotify.com/album/2iNnt8CTLaygGZFBwzOZlh"
       },
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 98800,
       "name": "Chasing Dreams",
       "url": "https://open.spotify.com/track/7iUHBN3E2w2y3MIo8jqzPg"
@@ -2163,7 +2181,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
@@ -3415,7 +3433,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 172672,
       "name": "HONEST",
       "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
@@ -4517,7 +4535,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 170501,
       "name": "Major Distribution",
       "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
@@ -4783,7 +4801,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 194259,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1FYbKJI9kRofsRgOVYciic"
@@ -5179,6 +5197,24 @@
       "duration_ms": 120839,
       "name": "Next Up - S4-E2, Pt. 1",
       "url": "https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn"
+    },
+    {
+      "album": {
+        "name": "Nicht das was du suchst 2",
+        "url": "https://open.spotify.com/album/2rF9NQJrd3kK0ZiM2lEuhw"
+      },
+      "artists": [
+        {
+          "name": "Feo Night",
+          "url": "https://open.spotify.com/artist/4w4DiUDjrVnwUBMtey8L5U"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184745,
+      "name": "Nicht das was du suchst 2",
+      "url": "https://open.spotify.com/track/0RVHHrxnG999eu706TrtG5"
     },
     {
       "album": {
@@ -5963,7 +5999,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
@@ -6070,6 +6106,32 @@
     },
     {
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242026,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+    },
+    {
+      "album": {
         "name": "get numb with me",
         "url": "https://open.spotify.com/album/7kfXBbjC4CdFez8O793xGx"
       },
@@ -6169,6 +6231,28 @@
       "duration_ms": 137311,
       "name": "Reich",
       "url": "https://open.spotify.com/track/22rr5JnP8tY34SK9FFfmqb"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
       "album": {
@@ -7057,10 +7141,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 157808,
       "name": "Spannung",
       "url": "https://open.spotify.com/track/7G4wi7IAadEj3pzQeR923K"
+    },
+    {
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
     },
     {
       "album": {
@@ -7079,10 +7181,32 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 404106,
       "name": "Stan",
       "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
+    },
+    {
+      "album": {
+        "name": "Curtain Call: The Hits",
+        "url": "https://open.spotify.com/album/1zUY4PAFrNUOCeaEBrEHzh"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404426,
+      "name": "Stan",
+      "url": "https://open.spotify.com/track/0zIckkQ6ZRos7IdoNPakAw"
     },
     {
       "album": {
@@ -7105,6 +7229,28 @@
       "duration_ms": 404426,
       "name": "Stan",
       "url": "https://open.spotify.com/track/4QVOTT9CM2ftSLwnYGNDjd"
+    },
+    {
+      "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/7CFbCDGwjdw1sXhfc3yEA5"
+      },
+      "artists": [
+        {
+          "name": "LUIS",
+          "url": "https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI"
+        },
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167578,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/2I6WhzUJfc99q8rZTl6g1L"
     },
     {
       "album": {
@@ -7379,6 +7525,28 @@
       "duration_ms": 160321,
       "name": "S\u00fc\u00dfe Tr\u00e4ume",
       "url": "https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk"
+    },
+    {
+      "album": {
+        "name": "Tables Turn (Rheingold Soundtrack)",
+        "url": "https://open.spotify.com/album/1CyDUESGZaBMByPxZqxL9p"
+      },
+      "artists": [
+        {
+          "name": "Cheriimoya",
+          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
+        },
+        {
+          "name": "Sierra Kidd",
+          "url": "https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179302,
+      "name": "Tables Turn (Rheingold Soundtrack)",
+      "url": "https://open.spotify.com/track/2ngVtnpI2U6Cdu9CLzqb0U"
     },
     {
       "album": {
@@ -7727,7 +7895,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 196760,
       "name": "TITANIC",
       "url": "https://open.spotify.com/track/6196SrSk2HZmLYVf6EYptS"
@@ -8911,6 +9079,28 @@
       "duration_ms": 134000,
       "name": "Zeit fliegt (feat. Fergy53)",
       "url": "https://open.spotify.com/track/3X8T8umm67dqgszAXdP9dU"
+    },
+    {
+      "album": {
+        "name": "Zu viel",
+        "url": "https://open.spotify.com/album/4zdM0aJDVAbxcZSly8fu1F"
+      },
+      "artists": [
+        {
+          "name": "Edo Saiya",
+          "url": "https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169715,
+      "name": "zu viel",
+      "url": "https://open.spotify.com/track/5cFvvl1yUliatNKC2kHXZL"
     },
     {
       "album": {

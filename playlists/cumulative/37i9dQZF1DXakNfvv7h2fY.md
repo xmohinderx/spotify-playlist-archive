@@ -4,7 +4,7 @@
 
 > Rain keep a fallin’ round my window pane..\. Blues to warm the soul when there’s no point going outside.
 
-96 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/7oJ0v1QCs5RqWKmg8kv7zj)
+98 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/7oJ0v1QCs5RqWKmg8kv7zj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [Hard Time Killing Floor](https://open.spotify.com/track/6gQ9gDBM2FZ7sOtkxWL59B) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Wish I Was in Heaven Sitting Down](https://open.spotify.com/album/3NU8Dd4nEqPs7zHJtJ0G5o) | 5:09 | 2022-05-25 |  |
 | [Here I Am Broken Hearted](https://open.spotify.com/track/0pDD7ty5MZxL2IgCWl6l1m) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX), [Joe Turner](https://open.spotify.com/artist/14fyFK7pR901yqcjwbzYGy), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Super Black Blues](https://open.spotify.com/album/5VzRIg7yk3IW5YcwhA7HIS) | 3:46 | 2022-07-28 |  |
 | [Honest I Do](https://open.spotify.com/track/7FRjhn2FpVJsLJqXC6cAAU) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:51 | 2022-05-25 | 2022-07-29 |
-| [How Blue Can You Get?](https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Anthology](https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb) | 2:40 | 2022-07-28 |  |
+| [How Blue Can You Get?](https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Anthology](https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb) | 2:40 | 2022-07-28 | 2022-11-11 |
 | [How Blue Can You Get?](https://open.spotify.com/track/5Umd0Sioh40afTSxnSRYn2) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Anthology](https://open.spotify.com/album/1LzYzoyDpRjM8o5GDha0yN) | 2:40 | 2022-05-25 | 2022-07-29 |
+| [How Blue Can You Get? \- Single Version](https://open.spotify.com/track/7dG15kDzx9JwgI3UO5RWjw) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Chill Soul For Kids](https://open.spotify.com/album/0xFj2zRBiQT5tIquCN4oyz) | 2:44 | 2022-09-30 |  |
 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:19 | 2022-07-28 |  |
 | [I Am The Blues](https://open.spotify.com/track/1LPfIa3P7kqSmz07VCg6Ui) | [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ) | [The Sonet Blues Story](https://open.spotify.com/album/40GHbce7vbiieZ6raVqLK4) | 2:49 | 2022-05-25 | 2022-07-29 |
 | [I Can't Quit You, Baby](https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 6:40 | 2022-05-25 |  |
@@ -79,7 +80,8 @@
 | [Rainy Day Blues](https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Singles](https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A) | 2:14 | 2022-08-18 |  |
 | [Rainy Day Blues \- Remastered 1997](https://open.spotify.com/track/1M2dW9x2BwXyuKYnl6XIPV) | [Sonny Boy Williamson I](https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4) | [The Bluebird Recordings, 1938](https://open.spotify.com/album/4HhTU3By2batodWLzxpYqc) | 3:18 | 2022-07-28 |  |
 | [Salt In My Wounds](https://open.spotify.com/track/0fnALehX0CnAZYD6Lerc8a) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up](https://open.spotify.com/album/1ISxqujnZ2NLb6LOYY92qK) | 4:13 | 2022-05-25 | 2022-07-29 |
-| [Salt In My Wounds](https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 4:13 | 2022-07-28 |  |
+| [Salt In My Wounds](https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 4:13 | 2022-07-28 | 2022-11-11 |
+| [Salt In My Wounds](https://open.spotify.com/track/3gpcMzfOzzJXyLEOvyXnMZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Deluxe Edition](https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT) | 4:14 | 2022-09-30 |  |
 | [Same Old Blues Again](https://open.spotify.com/track/4iDihtKlKU9RgCnRkn0tmM) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Boom Boom](https://open.spotify.com/album/1JYSyzv0oKu42PeEtQLKOE) | 6:13 | 2022-05-25 | 2022-07-29 |
 | [Sittin' And Cryin' The Blues](https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY), [Memphis Slim](https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia) | [Willie's Blues](https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV) | 3:23 | 2022-07-28 |  |
 | [Sittin' Here Thinkin](https://open.spotify.com/track/5HrztaUeeQaraA5IsBWzm6) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:07 | 2022-05-25 |  |

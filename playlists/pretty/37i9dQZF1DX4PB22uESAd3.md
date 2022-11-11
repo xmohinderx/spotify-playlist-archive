@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,207 likes - 74 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,311 likes - 74 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 50 | [She's A Sweet One](https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 3:01 |
 | 51 | [Soft](https://open.spotify.com/track/5u87THoJXo4YgI7pxjwaqI) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection](https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb) | 2:33 |
 | 52 | [Get Rhythm](https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:13 |
-| 53 | [Rock Me Mama](https://open.spotify.com/track/4EWbNyNjDic1q94r980ZKz) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right Mama](https://open.spotify.com/album/4hAbDv4epIWlV0UO4X198N) | 3:00 |
+| 53 | [Rock Me Mama](https://open.spotify.com/track/2QIJVwDgFuOGCLURaMvmF9) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Arthur "Big Boy" Crudup Vol\. 1 1941\-1946](https://open.spotify.com/album/0W8si0dl1CD4U3ebkypkyp) | 2:59 |
 | 54 | [Mr\. Lee](https://open.spotify.com/track/7jU7bkSuD3q3D40ogwlhgE) | [The Bobbettes](https://open.spotify.com/artist/5TesVKMq16peTfJC46PbYw) | [Mr\. Lee: The Best of the Bobbettes](https://open.spotify.com/album/30xCLFPujduA5N34PVAEha) | 2:15 |
 | 55 | [Baby, Please Don't Go \- Live At Newport Jazz Festival/1960](https://open.spotify.com/track/2mWeBfeGMAFRWnzjxBSyFo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters At Newport 1960](https://open.spotify.com/album/7gTcPv1bE0THbjuvDbK1gq) | 3:04 |
 | 56 | [Walkin' After Midnight](https://open.spotify.com/track/7E8nKMtXMqIQbvl1Ta9Ucw) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:34 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 73 | [Lucky Lips](https://open.spotify.com/track/2QD6hlIGUAqJuTzAw0eVTW) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:09 |
 | 74 | [Lucille](https://open.spotify.com/track/4YXKKnIZuk7UtXH5oC0ffa) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:23 |
 
-Snapshot ID: `MTY1ODc3NjM0OSwwMDAwMDAwMDEyZWM2MjhjZTFiZWZkZmJjZGUzMDM0MTEyZjYyYTlk`
+Snapshot ID: `MTY1ODc3NjM0OSwwMDAwMDAwMDVkOTVjNGM2NWVjMmEyY2ZkOGI3MjRmYjYzMzQ1ODU1`

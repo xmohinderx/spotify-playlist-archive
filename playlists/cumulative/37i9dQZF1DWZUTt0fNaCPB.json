@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 202907,
       "name": "1234",
       "url": "https://open.spotify.com/track/19T79JA6PgqCbYOYZ3e1bV"
@@ -223,6 +223,24 @@
     {
       "album": {
         "name": "Throttle Junkies",
+        "url": "https://open.spotify.com/album/3cQfgNWRUTa3vCimkzVIr0"
+      },
+      "artists": [
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159800,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/10AveWzlmt1Dkh9mhsV2KZ"
+    },
+    {
+      "album": {
+        "name": "Throttle Junkies",
         "url": "https://open.spotify.com/album/6g4J1iyCcPffhuB5Ei4srs"
       },
       "artists": [
@@ -280,6 +298,24 @@
     },
     {
       "album": {
+        "name": "Minutes to Midnight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4JtIVJRA342O0YoAchen5Q"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164457,
+      "name": "Bleed It Out",
+      "url": "https://open.spotify.com/track/04klL0e4Den6eZV9nitQWT"
+    },
+    {
+      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
       },
@@ -309,7 +345,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 166373,
       "name": "Bleed It Out",
       "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
@@ -417,7 +453,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213866,
       "name": "Blood Brothers",
       "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M"
@@ -489,7 +525,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 191440,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ"
@@ -507,7 +543,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 200310,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb"
@@ -781,7 +817,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 219720,
       "name": "Dance Macabre",
       "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
@@ -1145,7 +1181,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 168560,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/5ih5herXfvp5coBVFhmoAW"
@@ -1541,7 +1577,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 284026,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
@@ -1675,7 +1711,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 246209,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/3EO0js63QHQQPqJt1TgBLQ"
@@ -1783,7 +1819,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194493,
       "name": "Low Down Dirty",
       "url": "https://open.spotify.com/track/7Gutanf1Mf2r8ASTlrR5ku"
@@ -1935,7 +1971,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 234786,
       "name": "No More Hollywood Endings",
       "url": "https://open.spotify.com/track/4LlEtj8I2XUhkrXFzBBtFJ"
@@ -1989,7 +2025,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 227864,
       "name": "Over It",
       "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
@@ -2205,7 +2241,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 206471,
       "name": "Risen",
       "url": "https://open.spotify.com/track/5SPdrK8RwO52MlBI1kjcft"
@@ -2457,7 +2493,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209703,
       "name": "Sham Pain",
       "url": "https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA"
@@ -2547,7 +2583,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 233986,
       "name": "Sound of Madness",
       "url": "https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY"
@@ -2911,7 +2947,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
@@ -3289,7 +3325,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 172573,
       "name": "Word Up!",
       "url": "https://open.spotify.com/track/6oaCwukRHvb3Q0eBfa9wiI"
@@ -3383,7 +3419,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187346,
       "name": "You're Going Down",
       "url": "https://open.spotify.com/track/5omWAB5iNMHvbAfBSzkdu8"

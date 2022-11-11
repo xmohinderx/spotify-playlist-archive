@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,899 likes - 76 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,905 likes - 76 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 36 | [Nusaniwe](https://open.spotify.com/track/45P7aCwWn9Oj4KtkgoIUo5) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY), [Renewal](https://open.spotify.com/artist/6eAzagjqgwHqNMVpBxmH10) | [Nusaniwe](https://open.spotify.com/album/0bQ4VDcPK9ltfSss5L2QFN) | 4:19 |
 | 37 | [Social Abstract](https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Felix Buliks](https://open.spotify.com/artist/5HDeolVBVWUabGnIap2sho), [Ankadiov Subran](https://open.spotify.com/artist/2u0Msra1dmkHl0rRI1bigH), [Denis Junio](https://open.spotify.com/artist/42LqHOacC0AaCbAH9S3B1E) | [Social Abstract](https://open.spotify.com/album/42WoRZI4APMWNomQ7k5bPF) | 3:49 |
 | 38 | [Best Friend](https://open.spotify.com/track/0QMKNY9xswyHRqA7OjVrNj) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK) | [Best Friend](https://open.spotify.com/album/1HJWP2NJ19Sa1TxZtpTou0) | 3:09 |
-| 39 | [Swarna Jingga](https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/4WJmpMeNY0dKGGxbt5ovox) | 6:51 |
+| 39 | [Swarna Jingga](https://open.spotify.com/track/4wLAbniSEi6S0SFn1bNo7l) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Swarna Jingga](https://open.spotify.com/album/3ROsWUDFyKPhZi3C06s219) | 6:51 |
 | 40 | [Miles to Go](https://open.spotify.com/track/2jOfskbjbh28WE5NwGmDkm) | [Daniel Dyonisius](https://open.spotify.com/artist/3rFQcgQRZYIe2VOuY5XlLV) | [Miles to Go](https://open.spotify.com/album/6lkLDekAYpvRIlph4rOGEX) | 6:40 |
 | 41 | [Gratitude](https://open.spotify.com/track/68sQC8sj18Ty36mbreDHot) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN) | [Gratitude](https://open.spotify.com/album/5d1ORdMsk0WXPZkViftyNs) | 5:03 |
 | 42 | [Seumpama](https://open.spotify.com/track/0IXgRbsg9XkWlTB0L9UbUI) | [Kenneth Mariw](https://open.spotify.com/artist/4Wr5Lu1ieLsS0VrDzad4rs) | [Seumpama](https://open.spotify.com/album/1sJ2WPxYHIVL08WDhAN8Ww) | 3:54 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 75 | [Melawan Takdir](https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy), [Azizah Hanum](https://open.spotify.com/artist/5mEePWMgxiwAULqU0nrQig) | [Melawan Takdir](https://open.spotify.com/album/32Rr9t1JgFxjFAXLXY1vmQ) | 3:09 |
 | 76 | [Piccadilly](https://open.spotify.com/track/4an0lMBXVVuvjp62nNiAJT) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Two of a Kind](https://open.spotify.com/album/5Wv1AZE2RhdRLhKmrL1jtm) | 4:36 |
 
-Snapshot ID: `MTY2Mzg2NjAwMCwwMDAwMDAwMGEyNmYyYTA5ODJlYWM1NTZkMWEyYmE1OTdlOTdjZDA3`
+Snapshot ID: `MTY2Mzg2NjAwMCwwMDAwMDAwMDJkN2ZjODI2MWExNmNmZWY4ZDkxYjFhM2FlYmQ0MGJl`

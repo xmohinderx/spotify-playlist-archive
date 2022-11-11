@@ -4,22 +4,25 @@
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-69 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4ss52AmbN8gEtsSGVT2apA)
+73 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/4ss52AmbN8gEtsSGVT2apA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [6月の雨](https://open.spotify.com/track/3Yj7zIxt2FUFSoeGZR9W7q) | [Yumi Tanimura](https://open.spotify.com/artist/795ohAwDw5aYIOy7K69oJF) | [PRISM](https://open.spotify.com/album/7CXKBaIUgFp0PPNJhKM0lF) | 4:05 | 2021-04-15 |  |
 | [6月の雨](https://open.spotify.com/track/6DISziQFKTiEcLa27j9hhp) | [Yumi Tanimura](https://open.spotify.com/artist/795ohAwDw5aYIOy7K69oJF) | [PRISM](https://open.spotify.com/album/4G18P8Sz7r850QfOgaxB3O) | 4:05 | 2021-04-15 | 2022-07-29 |
-| [Ajisai](https://open.spotify.com/track/2qNc3c7IE5OVGeti4tneY5) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [Tokyo Remastered](https://open.spotify.com/album/1EDASuzxDyMoPHquQDAP2W) | 4:19 | 2021-04-15 |  |
+| [Ajisai](https://open.spotify.com/track/2qNc3c7IE5OVGeti4tneY5) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [Tokyo Remastered](https://open.spotify.com/album/1EDASuzxDyMoPHquQDAP2W) | 4:19 | 2021-04-15 | 2022-11-11 |
+| [Ajisai](https://open.spotify.com/track/7t9HEeNNFRpGMbIXtSMkdZ) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [BEST SKY](https://open.spotify.com/album/6NGBmz6MkGlAVq2jtADTRm) | 4:21 | 2021-04-15 |  |
 | [BAD GIRL](https://open.spotify.com/track/6HQbJqm6M4YvZJd9acfIJm) | [NONA REEVES](https://open.spotify.com/artist/2C6HFF5xLM3rUfCEuZ3q2I) | [Friday Night](https://open.spotify.com/album/2XpP3oRuBudQhXZaNhsxWe) | 5:35 | 2021-04-15 |  |
-| [Candy](https://open.spotify.com/track/5OUnJyo4Cb9bFPzDWb5GAK) | [Naoko Gushima](https://open.spotify.com/artist/75Vr32zFTf1oJgGwqWJcfs) | [URBAN BLUES Presents BEST OF NAOKO GUSHIMA](https://open.spotify.com/album/4qmd0MoQhHRudD3wXDHOmQ) | 4:40 | 2021-04-15 |  |
+| [Candy](https://open.spotify.com/track/5OUnJyo4Cb9bFPzDWb5GAK) | [Naoko Gushima](https://open.spotify.com/artist/75Vr32zFTf1oJgGwqWJcfs) | [URBAN BLUES Presents BEST OF NAOKO GUSHIMA](https://open.spotify.com/album/4qmd0MoQhHRudD3wXDHOmQ) | 4:40 | 2021-04-15 | 2022-11-11 |
+| [Candy](https://open.spotify.com/track/7cfqoGxkODGUo6pmvXfROW) | [Naoko Gushima](https://open.spotify.com/artist/75Vr32zFTf1oJgGwqWJcfs) | [TOKYO \- LATE NIGHT BREEZE \-](https://open.spotify.com/album/4PH1nBfXyPW6ZipUfE1lpj) | 4:40 | 2021-04-15 |  |
 | [Candy](https://open.spotify.com/track/6TdE2qJLF6WVjmSI9tejG2) | [Naoko Gushima](https://open.spotify.com/artist/75Vr32zFTf1oJgGwqWJcfs) | [miss\. G](https://open.spotify.com/album/3IpAH8JSFF2SXz8YcolB0a) | 4:41 | 2021-04-15 | 2022-07-29 |
 | [DEEP FRENCH KISS](https://open.spotify.com/track/3840uavKqiGjuWZ32vu1b6) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [LOVE! LOVE! & LOVE!](https://open.spotify.com/album/2sbXsIxF3TUIuc4iVhSs1c) | 4:39 | 2021-04-15 |  |
 | [DRIVE](https://open.spotify.com/track/3LqAJsEdVCZ8m4BaN81gPH) | [ICE](https://open.spotify.com/artist/2Aszv4lzEl7Nmv4NdzHlDN) | [TOKYO \- LATE NIGHT BREEZE \-](https://open.spotify.com/album/4PH1nBfXyPW6ZipUfE1lpj) | 4:07 | 2021-04-15 |  |
 | [DRIVE](https://open.spotify.com/track/4OuRfYTRwRnpsMGUoP3mrz) | [ICE](https://open.spotify.com/artist/2Aszv4lzEl7Nmv4NdzHlDN) | [We're In The Mood](https://open.spotify.com/album/1zNPX6JF2e7iCzMMb9CPRU) | 4:07 | 2021-04-15 | 2022-09-16 |
 | [Edo River](https://open.spotify.com/track/7fMzDKqXI1yLugVJNWyiwm) | [Carnation](https://open.spotify.com/artist/5NvPLoJWfBHkEvTsiwmEog) | [EDO RIVER](https://open.spotify.com/album/1qFE5dkutI58p4UkN4Sho4) | 5:02 | 2021-04-15 |  |
-| [ENDLESS SUMMER NUDE](https://open.spotify.com/track/0yiMxEV6t1oJsDZDQaf7vB) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [GOODDEST](https://open.spotify.com/album/2X3g1UYUiMk7xmhWcoj7pc) | 5:15 | 2021-04-15 |  |
+| [ENDLESS SUMMER NUDE](https://open.spotify.com/track/0yiMxEV6t1oJsDZDQaf7vB) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [GOODDEST](https://open.spotify.com/album/2X3g1UYUiMk7xmhWcoj7pc) | 5:15 | 2021-04-15 | 2022-11-11 |
 | [ENDLESS SUMMER NUDE](https://open.spotify.com/track/0QeQUNszvuv1lyIFgpd5XA) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [I will Survive](https://open.spotify.com/album/7GFX6rzvQeZQkrildFNh7V) | 5:16 | 2021-04-15 | 2022-07-29 |
+| [ENDLESS SUMMER NUDE](https://open.spotify.com/track/1sfrk3nOYwWCEjS9iMbTzC) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [I will Survive](https://open.spotify.com/album/3zHBk88iuV6Jl9WJrxqAVA) | 5:16 | 2021-04-15 |  |
 | [Girl Talk \~never fall in love again\~](https://open.spotify.com/track/2D2Z9gHas01CpA2ciEfDru) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [SEVEN](https://open.spotify.com/album/6KPK1tNvB5qZTJeTBrji7X) | 4:20 | 2021-04-15 |  |
 | [Happy\-Go\-Lucky](https://open.spotify.com/track/2nPddaj5ME4Vm11jvKEkSe) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [LUCY](https://open.spotify.com/album/0N1zL99Endak0l1KFoWT18) | 4:26 | 2021-04-15 |  |
 | [HORIZON](https://open.spotify.com/track/782gyHAHXhoTQ1pcjEksD9) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Illuminate\~the very best songs\~](https://open.spotify.com/album/6IZB1TIO4uGrQfXNzOblGn) | 4:53 | 2021-04-15 |  |
@@ -29,7 +32,8 @@
 | [Melody](https://open.spotify.com/track/0hSjIvAknh110jd5Q1HtNR) | [Kenjiro Sakiya](https://open.spotify.com/artist/14tdomXFf9cDR8ms2xVN03) | [ただ一度だけの永遠](https://open.spotify.com/album/0UjcF5Vk5pAPKXsQSFluDA) | 5:28 | 2021-04-15 | 2022-07-29 |
 | [Melody](https://open.spotify.com/track/2OpaAoMdzC7fR6mAzTZL2G) | [Kenjiro Sakiya](https://open.spotify.com/artist/14tdomXFf9cDR8ms2xVN03) | [Platinum Best Sakiya Kenjiro \- Mellow Groove Collection](https://open.spotify.com/album/5xlTVgB8LMfCQffVDvrAKB) | 5:30 | 2021-04-15 |  |
 | [MIND CIRCUS](https://open.spotify.com/track/0gqTHvXLAkAKimqY7E4ngQ) | [Miki Nakatani](https://open.spotify.com/artist/0lQqccMaSieqmC4KN96fgs) | [食物連鎖](https://open.spotify.com/album/0rAypOqCpgSzKzuNRfVsux) | 5:16 | 2021-04-15 |  |
-| [New Precious World](https://open.spotify.com/track/1fBvg4jelTmLWN9bTPKudL) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Natural Agency](https://open.spotify.com/album/52maoIFHtoFwNFzqKLj33j) | 3:41 | 2021-04-15 |  |
+| [New Precious World](https://open.spotify.com/track/5nQLFflnMHmg5MeZJyZKp8) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Light Mellow Ami Ozaki 80's](https://open.spotify.com/album/6XFOYrGetXzAlghZJCBl6k) | 3:41 | 2021-04-15 |  |
+| [New Precious World](https://open.spotify.com/track/1fBvg4jelTmLWN9bTPKudL) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Natural Agency](https://open.spotify.com/album/52maoIFHtoFwNFzqKLj33j) | 3:41 | 2021-04-15 | 2022-11-11 |
 | [New Precious World](https://open.spotify.com/track/5EUDwzWHx2yvTn7Dz2dNom) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Natural Agency](https://open.spotify.com/album/6NjHw8VCh2sIqF4vqNkyNO) | 3:41 | 2021-04-15 | 2022-07-29 |
 | [Orange](https://open.spotify.com/track/1xfRbBRDU13OFbjQY917fm) | [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Blue Jam](https://open.spotify.com/album/0LILwQL53k7i9m9CxrUzXt) | 5:51 | 2021-04-15 |  |
 | [PERFECT RAINBOW](https://open.spotify.com/track/2lDjU7CavwuSkwiQUs9Jwl) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [The First Question Award](https://open.spotify.com/album/34R5kaIgo2RPsMS2tb4xjc) | 4:22 | 2021-04-15 |  |

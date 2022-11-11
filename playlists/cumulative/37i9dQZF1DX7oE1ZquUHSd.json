@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 177250,
       "name": "21334",
       "url": "https://open.spotify.com/track/7lLedmf60WiIDLOmSbc5O3"
@@ -1609,7 +1609,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209440,
       "name": "Chingo de Cheve",
       "url": "https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm"
@@ -1765,7 +1765,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215266,
       "name": "Comprendes, Mendes?",
       "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 276120,
       "name": "Efectos Vocales",
       "url": "https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV"
@@ -5470,6 +5470,24 @@
     },
     {
       "album": {
+        "name": "Todo Bien",
+        "url": "https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ"
+      },
+      "artists": [
+        {
+          "name": "La Banda Baston",
+          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+        }
+      ],
+      "date_added": "2021-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S"
+    },
+    {
+      "album": {
         "name": "Me Puse Pedo",
         "url": "https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx"
       },
@@ -6315,7 +6333,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 243466,
       "name": "No Hay Manera",
       "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
@@ -8933,6 +8951,24 @@
     {
       "album": {
         "name": "Unidad 9",
+        "url": "https://open.spotify.com/album/4h2vgnpajpNUUnilwMjxjQ"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        }
+      ],
+      "date_added": "2021-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160470,
+      "name": "Unidad 9",
+      "url": "https://open.spotify.com/track/4e4zBLxCHWwOyfT1qkXcFb"
+    },
+    {
+      "album": {
+        "name": "Unidad 9",
         "url": "https://open.spotify.com/album/0msUkNKhJ5aNFE0GPtiOHP"
       },
       "artists": [
@@ -9429,10 +9465,28 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 166760,
       "name": "Yo Quiero Fumar (I Wanna Get High) - Spanish Version",
       "url": "https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD"
+    },
+    {
+      "album": {
+        "name": "Yo Tengo Un Angel",
+        "url": "https://open.spotify.com/album/52ySQBMA0jzIySLWZr1hye"
+      },
+      "artists": [
+        {
+          "name": "Gallego",
+          "url": "https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC"
+        }
+      ],
+      "date_added": "2021-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248110,
+      "name": "Yo Tengo Un Angel",
+      "url": "https://open.spotify.com/track/2Dh2aaBFY53sJQQ3kFVjU1"
     },
     {
       "album": {
@@ -9557,6 +9611,24 @@
       "duration_ms": 284000,
       "name": "\u5149 Luz",
       "url": "https://open.spotify.com/track/2dsPcMZKwBoJvmf7ycxQ6T"
+    },
+    {
+      "album": {
+        "name": "Serio",
+        "url": "https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW"
+      },
+      "artists": [
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        }
+      ],
+      "date_added": "2021-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "\u5149 Luz",
+      "url": "https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7oE1ZquUHSd"

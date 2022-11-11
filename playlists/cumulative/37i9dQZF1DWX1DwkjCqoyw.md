@@ -4,7 +4,7 @@
 
 > Shenseea bringing you massive island vibes for her Island Pop takeover.
 
-113 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/2IWnbNUu459whuD2COYJWY)
+114 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/2IWnbNUu459whuD2COYJWY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Piana](https://open.spotify.com/track/2QT2B9AbK9wQForVGxyP9a) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth LP](https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH) | 3:41 | 2022-03-18 | 2022-08-19 |
 | [Pretty Ugly \(feat\. BEAM\)](https://open.spotify.com/track/2HOmIPMAkekoQHaIrtz64n) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Excuses, Pt\. I](https://open.spotify.com/album/0OyRptm9csE0EwSNZmxuZb) | 2:44 | 2021-12-20 | 2022-02-25 |
 | [Private Party](https://open.spotify.com/track/05UiZ7ArvwlF8pUK6Fccc6) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Private Party](https://open.spotify.com/album/0wMkh4QzzyQQE1IeZTMYza) | 3:24 | 2021-12-20 | 2022-02-25 |
-| [Protocol](https://open.spotify.com/track/1tn87Abu4ZTptxvpp6Zd8V) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Protocol](https://open.spotify.com/album/2dXHrlSfG2Lp5OOtd5J73q) | 3:19 | 2022-08-18 |  |
+| [Protocol](https://open.spotify.com/track/1tn87Abu4ZTptxvpp6Zd8V) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Protocol](https://open.spotify.com/album/2dXHrlSfG2Lp5OOtd5J73q) | 3:19 | 2022-08-18 | 2022-11-11 |
+| [Protocol](https://open.spotify.com/track/5SqaYcPSRGSg7ZzT7aLzcK) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Protocol](https://open.spotify.com/album/6fFf508XCDkYrYVU8gZGLD) | 3:19 | 2022-08-18 |  |
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-02-24 |  |
 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 | 2021-12-20 | 2022-02-25 |
 | [Rain \(with Skillibeng\)](https://open.spotify.com/track/4gaYeHM8MrcqHU2Niw6JQc) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Rain \(with Skillibeng\)](https://open.spotify.com/album/5qSPrxazqXme2S1u8HsOv4) | 1:50 | 2022-08-18 |  |

@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 147693,
       "name": "Just Drive",
       "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 188400,
       "name": "Longneck Way To Go",
       "url": "https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz"
@@ -2890,6 +2890,24 @@
     },
     {
       "album": {
+        "name": "How You Know You Made It",
+        "url": "https://open.spotify.com/album/7p5HIg6VYtRgDKYNBcVLge"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199733,
+      "name": "Wild as Her",
+      "url": "https://open.spotify.com/track/24n04jHyMQrEf9bErsTd2g"
+    },
+    {
+      "album": {
         "name": "Wild as Her",
         "url": "https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg"
       },
@@ -2901,7 +2919,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199733,
       "name": "Wild as Her",
       "url": "https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L"

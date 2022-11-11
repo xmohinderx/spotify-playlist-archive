@@ -4,7 +4,7 @@
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Young Miko
 
-106 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/5dfcyYjgXtZzbFL0wbWZbj)
+107 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/5dfcyYjgXtZzbFL0wbWZbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Suelta](https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Suelta](https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe) | 4:03 | 2022-07-08 |  |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-05-25 |  |
 | [Toda la Noche](https://open.spotify.com/track/4wzIbfON4V1LF6lIbBWTwP) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [El Playlist de Anoche](https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e) | 2:06 | 2022-05-25 |  |
-| [Todo De Ti](https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:19 | 2022-07-22 |  |
+| [Todo De Ti](https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:19 | 2022-07-22 | 2022-11-11 |
+| [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2022-08-17 |  |
 | [Todo De Ti](https://open.spotify.com/track/5RwV8BvLfX5injfqYodke9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:19 | 2022-05-25 | 2022-07-29 |
 | [Tranquiland \- Remix](https://open.spotify.com/track/0Rz577RvXWx6lREwNYVeD4) | [SuperJavi](https://open.spotify.com/artist/767xdXp2KQvncNCEs0efDx), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa) | [Hasta los Marcian](https://open.spotify.com/album/0rCApGMrGvLEnDKnH9269A) | 6:20 | 2022-05-25 |  |
 | [Tu Favorito](https://open.spotify.com/track/3eqxzZ4BIGeyvmqbg49LFe) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Tu Favorito](https://open.spotify.com/album/5VoWV7iYUp5SbfiELfpARp) | 3:06 | 2022-05-25 |  |

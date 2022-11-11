@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,970 likes - 63 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,140 likes - 63 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 10 | [Iris \(arr\. piano\)](https://open.spotify.com/track/4Z1xN1J50aIn1kqDmy0RNG) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Iris \(arr\. piano\)](https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9) | 2:36 |
 | 11 | [Something Good \- From "The Sound Of Music"](https://open.spotify.com/track/0KiUE3zdD3M8IRLcNDbjfv) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Van\-Anh Nguyen](https://open.spotify.com/artist/4yWz7f8lbTWD2qgsqk6dsF) | [Something Good \(From "The Sound Of Music"\)](https://open.spotify.com/album/57EQzSK2OELXEBeNNyWHj6) | 3:30 |
 | 12 | [Lovely](https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Lovely](https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC) | 3:04 |
-| 13 | [Fix You](https://open.spotify.com/track/2ZzqC4NSi374IufPYvGMP6) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Music Lab Collective](https://open.spotify.com/album/1hJMoMK9kIQFlF6mbqG9nU) | 5:32 |
+| 13 | [Fix You](https://open.spotify.com/track/5tX811j5HONCKNTE3pux6d) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Piano EP1](https://open.spotify.com/album/2qt5TL7O3Bo4AiGrnYGKxr) | 5:29 |
 | 14 | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/track/5lZKq1z5jpVu7ha6zklvXS) | [Sean Redmond](https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA) | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/album/6fsnME3JizGwIc7MgPwxNO) | 2:40 |
 | 15 | [My Favorite Things](https://open.spotify.com/track/2sO7nF36wGywzAlM8mNsjM) | [Carlos Hof](https://open.spotify.com/artist/34Il5iurwAMrpEHqVpbYDX) | [My Favorite Things](https://open.spotify.com/album/0ssAbPbkdrAfNPMySXK3Xv) | 2:42 |
 | 16 | [Earned It \- Solo Piano](https://open.spotify.com/track/5xqYtaFkLcLRe6IWLGoTuL) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Earned It \(Solo Piano\)](https://open.spotify.com/album/7y1j0Vh18d5fWoFc5Ki0Oz) | 4:06 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 40 | [Clocks \- Coldplay](https://open.spotify.com/track/2Pv2aeT9K8EH0b0HgCJxDv) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [A Night In Strings](https://open.spotify.com/album/3duk4PVA7r012ysSojmnXv) | 5:14 |
 | 41 | [Defying Gravity](https://open.spotify.com/track/28cY40buH89cMkAMxdMznk) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 2:52 |
 | 42 | [Dancing on My Own](https://open.spotify.com/track/2g2IYIXc0FDGf0HDkEC0rL) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 9](https://open.spotify.com/album/00WpR5hZn6CsVp6PT5NCvo) | 3:45 |
-| 43 | [Blackbird](https://open.spotify.com/track/2ZyU8CQHDDiI8MPfJh9k6R) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Blackbird \- The Beatles Album](https://open.spotify.com/album/4fJbW2aN9c9zSN8qWVEcWe) | 2:32 |
+| 43 | [Blackbird](https://open.spotify.com/track/7olIEWixVn0RSZS4SAy70t) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Classical Guitar](https://open.spotify.com/album/7xr6iPbVQlSyNomtK7c0QF) | 2:32 |
 | 44 | [Barbara / Arr Tharaud for Piano: J'ai tué l'amour](https://open.spotify.com/track/6lvsVdP4KobNe6WqZKqOyh) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Barbara](https://open.spotify.com/album/4fzpKAp5r6OcnrceQQSWds) | 3:03 |
 | 45 | [Time After Time](https://open.spotify.com/track/0SjRJvsh0ZccINwUQKsSxj) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx) | [Time After Time](https://open.spotify.com/album/7v1uoa4uquxWy6t92wGSLU) | 4:20 |
 | 46 | [And I Love Her](https://open.spotify.com/track/0PwlcbCorgDG9SKTtWYcj2) | [Terri Matheson](https://open.spotify.com/artist/4F1qAKXP2mtfOM37s8rG5g) | [And I Love Her](https://open.spotify.com/album/7yLwYXIxV1w4DYUcllWU04) | 3:19 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 62 | [A Thousand Years](https://open.spotify.com/track/0E0xI4AgMNU7UkwBt3FCVN) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY) | 4:35 |
 | 63 | [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 |
 
-Snapshot ID: `MTY2MjY5NjA2MCwwMDAwMDAwMDQxMGU2NzAxNDdlOWU1NTFiNjcwNmIwMTNlNmQ5NTZj`
+Snapshot ID: `MTY2MjY5NjA2MCwwMDAwMDAwMGM4Y2E3YzExODgyYWNhZTA3ZDkwMmZiYTE4NWI5NThh`

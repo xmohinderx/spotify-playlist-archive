@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-114 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
+115 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Lakey Kong](https://open.spotify.com/track/0IGktAavgQwK4vrVF8Pnz5) | [Bengalfuel](https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl) | [Reidy](https://open.spotify.com/album/7wHYNxnEhPwgvdnda1yIcq) | 10:05 | 2022-08-05 |  |
 | [Lapsing](https://open.spotify.com/track/3Bp2uDUuNqTN75L24ajiJt) | [Pausal](https://open.spotify.com/artist/1lzjZxbBabBWnSO2s3Wuax) | [Lapses](https://open.spotify.com/album/5wmrhW0j9zNod1LG9AaJWt) | 7:15 | 2022-08-05 |  |
 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 | 2022-08-05 |  |
-| [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/track/3nWcjWALonQpDBsyRP5725) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/album/3N4fmmPCO3Vh6QTKCiDyob) | 5:08 | 2022-08-05 |  |
+| [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/track/3nWcjWALonQpDBsyRP5725) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/album/3N4fmmPCO3Vh6QTKCiDyob) | 5:08 | 2022-08-05 | 2022-11-11 |
+| [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/track/1H0BgYKS69p9fITJ4vWrXF) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [An Introduction to Hammock](https://open.spotify.com/album/6rixSK0uFTufD1gXvnB9ir) | 5:10 | 2022-10-14 |  |
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-09-08 |  |
 | [memories of younger days \(that never existed\)](https://open.spotify.com/track/50BWDrzzg4I9KttMBUXoQN) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [memories of younger days \(that never existed\)](https://open.spotify.com/album/2uOATtxzznGZMs7NXMsa8A) | 4:00 | 2022-09-30 |  |
 | [Midnight Stargazer](https://open.spotify.com/track/6Out5GTmU6YqaQ8R2l6P4F) | [Relief](https://open.spotify.com/artist/345D7I2CuaqxHTTwD4wlBx) | [Music for Commuters](https://open.spotify.com/album/4T7mM7FaVFCPOGrvrxAWy2) | 3:32 | 2022-09-30 |  |

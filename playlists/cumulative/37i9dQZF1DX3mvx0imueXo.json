@@ -341,6 +341,36 @@
     {
       "album": {
         "name": "Do Your Ting",
+        "url": "https://open.spotify.com/album/6vb64AUqN5DVTlGROkmxjD"
+      },
+      "artists": [
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Ruxell",
+          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192923,
+      "name": "Do Your Ting",
+      "url": "https://open.spotify.com/track/35lAY27HwxYqDf2wKCIYXt"
+    },
+    {
+      "album": {
+        "name": "Do Your Ting",
         "url": "https://open.spotify.com/album/6GqkxKrqcWZVC2aYhbHx06"
       },
       "artists": [
@@ -759,7 +789,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 227762,
       "name": "Lots Of Sign",
       "url": "https://open.spotify.com/track/4RNgiFBdRT9e8NRLoNdlwu"
@@ -1249,7 +1279,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 208893,
       "name": "That's Not True",
       "url": "https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL"
@@ -1507,7 +1537,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 216000,
       "name": "Well Excellent",
       "url": "https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk"

@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: Sech
 
-116 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/79dWlZ80QnS0vL3EFzUJSz)
+117 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/79dWlZ80QnS0vL3EFzUJSz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Mala](https://open.spotify.com/track/4tdhd2OlzDt0j2EMPaPyK4) | [Sir Boss](https://open.spotify.com/artist/5IOGZkPuWHakMDPdNhyRlm), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux) | [Mala](https://open.spotify.com/album/3whhRXIzel6vFSJRG4D142) | 2:54 | 2022-06-17 | 2022-07-02 |
 | [Marea](https://open.spotify.com/track/0Tc8CHVs3vUi13dXQempoo) | [El Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Mariianna](https://open.spotify.com/artist/0KXcK3hXagWrCmu6vGVYsR), [Lanalizer](https://open.spotify.com/artist/0YISM1jDMb11UHp2LQCX45) | [Reset](https://open.spotify.com/album/7auB5a1OjnQrFgln8Oyzjf) | 3:15 | 2022-03-11 | 2022-06-25 |
 | [Me mato](https://open.spotify.com/track/6ehcQY0jLuWqOIeVmUJFow) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Faster](https://open.spotify.com/artist/1amWffp8N3JVSxoYyu76jh) | [Me mato](https://open.spotify.com/album/2u0TWHLF7f0y03h3n9Wtie) | 3:20 | 2022-03-11 | 2022-07-29 |
-| [Me Mató \(feat\. Faster\)](https://open.spotify.com/track/74JdIMGaguuZqFdgoGfKeZ) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [faster](https://open.spotify.com/artist/3DfJjF4ki6BLK8stBeHysZ) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:20 | 2022-07-22 |  |
+| [Me Mató \(feat\. Faster\)](https://open.spotify.com/track/3zF3RFHnA6YXQ5TviNjhcv) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [faster](https://open.spotify.com/artist/3DfJjF4ki6BLK8stBeHysZ) | [Me Mató \(feat\. Faster\)](https://open.spotify.com/album/7phcHC4GjxSHXGDlxO0tRR) | 3:20 | 2022-10-28 |  |
+| [Me Mató \(feat\. Faster\)](https://open.spotify.com/track/74JdIMGaguuZqFdgoGfKeZ) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [faster](https://open.spotify.com/artist/3DfJjF4ki6BLK8stBeHysZ) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:20 | 2022-07-22 | 2022-11-11 |
 | [Mi Favorita](https://open.spotify.com/track/31lrCoErt3r4bC5kaIFB03) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 2:41 | 2022-06-24 | 2022-07-23 |
 | [Mi fren](https://open.spotify.com/track/6kSHlXlrzC3WKPzzXFZGwv) | [Kabliz](https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw) | [Mi fren](https://open.spotify.com/album/1X1xgm19Re4UxubGOeSTkZ) | 3:17 | 2022-03-11 |  |
 | [Mi Porno](https://open.spotify.com/track/4jPVERl67DAlRmtq3VmkXr) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Dj Bobby Music](https://open.spotify.com/artist/1BmoSmdCQIfkwMKwBzdRX8) | [Mi Porno](https://open.spotify.com/album/4goZzZxKJf4qO9MJIRfpiM) | 3:24 | 2022-03-11 | 2022-07-09 |

@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-94 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
+95 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [I'm A Mess](https://open.spotify.com/track/0Rzz75C3MDHszEW2co7BCC) | [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW), [EXPLICIT!](https://open.spotify.com/artist/5A13OuT27Bf5NZtXmzYtSL) | [I'm A Mess](https://open.spotify.com/album/7l77bhDnMweoM8hb0OZNPZ) | 3:01 | 2021-12-17 |  |
 | [ID Safada](https://open.spotify.com/track/7ykcTyaRlkHlpgOxHKhr5m) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [DUAL CHANNELS](https://open.spotify.com/artist/3E0I71KAPljQMKK2jkKhQM) | [ID Safada](https://open.spotify.com/album/4kDGyiVrb9UOVHpi4gImC2) | 3:20 | 2021-12-17 | 2022-03-05 |
 | [If You Drink](https://open.spotify.com/track/4N5nNgniSmesLahOLNYH3f) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX) | [If You Drink](https://open.spotify.com/album/3Pjf8FsAe7r6Yhq6gWXt3Q) | 3:26 | 2021-12-17 |  |
-| [It Gets Better](https://open.spotify.com/track/5PLfjUnpV6eFXymcsXwa37) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:04 | 2022-07-22 |  |
+| [It Gets Better](https://open.spotify.com/track/0pFF8G0pr9iFuZ57McxJAi) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Chill House 2022](https://open.spotify.com/album/0gbH3ecBzhLaNH6KYL58Ba) | 3:04 | 2022-09-09 |  |
+| [It Gets Better](https://open.spotify.com/track/5PLfjUnpV6eFXymcsXwa37) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:04 | 2022-07-22 | 2022-11-11 |
 | [It Gets Better](https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [It Gets Better](https://open.spotify.com/album/5YZCCZpKDtTTxtQrVWLGL6) | 3:04 | 2021-12-17 | 2022-07-29 |
 | [It's Timeless](https://open.spotify.com/track/5UlfTNsoAuoD6umqHx0vR2) | [FeelGood](https://open.spotify.com/artist/7mXyW5kPIUrSRGkV0I9Ilo) | [It's Timeless](https://open.spotify.com/album/5KqCj0gqurgjtTFHVGZPxr) | 3:19 | 2021-12-17 |  |
 | [Kaleidoscope](https://open.spotify.com/track/2RebCZEslR9Zkm0GzdeO0J) | [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN) | [Kaleidoscope](https://open.spotify.com/album/4Tp41x9IOv0i2yEnONpkW9) | 7:06 | 2022-07-08 |  |

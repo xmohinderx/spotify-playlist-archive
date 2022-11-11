@@ -161,7 +161,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 241226,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/0JahrDBriRtoaO473f00rk"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 257546,
       "name": "Champion Of The World",
       "url": "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 223613,
       "name": "Devil's Tower",
       "url": "https://open.spotify.com/track/1PCRrXONHBtqfxXnRL1IKc"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 240986,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/1GL3ydfG8v9m4jKiVx8UQ0"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 289360,
       "name": "Don't Be Afraid",
       "url": "https://open.spotify.com/track/29RANVBx4oilCZhaWlmcMv"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 220120,
       "name": "Done",
       "url": "https://open.spotify.com/track/693NFnfJZt16AFDaZqlflo"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Drink",
       "url": "https://open.spotify.com/track/47AkyDjYQnsbKvpAYuDjVD"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 176506,
       "name": "Fire\u2019t Up",
       "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 203081,
       "name": "Four Leaf Clover",
       "url": "https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 203719,
       "name": "Fuh You",
       "url": "https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 288253,
       "name": "Light On",
       "url": "https://open.spotify.com/track/7oDksGjePXQW8RlGXnfv8Q"
@@ -1181,7 +1181,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 259106,
       "name": "Loves Missing",
       "url": "https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 216800,
       "name": "My Love Goes On (feat. Joss Stone)",
       "url": "https://open.spotify.com/track/0irDfV3ctQGVN69ograYiK"
@@ -1478,6 +1478,24 @@
     },
     {
       "album": {
+        "name": "Streets of You",
+        "url": "https://open.spotify.com/album/7BvMeA6XzGX0hBiUIhIhqH"
+      },
+      "artists": [
+        {
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+        }
+      ],
+      "date_added": "2019-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Remember to Breathe",
+      "url": "https://open.spotify.com/track/5Ht9Z3eLfUVKu9WvrT5d9G"
+    },
+    {
+      "album": {
         "name": "Run Away from It All (Acoustic)",
         "url": "https://open.spotify.com/album/67YBhDZbe4OOZNwMdXGT4e"
       },
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204053,
       "name": "Sanremo",
       "url": "https://open.spotify.com/track/1tH4JALrku66weg6Bx5fC9"
@@ -1833,6 +1851,28 @@
       "duration_ms": 209280,
       "name": "Tucson Train",
       "url": "https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5"
+    },
+    {
+      "album": {
+        "name": "Look Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7dvbHsQbTs5RqE9iRgXHCC"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "name": "The Imposters",
+          "url": "https://open.spotify.com/artist/0mtzATzl6kfYHMWZskqH21"
+        }
+      ],
+      "date_added": "2019-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332960,
+      "name": "Under Lime",
+      "url": "https://open.spotify.com/track/3J3qHeLLAtxKN99hQOuYR3"
     },
     {
       "album": {

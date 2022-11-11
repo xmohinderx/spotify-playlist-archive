@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Hiba Tawaji x Luis Fonsi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,979 likes - 91 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,032 likes - 91 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 22 | [Rehab](https://open.spotify.com/track/6KTUZvdP6A5nvBDHyLTumC) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Kyle](https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY) | 3:27 |
 | 23 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 |
 | 24 | [Why Lie to Me ?](https://open.spotify.com/track/5goo9FGyGlOMD24BdippCs) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Why Lie to Me ?](https://open.spotify.com/album/0Ne2F8JgYKBxjY1zVYA6aA) | 2:33 |
-| 25 | [The First Disciple](https://open.spotify.com/track/7jEuDXkFXtE5LKnq4SMTM7) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 6:02 |
+| 25 | [The First Disciple](https://open.spotify.com/track/1s46uOcZXBWxEeYKO2SDGk) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [The First Disciple](https://open.spotify.com/album/7dnuhgQrPlzCVz91koWich) | 6:02 |
 | 26 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 |
 | 27 | [Enta](https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap \- EP.1](https://open.spotify.com/album/3dQpnLxtGSzIRi7TEA8MzC) | 3:08 |
 | 28 | [I'M HERE](https://open.spotify.com/track/0sQuYu2RP49JdqprLskHbB) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [I'M HERE](https://open.spotify.com/album/5RiGTzqHWdL9k5cYf5HvuG) | 2:10 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 90 | [Angelina](https://open.spotify.com/track/30OhqK9SuyX36Pb7FeZqSy) | [Lea Makhoul](https://open.spotify.com/artist/6YpQu3OBXeC8XE4HQ77bVG), [Timba Jd](https://open.spotify.com/artist/3NXfj2V8vSbjuUZfxlNsli) | [Angelina](https://open.spotify.com/album/52oy3ycpsxHSC2jIn97lHX) | 2:52 |
 | 91 | [Take No L](https://open.spotify.com/track/1f5OXFOv1HUQ8GILVC2bGf) | [SLVY](https://open.spotify.com/artist/2HfsETEFLyGZeNSJ8neNyo) | [Take No L](https://open.spotify.com/album/7uMheZNXFvwlAjcNLfDLds) | 3:30 |
 
-Snapshot ID: `MTY2Njg3MTc2OCwwMDAwMDAwMDNmYmM4NWMzMzkyZTc4NzIxNzZiYjFhMWM3ODNmZTNl`
+Snapshot ID: `MTY2Njg3MTc2OCwwMDAwMDAwMDczNWRhNDdhNDdkZGQ4MjJlYjFkYTgzNTNjOTRhN2U1`

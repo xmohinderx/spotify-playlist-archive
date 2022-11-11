@@ -1304,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "Chambers of Fire",
+        "url": "https://open.spotify.com/album/5Sx6yCDtl51HJ4nltuv4VI"
+      },
+      "artists": [
+        {
+          "name": "Battlelore",
+          "url": "https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253919,
+      "name": "Chambers of Fire",
+      "url": "https://open.spotify.com/track/1JzZa5eQj4z5t9MSH7nFJe"
+    },
+    {
+      "album": {
         "name": "The Return of the Shadow",
         "url": "https://open.spotify.com/album/4gZrjoS6xNWkPy7L1UBpWq"
       },
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 253919,
       "name": "Chambers of Fire",
       "url": "https://open.spotify.com/track/6PA2md3VXaenegsw75b0nR"
@@ -5504,6 +5522,24 @@
     },
     {
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/0p7hlLS3mYBw5FuXeydmEv"
+      },
+      "artists": [
+        {
+          "name": "Civil War",
+          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3uWrBUXXqPAEtVnoMNjFMy"
+    },
+    {
+      "album": {
         "name": "Invaders",
         "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
       },
@@ -5515,7 +5551,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 338000,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE"

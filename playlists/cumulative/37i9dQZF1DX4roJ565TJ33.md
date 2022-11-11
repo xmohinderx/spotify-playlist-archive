@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-115 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
+117 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Autumn in New York](https://open.spotify.com/track/2skpUMopTEdxq57d3UlPCh) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 2:59 | 2022-06-22 |  |
 | [Autumn in New York](https://open.spotify.com/track/5OC0qjcuBnOHNjqMCgLE8v) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [Autumn in New York](https://open.spotify.com/album/1Lghm5aLmjNNf2pOl4bYFg) | 2:59 | 2021-11-08 | 2022-07-29 |
 | [Believe Beleft Below](https://open.spotify.com/track/2Ih0uFDcu54GI18ByA90QS) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/5xQmfqjJTr3Hn6pCmHDVK2) | 4:51 | 2021-11-08 | 2022-07-29 |
-| [Believe, Beleft, Below](https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 4:51 | 2022-06-22 |  |
+| [Believe, Beleft, Below](https://open.spotify.com/track/2PIuRdfLbshh1Kzcbe0m3w) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Retrospective \- The Very Best of E.S.T.](https://open.spotify.com/album/0puHoJ7qNSdoNQe2ByqJmg) | 4:45 | 2022-10-20 |  |
+| [Believe, Beleft, Below](https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 4:51 | 2022-06-22 | 2022-11-11 |
 | [Bereden väg för Herran \(Psalm 103\)](https://open.spotify.com/track/5ByxDTuCTKA07FhevL1ISz) | [Anders Widmark Trio](https://open.spotify.com/artist/74lV0oMFa3sSpDxUlfZ5yI) | [Psalmer](https://open.spotify.com/album/58TQrEfi5T1bi5KQVhRJ9r) | 3:15 | 2021-11-08 |  |
 | [Björninnan](https://open.spotify.com/track/3oLPEf51U1bqzhShUUftHo) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Björninnan](https://open.spotify.com/album/0FnuW2ON9ZAjIXJek3svU4) | 2:26 | 2021-11-08 |  |
 | [Blinded by the Night](https://open.spotify.com/track/2XOZ0xW1TB3R0lrETZXtUH) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Everybody Digs](https://open.spotify.com/album/3rcp6HZfqgBfFHLmStvEXl) | 6:16 | 2021-11-08 |  |
@@ -85,7 +86,8 @@
 | [Sai Fora](https://open.spotify.com/track/6SZ3dFYThX7pYRdvEf33ZZ) | [Karin Hammar](https://open.spotify.com/artist/6PpRVXmqjgmgFPg9gEJfWc) | [Imprints](https://open.spotify.com/album/5VQ3VPsu1ZfA7qjBaUykQp) | 4:42 | 2021-11-08 |  |
 | [Sakta vi gå genom stan](https://open.spotify.com/track/7bO6JxlfsO19aFIYxwUnkL) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Very Best Of](https://open.spotify.com/album/7z8DxRPvmqaJzNHlUfcCsh) | 3:22 | 2021-11-08 | 2022-07-29 |
 | [Sakta vi gå genom stan](https://open.spotify.com/track/2cKTtF2RT22mBkTyjN24GS) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [The Swedish Songbook](https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8) | 4:48 | 2022-09-15 |  |
-| [Sakta vi gå genom stan](https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Ahh! Monica!](https://open.spotify.com/album/2iflMrGtjzufU2Jw7JhoLE) | 3:22 | 2022-06-22 |  |
+| [Sakta vi gå genom stan](https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Ahh! Monica!](https://open.spotify.com/album/2iflMrGtjzufU2Jw7JhoLE) | 3:22 | 2022-06-22 | 2022-11-11 |
+| [Sakta vi gå genom stan](https://open.spotify.com/track/6xICxwT5E3BSiCLpbStVeP) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Midsommarklassiker 2021](https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV) | 3:22 | 2022-10-20 |  |
 | [Sandino](https://open.spotify.com/track/4VAHl7q9VbjGEGRCUOi90I) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Jane Austen Texas](https://open.spotify.com/album/16rdQQ6LjYb7s3qkYALEBC) | 5:30 | 2021-11-08 |  |
 | [Send In the Clowns](https://open.spotify.com/track/1VpoM2gPCbG38xQ4FNsZAt) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Send In the Clowns](https://open.spotify.com/album/28B5lgUsqogZaL4ks1o9R0) | 5:21 | 2021-11-08 |  |
 | [Sense and Sensibility](https://open.spotify.com/track/3fgjg9ouOVvTnwQG7y9JDs) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Sense and Sensibility](https://open.spotify.com/album/0y24BgxYjAJkKAsFnGYMDL) | 6:43 | 2022-10-13 |  |

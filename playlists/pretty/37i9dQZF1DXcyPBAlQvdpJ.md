@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,686 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,755 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 | 9 | [Só Você](https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Só Você](https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de) | 2:41 |
 | 10 | [Movimento da sanfoninha \- Ao vivo](https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Meu Lugar](https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN) | 2:56 |
 | 11 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
-| 12 | [Bumbum granada](https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq) | [MC's Zaac](https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Bumbum granada](https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV) | 3:07 |
+| 12 | [Bumbum Granada](https://open.spotify.com/track/261vtIjvKdSBzhvvu8q4nv) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7IZRQWJAd9E8qwh22Ijjar) | 3:07 |
 | 13 | [Papum](https://open.spotify.com/track/0meYgE9n532T2GxRIQ4FFg) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Papum](https://open.spotify.com/album/3tFMDqGswZfRy3RX4Ek1bQ) | 2:19 |
 | 14 | [Mechendo Voce Vai](https://open.spotify.com/track/6WOHqlRNvyvTIYWGTgKxPZ) | [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt), [Lonny Bello](https://open.spotify.com/artist/5Dm6nzgflFsiqwJraFSVQc), [Dominic](https://open.spotify.com/artist/7nY8uiLDsKXZMR8hVRjiZx) | [Mechendo Voce Vai](https://open.spotify.com/album/0FfgTedsNzwUksBwaFVF8J) | 3:16 |
 | 15 | [Olha A Explosão \- Remix](https://open.spotify.com/track/5RBW30fFFVav2n0IqFj0fY) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Olha A Explosão \(Remix\)](https://open.spotify.com/album/69krsAEiMZ6nClROTNExfp) | 3:30 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 | 29 | [Malandramente](https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Nandinho](https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf), [Nego Bam](https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw) | [Malandramente](https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC) | 2:51 |
 | 30 | [Baile de Favela](https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB) | [Mc João](https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP) | [Mc João](https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo) | 2:50 |
 | 31 | [Vai Embrazando](https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [MC Vigary](https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe) | [Vai Embrazando](https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q) | 2:46 |
-| 32 | [Rap das Armas](https://open.spotify.com/track/0EHKSDnAqGYn8amrsT31kk) | [Cidinho & Doca](https://open.spotify.com/artist/2rwHPBK5IvPCDr0QjKlgQc) | [Rap das Armas](https://open.spotify.com/album/4oo4xaeKJGhiN0YzpUH5CG) | 4:52 |
+| 32 | [Rap Das Armas \- Original Mix](https://open.spotify.com/track/46G391gjxgt39U6PVgD1h5) | [Cidinho](https://open.spotify.com/artist/6TauTvBRcc5zrT8eRXGied), [Doca](https://open.spotify.com/artist/4YZKHUSUlS6DsKq0ifDNal) | [Rap Das Armas](https://open.spotify.com/album/3mjx6ZsxqgkXT2O6WI20YZ) | 4:51 |
 | 33 | [Deu Onda](https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Deu Onda](https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl) | 2:23 |
 | 34 | [O Grave Bater](https://open.spotify.com/track/6cEJheMNRySY0kBB31jtdk) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [O Grave Bater](https://open.spotify.com/album/661h9Og5Q2RglZLKe0u8Bi) | 3:01 |
 | 35 | [Abusadamente](https://open.spotify.com/track/1kWwNpx68BMAjJeksmN3JV) | [MC Gustta](https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez) | [Abusadamente](https://open.spotify.com/album/3HwHCkqAgLm8HBKy3oggxZ) | 3:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 | 47 | [Ritmo Mexicano](https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Ritmo Mexicano](https://open.spotify.com/album/5DCpaUsXmzXZbZ3ETGZOJv) | 3:10 |
 | 48 | [Bem gostosin](https://open.spotify.com/track/0SKfV6E5xeKgBQn159vxAq) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Não para](https://open.spotify.com/album/60VSUd55MkWsYQu7axSJlR) | 3:10 |
 | 49 | [Os Muleke É Liso](https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Os Muleke É Liso](https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp) | 3:52 |
-| 50 | [Glamurosa](https://open.spotify.com/track/5z2heUCSTRdGHWPy2gaOhs) | [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf) | [Tudo É Festa](https://open.spotify.com/album/194Bnhiszhqi3ljBwIHaqd) | 3:31 |
+| 50 | [Rap glamurosa](https://open.spotify.com/track/1ZBQQBBe5WFMoLuqMcqc2e) | [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf) | [Rio super funk](https://open.spotify.com/album/2VCuQPMRUIAMZUVWGIr6ki) | 3:29 |
 
-Snapshot ID: `MTU5MDE2MzQ3OCwwMDAwMDAwMGY4ZTk3YWQ5MTJmMmRhNGRiZGMwYjkwYjk0NGY1NjVl`
+Snapshot ID: `MTU5MDE2MzQ3OCwwMDAwMDAwMDI1YmI1OGFmY2Q2MDExODQ3YmVmZDQ1NmU2MzFhNWY0`

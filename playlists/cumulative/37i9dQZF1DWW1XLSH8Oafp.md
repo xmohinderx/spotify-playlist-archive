@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring yameii online
 
-438 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+439 songs - 1 day 1 hr 34 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [Look \- All Night Mix](https://open.spotify.com/track/21968f5xcqq01zWyipJ2FV) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Look \(All Night Mix\)](https://open.spotify.com/album/0X7UabUgIpoV9CfQwkCn7o) | 2:42 | 2022-10-28 |  |
 | [Loose](https://open.spotify.com/track/1pBKb4NHc2mZPGL9BHRPPR) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Loose](https://open.spotify.com/album/4beJq426gqDrSeqP8p5Xnl) | 2:41 | 2022-02-23 | 2022-03-12 |
 | [Lose Our Minds](https://open.spotify.com/track/3ct8fBd9ZmhZjAmFAE5u5P) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Lose Our Minds](https://open.spotify.com/album/286fCu34pH9RIuXoDWJNHJ) | 3:21 | 2022-04-29 | 2022-10-13 |
-| [Lose Our Minds](https://open.spotify.com/track/4C5dI7ps3TgYSijQZv95gF) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Lose Our Minds](https://open.spotify.com/album/7ajdIFTb0yueDF5X4IhYr9) | 3:21 | 2022-04-29 |  |
+| [Lose Our Minds](https://open.spotify.com/track/4C5dI7ps3TgYSijQZv95gF) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Lose Our Minds](https://open.spotify.com/album/7ajdIFTb0yueDF5X4IhYr9) | 3:21 | 2022-04-29 | 2022-11-11 |
+| [Lose Our Minds](https://open.spotify.com/track/5MnU9VEZQiVjynRKAqjpMK) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [outlines](https://open.spotify.com/album/3x0BXtaHzF9CE1UaKYZSCm) | 3:21 | 2022-04-29 |  |
 | [Love Me](https://open.spotify.com/track/6Tf0wFn9JqSvjmSGUuM4ng) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Love Me](https://open.spotify.com/album/4yBMmSErU2Qy5A9Pd54VVd) | 2:20 | 2022-10-14 |  |
 | [Lovedata](https://open.spotify.com/track/0byrx9AGVNLUhMrZBuHZNC) | [Heatace](https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR) | [Lovedata](https://open.spotify.com/album/2CTjWz0OICHI3EVbNn2BgV) | 3:26 | 2022-05-13 | 2022-08-17 |
 | [low down](https://open.spotify.com/track/5hwQBJojbljFjxg7t49r03) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/48KWh33PB86WJeyFhQOkVl) | 3:02 | 2022-04-15 | 2022-08-17 |

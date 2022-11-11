@@ -2704,6 +2704,28 @@
     },
     {
       "album": {
+        "name": "Wizkid",
+        "url": "https://open.spotify.com/album/0DfHdC5Ahks277KoV2ycp7"
+      },
+      "artists": [
+        {
+          "name": "ReauBeau",
+          "url": "https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND"
+        },
+        {
+          "name": "AVA NOVA",
+          "url": "https://open.spotify.com/artist/3F7A0HJo5EKQKQ01Fv1TxW"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163103,
+      "name": "Wizkid",
+      "url": "https://open.spotify.com/track/2rC9Mwkntrhv1RH4FzZ1MM"
+    },
+    {
+      "album": {
         "name": "Would You Be Waiting",
         "url": "https://open.spotify.com/album/17zDJZXkFFsfWDpH83URKA"
       },

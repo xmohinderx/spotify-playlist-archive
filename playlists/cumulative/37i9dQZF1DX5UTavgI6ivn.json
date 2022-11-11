@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Feid",
+  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Juanes",
   "name": "Made in Colombia",
   "published_playlist_ids": [
     "52JA0GNAstvKsstw41UXnX"
@@ -223,6 +223,24 @@
       "duration_ms": 152080,
       "name": "Amor Pasajero",
       "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
+    },
+    {
+      "album": {
+        "name": "Amores Prohibidos",
+        "url": "https://open.spotify.com/album/3UtKEUIbn6eO4buBE826We"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195426,
+      "name": "Amores Prohibidos",
+      "url": "https://open.spotify.com/track/7GpNKzUbcQ5wJfY6IWrQWe"
     },
     {
       "album": {
@@ -961,7 +979,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 250680,
       "name": "Es Por Ti - Remastered 2022",
       "url": "https://open.spotify.com/track/3TfuiALDQLKQqqTirOLu4q"
@@ -1120,6 +1138,24 @@
     },
     {
       "album": {
+        "name": "\u00c9xitos de la Champeta Urbana",
+        "url": "https://open.spotify.com/album/2RztUTXShCrQmIvHRXOgjd"
+      },
+      "artists": [
+        {
+          "name": "Kevin Florez",
+          "url": "https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "La Invit\u00e9 a Bailar",
+      "url": "https://open.spotify.com/track/0POcXvbd6f9NX5UV4Zf5QM"
+    },
+    {
+      "album": {
         "name": "\u00c9xitos de la Champeta Urbana (Deluxe Edition)",
         "url": "https://open.spotify.com/album/50IbqXd4EIkocjvHhDmBjZ"
       },
@@ -1131,7 +1167,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 245200,
       "name": "La Invit\u00e9 a Bailar",
       "url": "https://open.spotify.com/track/3mcNcVQbpNGdhLKhQSc0g6"
@@ -1620,6 +1656,24 @@
     },
     {
       "album": {
+        "name": "Oye Mamacita",
+        "url": "https://open.spotify.com/album/6qd4Or6TmcTZbLrrNILQji"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184306,
+      "name": "M\u00e1s Fuerte",
+      "url": "https://open.spotify.com/track/6YTPmCXUmnOAkgnWbzZn8i"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/6Mi5kUMAmTgjQVaOuji9Qd"
       },
@@ -1649,7 +1703,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 184760,
       "name": "M\u00e1s Fuerte",
       "url": "https://open.spotify.com/track/6PLihys6LLwbCI9GRByWZ0"

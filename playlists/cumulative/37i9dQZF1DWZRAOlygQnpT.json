@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "P\u00f3lvora",
+        "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135706,
+      "name": "Amorcito",
+      "url": "https://open.spotify.com/track/5nY0Hb0b7fDhgRjJi4Y3Kt"
+    },
+    {
+      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -527,6 +545,24 @@
       "duration_ms": 126693,
       "name": "Avientense Todos",
       "url": "https://open.spotify.com/track/59V9ZorlWoxEM6bUAqqtnx"
+    },
+    {
+      "album": {
+        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 1",
+        "url": "https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183875,
+      "name": "Ay Preciosa",
+      "url": "https://open.spotify.com/track/4gbCzon8Z58sdMUKac8C4Q"
     },
     {
       "album": {
@@ -1218,6 +1254,24 @@
     },
     {
       "album": {
+        "name": "Dieciseis Toneladas",
+        "url": "https://open.spotify.com/album/65N5QOAYP8ZEZOMDoUnDh8"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155637,
+      "name": "Dieciseis Toneladas",
+      "url": "https://open.spotify.com/track/4XDg3dwJESetPcy8CgbEuD"
+    },
+    {
+      "album": {
         "name": "16 Exitos Baladas - Alberto Vazquez",
         "url": "https://open.spotify.com/album/5UL88gRWNLOp1Js5EDPsLX"
       },
@@ -1247,7 +1301,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 180152,
       "name": "Diecis\u00e9is Toneladas",
       "url": "https://open.spotify.com/track/57F2bFv1ACvOcxwRfPlMM1"
@@ -1283,7 +1337,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 137769,
       "name": "Dile Adios",
       "url": "https://open.spotify.com/track/4ydLUh2eqGDDgxBU4qquQK"
@@ -1301,7 +1355,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 150973,
       "name": "Dulces a Mi Amor",
       "url": "https://open.spotify.com/track/3s6xa3WDlEZ3QdPuyhftSh"
@@ -1391,7 +1445,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 184084,
       "name": "El Boogie de la Guitarra",
       "url": "https://open.spotify.com/track/7xBPsrdhuTa6R9lQlBVGzJ"
@@ -1427,7 +1481,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 165573,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7"
@@ -1499,7 +1553,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 200045,
       "name": "El Pecador",
       "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
@@ -1589,7 +1643,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 152120,
       "name": "Ella No Est\u00e1 Ah\u00ed",
       "url": "https://open.spotify.com/track/0pQY35zkNpzWhYT9187fxR"
@@ -1787,7 +1841,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 119745,
       "name": "Haciendote el Amor",
       "url": "https://open.spotify.com/track/1oNFfrgSdZ2Af22M60gix4"
@@ -2097,7 +2151,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 159686,
       "name": "La Hiedra Venenosa",
       "url": "https://open.spotify.com/track/3krsFPf7DL0DxweDyAz2WJ"
@@ -2263,7 +2317,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 150204,
       "name": "La Novia De Mi Mejor Amigo",
       "url": "https://open.spotify.com/track/2Sy45DT2A5xkhWzAbAlVIK"
@@ -2515,7 +2569,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 146842,
       "name": "Lanza Tus Penas Al Viento",
       "url": "https://open.spotify.com/track/4RyW9qyWhEU0UY3Nwh4mFN"
@@ -3111,7 +3165,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 170657,
       "name": "Olvida",
       "url": "https://open.spotify.com/track/4oGoAbeCYFxQ6oXsNFnLEn"
@@ -3237,7 +3291,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 95386,
       "name": "Pitagoras [Album Version]",
       "url": "https://open.spotify.com/track/21oMNwfJjjdv6Zgsfk6sEN"
@@ -3583,7 +3637,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 142367,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/7GQEpLJ2j2hcRvcarBJX5s"
@@ -3767,7 +3821,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 178651,
       "name": "Siluetas",
       "url": "https://open.spotify.com/track/0nwY36t2kFMEFc01z5HXRw"

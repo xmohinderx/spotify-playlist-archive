@@ -4,7 +4,7 @@
 
 > The 52nd Annual nominees are here! Tune in to TBN on Oct\. 22nd 8/7 PM Central to watch this year's celebration.
 
-61 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/6W32BvFTC8EXEGen2OEqbG)
+62 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/6W32BvFTC8EXEGen2OEqbG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [Famous For \(I Believe\)](https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 4:02 | 2021-08-24 |  |
 | [First Church Of Mercy](https://open.spotify.com/track/4EuvLIdRa8dKiFlV2ipTdE) | [The Sound](https://open.spotify.com/artist/3bsZZ1rEW7u6BqsIorxUPy) | [Make It Count](https://open.spotify.com/album/0Fe4YmNCYibI8T5sQsvr8G) | 4:04 | 2021-08-24 |  |
 | [Glory On Me](https://open.spotify.com/track/5AZppquII76qli3EUyUy8M) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [Glory On Me](https://open.spotify.com/album/2sPr44v1gGuL9vFxhCcAqJ) | 3:28 | 2021-08-24 |  |
+| [Go Rest High On That Mountain](https://open.spotify.com/track/12CSsUZGHMfvPYyNaxUohW) | [Brothers of the Heart](https://open.spotify.com/artist/1avG1diqhx83QehJoAbHL5) | [Go Rest High On That Mountain](https://open.spotify.com/album/6b6Oht3gDAdseHXDW9i6yS) | 4:12 | 2021-08-24 |  |
 | [Go Rest High On That Mountain](https://open.spotify.com/track/5f2AJLUMjy6jBQYZy2RmQZ) | [Brothers of the Heart](https://open.spotify.com/artist/1avG1diqhx83QehJoAbHL5) | [Brotherly Love](https://open.spotify.com/album/5kpJWPBsLldYiX808pQHF5) | 4:12 | 2021-08-24 | 2022-11-04 |
-| [Go Rest High On That Mountain](https://open.spotify.com/track/7lnadJU9bHl09fMoXuaL7l) | [Brothers of the Heart](https://open.spotify.com/artist/1avG1diqhx83QehJoAbHL5) | [Brotherly Love](https://open.spotify.com/album/6Y4AfyJXDmjcEzRZmzYxIn) | 4:12 | 2021-08-24 |  |
+| [Go Rest High On That Mountain](https://open.spotify.com/track/7lnadJU9bHl09fMoXuaL7l) | [Brothers of the Heart](https://open.spotify.com/artist/1avG1diqhx83QehJoAbHL5) | [Brotherly Love](https://open.spotify.com/album/6Y4AfyJXDmjcEzRZmzYxIn) | 4:12 | 2021-08-24 | 2022-11-11 |
 | [God So Loved](https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:25 | 2021-08-24 |  |
 | [Good & Loved \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/4n4cx6whB4gXfFAJ9gUewi) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Broken Record](https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj) | 9:31 | 2021-08-24 |  |
 | [Good God Almighty](https://open.spotify.com/track/4Wea9K8KRTsrlfIks5yepP) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 3:11 | 2021-08-24 |  |

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-432 songs - 18 hr 33 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
+433 songs - 18 hr 34 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,8 @@
 | [Venus Vacuum](https://open.spotify.com/track/0HymQuVijWULNPUvTgZmbx) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 1:54 | 2021-11-10 | 2022-07-08 |
 | [views](https://open.spotify.com/track/08mTqFMEMurVe2oEHOvLlo) | [riddim bound](https://open.spotify.com/artist/6XUR7Q1okdrm17EvNv9NKe) | [views](https://open.spotify.com/album/6tWK51CJJbUAsf1GZufE1R) | 2:12 | 2022-06-03 |  |
 | [Views from Yamashita Park](https://open.spotify.com/track/08GrJ04y6DrNm6t1OZ7a7N) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views from Yamashita Park / Hatagaya Greenways](https://open.spotify.com/album/0CAD18JM3by6WU8WYPOMIC) | 1:40 | 2021-11-10 | 2022-07-29 |
-| [Views from Yamashita Park](https://open.spotify.com/track/55F8bO2fpwlUyFa4AFPJQa) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 1:40 | 2022-07-29 |  |
+| [Views from Yamashita Park](https://open.spotify.com/track/1A6cccEj6qKdj4O0qbYSL9) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 1:40 | 2022-10-28 |  |
+| [Views from Yamashita Park](https://open.spotify.com/track/55F8bO2fpwlUyFa4AFPJQa) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 1:40 | 2022-07-29 | 2022-11-11 |
 | [Vital](https://open.spotify.com/track/2m9QssdUKhoQPWcrq9Zcck) | [Drawing With Numbers](https://open.spotify.com/artist/3BB6ImhQEX91DbeiIMyVYZ) | [Vital](https://open.spotify.com/album/2jM4lWQ1CI7F9XGqmc0zDK) | 3:28 | 2021-11-10 | 2022-07-22 |
 | [volcano view](https://open.spotify.com/track/4yNCMQjKFCYLhLolCByf9r) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [volcano view](https://open.spotify.com/album/2G2miDSSOobbl2LuiUDE1a) | 2:12 | 2022-07-15 |  |
 | [Waking Waves](https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Waking Waves](https://open.spotify.com/album/0GTAbLRocrPLSAu3y1MQT6) | 3:07 | 2021-11-10 | 2022-07-01 |

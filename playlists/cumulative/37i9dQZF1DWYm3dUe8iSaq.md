@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-137 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
+141 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Alive Again](https://open.spotify.com/track/7cMRVNlOuqlkPmd9E5sacW) | [Marti West](https://open.spotify.com/artist/6CQ7EYVHudzCArbeXZYV4e) | [The Way Back Home](https://open.spotify.com/album/6qN25gVpE9nWvfQUanNfi8) | 2:08 | 2022-07-01 |  |
 | [Alpine Green](https://open.spotify.com/track/08uGjY2kDm5kGVzmQs9k8D) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Still](https://open.spotify.com/album/1fmLDpX9M3qrvbz6e9LS3g) | 2:30 | 2022-04-08 | 2022-08-23 |
 | [Alpine Green](https://open.spotify.com/track/1xsPUCsAv5Z7nngtLN5iqD) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Alpine Green](https://open.spotify.com/album/2pvUSmFKGwaPPtN4kEhymT) | 2:30 | 2022-07-01 | 2022-08-17 |
-| [Alpine Green](https://open.spotify.com/track/5eBrtJj35okckUbYP78X14) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Alpine Green](https://open.spotify.com/album/0nocoG26Snubuxek095d2y) | 2:30 | 2022-07-01 |  |
+| [Alpine Green](https://open.spotify.com/track/5ViF51pwzCt6zGHNVYEPJr) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Still](https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc) | 2:30 | 2022-10-07 |  |
+| [Alpine Green](https://open.spotify.com/track/5eBrtJj35okckUbYP78X14) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Alpine Green](https://open.spotify.com/album/0nocoG26Snubuxek095d2y) | 2:30 | 2022-07-01 | 2022-11-11 |
 | [Another Day](https://open.spotify.com/track/4rlXhOtWRzGhxjgr9FRKF0) | [Ben Stafford](https://open.spotify.com/artist/3pWZ3BMPDAaoNd1DciVMyd) | [Beudy Penlan](https://open.spotify.com/album/1RA5ryginKxtFUqkFfaNT2) | 2:58 | 2022-04-08 |  |
 | [Aquarium Kisses](https://open.spotify.com/track/0Bp2D0RD5GF83GRh1iMbav) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Aquarium Kisses](https://open.spotify.com/album/2GTlATmh5ktYJyi3NM1Fs9) | 3:42 | 2022-05-20 |  |
 | [As It Is](https://open.spotify.com/track/3zk8q1oiLgGtnPnepxF2vc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [As It Is](https://open.spotify.com/album/6ZslerQEyaHzEITrBQahOZ) | 3:04 | 2022-04-08 | 2022-05-21 |
@@ -64,7 +65,8 @@
 | [Hope It Hurts You](https://open.spotify.com/track/7CRAIZRjJHkSIIe1v2Fy2V) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Hope It Hurts You](https://open.spotify.com/album/7jBtZEqyK3u48lhYTme83n) | 3:47 | 2022-07-01 | 2022-10-14 |
 | [How Long?](https://open.spotify.com/track/2qbfPXoNy8SKPtf8rgciXB) | [Will Killen](https://open.spotify.com/artist/53mpvc3wWbaO6a7LKWQ73N) | [How Long?](https://open.spotify.com/album/6DwbMXqXZDNdmtIhvfldHK) | 3:55 | 2022-07-01 |  |
 | [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 | 2022-04-08 |  |
-| [I Don't Know Why](https://open.spotify.com/track/6qm17pxCWOfHIkKOdnLaoQ) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/4uQKSajaSAXIcf9RzvbHa9) | 3:24 | 2022-10-07 |  |
+| [I Don't Know Why](https://open.spotify.com/track/4QbhVyTI7X8tXUjt1De4fa) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [Lichtenberg Figures](https://open.spotify.com/album/0uR6QYGmCHT2l0osmTyLrS) | 3:24 | 2022-10-07 |  |
+| [I Don't Know Why](https://open.spotify.com/track/6qm17pxCWOfHIkKOdnLaoQ) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/4uQKSajaSAXIcf9RzvbHa9) | 3:24 | 2022-10-07 | 2022-11-11 |
 | [I Don't Know Why](https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/7oqr6xk4na7xIRYihgwsuv) | 3:24 | 2022-04-08 | 2022-11-09 |
 | [I Like Dis](https://open.spotify.com/track/0ZoXRQfbp0tOoOZIyB0cPh) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [You Of Now, Pt\. 1](https://open.spotify.com/album/2GKh9AYasgMHrPRz3fzGXD) | 3:19 | 2022-10-07 |  |
 | [I Like Dis](https://open.spotify.com/track/7hJ34BXrT60WlaDgLOb8WJ) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [I Like Dis](https://open.spotify.com/album/0Fe7250AFqYpzJCTFkxuUJ) | 3:19 | 2022-05-20 | 2022-10-17 |
@@ -77,7 +79,8 @@
 | [Lava Lamps](https://open.spotify.com/track/5uxGfABpJl3ZlrpwKL45Bh) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Lava Lamps](https://open.spotify.com/album/45zGYTaMmmAXbYhfVFQcMk) | 2:53 | 2022-04-08 |  |
 | [Lay My Heart](https://open.spotify.com/track/1SCnDY0ACXbgOI1tNGAii7) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Lay My Heart](https://open.spotify.com/album/2gVuq83HoNYj37he1sYLsz) | 6:35 | 2022-04-08 | 2022-10-08 |
 | [Lightly Looms \- 7" Version](https://open.spotify.com/track/0F1qkAXBV4cEiYAAtGldMO) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [How Come You Sleep \(Deluxe Edition\)](https://open.spotify.com/album/5GYAk2lVihrFAQPARVnNGn) | 4:02 | 2022-10-07 | 2022-10-15 |
-| [Lightly Looms \- 7" Version](https://open.spotify.com/track/0NsVmoq9k7ZgRRHYaWGnp4) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [How Come You Sleep \(Deluxe Edition\)](https://open.spotify.com/album/7AEDoJS05ptPYwehCkijnT) | 4:02 | 2022-10-07 |  |
+| [Lightly Looms \- 7" Version](https://open.spotify.com/track/0NsVmoq9k7ZgRRHYaWGnp4) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [How Come You Sleep \(Deluxe Edition\)](https://open.spotify.com/album/7AEDoJS05ptPYwehCkijnT) | 4:02 | 2022-10-07 | 2022-11-11 |
+| [Lightly Looms \- 7" Version](https://open.spotify.com/track/1qBQeSe1RY38u6sNaw1ORM) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [Lightly Looms \(7" Version\)](https://open.spotify.com/album/5UZuuGmjOx9WEQrGM3lFfA) | 4:02 | 2022-10-07 |  |
 | [Lightly Looms \- 7" Version](https://open.spotify.com/track/61nRG6QC5ngcqPKKRGZofs) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [Lightly Looms \(7" Version\)](https://open.spotify.com/album/16zY9Qgh72UHlb33ersKvc) | 4:02 | 2022-04-08 | 2022-10-14 |
 | [Losing You](https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Before The Dawn](https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX) | 2:58 | 2022-04-08 |  |
 | [Love, The Time Is Now](https://open.spotify.com/track/2X2ltpPYs3HykJgy4aLEPx) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Love, The Time Is Now](https://open.spotify.com/album/46HlGccHfYbuywxnAMhEUw) | 2:23 | 2022-10-07 |  |
@@ -85,8 +88,9 @@
 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 | 2022-08-26 |  |
 | [Me & God](https://open.spotify.com/track/1WD6aPY8CH9ymhKFrySD5K) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Me & God](https://open.spotify.com/album/22q4KL4mUJzuUaUAPYM5Hv) | 2:55 | 2022-04-08 |  |
 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 | 2022-04-08 |  |
+| [Miles Away](https://open.spotify.com/track/1lbehCx8hANqaOquivcgi2) | [Ulysses Wells](https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB) | [Mend A Man](https://open.spotify.com/album/0p5Zy6S3IZb2p4BRAXWqFv) | 4:45 | 2022-10-07 |  |
 | [Miles Away](https://open.spotify.com/track/5lrOPlJEIYYrecwt5kgj8P) | [Ulysses Wells](https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB) | [Miles Away](https://open.spotify.com/album/5ttHzLR58uxppFPtPdQCTK) | 4:45 | 2022-04-08 | 2022-11-09 |
-| [Miles Away](https://open.spotify.com/track/6H6cjoBykuGKzyLpNFHGib) | [Ulysses Wells](https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB) | [Miles Away](https://open.spotify.com/album/12FPMjwDOP2PPOGZFOaeLd) | 4:45 | 2022-10-07 |  |
+| [Miles Away](https://open.spotify.com/track/6H6cjoBykuGKzyLpNFHGib) | [Ulysses Wells](https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB) | [Miles Away](https://open.spotify.com/album/12FPMjwDOP2PPOGZFOaeLd) | 4:45 | 2022-10-07 | 2022-11-11 |
 | [Minute Of Your Love](https://open.spotify.com/track/63uWX9R9I8NA4RcPMxh38V) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Minute Of Your Love](https://open.spotify.com/album/1jOAzcYT3AksjypjQehmb1) | 2:16 | 2022-04-08 |  |
 | [Missing the Mark](https://open.spotify.com/track/7yjLdEv8sRozkE9CejRi7v) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Missing the Mark](https://open.spotify.com/album/1VyYNWUIaQRv9gX5R8CltB) | 2:32 | 2022-04-08 | 2022-08-27 |
 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 | 2022-07-01 |  |

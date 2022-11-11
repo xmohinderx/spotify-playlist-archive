@@ -4,7 +4,7 @@
 
 > Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: Wolves At The Gate
 
-61 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/0qMMhfEEPvWBJQoaBQvSQq)
+63 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/0qMMhfEEPvWBJQoaBQvSQq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [All It Takes](https://open.spotify.com/track/0pJ6aFAqdOANvIdzOQ4cVi) | [DAV](https://open.spotify.com/artist/3UhOrPbn8pGeF4rZjUNXuS), [Jon The Revalaytor](https://open.spotify.com/artist/44YUYpFeZPJv7FaafB4TTW) | [All It Takes](https://open.spotify.com/album/63h7zhtC6jR2TN4p071eDE) | 4:01 | 2021-04-10 |  |
 | [All It Takes](https://open.spotify.com/track/25y7XhJeyjzcyT8xOeqKAj) | [DAV](https://open.spotify.com/artist/3UhOrPbn8pGeF4rZjUNXuS), [Jon The Revalaytor](https://open.spotify.com/artist/44YUYpFeZPJv7FaafB4TTW) | [All It Takes](https://open.spotify.com/album/6AP1djlzAEZMRBaluo99fR) | 4:01 | 2021-04-10 | 2022-07-29 |
 | [Baptist](https://open.spotify.com/track/5lX8tvcQOCNiA1y75OeE4J) | [Paradise Now](https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB) | [Baptist](https://open.spotify.com/album/0ql85Jbk7nbJatYccXAWba) | 3:22 | 2021-04-10 | 2022-07-29 |
-| [Baptist](https://open.spotify.com/track/656MTwjaWH9COcWIWkwero) | [Paradise Now](https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB) | [We Never Die](https://open.spotify.com/album/2zh9qm5WG9a2GnSunMr9ws) | 3:23 | 2021-04-10 |  |
+| [Baptist](https://open.spotify.com/track/656MTwjaWH9COcWIWkwero) | [Paradise Now](https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB) | [We Never Die](https://open.spotify.com/album/2zh9qm5WG9a2GnSunMr9ws) | 3:23 | 2021-04-10 | 2022-11-11 |
+| [Baptist](https://open.spotify.com/track/0DoRLxihQQzXXTOuy9eshr) | [Paradise Now](https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB) | [Supernatural](https://open.spotify.com/album/2a9VlLxC7bf7JAmFk0ZPNy) | 3:24 | 2021-04-10 |  |
 | [Better Off](https://open.spotify.com/track/1iHx9Ge9YO5Le3UCrjWZ8n) | [City of Auburn](https://open.spotify.com/artist/0FYVYl9r4gHtgP9rJD9GKy) | [Spinning](https://open.spotify.com/album/6FHT343fVHWuPvTRgiA1ak) | 3:46 | 2021-04-10 |  |
 | [Black Light](https://open.spotify.com/track/01cIqV4RrN3YoRNcnzVXSr) | [My Epic](https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe) | [Violence](https://open.spotify.com/album/1JEGmU4yqtuuFceHpVCvHK) | 5:02 | 2021-04-10 |  |
 | [Bottom Feed](https://open.spotify.com/track/1juIgyx6a8G5O1Tnlnf4IB) | [Mawcore](https://open.spotify.com/artist/04vYfdkQAWRKmqmsitQbea) | [Where Breaking Begins](https://open.spotify.com/album/3bsRpywxqsiSORItREzXUN) | 3:32 | 2021-04-10 |  |
@@ -49,7 +50,8 @@
 | [Not Dead Yet](https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF) | [LEDGER](https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3) | [Not Dead Yet](https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO) | 3:36 | 2021-04-10 |  |
 | [Panic Room](https://open.spotify.com/track/2NP0xYz37JZZiBwBFDDhgM) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/6lcb1LKEbn5HF9Q6N9rOEY) | 4:29 | 2021-04-10 | 2022-07-29 |
 | [Panic Room \(featuring Andrew Schwab\)](https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM) | 4:29 | 2021-04-10 |  |
-| [Purpose for Pain](https://open.spotify.com/track/6rNXwxBiFcfcI00j7FKetn) | [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [The Space Between the Shadows](https://open.spotify.com/album/4gWnScXgicxrQKRLRviZpH) | 3:18 | 2021-04-10 |  |
+| [Purpose for Pain](https://open.spotify.com/track/69siaLadp22NqaBroWoKDi) | [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [Name](https://open.spotify.com/album/4Lph5IqDKyHt6AABCnPUlH) | 3:18 | 2021-04-10 |  |
+| [Purpose for Pain](https://open.spotify.com/track/6rNXwxBiFcfcI00j7FKetn) | [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [The Space Between the Shadows](https://open.spotify.com/album/4gWnScXgicxrQKRLRviZpH) | 3:18 | 2021-04-10 | 2022-11-11 |
 | [Purpose For Pain](https://open.spotify.com/track/7hHZgpWWm3dkybCbyo4W1F) | [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [Name](https://open.spotify.com/album/6aPKqOUCmNOJJ4s92TO89J) | 3:18 | 2021-04-10 | 2022-07-29 |
 | [Push](https://open.spotify.com/track/1ceKgNy140RRdvZyCIzUaf) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Exhale](https://open.spotify.com/album/0IuPkop0tlB7mSomBdaGB1) | 4:20 | 2021-04-10 |  |
 | [Push](https://open.spotify.com/track/3K1KuaKWN2KQUnBcushMNY) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Exhale](https://open.spotify.com/album/1iReJQAkreqmCd9reYbm6I) | 4:20 | 2021-04-10 | 2022-07-29 |

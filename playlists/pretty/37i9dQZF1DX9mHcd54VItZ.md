@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=iRBNl1GmTFSUQQjaHnjWFA">Hugo Pooe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,256 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,261 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 29 | [Get Over Here](https://open.spotify.com/track/6DuZOFGc4LBr0HSbbd03q3) | [Aimee deBeer](https://open.spotify.com/artist/3c3FUUJYZOv8Le1htg2Gl6) | [Get Over Here](https://open.spotify.com/album/23aiLlsImhhiuCfYGcBpfC) | 3:16 |
 | 30 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 |
 | 31 | [Adorn](https://open.spotify.com/track/41W0utTSMSS6F5yL7QJ5Fw) | [Constellatia](https://open.spotify.com/artist/1r8tzQXEPrte5GZ06LppsS) | [Adorn](https://open.spotify.com/album/31T0ESmfCXIWrd2kHQILbP) | 10:06 |
-| 32 | [Awake](https://open.spotify.com/track/63y0EHsPzQ7BQSBgRVeFO7) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/5PIw46MHfW0Su1TWH3KrlH) | 4:20 |
+| 32 | [Awake](https://open.spotify.com/track/5sRl0XbDePaW4vMLUzFr2k) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Demons](https://open.spotify.com/album/5SkDGf68176SCGPgtZalKz) | 4:20 |
 | 33 | [Woman of My Own Damn Mind](https://open.spotify.com/track/6F6gMyGT1L3uCEgaIIT8Nl) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD) | [Woman of My Own Damn Mind](https://open.spotify.com/album/6SMEvTVAfvoQNTnRdJA2Bp) | 3:13 |
 | 34 | [Risk](https://open.spotify.com/track/1lXXDSVn8fZ32AxIEvM6oX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Teen Tapes \(For Performing Your Own Stunts\)](https://open.spotify.com/album/22tHTROvyyl2EsO5iUodJj) | 2:49 |
 | 35 | [Momentum](https://open.spotify.com/track/1PLdMFrVv6cCT9MrQneTMN) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 3:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 69 | [She's Got Soul](https://open.spotify.com/track/4NAUucEzZCxoZqSlX5mrXg) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [She's got Soul](https://open.spotify.com/album/6ensgFJIR7fQOtYDnKzUAq) | 3:09 |
 | 70 | [Save Me](https://open.spotify.com/track/0WkLcfV73UlxOlM8roFFK6) | [Chenél No.1](https://open.spotify.com/artist/1Xbi5EWO3vlC8JlH65uC4V) | [Save Me](https://open.spotify.com/album/5tLjTbclIzPE4t7QFqfEue) | 2:48 |
 
-Snapshot ID: `MTY2NTA5MzU0MCwwMDAwMDAwMDRlNzYyMjIxYmU3MmFlNDIxYzJmMGM5MTBhNjVkYjdi`
+Snapshot ID: `MTY2NTA5MzU0MCwwMDAwMDAwMDdlNWUzMWE5MzBhMmY1ODQ2NTRjZDgzZmJiM2UyZDBm`

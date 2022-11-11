@@ -4,7 +4,7 @@
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-68 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/0B1OnkIhmClG2Ttjg48j9D)
+69 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/0B1OnkIhmClG2Ttjg48j9D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Mirrors](https://open.spotify.com/track/6MZ1N2y8tdws6NoYmS9mMe) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V), [Carlo Minuta](https://open.spotify.com/artist/04cP6qBKH2rTpfylxtnlWO) | [Mirrors](https://open.spotify.com/album/3WZnQkHKY2L0g4lE0sAVwF) | 3:44 | 2022-09-20 | 2022-09-28 |
 | [Moments égyptiens de spa](https://open.spotify.com/track/00OkNY5VMmgSbiLWuxxn0E) | [Zen Méditation Ambiance](https://open.spotify.com/artist/6tberbrKFcndFNn2Yj2Ber) | [Secret of Arabic Healing Massage \(Oriental Spa, Eastern Relaxing Drums, Ethnic Journey\)](https://open.spotify.com/album/0QZAbFoGd9fBfsUigysXex) | 3:26 | 2022-09-06 |  |
 | [Moroccan Dance](https://open.spotify.com/track/3oowGaxhUt7eoRjaIOys0e) | [Rumi Ged](https://open.spotify.com/artist/4QzAg324qBeb33bzKsBxaI) | [Bar de Lune Presents Bedouin Cafe](https://open.spotify.com/album/3vgO9x2bALPEEjpFYcDEEy) | 4:31 | 2022-09-06 |  |
-| [Nava \(Taknavazi\)](https://open.spotify.com/track/2fXONc4pUGr3TeTfd8vJiL) | [Zohreh Jooya](https://open.spotify.com/artist/4aPe9EHxbJctF6lD7BOslz) | [Johare Eshgh](https://open.spotify.com/album/2hZanYkYDWli5TpWkUmv6q) | 1:54 | 2022-09-06 |  |
+| [Nava](https://open.spotify.com/track/7d4RLSFO2qiaZRk2M3D11c) | [Majid Derakhshani](https://open.spotify.com/artist/68Mz4oTRLkgxPgdkmfujeL) | [Music of the Persian Mystics](https://open.spotify.com/album/1UsUJnAnXU4bIOEdC9FhTO) | 1:54 | 2022-10-24 |  |
+| [Nava \(Taknavazi\)](https://open.spotify.com/track/2fXONc4pUGr3TeTfd8vJiL) | [Zohreh Jooya](https://open.spotify.com/artist/4aPe9EHxbJctF6lD7BOslz) | [Johare Eshgh](https://open.spotify.com/album/2hZanYkYDWli5TpWkUmv6q) | 1:54 | 2022-09-06 | 2022-11-11 |
 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2022-09-06 |  |
 | [Peace and Quiet](https://open.spotify.com/track/6fKAXHHXXu0IrgNbOASoFS) | [Zen Atlas](https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N) | [Peace and Quiet](https://open.spotify.com/album/1VA2ltU2TnJ3uAFpXG1DZ0) | 3:30 | 2022-09-06 |  |
 | [Raat Kee Khoj](https://open.spotify.com/track/6aRBPJ1TcZFPPcw07UUSd5) | [Daya Misra](https://open.spotify.com/artist/4ym3cVsniN8Zfiq6c2mKb2) | [Raat Kee Khoj](https://open.spotify.com/album/4fPb0HKS6TEJKuehkk2SG9) | 4:31 | 2022-09-06 |  |

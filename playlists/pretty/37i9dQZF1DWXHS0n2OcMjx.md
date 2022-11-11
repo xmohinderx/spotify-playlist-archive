@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 
 > Cool beats for homework time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,827 likes - 147 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,866 likes - 147 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 135 | [Sunny.](https://open.spotify.com/track/5oVsXNnT4i7oDrNtzPA5ky) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunny.](https://open.spotify.com/album/2W1R8hIJVxRMOP5aCSgE8S) | 1:41 |
 | 136 | [Morning Sweetness](https://open.spotify.com/track/5XaohMu79GaUzXEKVLJdrE) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Morning Sweetness](https://open.spotify.com/album/12GXoeM9z30czVZyWtkoag) | 2:54 |
 | 137 | [Marbles](https://open.spotify.com/track/5Gc0CM7a83XeqbrW5O5a6S) | [tusken.](https://open.spotify.com/artist/43P02sF00xAIa3d9mp1n24), [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Complex Channel Collective Tapes Vol\. 3](https://open.spotify.com/album/3I51mayU1aBAzUdTFQ3SrR) | 1:50 |
-| 138 | [Ekans](https://open.spotify.com/track/7etPnsz665GchBQlo9xoTs) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Beet Tape](https://open.spotify.com/album/4TSN6CGuxQKxsG8dFgBreC) | 2:21 |
+| 138 | [Ekans](https://open.spotify.com/track/5zca31ADK9AnfE3QMTRDSI) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [KEEN: Soft Beats Vol\. 1](https://open.spotify.com/album/0pawu5M10PjhTcjSEaBcUk) | 2:21 |
 | 139 | [after hours](https://open.spotify.com/track/4w2l2msoYjJ2lJfTKuIXeV) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [after hours](https://open.spotify.com/album/4MV52O0LoqeryUP0YAjE0T) | 2:34 |
 | 140 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 |
 | 141 | [Decisions](https://open.spotify.com/track/693x7mqPNtiFzJSkFZcB1N) | [NAGASHI](https://open.spotify.com/artist/6IOLrMWpyxWJHbL4chHEdX) | [Decisions](https://open.spotify.com/album/79QW0d9b9NaPPKMhWGyoak) | 1:29 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 146 | [Personal](https://open.spotify.com/track/1Jas2WQLIJM6GNaHm7d6pi) | [Densky9](https://open.spotify.com/artist/2FzImqc6MWD57A5yR5KXz0) | [Panda Talk](https://open.spotify.com/album/4F3Z82DPFRp0PHJCQkpiKt) | 3:42 |
 | 147 | [Hello Friend](https://open.spotify.com/track/2pEj9K2VWulm0nyTrDYond) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Chillhop Daydreams](https://open.spotify.com/album/5Tv8LWNku2lmWXxAy4xYhI) | 2:01 |
 
-Snapshot ID: `MTY1NzI5NDE3MCwwMDAwMDAwMDUyNWU4NzA2YjUyNzMwN2Q2MzJhOTBhMzU4YjFlOTE3`
+Snapshot ID: `MTY1NzI5NDE3MCwwMDAwMDAwMDdkYzg3MzJlYmMzNGE2OTVjMjQyNjYwYzJlOWE3YThk`

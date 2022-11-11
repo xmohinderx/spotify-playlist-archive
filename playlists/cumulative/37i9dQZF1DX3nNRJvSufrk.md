@@ -4,7 +4,7 @@
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-114 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/3oCTRz60otx3xUwTM6srZy)
+117 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/3oCTRz60otx3xUwTM6srZy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,12 +47,14 @@
 | [DON'T JUST STAND THERE](https://open.spotify.com/track/3tR8VBrDIU6emD1coGfg3I) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Big Hank](https://open.spotify.com/artist/1d7okU7Ufb7pYnCdVT6CnK), [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:26 | 2020-12-03 |  |
 | [Drank, Kush, Barz](https://open.spotify.com/track/5xFy8h9eEJUjOIXGKRE19C) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Spinn](https://open.spotify.com/artist/5gmgJUPTu5ApaV6Swjfb20) | [Double Cup](https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8) | 3:36 | 2020-12-03 | 2022-07-29 |
 | [Drank, Kush, Barz \(feat\. Spinn\)](https://open.spotify.com/track/6F6CrMKMgZeDah2JF2cizZ) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [Double Cup](https://open.spotify.com/album/21dsgJBSUM6IvAGFjfotgF) | 3:36 | 2020-12-03 |  |
+| [Elevate](https://open.spotify.com/track/0wxtjSaYesWNnuPg9RwFRV) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Hood Rich Life](https://open.spotify.com/album/22eF4qZ2hPJHhrEZIM5Hqa) | 3:28 | 2020-12-03 |  |
 | [Elevate](https://open.spotify.com/track/11n4LmYCiLsXPfAO6t5Srd) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Hood Rich Life](https://open.spotify.com/album/2U51TV6gM2Sm3mknG4Bf1P) | 3:28 | 2020-12-03 | 2022-07-29 |
-| [Elevate](https://open.spotify.com/track/1QVn0sWicVdDIeSzjH9Azl) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Druguse](https://open.spotify.com/album/6ljZyft0E5HL6eldfdVivk) | 3:28 | 2020-12-03 |  |
+| [Elevate](https://open.spotify.com/track/1QVn0sWicVdDIeSzjH9Azl) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Druguse](https://open.spotify.com/album/6ljZyft0E5HL6eldfdVivk) | 3:28 | 2020-12-03 | 2022-11-11 |
 | [Erotic Heat](https://open.spotify.com/track/4e3OBP6GzZ9nZbhvcYAxsb) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Dark Energy](https://open.spotify.com/album/5jxuCEWIiXAEdjrBPTOMTK) | 4:23 | 2020-12-03 |  |
 | [Erotic Heat](https://open.spotify.com/track/7cw7ln9b7LNWNSb5sf1mx9) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Dark Energy](https://open.spotify.com/album/2yHEmN9QGuFbFpWt21BJtd) | 4:23 | 2020-12-03 | 2022-07-29 |
-| [Feel](https://open.spotify.com/track/19sCGOTZKnlb5XPbBklcQz) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/4dqk5qdk4iH4uI59t2uCZH) | 4:37 | 2020-12-03 |  |
+| [Feel](https://open.spotify.com/track/19sCGOTZKnlb5XPbBklcQz) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/4dqk5qdk4iH4uI59t2uCZH) | 4:37 | 2020-12-03 | 2022-11-11 |
 | [Feel](https://open.spotify.com/track/1iKW2yrouUd2E3tK4tj8Tu) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/2PqGGOZm4IPKiXzLZpJULH) | 4:37 | 2020-12-03 | 2022-07-29 |
+| [Feel](https://open.spotify.com/track/1mLBoCFmY9LPV8SlHzzCbV) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Feel](https://open.spotify.com/album/6Qoue7wn6cvMAanDsVRKID) | 4:37 | 2020-12-03 |  |
 | [Fire Man](https://open.spotify.com/track/2yyJvnqLkcX87CovivBUos) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Pleasure](https://open.spotify.com/album/2ciPFYPEsMR8zbswFr82hy) | 3:12 | 2020-12-03 | 2022-07-29 |
 | [Fire Man](https://open.spotify.com/track/5AG3SZvJxBtjyU5j7KdSTt) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Pleasure](https://open.spotify.com/album/4KXuiwlBnuaPkxjnGJ2zVz) | 3:12 | 2020-12-03 |  |
 | [Flicka](https://open.spotify.com/track/7BMJLV7eWICgcb1ouJAhq3) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Ww3](https://open.spotify.com/album/4QY4yD4BeJPqJPskLtbEDB) | 3:34 | 2020-12-03 |  |
@@ -82,7 +84,8 @@
 | [In Da Club Before Eleven O' Clock](https://open.spotify.com/track/2JsQdDbuwFYNwykifahaYL) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V) | [Juke Trax Online Vol\. 13](https://open.spotify.com/album/6tBqpKzYDAiIQxanFOZ0FU) | 5:38 | 2020-12-03 |  |
 | [Juice](https://open.spotify.com/track/4p8e7TRZUOu1sy2LGnaMiN) | [DJ T\-Why](https://open.spotify.com/artist/52nwgb3EZSQrv9Q6MltYye) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 2:37 | 2020-12-03 | 2022-07-29 |
 | [Juice](https://open.spotify.com/track/482LwhKAFCovzKuj61s22Q) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Bangs & Works Vol\. 2 \(The Best of Chicago Footwork\)](https://open.spotify.com/album/7zDff5WuBv3yetVZ4Iul9L) | 2:37 | 2020-12-03 |  |
-| [Juke It Up](https://open.spotify.com/track/31z2au3mgJYzC6SK5rgPh8) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/57aIkTNeK5ygccVD4oLf2C) | 2:48 | 2020-12-03 |  |
+| [Juke It Up](https://open.spotify.com/track/25cEeyviQOhlYjp4GJOIhI) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/57aIkTNeK5ygccVD4oLf2C) | 2:48 | 2020-12-03 |  |
+| [Juke It Up](https://open.spotify.com/track/31z2au3mgJYzC6SK5rgPh8) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/57aIkTNeK5ygccVD4oLf2C) | 2:48 | 2020-12-03 | 2022-11-11 |
 | [Juke It Up](https://open.spotify.com/track/7FY0rPkPYlRlSmczXl9iQh) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/0gMUmMf0xpZjctgUUmhj0p) | 2:48 | 2020-12-03 | 2022-07-29 |
 | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/track/0x8GxrGOhZLJJWve0qMryZ) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/album/6nUlE97QCne6C6AYAdFY3F) | 3:56 | 2020-12-03 |  |
 | [Keep the Drug$](https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik) | [Stayhigh](https://open.spotify.com/artist/2d51ltzSq7hB3viB1DTBEn) | [Kush, Rhodes & 808's](https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV) | 3:30 | 2020-12-03 |  |

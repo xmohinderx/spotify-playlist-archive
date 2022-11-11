@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 
 > AOMG's mr\. wide\-range rapper: Loco
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,692 likes - 113 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,712 likes - 113 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 | 65 | [Too Fast \(feat\. Paloalto\)](https://open.spotify.com/track/3b6hdvwUxqG7A45NNE876I) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [HELLO](https://open.spotify.com/album/0wQMtraDGsoUBzGMzd2dAP) | 3:05 |
 | 66 | [We up there \(feat.C Jamm & Jay Park\)](https://open.spotify.com/track/51rFMLEJ4h3uhuP9ZZEttH) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [AWESOME](https://open.spotify.com/album/3UowJdgmCVwSc2o8vagWTq) | 4:28 |
 | 67 | [ONE PLUS ONE \(Feat.Loco, Bravo\)](https://open.spotify.com/track/53bSr9ad6couYZI72RVZIf) | [SOMDEF](https://open.spotify.com/artist/6jqPhhNZTfZbBVDYKWIQvT), [Bravo](https://open.spotify.com/artist/0G4aZyVFKAl9so620NrwOL), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Some Definition of Love](https://open.spotify.com/album/2eyvRNPt1Ip7saHJQ6JZ07) | 3:27 |
-| 68 | [Nana](https://open.spotify.com/track/0fSkSYIKAz1xXt46KQAGuL) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Evolution](https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4) | 3:24 |
+| 68 | [NaNa](https://open.spotify.com/track/14Nf9lOGkXAREMYbSzZv3e) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [AOMG](https://open.spotify.com/artist/4jI1sm5mTNOWw6ea5Cmslp) | [NaNa](https://open.spotify.com/album/17aFqVFuQsrnhSHMEE7rLE) | 3:24 |
 | 69 | [Star \(Little Prince\)](https://open.spotify.com/track/0YQO5aF9S0d3E74ZEfB9Dl) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [U Sung Eun](https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI) | [Memories of the Alhambra \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2cpRz9LpAMbP4bdCpsFxPl) | 3:02 |
 | 70 | [This song](https://open.spotify.com/track/0Lp1A8RfkbyMr0WRdR9eI8) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [My Lovely Girl \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6h01y0AFNix423uTeusV2g) | 3:49 |
 | 71 | [Some Beatmaker \(Feat\. Svng & Woo\)](https://open.spotify.com/track/4sujPvcfPHfYonL7bC1ZaG) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [yeesang](https://open.spotify.com/artist/77BJsTaJZVQWJTDUghdY3Z), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [HELLO](https://open.spotify.com/album/0wQMtraDGsoUBzGMzd2dAP) | 3:01 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Q9tnTsgAAI.md) - [plain]
 | 112 | [Take Care](https://open.spotify.com/track/1Tc6M6Y97fRPO5gLyEehtE) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [박나래](https://open.spotify.com/artist/3oBO24qfRYkz2F0IeFg5k4) | [Take Care](https://open.spotify.com/album/6dpL8cY46BrtfKUfmTmk3w) | 3:42 |
 | 113 | [DAYDREAM \(feat.Loco\)](https://open.spotify.com/track/7e7ESlXkcObCbUTfCJbibE) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [HIM](https://open.spotify.com/album/4PYsUX5Bk3xPVpx7IvOse9) | 3:12 |
 
-Snapshot ID: `MTY2MzY0MjMxMiwwMDAwMDAwMDY3ZWViZGM2M2E2MzQwZDg5NjY5ZTFiNmUwNDRkNzgx`
+Snapshot ID: `MTY2MzY0MjMxMiwwMDAwMDAwMDU2NDc2YzQyMWFkNzQ5MGNiYTA0ZGE2MzNlZDc5MjVh`

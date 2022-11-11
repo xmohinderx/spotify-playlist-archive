@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-164 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+167 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,9 @@
 | [Himitsu](https://open.spotify.com/track/17DJuwGNugAo1UzfyA7On8) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [By the Border](https://open.spotify.com/album/2ahyKR00M06DOvnNfXeGmd) | 2:38 | 2021-12-10 |  |
 | [Holm Sound](https://open.spotify.com/track/7vvqiqB4O7nPXWxiehIH9l) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Holm Sound](https://open.spotify.com/album/3B8s4Z5VhzbK1R7upD1IP5) | 2:55 | 2021-12-10 |  |
 | [I Just Love You \(Reimagined for Piano\)](https://open.spotify.com/track/35sddvWKYpfdCnbQ3F7zi9) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [I Just Love You \(Reimagined for Piano\)](https://open.spotify.com/album/6rkLNRx9NTFbXdkFfpoko7) | 5:15 | 2022-07-08 |  |
+| [I wanted you to know](https://open.spotify.com/track/2p5TmYuHF3SfGTuyXdcjcE) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Piano for Studying](https://open.spotify.com/album/5hCVxneKK97yVdfGHL4wpv) | 4:33 | 2022-10-28 |  |
 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/1WQiXGnr4RwC4C8jBEhIB5) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\) \- I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/0X0pCoI82tq3qy446cmrXm) | 4:33 | 2021-12-10 | 2022-07-29 |
-| [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\)](https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO) | 4:33 | 2022-07-22 |  |
+| [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\)](https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO) | 4:33 | 2022-07-22 | 2022-11-11 |
 | [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 | 2021-12-10 |  |
 | [Inno \(Prologo\)](https://open.spotify.com/track/4CYoKviFpkT3XC6nDbjYte) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#002 Hymns](https://open.spotify.com/album/0tVvs2WoGh1ZkYp9ZuGkot) | 2:43 | 2022-02-25 |  |
 | [Inventing Light](https://open.spotify.com/track/0yquufspHuwdG9o7hVNv26) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Inventing Light](https://open.spotify.com/album/0hoJC8NU80jLnsw8l5iZq0) | 3:02 | 2021-12-10 |  |
@@ -77,8 +78,9 @@
 | [Lilac](https://open.spotify.com/track/67U3BF1e1PTw6DF1LLRPcF) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8) | [Lilac](https://open.spotify.com/album/0yEDrVPu9cPGu23o1ulSbC) | 4:05 | 2021-12-10 |  |
 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 | 2021-12-10 |  |
 | [Little Forest](https://open.spotify.com/track/0ngRF3XtGxXhFWDxeOJqfb) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Little Forest](https://open.spotify.com/album/2OUVbMW3PXmpVBzrVKEDDd) | 2:08 | 2022-01-21 |  |
+| [Look Inside Yourself](https://open.spotify.com/track/0HjbgCPF2lbT6zvaLsfkql) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/30RisILwJC85OO8yOOlxRs) | 3:38 | 2022-10-28 |  |
 | [Look Inside Yourself](https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/6S0jnsTpJ5qoskAUyjXIm5) | 3:38 | 2021-12-10 | 2022-07-29 |
-| [Look Inside Yourself](https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [L.I.Y.](https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT) | 3:38 | 2022-07-22 |  |
+| [Look Inside Yourself](https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [L.I.Y.](https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT) | 3:38 | 2022-07-22 | 2022-11-11 |
 | [Lost](https://open.spotify.com/track/7nC2EOpMnpDT2DkvniimSm) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Lost](https://open.spotify.com/album/2RnNYYYXt2ZYpBmR645OWT) | 2:41 | 2021-12-10 |  |
 | [Love Came](https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Love Came](https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm) | 2:15 | 2022-10-24 |  |
 | [Lucida](https://open.spotify.com/track/5TQ69mBOhC49tCWTTCWUMG) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Lucida](https://open.spotify.com/album/65NRqIsEiD5ZvrO3TVrmFL) | 6:39 | 2021-12-10 |  |
@@ -135,7 +137,8 @@
 | [Rise](https://open.spotify.com/track/0P9iHoMjt1UlJfdcijOBHZ) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Rise](https://open.spotify.com/album/3e00tFNHFroqXpk2PbBitE) | 3:10 | 2021-12-10 |  |
 | [Rolling Like A Ball](https://open.spotify.com/track/2TlV8LZW3ED4RjGc0crBLN) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Rolling Like A Ball](https://open.spotify.com/album/3CVBACggrB4U3sSOLjgGjs) | 4:17 | 2022-01-12 |  |
 | [S.A.D.](https://open.spotify.com/track/7u8V66KV1rXJtJSR9gCQ0L) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [S.A.D\. Storm and Drugs](https://open.spotify.com/album/6D17eYpXEBKROPdbONmdHM) | 3:21 | 2021-12-10 |  |
-| [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2022-07-22 |  |
+| [saman](https://open.spotify.com/track/5Gum48Pt0QSd9rAkFejduF) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Peaceful Piano 2022](https://open.spotify.com/album/6cqlCqunHip9bIHuA5ir3N) | 2:11 | 2022-10-28 |  |
+| [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2022-07-22 | 2022-11-11 |
 | [saman](https://open.spotify.com/track/7iiOQHrIPuafVip6E9hIqZ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [saman](https://open.spotify.com/album/4vBnwCup5n0lu4I8Az6lrS) | 2:11 | 2021-12-10 | 2022-07-29 |
 | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/track/32gGCtoIqSmRPmRbWUsVaw) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/album/7Hk7YO67ZN4npwRLDa28Ah) | 2:54 | 2021-12-10 |  |
 | [Silhouette](https://open.spotify.com/track/2hwV3gqCQ0hmS8sp8vXioj) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Silhouette](https://open.spotify.com/album/04KfDPzBhw4C3iAqNJIV5A) | 2:23 | 2021-12-10 |  |

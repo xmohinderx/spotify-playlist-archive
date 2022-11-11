@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-159 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
+162 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,11 +121,13 @@
 | [Save Your Tears](https://open.spotify.com/track/17g9sjydTmFOni0nIJlPZ8) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Save Your Tears](https://open.spotify.com/album/2Afpovj7wzwnAErebVqmoq) | 3:44 | 2021-12-09 |  |
 | [Say You Say Me \(Bossa version\)](https://open.spotify.com/track/7bQmMuWGlgc6XhsLL0LJ9L) | [Rachelle Spring](https://open.spotify.com/artist/3LPPGZrVd6moExHlmR7zLr) | [Relaxing Bossa Lounge 5](https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ) | 4:03 | 2021-12-09 |  |
 | [Sá Marina](https://open.spotify.com/track/4as7MF2MShkdnjOqukNB2y) | [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [Sá Marina](https://open.spotify.com/album/6NmDSsaTQLYSxv4E0Ewt77) | 3:30 | 2021-12-09 |  |
-| [Self Control](https://open.spotify.com/track/4zbdRytE8NuhnVQLkSJhOE) | [Starburkes & The Tea Leaf](https://open.spotify.com/artist/2KPb8cUs99PY1FVmlgev0x) | [Acoustic Coffee House](https://open.spotify.com/album/4jrVgcZN7Q3voamIhYi3gb) | 3:35 | 2022-07-01 |  |
+| [Self Control](https://open.spotify.com/track/1FVe8gMPBWQGqTV3DpLmog) | [Kids Music All\-Stars](https://open.spotify.com/artist/5F521ymFBaFwpssPjxSCII) | [Kid's Hits Today](https://open.spotify.com/album/4pQqFqdcTTOFyE4Fy3DOsZ) | 3:35 | 2022-10-13 |  |
+| [Self Control](https://open.spotify.com/track/4zbdRytE8NuhnVQLkSJhOE) | [Starburkes & The Tea Leaf](https://open.spotify.com/artist/2KPb8cUs99PY1FVmlgev0x) | [Acoustic Coffee House](https://open.spotify.com/album/4jrVgcZN7Q3voamIhYi3gb) | 3:35 | 2022-07-01 | 2022-11-11 |
 | [Self Control](https://open.spotify.com/track/25q0NW59vQQ2sS8QxeCjXB) | [World Mestizo Ensemble presents Acoustic](https://open.spotify.com/artist/2CaRC2DUlOcHNqWhMNsmRK) | [Ananda, Vol.3 \(Chill Out Season 2006\)](https://open.spotify.com/album/3pkbCID6RshGvUcdK5YR9N) | 3:33 | 2021-12-09 | 2022-07-29 |
 | [Señorita](https://open.spotify.com/track/7oJXhK3Dq8VpiOoRxWxpD0) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Señorita](https://open.spotify.com/album/7Gw6zmZWTTfLZ4TG9BcyGi) | 3:10 | 2021-12-09 |  |
 | [September \(Bossa Version\)](https://open.spotify.com/track/686fADYgnMdwtXvRAuxdna) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Relaxing Bossa Lounge](https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw) | 4:06 | 2021-12-09 |  |
-| [Seven Nation Army](https://open.spotify.com/track/1hBqtK4qAms8tUHz0bNzSY) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [More Than a Woman](https://open.spotify.com/album/3kdEJ01bQu7Y3vfsJ4vaEY) | 3:06 | 2022-07-01 |  |
+| [Seven Nation Army](https://open.spotify.com/track/1hBqtK4qAms8tUHz0bNzSY) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [More Than a Woman](https://open.spotify.com/album/3kdEJ01bQu7Y3vfsJ4vaEY) | 3:06 | 2022-07-01 | 2022-11-11 |
+| [Seven Nation Army](https://open.spotify.com/track/6y1pK4TwTsR1fJdkdYJE4T) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Vintage Bossa Café](https://open.spotify.com/album/4aOESzlJmSUE3DB8AfT6Od) | 3:06 | 2022-10-13 |  |
 | [Seven Nation Army](https://open.spotify.com/track/6zYPfGShrN7TmvZdU2zobx) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Seven Nation Army](https://open.spotify.com/album/5jEzkHgI0NTdBvAKLlRxmo) | 3:06 | 2021-12-09 | 2022-07-29 |
 | [Shape of You](https://open.spotify.com/track/3FGjZhoaqR83UViLXk4boR) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 3:34 | 2021-12-09 |  |
 | [Slide \- Bossanova](https://open.spotify.com/track/08BnZm0xqnkkEEmKrmYwWk) | [Ensolarada](https://open.spotify.com/artist/6XMzyCi31KFN2dlSsd25D7) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 2:53 | 2021-12-09 |  |
@@ -133,7 +135,8 @@
 | [Solução De Vida](https://open.spotify.com/track/5cnwazioBaYWEjzHykF2Om) | [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [Solução De Vida](https://open.spotify.com/album/0CoCFA1jv9w7RmEkg5XVFV) | 3:08 | 2021-12-09 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/56uNXSNJzOeP9cWGO2gWcx) | [Calore Amore](https://open.spotify.com/artist/404FUFalLSmGrSm81VXc6W) | [Somebody That I Used to Know](https://open.spotify.com/album/0AFEHFVPWyRLCgA7EXZRCM) | 4:14 | 2021-12-09 |  |
 | [Something Just Like This \- Bossa Mix](https://open.spotify.com/track/1oMTC7wvZCf7zeUpodLlQf) | [Purple Sparks](https://open.spotify.com/artist/0haWJk8mUdWGoSmbR08pns) | [Something Just Like this \(Bossa Mix\)](https://open.spotify.com/album/4i2kgflT74xkWmiHSbEOZk) | 3:35 | 2021-12-09 | 2022-07-29 |
-| [Something Just Like This \- Bossa Mix](https://open.spotify.com/track/5wqJ934lye7Apsg5LjjbLx) | [Purple Sparks](https://open.spotify.com/artist/0haWJk8mUdWGoSmbR08pns) | [Something Just Like this \(Bossa Mix\)](https://open.spotify.com/album/0STA8ez0uqV9V3hOrUi0uf) | 3:35 | 2022-07-01 |  |
+| [Something Just Like This \- Bossa Mix](https://open.spotify.com/track/5wqJ934lye7Apsg5LjjbLx) | [Purple Sparks](https://open.spotify.com/artist/0haWJk8mUdWGoSmbR08pns) | [Something Just Like this \(Bossa Mix\)](https://open.spotify.com/album/0STA8ez0uqV9V3hOrUi0uf) | 3:35 | 2022-07-01 | 2022-11-11 |
+| [Something Just Like This \- Bossa Mix](https://open.spotify.com/track/6fEQg8xlw5KUR3is41kAv6) | [Purple Sparks](https://open.spotify.com/artist/0haWJk8mUdWGoSmbR08pns) | [New Hits in Bossa Mode](https://open.spotify.com/album/1mtOPd9WQL5MbRBcypA6Mh) | 3:35 | 2022-10-13 |  |
 | [Somewhere Over The Rainbow \- Bossa Version](https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 3:24 | 2021-12-09 |  |
 | [Speak Low](https://open.spotify.com/track/7gq6IBWgm5AMaI5ETrrQcH) | [Frida\-Hedvig](https://open.spotify.com/artist/7E9vZbDLACKUGCiyDkXt5b), [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Speak Low](https://open.spotify.com/album/16Dul3Duiw1AVWeEbSCp6x) | 4:02 | 2021-12-09 |  |
 | [Stand by Me](https://open.spotify.com/track/5JagoCyaJWBriQfGdhTAVs) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Stand by Me](https://open.spotify.com/album/6VWQ5Fx6Cra41j3zSDBvVE) | 3:06 | 2021-12-09 |  |

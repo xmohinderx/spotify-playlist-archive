@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 248078,
       "name": "& New",
       "url": "https://open.spotify.com/track/49U6ijIBwe6XZ2d2H7VDDe"
@@ -167,10 +167,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 258420,
       "name": "A Long Dream",
       "url": "https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR"
+    },
+    {
+      "album": {
+        "name": "Summer Plumage",
+        "url": "https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "A Long Dream",
+      "url": "https://open.spotify.com/track/62dMZURLR5KjObOfBoVHu2"
     },
     {
       "album": {
@@ -881,7 +899,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 245320,
       "name": "Cherries Jubiles",
       "url": "https://open.spotify.com/track/1NiriEqpk9oOcL4QGzBDmU"
@@ -2627,7 +2645,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243022,
       "name": "Love in TV World",
       "url": "https://open.spotify.com/track/71gxvSj62Daqer8F57b22C"
@@ -3909,7 +3927,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 200011,
       "name": "Silent Movie",
       "url": "https://open.spotify.com/track/4uu4bnkSI1JvTwKFUqq7Gp"
@@ -4877,7 +4895,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187703,
       "name": "You and Me Together",
       "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"
@@ -5127,7 +5145,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 227369,
       "name": "\uc0f4\ud478\uc758 \uc694\uc815",
       "url": "https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4"
@@ -5283,6 +5301,42 @@
       "duration_ms": 225413,
       "name": "\uc774 \uc21c\uac04 Remember",
       "url": "https://open.spotify.com/track/5RJWYPiBiEtqKDWLfHHr9B"
+    },
+    {
+      "album": {
+        "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
+        "url": "https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk"
+      },
+      "artists": [
+        {
+          "name": "Seoulmoon",
+          "url": "https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194772,
+      "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
+      "url": "https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD"
+    },
+    {
+      "album": {
+        "name": "\ud658\uc0c1 Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210136,
+      "name": "\ud658\uc0c1 Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8cV4ZaSfaxp"

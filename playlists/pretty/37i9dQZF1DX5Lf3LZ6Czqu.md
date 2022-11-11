@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Polyphia
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,896 likes - 89 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,990 likes - 89 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 77 | [Knappsack](https://open.spotify.com/track/2neNxCaTPEwuGTvP7QAU1c) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Knappsack](https://open.spotify.com/album/2JaxSwQuKmKzeUjzlQwfE2) | 5:21 |
 | 78 | [nero](https://open.spotify.com/track/5T5RWyueGVOFIGnIRn81z4) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR) | 6:37 |
 | 79 | [Vanish](https://open.spotify.com/track/0HkxndKKtxlNJQzP45YKTM) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6), [Bormsen](https://open.spotify.com/artist/5epoZlpLXp6iEoOLPbgkNy) | [Vanish](https://open.spotify.com/album/2mD8Ppr3WZCmV1JeFMi9zB) | 3:51 |
-| 80 | [A Dragon's Tail](https://open.spotify.com/track/7MM90UlM1S9HxI4R23gn5Q) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Pure](https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB) | 4:53 |
+| 80 | [A Dragon's Tail](https://open.spotify.com/track/3xsCEM590oLEq116t1cGqb) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [A Dragon's Tail](https://open.spotify.com/album/2mWEs1yGYsOc20QL78Pnk3) | 4:53 |
 | 81 | [Spare Tire](https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Spare Tire](https://open.spotify.com/album/2YUPATCVtrrTMw5kFRqdhk) | 2:48 |
 | 82 | [The Roaring Twenties](https://open.spotify.com/track/7jrR6S8gfJyVrWZ8K5FmsB) | [Maarten Ouweneel](https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG) | [The Roaring Twenties](https://open.spotify.com/album/6Sy81CHsix5Idl3jkXs5sw) | 4:58 |
 | 83 | [Headless Chicken](https://open.spotify.com/track/5rDXHvjM3oIlEpkq0iao8N) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [Headless Chicken](https://open.spotify.com/album/4dZ8oDnHYryYJ66VKiBjxD) | 8:39 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 88 | [Stratagem](https://open.spotify.com/track/4DqUMex7TPQoDv6E1NNIG5) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Collage](https://open.spotify.com/album/70KEOoFGZwVHmLfMO38bcX) | 3:17 |
 | 89 | [Theme from a Perfect World](https://open.spotify.com/track/5s25dl6bXuRn6nyGJMgwe5) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Theme from a Perfect World](https://open.spotify.com/album/62bvGtckemXfkTyTs0sFbi) | 7:26 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGIxOTkyOTcxMWNmYmQ1MmU1NzBiZmUyNTM5ZTlmNzI2`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDM5ZGRjYjIyNDIzNWQ0NGU4YzBiMTIxNGY1OTQ0MGQw`

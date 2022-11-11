@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Go Rest High On That Mountain",
+        "url": "https://open.spotify.com/album/6b6Oht3gDAdseHXDW9i6yS"
+      },
+      "artists": [
+        {
+          "name": "Brothers of the Heart",
+          "url": "https://open.spotify.com/artist/1avG1diqhx83QehJoAbHL5"
+        }
+      ],
+      "date_added": "2021-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252240,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/12CSsUZGHMfvPYyNaxUohW"
+    },
+    {
+      "album": {
         "name": "Brotherly Love",
         "url": "https://open.spotify.com/album/5kpJWPBsLldYiX808pQHF5"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 252240,
       "name": "Go Rest High On That Mountain",
       "url": "https://open.spotify.com/track/7lnadJU9bHl09fMoXuaL7l"

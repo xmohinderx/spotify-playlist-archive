@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 238266,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
@@ -823,6 +823,24 @@
       "duration_ms": 106080,
       "name": "Green Eggs & Ham",
       "url": "https://open.spotify.com/track/5J9SUxDPv2nYyWQy0BfnAA"
+    },
+    {
+      "album": {
+        "name": "To Wong Foo, Thanks For Everything, Julie Newmar",
+        "url": "https://open.spotify.com/album/0Q6zcL0hk3K4shD1g4JOtA"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221960,
+      "name": "Hey Now (Girls Just Want to Have Fun)",
+      "url": "https://open.spotify.com/track/6OFB0ggdNof1Eih8ln8bM5"
     },
     {
       "album": {
@@ -1144,6 +1162,24 @@
     },
     {
       "album": {
+        "name": "Tomando aire",
+        "url": "https://open.spotify.com/album/45YfDCDKgKlBeAA0VIDLIT"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197191,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/3OXZCsiRD4QdLIpavbBBGX"
+    },
+    {
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/7eya0F4XVH0Te1lBMYeXch"
       },
@@ -1173,7 +1209,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 197182,
       "name": "Naked - Bonus Track",
       "url": "https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD"

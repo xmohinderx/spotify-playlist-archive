@@ -4,7 +4,7 @@
 
 > Roots and acoustic tunes, for sun drenched days and balmy nights.
 
-60 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
+63 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [After the Sun](https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0) | 3:33 | 2021-11-30 |  |
 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 | 2021-11-30 |  |
 | [Always](https://open.spotify.com/track/2rapj0PNYacYq9HiGJTJ4o) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Deadly Hearts \- Walking Together](https://open.spotify.com/album/2K7G4yBnvKCVnqrZNWwImT) | 3:50 | 2021-11-30 |  |
-| [Be Slow](https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ) | 3:25 | 2021-11-30 |  |
+| [Be Slow](https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ) | 3:25 | 2021-11-30 | 2022-11-11 |
+| [Be Slow](https://open.spotify.com/track/5nv9uoyzSlZ0pieUt40dBN) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sea and Fire](https://open.spotify.com/album/5sn8uFlvnZatE9cN9mzunS) | 3:25 | 2021-11-30 |  |
 | [Bottle It Up](https://open.spotify.com/track/6Kevag30eZxaL3MBo6dIdL) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Bottle It Up](https://open.spotify.com/album/6KyRKYNzETURqiupPRygbg) | 3:05 | 2021-11-30 |  |
 | [Brisbane](https://open.spotify.com/track/5dM2L19MdawMyQw3nSUsFQ) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Brisbane](https://open.spotify.com/album/5gpHY3opXOnjD074pF2JKR) | 3:17 | 2021-11-30 |  |
 | [By Way of the Sea](https://open.spotify.com/track/2EjmXBw49KJqZXjH2dKTZC) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [By Way of the Sea](https://open.spotify.com/album/2hn1o2h58pswUpiYDw9eMg) | 4:19 | 2021-11-30 |  |
@@ -22,7 +23,8 @@
 | [Changes](https://open.spotify.com/track/4PBphrsOgdlSPYmT1amL7D) | [Alivan Blu](https://open.spotify.com/artist/1maNTaIZSwGov0ogXWNwCb) | [Changes](https://open.spotify.com/album/5SWUlMmFPjeZaEKHirwc0C) | 3:57 | 2021-11-30 |  |
 | [Concentrate On Breathing](https://open.spotify.com/track/2Tme0GsTtJd8o3CqAd8o2r) | [Charm of Finches](https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke) | [Concentrate On Breathing](https://open.spotify.com/album/0u2Sv2RH4Yx6MwZMUI5Omu) | 3:39 | 2021-11-30 |  |
 | [Daily Meditation](https://open.spotify.com/track/4wGmgCIQk4jBfbDXvH4LNE) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Daily Meditation](https://open.spotify.com/album/3ZFPHrwqnnOEgUU1JlqVha) | 3:16 | 2021-11-30 |  |
-| [Disappearing Light](https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 3:42 | 2021-11-30 |  |
+| [Disappearing Light](https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 3:42 | 2021-11-30 | 2022-11-11 |
+| [Disappearing Light](https://open.spotify.com/track/6entwzBU8kqPEPOM3oYvaP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Rearview Mirror](https://open.spotify.com/album/7IyVmlk3jhuRMh520pYBdz) | 3:42 | 2021-11-30 |  |
 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 | 2021-11-30 |  |
 | [Evermore](https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy) | 3:43 | 2021-11-30 |  |
 | [Fairyland](https://open.spotify.com/track/6CVtLr3bbHUYaLrgBylLXZ) | [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy), [Holly](https://open.spotify.com/artist/0CYjis6hfG45tEhjGMNL33) | [The Night EP](https://open.spotify.com/album/3mZWoEDVRirGx81IpkwCrT) | 3:51 | 2021-11-30 |  |
@@ -38,7 +40,8 @@
 | [In My Arms](https://open.spotify.com/track/13RNv4OHDHgjlHgYhzzD3O) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Life Is Strange](https://open.spotify.com/album/6ozSLuLzK71i6l4o2OiN1A) | 3:03 | 2021-11-30 |  |
 | [Inner City Lights](https://open.spotify.com/track/5Ho9jqSETTmHIMpwWRE7Ts) | [Jack Davies and The Bush Chooks](https://open.spotify.com/artist/1a6a0hVxotITvRTjVXaT9n) | [Inner City Lights](https://open.spotify.com/album/1QkN9kDH7LUUgGuGRsGIJB) | 4:21 | 2021-11-30 | 2022-10-14 |
 | [Inner City Lights](https://open.spotify.com/track/7gWddNhFG1IbqNsFlnQBGQ) | [Jack Davies and The Bush Chooks](https://open.spotify.com/artist/1a6a0hVxotITvRTjVXaT9n) | [Inner City Lights](https://open.spotify.com/album/7CY4x6g4SqIOXzzAFqtdHw) | 4:21 | 2021-11-30 |  |
-| [Journey Home](https://open.spotify.com/track/5Lo2hiUPj7z32oB3XSHb29) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [Journey Home](https://open.spotify.com/album/0eHppmZysZlFDqXqdzr9cM) | 4:31 | 2021-11-30 |  |
+| [Journey Home](https://open.spotify.com/track/4Hi4jgmaou9tqN1qGmANzS) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [The Songwriting Prize 2020](https://open.spotify.com/album/2tGmEFUAJ6A2Hkkf7UNoQ6) | 4:31 | 2021-11-30 |  |
+| [Journey Home](https://open.spotify.com/track/5Lo2hiUPj7z32oB3XSHb29) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [Journey Home](https://open.spotify.com/album/0eHppmZysZlFDqXqdzr9cM) | 4:31 | 2021-11-30 | 2022-11-11 |
 | [Kinder](https://open.spotify.com/track/15qbB1N6kGsNyCJp5C282W) | [Isaac Jensen](https://open.spotify.com/artist/2mUTW5cFUAQxpWOjq31yYb) | [Kinder](https://open.spotify.com/album/7re2kB1LFDctQqwQhodsIy) | 3:26 | 2021-11-30 |  |
 | [Kinder](https://open.spotify.com/track/3laEqX58fkjwQQeftYWtfu) | [Isaac Jensen](https://open.spotify.com/artist/2mUTW5cFUAQxpWOjq31yYb) | [Kinder](https://open.spotify.com/album/4klHqdr3ef7C3XvmUu0Cir) | 3:26 | 2021-11-30 | 2022-10-21 |
 | [Lay In The Sun \- Acoustic](https://open.spotify.com/track/3DhcCcb1Dtio6m7TWtrpXZ) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Lay In The Sun \(Acoustic\)](https://open.spotify.com/album/2Pej2KgeAEZUC0YcsxK81V) | 4:18 | 2021-11-30 |  |

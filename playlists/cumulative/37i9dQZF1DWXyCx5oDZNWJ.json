@@ -240,6 +240,24 @@
     },
     {
       "album": {
+        "name": "Mr Bongo Record Club, Vol. 3 (Compiled by Mr Bongo)",
+        "url": "https://open.spotify.com/album/63aD58MKgM5SxlRKG8axcT"
+      },
+      "artists": [
+        {
+          "name": "Elias Rahbani",
+          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163390,
+      "name": "Dance of Maria",
+      "url": "https://open.spotify.com/track/5nbdbkTYpRuYvbw6JkVD6X"
+    },
+    {
+      "album": {
         "name": "Mosaic of the Orient",
         "url": "https://open.spotify.com/album/35V308120K0txY7JUMoN6M"
       },
@@ -251,7 +269,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 167293,
       "name": "Dance of Maria",
       "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC"

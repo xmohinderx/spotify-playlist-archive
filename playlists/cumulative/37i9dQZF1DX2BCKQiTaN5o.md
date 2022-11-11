@@ -4,7 +4,7 @@
 
 > Celebrate \#SelfCareSunday with Michelle Obama's workout mix.
 
-41 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/0ClG1AQzAPgAIoQvOIkI6A)
+43 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/0ClG1AQzAPgAIoQvOIkI6A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Honesty](https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 3:09 | 2020-01-19 |  |
 | [Honesty](https://open.spotify.com/track/2B1JaRSd7T7YP90n6sCh9I) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Honesty](https://open.spotify.com/album/3TTHQTyBu7n3f48pwBtMDu) | 3:09 | 2020-01-19 | 2022-07-29 |
 | [Hussle & Motivate](https://open.spotify.com/track/3CldQZk9z2VifSacRkXJXC) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/3RZIk5CH4y187nGskxMrCf) | 4:18 | 2020-01-19 |  |
-| [I Want You Around](https://open.spotify.com/track/2tUuvamTbprsZ2YevAuzGC) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/0xyp4JuWXxA0lPsjuN57Q8) | 3:32 | 2020-01-19 |  |
+| [I Want You Around](https://open.spotify.com/track/2tUuvamTbprsZ2YevAuzGC) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/0xyp4JuWXxA0lPsjuN57Q8) | 3:32 | 2020-01-19 | 2022-11-11 |
+| [I Want You Around](https://open.spotify.com/track/30q5CMJr5Wws4k5zYEovjO) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [I Want You Around](https://open.spotify.com/album/36XhR56K0C7fjAjTTelycC) | 3:32 | 2020-01-19 |  |
 | [I Want You Around](https://open.spotify.com/track/6E3D7NkBDwVaEbUS1aSYz1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/0BCbrYw2TEICVGEXzQbMws) | 3:32 | 2020-01-19 | 2022-10-13 |
 | [I'M DOPE \(feat\. DAVID MICHAEL WYATT\)](https://open.spotify.com/track/3z6ErCqNLgspjTSlKMGyFZ) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [David Michael Wyatt](https://open.spotify.com/artist/3nBYRtHTuSZGhDataNGunX) | [I'M DOPE](https://open.spotify.com/album/2UEMHDiA98ANR3YHq7R2l6) | 3:23 | 2020-01-19 |  |
 | [Lay Me Down](https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 4:13 | 2020-01-19 |  |
@@ -38,7 +39,8 @@
 | [Perm](https://open.spotify.com/track/1I6pKIyaBp4OebTGLJpCCC) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:30 | 2020-01-19 |  |
 | [Press](https://open.spotify.com/track/61qVApvKjw3uZMofatndGo) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Press](https://open.spotify.com/album/1sotjX4JIHAEyQwRYqO7uh) | 2:23 | 2020-01-19 |  |
 | [Rule The World \(feat\. Ariana Grande\)](https://open.spotify.com/track/2kWKnnBDlviGdHKDPgJZGR) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rap Or Go To The League](https://open.spotify.com/album/7lfdVCbc8jURXOXW1UYLY9) | 4:05 | 2020-01-19 |  |
-| [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/track/31dgrKXIJ7FCxlENs8uxuo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:08 | 2020-01-19 |  |
+| [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/track/2wqrweusrjE4W6yeiHUUFZ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [ALICIA: The Selects](https://open.spotify.com/album/3d4awp3tsTErQX0n0aUThs) | 3:08 | 2020-01-19 |  |
+| [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/track/31dgrKXIJ7FCxlENs8uxuo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:08 | 2020-01-19 | 2022-11-11 |
 | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/track/0XPlSuCVQ1nOhzTpFgnDSz) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/album/0iHBfyXdfH9Fpeh8BPsVJP) | 3:14 | 2020-01-19 | 2022-07-29 |
 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/57lammiiiyQRanh0hTuIFE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [NOW That's What I Call Music, Vol\. 63](https://open.spotify.com/album/26xSgw4GGZdGD7kbA2iNSJ) | 3:50 | 2020-01-19 |  |
 | [Soulmate](https://open.spotify.com/track/6u3xaeXzTyfTuPW3d4MNwz) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/03GhhXKmJAZ7F0EdI5O9Eo) | 2:56 | 2020-01-19 |  |

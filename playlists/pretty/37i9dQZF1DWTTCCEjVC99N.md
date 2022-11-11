@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Ya Wailee! Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,602 likes - 63 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,762 likes - 63 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ya Ghayeb](https://open.spotify.com/track/2j4O1Oz0AVTWNLHjhTzBbJ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ya Ghayeb](https://open.spotify.com/album/1haRKmfoKMLJCJNJlwbzL7) | 3:53 |
 | 2 | [Leih Beydary Keda](https://open.spotify.com/track/4iKQHYDFlFsX28FeViuwSK) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Eba Abelny](https://open.spotify.com/album/18hMYQuTWVT03fhBbtT8kp) | 5:15 |
-| 3 | [Ah W Noss](https://open.spotify.com/track/5Z4F0zOGKoYLv8EtBhLzmZ) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Greatest Hits](https://open.spotify.com/album/1iDlgC8iuMM76wnekLCasu) | 4:40 |
+| 3 | [Ah W Noss](https://open.spotify.com/track/0gI3WDESn8BOiol5BxsafH) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Arabic Pop 2022 \- بوب عربي](https://open.spotify.com/album/7sTQmVvf7BldYpxd7CvG4y) | 4:40 |
 | 4 | [Aayshalak](https://open.spotify.com/track/6wE5bUgyErJTzGBqqbjdGo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Aayshalak](https://open.spotify.com/album/4iitDZmbi4tg9iCyUVkXY4) | 4:40 |
 | 5 | [قلبي معذب](https://open.spotify.com/track/7d9vTDybKlnO9mI0sXvi9n) | [يوسف العماني](https://open.spotify.com/artist/5hMy9WpurfuusrrNfGXTjB) | [أحلى اثنين](https://open.spotify.com/album/2xaQDViCrqeoXhz6X3OPvM) | 6:18 |
 | 6 | [Allah Aleik Ya Seedy](https://open.spotify.com/track/2vknxlulbj1JApedTlmrZv) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Homma Kelmetain](https://open.spotify.com/album/4bZTy2HzhtQo2bwXs1EAUy) | 3:39 |
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 24 | [Ya Remoshaha](https://open.spotify.com/track/6p7D4gVIMWr1nDVgKsXSOS) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Habeeb El Alb](https://open.spotify.com/album/0N6f8GhfijcS2cNAZRNS6h) | 4:58 |
 | 25 | [Nasini El Donya](https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 4:30 |
 | 26 | [Oum O'aaf](https://open.spotify.com/track/02hyp5EqS8Wu6F3gbAGYLM) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Oum O'aaf](https://open.spotify.com/album/7cyeJu1PlHROs9F0au7XCR) | 3:26 |
-| 27 | [Waheshni Eh](https://open.spotify.com/track/3dKgDjL69KuoyMNeYfUbWJ) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Nadini](https://open.spotify.com/album/3rShjwnO7rFyMxOdKkuPxg) | 4:11 |
+| 27 | [Waheshni Eh](https://open.spotify.com/track/6WHcq6cQoMmP10wbEO9UbT) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Arabic Dance Vibe](https://open.spotify.com/album/6jYbC9XGIqdwZZTQTMpvr7) | 4:11 |
 | 28 | [ماس ولولي](https://open.spotify.com/track/68gcupCXitbNQZGhXoBaMT) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ديانا 2006](https://open.spotify.com/album/3XqhAngtsMWkr4ffCDy8Vd) | 3:30 |
 | 29 | [Elaab](https://open.spotify.com/track/7yhJW70FP6mmZ96mYdyNve) | [Maria](https://open.spotify.com/artist/6cqgkzXxB4M0vEa4E54gis) | [Elaab](https://open.spotify.com/album/0NcB0GrC9kx17vdXGOOeE3) | 4:13 |
 | 30 | [El Salamou Aleikom](https://open.spotify.com/track/7uVfi1yiAUujJ8TP3jQcNB) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Talakeek](https://open.spotify.com/album/382fYWYWmF1pHlVf0FBma3) | 4:02 |
 | 31 | [Aghla El Habayeb](https://open.spotify.com/track/1T8BJvWzqm59RIuwQaTob8) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Yama Alo](https://open.spotify.com/album/1MQzDTbIXGBCl0hDS7B0nr) | 4:40 |
-| 32 | [Shik Shak Shok \- Remastered](https://open.spotify.com/track/7iT3T5K9J8MfxjigwzpRkK) | [Hassan Abou Seoud](https://open.spotify.com/artist/7g4J1MFlUtDs117ACUxoUu) | [Shik Shak Shok \(Remastered\)](https://open.spotify.com/album/0HExOi4eGlOnV36kY0aqJq) | 5:33 |
+| 32 | [Shik Shak Shok](https://open.spotify.com/track/1nDnsh43YHOCfwpe7mR6b7) | [Hassan Abou Seoud](https://open.spotify.com/artist/7g4J1MFlUtDs117ACUxoUu) | [10 Songs Every Bellydancer Should Know](https://open.spotify.com/album/1KgcPCKWZ1I6NUfT625nVw) | 5:32 |
 | 33 | [Maool](https://open.spotify.com/track/7GFPmRIpmI1qRym5wRtSjZ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Maool](https://open.spotify.com/album/320sTowZ7E4pQYwypU8ibd) | 3:55 |
 | 34 | [Youm Wara Youm](https://open.spotify.com/track/76ej94nqmhe05PyEvw15wK) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Youm Wara Youm](https://open.spotify.com/album/1XN2P2xKgRSo8LYCwf33Sr) | 4:15 |
 | 35 | [Ya Bent El Eih](https://open.spotify.com/track/0sWYFm96d3AHiNn949l61O) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ya Bent El Eih](https://open.spotify.com/album/5ptbpLwbos10hG8LIZNrge) | 4:10 |
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 38 | [شفت بعينيا](https://open.spotify.com/track/4aVeUf3RC1VKiqFT2FNyFp) | [Hossam Habib](https://open.spotify.com/artist/0OWaQSefazXfg4aaiC0Veg) | [جوه القلب](https://open.spotify.com/album/4W2UyI6S09RUKbpTQfJ2Ue) | 3:55 |
 | 39 | [Ah Ya Aini Ya Leil \(Radio Edit\)](https://open.spotify.com/track/0dLk70DrxJj8vcjKnjh1GR) | [Loai](https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe) | [Ana Keda](https://open.spotify.com/album/4Mb5BzRO2yegDi39yxjLmi) | 4:48 |
 | 40 | [برشا](https://open.spotify.com/track/7DMuJ4PIkv72xeDsPa9qmF) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [شارع الغرام](https://open.spotify.com/album/3FYfEWKC4DUiE57waMiFNS) | 3:50 |
-| 41 | [Inta Eyh](https://open.spotify.com/track/4lbXJ51VeYp8WA7JuOEzWP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Greatest Hits](https://open.spotify.com/album/1iDlgC8iuMM76wnekLCasu) | 5:04 |
+| 41 | [Inta Eyh](https://open.spotify.com/track/3A0BikGXootGvEUjWcmFHM) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Café Arabia Volume 2](https://open.spotify.com/album/4oo2Tda8r34cVT3CQH9gyb) | 5:04 |
 | 42 | [Sahran](https://open.spotify.com/track/5uAJgzYTVgK9hjub859HYo) | [Ahmed El Sherif](https://open.spotify.com/artist/11rEfO1VJ1WYgXEeXCNLfM) | [Bein Enass](https://open.spotify.com/album/0Yg9xrcC64uwzvZWJfdO35) | 3:50 |
 | 43 | [Romeo \- \(Remix\)](https://open.spotify.com/track/5t8zynpImoaWW7lWsbjL23) | [Essam Karika](https://open.spotify.com/artist/0c8w2lYzFdZkCOVtJj7QdW) | [El Wad El Afreet](https://open.spotify.com/album/67t6yJFj6PZ1RDMiRIlOWC) | 3:10 |
 | 44 | [Arabiyon Ana](https://open.spotify.com/track/35X8LBtskXgpURRUjyVoxq) | [Yuri Mrakadi](https://open.spotify.com/artist/5xIr5twGDcX741C7Oa18X2) | [Bellydance Superstars Vol\. IV](https://open.spotify.com/album/74rfF3sfdpJXVpyIpeO18B) | 4:44 |
 | 45 | [إيه اللي بيحصل](https://open.spotify.com/track/3XgdNv1eOYSa091FK3FNA1) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [بتقول ايه](https://open.spotify.com/album/76EGjoAwU4fFAz94zwNjsX) | 4:06 |
 | 46 | [Wani Marek Marreyt](https://open.spotify.com/track/6ljw35RdMV2Ayompgrd6Rr) | [Assi El Helani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [Wani Marek Marreyt](https://open.spotify.com/album/1M5q0rfZL83X4HavThIkKd) | 7:57 |
 | 47 | [El Hob El Kebir](https://open.spotify.com/track/093CMFUwvPyFIsjBsVfBPO) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 5:15 |
-| 48 | [Zanby Eih](https://open.spotify.com/track/6B68XaqHCM3iDRNebXeZJl) | [Iwan](https://open.spotify.com/artist/0TM9TIQSJCz8CdygWpuVbS) | [Alby Sahran](https://open.spotify.com/album/1w18cp20KTh2beAAXvdRYO) | 4:13 |
-| 49 | [Ana Wel Shog](https://open.spotify.com/track/0kskiFzt4hU3iq6wVcsL2X) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Myriam](https://open.spotify.com/album/2z9WhkrtupFOPrYiUOPNtL) | 4:35 |
+| 48 | [Zanby Eeh](https://open.spotify.com/track/3KPpOO9irR8NOhYEPYVR40) | [Iwan](https://open.spotify.com/artist/0TM9TIQSJCz8CdygWpuVbS) | [Albi Sahran](https://open.spotify.com/album/7ukTAFXu3MY0iWMN9W8ae5) | 4:13 |
+| 49 | [Ana Wel Shog](https://open.spotify.com/track/3GFDE2x1vujv518rDe4efC) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Everlasting Arabic Love Song](https://open.spotify.com/album/5h8THOsgwsdxZEQB8uD9Ef) | 4:35 |
 | 50 | [Hatgawez](https://open.spotify.com/track/19IIMZZtRKchdeDOoRP7wU) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [The Dance of My Heart](https://open.spotify.com/album/7o7GoxoHJEZt9lfiZdgJNd) | 4:37 |
-| 51 | [Akhbarak Eyh](https://open.spotify.com/track/5XeFvcqKyGgKxdjETm5cRq) | [Maya Nasri](https://open.spotify.com/artist/6uWBIfU2k6qRUB4IICULO4) | [Arabianights](https://open.spotify.com/album/6oWnZmQOkPQ1Ds17a4suf2) | 4:30 |
+| 51 | [Akhbarak Eyh](https://open.spotify.com/track/4Dq7rFnrKlSuKYj3N6lmTP) | [Maya Nasri](https://open.spotify.com/artist/6uWBIfU2k6qRUB4IICULO4) | [Café Arabia Volume 2](https://open.spotify.com/album/4oo2Tda8r34cVT3CQH9gyb) | 4:30 |
 | 52 | [Monaya](https://open.spotify.com/track/3vL0Y0ixJVfLR9NWCtdzV4) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Monaya](https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX) | 3:33 |
 | 53 | [Esma'ny](https://open.spotify.com/track/4rsl5OyvvZGKdM0FmBXq4z) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Adwaa' El Shohra](https://open.spotify.com/album/1KhaNzsVNtdGtnfhVJgIJp) | 3:35 |
 | 54 | [Sidi Wesalak](https://open.spotify.com/track/5cV4VJEn6EeMbPYA1mwydl) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Leih Sebtaha](https://open.spotify.com/album/0LyRF1HsXB2HP971UZNRPQ) | 5:16 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 62 | [اشوف فيك يوم](https://open.spotify.com/track/6XbcPZc1kZ1bbTmzI7Pqzw) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [يا خسارتك فى اليالى](https://open.spotify.com/album/3oUnSsugdYXbTwLOpjq7Sa) | 4:23 |
 | 63 | [Haollak Eih](https://open.spotify.com/track/1uQfLicb1k25vIfPpfSmqk) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Monaya](https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX) | 3:33 |
 
-Snapshot ID: `MTYzODc3OTMyOCwwMDAwMDAwMGI4NmEzYzNjM2FiOGJiOGVjNjM2YWIzMGFiYWFlMGZm`
+Snapshot ID: `MTYzODc3OTMyOCwwMDAwMDAwMDZkMDcyMmNlM2EzMTk0MGYyN2NkYmU5Mjg5MDc4MTkx`

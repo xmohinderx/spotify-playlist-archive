@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators in Canada\. Currently curated by Aysanabee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,750 likes - 30 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,776 likes - 30 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 21 | [Le dernier train](https://open.spotify.com/track/320efFXSFhVt2Oph9Ll6yY) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Karen Pinette\-Fontaine](https://open.spotify.com/album/13PIwmxrdA5g1XuuHzh4iQ) | 3:32 |
 | 22 | [Soldier](https://open.spotify.com/track/44MCNvFoH1nBlJrP7p0fVU) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420) | [The Fight Within](https://open.spotify.com/album/5ql5ET7tlDfCUGR4IkLbWQ) | 4:11 |
 | 23 | [Humans](https://open.spotify.com/track/7IY64pLDXEr4V3VtpERE7Y) | [Anyma](https://open.spotify.com/artist/5EERuYYpAfLBVymbcG59hv) | [HUMANS](https://open.spotify.com/album/4AkcKYWIPStYBb5KmKcu8N) | 3:41 |
-| 24 | [I'm Ready](https://open.spotify.com/track/1OgjcbZVt3DEe21xMHHunD) | [Kinnie Starr](https://open.spotify.com/artist/209owUSIqCjOCdahzFWdl8), [Spek](https://open.spotify.com/artist/08GOo5iQklmf62JyrfKcsi) | [Feed the Fire](https://open.spotify.com/album/3trrC8035F4ueYpGAh7eYn) | 3:46 |
+| 24 | [I'm Ready](https://open.spotify.com/track/2bWxzb5WN2LebsclqRJG8p) | [Kinnie Starr](https://open.spotify.com/artist/209owUSIqCjOCdahzFWdl8), [Spek](https://open.spotify.com/artist/7CmqWdR7GBgII9peqTNnwR) | [I'm Ready](https://open.spotify.com/album/2AnzltTn2V9i91UimzFk5W) | 3:46 |
 | 25 | [Falling Stars](https://open.spotify.com/track/1HAt3Mt1yKBcaPUYvdADTA) | [Leela Gilday](https://open.spotify.com/artist/0nSstpr48Xb3fVs5AZHOLN) | [North Star Calling](https://open.spotify.com/album/2PdiDRBnfTLh6c5SZ4Zt62) | 4:54 |
 | 26 | [25](https://open.spotify.com/track/74W8hlQqCm4PRjMSBvVlTE) | [Ila Barker](https://open.spotify.com/artist/6V5NP1pPpYLvS3hhyyUOAF) | [25](https://open.spotify.com/album/5zxpSc7KMQ0oUmwMt7gYUn) | 3:59 |
 | 27 | [Gucci Store](https://open.spotify.com/track/1tQ6N1dQiXepKnjetWVsAc) | [Prado Monroe](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq) | [Gucci Store](https://open.spotify.com/album/3xxp6GqKMcwBT41XQmad9w) | 2:02 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 29 | [Last Goodbye](https://open.spotify.com/track/09P4P7813Fhu8ESkBWAsXs) | [Angel Baribeau](https://open.spotify.com/artist/0FPslk0bbQhxrwwzf9hOq4) | [For Those I Love\(d\)](https://open.spotify.com/album/5mDbhZk5UIRVZiSALezzB7) | 3:40 |
 | 30 | [Qimuksiq: Dogsled Ride](https://open.spotify.com/track/2TYVZ7LmhfnQWrBqv8yy5D) | [Piqsiq](https://open.spotify.com/artist/22sYXaxfo8wisgHn4pvCTZ) | [Quviasugvik: In Search of Harmony](https://open.spotify.com/album/0ONaWZIZAxVPP8syZlIDgN) | 3:22 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDQwMzJmMzZhZDE2NDI0ODBiZjcyNjg2OWFhNmRiZmI1`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDYwMGRjZjU2MzQzOTZkMmNhMzA1NjJhM2E3YTA3ZjBk`

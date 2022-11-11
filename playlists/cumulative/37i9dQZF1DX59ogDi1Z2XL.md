@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Drake, 21 Savage
 
-618 songs - 1 day 5 hr 3 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
+619 songs - 1 day 5 hr 5 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,8 +137,9 @@
 | [CURBS](https://open.spotify.com/track/2yWq1VUkJut0ExfZbzy4vF) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 2:05 | 2022-07-29 |  |
 | [DAMN RIGHT](https://open.spotify.com/track/3qsMusRYrSX3N6gR8jpnHU) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [DAMN RIGHT](https://open.spotify.com/album/14aHXW99J1Gsh1meBF8h9M) | 2:50 | 2022-11-04 |  |
 | [Dance Like This](https://open.spotify.com/track/0zPRHnj8UVKetT0mIo2EWF) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Dance Like This](https://open.spotify.com/album/580TCktwPgL3nl5XF01R3V) | 2:32 | 2022-08-26 | 2022-10-29 |
+| [Das U](https://open.spotify.com/track/0D5MX5l0VPOxA62A87ONEE) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [You Don't Understand](https://open.spotify.com/album/0QwBq75ljzkUJjO6qcNAVK) | 2:15 | 2022-11-04 |  |
 | [Das U](https://open.spotify.com/track/3zN3TNLf2BHR9889yhofot) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Das U](https://open.spotify.com/album/18WfOTopPutbLshJTL2Mgf) | 2:15 | 2022-10-07 | 2022-11-02 |
-| [Das U](https://open.spotify.com/track/5d4T6L8Td6bL6iWKhNxe7g) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Das U](https://open.spotify.com/album/1gUvkLRrJ6Q80Va3fpdFVS) | 2:15 | 2022-10-28 |  |
+| [Das U](https://open.spotify.com/track/5d4T6L8Td6bL6iWKhNxe7g) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Das U](https://open.spotify.com/album/1gUvkLRrJ6Q80Va3fpdFVS) | 2:15 | 2022-10-28 | 2022-11-11 |
 | [Dead Body \(feat\. Rowdy Rebel\)](https://open.spotify.com/track/4JTfekrzazNd71Q5k6QZyK) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Gardner Express \(Deluxe\)](https://open.spotify.com/album/4qtoUHReyTTUUGMu8hpDGr) | 2:50 | 2022-01-07 | 2022-04-16 |
 | [Death Over Dishonour](https://open.spotify.com/track/68XowFwn5kucO3E5F2lSt7) | [K\-Cuzz](https://open.spotify.com/artist/7IS5AUXckTl6AThH10aSR0) | [LOVES TOXIC](https://open.spotify.com/album/2l4ibbb28EZ1k75VPNshXJ) | 2:05 | 2022-05-28 | 2022-07-09 |
 | [Demon Mode](https://open.spotify.com/track/6cCJGSDSgYBxU9xPULz3fS) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Demon Mode](https://open.spotify.com/album/3th8PyMt8wjiGi0azm135D) | 3:18 | 2022-04-01 | 2022-04-29 |

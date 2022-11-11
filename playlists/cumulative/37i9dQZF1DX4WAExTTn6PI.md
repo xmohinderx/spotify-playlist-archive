@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: <b>Margo Cilker</b>
 
-121 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
+122 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 | 2022-01-28 |  |
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-01-28 |  |
 | [Jack of Fools](https://open.spotify.com/track/1Fx7t6OvcoswWDtOlh1NcL) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Jack of Fools](https://open.spotify.com/album/3roREPgmhlZx06ZxDn7vyR) | 4:48 | 2022-01-28 | 2022-07-29 |
-| [Jack of Fools](https://open.spotify.com/track/2K3tyFoVNYUwIjwHqmsB5W) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/61RWLc1ytbWD3XRHbGWkIw) | 4:48 | 2022-01-28 |  |
+| [Jack of Fools](https://open.spotify.com/track/2K3tyFoVNYUwIjwHqmsB5W) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/61RWLc1ytbWD3XRHbGWkIw) | 4:48 | 2022-01-28 | 2022-11-11 |
+| [Jack of Fools](https://open.spotify.com/track/00uM0sUFwqzPQd3QA55xPM) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr), [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/1iCFOIlVgRXMe816f6Hzbz) | 4:48 | 2022-10-14 |  |
 | [Joke’s On Me](https://open.spotify.com/track/3D5oJNxiaeiUoXAtj30gUS) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Cycles](https://open.spotify.com/album/2rVf460T5uk97vo7pwM44L) | 2:46 | 2022-01-28 |  |
 | [Just Friends](https://open.spotify.com/track/57zMdIUJcV523YHPGe4HoY) | [Them Coulee Boys](https://open.spotify.com/artist/0rHOjcy9iMdgpJMq0kPf08) | [Just Friends](https://open.spotify.com/album/1lVS2UkbgxtNZjCDPXmdTo) | 3:34 | 2022-01-28 |  |
 | [Just Like Leaving](https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe) | 3:26 | 2022-01-28 |  |

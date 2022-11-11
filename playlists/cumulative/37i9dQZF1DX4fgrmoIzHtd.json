@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Sun & Ice",
+        "url": "https://open.spotify.com/album/1pe3G2bpHfA9hkVNvE86bZ"
+      },
+      "artists": [
+        {
+          "name": "The Field",
+          "url": "https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324880,
+      "name": "A Paw In My Face",
+      "url": "https://open.spotify.com/track/1qnyF50w44srJ81PajqOUC"
+    },
+    {
+      "album": {
         "name": "From Here We Go Sublime",
         "url": "https://open.spotify.com/album/5oNWGhIs9vpB6FJ6rv5VuO"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 324880,
       "name": "A Paw In My Face",
       "url": "https://open.spotify.com/track/2Kn4IrAsj0Af2w4PQFTf7r"

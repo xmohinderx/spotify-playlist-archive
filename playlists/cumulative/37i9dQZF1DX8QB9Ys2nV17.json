@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Cheats and Liars",
+        "url": "https://open.spotify.com/album/2rZ2hqlzxMXvj2XN1i8DSZ"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228795,
+      "name": "Cheats and Liars",
+      "url": "https://open.spotify.com/track/4PXYmSraZ4JEZsaBDJh2QG"
+    },
+    {
+      "album": {
         "name": "Shining in the Half Light",
         "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
       },
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228795,
       "name": "Cheats and Liars",
       "url": "https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 277760,
       "name": "Geechee Woman",
       "url": "https://open.spotify.com/track/7KC0ebVIUOAlmCw83iWOYY"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 207640,
       "name": "Love's Truly Blind",
       "url": "https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 383133,
       "name": "The Ice Queen",
       "url": "https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J"
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 232724,
       "name": "What's the Matter with You",
       "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"

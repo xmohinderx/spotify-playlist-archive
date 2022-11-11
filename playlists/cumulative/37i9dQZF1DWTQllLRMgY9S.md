@@ -4,7 +4,7 @@
 
 > Listen to brand new music as it arrives and all the classics from the true blue Queen of Pop.
 
-67 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/72TUDb4KLYUDRMwfbAXS0O)
+69 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/72TUDb4KLYUDRMwfbAXS0O)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,9 @@
 | [Celebration](https://open.spotify.com/track/5HktkLHDbjA6LTyRTBEzHy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:35 | 2020-06-17 |  |
 | [Cherish](https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:49 | 2020-06-17 |  |
 | [Come Alive](https://open.spotify.com/track/6hHPBnTvgBjmJoUowLa23S) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:02 | 2020-06-17 |  |
+| [Crave](https://open.spotify.com/track/04IwmKAt38EldXFedLRPw6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [LOUD & PROUD: The New Pride Classics](https://open.spotify.com/album/10aEAltOqnfavek54Blruq) | 3:21 | 2022-08-18 |  |
 | [Crave \(with Swae Lee\)](https://open.spotify.com/track/0hupPGbuAghjVgBp3fMgV0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Crave \(with Swae Lee\)](https://open.spotify.com/album/4PPy5DEtKnjzLorLXU2INv) | 3:21 | 2020-06-17 | 2022-07-29 |
-| [Crave \(with Swae Lee\)](https://open.spotify.com/track/3DTq6oxUWv20TEKQO9IVF3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 3:21 | 2022-07-07 |  |
+| [Crave \(with Swae Lee\)](https://open.spotify.com/track/3DTq6oxUWv20TEKQO9IVF3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 3:21 | 2022-07-07 | 2022-11-11 |
 | [Crazy](https://open.spotify.com/track/3Y6bCKPrsrKRSo8sg6PuL3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:02 | 2020-06-17 |  |
 | [Crazy for You](https://open.spotify.com/track/6B4oVElDIKRNcNUary0WG7) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:44 | 2020-06-17 |  |
 | [Dark Ballet](https://open.spotify.com/track/0C9bY1j6yQiPSLCl16He74) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Dark Ballet](https://open.spotify.com/album/4XP0ffHXAHNykcYosP4URi) | 4:14 | 2020-06-17 | 2022-07-29 |
@@ -61,7 +62,8 @@
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2020-06-17 |  |
 | [Medellín \(with Maluma\)](https://open.spotify.com/track/3tTV4DYlhkiXRNiiXwIAPf) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Medellín \(with Maluma\)](https://open.spotify.com/album/5iUJzNJieRm5uJAtIk8Jxf) | 4:58 | 2020-06-17 | 2022-07-29 |
 | [Medellín \(with Maluma\)](https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:58 | 2022-07-07 |  |
-| [Music](https://open.spotify.com/track/2BcOZ4vOeu2qZowIHrvTYy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW) | 3:45 | 2022-07-07 |  |
+| [Music](https://open.spotify.com/track/017KA33K4b49R1XUAyh2Nw) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [GHV2](https://open.spotify.com/album/5frQh0uqxnIQBam99WigU4) | 3:45 | 2022-08-18 |  |
+| [Music](https://open.spotify.com/track/2BcOZ4vOeu2qZowIHrvTYy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW) | 3:45 | 2022-07-07 | 2022-11-11 |
 | [Music](https://open.spotify.com/track/2fzykVsO2Di5jnofUNX3YE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 3:45 | 2020-06-17 | 2022-07-29 |
 | [Open Your Heart](https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:49 | 2020-06-17 |  |
 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue \(Reissue\)](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 | 2020-06-17 |  |

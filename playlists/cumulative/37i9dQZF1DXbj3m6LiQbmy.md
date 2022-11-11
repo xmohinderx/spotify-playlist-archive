@@ -4,7 +4,7 @@
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-226 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
+227 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,9 @@
 | [Check It Out](https://open.spotify.com/track/4wySmOQ88W2dWNIL6iSRsk) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Deluxe Edition\)](https://open.spotify.com/album/4cIAp0fnyPfICPqELp7LSH) | 4:11 | 2022-06-12 | 2022-06-27 |
 | [Chesta notte](https://open.spotify.com/track/7m9gMsES7MoMHs4fb8HdsP) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [No Label](https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx) | [San Castrese](https://open.spotify.com/album/3rYuPwrwUSE7wEE89lcC4G) | 2:54 | 2022-06-12 | 2022-06-27 |
 | [Chi se ne frega](https://open.spotify.com/track/6RUaPDMCEVkPgceTNMYJrJ) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Radio Whitemary](https://open.spotify.com/album/11ENaxvYtPvmoMZ2BtGLSK) | 3:47 | 2022-06-26 | 2022-07-29 |
+| [CHICKEN TERIYAKI](https://open.spotify.com/track/5OzQJGSICWovSJI3OFydQ9) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:02 | 2022-09-08 |  |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-04-01 | 2022-07-28 |
-| [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-07-21 |  |
+| [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-07-21 | 2022-11-11 |
 | [Cicciolina](https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Amore Hardcore](https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw) | 4:37 | 2022-04-01 |  |
 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 | 2022-06-12 | 2022-06-27 |
 | [Classic](https://open.spotify.com/track/1UdcmVABuyQ4ZHiXpzoUZt) | [Oberdan](https://open.spotify.com/artist/4w5pfoZRqRiaPZkqkyYwVw) | [Classic](https://open.spotify.com/album/4FDY8KTqhxoSZ3b3zXfTuv) | 3:30 | 2022-07-04 | 2022-07-28 |

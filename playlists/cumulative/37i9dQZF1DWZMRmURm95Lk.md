@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. In cover, Deda.
 
-233 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/4N3m0KkyvafB7QizhgRop2)
+234 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/4N3m0KkyvafB7QizhgRop2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Oltre](https://open.spotify.com/track/6zYD9LGRFUCo3wRFcN2sY1) | [OneMic](https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25) | [Sotto La Cintura](https://open.spotify.com/album/1kHOImbv2A2NfTkP3XVL7Z) | 3:44 | 2022-06-22 | 2022-07-26 |
 | [Oltre l'apparentemente bello](https://open.spotify.com/track/6cNRZxzb9Z7vBnM4tODloT) | [Grungi Aiax](https://open.spotify.com/artist/1D7xqdaJaCPhNxUM8GolpB), [zipcrü](https://open.spotify.com/artist/3nMQqAFeiJZeCq5PwMqPWR) | [Oltre l'apparentemente bello](https://open.spotify.com/album/6q7mnkd5dogS65HMmKAPMk) | 2:07 | 2022-07-21 | 2022-08-27 |
 | [On The Beach](https://open.spotify.com/track/04fHNMMiEHtiOIhVXvq2TB) | [Fratelli Freschi](https://open.spotify.com/artist/6Ftirks48hLIeJvN9azQ81) | [On The Beach](https://open.spotify.com/album/4tNPM2Gw2IUslI4tYbXMWK) | 2:45 | 2022-06-02 | 2022-07-28 |
+| [Ora Che La Musica Non C'è](https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry) | [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ze in the Clouds](https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf) | [Ora Che La Musica Non C'è](https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49) | 4:22 | 2022-11-10 |  |
 | [Orizzonte Arancio.](https://open.spotify.com/track/4XQe4g2zRCD7WOy02zKlPR) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Macaboro](https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9) | [Orizzonte Arancio.](https://open.spotify.com/album/0jeiHa9d1h6FTsbCIDFLWf) | 3:25 | 2022-05-05 | 2022-07-29 |
 | [Panico](https://open.spotify.com/track/0q8XaTJ1MzlEb9q7YdStT1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Guerra E Pace](https://open.spotify.com/album/3p3zyxP3IBd0KNYNopjXBE) | 4:13 | 2022-07-28 |  |
 | [Parla piano](https://open.spotify.com/track/37IHphajTmd27MDLG76zEd) | [DJ Fastcut](https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Dead Poets 3 \- Maledetti](https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74) | 3:07 | 2022-05-05 |  |
@@ -220,7 +221,7 @@
 | [Terzo Stadio: Reintegrazione](https://open.spotify.com/track/7kfUlf5e3WuNU7vfTZAsCF) | [Toni Zeno](https://open.spotify.com/artist/3EjtKBJgiLErF6cprWuHXG), [Aleaka](https://open.spotify.com/artist/63sB40l1dT9CV5vXu1E7q1) | [Terzo Stadio: Reintegrazione](https://open.spotify.com/album/57dZoJlcnLvjwNjA6jQkJ7) | 3:21 | 2022-05-12 | 2022-07-28 |
 | [Ti Pretendo XXX](https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM) | [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo), [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Ti Pretendo XXX](https://open.spotify.com/album/4Z7I16kiaaZSRolYWpqjtW) | 3:41 | 2022-09-09 |  |
 | [Tieni Duro!](https://open.spotify.com/track/6Ur5wy2jIrftniHwWd4nOu) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [Mondo Marcio](https://open.spotify.com/album/0as4qNSUMvD3Fh69GB9nu9) | 3:55 | 2022-05-12 | 2022-07-29 |
-| [Tieni duro! \- 2022 Remastered](https://open.spotify.com/track/1Uw9UJ25oqXVbld6BbmIsk) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [Mondo Marcio \(2022 Remastered\)](https://open.spotify.com/album/76VmOnyPsdl1fZRqnOhGkf) | 3:55 | 2022-07-28 |  |
+| [Tieni duro! \- 2022 Remastered](https://open.spotify.com/track/1Uw9UJ25oqXVbld6BbmIsk) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [Mondo Marcio \(2022 Remastered\)](https://open.spotify.com/album/76VmOnyPsdl1fZRqnOhGkf) | 3:55 | 2022-07-28 | 2022-11-11 |
 | [Tiger Mask \- Se Acabo](https://open.spotify.com/track/5UVvbBbPmlBl6i7OAZRMpP) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7), [Wego FTS](https://open.spotify.com/artist/2PoxLmzjISQlPoZ7KLzOMf) | [Tiger Mask \(Se Acabo\)](https://open.spotify.com/album/60oDLiIshmfMvwYg3KX5SJ) | 3:10 | 2022-05-12 | 2022-06-23 |
 | [Titanic](https://open.spotify.com/track/3j3woTPzyCtMANeff1VEe1) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r) | [Titanic](https://open.spotify.com/album/2g5mdnKae0ZnGzI6nXyDko) | 3:50 | 2022-06-02 | 2022-08-02 |
 | [Tranqi Funky](https://open.spotify.com/track/2ttUbhePgGQQKAe5vxQVG4) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe) | [Così Com' è](https://open.spotify.com/album/4qtNe5vJDsAYXFhMX81Gp2) | 3:23 | 2022-06-30 |  |

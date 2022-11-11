@@ -4,7 +4,7 @@
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-78 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/78I0A29BGLLpEnxIWpW2q7)
+80 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/78I0A29BGLLpEnxIWpW2q7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Estuve \- En Vivo](https://open.spotify.com/track/3FYqBFgxf9xTSqOv07BVSy) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(En Vivo\)](https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc) | 3:19 | 2021-12-29 |  |
 | [Gracias Por Tanto Amor \- En Vivo](https://open.spotify.com/track/0OiTHFIm12ConCiZlsPjGH) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo Desde La Plaza El Progreso De Guadalajara](https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j) | 3:44 | 2021-12-29 |  |
 | [Guadalajara \- \(En Vivo\)](https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:23 | 2021-12-29 |  |
-| [Hasta Que Te Conocí \- En Vivo](https://open.spotify.com/track/3lknjujNXrpUqab4Drj7Nm) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 3:44 | 2021-12-29 |  |
+| [Hasta Que Te Conocí \- En Vivo](https://open.spotify.com/track/3lknjujNXrpUqab4Drj7Nm) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 3:44 | 2021-12-29 | 2022-11-11 |
+| [Hasta Que Te Conocí \- En Vivo \- Remasterizado](https://open.spotify.com/track/1G8GC7MXucd5l7dU6ifgAT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:40 | 2021-12-29 |  |
 | [Hermoso Cariño](https://open.spotify.com/track/1HBDEruKxQkb9nZnp2QE5B) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:12 | 2021-12-29 |  |
 | [Homenaje a Lola \(Popurrí\) \- En Vivo](https://open.spotify.com/track/1jAuWENO3fqVV95sZRyKGQ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Celebrando 25 Años De Juan Gabriel En El Palacio De Bellas Artes](https://open.spotify.com/album/3EdXKrmsoiThC0FWi9ctNH) | 8:44 | 2021-12-29 |  |
 | [Inocente Pobre Amiga \- En Vivo Desde Culiacán, México/2012](https://open.spotify.com/track/574ZYeSvOOvYCPcgabSQwo) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [1 Vida \- 3 Historias \- Despedida De Culiacán \(En Vivo Desde Culiacán, México/2012\)](https://open.spotify.com/album/3WlN6A2y1EKdI74XPoqMHt) | 4:58 | 2021-12-29 | 2022-10-23 |
@@ -46,7 +47,8 @@
 | [La Gran Señora \- Live](https://open.spotify.com/track/7tdHYlgbQJUTXACQ1I9cqk) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mujeres con Mariachi](https://open.spotify.com/album/5HOlH78OGhLQx35UudXbPY) | 3:50 | 2021-12-29 |  |
 | [La Malagueña \- En Vivo](https://open.spotify.com/track/0QK9r9sfr18lojfOIwPZE2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Con Ustedes..\. Car10s Rivera en Vivo](https://open.spotify.com/album/249ZBjtCsCYklCPuQDqyo2) | 4:53 | 2021-12-29 |  |
 | [La Media Vuelta \- En Vivo](https://open.spotify.com/track/0BbrG0xytWfEwZrYoqqPKR) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:44 | 2021-12-29 |  |
-| [La Venia Bendita \- En Vivo en Puerto Rico \- Teatro Bellas Artes /2000](https://open.spotify.com/track/48JWYJMvUKAW36XONx7QsS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Vivo Desde El Teatro De Bellas Artes Puerto Rico \(Vol\. II\)](https://open.spotify.com/album/1J3FCYZvqB4RiSbrzh98bF) | 4:17 | 2021-12-29 |  |
+| [La Venia Bendita \- En Vivo en Puerto Rico \- Teatro Bellas Artes /2000](https://open.spotify.com/track/5ufxU0BkiTfwmtnfRTpIPt) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Vivo: Mariachi](https://open.spotify.com/album/0HHYXnekps3ind2pRc9r4T) | 4:17 | 2021-12-29 |  |
+| [La Venia Bendita \- En Vivo en Puerto Rico \- Teatro Bellas Artes /2000](https://open.spotify.com/track/48JWYJMvUKAW36XONx7QsS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Vivo Desde El Teatro De Bellas Artes Puerto Rico \(Vol\. II\)](https://open.spotify.com/album/1J3FCYZvqB4RiSbrzh98bF) | 4:17 | 2021-12-29 | 2022-11-11 |
 | [Lagrimas De Mi Barrio](https://open.spotify.com/track/1truaQTkNL4lYhvftIdAHC) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Lagrimas De Mi Barrio](https://open.spotify.com/album/0PBvPrRurEqazN5SRhnZUT) | 3:15 | 2021-12-29 |  |
 | [Llorar \- En Vivo](https://open.spotify.com/track/41cqLjW5gEtYy28Y13KABP) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada En Vivo](https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ) | 3:09 | 2021-12-29 |  |
 | [Me Dicen El Coyote \- Live](https://open.spotify.com/track/0MhGou3pUxm1MtzZpeeiHj) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda y Mariachi](https://open.spotify.com/album/4XbELhyxUc6LUWu3sewRnf) | 2:43 | 2021-12-29 |  |

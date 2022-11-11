@@ -4,7 +4,7 @@
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-82 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/1eq441F6Kq07Kj48Nsa7vI)
+83 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/1eq441F6Kq07Kj48Nsa7vI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Look Like \(feat\. JMC, Jadakiss & Stormzy\)](https://open.spotify.com/track/57CtjJsx9jwTQDiO4ShMAe) | [Charlie Sloth](https://open.spotify.com/artist/3ICo3DF8pXFJEdzph2b6gh), [JMC](https://open.spotify.com/artist/33R5xZXaJcXP5TXA3tydgO), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [The Plug](https://open.spotify.com/album/2QzCZabgxczZat17TC4x52) | 3:50 | 2021-07-08 |  |
 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 | 2022-10-13 |  |
 | [Momma's Prayers](https://open.spotify.com/track/1KpPUihIH2BwQ28tIqWszw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Momma's Prayers](https://open.spotify.com/album/2wC9LxnGwBRKlT22St5g5x) | 5:05 | 2021-07-08 | 2022-07-29 |
-| [Momma's Prayers](https://open.spotify.com/track/482wtNOgjcKepFrwPeIT5Q) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 5:05 | 2021-07-08 |  |
+| [Momma's Prayers](https://open.spotify.com/track/2B7UQC6hC3StWF1Nd2rWVU) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [LOVE](https://open.spotify.com/album/0k6KxQhaHBIBP7X69ttp8f) | 5:05 | 2022-10-13 |  |
+| [Momma's Prayers](https://open.spotify.com/track/482wtNOgjcKepFrwPeIT5Q) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 5:05 | 2021-07-08 | 2022-11-11 |
 | [Mr Skeng](https://open.spotify.com/track/3DrMEiTE3yu3yyc6xBDEDz) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:17 | 2021-07-08 |  |
 | [My Hood](https://open.spotify.com/track/41aEJVUVNjhvZlECWDQZgW) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Durt](https://open.spotify.com/album/1P29D0CPo7YeQnUUL13SEh) | 4:31 | 2021-07-08 | 2022-10-13 |
 | [My Hood](https://open.spotify.com/track/5IeuKkd8EE5prwJX77iW03) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Durt](https://open.spotify.com/album/2A9YfiOYh4jJ7qsLeUdnDM) | 4:31 | 2021-07-08 |  |

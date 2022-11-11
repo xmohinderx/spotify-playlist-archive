@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 189423,
       "name": "Apple Crumble",
       "url": "https://open.spotify.com/track/6a3e0ES98H65XIXuJ3Af8A"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 225733,
       "name": "Connection",
       "url": "https://open.spotify.com/track/6Q6aBwbKLh3SBbFiQce1YK"
@@ -2241,7 +2241,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 177746,
       "name": "Gone",
       "url": "https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh"
@@ -2361,7 +2361,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204428,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/6mJoYRUTiqeVowwWNAeCjR"
@@ -2653,7 +2653,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 224840,
       "name": "High And Low",
       "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
@@ -3025,7 +3025,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 182167,
       "name": "I Love This Part",
       "url": "https://open.spotify.com/track/3iyrYy4JJepuUCuS3u1vEX"
@@ -3271,6 +3271,24 @@
       "duration_ms": 185800,
       "name": "Is It Real",
       "url": "https://open.spotify.com/track/6c0stxBesEYDLixpJvTbNT"
+    },
+    {
+      "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/2S1w1CeYjPVhWd4PcvinEp"
+      },
+      "artists": [
+        {
+          "name": "Betcha",
+          "url": "https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/0IKJEqLLo2dBIkx73tObbC"
     },
     {
       "album": {
@@ -3667,7 +3685,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 169573,
       "name": "Live A Little",
       "url": "https://open.spotify.com/track/4TMVC63HZDYaTGtlhbM95i"
@@ -3905,6 +3923,24 @@
       "duration_ms": 244666,
       "name": "Loveblood - EP Version",
       "url": "https://open.spotify.com/track/2XfUjv7NEpUhOkpuiLCGZq"
+    },
+    {
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/5MoZD1SHXuO11cZRqfB3C1"
+      },
+      "artists": [
+        {
+          "name": "DD WALKER",
+          "url": "https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267508,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/10QrzyQVmkvx8BfnbiP41s"
     },
     {
       "album": {
@@ -4767,7 +4803,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 242053,
       "name": "PIERCED ARROWS",
       "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
@@ -4947,7 +4983,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 279137,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
@@ -5413,7 +5449,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 189426,
       "name": "Say",
       "url": "https://open.spotify.com/track/0XRYPlTCTHtaNAU1reGbB9"
@@ -5431,7 +5467,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 199873,
       "name": "scream!",
       "url": "https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0"
@@ -5485,7 +5521,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 188316,
       "name": "Settling",
       "url": "https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q"
@@ -6134,6 +6170,24 @@
     },
     {
       "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241194,
+      "name": "Surefire",
+      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
+    },
+    {
+      "album": {
         "name": "Night Drive",
         "url": "https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3"
       },
@@ -6365,7 +6419,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 217617,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ"
@@ -6657,7 +6711,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 207679,
       "name": "Turn",
       "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
@@ -6805,7 +6859,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 161120,
       "name": "Van Horn",
       "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
@@ -6985,7 +7039,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 232906,
       "name": "We Are Between",
       "url": "https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394"
@@ -7115,7 +7169,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 233976,
       "name": "Why Did You Run?",
       "url": "https://open.spotify.com/track/2xrRl0h13K2kqBpJN6P98Y"
@@ -7253,7 +7307,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 225720,
       "name": "WONDER",
       "url": "https://open.spotify.com/track/5MvVNla7ZjT51haF10iVTu"
@@ -7275,6 +7329,24 @@
       "duration_ms": 225720,
       "name": "WONDER",
       "url": "https://open.spotify.com/track/6dZQEvVq2Zt23bD99bpInc"
+    },
+    {
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/1yuVbqSZGDRGypi9LfBzNm"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/0HbUACbnUZ6NvgFvVyUuC3"
     },
     {
       "album": {

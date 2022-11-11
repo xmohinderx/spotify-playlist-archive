@@ -55,10 +55,28 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215920,
       "name": "A Lack of Color",
       "url": "https://open.spotify.com/track/6LNwTodkmxsc2dKRJWQr6y"
+    },
+    {
+      "album": {
+        "name": "The O.C. Vol. 2",
+        "url": "https://open.spotify.com/album/0kJwmMAkfeZds5rz5NK7ID"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "A Lack of Color",
+      "url": "https://open.spotify.com/track/1nuqzCMgj2lxZCmpdCmIGv"
     },
     {
       "album": {
@@ -1588,6 +1606,24 @@
     },
     {
       "album": {
+        "name": "Smoke Signals",
+        "url": "https://open.spotify.com/album/6gouZs8Y2Tx6NVF1zr4hof"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323711,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/5mIudBddFfhym8FMdStyl0"
+    },
+    {
+      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -1599,10 +1635,28 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 324773,
       "name": "Smoke Signals",
       "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
+    },
+    {
+      "album": {
+        "name": "Solar Pilgrim",
+        "url": "https://open.spotify.com/album/4jxYGVzkDEmUn4IiNRBjxW"
+      },
+      "artists": [
+        {
+          "name": "Twain",
+          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320548,
+      "name": "Solar Pilgrim",
+      "url": "https://open.spotify.com/track/0i9uHpoqJXXoEJljp9U0sy"
     },
     {
       "album": {
@@ -1617,7 +1671,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 320548,
       "name": "Solar Pilgrim",
       "url": "https://open.spotify.com/track/1UhfqG8us3X5rygBwy4POa"
@@ -1981,7 +2035,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 246531,
       "name": "Unofferable",
       "url": "https://open.spotify.com/track/0ApJqHui8iO5UKtg9f1R50"
@@ -2003,6 +2057,24 @@
       "duration_ms": 246533,
       "name": "Unofferable",
       "url": "https://open.spotify.com/track/7M9V7fTIwsgipUaxfMH3hf"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246546,
+      "name": "Unofferable",
+      "url": "https://open.spotify.com/track/1yINrBHpUSfYkVyN77ASEC"
     },
     {
       "album": {

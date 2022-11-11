@@ -1,12 +1,12 @@
 {
   "description": "Music to get your heart started.",
-  "num_followers": 6999,
+  "num_followers": 7019,
   "original_name": "Country Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE5NTI4NCwwMDAwMDAwMDhmM2UxMDYzNmFmYWIwZTFlYjg3ZGVlMGRmMzQ5ODI1",
+  "snapshot_id": "MTY0MDE5NTI4NCwwMDAwMDAwMDI0MDA1MzI5YjE3MDA3NzQ2ODkxM2FhYzUyMjE1MjE5",
   "tracks": [
     {
       "added_at": "2021-12-22 17:48:04",
@@ -43,8 +43,8 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+        "name": "NOW That's What I Call Music! Vol. 74",
+        "url": "https://open.spotify.com/album/6numEuZLppWcXTtfhRJQmd"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 197293,
+      "duration_ms": 194866,
       "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
+      "url": "https://open.spotify.com/track/0k3beOMydOCDHtDskvGTEG"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -315,26 +315,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Carly Pearce",
-        "url": "https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        },
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "I Hope You\u2019re Happy Now",
-      "url": "https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Lil Bit",
         "url": "https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 195962,
       "name": "Lil Bit",
       "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Just the Way",
+      "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -375,38 +375,18 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Country Again (Side A)",
-        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+        "name": "GOOD TIME",
+        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
         }
       ],
-      "duration_ms": 171333,
-      "name": "What\u2019s Your Country Song",
-      "url": "https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        },
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Just the Way",
-      "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
+      "duration_ms": 214720,
+      "name": "GOOD TIME",
+      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -439,22 +419,6 @@
       "duration_ms": 191306,
       "name": "Drink In My Hand",
       "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
-        "name": "GOOD TIME",
-        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "GOOD TIME",
-      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -511,6 +475,22 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
         "name": "Life Changes",
         "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
       },
@@ -543,22 +523,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Happy Endings",
         "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
@@ -571,26 +535,6 @@
       "duration_ms": 166573,
       "name": "Hotel Key",
       "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "The Champion - Bonus Track",
-      "url": "https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -615,22 +559,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Blue Tacoma",
-      "url": "https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "SOUTHSIDE",
         "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
@@ -643,6 +571,26 @@
       "duration_ms": 215933,
       "name": "Breaking Up Was Easy In The 90's",
       "url": "https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "The Champion - Bonus Track",
+      "url": "https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -731,6 +679,22 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
+        "name": "SOUTHSIDE",
+        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "Hard To Forget",
+      "url": "https://open.spotify.com/track/10xuH52YSXHWFwCaF1fsDd"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
         "name": "Meat and Candy",
         "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
       },
@@ -795,22 +759,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "SOUTHSIDE",
-        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "Hard To Forget",
-      "url": "https://open.spotify.com/track/10xuH52YSXHWFwCaF1fsDd"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU"
       },
@@ -855,6 +803,22 @@
       "duration_ms": 221633,
       "name": "Down To One",
       "url": "https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "SOUTHSIDE",
+        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Kinfolks",
+      "url": "https://open.spotify.com/track/52lGuLAkIVbm4LZkSf9nj0"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -911,22 +875,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "SOUTHSIDE",
-        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Kinfolks",
-      "url": "https://open.spotify.com/track/52lGuLAkIVbm4LZkSf9nj0"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "The Road And The Radio",
         "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
       },
@@ -959,22 +907,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Love Ain't",
-        "url": "https://open.spotify.com/album/5EINVVHmix3Yvu6ruZC1L0"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 186118,
-      "name": "Love Ain't",
-      "url": "https://open.spotify.com/track/6uVzeU47Qzg0rrMneP5BNg"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Life Rolls On",
         "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
       },
@@ -987,6 +919,22 @@
       "duration_ms": 177026,
       "name": "Always Gonna Love You",
       "url": "https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "Love Ain't",
+        "url": "https://open.spotify.com/album/5EINVVHmix3Yvu6ruZC1L0"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 186118,
+      "name": "Love Ain't",
+      "url": "https://open.spotify.com/track/6uVzeU47Qzg0rrMneP5BNg"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1007,22 +955,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "I Was On a Boat That Day",
-        "url": "https://open.spotify.com/album/5l1k8aONEjrNP0SFdcrL6J"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "I Was On a Boat That Day",
-      "url": "https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Be Here",
         "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
       },
@@ -1035,6 +967,22 @@
       "duration_ms": 224629,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "I Was On a Boat That Day",
+        "url": "https://open.spotify.com/album/5l1k8aONEjrNP0SFdcrL6J"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "I Was On a Boat That Day",
+      "url": "https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1055,22 +1003,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Where It's At",
-        "url": "https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "Where It's At",
-      "url": "https://open.spotify.com/track/4whYDpJ5XVQpmvecbEHP5Q"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "The Big Revival",
         "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
@@ -1083,6 +1015,22 @@
       "duration_ms": 182213,
       "name": "Save It for a Rainy Day",
       "url": "https://open.spotify.com/track/6wfTb2he5ANMQSFnlamnyi"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "Where It's At",
+        "url": "https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 204186,
+      "name": "Where It's At",
+      "url": "https://open.spotify.com/track/4whYDpJ5XVQpmvecbEHP5Q"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1123,22 +1071,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Somewhere In My Car",
-        "url": "https://open.spotify.com/album/2WrjahkTYLrJe93TxCGIuM"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Somewhere In My Car",
-      "url": "https://open.spotify.com/track/3MFV4DgrAOXz6KURPQxRj9"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Jameson Rodgers",
         "url": "https://open.spotify.com/album/52tL6ea7pvC3qgZCMPQAa5"
       },
@@ -1171,22 +1103,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "No Shoes, No Shirt, No Problems",
-        "url": "https://open.spotify.com/album/28fqmcfV4mpPsqhdNKUeTc"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "No Shoes, No Shirt, No Problems",
-      "url": "https://open.spotify.com/track/208bYsadJ56km31IENM2qS"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Night Train",
         "url": "https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu"
       },
@@ -1199,6 +1115,38 @@
       "duration_ms": 187613,
       "name": "Take A Little Ride",
       "url": "https://open.spotify.com/track/2o5mwv7hvas1jdUg14Nihv"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "Somewhere In My Car",
+        "url": "https://open.spotify.com/album/2WrjahkTYLrJe93TxCGIuM"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Somewhere In My Car",
+      "url": "https://open.spotify.com/track/3MFV4DgrAOXz6KURPQxRj9"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "No Shoes, No Shirt, No Problems",
+        "url": "https://open.spotify.com/album/28fqmcfV4mpPsqhdNKUeTc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "No Shoes, No Shirt, No Problems",
+      "url": "https://open.spotify.com/track/208bYsadJ56km31IENM2qS"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1219,38 +1167,6 @@
       "duration_ms": 169019,
       "name": "Between You & Me (feat. Ashley Cooke)",
       "url": "https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
-        "name": "Uncaged",
-        "url": "https://open.spotify.com/album/1s8rmXFgIuXVpUach3s2V7"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "Jump Right In",
-      "url": "https://open.spotify.com/track/6czEmVcntPHqHBYt2eRpgY"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 164733,
-      "name": "Hell On The Heart",
-      "url": "https://open.spotify.com/track/6wo9obXjAhA8Yc90sswR56"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1319,22 +1235,6 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Meat and Candy",
-        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Nowhere Fast",
-      "url": "https://open.spotify.com/track/6arLnfArtdWKOcCYzDd4rS"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
         "name": "Wide Open",
         "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
       },
@@ -1347,6 +1247,22 @@
       "duration_ms": 183440,
       "name": "Crazy Town",
       "url": "https://open.spotify.com/track/5eH1ktZDHgegpkYJOY7tme"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Nowhere Fast",
+      "url": "https://open.spotify.com/track/6arLnfArtdWKOcCYzDd4rS"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1407,22 +1323,6 @@
       "duration_ms": 175333,
       "name": "Cool Again (feat. Nelly)",
       "url": "https://open.spotify.com/track/6SyYYyVnwYD7ovF5CdMOJp"
-    },
-    {
-      "added_at": "2021-12-22 17:48:04",
-      "album": {
-        "name": "Old Dominion",
-        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "Never Be Sorry",
-      "url": "https://open.spotify.com/track/1TP0hha5wan1xwKjGcNSCv"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1523,6 +1423,22 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
+        "name": "Old Dominion",
+        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "Never Be Sorry",
+      "url": "https://open.spotify.com/track/1TP0hha5wan1xwKjGcNSCv"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
         "name": "We Go Together Like",
         "url": "https://open.spotify.com/album/1Rd2aYLTapfmSk66US3nlq"
       },
@@ -1591,6 +1507,26 @@
       "duration_ms": 191202,
       "name": "What Ifs (Remix) (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/7dDq3MWjdEyTh0d0L3C4FX"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "Hey World",
+        "url": "https://open.spotify.com/album/7ef9XoJzqPcymXqYwi5WKw"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "I Hope You're Happy Now",
+      "url": "https://open.spotify.com/track/2HWfXtWFeZpejgYSB3WZnV"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1667,6 +1603,38 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/47LPvdUaFxP5wjUgXo4N7N"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 164733,
+      "name": "Hell On The Heart",
+      "url": "https://open.spotify.com/track/5cJFT6Gi1M96XaxVgWRG0V"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "Lady Like (Deepend Remix)",
+        "url": "https://open.spotify.com/album/5TmitZ50PrIXZLr0Q9OsvD"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Lady Like - Deepend Remix",
+      "url": "https://open.spotify.com/track/02s4EO6gl9uxfu1JziEIkZ"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
         "name": "Be Like That (Remixes) - EP",
         "url": "https://open.spotify.com/album/1K2v28dprTdyqm7QF0ffP3"
       },
@@ -1695,18 +1663,18 @@
     {
       "added_at": "2021-12-22 17:48:04",
       "album": {
-        "name": "Lady Like (Deepend Remix)",
-        "url": "https://open.spotify.com/album/5TmitZ50PrIXZLr0Q9OsvD"
+        "name": "Country Again (Side A / Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/7lzkTI4eeOk55C0kMj5waG"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Lady Like - Deepend Remix",
-      "url": "https://open.spotify.com/track/02s4EO6gl9uxfu1JziEIkZ"
+      "duration_ms": 171333,
+      "name": "What\u2019s Your Country Song",
+      "url": "https://open.spotify.com/track/1dHLPdPRWvcFAr1Q3EsGoc"
     },
     {
       "added_at": "2021-12-22 17:48:04",
@@ -1731,6 +1699,38 @@
       "duration_ms": 169200,
       "name": "Thought This Through (Talegate Remix)",
       "url": "https://open.spotify.com/track/53TqaPbE50nemoHs23g5ca"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "NOW That's What I Call Country, Vol. 12",
+        "url": "https://open.spotify.com/album/54OQHyBWoEryytqdFYdcuN"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "Blue Tacoma",
+      "url": "https://open.spotify.com/track/5RG6ZIXlq18YQV5FYFFTh2"
+    },
+    {
+      "added_at": "2021-12-22 17:48:04",
+      "album": {
+        "name": "Raise the Roof: Country Bands",
+        "url": "https://open.spotify.com/album/4kMCDPXSMkMqemqwFusN4S"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Jump Right In",
+      "url": "https://open.spotify.com/track/5B9CEL546CbOhCJst03lqh"
     }
   ],
   "unique_name": "Country Cardio",

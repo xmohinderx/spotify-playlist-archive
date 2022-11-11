@@ -4,7 +4,7 @@
 
 > Enjoy M.Net's dance battle show Street Dance Girls Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿댄스 걸스 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-42 songs - 2 hr 4 min - [published](https://open.spotify.com/playlist/47RuOfSLUImp6TQPHwDiwX)
+43 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/47RuOfSLUImp6TQPHwDiwX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [BAD GIRL \(Prod\. Czaer\)](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) | [LACHICA](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 3:14 | 2022-01-14 |  |
 | [Bada Boom \(With MISMOLLY, TURNS\)](https://open.spotify.com/track/7010GzT5bbMuQ4fWTMbpKz) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 2:56 | 2022-01-14 |  |
 | [Beethoven Virus](https://open.spotify.com/track/299X2r8Ei0ecTat3CdmdaA) | [Diana](https://open.spotify.com/artist/2Zmqdz7cF17LbLOz3Kwnqg) | [Beethoven Virus](https://open.spotify.com/album/2wAcELxSyvFr5qYCvb558O) | 3:39 | 2022-01-14 |  |
-| [BOOM](https://open.spotify.com/track/4cs99TEADEOcGm5DRRFyOw) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [CLUBLIFE, VOL\. 5: CHINA](https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0) | 2:34 | 2022-01-14 |  |
+| [BOOM](https://open.spotify.com/track/62gbQZhHl027Bx9OZSafnf) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Shut Up Lets Dance \(Vol\. II\)](https://open.spotify.com/album/1BpfvEJYvNSqGs5fvZ7fTi) | 2:33 | 2022-01-14 |  |
+| [BOOM](https://open.spotify.com/track/4cs99TEADEOcGm5DRRFyOw) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [CLUBLIFE, VOL\. 5: CHINA](https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0) | 2:34 | 2022-01-14 | 2022-11-11 |
 | [BOOM](https://open.spotify.com/track/7Mq3vRtwjRdDTxpQXrS8k6) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [BOOM](https://open.spotify.com/album/5oe0zIjAU9pD4vinHLR0Eq) | 2:34 | 2022-01-14 | 2022-07-29 |
 | [Buzina](https://open.spotify.com/track/7fP2cpq8jUlXz3h2QfEpgs) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:17 | 2022-01-14 |  |
 | [CAVIAR](https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5) | [CocaNButter](https://open.spotify.com/artist/2S9wwY3J0HrwZHZ6vRPl2q), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:27 | 2022-01-14 |  |

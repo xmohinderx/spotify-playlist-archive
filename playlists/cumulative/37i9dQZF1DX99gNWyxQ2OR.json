@@ -74,6 +74,28 @@
     },
     {
       "album": {
+        "name": "The Moonlight Sonata",
+        "url": "https://open.spotify.com/album/1jeKChsYJLpa5X41zoRTGv"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334053,
+      "name": "Chopin: Nocturne No.1 in B flat minor, Op.9 No.1",
+      "url": "https://open.spotify.com/track/6jgH6vB3M5wUCvy46vZnba"
+    },
+    {
+      "album": {
         "name": "Chopin: Nocturnes",
         "url": "https://open.spotify.com/album/7k54RTWZdOVQqMR5torR0n"
       },
@@ -265,7 +287,7 @@
       ],
       "date_added": "2020-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 334053,
       "name": "Nocturne No. 1 in B flat minor, Op. 9 No. 1",
       "url": "https://open.spotify.com/track/7vIJwiFD2FKiulXzCDMvc4"
@@ -331,10 +353,32 @@
       ],
       "date_added": "2020-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 343000,
       "name": "Nocturne No. 12 in G Major, Op. 37, No. 2",
       "url": "https://open.spotify.com/track/6EriOgK7cLzYsnNEHTnY36"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes",
+        "url": "https://open.spotify.com/album/62MhxWgysS1Dbe4fCIMHUw"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344640,
+      "name": "Nocturne No. 12 in G Major, Op. 37, No. 2",
+      "url": "https://open.spotify.com/track/5afaoMCUH7eNssI6PJgPGC"
     },
     {
       "album": {
@@ -441,10 +485,28 @@
       ],
       "date_added": "2020-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 259853,
       "name": "Nocturne No. 2 in E flat, Op. 9 No. 2",
       "url": "https://open.spotify.com/track/7FgdNdHsetCQXksQpeGabM"
+    },
+    {
+      "album": {
+        "name": "Working from Home Classical",
+        "url": "https://open.spotify.com/album/1Ot45u8vTs7z6QH7emCCGp"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259853,
+      "name": "Nocturne No. 2 in E flat, Op. 9 No. 2",
+      "url": "https://open.spotify.com/track/0bN0UjQPOtrzPBVA0E2Bw1"
     },
     {
       "album": {
@@ -463,10 +525,32 @@
       ],
       "date_added": "2020-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 229000,
       "name": "Nocturne No. 5 in F-Sharp Major, Op. 15, No. 2",
       "url": "https://open.spotify.com/track/6nnGjPFUxesSjLCyATfpdD"
+    },
+    {
+      "album": {
+        "name": "Become an Instant Expert: Chopin",
+        "url": "https://open.spotify.com/album/6bEOIlQ9qaGFXzUPiLLVKT"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229093,
+      "name": "Nocturne No. 5 in F-Sharp Major, Op. 15, No. 2",
+      "url": "https://open.spotify.com/track/1Xpk5AoYnSfUWYrQHzLezk"
     },
     {
       "album": {

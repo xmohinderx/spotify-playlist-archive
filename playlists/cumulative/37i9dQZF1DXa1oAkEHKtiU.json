@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Nacional Records Esenciales: Chile",
+        "url": "https://open.spotify.com/album/2PSuiUqwHHlW8C993bssMB"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351626,
+      "name": "Ahora Que No Estas",
+      "url": "https://open.spotify.com/track/5CZCd2o6GTom7hnWajd488"
+    },
+    {
+      "album": {
         "name": "Vida De Perros",
         "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 351642,
       "name": "Ahora Que No Estas",
       "url": "https://open.spotify.com/track/4YtvPDN9v12yXIwRdGWXYz"
@@ -239,10 +257,28 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 245386,
       "name": "Deudas",
       "url": "https://open.spotify.com/track/6xYHwad51a4ViDXwbWaZTT"
+    },
+    {
+      "album": {
+        "name": "Vibras Nacionales: Chile",
+        "url": "https://open.spotify.com/album/3RGh5HGqmqSochs9N5SOpL"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249373,
+      "name": "Deudas",
+      "url": "https://open.spotify.com/track/0Gst0BwcodZoNptKxDqhLS"
     },
     {
       "album": {
@@ -347,10 +383,28 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 207626,
       "name": "El Necio",
       "url": "https://open.spotify.com/track/2y3TFms2edlkSu1Vya4cFb"
+    },
+    {
+      "album": {
+        "name": "CANTAR COCINANDO",
+        "url": "https://open.spotify.com/album/1XtnSag2DrhhcdF00Hc8uL"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208066,
+      "name": "El Necio",
+      "url": "https://open.spotify.com/track/6wW2j9QMWMYgMY4Vi4vmCu"
     },
     {
       "album": {
@@ -401,10 +455,28 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 275026,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/0r2TxXdotE9RYmbhZVcPbx"
+    },
+    {
+      "album": {
+        "name": "Hitazos Chilenos",
+        "url": "https://open.spotify.com/album/26w9xibbK5aIvP4DUQGGHb"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276106,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/2TLYVIvSXDBE5yRLG9yP3B"
     },
     {
       "album": {
@@ -441,10 +513,32 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 286360,
       "name": "La Era Esta Pariendo Un Coraz\u00f3n",
       "url": "https://open.spotify.com/track/02JGvW8R5DQ7a7bCu75Y0T"
+    },
+    {
+      "album": {
+        "name": "Grito Latinoamericano",
+        "url": "https://open.spotify.com/album/2mKCOt1cUwMvJqFY2T6JQy"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286666,
+      "name": "La Era Esta Pariendo Un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0AFeaPSiGG4yQN2MJMuwjD"
     },
     {
       "album": {
@@ -621,10 +715,28 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 239080,
       "name": "Me Muelen A Palos",
       "url": "https://open.spotify.com/track/6JG0gpvOG87SkMWClf5yFx"
+    },
+    {
+      "album": {
+        "name": "Chile Rock Hits",
+        "url": "https://open.spotify.com/album/7aooI3K7JJVYXrMJPXSP84"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239106,
+      "name": "Me Muelen A Palos",
+      "url": "https://open.spotify.com/track/7bqKCZXhKnhWeP64hK5J2R"
     },
     {
       "album": {
@@ -639,7 +751,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 238422,
       "name": "Mientele",
       "url": "https://open.spotify.com/track/2D7i2dmTCqHMlWFa0pz3Kw"
@@ -661,6 +773,24 @@
       "duration_ms": 250666,
       "name": "Mira lo que dicen sobre nuestro amor",
       "url": "https://open.spotify.com/track/0auop5V4gFKXYwQu56Bkdp"
+    },
+    {
+      "album": {
+        "name": "Vida de Perros",
+        "url": "https://open.spotify.com/album/6GWKx06gvqMvKrDECSuYx4"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238386,
+      "name": "Mi\u00e9ntele",
+      "url": "https://open.spotify.com/track/3GISWjNRCtkaReipcMY7Fr"
     },
     {
       "album": {
@@ -909,10 +1039,28 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 217906,
       "name": "Qui\u00e9n Fuera",
       "url": "https://open.spotify.com/track/3hkX3WJXFykBE9ZlaBTWkQ"
+    },
+    {
+      "album": {
+        "name": "S\u00e1bado Rockero",
+        "url": "https://open.spotify.com/album/1vQUiaOHqGsWLTsuKsCDSc"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218120,
+      "name": "Qui\u00e9n Fuera",
+      "url": "https://open.spotify.com/track/5LkCTdFnh4JYEJSLcePrO1"
     },
     {
       "album": {
@@ -934,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Esp\u00edritu Rockero",
+        "url": "https://open.spotify.com/album/1VTZeXXUXBsCWUFmo8fI82"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197120,
+      "name": "Santiago De Chile",
+      "url": "https://open.spotify.com/track/0gqzqEngpHP7yMMLTlg2vP"
+    },
+    {
+      "album": {
         "name": "M\u00fasica Libre",
         "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
       },
@@ -945,7 +1111,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 197386,
       "name": "Santiago De Chile",
       "url": "https://open.spotify.com/track/3D4iziSjHi4jxG8r4pta7z"
@@ -999,10 +1165,28 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 264800,
       "name": "Sue\u00f1o Con Serpientes",
       "url": "https://open.spotify.com/track/2zJzHDjhHYD61j6kBzL3aO"
+    },
+    {
+      "album": {
+        "name": "Tiempos Rockeros",
+        "url": "https://open.spotify.com/album/7hD7sehxKwFUTOkicq3R2F"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265080,
+      "name": "Sue\u00f1o Con Serpientes",
+      "url": "https://open.spotify.com/track/1mD64rMFuAOUfzU3WIzUCT"
     },
     {
       "album": {
@@ -1107,10 +1291,28 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 233666,
       "name": "Una Nube Cuelga Sobre M\u00ed",
       "url": "https://open.spotify.com/track/56ZuPaIa3XjagOfzRDmMBV"
+    },
+    {
+      "album": {
+        "name": "Atardeceres Rockeros",
+        "url": "https://open.spotify.com/album/27Pv1OjUBDl6opcY1yDzOu"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234106,
+      "name": "Una Nube Cuelga Sobre M\u00ed",
+      "url": "https://open.spotify.com/track/2MSJ50aq8QDUguqpb49FR8"
     },
     {
       "album": {
@@ -1150,6 +1352,24 @@
     },
     {
       "album": {
+        "name": "Vida de Perros",
+        "url": "https://open.spotify.com/album/6GWKx06gvqMvKrDECSuYx4"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215573,
+      "name": "Vida de Perros",
+      "url": "https://open.spotify.com/track/6cls8mj5tJbn0VSwSzIkvg"
+    },
+    {
+      "album": {
         "name": "Vida De Perros",
         "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
       },
@@ -1161,7 +1381,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215574,
       "name": "Vida De Perros",
       "url": "https://open.spotify.com/track/7xQqhz5NJSJaj8WDZnfarb"

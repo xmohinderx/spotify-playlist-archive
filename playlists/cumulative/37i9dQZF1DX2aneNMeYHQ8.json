@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Are You Lonely?",
+        "url": "https://open.spotify.com/album/7l2FsWO6LWEm59nB0D1p4J"
+      },
+      "artists": [
+        {
+          "name": "Welshly Arms",
+          "url": "https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216046,
+      "name": "Are You Lonely?",
+      "url": "https://open.spotify.com/track/689PWNk0TnldBMjeypSROW"
+    },
+    {
+      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 195358,
       "name": "Bad Spell",
       "url": "https://open.spotify.com/track/3xMat5dBN7UXgK8a6E8n93"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187319,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/5FV4pXdYZzG9CYcHDLkGHl"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 198946,
       "name": "Hanging by a Thread",
       "url": "https://open.spotify.com/track/5VI2qNOcabWt6RNJuApYHX"
@@ -2033,6 +2051,24 @@
       "duration_ms": 293866,
       "name": "Living Proof",
       "url": "https://open.spotify.com/track/6bIXN4xCot0hiEfzl2xFZR"
+    },
+    {
+      "album": {
+        "name": "LONEDON",
+        "url": "https://open.spotify.com/album/6hVb6tsYyQ6nD7nDpgfRe6"
+      },
+      "artists": [
+        {
+          "name": "The Skinner Brothers",
+          "url": "https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194296,
+      "name": "LONEDON",
+      "url": "https://open.spotify.com/track/7IFvkycsxZNtfdl2htZgFr"
     },
     {
       "album": {
@@ -2838,6 +2874,24 @@
     },
     {
       "album": {
+        "name": "HELGMYS",
+        "url": "https://open.spotify.com/album/3T6WfgQ7b6evh5m2cHm81h"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/2kzb2c50m1prBuB1m9rhTZ"
+    },
+    {
+      "album": {
         "name": "Run Away to Mars",
         "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
       },
@@ -2849,7 +2903,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
@@ -3141,7 +3195,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 216578,
       "name": "Spilt Salt",
       "url": "https://open.spotify.com/track/7BhkpF9Ns7hExArAv8E1X2"
@@ -3667,7 +3721,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192621,
       "name": "The Magic",
       "url": "https://open.spotify.com/track/09AXTeXynbiu9RyyHzs07h"
@@ -3833,7 +3887,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187750,
       "name": "Try Better Next Time",
       "url": "https://open.spotify.com/track/7jxR5vYnUhwE6niPPyzR4V"

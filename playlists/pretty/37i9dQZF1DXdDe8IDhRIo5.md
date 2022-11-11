@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,914 likes - 74 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,957 likes - 74 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 9 | [For Holzmanno](https://open.spotify.com/track/47c3TmiRM2lM3KKj1ifmq6) | [Wawau Adler](https://open.spotify.com/artist/2QDPltFMWXJLLfrGkjZ4xk) | [I Play With You](https://open.spotify.com/album/5u4hs4jrr8WAIimJysMUXr) | 3:53 |
 | 10 | [Avalon](https://open.spotify.com/track/2yzyvggVHHtSN3H57lFHuR) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Avalon](https://open.spotify.com/album/1iAs2iKTFAL98vSxew3LrT) | 2:06 |
 | 11 | [Coucou](https://open.spotify.com/track/5whsPGYSk2FMFCkluUkp6I) | [Tchavolo Schmitt](https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY) | [Coucou](https://open.spotify.com/album/5ZPSCr10M050pYwZM2lDyn) | 2:56 |
-| 12 | [Bleu Citron](https://open.spotify.com/track/6Vs3qEiLCzmBn40AcAdmz2) | [Dorado Schmitt](https://open.spotify.com/artist/7aWOYLUnhaq2h9ZbIHMJbH) | [Family](https://open.spotify.com/album/5v7GXGOc7A343BupHvvucS) | 2:31 |
+| 12 | [Bleu Citron](https://open.spotify.com/track/4E1Y6ViVZgUGT9VfYJeu1E) | [Dorado Schmitt](https://open.spotify.com/artist/7aWOYLUnhaq2h9ZbIHMJbH) | [Generation Django](https://open.spotify.com/album/6NBPxHPAuFKtpEOnBwC7ru) | 2:30 |
 | 13 | [Noto Swing](https://open.spotify.com/track/5K1EggH1ukqNIDZy2KA9eK) | [Harmonious Wail](https://open.spotify.com/artist/0oiYyKo8F9Bm80L02whvQ1) | [Noto Swing](https://open.spotify.com/album/0ITVfCNkcYnevE5V86zL30) | 3:23 |
 | 14 | [Love Me Tender \- Live](https://open.spotify.com/track/2UiOwot9OQnG8HEx6hzifH) | [Stephan, Joscho feat\. Lagrène, Biréli](https://open.spotify.com/artist/1AA2rqygbiWb7fpU4FoLne) | [Guitar Heroes \- Live](https://open.spotify.com/album/2e6icSnoxjhW5mReyWj4Dp) | 6:26 |
 | 15 | [Djangology](https://open.spotify.com/track/42gtiaKzcoCMEOLkiuYf4U) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Djangology](https://open.spotify.com/album/25QeMhEESQIg9oDVPq9chK) | 3:24 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 47 | [Blue Bossa](https://open.spotify.com/track/34x5AhvVgbLhebznYRBrSO) | [Jimmy Rosenberg](https://open.spotify.com/artist/6tq9JKuE6vPDbQw5EiXLwn) | [Trio](https://open.spotify.com/album/7BMdSO57gHOuHihr4o95Bg) | 3:38 |
 | 48 | [Je suis en amour](https://open.spotify.com/track/6AHft4gweShwU086omcQTE) | [Steeve Laffont](https://open.spotify.com/artist/0redyV7MGTS7VmhcgfEBTX) | [Enamoromaï](https://open.spotify.com/album/6ZujwfBhiTxkIkDGZi2yvq) | 2:58 |
 | 49 | [Manha de Carnaval](https://open.spotify.com/track/06jmkrbrUZ7HEh2eEzPJZh) | [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu), [Mozes](https://open.spotify.com/artist/4uRpFQ2D51xyz2O4V9pqon), [Johnny Rosenberg](https://open.spotify.com/artist/4Vmy9w1GyZZ0qId7ZKmkB6) | [La Familia](https://open.spotify.com/album/6ZUxCJngtDjEGevpeyHuTd) | 5:11 |
-| 50 | [So What](https://open.spotify.com/track/7c8IwsVo5x0h4slsVwpZEQ) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS), [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Summertime](https://open.spotify.com/album/3YSRvMEnhwmDPCzy9wFysG) | 4:07 |
+| 50 | [So What](https://open.spotify.com/track/7FdobqGYDzI6RSwxxMiSGe) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS), [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Dreyfus Jazz Club: In the Mood of..\. Miles](https://open.spotify.com/album/1lalwbHB3KsXVRIfn0sAve) | 4:09 |
 | 51 | [Bell Island](https://open.spotify.com/track/2iXRqsbI6Dbrj8o9hwn0g8) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Raindrops](https://open.spotify.com/album/2rVYD2MHeWZ7qwQ7hIVyrW) | 2:50 |
 | 52 | [Jeannine](https://open.spotify.com/track/5NPbHD1vhzh9uFk7qnbGIK) | [Pearl Django](https://open.spotify.com/artist/530l1HsYHzQuOYFBDUOHHo) | [Eleven](https://open.spotify.com/album/30HHrcOOI391zT2vFMTJlS) | 4:31 |
 | 53 | [Trompettes de la renommée](https://open.spotify.com/track/0dNpnqNn3q0tz2HP9ADZOC) | [Les pommes de ma douche](https://open.spotify.com/artist/2851SiC9O0PIsVKjNMtj4f) | [Emules de Django, disciples de Brassens](https://open.spotify.com/album/34wWpd6C8HJTNetiPekD7g) | 3:53 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 73 | [Hungaria](https://open.spotify.com/track/3VtZ7NOQjp3ISCdUvaQvZQ) | [Biréli Lagrène Trio](https://open.spotify.com/artist/0zQ8ZslJkMxLY8xw3E6dp2) | [Move \(feat\. Diego Imbert, Hono Winterstein & Franck Wolf\)](https://open.spotify.com/album/6xTr2LFFbiLsPG5h6PFqGD) | 2:51 |
 | 74 | [For Brassens](https://open.spotify.com/track/0L9mejRz6i3CnI1mGxmeoM) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Tribulations](https://open.spotify.com/album/0KnGsXBLPgociBCuG6DWhZ) | 4:18 |
 
-Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDE3YTQzNzVjYzliYzE1OGY5OTVlOTFlZGNhNjFjMDZj`
+Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDAxM2U1MDA3MGFhNzNjNjIwZjY3YmZlOWMyYzNhOWU3`

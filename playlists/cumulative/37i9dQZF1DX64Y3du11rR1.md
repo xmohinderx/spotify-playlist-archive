@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-125 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
+126 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,8 +74,9 @@
 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 | 2022-02-02 |  |
 | [Lonely \- Acoustic Piano](https://open.spotify.com/track/12AKFQyF4FaQY4AKYqBUvc) | [We Rabbitz](https://open.spotify.com/artist/05Zr3tq3xPIxChT2JfMDCe) | [Lonely \(Remix\)](https://open.spotify.com/album/0g8fDP339rvtttYJdPv5OO) | 2:29 | 2021-12-22 |  |
 | [Love Is a Battlefield](https://open.spotify.com/track/2d4ucQh3TOwWiwCcBcnu37) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 3:41 | 2022-06-15 |  |
-| [Love Will Tear Us Apart](https://open.spotify.com/track/2fqx5MvWamArHztg7cG1iy) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Covers, Vol\. 1](https://open.spotify.com/album/0e1s7jQdJ0VsdzSnMXAPX9) | 3:27 | 2022-10-13 |  |
+| [Love Will Tear Us Apart](https://open.spotify.com/track/2fqx5MvWamArHztg7cG1iy) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Covers, Vol\. 1](https://open.spotify.com/album/0e1s7jQdJ0VsdzSnMXAPX9) | 3:27 | 2022-10-13 | 2022-11-11 |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/2kakyWs2a0G4btnhj0l1Eg) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Love Will Tear Us Apart](https://open.spotify.com/album/4MaNHSLIC0Skopb065UTqB) | 3:27 | 2022-08-12 | 2022-11-08 |
+| [Love Will Tear Us Apart](https://open.spotify.com/track/7I1FgQFHdNqpjcvzxfDfTK) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Your Song](https://open.spotify.com/album/17wpR31pu1gRi2OHilvbdY) | 3:27 | 2022-10-13 |  |
 | [Metal Firecracker](https://open.spotify.com/track/1iyciPIHuwVNweVNK4B7W4) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Metal Firecracker](https://open.spotify.com/album/6ekpJfCyu7dBPwLOxOBmlh) | 3:56 | 2022-06-15 |  |
 | [Mirrors \- Acoustic](https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/1Lobc5m485WYXK0icerSTM) | 3:44 | 2021-12-22 | 2022-07-29 |
 | [Mirrors \- Acoustic](https://open.spotify.com/track/4AYITlwiumljGdv0NIGR4T) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/0m5G4XqzE3BjpbtiLO4aUC) | 3:44 | 2022-07-26 |  |

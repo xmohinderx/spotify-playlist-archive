@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Techno is a state of mind. Cover: Anyma",
+  "description": "Techno is a state of mind. Cover: Prospa",
   "name": "Techno State",
   "published_playlist_ids": [
     "5s19c9YN7LAmpSImXIMXhT"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 243850,
       "name": "Blika",
       "url": "https://open.spotify.com/track/5Jo4Y3kS3o6uXmtw5gHI2Z"
@@ -259,6 +259,24 @@
     {
       "album": {
         "name": "Bodies Of Water",
+        "url": "https://open.spotify.com/album/6alqpbqcg6wlWbgV9uloU3"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304306,
+      "name": "Bodies Of Water",
+      "url": "https://open.spotify.com/track/3b8b4TaeU6eRbWPhMKWold"
+    },
+    {
+      "album": {
+        "name": "Bodies Of Water",
         "url": "https://open.spotify.com/album/6IlPSsw7R1M7gA69yom1OY"
       },
       "artists": [
@@ -287,7 +305,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 304306,
       "name": "Bodies Of Water",
       "url": "https://open.spotify.com/track/5649TeZnAjSa6ENwPKG6h8"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 269559,
       "name": "Harder Now",
       "url": "https://open.spotify.com/track/2X8XhkI3gPI710ah4KDqKs"
@@ -1176,6 +1194,28 @@
     },
     {
       "album": {
+        "name": "Is Mine",
+        "url": "https://open.spotify.com/album/1KSDLMWVPRjKQgxafjrdJR"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        },
+        {
+          "name": "Valeria Mancini",
+          "url": "https://open.spotify.com/artist/2npPeervUSog9B67xmw4h9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344888,
+      "name": "Is Mine",
+      "url": "https://open.spotify.com/track/2OVKwL3wYbbaKjGTCKS0Cc"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
       },
@@ -1245,7 +1285,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 322031,
       "name": "Leela",
       "url": "https://open.spotify.com/track/6FbdCNOZ4ldJPi43Rf01iE"
@@ -1289,6 +1329,24 @@
       "duration_ms": 272250,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv"
+    },
+    {
+      "album": {
+        "name": "Made 4 U",
+        "url": "https://open.spotify.com/album/058gfK0rY6EBqx6xdXxBMp"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219187,
+      "name": "Made 4 U",
+      "url": "https://open.spotify.com/track/2gqoaVqj3suM9DAkeBgUKD"
     },
     {
       "album": {
@@ -1364,6 +1422,24 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/29X0F2UY0U5C09Id4orzp3"
+      },
+      "artists": [
+        {
+          "name": "KetaMyk",
+          "url": "https://open.spotify.com/artist/0CsWDiY6VeJf5Zbsd6b7Lp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300489,
+      "name": "Metaphysical",
+      "url": "https://open.spotify.com/track/6E33IvQYP6gvjwEVLNNcCv"
+    },
+    {
+      "album": {
         "name": "Metaphysical",
         "url": "https://open.spotify.com/album/14yXH9auX3hfPGt2l7b7rS"
       },
@@ -1393,7 +1469,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 303446,
       "name": "Metaphysical",
       "url": "https://open.spotify.com/track/7yzrZU9VSpyb7WY8hfiCAc"
@@ -1447,7 +1523,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 181922,
       "name": "Morning Glow - Edit",
       "url": "https://open.spotify.com/track/0TwiKyrgJ7dRykmg5jpjHH"
@@ -1918,6 +1994,24 @@
     },
     {
       "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221669,
+      "name": "Resonate",
+      "url": "https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7"
+    },
+    {
+      "album": {
         "name": "Restore My Soul (Remix)",
         "url": "https://open.spotify.com/album/7bfdsv9IXDHvBwIYrDDCDs"
       },
@@ -1998,6 +2092,24 @@
     },
     {
       "album": {
+        "name": "RRR+1",
+        "url": "https://open.spotify.com/album/6puplqfxGxOSVrbcj3WaS3"
+      },
+      "artists": [
+        {
+          "name": "Giant Swan",
+          "url": "https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325000,
+      "name": "RRR+1",
+      "url": "https://open.spotify.com/track/2ogYAW8UveCqjO24py3lgx"
+    },
+    {
+      "album": {
         "name": "Steel City Dance Discs Volume 26",
         "url": "https://open.spotify.com/album/0jr9JA5xqnDWwua5iIAzoE"
       },
@@ -2009,10 +2121,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 278234,
       "name": "Saint Laurent - Edit",
       "url": "https://open.spotify.com/track/74P8aG2JMc4zEjukAehBsq"
+    },
+    {
+      "album": {
+        "name": "G-TOWN 004",
+        "url": "https://open.spotify.com/album/6ZjDUentC0nfycxUrOrOJi"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331620,
+      "name": "Samba Soccer 2001",
+      "url": "https://open.spotify.com/track/7wcacHDJCcVOjGYICN9rea"
     },
     {
       "album": {

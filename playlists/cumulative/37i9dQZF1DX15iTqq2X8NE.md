@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-119 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
+120 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A'abir Sikkah](https://open.spotify.com/track/3Ofk3PAr8Zkp8Ut7YNc3Bq) | [Abdel Gadir Salim](https://open.spotify.com/artist/3Veb31WLtJfmDbXk3zm3xd) | [Nujum Al\-lail](https://open.spotify.com/album/5cdR3DjaQ7Qx5UEHvUfv7j) | 8:09 | 2021-12-09 | 2022-07-28 |
 | [Afta'h Albab](https://open.spotify.com/track/0GE8ZWfe1ohvn1Rf5FbxLC) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Let Me Be](https://open.spotify.com/album/2b8jkXLchoqaLrY2tHFNxG) | 4:32 | 2021-12-09 | 2022-07-28 |
 | [Agabony](https://open.spotify.com/track/00EfH4456NhY3RIMpBH3yP) | [Sharief Elfehail](https://open.spotify.com/artist/4bBWBw0jxg6rlIx4GpTuLC) | [Agabony](https://open.spotify.com/album/0y8Z1R9rnVv5a87fx7scp0) | 4:34 | 2021-12-09 | 2022-07-29 |
-| [Agricultural Revolution](https://open.spotify.com/track/2soh1ERhew5bGSU28eIAZg) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 5:07 | 2022-07-28 |  |
+| [Agricultural Revolution](https://open.spotify.com/track/2soh1ERhew5bGSU28eIAZg) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 5:07 | 2022-07-28 | 2022-11-11 |
 | [Agricultural Revolution](https://open.spotify.com/track/5eoW1Ke2adtl6zuEc6hbjy) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Agricultural Revolution / Al Asafir](https://open.spotify.com/album/5bSVJ7ylub0b0Ihf4tDadW) | 5:07 | 2021-12-09 | 2022-07-27 |
 | [Ahel Allel](https://open.spotify.com/track/7km3RkjOhMJFs0N5kMuFot) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [View From Somewhere](https://open.spotify.com/album/3Kv4BSX3GJrngRKK61JKR8) | 5:08 | 2021-12-09 | 2022-09-20 |
 | [Ahla Eyyoun](https://open.spotify.com/track/3t6mDLyrhHgRfcZErr5N9G) | [Abdel Aziz El Mubarak](https://open.spotify.com/artist/7rl7hf7PUimWwI7hBLQ6bB) | [Abdel Aziz El Mubarak](https://open.spotify.com/album/3GSWzFJZ0lgJAFrNOv9l8d) | 6:44 | 2021-12-09 | 2022-07-29 |
@@ -116,6 +116,7 @@
 | [Ya Sudan \- Alive At Spacebomb Studios](https://open.spotify.com/track/1YpnoEzbd883QqxoV7BkcE) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w) | [Ya Sudan \(Alive At Spacebomb Studios\)](https://open.spotify.com/album/2Dp2bjaqbtGWdhV2v2kXeU) | 3:09 | 2021-12-09 | 2022-07-23 |
 | [Zaman Maf](https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk), [A7MD](https://open.spotify.com/artist/4lG8ClDdSczGV2g7b2G7Qx) | [Zaman Maf](https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3) | 3:38 | 2021-12-09 | 2022-09-16 |
 | [أبوي الشيخ](https://open.spotify.com/track/2MWqdeZ3ZOtGJfyk2l2zhw) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أبوي الشيخ](https://open.spotify.com/album/0XpBJBDh0CE3lWPhFeO5kJ) | 3:02 | 2022-07-13 | 2022-11-04 |
+| [أبوي الشيخ‎ \(feat\. Ali Naseraldeen\)](https://open.spotify.com/track/2LaqDKPXxtJOtIiN56G6cx) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أبوي الشيخ \(feat\. Ali Naseraldeen\)‎](https://open.spotify.com/album/0jv9jFilvRshD4DZ61UxLr) | 3:02 | 2022-10-27 |  |
 | [أهل العمار](https://open.spotify.com/track/5w4ei3ImB3MjVIhyXWDbYU) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أهل العمار](https://open.spotify.com/album/7jCvs21LFCE7FrXFgs7vv9) | 3:47 | 2022-07-29 | 2022-11-05 |
 | [أهل العمار \(feat\. Ali Naseraldeen\)](https://open.spotify.com/track/1poqei4HbPw5lN3UL1rWKv) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أهل العمار \(feat\. Ali Naseraldeen\)](https://open.spotify.com/album/2OUH1uzap9sVVbo9D5DBpS) | 3:47 | 2022-10-27 |  |
 | [الحزن النبيل](https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I) | [Mostafa Sid Ahmed](https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO) | [الحزن النبيل](https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj) | 11:28 | 2022-07-29 | 2022-11-09 |

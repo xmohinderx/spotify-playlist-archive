@@ -4,7 +4,7 @@
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-86 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
+87 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Vibrant](https://open.spotify.com/track/2xQAAd2pCT7q2HlWffAaMh) | [Stokley](https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Vibrant](https://open.spotify.com/album/5v0gnKHa0ZMf4EgxmZlZYU) | 4:08 | 2021-10-22 | 2022-09-10 |
 | [Wanna Love You](https://open.spotify.com/track/09xccZVuNwd9vP7abwZkyu) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Wanna Love You](https://open.spotify.com/album/2ROfHzFMBfzgvx6IsQIgZB) | 2:50 | 2022-02-18 |  |
 | [We Don't Funk](https://open.spotify.com/track/3waaRJJlv7BIAxDeq9lCuY) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [We Don't Funk](https://open.spotify.com/album/2u59NynIjtaoYnryhv4HjD) | 2:02 | 2021-10-22 | 2022-07-23 |
-| [Western World](https://open.spotify.com/track/5ddmxLYw9cZ6Chhm4LtwwV) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Cosmic Wind](https://open.spotify.com/album/1Li3XvJ8VzO0QqZnNkKt3k) | 4:13 | 2022-02-18 |  |
+| [Western World](https://open.spotify.com/track/0KuppmJTVdK9eW91d2URem) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Western World](https://open.spotify.com/album/6Jx2HJlfd4PhFEaYJlqcZO) | 4:13 | 2022-02-18 |  |
+| [Western World](https://open.spotify.com/track/5ddmxLYw9cZ6Chhm4LtwwV) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Cosmic Wind](https://open.spotify.com/album/1Li3XvJ8VzO0QqZnNkKt3k) | 4:13 | 2022-02-18 | 2022-11-11 |
 | [Western World](https://open.spotify.com/track/6SKQvtF2QMELjqpnAyrH6O) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Western World](https://open.spotify.com/album/5v9nVNjfCMUFjzWRiOboag) | 4:13 | 2021-10-22 | 2022-10-13 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

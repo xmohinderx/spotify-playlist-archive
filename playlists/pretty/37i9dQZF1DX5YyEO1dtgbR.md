@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 
 > Experimental electronic beyond the borders of tradition.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,128 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,155 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 20 | [Cloud Monolith](https://open.spotify.com/track/1FqpWvcB1OI0Bu9EKfqFvU) | [Plant43](https://open.spotify.com/artist/1Knqr98gY1JxSElifR2aNW) | [Unknown Structure](https://open.spotify.com/album/17PkXX1GEZnmKbSa6yU49z) | 7:50 |
 | 21 | [Leith Tornn Carnal](https://open.spotify.com/track/0IqVaR2qBKCJR1CTiwkRkm) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Leith Tornn Carnal](https://open.spotify.com/album/4jLLZsUlWXuo3OS5HpLbxa) | 4:08 |
 | 22 | [Midnight Shift](https://open.spotify.com/track/7prfaRBYep3c2sDfpKWGlS) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Midnight Shift](https://open.spotify.com/album/7LWahcOy2qcTH9YvWOOIB6) | 5:12 |
-| 23 | [C Tactile Afferent](https://open.spotify.com/track/2dU5DUznREcTPqYWAJ9Tfr) | [Ola Szmidt](https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw) | [C Tactile Afferent](https://open.spotify.com/album/1CWNJ9shSWo3196zTfcIrK) | 3:36 |
+| 23 | [C Tactile Afferent](https://open.spotify.com/track/4Y5JEE4eCZMLHLabFnYRlZ) | [Ola Szmidt](https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw) | [EP3](https://open.spotify.com/album/1RHgnWKIh4AKnz1iTfxgVt) | 3:36 |
 | 24 | [Ringinglow Oscillation](https://open.spotify.com/track/6u9P4TywnzUBclpceGqlHE) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Dubs: Volume 1](https://open.spotify.com/album/2niP4AM8tXCckxfN3fX9du) | 3:58 |
 | 25 | [White Picket Fence](https://open.spotify.com/track/3Jl1wfkdpzqlX9HdIgrOSM) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 2:58 |
-| 26 | [2nd Round](https://open.spotify.com/track/0lrsCibEGQd7uP0eJ7T2bk) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [2nd Round / FFBH](https://open.spotify.com/album/7cjAjQbz0Rdh7UnGFLXQE5) | 2:30 |
+| 26 | [2nd Round](https://open.spotify.com/track/5YEgPSHT3p15YLKEH3XvLc) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Promotional Only](https://open.spotify.com/album/7shRGtt7yoMC1Y6M2QA54K) | 2:30 |
 | 27 | [The Way You Hold Me](https://open.spotify.com/track/561IJM4EsmgVwOd7AWW4vn) | [3STRANGE](https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i) | [The Way You Hold Me](https://open.spotify.com/album/3XkXaWxW8Wo9FK7LnnRMll) | 3:37 |
 | 28 | [Total Reality, Total Chaos \(Part II\)](https://open.spotify.com/track/5AV0WvpgjbVfBddrcxnlXd) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [Total Reality, Total Chaos](https://open.spotify.com/album/4EaLkzfVkLqVNOic2UZr4N) | 16:19 |
-| 29 | [Hoshikuzu Tenboudai](https://open.spotify.com/track/4AnwTVc8llyJ2ekSmAzIFu) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Yasuragi Land](https://open.spotify.com/album/11saLOyIsjX1NsXHIVcpFc) | 2:35 |
+| 29 | [Hoshikuzu Tenboudai](https://open.spotify.com/track/7Iuyi6oEYvNvTmLVtGUf4e) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Hoshikuzu Tenboudai](https://open.spotify.com/album/6ULKihwZta7tDvqryGAotl) | 2:35 |
 | 30 | [Life's Eye](https://open.spotify.com/track/3zqINXbmbLNmp7uO6gXOtj) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [LP2](https://open.spotify.com/album/55sCnDa3AJX3CeSM0pSO8e) | 4:14 |
 | 31 | [Roygbiv](https://open.spotify.com/track/06teMXvgw1V8HP3wIfoMUm) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Roygbiv](https://open.spotify.com/album/2l1FDimk3Ps9g404lYOsjr) | 5:08 |
 | 32 | [Black Rainbow](https://open.spotify.com/track/35fdFuD916UVSJ9BBAlMt4) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Black Rainbow / Moonlight](https://open.spotify.com/album/3OJZNp1l2uBQWXa0YTujmA) | 4:32 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 63 | [Hibernation](https://open.spotify.com/track/0dykLer4S5oYGFhu1oH1XS) | [Know V.A.](https://open.spotify.com/artist/6CgH8qDt4MWQSO8RfI2z8R) | [Hibernation](https://open.spotify.com/album/312rCFSj1Nm77F4SBNcyai) | 3:49 |
 | 64 | [Tikkun Olam](https://open.spotify.com/track/5xWcHNMb1qUwTgo6v2onk6) | [Meemo Comma](https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd) | [Neon Genesis: Soul Into Matter²](https://open.spotify.com/album/28RDpCIWuM4BGx0ztHhakg) | 2:53 |
 | 65 | [Blush](https://open.spotify.com/track/24KzywRHnZa1YLDEbyd2s2) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/59dZbb8QdAs0OCaYEyr8hM) | 3:57 |
-| 66 | [Price of Highest Consciousness](https://open.spotify.com/track/6TGnrFavxJIpTh3KUqEiDO) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Price of Highest Consciousness](https://open.spotify.com/album/2gxXbHgqSqxqzNY1SEPdul) | 6:08 |
+| 66 | [Price of Highest Consciousness](https://open.spotify.com/track/1LqkejkhJzZ01dAO5lH0iS) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [SOS MUSIC VOLUME 1](https://open.spotify.com/album/2sW21vXlX1MNW0VyJLo4LM) | 6:08 |
 | 67 | [Lambert Rise](https://open.spotify.com/track/7txXvBBhA0YB5L3Bopg5e8) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Ambivalent](https://open.spotify.com/album/7dZYB94TjHB1Kub44SK9j9) | 6:34 |
 | 68 | [Endless Tool](https://open.spotify.com/track/5rDDpyOU9QDebInoHQjr4l) | [Gacha Bakradze](https://open.spotify.com/artist/6dZmlzI1H5SGdkQ8dWRY76) | [Obscure Languages](https://open.spotify.com/album/5b673Ugn0tsqzlfgZtebZp) | 4:26 |
-| 69 | [Clumsy](https://open.spotify.com/track/1WuRMsjGs2uGJmjfRNvQfU) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX) | [Rogue Intruder, Soul Enhancer](https://open.spotify.com/album/5GDLaN1HaXPTAx16UYZAvZ) | 4:29 |
+| 69 | [Clumsy](https://open.spotify.com/track/1z8lDUdjkvPD2qQ77eyk58) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX) | [Clumsy](https://open.spotify.com/album/0CrtdlPF3A3UEnElA8RjN1) | 4:29 |
 | 70 | [Deine Augen](https://open.spotify.com/track/5RkjwEQviBKkVDisjJbVSJ) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/7dAYdoahzW8oZgSGHWpfNP) | 5:16 |
 | 71 | [Clouded Temper \| Small Steps](https://open.spotify.com/track/3V0M0Sw0xNb6p4k8gxhAex) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [A Violet Sleep EP](https://open.spotify.com/album/2Sean6tGeNquVJS5jIHxMn) | 7:03 |
 | 72 | [Sympathetic Cycle](https://open.spotify.com/track/7tX0JrCDjtYJRKjeFz7SNH) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [A Violet Sleep EP](https://open.spotify.com/album/2Sean6tGeNquVJS5jIHxMn) | 5:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 74 | [I'll be 20 when I'm 40](https://open.spotify.com/track/4x47gRjGYRRiDGhbdtpnCs) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Patrimony](https://open.spotify.com/album/7olQu6AkixLOum1nfMkZvf) | 5:13 |
 | 75 | [Those Tears of Hutton](https://open.spotify.com/track/49WbV4XtJ5QWJd2m5UrwSg) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [This Moment of Silence](https://open.spotify.com/album/6Zj6qfpTfQCmlyajevOM8z) | 6:15 |
 
-Snapshot ID: `MTY1NTIwNzU2OSwwMDAwMDAwMDQyMTBkNWFjOWE2NzJkNjIyY2IxODRlYzBlNGFiNzY0`
+Snapshot ID: `MTY1NTIwNzU2OSwwMDAwMDAwMDE0Y2I1YjNmYTg3ZDZjMmMyYmQ3NWQxODEzYjEyMzAz`

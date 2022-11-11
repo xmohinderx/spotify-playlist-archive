@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,624 likes - 212 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,731 likes - 212 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 140 | [At The Hoffman's](https://open.spotify.com/track/2rTCp6VfOIqzzOJ2cvV16o) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [At The Hoffman's](https://open.spotify.com/album/4qSGLzKVXWdATYMG2T8HfM) | 2:20 |
 | 141 | [Through The Wildness](https://open.spotify.com/track/2qRlg2aj8lFiN01eh4PABi) | [Inovalin Trem](https://open.spotify.com/artist/7EflRmV80Cnj9PmQZvpiUg) | [Through The Wildness](https://open.spotify.com/album/3gmXVJ5KvgK2DpMJo0yFRs) | 1:50 |
 | 142 | [Club Row](https://open.spotify.com/track/09be8fMevpQYEOkuD75eC7) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Club Row](https://open.spotify.com/album/1K9rT7uipaYEjlxDXINrNl) | 2:26 |
-| 143 | [Views from Yamashita Park](https://open.spotify.com/track/55F8bO2fpwlUyFa4AFPJQa) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 1:40 |
+| 143 | [Views from Yamashita Park](https://open.spotify.com/track/1A6cccEj6qKdj4O0qbYSL9) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 1:40 |
 | 144 | [brilliant blush](https://open.spotify.com/track/2ivcFIx7zAzNVNtJjdXflH) | [nadezhiko](https://open.spotify.com/artist/6JbECRtgmjNHNUeDaKQgtp) | [brilliant blush](https://open.spotify.com/album/4lQYTQLQ1HZqIGTl8nr4Yj) | 2:32 |
 | 145 | [Cabin House](https://open.spotify.com/track/67deXf90gwZw4QeAWHiylh) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Cabin House \(Lofi Hip Hop\)](https://open.spotify.com/album/6BXMZHSTUqvCYdCS8WOGHy) | 3:04 |
 | 146 | [French Toast](https://open.spotify.com/track/0jVkzGqvMnt05arGxdHo0q) | [rezov](https://open.spotify.com/artist/6qkecg8KZjkwnYkLGP4H3H) | [Morning Mantra](https://open.spotify.com/album/7s8Srq69sCA1h92jcXQlNs) | 3:02 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 211 | [C'mon My Friend](https://open.spotify.com/track/5QG6fzHI2A0PizUmDkVGvB) | [Ludo Cana](https://open.spotify.com/artist/3EngXbGniIxSxeLt4zb2IK) | [C'mon My Friend](https://open.spotify.com/album/1HAiOS2VNV2bpIyuoF0CxE) | 2:36 |
 | 212 | [Wandering](https://open.spotify.com/track/3nhSeef5tejPVeQgQyVAko) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Wandering](https://open.spotify.com/album/0jXhPMLWccW7lhXHHsMuK8) | 2:38 |
 
-Snapshot ID: `MTY2Njk2MTk5NCwwMDAwMDAwMDRkMzYyZTZlZWJlYTYwNWZlZWI0YzU4OTdiOTI3MTkw`
+Snapshot ID: `MTY2Njk2MTk5NCwwMDAwMDAwMDhjNzFhNDQyZDVkNGM2ODk0YTM2NTUzZjE1YmQ2OGQ1`

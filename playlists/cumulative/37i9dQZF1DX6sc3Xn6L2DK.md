@@ -4,7 +4,7 @@
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-136 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/5Ymp5r0Wpvihvt8IezwUoh)
+138 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/5Ymp5r0Wpvihvt8IezwUoh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Sweet Tasting Tennessee](https://open.spotify.com/track/3uSD4eEDSHiNaQrWrKiHKm) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Sweet Tasting Tennessee](https://open.spotify.com/album/2skp8HNem0u215ksPeKI0W) | 3:59 | 2021-12-15 |  |
 | [The Dead Don't Die](https://open.spotify.com/track/4Ef1laInbBHGfn3qUMilBK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Dead Don't Die](https://open.spotify.com/album/0d2OrxfHnQVwchS6OyyUZQ) | 3:51 | 2021-12-15 |  |
 | [The Forty\-Ninth Parallel](https://open.spotify.com/track/2nQwMNwJP7S09XFtKJdgvH) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Forty\-Ninth Parallel](https://open.spotify.com/album/0vybYOhRsPHsLn0JZWPxUc) | 2:26 | 2021-12-15 | 2022-07-28 |
-| [The Golden Sky](https://open.spotify.com/track/4rq928bInvxoDlfWr6nstY) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 3:55 | 2021-12-15 |  |
+| [The Golden Sky](https://open.spotify.com/track/4BQb7O3xT1YKXkvJlAQHwt) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Every Once In A While](https://open.spotify.com/album/1cqpXUfpXUQqLoAJkWhJ2K) | 3:55 | 2021-12-15 |  |
+| [The Golden Sky](https://open.spotify.com/track/4rq928bInvxoDlfWr6nstY) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 3:55 | 2021-12-15 | 2022-11-11 |
 | [The Golden Sky](https://open.spotify.com/track/6WvhkRzCJGtIVGnaYXbOS8) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Every Once In A While](https://open.spotify.com/album/3MDfSodOC8B0eF6HFrySvH) | 3:55 | 2021-12-15 | 2022-07-29 |
 | [The Wolf](https://open.spotify.com/track/2FGFj7w2KzTwPTWJMWcFvg) | [Gill Landry](https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh) | [Skeleton at the Banquet](https://open.spotify.com/album/6sbJZndXlSLENEZDP9h6yV) | 4:54 | 2021-12-15 | 2022-07-19 |
 | [Thunderbird](https://open.spotify.com/track/36gUdwmMhZXcwOSaUkTPty) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:28 | 2022-10-28 |  |
@@ -133,7 +134,8 @@
 | [Waiting Around to Die](https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 2:45 | 2021-12-15 |  |
 | [We Shouldn't Talk About It \(feat\. Emily Gimble\)](https://open.spotify.com/track/1ZN4HXmebT3dxEfpT83q25) | [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2), [Emily Gimble](https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK) | [Plus de Sauce](https://open.spotify.com/album/329yK2nEn3owPZOdYcFHvQ) | 2:26 | 2021-12-15 |  |
 | [Welcome To Hard Times](https://open.spotify.com/track/09fKvii5cZUzqJl6ESLsFM) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/5pEx6g5Mp76enkr632T9Tv) | 3:05 | 2021-12-15 | 2022-07-29 |
-| [Welcome to Hard Times](https://open.spotify.com/track/0tij6loXatN15kmrAjWWRr) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/6zo8AF0lCWc216j4GTYARj) | 3:05 | 2021-12-15 |  |
+| [Welcome to Hard Times](https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS) | 3:05 | 2021-12-15 |  |
+| [Welcome to Hard Times](https://open.spotify.com/track/0tij6loXatN15kmrAjWWRr) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/6zo8AF0lCWc216j4GTYARj) | 3:05 | 2021-12-15 | 2022-11-11 |
 | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/track/6KXIT7swzbtBjIepVzbarJ) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/album/12oUJEpXjAjVAgRWtQ50s9) | 3:03 | 2021-12-15 |  |
 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 | 2021-12-15 |  |
 | [Where Ya Been?](https://open.spotify.com/track/1SBWd6YX7RhwyX8n0bd37Z) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Where Ya Been?](https://open.spotify.com/album/4W96Vh6jSbgzeQveohdoVc) | 3:29 | 2021-12-15 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Songs to make your Zumba workout extra fun.
 
-54 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/2C6B2vVS9AIjUempbtKvKk)
+55 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/2C6B2vVS9AIjUempbtKvKk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [The Humma Song](https://open.spotify.com/track/7heMX7gyHP0mhTlNgd7Lxd) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [OK Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6) | 2:59 | 2021-11-18 |  |
 | [Tu Meri](https://open.spotify.com/track/2E2G88mTTJjbbmEpqTkbaV) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OPaPfgLzRn30767pjwfY3) | 4:17 | 2021-11-18 |  |
 | [Tu Meri](https://open.spotify.com/track/39TJkE0AEkfWii8VB3JqSV) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zhx5FG1P3Rc9Ufbr9bIgF) | 4:17 | 2021-11-18 | 2022-07-29 |
-| [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 4:42 | 2021-11-18 |  |
+| [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/2F57zuLuz5JiDSzzb8b1gg) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Coz I'm Happy](https://open.spotify.com/album/6HDeJQvXp2WlhzMYW194ZT) | 4:42 | 2021-11-18 |  |
+| [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 4:42 | 2021-11-18 | 2022-11-11 |
 | [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/4pE05HNzmVFGpCOfNKE3w6) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Cocktail](https://open.spotify.com/album/6Wu6m82JvVQvsa3kRhRebR) | 4:42 | 2021-11-18 | 2022-07-29 |
 | [Tumbe Te Zumba \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/2b03BOgFYaYsZl59O2Dyy4) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Tumbe Te Zumba \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/3BHK7AWNvne3XMbp9y0vLt) | 2:50 | 2021-11-18 |  |
 | [Ude Dil Befikre](https://open.spotify.com/track/0hgTkEDY9oIG5DPKN39KHP) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Befikre](https://open.spotify.com/album/2NdNeBKi8ctKgKRH5UGRbO) | 3:51 | 2021-11-18 |  |

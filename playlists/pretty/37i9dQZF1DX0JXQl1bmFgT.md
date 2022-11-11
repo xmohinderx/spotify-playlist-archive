@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain]
 
 > The official playlist for 365 Days trilogy\. Watch now on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,945 likes - 77 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,200 likes - 77 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain]
 | 10 | [The Hunted](https://open.spotify.com/track/069iEWjBk09wzpAxsEv8rF) | [The Rigs](https://open.spotify.com/artist/4QrBV4OBjd798x3Aov1Yjy) | [World on Fire](https://open.spotify.com/album/7552oTDbCvFPlBNpngSrIR) | 2:53 |
 | 11 | [Another Day](https://open.spotify.com/track/1s6hnnmUZtMFTHO0gJvcNZ) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Another Day](https://open.spotify.com/album/3RZrWTzG26JucuyLCR78c4) | 3:09 |
 | 12 | [All My Heroes \- Radio Edit](https://open.spotify.com/track/0TRmtiR9q6XnYDzXmoMpGC) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Sarah Rebecca](https://open.spotify.com/artist/58obmxGKVKCenZAkACSMgJ) | [All My Heroes](https://open.spotify.com/album/47ivZmuVI0HboDeCl6uOZv) | 3:48 |
-| 13 | [Hard For Me](https://open.spotify.com/track/00PesUdTmC3Y5xtZbZND0p) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room](https://open.spotify.com/album/2H2mViAjX9cdztIS9xOwSh) | 2:57 |
+| 13 | [Hard For Me](https://open.spotify.com/track/0FKuKlAkF5loCCuy90FoHK) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Hard For Me \(R3HAB Remix\)](https://open.spotify.com/album/3r42oRgrVcwj2zXl4NTWwy) | 2:57 |
 | 14 | [I Am the Fire](https://open.spotify.com/track/1tanw65Am6no9GCmTgiOhn) | [Ghost Monroe](https://open.spotify.com/artist/3RgNBXiwEDSxBSfBEpCjeD) | [Shadow](https://open.spotify.com/album/1I3WMXCjSwWIpDMWi7I2gY) | 4:29 |
 | 15 | [Prisoner](https://open.spotify.com/track/14YkNhtwblvxRzsx47gyKC) | [Raphael Lake](https://open.spotify.com/artist/1jHQI26XkjY8BHwvDnh9Jw), [Aaron Levy](https://open.spotify.com/artist/74vJ5CJ857eopBMMI8rJkA), [Daniel Ryan Murphy](https://open.spotify.com/artist/1QoxDzRJ3hMCfBW6JAZlGl) | [Indie Soul 2](https://open.spotify.com/album/2rzR4ZIIJl8vewMB4NV8NY) | 3:25 |
 | 16 | [The End](https://open.spotify.com/track/0tv26DoZJX92mCpzWG5MRq) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [The End](https://open.spotify.com/album/5R5kiCnJdVignWKvEqNnw9) | 2:32 |
-| 17 | [Watch Me Burn](https://open.spotify.com/track/3hiXR95RrJCaYqykCQmYLH) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room](https://open.spotify.com/album/2H2mViAjX9cdztIS9xOwSh) | 3:06 |
+| 17 | [Watch Me Burn](https://open.spotify.com/track/5tP4Jpyo3c2Iu1CTtDbbRm) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room \(Bonus Edition\)](https://open.spotify.com/album/1VkTlPEWLrFtP7IGc10hGJ) | 3:04 |
 | 18 | [Dos Horas](https://open.spotify.com/track/0wRqwxzJ0xzp9xHdBUST8T) | [J.J\. Abel](https://open.spotify.com/artist/2kptWrlEYUY9Tksx9f9EDE), [Daniel Rondon](https://open.spotify.com/artist/2baItk3bvmwJY76tgZXFJn), [Kuinvi](https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr) | [Dos Horas](https://open.spotify.com/album/0K0LCTmA5cYuAYNULo6Hy9) | 3:21 |
 | 19 | [If U Like That](https://open.spotify.com/track/1HQgt54SnO980QfCRY9XdA) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Stranger](https://open.spotify.com/album/0pYOYlG5oTgvs77V6W094U) | 2:38 |
 | 20 | [Nothing To Loose](https://open.spotify.com/track/0s3o9PXv92jynDMMRie9ZC) | [Marien](https://open.spotify.com/artist/3OJV0xQWTH0mrMRmfNxqGk) | [Nothing To Loose](https://open.spotify.com/album/09b5AGODmBW55LEJrVSDFJ) | 2:30 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain]
 | 76 | [Better Alone](https://open.spotify.com/track/6FOhiUB3CT6dOMqUdi50ZU) | [Brayden Dunbar](https://open.spotify.com/artist/718jt24mHnTl76rE6T5sSp) | [Better Alone](https://open.spotify.com/album/0wp6uBXIs0IQc6IdOCbAeA) | 3:04 |
 | 77 | [Good To Me](https://open.spotify.com/track/6hxk4O3pxR1L9tKkj4BbYn) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Good To Me](https://open.spotify.com/album/31pumQiCZG4iIWbBPSgn1R) | 2:17 |
 
-Snapshot ID: `MTY2MTI3MjMyMCwwMDAwMDAwMDlhODE0MzI3NmNhMzYzYWFiZTQxNDMzNDFlMjEzMTcz`
+Snapshot ID: `MTY2MTI3MjMyMCwwMDAwMDAwMGNjMzc1OTk5ZjYxYmFjZjhkNWE3MzRlZmZhNDMxZTgw`

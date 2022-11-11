@@ -4,7 +4,7 @@
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-71 songs - 4 hr 24 min - not published yet
+73 songs - 4 hr 33 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Feast Of The Dead](https://open.spotify.com/track/4TrVfDJGf5mHvWGT2Lch7B) | [Buddy & Julie Miller](https://open.spotify.com/artist/61YXt5O4gENijzfR9cjjSV) | [Breakdown On 20th Ave\. South](https://open.spotify.com/album/3VqWUojroBnrQV1DGL346Z) | 3:59 | 2022-10-27 |  |
 | [Friend of the Devil](https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:31 | 2022-10-27 |  |
 | [Gallows Pole](https://open.spotify.com/track/5L1BHZ2uApRTpP95yGykjv) | [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Folksinger Vol\. 2](https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb) | 4:06 | 2022-10-27 |  |
-| [Ghosts That We Knew](https://open.spotify.com/track/4OwUzSEXxSZXpCfdjKGzpD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:39 | 2022-10-27 |  |
+| [Ghosts That We Knew](https://open.spotify.com/track/0ZZ22x24tcXRPvEnZLpt2m) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel](https://open.spotify.com/album/3keXhA98WpXzqn5e3oQkx6) | 5:39 | 2022-10-27 |  |
+| [Ghosts That We Knew](https://open.spotify.com/track/4OwUzSEXxSZXpCfdjKGzpD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:39 | 2022-10-27 | 2022-11-11 |
 | [Graves](https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH) | [Whiskey Shivers](https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg) | 3:10 | 2022-10-27 |  |
 | [Graveyard](https://open.spotify.com/track/5fuON606j1hkPGJhFMwerY) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 3:25 | 2022-10-27 |  |
 | [Hallucinations](https://open.spotify.com/track/1E3EEDxgqo3gRPqzRGwyDO) | [Tim Buckley](https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr) | [Goodbye And Hello](https://open.spotify.com/album/1jKfTvT64lcQwA74WmkKiJ) | 4:55 | 2022-10-27 |  |
@@ -76,7 +77,8 @@
 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 | 2022-10-27 |  |
 | [Wendell Walker](https://open.spotify.com/track/5NpiojbPGLVmxiszru8FcX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Bearer of Bad News](https://open.spotify.com/album/1bKpcuXtsV2l6ybVUJMRAl) | 8:23 | 2022-10-27 |  |
 | [Where Did You Sleep Last Night](https://open.spotify.com/track/0p5zJBYoJOzVLBiDeA0PvS) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [The Tradition Masters: Lead Belly](https://open.spotify.com/album/5T3n0RS8Xgq3yPoRpOailM) | 3:01 | 2022-10-27 | 2022-11-03 |
-| [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 | 2022-10-27 |  |
+| [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 | 2022-10-27 | 2022-11-11 |
+| [Where Did You Sleep Last Night](https://open.spotify.com/track/7ucwcsXOmwwgrcMB3YeaKA) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [The Ultimate Country Blues Collection](https://open.spotify.com/album/736y5c0LSTTQ7FxkBq23p0) | 3:04 | 2022-10-27 |  |
 | [Whistlin' Past The Graveyard](https://open.spotify.com/track/43dz5W2FnvUIzA84hFEPkZ) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Blue Valentine \(Remastered\)](https://open.spotify.com/album/2fgQN85UzwZMRIBTs06FjX) | 3:17 | 2022-10-27 |  |
 | [Wolf Like Me ft\. Shovels & Rope](https://open.spotify.com/track/3AZXq6ty10UPcTspnzHAGo) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7), [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Plays Well With Others](https://open.spotify.com/album/4aHyH0AmCxSsB0ZYKIEcuk) | 4:05 | 2022-10-27 |  |
 

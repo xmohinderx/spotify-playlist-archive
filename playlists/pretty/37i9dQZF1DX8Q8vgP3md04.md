@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,219 likes - 54 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,240 likes - 54 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 49 | [Ethiopia](https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 6:37 |
 | 50 | [Chall Zendero](https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r) | [Dawit Tsige](https://open.spotify.com/artist/0er7UYZjJL3ack3JOGzq5q) | [Yene Zema](https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf) | 3:52 |
 | 51 | [Kenat Wediya](https://open.spotify.com/track/4iKrEZyjF2JcC5AukB2rBF) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 4:54 |
-| 52 | [Lijay](https://open.spotify.com/track/38F1nH0CSPLuWYJXa2GWzl) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX) | 5:24 |
+| 52 | [Lijay](https://open.spotify.com/track/1H8X1BVWxWlGopjmqEhle5) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Lijay](https://open.spotify.com/album/6Q5i8LyFcC7rxILCKqXZ3N) | 5:24 |
 | 53 | [Shelter](https://open.spotify.com/track/5hiih9ZGthFog3buukf7Ss) | [Yohana](https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG) | [Shelter](https://open.spotify.com/album/1aDK3U8NLFyi5zBYLRFxUK) | 4:19 |
 | 54 | [Welday Weni](https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz) | [Liham Melody](https://open.spotify.com/artist/4mgP2hXsnULBqWou6ld9rQ) | [Welday Weni](https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z) | 4:25 |
 
-Snapshot ID: `MTY2NTA2MTcwMiwwMDAwMDAwMGJjNTIzZjgxYTYzZTdlYzExZDVjMDJjNTIwZTA0OWEw`
+Snapshot ID: `MTY2NTA2MTcwMiwwMDAwMDAwMDE3ZGFlMmIyNmM5YWNkODdmODM4Y2M1YTkxNmI0YjNl`

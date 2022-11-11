@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq57wSefud5.md) - [plain]
 
 > You'll be up with the sun and running to this playlist of fast paced feel good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,214 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,225 likes - 25 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq57wSefud5.md) - [plain]
 | 8 | [Dust](https://open.spotify.com/track/7L3WVfrpwUN07jkvZg1vrP) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S) | 5:07 |
 | 9 | [Talk To Me](https://open.spotify.com/track/4zVuN7gzv4pbhtJl6Krxnk) | [Kopecky](https://open.spotify.com/artist/0vRO9bFgOrDoFtLcDHV8b6) | [Drug for the Modern Age](https://open.spotify.com/album/5xSKniIeUeWnwrxfYso4MS) | 2:53 |
 | 10 | [Shake](https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:01 |
-| 11 | [Dime Store Cowgirl](https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:34 |
+| 11 | [Dime Store Cowgirl](https://open.spotify.com/track/26ocYTTJY9s9I0Hbq8B44v) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Female Country](https://open.spotify.com/album/09mXIrmJrisHosp2I5ri6R) | 3:35 |
 | 12 | [Call Me in the Afternoon](https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F) | 3:13 |
 | 13 | [First Time](https://open.spotify.com/track/6OFKVE2HZdK3n2tbTDMhn3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:44 |
 | 14 | [Way Way Back](https://open.spotify.com/track/386DfI5sZ0eJi1i6SZVqLw) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights \(Deluxe\)](https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA) | 3:19 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq57wSefud5.md) - [plain]
 | 21 | [Cassy O'](https://open.spotify.com/track/0KlUnDYTACNGFPFIUa3eZd) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:04 |
 | 22 | [Heavy Feet](https://open.spotify.com/track/0BmNElDPN8uGmJtCwPY5fH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:06 |
 | 23 | [We Are the Tide](https://open.spotify.com/track/6vpATnRbTUGyMqQ9UYVMh7) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [We Are the Tide](https://open.spotify.com/album/4jAXE8gSio8mc9ZFaTTQGs) | 3:17 |
-| 24 | [Run](https://open.spotify.com/track/1G2y3ckwnDX4IOiemPOXEW) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [After It All](https://open.spotify.com/album/0HvAm2vysVverWiodCEhON) | 2:58 |
+| 24 | [Run](https://open.spotify.com/track/2ATDLn7rLTcgVPPWCKJotH) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [The Complete Sire Albums](https://open.spotify.com/album/1xg1cljaT2FyyN3Xxf85Xw) | 2:58 |
 | 25 | [Kick Drum Heart](https://open.spotify.com/track/0KKist1jJYO17nOqtO1sb2) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 2:54 |
 
-Snapshot ID: `MTY0ODczOTczOSwwMDAwMDAwMDU5MTI1N2IxODgxZTcwNGY1OTRiYzQ2MWQwZDEzY2U1`
+Snapshot ID: `MTY0ODczOTczOSwwMDAwMDAwMDYwNDU2ZjY3MTM0ODU4NmIwNzJjNTY1NmFlZTlmM2E2`

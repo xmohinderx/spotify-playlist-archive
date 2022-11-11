@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 211160,
       "name": "A D\u00f3nde Va Nuestro Amor - Versi\u00f3n Telenovela",
       "url": "https://open.spotify.com/track/0zA1PzaGYhJSdOFcsFOyUS"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 207226,
       "name": "Amantes Prohibidos",
       "url": "https://open.spotify.com/track/21WYyyjovbDtf8Sa2DSdfZ"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 210333,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 255680,
       "name": "Dos Mujeres un Camino",
       "url": "https://open.spotify.com/track/1IY3GJk8HgLWpKtjtKXN52"
@@ -1732,6 +1732,24 @@
     },
     {
       "album": {
+        "name": "Jerem\u00edas",
+        "url": "https://open.spotify.com/album/11S1C5Cmq83DilIsvSDWo1"
+      },
+      "artists": [
+        {
+          "name": "Jerem\u00edas",
+          "url": "https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263184,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/2ecvmWhx9hAqzg6VhBTNSO"
+    },
+    {
+      "album": {
         "name": "Enrique Iglesias",
         "url": "https://open.spotify.com/album/2NwF2C2Z9sSgePRArAA5cl"
       },
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 244600,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/1XDsjhMHi3jwEWmwTHQPWl"

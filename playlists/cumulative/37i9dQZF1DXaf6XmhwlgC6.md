@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-112 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+113 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,8 +102,9 @@
 | [Tomber Amoureux](https://open.spotify.com/track/0sTlmrgtj3om9MCoCFTzZm) | [Michael Szonja](https://open.spotify.com/artist/3gnRflW7ax20AhBEKnfrhF) | [Tomber Amoureux](https://open.spotify.com/album/1btvvbxQsUYmaXsRgZa0R4) | 2:20 | 2022-03-30 |  |
 | [Trail Of Emptiness \- Ambient Version](https://open.spotify.com/track/7soUChMHrOcBc80OPPVkbN) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Trail Of Emptiness \(Ambient Version\)](https://open.spotify.com/album/0DQ5cSbXp0bhuFbGKWzJk7) | 1:58 | 2022-09-02 |  |
 | [Traversing](https://open.spotify.com/track/6zaIazO4IJN92brWslJ3TQ) | [Flood First](https://open.spotify.com/artist/73aValriFtRYc0K5EzFVpZ) | [Traversing](https://open.spotify.com/album/0diFPJv3sk4ChhKrDXCrsn) | 3:10 | 2022-03-30 |  |
+| [Treefingers](https://open.spotify.com/track/0XGxvQj8dRhGn41nvXIxN0) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [KID A MNESIA](https://open.spotify.com/album/6ofEQubaL265rIW6WnCU8y) | 3:42 | 2022-10-21 |  |
 | [Treefingers](https://open.spotify.com/track/4DPQvbgSM0IdX4O3HOACwL) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 3:42 | 2022-03-30 | 2022-07-29 |
-| [Treefingers](https://open.spotify.com/track/4LrfsgQ5AGouvH3PlxW2PC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 3:42 | 2022-07-15 |  |
+| [Treefingers](https://open.spotify.com/track/4LrfsgQ5AGouvH3PlxW2PC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 3:42 | 2022-07-15 | 2022-11-11 |
 | [Two Apples Tied](https://open.spotify.com/track/1ItTDB7TfTu1mVlVgySaaN) | [Hatsu Rohn](https://open.spotify.com/artist/2tEnbkUIt07bVGpQS41Jbc) | [Two Apples Tied](https://open.spotify.com/album/0oOUD2er4J43BZIMlR2Fad) | 3:24 | 2022-03-30 |  |
 | [Undiscovered](https://open.spotify.com/track/6sZ06jEfwg6DjssHZeZhwe) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Undiscovered](https://open.spotify.com/album/5mjXT9jnJ8sBEH0hBGGywT) | 3:38 | 2022-03-30 |  |
 | [Undo and Redo](https://open.spotify.com/track/4YLWN1S48u5m8xpxWlk3tY) | [Dössell](https://open.spotify.com/artist/5g1pVJ6zhthjuUDFTEJbgc) | [Undo and Redo](https://open.spotify.com/album/3vO7qy5LePhyBPg5zIN4V0) | 2:38 | 2022-09-14 |  |

@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Abby Sage, Artwork: Robin Clifford Ellis
 
-999 songs - 2 day 6 hr 31 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+1,000 songs - 2 day 6 hr 32 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Could've Tried](https://open.spotify.com/track/04ZUad18xszxdqExEA6fot) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [Could've Tried](https://open.spotify.com/album/25lIWRIBXxFhStPN2FVoA8) | 2:24 | 2022-09-14 | 2022-10-26 |
 | [Cowboy Boots](https://open.spotify.com/track/71jdngFJlIYfkwYZXHRQP1) | [Personal Trainer](https://open.spotify.com/artist/7hA3k0nbR7qQhE6LrbdQrI) | [Cowboy Boots](https://open.spotify.com/album/7DcpreV9l4SVhit3cWhMBm) | 3:00 | 2021-08-18 | 2022-01-13 |
 | [Cracks](https://open.spotify.com/track/6h9z8SJFDJdCVkr2rrgfFG) | [golda may](https://open.spotify.com/artist/37twljvcr2zd46xUUZlnl6) | [Cracks](https://open.spotify.com/album/4P6em4ZoeR760u9Zug8FE2) | 3:27 | 2022-02-16 | 2022-03-17 |
-| [craters](https://open.spotify.com/track/7ANEHQXzCXJ0dXq3Dm63yQ) | [Majent](https://open.spotify.com/artist/6pTVLPzvYW3SvwfyjDxtXX) | [craters](https://open.spotify.com/album/25mNbDYIt9mLxUlfD8xAZi) | 2:39 | 2022-11-09 |  |
+| [craters](https://open.spotify.com/track/7ANEHQXzCXJ0dXq3Dm63yQ) | [Majent](https://open.spotify.com/artist/6pTVLPzvYW3SvwfyjDxtXX) | [craters](https://open.spotify.com/album/25mNbDYIt9mLxUlfD8xAZi) | 2:39 | 2022-11-09 | 2022-11-11 |
 | [crawling back](https://open.spotify.com/track/2ZOGtj48B7gPWfeQ9CicLQ) | [jackson lee morgan](https://open.spotify.com/artist/7B0upFhefvU2PuUCJBXBCz) | [crawling back](https://open.spotify.com/album/6iJDadpJiLVYLmHp3QkYVz) | 3:08 | 2021-12-01 | 2022-01-13 |
 | [Crawling Home When the Morning Comes](https://open.spotify.com/track/3IxyQP9V0vE7Z7LCkLz7n9) | [Sweet and Lonely](https://open.spotify.com/artist/5WjjLD84eEmClbj9BqvxdS) | [Crawling Home When the Morning Comes](https://open.spotify.com/album/4XEgFZJ17LOZJMOdlxB8QL) | 2:25 | 2021-12-01 | 2022-01-13 |
 | [Crazed](https://open.spotify.com/track/5QytoiKwnIFaHuIqJWmer5) | [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [Crazed](https://open.spotify.com/album/6lPvlL0riY5AOnFHV19lS1) | 2:01 | 2021-12-01 | 2022-01-13 |
@@ -929,6 +929,7 @@
 | [Unhas \(A Busca\)](https://open.spotify.com/track/3ro1EZATHu02QYjRqhYxDo) | [Gabriel Ventura](https://open.spotify.com/artist/5wiFildiVwY61nSDG2ZNIC) | [Tarde](https://open.spotify.com/album/7uepiDr23nOETGDxFQGpVm) | 3:44 | 2022-04-06 | 2022-04-27 |
 | [uninspired](https://open.spotify.com/track/6hPxfqdk3ObCVhePxEYYhF) | [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [uninspired](https://open.spotify.com/album/7DpcUxOvaiLBErRpfD14iZ) | 3:46 | 2022-04-06 | 2022-04-27 |
 | [Unionsquarepark \(ADLR Remix\)](https://open.spotify.com/track/5PiqAqrgS1XPvtFHjs5DGJ) | [ADLR](https://open.spotify.com/artist/5cZLyaniFhNXP85TzKEJqr), [MOZIAH](https://open.spotify.com/artist/1e8LCE63Bot5qj6D4g1keE) | [Unionsquarepark \(ADLR Remix\)](https://open.spotify.com/album/1N6wF1rv6gsTldexycR3Ip) | 4:20 | 2022-02-02 | 2022-03-10 |
+| [Universes](https://open.spotify.com/track/4gXOhKQhjF2s1v5lNJ7Gyf) | [Space Kuma](https://open.spotify.com/artist/7lpjxiUzFkau5pWSleWcx4) | [Universes](https://open.spotify.com/album/18DLDsgbdgs8GRN6KrxIsj) | 1:06 | 2022-11-11 |  |
 | [Unknown Getaway](https://open.spotify.com/track/7EGgHgBOlY037ZUbBWvRlq) | [Blase](https://open.spotify.com/artist/4YGNOfoJ5pbSwycRnztrI5) | [Vertigo Valley](https://open.spotify.com/album/79ztMVWpRGjgEHi5rlWbH8) | 4:12 | 2022-07-27 | 2022-08-11 |
 | [unoriginal](https://open.spotify.com/track/3XDU9wngxRWmiCbBuHviPA) | [splendi](https://open.spotify.com/artist/0FRZAnnUgEu4GXtHYysFw3) | [unoriginal](https://open.spotify.com/album/3ZImuYbhtnBbR1HUKnAG5P) | 3:23 | 2022-05-25 | 2022-06-30 |
 | [Until The Bitter End](https://open.spotify.com/track/2kqGTMB4nmoxi61F15Eleq) | [Pincey](https://open.spotify.com/artist/06m44jnKVlVd6Y42y8kmVB) | [The Bitter End](https://open.spotify.com/album/2hbOcES22Vi8mEh1UqzkXi) | 3:34 | 2022-07-20 | 2022-08-04 |

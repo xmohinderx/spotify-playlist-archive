@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop Cover: <a href="https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=w8EU1cUrSMGlI2MssXYRjA">Jack Parow</a>
 
-53 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
+54 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [T\. D\. K\. S](https://open.spotify.com/track/7qbLm0IBfu31Tpq6W45XfH) | [MJoyner](https://open.spotify.com/artist/5SvCMCMj7dkqVnylp7xEdv), [TY Mxjor](https://open.spotify.com/artist/6jRREpnzwzBkDjT6QPtlLv) | [T\. D\. K\. S](https://open.spotify.com/album/6fdkcLJyX2csmHE6byABjX) | 3:30 | 2022-09-08 |  |
 | [There It Is](https://open.spotify.com/track/5HVvJfVSUPUPpDwMJk4ATS) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [There It Is](https://open.spotify.com/album/3lSkOBovZW9Ex1crkCF54B) | 3:03 | 2022-09-08 |  |
 | [Ware Meddies](https://open.spotify.com/track/6XuX7LKxTxncK1YfQyL3YJ) | [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Ware Meddies](https://open.spotify.com/album/77nrr4W0AzamfbN3BhAJXc) | 3:39 | 2022-09-08 |  |
+| [Watch Wat Jy Praat](https://open.spotify.com/track/05jiDkfyoTZzhEHf7eN94t) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Young K](https://open.spotify.com/artist/2K1piKoDWujwiWh5pdktIV) | [Watch Wat Jy Praat](https://open.spotify.com/album/0xjCTQeFz0rkSNSq2SsyV3) | 3:40 | 2022-11-10 |  |
 | [Werkhom 2.0 \(Bonus Track\)](https://open.spotify.com/track/0zi0Do3nO8LtRzlau2V7DR) | [Temple Boys Cpt](https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n) | [The Goats Ep](https://open.spotify.com/album/7gNuFZUosaLFUvWK4xJV8D) | 3:35 | 2022-10-13 |  |
 | [Wesbank Bloei](https://open.spotify.com/track/25DeMB5fLrhgiGWKvVb083) | [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Wesbank Bloei](https://open.spotify.com/album/0bo1Peg9WhB0rV0HNRK5Ss) | 3:13 | 2022-09-08 |  |
 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 | 2022-09-08 |  |

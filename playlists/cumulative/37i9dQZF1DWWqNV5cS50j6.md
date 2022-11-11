@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,171 songs - 2 day 8 hr 46 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,172 songs - 2 day 8 hr 49 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,8 @@
 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 | 2022-05-09 | 2022-07-01 |
 | [Ford vs Ferrari](https://open.spotify.com/track/2TKWpKRtRJvZiXKos601XO) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [Ford vs Ferrari](https://open.spotify.com/album/4U5nbO37g0JQb0a5iZ74nP) | 3:24 | 2021-10-01 | 2022-04-10 |
 | [Forever](https://open.spotify.com/track/08U90Je8ANncSpd6ptxNFt) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Forever](https://open.spotify.com/album/32RhQbcXcIqxzhaZlXmfFa) | 3:15 | 2022-05-18 | 2022-10-13 |
-| [Forever](https://open.spotify.com/track/2kVoWT4iY0paZ1I23LMlAA) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Forever](https://open.spotify.com/album/1Zp8ABHBwkxjj2YGjuoMbP) | 3:15 | 2022-10-25 |  |
+| [Forever](https://open.spotify.com/track/2E5WLGiojYmshFaRgaZslJ) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Forever \(Live from Nana's House\)](https://open.spotify.com/album/54zMiyH2Wxca1HzOlNbzJj) | 3:15 | 2022-10-25 |  |
+| [Forever](https://open.spotify.com/track/2kVoWT4iY0paZ1I23LMlAA) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Forever](https://open.spotify.com/album/1Zp8ABHBwkxjj2YGjuoMbP) | 3:15 | 2022-10-25 | 2022-11-11 |
 | [Forever Young](https://open.spotify.com/track/71AHzuaLWkVxt5UrCmLvOB) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Ricardo](https://open.spotify.com/album/2qEk2JLTZzuFwxmWfrkOWK) | 2:56 | 2021-11-26 | 2022-04-09 |
 | [freak](https://open.spotify.com/track/4OW25A2SxYvRDlGK4KN6s3) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [the girl next door](https://open.spotify.com/album/3MaPbB8htJFUCWQwUW0SjP) | 2:43 | 2022-04-22 | 2022-07-19 |
 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 | 2020-10-13\* | 2020-11-03 |
@@ -797,8 +798,8 @@
 | [Popeye](https://open.spotify.com/track/5srSyIpAvNZJKBVUlgxcCC) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/45JCuUJde6lC8kjgqZ8Fgp) | 2:54 | 2022-02-28 | 2022-04-10 |
 | [Popeye](https://open.spotify.com/track/2dQkCBUasJzLfNjSumrRDd) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/3xrOFa0RU14V1b9gIH1NQN) | 2:54 | 2021-07-17 | 2022-10-26 |
 | [popstar \(with angelus\)](https://open.spotify.com/track/3Yb3Z1HRrMrBh886cayujG) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [popstar \(with angelus\)](https://open.spotify.com/album/7jgjzargChNK3HCW3A2SYk) | 2:13 | 2022-08-13 |  |
-| [PORN ACTING\*](https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 | 2022-10-04 |  |
-| [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 | 2022-02-25 | 2022-10-10 |
+| [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:51 | 2022-02-25 |  |
+| [PORN ACTING\*](https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 | 2022-10-04 | 2022-11-11 |
 | [PORN ACTING\*](https://open.spotify.com/track/5BkazOzXKqpVE4RI7Dbxnw) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/6yUbpBVYQGs6Me7cRHBi91) | 2:52 | 2022-02-28 | 2022-07-29 |
 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 | 2022-02-07 | 2022-05-10 |
 | [Pot Of Gold](https://open.spotify.com/track/625VzKuhHcZ2rz7igDtL6r) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Pot Of Gold](https://open.spotify.com/album/2uHZqj1Xzf7F9fCjwzoDPR) | 2:11 | 2021-09-21 | 2021-10-14 |
@@ -1167,8 +1168,8 @@
 | [Your Love \(Déjà Vu\)](https://open.spotify.com/track/5DYD4zlGiFlkpLaf2Bk8Vl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Your Love \(Déjà Vu\)](https://open.spotify.com/album/7xz9Hi6y8KaYlLNSkvme0W) | 3:54 | 2020-10-13\* | 2020-11-03 |
 | [Youtube2MP3](https://open.spotify.com/track/6zVkLCrNjslRlGLhmVBrXJ) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Youtube2MP3](https://open.spotify.com/album/1BCUWBszISTyrWaR2T0pPi) | 3:56 | 2021-03-19 | 2021-10-16 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 | 2022-10-25 |  |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-26 | 2022-11-07 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 | 2022-10-25 | 2022-11-11 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-26 |  |
 | [ZIG ZAGGING](https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT) | [ZIG ZAGGING](https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB) | 2:04 | 2022-05-27 | 2022-10-26 |
 | [Órale](https://open.spotify.com/track/5WOPPArye4m0QSXt78mp7m) | [Ezemdi](https://open.spotify.com/artist/1Qpq6IXdVWTg4MkUEhmlmc) | [Órale](https://open.spotify.com/album/7561wsPFXuclyDU8z4QZy7) | 4:31 | 2020-10-13\* | 2020-11-03 |
 | [‎friends /‎ wasted](https://open.spotify.com/track/2CgTn3lz8yHpsAmB8rDofF) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎friends /‎ wasted](https://open.spotify.com/album/1AMzDzS35VwDrPZ880KQYp) | 2:32 | 2020-11-07 | 2021-10-16 |

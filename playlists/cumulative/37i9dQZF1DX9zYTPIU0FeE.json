@@ -918,6 +918,28 @@
     },
     {
       "album": {
+        "name": "Brownswood 10",
+        "url": "https://open.spotify.com/album/0VyTXdyXEsKzrvI6h566GY"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "The Ancestors",
+          "url": "https://open.spotify.com/artist/7ePHKxo2J01bxBoXF3ikyy"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398080,
+      "name": "Joyous",
+      "url": "https://open.spotify.com/track/4eZg8lxVThElRnwl6ZHqBX"
+    },
+    {
+      "album": {
         "name": "Wisdom of Elders",
         "url": "https://open.spotify.com/album/7bOWCR37vGgWis6Nwi7aMC"
       },
@@ -929,7 +951,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 403275,
       "name": "Joyous",
       "url": "https://open.spotify.com/track/1II6naZsvJLrtjXQgGjztZ"
@@ -947,10 +969,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 409666,
       "name": "Ke Nako",
       "url": "https://open.spotify.com/track/1gDDfrCOFm30vpG3zuDX97"
+    },
+    {
+      "album": {
+        "name": "Indaba Is",
+        "url": "https://open.spotify.com/album/3qcN5kODsixA5VcaY37X7T"
+      },
+      "artists": [
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409666,
+      "name": "Ke Nako",
+      "url": "https://open.spotify.com/track/5CErXmkaO61u6tBZnCho2k"
     },
     {
       "album": {

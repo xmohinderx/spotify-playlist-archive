@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,710,510 likes - 200 songs - 12 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,710,666 likes - 200 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 14 | [Shallow](https://open.spotify.com/track/4q0v24VXobXe0kTLb46Xa9) | [The Hound + The Fox](https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us) | [Shallow](https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA) | 3:41 |
 | 15 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 |
 | 16 | [I Melt with You](https://open.spotify.com/track/6uYFQyxZtCZih0aUfk1XdQ) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt with You](https://open.spotify.com/album/2LtZ92MK0h2C1zJofjUMaQ) | 3:37 |
-| 17 | [A Place In The Sun](https://open.spotify.com/track/3dXFwE9yIXuotnjN7wsP2N) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 4:16 |
+| 17 | [A Place In The Sun](https://open.spotify.com/track/6bihRFJEMi8nDcC2zIwQKp) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Jack Johnson with Paula Fuga](https://open.spotify.com/artist/6C2EeNTJVptYpWFqeh6ifU) | [Why Not](https://open.spotify.com/album/6EewmAh99YpSBvAfC8nV8o) | 4:16 |
 | 18 | [Have A Little Faith In Me](https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Have A Little Faith In Me](https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz) | 3:17 |
 | 19 | [Muzzle of Bees \(with Jeff Tweedy\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/351445Kofxc3BN2T27beOv) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Muzzle of Bees \(with Jeff Tweedy\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ) | 4:11 |
 | 20 | [Always Be My Baby](https://open.spotify.com/track/2hVaNGGvdvvzRPCK9BUZmA) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Josh Ottum](https://open.spotify.com/artist/0HuUZip4HsqYsjkq4qZ6NB) | [Always Be My Baby](https://open.spotify.com/album/5pjrFrxKA33xQWnj0UbfYp) | 4:14 |
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 128 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 |
 | 129 | [Driver's License \(Acoustic\)](https://open.spotify.com/track/6kiyZthBkF9VkkVh9Cc4jY) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Aubrey Toone](https://open.spotify.com/artist/61R2K577GF9XaGmrzJIebF) | [Driver's License \(Acoustic\)](https://open.spotify.com/album/3zzWc3okIhygb6p6ai6RO9) | 3:53 |
 | 130 | [Creep](https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Creep](https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF) | 4:37 |
-| 131 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 |
+| 131 | [Don't You Want Me](https://open.spotify.com/track/6KUqD4ARwYd4HKBge53mla) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Acustic Hits 2020](https://open.spotify.com/album/0TE1Oc5OANq645xPnBrm64) | 3:19 |
 | 132 | [Hold Me While You Wait \- Acoustic](https://open.spotify.com/track/2NL3mpVXdEJD6RqKZxYWl3) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Hold Me While You Wait \(Acoustic\)](https://open.spotify.com/album/2FFG9G1WjcnEvhdM31xXGX) | 3:12 |
 | 133 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
 | 134 | [Drag Me Down / As Long As You Love Me](https://open.spotify.com/track/2YIQa8910IbEuqkUHmUoua) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 3:26 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 199 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 |
 | 200 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
 
-Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMDc0MTk3N2I1MDljOTg2ZjhiYjhiZGY1ZWM1YTliZGYx`
+Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMGQ2NGM4N2NlOTgyMDczMTIwMDk5ZDE0ZTNkMzg0ZTMy`

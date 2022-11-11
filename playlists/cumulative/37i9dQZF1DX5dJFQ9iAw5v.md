@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-87 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/34pOQEeViNfqKIxC13NqiC)
+88 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/34pOQEeViNfqKIxC13NqiC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Disco Inferno](https://open.spotify.com/track/62WJX6nry2MWBZ2ns4tGg1) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Envés](https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK) | 5:14 | 2022-08-12 |  |
 | [Doña Cha Cha](https://open.spotify.com/track/6Mee3B457bmUf93LIbhsNZ) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ), [Carlos Michelini](https://open.spotify.com/artist/6Tbr0u2xVmOLKADh9PO0Nm), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG), [Marcelo Mayor](https://open.spotify.com/artist/7I1eGOWhHuhI3xfwXWsFBV), [Ezequiel "Chino" Piazza](https://open.spotify.com/artist/6WCG05WxHQv0BzAuNgULo6), [Beto Merino](https://open.spotify.com/artist/6yNrmekUamVKW9wdewueXT) | [Afropuertas](https://open.spotify.com/album/5tb3c9O1yhD6wMzacCPwDp) | 6:02 | 2022-08-12 |  |
 | [El Dia que me Quieras](https://open.spotify.com/track/1SwDFyCldGRSvsdqiMTp3I) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs) | 3:20 | 2022-08-12 |  |
+| [El Gaita](https://open.spotify.com/track/5REMrMzbiw86zd1MQQEbXg) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [El Gaita](https://open.spotify.com/album/2BS7NmJEikxUhAJGeibRtY) | 6:25 | 2022-11-11 |  |
 | [El La Mi](https://open.spotify.com/track/7zyiCxnvzxJ27ENVgFnFHE) | [Gillespi](https://open.spotify.com/artist/0lTOO8myl6VcmOP43pbuVb), [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD) | [Ultradeforme](https://open.spotify.com/album/2fQ2BX4ODlSM1PdPmvZz70) | 5:49 | 2022-08-12 |  |
 | [El Regreso \(feat\. Martin Bejerano\)](https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Martin Bejerano](https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:45 | 2022-08-12 |  |
 | [El Reino del Revés](https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie), [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [El Reino del Revés](https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx) | 3:36 | 2022-08-12 |  |
@@ -70,7 +71,7 @@
 | [Ordóñez y Ernestina \(o el Banquito de Ordóñez\)](https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t) | [El Jardín de Ordóñez](https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh) | 5:47 | 2022-08-12 |  |
 | [Polacos](https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Polacos](https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi) | 3:08 | 2022-10-28 |  |
 | [Pop](https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:40 | 2022-08-12 |  |
-| [Pretos](https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H) | [Ernesto Amstein](https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w), [Gabriel Domenicucci](https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0) | [El Ombligo de un Sueño](https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH) | 5:24 | 2022-08-12 |  |
+| [Pretos](https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H) | [Ernesto Amstein](https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w), [Gabriel Domenicucci](https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0) | [El Ombligo de un Sueño](https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH) | 5:24 | 2022-08-12 | 2022-11-11 |
 | [Primavera Porteña](https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [100](https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4) | 6:42 | 2022-08-12 |  |
 | [Promesas Sobre el Bidet](https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ) | [Juan Cruz De Urquiza](https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl), [Miguel Tarzia](https://open.spotify.com/artist/5l8QeZti5fdN56GFbFHjF0), [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV), [Pipi Piazzolla](https://open.spotify.com/artist/6vTHQ1JriYIqa3vWMFoI14) | [De Este Lado](https://open.spotify.com/album/1jChxnoLvKbJcLkf9Oku8G) | 7:51 | 2022-08-12 |  |
 | [Puerta y Regazo](https://open.spotify.com/track/2w1MdztRfIx6mS0SFSA53y) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Malosetti & la Colonia](https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH) | 2:29 | 2022-08-12 |  |

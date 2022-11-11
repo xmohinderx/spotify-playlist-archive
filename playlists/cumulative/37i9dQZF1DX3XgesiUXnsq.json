@@ -3745,10 +3745,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 162496,
       "name": "Song 32",
       "url": "https://open.spotify.com/track/6kqdiU8tYIznmQ7T0Lzlzx"
+    },
+    {
+      "album": {
+        "name": "Song 32",
+        "url": "https://open.spotify.com/album/2ZZWU7AAqHV9tXzNjPZrYJ"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162496,
+      "name": "Song 32",
+      "url": "https://open.spotify.com/track/7Duz1lXRfECWROhjHQ5dWk"
     },
     {
       "album": {
@@ -4365,7 +4383,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 227840,
       "name": "Triple Double",
       "url": "https://open.spotify.com/track/3HSWza0Gz15Ungnd4m4lMo"
@@ -4395,6 +4413,36 @@
       "duration_ms": 227840,
       "name": "Triple Double (feat. Mac Miller & Curren$y)",
       "url": "https://open.spotify.com/track/5RP1u9boxJ5OqfOUms1rUn"
+    },
+    {
+      "album": {
+        "name": "Triple Double (Remix)",
+        "url": "https://open.spotify.com/album/7ixfPBs9cuwwsAZLHCUJhZ"
+      },
+      "artists": [
+        {
+          "name": "Ombre2Choc Nation",
+          "url": "https://open.spotify.com/artist/7sbiAes6kYSnNq5hLu38uf"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227689,
+      "name": "Triple Double (Remix)",
+      "url": "https://open.spotify.com/track/7eCkph4MbJ436Lz0m2CAdR"
     },
     {
       "album": {

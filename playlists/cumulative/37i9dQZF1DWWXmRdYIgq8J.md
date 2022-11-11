@@ -4,7 +4,7 @@
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-92 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/3hJwIKMOemzG50G9c6UeZn)
+93 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/3hJwIKMOemzG50G9c6UeZn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@
 | [Ho More Raja](https://open.spotify.com/track/4du8jzQa9JHA2BB9IVprmc) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 4:56 | 2022-06-22 |  |
 | [Hunter](https://open.spotify.com/track/420E2n9BEBXL8J7uYAWXtR) | [Vedesh Sookoo](https://open.spotify.com/artist/7ISb9PCOxy0mfKcwsZY5wM), [Rajneesh](https://open.spotify.com/artist/1gFEvcgoCtwF6USROCIs8d), [Shyamoo](https://open.spotify.com/artist/09fbzAqn6OUh1MR2TbQkt6), [Munna](https://open.spotify.com/artist/7sHZEksfZX6M6bvqp1XLRz) | [Gangs Of Wasseypur](https://open.spotify.com/album/5lOKYvuSy6buolqIHSUwpG) | 4:17 | 2022-09-15 |  |
 | [I Tor Sahar](https://open.spotify.com/track/7GScKqEfygFYwx3B16Ax3o) | [Raj Mohan](https://open.spotify.com/artist/6q9e4Kaz8B1rWUhn90FKHH) | [Daayra](https://open.spotify.com/album/3QQhDdanpaBO8M2AmtFZTu) | 3:37 | 2022-06-22 | 2022-09-28 |
+| [Indian Gyal](https://open.spotify.com/track/0gFmU2a8x5zfDHupffa1Mi) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Soca Gold 2013](https://open.spotify.com/album/5IUSWCDg7mjjflea2V86mC) | 3:20 | 2022-10-27 |  |
 | [Indian Gyal](https://open.spotify.com/track/0Gwrr6kSMTbKoDhyNZPgY0) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Indian Gyal](https://open.spotify.com/album/2XwOXmK2KAUVSXulFIqymD) | 3:22 | 2021-10-21 | 2022-10-05 |
-| [Indian Gyal](https://open.spotify.com/track/2Vwpai1MSuaBJRXnMjAa3Y) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Indian Gyal](https://open.spotify.com/album/6SYuxFQV5iyRoI43DtDtQp) | 3:22 | 2022-09-27 |  |
+| [Indian Gyal](https://open.spotify.com/track/2Vwpai1MSuaBJRXnMjAa3Y) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Indian Gyal](https://open.spotify.com/album/6SYuxFQV5iyRoI43DtDtQp) | 3:22 | 2022-09-27 | 2022-11-11 |
 | [Jep Sting Naina \(feat\. Neeshan Prabhoo, Anil Bheem, Drupatee Ramgoonai, Andy Singh & Hunter\)](https://open.spotify.com/track/2zVidr0TGBdC3E0QzjBzWU) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC), [Hunter](https://open.spotify.com/artist/68iG5R3a6uBj7F5m4Ek28d), [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs), [Andy Singh](https://open.spotify.com/artist/3EyhGbKjTvUKakWogowSiz), [Neeshan Prabhoo](https://open.spotify.com/artist/6cqqpiOe197K2rEGTzEsIs), [Anil Bheem](https://open.spotify.com/artist/3kK0b5R9P49eBNFgKO4gQV) | [Karmageddon](https://open.spotify.com/album/7IvdAbaAIemMYVDljaCiEc) | 5:02 | 2021-10-21 | 2022-06-23 |
 | [Jhulai Kai Jhulaneeya](https://open.spotify.com/track/4T2RNha3216ColKhrewoRe) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i), [Devanand Gattoo](https://open.spotify.com/artist/6YJbkTQjvcQIlMgs6B0gUf) | [Jhulai Kai Jhulaneeya](https://open.spotify.com/album/1J3jCiMaCw6vONtH5dD5CJ) | 3:53 | 2022-09-15 |  |
 | [Kaha Ratiya](https://open.spotify.com/track/0JrJLBUf8lOJOjdU2pFgYo) | [Rasika Dindial](https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ) | [This Is Chutney](https://open.spotify.com/album/5Fmp7GwRXHWqxOwigb8Ywo) | 4:07 | 2022-09-27 |  |

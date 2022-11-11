@@ -66,6 +66,28 @@
     },
     {
       "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "album": {
         "name": "Late Checkout",
         "url": "https://open.spotify.com/album/7EKYXT614EhSh5jLDUdFAj"
       },
@@ -314,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Buzzkill",
+        "url": "https://open.spotify.com/album/67kT2zXqPMCGVAfpEf82yo"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174705,
+      "name": "Buzzkill",
+      "url": "https://open.spotify.com/track/4p9ROZgApJpuFRKl2Ffhbu"
+    },
+    {
+      "album": {
         "name": "Clockwork (feat. Spice)",
         "url": "https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8"
       },
@@ -391,7 +431,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 179186,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/0BJQL4uOXzJCwtVQO141SQ"
@@ -713,7 +753,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204631,
       "name": "Good 4 Me",
       "url": "https://open.spotify.com/track/62gZS4H4ujfLXUSnr5aA85"
@@ -753,7 +793,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204068,
       "name": "Gvnman Shift",
       "url": "https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU"
@@ -1543,7 +1583,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 141122,
       "name": "Stuntin' On You (feat. DaBaby)",
       "url": "https://open.spotify.com/track/341lTIxmhybbQsgydwJiFx"
@@ -1697,6 +1737,24 @@
       "duration_ms": 205777,
       "name": "Tell Me What To Do",
       "url": "https://open.spotify.com/track/3kqk3kfgy6ENe1Y6YdrJVH"
+    },
+    {
+      "album": {
+        "name": "100 Pop Hits Remixed!",
+        "url": "https://open.spotify.com/album/53NqvHW1F3dBmx3vHSdLk0"
+      },
+      "artists": [
+        {
+          "name": "DJ Remix Factory",
+          "url": "https://open.spotify.com/artist/0TvkwyCGv8xIaJ9bP8SL0i"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211013,
+      "name": "Temperature (DJ ReMix) (As Made Famous by Sean Paul)",
+      "url": "https://open.spotify.com/track/5dmLs1hlebFHb4QnUUqeJC"
     },
     {
       "album": {
@@ -1965,6 +2023,24 @@
       "duration_ms": 197986,
       "name": "Upset",
       "url": "https://open.spotify.com/track/4y5KpfyXBEzSiKoUqTc9kq"
+    },
+    {
+      "album": {
+        "name": "Vexed",
+        "url": "https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141782,
+      "name": "Vexed",
+      "url": "https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0"
     },
     {
       "album": {

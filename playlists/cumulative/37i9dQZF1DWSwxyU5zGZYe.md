@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-53 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/1ZkV0CfmGhvgxDrLrEpQmF)
+54 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/1ZkV0CfmGhvgxDrLrEpQmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Meri Tum Ho \(Unplugged\)](https://open.spotify.com/track/1BVlbuPTabrUN73h7LgyaY) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 3:33 | 2022-04-11 |  |
 | [Mitra Re \(Reprise\)](https://open.spotify.com/track/0VvSU2eXRF3E0b1hClv1uX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Mitra Re \(Reprise\)](https://open.spotify.com/album/1IeFurDxEca30wboHFE2I7) | 3:29 | 2022-05-09 |  |
 | [Moora](https://open.spotify.com/track/0pT28a92cnz0G3LbZyGYpf) | [Sneha Khanwalkar](https://open.spotify.com/artist/3JtetEsoytPoOIPGvqUvSR), [Robbie Styles](https://open.spotify.com/artist/18u4i8JkKpNzmQEUrLZPjx) | [Gangs Of Wasseypur \- 2](https://open.spotify.com/album/7DBbDXQbei6e4X6EdXOyz2) | 5:12 | 2022-04-11 |  |
-| [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/6eTPyEkYUmDUFvNxJdNuOD) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor](https://open.spotify.com/album/2zJbSTXQKOlCUHw4Cnh6iB) | 4:00 | 2022-07-12 |  |
+| [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/4diinDw5e8SKgscOqkcm7U) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [My Valentine](https://open.spotify.com/album/1MmyCf2RxFqsDY0X5UBLB4) | 4:00 | 2022-07-12 |  |
+| [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/6eTPyEkYUmDUFvNxJdNuOD) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor](https://open.spotify.com/album/2zJbSTXQKOlCUHw4Cnh6iB) | 4:00 | 2022-07-12 | 2022-11-11 |
 | [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/6sfVSlvCl5evgokuWNrHbE) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor](https://open.spotify.com/album/4AyGMWLHvkZiBniFBvTw8F) | 4:00 | 2022-04-11 | 2022-07-29 |
 | [Phir Na Milen Kabhi Reprise \(From "T\-Series Acoustics"\)](https://open.spotify.com/track/7mbIQC0jq3LwYEMCmNox4u) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB) | [Phir Na Milen Kabhi Reprise \(From "T\-Series Acoustics"\)](https://open.spotify.com/album/25HoVNeTivykih5pt0KbDi) | 3:18 | 2022-04-11 |  |
 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 | 2022-04-11 |  |

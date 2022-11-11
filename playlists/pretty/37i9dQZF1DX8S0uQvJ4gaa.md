@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Madeline Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,440 likes - 118 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 910,016 likes - 118 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 74 | [Whatcha Know About That](https://open.spotify.com/track/4sl7urnvv4gI7BtjGby7y0) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Whatcha Know About That](https://open.spotify.com/album/0dS99ant98Rrmw5tVuHfkE) | 2:48 |
 | 75 | [Buy A Girl A Drink](https://open.spotify.com/track/3WXWxyUcD9HQBQcNaFN6xd) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Buy A Girl A Drink](https://open.spotify.com/album/36tVeUCmIWva4RKFBN0OG8) | 3:16 |
 | 76 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 |
-| 77 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 |
+| 77 | [First Taste of Gone](https://open.spotify.com/track/59OjYMzswJJ5uv9GfxYEK5) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Country Hits: June 2022](https://open.spotify.com/album/1NL8MOv7WaIg71wEd2ERRE) | 2:52 |
 | 78 | [Everybody Needs a Song](https://open.spotify.com/track/75vHaYeWPXNSEytZzxIFXw) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Everybody Needs a Song](https://open.spotify.com/album/4CHsfVCrAwEr2FXe9RLweB) | 3:03 |
 | 79 | [Street Called Main](https://open.spotify.com/track/1CkulMzIn6ISjxiJMxqDz4) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Street Called Main](https://open.spotify.com/album/6hcYMqdIwsg2xfbGsGoQxb) | 3:49 |
 | 80 | [One Too](https://open.spotify.com/track/2wgCb69kASEz1uOUp4zjOi) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [One Too](https://open.spotify.com/album/1LBUZeG8sxyMMsYSye4yAL) | 3:21 |
@@ -120,11 +120,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 110 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 |
 | 111 | [Hear About a Girl](https://open.spotify.com/track/7aItjCZJYW1fkCUmVZOw8U) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Hear About a Girl](https://open.spotify.com/album/7oOVhXwJpYlcXiprRa8VNi) | 3:07 |
 | 112 | [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 |
-| 113 | [Wastin' Whiskey](https://open.spotify.com/track/3h10bRUpzMu0Umm2iXleYb) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Wastin' Whiskey](https://open.spotify.com/album/2l6aTa5socmv2iQZzF514T) | 3:10 |
+| 113 | [Wastin' Whiskey](https://open.spotify.com/track/5xxopu5i7Rca8eVZEOgUGR) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Beer Me](https://open.spotify.com/album/7CzW0FNRT15dnPl7IWYtVc) | 3:10 |
 | 114 | [We Had It Good](https://open.spotify.com/track/7HQIudswhHicyidL1V4iiO) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Born for This](https://open.spotify.com/album/2N1fClE6geEUJvpSeReyp7) | 3:32 |
 | 115 | [Just In Case](https://open.spotify.com/track/0YXTxxhAcbshkZ6n4QO30H) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/6ZJaKkfHx5nfEkXXjq3Ond) | 2:58 |
 | 116 | [what made you think?](https://open.spotify.com/track/3IkCyX2KnQIyuAYQiT1wtR) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [what made you think?](https://open.spotify.com/album/7bA8ZMcrVLEoNCIq7ZHutq) | 3:41 |
 | 117 | [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 |
 | 118 | [Thinkin' We're In Love](https://open.spotify.com/track/1dQYswRaULYA9XfPc02FF1) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Thinkin' We're In Love](https://open.spotify.com/album/2xgnv0PA9ibnyNbjrksmww) | 3:48 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGMxYWRmNWYwZDc1MGNmZjc3ZWFhNTQ4MGQ2NTY1ZDI3`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGZjOWU5MzkxNTUxMTU1NjBlYmEzMWQ0MGNhNzA2ODFi`

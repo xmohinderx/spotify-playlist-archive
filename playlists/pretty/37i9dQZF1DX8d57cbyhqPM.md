@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. / From the Congo, to the world\. 🌍  Photo: Koffi Olomide
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,192 likes - 90 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,248 likes - 90 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 3 | [Sapés comme jamais \(feat\. Niska\) \- Pilule bleue](https://open.spotify.com/track/0CJ31BEjjl1tPIj0CKi9kH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:26 |
 | 4 | [Mais](https://open.spotify.com/track/4EzTZrPNxui7ovuaCixG3a) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Mais](https://open.spotify.com/album/6SkQeNEaK0TRG2XDclaHUG) | 3:23 |
 | 5 | [Ndombolo](https://open.spotify.com/track/2DzhQ5UXu8fDQaQ0WaMYHK) | [J.B\. Mpiana](https://open.spotify.com/artist/6ZZMaIylugRJgjP7CAg7DX), [Wenge Musica](https://open.spotify.com/artist/196Mh2yrd4xaNupimhUmpP), [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Feux de l'amour](https://open.spotify.com/album/2R1EfXW4P5627Q6qZqxPtF) | 3:22 |
-| 6 | [Trouvez\-la moi](https://open.spotify.com/track/2HNpvUvyU9kYl41uha8cP7) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 5:51 |
+| 6 | [Trouvez\-la moi](https://open.spotify.com/track/4GCwwGStDEIQQWqUigg4Sa) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Gentleman 2.0 \(Réédition\)](https://open.spotify.com/album/6XARc5l24kwCi6AGv32w83) | 5:51 |
 | 7 | [Bloqué](https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Bloqué](https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8) | 3:18 |
 | 8 | [Muselu](https://open.spotify.com/track/3OkLPaGFAjbpCVC31V6pNL) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Dj Izzo](https://open.spotify.com/artist/11blWfNKSduuXQUmpMIve5) | [Muselu](https://open.spotify.com/album/3c6N0JVOcFLrMMhFQOPoj3) | 3:28 |
 | 9 | [Rond point](https://open.spotify.com/track/36V9liFzimANeSyaowyOA1) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb), [Quartier Latin](https://open.spotify.com/artist/34XQ0y2Kni5E4SDlFaAcG5) | [Droit de véto](https://open.spotify.com/album/0XRgQBLcvYIJH3AH9GrlRc) | 7:52 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 89 | [Dépenser](https://open.spotify.com/track/0PaTtFEQVVzknrmkAxpEk9) | [Monroe Djoboke](https://open.spotify.com/artist/419F5ECudqV2Ek9qMdyC4I) | [Escapade](https://open.spotify.com/album/2i3fdjcO4bn4XSfrfqdyXl) | 3:35 |
 | 90 | [Mbila \- João Selva Remix](https://open.spotify.com/track/1gW5zzEe41Hdbd3l1CYllP) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY), [João Selva](https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG) | [Mbila \(João Selva Remix\)](https://open.spotify.com/album/4CexHLC4PDH9rCz9l33xpo) | 4:02 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDJjMDcwMmIzZGRmNjVjODFmNzc3NjEyZWEzM2FiOGI4`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDhhYWQ3ZWQxZWZhOGUxNjU0MjU2NGJhZDI1YWMxM2E5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Skeng
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,631 likes - 61 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,706 likes - 61 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 18 | [Foot](https://open.spotify.com/track/07mwyrR0iD3MJjyBIRe4KQ) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Foot](https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV) | 2:47 |
 | 19 | [Street Cred](https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Street Cred](https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB) | 2:30 |
 | 20 | [Another Dolla](https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Another Dolla](https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl) | 2:43 |
-| 21 | [Rocket Launcher \(feat\. Rich The Kid & Popcaan\)](https://open.spotify.com/track/60gXgJTs7MAxZr91ZG3dVx) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Crocodile Teeth LP](https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH) | 3:00 |
+| 21 | [Rocket Launcher \(feat\. Rich The Kid & Popcaan\)](https://open.spotify.com/track/0MKA5ew6espUFHJ0zrhm6d) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Mr\. Universe EP](https://open.spotify.com/album/3cu8ZbrRjwwQQazuGsGnSm) | 3:00 |
 | 22 | [Life Story](https://open.spotify.com/track/54RD18DacMustMg17xzEC0) | [Silk Boss](https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF), [Terro Don](https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7) | [Life Story](https://open.spotify.com/album/2XwxdxqI2MfrPsaSIfXUo0) | 3:28 |
 | 23 | [Statistic](https://open.spotify.com/track/19NSqvgwMXkRc1g0FCvaR9) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [Lone Don Entertainment](https://open.spotify.com/artist/5FhEsG3c7rS0SOT4yYvHU0) | [Statistic](https://open.spotify.com/album/2o96kaWezr20piyF7LRqne) | 3:02 |
 | 24 | [Beethoven](https://open.spotify.com/track/3Vxe2Fe84a6M9iUXdtWxsh) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth LP](https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH) | 2:45 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 60 | [Three Little Birds](https://open.spotify.com/track/6sp0O9fvW24AlPX2NzFk0G) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Three Little Birds](https://open.spotify.com/album/5EITrZvdxDsCYsztF4LlHA) | 3:28 |
 | 61 | [Perfect Timing](https://open.spotify.com/track/1oVOsqeVthHmALeMn38oqN) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Perfect Timing](https://open.spotify.com/album/7peKE7q2tOlYtcTuprgrWq) | 2:58 |
 
-Snapshot ID: `MTY1OTY5NzY4MywwMDAwMDAwMDQwNzFiOWM3NDM0OGI3Y2EwNWU3ZmY1MDBiZDY2NjQ5`
+Snapshot ID: `MTY1OTY5NzY4MywwMDAwMDAwMGZiZGIyODE4ZWZlNDI5Zjg2NDEyOTQwMzY5NWYxYjk5`

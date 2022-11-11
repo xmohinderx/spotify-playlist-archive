@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Indie Covers",
+        "url": "https://open.spotify.com/album/5eHZZDVSgFtZdjXkwW8sdQ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199386,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/24ZpgHPAL3N8036KDgjfBx"
+    },
+    {
+      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199386,
       "name": "Addicted To Love",
       "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 153500,
       "name": "Bang Bang (My Baby Shot Me Down)",
       "url": "https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178658,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0hGO3Ws99t05Iboxcve9DC"
@@ -939,7 +957,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 220500,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 198133,
       "name": "Half the World Away",
       "url": "https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR"
@@ -1709,7 +1727,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 247879,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/4C9rhLT37Gv6VMVtFCb7O1"
@@ -1901,6 +1919,24 @@
     {
       "album": {
         "name": "Hotline Bling",
+        "url": "https://open.spotify.com/album/1iwGdRdfiOWULmprxkZnMD"
+      },
+      "artists": [
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175124,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/6Y2c7nqkwa5n2vykfdwDIE"
+    },
+    {
+      "album": {
+        "name": "Hotline Bling",
         "url": "https://open.spotify.com/album/7uQG2oZz8Vih52tkQH7QzJ"
       },
       "artists": [
@@ -1941,6 +1977,24 @@
       "duration_ms": 218285,
       "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/1HIj1pIcx7lLPojZwl621A"
+    },
+    {
+      "album": {
+        "name": "Undercover Bros.",
+        "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
+      },
+      "artists": [
+        {
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248590,
+      "name": "How Deep is Your Love",
+      "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
     },
     {
       "album": {
@@ -2197,7 +2251,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 154360,
       "name": "I'm On Fire - From \"Fifty Shades Of Grey\" Soundtrack",
       "url": "https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ"
@@ -2359,7 +2413,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 322994,
       "name": "Into The Black",
       "url": "https://open.spotify.com/track/7MXlRIl901aXfJ2oSGn0E2"
@@ -2777,7 +2831,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228000,
       "name": "Love on Top",
       "url": "https://open.spotify.com/track/2p49O7MazA7DBeS9IS9erq"
@@ -3087,7 +3141,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 197864,
       "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack",
       "url": "https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y"
@@ -3109,6 +3163,24 @@
       "duration_ms": 200191,
       "name": "Ocean Eyes",
       "url": "https://open.spotify.com/track/21vCVeinc9agpAM7scu3Tx"
+    },
+    {
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/5voqYP3p9vT3oRgJiliv8q"
+      },
+      "artists": [
+        {
+          "name": "The Darcys",
+          "url": "https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200191,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/6asiEFpicAsykncnpjbxKZ"
     },
     {
       "album": {
@@ -3271,7 +3343,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 210463,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
@@ -3391,7 +3463,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 341015,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0KPVOW1SAbaHZWaSzaJf5J"
@@ -3485,7 +3557,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 249400,
       "name": "Show Me The Meaning Of Being Lonely",
       "url": "https://open.spotify.com/track/4AxIU7R7grPIgl8m6xhvke"
@@ -3857,7 +3929,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 243209,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/55cFWjs1LPFOeBl4gLuD4M"
@@ -4049,7 +4121,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 212486,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6"
@@ -4121,7 +4193,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 196213,
       "name": "Torn - Bonus Track",
       "url": "https://open.spotify.com/track/5511Aj0mYSejKP6fplsoRk"
@@ -4327,7 +4399,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 188346,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
@@ -4471,7 +4543,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 210733,
       "name": "With Or Without You - BBC Jo Whiley Session / 2004",
       "url": "https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8"

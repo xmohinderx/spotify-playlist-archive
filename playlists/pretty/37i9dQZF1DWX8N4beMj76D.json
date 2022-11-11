@@ -1,29 +1,13 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 7438,
+  "num_followers": 7445,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDAzNzc4OTZhYzViZTkyYzI1YjQ2M2ZjNTYwODllMTdm",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDJkZDU4NDJiNDNmMDZiMmNmNTg3MTAzOGMxMWU0YTdm",
   "tracks": [
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
-        }
-      ],
-      "duration_ms": 413826,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
-    },
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
@@ -209,6 +193,26 @@
       "url": "https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq"
     },
     {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Live In London",
+        "url": "https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY"
+      },
+      "artists": [
+        {
+          "name": "The Webb Sisters",
+          "url": "https://open.spotify.com/artist/5WVYK25IDrN0y1ExA69Lr7"
+        },
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 322600,
+      "name": "If It Be Your Will (feat. Leonard Cohen) - Live in London",
+      "url": "https://open.spotify.com/track/6MgxI462nuWQkMowINdZkw"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
@@ -231,22 +235,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Live In London",
-        "url": "https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY"
+        "name": "Live Songs",
+        "url": "https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC"
       },
       "artists": [
-        {
-          "name": "The Webb Sisters",
-          "url": "https://open.spotify.com/artist/5WVYK25IDrN0y1ExA69Lr7"
-        },
         {
           "name": "Leonard Cohen",
           "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
         }
       ],
-      "duration_ms": 322600,
-      "name": "If It Be Your Will (feat. Leonard Cohen) - Live in London",
-      "url": "https://open.spotify.com/track/6MgxI462nuWQkMowINdZkw"
+      "duration_ms": 245493,
+      "name": "Passing Through - Live",
+      "url": "https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -263,22 +263,6 @@
       "duration_ms": 224746,
       "name": "Tower Of Song",
       "url": "https://open.spotify.com/track/1NpNxgzZRCPIbtXHmWX9dV"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Live Songs",
-        "url": "https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Passing Through - Live",
-      "url": "https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -395,22 +379,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Tower Of Song - The Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 337920,
-      "name": "Famous Blue Raincoat",
-      "url": "https://open.spotify.com/track/7dU7EHElNeLOCkNnQXQtZs"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
       },
@@ -423,6 +391,22 @@
       "duration_ms": 268853,
       "name": "Be for Real",
       "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Tower Of Song - The Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 337920,
+      "name": "Famous Blue Raincoat",
+      "url": "https://open.spotify.com/track/7dU7EHElNeLOCkNnQXQtZs"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -523,22 +507,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 482493,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Cowgirl's Prayer",
         "url": "https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC"
       },
@@ -551,6 +519,22 @@
       "duration_ms": 335906,
       "name": "Ballad of a Runaway Horse",
       "url": "https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 482493,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -627,6 +611,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Tower Of Song - The Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Story Of Isaac",
+      "url": "https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Dear Heather",
         "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
       },
@@ -648,13 +648,13 @@
       },
       "artists": [
         {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+          "name": "Martin Gore",
+          "url": "https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F"
         }
       ],
-      "duration_ms": 246760,
-      "name": "Story Of Isaac",
-      "url": "https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9"
+      "duration_ms": 212866,
+      "name": "Coming Back To You",
+      "url": "https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV"
     },
     {
       "added_at": "2018-12-06 19:29:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,001 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,074 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 17 | [504](https://open.spotify.com/track/7GSRWFN6ThzMKGh6vqBZ1u) | [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Unlock Your Mind](https://open.spotify.com/album/30DZF2u3CHEE3pWZibviRQ) | 4:39 |
 | 18 | [Call You Back](https://open.spotify.com/track/18IaulJ5ITzyQdDFyIsK1P) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn), [Haley Dekle](https://open.spotify.com/artist/7wjZTTRz5QZ8GfJPJbmH1C) | [Call You Back](https://open.spotify.com/album/1Jop1c4s9yv7e1ZOsiEAOh) | 2:49 |
 | 19 | [Yes We Can Can](https://open.spotify.com/track/2qlfzP4cXFnd718WGNDCT4) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/5Gov2tT73ooJR5WQienGoH) | 5:42 |
-| 20 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
+| 20 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/0j12Gr44QXICpHG970RbR7) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [NOW That's What I Call Music, Vol\. 59](https://open.spotify.com/album/7Dt2L4GbuzNlvCJ09M6McQ) | 3:53 |
 | 21 | [Lay Away](https://open.spotify.com/track/3f4CXO5zYSBDC1KE31rwZU) | [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Ladies & Gentlemen..\. Nigel Hall](https://open.spotify.com/album/0Hh14BVBAMbtgjOMAeC5Em) | 5:55 |
 | 22 | [Number One](https://open.spotify.com/track/19w0peKzUE7Ih1E0FGdaXO) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo](https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d) | 4:08 |
 | 23 | [The Real](https://open.spotify.com/track/30IC8IrryMmUW660TmvzYM) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [GLAM](https://open.spotify.com/album/5nNn2MGCpzQCzZaOkLcZWG) | 4:51 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 30 | [Change](https://open.spotify.com/track/2U2OWAIT6F4ZLpH6Yy8TR7) | [Nojazz](https://open.spotify.com/artist/6KLnaNNqxZlVKGMavwJ8Zn) | [Soul Stimulation](https://open.spotify.com/album/26lKujx8VZ8nUFRXKRn2tC) | 3:37 |
 | 31 | [Troubled Land \(feat\. James Junior\)](https://open.spotify.com/track/3WKaXpha1oA7aeTQ3YAoDQ) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44), [James Junior](https://open.spotify.com/artist/3V4lVinkwdxxhWtT58RUkr) | [No Turning Back](https://open.spotify.com/album/5p1fhgKxJDSXZQy4u0r26a) | 5:29 |
 | 32 | [Crave](https://open.spotify.com/track/1Eu00VxwsLMjHI6nQZ9RtW) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Hidden Figures: The Album](https://open.spotify.com/album/5ydGsF9Qy1IZsFmLRpJ4oc) | 2:53 |
-| 33 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 |
+| 33 | [24K Magic](https://open.spotify.com/track/3bO7y94nEH5eIhC1licVVa) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Billionaire \- 10's Most Upbeat Pop](https://open.spotify.com/album/7CVsVD2xyKRlOTLnNvCD90) | 3:45 |
 | 34 | [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 |
 | 35 | [Freckles](https://open.spotify.com/track/1cGpjqxs56wNKE6LOBnUcD) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Breaks from the Border](https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH) | 3:43 |
 | 36 | [I Need A Dollar](https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl) | 4:03 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 72 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 73 | [It's Gonna Rain](https://open.spotify.com/track/58gPIRzKQteZDwUQKQAj0q) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 5:07 |
 
-Snapshot ID: `MTY2NDUzMzIwMCwwMDAwMDAwMDFjNDFmNDA5MTBlZTY1OTNkMjQyNTk0ZGUyZTA1YzM2`
+Snapshot ID: `MTY2NDUzMzIwMCwwMDAwMDAwMGFlN2NmNmU1ZWUwNjZhYWJhYjRiMmQyZGNhZmZmYWZm`

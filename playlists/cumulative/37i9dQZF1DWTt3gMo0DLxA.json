@@ -586,6 +586,28 @@
     },
     {
       "album": {
+        "name": "Bombhaat Tunes Of Rahul Sipligunj",
+        "url": "https://open.spotify.com/album/0tQOZoDpQ996Hf4ugguWiH"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        },
+        {
+          "name": "Mohana Bhogaraju",
+          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Iraga Iraga",
+      "url": "https://open.spotify.com/track/0yRQB77cu1C1jLVHh12exS"
+    },
+    {
+      "album": {
         "name": "Naa Peru Surya Naa Illu India",
         "url": "https://open.spotify.com/album/3S0ezMfLB53pIEfYwAdG9R"
       },
@@ -597,7 +619,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 240000,
       "name": "Iraga Iraga",
       "url": "https://open.spotify.com/track/2RCigtiYWf4LBCbp60m7Qg"
@@ -802,6 +824,28 @@
     },
     {
       "album": {
+        "name": "Sarkaru Vaari Paata (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4k1eyhV232FplXyv3nnv9q"
+      },
+      "artists": [
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246864,
+      "name": "Ma Ma Mahesha",
+      "url": "https://open.spotify.com/track/4o0fdLdeKc0KHTs0ouiUpi"
+    },
+    {
+      "album": {
         "name": "Ma Ma Mahesha - Sarkaru Vaari Paata",
         "url": "https://open.spotify.com/album/6zhQKIoNnvBeekH1s5do2M"
       },
@@ -847,7 +891,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 246864,
       "name": "Ma Ma Mahesha (From \"Sarkaru Vaari Paata\")",
       "url": "https://open.spotify.com/track/0d4ZeWg7NBzA5NnFPn8a89"

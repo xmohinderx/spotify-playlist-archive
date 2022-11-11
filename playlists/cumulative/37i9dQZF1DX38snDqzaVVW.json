@@ -48,6 +48,32 @@
     },
     {
       "album": {
+        "name": "This is Christmas - Arabic",
+        "url": "https://open.spotify.com/album/5rI43tQdy9cjIvjHiV46hB"
+      },
+      "artists": [
+        {
+          "name": "Rachid Taha",
+          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
+        },
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        },
+        {
+          "name": "Faudel",
+          "url": "https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296946,
+      "name": "Abdel Kader - Live \u00e0 Bercy / 1998",
+      "url": "https://open.spotify.com/track/2GYijO8Hqmm2OG4l0qGwIc"
+    },
+    {
+      "album": {
         "name": "1,2,3, Soleils",
         "url": "https://open.spotify.com/album/1fYYDAZ9C2gg3rB66JpHjS"
       },
@@ -93,7 +119,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 300426,
       "name": "Abdel Kader - Live \u00e0 Bercy, Paris / 1998",
       "url": "https://open.spotify.com/track/35WrDt7pX6fg7JLJ2fkuaM"
@@ -256,6 +282,24 @@
     },
     {
       "album": {
+        "name": "African Football Anthems, Vol. 2",
+        "url": "https://open.spotify.com/album/4ID456HcSB3l360tYIEWzV"
+      },
+      "artists": [
+        {
+          "name": "Ofo The Black Company",
+          "url": "https://open.spotify.com/artist/0BX4K3xwLgIqMqza4yS8eI"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210146,
+      "name": "Allah Wakbarr",
+      "url": "https://open.spotify.com/track/1W1SJMfXUYIWDqE4CjYKwj"
+    },
+    {
+      "album": {
         "name": "Nigeria 70 - Funky Lagos",
         "url": "https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf"
       },
@@ -285,7 +329,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 212146,
       "name": "Allah Wakbarr",
       "url": "https://open.spotify.com/track/0OZuyF5vpDnlugDqwUivf9"

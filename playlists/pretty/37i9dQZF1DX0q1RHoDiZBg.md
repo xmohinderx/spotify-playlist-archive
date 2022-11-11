@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,358 likes - 92 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,406 likes - 92 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 40 | [I Shall Be Released \(with Fleet Foxes\) \- Live](https://open.spotify.com/track/4gIYdTW0oUC3jnCHbDUl65) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Alpha Mike Foxtrot: Rare Tracks 1994 \- 2014](https://open.spotify.com/album/71CIpjzqwqHxnUxL1FDS0M) | 3:33 |
 | 41 | [Things Have Changed](https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue) | 6:56 |
 | 42 | [I Want You](https://open.spotify.com/track/0KCdk9pI0pRCABKs3sU2G7) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Listen to Bob Dylan: A Tribute](https://open.spotify.com/album/2k4b6SP5UFZ6SfW3n7CY6z) | 2:42 |
-| 43 | [Nobody 'Cept You](https://open.spotify.com/track/2fvjzwM008TaNMFa4jINC9) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Written in Scars \(New Edition\)](https://open.spotify.com/album/0ROaXcCJvg74dnUHhm3GbF) | 3:12 |
+| 43 | [Nobody 'Cept You](https://open.spotify.com/track/4hp2rh5GBr3G2EvclFZqOm) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Written in Scars \(Expanded Edition\)](https://open.spotify.com/album/1EtytHvVBFGTUQJrYLKTQk) | 3:12 |
 | 44 | [Fourth Time Around](https://open.spotify.com/track/6D6G35aT8UypiaeoqJlU6M) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I'm Not There \(Music From The Motion Picture \- Original Soundtrack\)](https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3) | 5:07 |
 | 45 | [With God On Our Side](https://open.spotify.com/track/73e4ndrkfGIxqXAWm9PFvx) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings Dylan](https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34) | 5:11 |
 | 46 | [Every Grain of Sand](https://open.spotify.com/track/4hlVWkQO0hxR9Ob1IsNdN0) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 3:55 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 91 | [Sad Eyed Lady of the Lowlands \(Live\)](https://open.spotify.com/track/5voOTLOA7LPegmOdNJU7vV) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 9:27 |
 | 92 | [I Can't Get You Off Of My Mind](https://open.spotify.com/track/6O37wVoMQFeh7vZ9mJnoMH) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Hank Williams Timeless](https://open.spotify.com/album/6Wuq8Fn9q0QmTchA8xnR3L) | 2:55 |
 
-Snapshot ID: `MTUzMzIyMzE3NCwwMDAwMDAwMDBmYWJiODVmNmI4NmYyZDRiYTk0YjZjZDE4MzYyYjli`
+Snapshot ID: `MTUzMzIyMzE3NCwwMDAwMDAwMDk2NTlmNGUyYzlkYjg4ZDkyNGQ0NDM2NmE1OTUxNWJh`

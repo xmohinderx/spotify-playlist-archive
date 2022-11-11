@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 7,536 likes - 24 songs - 1 hr 31 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 7,540 likes - 24 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 |
-| 2 | [if and when](https://open.spotify.com/track/5x05lyscQMBZcASG9uP6oU) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [MK 3.5: Die Cuts \| City Planning](https://open.spotify.com/album/1syG1kZ36G6xVnnsr6RjG2) | 3:58 |
+| 2 | [if and when \(feat\. Wiki\)](https://open.spotify.com/track/5x05lyscQMBZcASG9uP6oU) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [MK 3.5: Die Cuts \| City Planning](https://open.spotify.com/album/1syG1kZ36G6xVnnsr6RjG2) | 3:58 |
 | 3 | [Cherry Blue Intention](https://open.spotify.com/track/2JrozyGS7r75L39rt3xoGx) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Endure](https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9) | 3:23 |
 | 4 | [Harpo \(Who Dis Woman\)](https://open.spotify.com/track/6uxBrwXcqs5jupxyQ9xiy6) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Harpo \(Who Dis Woman\)](https://open.spotify.com/album/1J01UJ9uRCpmiR4avXgv9Q) | 3:13 |
 | 5 | [Born Yesterday](https://open.spotify.com/track/45TCUDE0fwhbP84CcTuYUh) | [Gladie](https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6) | [Born Yesterday](https://open.spotify.com/album/4YB32RDVOQCFIwF18pkmDy) | 3:22 |

@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27099,
+  "num_followers": 27098,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDczMTU2ZTRiZjdjOGRjM2M1ZWNhYjk5NzM3NzMyZDQ4",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDQxMWI5MGQ3MDI3YzhlYzYzMDA4OWQwYWEwMTZjYjFi",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -27,22 +27,6 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -311,26 +295,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Giant (with Rag'n'Bone Man)",
-        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 229184,
-      "name": "Giant (with Rag'n'Bone Man)",
-      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "AV\u012aCI (01)",
         "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
       },
@@ -371,18 +335,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
+        "name": "Giant (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
         }
       ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
+      "duration_ms": 229184,
+      "name": "Giant (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -403,6 +371,22 @@
       "duration_ms": 211362,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -735,22 +719,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 192681,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l"
       },
@@ -1015,26 +983,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Snacks",
-        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Breathe (feat. Ina Wroldsen)",
-      "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "One Touch",
         "url": "https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL"
       },
@@ -1055,26 +1003,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Why Boy",
         "url": "https://open.spotify.com/album/2POadj9PRm2V5QbVuVPDUo"
       },
@@ -1091,6 +1019,26 @@
       "duration_ms": 150005,
       "name": "Why Boy",
       "url": "https://open.spotify.com/track/2devxXJUTEIFmgt8cXaqmO"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1119,26 +1067,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE"
-      },
-      "artists": [
-        {
-          "name": "Refeci",
-          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
-        },
-        {
-          "name": "Michel Fannoun",
-          "url": "https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Hurts 2B Human (feat. Khalid)",
         "url": "https://open.spotify.com/album/3eQRZ9cftF0ezsRsynepNl"
       },
@@ -1155,6 +1083,26 @@
       "duration_ms": 202640,
       "name": "Hurts 2B Human (feat. Khalid)",
       "url": "https://open.spotify.com/track/7c5h27Ju8JE5xWKTQ88KhL"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE"
+      },
+      "artists": [
+        {
+          "name": "Refeci",
+          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
+        },
+        {
+          "name": "Michel Fannoun",
+          "url": "https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1199,22 +1147,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "All I Wanna Do",
-        "url": "https://open.spotify.com/album/49pOtXDkhfPJBwtlf5vrLm"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Lost In Amsterdam (feat. Eskeemo)",
         "url": "https://open.spotify.com/album/3GlialhdlVuLTrU3BGF4aj"
       },
@@ -1251,22 +1183,6 @@
       "duration_ms": 127268,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Hotel Walls",
-      "url": "https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1351,6 +1267,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Hotel Walls",
+        "url": "https://open.spotify.com/album/4CelkbBswbzDx3UWnG3tFX"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "Hotel Walls",
+      "url": "https://open.spotify.com/track/7MUUzpdrSa8UUEpyS1dGUq"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Dynamite (feat. Pretty Sister)",
         "url": "https://open.spotify.com/album/1B0jux6nCrSuez1iPS7tUJ"
       },
@@ -1427,6 +1359,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Too Close",
+        "url": "https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE"
+      },
+      "artists": [
+        {
+          "name": "Ria Mae",
+          "url": "https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT"
+        },
+        {
+          "name": "Dan Talevski",
+          "url": "https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH"
+        }
+      ],
+      "duration_ms": 147741,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
         "url": "https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu"
       },
@@ -1451,22 +1403,18 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Too Close",
-        "url": "https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE"
+        "name": "Sun Is Shining",
+        "url": "https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ"
       },
       "artists": [
         {
-          "name": "Ria Mae",
-          "url": "https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT"
-        },
-        {
-          "name": "Dan Talevski",
-          "url": "https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         }
       ],
-      "duration_ms": 147741,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU"
+      "duration_ms": 189243,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1487,22 +1435,6 @@
       "duration_ms": 189867,
       "name": "Safe Place (feat. Maximus)",
       "url": "https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Sun Is Shining",
-        "url": "https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 189243,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1563,6 +1495,86 @@
       "duration_ms": 156283,
       "name": "High On Your Love",
       "url": "https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Too Far Gone",
+        "url": "https://open.spotify.com/album/4Ow8VDC7PLzir1Glze74dW"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Anna Clendening",
+          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
+        }
+      ],
+      "duration_ms": 196953,
+      "name": "Too Far Gone",
+      "url": "https://open.spotify.com/track/0s5ibKUNbISHnrBrx1o2nF"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Stand By (#CWC19) (feat. Rudimental)",
+        "url": "https://open.spotify.com/album/2RhRVX61dIP4z7T5cgAXzi"
+      },
+      "artists": [
+        {
+          "name": "LORYN",
+          "url": "https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 189274,
+      "name": "Stand By (#CWC19) (feat. Rudimental)",
+      "url": "https://open.spotify.com/track/05P4BYqVauVxy0w9g6w2D9"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Awa Ni",
+        "url": "https://open.spotify.com/album/0JcasIRv6rbQG0Bb98o7In"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 219776,
+      "name": "Awa Ni",
+      "url": "https://open.spotify.com/track/4ob71GMH7PAokRzPhejagR"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/0gsRK96dxwHjosLKpHgns4"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        }
+      ],
+      "duration_ms": 169781,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/1zZPjx3m2M604sI7GpI2ZR"
     }
   ],
   "unique_name": "After Work",

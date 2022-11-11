@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 
 > Get into the flow and stay focused while writing code with music curated by the JetBrains team.
 
-[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 1,228 likes - 105 songs - 9 hr 49 min
+[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 1,448 likes - 106 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,5 +113,6 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 | 103 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 |
 | 104 | [Osaka \- Live from One Nite Alone Tour 2002](https://open.spotify.com/track/00VcdK7TplYqEfSyU7daNR) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [C\-Note \- Live](https://open.spotify.com/album/7397gM3NEPihmOn5FqrTRe) | 5:40 |
 | 105 | [Signals \- Remastered 2005](https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:46 |
+| 106 | [A New Error](https://open.spotify.com/track/1fmoCZ6mtMiqA5GHWPcZz9) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [Moderat](https://open.spotify.com/album/2HEh23ogCT3wiYfag2iMxD) | 6:07 |
 
-Snapshot ID: `MTY5LDVmMzJmODhmMGVkNDU1Yzc5NDQ4MzQwYTQzZjdlNmU1Y2FmNDk4Y2Q=`
+Snapshot ID: `MTc0LDJhYzA2ZDhjYjFhZDk1ZTUxY2Q0ZjA0OTI2OTFjYjkxY2Y4MjZmNzM=`

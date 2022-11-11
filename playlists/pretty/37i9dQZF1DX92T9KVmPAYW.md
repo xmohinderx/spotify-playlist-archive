@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92T9KVmPAYW.md) - [plain]
 
 > Classic Ambient and Environmental music made in Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,809 likes - 46 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,878 likes - 46 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92T9KVmPAYW.md) - [plain]
 | 3 | [SUNNYSIDE OF THE WATER/水と光](https://open.spotify.com/track/2Qf0RR9hkZ8CSX2XoePVrv) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 3:07 |
 | 4 | [Water Copy](https://open.spotify.com/track/48MPwRtt4PRuC0gUZgkI48) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:11 |
 | 5 | [Sealed](https://open.spotify.com/track/3nagQKjvGa9hhVHGmFzFdC) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Oto No Wa: Selected Sounds of Japan 1988\-2018](https://open.spotify.com/album/6u6zXpuGoDl7xJfUK49WVn) | 5:51 |
-| 6 | [Saku](https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 5:45 |
+| 6 | [Saku](https://open.spotify.com/track/6uvbmhgIhT9fvAHYk743qO) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Skintone Collection](https://open.spotify.com/album/5rPFClBuGOO281xc2g0wAs) | 5:43 |
 | 7 | [Until the End of the World](https://open.spotify.com/track/6zC5XZfQBCbLTsx9l9lrEu) | [Masahiro Sugaya](https://open.spotify.com/artist/0ZH37cF1gwuwRW86ueqau1) | [Horizon, Volume 1](https://open.spotify.com/album/0Tvs4LpQSHSH1gcfVdF3WV) | 6:04 |
 | 8 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/414AJsmhPuEA7W3wC9Go77) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 3:47 |
 | 9 | [Still Sky](https://open.spotify.com/track/4O8E7XRXOp8TpqRUYsv0Q9) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Still Way \(Wave Notation 2\)](https://open.spotify.com/album/2kxWdAN5jIbHnnJ9VhJYqg) | 8:35 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92T9KVmPAYW.md) - [plain]
 | 41 | [さてと](https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Dementos](https://open.spotify.com/album/4rvC2RKIa10KGyGQYx2ftc) | 2:49 |
 | 42 | [Evocations 2](https://open.spotify.com/track/7LsaMGZqUxbfujsF4ML0HG) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 7:11 |
 | 43 | [TO THE AIR/空へ](https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 5:11 |
-| 44 | [Hagoromo](https://open.spotify.com/track/1OAauBqF32EtJHTVsd12Zv) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 3:52 |
+| 44 | [Hagoromo](https://open.spotify.com/track/6sjrK8k0GnUSSUe9EEcNfE) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Skintone Collection](https://open.spotify.com/album/5rPFClBuGOO281xc2g0wAs) | 3:51 |
 | 45 | [Blink](https://open.spotify.com/track/0Bc4abgrOxonETzZupd4BE) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:44 |
 | 46 | [Tomoshibi](https://open.spotify.com/track/7lmpi4NLJ86s013B9f6XSf) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 7:00 |
 
-Snapshot ID: `MTY2NDg5Mzg2NSwwMDAwMDAwMDFjOTIxMzQ0NGU3MjI0MTk4NTA2OWQwOGQ1ZWJlOWQy`
+Snapshot ID: `MTY2NDg5Mzg2NSwwMDAwMDAwMGRmOGFjMzhlYzY5ZTQxY2QwZTY2NjcwNDY5ZDYxNGM5`

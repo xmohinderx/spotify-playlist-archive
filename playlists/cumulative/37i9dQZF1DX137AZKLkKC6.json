@@ -320,6 +320,28 @@
     },
     {
       "album": {
+        "name": "Como Si Nada",
+        "url": "https://open.spotify.com/album/23AVhkrU4uDEnSv0QaSRmI"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189208,
+      "name": "Como Si Nada",
+      "url": "https://open.spotify.com/track/5M2rUcoW3Kffm6Iw0NOje4"
+    },
+    {
+      "album": {
         "name": "En Tus Manos",
         "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
       },
@@ -335,7 +357,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 189208,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/6fxct5RZKGNgRMcXULezMW"
@@ -611,10 +633,32 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215243,
       "name": "Ellas As\u00ed Son",
       "url": "https://open.spotify.com/track/3KryG1HWXMmNbFc5unHd2C"
+    },
+    {
+      "album": {
+        "name": "Ellas As\u00ed Son",
+        "url": "https://open.spotify.com/album/0J9nQoFFEZlrvAjNnwsGOP"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215243,
+      "name": "Ellas As\u00ed Son",
+      "url": "https://open.spotify.com/track/7tg8QC49iqo6swPF6kXmWN"
     },
     {
       "album": {
@@ -967,10 +1011,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 167895,
       "name": "Mis Borracheras",
       "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
+    },
+    {
+      "album": {
+        "name": "YT Rocket Hits",
+        "url": "https://open.spotify.com/album/5AHZY3HQTNVPpKYbRwj7gO"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167895,
+      "name": "Mis Borracheras",
+      "url": "https://open.spotify.com/track/5NSljTmp3TVnCxXw7Ru43B"
     },
     {
       "album": {
@@ -1144,6 +1206,24 @@
     },
     {
       "album": {
+        "name": "Mi Promesa (Con el Corazon)",
+        "url": "https://open.spotify.com/album/41unRHnDM7z4qslFNtwWbp"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177496,
+      "name": "Por Qu\u00e9 la Envidia",
+      "url": "https://open.spotify.com/track/4AQT9Lh9tjYztUGmubRD9q"
+    },
+    {
+      "album": {
         "name": "Con el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ"
       },
@@ -1155,7 +1235,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 177528,
       "name": "Por Qu\u00e9 la Envidia",
       "url": "https://open.spotify.com/track/433eYQkvCgJKXh1o7LtplV"

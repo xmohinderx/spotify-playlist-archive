@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,497 likes - 49 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,559 likes - 49 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 6 | [SAKURA BURST](https://open.spotify.com/track/7Bqj9jdgaxttbxVecvlZG3) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [SAKURA BURST](https://open.spotify.com/album/2xlpUnAnG5YBAOqbDPld0z) | 4:23 |
 | 7 | [will\-ill](https://open.spotify.com/track/7fJ1M28qRsUjSk8r0kKNv3) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [will\-ill](https://open.spotify.com/album/3KsCE9aD7Po22BP79o3kt0) | 5:09 |
 | 8 | [DICE](https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE](https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1) | 4:25 |
-| 9 | [COLORS](https://open.spotify.com/track/6bPPyigCphBBQ9781j6eKM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:38 |
+| 9 | [COLORS](https://open.spotify.com/track/0k0dEdzBMwxuy9wYMpakOa) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 3:39 |
 | 10 | [勇侠青春謳](https://open.spotify.com/track/7tbS1FAMmd8fNXQVzvDsWl) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [25周年記念ベストアルバム「愛と誠\~YAMATO & LOVE×××」](https://open.spotify.com/album/1C8RqCYhu5i4Mr827fe0R5) | 4:23 |
 | 11 | [解読不能](https://open.spotify.com/track/0TKKGAyysdP5DTxc3zRuCW) | [Jinn](https://open.spotify.com/artist/1ve6qu9hbhEB8BMQwBUzYf) | [解読不能](https://open.spotify.com/album/7hLgA6PTXN6K1CgMkQlfFS) | 3:07 |
 | 12 | [モザイクカケラ](https://open.spotify.com/track/4IoTVvCLzgLXLsqIFMDPQU) | [SunSet Swish](https://open.spotify.com/artist/6BP2pX1i8U6yZHXRvStQ74) | [PASSION](https://open.spotify.com/album/5F9k7boN03RGQSvDePJ2ri) | 4:31 |
 | 13 | [瞳ノ翼](https://open.spotify.com/track/1WsJa8gcDaN98fKWjkzACu) | [access](https://open.spotify.com/artist/3lm6JsSicTww5h33Yvee1H) | [瞳ノ翼](https://open.spotify.com/album/3VZC8ZQhXC0ssXkXG3SjmR) | 3:32 |
 | 14 | [O2](https://open.spotify.com/track/4RMQc14Cq14LmPpKXtFDHx) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [PANIC FANCY](https://open.spotify.com/album/0bcznv62ho46F3dl6paFG7) | 3:57 |
 | 15 | [シアワセネイロ](https://open.spotify.com/track/1rEFlimO0JqcvsAtPUT0ho) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [PANIC FANCY](https://open.spotify.com/album/0bcznv62ho46F3dl6paFG7) | 4:17 |
-| 16 | [WORLD END](https://open.spotify.com/track/4wODMeGBAwLAmq0zSAb8Z3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#5](https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV) | 3:46 |
+| 16 | [WORLD END](https://open.spotify.com/track/3iXi7322ua1t6enLpuDho8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 3:48 |
 | 17 | [わが臈たし悪の華](https://open.spotify.com/track/3MJqgOdP2nNb8QzfIaV0io) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [桂冠詩人 SINGLE COLLECTION PLUS](https://open.spotify.com/album/004c28tUoHBiyAxdzO0z8e) | 4:30 |
 | 18 | [赤だけが足りない](https://open.spotify.com/track/374bDeFT5PC3fU85QWTCKm) | [Iris Woo](https://open.spotify.com/artist/7x2hNYu3nbbyMnete3M0fD) | [赤だけが足りない](https://open.spotify.com/album/1wYav487ZMFUiun6Yorv0n) | 4:27 |
 | 19 | [The Moon](https://open.spotify.com/track/7nq9fkctKub9nIIqDKpRhi) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [The Moon](https://open.spotify.com/album/3goHvNnTtAc9tjR7omOQV5) | 4:19 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 28 | [Innocent Days](https://open.spotify.com/track/62bzDxqo0vC31AL3lfjv3Q) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [Angel Feather Voice](https://open.spotify.com/album/6Fmcfn2D9qlWAW1JpOX5og) | 4:26 |
 | 29 | [Picaresque](https://open.spotify.com/track/4hl2IKRPMWYMpI4EXnJDFm) | [Mikio Sakai](https://open.spotify.com/artist/6KFocrrFAPX0HOIsRQG9Hr) | [my souls](https://open.spotify.com/album/7Bw1OfGpVCcKBqSa9B8jSX) | 4:01 |
 | 30 | [Callin'](https://open.spotify.com/track/7beDzK8J9846WEcbOLObWx) | [Mikio Sakai](https://open.spotify.com/artist/6KFocrrFAPX0HOIsRQG9Hr) | [my souls](https://open.spotify.com/album/7Bw1OfGpVCcKBqSa9B8jSX) | 4:36 |
-| 31 | [Boku wa Tori ni naru.](https://open.spotify.com/track/6mbVx8hwoF9D5lugaGBlia) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [Angel Feather Voice 2](https://open.spotify.com/album/2MpUgcKkLgZ0xKzUoaXHNh) | 5:05 |
+| 31 | [Bokuwa, Tori ni Naru.](https://open.spotify.com/track/1vkrI9ZS7jYczbsOSY73aH) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [CODE GEASS Lelouch of the Rebellion R2 Original Motion Picture Soundtrack 2](https://open.spotify.com/album/3IIFkA4CF46RTRyiDUz4tx) | 5:08 |
 | 32 | [今はここに](https://open.spotify.com/track/6y0aFx8yruYbEZf8wk8Wkz) | [相坂優歌](https://open.spotify.com/artist/3s96N2VlNLmsyVyDoG8vyS) | [屋上の真ん中 で君の心は青く香るまま](https://open.spotify.com/album/2IYqL8Oei8sUMUFhHAuULL) | 5:11 |
 | 33 | [Rasen no Piece](https://open.spotify.com/track/2b8uJcvvAn6T6eE1mFoPpF) | [Rayflower](https://open.spotify.com/artist/1GDSfCGBESdvPvas0YT7Q9) | [CODE GEASS Lelouch of the Re: Surrection Original Motion Picture Soundtrack](https://open.spotify.com/album/6MwT7LUJJd2S4A15RXXW4D) | 5:27 |
 | 34 | [Utsukushiki Kemonotachi no Tameno](https://open.spotify.com/track/1KNWZvBfFjhJjFu8V0c9i9) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [CODE GEASS Lelouch of the Re: Surrection Original Motion Picture Soundtrack](https://open.spotify.com/album/6MwT7LUJJd2S4A15RXXW4D) | 4:33 |
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 41 | [Madder Sky](https://open.spotify.com/track/3nnWqdILtY4y8lRwFWt3te) | [Kotaro Nakagawa](https://open.spotify.com/artist/799szdFb1vmNTMYNDRjmo8) | [CODE GEASS Lelouch of the Rebellion R2 Original Motion Picture Soundtrack 1](https://open.spotify.com/album/7K6HBIP6UWOBYbPw9dTaj5) | 2:56 |
 | 42 | [The Master](https://open.spotify.com/track/1F40AeZQaerwAPy2kKVcFD) | [Kotaro Nakagawa](https://open.spotify.com/artist/799szdFb1vmNTMYNDRjmo8) | [CODE GEASS Lelouch of the Rebellion R2 Original Motion Picture Soundtrack 1](https://open.spotify.com/album/7K6HBIP6UWOBYbPw9dTaj5) | 2:03 |
 | 43 | [No Choice But To Fight](https://open.spotify.com/track/1rx42qnXkwokP9FzbJEw0u) | [Ichiko Hashimoto](https://open.spotify.com/artist/4wTSNilt4EsffHSJrcnwbQ) | [CODE GEASS Akito the Exiled Original Motion Picture Soundtrack 1](https://open.spotify.com/album/5Ev0jcgJU0cr2aQHX57xlb) | 3:19 |
-| 44 | [Stories](https://open.spotify.com/track/1nS1lUTYXp6gO3ssPSKGU1) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [Angel Feather Voice](https://open.spotify.com/album/6Fmcfn2D9qlWAW1JpOX5og) | 5:19 |
+| 44 | [Stories](https://open.spotify.com/track/6oLdsKc3HYsBgmMKhwoOlK) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [CODE GEASS Lelouch of the Rebellion Original Motion Picture Soundtrack 1](https://open.spotify.com/album/2L4B0cobrQ4MN2RvsuvJRx) | 5:19 |
 | 45 | [Reincarnation](https://open.spotify.com/track/12srKVFG1yH6NgwUDkZEb1) | [C.C\. \(CV: Yukana \)](https://open.spotify.com/artist/691JYAhPBHp8g0EwVoTDSa) | [CODE GEASS Lelouch of the Rebellion Character Song Best](https://open.spotify.com/album/0QgYZkEZ7hUlKrZKyrZTh1) | 3:37 |
 | 46 | [Back to Zero](https://open.spotify.com/track/1DgCZzMrcroQTWWaALo1ey) | [Lelouch \(CV: Jun Fukuyama \)](https://open.spotify.com/artist/28W6ugaQgusYHGOLU168c0) | [CODE GEASS Lelouch of the Rebellion CODE BLACK+](https://open.spotify.com/album/4p7rhqRaSDuov2a5v0arKu) | 5:22 |
 | 47 | [Never End](https://open.spotify.com/track/2lAg8s3QxxgsTLReuocXGY) | [Lelouch \(CV: Jun Fukuyama \)](https://open.spotify.com/artist/28W6ugaQgusYHGOLU168c0) | [CODE GEASS Lelouch of the Rebellion Character Song Best](https://open.spotify.com/album/0QgYZkEZ7hUlKrZKyrZTh1) | 4:36 |
 | 48 | [Hare Nochi Natsuno Ame](https://open.spotify.com/track/3gbLkvIDHDEhVyI5Qw3vgU) | [Shirley \(CV: Tomiko Orikasa \)](https://open.spotify.com/artist/4oyLv4lmkKLcW9jBnGuqiU) | [CODE GEASS Lelouch of the Rebellion Character Song Best](https://open.spotify.com/album/0QgYZkEZ7hUlKrZKyrZTh1) | 4:54 |
 | 49 | [Tennshi\-teki Kenpo 4jo](https://open.spotify.com/track/3x1z93295mcnEZsTkfCuqh) | [Tien Zi \(CV: Tamaki Matsumoto \)](https://open.spotify.com/artist/2IdIiAuUpBAxUuzLxqdb0D) | [CODE GEASS Lelouch of the Rebellion R2 Sound Variety R18](https://open.spotify.com/album/2podOQX7M5J1FsjN4u2W6V) | 3:23 |
 
-Snapshot ID: `MTY2NDY0NDMwOCwwMDAwMDAwMDI4ZTVmZDI0Y2YwNTJjMzIwMmY1OWE2NjMzODUyZmFh`
+Snapshot ID: `MTY2NDY0NDMwOCwwMDAwMDAwMGRlYjM2OTkzYjZiNDUyYjc1YzYzNGNhYzg5MWJjNDE1`

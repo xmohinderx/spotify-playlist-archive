@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Arooj Aftab
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,684 likes - 58 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,717 likes - 58 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 | 37 | [Sasu Mangay \(Coke Studio Season 9\)](https://open.spotify.com/track/4yaPqGCFobhA8swEwsi0l8) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u) | [Sasu Mangay \(Coke Studio Season 9\)](https://open.spotify.com/album/3UDM9uEEFxrvwsCZo3YIlp) | 6:44 |
 | 38 | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl) | 8:27 |
 | 39 | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/track/7pBcon5GqvUfn58HRfF8wv) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/album/1YFhFBYguVji3KdKdQGzId) | 6:40 |
-| 40 | [Baliye \(Laung Gawacha\) \[Coke Studio Season 9\]](https://open.spotify.com/track/63LTVXh5TujgeB202CbqGa) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Haroon Shahid](https://open.spotify.com/artist/4OasZ0m66s8HZzsyQAYCGJ) | [Baliye \(Laung Gawacha\) \[Coke Studio Season 9\]](https://open.spotify.com/album/5GapIc38IFHkRJG7tjan1X) | 7:34 |
+| 40 | [Baliye \(Laung Gawacha\)](https://open.spotify.com/track/0iPR8H2UgvQuKcU245NC5J) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Haroon Shahid](https://open.spotify.com/artist/4OasZ0m66s8HZzsyQAYCGJ) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 7:34 |
 | 41 | [Tu Hi Tu \(Coke Studio Season 9\)](https://open.spotify.com/track/0gPumQ9U59BeHJRcprZu8S) | [Mehwish Hayat](https://open.spotify.com/artist/7qGq83yTjRoUuLuob12vv2), [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy) | [Tu Hi Tu \(Coke Studio Season 9\)](https://open.spotify.com/album/1d15YMZPAUwNSU5JhP0Pd4) | 5:26 |
 | 42 | [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/track/7292h5pidNaLfrse63T3dQ) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/album/3kVakoirMWEX5BwkicGWZv) | 11:06 |
 | 43 | [Laal Meri Pat](https://open.spotify.com/track/29UhqX83vWJ1jTRCmV3Ozy) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Akbar Ali](https://open.spotify.com/artist/7oI0MZCqPpPF8z4ThsDwHl), [Arieb Azhar](https://open.spotify.com/artist/1KjLKN1BFLWDWx6r8fWqdy) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 8:20 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 | 57 | [Daachi Waaliya](https://open.spotify.com/track/1uBcSRrHdMrTwLIoBYoUMi) | [Hadiqa Kiani](https://open.spotify.com/artist/63wazelWDcHlj6vxmpjR7H) | [Daachi Waaliya](https://open.spotify.com/album/73YNgJro1GEHAzecBWrPs2) | 8:02 |
 | 58 | [Pardesiya](https://open.spotify.com/track/4yiPORt9JZGtYlsd22p8So) | [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Pardesiya](https://open.spotify.com/album/699uRjiyL8W2TssLjLzT4s) | 8:42 |
 
-Snapshot ID: `MTY0NjY1OTUwMiwwMDAwMDAwMDExYTRiNWMwOTNhNmNlZTEwMjMyZjNiZGNlZDYxNGY0`
+Snapshot ID: `MTY0NjY1OTUwMiwwMDAwMDAwMGYzOTBiNTc0MmZmZGM5OGZkZjgwNTk1MjJiZWViODE4`

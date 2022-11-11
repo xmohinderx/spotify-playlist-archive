@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: ASH ISLAND",
-  "num_followers": 717067,
+  "num_followers": 717287,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg5ODcyOSwwMDAwMDAwMDdiZTA1MTdmMGFkOWQxNzM5MTVhZjUxZjVhZmU3Njdi",
+  "snapshot_id": "MTY2ODA1ODU2NSwwMDAwMDAwMGY2MjAyOWQwY2M4NDZhOGZjODFlNGM3NGI1NzYzNjJj",
   "tracks": [
+    {
+      "added_at": "2022-11-10 05:36:05",
+      "album": {
+        "name": "THE 3rd MINI ALBUM NATURE WORLD : CODE W",
+        "url": "https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "LIMBO!",
+      "url": "https://open.spotify.com/track/0I9SiHgJ8DTwAIoJPLn81c"
+    },
     {
       "added_at": "2022-11-08 09:12:09",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 184354,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj"
+    },
+    {
+      "added_at": "2022-11-10 05:36:05",
+      "album": {
+        "name": "S:INEMA",
+        "url": "https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Talk 2 Me Nice",
+      "url": "https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY"
     },
     {
       "added_at": "2022-11-08 09:12:09",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/6s7KK3ktVQaLNjiIVxlmV2"
     },
     {
+      "added_at": "2022-11-10 05:36:05",
+      "album": {
+        "name": ",and",
+        "url": "https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 258186,
+      "name": "It\u2032ll Be Alright",
+      "url": "https://open.spotify.com/track/4xrLFswrUOP8MHJaTHHD8T"
+    },
+    {
       "added_at": "2022-11-08 09:12:09",
       "album": {
         "name": "Birthday - SM STATION : NCT LAB",
@@ -57,20 +105,24 @@
       "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
     },
     {
-      "added_at": "2022-11-08 09:12:09",
+      "added_at": "2022-11-10 05:36:05",
       "album": {
-        "name": "[Apocalypse : Follow us]",
-        "url": "https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY"
+        "name": "SOULBYSEL Compilation 03",
+        "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
       },
       "artists": [
         {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
         }
       ],
-      "duration_ms": 189173,
-      "name": "VISION",
-      "url": "https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP"
+      "duration_ms": 153686,
+      "name": "nvrmnd",
+      "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
     },
     {
       "added_at": "2022-11-08 09:12:09",
@@ -91,18 +143,34 @@
     {
       "added_at": "2022-11-08 09:12:09",
       "album": {
-        "name": "TROUBLESHOOTER",
-        "url": "https://open.spotify.com/album/2PbytQbw3uuEMECdw46ya7"
+        "name": "[Apocalypse : Follow us]",
+        "url": "https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY"
       },
       "artists": [
         {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 195880,
-      "name": "We Fresh",
-      "url": "https://open.spotify.com/track/7tMN3tczfA8zwcD4jlCsRh"
+      "duration_ms": 189173,
+      "name": "VISION",
+      "url": "https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP"
+    },
+    {
+      "added_at": "2022-11-08 09:12:09",
+      "album": {
+        "name": "Lethality",
+        "url": "https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf"
+      },
+      "artists": [
+        {
+          "name": "KWON EUN BI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ"
     },
     {
       "added_at": "2022-11-08 09:12:09",
@@ -123,18 +191,18 @@
     {
       "added_at": "2022-11-08 09:12:09",
       "album": {
-        "name": "Lethality",
-        "url": "https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf"
+        "name": "TROUBLESHOOTER",
+        "url": "https://open.spotify.com/album/2PbytQbw3uuEMECdw46ya7"
       },
       "artists": [
         {
-          "name": "KWON EUN BI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
         }
       ],
-      "duration_ms": 170600,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ"
+      "duration_ms": 195880,
+      "name": "We Fresh",
+      "url": "https://open.spotify.com/track/7tMN3tczfA8zwcD4jlCsRh"
     },
     {
       "added_at": "2022-11-08 09:12:09",
@@ -595,22 +663,6 @@
     {
       "added_at": "2022-11-08 09:12:09",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/08tTGoLXNw5OaEUOJFIBe6"
-      },
-      "artists": [
-        {
-          "name": "CHOI YOOJUNG",
-          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "Sunflower (P.E.L)",
-      "url": "https://open.spotify.com/track/3lLCAFzZqA7B3OQl6yfYCM"
-    },
-    {
-      "added_at": "2022-11-08 09:12:09",
-      "album": {
         "name": "SEXY NUKIM (feat. RM of BTS)",
         "url": "https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT"
       },
@@ -747,22 +799,6 @@
     {
       "added_at": "2022-11-08 09:12:09",
       "album": {
-        "name": "I NEVER DIE",
-        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 160520,
-      "name": "MY BAG",
-      "url": "https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P"
-    },
-    {
-      "added_at": "2022-11-08 09:12:09",
-      "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
       },
@@ -827,38 +863,6 @@
       "duration_ms": 200666,
       "name": "FLASH",
       "url": "https://open.spotify.com/track/2Purw8ZAANLan4cMqsKVp7"
-    },
-    {
-      "added_at": "2022-11-08 09:12:09",
-      "album": {
-        "name": "KARD 5th Mini Album 'Re:'",
-        "url": "https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Ring The Alarm",
-      "url": "https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm"
-    },
-    {
-      "added_at": "2022-11-08 09:12:09",
-      "album": {
-        "name": "the collective soul and unconscious: chapter one",
-        "url": "https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw"
-      },
-      "artists": [
-        {
-          "name": "Billlie",
-          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "GingaMingaYo (the strange world)",
-      "url": "https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv"
     }
   ],
   "unique_name": "K-Pop Rising",

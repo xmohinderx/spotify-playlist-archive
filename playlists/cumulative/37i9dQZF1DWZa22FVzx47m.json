@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 252666,
       "name": "Bruja hada",
       "url": "https://open.spotify.com/track/6wsgXqsDYezaCePIup5EbM"
@@ -622,6 +622,24 @@
     },
     {
       "album": {
+        "name": "Thalia En Primera Fila... Un A\u00f1o Despu\u00e9s",
+        "url": "https://open.spotify.com/album/5fWzZi4HOHB7O2JviktClF"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244440,
+      "name": "Equivocada - Live Version",
+      "url": "https://open.spotify.com/track/7vPlfvqGKUZUO9Z7t0ZQ6f"
+    },
+    {
+      "album": {
         "name": "Thalia En Primera Fila",
         "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
       },
@@ -694,6 +712,24 @@
     },
     {
       "album": {
+        "name": "Coleccion Original: Emmanuel",
+        "url": "https://open.spotify.com/album/7zXIRIBKs4UWakcwxh8FpH"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222800,
+      "name": "Este Terco Corazon",
+      "url": "https://open.spotify.com/track/6AYhxWM8uOlSr3UfQ0eJYB"
+    },
+    {
+      "album": {
         "name": "Diez A\u00f1os Cantandole Al Amor",
         "url": "https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8"
       },
@@ -705,7 +741,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 222933,
       "name": "Este Terco Corazon",
       "url": "https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX"
@@ -907,7 +943,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209386,
       "name": "Inv\u00e9ntame",
       "url": "https://open.spotify.com/track/1nwdRwqxMlKl3c7Qh8KsrG"
@@ -1260,6 +1296,24 @@
     },
     {
       "album": {
+        "name": "Serie 3X4 (Yuri, Pandora, Daniela Roma)",
+        "url": "https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/6nAFf74plLQD5wGVzTVgqx"
+    },
+    {
+      "album": {
         "name": "Solo Lo Mejor: 20 Exitos",
         "url": "https://open.spotify.com/album/5L3DgJ6F7THYRV9mNTJxvD"
       },
@@ -1343,7 +1397,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 223666,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2"
@@ -1379,7 +1433,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 308880,
       "name": "Mi Historia Entre Tus Dedos - Remastered 2020",
       "url": "https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g"
@@ -1671,7 +1725,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 184080,
       "name": "Por Debajo De La Mesa",
       "url": "https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR"
@@ -1693,6 +1747,24 @@
       "duration_ms": 184080,
       "name": "Por Debajo De La Mesa",
       "url": "https://open.spotify.com/track/4FqfHVML025cwjfhAOFbfa"
+    },
+    {
+      "album": {
+        "name": "Mis Boleros Favoritos",
+        "url": "https://open.spotify.com/album/0KxKUvK8sDRyvmGN8uMdx2"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/7nbBR2SdgNvu5ywLWFrhOI"
     },
     {
       "album": {
@@ -1822,6 +1894,24 @@
     },
     {
       "album": {
+        "name": "Canciones que nunca se ir\u00e1n. Los 90",
+        "url": "https://open.spotify.com/album/2ELN4JsOfXhWWWOxK3BuVB"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280666,
+      "name": "Se fu\u00e9",
+      "url": "https://open.spotify.com/track/18EoacmuTl2fVC8SaV6n3k"
+    },
+    {
+      "album": {
         "name": "Laura Pausini - Spanish Version",
         "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
       },
@@ -1851,7 +1941,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 280666,
       "name": "Se fu\u00e9",
       "url": "https://open.spotify.com/track/6LU8uRM2fPgaHKD18I0Azk"
@@ -2244,6 +2334,24 @@
     },
     {
       "album": {
+        "name": "Biografia",
+        "url": "https://open.spotify.com/album/40LeU2uCezeAfiPHXzgDpm"
+      },
+      "artists": [
+        {
+          "name": "Noelia",
+          "url": "https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291626,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/41wwgiEoD5MoP21Cr1oGeo"
+    },
+    {
+      "album": {
         "name": "Noelia",
         "url": "https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9"
       },
@@ -2255,7 +2363,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 291626,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/5n49jN2souYjOuP9vHDpu4"

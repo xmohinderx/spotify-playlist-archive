@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,478 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,546 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 49 | [SRV Speaks](https://open.spotify.com/track/7CkTfNc51KRJLinO5jSp3s) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather](https://open.spotify.com/album/4CvDljqpyOVfwTV2CludIH) | 1:08 |
 | 50 | [Iced Over \- Live at Carnegie Hall, New York, NY \- October 1984](https://open.spotify.com/track/4Hfdbs9kVpEMCqehzqAcDs) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live at Carnegie Hall](https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd) | 5:11 |
 
-Snapshot ID: `Mjc4MDA0MzIsMDAwMDAwMDBjMzljMjQ3MDgwZDYzYjVmYWY0NmQ1YmVhNjgzODAyYw==`
+Snapshot ID: `Mjc4MDE1OTEsMDAwMDAwMDA1NzIzZTBiNmUyNWZjMjc4YWZmOTNjOWFiZmZiNDNiOA==`

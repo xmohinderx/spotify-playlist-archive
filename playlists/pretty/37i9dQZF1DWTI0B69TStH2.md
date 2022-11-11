@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Sad Smiles \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,917 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,923 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 75 | [Pali się](https://open.spotify.com/track/2dprumI8tmrsD1OCAQ5kP1) | [Brzózka](https://open.spotify.com/artist/2EQOrvdE8VhKrUfxsVNAMw) | [Pali się](https://open.spotify.com/album/16dQJfodSKDUrtnHwlRET5) | 4:20 |
 | 76 | [Bruno](https://open.spotify.com/track/7IoGrlM7IV0TLarvlsjaHW) | [Agnieszka Musiał](https://open.spotify.com/artist/4uOBCZk1MpMzmpOnAtN8qc) | [Bruno](https://open.spotify.com/album/4k5cbXoFmZ5fgL06VT5tXR) | 3:04 |
 | 77 | [Na sam ze sobą](https://open.spotify.com/track/6guuhVydHkxF5grQDi7b8f) | [buki](https://open.spotify.com/artist/6y2oU6HnIcR8p2asrEvSQL) | [Na sam ze sobą](https://open.spotify.com/album/6oSiCeNeDWbkv0Tb8wm5OT) | 3:44 |
-| 78 | [Planeta Małp](https://open.spotify.com/track/2CoNakS1Tw0fNvaYcnmZYn) | [KOKOS](https://open.spotify.com/artist/40DiD6lFgAHfEJuH2vkMyR), [Julia Mika](https://open.spotify.com/artist/51LB3MfQvjuroeIIIzclWu), [Mucha](https://open.spotify.com/artist/43eFb9PV1PD4tIhSTYrV0m) | [Planeta Małp](https://open.spotify.com/album/0EGB0CdmyCr5GdLYhh8omB) | 3:28 |
+| 78 | [Planeta Małp](https://open.spotify.com/track/2CoNakS1Tw0fNvaYcnmZYn) | [KOKOS](https://open.spotify.com/artist/40DiD6lFgAHfEJuH2vkMyR), [Julia Mika](https://open.spotify.com/artist/51LB3MfQvjuroeIIIzclWu), [Mucha](https://open.spotify.com/artist/2TcesdbOOnmLc7xh8BMbgF) | [Planeta Małp](https://open.spotify.com/album/0EGB0CdmyCr5GdLYhh8omB) | 3:28 |
 | 79 | [PALĘ PARADISE](https://open.spotify.com/track/6E9kYQ5eGeErJYzDWYwNln) | [totylkopj](https://open.spotify.com/artist/06MYY7UHizpDyj1yjxVxmA) | [PALĘ PARADISE](https://open.spotify.com/album/5lwLOY37L4i6g9kRqg9Glb) | 3:13 |
 | 80 | [Flickers](https://open.spotify.com/track/2txyWx0PUa0W1O70pwjC3l) | [Ola Budzyńska](https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6) | [Impressions](https://open.spotify.com/album/3c5gSNk3rhfEmqTfJDt3Mq) | 4:44 |
 | 81 | [Night Life](https://open.spotify.com/track/3vnaZppdK0Pcmc5GMxZYZm) | [Keatsu](https://open.spotify.com/artist/5piJa3Bf25PbJJnKMeXiVH), [Poor Petal](https://open.spotify.com/artist/3oD7L9BSkYpWZAyB0XKDKR) | [Night Life](https://open.spotify.com/album/3QkwWmqx2SeHItInShY71O) | 3:35 |

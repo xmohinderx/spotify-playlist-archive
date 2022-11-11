@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,495 likes - 115 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,499 likes - 115 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 73 | [Day By Day](https://open.spotify.com/track/4bQZGykn0AYH8DlJGGuSIV) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 3:57 |
 | 74 | [Feel It](https://open.spotify.com/track/577eaC9LGK8hlnrNLmyUE0) | [ANDO](https://open.spotify.com/artist/5BVuWXvqlzHEQVXIiKKjoR) | [TWO HEART](https://open.spotify.com/album/6TuNNvxe3ArEVFIyvdiYdu) | 3:17 |
 | 75 | [The Greatest Christmas](https://open.spotify.com/track/5VWww3FcLZ6krWpgq4bwVX) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [WINTER CITY](https://open.spotify.com/album/0bQv27YqKRxlJ9KURup5RV) | 3:47 |
-| 76 | [Destiny](https://open.spotify.com/track/5ULuuLKnVJWQpI9VkuJDJX) | [Niel](https://open.spotify.com/artist/1wPvrQKu6dJBeLimAntEuH), [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS), [Nam Dohyon](https://open.spotify.com/artist/25lZDZ43ommDJkO6FzS5gL) | [Destiny](https://open.spotify.com/album/3xcGMdtWOfxnYrCyuoig0W) | 3:49 |
+| 76 | [Destiny](https://open.spotify.com/track/4933Vz9h7L410qb5I0DUln) | [Niel](https://open.spotify.com/artist/1wPvrQKu6dJBeLimAntEuH), [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS), [Nam Dohyon](https://open.spotify.com/artist/25lZDZ43ommDJkO6FzS5gL) | [Fever Music 2020 Cool Summer Project](https://open.spotify.com/album/5U0qZV4ms3hwfyac60f2br) | 3:49 |
 | 77 | [UNTOUCHABLE](https://open.spotify.com/track/0NVDKNljMvGrJBTj7BoU4H) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:10 |
 | 78 | [JUST 4 U…](https://open.spotify.com/track/4wUJrcKgtHG6ya2DQuoGsk) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [JUST 4 U…](https://open.spotify.com/album/4GNHP9aikaKwjS11EiIBaD) | 4:12 |
 | 79 | [널 좋아하고 있어 I'm Into You \(with\. Kirin, Dala, Jungu\)](https://open.spotify.com/track/71Ogm7o9KbXrgGsUafjvy3) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Dala](https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg), [Jungu](https://open.spotify.com/artist/1wDD7jPUpGh3BOtRHmy8bX) | [널 좋아하고 있어 I'm Into You](https://open.spotify.com/album/0iBM2Yvh95b7bh1oQHkkyY) | 4:33 |
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 99 | [AhHa \(Oh my summer\)](https://open.spotify.com/track/7do7o98tzqucxeaI8EsdDm) | [KOYOTE](https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR) | [Oh my summer](https://open.spotify.com/album/2aqeNU4e7GwzCc7tXzrNdt) | 4:04 |
 | 100 | [Yay Yay Yay](https://open.spotify.com/track/4s4BuTBqbMrodAtgXaSwmb) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [YUNU IN THE HOUSE](https://open.spotify.com/album/2nymtjmxk4qln1pMCCRJG1) | 3:28 |
 | 101 | [내게로 와](https://open.spotify.com/track/0vX2QPTYuMLCv6AHOrFdmT) | [이새봄](https://open.spotify.com/artist/1yGfj9yNeriR1yJO5c8nXU) | [오늘 밤 내게로 와](https://open.spotify.com/album/4s2vlriZ7PdhsE6VjQWP9T) | 3:13 |
-| 102 | [Woman on the beach](https://open.spotify.com/track/52QWB32ulDTTKJy5B4dnFL) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [Jeon Woong](https://open.spotify.com/artist/4EJpg7YTNDRIfQpGBXYeym) | [Woman on the beach](https://open.spotify.com/album/5p1maTEH2j6Whs8C7vKUMD) | 3:32 |
+| 102 | [Woman on the beach](https://open.spotify.com/track/0sRu4V0PPVrF3BNQFQ6E9E) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [Jeon Woong](https://open.spotify.com/artist/4EJpg7YTNDRIfQpGBXYeym) | [Fever Music 2020 Cool Summer Project](https://open.spotify.com/album/5U0qZV4ms3hwfyac60f2br) | 3:32 |
 | 103 | [BEHIND THE MASK](https://open.spotify.com/track/7mBgzdwjJzfnUJtHrRXuCA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:38 |
 | 104 | [Sorry For My English](https://open.spotify.com/track/1ofO4zGsmNvVQ5yVGeCGCo) | [IN2IT](https://open.spotify.com/artist/43GYq8c6nVEgaEyg0qtzJd) | [Into the Night Fever](https://open.spotify.com/album/4icRVwq9LJzREocHzjnY03) | 3:01 |
 | 105 | [Lady](https://open.spotify.com/track/2WusoL0p5HmFzhR5DLGUVx) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Lady](https://open.spotify.com/album/7hdql29wHs1VTWxmGmm5HV) | 3:10 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 114 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
 | 115 | [On & On](https://open.spotify.com/track/4gphGdxKYkg5keaBePEet7) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:00 |
 
-Snapshot ID: `MTY2NjA5NzE5MiwwMDAwMDAwMDdjMGY4ZDEzM2Q1NWY3ZGNhZWY4NmI0MzhjZWJmMzNl`
+Snapshot ID: `MTY2NjA5NzE5MiwwMDAwMDAwMDk3Y2QyOGQ5ZDBmY2JhMTFkOTUxMjVmZjM4YmIxNWFm`

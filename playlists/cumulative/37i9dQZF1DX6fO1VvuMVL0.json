@@ -774,6 +774,28 @@
     },
     {
       "album": {
+        "name": "THE MUSIC OF AMERICA: Inventing Jazz - Dave Brubeck",
+        "url": "https://open.spotify.com/album/0tFNTTbxmknMMpOheMzfTP"
+      },
+      "artists": [
+        {
+          "name": "D. Brubeck",
+          "url": "https://open.spotify.com/artist/0HQ501eKb3lNaFMNDRbxHd"
+        },
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290320,
+      "name": "Kathy's Waltz",
+      "url": "https://open.spotify.com/track/5d8SK0Qq6S7vxfU85zHnrI"
+    },
+    {
+      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
       },
@@ -785,7 +807,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 287840,
       "name": "Kathy's Waltz",
       "url": "https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30"
@@ -1407,10 +1429,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 324133,
       "name": "Take Five",
       "url": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
+    },
+    {
+      "album": {
+        "name": "Jazz Playlist",
+        "url": "https://open.spotify.com/album/4nY56CUHJuJMAWv3TumBC7"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324293,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/0ioOuRghQH8vjk2vRKTz9Z"
     },
     {
       "album": {

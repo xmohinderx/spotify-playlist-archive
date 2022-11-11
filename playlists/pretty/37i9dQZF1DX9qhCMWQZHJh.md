@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,790 likes - 64 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,824 likes - 64 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 | 29 | [MOTOMAMI](https://open.spotify.com/track/6ygEPi8EtVkUO0Xarcgs63) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:01 |
 | 30 | [Brain \- Ta\-ku Rework](https://open.spotify.com/track/1ovXwvaNHQ1h1HgYkJpRgH) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV) | [Goddess \(Remixes\)](https://open.spotify.com/album/0K88Nzh4Zd6ywceshg1A3B) | 4:59 |
 | 31 | [Oh My God](https://open.spotify.com/track/1C1qCaSl0KGbDpJkQ9mTS5) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Shabrang](https://open.spotify.com/album/6CLNXH0ApZSXfQ5AHlTOwH) | 3:14 |
-| 32 | [Gibson Girl](https://open.spotify.com/track/02yzNsWcv7BtITeIoIqeVU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:42 |
+| 32 | [Gibson Girl](https://open.spotify.com/track/2HhoibDFEwiioEa9Q5BErU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Gibson Girl](https://open.spotify.com/album/2XF3FudnkRkKXBAXzZSzJs) | 5:42 |
 | 33 | [Always Saying Goodbye](https://open.spotify.com/track/1zsT8qJomDcjuzj1SbgiZ7) | [Satchy](https://open.spotify.com/artist/5WU8v5r46LwBAwXGGCQygh) | [Always Saying Goodbye](https://open.spotify.com/album/3sDXWND1JBJVMqVNwMn2j0) | 4:16 |
-| 34 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
+| 34 | [Destroy Myself Just For You](https://open.spotify.com/track/40iHwasC0kEK8fgaEfQReF) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Destroy Myself Just For You](https://open.spotify.com/album/1X71Gke5NpopGMNbNxEB35) | 2:26 |
 | 35 | [Wars](https://open.spotify.com/track/0NzDCZypxqXxgcGQ4rkJRG) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:23 |
 | 36 | [Stevie](https://open.spotify.com/track/2VH9zir3JjJNDEECSKgvFd) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Stevie](https://open.spotify.com/album/4RYXNq7msQqx3CFPGVY0x3) | 4:03 |
 | 37 | [time machine](https://open.spotify.com/track/7woXCUnTmhT5bjnrSbucAQ) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 2:10 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 | 63 | [Choices \(Interlude\)](https://open.spotify.com/track/7yBpSyKmbZYLS8Rgz6ZD0B) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Blackheart](https://open.spotify.com/album/2IPKoEWJgWuM83zZOq3vkW) | 2:58 |
 | 64 | [Traveling Blind](https://open.spotify.com/track/35XfDzvI1jR8wFzYVPtMvy) | [Faces on TV](https://open.spotify.com/artist/3lLMK7bxYJxcaeThcvL8NJ) | [Traveling Blind](https://open.spotify.com/album/4bCrbth0Gax6MBXXQ8SKZZ) | 3:35 |
 
-Snapshot ID: `MTY1MTg0NTg1MCwwMDAwMDAwMGEwNzZmMDRiMzM5MTM4YmNlMGVlOGY1NTYzN2RiYTJj`
+Snapshot ID: `MTY1MTg0NTg1MCwwMDAwMDAwMGUwNTM0ZWQxOTIwODQxZDc3YzNlOWZhMzc5OTEwNTg4`

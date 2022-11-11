@@ -4,7 +4,7 @@
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-124 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/0rMU8BH9rqYRaI5zkSzif1)
+126 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/0rMU8BH9rqYRaI5zkSzif1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Great Fairy's Fountain](https://open.spotify.com/track/1umuPHLW27T84q7nap3Aer) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Great Fairy's Fountain](https://open.spotify.com/album/0B10tHXVpvJ2Ii6IKXUZuf) | 1:52 | 2020-05-06 |  |
 | [hey x](https://open.spotify.com/track/0ux0CW8DioEvqSl1oI4mlV) | [Miro](https://open.spotify.com/artist/5xvi5IOvzPsJxrQwVYrOXw) | [hi, i'm minty](https://open.spotify.com/album/4EYbb8gsQGvQveOC4KzMDn) | 3:19 | 2020-05-06 |  |
 | [Hourglass](https://open.spotify.com/track/0UZsgq3W6kF9Q9CwL8p9EJ) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Hourglass](https://open.spotify.com/album/1WIStFWTtpFzoqNvkHZefJ) | 1:54 | 2020-05-06 | 2022-07-29 |
-| [Hourglass](https://open.spotify.com/track/1YYdaHYdCOCyAeWUfSiUkE) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Hourglass](https://open.spotify.com/album/2s5jwScnGM1tHRvVvHv1Iz) | 1:54 | 2020-05-06 |  |
+| [Hourglass](https://open.spotify.com/track/1YYdaHYdCOCyAeWUfSiUkE) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Hourglass](https://open.spotify.com/album/2s5jwScnGM1tHRvVvHv1Iz) | 1:54 | 2020-05-06 | 2022-11-11 |
+| [Hourglass](https://open.spotify.com/track/3ktO0IHeFZ4trq6ojXC2dG) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Clearing](https://open.spotify.com/album/78qfYPOyspcz0N39IOmi9C) | 1:54 | 2020-05-06 |  |
 | [hygge](https://open.spotify.com/track/3FZmsVepjKdjlswITUY8iV) | [Miro](https://open.spotify.com/artist/5xvi5IOvzPsJxrQwVYrOXw) | [hi, i'm minty](https://open.spotify.com/album/4EYbb8gsQGvQveOC4KzMDn) | 3:56 | 2020-05-06 |  |
 | [I know you better](https://open.spotify.com/track/1U5feIyPWBl8tRkSk4cwWR) | [hiraeth.](https://open.spotify.com/artist/5oLTLuHsqyA78zxL9l3Udp) | [I know you better](https://open.spotify.com/album/4iKYslxWY70QS5XpofwuC2) | 1:25 | 2020-05-06 |  |
 | [I Need a Drink](https://open.spotify.com/track/1AyUQ8VrPQh37txjLYb3KC) | [Wishkid](https://open.spotify.com/artist/0fBiX79fGtRfNkfv2yR5Rw) | [I Need a Drink](https://open.spotify.com/album/6tXoiYc2Qm2oZPeonX3s9Q) | 2:32 | 2020-05-06 |  |
@@ -116,8 +117,9 @@
 | [Sugar Coat](https://open.spotify.com/track/3FtNyYi6ejoytUZdT3WfNN) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Sweet Dreams](https://open.spotify.com/album/3M6FcKuF7yoYWp9hJF32eB) | 2:59 | 2020-05-06 | 2022-07-29 |
 | [Sugar Coat](https://open.spotify.com/track/4Q5SnRGF0wAluw3zY9NbYo) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Sweet Dreams](https://open.spotify.com/album/35Zg4Ksfyo1PmlztBn3UH6) | 2:59 | 2020-05-06 |  |
 | [Sunday Evening.](https://open.spotify.com/track/54EGtk5LxuWGkCc3pqTi59) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunday Evening.](https://open.spotify.com/album/24x6bbAwLxKmNNyWaLpF0i) | 1:02 | 2020-05-06 |  |
-| [Sundown](https://open.spotify.com/track/1ZNBBIqH0beHORllNd3Uud) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86) | [Sundown](https://open.spotify.com/album/3Q7VU1KXqFwgvVqcf2RmTf) | 2:48 | 2020-05-06 |  |
+| [Sundown](https://open.spotify.com/track/1ZNBBIqH0beHORllNd3Uud) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86) | [Sundown](https://open.spotify.com/album/3Q7VU1KXqFwgvVqcf2RmTf) | 2:48 | 2020-05-06 | 2022-11-11 |
 | [Sundown](https://open.spotify.com/track/3xNZP70uRdHJK3lZJ8OfJr) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86) | [Sundown](https://open.spotify.com/album/2ao0Uc2jDxXl8YPfuYMy6f) | 2:48 | 2020-05-06 | 2022-07-29 |
+| [Sundown](https://open.spotify.com/track/6Q9QZRk3FjWWrbz1szGh2M) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86) | [Chillhop Yearmix 2020](https://open.spotify.com/album/2g9frEs9937i2AxcwM0PWS) | 2:48 | 2020-05-06 |  |
 | [Sunset](https://open.spotify.com/track/1dvpoWiJMAp6FoIWAR1LJd) | [Barney Coleman](https://open.spotify.com/artist/36K3p9zmpNUhrKrdwjbmXh) | [Low Fidelity EP](https://open.spotify.com/album/0g75kGrqzYlV0QfFzUYsXj) | 2:21 | 2020-05-06 |  |
 | [Take Five](https://open.spotify.com/track/11ppb9MvpzxbmChaakrKKK) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Take Five](https://open.spotify.com/album/1lIfPSq2TmUxaGOiUKmUP0) | 2:18 | 2020-05-06 |  |
 | [Transcend](https://open.spotify.com/track/0rPj7S7wJ7IF4PiUXlRRfY) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs) | [Perpetual](https://open.spotify.com/album/22cGIyIDKV7ZcOMuiBqf8R) | 2:01 | 2020-05-06 |  |

@@ -4,7 +4,7 @@
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-79 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/7ygepro0wQuN7eTDhQQ742)
+80 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/7ygepro0wQuN7eTDhQQ742)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Rip It Up](https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:21 | 2022-04-06 |  |
 | [Rock And Roll Music](https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 2:31 | 2022-04-06 |  |
 | [Rock Me](https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Lucky Millinder & His Orchestra](https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:40 | 2022-04-06 |  |
-| [Rock Me Mama](https://open.spotify.com/track/4EWbNyNjDic1q94r980ZKz) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right Mama](https://open.spotify.com/album/4hAbDv4epIWlV0UO4X198N) | 3:00 | 2022-04-06 |  |
+| [Rock Me Mama](https://open.spotify.com/track/2QIJVwDgFuOGCLURaMvmF9) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Arthur "Big Boy" Crudup Vol\. 1 1941\-1946](https://open.spotify.com/album/0W8si0dl1CD4U3ebkypkyp) | 2:59 | 2022-04-06 |  |
+| [Rock Me Mama](https://open.spotify.com/track/4EWbNyNjDic1q94r980ZKz) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right Mama](https://open.spotify.com/album/4hAbDv4epIWlV0UO4X198N) | 3:00 | 2022-04-06 | 2022-11-11 |
 | [Rock Me Mama](https://open.spotify.com/track/1Ij9q9AnivJ4CqNfijtv8P) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Rock Me Mama](https://open.spotify.com/album/1k8gEqYNtUTbVCknLXagtw) | 3:00 | 2022-04-06 | 2022-07-29 |
 | [Rock This House](https://open.spotify.com/track/2aEgEjhey9ehPOKvKNCJkv) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [The Complete Chess Recordings](https://open.spotify.com/album/0q40700ROBVpKW10ENxL9n) | 2:50 | 2022-04-06 |  |
 | [Rock With You Baby](https://open.spotify.com/track/7MRHzIlnrmznrxdJ1Gb6EP) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0), [Rod Piazza](https://open.spotify.com/artist/0zWkGcXh8YmA2CFDGUosWX) | [Feelin' Good](https://open.spotify.com/album/6K5vBtlHMc6PyZMoEBw6BF) | 4:12 | 2022-04-06 |  |

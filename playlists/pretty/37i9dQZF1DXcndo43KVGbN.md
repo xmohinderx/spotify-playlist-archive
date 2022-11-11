@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,180 likes - 101 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,202 likes - 101 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,12 +83,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 | 73 | [Rust](https://open.spotify.com/track/7JGBMkbynVtjzxFmpvIkeA) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The landscape has become a bed](https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6) | 3:53 |
 | 74 | [The Gulf of Valencia](https://open.spotify.com/track/4LVANIDqdIe0HzoVg816OG) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Sub Rosa](https://open.spotify.com/album/3ytpF5fIboDCwEAZUjGeDs) | 4:36 |
 | 75 | [Tropic Of Desire](https://open.spotify.com/track/3pVbYNd6AF1HHT8cvGtl4D) | [Not Waving](https://open.spotify.com/artist/6mkqjpZbG63Y1MJQcItRmC), [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Eyes of Fate](https://open.spotify.com/album/5fXndXNfdkUYyh1tfHB3QU) | 6:13 |
-| 76 | [Fallin Into Space](https://open.spotify.com/track/2AxGUdCW0me3Wkx5SAh3im) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/2MqJM7oZ4FOCowQORhfBKc) | 4:58 |
+| 76 | [Fallin Into Space](https://open.spotify.com/track/694DlFZO0Zfnv56YsDJFgv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [Fallin Into Space](https://open.spotify.com/album/0juf6j62bKEDij4cjPGYLC) | 4:58 |
 | 77 | [The Killing Of Wild Animals](https://open.spotify.com/track/1dm03UsG1jXMwmKFTE403i) | [Carlos Metta](https://open.spotify.com/artist/5igkVL3BEbBPfvcDXFgJgB), [Fernando Esteban](https://open.spotify.com/artist/0ViWQo9bhm8NeoiAqpPurg) | [Teresa /// Fortuna](https://open.spotify.com/album/7ae5Zd4cWlEJs1UFM7e40n) | 6:33 |
 | 78 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
 | 79 | [Piano, Bells & Two Reversed Tape Loops](https://open.spotify.com/track/7Ev80oHVOQUUWVFDw0i4IZ) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [Piano, Bells & Two Reversed Tape Loops](https://open.spotify.com/album/31amXNwNP8t6fhLjEowuRf) | 5:32 |
 | 80 | [Avril](https://open.spotify.com/track/0AEiHxk5s53zTveZZKEF0L) | [Venus Ex Machina](https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p) | [Lux](https://open.spotify.com/album/7FTeTCdondN82PoPNxtZm1) | 2:24 |
-| 81 | [Hot & Cold](https://open.spotify.com/track/1SkH8HgcPIuOVnoNiqECwY) | [The Same](https://open.spotify.com/artist/0SiPcv6coOaUouLSSpYYbQ) | [Sync or Swim](https://open.spotify.com/album/1BTEBJq4FP2a8KvZK800nt) | 4:13 |
+| 81 | [Hot & Cold](https://open.spotify.com/track/4ypXEPRvMElIAfUQRkSnlI) | [The Same](https://open.spotify.com/artist/0SiPcv6coOaUouLSSpYYbQ) | [Hot & Cold](https://open.spotify.com/album/2VBCCSodgOILblLpdtxRHW) | 4:13 |
 | 82 | [The Conjuring Mirror](https://open.spotify.com/track/7unnhqIAYx1e8XZlOpVhuJ) | [Sinius](https://open.spotify.com/artist/0lWqbldjrATxzUIvy7eNuU) | [The Poltergeist Syndrome](https://open.spotify.com/album/5fLe5b1uHnqW43aY6cSXTK) | 9:23 |
 | 83 | [Labyrinths & Jokes](https://open.spotify.com/track/2FKNr1Hstg1Hjohgxqcq28) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm) | [Modern Jester](https://open.spotify.com/album/32Ma3r8xwPQuhkLpMcAcAe) | 2:35 |
 | 84 | [Afterlife Aftershave \- Edit](https://open.spotify.com/track/0qRHTFbrBefRGzwlDhrMld) | [Sedibus](https://open.spotify.com/artist/1lUshJ8UbLawZ3bH85qgA4), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Afterlife Aftershave \(Edit\)](https://open.spotify.com/album/6hlBndeGrYZsQ5iO4xQ2Pl) | 2:58 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 | 100 | [Kogarashi, Postcard Five](https://open.spotify.com/track/4joej1hfb433p1mgpNQFdd) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 7:25 |
 | 101 | [Champagne Smoke](https://open.spotify.com/track/0gzwDzpe5eoD1lwJdTPeU4) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 4:28 |
 
-Snapshot ID: `MTY2NDg5NDY0OSwwMDAwMDAwMDgxYzZjNjUxMDJlNWFlNTIyZWVlYjZkMGZmMjIxNmYy`
+Snapshot ID: `MTY2NDg5NDY0OSwwMDAwMDAwMDYyODIzNDhhN2VjZjE2MGEwZDAwZmY0NjJkNGZmZjBi`

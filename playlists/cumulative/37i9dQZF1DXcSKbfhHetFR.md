@@ -4,7 +4,7 @@
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-84 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/74OJ5cYHNaWeOdAyQV6W4i)
+85 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/74OJ5cYHNaWeOdAyQV6W4i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Le temps passe](https://open.spotify.com/track/3sAZFLZVmiZJV6PCc4cFsq) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Chacun dans son espace](https://open.spotify.com/album/3lFC3QLYm10tvmRhANLMP3) | 3:24 | 2020-06-23 | 2022-07-29 |
 | [Le temps passe](https://open.spotify.com/track/4Wn546nf6SBGLC69yWHyos) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Chacun dans son espace](https://open.spotify.com/album/4t7Fp8XNpNChA2HQegZAEX) | 3:24 | 2020-06-23 |  |
 | [Le train](https://open.spotify.com/track/2p3O33eThnhhq1dMWlvR7M) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi) | [Vilain Pingouin](https://open.spotify.com/album/3pINLfKyH98HfwvNgMQgL6) | 3:58 | 2020-06-23 | 2022-07-29 |
-| [Le train](https://open.spotify.com/track/3WXD1s3xsBGydb1rgZagd6) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi) | [Vilain Pingouin](https://open.spotify.com/album/1ODLZJUUkSVaoLILmTYMtu) | 3:58 | 2020-06-23 |  |
+| [Le train](https://open.spotify.com/track/3WXD1s3xsBGydb1rgZagd6) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi) | [Vilain Pingouin](https://open.spotify.com/album/1ODLZJUUkSVaoLILmTYMtu) | 3:58 | 2020-06-23 | 2022-11-11 |
+| [Le train](https://open.spotify.com/track/3ZlwPpbhy6sodaMMps52Jr) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi) | [Les belles années : L'anthologie](https://open.spotify.com/album/5pRpQH9bLCUqmB7mjdYQ9D) | 4:01 | 2020-06-23 |  |
 | [Les patates](https://open.spotify.com/track/3Z3BvbtR8n2LxuZARFc2rW) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/6OULjgJloRJUYlWctThGkF) | 2:56 | 2020-06-23 | 2022-07-29 |
 | [Les patates](https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4) | 2:56 | 2020-06-23 |  |
 | [Ma dope à moi](https://open.spotify.com/track/3D7cavaQelyrkvP2kknMiU) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Western Romance](https://open.spotify.com/album/7iionYCbeYIliJLEzZIVrH) | 3:28 | 2020-06-23 | 2022-07-29 |

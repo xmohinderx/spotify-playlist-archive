@@ -4,7 +4,7 @@
 
 > Artist, producer and writer behind many of your favourite songs makes his Pride selection for you.
 
-37 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/7FNb8qMTEz4C5RqBT9VZLB)
+38 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/7FNb8qMTEz4C5RqBT9VZLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [One Dance](https://open.spotify.com/track/0JoaFxLgrqbWutREzcZBzS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [One Dance](https://open.spotify.com/album/05FOcj5Cygu51XbAmlJd2k) | 2:53 | 2017-07-03 | 2022-07-29 |
 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 | 2017-07-03 |  |
 | [Ready For Your Love](https://open.spotify.com/track/1ehhFCpPQHBKfn1aCNMo8t) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ready For Your Love](https://open.spotify.com/album/1eEUtsQIL2An4lNWx8Reux) | 3:17 | 2017-07-03 | 2022-07-29 |
-| [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 | 2017-07-03 |  |
+| [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 | 2017-07-03 | 2022-11-11 |
+| [Ready For Your Love](https://open.spotify.com/track/47QylltdW541V0NPOsygrB) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Feel Good Dance Zone](https://open.spotify.com/album/2F4nLH9MJUxfjz8JQZKOQN) | 3:19 | 2017-07-03 |  |
 | [Send Me A Picture](https://open.spotify.com/track/3WdE8MVGxk3t5zZKK7U9uD) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/3U7LEGoKx80AMdGSVUmvrz) | 3:35 | 2017-07-03 | 2022-07-29 |
 | [Send Me A Picture](https://open.spotify.com/track/5NkAF10Q9tQGSn03griVeA) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:35 | 2017-07-03 |  |
 | [SHY](https://open.spotify.com/track/3bqzUDyN8wTCmdyzg6OlF3) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [SHY](https://open.spotify.com/album/7etyFcNbNbz9IIwoSTfsRb) | 3:24 | 2017-07-03 | 2022-07-29 |

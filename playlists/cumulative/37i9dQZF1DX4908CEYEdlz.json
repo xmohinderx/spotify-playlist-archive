@@ -3377,10 +3377,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 229940,
       "name": "Wouldn't You Rather",
       "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"
+    },
+    {
+      "album": {
+        "name": "Pay No Mind",
+        "url": "https://open.spotify.com/album/2nOOKY1qgkWxXObn4A2oc9"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229940,
+      "name": "Wouldn't You Rather",
+      "url": "https://open.spotify.com/track/570CjgCnP7q0E9YSEJYXzY"
     },
     {
       "album": {

@@ -182,6 +182,24 @@
     },
     {
       "album": {
+        "name": "Alone Tonight",
+        "url": "https://open.spotify.com/album/0bpOQcxQeOxO8r8nPUOVUj"
+      },
+      "artists": [
+        {
+          "name": "Olivia Mae Graham",
+          "url": "https://open.spotify.com/artist/0aYagTq2r8P9Z8KR8sby2H"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178115,
+      "name": "Alone Tonight",
+      "url": "https://open.spotify.com/track/16DR3eCbf4dIRNaXjx7Ioc"
+    },
+    {
+      "album": {
         "name": "Angels We Have Heard on High",
         "url": "https://open.spotify.com/album/7KKitloAE7VWiHFGg6D2u3"
       },
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 142493,
       "name": "Home for the Holidays",
       "url": "https://open.spotify.com/track/0uvywHmSjlt2F2Bg9jvMzq"
@@ -1933,7 +1951,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 289786,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
@@ -1969,7 +1987,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 172146,
       "name": "Jingle All The Way / Jingle Bells / Hark The Herald Angels Sing - Medley / Alternate Version",
       "url": "https://open.spotify.com/track/3c96DLRFxEpEmXBRSh2n3L"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 226000,
       "name": "Last Xmas",
       "url": "https://open.spotify.com/track/5Iylu9FEarJW7j3VXJO7UN"
@@ -2345,7 +2363,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 211013,
       "name": "Make It To Christmas",
       "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
@@ -2651,7 +2669,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 176250,
       "name": "No\u00ebl",
       "url": "https://open.spotify.com/track/75kUnhIeG0dGcwanOcX9Dl"
@@ -3479,7 +3497,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 196254,
       "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
       "url": "https://open.spotify.com/track/66VenHDtrQAw7FCjyF2J56"

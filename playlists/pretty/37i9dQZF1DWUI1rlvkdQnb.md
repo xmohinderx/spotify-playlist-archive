@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 
 > Soft, relaxing music for workout recovery.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,816 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,839 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 | 78 | [Distant Dreams](https://open.spotify.com/track/05XqOIQ7J4mO4ZyOFIoz5L) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Distant Dreams](https://open.spotify.com/album/6M5JYrM1JhzIXe5vIDWZcB) | 3:59 |
 | 79 | [Lost](https://open.spotify.com/track/3O1AqwrqIwVoAr0GET75SY) | [Janae Milligan](https://open.spotify.com/artist/7fXVjzJEkTzPsCman3hBFu) | [Lost](https://open.spotify.com/album/5PGFQeWWIrlxj9fQzSwkRp) | 2:26 |
 | 80 | [Blue Horizon](https://open.spotify.com/track/40TIxgymbbZsANsfvMRFvC) | [Crystals](https://open.spotify.com/artist/0WO63gX2KR2lMmeAgNf8gY) | [Crystals](https://open.spotify.com/album/4KyUloQONRdcmdTjidzpwI) | 2:48 |
-| 81 | [You Are Loved](https://open.spotify.com/track/2puyeVYaXabtN2eniDV1sa) | [Sam Eber](https://open.spotify.com/artist/5KzipUgM2we3eTM3n2VrLk) | [You Are Loved](https://open.spotify.com/album/3cIqbLD9m8DHpPVmiZ1SFT) | 2:40 |
+| 81 | [You Are Loved](https://open.spotify.com/track/2KYxStNwb2T9PqO8l7WQAM) | [Sam Eber](https://open.spotify.com/artist/5KzipUgM2we3eTM3n2VrLk) | [KEEN: Soft Piano Vol\. 2](https://open.spotify.com/album/2ZgUoWirpgNlnnEYOKDXpT) | 2:40 |
 | 82 | [Aware of Everything](https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 4:10 |
 | 83 | [Exit](https://open.spotify.com/track/6ILOMqjC2nX80Rg1ACdUvZ) | [Milo Heart](https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1) | [Enter](https://open.spotify.com/album/3gkHD3Lrf6J3LQNBgKmbuW) | 3:34 |
 | 84 | [Vitality](https://open.spotify.com/track/2qq70CnufPOLYgcjHv00ht) | [Les Cieu](https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB) | [Vitality](https://open.spotify.com/album/3CRqKw05hXRMqxaYDC59r1) | 3:12 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 | 88 | [Repetetive Chattering Mind](https://open.spotify.com/track/6l8Xxuu9DMIEzZqfvedNZA) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Findings Inside](https://open.spotify.com/album/4kyzuLwgaOBwVrpMI9hBXH) | 3:13 |
 | 89 | [](https://open.spotify.com/track/3a6enSby0Rw9mrRPKDvqEL) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0uq7tFuxPm21pzggXlckgO) | 0:00 |
 | 90 | [Escape Gravity](https://open.spotify.com/track/3xjsbk8OtU1uR3FuOPS2NT) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Escape Gravity](https://open.spotify.com/album/2q8JbhxMmq0UMn3ui8XdvB) | 2:51 |
-| 91 | [Monsoon](https://open.spotify.com/track/0FXj7j1qnZ33pPfZJsdYVE) | [Tokyo Atmospheres](https://open.spotify.com/artist/2hoYdIIKopoBO1KV3QvK1r) | [Tokyo Atmospheres](https://open.spotify.com/album/23nI7Is88g5gn0kzKevRmr) | 3:51 |
+| 91 | [Monsoon](https://open.spotify.com/track/0LCuEeaioqIll290oClCG0) | [Tokyo Atmospheres](https://open.spotify.com/artist/2hoYdIIKopoBO1KV3QvK1r) | [This Is Music For FOCUS \(Vol 2\)](https://open.spotify.com/album/3OFnD0J9lpON2Zl8LRqEya) | 3:51 |
 | 92 | [Cosmic Awareness](https://open.spotify.com/track/3wUiacFzzsmxvdwramIwwg) | [Out Of Gravity](https://open.spotify.com/artist/4TFNHaPqofW42WWVafTX7o) | [Cosmic Awarness](https://open.spotify.com/album/4Pyk7xBsaCzB3UeFEWJa63) | 4:28 |
-| 93 | [Central Park](https://open.spotify.com/track/2ByYM9IxAQYcR6UjGS2bMl) | [N.Y\. Atmosphere](https://open.spotify.com/artist/46gZdK1zqsEEbwUtuXKmUb) | [N.Y\. Atmosphere](https://open.spotify.com/album/3chIewuk3sw5OO43UWwlG9) | 4:22 |
+| 93 | [Central Park](https://open.spotify.com/track/4YxNuvFXpexe20Wendz4aj) | [N.Y\. Atmosphere](https://open.spotify.com/artist/46gZdK1zqsEEbwUtuXKmUb) | [ECO SPA MUSIC, Vol\. 1](https://open.spotify.com/album/0TRZ2ieyLcZuk7MPqqtAbA) | 4:22 |
 | 94 | [Gelborn Heights](https://open.spotify.com/track/5D1t5wq4NGB1Z1r0fkcscF) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Soft Slow Sleep](https://open.spotify.com/album/5BdtXhbR9aIZ2RL8NJy5HK) | 3:13 |
 | 95 | [Mindful Composition](https://open.spotify.com/track/3nV4LSDVjCjv2hDeeTkvCH) | [Enzo Electronic](https://open.spotify.com/artist/4kyWODlwZxF4tiAe4LblhX) | [Mindful Composition](https://open.spotify.com/album/5WgvNWZyUGSx2MShXGAsN4) | 3:29 |
 | 96 | [](https://open.spotify.com/track/0qzsmjWYgiSIRNFrTEEsdP) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6uDC98RwRaAcFQzvmnteKU) | 0:00 |
 | 97 | [Moonstone](https://open.spotify.com/track/5VvSeHFi0obsd0Dx1dbsYi) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Moonstone](https://open.spotify.com/album/2O8POj7EMwBTPpnMtuL3MM) | 3:26 |
-| 98 | [Parc Güell](https://open.spotify.com/track/1hOEj6667PNM1Y7a1xXfek) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS) | 3:28 |
+| 98 | [Parc Güell](https://open.spotify.com/track/1qSdFNSzlFfHq0dTJCAGjE) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Calm Morning \(Vol 2\)](https://open.spotify.com/album/4euXG3fDA9DV7MtGXX1qeK) | 3:28 |
 | 99 | [Endless Fragments of Time](https://open.spotify.com/track/1UFmSqbxVtP5pl9r8KdeY1) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Endless Fragments of Time](https://open.spotify.com/album/12kcM5eBTpgQt2jLeb8sjL) | 3:36 |
 | 100 | [Yes/No \- Sanctuary Mix](https://open.spotify.com/track/6btq4xcQtbnDMYgfR7LmAu) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [Yes/No](https://open.spotify.com/album/6hFUbfCDZaaWhnYzMkJs4T) | 3:53 |
 
-Snapshot ID: `MTY2NjM3OTcyOSwwMDAwMDAwMGRmYzM5ZmM0OTk0YmQwZWY2OWQzOTFkNjY1NWNjM2Y5`
+Snapshot ID: `MTY2NjM3OTcyOSwwMDAwMDAwMDFhMTMxZThjZTVhNGJmYzEzOTVjYTk5MTAzZDgwNTVh`

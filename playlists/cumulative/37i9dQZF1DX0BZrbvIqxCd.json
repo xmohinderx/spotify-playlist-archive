@@ -109,7 +109,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 183242,
       "name": "All My Friends Are Nobodies",
       "url": "https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 197200,
       "name": "All Signs Point To Lauderdale",
       "url": "https://open.spotify.com/track/0T8P86fvSK8kCUJFYPZbIH"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265224,
       "name": "Alone with You",
       "url": "https://open.spotify.com/track/3jLj7HQNl4LXc9vNuwcFyw"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 173000,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/4nxdFmnrmHS2IjGT8lYxI5"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 181493,
       "name": "Bleed American",
       "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 233280,
       "name": "Broken Dreams, Inc.",
       "url": "https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 187371,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/64kDGEpOWlkv2l6x4TVNOs"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 190000,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/7vUeM6Bftbd4wBSml0KffV"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174146,
       "name": "Coffee Talk",
       "url": "https://open.spotify.com/track/7wXays9vrRN3i4wBpBYb2d"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 195520,
       "name": "Dead!",
       "url": "https://open.spotify.com/track/3262RRKqFC1oJXFwCMqgM0"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 182826,
       "name": "Dear Maria, Count Me In",
       "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
@@ -1393,7 +1393,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204114,
       "name": "Everything You Want Me to Be",
       "url": "https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn"
@@ -1415,6 +1415,24 @@
       "duration_ms": 201625,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/0jUb48UMAdHwmNeeg1ZpN0"
+    },
+    {
+      "album": {
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
       "album": {
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 212893,
       "name": "Get By",
       "url": "https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3"
@@ -1761,6 +1779,24 @@
       "duration_ms": 167041,
       "name": "Getaway Green",
       "url": "https://open.spotify.com/track/3pUJI1a0oZNHj9wRtZOf5O"
+    },
+    {
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167041,
+      "name": "Getaway Green",
+      "url": "https://open.spotify.com/track/6lMPUipRF49L8AxLW3F40B"
     },
     {
       "album": {
@@ -2099,7 +2135,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 231400,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/2DmNhvPUecofT7Zu7DJxS1"
@@ -2135,7 +2171,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 239237,
       "name": "Hit Like A Girl",
       "url": "https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9"
@@ -2304,6 +2340,24 @@
     },
     {
       "album": {
+        "name": "One Foot out the Door",
+        "url": "https://open.spotify.com/album/2obrFk3sGcVAE85Z9LCZJT"
+      },
+      "artists": [
+        {
+          "name": "SecondShot",
+          "url": "https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193560,
+      "name": "I Just Died in Your Arms",
+      "url": "https://open.spotify.com/track/1qfyKQeFz6l6h4caVLmNCW"
+    },
+    {
+      "album": {
         "name": "One Foot Out The Door",
         "url": "https://open.spotify.com/album/5uzCd2bpYjeUrgMr03JuTU"
       },
@@ -2337,6 +2391,28 @@
       "duration_ms": 193560,
       "name": "I Just Died in Your Arms",
       "url": "https://open.spotify.com/track/6M4FDzgFwe4FWq0rg8F6yC"
+    },
+    {
+      "album": {
+        "name": "i luv that u hate me",
+        "url": "https://open.spotify.com/album/0ry0pZr2APTC3hwSZuOk65"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221573,
+      "name": "i luv that u hate me",
+      "url": "https://open.spotify.com/track/4yqasUJVWKsy3sUr3fDFzx"
     },
     {
       "album": {
@@ -2405,7 +2481,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 151521,
       "name": "If You Say So",
       "url": "https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ"
@@ -2639,7 +2715,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 177011,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6FxIFdX1jeJYwPozaeqaZj"
@@ -2964,6 +3040,24 @@
     },
     {
       "album": {
+        "name": "Lost Touch",
+        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
+      },
+      "artists": [
+        {
+          "name": "We Were Sharks",
+          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169427,
+      "name": "Never Looked Better",
+      "url": "https://open.spotify.com/track/3J7EQBETsamG1kWbaDsxNU"
+    },
+    {
+      "album": {
         "name": "The Shape Of Punk To Come (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
@@ -2975,7 +3069,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 310200,
       "name": "New Noise",
       "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
@@ -3281,7 +3375,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 209826,
       "name": "Playing Dead",
       "url": "https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW"
@@ -3389,7 +3483,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199386,
       "name": "Prayer Of The Refugee",
       "url": "https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"
@@ -3483,6 +3577,24 @@
       "duration_ms": 204076,
       "name": "Reckless Paradise",
       "url": "https://open.spotify.com/track/3hjCqnOScnTmhv2Xvvv8Mq"
+    },
+    {
+      "album": {
+        "name": "Crisis Of Faith",
+        "url": "https://open.spotify.com/album/3PvuvoZpz2XWzVKMOi52hW"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204076,
+      "name": "Reckless Paradise",
+      "url": "https://open.spotify.com/track/6sQD8a5zZ09yA60YkeqDRS"
     },
     {
       "album": {
@@ -3929,7 +4041,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 158733,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"
@@ -4167,7 +4279,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 188885,
       "name": "The Afterglow",
       "url": "https://open.spotify.com/track/4VKN3lBovrmKK7nWP4xknO"
@@ -4203,7 +4315,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
@@ -4257,7 +4369,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 180160,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
@@ -4297,7 +4409,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
@@ -4466,6 +4578,24 @@
     },
     {
       "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/6m42SrPLrdXkjN3BT3UIlP"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178605,
+      "name": "Tune You Out",
+      "url": "https://open.spotify.com/track/2omnjJxsVxa75mlSMvLRac"
+    },
+    {
+      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/5odlFX6q0PglF7dGhsLzkf"
       },
@@ -4531,7 +4661,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 211100,
       "name": "Want Me Around",
       "url": "https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh"
@@ -4729,7 +4859,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143808,
       "name": "Worries",
       "url": "https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG"

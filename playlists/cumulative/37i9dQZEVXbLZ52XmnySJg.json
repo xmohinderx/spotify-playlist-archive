@@ -4834,6 +4834,24 @@
     },
     {
       "album": {
+        "name": "Jaadugar",
+        "url": "https://open.spotify.com/album/4ce4KxlUuD54lB8kg1wjce"
+      },
+      "artists": [
+        {
+          "name": "Mahbub Islam",
+          "url": "https://open.spotify.com/artist/0LJsq2Wm3kpcUF6qjT4Q39"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188046,
+      "name": "Jaadugar",
+      "url": "https://open.spotify.com/track/6D2AxAujvOilOZqJRiWbWJ"
+    },
+    {
+      "album": {
         "name": "Hustle 2.0",
         "url": "https://open.spotify.com/album/43iHptEDCmyn1WOQ40P7w4"
       },
@@ -4863,7 +4881,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 192000,
       "name": "Jaadugar",
       "url": "https://open.spotify.com/track/0iqqui0LWoXkZsJHfFxlg2"
@@ -6793,7 +6811,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 200120,
       "name": "Mann Mera",
       "url": "https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv"
@@ -9895,7 +9913,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"

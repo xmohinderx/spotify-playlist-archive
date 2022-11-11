@@ -264,6 +264,24 @@
     },
     {
       "album": {
+        "name": "iTunes Original Session",
+        "url": "https://open.spotify.com/album/3IXuAt2cfriD3hTnCK5GdE"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213733,
+      "name": "Both Hands",
+      "url": "https://open.spotify.com/track/2euBsj5xnafuZMJAP7LJdb"
+    },
+    {
+      "album": {
         "name": "Ani DiFranco",
         "url": "https://open.spotify.com/album/0G6JEkNgzfTlve4XAiRlCk"
       },
@@ -293,7 +311,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 218800,
       "name": "Both Hands",
       "url": "https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg"
@@ -891,10 +909,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 194800,
       "name": "Gay Messiah",
       "url": "https://open.spotify.com/track/6d1P91nb0Hk6vpQHQV1zN0"
+    },
+    {
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/0Q5MChaGXpiGGDewcfXebW"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194840,
+      "name": "Gay Messiah",
+      "url": "https://open.spotify.com/track/6HuYQDa2x7srgKrt3QG6T4"
     },
     {
       "album": {
@@ -1817,7 +1853,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 184453,
       "name": "Same Old Lines",
       "url": "https://open.spotify.com/track/1iIAth3EApux3r5p61F51e"
@@ -1839,6 +1875,24 @@
       "duration_ms": 184453,
       "name": "Same Old Lines",
       "url": "https://open.spotify.com/track/3DEt1a9c9lS7d19txLyhRv"
+    },
+    {
+      "album": {
+        "name": "Same Old Lines",
+        "url": "https://open.spotify.com/album/6NtmqFTfgYf2Cnfm7VOI4E"
+      },
+      "artists": [
+        {
+          "name": "Rod Thomas",
+          "url": "https://open.spotify.com/artist/4SpGhDIoQnFKWCmNVcF4pA"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184453,
+      "name": "Same Old Lines",
+      "url": "https://open.spotify.com/track/7DjFa47KnciBUpqGDZuBtk"
     },
     {
       "album": {
@@ -2129,6 +2183,24 @@
     {
       "album": {
         "name": "The Rose Gardener",
+        "url": "https://open.spotify.com/album/34OI8CDvpCev2oLuUXkK6X"
+      },
+      "artists": [
+        {
+          "name": "Bellows",
+          "url": "https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224488,
+      "name": "The Rose Gardener",
+      "url": "https://open.spotify.com/track/37m6V2rYD5OaZp9EfFZYYk"
+    },
+    {
+      "album": {
+        "name": "The Rose Gardener",
         "url": "https://open.spotify.com/album/5XfgTVzJfSdlQEh6dv4GQR"
       },
       "artists": [
@@ -2157,7 +2229,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 224488,
       "name": "The Rose Gardener",
       "url": "https://open.spotify.com/track/62CUlkvPtMgQkKrCH7oxLH"

@@ -4,7 +4,7 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-64 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/3fahOy3iri1dJ2MuPaHK5f)
+65 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/3fahOy3iri1dJ2MuPaHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Sussex Carol](https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:25 | 2021-11-19 |  |
 | [The Coventry Carol](https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:16 | 2021-11-19 |  |
 | [The First Noel](https://open.spotify.com/track/1hYK7uOlnJ6kvMkdPsFQ5l) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Upright Sketches, Winter Carols](https://open.spotify.com/album/1YHbzjlMq9UIyGWZmaFOc5) | 3:28 | 2021-11-19 |  |
-| [The Holly & The Ivy](https://open.spotify.com/track/1xDE4ZqjA6Oi8yxIRn8goX) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance](https://open.spotify.com/album/5iSA8cwqAeL2Ep7RcnT62N) | 4:19 | 2021-11-19 |  |
+| [The Holly & The Ivy](https://open.spotify.com/track/3DfDRcNWGsOmSQ8eRKi46c) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Dinner](https://open.spotify.com/album/2oEoV2IoVHqm3VT7K5WUQ6) | 4:19 | 2022-11-09 |  |
+| [The Holly & The Ivy](https://open.spotify.com/track/1xDE4ZqjA6Oi8yxIRn8goX) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance](https://open.spotify.com/album/5iSA8cwqAeL2Ep7RcnT62N) | 4:19 | 2021-11-19 | 2022-11-11 |
 | [The Holly & the Ivy](https://open.spotify.com/track/7EJ27XsIcR0S5V9lQLbP2d) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance \(Deluxe Edition\)](https://open.spotify.com/album/4KCW2gVyGEUjBTOFLRgByk) | 4:19 | 2021-11-19 | 2022-07-29 |
 | [The Wexford Carol](https://open.spotify.com/track/1NmDR64IJfFYAMWuA1Ggpg) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Celtic Guitar Duets: Christmas Edition](https://open.spotify.com/album/44squAzHy4puVKGEtrmlUh) | 1:45 | 2021-11-19 |  |
 | [The Wexford Carol](https://open.spotify.com/track/2bqFAUcRgI5ISgb4tmYDB9) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Celtic Guitar Duets: Christmas Edition](https://open.spotify.com/album/63yq0Xhi6jrlGts3gMyYDW) | 1:45 | 2021-11-19 | 2022-07-29 |

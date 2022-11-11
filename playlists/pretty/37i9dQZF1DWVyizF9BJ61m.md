@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,457 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,710 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 35 | [Akwa Kayi Ji Bia Nuwa](https://open.spotify.com/track/6iNLRaWoB35tb4l7SKLqB5) | [The Identicals](https://open.spotify.com/artist/73dUfpnfNDAjzecrKjL415) | [Soundway Records Presents The World Ends Afro Rock and Psychedelia in 1970s Nigeria](https://open.spotify.com/album/1Jmb92xUTgRmGQPJBVrArI) | 5:29 |
 | 36 | [Heaven](https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7) | [Ebo Taylor](https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz) | 6:05 |
 | 37 | [Keleya](https://open.spotify.com/track/22wOMwqWNjm49RCPyX8H5c) | [Moussa Doumbia](https://open.spotify.com/artist/2yRG7OVkS0IXvJfntYxHfV) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 6:42 |
-| 38 | [Secret Agent \- 2022 \- Remaster](https://open.spotify.com/track/2AjmSwDI5PqOUeAM32kBo3) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent \(2022 Remaster\)](https://open.spotify.com/album/7IShXowFqPNYwLaNIvmsph) | 5:18 |
+| 38 | [Secret Agent](https://open.spotify.com/track/3cEmHXnOZ25VECvzWTBjVg) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent](https://open.spotify.com/album/5C5xiAht5p8l8Z7oSJFebW) | 5:20 |
 | 39 | [Heavy Heavy Heavy](https://open.spotify.com/track/5PD8YhpV4a0BhMjwo0QVsx) | [Geraldo Pino](https://open.spotify.com/artist/6aUmoNP3dS6an1wvsfK7vg), [The Heartbeats](https://open.spotify.com/artist/4MxxWlqPodeCP8CqrT6Jps) | [Afro\-Rock Vol\. 1](https://open.spotify.com/album/46ZQZkK27RoM56LLt8xkSY) | 6:33 |
 | 40 | [Blacky Joe](https://open.spotify.com/track/0V9B1YARzvYkmnS3U5RuQk) | [P.R.O.](https://open.spotify.com/artist/20A2kG12udlX84wHGop79J) | [The World Ends: Afro Rock & Psychedelia in 1970s Nigeria](https://open.spotify.com/album/34D88uX2koESycju2ROiAV) | 4:59 |
 | 41 | [Somebody's Gonna Lose or Win](https://open.spotify.com/track/6YnhY4SuFyx3gMgeyTlVdI) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [The World Ends: Afro Rock & Psychedelia in 1970s Nigeria](https://open.spotify.com/album/34D88uX2koESycju2ROiAV) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 49 | [Watch Your Life](https://open.spotify.com/track/2vbRZMSsenMBhpF6am4uRc) | [Itadi](https://open.spotify.com/artist/4VJPktEOBTcv5oRRXrPhne) | [Itadi](https://open.spotify.com/album/0FPxNka2LFpFgHTT5zCtRj) | 6:10 |
 | 50 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
 
-Snapshot ID: `MTY1MjM5NjQwMCwwMDAwMDAwMGFlNTdkY2NmMzdkMDA3M2E4MTdlYzAzODk1Njg1M2Zk`
+Snapshot ID: `MTY1MjM5NjQwMCwwMDAwMDAwMDcyN2Y3Y2FmOThlZDFlZmJlNzIwNzRhYWUwYzg4N2Fj`

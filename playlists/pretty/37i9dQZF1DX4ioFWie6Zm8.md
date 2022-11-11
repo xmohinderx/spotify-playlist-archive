@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,151 likes - 101 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,307 likes - 101 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 25 | [Sarama](https://open.spotify.com/track/7jDvPH18QP0Y35l20cjYgy) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Beautiful Africa](https://open.spotify.com/album/5gCev1aMAHiG6qmS32mfzj) | 5:01 |
 | 26 | [Kedide](https://open.spotify.com/track/0XVvy1dIe74n1k5zM0z3hI) | [Nicolas Repac](https://open.spotify.com/artist/0RaR5kDG6RThEm7WOgpLO9), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6) | [Yelema \(By Nicolas Repac\)](https://open.spotify.com/album/2I36kSFeHnJJTe54rx9nYO) | 5:10 |
 | 27 | [Sarama](https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sarama](https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc) | 3:38 |
-| 28 | [Masikini](https://open.spotify.com/track/0ijkkyEW17XuY9U2VsVy8o) | [Eyuphuro](https://open.spotify.com/artist/3xeIPvs8wpKFuSfcWMl3Yz) | [Yellela](https://open.spotify.com/album/6EWBxzSmtY64bKJhCeE4ip) | 5:09 |
+| 28 | [Masikini](https://open.spotify.com/track/2DwmgYmOFim5vpb7rEgLn5) | [Eyuphuro](https://open.spotify.com/artist/3xeIPvs8wpKFuSfcWMl3Yz) | [Rough Guide To Acoustic Africa](https://open.spotify.com/album/2RdS4iINtmF5E6oHc0uUxK) | 5:09 |
 | 29 | [Jairaby Lé](https://open.spotify.com/track/1hqJGbTYFNVxlJYQnGH9Y6) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Heritage](https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk) | 5:31 |
 | 30 | [Bougoudani](https://open.spotify.com/track/7ENxFeh3Ca4TIWbUsZ0zH7) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO) | 6:26 |
 | 31 | [Seydou](https://open.spotify.com/track/2SD12dIAtIKz39Sqp1LYPo) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | ["Folon".....The Past](https://open.spotify.com/album/1ban68aN7UrIS3MTKKp7SV) | 5:48 |
@@ -100,14 +100,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 90 | [Saya](https://open.spotify.com/track/51QzpyWfcrpPAqBLUIDsex) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Fasiya](https://open.spotify.com/album/7h7MgG54nO4RvaPj01CEX6) | 3:55 |
 | 91 | [Speak Low](https://open.spotify.com/track/2E5ekqXKBEWFCgOzvSsHhT) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 4:21 |
 | 92 | [Xarit](https://open.spotify.com/track/1zWqMvDlArrjvNvZr5gfyJ) | [Diali Cissokho & Kaira Ba](https://open.spotify.com/artist/0I5q96SJ25V0fvPDl2EUEx) | [Routes](https://open.spotify.com/album/75oaoHY53aYTaQkWyLESRE) | 3:16 |
-| 93 | [Xingwavilani](https://open.spotify.com/track/7GPj18Puh8fllh4m614bgO) | [Yinguica](https://open.spotify.com/artist/1m4eSsCu1zZiNqFqp0Se9S) | [Marrabenta Music from Mozambique](https://open.spotify.com/album/0qDwNVvzLXpCbIEjuQ43Hv) | 3:06 |
+| 93 | [Xingwavilani](https://open.spotify.com/track/16Ddy1wdlOZI8ha2Vnr9fX) | [Yinguica](https://open.spotify.com/artist/1m4eSsCu1zZiNqFqp0Se9S) | [Sounds of Africa: Mozambique](https://open.spotify.com/album/1up7lXRtbbdhWsGYVdT1gH) | 3:06 |
 | 94 | [Traveller](https://open.spotify.com/track/6Owmnfs6MvM1M3s9k8s2iC) | [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [The Traveller \(Special Edition\)](https://open.spotify.com/album/4aBzJki6h22G9v4dph5XZO) | 4:07 |
-| 95 | [White Crocodile Blues \(A Song for M\)](https://open.spotify.com/track/5TSrOwcE7x7PoRRYkwaE4T) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Crocodile Blues](https://open.spotify.com/album/1hHOiRh6ooo8V0jdcSHc9Z) | 3:48 |
+| 95 | [White Crocodile Blues \(A Song for M\)](https://open.spotify.com/track/2ZebEzOh3rhq6rT8bvff65) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Rough Guide to a World of Guitar](https://open.spotify.com/album/3JsN3o5kgJVV82IbqJihg1) | 3:48 |
 | 96 | [Mansour](https://open.spotify.com/track/7AVq2voUHwI3iWjYcUGXBv) | [Bao Sissoko](https://open.spotify.com/artist/4CTaCrWrRUUmZt3KJtwg3E), [Mola Sylla](https://open.spotify.com/artist/1OCWAUqRSu9ZUGdpehnEWK), [Wouter Vandenabeele](https://open.spotify.com/artist/0OlrNScJQ7YYGSkij4TFg8) | [Tamala](https://open.spotify.com/album/0HxflxCmZs5FOmTVx2jryV) | 5:47 |
 | 97 | [Munaya \(Dream\)](https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:46 |
 | 98 | [Kába](https://open.spotify.com/track/6pzyjHjE0HlaK9fYrMAuIH) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Mark Feldman](https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA), [Cyro Baptista](https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz), [Dramane Dembélé](https://open.spotify.com/artist/4ocTJVYKPWlU6NmQO0Ybuj), [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Christi Joza Orisha](https://open.spotify.com/artist/3CPmm77nMufyLCi02EHSd2), [Robert Sadin](https://open.spotify.com/artist/5JWMejpVKhv7pYahgWSXSr) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 4:36 |
 | 99 | [Wanita](https://open.spotify.com/track/6cBLK1pC202FMxthSKg1NN) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:39 |
 | 100 | [Djelia](https://open.spotify.com/track/3tDIl6vOp35dSn2PFLaxbJ) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 5:30 |
-| 101 | [Makambo](https://open.spotify.com/track/2F9aMslwYQurvgv7DGS7S5) | [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Exile \(Real World Gold\)](https://open.spotify.com/album/3wDdQn9tgxEIjjo1pnc7X7) | 5:00 |
+| 101 | [Makambo](https://open.spotify.com/track/1KhDeUDKgkPPGTi2yLh42C) | [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [African Tranquility: The Contemplative Soul of Africa](https://open.spotify.com/album/5yct2YFar38IONhbcTzWjm) | 5:01 |
 
-Snapshot ID: `MTY1OTY5OTk2MCwwMDAwMDAwMDc5ODNhMGFiNjExZmRlZWI1OTNjNzU5N2ZlZWQ5ODM1`
+Snapshot ID: `MTY1OTY5OTk2MCwwMDAwMDAwMGMwOGI2YzE1ODRjNjAxYTBkMTNlZjdhYTk1NGNmOTk1`

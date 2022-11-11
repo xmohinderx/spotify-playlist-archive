@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 273893,
       "name": "Colder Weather",
       "url": "https://open.spotify.com/track/3U8dHeggJ8IBe0UCb1gbyB"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 171333,
       "name": "I Fall To Pieces - Single Version",
       "url": "https://open.spotify.com/track/6zFsz86nAj5gcvzyVqNL3k"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 214416,
       "name": "Never Wanted To Be That Girl",
       "url": "https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 241899,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
@@ -2378,6 +2378,24 @@
     },
     {
       "album": {
+        "name": "ACM Awards 2020",
+        "url": "https://open.spotify.com/album/5UOstkFn8OlVc9tOtFeeWn"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206230,
+      "name": "What If I Never Get Over You",
+      "url": "https://open.spotify.com/track/5wXQbIrhH5nPYuUhqqQ94U"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
       },
@@ -2389,7 +2407,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 206597,
       "name": "What If I Never Get Over You",
       "url": "https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6"

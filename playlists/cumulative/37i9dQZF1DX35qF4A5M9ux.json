@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 261360,
       "name": "A Puro Dolor",
       "url": "https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 271674,
       "name": "Amigo Cu\u00eddala",
       "url": "https://open.spotify.com/track/4fDgJFwupM4Z1PYBFzfasP"
@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Crossover Latino",
+        "url": "https://open.spotify.com/album/4cxB7JVvs7ihM2ZHNexapR"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308866,
+      "name": "Aqu\u00e9l Viejo Motel",
+      "url": "https://open.spotify.com/track/2v5vPy9KbAhsgaj2cvqRfW"
+    },
+    {
+      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 308893,
       "name": "Aqu\u00e9l Viejo Motel",
       "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 321619,
       "name": "Calculadora",
       "url": "https://open.spotify.com/track/2P4onY7I6vpae0hw15SkAe"
@@ -815,7 +833,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 242648,
       "name": "Desde El Fondo De Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 287120,
       "name": "Desn\u00fadate Mujer",
       "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 278871,
       "name": "Detalles",
       "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 212640,
       "name": "Dime Que Pas\u00f3",
       "url": "https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2"
@@ -1060,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "\u00c9xitos de la Salsa",
+        "url": "https://open.spotify.com/album/4dE8XD9VBh3UDOio2LsqKc"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 622520,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/166cUvnNBa5ZoFWLIsLZfU"
+    },
+    {
+      "album": {
         "name": "Comedia",
         "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
@@ -1071,7 +1107,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 626880,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
@@ -1197,10 +1233,28 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 330919,
       "name": "El Jard\u00edn Prohibido",
       "url": "https://open.spotify.com/track/45LErG3Sq9sRdzQC8WSq3x"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/7KdYXKEFxexeuX1ynFsygi"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330919,
+      "name": "El Jard\u00edn Prohibido",
+      "url": "https://open.spotify.com/track/6eLTCEZKKJm8U4WorbEuH2"
     },
     {
       "album": {
@@ -1395,7 +1449,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 272266,
       "name": "Fabricando Fantas\u00edas - Salsa Version",
       "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
@@ -1504,6 +1558,24 @@
     },
     {
       "album": {
+        "name": "20 Triunfadores Bailables",
+        "url": "https://open.spotify.com/album/7pzXfgKRnMh49wDt2amuWD"
+      },
+      "artists": [
+        {
+          "name": "Matecana Orquesta",
+          "url": "https://open.spotify.com/artist/0ekJN54dVshW0hk3yWRiyl"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287399,
+      "name": "Gracias Amor",
+      "url": "https://open.spotify.com/track/0PIIR8tDuOHpEoMcPY3Ayp"
+    },
+    {
+      "album": {
         "name": "20 A\u00f1os - Lo Mejor y Lo Nuevo",
         "url": "https://open.spotify.com/album/1IVEk190SdRxpwTIEOzFtf"
       },
@@ -1533,7 +1605,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 289097,
       "name": "Gracias Amor",
       "url": "https://open.spotify.com/track/09zJAF4Z2v55rU9XXZfA9N"
@@ -1643,13 +1715,13 @@
           "url": "https://open.spotify.com/artist/69cQFJ1QUMfKbGBygF0YCd"
         },
         {
-          "name": "Claudio Moran",
+          "name": "Claudio Mor\u00e1n",
           "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
         }
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247413,
       "name": "Hoy Voy a Tomar",
       "url": "https://open.spotify.com/track/6CMzq5lR2EFeq3ENPNG18L"
@@ -1841,7 +1913,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 376013,
       "name": "La rebelion",
       "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
@@ -1863,6 +1935,28 @@
       "duration_ms": 286120,
       "name": "Las Calaveras",
       "url": "https://open.spotify.com/track/7K8fx6p94CnofgKLVqifJC"
+    },
+    {
+      "album": {
+        "name": "Colecci\u00f3n Oro de la Salsa, Vol. 5",
+        "url": "https://open.spotify.com/album/7asTvTt7iff2Psru6peHfF"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Macondo",
+          "url": "https://open.spotify.com/artist/71RG4LFQLn8NpMlv8Q5CVC"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284480,
+      "name": "Las Calaveras",
+      "url": "https://open.spotify.com/track/6UfYTQTBJoBZZjorNMJ6l1"
     },
     {
       "album": {
@@ -1917,7 +2011,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
@@ -2119,7 +2213,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 345792,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/7JPgcXRqmugdQ3ur9ob6b8"
@@ -2505,7 +2599,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 445080,
       "name": "Pedro Navaja",
       "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
@@ -2613,7 +2707,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 291106,
       "name": "Por Retenerte",
       "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
@@ -2765,7 +2859,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 308040,
       "name": "Que Locura Enamorarme De Ti",
       "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
@@ -2787,6 +2881,24 @@
       "duration_ms": 309573,
       "name": "Que Locura Enamorarme De Ti",
       "url": "https://open.spotify.com/track/4Ih0JljQ3X3PbHfmuk05PR"
+    },
+    {
+      "album": {
+        "name": "Salsa Para Todos",
+        "url": "https://open.spotify.com/album/3zSLfMJ91qrX92keIZM57G"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309813,
+      "name": "Que Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/5ySuOlFM5u7bX70loeeXqL"
     },
     {
       "album": {
@@ -2909,10 +3021,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 276346,
       "name": "Reg\u00e1lame una Noche",
       "url": "https://open.spotify.com/track/2URe3fGSKuCh8v0d49lsNU"
+    },
+    {
+      "album": {
+        "name": "30 Mejores: Maelo Ruiz",
+        "url": "https://open.spotify.com/album/6n3vOf9byGRjnEYp2eZSps"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278186,
+      "name": "Reg\u00e1lame Una Noche",
+      "url": "https://open.spotify.com/track/2PiWZEirW4H48U7cncMCFl"
     },
     {
       "album": {
@@ -3006,6 +3136,42 @@
     },
     {
       "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275893,
+      "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
+      "url": "https://open.spotify.com/track/2z4yMdbdAfNZB7za0yFhqU"
+    },
+    {
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2VqfWkCqh1smtP2Sy4gkBJ"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326360,
+      "name": "Si Me Ves Llorar",
+      "url": "https://open.spotify.com/track/19yfetQHcFU4vYWUjp2uPS"
+    },
+    {
+      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
       },
@@ -3017,7 +3183,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 326478,
       "name": "Si Me Ves Llorar",
       "url": "https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq"
@@ -3161,7 +3327,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 290706,
       "name": "Si Volvieras A Mi",
       "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
@@ -3269,10 +3435,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 252826,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
+    },
+    {
+      "album": {
+        "name": "Greatest Salsa Classics Of Colombia, Vol. 1",
+        "url": "https://open.spotify.com/album/29k81bFSFRcvmCuiKo8UyI"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252826,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/1pECsNoVl4CLtx3rxhRZk4"
     },
     {
       "album": {
@@ -3521,7 +3705,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 295160,
       "name": "T\u00fa Me Vuelves Loco",
       "url": "https://open.spotify.com/track/1hiy2Mm4Xw57Vh6tiWbyam"

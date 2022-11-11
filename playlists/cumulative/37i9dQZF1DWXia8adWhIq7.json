@@ -592,6 +592,24 @@
     },
     {
       "album": {
+        "name": "Teu Abra\u00e7o Faz a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/4AjL13617OAPBmkdO68s3i"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279428,
+      "name": "Eu Digo Sim",
+      "url": "https://open.spotify.com/track/3l5V0o9V3XqKsenxlyUQFn"
+    },
+    {
+      "album": {
         "name": "Eu Digo Sim",
         "url": "https://open.spotify.com/album/6m24zX6QTmUfZaBg3V2DxL"
       },
@@ -603,7 +621,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 279428,
       "name": "Eu Digo Sim",
       "url": "https://open.spotify.com/track/5iM0mfAZx3H6G8D2ZCejWz"

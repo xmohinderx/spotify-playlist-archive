@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9lEco8NkcU.md) - [plain]
 
 > what are they doing up there?
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,237 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,333 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9lEco8NkcU.md) - [plain]
 | 4 | [Album 3](https://open.spotify.com/track/7wpKTYDOT1goHKXXHT6fi7) | [Mokira](https://open.spotify.com/artist/3rdStJL3GPEj3S5y8zyvn7) | [Album](https://open.spotify.com/album/0QgxbUQVAa5UN55VCDxdaa) | 4:44 |
 | 5 | [Musicbox](https://open.spotify.com/track/1yONlvObY8e2iqm86Dmtuo) | [Julien Neto](https://open.spotify.com/artist/4JVbuk3i6Z5WGR3ar8Wro2) | [Le Fumeur De Ciel](https://open.spotify.com/album/1SwfAtm5Rom8gcgEK8H5Qs) | 2:59 |
 | 6 | [Circle 2](https://open.spotify.com/track/3sbEHB3CJcuhMIf1nTBb2R) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Full Circle](https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI) | 2:15 |
-| 7 | [Song of the Second Moon](https://open.spotify.com/track/07Y2a4zGLw0w7prWbZl0uJ) | [Kid Baltan](https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs) | [Song of the Second Moon](https://open.spotify.com/album/5dBwLiLUoJf84L8awVQVrv) | 3:08 |
+| 7 | [Song of the Second Moon \- Original Version](https://open.spotify.com/track/2fK8nqZWrVD4wQHe7mzsT9) | [Tom Dissevelt](https://open.spotify.com/artist/4ItPco4yWLkMWjnYRaqDgw) | [Popular Electronics: Early Dutch Electronic Music 1956\-1963](https://open.spotify.com/album/5wBmjxiEWjEByDbTlUMijc) | 3:08 |
 | 8 | [Tommib](https://open.spotify.com/track/5bgbePi06Jpajb3CfgEhgJ) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Go Plastic](https://open.spotify.com/album/14DV5JzgIRhtqMMjtO4QOj) | 1:19 |
 | 9 | [Where My Brap At?](https://open.spotify.com/track/1N5Qa1qMw2kwvjf3RKHouV) | [disc](https://open.spotify.com/artist/4a9B5A5fVCayFnAnup5thw) | [Tigerbeat Inc disc 1](https://open.spotify.com/album/3ojlAzwrhbB7hsRxrmNNCX) | 2:58 |
 | 10 | [Before The Storm](https://open.spotify.com/track/2u2FeoEHbkZ9WbpNpmIbYS) | [Edgey](https://open.spotify.com/artist/3fMJ5l4czmNOzG6jx0xrfV) | [Misfire](https://open.spotify.com/album/4QEGntEsYGnhKv9ajvoJOJ) | 5:36 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9lEco8NkcU.md) - [plain]
 | 49 | [Loss](https://open.spotify.com/track/0b7Eu5l20kNKKSpKJ3ZJv9) | [The Camera System](https://open.spotify.com/artist/1rU85PMucQXPcWKyu5L6U5) | [The Camera System](https://open.spotify.com/album/4cQFAMNyfivmXqBJm8NhiP) | 2:11 |
 | 50 | [A Small Good Thing](https://open.spotify.com/track/7DBbI09sbeAjqowvuodV8l) | [Pisstank](https://open.spotify.com/artist/123gAmsaSN7bjDCSYKCcsk) | [Tigerbeat Inc disc 1](https://open.spotify.com/album/3ojlAzwrhbB7hsRxrmNNCX) | 1:02 |
 | 51 | [Waiting in shadows](https://open.spotify.com/track/0h41LAkIIxgV9d1tUvpday) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Closer than ever](https://open.spotify.com/album/0pbsNfhs6ha5ff0mUD03Mg) | 2:02 |
-| 52 | [Colonel Bogey](https://open.spotify.com/track/52Bcd2F0Su27o4vVMf7jDl) | [Kid Baltan](https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs) | [Song of the Second Moon](https://open.spotify.com/album/5dBwLiLUoJf84L8awVQVrv) | 3:00 |
+| 52 | [Colonel Bogey](https://open.spotify.com/track/0oTNj4LpY1R4kCiSGoU14x) | [Kid Baltan](https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs), [Dick Raaijmakers](https://open.spotify.com/artist/7bsu1ED02BXIqQ8FfVlB34) | [Popular Electronics: Early Dutch Electronic Music 1956\-1963](https://open.spotify.com/album/5wBmjxiEWjEByDbTlUMijc) | 3:01 |
 | 53 | [permafrost](https://open.spotify.com/track/7uJRKFsuCrurLTDbEgTf2y) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [there is no such thing as a jellyfish](https://open.spotify.com/album/0mRUcNL02378si53jjOeUV) | 1:45 |
 | 54 | [Skeleton Emotion](https://open.spotify.com/track/6Gi8L70DQDOyyV5RhSPHIG) | [Hot Roddy](https://open.spotify.com/artist/6jKjendLFABd2rOSH6DFkm) | [Whatever!](https://open.spotify.com/album/2lQbrqbGqncgxheHek69pO) | 0:38 |
 | 55 | [Stonewall Elementary](https://open.spotify.com/track/4j6sgxjuTjNKpJCnAMM8ZC) | [Phoenix Parker](https://open.spotify.com/artist/0KRwDAEKBrZHtQy91LAoxb) | [Stonewall Elementary](https://open.spotify.com/album/7Gjx0jeCfUmCjgP7Zh5Gqq) | 0:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9lEco8NkcU.md) - [plain]
 | 59 | [Drive It Like You Stole It \- Ambient Version](https://open.spotify.com/track/3WMTRr53rc5rsSQ3Qaefam) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD), [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Drink the Sea \(Ambient Version\)](https://open.spotify.com/album/1gHeBH5qZs2OGKfp0eGjjM) | 4:29 |
 | 60 | [return trip](https://open.spotify.com/track/6R7LCiocE6XsF4bmD6cnkz) | [aeroxone](https://open.spotify.com/artist/1RfT7VjWufW7BOVCG3MLOa) | [unknown destination](https://open.spotify.com/album/4TntYRd05wSHWg1q2MnCgB) | 1:22 |
 
-Snapshot ID: `MTY2NDg5Mzk4NiwwMDAwMDAwMGE4NTFhMTNmMzBhZmNlODgzMDRiYmU3YzQ2NGFjNjVm`
+Snapshot ID: `MTY2NDg5Mzk4NiwwMDAwMDAwMDNmMDg1NDBiMTBlZWM1YWVjMzkzZmE1NDQ2NGEyNWVk`

@@ -754,6 +754,24 @@
     },
     {
       "album": {
+        "name": "Logic of a Dream",
+        "url": "https://open.spotify.com/album/2JW1tOY8auzODdapMMbxUO"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397653,
+      "name": "Logic of a Dream",
+      "url": "https://open.spotify.com/track/0URVKq4PQMcU2zzvzZFyLU"
+    },
+    {
+      "album": {
         "name": "The Wilderness",
         "url": "https://open.spotify.com/album/1MUhDxkdqg5IyNYylLu7P8"
       },
@@ -765,7 +783,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 397653,
       "name": "Logic of a Dream",
       "url": "https://open.spotify.com/track/1WQ96gvJgsd3CwxMPEUZYC"
@@ -848,6 +866,24 @@
     },
     {
       "album": {
+        "name": "Young Team (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/03Oli2dCjoYM5YS4f8R2pd"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 979560,
+      "name": "Mogwai Fear Satan",
+      "url": "https://open.spotify.com/track/3v2JDIu7n8DJ83V2pCKyqu"
+    },
+    {
+      "album": {
         "name": "Young Team",
         "url": "https://open.spotify.com/album/0qXr1kAu0GXoFoa55MbrLK"
       },
@@ -859,7 +895,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 979560,
       "name": "Mogwai Fear Satan",
       "url": "https://open.spotify.com/track/5rVFrWKhJNe1iuGK0BPgTC"

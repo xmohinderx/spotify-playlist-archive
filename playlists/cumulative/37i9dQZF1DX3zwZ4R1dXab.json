@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Days of Tomorrow",
+        "url": "https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH"
+      },
+      "artists": [
+        {
+          "name": "Penny Layn",
+          "url": "https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Alteration For Life",
+      "url": "https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd"
+    },
+    {
+      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD"
       },
@@ -261,7 +279,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 294400,
       "name": "Don't Worry Be Happy",
       "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 142030,
       "name": "m4a",
       "url": "https://open.spotify.com/track/0p1dvFjInHmk6nUparv5dk"
@@ -808,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB"
+      },
+      "artists": [
+        {
+          "name": "Augusta Winslow",
+          "url": "https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183659,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8"
+    },
+    {
+      "album": {
         "name": "Night Effects",
         "url": "https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU"
       },
@@ -963,7 +999,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
@@ -1323,7 +1359,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 139226,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"

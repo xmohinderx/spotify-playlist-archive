@@ -4,7 +4,7 @@
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Skeng
 
-68 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/5CCqycT3xKUm1yqlOpRcRl)
+69 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/5CCqycT3xKUm1yqlOpRcRl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Racketeer](https://open.spotify.com/track/2zLPeZ5T1ZLGiYLzHV1kCn) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Racketeer](https://open.spotify.com/album/2IjlI8ae5xYFntDtNnTJt9) | 2:39 | 2021-10-20 |  |
 | [Ride \- Remix](https://open.spotify.com/track/3SEfX0PJAkE9mqFVMSO4QO) | [Kash Promise Move](https://open.spotify.com/artist/0n2GVhODT8CJldQoVdsMw4), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Ride \(Remix\)](https://open.spotify.com/album/5ksTZQyb1EcTen6NYlEgL5) | 3:05 | 2021-10-20 |  |
 | [Rocket Launcher](https://open.spotify.com/track/0ewYjU1bxDmtmTzv28Yhlo) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Crocodile Teeth LP](https://open.spotify.com/album/2vTffZefaNNkR5h2dW7EHP) | 3:00 | 2021-10-20 | 2022-07-29 |
-| [Rocket Launcher \(feat\. Rich The Kid & Popcaan\)](https://open.spotify.com/track/60gXgJTs7MAxZr91ZG3dVx) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Crocodile Teeth LP](https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH) | 3:00 | 2021-10-20 |  |
+| [Rocket Launcher \(feat\. Rich The Kid & Popcaan\)](https://open.spotify.com/track/0MKA5ew6espUFHJ0zrhm6d) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Mr\. Universe EP](https://open.spotify.com/album/3cu8ZbrRjwwQQazuGsGnSm) | 3:00 | 2022-08-05 |  |
+| [Rocket Launcher \(feat\. Rich The Kid & Popcaan\)](https://open.spotify.com/track/60gXgJTs7MAxZr91ZG3dVx) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Crocodile Teeth LP](https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH) | 3:00 | 2021-10-20 | 2022-11-11 |
 | [Roll Deep](https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/24HPQqwhRn31huvNRg8War) | 3:27 | 2021-10-20 |  |
 | [Ryda](https://open.spotify.com/track/3NMMclAO8N0zh2Ymqd85rU) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [Ryda](https://open.spotify.com/album/50oVnp53tqNdhn1DCvBqV8) | 3:50 | 2021-10-20 |  |
 | [Sell Off](https://open.spotify.com/track/2w5QZbIg9O5Eq9e3wBIA4c) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Sell Off](https://open.spotify.com/album/7qH2cqU9MMR2zMvGaLPSXC) | 3:09 | 2021-10-20 |  |

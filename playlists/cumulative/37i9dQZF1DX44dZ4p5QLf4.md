@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-266 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+267 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,8 +243,9 @@
 | [Talking Outta My](https://open.spotify.com/track/7khNEOIElWPWojn3RkoLl8) | [Dragonfruit](https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy), [Amazumi](https://open.spotify.com/artist/1KqP5MKz8cYj26nv20rU1g) | [Talking Outta My](https://open.spotify.com/album/2TxRcwpDPwurbCdglZ0g7S) | 2:53 | 2021-12-16 | 2022-07-07 |
 | [TBU](https://open.spotify.com/track/0fNqBczzVUvBy4MSjZXXZK) | [Q.](https://open.spotify.com/artist/2BYrcmYgB1rQVyH269VcY3) | [TBU](https://open.spotify.com/album/5InMrtkdMxpAQmc6Vv4GTq) | 3:42 | 2022-06-20 |  |
 | [Teach Me](https://open.spotify.com/track/6x51Lq4KaHqB6rHfCpaI5H) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Judas and the Black Messiah: The Inspired Album](https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz) | 3:11 | 2021-12-16 | 2022-04-29 |
-| [Tell Him](https://open.spotify.com/track/0XsVWP7NBrKrQpqPJQDVrc) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Starfruit](https://open.spotify.com/album/4JnOTToBfdGzJUP7Qy2nYL) | 3:54 | 2022-07-28 |  |
+| [Tell Him](https://open.spotify.com/track/0XsVWP7NBrKrQpqPJQDVrc) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Starfruit](https://open.spotify.com/album/4JnOTToBfdGzJUP7Qy2nYL) | 3:54 | 2022-07-28 | 2022-11-11 |
 | [Tell Him](https://open.spotify.com/track/3pSL8LoyWexY7vgq84baOA) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Tell Him](https://open.spotify.com/album/1QuizmDDKmJctBcHL931aG) | 3:54 | 2022-01-10 | 2022-07-29 |
+| [Tell Him](https://open.spotify.com/track/43hH54oEoLOl35Z6s88k4a) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Tell Him](https://open.spotify.com/album/539D13Gt9WGYWmcNpIZHPt) | 3:54 | 2022-11-03 |  |
 | [That](https://open.spotify.com/track/2iCh6HCII4LRuxiQJxklsu) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [That Secret Sauce](https://open.spotify.com/album/3FnQBFrLpBTl0LwIhdAEUZ) | 3:54 | 2021-12-16 | 2022-01-14 |
 | [The Mood \(feat\. D Smoke\)](https://open.spotify.com/track/1MwHTL8Rw8WcBmqUqVId7s) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [The Mood \(feat\. D Smoke\)](https://open.spotify.com/album/0qvKYq3Dbzw4oRBuTbtSBK) | 4:15 | 2022-04-28 | 2022-07-29 |
 | [The Mood \(feat\. D Smoke\)](https://open.spotify.com/track/6qrKGpH3OFoob1JbCibDn0) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 4:15 | 2022-07-28 |  |

@@ -4,7 +4,7 @@
 
 > Falling leaves and cozy tunes.
 
-359 songs - 22 hr 23 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
+361 songs - 22 hr 30 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Down in the Valley](https://open.spotify.com/track/7B2yGUDt0aHGP0YuP4c2iG) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 5:03 | 2022-06-07 | 2022-09-07 |
 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 | 2022-06-07 | 2022-09-07 |
 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 | 2022-09-06 |  |
-| [Each Coming Night](https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 3:27 | 2022-09-06 |  |
+| [Each Coming Night](https://open.spotify.com/track/1vKU9oD7zcAVS5ZPF32kzc) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Fall Indie](https://open.spotify.com/album/7aRCVy4mQ9RHle8Kw6EBfH) | 3:25 | 2022-09-06 |  |
+| [Each Coming Night](https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 3:27 | 2022-09-06 | 2022-11-11 |
 | [EBB](https://open.spotify.com/track/2nxQPAZV2pe9TOFL52nTMu) | [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn) | [Trawl](https://open.spotify.com/album/0njLp1RAZLe6DOCOP1oj8c) | 4:23 | 2022-03-21 | 2022-06-08 |
 | [Edges Run](https://open.spotify.com/track/3O6NFigtXvVzT0366H88ao) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/42D84lYZPddM4dpDVNpECv) | 3:14 | 2022-03-21 | 2022-06-08 |
 | [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 | 2021-12-20 | 2022-03-22 |
@@ -363,7 +364,8 @@
 | [Young Man](https://open.spotify.com/track/1KAs06qPczqVLKGBo7Tlrw) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Young Man](https://open.spotify.com/album/6ld4TV5oyaBUkxolyDE8UX) | 4:06 | 2022-06-07 | 2022-09-07 |
 | [Yours to Keep](https://open.spotify.com/track/0ljxKa4x3ahmDeQOrLCjJr) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Physics EP](https://open.spotify.com/album/6Z9hbxCbOQlOFdaAU2JvO8) | 3:22 | 2022-09-06 | 2022-10-13 |
 | [Yours to Keep](https://open.spotify.com/track/7EZKcbs2m8qjUnfwC3hpyT) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Physics EP](https://open.spotify.com/album/0bXMgEiBAo5mWBHfPYFisL) | 3:22 | 2022-09-06 |  |
-| [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 | 2022-09-06 |  |
+| [Youth](https://open.spotify.com/track/6qLLFgywJ33KvxXAQIf6Xt) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [A Long Way Down \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2fpTGzqv5Cl2L590tw08zE) | 4:08 | 2022-09-06 |  |
+| [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 | 2022-09-06 | 2022-11-11 |
 | [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 | 2022-09-06 | 2022-10-13 |
 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 | 2022-06-07 | 2022-09-07 |
 | [zombie girl](https://open.spotify.com/track/5ZD6USvzWXbGxZ9pv6a9b9) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2WKfCjW3EDmgHswj5eVXuG) | 2:44 | 2022-06-07 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Focus with deep techno and tech house.
 
-319 songs - 1 day 11 hr 45 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
+320 songs - 1 day 11 hr 52 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Filling The Blanks](https://open.spotify.com/track/2USZvCIHYAIiMMU41l7E1D) | [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3), [Zein](https://open.spotify.com/artist/3tR9zWv9ObaQyNjcv1F7Pj) | [Filling The Blanks](https://open.spotify.com/album/6LFN1VLFtZp5JHMrJPhVWA) | 7:46 | 2019-05-26\* | 2021-05-28 |
 | [Film](https://open.spotify.com/track/19MErkArt6aqY5jz2mNjeU) | [Monobox](https://open.spotify.com/artist/3t68pcz7yvlSVv14TfvfCh) | [Film / Rectangle](https://open.spotify.com/album/3kYCGI039gra5TdDZSDLuG) | 6:53 | 2019-06-26 | 2019-11-09 |
 | [Finding Atlantis](https://open.spotify.com/track/2kC0fQTH2liJqBly67Cjkd) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Finding Atlantis](https://open.spotify.com/album/7wUQhwrYn9mUrYBUKzNW5v) | 4:27 | 2020-01-29 | 2022-10-22 |
-| [Finding Atlantis](https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [We're Back Chilling](https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O) | 4:27 | 2022-09-30 |  |
+| [Finding Atlantis](https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [We're Back Chilling](https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O) | 4:27 | 2022-09-30 | 2022-11-11 |
 | [Finja](https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Finja](https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg) | 3:38 | 2021-10-30 |  |
 | [Flare](https://open.spotify.com/track/0XFCi1IecC9XgYyzCPVTvM) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Flare](https://open.spotify.com/album/4UsTAehprzeNMHUo9Xj1pQ) | 7:45 | 2019-05-26\* | 2021-05-08 |
 | [Flight Into the Void](https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz) | [Remcord](https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB) | [Flight Into the Void EP](https://open.spotify.com/album/01sw5D44GctddF1Q7aIHwU) | 6:46 | 2020-10-03 |  |
@@ -135,7 +135,7 @@
 | [Hometown](https://open.spotify.com/track/1h02kZbe0SEv76QU6qeLMS) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Hometown](https://open.spotify.com/album/25qK1PW9UQuQ0zoGx43Z11) | 8:30 | 2019-05-26\* | 2019-06-21 |
 | [Honestly, did you listen to the MP3 player?](https://open.spotify.com/track/6PG19dPCnNQ2BigIejgDlM) | [Sebastian Mullaert](https://open.spotify.com/artist/5cKPK8DCxX1R5PwQOU1huv) | [Who? \(Part Two\)](https://open.spotify.com/album/03OY2x7Q17JgZzBEG26hoO) | 8:12 | 2020-01-05 | 2021-11-27 |
 | [House Of Lights](https://open.spotify.com/track/26jkWXrQRsWHKPxEX2Ahg3) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [House Of Lights EP](https://open.spotify.com/album/2LHoUIWO6Q8SgnbkjzqYVF) | 8:36 | 2019-11-08 | 2022-04-21 |
-| [Housefly](https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Vibrations](https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5) | 7:15 | 2022-06-24 | 2022-11-08 |
+| [Housefly](https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Vibrations](https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5) | 7:15 | 2022-06-24 |  |
 | [Human](https://open.spotify.com/track/27VwsDL2mAveZzILCY9e8N) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Human EP](https://open.spotify.com/album/77SgoQ8FnoPpNkquUrgxE9) | 6:07 | 2019-06-22 | 2022-04-21 |
 | [Human Failure \- Aves Volare Remix](https://open.spotify.com/track/42DrQ0vbP0U4CZWBgJhefw) | [Joe Fisher](https://open.spotify.com/artist/2Xb3eFPBkGd3W7GnwKPE4g), [Aves Volare](https://open.spotify.com/artist/1FC7XBOdJgycFFO3z14NGq) | [Fishing Box V](https://open.spotify.com/album/7hsAFlOCmGn9xCsMIn9tkn) | 7:33 | 2020-01-28 | 2022-04-21 |
 | [Hummus](https://open.spotify.com/track/3Z3yuBapu1e1wAJ22fYP9x) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Mind Palace](https://open.spotify.com/album/6BYmpD53nIeCHVzgVqIp6J) | 6:58 | 2019-05-26\* | 2019-06-21 |
@@ -185,6 +185,7 @@
 | [Minister](https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Minister](https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ) | 4:00 | 2021-12-04 |  |
 | [Miracle](https://open.spotify.com/track/7LkAU8jTxTG1qcVQAiWXpz) | [Another Mind](https://open.spotify.com/artist/4DS2HXX4HA8V7V9xKsoxf4) | [Miracles](https://open.spotify.com/album/4ml5qzYT0esniNcFX0ehcR) | 7:56 | 2020-11-14 | 2022-07-28 |
 | [Mistral](https://open.spotify.com/track/4qV0Lu1zn2xc50B9RurHKS) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Mistral](https://open.spotify.com/album/2V0fmkRovQ5SpKMUIms8V7) | 7:02 | 2022-06-17 | 2022-07-28 |
+| [Mistral](https://open.spotify.com/track/6AMaCNAI13urEVAfCpVPtm) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Mistral](https://open.spotify.com/album/4O9MXpdCBXrKms0EXgEPSj) | 7:02 | 2022-09-30 |  |
 | [Monkey Mind](https://open.spotify.com/track/1MxeXqqsCYq6wnWHEriBGn) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO) | [Monkey Mind](https://open.spotify.com/album/62vuQpJiSTQWRyyYqSaQVY) | 5:54 | 2019-05-26\* | 2021-01-16 |
 | [Moon River](https://open.spotify.com/track/03bYLN5H3OjZ6CIpBcd4W3) | [Anturage](https://open.spotify.com/artist/60hGAZqZ60I2EhUi0f4j2N), [Saccao](https://open.spotify.com/artist/5zCGgAGz4jIAqCDJ4xDZpT) | [Crop Circles EP](https://open.spotify.com/album/69nm4GujvroTuC1SN1UE1T) | 6:51 | 2019-06-22 | 2019-11-09 |
 | [Moonface](https://open.spotify.com/track/3oWez555ACR3IptrEFYjmz) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Moonface/Zukunft](https://open.spotify.com/album/5Gelq7kJWuYIr0ATVgRbAU) | 7:47 | 2019-05-26\* | 2019-06-21 |
@@ -271,7 +272,7 @@
 | [Someone Else](https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW) | 6:18 | 2020-06-29 | 2022-10-18 |
 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 | 2020-02-19 |  |
 | [Space Chants](https://open.spotify.com/track/0ZykKpfjw56pAQnkvRIFZS) | [Spieltape](https://open.spotify.com/artist/6Et53z8rREv56kKxJi0an6), [Dave Pad](https://open.spotify.com/artist/4wTXdJW4CabMRwP9aGXO42) | [Space Chants](https://open.spotify.com/album/0XQ8IM2Rye1ODNPJ93AepE) | 6:57 | 2019-10-25 | 2022-04-20 |
-| [Spacemodulation](https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Spacemodulation](https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D) | 7:08 | 2022-06-24 |  |
+| [Spacemodulation](https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Spacemodulation](https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D) | 7:08 | 2022-06-24 | 2022-11-11 |
 | [Spacemodulation](https://open.spotify.com/track/6g8QDiZ1zAwucNXgKnVIrW) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Spacemodulation](https://open.spotify.com/album/56DI79LnAjbuiwP9GgGc6u) | 7:08 | 2019-12-07 | 2022-07-26 |
 | [Spaziergang im All](https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd) | [Deorbiting](https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr) | [Spaziergang im All](https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf) | 8:18 | 2020-08-22 |  |
 | [Stay There](https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Stay There](https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF) | 3:53 | 2022-08-12 |  |

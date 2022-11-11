@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400 likes - 70 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 401 likes - 70 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It's Just Nature, Baby](https://open.spotify.com/track/1ZIhUugCmhxWr6yEzx1HFc) | [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [It's Just Nature, Baby](https://open.spotify.com/album/2181FqiPENCUAC1DZuRfyb) | 3:51 |
 | 2 | [Farazi](https://open.spotify.com/track/6PK2rZ2jf6l6SdtnXgFotD) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Farazi](https://open.spotify.com/album/4fdLKEjn0PiHGtTVeKbBCF) | 5:10 |
 | 3 | [Tenerife](https://open.spotify.com/track/6x1EH4XBaccSlCZzp8c45t) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw) | [Tenerife](https://open.spotify.com/album/7CI0DdhAT7EJJyK4NEfzEc) | 5:18 |
-| 4 | [Pulse VI](https://open.spotify.com/track/2tthSVxYrS6vMRGchANWSL) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/5AACj1zBwmUDLlq9DZ1VJX) | 5:27 |
+| 4 | [Pulse VI](https://open.spotify.com/track/7LNKDRkuLunvJUpT79kYO3) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Red Light](https://open.spotify.com/album/2srVSncOOFBD9mH25YIJM8) | 5:27 |
 | 5 | [Cavresamin \- Foxall Remix](https://open.spotify.com/track/7lvZ4DujXfjVYEWhZBKOrm) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Zentaur](https://open.spotify.com/album/3Ids63v27ACVvHShzYWXIB) | 6:55 |
 | 6 | [Mirage \- Remix](https://open.spotify.com/track/5bLWePeHYsfdJwlxCUdHOH) | [Balint Boldizsar](https://open.spotify.com/artist/5xFU79pSKrEpSiTVysdTY3), [Sahalé](https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ), [Samarana](https://open.spotify.com/artist/19zCcLLWaZjG45iFFlhvGL) | [Chaos & Order](https://open.spotify.com/album/0WVkMCuDjUiee7OCbeVZas) | 6:02 |
 | 7 | [Choo Choo](https://open.spotify.com/track/5QvEgDwNSyPgEkpLNDlnj2) | [Upercent](https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq) | [Inconformisme EP](https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy) | 7:15 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 20 | [Psychedelic Woman \- Bonobo Remix](https://open.spotify.com/track/2rAZqJ3uiy2jczTafnKP7y) | [Honny & The Bees Band](https://open.spotify.com/artist/0YBnqkQh876CwPLtT9XX69), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Bottletop Presents Sound Affects: Africa](https://open.spotify.com/album/0xnN5NfLE5Gc3YgzEhgXbT) | 4:26 |
 | 21 | [Akihi \- Surv Remix](https://open.spotify.com/track/7L43S5tAvwiFfAM10FqKGJ) | [Takeshi's Cashew](https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA), [Surv](https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ) | [Akihi \( Surv Remix \)](https://open.spotify.com/album/5lRNzBB5ZwBYtsJcEK4r1a) | 5:09 |
 | 22 | [Spacehall](https://open.spotify.com/track/2qXWBjO9BNVURgc9tDJwmS) | [Lou](https://open.spotify.com/artist/7l9DjVOhlzTmBhCLW8Q2we) | [Moodfamily Compilation I](https://open.spotify.com/album/6RdWrH7iwLePIhmksv1CwA) | 7:18 |
-| 23 | [Fantasy](https://open.spotify.com/track/22fM5ewOY0suVq5teDadG0) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn), [Verushka](https://open.spotify.com/artist/5StY3t09rFBGADeZbkVyOC) | [Musca](https://open.spotify.com/album/2yTDyn7SlB2yOP4CkDbHfn) | 6:27 |
+| 23 | [Fantasy](https://open.spotify.com/track/198xNq6X7OCa4lmMu8Y2xH) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn), [Verushka](https://open.spotify.com/artist/5StY3t09rFBGADeZbkVyOC) | [Fantasy](https://open.spotify.com/album/194zUy4pHTqygWTLbKgcu8) | 6:27 |
 | 24 | [Invoke \- Foxall Remix](https://open.spotify.com/track/00Sr5lqLJTTCljeQDxlj1P) | [Charlie M](https://open.spotify.com/artist/3D3Sgu0PXIAjode80WTFSb), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Harabe Reimagined Feelings I](https://open.spotify.com/album/0TCG4mBXErYlDn65LYQujb) | 5:51 |
 | 25 | [malo okoma](https://open.spotify.com/track/7jyerdQJniWpmwzUHK6jRN) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [stay just a little while longer](https://open.spotify.com/album/4FPI3gc0lcxgRLoHHKdsRf) | 5:56 |
 | 26 | [Canario](https://open.spotify.com/track/12KVTzqgU558xqkpsywKex) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW) | 4:09 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 49 | [Lommer \- Pablo Bolivar Remix](https://open.spotify.com/track/4kQ8zdvQQ4fjyy5eYekALj) | [Mikkel Metal](https://open.spotify.com/artist/0q1Nx41aWpZqanF9sK0O9A) | [Old Friends](https://open.spotify.com/album/3pBIw5dSdAnih7fvKCk3pF) | 8:49 |
 | 50 | [Swing Bop \- Acid Pauli's Kozmik Remix](https://open.spotify.com/track/0sOAu98MokefgnJgUQwTOf) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO), [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Swing Bop \- Remixes](https://open.spotify.com/album/15qzUlJHFD9SDE3kE8r3nq) | 8:00 |
 | 51 | [Forget Me Not](https://open.spotify.com/track/2QhE4C2nl81K0rB8FkBIxs) | [Ilya Santana](https://open.spotify.com/artist/17d7B3Sa8rMfouwv0PzHp4) | [A Western Tale](https://open.spotify.com/album/6axd4LB3Sl9qK6khEG3j3w) | 5:23 |
-| 52 | [Zebra](https://open.spotify.com/track/0Xeihvze3TQMpho3IW1Tu3) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Kaybola \(Deluxe Version\)](https://open.spotify.com/album/1zqTrfdQyPehpQFeowfgIm) | 6:46 |
+| 52 | [Zebra](https://open.spotify.com/track/1FDxabar5dSw3d46h40BKK) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Zebra](https://open.spotify.com/album/1YkZ71Fh2rVhCBNUVjxOra) | 6:46 |
 | 53 | [Urmel](https://open.spotify.com/track/5SvozsO8hjZXaM4GZPZl4Q) | [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Bi Ba Bü](https://open.spotify.com/album/45qxQ2ACnkIlrWy9UY1HqN) | 7:49 |
 | 54 | [Melodien für Triolen](https://open.spotify.com/track/7h2d1N9U9JZGYAJiQRREIi) | [kalupke](https://open.spotify.com/artist/0cIvZxLLintmeKg65N08be) | [Melodien für Triolen](https://open.spotify.com/album/7onLHz8y0jAgY4SyG420eq) | 6:05 |
 | 55 | [Mara](https://open.spotify.com/track/4CQzQYR534bYkZMFGWygWy) | [Sabda](https://open.spotify.com/artist/3FGyFRh2QtwZjgq3wrDbB9) | [Mind at Large, Pt\. I](https://open.spotify.com/album/0Opr1WBZu6gL4wAlYF6SYl) | 6:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 69 | [Square Kids \- Anton Feine Remix](https://open.spotify.com/track/0efhQX2ijD72A4XHd43eRc) | [Kusht](https://open.spotify.com/artist/1GLyo3Rp9NTc8bJa65xLXg), [Anton Feine](https://open.spotify.com/artist/2IxXoB8qwqS9uwl3z1zt3o) | [Teapot](https://open.spotify.com/album/7vOUJ6FIStKWKhDwiJTbhV) | 6:31 |
 | 70 | [Easy Days](https://open.spotify.com/track/1qKOZtqBV8W0je2pPSpOzA) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Kleintierschaukel](https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn) | [Easy Days](https://open.spotify.com/album/69vUFvbVj2b7oabEiP6h4d) | 5:39 |
 
-Snapshot ID: `MTY2NTc1NDYyMywwMDAwMDAwMDE5MDk3Y2Q1MWU3NTYxYTBlNTg4NjU0MWZlODFhMmI1`
+Snapshot ID: `MTY2NTc1NDYyMywwMDAwMDAwMDI5Y2RjMmQ1MWFmMjM1NGFlYWZhMmVhMjkxNGU5OTAx`

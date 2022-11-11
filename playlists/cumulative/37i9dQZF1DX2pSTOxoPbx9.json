@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 288140,
       "name": "B a noBody",
       "url": "https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174172,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 251692,
       "name": "Coming of Age (demo)",
       "url": "https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN"
@@ -744,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230379,
+      "name": "Deliverance",
+      "url": "https://open.spotify.com/track/0lTmVz7A8YJM2fI9k1iMcV"
+    },
+    {
+      "album": {
         "name": "Animalia",
         "url": "https://open.spotify.com/album/7E90fKPdXwRGjvaiEQU6m2"
       },
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 194480,
       "name": "Devil's Resting Place",
       "url": "https://open.spotify.com/track/7mDFMh8pghY0MRToYb01eI"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196160,
       "name": "Every Man Is a Warrior",
       "url": "https://open.spotify.com/track/1s7UcC1RY8w1DJMry3ETYD"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 280497,
       "name": "Fire of Love",
       "url": "https://open.spotify.com/track/4lnAR9AH0WZoRUNsOgwHXd"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 219681,
       "name": "Garden Song",
       "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 249413,
       "name": "Habit",
       "url": "https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204626,
       "name": "How Come You Never Go There",
       "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
@@ -1613,6 +1631,24 @@
       "duration_ms": 377000,
       "name": "I Can't Go on Without You",
       "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
+    },
+    {
+      "album": {
+        "name": "Short Movie (Director's Cut)",
+        "url": "https://open.spotify.com/album/2hGp4zeWcLdeQ0iq7Uj52Q"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173693,
+      "name": "I Feel Your Love - Director's Cut",
+      "url": "https://open.spotify.com/track/2H1dRtNUitddC5lt07W3Pp"
     },
     {
       "album": {
@@ -1721,6 +1757,24 @@
       "duration_ms": 144946,
       "name": "I'll Be Gone",
       "url": "https://open.spotify.com/track/7ejUNmLIkfpdVe3gySTdPN"
+    },
+    {
+      "album": {
+        "name": "I'm Not Asking",
+        "url": "https://open.spotify.com/album/6pnl1FCuVKktl20mJjYebQ"
+      },
+      "artists": [
+        {
+          "name": "Odina",
+          "url": "https://open.spotify.com/artist/2D0wm8aDnVrcljPwg2GM75"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170160,
+      "name": "I'm Not Asking",
+      "url": "https://open.spotify.com/track/05IJNjjrvn8pDzOpbjrsIy"
     },
     {
       "album": {
@@ -1974,6 +2028,24 @@
     },
     {
       "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2"
+      },
+      "artists": [
+        {
+          "name": "Vera Sola",
+          "url": "https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200448,
+      "name": "Loving, Loving",
+      "url": "https://open.spotify.com/track/74PqdCEXhh29g5a8UGIez8"
+    },
+    {
+      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -2043,6 +2115,24 @@
       "duration_ms": 300960,
       "name": "My Love Took Me Down To The River To Silence Me",
       "url": "https://open.spotify.com/track/0x1mjEve6LgDbFqBO36p0X"
+    },
+    {
+      "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
+      },
+      "artists": [
+        {
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300960,
+      "name": "My Love Took Me Down To the River To Silence Me",
+      "url": "https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q"
     },
     {
       "album": {
@@ -2291,7 +2381,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 123160,
       "name": "Out of the Darkness",
       "url": "https://open.spotify.com/track/5wCbj11DaBaIFpjSVBNiED"
@@ -2381,7 +2471,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228546,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
@@ -2619,7 +2709,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 362280,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH"
@@ -2968,6 +3058,24 @@
     },
     {
       "album": {
+        "name": "In the Magic Hour",
+        "url": "https://open.spotify.com/album/1sfz6tIsPAhgsqvcCZ6fvw"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "The King of All Birds",
+      "url": "https://open.spotify.com/track/2DXbvKaUSUlb7q02GNJjCF"
+    },
+    {
+      "album": {
         "name": "The King Of All Birds",
         "url": "https://open.spotify.com/album/0pELk7KFJiqexZqcRPx6BQ"
       },
@@ -3195,7 +3303,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 312133,
       "name": "Vessel",
       "url": "https://open.spotify.com/track/1Z3cJgi5T2qhrxSR8vtFEh"

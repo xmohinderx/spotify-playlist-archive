@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 4 | [Nomakanjani](https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:40 |
 | 5 | [I Do \(feat\. Amanda Black\)](https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Broken Lipstick](https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH) | 5:13 |
 | 6 | [Hamba](https://open.spotify.com/track/5M0J5ZOt7LPeZrHs9G7c7R) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Soul In Mind](https://open.spotify.com/album/5ceGC90YEocJP4lXy5ifzV) | 5:36 |
-| 7 | [Uthando](https://open.spotify.com/track/7vAXZOAlNeD6f7rg5qnkbh) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Mzansi Rhythms of Love](https://open.spotify.com/album/2rsD9g2O3GNDPsY9pfTZek) | 4:53 |
+| 7 | [Uthando](https://open.spotify.com/track/5WrnM103yLSiufFT9r1tWL) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Sounds of Love: Side A](https://open.spotify.com/album/53PGiw3oxtHwHrzi72Ypa9) | 4:53 |
 | 8 | [Ndikuthandile](https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9) | 4:14 |
 | 9 | [Nomvula](https://open.spotify.com/track/4gqlaIb409m6NNMG5w64kN) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/2PGgRx2PWQEGzs9Eu2SM0A) | 4:37 |
 | 10 | [Thojana Ya Thesele](https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg) | [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Black](https://open.spotify.com/album/0CxWCMOQE9Cqtq90rLLsCJ) | 4:53 |
 | 11 | [You're the One](https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Elements](https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3) | 3:20 |
 | 12 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 |
-| 13 | [Sbali](https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 5:00 |
+| 13 | [S'bali](https://open.spotify.com/track/4Gu3XWf8SXdUM1VQzsmQlL) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6) | [S'bali](https://open.spotify.com/album/4oWvJFVUbyOGg2ESInM24Y) | 5:00 |
 | 14 | [Suited](https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Rose Gold](https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML) | 3:53 |
 | 15 | [Tigi Tigi.](https://open.spotify.com/track/7kIApWELVj8I4eOKJs04JW) | [Sands](https://open.spotify.com/artist/3uYNluWtBu0ksu049wbLVW) | [Azgo Festival Compilation 2019](https://open.spotify.com/album/0QvN86SujsP2OjxEyXBtAw) | 5:22 |
 | 16 | [Khethile Khethile \(feat\. Makwa & Tshego AMG\)](https://open.spotify.com/track/6uphaViBTQ2ewt5UFH8ukm) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Makwa](https://open.spotify.com/artist/6aXzYhXfiqzlcdyFBxfw59), [Tshego AMG](https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF) | [Khethile Khethile \(feat\. Makwa & Tshego AMG\)](https://open.spotify.com/album/16OwQ2QE999CwbUHAKimVS) | 5:41 |
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 26 | [Baby Girl](https://open.spotify.com/track/5qJpQEJKN2lvm0szJhyvdz) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Thuto](https://open.spotify.com/album/5eqTNk3knYSiqlpcUT91z7) | 4:20 |
 | 27 | [Asibe Happy](https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Asibe Happy](https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA) | 7:38 |
 | 28 | [Ungawa Kum](https://open.spotify.com/track/47VpnKqSM6UhAGFjGaUlvy) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Top Dawg](https://open.spotify.com/album/1rrPsxH64XF7uwG7PInaYp) | 5:37 |
-| 29 | [Ndikuthandile](https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9) | 4:14 |
+| 29 | [Ndikuthandile](https://open.spotify.com/track/5dkicllD31FgPf1WoE7wfD) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Evening Of Love Volume 1](https://open.spotify.com/album/1YOYdJxjiUrwP4E6RktAk1) | 4:14 |
 | 30 | [Mamela](https://open.spotify.com/track/3mnL4RKOwb5dlzCuaZjzPG) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [We Made It](https://open.spotify.com/album/1JhEft6AHajvDccPKUBwek) | 5:14 |
 | 31 | [Whipped](https://open.spotify.com/track/5izmlzt9mbvzuZogW9TXJB) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [God Decides](https://open.spotify.com/album/5bJrBac7KuQqFY6wn6to8A) | 3:17 |
 | 32 | [Baby Please](https://open.spotify.com/track/0TmitblYFOtTvESsvQpiAS) | [Robbie Malinga](https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD), [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Soulful Songs: Vol 1](https://open.spotify.com/album/2RtQNzcpmwzwakqzQTnac3) | 4:48 |
 | 33 | [Ekuseni](https://open.spotify.com/track/6Lp9DthIyhlSKN2sPI4kWt) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Ndim Lo](https://open.spotify.com/album/25ZJjabKW4zoLouY7kkCTg) | 5:59 |
 | 34 | [Sthandwa](https://open.spotify.com/track/4HMG4YWOq9oZglVU5GPEg0) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Inqola](https://open.spotify.com/album/5rNY0UdEy0YkCibLfPBzMF) | 4:26 |
-| 35 | [Ungowami](https://open.spotify.com/track/3Iw3M4ajHzRV0MOQ0a0zRo) | [Semito](https://open.spotify.com/artist/3OpF5sBW6Pbn073VMKKpAm) | [Sebabatso](https://open.spotify.com/album/1xVaUMerQJCsCfHj7oI89w) | 4:52 |
+| 35 | [Ungowami](https://open.spotify.com/track/3nnDgKZH4k2YVrpFuvXJI3) | [Semito](https://open.spotify.com/artist/3OpF5sBW6Pbn073VMKKpAm) | [I Choose You](https://open.spotify.com/album/6EY0zAXkb5ButcECHqqzji) | 4:52 |
 | 36 | [Black Butterfly](https://open.spotify.com/track/7Eq6djk4VjwNHlSxL1c9n9) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI) | 4:39 |
 | 37 | [Nguwe](https://open.spotify.com/track/3JNNGzaXNqVAGZYI8l2Gzz) | [Malaika](https://open.spotify.com/artist/4MGdpmr2NJjQdJYkkimg7b) | [The Essential](https://open.spotify.com/album/3jVO6qDEwzKmcA7RWvAIlL) | 6:16 |
 | 38 | [Ndizakulinda](https://open.spotify.com/track/0ye4dGTsrYGgextieTRILC) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Manyan\-Nyan](https://open.spotify.com/album/2MTklyV4R4mB2MY4KdsoZY) | 4:25 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 62 | [Ngiphelele](https://open.spotify.com/track/4E5JMQvCv7Bzt3E04hvxY2) | [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3) | [Love and Respect](https://open.spotify.com/album/3tEgPrJtHZJDLvWwd2w8Kc) | 4:23 |
 | 63 | [I'm Scared](https://open.spotify.com/track/46HHaGlrPdy191gxyIkSVC) | [Seba Kaapstad](https://open.spotify.com/artist/6i1YUN2HJGtCdO3s17JV3V), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [I'm Scared](https://open.spotify.com/album/4T2aGnQK5dGXMiFt5w9ecH) | 3:56 |
 | 64 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
-| 65 | [Intliziyo](https://open.spotify.com/track/0CZjloNcJAOdtB6tsTGUi6) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [LANGA](https://open.spotify.com/album/1VRWnJydavNDdU2rKxtjeo) | 4:46 |
+| 65 | [Intliziyo \(feat\. Langa Mavuso\)](https://open.spotify.com/track/4ObP7D5UKOtDBBDldOfp1U) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [Intliziyo](https://open.spotify.com/album/0Id5RFmQfavhAxvqUs2fuB) | 4:46 |
 | 66 | [Love Letter](https://open.spotify.com/track/3dlP7Y2nKQcg3djavKhlrD) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 4:31 |
 | 67 | [Nguwe](https://open.spotify.com/track/7tQKi99tyc2ZIMzwVX1k05) | [Unathi](https://open.spotify.com/artist/7tAS9oUzXf3pvOxi7wd0N7) | [Brave, True and Strong](https://open.spotify.com/album/1zbYhGs3pjKtO3Fw8OwFDx) | 4:24 |
 | 68 | [Umuthi \(feat\. Cici & Zamo Cofi\)](https://open.spotify.com/track/2vuIfmF6nbRmtXGCqoSIIw) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe), [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Zamo Cofi](https://open.spotify.com/artist/3NvuFbzWW4pgjO4L7uUEPv) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 74 | [Sour Milk](https://open.spotify.com/track/3AYK6HKlBhIibr1vp2Wqwy) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Sour Milk](https://open.spotify.com/album/67CS03j1fTXxcdDSzHfqqd) | 3:03 |
 | 75 | [Truth Is](https://open.spotify.com/track/5oXYsq4dCGNrKq84Se3erf) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Truth Is](https://open.spotify.com/album/60iWM9LDKsLqDKKEThsI5g) | 3:22 |
 
-Snapshot ID: `MTY0NDU2ODYyMiwwMDAwMDAwMDhhYzg0NGMzZDI5MGYzZjBjNzJkZTI4OTY0ZDIxNTYy`
+Snapshot ID: `MTY0NDU2ODYyMiwwMDAwMDAwMDBhZDg1NGM3YzRlZGVlZmU2ZmMzMzUyMzAzYzA5ZDc5`

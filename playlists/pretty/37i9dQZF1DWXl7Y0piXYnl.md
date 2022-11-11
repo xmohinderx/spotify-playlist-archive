@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,118 likes - 70 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,141 likes - 70 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 32 | [TMMD \(IMMMD\)](https://open.spotify.com/track/4bTpWhufYEvdQhAgDBFUGC) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Club Sentimientos, Vol\. 2](https://open.spotify.com/album/1WqqVCRyfP39WZXLJyXSf5) | 4:13 |
 | 33 | [mess it up](https://open.spotify.com/track/2gpNArSO3LwEgD91do4BpG) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU) | [TRUST](https://open.spotify.com/album/1bvrpTqzbfMe4HvdbzwGu2) | 2:31 |
 | 34 | [Stinky](https://open.spotify.com/track/4Q3KThNMzTk1Sa66vGOArJ) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN) | [Stinky](https://open.spotify.com/album/1KlnL0USOuaQdCOLQ4L9hY) | 5:42 |
-| 35 | [Meditation \(feat\. Arca\)](https://open.spotify.com/track/4G2wDx4EztZCPNz4sVHOFF) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | ["BBF" Hosted By DJ Escrow](https://open.spotify.com/album/5cfMh4xCZIr5kZs5ryEpeS) | 5:20 |
+| 35 | [Meditation \(feat\. Arca\)](https://open.spotify.com/track/02wBXlCNUSRwccrcz42f6D) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Meditation](https://open.spotify.com/album/5qHAXlxVDmINXncIJfdB7k) | 5:20 |
 | 36 | [Lux 3](https://open.spotify.com/track/7tJFgdzIDUuSIBMOcKtgaA) | [Kai Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Lux 3](https://open.spotify.com/album/2p1XFdGAircrJRoZkmz357) | 4:55 |
 | 37 | [Exhale](https://open.spotify.com/track/4woCaPYcENLOfoK6o82MgS) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP), [Kowton](https://open.spotify.com/artist/5mKLTrvI8gTtNjVewBL7Bj) | [Exhale](https://open.spotify.com/album/2OtmBruepl9cL0kIon06Co) | 5:38 |
 | 38 | [DOOM HYPE](https://open.spotify.com/track/653qG3PC58QJmSIY8J1leL) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 4:06 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 69 | [Vidsutni](https://open.spotify.com/track/08mYpNREJeflSGbZ3MYxXB) | [Katarina Gryvul](https://open.spotify.com/artist/60g5BHTwPOOmWMuyRc245e) | [Tysha](https://open.spotify.com/album/4Gm3ffKcdtdlTIImLFaVVX) | 4:03 |
 | 70 | [Marixylo](https://open.spotify.com/track/6hCpieIoM2tBlpn8JBBvUJ) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Marixylo / Log 0ut](https://open.spotify.com/album/1RVJiWQ10iL6LdIwSwqCyI) | 3:55 |
 
-Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMGM4NDcwOGZhNTExMDhiZGZjMTI3ZDgxM2ZmMWFlZmNh`
+Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMDYyZjdiNGU3YzdmMTA1Y2FhNmYxNmYzODY4ZjI4Nzk1`

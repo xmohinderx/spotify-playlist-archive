@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 226568,
       "name": "30",
       "url": "https://open.spotify.com/track/6nipZlJiUvI0I7lCf1Z7Li"
@@ -455,6 +455,24 @@
       "duration_ms": 126573,
       "name": "Get Free",
       "url": "https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx"
+    },
+    {
+      "album": {
+        "name": "OK Go",
+        "url": "https://open.spotify.com/album/0pkXh1gRCwOAWbTuMdStyZ"
+      },
+      "artists": [
+        {
+          "name": "OK Go",
+          "url": "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196760,
+      "name": "Get Over It",
+      "url": "https://open.spotify.com/track/0SLOiJClXkAZluClYpke95"
     },
     {
       "album": {
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 306040,
       "name": "Shine",
       "url": "https://open.spotify.com/track/77YKoNCjP5hWqiXMRG2839"

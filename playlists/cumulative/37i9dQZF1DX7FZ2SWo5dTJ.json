@@ -200,6 +200,24 @@
     },
     {
       "album": {
+        "name": "Buddhattitude Freedom",
+        "url": "https://open.spotify.com/album/5JygNmF6F1JaV3qQnHBpDZ"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231873,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/7vBmjc8MZg1ocnYlBLfN3Q"
+    },
+    {
+      "album": {
         "name": "Universal Sound of Buddha Bar",
         "url": "https://open.spotify.com/album/0xOngzQjGI9flWLq1Akhk1"
       },
@@ -211,7 +229,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 233776,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4RJaUuF4ffF7i2wzrJLvyR"
@@ -287,10 +305,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 251333,
       "name": "Kiss of Life",
       "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250653,
+      "name": "Kiss of Life - Remastered",
+      "url": "https://open.spotify.com/track/21VQMMzsYxMfi68aQQZiUt"
     },
     {
       "album": {
@@ -331,10 +367,36 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
+    },
+    {
+      "album": {
+        "name": "Totally Romantic Ballads",
+        "url": "https://open.spotify.com/album/3zeuHqBj3w0Hd4MPgUGCqi"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242096,
+      "name": "Leave the Door Open",
+      "url": "https://open.spotify.com/track/1WQkIkrkEc0mydf6SVULgH"
     },
     {
       "album": {
@@ -495,10 +557,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 275065,
       "name": "Oriental Feeling",
       "url": "https://open.spotify.com/track/4NMsfeOsV8zOOzeSUiu4Lx"
+    },
+    {
+      "album": {
+        "name": "Buddhatitude Best Of : Buddha-Bar Spa Music Collection",
+        "url": "https://open.spotify.com/album/3aTqPNpm4bOjazeBcJTpLg"
+      },
+      "artists": [
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265680,
+      "name": "Oriental Feeling",
+      "url": "https://open.spotify.com/track/3aRUKwNxddIcjtK0TUNuFt"
     },
     {
       "album": {
@@ -585,10 +665,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 329065,
       "name": "Sundown in Madagaskar",
       "url": "https://open.spotify.com/track/39jK30ioiRz6QPTdVqPJUz"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude - Alaafiya",
+        "url": "https://open.spotify.com/album/5Ckzuy2ABABhHMUL6gkZ3n"
+      },
+      "artists": [
+        {
+          "name": "African Tribal Orchestra",
+          "url": "https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329065,
+      "name": "Sundown in Madagaskar",
+      "url": "https://open.spotify.com/track/6YfJqxSdyTjeRuTAAH5fCq"
     },
     {
       "album": {

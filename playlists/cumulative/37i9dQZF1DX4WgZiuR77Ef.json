@@ -428,6 +428,32 @@
     },
     {
       "album": {
+        "name": "The Craig Charles Trunk of Funk Volume 2",
+        "url": "https://open.spotify.com/album/6hcNkOdTIF59iaY2TydgHp"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        },
+        {
+          "name": "Big Tony",
+          "url": "https://open.spotify.com/artist/2sCagRqrsOocsRmcxSuYks"
+        },
+        {
+          "name": "Jungle Boogie",
+          "url": "https://open.spotify.com/artist/4uRUX6GQjNbtYK9w0rbO4J"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350973,
+      "name": "Checker Wrecker",
+      "url": "https://open.spotify.com/track/1mW9VbUgYQZHsicTZDxkUW"
+    },
+    {
+      "album": {
         "name": "Checker Wrecker",
         "url": "https://open.spotify.com/album/5eKL3jiEKnTb3bej9OKvUJ"
       },
@@ -473,7 +499,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 350972,
       "name": "Checker Wrecker",
       "url": "https://open.spotify.com/track/7CmmRmYeCU9BGU3NVY3z0r"
@@ -1175,7 +1201,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 241441,
       "name": "He Said / She Said",
       "url": "https://open.spotify.com/track/023p4igqYASZMpUNJ8hhLY"
@@ -1197,6 +1223,24 @@
       "duration_ms": 241441,
       "name": "He Said / She Said",
       "url": "https://open.spotify.com/track/5ANzbV4A2YA6EPP0e8asEi"
+    },
+    {
+      "album": {
+        "name": "Sugar Woman",
+        "url": "https://open.spotify.com/album/5qC7W3d5LikVYLLRVkS499"
+      },
+      "artists": [
+        {
+          "name": "Acantha Lang",
+          "url": "https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241441,
+      "name": "He Said / She Said",
+      "url": "https://open.spotify.com/track/6ZccMg8F7cWeBAV8Z3Mkc7"
     },
     {
       "album": {
@@ -1574,6 +1618,24 @@
     },
     {
       "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/72QDuyY9xgPPCaeqFHkTao"
+      },
+      "artists": [
+        {
+          "name": "Secret Night Gang",
+          "url": "https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332000,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/20N8EfIxLHDpp4Q5tt5w8O"
+    },
+    {
+      "album": {
         "name": "Secret Night Gang",
         "url": "https://open.spotify.com/album/5NYdmamzON8sbPshgNcdty"
       },
@@ -1585,7 +1647,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 332000,
       "name": "Journey",
       "url": "https://open.spotify.com/track/3BuDZacvKsLgiGk4zi6JKU"
@@ -2999,10 +3061,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 337826,
       "name": "Very Fine - Pts. 1 & 2",
       "url": "https://open.spotify.com/track/3NGlYT0YnxSL3tF0F7bBWV"
+    },
+    {
+      "album": {
+        "name": "Don't Want You To Know",
+        "url": "https://open.spotify.com/album/4AaeRHinhgo8s6Bokl8sjb"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337826,
+      "name": "Very Fine - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/3WnV3vhvmrvz70QZj1klJs"
     },
     {
       "album": {

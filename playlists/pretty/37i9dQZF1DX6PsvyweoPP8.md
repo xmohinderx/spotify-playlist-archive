@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,696 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,778 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 18 | [Gorilla Roxo](https://open.spotify.com/track/0bV0LtjtZH76gD0ujPYS3n) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:45 |
 | 19 | [Vinho & Sexo \- Prod\. Papatinho](https://open.spotify.com/track/0Lou5GSyISEjhtmbCgKGVI) | [Rany Money](https://open.spotify.com/artist/44P449nprZUercBnuts1o0) | [Vinho & Sexo \(Prod\. Papatinho\)](https://open.spotify.com/album/0ruRPIoTVV03Iaj3qxiaTs) | 3:16 |
 | 20 | [Privê](https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Privê](https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO) | 3:06 |
-| 21 | [Brisadão na Dela](https://open.spotify.com/track/3rK0R9VCnQNX1BVesW2Csp) | [Bonde R300](https://open.spotify.com/artist/5rhznZjKfSxtKVqB0JZtpC), [mayklove](https://open.spotify.com/artist/3ViPtN67C4po5HoqLgJy9m), [biel bolado](https://open.spotify.com/artist/1FzYgKqku5kSPqyGawSbQr) | [Quality Trap](https://open.spotify.com/album/1mqnhHVJyQKN2NV7f2Xf36) | 2:24 |
+| 21 | [Brisadão Na Dela](https://open.spotify.com/track/52sMjvkxL9Sz8LdLTeL9RS) | [Bonde R300](https://open.spotify.com/artist/5rhznZjKfSxtKVqB0JZtpC), [biel bolado](https://open.spotify.com/artist/1FzYgKqku5kSPqyGawSbQr), [mayklove](https://open.spotify.com/artist/3ViPtN67C4po5HoqLgJy9m) | [Brisadão Na Dela](https://open.spotify.com/album/4J7L0qoNu50abjycZIB9DC) | 2:23 |
 | 22 | [Baby Girl](https://open.spotify.com/track/1QtxuHsQEJVdudwdubcMns) | [drocke](https://open.spotify.com/artist/2Vxj17qIRPH1Q6e7M1Sj8a), [Levi Menezes](https://open.spotify.com/artist/4m1Mj4V2sNYg5vmEzff8ti) | [Baby Girl](https://open.spotify.com/album/55sAyVRP8wgp4YWsETCkeB) | 3:46 |
 | 23 | [Flutuar](https://open.spotify.com/track/53vCPvYsEtpvtVYKwuBetB) | [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [Flutuar](https://open.spotify.com/album/1wzPVlNkLaSd2BHYCShNlv) | 2:12 |
 | 24 | [Corpo Quente](https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Corpo Quente](https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN) | 4:00 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 64 | [Linda e Solitária](https://open.spotify.com/track/4GzKyE021uEcLuklCSUzEA) | [Camaradas Camarão](https://open.spotify.com/artist/5tDe323KtgqFfze1MzLR7z), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h), [Gabriel Sten](https://open.spotify.com/artist/5voSO4poDCRjQzKgMuCTWM), [Córtex Cam Cam](https://open.spotify.com/artist/7wqJ4b9MuDGAIVQjzAsiIe) | [Linda e Solitária](https://open.spotify.com/album/2C32Ywnk9I74RFHPKSK6z1) | 2:50 |
 | 65 | [Sereia](https://open.spotify.com/track/2SNYcKYSuKoQLvdLPvWJgQ) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Sereia](https://open.spotify.com/album/1xm2lmJXFM3DPiOOqJYozn) | 3:36 |
 
-Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMGNjMDBiNTY5NzFiNmY1ZmZjNjJlODBhN2I3OTkxOGE0`
+Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMDg2YTUyMTYxZDcyNGZiODczMjY1ZGVmNDZjMzFiMjlj`

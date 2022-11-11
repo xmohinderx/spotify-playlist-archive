@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-385 songs - 22 hr 52 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+387 songs - 22 hr 59 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [DEMA](https://open.spotify.com/track/1gYSQceJ03CYFllW4QxaNg) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [¿Dónde Están Mis Amigos?](https://open.spotify.com/album/5OyR0x30cGIUlGKXcdI7Lm) | 3:01 | 2022-06-03 | 2022-07-25 |
 | [Dentro](https://open.spotify.com/track/4597p3R2HZ24bvpussazH9) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Dentro](https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy) | 2:25 | 2022-06-03 | 2022-10-13 |
 | [Dentro, Fuera](https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s) | [DPSE](https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M) | [Dentro, Fuera](https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf) | 4:06 | 2022-07-15 | 2022-07-29 |
+| [Derrumbe](https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Derrumbe](https://open.spotify.com/album/23csDME5tEskWfOBPW09mi) | 3:21 | 2022-10-28 |  |
 | [Deseo Permanente](https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Deseo Permanente](https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd) | 5:44 | 2022-07-15 |  |
 | [Deseo Permanente](https://open.spotify.com/track/2E7At2lJjbRHLvZNM5G8gc) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Deseo Permanente](https://open.spotify.com/album/54zfGz1Dj8XTHhUad8lR7C) | 5:44 | 2022-06-03 | 2022-07-29 |
 | [Desesperación](https://open.spotify.com/track/1w2304mMZHbeOxSNknkj24) | [Luis Angelero](https://open.spotify.com/artist/3xgnzKKYpO6Jp0ARI1O6LL) | [Desesperación](https://open.spotify.com/album/4sIEzkOHRqNNdjmxGmp6LM) | 2:39 | 2022-06-03 | 2022-07-29 |
@@ -235,8 +236,9 @@
 | [Metralleta](https://open.spotify.com/track/3L7RYCRoKOnqsgDL9cXdUD) | [Acuario Cosmico](https://open.spotify.com/artist/6Sq1Zu3ALe2ldsnYUS7zYY) | [Metralleta](https://open.spotify.com/album/5nY5psozTUXskeoczm947N) | 2:35 | 2022-07-01 | 2022-07-28 |
 | [Metropolice](https://open.spotify.com/track/1pvhJFdzNVeqqqxsCx2MQE) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [CRO9UIS](https://open.spotify.com/album/6pPaMqRFOp0JAEp5lDju7U) | 4:54 | 2022-07-01 | 2022-07-25 |
 | [Mi Lugar](https://open.spotify.com/track/6KAZ0FZgGR1uh7IupPnhxy) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Mi Lugar](https://open.spotify.com/album/3UPvbNI1syOcOrvNdxPV2C) | 2:53 | 2022-07-15 | 2022-07-18 |
+| [Mi Vida Como Vacaciones](https://open.spotify.com/track/0Ah0ztfqxCvZYrFYXMa7Ub) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [Mi Vida Como Vacaciones](https://open.spotify.com/album/1fjaV0jSolAyJnkqGsE4Dt) | 3:46 | 2022-10-28 |  |
 | [Mi Vida Como Vacaciones](https://open.spotify.com/track/5WEABOXKIBcPrn2v175ltZ) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [Doppel Gangs](https://open.spotify.com/artist/5AVUoW156Hi45i1sJ1ueQt) | [Mi Vida Como Vacaciones](https://open.spotify.com/album/3NRTOQdjxfpXDbQTXoVB9r) | 3:46 | 2022-06-03 | 2022-07-29 |
-| [Mi Vida Como Vacaciones](https://open.spotify.com/track/5ellJjhwC4gNOYRZGGt8vp) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [Vintage Futurista](https://open.spotify.com/album/6sMbgM4z01xWJSadT5evGq) | 3:47 | 2022-07-15 |  |
+| [Mi Vida Como Vacaciones](https://open.spotify.com/track/5ellJjhwC4gNOYRZGGt8vp) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [Vintage Futurista](https://open.spotify.com/album/6sMbgM4z01xWJSadT5evGq) | 3:47 | 2022-07-15 | 2022-11-11 |
 | [Miedos](https://open.spotify.com/track/6UXudjXSWptc6VpyYOYsmm) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Miedos](https://open.spotify.com/album/1QYyoy26hsRmLSTZWUAjgH) | 3:05 | 2022-07-01 | 2022-08-12 |
 | [Mientras Puedas](https://open.spotify.com/track/0KXSC27yO8M77WxGV4JC8l) | [Maurito](https://open.spotify.com/artist/5PMZb565NBrzfkLnHLgVqh) | [Mientras Puedas](https://open.spotify.com/album/0R2ApWvhBPLSn7vYOE3Gtf) | 4:11 | 2022-07-01 | 2022-07-24 |
 | [Mil Derrotas](https://open.spotify.com/track/2adnmrCoDBRmnKx9RuugN5) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/311nosRPXrVfCY5fg1TK5M) | 4:07 | 2022-06-03 | 2022-07-29 |
@@ -356,7 +358,7 @@
 | [Todo Lo Que No Decimos](https://open.spotify.com/track/7w86CwDkliaR1gPbxZHKQl) | [LIMON](https://open.spotify.com/artist/3bOCNWtgHz0rLE1j5bfR72) | [Todo Lo Que No Decimos](https://open.spotify.com/album/0BLiaD2KVRE14aX40i79fx) | 3:27 | 2022-06-03 | 2022-07-25 |
 | [Todo Se Está Cayendo](https://open.spotify.com/track/06qkUcnKSLVobh8wc4RhBV) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/7ncc7rL0uXgBkf9vXNCSB1) | 4:15 | 2022-06-03 | 2022-10-03 |
 | [Toxi](https://open.spotify.com/track/2zQFcTriw8DV1ZlajAUWpy) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/56QgvZNpKS8L7sVkDQyfYW) | 2:33 | 2022-06-03 | 2022-07-26 |
-| [Toxi](https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B) | 2:33 | 2022-07-15 |  |
+| [Toxi](https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B) | 2:33 | 2022-07-15 | 2022-11-11 |
 | [Tranki Town](https://open.spotify.com/track/7uLmpyGdYW4Z9Xy163jKE8) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Mitokiota](https://open.spotify.com/artist/1TibukCppwnz6ALvkIhpFy), [Friki Jones](https://open.spotify.com/artist/3OGAcR5Klbhn6GIs8fP4m0) | [Tranki Town](https://open.spotify.com/album/7n6jZ86IvE57Z7EK0x3I4h) | 2:54 | 2022-07-01 | 2022-07-29 |
 | [Transformarme](https://open.spotify.com/track/4rkf8GAsnpt2zed4MVqf7l) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 3:23 | 2022-07-15 | 2022-07-29 |
 | [Transparente \- Lt Session](https://open.spotify.com/track/0z5Grn58q81DPgnQXyoU7b) | [Bicicletas](https://open.spotify.com/artist/1JwKBAe8O6J3z8knUBBIM1) | [Los Transparentes](https://open.spotify.com/album/0bD4ErLB6Z4H05LryfyqeJ) | 5:03 | 2022-07-01 | 2022-07-25 |

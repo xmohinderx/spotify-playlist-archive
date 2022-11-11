@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 
 > The official playlist for all things League of Legends featuring the Worlds Anthem: "STAR WALKIN'" by Lil Nas X.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,602 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,634 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 | 5 | [THATS WHAT I WANT](https://open.spotify.com/track/3egamOji0THEWgIOnAN2LX) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/4ERnEGlYApJgSQ57j2qlXC) | 2:23 |
 | 6 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/2Pner0zYKaSPQ3YeYYXdup) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/2hsgRLshTYNvhMAfrzp7C2) | 3:32 |
 | 7 | [Dime si te atreves](https://open.spotify.com/track/4AfdBeGRL6PqVE6sDoJUpt) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [MAD Lions](https://open.spotify.com/artist/1pgjOMD7q1ZyLMOAvAkhJB) | [Dime si te atreves](https://open.spotify.com/album/1lz3aCbYi211qYsdTfLmA0) | 2:16 |
-| 8 | [New Genesis](https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:46 |
+| 8 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/4WyFq9x3XJXd4DvkHZquxr) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Viral Now Japan 2022](https://open.spotify.com/album/5S4lsujHgeCHw6ajy27ffq) | 3:48 |
 | 9 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 |
 | 10 | [Então Faz o L](https://open.spotify.com/track/1RDkJlLvIL6jM8CkCzB3cX) | [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS) | [Então Faz o L](https://open.spotify.com/album/05mIItmmjzQ497D2MkB311) | 2:02 |
 | 11 | [HOLIDAY](https://open.spotify.com/track/1EHWTyklqY1X4UGRylJTU3) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOLIDAY](https://open.spotify.com/album/0D7uc0tif0zx6HSEvQ20xt) | 2:34 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 | 53 | [Ready for War](https://open.spotify.com/track/05f1rPg0cUUbShsL4FYcPt) | [Joznez](https://open.spotify.com/artist/03u3O2Nv2hOb00DRFYEISs), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Kataem](https://open.spotify.com/artist/4v5vKGibNG5JeqTPAhnqil) | [Ready for War](https://open.spotify.com/album/4LYXm7zyAzv655XH9cVq7A) | 3:20 |
 | 54 | [Punjabi](https://open.spotify.com/track/2Byxr0ooaeLayBBaVLup67) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Punjabi](https://open.spotify.com/album/2qcWpdZ2yIHXA1J7AJnm3R) | 3:30 |
 
-Snapshot ID: `MTY2NDIyNTU0NSwwMDAwMDAwMDcxNTRlNWE3NjY3MjdiMzEzYzYyNGQ0NjZmYThmOWRh`
+Snapshot ID: `MTY2NDIyNTU0NSwwMDAwMDAwMGFlMmViMjI1ZDk1MTU3YjMzMDM2YTY5YWI5MzNiOWMw`

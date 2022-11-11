@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: <b>Margo Cilker</b>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,435 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,454 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 94 | [Whatever We Are](https://open.spotify.com/track/4CmnqVb5QJ55IpaT65Il9f) | [Maia Sharp](https://open.spotify.com/artist/08vGa4eSfPKe22qVnkuI6N) | [Whatever We Are](https://open.spotify.com/album/71Ay0LRLm8DV0T9cl7c5KZ) | 3:31 |
 | 95 | [Silver Valley](https://open.spotify.com/track/2FbPOBRlg3s36jfEC2vAGj) | [David Miner](https://open.spotify.com/artist/6VumpqEj917mn0DCQMUbGJ) | [Silver Valley](https://open.spotify.com/album/6N8JvTIcevgsOAcwwfmJWo) | 4:35 |
 | 96 | [Roller Coaster](https://open.spotify.com/track/742x5JWzzPYXA60xM64xwE) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Roller Coaster](https://open.spotify.com/album/17gdWDwcZffnaZfjSptALP) | 4:29 |
-| 97 | [Jack of Fools](https://open.spotify.com/track/2K3tyFoVNYUwIjwHqmsB5W) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/61RWLc1ytbWD3XRHbGWkIw) | 4:48 |
+| 97 | [Jack of Fools](https://open.spotify.com/track/00uM0sUFwqzPQd3QA55xPM) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr), [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/1iCFOIlVgRXMe816f6Hzbz) | 4:48 |
 | 98 | [Tanglin](https://open.spotify.com/track/1qqlDHmFTlh9ePezTHYROy) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Tanglin](https://open.spotify.com/album/01JWN1WAPqp7bPkMGDwRfs) | 3:45 |
 | 99 | [Further Away \- Acoustic](https://open.spotify.com/track/11nyQyvVojrSOutyVtaNF3) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj), [Brit Taylor](https://open.spotify.com/artist/5602llJ8wtfS1YSbwSNraO) | [Further Away \(Acoustic\)](https://open.spotify.com/album/51KArM9lLuMna0nFzWz2Wy) | 3:56 |
 | 100 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGNjNTZhMGY4N2ExMzU1MDJkNjExOWMzN2ZhNjdiZTk4`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGQwY2NhMzk1YTNmY2ZiMzRlNDUwZjcyNWY2MTkzZmJm`

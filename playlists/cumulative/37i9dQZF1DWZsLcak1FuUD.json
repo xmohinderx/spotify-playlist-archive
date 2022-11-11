@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 287602,
       "name": "Apocalipsis",
       "url": "https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 415826,
       "name": "La Casa De La Mente",
       "url": "https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 454530,
       "name": "Libros Sapienciales",
       "url": "https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3"
@@ -1031,6 +1031,24 @@
       "duration_ms": 226226,
       "name": "Post-Crucifixion",
       "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
+    },
+    {
+      "album": {
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/6r5MB5kYbQcFLMMI2udQi5"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "date_added": "2020-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456640,
+      "name": "Profecias",
+      "url": "https://open.spotify.com/track/7IM3PA1ooxzdOeLafEQ9Tx"
     },
     {
       "album": {

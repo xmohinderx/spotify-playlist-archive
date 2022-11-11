@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Benjamin William Hastings
 
-2,014 songs - 5 day 18 hr 39 min - [published](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
+2,015 songs - 5 day 18 hr 42 min - [published](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,8 @@
 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 | 2022-03-11 | 2022-03-18 |
 | [Future Glory](https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [2: 22](https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7) | 3:14 | 2022-02-25 | 2022-03-05 |
 | [Future Years](https://open.spotify.com/track/1GGCr7uhBK50in9EwV5yqM) | [Jonathan David Middleton](https://open.spotify.com/artist/3sVONkahZrlRA1ITNOn6ZD) | [Future Years](https://open.spotify.com/album/4RwNg0DygepaMQtRPBygG7) | 4:35 | 2022-04-22 | 2022-05-07 |
-| [Get to Me](https://open.spotify.com/track/7GkAQmgom9NT1yXyzlKkDW) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Get to Me](https://open.spotify.com/album/3UwdDxduUTUbWjtaxrNdqP) | 3:18 | 2022-11-04 |  |
+| [Get to Me](https://open.spotify.com/track/7GkAQmgom9NT1yXyzlKkDW) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Get to Me](https://open.spotify.com/album/3UwdDxduUTUbWjtaxrNdqP) | 3:18 | 2022-11-04 | 2022-11-11 |
+| [Get to Me](https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Get to Me](https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y) | 3:18 | 2022-11-04 |  |
 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 | 2022-06-10 | 2022-06-18 |
 | [Getaway](https://open.spotify.com/track/3shXjiI3dziPRshJCINTKM) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Getaway](https://open.spotify.com/album/6LBwtXXqdQYcNUKH0y52n9) | 4:10 | 2022-05-06 | 2022-05-20 |
 | [Getting Started \- Radio Version](https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Tedd T.](https://open.spotify.com/artist/1Clv08TUPb1Z68yRVRBT3c) | [Getting Started \(Radio Version\)](https://open.spotify.com/album/3oJ9UZKOQBx1DaAOnCMi9a) | 3:39 | 2022-02-25 | 2022-03-12 |
@@ -893,7 +894,7 @@
 | [In The Mighty Name](https://open.spotify.com/track/7zh4MKqplRyiG5s3nK6a6g) | [ONE HOUSE WORSHIP](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R), [Rudy Villarreal](https://open.spotify.com/artist/7Jm4MrGvgZh86tUe0GrEB2) | [In The Mighty Name](https://open.spotify.com/album/67GOpBBrbPkSnz7LHQBMXW) | 7:50 | 2022-10-21 | 2022-11-05 |
 | [In The Morning “for V”](https://open.spotify.com/track/37aL4sZD0huirNkxYgMpv6) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [In The Morning “for V”](https://open.spotify.com/album/2Wy2shbkVoGVuo5Pm3FVGp) | 3:41 | 2022-04-15 | 2022-04-29 |
 | [In The Name Of Jesus](https://open.spotify.com/track/4SslErYgJUyr6PvjndqC6d) | [David Billingsley](https://open.spotify.com/artist/4O9iPnVvfYOVVPNCYnYlAR), [Tonia Hughes Kendrick](https://open.spotify.com/artist/2C0JOBTTVTW34cHhYT5XJ6) | [Hymns From Mama's House: Family Reunion](https://open.spotify.com/album/7pcC9BsP06MBxMY0vzF3Uj) | 4:57 | 2022-03-25 | 2022-04-09 |
-| [In the Room \(feat\. Chris Brown\)](https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:48 | 2022-10-21 |  |
+| [In the Room \(feat\. Chris Brown\)](https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:48 | 2022-10-21 |  |
 | [In the Upper Room](https://open.spotify.com/track/1xeIeSoWpSytv2YDl5lyow) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [In the Upper Room](https://open.spotify.com/album/5Db9ktAGwzMb6JWNF16iAX) | 4:11 | 2022-06-03 | 2022-06-11 |
 | [In Your Eyes](https://open.spotify.com/track/1mDuP7qIDNlE4CKJhotWyl) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [In Your Eyes](https://open.spotify.com/album/7woBjeGePAa8gugsNrDCqQ) | 4:44 | 2022-04-15 | 2022-04-29 |
 | [Infinite Love](https://open.spotify.com/track/7nSi8zg7M36sQ8X65CG1q4) | [Orlando Vick](https://open.spotify.com/artist/3MZY2J55U6iYpPB5A7BCyE) | [Infinite Love](https://open.spotify.com/album/5xY3XsSsbDpF5UBQzgGTWu) | 3:43 | 2022-05-06 | 2022-05-21 |

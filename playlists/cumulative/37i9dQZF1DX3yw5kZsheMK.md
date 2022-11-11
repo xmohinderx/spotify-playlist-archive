@@ -4,7 +4,7 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-94 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/1CVYEU7K2k9rK1YsRxpkvZ)
+95 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/1CVYEU7K2k9rK1YsRxpkvZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Good Night](https://open.spotify.com/track/4dsDamCdYIyxQhKg5y7W39) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs & Lullabies](https://open.spotify.com/album/0TmJVpPygubYNn8dMsmtsY) | 2:32 | 2022-03-11 |  |
 | [Good Night](https://open.spotify.com/track/6XIVXKOjICtiAsbet18HND) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 3:48 | 2022-03-11 |  |
 | [Goodnight](https://open.spotify.com/track/2xUJOHPTKldZ6RdgqVT7gf) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/6Jb1nc24pVaLhOoLeKorAa) | 3:20 | 2022-03-11 | 2022-07-29 |
-| [Goodnight](https://open.spotify.com/track/7qrXQVznkh7TZmUorSMSPl) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt) | 3:20 | 2022-03-11 |  |
+| [Goodnight](https://open.spotify.com/track/5X10LCfLfYrFO2NPAWGCTL) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 3:20 | 2022-03-11 |  |
+| [Goodnight](https://open.spotify.com/track/7qrXQVznkh7TZmUorSMSPl) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt) | 3:20 | 2022-03-11 | 2022-11-11 |
 | [Goodnight My Love](https://open.spotify.com/track/71t5FgLpawI7kauFCymGmq) | [The Lucky Band](https://open.spotify.com/artist/4cYmyYabyJSvdIOsTweQMz) | [Paseo Lunar](https://open.spotify.com/album/5PX2YJFNfAEBrgj8GfzaIs) | 2:34 | 2022-03-11 |  |
 | [Goodnight To You All](https://open.spotify.com/track/6v68TtxvJqThwIFHHVZfPZ) | [Susie Tallman](https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7) | [Lullabies For Sleepy Eyes](https://open.spotify.com/album/4ZeJtNKFVbY1esxG8lIFin) | 2:15 | 2022-03-11 |  |
 | [here comes the sun](https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [here comes the sun](https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7) | 2:47 | 2022-03-11 |  |

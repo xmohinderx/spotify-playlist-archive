@@ -1704,6 +1704,28 @@
     },
     {
       "album": {
+        "name": "Mykonos",
+        "url": "https://open.spotify.com/album/1suGVIujM6SWlo0HktXH23"
+      },
+      "artists": [
+        {
+          "name": "Fantasi",
+          "url": "https://open.spotify.com/artist/3hA7JQHjqkT82wssjqG3uK"
+        },
+        {
+          "name": "Meric Again",
+          "url": "https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226115,
+      "name": "Mykonos",
+      "url": "https://open.spotify.com/track/6xM5J6zi05edZeo06y524g"
+    },
+    {
+      "album": {
         "name": "Helem",
         "url": "https://open.spotify.com/album/6hsfOW3mF5VGwLL3tEpsig"
       },
@@ -1921,7 +1943,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 453596,
       "name": "Reshetka",
       "url": "https://open.spotify.com/track/0MmGBtEVw3COl2ElmvJVy3"
@@ -1947,6 +1969,28 @@
       "duration_ms": 453596,
       "name": "Reshetka",
       "url": "https://open.spotify.com/track/5OOsTNjddctg0r1N1AtGSi"
+    },
+    {
+      "album": {
+        "name": "Aciga Vurma",
+        "url": "https://open.spotify.com/album/1czFwH6AT4vgOvYdDUL3U0"
+      },
+      "artists": [
+        {
+          "name": "Jack Essek",
+          "url": "https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453596,
+      "name": "Reshetka",
+      "url": "https://open.spotify.com/track/6e4FB9K0gSOV98htH4Fn6k"
     },
     {
       "album": {

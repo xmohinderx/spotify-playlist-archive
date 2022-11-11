@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Beyond The Black
 
-496 songs - 1 day 14 hr 16 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+498 songs - 1 day 14 hr 26 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Cerberus](https://open.spotify.com/track/4XXaIotNWYmoznmCyPzpzi) | [Ola Englund](https://open.spotify.com/artist/6ZwGUvmkFjPbaZLLfVWxlW) | [Master of the Universe](https://open.spotify.com/album/5HdkUk7tyuRmaK3teaPMsW) | 5:15 | 2022-07-13 | 2022-07-30 |
 | [Chain of the Golden Horn](https://open.spotify.com/track/2Fn6YAHjuM0Th4L0QCvwUV) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Chain of the Golden Horn](https://open.spotify.com/album/7vGhZpOO230V2JKMNYcWXj) | 4:00 | 2020-11-29\* | 2021-11-27 |
 | [Chambers of Fire](https://open.spotify.com/track/0t6hb4sQPxJQAAB7iYPrpt) | [Battlelore](https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw) | [Chambers of Fire](https://open.spotify.com/album/2knMVLETWD9mGLSF02iClX) | 4:13 | 2022-05-06 | 2022-07-29 |
-| [Chambers of Fire](https://open.spotify.com/track/6PA2md3VXaenegsw75b0nR) | [Battlelore](https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw) | [The Return of the Shadow](https://open.spotify.com/album/4gZrjoS6xNWkPy7L1UBpWq) | 4:13 | 2022-07-08 |  |
+| [Chambers of Fire](https://open.spotify.com/track/1JzZa5eQj4z5t9MSH7nFJe) | [Battlelore](https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw) | [Chambers of Fire](https://open.spotify.com/album/5Sx6yCDtl51HJ4nltuv4VI) | 4:13 | 2022-10-26 |  |
+| [Chambers of Fire](https://open.spotify.com/track/6PA2md3VXaenegsw75b0nR) | [Battlelore](https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw) | [The Return of the Shadow](https://open.spotify.com/album/4gZrjoS6xNWkPy7L1UBpWq) | 4:13 | 2022-07-08 | 2022-11-11 |
 | [Chandelier](https://open.spotify.com/track/6yqcGYzJ7V4tv9wXt827ue) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Covers II](https://open.spotify.com/album/0iGeVl7864jzkdwMGrrrNd) | 3:38 | 2021-11-20 | 2022-06-18 |
 | [Charcoal](https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [TAN](https://open.spotify.com/album/5CaUwC3aR3rdy325CtWPLH) | 5:14 | 2022-04-01 |  |
 | [Charger](https://open.spotify.com/track/6ZV9eoRMiUXewkdk9ui88Z) | [Sergey Golovin](https://open.spotify.com/artist/77wJZtKuQzTzoExzFwlpON) | [Sculpture](https://open.spotify.com/album/5jD81VgX8p3EzIwQIhrHiE) | 4:07 | 2022-07-13 | 2022-07-30 |
@@ -300,7 +301,8 @@
 | [Null Point](https://open.spotify.com/track/3HvKi9J9B5dTlnLuxAXdiH) | [Joel Lindfors](https://open.spotify.com/artist/0g2s7sIZ2SX168uQDs9NM2), [Sithu Aye](https://open.spotify.com/artist/6AOvXKqmqmZHxqdop7Kzoh) | [Shift](https://open.spotify.com/album/5hRzklorWry9M9L8xItiu0) | 3:59 | 2022-07-13 | 2022-07-30 |
 | [Null Point \(feat\. Sithu Aye\)](https://open.spotify.com/track/3VURA6hWcr7VBrdzOVZXfO) | [Joel Lindfors](https://open.spotify.com/artist/0g2s7sIZ2SX168uQDs9NM2), [Sithu Aye](https://open.spotify.com/artist/6AOvXKqmqmZHxqdop7Kzoh) | [Shift](https://open.spotify.com/album/0BMWkBjL37JS9telS0rApm) | 3:59 | 2022-07-13 | 2022-07-29 |
 | [Névé](https://open.spotify.com/track/1XBjS9Co5312nsBW0tUMo5) | [Chronologist](https://open.spotify.com/artist/0IaTDHWLYUE3yJvFtIfOF2) | [Equinox I](https://open.spotify.com/album/1CR1pNnx93KwhmSRs920Rj) | 4:20 | 2022-07-13 | 2022-07-30 |
-| [Oblivion](https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Invaders](https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4) | 5:38 | 2022-07-08 |  |
+| [Oblivion](https://open.spotify.com/track/3uWrBUXXqPAEtVnoMNjFMy) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Oblivion](https://open.spotify.com/album/0p7hlLS3mYBw5FuXeydmEv) | 5:38 | 2022-10-26 |  |
+| [Oblivion](https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Invaders](https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4) | 5:38 | 2022-07-08 | 2022-11-11 |
 | [Oblivion](https://open.spotify.com/track/67MGQWoNdzW83hl6khFD6q) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Oblivion](https://open.spotify.com/album/7z9xtUPMCYEGy5w448oGA3) | 5:38 | 2022-06-17 | 2022-07-29 |
 | [October Moon](https://open.spotify.com/track/3iMoMqGO6YVI1UC4pVRL3s) | [For Giants](https://open.spotify.com/artist/1E9A2LYYOJEIR7cB7nsYg8) | [October Moon](https://open.spotify.com/album/3QaTVrp8IZ57OuN8MpkT3m) | 4:26 | 2022-07-13 | 2022-07-29 |
 | [Of Life: Awakening \- Instrumental](https://open.spotify.com/track/3qagnvcNAsQARQw2NWJAc5) | [IAMONE](https://open.spotify.com/artist/3fhSDZ3YSUfbYQGTzlolkx) | [The Life Code \(Instrumental\)](https://open.spotify.com/album/2K7pwojecRBFyna0gs2iMx) | 5:23 | 2022-07-13 | 2022-07-30 |

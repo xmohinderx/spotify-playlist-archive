@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 131866,
       "name": "Good Rockin' Tonight",
       "url": "https://open.spotify.com/track/5yZQXR98v0kvhYQ7Adn8PK"
@@ -243,6 +243,24 @@
       "duration_ms": 132400,
       "name": "Good Rockin' Tonight",
       "url": "https://open.spotify.com/track/7cJNO7Q8CiF1H65WVnSIfg"
+    },
+    {
+      "album": {
+        "name": "Bossa Nova Baby: The Ultimate Elvis Presley Party Album",
+        "url": "https://open.spotify.com/album/4RaW2vsKwtP8AxXVAgZyZN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "Good Rockin' Tonight",
+      "url": "https://open.spotify.com/track/5tAYskSOgx5vdSPCb9U6sI"
     },
     {
       "album": {
@@ -581,10 +599,28 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 150666,
       "name": "Too Much Monkey Business",
       "url": "https://open.spotify.com/track/7cHRosCDDl7qhHxkSpcTtH"
+    },
+    {
+      "album": {
+        "name": "From Nashville To Memphis - The Essential 60s Masters I",
+        "url": "https://open.spotify.com/album/2NQk9PwXk5xL8UPOdEvBVr"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "Too Much Monkey Business",
+      "url": "https://open.spotify.com/track/54UZfh9m4EbRtPp63lpQ0v"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-186 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
+187 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [I Promise to Love](https://open.spotify.com/track/19LMucy1MN241ShsoCUKia) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [I Promise to Love](https://open.spotify.com/album/44tqKaAh69xrdFN9s2TCl4) | 2:52 | 2022-08-30 |  |
 | [I Should Care](https://open.spotify.com/track/6737EPSxTorgEKqLbvBgUZ) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Messages](https://open.spotify.com/album/6jePTuUPpahMgH5j9u9o55) | 10:02 | 2022-02-03 | 2022-06-30 |
 | [I Still See You In My Dreams](https://open.spotify.com/track/0zBUB6TUdZNOeWrQphEP6J) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [I Still See You In My Dreams](https://open.spotify.com/album/37NCgGDRaxH8E7N4pxunDM) | 3:17 | 2022-09-29 |  |
+| [I Still Think of Us](https://open.spotify.com/track/6NGBhgNVFaqrzGgZH0h9pl) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [I Still Think of Us](https://open.spotify.com/album/2Ai8VIfhKppeHjAoiUfQmw) | 2:59 | 2022-11-10 |  |
 | [I Will Wait For You](https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Eternal Maze](https://open.spotify.com/album/4C3TtqzLArtYY9CuFGmeWV) | 3:59 | 2022-10-06 |  |
 | [I Wish I Knew](https://open.spotify.com/track/41XCiJOUytKpsgT1kDzYzE) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 4:40 | 2022-02-03 | 2022-09-09 |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/1FW3sdgzfR7gdqXXqprBxJ) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/01sPJkRHG839tmyrd1V8s6) | 3:49 | 2022-09-08 |  |
@@ -109,11 +110,11 @@
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-06-14 |  |
 | [Margaret Dances](https://open.spotify.com/track/7KwrcuwPG14xG8XZafQa4I) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Margaret Dances](https://open.spotify.com/album/7beQd9cOaKBuE8N4lVRhau) | 3:30 | 2022-10-13 |  |
 | [Moment To Moment](https://open.spotify.com/track/5iUZ1247JyTUfjSoA4nVQl) | [Theo Rollins](https://open.spotify.com/artist/60QiTTvsk3chyatkaryUFL) | [Moment To Moment](https://open.spotify.com/album/3KeFD62A0IEmCOfn2CaC0K) | 2:57 | 2021-12-14 |  |
-| [Monk's Mood](https://open.spotify.com/track/5ypkP1XjtQTjVh77833W8J) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Monk's Mood](https://open.spotify.com/album/63znxspWv08GvBbaGCTJLp) | 4:00 | 2022-06-01 |  |
+| [Monk's Mood](https://open.spotify.com/track/5ypkP1XjtQTjVh77833W8J) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Monk's Mood](https://open.spotify.com/album/63znxspWv08GvBbaGCTJLp) | 4:00 | 2022-06-01 | 2022-11-11 |
 | [Mood](https://open.spotify.com/track/1LS7O7v95kU5BbZny7ooni) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P.](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 8:50 | 2021-12-14 | 2022-05-18 |
 | [Moonbow](https://open.spotify.com/track/1l54HHTbA5ze9DnvBL93aw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Moonbow](https://open.spotify.com/album/3vAnUbVPNlM5HZzoYUFh4t) | 3:52 | 2022-04-26 |  |
 | [My Funny Valentine](https://open.spotify.com/track/4hCbA5XOPwCzNvUWKztpD9) | [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [Proof Positive](https://open.spotify.com/album/7dTSo2PZoS6W7aKny9I1hW) | 3:02 | 2021-12-14 | 2022-05-25 |
-| [My Heart](https://open.spotify.com/track/3morX7bvyxeoiwt6G2HYnb) | [Paul Bley](https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM) | [Paul Bley](https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP) | 2:37 | 2022-02-03 |  |
+| [My Heart](https://open.spotify.com/track/3morX7bvyxeoiwt6G2HYnb) | [Paul Bley](https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM) | [Paul Bley](https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP) | 2:37 | 2022-02-03 | 2022-11-11 |
 | [My Ideal](https://open.spotify.com/track/7GnMpHjVWHC5W87OifzPX6) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [My Ideal](https://open.spotify.com/album/1NnYrcvic7aXLEDtvQmVCF) | 3:50 | 2021-12-14 |  |
 | [My Lonely Days Are Over](https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [My Lonely Days Are Over](https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9) | 3:50 | 2022-08-11 |  |
 | [My Old Flame](https://open.spotify.com/track/3xuslygka7eRD9KYn3MMhc) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:23 | 2022-02-03 | 2022-05-25 |

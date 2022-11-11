@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain]
 
 > Looking for a singer who dominated an era in the Korean music industry and then disappeared, aka 'SUGAR MAN'\. This is the official playlist of JTBC <Sugar Man>\. \(대한민국 가요계의 한 시대를 풍미했다가 사라진 가수, 일명 '슈가맨 \(SUGAR MAN\)'을 찾아갑니다\. JTBC 슈가맨의 오피셜 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 24 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 787 likes - 24 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain]
 | 3 | [서방님](https://open.spotify.com/track/6l7GofU09yI7MFJVr9slAH) | [Hoppipolla](https://open.spotify.com/artist/6tuuLiMw18vnZB8hJaodJc) | [투유프로젝트 \- Sugar Man3 Episode.2](https://open.spotify.com/album/4FhtWkUBEynCwQkY9urWJY) | 4:02 |
 | 4 | [리베카](https://open.spotify.com/track/35ScqzLUjqK1db7cPnRKvy) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [투유프로젝트 \- Sugar Man3 Episode.2](https://open.spotify.com/album/4FhtWkUBEynCwQkY9urWJY) | 3:06 |
 | 5 | [원하고 원망하죠](https://open.spotify.com/track/05b8b4jRQkK110IJv1zUxc) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [투유프로젝트 \- Sugar Man3 Episode.3](https://open.spotify.com/album/7lm4fy4gIFsGgGQs2YP4Ch) | 4:06 |
-| 6 | [슬픈 얼굴 \(Produced by DAVINK\)](https://open.spotify.com/track/12NBDvVP1V20DenNldYEOD) | [러블리즈](https://open.spotify.com/artist/0iXLfVe2AT74DuWxYtEUku) | [투유프로젝트 \- Sugar Man3 Episode.3](https://open.spotify.com/album/7lm4fy4gIFsGgGQs2YP4Ch) | 3:36 |
+| 6 | [슬픈 얼굴 \(Produced by DAVINK\) \(Inst.\)](https://open.spotify.com/track/57OMPu6jizxikhfIZMEfxd) | [러블리즈](https://open.spotify.com/artist/0iXLfVe2AT74DuWxYtEUku) | [투유프로젝트 \- Sugar Man3 Episode.3](https://open.spotify.com/album/7lm4fy4gIFsGgGQs2YP4Ch) | 3:36 |
 | 7 | [캉캉](https://open.spotify.com/track/1hwHxhQMugnLkbeGQSUCME) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [투유프로젝트 \- Sugar Man3 Episode.4](https://open.spotify.com/album/39WY1XgiUiYKwCLVwUuVAs) | 2:40 |
 | 8 | [즐거운생활](https://open.spotify.com/track/29kB8zXt1NPUkyS63pm6IW) | [GIANT PINK](https://open.spotify.com/artist/4yvE3ttbP5uRwBQ0ZrhOPi), [Kisum](https://open.spotify.com/artist/1CArfopvfCxakFJHup55FW) | [투유프로젝트 \- Sugar Man3 Episode.4](https://open.spotify.com/album/39WY1XgiUiYKwCLVwUuVAs) | 2:33 |
 | 9 | [아빠와 함께 뚜비뚜바 \(EDM Ver.\)](https://open.spotify.com/track/3uwptxJs474a97j6gon52G) | [UV](https://open.spotify.com/artist/5M7KE2pbTmSQL32wD4sTG9) | [투유프로젝트 \- Sugar Man3 Episode.5](https://open.spotify.com/album/4ZbgcyI7itYzm7VLHeXK78) | 3:55 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain]
 | 23 | [너에게 난 나에게 넌](https://open.spotify.com/track/0xk9JJtMY7bf5omWZMQrhL) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [투유프로젝트 \- Sugar Man3 Episode.13](https://open.spotify.com/album/62oHiP43b3A0j8wigHtpP3) | 4:27 |
 | 24 | [버스안에서](https://open.spotify.com/track/27Mtoumk8uvzmqQ2liLTbk) | [장준](https://open.spotify.com/artist/5yES1lbfHCYiyoMu2lytl3), [TAG](https://open.spotify.com/artist/6wWzrvB5m2BSseIfpeWtJX), [Kei\(김지연\)](https://open.spotify.com/artist/7iNpNRwtBogISqdh1nPazB) | [투유프로젝트 \- Sugar Man3 Episode.13](https://open.spotify.com/album/62oHiP43b3A0j8wigHtpP3) | 3:11 |
 
-Snapshot ID: `MTYyODA0ODc2NCwwMDAwMDAwMDI2MWRjZDkwMmViMzBiMDI0YzcyODgzMzczY2RiZGUx`
+Snapshot ID: `MTYyODA0ODc2NCwwMDAwMDAwMGRkYTVhMDQwOTQ5ZDM2ZmY2NjU5OGEyODhlZjM3ZDgy`

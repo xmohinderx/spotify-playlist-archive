@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 171785,
       "name": "Another Dream",
       "url": "https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV"
@@ -3415,7 +3415,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 129229,
       "name": "Hey",
       "url": "https://open.spotify.com/track/3DP1ar30GyW0PzMs5ZNzVl"
@@ -4749,7 +4749,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 200425,
       "name": "Lokki",
       "url": "https://open.spotify.com/track/02b5JTZ07M2kYQpS3xQKCd"
@@ -6914,6 +6914,28 @@
     },
     {
       "album": {
+        "name": "re: Labyrinth",
+        "url": "https://open.spotify.com/album/0gVIBAXQA6SOSMW46veT0b"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        },
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185640,
+      "name": "re: Labyrinth",
+      "url": "https://open.spotify.com/track/5Bis2FY538rXD9tHWdmitY"
+    },
+    {
+      "album": {
         "name": "Reassurance Cycle",
         "url": "https://open.spotify.com/album/4yPO42Uaw3NS9pqdsScnLT"
       },
@@ -7401,6 +7423,24 @@
       "duration_ms": 158471,
       "name": "sea birth",
       "url": "https://open.spotify.com/track/4XXcR2WtL63vIchwSyuy20"
+    },
+    {
+      "album": {
+        "name": "Silently Beats",
+        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
     },
     {
       "album": {
@@ -8244,6 +8284,24 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I"
+      },
+      "artists": [
+        {
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170109,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV"
+    },
+    {
+      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/5DFxKYeiJlGGx3zCbX3ocT"
       },
@@ -8457,7 +8515,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "Swing",
       "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
@@ -9385,7 +9443,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 144950,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF"
@@ -9403,7 +9461,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 144950,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC"
@@ -9755,7 +9813,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 155670,
       "name": "Yufuin",
       "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"

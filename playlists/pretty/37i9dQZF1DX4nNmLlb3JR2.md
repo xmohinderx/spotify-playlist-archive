@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,670 likes - 99 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,197 likes - 99 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 34 | [Roxanne](https://open.spotify.com/track/5hBtuwob3QCkTzp0LPZRf1) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD) | [Roxanne](https://open.spotify.com/album/2h6KJl2aUMLIV57CkZuB00) | 1:38 |
 | 35 | [Ghost](https://open.spotify.com/track/7xIONLBEuuXdjd9KFGxUWz) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Ghost](https://open.spotify.com/album/5F25JMKIZl6Zl4huvs6GtE) | 1:59 |
 | 36 | [Over the Rainbow](https://open.spotify.com/track/2IUPDUYvCheRPFysucHbly) | [Gal Dahan](https://open.spotify.com/artist/21x9QjLzTIpMonjnMzVvQB), [Ezraz](https://open.spotify.com/artist/63DrGLldYLdFyqmDsy1m2S) | [Over the Rainbow](https://open.spotify.com/album/235KsaDxGDS2kDLYak6Ihu) | 1:33 |
-| 37 | [7 Years](https://open.spotify.com/track/2JjwQsLvMknwKhMRbdC7Mb) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Lofi Fruits Music 2021](https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG) | 1:54 |
+| 37 | [7 Years](https://open.spotify.com/track/5BtoYjmh1K5DUIP9nsybOu) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [7 Years](https://open.spotify.com/album/2BHcQOewTlhClbXRfwRrd1) | 1:54 |
 | 38 | [Stayin' Alive](https://open.spotify.com/track/5bgVt8KSOMsB3f0SUUd92n) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Stayin' Alive](https://open.spotify.com/album/5GmwBcAg9KA6ChJkBb9Geq) | 1:35 |
-| 39 | [Riptide](https://open.spotify.com/track/0V9DUIw34dXOZBJ6NdJs5R) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Lofi Fruits Music 2021](https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG) | 1:40 |
+| 39 | [Riptide](https://open.spotify.com/track/1g8GnUYrATB5PzHb3WybiG) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Riptide](https://open.spotify.com/album/2fgk2hlBFaWzddFFkqwDk1) | 1:40 |
 | 40 | [Californication](https://open.spotify.com/track/2qPuqNzXKGJxUGix3Ot6ff) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Covers Collection \(Vol\. 3\)](https://open.spotify.com/album/6xV0OXNjDLNExHKq0NO6Tc) | 4:23 |
 | 41 | [Chasing Cars](https://open.spotify.com/track/2kGy10LaMDzVoSjB3t4xAq) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Chasing Cars](https://open.spotify.com/album/0MvaTmVF5rnkSZlLLNfLzo) | 2:31 |
 | 42 | [Still D.R.E.](https://open.spotify.com/track/7sQwpVMPCZsqKGXxbfzSaQ) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Old School Songs But It's Lofi Fruits Remix](https://open.spotify.com/album/07nDgaXP2iBDew71yLsLKZ) | 1:46 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 98 | [I Took a Pill in Ibiza](https://open.spotify.com/track/2UE2Kys4CeDLYmKe44GgXm) | [I Am Lofi](https://open.spotify.com/artist/330gdzZYIWN7O1gWheychm) | [I Took a Pill in Ibiza](https://open.spotify.com/album/6zjzyzBuav0MnSELLr4K0U) | 2:59 |
 | 99 | [Another Love \- Lofi](https://open.spotify.com/track/28DdaEL9ZlLIa72Q7F65dQ) | [Sunday Without You](https://open.spotify.com/artist/2kfCeQSDYdHyURFQtS9I53) | [Another Love \(Lofi\)](https://open.spotify.com/album/7iLXkQQgmd2DEOHxkQqmhO) | 1:50 |
 
-Snapshot ID: `MTY2Njk1Njc3OCwwMDAwMDAwMGM0ZDkxNTQ2MDg4NTZiZjgwMTlkMDNlMDM2ZThiZmFh`
+Snapshot ID: `MTY2Njk1Njc3OCwwMDAwMDAwMDU2NWFmY2FlM2Y4NDcxNTkzODU5ZDRhMTNkNDRiNzJl`

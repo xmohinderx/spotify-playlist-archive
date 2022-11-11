@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Drake & 21 Savage \(pictured\), Selena Gomez, Tiësto & Tate McRae, Joji, P!nk, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,638 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,695 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

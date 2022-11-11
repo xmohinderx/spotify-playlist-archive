@@ -4,7 +4,7 @@
 
 > Instrumental, ambient music to awaken your imagination.
 
-76 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/2ZN8XpPOZQfCyasAye62LJ)
+77 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/2ZN8XpPOZQfCyasAye62LJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,8 +52,9 @@
 | [Mayday](https://open.spotify.com/track/5b6rOFv35qB3NUWAzHzX6s) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO) | [Mayday](https://open.spotify.com/album/7nAz8DbeMfEydzNvktje9E) | 3:13 | 2022-07-11 | 2022-07-29 |
 | [Melancolía](https://open.spotify.com/track/6V9deghaQxd0mLGzGgOSgK) | [Adrián Rodríguez van der Spoel](https://open.spotify.com/artist/5DmGOYzTUmwcfPju2x4maF), [Música Temprana](https://open.spotify.com/artist/5sHRR0jXu19AfU1e48wCFr) | [Melancolía](https://open.spotify.com/album/2mNBRfA9Zdyq5hmBasAUNT) | 3:00 | 2022-01-10 |  |
 | [Meridian](https://open.spotify.com/track/2ioJiNmf15qbpAtkhHOgDo) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Meridian](https://open.spotify.com/album/1V4hDoIl6B2J7cScpBkLJu) | 3:33 | 2022-01-10 | 2022-10-29 |
+| [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0dj9xrtRk4fNSwq9qpmLJj) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/15xCuPMi8UqL86dH6FCykt) | 5:34 | 2022-10-28 |  |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw) | 5:34 | 2022-06-03 | 2022-08-11 |
-| [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 5:34 | 2022-07-11 |  |
+| [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 5:34 | 2022-07-11 | 2022-11-11 |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/3kSKcgJ0FYz7t2k4p71jiy) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 5:34 | 2022-07-11 | 2022-08-26 |
 | [Nearer \- solo piano](https://open.spotify.com/track/0W7s30iwtHTCrD7IYbJR9s) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Nearer \(solo piano\)](https://open.spotify.com/album/68diijFo2l26OU6v5lKtD5) | 4:13 | 2022-10-28 |  |
 | [Nobody travelling](https://open.spotify.com/track/4X4SrQXqPq7SPSr1zbdvD8) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Nobody travelling](https://open.spotify.com/album/2oVFDW0fz8lYL6fP4Kdotb) | 3:31 | 2022-10-28 |  |

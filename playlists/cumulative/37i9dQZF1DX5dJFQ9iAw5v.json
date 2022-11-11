@@ -556,6 +556,24 @@
     },
     {
       "album": {
+        "name": "El Gaita",
+        "url": "https://open.spotify.com/album/2BS7NmJEikxUhAJGeibRtY"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385416,
+      "name": "El Gaita",
+      "url": "https://open.spotify.com/track/5REMrMzbiw86zd1MQQEbXg"
+    },
+    {
+      "album": {
         "name": "Ultradeforme",
         "url": "https://open.spotify.com/album/2fQ2BX4ODlSM1PdPmvZz70"
       },
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 324506,
       "name": "Pretos",
       "url": "https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H"

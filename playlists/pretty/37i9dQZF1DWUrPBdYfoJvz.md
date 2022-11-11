@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,511 likes - 123 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,723 likes - 123 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 66 | [Moon Is Sharp](https://open.spotify.com/track/16CMp2RKshLATGZnpjPPgB) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:48 |
 | 67 | [Triennale](https://open.spotify.com/track/1TpfK6G0X5muasT0eQsipa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/24tydQEhQTIlAaGNk9LrPv) | 4:06 |
 | 68 | [Goes By](https://open.spotify.com/track/2Paw6rRs12mZ6AfIhuP9Un) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Does It Look Like I'm Here?](https://open.spotify.com/album/69mR7YiwQTw7nvlFKBOp7Y) | 4:10 |
-| 69 | [Atomos VII](https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [Atomos](https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z) | 7:49 |
+| 69 | [Atomos VII](https://open.spotify.com/track/7dxVaE1WZ0bPrIz60V5dm8) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [Atomos VII](https://open.spotify.com/album/332R7lmKFcPMVrvkptRM8E) | 7:59 |
 | 70 | [Treefingers](https://open.spotify.com/track/4LrfsgQ5AGouvH3PlxW2PC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 3:42 |
 | 71 | [Dawn Chorus](https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Dawn Chorus](https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD) | 3:28 |
 | 72 | [Essence](https://open.spotify.com/track/4hBHEKTKdpGtP1AzsjNR8l) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Essence/Universe](https://open.spotify.com/album/1z3zYo640NiWxkKwukhFhN) | 29:53 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 74 | [Circle 23 \- Slow Meadow Rework](https://open.spotify.com/track/3AmZCKbonOoIjcIxf5xpEJ) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Full Circle Reworks](https://open.spotify.com/album/456HZjogXSlOUsCkKmjoqC) | 5:23 |
 | 75 | [Dissolving Clouds](https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 4:28 |
 | 76 | [Zero Gravity](https://open.spotify.com/track/7hhB3DTBQSHLvfO9RvyZxf) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:05 |
-| 77 | [Space 11 \(Invisible Pages Over\)](https://open.spotify.com/track/7uLFKKT99gXzjLhsOoDKwg) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [From Sleep](https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT) | 5:15 |
+| 77 | [Space 11 \(Invisible Pages Over\)](https://open.spotify.com/track/2UO73ZuO6vOsF5BY3cYUxn) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [Sleep \- Songs to Fall Asleep To](https://open.spotify.com/album/0xFJxJjuJuv4uN1JKPRZT2) | 5:15 |
 | 78 | [Water Memory 1](https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 7:28 |
 | 79 | [Jimmy V](https://open.spotify.com/track/4R8lTXhSoaNPtbda76jSWh) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [At the Dam](https://open.spotify.com/album/2PLJneMiP3ADrN6hD9hfjL) | 5:57 |
 | 80 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 122 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 123 | [Ferrum](https://open.spotify.com/track/0s5x2cr3VyJYez1W8SKXC0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirror](https://open.spotify.com/album/66d3xKf4p6CDloe6I7HaE9) | 16:13 |
 
-Snapshot ID: `MTY2NTc2Mjg1MiwwMDAwMDAwMGUxNTRmNThjYjU4ZDE3NGJlMzQ2ZTMzZjQyODBjMTEw`
+Snapshot ID: `MTY2NTc2Mjg1MiwwMDAwMDAwMDlhYjZkZTVjNTNjMWY0YzQ0M2JkM2Y4MDFjYThiNWE4`

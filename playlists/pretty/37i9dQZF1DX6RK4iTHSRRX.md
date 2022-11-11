@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,525 likes - 65 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,682 likes - 65 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 24 | [Jingle Bells](https://open.spotify.com/track/6nXBOfjXQfU1LuNPNDSa2L) | [Thomas Goran](https://open.spotify.com/artist/7G2JO0YKokgwGDFCdqBIxQ) | [My Christmas Tree](https://open.spotify.com/album/3KWxsOhFfc59PpkRbdYYiY) | 1:34 |
 | 25 | [God Rest You Merry, Gentlemen](https://open.spotify.com/track/0a9bBciURUoqdU43YqYxHZ) | [Steve Erquiaga](https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON) | [A Winter's Solstice V](https://open.spotify.com/album/075qeZ7zIqoYjL3IGXsAql) | 3:16 |
 | 26 | [Little Drummer Boy](https://open.spotify.com/track/5HZZkNOzjZnPPtrmwg6eQI) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [White Christmas](https://open.spotify.com/album/0uZsVQn1yY3hO9w2qn1H3g) | 2:43 |
-| 27 | [Away in a Manger](https://open.spotify.com/track/1A4J7RKNdJaIelW5wKTNAi) | [Holiday Guitar](https://open.spotify.com/artist/3k870ZizPxSR9UtSDH8Ana) | [Holiday Guitar \- The Christmas Song](https://open.spotify.com/album/2sWZwYz3Wn48pEwHcUOW2K) | 2:03 |
+| 27 | [Away in a Manger](https://open.spotify.com/track/2N33YR9NGL3nOBCEerRtee) | [Holiday Guitar Music](https://open.spotify.com/artist/6mfctThAqQpelIVZTpVpz3) | [Holiday Guitar Music \- Go Tell It On a Mountain](https://open.spotify.com/album/4vVq5TODq2b00lsnibiNDQ) | 2:03 |
 | 28 | [Greensleeves](https://open.spotify.com/track/2J1S7jDflYwZ34LtFDIPWY) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/5fIhvb26J7V639RThl2t0X) | 4:15 |
 | 29 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/6t68rLj181LJxc9uq8L9CK) | [Pamela Shay](https://open.spotify.com/artist/6yZOUT42GLUyzTOhPjH8eY) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/6X6sd5OTjpelj3Yt7AZGGB) | 2:01 |
 | 30 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/1zo1WCdXM70TiBJHuyPdrK) | [Edward Wright](https://open.spotify.com/artist/4RyILBSzO6HaIMayAo6M4W) | [Christmas\-Peaceful Christmas Guitar Solos](https://open.spotify.com/album/6lwSZRUhZiKI1uMkx5Ao96) | 2:19 |
-| 31 | [Angels We Have Heard on High](https://open.spotify.com/track/4zUrEicnZk7cXYcntIX12b) | [Steve Petrunak](https://open.spotify.com/artist/1TRZYAlP0bNz0dZCbWAjsI) | [Steve Petrunak: Christmas Music](https://open.spotify.com/album/2ZFsMS7reDxNByznWX9c2i) | 3:23 |
+| 31 | [Angels We Have Heard on High](https://open.spotify.com/track/3vHVsvhekwNfZPHAdARS4h) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Instrumental Guitar Christmas Songs: Jingle Bell Rock](https://open.spotify.com/album/1P1AfBe7VlsSdbMIeXhQ3z) | 3:23 |
 | 32 | [We Wish You A Merry Christmas](https://open.spotify.com/track/1qdYOwnoXdWJJFNSRSRkZT) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [We Wish You A Merry Christmas](https://open.spotify.com/album/6wd1lVSwuy1vV5WvrONGGR) | 1:28 |
 | 33 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/4ZmAbnW3w6YUymH6QkzsuE) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Jingle Bell Rock](https://open.spotify.com/album/7gEXzGjALzCSU1Jbx6cXg3) | 2:24 |
 | 34 | [The Christmas Song](https://open.spotify.com/track/1bhNFAJ9oV7IR9cftCbQD8) | [Steve Erquiaga](https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON) | [The Essential Winter's Solstice](https://open.spotify.com/album/6Fo4dwa90VBEazdDqkecIt) | 3:04 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 64 | [Silver Bells \(Instrumental Version\)](https://open.spotify.com/track/1SAvJB3SuxnZteaz8HsO4u) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [Christmas Hits,Christmas Songs & Christmas](https://open.spotify.com/artist/5q54Ivn39BGY46s48SsktP), [Christmas Songs Music](https://open.spotify.com/artist/2LFuz1xkGUVD4WKr4MF26k) | [Christmas Background Guitar Music](https://open.spotify.com/album/5KopTRQVMOhW1zSP2Ju1wn) | 2:40 |
 | 65 | [Auld Lang Syne](https://open.spotify.com/track/4QXYi1FykH0IS7EzSMiZjP) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Auld Lang Syne](https://open.spotify.com/album/0117x9jVfJF94hR3QPTfkc) | 2:20 |
 
-Snapshot ID: `MTY0MDE4MTY0NSwwMDAwMDAwMDFmNGU0Nzc2OTdhZWI5Mzg5OGM4YTQ2MGRlMWQwZDgz`
+Snapshot ID: `MTY0MDE4MTY0NSwwMDAwMDAwMDI2MmQxMDFiYTkzOWUzOTY4NDg3MGZkYWQ4ZGI1NzA1`

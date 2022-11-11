@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Ashley Gorley
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,285 likes - 204 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,301 likes - 204 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,7 +189,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 179 | [All The Things](https://open.spotify.com/track/24m5SLNQgZ6VDxvgF1LdxV) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [All The Things](https://open.spotify.com/album/2pURs14Vqk24X1f9QnDb7C) | 2:40 |
 | 180 | [When It's My Time](https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [When It's My Time](https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ) | 4:33 |
 | 181 | [Barefoot Blue Jean Night](https://open.spotify.com/track/5CQ1BKIfD8cpMsxn3rdEXm) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Even If It Breaks Your Barefoot Friday Night, Pt\. 1](https://open.spotify.com/album/2TDTiLd5HpKDkX5WxZmBJ3) | 2:56 |
-| 182 | [Walks on Whiskey](https://open.spotify.com/track/7C5KYt5hyCqy0kMAq9jbEQ) | [Brent Anderson](https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT) | [Walks on Whiskey](https://open.spotify.com/album/2WyX2r0I3bvNlE0lnHUK1c) | 2:37 |
+| 182 | [Walks on Whiskey](https://open.spotify.com/track/7zaYW6MyoUVFc4BBq223KN) | [Brent Anderson](https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT) | [Bloodline](https://open.spotify.com/album/1G02UW5fjyMaWVz8q8zSG1) | 2:37 |
 | 183 | [All I Need to See](https://open.spotify.com/track/1nggCj00NY7GRx0CyWcMKY) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [All I Need to See](https://open.spotify.com/album/748lkYrb1zeh6xMQ1ewWJ1) | 4:28 |
 | 184 | [Deeper Than The Holler](https://open.spotify.com/track/0XJJs5CnaQ0mKyFea5s1F0) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Mountaintop](https://open.spotify.com/album/31WOBFBlfjF7qjW3uURoT6) | 3:32 |
 | 185 | [Fire Away](https://open.spotify.com/track/5j4hSQH0KaAc8f6cimnXIT) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:04 |
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 203 | [Red Satin Dress](https://open.spotify.com/track/0k7sELmj9D9rNtVWCyCw4h) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Red Satin Dress](https://open.spotify.com/album/0naK2HyiBWs3NUBmtAt69v) | 4:01 |
 | 204 | [Stuck in High School](https://open.spotify.com/track/4SeZDz0nFQZTjjDImDTQhS) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:11 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGZjOTk0Nzk3OTdmMzllZDFjMzg3M2ZmNmMzYTRjMjBh`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDVhNGY3NzkyODc5YjRkN2JlOWJjYjI2NTA2ZTI5ZGZl`

@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M?si=DqsiTcXFSpaLRstMz7kqfQ">Xhanthi Nokwali</a>
 
-88 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
+90 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,10 @@
 | [Interregnum](https://open.spotify.com/track/18xMi52U1688zPqQVvusMp) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Dialectic Soul](https://open.spotify.com/album/00aLg7RLt0Md1MQ8miFWBf) | 5:09 | 2022-04-28 |  |
 | [Intlokomo](https://open.spotify.com/track/3DOxqzFrfbegRHgX7xn2Du) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Intlokomo](https://open.spotify.com/album/2NDAw04JKZfgGCIwqtlMdG) | 6:58 | 2022-10-20 |  |
 | [Joburg Poem](https://open.spotify.com/track/2HOgtaksnuNreoo6xogBHL) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 3:56 | 2022-05-12 |  |
-| [Joyous](https://open.spotify.com/track/1II6naZsvJLrtjXQgGjztZ) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [Wisdom of Elders](https://open.spotify.com/album/7bOWCR37vGgWis6Nwi7aMC) | 6:43 | 2022-04-28 |  |
-| [Ke Nako](https://open.spotify.com/track/1gDDfrCOFm30vpG3zuDX97) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Ke Nako](https://open.spotify.com/album/5GUTl5jAJTcGaV7Sn54KPx) | 6:49 | 2022-04-28 |  |
+| [Joyous](https://open.spotify.com/track/4eZg8lxVThElRnwl6ZHqBX) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [The Ancestors](https://open.spotify.com/artist/7ePHKxo2J01bxBoXF3ikyy) | [Brownswood 10](https://open.spotify.com/album/0VyTXdyXEsKzrvI6h566GY) | 6:38 | 2022-04-28 |  |
+| [Joyous](https://open.spotify.com/track/1II6naZsvJLrtjXQgGjztZ) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [Wisdom of Elders](https://open.spotify.com/album/7bOWCR37vGgWis6Nwi7aMC) | 6:43 | 2022-04-28 | 2022-11-11 |
+| [Ke Nako](https://open.spotify.com/track/1gDDfrCOFm30vpG3zuDX97) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Ke Nako](https://open.spotify.com/album/5GUTl5jAJTcGaV7Sn54KPx) | 6:49 | 2022-04-28 | 2022-11-11 |
+| [Ke Nako](https://open.spotify.com/track/5CErXmkaO61u6tBZnCho2k) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Indaba Is](https://open.spotify.com/album/3qcN5kODsixA5VcaY37X7T) | 6:49 | 2022-04-28 |  |
 | [Komani](https://open.spotify.com/track/20493T1klNTt4VFVIQFosr) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG), [Tshepo Tsotetsi](https://open.spotify.com/artist/1WePh4qMbrAyRrkTm8Pn7q) | [The Alchemy of Living](https://open.spotify.com/album/6rC96afb0mApTsgQeA7GZb) | 6:43 | 2022-04-28 |  |
 | [Konakele](https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Umthombo](https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV) | 6:29 | 2022-10-20 |  |
 | [Kucheza](https://open.spotify.com/track/6xSE8mjOiwe0qrIpd8YTvc) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 4:32 | 2022-04-28 |  |

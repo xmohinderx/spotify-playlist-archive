@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-226 songs - 17 hr 2 min - [published](https://open.spotify.com/playlist/0Of8ma195u6f1pUyvCxvgT)
+227 songs - 17 hr 7 min - [published](https://open.spotify.com/playlist/0Of8ma195u6f1pUyvCxvgT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Aletheia](https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Aletheia](https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b) | 5:46 | 2021-11-24 | 2022-07-26 |
 | [Alien Boy 96](https://open.spotify.com/track/00VW2IOOsFy7QgcbrfSVrE) | [Sal Dulu](https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV) | [Alien Boy 96](https://open.spotify.com/album/7yj9H1qVQLiLEMBpkFmR7q) | 4:01 | 2021-11-24 | 2022-07-28 |
 | [All That Remains](https://open.spotify.com/track/6SWbKY7mrtDJnMq3yriudU) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [LTDUBS001](https://open.spotify.com/album/0NqWkCFbmkcU4ZePJogaHO) | 8:56 | 2022-04-21 | 2022-04-27 |
-| [Amaya](https://open.spotify.com/track/4XFldIf0Sg9WyvOZ31eZ9U) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Amaya](https://open.spotify.com/album/17NJYAOC4wZDOsujLpoHcb) | 4:42 | 2022-06-20 |  |
+| [Amaya](https://open.spotify.com/track/4XFldIf0Sg9WyvOZ31eZ9U) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Amaya](https://open.spotify.com/album/17NJYAOC4wZDOsujLpoHcb) | 4:42 | 2022-06-20 | 2022-11-11 |
+| [Amaya](https://open.spotify.com/track/5EWHGPbTKPL5nFBkXtJPZE) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Amaya / There Goes My Heart](https://open.spotify.com/album/6dm4NVfdb9bJS8APFBORfY) | 4:42 | 2022-10-28 |  |
 | [Amaya](https://open.spotify.com/track/7F4dTMrS9rmtUqaXR5zBdQ) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Amaya](https://open.spotify.com/album/0R78EHws9OL6UhtFqZ4joz) | 4:42 | 2021-11-24 | 2022-07-29 |
 | [Amelie And Pedro \(Everything Will Be Alright\)](https://open.spotify.com/track/4WfxLKDmEop0H8FBYriBeg) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Dreams Of Pedro](https://open.spotify.com/album/5A5j24XB4qOiAV8WnIWSZV) | 3:58 | 2021-11-24 | 2022-07-13 |
 | [An Irish Goodbye](https://open.spotify.com/track/5yQ6238rfWuh9rnl5edc2M) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [An Irish Goodbye](https://open.spotify.com/album/2rhTQHpF74CCrp5rphznaw) | 5:04 | 2021-11-24 | 2022-07-04 |

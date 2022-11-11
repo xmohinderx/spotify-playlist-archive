@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,033 likes - 61 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,064 likes - 61 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 | 7 | [Hunted Down](https://open.spotify.com/track/49svNTJ8LUOZwGrbbvXYMI) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Telephantasm \(Deluxe Edition\)](https://open.spotify.com/album/7H1360Hm13rF0nEzs1FS8v) | 2:40 |
 | 8 | [Crystals](https://open.spotify.com/track/5f4rnmr9CE7WAHJ3kwvwvj) | [Heroic Doses](https://open.spotify.com/artist/55cwzGJ7U8LrsMptP70w2I) | [Heroic Doses](https://open.spotify.com/album/65UjYVeMrh0D73suWDZmre) | 2:52 |
 | 9 | [Real Men \(Live\)](https://open.spotify.com/track/5SNZLoIt9mPRm3upkWYTHR) | [Savage Republic](https://open.spotify.com/artist/6axnf0hQccT5LWiCewXaPQ) | [Live Trek 1985\-1986](https://open.spotify.com/album/2hVs6bCKNP2xDS450JEFnU) | 3:21 |
-| 10 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 |
+| 10 | [Love Buzz](https://open.spotify.com/track/4AkFvW4VdNDNmVXehylmrr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach \(Deluxe Edition\)](https://open.spotify.com/album/0CqchZDaOxckvjnKKfJh1w) | 3:35 |
 | 11 | [This Town](https://open.spotify.com/track/6bmlymaMLlpfcyWNjn4vRE) | [Green River](https://open.spotify.com/artist/1XIIxzmo6BNRR4QkImSdsX) | [Dry as a Bone/Rehab Doll](https://open.spotify.com/album/1yfs3jV84tLJf7i3dSHEDU) | 3:23 |
 | 12 | [I Saw an X\-Ray of a Girl Passing Gas](https://open.spotify.com/track/2YJWPV8spfJFo9fybOf2CH) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Hairway To Steven](https://open.spotify.com/album/3Izyai1krlLpf4BjUvxMx4) | 4:56 |
 | 13 | [Puke and Cry](https://open.spotify.com/track/2TgkOXNjNOIShvUY3XpNuO) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Green Mind](https://open.spotify.com/album/6O2rF8WIEEUPxxOYqWOacF) | 4:27 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 | 24 | [Fast and Frightening \- Remastered](https://open.spotify.com/track/2oDBfOYXLeIIOpSBSIfnba) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Smell the Magic](https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB) | 2:40 |
 | 25 | [Several Shades Of Why](https://open.spotify.com/track/58VSVDRINMynUpAJnXirjx) | [J Mascis](https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx) | [Several Shades of Why](https://open.spotify.com/album/5RJfLmCq9r4HKa0jKlTfra) | 4:55 |
 | 26 | [Retarded](https://open.spotify.com/track/27zeRVZoiKrZlxsn2qIqH1) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [Up In It](https://open.spotify.com/album/3grbrxtqclZmmdmSsvYBTq) | 3:25 |
-| 27 | [Negative Creep](https://open.spotify.com/track/5IeTFRymTDiza7DciBD1Gk) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:55 |
+| 27 | [Negative Creep](https://open.spotify.com/track/59CuTexkhnoSCBSwjqYE2a) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach \(Deluxe Edition\)](https://open.spotify.com/album/0CqchZDaOxckvjnKKfJh1w) | 2:55 |
 | 28 | [Meet Me At The Movies](https://open.spotify.com/track/5yQnwk9aak8xmbOceWyskW) | [The Go](https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8) | [Whatcha Doin'](https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX) | 3:23 |
 | 29 | [Swallow My Pride](https://open.spotify.com/track/1LvJ1PFobtIm5DwzRrK0jG) | [Green River](https://open.spotify.com/artist/1XIIxzmo6BNRR4QkImSdsX) | [Dry as a Bone/Rehab Doll](https://open.spotify.com/album/1yfs3jV84tLJf7i3dSHEDU) | 2:59 |
 | 30 | [Song About An Angel](https://open.spotify.com/track/5Rolzp0f5a2CLTGLaQlfMd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Live](https://open.spotify.com/album/0r4Z1qXmipZCq3VMVnJnAd) | 6:21 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 | 60 | [Good Enough \- Remastered](https://open.spotify.com/track/2wcpa5PSqWRRx2dQhxDjE4) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Every Good Boy Deserves Fudge \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/12SPtVu2JnT2I6D3RNKMX4) | 3:26 |
 | 61 | [Marijuana](https://open.spotify.com/track/2eTUrr93UBSj7qcZcUOKuw) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Smoke 'em if You Got 'em](https://open.spotify.com/album/1kg7rs0ZaIECwU2WCLS58w) | 4:49 |
 
-Snapshot ID: `MTYxOTE3MjYwNiwwMDAwMDAwMGQyZTE4MDI1YWE4YjI1NDgzM2IyMDU5NzUyOGQzZGZi`
+Snapshot ID: `MTYxOTE3MjYwNiwwMDAwMDAwMDg3NjBhMGI5MDc1Y2QyZjRjNTVlNmJiODVjYzUzNTEx`

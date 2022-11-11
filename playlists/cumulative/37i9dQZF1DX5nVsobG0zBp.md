@@ -4,7 +4,7 @@
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-85 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/7INFH95A083YlsLkQccAbs)
+86 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/7INFH95A083YlsLkQccAbs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 | 2022-10-27 |  |
 | [La Bella Mafia](https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [La Bella Mafia](https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP) | 4:00 | 2022-07-05 |  |
 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 | 2022-07-05 |  |
+| [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 | 2022-11-11 |  |
 | [Lisabona](https://open.spotify.com/track/20BVQh0gMBhzcBpeCRi97F) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Lisabona](https://open.spotify.com/album/3xaElN6GIqBAmlNFrJGgHN) | 3:12 | 2022-07-05 |  |
 | [Louco](https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Louco](https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D) | 4:04 | 2022-07-05 |  |
 | [Lucy Lucy](https://open.spotify.com/track/2TPBDdqlAb6BitW6KC1KjW) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 3:13 | 2022-07-05 | 2022-09-30 |
@@ -56,7 +57,7 @@
 | [Moncler](https://open.spotify.com/track/2jwNTvtfC1JoroZURUspXC) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [Moncler](https://open.spotify.com/album/5V9MRkH3TQlZJKtHJl00kV) | 3:40 | 2022-09-08 |  |
 | [Moça](https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Moça](https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz) | 3:00 | 2022-07-05 |  |
 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 | 2022-07-05 |  |
-| [Noite De Loucura](https://open.spotify.com/track/2V8nMMUbjGSjwSTYfx6zjq) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [NOCAP](https://open.spotify.com/artist/3Btn1ywwqv6SaBQnkWesMb), [SJ](https://open.spotify.com/artist/4CxaWKLsnDdSkSaOtL3zC0) | [Noite De Loucura](https://open.spotify.com/album/4Y3A4edz8Uqya0a1eIk7qn) | 3:35 | 2022-09-30 |  |
+| [Noite De Loucura](https://open.spotify.com/track/2V8nMMUbjGSjwSTYfx6zjq) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [NOCAP](https://open.spotify.com/artist/3Btn1ywwqv6SaBQnkWesMb), [SJ](https://open.spotify.com/artist/4CxaWKLsnDdSkSaOtL3zC0) | [Noite De Loucura](https://open.spotify.com/album/4Y3A4edz8Uqya0a1eIk7qn) | 3:35 | 2022-09-30 | 2022-11-11 |
 | [Num Tás a Ver](https://open.spotify.com/track/20D3MY0otrMTfTgfIbz7jP) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Num Tás a Ver](https://open.spotify.com/album/3EPH6O8BFddFW7YkqX3hYq) | 3:10 | 2022-07-05 | 2022-08-12 |
 | [Nunca Tive Bem](https://open.spotify.com/track/6HbOwNPeSGIWgUaKfVcDbf) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Nunca Tive Bem](https://open.spotify.com/album/6HRgRCbY56jXxVZJ1y3O2H) | 3:33 | 2022-07-05 | 2022-08-19 |
 | [Não há impossíveis](https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Não há impossíveis](https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI) | 2:34 | 2022-09-30 | 2022-10-28 |

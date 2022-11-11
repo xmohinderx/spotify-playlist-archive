@@ -4,7 +4,7 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-127 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
+129 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Keeping Time](https://open.spotify.com/track/2dzeI4sQBhKRyWSGVZwpFa) | [Sam Lynch](https://open.spotify.com/artist/3gIjrIxD8n3BSYH9OqkHLL) | [Little Disappearance](https://open.spotify.com/album/0gMlHbUyWtTK9WjERopNjh) | 4:24 | 2021-12-01 |  |
 | [Let It Be](https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Let It Be](https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9) | 3:42 | 2021-12-01 |  |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-12-01 |  |
-| [Like a River](https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Like a River](https://open.spotify.com/album/3o8nivVQguilisc4zKinYI) | 3:35 | 2021-12-01 |  |
+| [Like a River](https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Like a River](https://open.spotify.com/album/3o8nivVQguilisc4zKinYI) | 3:35 | 2021-12-01 | 2022-11-11 |
+| [Like a River](https://open.spotify.com/track/1eYHadX8TsDknDpv8ZimGU) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [A Place](https://open.spotify.com/album/2hPqFV54abYxY8dcaF4Xmu) | 3:35 | 2021-12-01 |  |
 | [Like a River](https://open.spotify.com/track/2xEharLYp7jvJus10xMvJS) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Like a River](https://open.spotify.com/album/7Jznoh9YHwR7mddNJBIWMu) | 3:35 | 2021-12-01 | 2022-07-29 |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2021-12-01 |  |
 | [Long Way Down](https://open.spotify.com/track/014p05lZqNN7te7TO2xepE) | [Steve Marriner](https://open.spotify.com/artist/3gGtZLqY9EV0wTN8TjygoT) | [Hope Dies Last](https://open.spotify.com/album/7nwgP9aEYcAKWz3NqDz9DH) | 6:26 | 2021-12-01 |  |
@@ -105,8 +106,9 @@
 | [Special Place In Hell](https://open.spotify.com/track/3iCF7e9cDzX4IkrrRPZtoZ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Summer B Sides](https://open.spotify.com/album/7eKRJ0btdxbAPXUe4qPxKt) | 2:19 | 2021-12-01 |  |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2021-12-01 |  |
 | [Surrender](https://open.spotify.com/track/53vcgIyHUsxpeZjcEymEmh) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Young Heart](https://open.spotify.com/album/4qsLVZk1UnizpQJBkbFNdx) | 3:54 | 2021-12-01 |  |
-| [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2021-12-01 |  |
+| [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2021-12-01 | 2022-11-11 |
 | [Sword from the Stone](https://open.spotify.com/track/2CtJDDZiXVryDNAlsGyK5W) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/0LjVT3fUFE8bBh3gjQdzOo) | 3:21 | 2021-12-01 | 2022-07-29 |
+| [Sword from the Stone](https://open.spotify.com/track/5v6Ymyfe9zPlwqzJQzpa5T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sword from the Stone \(Gingerbread Mix\)](https://open.spotify.com/album/0egB2HPIM6cjBA6ustouKs) | 3:21 | 2021-12-01 |  |
 | [that'd be alright](https://open.spotify.com/track/058OqhzpJJMM3q90Skvg2r) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/5MPkrXngz7F6LzCxNsmAZ4) | 2:57 | 2021-12-01 | 2022-10-14 |
 | [that'd be alright](https://open.spotify.com/track/0XQhs9ovprk2yw0QkDjevN) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/6uXhW6yZWHxBMeLlYTEpa6) | 2:57 | 2021-12-01 |  |
 | [that'd be alright](https://open.spotify.com/track/2MuIQnJTw4dEGntnK6MSNn) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [that'd be alright](https://open.spotify.com/album/3Itg7NVVyUe4fUJ8Jt56vP) | 2:57 | 2021-12-01 | 2022-07-29 |

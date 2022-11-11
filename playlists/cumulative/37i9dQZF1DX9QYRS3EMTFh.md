@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-161 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
+162 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Condensed Milk](https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Condensed Milk](https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ) | 3:13 | 2021-12-22 | 2022-02-18 |
 | [Count Your Blessings](https://open.spotify.com/track/2SWBD2z2Hmh0VLirGrM7vM) | [Lamboginny](https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF) | [Count Your Blessings](https://open.spotify.com/album/5EJsDFoL9jqVOsCS2UnXil) | 2:12 | 2022-07-07 | 2022-09-16 |
 | [Dancehall](https://open.spotify.com/track/2sCG5Iwv9GdYNViAs5b7Gy) | [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Wordle Riddim](https://open.spotify.com/album/5Qzyi64m3ak0GXtcd5bemz) | 2:26 | 2022-07-07 | 2022-08-12 |
-| [Dancehall Wine](https://open.spotify.com/track/6ra6I1zN1PXRhTocLdaIfo) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Dancehall Wine](https://open.spotify.com/album/6wW1nEfVxqFVjJpeAXEKQO) | 3:29 | 2022-02-24 |  |
+| [Dancehall Wine](https://open.spotify.com/track/1UFUC9QOnQQPf6g5cAdsWX) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Dancehall Wine](https://open.spotify.com/album/5aolARGoUHmdVDWuOQxIjb) | 3:29 | 2022-11-03 |  |
+| [Dancehall Wine](https://open.spotify.com/track/6ra6I1zN1PXRhTocLdaIfo) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Dancehall Wine](https://open.spotify.com/album/6wW1nEfVxqFVjJpeAXEKQO) | 3:29 | 2022-02-24 | 2022-11-11 |
 | [Don Dadda](https://open.spotify.com/track/211zeYpya3uYHNlFzTKc9v) | [DJ Moiz](https://open.spotify.com/artist/5cjU6BX3PuLO7f510Fa65P), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr) | [Don Dadda](https://open.spotify.com/album/3dDGAjup8cc6F4Kx6VxzjE) | 2:09 | 2021-12-22 | 2022-03-18 |
 | [Down](https://open.spotify.com/track/0gGnXH7QOZZEZWfdyCOSri) | [FLAVAONE](https://open.spotify.com/artist/2GFWpFyxWhrhyv7tDM1Hg8), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr) | [Down](https://open.spotify.com/album/0lEXDwuGHhm6AWWdxc3Uxn) | 2:37 | 2022-01-27 | 2022-05-21 |
 | [Démonstration](https://open.spotify.com/track/1hRCUh4TNlhRWArnbHFkCM) | [Gifta](https://open.spotify.com/artist/6wuOpQpXXEcI7kE8J9HIMb) | [Démonstration](https://open.spotify.com/album/50ynlIGQ3v3b54GIJPqfet) | 2:55 | 2021-12-22 | 2022-04-15 |

@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-300 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+301 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [FORWARD](https://open.spotify.com/track/56IW9O3dVCJ9hdA4TJINVs) | [WASTELAND](https://open.spotify.com/artist/1Nxw0yfsMqk14UsOqMKOXP) | [FORWARD](https://open.spotify.com/album/75OwXvuvF4eU9icYhebnWJ) | 2:39 | 2021-12-07 |  |
 | [fotka](https://open.spotify.com/track/6Xtcf7QFYmF4ye41fkpOh9) | [Dan Betz](https://open.spotify.com/artist/79qPqKymS6xDTlnGzCraZr) | [fotka](https://open.spotify.com/album/6dURtxzLtI0TorlX6kxCk4) | 2:01 | 2021-12-07 |  |
 | [Free](https://open.spotify.com/track/7L0oaIyBSqOT86qby2MmOi) | [nitsche](https://open.spotify.com/artist/2DfvZBcBFe2kL0P2U2Ob6A), [Sleeping Dove](https://open.spotify.com/artist/7zub81qpnE40fRD7Cftke8) | [Free](https://open.spotify.com/album/1gsohCQJjnhKU9pwDd6Ub6) | 2:14 | 2022-08-05 |  |
-| [Free as a Bird](https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf) | 2:16 | 2022-07-29 |  |
+| [Free as a Bird](https://open.spotify.com/track/0ubmEMJ8mepIt4zLQCN1fR) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Relaxing Study Music](https://open.spotify.com/album/6XoR2ZWHiDmUZDNLr8CFrN) | 2:16 | 2022-10-28 |  |
+| [Free as a Bird](https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf) | 2:16 | 2022-07-29 | 2022-11-11 |
 | [Free as a Bird](https://open.spotify.com/track/7Aliz46GPdkIzoo0iHW8aQ) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/3SlSO5PTeflUYsTh4nPWEH) | 2:16 | 2021-12-07 | 2022-07-29 |
 | [Friday Underground](https://open.spotify.com/track/6tUGEKjPjyo76vEROoRdcO) | [Lack Sho](https://open.spotify.com/artist/5MpqGukBLHUlsEb996s3m1) | [Friday Underground](https://open.spotify.com/album/5qD8izfLeybQjPlJ8vlF6C) | 1:56 | 2021-12-07 |  |
 | [Garden Zoo](https://open.spotify.com/track/73O23xizU9YUdLDHF0iRJW) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Phantom Experience & Garden Zoo](https://open.spotify.com/album/4nPJVAKbB3x98ka18j24aD) | 2:28 | 2022-06-24 |  |

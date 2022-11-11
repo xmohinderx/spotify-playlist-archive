@@ -4,7 +4,7 @@
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: The Watcher.
 
-44 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
+46 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,12 @@
 | [Hostage Crisis](https://open.spotify.com/track/3RbI5JNk19sSytyXQDzvI9) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:22 | 2021-10-25 |  |
 | [Kill Party](https://open.spotify.com/track/1wkYDg8BUgjSwdvQVpA6Tw) | [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [There's Someone Inside Your House \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4LDXtYA4wQhjS33Xiw9Bfs) | 0:50 | 2021-10-25 |  |
 | [Lessons of the Fire \(from the Netflix Series "Devil In Ohio"\)](https://open.spotify.com/track/7uCoscfmQbuG1NBfyeaYvy) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Devil in Ohio \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6NGsQGLhikXABCBVJypLiH) | 3:13 | 2022-09-02 |  |
-| [Lights Out](https://open.spotify.com/track/3IcAhCG7vhl5d1hIABoiyF) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe) | 2:22 | 2022-07-15 |  |
+| [Lights Out](https://open.spotify.com/track/1YNt8zvYiVPIdqL1YCDPAc) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/6nHxZpPXe4ODH5DbwzDouz) | 2:22 | 2022-07-15 |  |
+| [Lights Out](https://open.spotify.com/track/3IcAhCG7vhl5d1hIABoiyF) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe) | 2:22 | 2022-07-15 | 2022-11-11 |
 | [Lights Out](https://open.spotify.com/track/4BxIJSZ9HlozFVCSUvjqpX) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/70imhSWOEIsbf9HREtSVbB) | 2:22 | 2021-10-25 | 2022-07-29 |
+| [Locke & Key \- Main Titles](https://open.spotify.com/track/1L7Own1m9dTiwXr0pcdVl1) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key: S2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/29hdImH5Ts5yTf9ICOkkWt) | 1:04 | 2022-07-15 |  |
 | [Locke & Key \- Main Titles](https://open.spotify.com/track/1Zjd1tlVgJQqauMsiyk3an) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/70imhSWOEIsbf9HREtSVbB) | 1:04 | 2021-10-25 | 2022-07-29 |
-| [Locke & Key \- Main Titles](https://open.spotify.com/track/5c9Qhu3OKFm8hN2iOON1cG) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe) | 1:04 | 2022-07-15 |  |
+| [Locke & Key \- Main Titles](https://open.spotify.com/track/5c9Qhu3OKFm8hN2iOON1cG) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe) | 1:04 | 2022-07-15 | 2022-11-11 |
 | [Looking for a Way Out](https://open.spotify.com/track/1yFypxjZLnu1ERv7kH5LFH) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:36 | 2021-10-25 |  |
 | [Main Titles](https://open.spotify.com/track/2JLs1ZuQ6htOgUdbPkG6X6) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Marcus Trumpp](https://open.spotify.com/artist/1O20rSPKDFrFpebGumaJ4k) | [Fear Street Part One: 1994 \(Music from the Netflix Trilogy\)](https://open.spotify.com/album/14lDfNBwgsWmU50wBXgeTM) | 2:07 | 2021-10-25 |  |
 | [My Heart Has Teeth \(feat\. Skylar Grey\)](https://open.spotify.com/track/5zIgxHl35DFqbWvUgr70tn) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Resident Evil \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4yFA6UYsl2PnSC8vHs35Cx) | 4:49 | 2022-07-15 |  |

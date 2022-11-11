@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,024 likes - 88 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,014 likes - 88 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 82 | [Till The Day I Die](https://open.spotify.com/track/5SpA4lQsheBoigqIEgE2bX) | [Lucii](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Till The Day I Die](https://open.spotify.com/album/3jnwP47WGWGwop55Uvj0S7) | 2:30 |
 | 83 | [Facetime](https://open.spotify.com/track/2tEIpLMEMAYXfBSXrqs89p) | [LAXX](https://open.spotify.com/artist/2kDv96OSt2CHxn9zx3pBwx) | [Facetime](https://open.spotify.com/album/4Dxbt4m9TKVhUx5YouFxNj) | 3:39 |
 | 84 | [Thundergun \- Bassex Remix](https://open.spotify.com/track/5nxBoj8KabR4L8c1ycTBAz) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7), [Bassex](https://open.spotify.com/artist/0MtoWwNFjGtsgJemnvGUFN) | [Thundergun](https://open.spotify.com/album/42OE0SKYQLBjG39nIx1rJO) | 5:34 |
-| 85 | [SPOOKY](https://open.spotify.com/track/6ZQDRNzZxLKT3U37jLH9YM) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SPOOKY](https://open.spotify.com/album/1TqPTsC6hbjM5mj0NaotXi) | 3:49 |
+| 85 | [SPOOKY](https://open.spotify.com/track/4uFl2eQxfMAOV3VjobntZ6) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [Monstercat Uncaged Vol\. 3](https://open.spotify.com/album/7zYrClRqHlfvmr2Sz9UjCa) | 3:49 |
 | 86 | [Gore On The Dancefloor](https://open.spotify.com/track/57Y16Yl1Ocu9WC837zQJz1) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [Rico Act](https://open.spotify.com/artist/7MHhTZbxn2XRwXK4s2BFO6) | [Gore On The Dancefloor](https://open.spotify.com/album/1skU1xMU8zPjaoQ7BmI72o) | 3:21 |
 | 87 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 88 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDk1ZGI1YTJmMTI0NjRhNWJjMGE2MzEwMjZlNTAzZTBh`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGNiZmU0ZjI2ZWU1ODEwZTA3Mzg4ZTljNWRkNTgyZGVm`

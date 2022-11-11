@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: WHOKILLEDXIX
 
-173 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
+176 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Doorman](https://open.spotify.com/track/6bTAz3pg5ywBeZHCQoleJB) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Nothing Great About Britain](https://open.spotify.com/album/5fx2Hde8xw2jWPtUKXA73X) | 3:04 | 2022-08-28 |  |
 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-04-25 |  |
 | [Drive in Mind](https://open.spotify.com/track/4nDfSnWHRBDwoeF4YClv09) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Drive in Mind](https://open.spotify.com/album/4fMQjWGXHrUDH7WgomBq6s) | 4:03 | 2021-12-20 | 2022-10-13 |
-| [Drive in Mind](https://open.spotify.com/track/5VhkquQD3tsUvWGWYD80yf) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Drive in Mind](https://open.spotify.com/album/2yCxWTAQ6QhykPHyVshDhG) | 4:03 | 2022-09-29 |  |
+| [Drive in Mind](https://open.spotify.com/track/5VhkquQD3tsUvWGWYD80yf) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Drive in Mind](https://open.spotify.com/album/2yCxWTAQ6QhykPHyVshDhG) | 4:03 | 2022-09-29 | 2022-11-11 |
+| [Drive in Mind](https://open.spotify.com/track/7jmBGAkRdGX16PFfePK2LP) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Have It Your Way](https://open.spotify.com/album/6FcepCfjwFWY6y2ckGT2F1) | 4:03 | 2022-09-29 |  |
 | [dwell on the guilt of saving myself](https://open.spotify.com/track/3FlDAl8qo24cEpAE3MHIC3) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu) | [dwell on the guilt of saving myself](https://open.spotify.com/album/4A1cgR7WJ44YKY4ffQXyyU) | 2:53 | 2021-12-20 | 2022-08-29 |
 | [El Dorado](https://open.spotify.com/track/1G7gjVi7RTnivq0IhKpPfi) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [El Dorado](https://open.spotify.com/album/35sMewPvkGqx8fwPlN7KQP) | 3:55 | 2022-04-04 | 2022-08-19 |
 | [END CREDITS!](https://open.spotify.com/track/5CPC6pA58SIDKwyje76vBR) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 1:55 | 2022-08-28 |  |
@@ -64,8 +65,9 @@
 | [FAMOUS ON THE INTERNET](https://open.spotify.com/track/2Bv5kb0dgXjWMu0kujn0TD) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [FAMOUS ON THE INTERNET](https://open.spotify.com/album/4SKKceJCjDXlUx8NG3UHHG) | 2:54 | 2022-08-05 |  |
 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 | 2021-12-20 | 2022-08-06 |
 | [Finger My Heart](https://open.spotify.com/track/4P2dzCa69sLHk1QmlAVayX) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Finger My Heart](https://open.spotify.com/album/0S7mEp3sUtWTU4GXIcrDQt) | 3:13 | 2022-06-15 |  |
-| [Flux](https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 5:00 | 2022-09-29 |  |
+| [Flux](https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 5:00 | 2022-09-29 | 2022-11-11 |
 | [Flux](https://open.spotify.com/track/59yzTH5FEyyaDXs5Qo5aq7) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/1q959WGOu0ZDfrJnnWRNgD) | 5:00 | 2021-12-20 | 2022-11-06 |
+| [Flux](https://open.spotify.com/track/5ET2CeFXzBbNmR9omHIcOF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/6psazhJGTEJpXZQl4rCxY8) | 5:00 | 2022-09-29 |  |
 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 | 2022-08-05 |  |
 | [G.A.F.F\. \- Edit](https://open.spotify.com/track/0XKak5xVKPYWe6iUP0I8vj) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [G.A.F.F.](https://open.spotify.com/album/0LBGanhBP3hehp5Gy1gF9l) | 4:32 | 2021-12-20 | 2022-02-16 |
 | [Gang](https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Gang](https://open.spotify.com/album/5fCav9SPGNUqATcT0xyA1g) | 3:00 | 2022-09-29 |  |
@@ -114,7 +116,8 @@
 | [MMMOOOAAAAAYAYA](https://open.spotify.com/track/5OEhwuwzSVnmeJdREOBqqk) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:04 | 2022-07-07 | 2022-08-29 |
 | [MMMOOOAAAAAYAYA](https://open.spotify.com/track/6wOT4xSBIfD6oxSv7dGE6S) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [MMMOOOAAAAAYAYA](https://open.spotify.com/album/6vLZTDbsUAVSQu5m0Xn9dJ) | 3:04 | 2021-12-20 | 2022-07-29 |
 | [Monkey Mind](https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Monkey Mind](https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW) | 2:18 | 2022-08-05 | 2022-10-09 |
-| [Monkey Mind](https://open.spotify.com/track/7qvwnde6QuoYGd0xUcevIQ) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Bellevue](https://open.spotify.com/album/7nGrRTsbZWCSCOmziwf5Sy) | 2:18 | 2022-09-29 |  |
+| [Monkey Mind](https://open.spotify.com/track/7HOoBiQPV0GU6Qw6n6xrJT) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Ma Likes to Drink](https://open.spotify.com/album/1Q5GTbJdgsGyTM7fMes8mB) | 2:18 | 2022-09-29 |  |
+| [Monkey Mind](https://open.spotify.com/track/7qvwnde6QuoYGd0xUcevIQ) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Bellevue](https://open.spotify.com/album/7nGrRTsbZWCSCOmziwf5Sy) | 2:18 | 2022-09-29 | 2022-11-11 |
 | [MOTHERFUCKER](https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [MOTHERFUCKER](https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt) | 1:02 | 2022-08-25 |  |
 | [Multitudes](https://open.spotify.com/track/3TAXiOL3dqNo4YkrdyN73S) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Multitudes](https://open.spotify.com/album/2o6CaxhzQScrGCSkIZ0N6q) | 4:35 | 2022-06-15 | 2022-10-13 |
 | [Multitudes](https://open.spotify.com/track/3rue5FCOZVURcIONrQ9YJQ) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Time Bend and Break The Bower](https://open.spotify.com/album/7c6SzIehKQl4m37Saqo3NS) | 4:35 | 2022-09-29 |  |

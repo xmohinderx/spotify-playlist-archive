@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 181800,
       "name": "Ballad Of Forty Dollars",
       "url": "https://open.spotify.com/track/1phh5V7T5JAaiIww22ARZk"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 149200,
       "name": "Burning Memories - Single Version",
       "url": "https://open.spotify.com/track/569rWEzod8v8JX86gO2eX6"
@@ -401,6 +401,28 @@
       "duration_ms": 123360,
       "name": "Chug-A-Lug",
       "url": "https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn"
+    },
+    {
+      "album": {
+        "name": "Country Queens",
+        "url": "https://open.spotify.com/album/6WANlC3gkajxLjCmaCNJdR"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161773,
+      "name": "Crazy - Single Version",
+      "url": "https://open.spotify.com/track/2vILNBzNcHRUqoqaAh1mTu"
     },
     {
       "album": {
@@ -441,7 +463,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
@@ -549,7 +571,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 137120,
       "name": "Does My Ring Hurt Your Finger",
       "url": "https://open.spotify.com/track/6VUXsWN3aNqEhaPawlFjep"
@@ -571,6 +593,24 @@
       "duration_ms": 137493,
       "name": "Does My Ring Hurt Your Finger",
       "url": "https://open.spotify.com/track/4F5vo1LudTGJk4vp19LR4u"
+    },
+    {
+      "album": {
+        "name": "RCA Country Legends: Charley Pride",
+        "url": "https://open.spotify.com/album/3bA7lazF0WlI9qTuO0R5ks"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139960,
+      "name": "Does My Ring Hurt Your Finger",
+      "url": "https://open.spotify.com/track/3HQshYL6S6IGTmxtigbnjL"
     },
     {
       "album": {
@@ -621,7 +661,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 192960,
       "name": "Don't Touch Me",
       "url": "https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb"
@@ -693,10 +733,28 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 133933,
       "name": "Fist City",
       "url": "https://open.spotify.com/track/1YaPhbIo2oKWT5ejlMEL5Z"
+    },
+    {
+      "album": {
+        "name": "Loretta Lynn's Greatest Hits Volume II",
+        "url": "https://open.spotify.com/album/2HATkjMuxRw71Ov2ptqtdB"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Fist City - Single Version",
+      "url": "https://open.spotify.com/track/4pV0usmSRCbH1Ll0KFY1my"
     },
     {
       "album": {
@@ -736,6 +794,24 @@
     },
     {
       "album": {
+        "name": "I Walk the Line: The Best of Johnny Cash",
+        "url": "https://open.spotify.com/album/1mGrMMlLzrfyyvlYOPueu1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161973,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "url": "https://open.spotify.com/track/4koGzbxBQCQf7hBDTuvLoF"
+    },
+    {
+      "album": {
         "name": "At Folsom Prison",
         "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
       },
@@ -747,7 +823,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 162653,
       "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
       "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
@@ -909,7 +985,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 146840,
       "name": "Hello Walls",
       "url": "https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd"
@@ -927,7 +1003,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 197293,
       "name": "Homecoming - Single Version",
       "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
@@ -963,7 +1039,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 238733,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww"
@@ -1234,6 +1310,24 @@
     },
     {
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/3g5uyAp8sS8LnnCxh9y2em"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143946,
+      "name": "Leavin' On Your Mind",
+      "url": "https://open.spotify.com/track/2HNnnkdFfCdeLPUhQJm8wU"
+    },
+    {
+      "album": {
         "name": "Sweet Dreams: Her Complete Decca Masters (1960-1963)",
         "url": "https://open.spotify.com/album/42ClQwOX06MiqvPJ97yoNC"
       },
@@ -1263,7 +1357,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 147026,
       "name": "Leavin' On Your Mind - Single Version",
       "url": "https://open.spotify.com/track/1D2mV1f9QkklP6vy0sdBI9"
@@ -1479,7 +1573,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 146010,
       "name": "Mr. Record Man",
       "url": "https://open.spotify.com/track/66vVLhaUGw1xaABx0jLMo9"
@@ -1551,7 +1645,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 140120,
       "name": "Once a Day",
       "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
@@ -1569,7 +1663,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 152986,
       "name": "One in a Row",
       "url": "https://open.spotify.com/track/2CDh0bBvP0ZAXiibPZvpPC"
@@ -1605,7 +1699,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209160,
       "name": "Phantom 309",
       "url": "https://open.spotify.com/track/2IVpJWwVPGlfSeZ4uXgGb3"
@@ -1774,6 +1868,24 @@
     },
     {
       "album": {
+        "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
+        "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153973,
+      "name": "She Thinks I Still Care",
+      "url": "https://open.spotify.com/track/4WAuEhMDugLPE235mgy3Jx"
+    },
+    {
+      "album": {
         "name": "The New Favorites Of George Jones",
         "url": "https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR"
       },
@@ -1785,7 +1897,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 154800,
       "name": "She Thinks I Still Care",
       "url": "https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP"
@@ -1893,7 +2005,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189573,
       "name": "Standing In The Shadows",
       "url": "https://open.spotify.com/track/5NTDu48JtNkuXzs2Zbc1X1"
@@ -1929,7 +2041,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166973,
       "name": "Still - Single Version",
       "url": "https://open.spotify.com/track/0Q7eey8NSPQEQ3ol75UAAx"
@@ -2019,7 +2131,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 168821,
       "name": "Swinging Doors - Re-Recorded",
       "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
@@ -2059,7 +2171,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160440,
       "name": "Talk Back Trembling Lips",
       "url": "https://open.spotify.com/track/2kc2v1biRvuHJaBozQzfqs"
@@ -2095,7 +2207,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169200,
       "name": "The Carroll County Accident",
       "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
@@ -2207,7 +2319,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 127400,
       "name": "The Race Is On",
       "url": "https://open.spotify.com/track/2LyRC7gfWFJd6JI5i8fTJe"
@@ -2268,6 +2380,24 @@
     },
     {
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0olpLTTyf5mFEpgNcdJzJ9"
+      },
+      "artists": [
+        {
+          "name": "Ferlin Husky",
+          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152800,
+      "name": "Timber I'm Falling",
+      "url": "https://open.spotify.com/track/6tYRg3XkDpjlST4XBMcnjX"
+    },
+    {
+      "album": {
         "name": "Together Again / My Heart Skips a Beat",
         "url": "https://open.spotify.com/album/168zSwI3kwZ1xfXa6x4iap"
       },
@@ -2297,7 +2427,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 147666,
       "name": "Together Again - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/2GFRVCQn8vhDWiwST1alsH"
@@ -2351,7 +2481,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 144200,
       "name": "Walk On By",
       "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
@@ -2409,7 +2539,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 117053,
       "name": "We'll Get Ahead Someday",
       "url": "https://open.spotify.com/track/7mdB5GWRbuWJDxZ2CbarAv"
@@ -2535,7 +2665,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 123240,
       "name": "Yakety Axe",
       "url": "https://open.spotify.com/track/0Lo5YM7ZvIcUnbvnqLMUre"
@@ -2571,7 +2701,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 201173,
       "name": "Yesterday When I Was Young",
       "url": "https://open.spotify.com/track/7nSjdcQueimUqsDsBq7orE"

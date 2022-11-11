@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Violet Bell
 
-212 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
+213 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Father Time](https://open.spotify.com/track/2BtUVOfF9KJdFoUfR7VIqb) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Father Time](https://open.spotify.com/album/4hAgFDtiwPdjzIMxnbK7lJ) | 2:24 | 2022-01-21 |  |
 | [Fish and Bird](https://open.spotify.com/track/550dYYVKfQDzyMXEXENAkn) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Beat the Devil and Carry a Rail](https://open.spotify.com/album/3AdiKjgy86xmuyv7YC12kV) | 5:13 | 2022-01-21 |  |
 | [Fishin'](https://open.spotify.com/track/57R26ENxtPjmBH5qhVuWaX) | [Luisa Marion](https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie) | [Just Memories](https://open.spotify.com/album/39sFZfld2W398U2FJc5yPE) | 3:35 | 2022-05-27 |  |
-| [Folk Bloodbath](https://open.spotify.com/track/3n61p4bD8YnksjhVuONs7a) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Universal Favorite](https://open.spotify.com/album/72BjHzwfZXDbxm1HuiXcAo) | 6:04 | 2022-07-22 |  |
+| [Folk Bloodbath](https://open.spotify.com/track/2YbcwEuGUvVX87MsayxTBi) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [The Ultimate Singer Songwriter Album Vol.1](https://open.spotify.com/album/1bbswlmHOlZxVG4Ft4DDQV) | 6:04 | 2022-10-14 |  |
+| [Folk Bloodbath](https://open.spotify.com/track/3n61p4bD8YnksjhVuONs7a) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Universal Favorite](https://open.spotify.com/album/72BjHzwfZXDbxm1HuiXcAo) | 6:04 | 2022-07-22 | 2022-11-11 |
 | [Folk Bloodbath](https://open.spotify.com/track/7cwPw3wT77MvYo4Q8mcDLk) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Folk Bloodbath](https://open.spotify.com/album/7BUGUk2LXFZUlZFhwHNsVc) | 6:04 | 2021-10-01 | 2022-07-29 |
 | [Freedom](https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Freedom](https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt) | 3:02 | 2022-07-08 |  |
 | [From The Dust](https://open.spotify.com/track/1kDmlwmcDxHS4KSvNQeyg8) | [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [From The Dust](https://open.spotify.com/album/0kLLLg6wjPc9RjJOaHHhZE) | 3:08 | 2022-01-14 |  |

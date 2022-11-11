@@ -853,10 +853,28 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 272066,
       "name": "Breathe Me",
       "url": "https://open.spotify.com/track/2Bo0hh0yoQReC4reJav5DT"
+    },
+    {
+      "album": {
+        "name": "Cry Out",
+        "url": "https://open.spotify.com/album/1BsF3WTnMj05FbFYjCBRYb"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274933,
+      "name": "Breathe Me",
+      "url": "https://open.spotify.com/track/1W4UwB8glajbQPIQHXDPT9"
     },
     {
       "album": {

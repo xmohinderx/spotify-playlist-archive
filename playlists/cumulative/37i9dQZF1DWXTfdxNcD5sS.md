@@ -4,7 +4,7 @@
 
 > We found dancing\. Listen to a selection from <a href="https://www.thewarehouseproject.com/ticketlist">The Warehouse Project</a> to celebrate their return to Manchester this month!
 
-61 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/35TmqE1z8EnbA23NNKAylV)
+64 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/35TmqE1z8EnbA23NNKAylV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [Burning](https://open.spotify.com/track/4zrn6BkANQpp9yKiaKgTaz) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R) | [RTRN II JUNGLE](https://open.spotify.com/album/5TL5mPJjOPiQCcZzEpfuaU) | 3:59 | 2021-09-21 |  |
 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 | 2021-09-21 |  |
 | [Can You See Me?](https://open.spotify.com/track/1lJxzeAVTZ7Hs7B5jFluMl) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Resonant Body](https://open.spotify.com/album/4tCzrHhdqQ8CiM9e3tZR0F) | 8:22 | 2021-09-21 |  |
+| [Can't Do Without You](https://open.spotify.com/track/1wFpgoUnIXCUA9CJiwiW4p) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love \(Expanded Edition\)](https://open.spotify.com/album/1NARQBmcxcYtB30XwFa8Yz) | 3:56 | 2021-09-21 |  |
 | [Can't Do Without You](https://open.spotify.com/track/2f14cB0pXqhgQDeNmQDkXf) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/3JRPfW15UIAdRYuBvNxLkR) | 3:56 | 2021-09-21 | 2022-07-29 |
-| [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 | 2021-09-21 |  |
+| [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 | 2021-09-21 | 2022-11-11 |
 | [Can't Help It](https://open.spotify.com/track/7z2oL4N6nkOY39PXLASCpO) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Can't Help It](https://open.spotify.com/album/4dOyCbf2Qpy6XCrVVSTLBp) | 5:38 | 2021-09-21 |  |
 | [Closing Shot](https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD) | 8:23 | 2021-09-21 |  |
 | [Closing Shot](https://open.spotify.com/track/7iBVGmmFSNhf5ddFK1iCLj) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/4FTzWteiP0vCyT9h3dz7G3) | 8:23 | 2021-09-21 | 2022-07-29 |
@@ -34,7 +35,8 @@
 | [Harder Than You Think](https://open.spotify.com/track/5YpZh8wfS4moRBk0ijNcXr) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [How You Sell Soul to a Soulless People Who Sold Their Soul?](https://open.spotify.com/album/6izTLoTDL2k78sAvpLfHOP) | 4:09 | 2021-09-21 |  |
 | [High Life](https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:21 | 2021-09-21 |  |
 | [Hungry For The Power \- Jamie Jones Ridge Street Mix](https://open.spotify.com/track/6ZiPqZL5U2htruNEYflsYB) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Azari & III](https://open.spotify.com/album/7vd55snhAOrAXNsqxBqX1T) | 6:46 | 2021-09-21 | 2022-07-29 |
-| [Hungry For The Power \- Jamie Jones Ridge Street Remix](https://open.spotify.com/track/0fhsLuoWjfqGIg9ucb3Jab) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Remix Album](https://open.spotify.com/album/2M8DuRnkOsYlM9MAa2XLGr) | 6:46 | 2021-09-21 |  |
+| [Hungry For The Power \- Jamie Jones Ridge Street Remix](https://open.spotify.com/track/0pD9kpqznUhnLSLnYcGPGo) | [AZARI](https://open.spotify.com/artist/4eQ3rdpKpUppzKWHnnly5S), [III](https://open.spotify.com/artist/1PIdgDl8Y7v2CilSXqSqs2), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Hungry For The Power](https://open.spotify.com/album/16vwGGPzqZ4Ldc0Fi3N6go) | 6:46 | 2021-09-21 |  |
+| [Hungry For The Power \- Jamie Jones Ridge Street Remix](https://open.spotify.com/track/0fhsLuoWjfqGIg9ucb3Jab) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Remix Album](https://open.spotify.com/album/2M8DuRnkOsYlM9MAa2XLGr) | 6:46 | 2021-09-21 | 2022-11-11 |
 | [It Makes You Forget \(Itgehane\) \- Edit](https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 3:56 | 2021-09-21 |  |
 | [Keep the Fire Burning](https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [On My Way](https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9) | 5:44 | 2021-09-21 |  |
 | [Kerala](https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:57 | 2021-09-21 |  |
@@ -67,7 +69,8 @@
 | [Weak Become Heroes](https://open.spotify.com/track/4H45wRMStWCWwCLQ8TEz1z) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Original Pirate Material](https://open.spotify.com/album/0hkZGxfsFypXbjq15hM6U9) | 5:32 | 2021-09-21 | 2022-07-29 |
 | [Weak Become Heroes](https://open.spotify.com/track/7yiRZW9cHqDF7Fn5Pgi6MY) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Original Pirate Material](https://open.spotify.com/album/6HAJ0LRCEqJeaCDm2lSsq8) | 5:32 | 2021-09-21 |  |
 | [When A Fire Starts To Burn](https://open.spotify.com/track/1SU92PvmDTowaZGmo5oI82) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Deluxe Version\)](https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp) | 4:43 | 2021-09-21 | 2022-07-29 |
-| [When A Fire Starts To Burn](https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:44 | 2021-09-21 |  |
+| [When A Fire Starts To Burn](https://open.spotify.com/track/4WQ3Eqgy6ouMRRrgsFmysW) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Let's Dance](https://open.spotify.com/album/4silLPOhYilJ0RuXW5Xy1i) | 4:43 | 2021-09-21 |  |
+| [When A Fire Starts To Burn](https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:44 | 2021-09-21 | 2022-11-11 |
 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2021-09-21 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

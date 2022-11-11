@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > Kaitlyn Aurelia Smith immerses us in the subtlety of Ambient and Experimental, with a handpicked selection of sound sculptures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,485 likes - 23 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,498 likes - 23 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

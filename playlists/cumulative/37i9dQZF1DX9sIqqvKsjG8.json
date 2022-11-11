@@ -3694,6 +3694,24 @@
     },
     {
       "album": {
+        "name": "Bathtub Chill",
+        "url": "https://open.spotify.com/album/7syBT7D7kHTJEvzterZLVJ"
+      },
+      "artists": [
+        {
+          "name": "Moments",
+          "url": "https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162173,
+      "name": "Hidcote Garden",
+      "url": "https://open.spotify.com/track/0sh3udsRO3AesM270ctQZR"
+    },
+    {
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/2fYza5rMfZ9tAG7NOcfNJq"
       },
@@ -3723,7 +3741,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 162173,
       "name": "Hidcote Garden",
       "url": "https://open.spotify.com/track/3eKpha3kgGpAhzZ9vtXBnK"
@@ -7629,10 +7647,28 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 120406,
       "name": "Salon musique",
       "url": "https://open.spotify.com/track/3Hv2XS0W9g4FAGzXCOYEnn"
+    },
+    {
+      "album": {
+        "name": "Cooling Down",
+        "url": "https://open.spotify.com/album/7vuY4vwcjMQIDcG4OcgOmc"
+      },
+      "artists": [
+        {
+          "name": "Maxence Cyrin",
+          "url": "https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120406,
+      "name": "Salon musique",
+      "url": "https://open.spotify.com/track/51xoSbJvMA83GVglthhPqL"
     },
     {
       "album": {

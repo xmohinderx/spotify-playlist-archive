@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-180 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
+181 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Dusty](https://open.spotify.com/track/1H6lcREWzGbrL9fQSfhInB) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Dusty](https://open.spotify.com/album/3O0Pka7Pg4PgoF78M8oJjZ) | 2:18 | 2022-04-08 |  |
 | [Echoes](https://open.spotify.com/track/6j7fobMzagIA3dIr8bzY0J) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Echoes](https://open.spotify.com/album/7qVzL9yk9tO8qTaJB2SJ1h) | 1:12 | 2022-04-08 |  |
 | [Ekans](https://open.spotify.com/track/2PaFzDcgVZIHqN8XvV4azQ) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [KEEN: Soft Beats Vol\. 1](https://open.spotify.com/album/3VgJOpq6wEKsHtn2zb7LKi) | 2:20 | 2022-04-08 | 2022-07-29 |
-| [Ekans](https://open.spotify.com/track/7etPnsz665GchBQlo9xoTs) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Beet Tape](https://open.spotify.com/album/4TSN6CGuxQKxsG8dFgBreC) | 2:21 | 2022-07-08 |  |
+| [Ekans](https://open.spotify.com/track/5zca31ADK9AnfE3QMTRDSI) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [KEEN: Soft Beats Vol\. 1](https://open.spotify.com/album/0pawu5M10PjhTcjSEaBcUk) | 2:21 | 2022-07-08 |  |
+| [Ekans](https://open.spotify.com/track/7etPnsz665GchBQlo9xoTs) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Beet Tape](https://open.spotify.com/album/4TSN6CGuxQKxsG8dFgBreC) | 2:21 | 2022-07-08 | 2022-11-11 |
 | [Eve 委亜域](https://open.spotify.com/track/3Fe2Tabm88bSVH5Qy8Xwxs) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Eve 委亜域](https://open.spotify.com/album/77KNFl97O6rkv16mQqCxgG) | 1:26 | 2022-04-08 | 2022-04-22 |
 | [Family](https://open.spotify.com/track/62FZ5BVFbxuUF58FKWrRTo) | [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Kyla Moscovich](https://open.spotify.com/artist/4eo125E0BMCS4qi3xB4pTd) | [Family](https://open.spotify.com/album/5iYzJvoc8wvClT7PvwXoOb) | 2:25 | 2022-04-08 |  |
 | [Fernvale](https://open.spotify.com/track/6lP0M5Lx3ME3TzRijzRwic) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [But First Coffee](https://open.spotify.com/album/07qI7oGYsBI3sWFyuh0JD6) | 1:26 | 2022-04-08 |  |

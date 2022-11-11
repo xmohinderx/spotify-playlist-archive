@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Photo : Melody Gardot",
+  "description": "The best jazz new releases. Photo : Gregory Porter",
   "name": "Jazz Club",
   "published_playlist_ids": [
     "3rs0g3vcnj4aI2NKRtpM5z"
@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "An Ode",
+        "url": "https://open.spotify.com/album/4BEVT3SXNmALzwZOAONfby"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301440,
+      "name": "An Ode",
+      "url": "https://open.spotify.com/track/59C1gt0M1tvtwFdJR0tzX1"
+    },
+    {
+      "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/6XqU4wmYLO897De94LOeNI"
       },
@@ -221,10 +239,28 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 184306,
       "name": "At The Swing Cats Ball",
       "url": "https://open.spotify.com/track/1GuLFlKfwXYGBFwGMb0xgn"
+    },
+    {
+      "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218680,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
     },
     {
       "album": {
@@ -969,7 +1005,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 260926,
       "name": "Ever Ready Sunday",
       "url": "https://open.spotify.com/track/2aCurM3D9ZO5nGStSKDWdJ"
@@ -1282,6 +1318,28 @@
     },
     {
       "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/0ljHzwzMXHRuFAhA8eJZtd"
+      },
+      "artists": [
+        {
+          "name": "Salena Jones",
+          "url": "https://open.spotify.com/artist/48dPFQ4ipCkQEN0QUamKVm"
+        },
+        {
+          "name": "Bart & Baker",
+          "url": "https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140117,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/5af00WOT3Ll62csxZ8qRrz"
+    },
+    {
+      "album": {
         "name": "Be-Bop!",
         "url": "https://open.spotify.com/album/3Iq2Xv9Gsp18CytuKVtOWJ"
       },
@@ -1297,7 +1355,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174066,
       "name": "I'm in a Mess (feat. Samara Joy)",
       "url": "https://open.spotify.com/track/0mlPTJtrfFyrm2RZOI4naT"
@@ -1377,7 +1435,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 181631,
       "name": "It Don't Mean a Thing - Rework",
       "url": "https://open.spotify.com/track/2VAyWXjHrKpMGivAO2w6SY"
@@ -1439,6 +1497,24 @@
       "duration_ms": 186746,
       "name": "Just a friend of mine - Version piano - voix",
       "url": "https://open.spotify.com/track/5QhBRVaWlNYiPI6wY1MLCO"
+    },
+    {
+      "album": {
+        "name": "Just Believe",
+        "url": "https://open.spotify.com/album/3WiKABuiG4cH2pkY5t41oa"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229103,
+      "name": "Just Believe",
+      "url": "https://open.spotify.com/track/4K6JJAUsD4VeTU5mZ7viBk"
     },
     {
       "album": {
@@ -1527,7 +1603,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 341320,
       "name": "Le sablier",
       "url": "https://open.spotify.com/track/4US8lwaJpUGWyVuKUyFPYh"
@@ -1842,6 +1918,24 @@
     },
     {
       "album": {
+        "name": "Unixsity",
+        "url": "https://open.spotify.com/album/6KePYHM3ulBUqQiWYcnw0D"
+      },
+      "artists": [
+        {
+          "name": "Sixun",
+          "url": "https://open.spotify.com/artist/40sdgj5EVgaQEFFp1PPeFa"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294960,
+      "name": "Minor Steps",
+      "url": "https://open.spotify.com/track/4Fp9AjTum16YyfrIj7KTPR"
+    },
+    {
+      "album": {
         "name": "Jazz Contenders",
         "url": "https://open.spotify.com/album/3mXgDyvdLx9UMolgzxemJZ"
       },
@@ -1887,6 +1981,24 @@
       "duration_ms": 557920,
       "name": "Montsouris",
       "url": "https://open.spotify.com/track/2B3maaxBgIUZVGscNP3Mlq"
+    },
+    {
+      "album": {
+        "name": "Live at The Pool",
+        "url": "https://open.spotify.com/album/6M29Sszq5nhmXypZ90scA6"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235004,
+      "name": "Moonlight - Live at The Pool",
+      "url": "https://open.spotify.com/track/6gGTm4ceRg1eE604KhJnXX"
     },
     {
       "album": {
@@ -2035,7 +2147,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 216040,
       "name": "Park Your Car on My Face",
       "url": "https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr"
@@ -2073,7 +2185,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 360360,
       "name": "Part VI: An aod vev",
       "url": "https://open.spotify.com/track/5eMWa076yJjGjHoDlO4IpJ"
@@ -2513,6 +2625,28 @@
       "duration_ms": 245853,
       "name": "Sicily' Box",
       "url": "https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ"
+    },
+    {
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348000,
+      "name": "Siesta (feat. Emeli Sand\u00e9)",
+      "url": "https://open.spotify.com/track/200mXRutkz0x5MSQWyipxS"
     },
     {
       "album": {

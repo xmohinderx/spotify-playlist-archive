@@ -1548,6 +1548,28 @@
     },
     {
       "album": {
+        "name": "Music Teacher (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5chkIczJsQs6S8rNQRIOZx"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263020,
+      "name": "Rimjhim Gire Saawan",
+      "url": "https://open.spotify.com/track/7Fs0kvk3xXMdufTA1NFZFl"
+    },
+    {
+      "album": {
         "name": "Music Teacher",
         "url": "https://open.spotify.com/album/0wSuFl6XVcPuHb9c9cyl4y"
       },
@@ -1597,7 +1619,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 263020,
       "name": "Rimjhim Gire Saawan (From \"Music Teacher\")",
       "url": "https://open.spotify.com/track/79AOaYNZj1pD6HYlzZSkc2"

@@ -4,7 +4,7 @@
 
 > Close the curtains, it's time for some leftfield gems.
 
-163 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/6h0aBJF4DpxBxWLBMOrNnP)
+165 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/6h0aBJF4DpxBxWLBMOrNnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 | 2022-05-06 |  |
 | [Automatic](https://open.spotify.com/track/1mJoT9jDNBeznK6MWh372a) | [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5) | [Automatic](https://open.spotify.com/album/05FGsNlFJ3VpUyMmyqgukr) | 6:17 | 2022-05-26 | 2022-06-30 |
 | [Automatic](https://open.spotify.com/track/6VZurpFydialDEErNv26FH) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Automatic](https://open.spotify.com/album/08W0wkMcNv7bYx3K8Rehlf) | 6:11 | 2022-05-06 | 2022-07-29 |
-| [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 | 2022-08-31 |  |
+| [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 | 2022-08-31 | 2022-11-11 |
+| [B.O.T.A\. \(Baddest of Them All\)](https://open.spotify.com/track/5Ccu0dFiUGhwWL2ytzwbi8) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Daily Pop Mix](https://open.spotify.com/album/3QhVs1hEwCwOihE8bsjIbO) | 5:58 | 2022-09-09 |  |
 | [Baby](https://open.spotify.com/track/4FokLpQRijcH4xTN3fLLVb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Baby](https://open.spotify.com/album/7avcBxKmsxDBMXbikffSEy) | 3:28 | 2022-05-06 | 2022-07-28 |
 | [Bifurcation Towards Chaos](https://open.spotify.com/track/7ilulch8bT3gQy6RH0X1VN) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Bifurcation Towards Chaos](https://open.spotify.com/album/0ExkmUPEOuh9Ib7MnVhjvI) | 4:50 | 2022-05-06 | 2022-07-08 |
 | [Blitz](https://open.spotify.com/track/7EofNNezAKzt0nPeWXjjyA) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [SYS03BLITZ](https://open.spotify.com/album/2dHeINo143XXuJJhi14H7j) | 5:53 | 2022-05-06 | 2022-07-29 |
@@ -74,8 +75,9 @@
 | [I've Felt Better \(Than I Do Now\)](https://open.spotify.com/track/06Cd1X5jSWGGKIya1pAG31) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [I've Felt Better \(Than I Do Now\)](https://open.spotify.com/album/7JvO3QodQZXJHZuXCXgAhM) | 4:20 | 2022-05-26 | 2022-07-09 |
 | [I've Felt Better \- Daniel Avery Remix](https://open.spotify.com/track/776c1GM41sF4ZbWeWiUEgr) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [I've Felt Better \(Daniel Avery Remix\)](https://open.spotify.com/album/6v0NEvA792ns4sxahYn8iB) | 5:12 | 2022-08-15 |  |
 | [Ice Hockey](https://open.spotify.com/track/0iaq9gWwRM8job3idOFTws) | [The Micronaut](https://open.spotify.com/artist/5BNKzWZCbIsQz9zAsg9n6V) | [Ice Hockey](https://open.spotify.com/album/1DCyBW3JXPqtFlQ8lznmnN) | 3:41 | 2022-05-06 | 2022-07-28 |
+| [Idontknow](https://open.spotify.com/track/3NmIAJuV5atSrsbrl567HY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/5UmXh8Pq27MthTNpckRS4z) | 5:21 | 2022-09-09 |  |
 | [Idontknow](https://open.spotify.com/track/55YMj9pA2x7CkC3NmDtBkl) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/05Jf78ScRG8YeX4aLwxjMk) | 5:21 | 2022-05-06 | 2022-07-26 |
-| [Idontknow](https://open.spotify.com/track/7nSBHckG4tTFkp0xqNZDs5) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/1OuBffTkjBqwVVfj9I8hHr) | 5:21 | 2022-07-08 |  |
+| [Idontknow](https://open.spotify.com/track/7nSBHckG4tTFkp0xqNZDs5) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/1OuBffTkjBqwVVfj9I8hHr) | 5:21 | 2022-07-08 | 2022-11-11 |
 | [If U Ever](https://open.spotify.com/track/2z1mqiyWEh4ecNm7q1ajRr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/11ECs9H72FNih398XK8aRI) | 4:48 | 2022-07-08 |  |
 | [If U Ever](https://open.spotify.com/track/6rFoXa2T7l7elYqXxYCvDz) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/5JMBpaWCyG6IlDLReH6hej) | 4:48 | 2022-05-06 | 2022-07-29 |
 | [Into The Light](https://open.spotify.com/track/42NPEbb30IfU6NLnPpLRQq) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 5:01 | 2022-07-08 |  |

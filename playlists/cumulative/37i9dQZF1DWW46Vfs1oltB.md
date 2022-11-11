@@ -4,7 +4,7 @@
 
 > Meet the 10 songs selected by Paloalto at the top of the playlist! You can check the reason for selection through Clips\. \(Cover: Paloalto\) \(팔로알토가 직접 선곡한 10곡을 플레이리스트 상단에서 만나보세요! 선정 이유는 클립스를 통해 확인하실 수 있습니다\. \(커버: 팔로알토\)
 
-666 songs - 1 day 12 hr 48 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+667 songs - 1 day 12 hr 52 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [BROKEN FERRARI](https://open.spotify.com/track/0HDCRQtvg8z1HxKW7uk4G7) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [BROKEN FERRARI](https://open.spotify.com/album/5TDBEuR0ozKPTH2NQPjYkW) | 3:35 | 2022-03-09 | 2022-06-12 |
 | [Brunch](https://open.spotify.com/track/2rCE9eozHmfoqFVPOPHtCe) | [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [Eat it when u nneed it](https://open.spotify.com/album/5OiW24T1l7SUyerZnskqKN) | 2:59 | 2022-02-17 | 2022-06-05 |
 | [Bubble Gum](https://open.spotify.com/track/3JrvloWdt3aQNvHz9eGTqc) | [Jo Gwangil](https://open.spotify.com/artist/26a11HcBOVeX5KANeiuMjY) | [Bubble Gum](https://open.spotify.com/album/6PdpK07kj9Uf5Bs2Xm0isj) | 3:04 | 2022-10-23 |  |
+| [Bucket List \(Feat\. Skinny Brown\)](https://open.spotify.com/track/0ZUa8tF0zbGNvnST6xKHUg) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Time Machine](https://open.spotify.com/album/5zKdvQXlzgQfpHtfinxUgZ) | 3:41 | 2022-11-10 |  |
 | [BUM \(feat\. Chillin Homie & Kid Milli\)](https://open.spotify.com/track/3bZewrcZbZYf7h6udWoDsr) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BUM \(feat\. Chillin Homie & Kid Milli\)](https://open.spotify.com/album/7w9mPTFLGn8yGp1CwKNEAO) | 3:06 | 2022-03-26 | 2022-05-06 |
 | [BUST IT \(Feat\. UNEDUCATED KID\)](https://open.spotify.com/track/2rAjakCurnu8UBGCX4MTQM) | [CROWN J](https://open.spotify.com/artist/0MRiOTUJTYnn2DFzdKwRPH), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [BUST IT](https://open.spotify.com/album/0T5O8zzBxemSL7BIL6jJAu) | 3:33 | 2022-08-20 |  |
 | [cali 2 paris](https://open.spotify.com/track/2BQh6xqyYL8BkThdpxDBlm) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [life like 20](https://open.spotify.com/album/1V8hnIRMTdH0p2TQK6GW2f) | 3:08 | 2022-05-31 | 2022-07-06 |

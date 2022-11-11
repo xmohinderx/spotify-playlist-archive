@@ -704,6 +704,28 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/194zUy4pHTqygWTLbKgcu8"
+      },
+      "artists": [
+        {
+          "name": "Herbert",
+          "url": "https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn"
+        },
+        {
+          "name": "Verushka",
+          "url": "https://open.spotify.com/artist/5StY3t09rFBGADeZbkVyOC"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387853,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/198xNq6X7OCa4lmMu8Y2xH"
+    },
+    {
+      "album": {
         "name": "Musca",
         "url": "https://open.spotify.com/album/2yTDyn7SlB2yOP4CkDbHfn"
       },
@@ -719,7 +741,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 387853,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/22fM5ewOY0suVq5teDadG0"
@@ -1549,7 +1571,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 327292,
       "name": "Pulse VI",
       "url": "https://open.spotify.com/track/2tthSVxYrS6vMRGchANWSL"
@@ -1571,6 +1593,24 @@
       "duration_ms": 327292,
       "name": "Pulse VI",
       "url": "https://open.spotify.com/track/5GvqeuJ8c9a3x5rmdjh0Mn"
+    },
+    {
+      "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/2srVSncOOFBD9mH25YIJM8"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327292,
+      "name": "Pulse VI",
+      "url": "https://open.spotify.com/track/7LNKDRkuLunvJUpT79kYO3"
     },
     {
       "album": {
@@ -2155,10 +2195,28 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 406308,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/0Xeihvze3TQMpho3IW1Tu3"
+    },
+    {
+      "album": {
+        "name": "Zebra",
+        "url": "https://open.spotify.com/album/1YkZ71Fh2rVhCBNUVjxOra"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406308,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/1FDxabar5dSw3d46h40BKK"
     },
     {
       "album": {

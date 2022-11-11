@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > Bare emotions and stripped\-down intensity: a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,585 likes - 85 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,820 likes - 85 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 18 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 |
 | 19 | [So You Wanna Be A Superhero](https://open.spotify.com/track/1m8BbvwAnub1GHOTRiglRx) | [Carissa's Wierd](https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh) | [Songs About Leaving](https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf) | 3:39 |
 | 20 | [Atmosphere](https://open.spotify.com/track/1S6rJx88kWeVGFVnak4BwU) | [Codeine](https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U) | [When I See the Sun](https://open.spotify.com/album/3jXbDGCO6Epu1NYsRS9mDt) | 4:57 |
-| 21 | [Washer](https://open.spotify.com/track/3oNP9Gh1NY4sjqaVUaNjTQ) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 8:50 |
+| 21 | [Washer \- Remastered](https://open.spotify.com/track/6BAU4ZBiEZxOL6cO25KTrx) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland \(remastered\)](https://open.spotify.com/album/3crSdepGPHDSUXAU9y98lG) | 8:49 |
 | 22 | [How to Disappear Completely](https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:56 |
 | 23 | [Maybe Not](https://open.spotify.com/track/5dD7NUzRnC6bSMIz7nAMDa) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [You Are Free](https://open.spotify.com/album/1ILPBTSa7KJCPIs39Bp11d) | 4:16 |
 | 24 | [Grave Filled with Books](https://open.spotify.com/track/7sYOXMXgA34jo9WkXZLEOG) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 4:01 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 26 | [Drinking At The Dam](https://open.spotify.com/track/5Vc3rczlDlpMJ46ZL5OP5Q) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [A River Ain't Too Much To Love](https://open.spotify.com/album/0kippcqNW8l6izCeC3W45D) | 4:07 |
 | 27 | [Coward](https://open.spotify.com/track/7FA6VArIPPFOVwNwWWGwp2) | [Vic Chesnutt](https://open.spotify.com/artist/7EFfGZiKL1Ud3cspnlMq4H) | [At The Cut](https://open.spotify.com/album/4KlCnvatrjbTDV03ENHW4S) | 5:16 |
 | 28 | [River Guard](https://open.spotify.com/track/7CHHKAp6Hi02E3bEoNjvrp) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 6:22 |
-| 29 | [Good Morning, Captain](https://open.spotify.com/track/1BNZMXjqqULiV0DmFU1B8S) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 7:39 |
+| 29 | [Good Morning, Captain \- Remastered](https://open.spotify.com/track/3pF6D6cIb1xz5u6Ln5mtpN) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland \(remastered\)](https://open.spotify.com/album/3crSdepGPHDSUXAU9y98lG) | 7:41 |
 | 30 | [Cry Wolf](https://open.spotify.com/track/7wc3vDNk30wsPhq8rsjcdq) | [Lisa Germano](https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE) | [Geek the Girl](https://open.spotify.com/album/1yZ4bCBoDk01rxjefcoUzq) | 4:59 |
 | 31 | [New Partner](https://open.spotify.com/track/6N3NBd2vrhbH5m8ZHFO6xI) | [Palace Music](https://open.spotify.com/artist/2l7DkzVuYJW700mR7r43un) | [Viva Last Blues](https://open.spotify.com/album/4janwzxTDaebBxPK4mRcWF) | 3:54 |
 | 32 | [Our Way to Fall](https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:18 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 42 | [D](https://open.spotify.com/track/2bMMG4vn7pHC20gj8Yb34m) | [Codeine](https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U) | [Frigid Stars](https://open.spotify.com/album/3a7G9BVcIu4T3kf3jQFrk9) | 4:27 |
 | 43 | [My Life in Art](https://open.spotify.com/track/14Zab7jJKwK89fY4RxXl3N) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Excuses for Travellers](https://open.spotify.com/album/69Kl8ciY9o4lxA4qhdwPZD) | 7:21 |
 | 44 | [Flowers](https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 4:29 |
-| 45 | [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 |
+| 45 | [Exit Music \(For A Film\) \- Remastered](https://open.spotify.com/track/7IjGG1fEIbM6EjlyfYwqni) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ) | 4:25 |
 | 46 | [Lighthouse](https://open.spotify.com/track/10dTTsgL5hPujRahg22tan) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 5:44 |
 | 47 | [Topical Solution](https://open.spotify.com/track/0uwEur2c1HaD1r87plrUbD) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 5:00 |
 | 48 | [Didn't It Rain](https://open.spotify.com/track/4wCO1K82DldGl4tAYgZcgx) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Didn't It Rain \(Deluxe Edition\)](https://open.spotify.com/album/5Q3CKS0VEKKJXpGbXvOrLa) | 7:52 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 56 | [Wop\-A\-Din\-Din](https://open.spotify.com/track/15XoeDfUqg2Q8rp2eOjAFe) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Old Ramon](https://open.spotify.com/album/4rL0RzmHMQyHiZqJVdt7A8) | 5:37 |
 | 57 | [Black Fly](https://open.spotify.com/track/3AXcnekPeKzjol7iQlM0Xx) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Reaching For Indigo](https://open.spotify.com/album/1GBJUdudjxW6w96CkPd6Kg) | 7:26 |
 | 58 | [Medicine Bottle](https://open.spotify.com/track/0HtTmvEzJVpEDkg7mARpxD) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Down Colorful Hill](https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt) | 9:49 |
-| 59 | [The Black Crow](https://open.spotify.com/track/40r39illR2TnU2qKbxAdpS) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [The Lioness](https://open.spotify.com/album/04jd1LvnkBfUGTiEUVmprh) | 7:16 |
+| 59 | [The Black Crow](https://open.spotify.com/track/1cwMN7M8NCNG3INRnRhY9G) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Love & Work: The Lioness Sessions](https://open.spotify.com/album/5imI7M6rw1GfX0M0sbOdjW) | 7:16 |
 | 60 | [Wriding](https://open.spotify.com/track/1hYYF1K49BL636rXNbpyaH) | [Bluetile Lounge](https://open.spotify.com/artist/2PzpdQmH5Y5SpaykJkf3sY) | [Lowercase](https://open.spotify.com/album/7tp9E6sQTbjeHXrXJ0J154) | 8:02 |
 | 61 | [So You Wanna Be A Superhero](https://open.spotify.com/track/1m8BbvwAnub1GHOTRiglRx) | [Carissa's Wierd](https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh) | [Songs About Leaving](https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf) | 3:39 |
 | 62 | [Emp\. Man's Blues](https://open.spotify.com/track/4k8IQYPRkaJHVJ0qe7qHI6) | [The For Carnation](https://open.spotify.com/artist/7LMO4vkA2xYpGYbzsggPbk) | [The For Carnation](https://open.spotify.com/album/1tNPikqGc63Qu4CVsRya6t) | 8:12 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 64 | [Sun Drawing](https://open.spotify.com/track/6AtRvRFkhSiP9518S48WBj) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Day And Night](https://open.spotify.com/album/64SmrtVEj2HwkQyz2Z9GXf) | 3:57 |
 | 65 | [Nothing Left to Say](https://open.spotify.com/track/0MZmVxSYtBphmi5mrgTLXp) | [Tram](https://open.spotify.com/artist/5koTBxO31TIzxRzBvsxzwH) | [Heavy Black Frame](https://open.spotify.com/album/4iEJq1LRPTy6q2kNUDKV3o) | 4:31 |
 | 66 | [Centralia](https://open.spotify.com/track/6LKXHh3LCO3i7v3c8JJwwO) | [Early Day Miners](https://open.spotify.com/artist/7uRuXWkNhoHhzpqDnaEJLJ) | [Let Us Garlands Bring](https://open.spotify.com/album/3Rh7QDb2SSYoJ3d6inKR8c) | 5:09 |
-| 67 | [Tugboat](https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 3:56 |
+| 67 | [Tugboat](https://open.spotify.com/track/5IwrivnMMDar1H7Et13dDc) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [The Portable Galaxie 500](https://open.spotify.com/album/1hjEh9pioJlwgQ8aJoomwP) | 3:54 |
 | 68 | [Into Dust](https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 5:36 |
 | 69 | [Today Is the Day](https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Summer Sun](https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf) | 5:34 |
 | 70 | [The Loom](https://open.spotify.com/track/5GbOaR6pcywF3y60jnN36Z) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 5:15 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 84 | [nail i couldn't bite](https://open.spotify.com/track/0AgghN0YfYSZRilCXOb3do) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [Hypnic Jerks](https://open.spotify.com/album/3M1hjHgDdFdhZKQRAccl8n) | 5:15 |
 | 85 | [Lullaby](https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 9:49 |
 
-Snapshot ID: `MTY0Mjc5OTIwNCwwMDAwMDAwMDdiMmEyMzAwNjE5NmVhNGZhYmU4YTNkNWM0ZWUzOWJl`
+Snapshot ID: `MTY0Mjc5OTIwNCwwMDAwMDAwMDI3NzVhMjNjMWM3MGY1M2ZkM2RmNjk5NzkxMWVkYmNh`

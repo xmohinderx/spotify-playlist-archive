@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Amaz\u00f3nia",
+        "url": "https://open.spotify.com/album/5gULMhBkRl7ZCv35O2K5Xm"
+      },
+      "artists": [
+        {
+          "name": "Lutz",
+          "url": "https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194339,
+      "name": "Amaz\u00f3nia",
+      "url": "https://open.spotify.com/track/2ySZ2kVCZRQ0gJ5Lu0EoxJ"
+    },
+    {
+      "album": {
         "name": "Anan\u00e1s",
         "url": "https://open.spotify.com/album/5MjlR3MAEEhMzwkyWGBLIj"
       },
@@ -741,7 +759,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 258390,
       "name": "Desce Do C\u00e9u",
       "url": "https://open.spotify.com/track/0sL2N1y2f6tjETXH6CLeHY"
@@ -763,6 +781,28 @@
       "duration_ms": 186139,
       "name": "Desconfinamento",
       "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
+    },
+    {
+      "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/4uN3kS3ygEFS7C6SiUY9Lm"
+      },
+      "artists": [
+        {
+          "name": "Deedz B",
+          "url": "https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo"
+        },
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/1TOFRsEFNmlpzHh8ZYtrKv"
     },
     {
       "album": {
@@ -1082,6 +1122,28 @@
     },
     {
       "album": {
+        "name": "Fora D`horas",
+        "url": "https://open.spotify.com/album/7mfiYGtM696gFiaxYdYTMh"
+      },
+      "artists": [
+        {
+          "name": "Giovanni",
+          "url": "https://open.spotify.com/artist/7sMiAzj6PJ8f5yBFoJZgb4"
+        },
+        {
+          "name": "Michell",
+          "url": "https://open.spotify.com/artist/7mQvIzU4Q5g6FNera2Sh3C"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210459,
+      "name": "Fora D`horas",
+      "url": "https://open.spotify.com/track/5P6kaslzOJ0E2dNjV3GMEU"
+    },
+    {
+      "album": {
         "name": "Gang Sta Perigoso",
         "url": "https://open.spotify.com/album/0RT6mxzLlNMrypUs5ivFF1"
       },
@@ -1301,7 +1363,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204320,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
@@ -1976,6 +2038,28 @@
     },
     {
       "album": {
+        "name": "Oskey",
+        "url": "https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex"
+      },
+      "artists": [
+        {
+          "name": "Danni Gato",
+          "url": "https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy"
+        },
+        {
+          "name": "Milo & Fabio",
+          "url": "https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Oskey",
+      "url": "https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod"
+    },
+    {
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/76ly6uvxOSgroiTF89n6PE"
       },
@@ -2461,7 +2545,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 96060,
       "name": "Show na Opp Block",
       "url": "https://open.spotify.com/track/2E4BSZJJMKevs0Vqn129T2"

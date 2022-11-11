@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTJqjNA6xi6.md) - [plain]
 
 > Groove to your family's favorite tracks from Netflix Jr\. Jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329 likes - 20 songs - 53 min 59 sec
+[Spotify](https://open.spotify.com/user/spotify) - 331 likes - 20 songs - 53 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTJqjNA6xi6.md) - [plain]
 | 2 | [Learn Colors / Aprende Colores](https://open.spotify.com/track/6ZRk8w5n6BMtdYfjB6O8pI) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 5](https://open.spotify.com/album/0YXxCsNjl2rb2pirWoy6v0) | 2:22 |
 | 3 | [Action!](https://open.spotify.com/track/4cIatWQ19eqVidOQq8HqON) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 5](https://open.spotify.com/album/0YXxCsNjl2rb2pirWoy6v0) | 2:36 |
 | 4 | [Clean Up](https://open.spotify.com/track/12kYxC3LBisWWjlkIBRNJI) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 5](https://open.spotify.com/album/0YXxCsNjl2rb2pirWoy6v0) | 3:15 |
-| 5 | [Let’s Move! Dance Party](https://open.spotify.com/track/78VhKIYlWIn72RqRSY85kM) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 3:23 |
+| 5 | [Let’s Move! Dance Party](https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9) | 3:23 |
 | 6 | [You're A Star](https://open.spotify.com/track/5XKxjgX5qFGH8fzWe2rWfW) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/1PzABZqe93ZpL887oyqYiK) | 2:46 |
 | 7 | [Good Good Day](https://open.spotify.com/track/3FH6IMkUQAEga9Go1MTfcA) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 4](https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya) | 2:37 |
-| 8 | [The Gratitude Attitude](https://open.spotify.com/track/2DoZ8rKC6xZRfFU9w3EDGJ) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 2:41 |
+| 8 | [The Gratitude Attitude](https://open.spotify.com/track/5EwWxvsNIaWI34KsrBTexe) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz) | 2:41 |
 | 9 | [Thank You!](https://open.spotify.com/track/2mcPaZYZkXZX0jKq8mvbal) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/1PzABZqe93ZpL887oyqYiK) | 2:18 |
 | 10 | [Zoom! Beep! \(Vehicles Song\)](https://open.spotify.com/track/7EBLHzvpsEqKvY4IJApvzP) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 2:11 |
 | 11 | [Wash Your Hands Band](https://open.spotify.com/track/2HtTrP47xipDabsg44Ttas) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/1PzABZqe93ZpL887oyqYiK) | 2:38 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTJqjNA6xi6.md) - [plain]
 | 19 | [Bedtime Stories](https://open.spotify.com/track/5xgBtctAMKBLzbFn6UPyr2) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 4](https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya) | 2:20 |
 | 20 | [I'll Always Love You](https://open.spotify.com/track/6xY7CmImqIfHHlesaUg2oO) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 2:53 |
 
-Snapshot ID: `MTY2MDg5MjQwMCwwMDAwMDAwMDEzNDI1MzM4ODQ0ZWNhMjhkNDkxNzRiM2U0MjExMTgw`
+Snapshot ID: `MTY2MDg5MjQwMCwwMDAwMDAwMDZiNDNlZGZmMmNjNzA3YzliOTE3NDA1MDM3ZjYwMzE3`

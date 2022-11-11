@@ -129,7 +129,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 176373,
       "name": "American Attraction",
       "url": "https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 214520,
       "name": "Blood // Water",
       "url": "https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2020-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208296,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204026,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/3mwLIWu6drN0n6t9e5bwjG"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 181935,
       "name": "Justice",
       "url": "https://open.spotify.com/track/58RS7zR33lYpeMD5zhhfPy"
@@ -1147,6 +1147,24 @@
       "duration_ms": 181935,
       "name": "Justice",
       "url": "https://open.spotify.com/track/5BV0OLRemswcGOPbfcG2w4"
+    },
+    {
+      "album": {
+        "name": "Mohawks & Durags",
+        "url": "https://open.spotify.com/album/4w9TJ5AhaRLidoQQIqgCIt"
+      },
+      "artists": [
+        {
+          "name": "Oxymorrons",
+          "url": "https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Justice",
+      "url": "https://open.spotify.com/track/7t3wGGhgAUeKL8iOBNljYU"
     },
     {
       "album": {
@@ -1251,10 +1269,28 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 185870,
       "name": "Massacre, The New American Dream",
       "url": "https://open.spotify.com/track/3eqGymybwhdpKGVnbclzsL"
+    },
+    {
+      "album": {
+        "name": "Massacre, The New American Dream",
+        "url": "https://open.spotify.com/album/25zMc5oRzmZRPodKWe5F8A"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185870,
+      "name": "Massacre, The New American Dream",
+      "url": "https://open.spotify.com/track/3wj9Op8Vn3M2OBniS0FuFT"
     },
     {
       "album": {
@@ -1305,10 +1341,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 205830,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/4OSWIup9gKCkIdVvdkLEOE"
+    },
+    {
+      "album": {
+        "name": "Soundtrack To Summer 2021 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fc9zXrxkl5Jq7ywXtirNY"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205830,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/5KOtoahQpREKWEmcsqBaXu"
     },
     {
       "album": {
@@ -1413,7 +1467,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 147186,
       "name": "National Anthem",
       "url": "https://open.spotify.com/track/0A216B18ZRLYOrFVBeFbt4"
@@ -2083,7 +2137,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 194160,
       "name": "The Culling",
       "url": "https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj"
@@ -2173,7 +2227,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 180160,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
@@ -2477,7 +2531,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 211026,
       "name": "Weather Strike",
       "url": "https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc"

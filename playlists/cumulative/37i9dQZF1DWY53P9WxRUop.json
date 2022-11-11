@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Another Summertime Jam",
+        "url": "https://open.spotify.com/album/0utua6zEwOWEU4nDvD7N5B"
+      },
+      "artists": [
+        {
+          "name": "Battlebird",
+          "url": "https://open.spotify.com/artist/2pC04M8Mo4SNSMsSEk2FH9"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169722,
+      "name": "Another Summertime Jam",
+      "url": "https://open.spotify.com/track/3MSW5ilujW2T94eBCn3TnP"
+    },
+    {
+      "album": {
         "name": "Whatever Together",
         "url": "https://open.spotify.com/album/2IkzHq61rWmsXQ77F6EC9A"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 169722,
       "name": "Another Summertime Jam",
       "url": "https://open.spotify.com/track/4IdkY2v0qHTg3TJkBPTvh4"
@@ -702,6 +720,24 @@
     },
     {
       "album": {
+        "name": "Best Of Raffi",
+        "url": "https://open.spotify.com/album/3GaCPXbadjZUQrawtkIZuR"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74786,
+      "name": "Mr. Sun",
+      "url": "https://open.spotify.com/track/6n3qzK1msumNEERJI17dWi"
+    },
+    {
+      "album": {
         "name": "Singable Songs for the Very Young",
         "url": "https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH"
       },
@@ -713,7 +749,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 76693,
       "name": "Mr. Sun",
       "url": "https://open.spotify.com/track/68oEtRynOZG9E3yeTBWu3k"

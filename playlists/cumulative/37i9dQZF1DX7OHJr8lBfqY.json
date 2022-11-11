@@ -642,6 +642,24 @@
     },
     {
       "album": {
+        "name": "Cu-Cu-Cu Cumbia!",
+        "url": "https://open.spotify.com/album/7lvrww6BQ2UadzpdQBoEVH"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184626,
+      "name": "Cosas",
+      "url": "https://open.spotify.com/track/5dFI94deOPExXpWJftrQ4B"
+    },
+    {
+      "album": {
         "name": "Cosita Linda",
         "url": "https://open.spotify.com/album/6Vk2TVVMsR68HPiO6993Pa"
       },
@@ -1351,10 +1369,32 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+    },
+    {
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/7oHDXUFvwDlINcakU4SyER"
+      },
+      "artists": [
+        {
+          "name": "Lafame",
+          "url": "https://open.spotify.com/artist/2ap4aQTG8zcKmzRjqlVmMd"
+        },
+        {
+          "name": "Breakfast n Vegas",
+          "url": "https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158853,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/50Avr6gODtPE5eYW3NfBuM"
     },
     {
       "album": {
@@ -1713,7 +1753,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 266213,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
@@ -1801,7 +1841,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213000,
       "name": "Pa'lante y Pa'tras - Remix",
       "url": "https://open.spotify.com/track/0j1Fh9m0wZbvTIl8xIlSKH"
@@ -1845,6 +1885,32 @@
       "duration_ms": 215874,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs"
+    },
+    {
+      "album": {
+        "name": "Porque Te Amo",
+        "url": "https://open.spotify.com/album/1AWscdOtGZaBNvJ9WijEMq"
+      },
+      "artists": [
+        {
+          "name": "Carlitos Padron",
+          "url": "https://open.spotify.com/artist/38dbkIU6l0HQ6s8HENUPhH"
+        },
+        {
+          "name": "Kate Candela",
+          "url": "https://open.spotify.com/artist/20MItJsTq6XRJ3drVZLp3W"
+        },
+        {
+          "name": "Ronald Borjas",
+          "url": "https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238357,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/3JOfmSbjcSGU7nu9bdktX1"
     },
     {
       "album": {
@@ -2222,6 +2288,24 @@
     },
     {
       "album": {
+        "name": "Bachata Queen",
+        "url": "https://open.spotify.com/album/43RLdTuJFdB1AdlJQ9xI7m"
+      },
+      "artists": [
+        {
+          "name": "Alexandra",
+          "url": "https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294864,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/2bsqxGvy8NZUspOL9rRazN"
+    },
+    {
+      "album": {
         "name": "Show",
         "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
       },
@@ -2269,7 +2353,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 188894,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs"

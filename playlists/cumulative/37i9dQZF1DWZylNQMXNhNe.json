@@ -1279,10 +1279,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 132983,
       "name": "Triste com T",
       "url": "https://open.spotify.com/track/34mhUL0A8oPJbg1DWe1HMK"
+    },
+    {
+      "album": {
+        "name": "Triste com T",
+        "url": "https://open.spotify.com/album/6Zb7J5sbItur7GcEBcNzEs"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132983,
+      "name": "Triste com T",
+      "url": "https://open.spotify.com/track/7iTpnFZWdEEgpU6QHvrsvS"
     },
     {
       "album": {

@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 247792,
       "name": "Chocolate Pomegranate",
       "url": "https://open.spotify.com/track/67M0ONQYZV4MmD7QyhNvz3"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 216360,
       "name": "Communication",
       "url": "https://open.spotify.com/track/4qZvLsmG7skj2mk7YRH5WG"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 298192,
       "name": "Distant Lady",
       "url": "https://open.spotify.com/track/61mkzcrrV7CfpggUuCNMib"
@@ -980,6 +980,24 @@
     },
     {
       "album": {
+        "name": "Livid",
+        "url": "https://open.spotify.com/album/6f5Myi1i6uD0lWz82Kx8G9"
+      },
+      "artists": [
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269354,
+      "name": "Livid",
+      "url": "https://open.spotify.com/track/1sW4QPPGdTjbMOiomWyIqQ"
+    },
+    {
+      "album": {
         "name": "A Real Romantic",
         "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
       },
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 269354,
       "name": "Livid",
       "url": "https://open.spotify.com/track/6cYqxLD2d6zdNXIJU3CAbR"
@@ -1308,6 +1326,24 @@
     },
     {
       "album": {
+        "name": "21st Century Funk",
+        "url": "https://open.spotify.com/album/770DSqP3I7AwvIcd5pI6Od"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326229,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/3Bo79uipvzIBiOAG4zJPcm"
+    },
+    {
+      "album": {
         "name": "\"Awaken, My Love!\"",
         "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
       },
@@ -1319,7 +1355,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 326933,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
@@ -1391,10 +1427,28 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 220960,
       "name": "Sending My Love",
       "url": "https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm"
+    },
+    {
+      "album": {
+        "name": "Bedroom Jams",
+        "url": "https://open.spotify.com/album/4lDhUSlM0N1c4VUs9QoV0X"
+      },
+      "artists": [
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221173,
+      "name": "Sending My Love",
+      "url": "https://open.spotify.com/track/2iFEJykQ895vembLmQNa67"
     },
     {
       "album": {
@@ -1475,6 +1529,24 @@
     {
       "album": {
         "name": "Int\u00e9rimes",
+        "url": "https://open.spotify.com/album/4Mbg7s2CRkw2AZa6V0gYXt"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209281,
+      "name": "Stay Up",
+      "url": "https://open.spotify.com/track/2gPkEjYP9glmmjYOTw6dzN"
+    },
+    {
+      "album": {
+        "name": "Int\u00e9rimes",
         "url": "https://open.spotify.com/album/1nmpHf4NsFpH4N1rscRD2e"
       },
       "artists": [
@@ -1547,7 +1619,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 255906,
       "name": "SULA (Paperback)",
       "url": "https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB"
@@ -1569,6 +1641,24 @@
       "duration_ms": 255906,
       "name": "SULA (Paperback)",
       "url": "https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi"
+    },
+    {
+      "album": {
+        "name": "SULA",
+        "url": "https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255906,
+      "name": "SULA (Paperback)",
+      "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
     },
     {
       "album": {

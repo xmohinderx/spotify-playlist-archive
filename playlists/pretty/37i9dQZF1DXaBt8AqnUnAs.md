@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,723 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,810 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 29 | [Odeio essas mentiras](https://open.spotify.com/track/7xJ11ysIukKgx2OHrwij01) | [Tristão](https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Joab Beats](https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh) | [Odeio essas mentiras](https://open.spotify.com/album/2nfK3xCUQ88ix9MaaRZPM7) | 1:48 |
 | 30 | [Tudo Que Cê Quer](https://open.spotify.com/track/3owVuCE1JenyUfQxP5JHDt) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS) | [Tudo Que Cê Quer](https://open.spotify.com/album/3K2MLjC4hP6aXFtumBbZ2O) | 2:22 |
 | 31 | [Roupas no Chão](https://open.spotify.com/track/3qE9OsjCqqqoPt37gteH7c) | [Bob do Contra](https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9), [Slim](https://open.spotify.com/artist/11pesIvjRGgS7uZoRmcNRW) | [Roupas no Chão](https://open.spotify.com/album/1JteEifcbCQHecG2OKq2Dx) | 3:16 |
-| 32 | [Bandida](https://open.spotify.com/track/4fIvS3ICO3hBNgExxAFnpr) | [Andy](https://open.spotify.com/artist/0f5uYANAZI4N7pfQui1EkF), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Bandida](https://open.spotify.com/album/5o7PFqgE2pdaZDM1BCoVfu) | 2:44 |
+| 32 | [Bandida](https://open.spotify.com/track/4fIvS3ICO3hBNgExxAFnpr) | [Andy](https://open.spotify.com/artist/3IHfZEC6zpFC24Ox8T8Q3G), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Bandida](https://open.spotify.com/album/5o7PFqgE2pdaZDM1BCoVfu) | 2:44 |
 | 33 | [Aonde Você Vai](https://open.spotify.com/track/6FDnM5lgZhrReSaG1BdMe6) | [Ceejay](https://open.spotify.com/artist/153LZ8U45hIJBW9o1yu7sG) | [Aonde Você Vai](https://open.spotify.com/album/5uHk8W5iA4Qlo2u4dd3snP) | 2:26 |
 | 34 | [Paris](https://open.spotify.com/track/6elpDIHMkVz82eRatb9tsj) | [Gbzxda](https://open.spotify.com/artist/0FqJvK48dvsnQudqvrfix1) | [Paris](https://open.spotify.com/album/62XZI52lD7pUCTztlLrK44) | 3:18 |
 | 35 | [Planos](https://open.spotify.com/track/1aUFFFit7FQrtDetTz5aOZ) | [Jhow](https://open.spotify.com/artist/53lrUpwDAdUp9ix7Xotwgy), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Planos](https://open.spotify.com/album/2oD4ArW9n7hJm8LFgGbYSB) | 2:36 |

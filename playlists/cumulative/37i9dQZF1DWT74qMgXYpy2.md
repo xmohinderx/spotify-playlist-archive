@@ -4,7 +4,7 @@
 
 > Flute and fiddle, drums and drops.
 
-89 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/2xJUsXL10xTMGcRnqRGJHk)
+90 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/2xJUsXL10xTMGcRnqRGJHk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Chrysalis](https://open.spotify.com/track/2DN7sLF8b1zNteuQF3K0e5) | [Kittel & Co.](https://open.spotify.com/artist/3SMwTQsbZGsqYnMaVXadmp), [Jeremy Kittel](https://open.spotify.com/artist/3uRqP5x3yw7M7lLOD4oRLz), [Joshua Pinkham](https://open.spotify.com/artist/7DjQGyRgHxQKjr7Ix8jwRE), [Nathaniel Smith](https://open.spotify.com/artist/3WQPULFK4VSAsB5tZQJfp3), [Quinn Bachand](https://open.spotify.com/artist/6r3J63PBwd7l52zv71CMof), [Simon Chrisman](https://open.spotify.com/artist/204EbnvfzRWfWxB3fGllvs) | [Whorls](https://open.spotify.com/album/3e7iuxBMDZOrKwqadLX5ux) | 5:36 | 2020-11-11 |  |
 | [Craigs Pipes Set](https://open.spotify.com/track/6hoVvB3I5dDJZJc1MQYI02) | [Éamonn Coyne](https://open.spotify.com/artist/39iXrBtRWk8hVXRV2yHVmo), [Jarlath Henderson](https://open.spotify.com/artist/3GkTA5AsN61gGooCxFMi0O) | [A Celebration of The Music of Gordon Duncan](https://open.spotify.com/album/4bECft961dEBiP8YGnI5Ty) | 4:57 | 2020-11-11 |  |
 | [Day One](https://open.spotify.com/track/1PwJhD1Y652UbAqbNVjQef) | [Rura](https://open.spotify.com/artist/4kKrVjWrGR3f0MfYakhaH8) | [In Praise of Home](https://open.spotify.com/album/2Iy1tDgJBIHS96KOQ9pjl4) | 3:22 | 2020-11-11 |  |
-| [Deep Blue](https://open.spotify.com/track/65OZx87QPkV2aUejnqAwXr) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Avalanche](https://open.spotify.com/album/4ffKraZegxQwhKvK69zuk5) | 4:59 | 2020-11-11 |  |
+| [Deep Blue](https://open.spotify.com/track/65OZx87QPkV2aUejnqAwXr) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Avalanche](https://open.spotify.com/album/4ffKraZegxQwhKvK69zuk5) | 4:59 | 2020-11-11 | 2022-11-11 |
 | [Deep Blue](https://open.spotify.com/track/78M4hy7uAXClDiw0l17VZy) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Avalanche](https://open.spotify.com/album/4iCSh2UuEXmr77K8klL9Ta) | 4:59 | 2020-11-11 | 2022-07-29 |
+| [Deep Blue](https://open.spotify.com/track/7Ar3epMysZVc1b2uHgCXXl) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Deep Blue](https://open.spotify.com/album/7rfiHzh7hFQXL1X3fk4C0J) | 4:59 | 2020-11-11 |  |
 | [Dizzy Blue](https://open.spotify.com/track/029m3I0WPSGMpAnLpo3mOI) | [Duncan Chisholm](https://open.spotify.com/artist/63JJ2jJttIr23DTX1UeDCq) | [Sandwood](https://open.spotify.com/album/1LFHmWrvRQeoZJatu7QLed) | 4:01 | 2020-11-11 | 2022-07-29 |
 | [Dizzy Blue](https://open.spotify.com/track/0nAzhbAFIhNmfw6xMxDZRX) | [Duncan Chisholm](https://open.spotify.com/artist/63JJ2jJttIr23DTX1UeDCq) | [Sandwood](https://open.spotify.com/album/7FYV5bUhaVCM8wBjCCs0wA) | 4:01 | 2020-11-11 |  |
 | [Duck Egg](https://open.spotify.com/track/6ZxEfnpt6fd0Be1JzdhHp1) | [This is How we Fly](https://open.spotify.com/artist/0zppS0FCwxOAiY4DqL7Sx5) | [Foreign Fields](https://open.spotify.com/album/2A9dbLuuHxL240fqAirIZC) | 3:17 | 2020-11-11 |  |

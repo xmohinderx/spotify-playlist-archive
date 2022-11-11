@@ -4,7 +4,7 @@
 
 > Looking for a singer who dominated an era in the Korean music industry and then disappeared, aka 'SUGAR MAN'\. This is the official playlist of JTBC <Sugar Man>\. \(대한민국 가요계의 한 시대를 풍미했다가 사라진 가수, 일명 '슈가맨 \(SUGAR MAN\)'을 찾아갑니다\. JTBC 슈가맨의 오피셜 플레이리스트입니다.\)
 
-24 songs - 1 hr 29 min - not published yet
+25 songs - 1 hr 33 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [별이진다네](https://open.spotify.com/track/6vSlTLPptaokWwBL39Aq64) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [투유프로젝트 \- Sugar Man3 Episode.6](https://open.spotify.com/album/1HvSDEZyIMAgevtxNw69jV) | 3:25 | 2021-08-04 |  |
 | [서방님](https://open.spotify.com/track/6l7GofU09yI7MFJVr9slAH) | [Hoppipolla](https://open.spotify.com/artist/6tuuLiMw18vnZB8hJaodJc) | [투유프로젝트 \- Sugar Man3 Episode.2](https://open.spotify.com/album/4FhtWkUBEynCwQkY9urWJY) | 4:02 | 2021-08-04 |  |
 | [세상은 요지경](https://open.spotify.com/track/59ZLyp7UNdVdSQOHPwz6qh) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [투유프로젝트 \- Sugar Man3 Episode.7](https://open.spotify.com/album/4phijxV42Q96d83k4tGeWz) | 4:28 | 2021-08-04 |  |
-| [슬픈 얼굴 \(Produced by DAVINK\)](https://open.spotify.com/track/12NBDvVP1V20DenNldYEOD) | [러블리즈](https://open.spotify.com/artist/0iXLfVe2AT74DuWxYtEUku) | [투유프로젝트 \- Sugar Man3 Episode.3](https://open.spotify.com/album/7lm4fy4gIFsGgGQs2YP4Ch) | 3:36 | 2021-08-04 |  |
+| [슬픈 얼굴 \(Produced by DAVINK\)](https://open.spotify.com/track/12NBDvVP1V20DenNldYEOD) | [러블리즈](https://open.spotify.com/artist/0iXLfVe2AT74DuWxYtEUku) | [투유프로젝트 \- Sugar Man3 Episode.3](https://open.spotify.com/album/7lm4fy4gIFsGgGQs2YP4Ch) | 3:36 | 2021-08-04 | 2022-11-11 |
+| [슬픈 얼굴 \(Produced by DAVINK\) \(Inst.\)](https://open.spotify.com/track/57OMPu6jizxikhfIZMEfxd) | [러블리즈](https://open.spotify.com/artist/0iXLfVe2AT74DuWxYtEUku) | [투유프로젝트 \- Sugar Man3 Episode.3](https://open.spotify.com/album/7lm4fy4gIFsGgGQs2YP4Ch) | 3:36 | 2021-08-04 |  |
 | [슬픈언약식](https://open.spotify.com/track/41hZADOxxW2hVs5ZpVajzP) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [투유프로젝트 \- Sugar Man3 Episode.8](https://open.spotify.com/album/7DqwV9yB89XrSAw1SlA3pr) | 4:29 | 2021-08-04 |  |
 | [아빠와 함께 뚜비뚜바 \(EDM Ver.\)](https://open.spotify.com/track/3uwptxJs474a97j6gon52G) | [UV](https://open.spotify.com/artist/5M7KE2pbTmSQL32wD4sTG9) | [투유프로젝트 \- Sugar Man3 Episode.5](https://open.spotify.com/album/4ZbgcyI7itYzm7VLHeXK78) | 3:55 | 2021-08-04 |  |
 | [아빠의 말씀 \(Feat\. Sarang\)](https://open.spotify.com/track/0F6hdJwOynqsZT0AAzLCIL) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [김강훈](https://open.spotify.com/artist/5MaHb08RgH51LpQfHUI6EJ), [Sarang](https://open.spotify.com/artist/3dvlk58vxfToLIvhzt1ZvZ) | [투유프로젝트 \- Sugar Man3 Episode.5](https://open.spotify.com/album/4ZbgcyI7itYzm7VLHeXK78) | 3:12 | 2021-08-04 |  |

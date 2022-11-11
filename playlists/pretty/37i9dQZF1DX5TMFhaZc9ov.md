@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Angel Olsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,894 likes - 88 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,930 likes - 88 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 3 | [Amsterdam](https://open.spotify.com/track/3TpqFZxnxNe2qn362Wydz8) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Amsterdam](https://open.spotify.com/album/4LF9PCKsTfcOVnh2ufagbO) | 5:01 |
 | 4 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 |
 | 5 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 |
-| 6 | [Gay Messiah](https://open.spotify.com/track/6d1P91nb0Hk6vpQHQV1zN0) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Want Two](https://open.spotify.com/album/6agP9hBwmPQWWEqt5aerMG) | 3:14 |
+| 6 | [Gay Messiah](https://open.spotify.com/track/6HuYQDa2x7srgKrt3QG6T4) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [True Colors](https://open.spotify.com/album/0Q5MChaGXpiGGDewcfXebW) | 3:14 |
 | 7 | [Closer to Fine](https://open.spotify.com/track/7rKyITVLEwldhdXIy7P6Vw) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Indigo Girls \(Expanded Edition\)](https://open.spotify.com/album/1rkuKm5mDoauq9XKjRV94x) | 4:01 |
 | 8 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
 | 9 | [Loving Her](https://open.spotify.com/track/3Y3fuCPfs1GFJr2BnQ13Ls) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:04 |
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 58 | [All I Want Is to Be Your Girl](https://open.spotify.com/track/3guh1SDKtf0KhA8dIlUY9H) | [Holly Miranda](https://open.spotify.com/artist/0CNehpGYdxk87YYMiBpnyP) | [Holly Miranda](https://open.spotify.com/album/4OLTEQDy4WLfSAydhHfM4a) | 2:35 |
 | 59 | [Everybody Loves You](https://open.spotify.com/track/3f6rsRGCaABn7i8S8N8zmc) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:19 |
 | 60 | [When We Were Writers](https://open.spotify.com/track/4Y20M30nNIN1BAdkYmbWhL) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Country Radio](https://open.spotify.com/album/6K3zbhfBvh3atypKoGzWNT) | 3:54 |
-| 61 | [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 |
+| 61 | [Both Hands](https://open.spotify.com/track/2euBsj5xnafuZMJAP7LJdb) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [iTunes Original Session](https://open.spotify.com/album/3IXuAt2cfriD3hTnCK5GdE) | 3:33 |
 | 62 | [What Mattered Most \- Alternative Version](https://open.spotify.com/track/11Q7CHxH1d4B4E0Qei5JS0) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R) | [Got It Covered](https://open.spotify.com/album/1p6BAFD43hYjgZ5RC8toi7) | 3:53 |
 | 63 | [Other Boys](https://open.spotify.com/track/0UiAguUUtTHDq4ppFEpBfG) | [Paisley Fields](https://open.spotify.com/artist/6tzDsjuTpo8J7qsGfGZvPx) | [Other Boys](https://open.spotify.com/album/3jbFVt4VrqklkWj8uVpLAN) | 3:14 |
 | 64 | [Hurt People \(feat\. Cam\)](https://open.spotify.com/track/0OZzCxO9IY126tDm2aBRHe) | [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Hurt People \(feat\. Cam\)](https://open.spotify.com/album/7wRWbV6A7J1y7nIY63ImzP) | 3:29 |
-| 65 | [Same Old Lines](https://open.spotify.com/track/1iIAth3EApux3r5p61F51e) | [Rod Thomas](https://open.spotify.com/artist/4SpGhDIoQnFKWCmNVcF4pA) | [Until Something Fits](https://open.spotify.com/album/1YZFdfXmzxce7btBAchwkT) | 3:04 |
+| 65 | [Same Old Lines](https://open.spotify.com/track/7DjFa47KnciBUpqGDZuBtk) | [Rod Thomas](https://open.spotify.com/artist/4SpGhDIoQnFKWCmNVcF4pA) | [Same Old Lines](https://open.spotify.com/album/6NtmqFTfgYf2Cnfm7VOI4E) | 3:04 |
 | 66 | [Gentry](https://open.spotify.com/track/1xOcMLmKMhtGIemNEYf9Qf) | [Chris Garneau](https://open.spotify.com/artist/6N6oxcjNigJQq0RWeC49Rg) | [Yours](https://open.spotify.com/album/67hF3IC3XzAaMIgTENY3kN) | 2:57 |
 | 67 | [14 Year Old Me](https://open.spotify.com/track/2evjAEtY3HsI3DLKzbkI9y) | [K Anderson](https://open.spotify.com/artist/2hemxJSBMzRDDHNL6eBVXj) | [14 Year Old Me](https://open.spotify.com/album/30OWSNKICd1uTJBqAuRylQ) | 3:19 |
 | 68 | [Where the Lavender Grows](https://open.spotify.com/track/30VxfPVRLFhtJC7bKqsJgP) | [Mya Byrne](https://open.spotify.com/artist/0dcndkmyjWKrGJfOb0APAi) | [Where the Lavender Grows](https://open.spotify.com/album/5aCbMFO34m2dfADU0vsESG) | 3:14 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 70 | [Take Something Beautiful](https://open.spotify.com/track/4UgxabijzuXvv2dATYQJwH) | [Jen Cloher](https://open.spotify.com/artist/5L8TWHTc67vWhQhL15r4i5) | [Take Something Beautiful: The Songs of Jesse Younan](https://open.spotify.com/album/4gB8Miv66c5YwIa8nV70JW) | 4:30 |
 | 71 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 |
 | 72 | [Departures](https://open.spotify.com/track/3pkyGQVfdP0xI1evK7Efq6) | [Grace Petrie](https://open.spotify.com/artist/4bFdVUzXSr2unwjEoOe5dY) | [Queer As Folk](https://open.spotify.com/album/3m2LYhF9CGykcn6akFTPJH) | 5:39 |
-| 73 | [The Rose Gardener](https://open.spotify.com/track/62CUlkvPtMgQkKrCH7oxLH) | [Bellows](https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My) | [The Rose Gardener](https://open.spotify.com/album/28hPhjhF5nBTjRVgAIq5xb) | 3:44 |
+| 73 | [The Rose Gardener](https://open.spotify.com/track/37m6V2rYD5OaZp9EfFZYYk) | [Bellows](https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My) | [The Rose Gardener](https://open.spotify.com/album/34OI8CDvpCev2oLuUXkK6X) | 3:44 |
 | 74 | [letters to the hospital](https://open.spotify.com/track/22Pipp3pEZF2mRv5UHerSd) | [Mae Krell](https://open.spotify.com/artist/5OJHIYwDJ1TfeaFLYMSqqe) | [anabasis](https://open.spotify.com/album/4jK4azaPNIe9YHSsFxVU0C) | 3:23 |
 | 75 | [Proud Crowd, Pride Cried](https://open.spotify.com/track/01zVQMb2ywEfghDbi4oIKa) | [Ferron](https://open.spotify.com/artist/4Uwxc9WlgyTxlP4iG8rdjb) | [Shadows On A Dime](https://open.spotify.com/album/6pWEVRecWVxW9GuOBQ4P5P) | 6:03 |
 | 76 | [Marjorie](https://open.spotify.com/track/5px0q4BOJoL26xBxeZCqoz) | [Namoli Brennet](https://open.spotify.com/artist/6HhuWH5wX8XGIOYCgsFsdJ) | [Ditch Lilies](https://open.spotify.com/album/2BwDEMJIAwvFw9JzsSnga4) | 2:55 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 87 | [Illuminate the Dark](https://open.spotify.com/track/2hgw4ZGGLwObz7a89jnyhZ) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh) | [Wait](https://open.spotify.com/album/5BqkJ6970fStH2JCAzKcnf) | 2:43 |
 | 88 | [All\-American Boy](https://open.spotify.com/track/7i2xzOJU1O7hrP8kqqBchZ) | [Steve Grand](https://open.spotify.com/artist/0oqk73d6vKVx8Ekz4onThW) | [All American Boy](https://open.spotify.com/album/40nTEfg3tTj1bptrG7IQU0) | 4:57 |
 
-Snapshot ID: `MTY1NDgzMzYwMCwwMDAwMDAwMDBmMzQzM2YxYmUzYWNhYjM5ODg3ZmMxZWUwMzZmMDRk`
+Snapshot ID: `MTY1NDgzMzYwMCwwMDAwMDAwMDMxZTUyNDgwNzNjOWI2ZDM2ODQ0YWM1NDEwODAyMTgx`

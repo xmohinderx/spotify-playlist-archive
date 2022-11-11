@@ -1560,6 +1560,28 @@
     },
     {
       "album": {
+        "name": "HIP HOP HEAT 2022",
+        "url": "https://open.spotify.com/album/1oQHbtE1N6m36tBvUgFqlg"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "Quarantine Thick",
+      "url": "https://open.spotify.com/track/0sbs2bARiQqfYO4fNQqEpO"
+    },
+    {
+      "album": {
         "name": "Quarantine Thick (feat. Mulatto)",
         "url": "https://open.spotify.com/album/6clmqh76lbdiSsZGVrhjIN"
       },
@@ -1597,7 +1619,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 190378,
       "name": "Quarantine Thick (feat. Latto)",
       "url": "https://open.spotify.com/track/4JfCA7yaiEORC7NcKBS9nk"

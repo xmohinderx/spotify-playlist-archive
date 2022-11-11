@@ -4,13 +4,14 @@
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-50 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/2vho8ddDMHol79OpvJocZN)
+51 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/2vho8ddDMHol79OpvJocZN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2000](https://open.spotify.com/track/1aXWYqpdI601RhN7dhLSuR) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [2000](https://open.spotify.com/album/2ziNJ44NFQHr7MH5WUBRs2) | 6:16 | 2021-05-11 |  |
 | [900 Degrees](https://open.spotify.com/track/3nBF7oaQBAY6M2eVuUCnYn) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Since Then\. 2017](https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM) | 6:09 | 2021-05-11 |  |
-| [A Paw In My Face](https://open.spotify.com/track/2Kn4IrAsj0Af2w4PQFTf7r) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [From Here We Go Sublime](https://open.spotify.com/album/5oNWGhIs9vpB6FJ6rv5VuO) | 5:24 | 2021-05-11 |  |
+| [A Paw In My Face](https://open.spotify.com/track/1qnyF50w44srJ81PajqOUC) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [Sun & Ice](https://open.spotify.com/album/1pe3G2bpHfA9hkVNvE86bZ) | 5:24 | 2021-05-11 |  |
+| [A Paw In My Face](https://open.spotify.com/track/2Kn4IrAsj0Af2w4PQFTf7r) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [From Here We Go Sublime](https://open.spotify.com/album/5oNWGhIs9vpB6FJ6rv5VuO) | 5:24 | 2021-05-11 | 2022-11-11 |
 | [Anomaly \- 2016 Reissue](https://open.spotify.com/track/348kJABLDnxa9pFGobIyZh) | [Carl Finlow](https://open.spotify.com/artist/6g7KhV5p6W6oK0gZJkZXZW) | [Beckoned EP](https://open.spotify.com/album/3qlIuw9mIxThgnXboKKCih) | 6:40 | 2021-05-11 |  |
 | [Black Fur](https://open.spotify.com/track/51loDBKDk2hhKZCC9DoSTP) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik) | [Seeds in Sand](https://open.spotify.com/album/4IZtfkdzACIDkdBXq6N5vH) | 4:51 | 2021-05-11 |  |
 | [Borderless II](https://open.spotify.com/track/6r5FHlXksRbAVXXaMvfTiu) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [Imaginary Lines](https://open.spotify.com/album/52TCSSFCj4Zr8KCiijwplp) | 6:22 | 2021-05-11 |  |

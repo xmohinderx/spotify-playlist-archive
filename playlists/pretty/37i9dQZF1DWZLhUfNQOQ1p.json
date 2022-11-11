@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230949,
+  "num_followers": 230938,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDZiMWUyMjFjNTIzZTUzNmEyMGY2ODE3OTdhOGFkY2E2",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDQ0N2Y5OTQyOTI5NTljMjQ5NjFiMzMxMjdmNzFjZjhj",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -471,26 +471,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "One Last Time",
-        "url": "https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX"
-      },
-      "artists": [
-        {
-          "name": "Tyron Hapi",
-          "url": "https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I"
-        },
-        {
-          "name": "Lucas Marx",
-          "url": "https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV"
-        }
-      ],
-      "duration_ms": 150014,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 172027,
       "name": "Movement",
       "url": "https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Never Be the Same (Sons Of Maria vs. Agatha Saron)",
+        "url": "https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Maria",
+          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
+        },
+        {
+          "name": "Agatha Saron",
+          "url": "https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO"
+        }
+      ],
+      "duration_ms": 200131,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -543,22 +543,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Never Be the Same (Sons Of Maria vs. Agatha Saron)",
-        "url": "https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U"
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
       },
       "artists": [
         {
-          "name": "Sons Of Maria",
-          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
-        },
-        {
-          "name": "Agatha Saron",
-          "url": "https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO"
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
         }
       ],
-      "duration_ms": 200131,
-      "name": "Never Be the Same",
-      "url": "https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70"
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -595,18 +591,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
+        "name": "Don't Ever Wonder",
+        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
       },
       "artists": [
         {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+          "name": "Linae",
+          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
         }
       ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
+      "duration_ms": 147367,
+      "name": "Don't Ever Wonder",
+      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -623,22 +619,6 @@
       "duration_ms": 172124,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Don't Ever Wonder",
-        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
-      },
-      "artists": [
-        {
-          "name": "Linae",
-          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
-        }
-      ],
-      "duration_ms": 147367,
-      "name": "Don't Ever Wonder",
-      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -855,22 +835,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
-      },
-      "artists": [
-        {
-          "name": "Crade",
-          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
-        }
-      ],
-      "duration_ms": 196670,
-      "name": "All Good",
-      "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Surf The Orange Water",
         "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
       },
@@ -883,6 +847,22 @@
       "duration_ms": 189880,
       "name": "Violet Breeze",
       "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
+      },
+      "artists": [
+        {
+          "name": "Crade",
+          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
+        }
+      ],
+      "duration_ms": 196670,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -915,6 +895,22 @@
       "duration_ms": 235549,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Follow the Sun",
+        "url": "https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt"
+      },
+      "artists": [
+        {
+          "name": "Gnarly Gibbs",
+          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
+        }
+      ],
+      "duration_ms": 243624,
+      "name": "Follow the Sun",
+      "url": "https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -967,22 +963,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Follow the Sun",
-        "url": "https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt"
-      },
-      "artists": [
-        {
-          "name": "Gnarly Gibbs",
-          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
-        }
-      ],
-      "duration_ms": 243624,
-      "name": "Follow the Sun",
-      "url": "https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Crying Wolf",
         "url": "https://open.spotify.com/album/6lXkNaCZaOwdwc4P0iwn8L"
       },
@@ -1019,6 +999,22 @@
       "duration_ms": 186610,
       "name": "Wishing Well (feat. Olivia Sebastianelli)",
       "url": "https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Carneiros Beach",
+        "url": "https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Robalinho",
+          "url": "https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO"
+        }
+      ],
+      "duration_ms": 222633,
+      "name": "Carneiros Beach",
+      "url": "https://open.spotify.com/track/33NG5U8673kHJAS249qbFb"
     }
   ],
   "unique_name": "Aperitivo Time",

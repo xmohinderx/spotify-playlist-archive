@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 849 likes - 33 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 850 likes - 33 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 24 | [A New View of Politics](https://open.spotify.com/track/2tLBAVvLREIyKdHClrtXkK) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:41 |
 | 25 | [Hannett and Delia synth exchanges track 14](https://open.spotify.com/track/4HdrI3r3t0t4VwikGGhovW) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:01 |
 | 26 | [Frontier of Knowledge](https://open.spotify.com/track/3nHdx0RJhzQih0I21PnIju) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 2:06 |
-| 27 | [Doctor Who Closing Title Theme \- 53" Version](https://open.spotify.com/track/0423txeQ20yYT91cnKYzLI) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- the Sun Makers \(Original Television Soundtrack\)](https://open.spotify.com/album/5CI2PWZGvmov9hh1PFh4j3) | 0:55 |
+| 27 | [Circle of Light, Pt\. 2](https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 10:25 |
 | 28 | [Know Your Car \(Get out and Get Under\)](https://open.spotify.com/track/5mFAUxtxUKV8HbNjhyqoGd) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:59 |
 | 29 | [Hannett and Delia synth exchanges track 9](https://open.spotify.com/track/1kmJMLFVnW7GtqrK37ngN4) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 1:45 |
-| 30 | [Circle of Light, Pt\. 2](https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 10:25 |
-| 31 | [Environmental Studies](https://open.spotify.com/track/6SH4xRo7J9eGtzZTvUIM2w) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:31 |
-| 32 | [Circle of Light, Pt\. 1](https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 21:14 |
+| 30 | [Doctor Who Closing Title Theme \- 53" Version](https://open.spotify.com/track/0423txeQ20yYT91cnKYzLI) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- the Sun Makers \(Original Television Soundtrack\)](https://open.spotify.com/album/5CI2PWZGvmov9hh1PFh4j3) | 0:55 |
+| 31 | [Circle of Light, Pt\. 1](https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 21:14 |
+| 32 | [Environmental Studies](https://open.spotify.com/track/6SH4xRo7J9eGtzZTvUIM2w) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:31 |
 | 33 | [Great Zoos of the World](https://open.spotify.com/track/39fgw4eQFh7AFDXNkchxrJ) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 0:37 |
 
-Snapshot ID: `Mjc4MDA0MzIsMDAwMDAwMDA1YjRmYjg2ZTQyYTlmMGZhYWYyMjNlZTJkZDYxZGNkNw==`
+Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDA4MWUyZjUyZWFmODkyMjkwMmM3NmZjZmJmZDYzMDVlOQ==`

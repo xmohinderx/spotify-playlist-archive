@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Smino
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131,962 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132,360 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 29 | [Matinee](https://open.spotify.com/track/5c5lCOFiMF14K2pzYep4wo) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [Matinee](https://open.spotify.com/album/238YXuMQe6bGCSqZ3A57EY) | 3:08 |
 | 30 | [Cruise Control](https://open.spotify.com/track/53NLq6SSyKSkLBdWkoYrE7) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:26 |
 | 31 | [For DOOM](https://open.spotify.com/track/0xFiDbmCNEcs8TE9hToHpa) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Component System with the Auto Reverse](https://open.spotify.com/album/7bvUQdrsKA3o6lkjV1ZRPk) | 2:02 |
-| 32 | [Ooh Ooh \(feat\. Kamaiyah\)](https://open.spotify.com/track/79Csbflmj17xJiATcjOlB8) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/1IXCMUaQ662JRUz6KOH0IS) | 3:48 |
+| 32 | [Ooh Ooh \(feat\. Kamaiyah\)](https://open.spotify.com/track/0eYbr09DWlQfZSYJTvheeu) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [G Way 3](https://open.spotify.com/album/7hhRY1PXp3mnJy0pchCX04) | 3:48 |
 | 33 | [keep my cool](https://open.spotify.com/track/0C7XJaaDmmrf3jJjjvaMES) | [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [keep my cool](https://open.spotify.com/album/5NRxfb3kyVCr6Kl3rtXoqa) | 1:30 |
 | 34 | [Hold you up \(feat\. Annahstasia & Steven Bamidele\)](https://open.spotify.com/track/0VofOfBQCt2kZkNqMawsqb) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE), [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Get Used To It](https://open.spotify.com/album/3mNfeGxCFJ3fRZotZ7UhSO) | 3:56 |
 | 35 | [BACH TO BACH \(with Dave East\)](https://open.spotify.com/track/4EuMKVhCd9cS7J19KDGDBn) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [BACH TO BACH](https://open.spotify.com/album/1o1D1FTWvq4XDVwABTNPg0) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [PROBLEMS](https://open.spotify.com/track/049jORKYoPsyLsLnDhlthU) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [THE PRICE EP](https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS) | 3:10 |
 | 100 | [The Happy](https://open.spotify.com/track/5e5Tc4ad1BUNHwclgAWMbH) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [The Happy](https://open.spotify.com/album/5mue8Vi6Sxw3vscmf1Nra1) | 2:33 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDNkN2RlMWQ5N2NjZmU5YTZmOTRmNjNhZTczZmY0MmY4`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGJiNGIxNDI3MTUxYjE2YTg3MWM3NjllMTBhN2Q2NGY4`

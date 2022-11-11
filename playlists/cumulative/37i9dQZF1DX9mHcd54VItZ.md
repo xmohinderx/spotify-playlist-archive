@@ -4,7 +4,7 @@
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=iRBNl1GmTFSUQQjaHnjWFA">Hugo Pooe</a>
 
-141 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
+142 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Always Remember](https://open.spotify.com/track/4MFcHNGVFZn3IKGvC5hLxx) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Always Remember](https://open.spotify.com/album/3zb6zrs37yKTXMHdwPFkx9) | 3:49 | 2021-12-09 |  |
 | [Aquarius Girl](https://open.spotify.com/track/7qPMIsXE4pVqzAVIN436va) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 3:38 | 2022-02-10 | 2022-05-27 |
 | [Autobiography of an Evening](https://open.spotify.com/track/0Zn9ANNxd0BvndaB73DXMX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Autobiography of an Evening](https://open.spotify.com/album/22D7FzPzfB5NvHRsRNWQuF) | 3:11 | 2022-04-08 | 2022-09-03 |
-| [Awake](https://open.spotify.com/track/63y0EHsPzQ7BQSBgRVeFO7) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/5PIw46MHfW0Su1TWH3KrlH) | 4:20 | 2022-04-28 |  |
+| [Awake](https://open.spotify.com/track/5sRl0XbDePaW4vMLUzFr2k) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Demons](https://open.spotify.com/album/5SkDGf68176SCGPgtZalKz) | 4:20 | 2022-04-28 |  |
+| [Awake](https://open.spotify.com/track/63y0EHsPzQ7BQSBgRVeFO7) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/5PIw46MHfW0Su1TWH3KrlH) | 4:20 | 2022-04-28 | 2022-11-11 |
 | [Badluck](https://open.spotify.com/track/7kR0o7XKyLiKxqqu98bupO) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 0:52 | 2022-02-10 | 2022-02-18 |
 | [Bag of Bones](https://open.spotify.com/track/4wBeiARY66bJ3FrrEjnlVa) | [Gangsterdam](https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS) | [Bag of Bones](https://open.spotify.com/album/4bpRUM7drDQpbwqhMzJeZ1) | 2:37 | 2022-09-15 |  |
 | [Begin Van Die Einde](https://open.spotify.com/track/7kfWuIVQ0vqTxBA5hAIbzG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Begin Van Die Einde](https://open.spotify.com/album/2BYTNrN2Ct1XkjTtriuqSa) | 3:28 | 2021-02-25 |  |

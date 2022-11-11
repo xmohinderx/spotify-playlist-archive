@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 477630,
       "name": "Apex - Live",
       "url": "https://open.spotify.com/track/5stm0hFXNYDoXKbcKamH95"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 371333,
       "name": "Baby Can't Stop",
       "url": "https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 265192,
       "name": "Feel The Love",
       "url": "https://open.spotify.com/track/39b8jAuutK8EZl0PwAawGC"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 291018,
       "name": "HS",
       "url": "https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 421333,
       "name": "I Feel Space",
       "url": "https://open.spotify.com/track/2XwqNJ0IynowN5SEk3A6wP"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 368000,
       "name": "Moonie",
       "url": "https://open.spotify.com/track/1sd3ZoOJUUmgnGM6FRnzeh"
@@ -1645,7 +1645,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 388569,
       "name": "Tensions",
       "url": "https://open.spotify.com/track/2QQUDbP66s6xGINZZNkICG"
@@ -1961,6 +1961,28 @@
       "duration_ms": 446079,
       "name": "ut i rommet",
       "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
+    },
+    {
+      "album": {
+        "name": "Vegvisir (Nils Olav Remix)",
+        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
+      },
+      "artists": [
+        {
+          "name": "Helene B\u00f8ksle",
+          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
+        },
+        {
+          "name": "Nils Olav",
+          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372838,
+      "name": "Vegvisir (Nils Olav Remix)",
+      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
     },
     {
       "album": {

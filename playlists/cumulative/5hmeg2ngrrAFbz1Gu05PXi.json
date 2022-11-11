@@ -64,6 +64,24 @@
     },
     {
       "album": {
+        "name": "Moderat",
+        "url": "https://open.spotify.com/album/2HEh23ogCT3wiYfag2iMxD"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367306,
+      "name": "A New Error",
+      "url": "https://open.spotify.com/track/1fmoCZ6mtMiqA5GHWPcZz9"
+    },
+    {
+      "album": {
         "name": "The Beauty in All",
         "url": "https://open.spotify.com/album/5YLc9396aArq9HUenhiopz"
       },

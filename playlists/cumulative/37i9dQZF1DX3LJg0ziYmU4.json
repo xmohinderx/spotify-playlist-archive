@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Las Retro Chingonas",
+        "url": "https://open.spotify.com/album/4lYOAQavqEc198FSGiGbQe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141493,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/3RIBgjIFE4UXMGTASfEk1s"
+    },
+    {
+      "album": {
         "name": "Las M\u00e1s Pegadas",
         "url": "https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 141493,
       "name": "Arboles De La Barranca",
       "url": "https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199586,
       "name": "El Viejo Trailero",
       "url": "https://open.spotify.com/track/46605QA3M3kY9wy8XwjWvb"
@@ -909,6 +927,24 @@
       "duration_ms": 199960,
       "name": "El Viejo Trailero",
       "url": "https://open.spotify.com/track/0dw9mfbfA6lbUIgOUFHQEJ"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/6HEyeSX2tv7NzFyJKt44gL"
+      },
+      "artists": [
+        {
+          "name": "Luis y Julian",
+          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "El Viejo Trailero",
+      "url": "https://open.spotify.com/track/1dLGyRAPvlZ2zHeLQ3P99r"
     },
     {
       "album": {
@@ -1013,7 +1049,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 186146,
       "name": "Esta Noche Tu Vendr\u00e1s",
       "url": "https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR"
@@ -1035,6 +1071,24 @@
       "duration_ms": 189493,
       "name": "Esta Noche Tu Vendr\u00e1s",
       "url": "https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ"
+    },
+    {
+      "album": {
+        "name": "Colecci\u00f3n Suprema",
+        "url": "https://open.spotify.com/album/3NxCgx9wXQFB7uNa2JMGf6"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "Esta Noche Tu Vendr\u00e1s",
+      "url": "https://open.spotify.com/track/4vWZBFxSM7tWmNjW6GbFyJ"
     },
     {
       "album": {
@@ -1125,7 +1179,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 186720,
       "name": "La Banda Del Carro Rojo",
       "url": "https://open.spotify.com/track/6WDwbOSL8PGwokjxxZ7FDG"
@@ -1147,6 +1201,24 @@
       "duration_ms": 186720,
       "name": "La Banda Del Carro Rojo",
       "url": "https://open.spotify.com/track/7yTXEoI8CBAgekFhtjjYo5"
+    },
+    {
+      "album": {
+        "name": "Super Cantina Mix",
+        "url": "https://open.spotify.com/album/7CplfGTrsZOAHttNW8vP5z"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186880,
+      "name": "La Banda Del Carro Rojo",
+      "url": "https://open.spotify.com/track/32WjeF4mYiLUkhlrNcXXAd"
     },
     {
       "album": {
@@ -1197,10 +1269,28 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 195613,
       "name": "La Camioneta Gris",
       "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
+    },
+    {
+      "album": {
+        "name": "Mezcla Mexicana",
+        "url": "https://open.spotify.com/album/5RyK7OP8o5WrlqzTAcZau3"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198346,
+      "name": "La Camioneta Gris",
+      "url": "https://open.spotify.com/track/61AMt2RcGeddpfJNPJ0hWD"
     },
     {
       "album": {
@@ -1356,6 +1446,24 @@
     },
     {
       "album": {
+        "name": "Sabor a Tierra Caliente",
+        "url": "https://open.spotify.com/album/4Dd5RkifpUqlgYBsB3myVg"
+      },
+      "artists": [
+        {
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167560,
+      "name": "La Raza Michoacana - Banda",
+      "url": "https://open.spotify.com/track/0LcZV0gcYQ05b2ApGAlHyz"
+    },
+    {
+      "album": {
         "name": "Sus Grandes Exitos - Con Banda",
         "url": "https://open.spotify.com/album/063MoOtxMsfp8QhCcD2OZM"
       },
@@ -1367,7 +1475,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 167560,
       "name": "La Raza Michoacana - Banda",
       "url": "https://open.spotify.com/track/5E3OwMsYmS9HFZaL4Qx12j"
@@ -1572,6 +1680,24 @@
     },
     {
       "album": {
+        "name": "Corridos de Dos Amigos",
+        "url": "https://open.spotify.com/album/14vSxHFO71f3miZt7YDSoR"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/5e98m8vjy4i8lH2t8Dlnye"
+    },
+    {
+      "album": {
         "name": "4 Decadas 20 Corridos",
         "url": "https://open.spotify.com/album/7LBhhgeYof7sFHZY415iOd"
       },
@@ -1605,7 +1731,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 178960,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
@@ -1944,6 +2070,24 @@
     },
     {
       "album": {
+        "name": "\u00c9poca Dorada - 12 \u00c9xitos Originales",
+        "url": "https://open.spotify.com/album/5fkepTkkpKCjcGM5QCWVRM"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194676,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/36FbSb3gmnWEXR9QjnsraQ"
+    },
+    {
+      "album": {
         "name": "Amor Y Lagrimas",
         "url": "https://open.spotify.com/album/0nAiRRJ4rBKWBHoXb9tpDF"
       },
@@ -1973,7 +2117,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 196487,
       "name": "Nadie Es Eterno",
       "url": "https://open.spotify.com/track/4QBymteCSzSkVSq1L4j1mf"
@@ -2387,7 +2531,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 159059,
       "name": "Una Pagina Mas",
       "url": "https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI"
@@ -2413,6 +2557,24 @@
       "duration_ms": 162560,
       "name": "Una Pagina Mas",
       "url": "https://open.spotify.com/track/1unjR8FZH1420qfXCFFdKD"
+    },
+    {
+      "album": {
+        "name": "20 Kilates Musicales",
+        "url": "https://open.spotify.com/album/5iyRpVt6gDq3Ye12OBQnTb"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162560,
+      "name": "Una P\u00e1gina M\u00e1s",
+      "url": "https://open.spotify.com/track/14e0rd9AI4WGrOp7YnRyZl"
     },
     {
       "album": {

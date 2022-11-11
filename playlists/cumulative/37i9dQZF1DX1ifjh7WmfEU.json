@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 180000,
       "name": "Ichi",
       "url": "https://open.spotify.com/track/0UkREomqApLByCfaqCkLIU"
@@ -1169,6 +1169,28 @@
       "duration_ms": 180000,
       "name": "Ichi",
       "url": "https://open.spotify.com/track/3nWfKsWoaCSH7Z6vNN2v8X"
+    },
+    {
+      "album": {
+        "name": "Sayuru",
+        "url": "https://open.spotify.com/album/4mghw6f4bbNJDMqpBPimGb"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Yoko Komatsu",
+          "url": "https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ichi",
+      "url": "https://open.spotify.com/track/73HaoXa8YdZlfAmcbMl8oI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 
 > Listen to the brand new album 'Ignorance is Bliss' and all his biggest tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,462 likes - 62 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,505 likes - 62 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 | 23 | [Pure Water](https://open.spotify.com/track/1ATVSVN4kc8S2XE7FdyJi8) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Pure Water](https://open.spotify.com/album/04MjqJpLKAJR9MmJlXtRDm) | 3:07 |
 | 24 | [Konnichiwa](https://open.spotify.com/track/0Yo9iPwWq7sLuFgoglnTb4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Konnichiwa](https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk) | 3:16 |
 | 25 | [Same Shit Different Day](https://open.spotify.com/track/4Snl7mdnpfrnWaw07wJB79) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Blacklisted](https://open.spotify.com/album/1w9JFLfJEGPibnydqQlPAO) | 2:34 |
-| 26 | [Lyrics](https://open.spotify.com/track/5kzHkRmphRbt6ZwEmgd7RQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Konnichiwa](https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk) | 2:36 |
+| 26 | [Lyrics](https://open.spotify.com/track/78ZuWOhSr5ZirG2Jk5tp31) | [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Grime 2016](https://open.spotify.com/album/5PABUQID3hpBnJPF6FJGPH) | 2:36 |
 | 27 | [Hypocrisy](https://open.spotify.com/track/1hcA9GJvVb1ThNtJJDlu9U) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Hypocrisy](https://open.spotify.com/album/3Bi5rwKoosCqbLh0PW5V1g) | 3:12 |
 | 28 | [Wish You Were Here](https://open.spotify.com/track/2nHa4cHT0pEeZz5NDjXG9B) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Wish You Were Here](https://open.spotify.com/album/1GuUfJXa7gUsNdjZoS8Mja) | 3:15 |
 | 29 | [Stay with It](https://open.spotify.com/track/7FhT2XEZNrCZiNeHt1vfDZ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE), [Shailan](https://open.spotify.com/artist/0jaDz9uj9edaYktNX1sgQb) | [Stay with It](https://open.spotify.com/album/7uBG7N2HrRToiENJjOGq1L) | 3:56 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 | 34 | [Look Out](https://open.spotify.com/track/4eBxXC8Gknerc35BsQ424w) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 4:19 |
 | 35 | [Put That On My Set \(feat\. A$AP Rocky & Skepta\)](https://open.spotify.com/track/2kwxN1whHc0YR0cBHR5iOi) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cozy Tapes: Vol\. 1 Friends \-](https://open.spotify.com/album/3RaACfwYTY9uiDy3VSWLLc) | 3:21 |
 | 36 | [Tour Bus Massacre](https://open.spotify.com/track/7tk3A7ykNdNPRhJHzaZZnJ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Blacklisted](https://open.spotify.com/album/1w9JFLfJEGPibnydqQlPAO) | 3:05 |
-| 37 | [Lush](https://open.spotify.com/track/29UcBXrnY3sOsj7Rk9i8NC) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Lush](https://open.spotify.com/album/3IohPToAbg1vSgsX6BnIg6) | 2:46 |
+| 37 | [Lush](https://open.spotify.com/track/7aqXyUkthMNteQz3bm1QCq) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Lush](https://open.spotify.com/album/3ECz7PCncaV9aWNA9XVWVv) | 2:48 |
 | 38 | [Over the Top](https://open.spotify.com/track/5o54tiWbHESJ5RHBIbRnvi) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 2:51 |
 | 39 | [Can You Hear Me? \(Ayayaya\) \(feat\. Skepta, Jme & Ms D\)](https://open.spotify.com/track/0zmMSFU9c46I2mmw34a4XF) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [MSD](https://open.spotify.com/artist/6SoJMemX8iYocIPrGioXYv), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Noughties Hits](https://open.spotify.com/album/38d7EZ8T6z6DHZhaBtymB1) | 3:52 |
 | 40 | [Energy](https://open.spotify.com/track/7IMqgNhzeFbxK0kOwNgybQ) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Energy](https://open.spotify.com/album/2hIvVt0wi9fFvX5wV8lfRa) | 3:12 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 | 46 | [Way Too Much](https://open.spotify.com/track/5QTi5RGn46YFOx4v5s2IEX) | [Fekky](https://open.spotify.com/artist/0lVH4ReyYkoPMxFDzCQSgO), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [El Clasico](https://open.spotify.com/album/4C3jf89EnhxLDGcUG8V05H) | 3:38 |
 | 47 | [Overseas](https://open.spotify.com/track/5cVdrtWoXNFT2Lm8vAnEzX) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Overseas](https://open.spotify.com/album/5BFSJY7MZsHhMfJuJ5kg8e) | 3:05 |
 | 48 | [Numbers](https://open.spotify.com/track/1BHquBolJN628btHI6X0vq) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Konnichiwa](https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk) | 3:18 |
-| 49 | [Doin' It Again](https://open.spotify.com/track/3PdX0E7WTju71Y9Jpinvw4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Greatest Hits](https://open.spotify.com/album/0AyaZjU2ofiBtPlJXk0Epv) | 3:49 |
+| 49 | [Doin It Again](https://open.spotify.com/track/2bYObLbaQMA2rW22GF8QsR) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [I Love Grime](https://open.spotify.com/album/513UafOnlE2RUe7TAsZWJ3) | 3:43 |
 | 50 | [Bad Boy](https://open.spotify.com/track/2Mx5P3F1d0y1GA3ysNfdm6) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Bad Boy](https://open.spotify.com/album/1VAkmI2ADbl8e85MOtaMcg) | 2:51 |
 | 51 | [Might As Well](https://open.spotify.com/track/6mIlDvfn3OwEi4mQfpGwyK) | [C\. Biz](https://open.spotify.com/artist/6LAhIgGsYJAEwmpQ8EEywM), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Free H](https://open.spotify.com/album/78Vu11gTgQynGdw4LjCqMQ) | 2:34 |
 | 52 | [Sunglasses at Night \- Radio Edit](https://open.spotify.com/track/1emn8uOfuaO6a8jXhUJnkj) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Sunglasses at Night](https://open.spotify.com/album/2wnlIWUAKPifsJChIR6II2) | 2:21 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 | 61 | [Coming Soon](https://open.spotify.com/track/7F52tArntesgjZT9t8rp6L) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Makonnen & Ceon](https://open.spotify.com/artist/0r7BTt9apQmeFMiFM10CYn) | [Coming Soon](https://open.spotify.com/album/5SRuNtAVE7SZ0GgUHvbIQC) | 3:40 |
 | 62 | [Make Peace Not War](https://open.spotify.com/track/1YHC7vYpLhkUMftjYJFUat) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Make Peace Not War](https://open.spotify.com/album/1TMGC0h58KA11cE9yZfq9b) | 3:14 |
 
-Snapshot ID: `MTU1OTI1NzI2MCwwMDAwMDAwMDQxNTdmMjE4YTA0YjM5ZDAxZDM4ZDc5YWQzODQ0MzAz`
+Snapshot ID: `MTU1OTI1NzI2MCwwMDAwMDAwMDc2ZDNjZDU1YzhhNjA4MTIyMzQwMDY0ZmY0NzY1ODRm`

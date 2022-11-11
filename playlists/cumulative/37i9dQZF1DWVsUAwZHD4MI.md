@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-86 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/3yQMXI3L8r8uiVbAjwi08d)
+89 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/3yQMXI3L8r8uiVbAjwi08d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,11 +16,13 @@
 | [Bicstan](https://open.spotify.com/track/0ijKkR37HK5zOX2hm5bOqv) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU) | 4:45 | 2022-09-05 |  |
 | [Blue Racecar](https://open.spotify.com/track/4vWY7fEgnUqsohnF5nwtMM) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Blue Racecar](https://open.spotify.com/album/3l6rBN7m3rj2qZRim5tk1V) | 3:32 | 2022-09-05 |  |
 | [BREAK MY SOUL \- Nita Aviance Club Mix](https://open.spotify.com/track/4r5CZANZYfNIgAQDJiIMV5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Nita Aviance](https://open.spotify.com/artist/2iKgmLk2mJU1hqI9mGC43K) | [BREAK MY SOUL REMIXES](https://open.spotify.com/album/43geArd3U23pTVjqzTSnkI) | 9:54 | 2022-09-05 |  |
-| [Catastral](https://open.spotify.com/track/0zahQZiY4j3EiwFxLd7rAO) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Catastral](https://open.spotify.com/album/72bJcpMKicXWaHt322G6as) | 3:13 | 2022-09-05 |  |
+| [Catastral](https://open.spotify.com/track/0zahQZiY4j3EiwFxLd7rAO) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Catastral](https://open.spotify.com/album/72bJcpMKicXWaHt322G6as) | 3:13 | 2022-09-05 | 2022-11-11 |
 | [Catastral](https://open.spotify.com/track/3MEAIsuHmcUZCk5Qfp97Zl) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Tambaleo](https://open.spotify.com/album/6BGSFd5qRboHBAEfF0q1Ig) | 3:13 | 2022-09-05 | 2022-10-14 |
+| [Catastral](https://open.spotify.com/track/4PDnVUHUOsE9uI8gb2gjuA) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [m♡rtal](https://open.spotify.com/album/4jVTHVhg89w5GPCsmOpcyV) | 3:13 | 2022-10-14 |  |
 | [Challenge](https://open.spotify.com/track/7FeHMHr520mXY7OXgpsK2Z) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Almost Blue](https://open.spotify.com/album/0pSBEr0IQtQn2wxKRI4rKY) | 2:33 | 2022-09-05 |  |
 | [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 | 2022-09-05 |  |
-| [Club GTA](https://open.spotify.com/track/3ShG3u3BEGei2zWxnvtKPj) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Signals in My Head](https://open.spotify.com/album/1SJo1a9KzyNnnwhjkHOb2n) | 4:06 | 2022-09-05 |  |
+| [Club GTA](https://open.spotify.com/track/3ShG3u3BEGei2zWxnvtKPj) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Signals in My Head](https://open.spotify.com/album/1SJo1a9KzyNnnwhjkHOb2n) | 4:06 | 2022-09-05 | 2022-11-11 |
+| [Club GTA](https://open.spotify.com/track/6gprNjWcdzCM014vfg97bn) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Club GTA](https://open.spotify.com/album/5MCj5iZz6khuIRp9pG3xDT) | 4:06 | 2022-10-14 |  |
 | [Coochie \(a bedtime story\)](https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ) | 3:02 | 2022-09-05 | 2022-10-15 |
 | [Coochie Coo](https://open.spotify.com/track/18FDRn8GMShITBbvw5PrGm) | [LEECH](https://open.spotify.com/artist/6FXHqmCyukgQ02l8pPK3gr), [Babyxsosa](https://open.spotify.com/artist/0z6XSqpMBqmhaRVWduV9HJ) | [Headless](https://open.spotify.com/album/0uOboqtYTjAIumpLJKJkQi) | 2:45 | 2022-09-05 |  |
 | [D Way You Do Me \(Prod\. Plata\)](https://open.spotify.com/track/0VfPpXQUmi1i6mUOac5VLi) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Slow Wine Mixtape](https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas) | 4:50 | 2022-09-05 |  |
@@ -65,7 +67,8 @@
 | [Poison](https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:48 | 2022-10-14 |  |
 | [Ray of Light](https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:20 | 2022-09-05 |  |
 | [Redlight](https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:02 | 2022-09-05 |  |
-| [Sana Sana](https://open.spotify.com/track/234Pt4fwI6ObMlqbbHcuaH) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Is It Real](https://open.spotify.com/album/0m5ILJR9QO3c97WthDnFtD) | 3:06 | 2022-09-05 |  |
+| [Sana Sana](https://open.spotify.com/track/234Pt4fwI6ObMlqbbHcuaH) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Is It Real](https://open.spotify.com/album/0m5ILJR9QO3c97WthDnFtD) | 3:06 | 2022-09-05 | 2022-11-11 |
+| [Sana Sana](https://open.spotify.com/track/4rU6PqKRLkzbd6PVDjHBJk) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [By My Side/Sana Sana](https://open.spotify.com/album/35HjbF4UqASswV5F3BbNF1) | 3:06 | 2022-10-14 |  |
 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 | 2022-09-05 |  |
 | [Sexy](https://open.spotify.com/track/5otjyptz6ykhmFGUYbIqoC) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Sexy](https://open.spotify.com/album/63McTMWQqhbjJ9VUH46Tob) | 2:39 | 2022-09-05 |  |
 | [SI QUIERES](https://open.spotify.com/track/5D4dCLzLPENujlx7fXLLP4) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [SI QUIERES](https://open.spotify.com/album/10abBenjM5Q4ZLGsq3qNnS) | 2:15 | 2022-09-05 |  |

@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-175 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+176 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Desperado](https://open.spotify.com/track/6cFtUeHFvgj8sbCjJQqn7A) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5), [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [Desperado](https://open.spotify.com/album/2ronfsFOihh7eRyM0RxhwR) | 3:34 | 2022-02-18 |  |
 | [Diane](https://open.spotify.com/track/6jjtloIxVfU2xSyi96V5UT) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Diane](https://open.spotify.com/album/7LYMxGkmh3Ex3ioRrbBF5a) | 3:43 | 2022-09-30 |  |
 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/5hOaRdlUqUSZ5nv8kQx1DF) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Covers One](https://open.spotify.com/album/34WkSeCkKh4wMsz7AFtU0F) | 4:09 | 2021-08-20 |  |
-| [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 | 2022-05-27 |  |
+| [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 | 2022-05-27 | 2022-11-11 |
+| [Don't You Want Me](https://open.spotify.com/track/6KUqD4ARwYd4HKBge53mla) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Acustic Hits 2020](https://open.spotify.com/album/0TE1Oc5OANq645xPnBrm64) | 3:19 | 2022-10-07 |  |
 | [Don't You Want Me](https://open.spotify.com/track/7cQ2x6bqiOKWzKxB7Rp8tc) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/1WfjeDnn6P7umwi5gLZSGx) | 3:19 | 2021-08-20 | 2022-07-29 |
 | [Don't You Want Me](https://open.spotify.com/track/5vqMxpcsEzarRT1RSNM52X) | [The DeLorean Sisters](https://open.spotify.com/artist/5ZvTKfngMbuI3sFLv9mdfE) | [The DeLorean Sisters](https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E) | 3:02 | 2021-08-20 |  |
 | [Down Under](https://open.spotify.com/track/4ghmwqS5ipMJjmiJwKsugt) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 3](https://open.spotify.com/album/6rwHXOhNQXHfE0KRvL84rZ) | 4:43 | 2021-08-20 |  |

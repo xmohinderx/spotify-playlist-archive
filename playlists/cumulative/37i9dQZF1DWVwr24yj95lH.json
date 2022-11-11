@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 250093,
       "name": "45",
       "url": "https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232066,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/5fSUg1WcGIi4zoujPhB2Kz"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 257600,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Promo 2019",
+        "url": "https://open.spotify.com/album/6DKO5xmgzhet0tQD8zXMZ5"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Crawling Into You",
+      "url": "https://open.spotify.com/track/2EVVaTiZFIXwkV74McpZy5"
+    },
+    {
+      "album": {
         "name": "Churn",
         "url": "https://open.spotify.com/album/6vnsykSsmiy1etv3krbC5T"
       },
@@ -581,7 +599,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 362200,
       "name": "Cumbersome",
       "url": "https://open.spotify.com/track/6XmpvInnm4EgCUgXMTqIRR"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 236573,
       "name": "Die Born",
       "url": "https://open.spotify.com/track/5yA7AoyGWSUoxALn0RxCfb"
@@ -840,6 +858,24 @@
     },
     {
       "album": {
+        "name": "Feel This",
+        "url": "https://open.spotify.com/album/1KRDInixnT3AO7K6HQkKty"
+      },
+      "artists": [
+        {
+          "name": "Crobot",
+          "url": "https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237893,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6xDjH0ixZLfT8p6jSp0rkJ"
+    },
+    {
+      "album": {
         "name": "Year Of The Spider",
         "url": "https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr"
       },
@@ -981,7 +1017,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 217560,
       "name": "Hesitations",
       "url": "https://open.spotify.com/track/2ulg6v1K4pj8Pf6xzNAZGi"
@@ -1017,7 +1053,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 314440,
       "name": "Hey Man, Nice Shot - Remastered Version",
       "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
@@ -1035,10 +1071,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 316733,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT"
+    },
+    {
+      "album": {
+        "name": "Rockklassiker",
+        "url": "https://open.spotify.com/album/59zwBnqd0o84TIWPqOovrO"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326293,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0x6gCEDWLyelx0c7CZsok8"
     },
     {
       "album": {
@@ -1287,10 +1341,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 233933,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
+    },
+    {
+      "album": {
+        "name": "Best Guitar Anthems",
+        "url": "https://open.spotify.com/album/14PU11w70SZeeZ55tgyMg2"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234626,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/07ThjORJEDfOTlI5zd0s0q"
     },
     {
       "album": {
@@ -1384,6 +1456,24 @@
     },
     {
       "album": {
+        "name": "What's So Fucking Funny?",
+        "url": "https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176119,
+      "name": "Make A Dime",
+      "url": "https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN"
+    },
+    {
+      "album": {
         "name": "The Beautiful Letdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9"
       },
@@ -1467,7 +1557,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 294600,
       "name": "My Sacrifice",
       "url": "https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR"
@@ -1489,6 +1579,24 @@
       "duration_ms": 294600,
       "name": "My Sacrifice",
       "url": "https://open.spotify.com/track/7lNxDmqhKTOAlFBPCmkvLc"
+    },
+    {
+      "album": {
+        "name": "Cooking At Home - Rock Edition",
+        "url": "https://open.spotify.com/album/5ZL8KjxxVUxmIQkJgOnHod"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295800,
+      "name": "My Sacrifice",
+      "url": "https://open.spotify.com/track/4BkdURzUbXjle2AVP8RwuB"
     },
     {
       "album": {
@@ -1582,6 +1690,24 @@
     },
     {
       "album": {
+        "name": "Rock Mixtape",
+        "url": "https://open.spotify.com/album/77EI37JvbcUPGcRsGhcw4w"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293133,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/26jM6W4Qmzr4kqDVcMXoWD"
+    },
+    {
+      "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/2JHjVEvYNVQ9FUUMB2LcMl"
       },
@@ -1593,7 +1719,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 293133,
       "name": "Outside",
       "url": "https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"
@@ -1780,6 +1906,24 @@
     },
     {
       "album": {
+        "name": "Awake The Best Of Live",
+        "url": "https://open.spotify.com/album/4rSabzYGjgwZ04581fcBhV"
+      },
+      "artists": [
+        {
+          "name": "Live",
+          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205413,
+      "name": "Selling The Drama",
+      "url": "https://open.spotify.com/track/7BG8BwW3Bhdq4PnZmjDBRm"
+    },
+    {
+      "album": {
         "name": "Throwing Copper",
         "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
       },
@@ -1791,7 +1935,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 205693,
       "name": "Selling The Drama",
       "url": "https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5"
@@ -1989,7 +2133,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 251840,
       "name": "So Happy",
       "url": "https://open.spotify.com/track/796KVmeIoTOek76YwNduEL"
@@ -2151,7 +2295,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 363800,
       "name": "Take A Picture",
       "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
@@ -2285,6 +2429,24 @@
     {
       "album": {
         "name": "The Best Of - Volume One",
+        "url": "https://open.spotify.com/album/0ZDX7TUhxIn3S9PzO069hX"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/5Heu4Nyrx3w5agcWLhqFyo"
+    },
+    {
+      "album": {
+        "name": "The Best Of - Volume One",
         "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
       },
       "artists": [
@@ -2295,7 +2457,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 267440,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/6eN4jSuT84yNZEZnrUMrVp"
@@ -2421,7 +2583,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 269306,
       "name": "Wasting My Time",
       "url": "https://open.spotify.com/track/5dpAN1mjFPL38kh9kWsCiw"
@@ -2457,7 +2619,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 460400,
       "name": "Welcome To The Fold",
       "url": "https://open.spotify.com/track/0oPcNTwHKpYnDZfkcdOsiA"
@@ -2511,10 +2673,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 260333,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ"
+    },
+    {
+      "album": {
+        "name": "Work Out Motivations",
+        "url": "https://open.spotify.com/album/3enB6egLnLDOu2hX2a8Zej"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260506,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/0kpNIutOFEMI7gytLV9XC5"
     },
     {
       "album": {

@@ -1066,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "Turn Up The Music",
+        "url": "https://open.spotify.com/album/5fUv7tjZ7twdX0VOyvZNeZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "justified",
+      "url": "https://open.spotify.com/track/10sT6iAi9skcVqRvqwfX53"
+    },
+    {
+      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 180800,
       "name": "justified",
       "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
@@ -1434,6 +1452,24 @@
     },
     {
       "album": {
+        "name": "The Comeback (Deluxe)",
+        "url": "https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190451,
+      "name": "Same Boat",
+      "url": "https://open.spotify.com/track/1M3g073EaivbZhM8OfBuFv"
+    },
+    {
+      "album": {
         "name": "Same Boat",
         "url": "https://open.spotify.com/album/3R96aUhMwOqTpQ1EbQvQUl"
       },
@@ -1463,7 +1499,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 190451,
       "name": "Same Boat",
       "url": "https://open.spotify.com/track/4HD9SLK4s9rwRyuFt3n8N7"
@@ -1593,10 +1629,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 212382,
       "name": "Sunday Morning Kinda Saturday Night",
       "url": "https://open.spotify.com/track/4lolKKEDz0HM1JlALeS5al"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning Kinda Saturday Night",
+        "url": "https://open.spotify.com/album/5FTBgPGbuzKi2l5IO2pYPc"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212382,
+      "name": "Sunday Morning Kinda Saturday Night",
+      "url": "https://open.spotify.com/track/4xhnOiqFLxGf3IHqMiOm7C"
     },
     {
       "album": {

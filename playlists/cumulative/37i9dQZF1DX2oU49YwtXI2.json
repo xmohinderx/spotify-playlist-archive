@@ -1046,6 +1046,32 @@
     },
     {
       "album": {
+        "name": "Reggaeton Tuanis",
+        "url": "https://open.spotify.com/album/4daeWPpWyjMQ6NuYlaxncb"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/5vCu0PvdUPMAvhy8mHZBxw"
+    },
+    {
+      "album": {
         "name": "Mi Gente (feat. Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/55228F4QRlYDzJ4H02tDHA"
       },
@@ -1065,7 +1091,7 @@
       ],
       "date_added": "2020-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209733,
       "name": "Mi Gente (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/0GzmMQizDeA2NVMUaZksv0"
@@ -1531,10 +1557,32 @@
       ],
       "date_added": "2020-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 220626,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/7rl7ao5pb9BhvAzPdWStxi"
+    },
+    {
+      "album": {
+        "name": "The Post COVID-19 Mixtape",
+        "url": "https://open.spotify.com/album/4UIuRHezUozTl6eTJKnfwT"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221013,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/74yHWV5b0Ot9aaOpUcJmoO"
     },
     {
       "album": {
@@ -1625,10 +1673,28 @@
       ],
       "date_added": "2020-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215946,
       "name": "XO",
       "url": "https://open.spotify.com/track/40xhyfAPDoMtv494MfPevP"
+    },
+    {
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/6KPiNRUaPSuFVes2xEUjYk"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215946,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/5BcsW5DguEDxVzSIDsQiz5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2oU49YwtXI2"

@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 149533,
       "name": "El Apasionado",
       "url": "https://open.spotify.com/track/3IgsKmEmsJaVU6CRi6wLSy"
@@ -979,6 +979,24 @@
       "duration_ms": 215440,
       "name": "El c\u00f3ndor pasa",
       "url": "https://open.spotify.com/track/4qjnOWrAhJqKhQUupxBhz2"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica de America",
+        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215440,
+      "name": "El c\u00f3ndor pasa",
+      "url": "https://open.spotify.com/track/5knISmyiRhmeUX7ilkNST1"
     },
     {
       "album": {
@@ -1717,7 +1735,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 143973,
       "name": "El Sinaloense",
       "url": "https://open.spotify.com/track/6cLjCmWAZGIIllDyz1BT8X"
@@ -2957,7 +2975,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 154933,
       "name": "La madrugada",
       "url": "https://open.spotify.com/track/3iVOFoZX8f0KNaVxdWrYPJ"

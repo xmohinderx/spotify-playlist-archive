@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-527 songs - 1 day 3 hr 33 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+528 songs - 1 day 3 hr 36 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Montrose Ave](https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Montrose Ave](https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5) | 2:53 | 2022-01-14 |  |
 | [Moonlight](https://open.spotify.com/track/5ycuH4IVcbiubxosObIPhw) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Moonlight](https://open.spotify.com/album/4GU0ggvEBJ6RuoSjNuFM3l) | 2:07 | 2022-07-15 |  |
 | [more than love \- Sofi Tukker remix](https://open.spotify.com/track/0CICivRwFKqLs5oiBLYicx) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [more than love \(Sofi Tukker remix\)](https://open.spotify.com/album/79Ef4CPEwN61hMhqvm9Y3c) | 5:33 | 2022-01-14 |  |
+| [Morning Sun](https://open.spotify.com/track/4FBsQTjkURcX5p9eMliVx9) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [Atch](https://open.spotify.com/artist/1RXmgjI1slIFaZZHN0Q22V), [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Morning Sun](https://open.spotify.com/album/0wiKQOncV2Bl2mDqNGjNUd) | 3:06 | 2022-11-11 |  |
 | [Music In You](https://open.spotify.com/track/0t3uSTVVYGVYVKJUlOMqfk) | [Sebastien](https://open.spotify.com/artist/173M6tvnbPT1Wp5ucD0uAS), [Boy Tedson](https://open.spotify.com/artist/3QGj0gM2w35fH3gx2ZBoXk) | [Music In You](https://open.spotify.com/album/2XvXKXxsvh1OKl2KPkf1r8) | 3:05 | 2022-02-04 | 2022-09-24 |
 | [My Head Is a Jungle \- \(Radio Edit\) \[Live\]](https://open.spotify.com/track/5479RIes0OUXZkCDsWg7Mc) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [My Head is a Jungle](https://open.spotify.com/album/4wO8WVjaBfiE2a3ebBKk69) | 3:33 | 2022-02-18 | 2022-04-02 |
 | [My Love](https://open.spotify.com/track/398CKeawsPHfonnxsimsPe) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Cairo](https://open.spotify.com/artist/4vNlfhvPPRLOvmveTD7uQ0), [Fake ID](https://open.spotify.com/artist/3O6FybT51NR578KVOXe5b3) | [My Love](https://open.spotify.com/album/2jTldfzmnGTfwNKQqJ1Wgb) | 2:40 | 2022-01-14 |  |
@@ -467,7 +468,7 @@
 | [The Best Days \(feat\. Tabitha\)](https://open.spotify.com/track/140XpWSdJ0jZEbLj9iVnPA) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [The Best Days \(feat\. Tabitha\)](https://open.spotify.com/album/2rK1aKulqPu5DydpbYfLnZ) | 2:41 | 2022-01-14 |  |
 | [The Flood](https://open.spotify.com/track/79Hkie6ttHO2QMcXs7Jwqp) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [The Flood](https://open.spotify.com/album/0j9MRmq6o0yXbp0Za4ffs5) | 3:05 | 2022-01-14 |  |
 | [The Last Ones Standing](https://open.spotify.com/track/4X6wMQec2NHdBhEGUwqUFV) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [The Last Ones Standing](https://open.spotify.com/album/5kJjpj6RYQyz90yewpM6Cb) | 3:28 | 2022-01-14 | 2022-04-18 |
-| [The Ocean \- Radio Mix](https://open.spotify.com/track/0y42CYV0ZNMmyLe51HwgP5) | [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [The Ocean](https://open.spotify.com/album/5fAutNfusBd2Ryfp5E6Kqx) | 3:49 | 2022-07-22 |  |
+| [The Ocean \- Radio Mix](https://open.spotify.com/track/0y42CYV0ZNMmyLe51HwgP5) | [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [The Ocean](https://open.spotify.com/album/5fAutNfusBd2Ryfp5E6Kqx) | 3:49 | 2022-07-22 | 2022-11-11 |
 | [The Ocean \- Radio Mix](https://open.spotify.com/track/29po4gh9mZvigdLh6YlKUe) | [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [The Ocean EP](https://open.spotify.com/album/7vzl7DpmEHnEfcaqZUyj85) | 3:49 | 2022-01-14 | 2022-07-29 |
 | [The Sun \- Klingande Remix Radio Edit](https://open.spotify.com/track/5ahvjrjn7ymaeaWKFZrsca) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [The Sun \(Klingande Remix\)](https://open.spotify.com/album/003sFH4G9RLE253AFIJ0YJ) | 3:30 | 2022-01-14 | 2022-09-10 |
 | [The Sweetest Sin](https://open.spotify.com/track/57wbOuofBE6Cb3mMPuQ24i) | [RÆVE](https://open.spotify.com/artist/0D7x3wBw42v14YOGt34Jaz) | [The Sweetest Sin](https://open.spotify.com/album/2BROL0G9PYromVD9jXbZ8E) | 5:36 | 2022-01-14 | 2022-09-24 |

@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-129 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
+130 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [SLECHGAAN](https://open.spotify.com/track/5KrLhcvytXRFBCsx2tQrdS) | [RAPIDMAN](https://open.spotify.com/artist/4hzVtNA2nyeXtSHA8Xr0y5) | [SLECHGAAN](https://open.spotify.com/album/6WLK6dTRwyLPjcZJsZOIzH) | 5:35 | 2022-09-08 |  |
 | [Steam \- Live at Flagey](https://open.spotify.com/track/1gkQOLuTbGJeMDUtx1Rzul) | [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V), [Urbex Electric](https://open.spotify.com/artist/5TfbE4xRlghwafYJI8RKep) | [Suspended \(Live at Flagey\)](https://open.spotify.com/album/6INjembZVZPvSmGubjofPo) | 5:57 | 2022-09-08 |  |
 | [Stofwolk](https://open.spotify.com/track/2jOuhAeW2GoiRtTzTMJl4A) | [Bert Dockx](https://open.spotify.com/artist/0nD5LTV5BZ6Dl7BbjGpHv1), [Josse De Pauw](https://open.spotify.com/artist/6QVOqNRPbNIAbLuFExZowD), [Ottla](https://open.spotify.com/artist/3HB81lpzUkSIqMo0mesQ9L) | [Kroniek Van Het Vuur \(live\)](https://open.spotify.com/album/3GQBXxRxdwB7Y7oNju93jh) | 12:44 | 2022-09-08 |  |
-| [Strata](https://open.spotify.com/track/32JtFzdRaPLiOaFdXq5Tbz) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Old Dreams New Planets](https://open.spotify.com/album/1AzOwLeAXqzta6MNVVm5ko) | 5:36 | 2022-09-08 |  |
+| [Strata](https://open.spotify.com/track/32JtFzdRaPLiOaFdXq5Tbz) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Old Dreams New Planets](https://open.spotify.com/album/1AzOwLeAXqzta6MNVVm5ko) | 5:36 | 2022-09-08 | 2022-11-11 |
+| [strata](https://open.spotify.com/track/3ANbhAwZ5dB2pnxVXV4459) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Lefto presents Jazz Cats](https://open.spotify.com/album/7uue24rTgbcamaokL1unUl) | 5:36 | 2022-10-20 |  |
 | [Stress Als Optie](https://open.spotify.com/track/2Vcy72JnCxieG9MoRALnRn) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Less Is Endless](https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH) | 2:09 | 2022-09-08 |  |
 | [Stroking The Furnace](https://open.spotify.com/track/5fTQXBZhD0PZVaje8ll9rD) | [Dijf Sanders](https://open.spotify.com/artist/3U9U9C6iJzZR39dXq0UaYV) | [Stroking The Furnace](https://open.spotify.com/album/6UipgcX1ynmutMpMzi8RzL) | 4:01 | 2022-09-08 |  |
 | [Stuck In The Well](https://open.spotify.com/track/3aoEE0W6jScrf7MbHeDXlI) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Lucid Lucia](https://open.spotify.com/album/0yl96Upj5HUFzdd8AzY0i4) | 3:59 | 2022-09-08 |  |
@@ -123,9 +124,9 @@
 | [Tsht](https://open.spotify.com/track/4qSPzGBpuGu5Vao4HOIztL) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [DOUF EP](https://open.spotify.com/album/31DvNh2FL6roQo3h0jpPzk) | 1:50 | 2022-09-08 |  |
 | [TV](https://open.spotify.com/track/4BCtRbanTX0wtLjx7OMHmP) | [Don Kapot](https://open.spotify.com/artist/3QCwWdOoSMhjrN2nA6rwwV) | [Hooligan](https://open.spotify.com/album/4UYQpLLPcjxsdNe4Lj6CcW) | 6:09 | 2022-09-08 |  |
 | [Tzatzìki](https://open.spotify.com/track/3iCZMLTKYgwW4BchzgKG57) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Sambal](https://open.spotify.com/album/5bLeofMakqSrcOzSl70850) | 6:31 | 2022-10-07 | 2022-11-06 |
-| [Tzatzìki](https://open.spotify.com/track/5YoUD7R6FdYKfQrRcRYgkF) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 6:31 | 2022-10-20 |  |
+| [Tzatzìki](https://open.spotify.com/track/5YoUD7R6FdYKfQrRcRYgkF) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 6:31 | 2022-10-20 | 2022-11-11 |
 | [Tzatzìki](https://open.spotify.com/track/5gXfrzXhcaIW2RQ4nuQODG) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Mammoet](https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI) | 6:31 | 2022-09-15 | 2022-10-16 |
-| [Tzatzìki](https://open.spotify.com/track/5hbECi1krvZhoNk14jfpjS) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Lefto presents Jazz Cats volume 2](https://open.spotify.com/album/79r34KmANs2Z6JsATAjrTx) | 6:31 | 2022-10-07 | 2022-11-08 |
+| [Tzatzìki](https://open.spotify.com/track/5hbECi1krvZhoNk14jfpjS) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Lefto presents Jazz Cats volume 2](https://open.spotify.com/album/79r34KmANs2Z6JsATAjrTx) | 6:31 | 2022-10-07 |  |
 | [Tzatzìki](https://open.spotify.com/track/71as0IomI571JigqGYx76F) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Tzatzìki](https://open.spotify.com/album/4UTpoktqZgI9eOtN2d4eK6) | 6:31 | 2022-09-08 | 2022-09-25 |
 | [Unreal 2](https://open.spotify.com/track/1T0agMrrPJCyxuokcDMC2Y) | [An Pierlé Quartet](https://open.spotify.com/artist/3kQqOgWbhg3EwLNC7rRCum) | [Wiga Waga](https://open.spotify.com/album/2wePFLIhCJ3VsjMOQnRSFS) | 2:54 | 2022-09-08 |  |
 | [Verloren Buffels](https://open.spotify.com/track/4FMb1GtQ3uR8tIkyKCu25M) | [Donder](https://open.spotify.com/artist/5FBAdptDafa4fx8gGKDqBF), [Sigbjørn Apeland](https://open.spotify.com/artist/1nVOaRO8R3WXKXr1ywpULw) | [Het Verdriet](https://open.spotify.com/album/4iWJVM8EoN10L603olZx8o) | 1:33 | 2022-09-08 |  |

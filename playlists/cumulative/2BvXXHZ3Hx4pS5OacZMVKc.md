@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-209 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+210 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [When I'm With You](https://open.spotify.com/track/4IpHprcfDRMRjV1Vm2rr29) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [When I'm With You](https://open.spotify.com/album/4LxPVPgBo9EGncjqxWkrPW) | 3:07 | 2022-09-16 |  |
 | [When We Leavin](https://open.spotify.com/track/1xl54xMFlx7R316617s5kx) | [IntoAlter](https://open.spotify.com/artist/48qJTUrYO2CHJA3oX4MK7A), [Too Martian](https://open.spotify.com/artist/23UmQoccnr8zWXAmVdO4Lq), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK) | [When We Leavin](https://open.spotify.com/album/5OTxCckeiP4PErRyjIOU3W) | 2:46 | 2022-02-03 | 2022-09-15 |
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-03-10 |  |
+| [Wizkid](https://open.spotify.com/track/2rC9Mwkntrhv1RH4FzZ1MM) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [AVA NOVA](https://open.spotify.com/artist/3F7A0HJo5EKQKQ01Fv1TxW) | [Wizkid](https://open.spotify.com/album/0DfHdC5Ahks277KoV2ycp7) | 2:43 | 2022-11-10 |  |
 | [Would You Be Waiting](https://open.spotify.com/track/3PHOx8osoFglbGHz8dWY5E) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Would You Be Waiting](https://open.spotify.com/album/17zDJZXkFFsfWDpH83URKA) | 2:57 | 2022-08-30 | 2022-09-13 |
 | [XXI](https://open.spotify.com/track/1WsksDgGtaNPLdGcwk78vt) | [QR](https://open.spotify.com/artist/698AkaHa09ShchhkKzd5wz) | [XXI](https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK) | 2:40 | 2022-03-29 |  |
 | [Yesterday](https://open.spotify.com/track/0Cxyt1tuzX8dRdPR2mXPZz) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Young Viridii](https://open.spotify.com/artist/4Rm1nfclUTXCYusaJk7TA9) | [Yesterday](https://open.spotify.com/album/4gbR6lbzBVdoU9RNijlKpW) | 3:26 | 2022-08-18 |  |

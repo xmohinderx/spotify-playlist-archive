@@ -4,7 +4,7 @@
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-117 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/7FOkiByivaOfywG07ibr9a)
+118 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/7FOkiByivaOfywG07ibr9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [My Back Pages](https://open.spotify.com/track/3pO0GSjRmIQYnJWANtrzjU) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Sidetracks](https://open.spotify.com/album/6QpicGbHE5NjXzHQHvHzlX) | 4:07 | 2018-08-02 |  |
 | [New Pony](https://open.spotify.com/track/13Vpcq8uIH235ulRNQv9tU) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Horehound](https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO) | 3:56 | 2018-08-02 |  |
 | [New Pony](https://open.spotify.com/track/3zPtnhckq6bq36hqTaXW57) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Horehound](https://open.spotify.com/album/748kQyYY7WAP6fMSBjV7l8) | 3:56 | 2018-08-02 | 2022-07-29 |
-| [Nobody 'Cept You](https://open.spotify.com/track/2fvjzwM008TaNMFa4jINC9) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Written in Scars \(New Edition\)](https://open.spotify.com/album/0ROaXcCJvg74dnUHhm3GbF) | 3:12 | 2018-08-02 |  |
+| [Nobody 'Cept You](https://open.spotify.com/track/2fvjzwM008TaNMFa4jINC9) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Written in Scars \(New Edition\)](https://open.spotify.com/album/0ROaXcCJvg74dnUHhm3GbF) | 3:12 | 2018-08-02 | 2022-11-11 |
+| [Nobody 'Cept You](https://open.spotify.com/track/4hp2rh5GBr3G2EvclFZqOm) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Written in Scars \(Expanded Edition\)](https://open.spotify.com/album/1EtytHvVBFGTUQJrYLKTQk) | 3:12 | 2018-08-02 |  |
 | [Nobody 'Cept You](https://open.spotify.com/track/6Q51bhCC3buPPpFps0yOdz) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Written In Scars](https://open.spotify.com/album/48iKSFFUuoGezDm5LR2kcY) | 3:12 | 2018-08-02 | 2022-07-29 |
 | [North Country Blues](https://open.spotify.com/track/3eoVxC9JXC79Ess36UJRwL) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:59 | 2018-08-02 |  |
 | [Not Dark Yet](https://open.spotify.com/track/6uG0VaubeAXcdqWJWirGtv) | [Shelby Lynne](https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4), [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Not Dark Yet](https://open.spotify.com/album/4yJfRrReJMfIEULve1NksC) | 4:19 | 2018-08-02 |  |

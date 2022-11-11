@@ -4,7 +4,7 @@
 
 > Long, dark and sustained.
 
-156 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
+157 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Earthshine](https://open.spotify.com/track/6yIuzYnoNkiVXSzTrl0LYl) | [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C), [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Earthshine](https://open.spotify.com/album/023QBsY2LMNL7QNKnhwyAz) | 3:56 | 2022-05-25 |  |
 | [Emanation](https://open.spotify.com/track/5s8sPfoY0ynQDgwrWv3Rk6) | [SaffronKeira](https://open.spotify.com/artist/69l2nkHclpJMHqqgDuo8MW), [Siavash Amini](https://open.spotify.com/artist/7Ef6YFLZjlHkCcpC8fFSZo) | [Emanation](https://open.spotify.com/album/0qwJUyjwJhWKujcFPNFjMk) | 3:02 | 2022-05-25 | 2022-07-28 |
 | [Enigma](https://open.spotify.com/track/4eW3kSiXV8s2wCOCKGQHEL) | [Blear Moon](https://open.spotify.com/artist/02QLDm7vKE5aNu4ovk1rE9) | [Enigma](https://open.spotify.com/album/2tdi5KxoYhjlnOQDre2Jvb) | 5:44 | 2022-05-25 | 2022-08-30 |
-| [eon](https://open.spotify.com/track/6fPnhlrHFNOgqjkbv4IThA) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 6:30 | 2022-05-25 | 2022-10-12 |
+| [eon](https://open.spotify.com/track/6fPnhlrHFNOgqjkbv4IThA) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 6:30 | 2022-05-25 |  |
 | [Erik's Dream](https://open.spotify.com/track/67VQ33qBCGV61G7R2esk2H) | [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Sandstones](https://open.spotify.com/album/416p04AbDtCrFidDf4gLuk) | 2:38 | 2022-07-08 |  |
 | [Evergreen](https://open.spotify.com/track/1GbZ4zxBbOGKWIJB0NLEVA) | [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL) | [Infinite Branches](https://open.spotify.com/album/6WDNNZf7ddS7EfhJaD3meF) | 3:31 | 2022-07-08 | 2022-07-21 |
 | [Evil\-Minded](https://open.spotify.com/track/3THvr8CyGPLmMKJgGttxYp) | [Alan Fillip](https://open.spotify.com/artist/4F36M3hoL2FakyOvC0anhd), [Mac Prindy](https://open.spotify.com/artist/4n7JWC1Tl08jLFlZHfYVVJ) | [Dramatic Drones & Pulses](https://open.spotify.com/album/5E2gpaF9PSkKvDjQilXGeL) | 2:39 | 2022-05-25 | 2022-07-27 |
@@ -128,7 +128,7 @@
 | [Repentance](https://open.spotify.com/track/0TLCX5y9jkkWT47MtLeI9n) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6), [Cian](https://open.spotify.com/artist/2VZ5i6NfcydrHeOPoMUVMh), [Eduardo Padilla](https://open.spotify.com/artist/1bG6gRZNmtkzdhsILggV54) | [Einath](https://open.spotify.com/album/2ViYUaiQZxviQbBakMiY35) | 5:11 | 2022-05-25 | 2022-07-28 |
 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 | 2022-05-25 |  |
 | [Saturday Is the Way](https://open.spotify.com/track/1mFeJUnj9wtAE7812Wzfg9) | [Grzegorz Bojanek](https://open.spotify.com/artist/1QCM3eiOo0ogTXdUt9UPxo) | [Damaged](https://open.spotify.com/album/7IyGDMIPDin8TYrwy7e1No) | 3:02 | 2022-05-25 | 2022-07-06 |
-| [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 | 2022-05-25 |  |
+| [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 | 2022-05-25 | 2022-11-11 |
 | [Sleeping Since Last Year](https://open.spotify.com/track/1I6ZMdKpiejM5cCtviUYj8) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Sleeping Since Last Year](https://open.spotify.com/album/2FsF7jXTYOnACE7ndR0xfb) | 5:59 | 2022-06-17 | 2022-06-19 |
 | [Sleeping Since Last Year](https://open.spotify.com/track/2kc18BHDqGI7QGpGN150AG) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Sleeping Since Last Year](https://open.spotify.com/album/0hrFPfSOWBFo156sLpdho2) | 5:59 | 2022-07-08 |  |
 | [Sniper's Nest](https://open.spotify.com/track/0YWaCC1gcax9fJecglrAQl) | [Canadian Rifles](https://open.spotify.com/artist/1sXKOBsAWEhbMACaQNkQDn) | [Eastern Nurseries \(Expanded Edition\)](https://open.spotify.com/album/0UMX3FWzXZXsOpgxXxcfWd) | 3:11 | 2022-05-25 | 2022-07-28 |
@@ -147,7 +147,8 @@
 | [The Last Island](https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR) | [Time Away](https://open.spotify.com/artist/7nmRj45sN6eA6eMJsPjW1k) | [Age of Water](https://open.spotify.com/album/74ynFeiqnFkdw0m2Q6mD22) | 6:48 | 2022-05-25 | 2022-07-24 |
 | [The Look That Falls Upon Us Extends As If a Landform \- Remastered](https://open.spotify.com/track/6qR7UDfwNHj2NZjDX6hJ2i) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Sunlir \(Remastered\)](https://open.spotify.com/album/6FElkPlYYHMY2KkPSW9uqR) | 8:04 | 2022-07-01 | 2022-07-15 |
 | [The Sacrifice](https://open.spotify.com/track/1G2eapqHAjlEdmv9yFAMaQ) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [The Sacrifice](https://open.spotify.com/album/1uB9z63XmV3PRTK1wwr6dd) | 4:00 | 2022-05-25 | 2022-07-28 |
-| [The Sacrifice](https://open.spotify.com/track/4BEdj9G17kmBuElba6lShF) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [Blind Emperor](https://open.spotify.com/album/0HkYfpjWLP0WYIj0xNFJ0N) | 4:00 | 2022-07-08 |  |
+| [The Sacrifice](https://open.spotify.com/track/4BEdj9G17kmBuElba6lShF) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [Blind Emperor](https://open.spotify.com/album/0HkYfpjWLP0WYIj0xNFJ0N) | 4:00 | 2022-07-08 | 2022-11-11 |
+| [The Sacrifice](https://open.spotify.com/track/4CV9IXkwxqBxOcoL2iePAq) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [The Sacrifice](https://open.spotify.com/album/1MBapfpXzmCUwJKJcLfKfl) | 4:00 | 2022-08-19 |  |
 | [The Weight Of History](https://open.spotify.com/track/7a9u3Yk9hKzxa3lqBBbcXf) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 6:30 | 2022-05-25 | 2022-07-29 |
 | [Themes of Disobedience](https://open.spotify.com/track/4ru6UlcL6v9MneFu9ByxFD) | [Imre Kiss](https://open.spotify.com/artist/2AwKYu92FaDTlsoKDxTGzS) | [EXILES](https://open.spotify.com/album/2iqyvsEZcQL69PN9xycnuj) | 4:12 | 2022-05-25 | 2022-07-28 |
 | [Then a quick walk down the street](https://open.spotify.com/track/5NiqpQrxv2AHAJQV3lQzL2) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Then](https://open.spotify.com/album/0Nna3qZIrQrbGre4XWBslM) | 6:39 | 2022-06-17 | 2022-07-10 |

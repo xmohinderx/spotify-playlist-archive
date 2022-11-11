@@ -2,7 +2,7 @@
 
 ### [EDM Top 100](https://open.spotify.com/playlist/6P9kL0w6D5JnjAUGVQKXgD)
 
-> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jonasu, Karen Harding, Kriss Reeve, The Chainsmokers, Ship Wrek
+> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jonasu, Karen Harding, Biscits, Kriss Reeve
 
 1,340 songs - 2 day 22 hr 48 min - [published](https://open.spotify.com/playlist/0Ntnl9seA6EX8wAm2l1oSO)
 

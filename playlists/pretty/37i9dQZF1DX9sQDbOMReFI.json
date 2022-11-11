@@ -1,12 +1,12 @@
 {
   "description": "The best side! Cover: Snoop Dogg & Dr. Dre",
-  "num_followers": 611536,
+  "num_followers": 612096,
   "original_name": "I Love My West Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjcyNzM4OSwwMDAwMDAwMDJlOGQ0YTQwNGY4ZjIxZjdkMjQzYmMzNDBlMzNiNzgy",
+  "snapshot_id": "MTY2NjcyNzM4OSwwMDAwMDAwMDFhNmI4Njc1ZGM2YTA4ZmQ0ZDgxZjYzN2I2ZWZiZTEx",
   "tracks": [
     {
       "added_at": "2020-05-04 14:10:56",
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
     },
     {
-      "added_at": "2022-11-10 01:39:46",
+      "added_at": "2022-11-11 01:46:14",
       "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8"
     },
     {
-      "added_at": "2022-11-10 01:39:46",
+      "added_at": "2022-11-11 01:46:14",
       "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k"
     },
     {
-      "added_at": "2022-11-10 01:39:46",
+      "added_at": "2022-11-11 01:46:14",
       "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
@@ -403,6 +403,22 @@
     {
       "added_at": "2021-08-27 03:06:32",
       "album": {
+        "name": "Short Dog's In The House",
+        "url": "https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 302133,
+      "name": "The Ghetto",
+      "url": "https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf"
+    },
+    {
+      "added_at": "2021-08-27 03:06:32",
+      "album": {
         "name": "At Your Own Risk",
         "url": "https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 299026,
       "name": "Played Like A Piano",
       "url": "https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP"
-    },
-    {
-      "added_at": "2021-08-27 03:06:32",
-      "album": {
-        "name": "Short Dog's In The House",
-        "url": "https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt"
-      },
-      "artists": [
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 302133,
-      "name": "The Ghetto",
-      "url": "https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H"
     },
     {
-      "added_at": "2021-08-27 03:06:32",
-      "album": {
-        "name": "Explicit Game",
-        "url": "https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P"
-      },
-      "artists": [
-        {
-          "name": "Dru Down",
-          "url": "https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "Pimp Of The Year",
-      "url": "https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Get In Where You Fit In",
@@ -615,6 +599,22 @@
       "duration_ms": 441826,
       "name": "Just Another Day",
       "url": "https://open.spotify.com/track/21GzqgubvWR6Iks9IbDmJE"
+    },
+    {
+      "added_at": "2021-08-27 03:06:32",
+      "album": {
+        "name": "Explicit Game",
+        "url": "https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P"
+      },
+      "artists": [
+        {
+          "name": "Dru Down",
+          "url": "https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "Pimp Of The Year",
+      "url": "https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC"
     },
     {
       "added_at": "2021-08-27 03:06:32",

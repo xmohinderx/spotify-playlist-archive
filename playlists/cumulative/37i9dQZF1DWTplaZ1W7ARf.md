@@ -4,7 +4,7 @@
 
 > Neighborhood Storytellers\. Cover: Lil Tjay
 
-154 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
+155 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Suit Me Up](https://open.spotify.com/track/5pyve48qwbI8CTWDnW9eiQ) | [Slimelife Shawty](https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Suit Me Up](https://open.spotify.com/album/6amcMGHHDQQZ9uCGl23ZpU) | 3:54 | 2021-10-15 | 2022-04-16 |
 | [Team Player \(feat\. Lil Poppa & Morray\)](https://open.spotify.com/track/5O5BKCnAoF5Djt90t2wpma) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Team Player \(feat\. Lil Poppa & Morray\)](https://open.spotify.com/album/3E1E6Qlhvo9uS3hwx3J0Hz) | 3:01 | 2022-09-09 |  |
 | [Tears of Joy](https://open.spotify.com/track/1BXcEvLfGf6AaoBeKkdG5h) | [100k Track](https://open.spotify.com/artist/1egKFNqREi1l3EsTwRrvVR), [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Rico Cartel](https://open.spotify.com/artist/0bgsCSm12Glnini09HIgnD) | [Mercury](https://open.spotify.com/album/2b0g5tSZMy56jobDxTEWdk) | 2:36 | 2022-03-04 | 2022-07-16 |
-| [Tell Me Bout It](https://open.spotify.com/track/6AdAJuFBH2ajKzSuHtJSvS) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:56 | 2022-08-05 |  |
+| [Tell Me Bout It](https://open.spotify.com/track/6AdAJuFBH2ajKzSuHtJSvS) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:56 | 2022-08-05 | 2022-11-11 |
+| [Tell Me Bout It](https://open.spotify.com/track/6xPoAC5B0aYJnmvVKm0L9P) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/7MtKcyfzFBWMHqlWDm4Q2W) | 2:56 | 2022-08-05 |  |
 | [Tez & Tone 1](https://open.spotify.com/track/7mXhmsSwfZCcPGA0M993Rl) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Tez & Tone 1](https://open.spotify.com/album/22SPzvel0IVFXbPPjGo7nd) | 3:50 | 2022-10-07 |  |
 | [Thug Paradise 2](https://open.spotify.com/track/1wqg2VowoogPATrqPzrpi3) | [Soldier Kidd](https://open.spotify.com/artist/7BA072InWOjB1X7MZGOloy) | [Thug Melodies](https://open.spotify.com/album/5VjgH8wgFP70tarZ6iJChd) | 3:00 | 2021-09-17 | 2022-02-12 |
 | [Ticket](https://open.spotify.com/track/65RuMTQsaooIJInitg18O4) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Ticket](https://open.spotify.com/album/6hCPmcflDrWUkT8j2gFd3p) | 3:10 | 2022-08-12 |  |

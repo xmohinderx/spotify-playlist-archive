@@ -4,7 +4,7 @@
 
 > Enjoy music from "KENGAN ASHURA"! "音楽で辿る、Netflixオリジナルアニメシリーズ「ケンガンアシュラ」の世界。
 
-40 songs - 2 hr 30 min - [published](https://open.spotify.com/playlist/2rxmgpPODqNB3cMUVgn2dO)
+42 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/2rxmgpPODqNB3cMUVgn2dO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Beautiful Beast](https://open.spotify.com/track/3WsND7uhaaKXfpTCCG2qW8) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:37 | 2021-05-26 |  |
 | [Behavior Observation](https://open.spotify.com/track/2B6nwTxNSAoWPaS29ZXuRv) | [Atsushi Takayama](https://open.spotify.com/artist/4GnYTjP3C8x0bc7tDC4Q39) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:03 | 2021-05-26 |  |
 | [Black Phantom](https://open.spotify.com/track/3tQOseJNUgEWVnXdOPz2tF) | [Shuji Katayama](https://open.spotify.com/artist/6gKYymdsQkVKnSegqIetJn) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:21 | 2021-05-26 |  |
-| [Born This Way](https://open.spotify.com/track/58d9FID3lkY1DhHuQ71Vsf) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [Born This Way](https://open.spotify.com/album/0cYPt4ip9CIeeg6e3v3Yzp) | 2:47 | 2021-05-26 |  |
+| [Born This Way](https://open.spotify.com/track/58d9FID3lkY1DhHuQ71Vsf) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [Born This Way](https://open.spotify.com/album/0cYPt4ip9CIeeg6e3v3Yzp) | 2:47 | 2021-05-26 | 2022-11-11 |
+| [Born This Way](https://open.spotify.com/track/7nTUrBZ75T323NFQUIAUjC) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Yzer](https://open.spotify.com/artist/6ddEkqVqLpfgQwaGQGMXCQ), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Bark](https://open.spotify.com/artist/2Bcv6wxg5utKznPPCiOxvm) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 2:47 | 2021-05-26 |  |
 | [Cyber Moon](https://open.spotify.com/track/7ki0Hij3iEmpgpCUSmmFo2) | [Rie a.k.a\. Suzaku](https://open.spotify.com/artist/4fK9DBwFEOUlBeAGpsf317) | [Kingdom of the Sun](https://open.spotify.com/album/01z8YeW6P5smczs2o6v5tw) | 3:38 | 2021-05-26 |  |
 | [Dark Angel](https://open.spotify.com/track/69DYEtc8SCKzx4PK9FdK7f) | [Funta7](https://open.spotify.com/artist/2krWYpg7HWSuDZjWkGXZTq) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:17 | 2021-05-26 |  |
 | [Dengeki Raigo](https://open.spotify.com/track/3ZMWZMwLCHsK4I4YNpigb7) | [Yaiba](https://open.spotify.com/artist/1VcaxZthCTarsWINFwCtqD) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:03 | 2021-05-26 |  |
@@ -40,7 +41,8 @@
 | [Megabullets](https://open.spotify.com/track/62j0fL39FXTC1MESnE4OHM) | [FATE GEAR](https://open.spotify.com/artist/5zOBafh1JUFBrzmQ79X3Zy) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:42 | 2021-05-26 |  |
 | [Meidoeno Inori](https://open.spotify.com/track/6yj5Ldyz5EdUnnizXPKepf) | [Magdalene Ju\-nen](https://open.spotify.com/artist/4r1sqt1LvF3DS6Rl2LiRY8) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:46 | 2021-05-26 |  |
 | [Shitou](https://open.spotify.com/track/0KAdaH8W42wWW0WE8uE8Lh) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 2:32 | 2021-05-26 |  |
-| [Sorrow Like Lightning / Ai\-shiden\-issen](https://open.spotify.com/track/6je3xFNqYLYLUp12JX8b8o) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Omedetai Atama de Naniyori 2](https://open.spotify.com/album/6TmQRe8HMrOoGatMBLP3Tf) | 3:11 | 2021-05-26 |  |
+| [Sorrow Like Lightning / Ai\-shiden\-issen](https://open.spotify.com/track/6je3xFNqYLYLUp12JX8b8o) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Omedetai Atama de Naniyori 2](https://open.spotify.com/album/6TmQRe8HMrOoGatMBLP3Tf) | 3:11 | 2021-05-26 | 2022-11-11 |
+| [Sorrow Like Lightning / Ai\-shiden\-issen](https://open.spotify.com/track/5UnQWHa6w10et1huDEtoII) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Aishidenissen](https://open.spotify.com/album/4kv18tu0MEWXpzIz5WDmQO) | 3:14 | 2021-05-26 |  |
 | [Standing On The Grave Of Yesterday](https://open.spotify.com/track/45d1ZHgovMGa4mxUaEKZJq) | [Silex](https://open.spotify.com/artist/5b4dgfs4gSLnZMCqv8MVQM) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 5:35 | 2021-05-26 |  |
 | [The Animal Fighter](https://open.spotify.com/track/17A4H0UWOhg2UU6b61Jwkl) | [Kenji Fujisawa](https://open.spotify.com/artist/4TS6AwQfVNJPJ7uyy7bBTr) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:48 | 2021-05-26 |  |
 | [The Emperor](https://open.spotify.com/track/6YJxp0Lkm5mR3VVDoriHSV) | [Zing!](https://open.spotify.com/artist/6EbdfiSSNNCWQuBf050z8T), [Rapbit](https://open.spotify.com/artist/7qtLoCkVxJO9Kykqnpngi1), [Kento Hama](https://open.spotify.com/artist/5mkifMgDqmOi6qKZMkboOf) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:59 | 2021-05-26 |  |

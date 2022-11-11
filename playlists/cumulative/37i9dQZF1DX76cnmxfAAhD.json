@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219813,
       "name": "All For You",
       "url": "https://open.spotify.com/track/5fwCxKVai3LszSWFZ9AyA8"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 257373,
       "name": "Breakfast At Tiffany's",
       "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 311040,
       "name": "C U When U Get There",
       "url": "https://open.spotify.com/track/6uWez0py1zc17F7hjp7jIt"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 273546,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/1wKWgSrVgaSyxJARfld0Yu"
@@ -787,10 +787,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 218920,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
+    },
+    {
+      "album": {
+        "name": "Nevermind (30th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/5eA0qtE7Yu29XiMlwoby2G"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218920,
+      "name": "Come As You Are - Remastered 2021",
+      "url": "https://open.spotify.com/track/1MsfdAHNRX2T1BWmkpj87C"
     },
     {
       "album": {
@@ -859,7 +877,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 281466,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/60g4sp8i3gXSb1EkphMl1g"
@@ -881,6 +899,24 @@
       "duration_ms": 281840,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/5K42nFG0GelzG7oESUf7uj"
+    },
+    {
+      "album": {
+        "name": "Truly Madly Completely - The Best of Savage Garden",
+        "url": "https://open.spotify.com/album/5S4ycMpNlcTpLaO7u6mkkb"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282720,
+      "name": "Crash and Burn",
+      "url": "https://open.spotify.com/track/5nC0kH81ErxHJuSavWUoK3"
     },
     {
       "album": {
@@ -935,6 +971,28 @@
       "duration_ms": 268040,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/10tdqQKFhddpkjzxllTVRj"
+    },
+    {
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253066,
+      "name": "Cream",
+      "url": "https://open.spotify.com/track/4QnjK45IBBZRVRWTEeZ3T8"
     },
     {
       "album": {
@@ -1115,7 +1173,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 263560,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
@@ -1241,7 +1299,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Easy",
       "url": "https://open.spotify.com/track/50AwZsz8Muj0bT7hQCasBp"
@@ -1605,7 +1663,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
@@ -1814,6 +1872,24 @@
     },
     {
       "album": {
+        "name": "High & Dry / Planet Telex",
+        "url": "https://open.spotify.com/album/5vldPxf0zDeF3S7U3WURJ4"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257480,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/1VxlPYeR35DjigoCs6SraA"
+    },
+    {
+      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -1825,7 +1901,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
@@ -1865,6 +1941,24 @@
       "duration_ms": 299826,
       "name": "Honey",
       "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
+    },
+    {
+      "album": {
+        "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
+        "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "How Do You Do!",
+      "url": "https://open.spotify.com/track/2D7GRdSAcRkBsDtXsnjh1v"
     },
     {
       "album": {
@@ -1951,7 +2045,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 239613,
       "name": "I Can't Dance - 2007 Remaster",
       "url": "https://open.spotify.com/track/0No5Hr1LxZjJHGsQSTy2bm"
@@ -2153,7 +2247,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 323400,
       "name": "If It Makes You Happy",
       "url": "https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh"
@@ -2355,7 +2449,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209200,
       "name": "Just A Girl",
       "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
@@ -2597,7 +2691,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 295957,
       "name": "Let's Get Rocked",
       "url": "https://open.spotify.com/track/11C6xtJLOaKqqMrl9hQwQ0"
@@ -2759,7 +2853,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282933,
       "name": "Love Is a Wonderful Thing",
       "url": "https://open.spotify.com/track/2LCIRBYUBMFy9hL81qthi1"
@@ -2777,7 +2871,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236026,
       "name": "Love to Hate You - 2019 - Remaster",
       "url": "https://open.spotify.com/track/4A6pPKVWcIWIBooH6nwa48"
@@ -2987,7 +3081,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
@@ -3045,6 +3139,24 @@
       "duration_ms": 228266,
       "name": "Movin' on Up",
       "url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz"
+    },
+    {
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "album": {
@@ -3142,6 +3254,24 @@
     },
     {
       "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289800,
+      "name": "My Destiny",
+      "url": "https://open.spotify.com/track/2c2QM7x721KtNva4g77PIT"
+    },
+    {
+      "album": {
         "name": "The Globe Sessions",
         "url": "https://open.spotify.com/album/08enrSAkHTYkQwhRlKXQgB"
       },
@@ -3153,7 +3283,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 245093,
       "name": "My Favorite Mistake",
       "url": "https://open.spotify.com/track/1LAW7bK2NUJfrnmy2KRCs3"
@@ -3211,6 +3341,24 @@
       "duration_ms": 243586,
       "name": "Mysterious Ways",
       "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
+    },
+    {
+      "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253760,
+      "name": "Natural Blues",
+      "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
     },
     {
       "album": {
@@ -3367,7 +3515,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 239626,
       "name": "One & One (feat. Maria Nayler)",
       "url": "https://open.spotify.com/track/033uNwmVzZvXm00CUPBnA0"
@@ -3667,7 +3815,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 301066,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/5Qt8U8Suu7MFH1VcJr17Td"
@@ -3949,7 +4097,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 235800,
       "name": "Set Adrift on Memory Bliss (Re-Recorded)",
       "url": "https://open.spotify.com/track/0qiF6U6WT4nGQTQnhU1chs"
@@ -4266,6 +4414,24 @@
     },
     {
       "album": {
+        "name": "Stars (Expanded Version)",
+        "url": "https://open.spotify.com/album/5IF8lK2MyVeLHxo0UNWMO7"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240706,
+      "name": "Something Got Me Started - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7EVSRJ9eH21ri2lIHkKkoP"
+    },
+    {
+      "album": {
         "name": "...But Seriously (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
       },
@@ -4331,7 +4497,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 265533,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
@@ -4371,6 +4537,24 @@
       "duration_ms": 301000,
       "name": "Step It Up",
       "url": "https://open.spotify.com/track/6Y1HIgqlgYSzMalK6eBiEP"
+    },
+    {
+      "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/2IozNWNXp77fqFQOgzpLcw"
+      },
+      "artists": [
+        {
+          "name": "Stereo MC's",
+          "url": "https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301440,
+      "name": "Step It Up",
+      "url": "https://open.spotify.com/track/68QlEZu3EtI5Bojo1mmwxE"
     },
     {
       "album": {
@@ -4497,7 +4681,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 232009,
       "name": "Suicide Blonde",
       "url": "https://open.spotify.com/track/3DPyS3odFIWQ3E2IFqHEdG"
@@ -4555,6 +4739,24 @@
       "duration_ms": 286029,
       "name": "Sunshine On a Rainy Day - Single Version",
       "url": "https://open.spotify.com/track/4j7OVQ5OaIwSekl8q9mJhb"
+    },
+    {
+      "album": {
+        "name": "Sunshine On A Rainy Day",
+        "url": "https://open.spotify.com/album/3GeuGelpxXYCEXvo612PS1"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb",
+          "url": "https://open.spotify.com/artist/1G3VHcGtkOjVAMK3f3fPZP"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286255,
+      "name": "Sunshine On a Rainy Day - Single Version",
+      "url": "https://open.spotify.com/track/2ddYOKFhn6asDoC5VXkPhS"
     },
     {
       "album": {
@@ -4627,7 +4829,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240893,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/2NFTEx9YLvWs4fWgKD0mZ9"
@@ -4645,7 +4847,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 278000,
       "name": "The Animal Song",
       "url": "https://open.spotify.com/track/5TuzQ44lPWTCKbfXbNIEXg"
@@ -4681,7 +4883,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 223666,
       "name": "The One and Only",
       "url": "https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y"
@@ -4735,7 +4937,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217266,
       "name": "The Only Thing That Looks Good On Me Is You",
       "url": "https://open.spotify.com/track/4XcNoJ4W4Qa4uuqxa2KRsm"
@@ -4897,7 +5099,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 244666,
       "name": "Torn",
       "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
@@ -5417,7 +5619,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

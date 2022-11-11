@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 260000,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7"
@@ -1373,7 +1373,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 224727,
       "name": "Fiddle",
       "url": "https://open.spotify.com/track/3mBFt5hZcG1nQrf5zuuwpB"
@@ -3398,6 +3398,32 @@
     },
     {
       "album": {
+        "name": "Play The Game",
+        "url": "https://open.spotify.com/album/6pmoPn92MLxuIJLYG0gq5T"
+      },
+      "artists": [
+        {
+          "name": "ReMan",
+          "url": "https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR"
+        },
+        {
+          "name": "Deepest",
+          "url": "https://open.spotify.com/artist/3JqbRDna3cMqW6EbuAVYXz"
+        },
+        {
+          "name": "AMHouse",
+          "url": "https://open.spotify.com/artist/6pUq01lliyxlSqPxHIviNa"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142303,
+      "name": "Play The Game",
+      "url": "https://open.spotify.com/track/7v20uWK7xG3hpnxwh2vUQH"
+    },
+    {
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
       },
@@ -3821,7 +3847,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 369774,
       "name": "Sophia - Mixed",
       "url": "https://open.spotify.com/track/4L2hIkevjljjccainHYjCR"
@@ -4029,7 +4055,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 545813,
       "name": "Tarlabasi - Be Svendsen Remix",
       "url": "https://open.spotify.com/track/4cIDajUp2dMjKiDmDvFDg8"
@@ -4047,7 +4073,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 274889,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o"
@@ -4161,7 +4187,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 335483,
       "name": "Undersand",
       "url": "https://open.spotify.com/track/7cFwlRiqAjrF4V0ZSJlGMB"
@@ -4179,7 +4205,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 262641,
       "name": "Vestido Preto",
       "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
@@ -4509,7 +4535,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 325165,
       "name": "Zagora",
       "url": "https://open.spotify.com/track/4ePH0udOkmmaS6CEASnj7N"
@@ -4531,7 +4557,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 411806,
       "name": "Zamen - Amine K Remix",
       "url": "https://open.spotify.com/track/3z9c90mEZypec8OYZGCAdr"

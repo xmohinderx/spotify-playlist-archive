@@ -557,10 +557,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 247933,
       "name": "Float",
       "url": "https://open.spotify.com/track/2U6OKVqexxZKLwQe7purlV"
+    },
+    {
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/0VT6v6yIjICbZRsqJJ9LLO"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247933,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/7mj2TROxaQSpRH1IKaTeMO"
     },
     {
       "album": {
@@ -1397,10 +1415,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 268474,
       "name": "Parrot Fever",
       "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
+    },
+    {
+      "album": {
+        "name": "Lo-Fi Beats: House",
+        "url": "https://open.spotify.com/album/3lHhEDBnztBWcFrZ5v6gUO"
+      },
+      "artists": [
+        {
+          "name": "Kazam",
+          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268474,
+      "name": "Parrot Fever",
+      "url": "https://open.spotify.com/track/2wqaCHxbJ4HVQzGcQQMwKE"
     },
     {
       "album": {
@@ -1892,6 +1928,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9 del Mar Chillhouse Mix XI (DJ Mix)",
+        "url": "https://open.spotify.com/album/3Xgc8kJPLq8Ck7a1BULNjf"
+      },
+      "artists": [
+        {
+          "name": "Allen French",
+          "url": "https://open.spotify.com/artist/7IMSmMHDPpZL0ZjOr8ssOj"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246580,
+      "name": "The Whistle Song - House Kitsun\u00e9 America",
+      "url": "https://open.spotify.com/track/7ENAbf0QGKnXWTy6gddq0G"
+    },
+    {
+      "album": {
         "name": "The Whistle Song (House Kitsun\u00e9 America)",
         "url": "https://open.spotify.com/album/1X7DeddTvPUAbZqnbwTjFx"
       },
@@ -1903,7 +1957,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 248295,
       "name": "The Whistle Song - House Kitsun\u00e9 America",
       "url": "https://open.spotify.com/track/01HYlXXE8wpY22Za43ihzj"

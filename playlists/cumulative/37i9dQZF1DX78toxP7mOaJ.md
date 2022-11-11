@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Emeryld \| Artwork: Jim Klok
 
-621 songs - 1 day 10 hr 11 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+622 songs - 1 day 10 hr 15 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Death to the Landlord](https://open.spotify.com/track/0WsWklqPGk8kV2Ut773ZfJ) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd) | [Death to the Landlord](https://open.spotify.com/album/1obcxRANeiJghHa0W52AoK) | 5:31 | 2022-09-21 |  |
 | [Death Wish](https://open.spotify.com/track/5TeiMihQPtOXalkkhQC25r) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6), [Mason Levi](https://open.spotify.com/artist/2lx2zCw0a5evbYvfBlft1J) | [Death Wish](https://open.spotify.com/album/6wU1BcX0FRXBFHyNZ7XtQP) | 3:14 | 2022-07-20 | 2022-08-25 |
 | [Decay](https://open.spotify.com/track/2Ley8Y9SBi6DUAOxTepqSe) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Decay](https://open.spotify.com/album/5MK4VGbzCJ9NDm5G3Nvd6w) | 3:07 | 2022-09-14 | 2022-10-15 |
-| [Decay](https://open.spotify.com/track/5ZBDSjEqPgFVut3KVen0rk) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Decay](https://open.spotify.com/album/5MfKzK1PNrXOyRkugJGgXq) | 3:07 | 2022-10-12 |  |
+| [Decay](https://open.spotify.com/track/4PzCfRj2ujlckhRAThjDsl) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Elvis](https://open.spotify.com/album/0csd5T1V7ziPqic307uK2U) | 3:07 | 2022-11-09 |  |
+| [Decay](https://open.spotify.com/track/5ZBDSjEqPgFVut3KVen0rk) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Decay](https://open.spotify.com/album/5MfKzK1PNrXOyRkugJGgXq) | 3:07 | 2022-10-12 | 2022-11-11 |
 | [Deceiver](https://open.spotify.com/track/2Jl2j5MQ1xiim6uqtFJiib) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [Deceiver](https://open.spotify.com/album/3BggejLVlfeTno0cG1FZ2K) | 3:42 | 2022-05-04 | 2022-05-26 |
 | [Deja Vu](https://open.spotify.com/track/3rHRacrfCVhtzrvgYSA8WJ) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 2:27 | 2022-03-03 | 2022-05-12 |
 | [Demons](https://open.spotify.com/track/3PUpUZVebwk8Ff3XAlV6in) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [BOYS DO CRY](https://open.spotify.com/album/7wezeeUZVM2EAzsdqlNzWj) | 3:01 | 2021-12-01 | 2022-01-13 |

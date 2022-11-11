@@ -4,7 +4,7 @@
 
 > Shah Rukh Khan\-Alia\-Ranbir\-Love Songs\-KK\-Kartik Aaryan\-Arijit Singh\-Pritam\-Love Songs\-Bollywood Love Songs\-Hindi Love Songs\-Soft Romantic Love Songs\-Hindi Films\-Bollywood Romance\-Bollywood Soft Romance\-Relaxing Love Songs\-Best Love Songs\-Slow Romantic Bollywood Songs\-Most Romantic LoveSong
 
-117 songs - 9 hr 20 min - not published yet
+118 songs - 9 hr 26 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Mitwa](https://open.spotify.com/track/4BTPzhEsyW3blWcxcuhLM0) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Kabhi Alvida Naa Kehna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV) | 6:22 | 2022-03-24 |  |
 | [Muskurane \- Romantic](https://open.spotify.com/track/6fW78cd0p3ZDUzoqvx2Xqe) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Citylights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Hn2O2s9NQ5EaPtwAc665L) | 5:34 | 2021-11-15 |  |
 | [Nazar Laaye \- Reprise](https://open.spotify.com/track/3h44S4bynHkbKVP2mogqdX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Rashid Ali](https://open.spotify.com/artist/281Vp9LDrWkHMHQzfQHWCt), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Raanjhanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24C47633GRlozws7WBth7t) | 3:55 | 2022-04-27 |  |
+| [Neele Neele Ambar Par \- Male Version](https://open.spotify.com/track/02zPo0Dt0R4TTFY5zLJZnK) | [Kalyanji\-Anandji](https://open.spotify.com/artist/7pWXlTjky0KXWgbdZi9ebq), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Kalaakaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3438iV4EeQYLyaqvT34AMa) | 5:20 | 2022-11-10 |  |
 | [O Meri Jaan \- Rewind Version](https://open.spotify.com/track/6eINZvQ3O47sni95tdIFxI) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [O Meri Jaan \(Rewind Version\)](https://open.spotify.com/album/17gPncS6KK7qR0UzyhDMw6) | 3:14 | 2022-06-07 |  |
 | [O Meri Jaan \- Unplugged](https://open.spotify.com/track/2itHhmP7mL5Sqe9Ic71sIB) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [KK : Unplugged](https://open.spotify.com/album/1HvSbkHFr46Rt49hFN1ltv) | 5:47 | 2022-06-07 |  |
 | [Ok Jaanu Title Track](https://open.spotify.com/track/7a77VY7mjvK6EiaBeOosmk) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Srinidhi Venkatesh](https://open.spotify.com/artist/1PDFenKwhb7oNx0bxCyQF2) | [OK Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6) | 3:26 | 2022-01-18 |  |

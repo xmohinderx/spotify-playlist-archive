@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3yw5kZsheMK.md) - [plain]
 
 > Lyrical lullabies for your bedtime routine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,957 likes - 82 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,965 likes - 82 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3yw5kZsheMK.md) - [plain]
 | 16 | [just be](https://open.spotify.com/track/0fsPJ6XJ34XJzzMwaz3xTy) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for rosie](https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo) | 1:13 |
 | 17 | [It's a New Day](https://open.spotify.com/track/21AldKHuzpB5CNOLNPcrZt) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Lullabies for Adults & Children](https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX) | 2:13 |
 | 18 | [Too Ra Loo Ra \- Calming, Soft Lullaby](https://open.spotify.com/track/2WNkq2ZfausciEkhZTCKWa) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Lullabies For Sleeping](https://open.spotify.com/album/1TucZ7QooKpncuPPObCqRB) | 3:50 |
-| 19 | [Goodnight](https://open.spotify.com/track/7qrXQVznkh7TZmUorSMSPl) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt) | 3:20 |
+| 19 | [Goodnight](https://open.spotify.com/track/5X10LCfLfYrFO2NPAWGCTL) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 3:20 |
 | 20 | [Lullaby Time](https://open.spotify.com/track/6Qbemk2ei6Cg0d9RnXAYcW) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Lullabies](https://open.spotify.com/album/7Jl8kmlsg97DncVuNp3UIm) | 3:41 |
 | 21 | [Goodnight My Love](https://open.spotify.com/track/71t5FgLpawI7kauFCymGmq) | [The Lucky Band](https://open.spotify.com/artist/4cYmyYabyJSvdIOsTweQMz) | [Paseo Lunar](https://open.spotify.com/album/5PX2YJFNfAEBrgj8GfzaIs) | 2:34 |
 | 22 | [Blue Clouds](https://open.spotify.com/track/2mAaFZ1z2b1k5Ca8jFxcaH) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [Blue Clouds](https://open.spotify.com/album/7eDeaYK9ywRt1sp83aMVE6) | 3:13 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3yw5kZsheMK.md) - [plain]
 | 81 | [Hush Little Baby](https://open.spotify.com/track/3AY9D4csUC3lUxmMntdGJw) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt) | 3:01 |
 | 82 | [Brahms Lullaby \(Cradle Song\)](https://open.spotify.com/track/5iaobBgDcg2zPvhgXf0Z7g) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Liona Boyd](https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu) | [Brahms Lullaby \(Cradle Song\)](https://open.spotify.com/album/60Ugf0sCUQdKbKl4MdPxYe) | 2:24 |
 
-Snapshot ID: `MTY1MzUwNjgxMCwwMDAwMDAwMDNlMWZlNWUwNWYwZDBkNzQ5M2Y3MjQ3ZmU3MDVjOTc4`
+Snapshot ID: `MTY1MzUwNjgxMCwwMDAwMDAwMDg1MGEyZTlhMjc4MmVmMTQyM2NhMzgwNTA2NDI4MDYz`

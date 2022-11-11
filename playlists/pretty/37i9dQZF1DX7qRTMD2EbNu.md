@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd?si=\-AL74FKhRRmrcve4i1U40Q"> Yaw TOG </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,279 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,282 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 45 | [Akatafoc](https://open.spotify.com/track/7jx82wdGMpdikLtSajhMb3) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Reggie](https://open.spotify.com/artist/0VuX86IpWGJBEv1PUCRgNP), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Akatafoc](https://open.spotify.com/album/41IfG6m1JTCyYcuMswd6Gi) | 4:17 |
 | 46 | [Nuff Chat](https://open.spotify.com/track/2IgxOCeRiJ0Qm9RDDsNhN0) | [Korshi T](https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc) | [Nuff Chat](https://open.spotify.com/album/1YtqOsHQccqkJmZzDdCFJm) | 3:19 |
 | 47 | [Win](https://open.spotify.com/track/6MXFJ3e7WUvuUsFgpSXvCY) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Win](https://open.spotify.com/album/2od5gvTOvH1SR7en3ns93x) | 4:12 |
-| 48 | [La Hustle \(feat\. Criss Waddle & Joey\-B\) \- Remix](https://open.spotify.com/track/0lGDjjDTjfKTO8phWKKxIl) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Criss Waddle](https://open.spotify.com/artist/1gtDtTEHbCnZYwsz9Xltfc), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [The Truth](https://open.spotify.com/album/0kbHmU0NnDgSHjcFS7i4vM) | 4:03 |
+| 48 | [La Hustle \(feat\. Criss Waddle & Joey B\) \- Remix](https://open.spotify.com/track/3p8SOJXs0zc6dqYE0wigS2) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Criss Waddle](https://open.spotify.com/artist/1gtDtTEHbCnZYwsz9Xltfc), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [ATown](https://open.spotify.com/artist/5khyYIYwf0xORXnNAqV6pF), [DJ Krept](https://open.spotify.com/artist/20i4KyRrntRMtgnJlxUKsf) | [La Hustle \(feat\. Criss Waddle & Joey B\) \[Remix\]](https://open.spotify.com/album/7HnNGFuZXmkvRH2YdaIlGz) | 4:03 |
 | 49 | [Masherita \(feat\. Skyface SDW, CHICOGOD & City Boy\)](https://open.spotify.com/track/1SR6dJwu1Feh0RlAqS0HvK) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Chicogod](https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Masherita \(feat\. Skyface SDW, CHICOGOD & City Boy\)](https://open.spotify.com/album/2cng5y9rfb7QCbcjakftV5) | 3:08 |
 | 50 | [Koobi](https://open.spotify.com/track/197R5eZFfywBrXGQ6tBofH) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1) | [Koobi](https://open.spotify.com/album/67NQONOlbvJVe4qlCf2llO) | 2:40 |
 | 51 | [Rap God](https://open.spotify.com/track/6kQnq7gFyD8VPufeBX5816) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Rap God](https://open.spotify.com/album/2KnDVRArLxbRkSMe76lAI6) | 2:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
 | 80 | [Sika Besu](https://open.spotify.com/track/2n09PSwr22xK2buu4IOcr2) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Sika Besu](https://open.spotify.com/album/0wzBNcQ6Tyz1aKEvXR2ma6) | 3:32 |
 
-Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMDhmMjIyNmEzYzU1MzJiMjhmMzIwYjM3N2Y3MTgwZDZh`
+Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMDlkZGNlYmJkNTRmNWZhN2VkN2VmMzQzNjBiYjUxM2Vk`

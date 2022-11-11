@@ -4,7 +4,7 @@
 
 > In honor of our beloved friend and Kuya Dj Efechto\. This a collection of songs he loved, that influenced him, and tracks he produced or scratched on\. Turn your system to the Red for Efechto\.  Guest curated by Propaganda.
 
-23 songs - 1 hr 8 min - [published](https://open.spotify.com/playlist/3gZ7nuyd9d5UUqe1ntUklF)
+24 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/3gZ7nuyd9d5UUqe1ntUklF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Pack Yo Bags](https://open.spotify.com/track/6i4VdiosDEqYBIs06arK1A) | [The Bridge](https://open.spotify.com/artist/74e9bWJx8AXx8MJy6wWvbE), [D\. Steele](https://open.spotify.com/artist/3v7GYILYt8orXKbs86JwIj), [Efechto](https://open.spotify.com/artist/5x69RJMXwFDWpDAsmdJScW) | [The Bridge](https://open.spotify.com/album/0K7EywH4ha7JWgjcwi4xTE) | 1:25 | 2018-11-21 |  |
 | [Powdered Toast Man \(feat\. Beleaf, Jurny Big & DJ Efechto\)](https://open.spotify.com/track/3tgkFAWTPpnzfFBa47qOBb) | [Taelor Gray](https://open.spotify.com/artist/581tKXVRFKxu6aSyhYMqan), [Beleaf](https://open.spotify.com/artist/7N204QRVuZ3LCoVkKRPf1T), [Jurny Big](https://open.spotify.com/artist/6si2QWdLMMGoSjIgyhmcSu), [DJ Efechto](https://open.spotify.com/artist/3URMfrDdC2LRia3gcWlpG1) | [The Mocker and the Monarch](https://open.spotify.com/album/5Y8N0cF7FPCurd4NObF1ck) | 5:49 | 2018-11-21 |  |
 | [Slow Cook](https://open.spotify.com/track/6OMuYzjJwxY12osD8QAXU1) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t) | [Crooked](https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4) | 3:58 | 2018-11-21 |  |
-| [So Far to Go](https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 5:36 | 2018-11-21 |  |
+| [So Far to Go](https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 5:36 | 2018-11-21 | 2022-11-11 |
+| [So Far To Go \- Instrumental](https://open.spotify.com/track/4b6Vfi3nqr6B3BJKkwLmJr) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining Instrumentals](https://open.spotify.com/album/4CjZRdriTNh1CyIEwjzoTB) | 5:36 | 2018-11-21 |  |
 | [Speed Racer](https://open.spotify.com/track/1rY5OtQ8yOdh4SixnIOPFI) | [The Bridge](https://open.spotify.com/artist/74e9bWJx8AXx8MJy6wWvbE), [D\. Steele](https://open.spotify.com/artist/3v7GYILYt8orXKbs86JwIj), [Efechto](https://open.spotify.com/artist/5x69RJMXwFDWpDAsmdJScW) | [The Bridge](https://open.spotify.com/album/0K7EywH4ha7JWgjcwi4xTE) | 1:40 | 2018-11-21 |  |
 | [Stuck To You](https://open.spotify.com/track/7uOYN99KG67r2hxiqx2fz7) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Rapper's Best Friend](https://open.spotify.com/album/3U6uass3FUMZKMx2VFku4T) | 4:21 | 2018-11-21 |  |
 | [Summertime In The LBC](https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN) | [Dove Shack](https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF) | [This Is The Shack](https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU) | 3:58 | 2018-11-21 |  |

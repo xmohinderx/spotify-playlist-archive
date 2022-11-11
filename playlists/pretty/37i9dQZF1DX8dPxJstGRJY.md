@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,894 likes - 54 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,189 likes - 54 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Prayer](https://open.spotify.com/track/6zlY4xmlgqvn4LxjzoS2mz) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:28 |
+| 1 | [The Prayer](https://open.spotify.com/track/6PbRTsV5Uvouq757OnakoA) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Songs for Mother's Day](https://open.spotify.com/album/2rf9GLP4UNK76ZzbuimoFN) | 4:26 |
 | 2 | [Amazing Grace \(arr\. Mercurio\)](https://open.spotify.com/track/1OWoYQ9tGoufbJGY0YOdAI) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Believe \(Deluxe\)](https://open.spotify.com/album/1YuRC8Fj5XdgpuoA7yBDnr) | 3:56 |
 | 3 | [Nella Fantasia](https://open.spotify.com/track/41SH0UAo3nbzN4l0U38Wq3) | [Katherine Jenkins](https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl), [Choir of The King's Consort](https://open.spotify.com/artist/1bubEqwBcIyhEsO8ExpnXE), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Nicholas Dodd](https://open.spotify.com/artist/4oKiOJ0qPP6TFCv6ebRFKO) | [Katherine Jenkins / From The Heart](https://open.spotify.com/album/3Zu1qssJCsIlgXtJQskbE5) | 5:11 |
 | 4 | [To Make You Feel My Love](https://open.spotify.com/track/66z75O6SUOQxZnS7Spbp95) | [The Serenad3](https://open.spotify.com/artist/23r9OdwRI1XKiYES6p68gu) | [Romantic Serenade](https://open.spotify.com/album/4HPSlAA3McPFOUU41U5AfQ) | 3:43 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 11 | [Regresa a Mí](https://open.spotify.com/track/3p8szomcjl5ghqOKSH5vZf) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Il Divo](https://open.spotify.com/album/2wHQ8jRc9zKG5tyNzopmJt) | 4:40 |
 | 12 | [Return To Love](https://open.spotify.com/track/09YXhYMYIHZBHVKGEQrSQF) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Return To Love](https://open.spotify.com/album/2piXcsaXhEcRXaSXVfe4aw) | 4:34 |
 | 13 | [Somewhere \- From 'West Side Story'](https://open.spotify.com/track/6Eu5Y7S6GXPVp1W7lnlVU7) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together](https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV) | 3:15 |
-| 14 | [Grande amore](https://open.spotify.com/track/4IzDqftkFXUR8G2vaTd3Rb) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Grande amore \(International Version\)](https://open.spotify.com/album/0Jy2GfTkOoIubV6oilvi2s) | 3:44 |
+| 14 | [Grande amore](https://open.spotify.com/track/5KuAHTY8aMiWVVnNqZmfof) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Sanremo \- Il meglio](https://open.spotify.com/album/3Wr2wOJnoUFt72In5b2Z1E) | 3:46 |
 | 15 | [Somewhere Over The Rainbow](https://open.spotify.com/track/1wgUTAbPQkblN0nykDueMI) | [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW) | [Because You're Mine](https://open.spotify.com/album/58fpQPkrpLYmBjkf5vLvGB) | 4:03 |
 | 16 | [Shallow](https://open.spotify.com/track/6pybRbc5DOKqBSpm4TFnBZ) | [The Ten Tenors](https://open.spotify.com/artist/33Aynwpkv5rUn5TsuRmmUJ) | [Love Is in the Air](https://open.spotify.com/album/1hSTHfTeLXqZbR3sKA5p4M) | 4:15 |
 | 17 | [A Million Dreams](https://open.spotify.com/track/3f9MVjyYYUr1EF1FOm7dSF) | [Collabro](https://open.spotify.com/artist/0l1nmcjqNlk9dQHb6H4sLR) | [Love Like This](https://open.spotify.com/album/5qCkKRgXcY4O67RsxdoYbc) | 4:20 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 53 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |
 | 54 | [Never Say Goodbye \(Adapted from "Pavane, M\. 19"\)](https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [River Of Dreams \- The Very Best of Hayley Westenra](https://open.spotify.com/album/2mTBvr7If9pz5DplK6bE9r) | 3:13 |
 
-Snapshot ID: `MTY2NDUyMjc5NCwwMDAwMDAwMGY1YjYxNmQyOWJhN2MxMzdmOGNmODhlYTkyZjdiY2M4`
+Snapshot ID: `MTY2NDUyMjc5NCwwMDAwMDAwMDMwNjA5YzhlMjhmMzRiOTJiOWY3ZWE4NzYzZmJmYjgy`

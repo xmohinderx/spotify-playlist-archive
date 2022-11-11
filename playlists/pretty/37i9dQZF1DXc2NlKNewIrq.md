@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 
 > Dive in to the Ambient of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,210 likes - 74 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,282 likes - 74 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 9 | [Colored Air](https://open.spotify.com/track/7teDfMIAWtfsPApTqcAJ6G) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:58 |
 | 10 | [Ba\-benzélé](https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:17 |
 | 11 | [Mkwaju](https://open.spotify.com/track/2mx7O88JR2wrlTqckLtr53) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/6vXtpsv2IxmvubIDGiE3mX) | 6:28 |
-| 12 | [4th Of July \- Remastered 2009](https://open.spotify.com/track/2c343Y5TmH6jCs3ES9kxjp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:15 |
+| 12 | [4th Of July \- Single Version](https://open.spotify.com/track/1xdiN6I3a3HsJgPn4wndDz) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/1Y0w6vwUl9mwX1mTQ9SpQF) | 2:24 |
 | 13 | [Quiet Friend](https://open.spotify.com/track/7eyrOUEsP04DjbMAIUKXEV) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh) | 13:23 |
 | 14 | [Epilogue](https://open.spotify.com/track/1LIUJgDSRkNYjo4tVtoz2e) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 7:41 |
 | 15 | [Four Paths](https://open.spotify.com/track/4FelvwNQdtIoO8lxOEdiai) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Land of Look Behind \(Remastered + Expanded\)](https://open.spotify.com/album/5PfXgN1QUM9hpwdyyDeB5N) | 2:53 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 50 | [Magnificent Gallery](https://open.spotify.com/track/7ipFhjDTGDzSji2x9D23F2) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Dreamtime Return \- 30th Anniversary Remastered Edition](https://open.spotify.com/album/6lnjs641LTK3qswbVFFBJw) | 6:12 |
 | 51 | [Several Times II](https://open.spotify.com/track/4IitjSBfTpUEMU9GTNfpz0) | [Pieter Nooten And Michael Brook](https://open.spotify.com/artist/1AhA5UAPUefljVYKupe1xp) | [Sleeps with the Fishes](https://open.spotify.com/album/3dtF7JTVFodlTm83YWcLYS) | 2:05 |
 | 52 | [Wenn der Südwind weht](https://open.spotify.com/track/061p2ZMjkvKtbuc5swDz5t) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Wenn der Südwind weht](https://open.spotify.com/album/00bAjAIqUpoyE1TpJPjz14) | 4:13 |
-| 53 | [Slow Water \- 2002 Remastered Version](https://open.spotify.com/track/6iZoU2ZhzhdjmlLPbxlben) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Birdy: Music from the film](https://open.spotify.com/album/6uV4pIbm8a1IU67300sDQT) | 2:55 |
+| 53 | [Slow Water](https://open.spotify.com/track/5fNVizlRJm3tZdIlwWsWzR) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Birdy](https://open.spotify.com/album/6ZTQcgutsPhQ50FRZk3BYl) | 2:53 |
 | 54 | [Lantern Marsh \- Remastered 2004](https://open.spotify.com/track/5QUimuUIhEtuMU475o4xVB) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 5:31 |
 | 55 | [The Wooden Cross](https://open.spotify.com/track/1O6K0dOuS2MUP4sJxwDHtf) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 5:04 |
 | 56 | [Dream](https://open.spotify.com/track/4tN3VXOmHiTlxfii8JXGb2) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 5:34 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 73 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 |
 | 74 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
 
-Snapshot ID: `MTY2NDg5MTc1MCwwMDAwMDAwMDA2YzA5NjRhYWNmZWFmOTc5YWU5OWZlNjU5MzFiMjcz`
+Snapshot ID: `MTY2NDg5MTc1MCwwMDAwMDAwMDA2MTI3N2JmNTFmNGVkZWNlODM4MjA4NTg0MzEwMzEx`

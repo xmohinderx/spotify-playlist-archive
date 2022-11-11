@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,433 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,455 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 8 | [Me and the Devil Blues](https://open.spotify.com/track/1QCUrXrY1qlxRhL3a9LYCA) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:34 |
 | 9 | [Graveyard](https://open.spotify.com/track/5fuON606j1hkPGJhFMwerY) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 3:25 |
 | 10 | [Devil's Gonna Git You](https://open.spotify.com/track/17THAwZLC5xgi25y3S3sHQ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 4](https://open.spotify.com/album/1L3EizQze12QVLvn1znwcT) | 3:10 |
-| 11 | [Devil's Resting Place](https://open.spotify.com/track/7mDFMh8pghY0MRToYb01eI) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:14 |
+| 11 | [Devil's Resting Place](https://open.spotify.com/track/1F75INpjPkOJwd1c1fHG40) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alternative Americana](https://open.spotify.com/album/5egEoLAKrRgFFZBZbiTAaU) | 3:14 |
 | 12 | [Bad Things](https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Jace Everett](https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE) | 2:44 |
 | 13 | [Evil Devil Woman Blues](https://open.spotify.com/track/4fuyL4tMPJxY0SkbnLXB2g) | [Memphis Minnie & Kansas Joe](https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl) | [Memphis Minnie & Kansas Joe Vol\. 4 \(1933 \- 1934\)](https://open.spotify.com/album/6mSqim1eCFRp4qwyyZyir9) | 3:14 |
 | 14 | [Blue Guitar](https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blue Guitar](https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP) | 2:41 |
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 44 | [Blue Devil Blues](https://open.spotify.com/track/1HS0i3XljvlJwBbZ2iRi1F) | [Texas Alexander](https://open.spotify.com/artist/1JzB486qiKybcJOnSMkOyf) | [Texas Alexander Vol\. 2 \(1928\-1930\)](https://open.spotify.com/album/1ThZe8yKqEJe5LNKI6Z1sE) | 3:23 |
 | 45 | [Shoot The Devil](https://open.spotify.com/track/2Od65pY63Wszxh9KgGdJsk) | [David Jacobs\-Strain](https://open.spotify.com/artist/7KXqvbvlCJn6OAxsOru4wu) | [Ocean Or A Teardrop](https://open.spotify.com/album/6kDhcbz8oBrftXQENBXHjX) | 4:18 |
 | 46 | [Crossroads \- 2008 Remaster](https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:24 |
-| 47 | [God's Gonna Cut You Down](https://open.spotify.com/track/5kdkqDsU1U2iRsqDt55y5e) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Sings Ballads & Blues](https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK) | 1:51 |
+| 47 | [God's Gonna Cut You Down](https://open.spotify.com/track/0bGCYXc9sN1REMZGItqShk) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [The Best Of Odetta \- Ballads & Blues](https://open.spotify.com/album/6swhyF56FsqcTOFffZeiJW) | 1:51 |
 | 48 | [Shake Hands With The Devil](https://open.spotify.com/track/6N9EEC8c1I4X8FRMmyN4cu) | [Kenny Parker](https://open.spotify.com/artist/4hstkiGUdRmYQdoJllXPhR) | [Raise The Dead](https://open.spotify.com/album/0KWoKgu11Rk25DOdvDXMlR) | 6:49 |
 | 49 | [The Devil With The Devil](https://open.spotify.com/track/6cqW0uVvurfrB83AlPGQA8) | [The Golden Gate Quartet](https://open.spotify.com/artist/182Tr1WYFcvwbVhCegi1KW) | [Golden Gate Quartet Vol\. 3 \(1939\)](https://open.spotify.com/album/7wUIKSAxaAphwol1abkQjv) | 3:04 |
 | 50 | [Gwine Dig A Hole To Put The Devil In \(142\-B\-1\)](https://open.spotify.com/track/1j3oXJcbQdarDIMWq91yKo) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Leadbelly ARC & Library of Congress Recordings Vol\. 2 \(1935\)](https://open.spotify.com/album/3uCRRCs7gE3acXQUjNpLmF) | 2:32 |
 | 51 | [Devil Got My Woman](https://open.spotify.com/track/20j35mjwZq5Jt3HA0T9Bp2) | [Paul Geremia](https://open.spotify.com/artist/6WjX0aTaDpid6wC4l09oWS) | [Self Portrait in Blues](https://open.spotify.com/album/3lkwobatvIadTglWDDGavY) | 4:29 |
 | 52 | [Lungs](https://open.spotify.com/track/0tBAT5NugCTPG3W5mKpbn4) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 2:29 |
-| 53 | [Crossroads](https://open.spotify.com/track/0BfVCv8lMEHxEWZlo85Zso) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [The USA Records Blues Story](https://open.spotify.com/album/2jCNz707qCyk1BOV66BaD2) | 2:45 |
+| 53 | [Crossroads](https://open.spotify.com/track/7tTROS8YTXXvZQLrShynY6) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [Chicago City Blues The '60s](https://open.spotify.com/album/41yyBTXkSkjDvQHUHU5tcg) | 2:47 |
 | 54 | [Hellhound on My Trail \- Take 1](https://open.spotify.com/track/1JKsia6kNlSeqDnPfJgKvH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:05 |
 | 55 | [The Devil Is A Busy Man](https://open.spotify.com/track/6Rt9vpmSBshbhQqLWDRTqQ) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Live in '63](https://open.spotify.com/album/1wcEYzdh2ovnd2rPoB7LvO) | 4:47 |
 | 56 | [Crossroads \- Crossroad 2 Box/Set Version/Live Version](https://open.spotify.com/track/6SeQ9g3IQEh5Hpdg8psO1Q) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Crossroads 2 \(Live In The Seventies\)](https://open.spotify.com/album/2vTifPgCfp6q3dyJApxS9D) | 5:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 59 | [Crossroads](https://open.spotify.com/track/4rxamav7i2lJexbuAxcvfe) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Crossroads](https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5) | 4:11 |
 | 60 | [Lady Weeping At The Crossroads](https://open.spotify.com/track/2fHeCbp3pCJbd3g5wQF636) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [No Promises](https://open.spotify.com/album/1GOhEzYqUHO4ROrrupcVVH) | 3:37 |
 
-Snapshot ID: `MTYwNTMwMjg1MSwwMDAwMDAwMDYxOGJmMGRjMDY1YWI4OWU1ZDUzYjMxMTk3M2Q0MDQ1`
+Snapshot ID: `MTYwNTMwMjg1MSwwMDAwMDAwMDNkOTNkMDFhOGNkZGM3NDMwNDE4ZmNjZmRhZjQzNjRm`

@@ -4,7 +4,7 @@
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Tóc Tiên
 
-118 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
+120 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Muộii](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 | 2022-05-27 |  |
 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 | 2022-05-27 | 2022-10-06 |
 | [Chúng Ta Sau Này](https://open.spotify.com/track/4Wdwvi2C5MD8zDi9Kg3x4X) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Chúng Ta Sau Này](https://open.spotify.com/album/7xWIiLIMicso31AA6umVjI) | 3:31 | 2022-05-27 | 2022-07-29 |
-| [Chúng Ta Sau Này](https://open.spotify.com/track/5IO873C4IP8pXdsXcJiBes) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Chúng Ta Sau Này](https://open.spotify.com/album/4J0LzY0UJJAeZnyLKWWWOO) | 3:31 | 2022-07-27 |  |
+| [Chúng Ta Sau Này](https://open.spotify.com/track/5IO873C4IP8pXdsXcJiBes) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Chúng Ta Sau Này](https://open.spotify.com/album/4J0LzY0UJJAeZnyLKWWWOO) | 3:31 | 2022-07-27 | 2022-11-11 |
+| [Chúng Ta Sau Này](https://open.spotify.com/track/6hF3ZBlTIwtmYB04ioJqrX) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Chúng Ta Sau Này](https://open.spotify.com/album/1llkqHgTTx9LcZ9gr5d5wQ) | 3:31 | 2022-11-07 |  |
 | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ) | 4:15 | 2022-07-05 |  |
 | [Chậm Lại](https://open.spotify.com/track/067J8jL5iPDzVBH0jClJpI) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Chậm Lại](https://open.spotify.com/album/4sGS3UYEjJtBi4MuiOwGKV) | 3:43 | 2022-08-25 | 2022-09-12 |
 | [Chết Trong Em](https://open.spotify.com/track/4QjxvzEFwb63NZ1pp3wvHy) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chết Trong Em](https://open.spotify.com/album/38JFpZ6hGFaQ4BUxT7XcI0) | 4:16 | 2022-11-07 |  |
@@ -65,7 +66,8 @@
 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/2EMbVMhUtYNfuAhTi9HvBk) | [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/7oZP3YD6tt4RAreNqTsjGv) | 3:34 | 2022-05-27 | 2022-07-29 |
 | [Mascara](https://open.spotify.com/track/2Jaaw8PrdUfPlU6o6tL5dl) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Mascara](https://open.spotify.com/album/0u3o3ESS1rnXlpF3VDI3gj) | 4:53 | 2022-05-27 |  |
 | [Muốn Nói Với Em](https://open.spotify.com/track/1HDrKXya87GMQfAGPlqNS9) | [T Team](https://open.spotify.com/artist/7gJkNlcHtpuOhvl1FIDK1y) | [Muốn Nói Với Em](https://open.spotify.com/album/4xxZSGefRZ1LOryWzpQGEc) | 3:53 | 2022-05-27 | 2022-07-29 |
-| [Muốn Nói Với Em](https://open.spotify.com/track/5Um995yUx3GSJ6uNOMaaP4) | [T Team](https://open.spotify.com/artist/7gJkNlcHtpuOhvl1FIDK1y) | [Muốn Nói Với Em](https://open.spotify.com/album/1D5q4yg90UnV6e4sMRuLzz) | 3:53 | 2022-07-27 |  |
+| [Muốn Nói Với Em](https://open.spotify.com/track/5Um995yUx3GSJ6uNOMaaP4) | [T Team](https://open.spotify.com/artist/7gJkNlcHtpuOhvl1FIDK1y) | [Muốn Nói Với Em](https://open.spotify.com/album/1D5q4yg90UnV6e4sMRuLzz) | 3:53 | 2022-07-27 | 2022-11-11 |
+| [Muốn Nói Với Em](https://open.spotify.com/track/7r7Dw8VpuPBAUyiNYNMCfd) | [T Team](https://open.spotify.com/artist/7gJkNlcHtpuOhvl1FIDK1y) | [Muốn Nói Với Em](https://open.spotify.com/album/5mcNPJloU8ubtwq7Fjdosg) | 3:53 | 2022-11-07 |  |
 | [Muộn Rồi Mà Sao Còn](https://open.spotify.com/track/5fFLotKS1286huYIMQHqz7) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Muộn Rồi Mà Sao Còn](https://open.spotify.com/album/33Iz5SghJnJ9iM0xIWCS3M) | 4:35 | 2022-05-27 | 2022-06-29 |
 | [Một Ngàn Nỗi Đau](https://open.spotify.com/track/05X3a0YGmS1rbH50aL8lGF) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Một Ngàn Nỗi Đau](https://open.spotify.com/album/3STAYL3gX9aQx2oi3yslIz) | 5:21 | 2022-06-26 |  |
 | [một ngày tôi quên hết](https://open.spotify.com/track/2bxVMMRP6AHvUVXHQrIBy9) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [Cẩm Vân](https://open.spotify.com/artist/4sB7Byv9cAeaPbR05YSQFR), [CeCe Trương](https://open.spotify.com/artist/0We6FybaRNC3InZwnhiH2J) | [một ngày tôi quên hết](https://open.spotify.com/album/0XhltjKp7yErYaQhtt8h7x) | 4:22 | 2022-05-27 | 2022-06-03 |

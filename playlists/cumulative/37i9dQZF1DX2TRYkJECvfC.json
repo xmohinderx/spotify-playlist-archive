@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 349767,
       "name": "Boats",
       "url": "https://open.spotify.com/track/69ZWVeHTMA8zwjOiCfpvOi"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 410618,
       "name": "Flying Circles - Original Mix",
       "url": "https://open.spotify.com/track/6Y2T0AmowuhVjMkopssmQY"
@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 309574,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/6kvinwAz4dSKmLYMt5dP6O"
@@ -2001,7 +2001,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 471300,
       "name": "I Thought I Would Feel Different But I Feel The Same",
       "url": "https://open.spotify.com/track/7qF9ZcGHkP9IQINswrY0NF"
@@ -2157,7 +2157,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 243373,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/5xUomxrzkIr0MAP9YQur24"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 253333,
       "name": "It Was You, It Was Always You",
       "url": "https://open.spotify.com/track/6rAxlRdBTz4NzSZH3OnxjH"
@@ -2323,7 +2323,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 424937,
       "name": "Just Us 2",
       "url": "https://open.spotify.com/track/77PphOhe88ESixnOdJBfby"
@@ -2669,7 +2669,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 468060,
       "name": "Live For The Music feat. Erire - Instrumental",
       "url": "https://open.spotify.com/track/0AYA7mZrC4SvoB8Bq5E7yA"
@@ -2807,7 +2807,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 420495,
       "name": "Make a Wish",
       "url": "https://open.spotify.com/track/3sUV3UODz1JL2Bv4kkz6u1"
@@ -3683,7 +3683,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 255030,
       "name": "Palms",
       "url": "https://open.spotify.com/track/4cWrrjsKvHnKV8uqlUF8kb"
@@ -3889,7 +3889,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 283813,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/6KqC7YNOcqYh5J5cNb1gbw"
@@ -3907,7 +3907,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 434406,
       "name": "Pura Vida",
       "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
@@ -4625,7 +4625,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 326722,
       "name": "Sofia's Theme",
       "url": "https://open.spotify.com/track/6H1qRu7bx0H8MwUHHQQ5P4"
@@ -4741,7 +4741,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 450995,
       "name": "Solaris",
       "url": "https://open.spotify.com/track/6ucvqqz22FxhiodmbhW8dQ"
@@ -4963,6 +4963,24 @@
       "duration_ms": 372874,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/5yBxMXMHbNiQWFeSezo9aK"
+    },
+    {
+      "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/6qS7LxyPsB0jPOZ9aQc3wn"
+      },
+      "artists": [
+        {
+          "name": "Ferdinand Weber",
+          "url": "https://open.spotify.com/artist/5DSfdm9JanV5cqM2nzzJsN"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189556,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/2k4Fi92cj9ek4twS3uzckQ"
     },
     {
       "album": {
@@ -5199,7 +5217,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 401474,
       "name": "Tapisl",
       "url": "https://open.spotify.com/track/6joasewIA9IiFRfPJPKu0A"
@@ -5269,7 +5287,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 534342,
       "name": "the mirror",
       "url": "https://open.spotify.com/track/00i5lwTpbdEq3Cp9m3oB88"
@@ -5323,7 +5341,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 251501,
       "name": "The Prey",
       "url": "https://open.spotify.com/track/6gJBwzJjQ6VUgyueihcQP7"
@@ -5819,7 +5837,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 321266,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/6QBP6d9mDyEGE1jnS3jWrO"
@@ -6189,7 +6207,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 227176,
       "name": "Yuregine Deprem",
       "url": "https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E"

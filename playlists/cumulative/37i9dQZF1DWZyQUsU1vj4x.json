@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "Zdarlight 1992",
+        "url": "https://open.spotify.com/album/2T1W5N2WJKa2cYgzyXmzXw"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224598,
+      "name": "Belo Horizonte",
+      "url": "https://open.spotify.com/track/64UnMEEojxkLppM0fp2NOB"
+    },
+    {
+      "album": {
         "name": "Welcome To Kookoo Island",
         "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
       },
@@ -171,7 +189,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 226165,
       "name": "Belo Horizonte",
       "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
@@ -304,6 +322,28 @@
     },
     {
       "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/1h81fExuUWbFElcVHk5x9Q"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "Ben Bridwell",
+          "url": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278953,
+      "name": "Bullet Proof Soul",
+      "url": "https://open.spotify.com/track/0BwkrHVAVHdb2pSxL8yEMG"
+    },
+    {
+      "album": {
         "name": "Bullet Proof Soul",
         "url": "https://open.spotify.com/album/7q9boj7ABOaJsTx7yic7gS"
       },
@@ -341,7 +381,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 278953,
       "name": "Bullet Proof Soul",
       "url": "https://open.spotify.com/track/4sHbjW3Dx2wyAZiO5Jz7Nz"
@@ -611,7 +651,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 235350,
       "name": "Desolation Point",
       "url": "https://open.spotify.com/track/1xqwwhzRT5V5cSev8sxXOS"
@@ -629,7 +669,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 235350,
       "name": "Desolation Point",
       "url": "https://open.spotify.com/track/7HpHnuK94vWiyXI5iFld4X"
@@ -802,6 +842,24 @@
     },
     {
       "album": {
+        "name": "Short Movie (Director's Cut)",
+        "url": "https://open.spotify.com/album/2hGp4zeWcLdeQ0iq7Uj52Q"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "False Hope",
+      "url": "https://open.spotify.com/track/0gNLDjcR1RMuH5jBsgjNLa"
+    },
+    {
+      "album": {
         "name": "Short Movie",
         "url": "https://open.spotify.com/album/08cXCARUoHLoccf0y06Dlv"
       },
@@ -813,7 +871,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 192466,
       "name": "False Hope",
       "url": "https://open.spotify.com/track/3CIvt8YmxXMUE5mCOQ7Cz9"
@@ -856,6 +914,24 @@
     },
     {
       "album": {
+        "name": "Fire in the Empire",
+        "url": "https://open.spotify.com/album/6HRJVr7zJnqknkKyrKtjtR"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217240,
+      "name": "Fire in the Empire",
+      "url": "https://open.spotify.com/track/7mGH4VlY1XCNRAjGZIIiHk"
+    },
+    {
+      "album": {
         "name": "Empire",
         "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
       },
@@ -867,7 +943,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 217240,
       "name": "Fire in the Empire",
       "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
@@ -2057,10 +2133,28 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 217880,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/2jYHFtUZkROTD0nxW9U3uV"
+    },
+    {
+      "album": {
+        "name": "Run Lola Run",
+        "url": "https://open.spotify.com/album/4QEIDOQyIMdhJ1M7Ta3vau"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217880,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/7tT2BrYZMf6QDRaoOKni7Y"
     },
     {
       "album": {
@@ -2433,7 +2527,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 270053,
       "name": "The World Ender",
       "url": "https://open.spotify.com/track/3NNimGud58iHka1LHkda6D"
@@ -2455,6 +2549,24 @@
       "duration_ms": 270053,
       "name": "The World Ender",
       "url": "https://open.spotify.com/track/3jdr1hbHLoKjZoriUVXmyx"
+    },
+    {
+      "album": {
+        "name": "The World Ender",
+        "url": "https://open.spotify.com/album/1K0cQknPcN6M1G47WQzPMN"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270053,
+      "name": "The World Ender",
+      "url": "https://open.spotify.com/track/5FWRsgxsexj4WzWua9LSXs"
     },
     {
       "album": {
@@ -2613,10 +2725,28 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 161690,
       "name": "What's Chasing You",
       "url": "https://open.spotify.com/track/2gGl2YokMEhgsB3CUJaW3u"
+    },
+    {
+      "album": {
+        "name": "What's Chasing You",
+        "url": "https://open.spotify.com/album/6GkWMygpf1VKXDPGvwPRuT"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161690,
+      "name": "What's Chasing You",
+      "url": "https://open.spotify.com/track/5aMc3fPEN2OjS5y2PUMhNI"
     },
     {
       "album": {
@@ -2656,6 +2786,24 @@
     },
     {
       "album": {
+        "name": "Widow's Peak",
+        "url": "https://open.spotify.com/album/0FyLW7baFYzM7hOWKt8zXF"
+      },
+      "artists": [
+        {
+          "name": "Odetta Hartman",
+          "url": "https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "Widow's Peak",
+      "url": "https://open.spotify.com/track/60Q9G9OhXkfe5Hfla12kd0"
+    },
+    {
+      "album": {
         "name": "Old Rockhounds Never Die",
         "url": "https://open.spotify.com/album/3Jb4Qyb0nmKWW7JXhZQ3wA"
       },
@@ -2667,7 +2815,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 231093,
       "name": "Widow's Peak",
       "url": "https://open.spotify.com/track/70rmykCzXyK5F4Xzh3xLww"

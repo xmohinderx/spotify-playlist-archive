@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 362482,
       "name": "A Matter of Time",
       "url": "https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 264750,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 246160,
       "name": "Blitzkrieg",
       "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
@@ -718,6 +718,24 @@
     },
     {
       "album": {
+        "name": "Linger Ficken' Good...And Other Barnyard Oddities",
+        "url": "https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC"
+      },
+      "artists": [
+        {
+          "name": "Revolting Cocks",
+          "url": "https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337226,
+      "name": "Da Ya Think I'm Sexy?",
+      "url": "https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0"
+    },
+    {
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/49YrBIMYXJy9AzK47mxAoK"
       },
@@ -729,7 +747,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 216986,
       "name": "Demons",
       "url": "https://open.spotify.com/track/71YT7JxU6etsde4vTUz1BF"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 302640,
       "name": "Headhunter V1.0",
       "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 314440,
       "name": "Hey Man, Nice Shot - Remastered Version",
       "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
@@ -1597,7 +1615,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 316701,
       "name": "Into the Void",
       "url": "https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI"
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 244538,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
@@ -1969,7 +1987,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 238765,
       "name": "Lord Of Chaos",
       "url": "https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE"
@@ -2081,7 +2099,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 205720,
       "name": "mOBSCENE",
       "url": "https://open.spotify.com/track/4Ppy0KysTPcXyzyP5JiJDx"
@@ -2641,7 +2659,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 223728,
       "name": "Royal Leash",
       "url": "https://open.spotify.com/track/7fBy8RKySzM04XrtYm2SJc"
@@ -2955,7 +2973,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 415160,
       "name": "The Death & Resurrection Show",
       "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
@@ -3207,7 +3225,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 201293,
       "name": "Verr\u00fcckt - Original Version",
       "url": "https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON"

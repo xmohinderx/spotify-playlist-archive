@@ -2190,6 +2190,24 @@
     },
     {
       "album": {
+        "name": "Kid's Hits Today",
+        "url": "https://open.spotify.com/album/4pQqFqdcTTOFyE4Fy3DOsZ"
+      },
+      "artists": [
+        {
+          "name": "Kids Music All-Stars",
+          "url": "https://open.spotify.com/artist/5F521ymFBaFwpssPjxSCII"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215773,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/1FVe8gMPBWQGqTV3DpLmog"
+    },
+    {
+      "album": {
         "name": "Acoustic Coffee House",
         "url": "https://open.spotify.com/album/4jrVgcZN7Q3voamIhYi3gb"
       },
@@ -2201,7 +2219,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215773,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/4zbdRytE8NuhnVQLkSJhOE"
@@ -2273,10 +2291,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 186285,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/1hBqtK4qAms8tUHz0bNzSY"
+    },
+    {
+      "album": {
+        "name": "Vintage Bossa Caf\u00e9",
+        "url": "https://open.spotify.com/album/4aOESzlJmSUE3DB8AfT6Od"
+      },
+      "artists": [
+        {
+          "name": "Ituana",
+          "url": "https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/6y1pK4TwTsR1fJdkdYJE4T"
     },
     {
       "album": {
@@ -2421,10 +2457,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215593,
       "name": "Something Just Like This - Bossa Mix",
       "url": "https://open.spotify.com/track/5wqJ934lye7Apsg5LjjbLx"
+    },
+    {
+      "album": {
+        "name": "New Hits in Bossa Mode",
+        "url": "https://open.spotify.com/album/1mtOPd9WQL5MbRBcypA6Mh"
+      },
+      "artists": [
+        {
+          "name": "Purple Sparks",
+          "url": "https://open.spotify.com/artist/0haWJk8mUdWGoSmbR08pns"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215593,
+      "name": "Something Just Like This - Bossa Mix",
+      "url": "https://open.spotify.com/track/6fEQg8xlw5KUR3is41kAv6"
     },
     {
       "album": {

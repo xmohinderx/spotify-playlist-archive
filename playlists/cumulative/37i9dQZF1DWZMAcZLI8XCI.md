@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-117 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/14NF73p0PX7l2Dwfl5bnjd)
+118 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/14NF73p0PX7l2Dwfl5bnjd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [33](https://open.spotify.com/track/5hk00NkTyCehjfsQrjxpYY) | [Paramida](https://open.spotify.com/artist/3bFxfwnZ1vmvzoNYz8z2vh) | [Moonrise VII](https://open.spotify.com/album/4TjVOsg5QGvlvEEgEL4mdb) | 3:40 | 2022-09-19 | 2022-11-09 |
 | [A Grove Box Inside a Black Box](https://open.spotify.com/track/1qCbmyc2q8QkWbN5Yvsrof) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [A Grove Box Inside a Black Box](https://open.spotify.com/album/2ufu8ALnJoILn3mfPMkrRP) | 3:45 | 2022-09-19 | 2022-11-09 |
 | [Achilleus](https://open.spotify.com/track/3MRCKWzVQLHe7OOeEpE8u8) | [Aera](https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk) | [Ghost Town EP](https://open.spotify.com/album/5KjHBY3qOkaNcCBD69Q6fP) | 5:44 | 2022-09-19 | 2022-11-09 |
-| [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 4:16 | 2022-11-08 |  |
+| [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/3lUlEzMGJxmv0ByKeMiHKR) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Netra ken](https://open.spotify.com/album/1NFqI4bBcsvFY4XhZevTx2) | 4:16 | 2022-11-08 |  |
+| [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 4:16 | 2022-11-08 | 2022-11-11 |
 | [AHBC](https://open.spotify.com/track/054wVabhZUeyOaydeHtHAA) | [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Path Integral VI \- 3](https://open.spotify.com/album/5Y3UqjtTt3gAYq8aPg93Q1) | 6:47 | 2022-11-08 |  |
 | [Anarkian kuvajainen](https://open.spotify.com/track/7EIMEIJRjWJpYmJCd5pwuN) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Tyyni](https://open.spotify.com/album/7utUB4dW47RqaFjuZ2zwIm) | 4:58 | 2022-09-19 | 2022-11-09 |
 | [Bateekh](https://open.spotify.com/track/0LNcBR9Rbj59JxeUBBQit7) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [Bateekh](https://open.spotify.com/album/3axS1s6UJqmgogmz2oyoOn) | 4:14 | 2022-11-08 |  |

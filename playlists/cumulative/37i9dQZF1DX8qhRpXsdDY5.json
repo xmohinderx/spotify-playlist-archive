@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 182933,
       "name": "A los Santos Reyes",
       "url": "https://open.spotify.com/track/7Jfu8UvOHm76l4EtnujLkH"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187506,
       "name": "Adeste Fideles",
       "url": "https://open.spotify.com/track/1f6GRRkKsl3jZBIEw4LfBM"
@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Juntos En Navidad",
+        "url": "https://open.spotify.com/album/6kYL0d4jJKu88yBLC7dOGC"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "Adeste Fideles - Remastered 2010",
+      "url": "https://open.spotify.com/track/01NJXVCk1zh38bjoCM8cFg"
+    },
+    {
+      "album": {
         "name": "Asalto Navide\u00f1o: Vol. 1 & 2",
         "url": "https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw"
       },
@@ -153,7 +171,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 223200,
       "name": "Aires De Navidad",
       "url": "https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl"
@@ -641,7 +659,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 257343,
       "name": "El abeto",
       "url": "https://open.spotify.com/track/4XVomOIxlU6YKcGEaUXul2"
@@ -717,10 +735,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 176786,
       "name": "El Mejor Regalo",
       "url": "https://open.spotify.com/track/1HlS59V3jDAQx9VWfj1Ztm"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Navide\u00f1os",
+        "url": "https://open.spotify.com/album/6wGwKO7hlf7TTOVuO7gbiN"
+      },
+      "artists": [
+        {
+          "name": "Arianna",
+          "url": "https://open.spotify.com/artist/6k8y1np6q05Us6dNn3vmF8"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178226,
+      "name": "El Ni\u00f1o Del Tambor",
+      "url": "https://open.spotify.com/track/7MvbtTzZK1dLjjAOmhACXS"
     },
     {
       "album": {
@@ -735,7 +771,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 178240,
       "name": "El Ni\u00f1o Del Tambor",
       "url": "https://open.spotify.com/track/4RlchUXQbskbu8WXGYcCw1"
@@ -771,7 +807,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 230760,
       "name": "El Ni\u00f1o Jesus",
       "url": "https://open.spotify.com/track/5nkotu365Il2wz2JnPYCNY"
@@ -928,6 +964,24 @@
     },
     {
       "album": {
+        "name": "Navidad Latina - Exitos de Navidad (Streaming)",
+        "url": "https://open.spotify.com/album/1YuhJtitgIwj5qOgdxFDMz"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279133,
+      "name": "Farolito (Little Star)",
+      "url": "https://open.spotify.com/track/4vcGHlqTOHUPVI3I15l9n1"
+    },
+    {
+      "album": {
         "name": "Abriendo Puertas",
         "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
       },
@@ -939,7 +993,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 279133,
       "name": "Farolito (Little Star)",
       "url": "https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9"
@@ -975,7 +1029,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187653,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/364zaCkRaENgzJ9THwg6dD"
@@ -1188,6 +1242,28 @@
     },
     {
       "album": {
+        "name": "Nochebuena In Cuba",
+        "url": "https://open.spotify.com/album/0xezE4KgAneArEhKjQHuIE"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139572,
+      "name": "Jingle Bells (Canta, Celia Cruz)",
+      "url": "https://open.spotify.com/track/6Ueg2fmZTxI2jaQ8UrX4An"
+    },
+    {
+      "album": {
         "name": "Navidades Con La Sonora Matancera",
         "url": "https://open.spotify.com/album/76JaJI88p06XmGGKWIS6rr"
       },
@@ -1199,7 +1275,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 143066,
       "name": "Jingle Bells (Cascabeles)",
       "url": "https://open.spotify.com/track/4SFjK5RjMOA8ZqvjnWqQfe"
@@ -1239,7 +1315,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 300920,
       "name": "La Fiesta Se Pone Buena",
       "url": "https://open.spotify.com/track/0iG4fSbECL4BUhLWVMZrSr"
@@ -1257,7 +1333,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 431880,
       "name": "Las Caras Lindas",
       "url": "https://open.spotify.com/track/1C74E6b4NrjC4a2TblWWIa"
@@ -1486,6 +1562,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234880,
+      "name": "Me La Gozo Entera",
+      "url": "https://open.spotify.com/track/7iUYL8oom4sHsHvILId5lU"
+    },
+    {
+      "album": {
         "name": "Felicidades",
         "url": "https://open.spotify.com/album/024yNADGjvnhSVjscpD5qG"
       },
@@ -1497,7 +1591,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 234933,
       "name": "Me La Gozo Entera",
       "url": "https://open.spotify.com/track/1f5XLutbGai35jI95ocTfI"
@@ -1889,7 +1983,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223386,
       "name": "Por La Paz",
       "url": "https://open.spotify.com/track/5JrU1kaeVGEgGB4gUZs8Bp"
@@ -2107,7 +2201,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 153440,
       "name": "Santa, Te Espero A Las 10",
       "url": "https://open.spotify.com/track/1rrgtua4d11ALBCNQHlvI4"
@@ -2247,7 +2341,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 236200,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/0zjjFeXot9dsKPMO6AsBpH"
@@ -2297,7 +2391,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 236200,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/1gKfAZ4WauownlJdL5CM8q"

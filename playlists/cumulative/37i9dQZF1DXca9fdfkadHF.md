@@ -4,7 +4,7 @@
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-82 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/2TM16VdLTGsbk088ETOR0g)
+85 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/2TM16VdLTGsbk088ETOR0g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Clon](https://open.spotify.com/track/3UGyNybOojLXwEWEjC4h42) | [Huelga de hambre](https://open.spotify.com/artist/5HBq2CbvH0j3HsbTSD7ySQ) | [Máquina y Espíritu](https://open.spotify.com/album/2HYHSHyjYiInfqgPshmkLI) | 5:00 | 2022-04-01 |  |
 | [Confusión](https://open.spotify.com/track/6SiQcAM3WKVf9eP2WQZ0Ok) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Confusión](https://open.spotify.com/album/39JBhk7OBHt3Zv61nZcFte) | 2:46 | 2022-04-01 |  |
 | [Decir Adiós](https://open.spotify.com/track/66U8FfBAkIIDdRbYDHaHS8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/68FFuQiwhIsrtH32l5TyWe) | 3:52 | 2022-04-01 | 2022-11-03 |
-| [Decir Adiós](https://open.spotify.com/track/1snT64YtuTvZYVzuornRjw) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:52 | 2022-04-01 |  |
+| [Decir Adiós](https://open.spotify.com/track/1snT64YtuTvZYVzuornRjw) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:52 | 2022-04-01 | 2022-11-11 |
+| [Decir Adiós](https://open.spotify.com/track/1wrvhdpgdvEP7F3RI8BZon) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Las Mejores Baladas del Rock Peruano, Vol.2](https://open.spotify.com/album/7DUY8h1WoNbTkpGIQDnYmB) | 3:54 | 2022-04-01 |  |
 | [Demolición](https://open.spotify.com/track/3dTcwy3L3fOP0vm4Lz0zdD) | [Los Saicos](https://open.spotify.com/artist/4HYB35YLMCRIzQobpWs5yv) | [¡Demolición! The Complete Recordings](https://open.spotify.com/album/3Ai7SkBLKNZusgIRiP1R1M) | 2:57 | 2022-04-01 |  |
 | [Dime Cuantas Veces](https://open.spotify.com/track/6z0eMk6Xa8Mx7AjhydUOZ2) | [Fuera del Resto](https://open.spotify.com/artist/7v5UtTSIrVtQneJY6EK0r7), [Daniella Saettone](https://open.spotify.com/artist/48RFZr0AZskIbjRBmZhx72) | [Fuera del Resto](https://open.spotify.com/album/00pt8qwh9djWy5oGJDoK4A) | 4:48 | 2022-04-01 |  |
 | [El Hombre Que Quería Ser un Arbol](https://open.spotify.com/track/2MxQZWdX4CVshx2L9WTj7L) | [Rafo Raez y los Paranoias](https://open.spotify.com/artist/481gdbLADpe8TGkv8Td4a5) | [Camisa](https://open.spotify.com/album/3o3jj7LXcJ8JZj46Eti6eu) | 3:51 | 2022-04-01 |  |
@@ -80,10 +81,12 @@
 | [Suna](https://open.spotify.com/track/4FGBEwbkQtbUHoidy5CNcy) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/3cuWK2TnY4v2oyYCxAw11b) | 4:04 | 2022-04-01 | 2022-07-29 |
 | [Suna](https://open.spotify.com/track/4udGuDY6x5WzWdMiVe3yea) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 4:04 | 2022-04-01 |  |
 | [Travesti](https://open.spotify.com/track/7mP7CSPnMOgiB4TFzN7QaM) | [Sangre Púrpura](https://open.spotify.com/artist/0iCm5J3ki7zYRKNaGB72hN) | [Lo Mejor](https://open.spotify.com/album/5UmHPpAm1Dn6l2m3poazi9) | 4:00 | 2022-04-01 |  |
+| [Triciclo Perú](https://open.spotify.com/track/2ELYy1uP6rbXhTAXh6px9f) | [Los Mojarras](https://open.spotify.com/artist/1q7dN4c3Py4QbovlM01xYX) | [Los Mojarras \(1992\-2012\)](https://open.spotify.com/album/2Yh0cSIVg3KUE58e0O1rbo) | 3:33 | 2022-04-01 |  |
 | [Triciclo Perú](https://open.spotify.com/track/5GUPHcl11vUeOf1OwDjJb5) | [Los Mojarras](https://open.spotify.com/artist/1q7dN4c3Py4QbovlM01xYX) | [Rock Urbano](https://open.spotify.com/album/63VlyjU1ReBl1ZZaDyBJqr) | 3:38 | 2022-04-01 | 2022-11-03 |
-| [Triciclo Perú](https://open.spotify.com/track/5LD3MwyqMqQ2nV1ZWhvFQ7) | [Los Mojarras](https://open.spotify.com/artist/1q7dN4c3Py4QbovlM01xYX) | [Los Mojarras: Rock Urbano](https://open.spotify.com/album/2yLZIIwUXTeGGAbNT22eXM) | 3:38 | 2022-04-01 |  |
+| [Triciclo Perú](https://open.spotify.com/track/5LD3MwyqMqQ2nV1ZWhvFQ7) | [Los Mojarras](https://open.spotify.com/artist/1q7dN4c3Py4QbovlM01xYX) | [Los Mojarras: Rock Urbano](https://open.spotify.com/album/2yLZIIwUXTeGGAbNT22eXM) | 3:38 | 2022-04-01 | 2022-11-11 |
 | [Tus Alas Caerán](https://open.spotify.com/track/47RPhZOsbbgeSugavCkqtT) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [\[Campo De Almas\]](https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC) | 5:40 | 2022-04-01 |  |
-| [Tú y Yo](https://open.spotify.com/track/76LGvZPmgiiOx5NUbhUZtH) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993 \- 2001\)](https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y) | 2:18 | 2022-04-01 |  |
+| [Tú y Yo](https://open.spotify.com/track/2Gsi2U5j3HUja7YcXkbr3B) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/5uxCbEVfLhM7P1UoSrBrT0) | 2:16 | 2022-04-01 |  |
+| [Tú y Yo](https://open.spotify.com/track/76LGvZPmgiiOx5NUbhUZtH) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993 \- 2001\)](https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y) | 2:18 | 2022-04-01 | 2022-11-11 |
 | [Tú y Yo](https://open.spotify.com/track/6EesgMPcFrCTh4AqMmC2LO) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 2:19 | 2022-04-01 | 2022-10-06 |
 | [Un Día Sin Sexo](https://open.spotify.com/track/2Mvg1fyuwuZtWshE9v0M3g) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 6:37 | 2022-04-01 |  |
 | [Un Día Sin Sexo](https://open.spotify.com/track/5cmWOkiyVPPme4VeP9cZpR) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/3hPLzDRCvMNlQHtWB16DD0) | 6:37 | 2022-04-01 | 2022-07-29 |

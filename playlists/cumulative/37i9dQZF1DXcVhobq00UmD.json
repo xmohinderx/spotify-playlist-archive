@@ -481,6 +481,24 @@
     {
       "album": {
         "name": "Kim Lip",
+        "url": "https://open.spotify.com/album/4Ihp1Q01jIrLrVHqzCMJEn"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231237,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/3y3gnrkETEr90Zpe6fNuOt"
+    },
+    {
+      "album": {
+        "name": "Kim Lip",
         "url": "https://open.spotify.com/album/579Sgz4tNrKVhrcma3AwPi"
       },
       "artists": [
@@ -535,6 +553,24 @@
       "duration_ms": 208160,
       "name": "Everyday I Love You",
       "url": "https://open.spotify.com/track/5HGeTj4lVdLGed5c358q1f"
+    },
+    {
+      "album": {
+        "name": "ViVi",
+        "url": "https://open.spotify.com/album/0MD0RqL7en43L2KflRReWF"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394, \ud558\uc2ac",
+          "url": "https://open.spotify.com/artist/2ST8oiGganB1HK0qMPvYMq"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208160,
+      "name": "Everyday I Love You",
+      "url": "https://open.spotify.com/track/2z81SECbY31aro8nTm53w2"
     },
     {
       "album": {
@@ -633,10 +669,28 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187442,
       "name": "Fairy Tale",
       "url": "https://open.spotify.com/track/2TUQSG8OGC1cg1uMyJrJks"
+    },
+    {
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/281w9uEYedgiWy5atZBZWQ"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187442,
+      "name": "Fairy Tale",
+      "url": "https://open.spotify.com/track/6UFwnR81gaEIrwILz5lyHm"
     },
     {
       "album": {
@@ -1837,7 +1891,7 @@
     {
       "album": {
         "name": "Love & Evil",
-        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+        "url": "https://open.spotify.com/album/281w9uEYedgiWy5atZBZWQ"
       },
       "artists": [
         {
@@ -1848,6 +1902,24 @@
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 197346,
+      "name": "Sonatine",
+      "url": "https://open.spotify.com/track/41jbCSLDcNYRrB2QdmRGZ7"
+    },
+    {
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 197346,
       "name": "Sonatine",
       "url": "https://open.spotify.com/track/6LOPo5liG9RE6pBKTVUoEm"
@@ -2106,6 +2178,24 @@
     },
     {
       "album": {
+        "name": "Love & Live",
+        "url": "https://open.spotify.com/album/24xMv1Q8SdNoCrKoKUPQJD"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190722,
+      "name": "Valentine Girl",
+      "url": "https://open.spotify.com/track/08JjmBX616ab0JvtrulPfQ"
+    },
+    {
+      "album": {
         "name": "Love & Evil",
         "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
       },
@@ -2117,7 +2207,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 190722,
       "name": "Valentine Girl",
       "url": "https://open.spotify.com/track/4UN3kpjB0RoGXUx2zyNzK0"
@@ -2341,6 +2431,24 @@
     {
       "album": {
         "name": "Love & Live",
+        "url": "https://open.spotify.com/album/2R2aRlXztr3wIyQ2g9nXoy"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187703,
+      "name": "You and Me Together",
+      "url": "https://open.spotify.com/track/1NkbwvisbaNcJ9DCq7KVBC"
+    },
+    {
+      "album": {
+        "name": "Love & Live",
         "url": "https://open.spotify.com/album/02QYjN9V9rlnXAtQvAX0rW"
       },
       "artists": [
@@ -2369,7 +2477,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187703,
       "name": "You and Me Together",
       "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"

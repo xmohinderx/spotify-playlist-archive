@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,410 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,474 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 5 | [My Son Tim](https://open.spotify.com/track/7BAoMGubT32xTMrQ1R47eA) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [I Would Not Live Always](https://open.spotify.com/album/50BS4LBylim0iN6mlCVDkR) | 2:41 |
 | 6 | [The Women Of Ireland \(The Love Theme From Barry Lyndon\)/The Morning Dew](https://open.spotify.com/track/56Tf3VTy45dknVuFIpjjt9) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [The Essential Chieftains](https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G) | 5:14 |
 | 7 | [Carrickfergus](https://open.spotify.com/track/7qZ8IkWfZJ7tWUP8CC2VLc) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A), [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [Irish Heartbeat](https://open.spotify.com/album/0qTjwpf7Oqh8MGtK3aflgO) | 4:25 |
-| 8 | [The Wild Rover](https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 10:14 |
+| 8 | [The Wild Rover](https://open.spotify.com/track/1h0T3Lc5K2sj0oTHAzpUCE) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Young People](https://open.spotify.com/album/7uruJbMIWhZ8MjeyC1WZK3) | 10:14 |
 | 9 | [The Foggy Dew \(with Sinéad O'Connor\)](https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Essential Chieftains](https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G) | 5:20 |
 | 10 | [The Auld Triangle](https://open.spotify.com/track/3Z80Oi7leKcs5zQhKDL0GD) | [Damien Dempsey](https://open.spotify.com/artist/0bmF1w9eyJrY4CHyjpTQOW), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [It's All Good: The Best of Damien Dempsey \(Deluxe Version\)](https://open.spotify.com/album/2eBVcMT3QrKjlqbEhPkFTJ) | 4:17 |
 | 11 | [Cyprus Avenue \- 1999 Remaster](https://open.spotify.com/track/7msn6OoGXrNOaBGvIH1eqT) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 6:59 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 45 | [The Star Of The County Down \- Live](https://open.spotify.com/track/3zW5lCW4GtuVseLG0Trm5z) | [Loreena McKennitt](https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a) | [Live At The Royal Albert Hall](https://open.spotify.com/album/2vGR4YxNndppEAoiuKA1gO) | 3:40 |
 | 46 | [The Galway Shawl](https://open.spotify.com/track/7k2sBfuyCLSUJbh54ZJc0x) | [Finbar Furey](https://open.spotify.com/artist/72qs8dHxUfn7lB9cYxQvIF) | [Don't Stop This Now](https://open.spotify.com/album/7rm9I9D4c2wtu9UXNDt7uu) | 4:30 |
 | 47 | [Down by the Sally Gardens](https://open.spotify.com/track/60OEb5MtEmmepJPUJtYvFW) | [Maura O'Connell](https://open.spotify.com/artist/2WkDGNlrAN48YIOi18jpEE) | [Transatlantic Sessions \- Series 2, Vol\. Three](https://open.spotify.com/album/2zviYEJfMBDVtoh9mz5SNq) | 3:45 |
-| 48 | [The Butcher Boy](https://open.spotify.com/track/4A4GkentJ6FWXXM86RwzJI) | [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Songs of Tommy Makem](https://open.spotify.com/album/7sISBfKNQJdWxJRY8vMEm1) | 3:24 |
+| 48 | [The Butcher Boy](https://open.spotify.com/track/1QLPlGwxxd1xoMLAtKSMGU) | [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Songs of Tommy Makem](https://open.spotify.com/album/7bOc9jb25IV1noFgJjgT5g) | 3:24 |
 | 49 | [The Town I Loved So Well](https://open.spotify.com/track/6HJ5tXU3bPGx0ONBeh9EYs) | [Phil Coulter](https://open.spotify.com/artist/3Hm9DJ7Xa8YgiCAa7MoSiP) | [Words & Music](https://open.spotify.com/album/5ZZJHQbMplpRvMgFF5HatY) | 6:25 |
 | 50 | [The Lass of Aughrim](https://open.spotify.com/track/2s1enAmUiPrslpVQcJpnLq) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [Heard A Long Gone Song](https://open.spotify.com/album/6hGCF6U1vanh8KJZgAq66m) | 2:11 |
 
-Snapshot ID: `MTY0NzAxNDA1MCwwMDAwMDAwMDA4MDE2ZmY0MWRiOTY3NGE5YmE5MTQzNDdiNGRjMzJk`
+Snapshot ID: `MTY0NzAxNDA1MCwwMDAwMDAwMDk4NjNhMGU0MzRiOWQ0OWNkZjllMTg0ZDQ3Y2Q5YjY0`

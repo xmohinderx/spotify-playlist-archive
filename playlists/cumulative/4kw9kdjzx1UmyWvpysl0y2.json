@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q"
+    },
+    {
+      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/4Jf40Z8SdqGDIjDarkfMDL"
       },
@@ -389,7 +407,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 178537,
       "name": "Always Running",
       "url": "https://open.spotify.com/track/3otra9el4GhzYrql7RGjGc"
@@ -939,7 +957,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 179692,
       "name": "CASHMERE",
       "url": "https://open.spotify.com/track/5NJkNOXKEfThIuCNOjraGy"
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 250909,
       "name": "Emeralds",
       "url": "https://open.spotify.com/track/64Qa4GFTr5wMR1maaR8QxY"

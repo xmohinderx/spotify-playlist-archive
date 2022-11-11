@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 41536,
+  "num_followers": 41594,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM3OTQ2MCwwMDAwMDAwMDQ4ZTk4YWE1OGVlZDgzMGIxOWEzNWEzZmNmZjYyOGM4",
+  "snapshot_id": "MTY2NjM3OTQ2MCwwMDAwMDAwMDgwMDhiMGQ3MmIwZGY3ODMwMDlkNmI4OGZlYWIxY2Ux",
   "tracks": [
     {
       "added_at": "2022-10-21 19:11:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-10-21 19:11:00",
       "album": {
-        "name": "Yalmi",
-        "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
-      },
-      "artists": [
-        {
-          "name": "Merc La",
-          "url": "https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Yalmi",
-      "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
-    },
-    {
-      "added_at": "2022-10-21 19:11:00",
-      "album": {
         "name": "Nature of Life",
         "url": "https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 159892,
       "name": "Nature of Life",
       "url": "https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI"
+    },
+    {
+      "added_at": "2022-10-21 19:11:00",
+      "album": {
+        "name": "Yalmi",
+        "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
+      },
+      "artists": [
+        {
+          "name": "Merc La",
+          "url": "https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Yalmi",
+      "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
     },
     {
       "added_at": "2022-10-21 19:11:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-10-21 19:11:00",
       "album": {
-        "name": "Easy Mind",
-        "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
-      },
-      "artists": [
-        {
-          "name": "Alma Meris",
-          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Easy Mind",
-      "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
-    },
-    {
-      "added_at": "2022-10-21 19:11:00",
-      "album": {
         "name": "Djupet",
         "url": "https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 223010,
       "name": "Djupet",
       "url": "https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia"
+    },
+    {
+      "added_at": "2022-10-21 19:11:00",
+      "album": {
+        "name": "Easy Mind",
+        "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
+      },
+      "artists": [
+        {
+          "name": "Alma Meris",
+          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Easy Mind",
+      "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
     },
     {
       "added_at": "2022-10-21 19:11:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-10-21 19:11:00",
       "album": {
-        "name": "Shaasvat",
-        "url": "https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk"
-      },
-      "artists": [
-        {
-          "name": "Mishika",
-          "url": "https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr"
-        }
-      ],
-      "duration_ms": 205435,
-      "name": "Shaasvat",
-      "url": "https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J"
-    },
-    {
-      "added_at": "2022-10-21 19:11:00",
-      "album": {
         "name": "Transformation",
         "url": "https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 152000,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo"
+    },
+    {
+      "added_at": "2022-10-21 19:11:00",
+      "album": {
+        "name": "Shaasvat",
+        "url": "https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk"
+      },
+      "artists": [
+        {
+          "name": "Mishika",
+          "url": "https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr"
+        }
+      ],
+      "duration_ms": 205435,
+      "name": "Shaasvat",
+      "url": "https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J"
     },
     {
       "added_at": "2022-10-21 19:11:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-10-21 19:11:00",
       "album": {
-        "name": "Bortgjemt",
-        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
-      },
-      "artists": [
-        {
-          "name": "Gjenklang",
-          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
-        }
-      ],
-      "duration_ms": 147750,
-      "name": "Bortgjemt",
-      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
-    },
-    {
-      "added_at": "2022-10-21 19:11:00",
-      "album": {
         "name": "Beautiful Awakening",
         "url": "https://open.spotify.com/album/6mSSBidKkhCtzzn4N44FEG"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 181846,
       "name": "Beautiful Awakening",
       "url": "https://open.spotify.com/track/7z2XZ3N0nyzZed42lEz2ul"
+    },
+    {
+      "added_at": "2022-10-21 19:11:00",
+      "album": {
+        "name": "Bortgjemt",
+        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
+      },
+      "artists": [
+        {
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+        }
+      ],
+      "duration_ms": 147750,
+      "name": "Bortgjemt",
+      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
     },
     {
       "added_at": "2022-10-21 19:11:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-10-21 19:11:00",
       "album": {
-        "name": "Sleep, Heavenly Sleep",
-        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
-      },
-      "artists": [
-        {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
-        }
-      ],
-      "duration_ms": 180882,
-      "name": "Sleep, Heavenly Sleep",
-      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
-    },
-    {
-      "added_at": "2022-10-21 19:11:00",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 229333,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes"
+    },
+    {
+      "added_at": "2022-10-21 19:11:00",
+      "album": {
+        "name": "Sleep, Heavenly Sleep",
+        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
+      },
+      "artists": [
+        {
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
+        }
+      ],
+      "duration_ms": 180882,
+      "name": "Sleep, Heavenly Sleep",
+      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
     },
     {
       "added_at": "2022-10-21 19:11:00",

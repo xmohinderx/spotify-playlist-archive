@@ -74,6 +74,24 @@
     },
     {
       "album": {
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
+    },
+    {
+      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/5VSjUsRU41obhoHo0ghMO0"
       },
@@ -1028,6 +1046,24 @@
     },
     {
       "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/60I1UREM36C6JxSVPJT1nz"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179517,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/1PGirMzvw36N1ftzTKprpr"
+    },
+    {
+      "album": {
         "name": "Wishes Vol. 2",
         "url": "https://open.spotify.com/album/1AXVE2HGe1XA1Cl5T9nXmk"
       },
@@ -1317,7 +1353,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 133573,
       "name": "Can You Pay?",
       "url": "https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f"
@@ -1569,7 +1605,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 158019,
       "name": "Chemical High",
       "url": "https://open.spotify.com/track/01mt0RLXC0DQ4VPQpV6WWy"
@@ -1907,7 +1943,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 242446,
       "name": "Crush Me",
       "url": "https://open.spotify.com/track/1g0LoTFshwdlf6hHlSmTQp"
@@ -2369,10 +2405,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 250292,
       "name": "Do Ya Love",
       "url": "https://open.spotify.com/track/650IEUqYKUoHsZQJV7FBt0"
+    },
+    {
+      "album": {
+        "name": "Doll",
+        "url": "https://open.spotify.com/album/0SAPx1GnnD70h9SlUOxJMO"
+      },
+      "artists": [
+        {
+          "name": "Protection",
+          "url": "https://open.spotify.com/artist/7ylzcNyL5o6XSn8iDuy8eu"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243405,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/2bBzDa5DonGFUrEQTdQnGk"
     },
     {
       "album": {
@@ -2391,7 +2445,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 237173,
       "name": "Domino",
       "url": "https://open.spotify.com/track/6WHKa9TMH4oYHhVZQZ8EM7"
@@ -2597,6 +2651,28 @@
       "duration_ms": 314921,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/0gy6fmn47eSk1jGMw8LABx"
+    },
+    {
+      "album": {
+        "name": "ELEVATION",
+        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J. Rey Soul",
+          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200191,
+      "name": "DOUBLE D'Z",
+      "url": "https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV"
     },
     {
       "album": {
@@ -3749,7 +3825,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 196363,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/6mbaDSOA05Cy4txRRYuJqL"
@@ -5761,7 +5837,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 203609,
       "name": "Lost Without You (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7"
@@ -6539,7 +6615,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 170680,
       "name": "Never Gonna Get It",
       "url": "https://open.spotify.com/track/0QEbtIIK5pwcZZYuzjTOZB"
@@ -6723,6 +6799,28 @@
       "duration_ms": 170811,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ"
+    },
+    {
+      "album": {
+        "name": "No Sleep (feat. GLASGOW KI$$)",
+        "url": "https://open.spotify.com/album/6U8ArBgp68FIro8IDweG6P"
+      },
+      "artists": [
+        {
+          "name": "Famba",
+          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
+        },
+        {
+          "name": "Glasgow KI$$",
+          "url": "https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218095,
+      "name": "No Sleep (feat. GLASGOW KI$$)",
+      "url": "https://open.spotify.com/track/6xY3EAdIQqylEVUanBA4FT"
     },
     {
       "album": {
@@ -7418,6 +7516,24 @@
     },
     {
       "album": {
+        "name": "Platinum Strength",
+        "url": "https://open.spotify.com/album/5JF7Ou0noD4QVGvUgo1Oyf"
+      },
+      "artists": [
+        {
+          "name": "Strict Face",
+          "url": "https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283507,
+      "name": "Platinum Strength",
+      "url": "https://open.spotify.com/track/7AZdKMR98ospejDkGb8Nm8"
+    },
+    {
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/08ZIfSDwuqPe0zf4CU1Wvs"
       },
@@ -7844,6 +7960,32 @@
     },
     {
       "album": {
+        "name": "Rely On Me",
+        "url": "https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174585,
+      "name": "Rely On Me",
+      "url": "https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS"
+    },
+    {
+      "album": {
         "name": "Remember the Summer (feat. Karra)",
         "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
       },
@@ -8267,7 +8409,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204274,
       "name": "Saturday Love - Justin Jay & Danny Goliger Remix",
       "url": "https://open.spotify.com/track/5B0efCq3gIFfQvncS4Xq7W"
@@ -8684,6 +8826,28 @@
     },
     {
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/6RJqnygAEoIW9vF3zp8Imn"
+      },
+      "artists": [
+        {
+          "name": "imugi \uc774\ubb34\uae30",
+          "url": "https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8"
+        },
+        {
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/3y6JNuWNpIYoreESetl4xj"
+    },
+    {
+      "album": {
         "name": "Solid Gold (feat. bshp)",
         "url": "https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR"
       },
@@ -8965,7 +9129,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 229282,
       "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
@@ -9334,6 +9498,32 @@
     },
     {
       "album": {
+        "name": "T.Y.S.D. (Throw Your Soul Down)",
+        "url": "https://open.spotify.com/album/2bd2VBEUReiFRT9VGDErJE"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        },
+        {
+          "name": "Sharlene Hector",
+          "url": "https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX"
+        },
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "T.Y.S.D. (Throw Your Soul Down) - HoneyLuv Remix",
+      "url": "https://open.spotify.com/track/7Gl1X59UDyZC6yNGVCOeQ8"
+    },
+    {
+      "album": {
         "name": "Take",
         "url": "https://open.spotify.com/album/3xypgqRvNPAza95DqIeSPd"
       },
@@ -9481,6 +9671,28 @@
       "duration_ms": 249678,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+    },
+    {
+      "album": {
+        "name": "Tell You",
+        "url": "https://open.spotify.com/album/5J1tkNU3Q3nlVK2jLpWDUJ"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169015,
+      "name": "Tell You",
+      "url": "https://open.spotify.com/track/67UxPTR5FsZafJeFu37W4F"
     },
     {
       "album": {
@@ -9672,6 +9884,28 @@
     },
     {
       "album": {
+        "name": "Thrill Of The Chase",
+        "url": "https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Plested",
+          "url": "https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248973,
+      "name": "The Way We Were (feat. Plested)",
+      "url": "https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR"
+    },
+    {
+      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
       },
@@ -9691,6 +9925,24 @@
       "duration_ms": 132417,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
+    },
+    {
+      "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/39g7HzX4s9teKLxwNYebw1"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226779,
+      "name": "Things I Never Nu",
+      "url": "https://open.spotify.com/track/1NAYrYgd473ua418mz32xb"
     },
     {
       "album": {
@@ -10247,7 +10499,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 234411,
       "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
       "url": "https://open.spotify.com/track/4y5CHkxTCrgi5coGEAMfMc"
@@ -10799,7 +11051,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 177689,
       "name": "Where Did You Go?",
       "url": "https://open.spotify.com/track/22GCuIGPCDEh8izFovMD7N"

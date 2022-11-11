@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,894 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,978 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 60 | [RED](https://open.spotify.com/track/7Kq8I68J8fJkQEEZwfrK18) | [Blake and Miles](https://open.spotify.com/artist/1vq0ZWY33ZutMpMbQSxAEv) | [RED](https://open.spotify.com/album/05ce3g0KL8Q9zWFBHBvhx0) | 2:38 |
 | 61 | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/track/02D7cBNL1rpCkvTja8S1ns) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/album/0ev0saRGsMUB9MxtWZnliz) | 2:35 |
 | 62 | [YOU](https://open.spotify.com/track/0rXaoCJbmIUdMIKQwinA0k) | [J\-Wright](https://open.spotify.com/artist/4ZwarqrZFCfYgb3F4KS6gr) | [YOU](https://open.spotify.com/album/2AMsS7LgT4DAgMfRTTo7r0) | 2:58 |
-| 63 | [Sober](https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE) | 4:12 |
+| 63 | [Sober](https://open.spotify.com/track/2btSEZQYeD2NSiK6JXvFEr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/6pARE4D96LSb7HbXp2xjfY) | 4:12 |
 | 64 | [same squad](https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:31 |
 | 65 | [Floats My Boat](https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [The Bright Side](https://open.spotify.com/album/3p6L2cN8kt6nOVL1TUtPWZ) | 3:26 |
 | 66 | [Live Fast Die Numb](https://open.spotify.com/track/10omO03JNpJwhjo538gdNc) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Live Fast Die Numb](https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH) | 2:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 74 | [I Literally Never Think About You](https://open.spotify.com/track/2HMxow43AQQGcsMoi0YEcq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [I Literally Never Think About You](https://open.spotify.com/album/3dSrqg19hoTFp8AeI7MEeX) | 2:55 |
 | 75 | [Splash](https://open.spotify.com/track/56K7o58HvDoJW9ABFhJrmR) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Excuse Me](https://open.spotify.com/album/5fkjcxPbrRsPGruhqix8pF) | 3:19 |
 
-Snapshot ID: `MTY2Njk2NDE2MCwwMDAwMDAwMDhiODc4NmZhNGQzMmQ5MTU0NWUwNWE2OTY1ZTMyN2Uz`
+Snapshot ID: `MTY2Njk2NDE2MCwwMDAwMDAwMGU4ODI2NGEyMmYzYTJmODNmZThmZDk1NTg0YjUwYzlk`

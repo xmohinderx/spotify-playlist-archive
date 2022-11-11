@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:5ITI6SEoUZMIXXkzCfr4oE\">Aluna</a>'s favorite tracks. Updated regularly. Curated by Aluna. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 26062,
+  "num_followers": 26085,
   "original_name": "Aluna's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU1NzUxOCwwMDAwMDAwMDlkMDY5YzAwZWU0MjllMzRhZWJmZDAxMDcxMDJiOGIy",
+  "snapshot_id": "MTY2ODA4NzgzNCwwMDAwMDAwMDU2OGZjOWQ0OTNkMGIyYzhmNDdmYTk2MmM2NzE3MGZj",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -51,6 +51,42 @@
       "duration_ms": 391000,
       "name": "Harder (Shermanology Remix)",
       "url": "https://open.spotify.com/track/3hVIIqBnoSXWxlUQRWikYL"
+    },
+    {
+      "added_at": "2022-11-10 13:43:53",
+      "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "added_at": "2022-11-10 13:43:53",
+      "album": {
+        "name": "Buzzkill",
+        "url": "https://open.spotify.com/album/67kT2zXqPMCGVAfpEf82yo"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "duration_ms": 174705,
+      "name": "Buzzkill",
+      "url": "https://open.spotify.com/track/4p9ROZgApJpuFRKl2Ffhbu"
     },
     {
       "added_at": "2022-11-04 10:25:18",
@@ -181,6 +217,22 @@
       "url": "https://open.spotify.com/track/42HJvTZUDb2gcbSOKevQI8"
     },
     {
+      "added_at": "2022-11-10 13:43:53",
+      "album": {
+        "name": "Vexed",
+        "url": "https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 141782,
+      "name": "Vexed",
+      "url": "https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0"
+    },
+    {
       "added_at": "2022-10-27 09:46:04",
       "album": {
         "name": "Black Mascara.",
@@ -251,6 +303,22 @@
       "duration_ms": 382439,
       "name": "Femme",
       "url": "https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT"
+    },
+    {
+      "added_at": "2022-11-10 13:43:53",
+      "album": {
+        "name": "100 Pop Hits Remixed!",
+        "url": "https://open.spotify.com/album/53NqvHW1F3dBmx3vHSdLk0"
+      },
+      "artists": [
+        {
+          "name": "DJ Remix Factory",
+          "url": "https://open.spotify.com/artist/0TvkwyCGv8xIaJ9bP8SL0i"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Temperature (DJ ReMix) (As Made Famous by Sean Paul)",
+      "url": "https://open.spotify.com/track/5dmLs1hlebFHb4QnUUqeJC"
     },
     {
       "added_at": "2022-10-25 12:29:36",
@@ -567,22 +635,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Gvnman Shift",
-        "url": "https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "Gvnman Shift",
-      "url": "https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Nowhere To Hide",
         "url": "https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH"
       },
@@ -603,22 +655,6 @@
       "duration_ms": 195604,
       "name": "Nowhere To Hide",
       "url": "https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu"
-    },
-    {
-      "added_at": "2022-10-12 20:48:38",
-      "album": {
-        "name": "SunSystem",
-        "url": "https://open.spotify.com/album/2iZTwsFoNuV7KywtKM7lVT"
-      },
-      "artists": [
-        {
-          "name": "Lala &ce",
-          "url": "https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF"
-        }
-      ],
-      "duration_ms": 179186,
-      "name": "CONTROL",
-      "url": "https://open.spotify.com/track/0BJQL4uOXzJCwtVQO141SQ"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1151,26 +1187,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Stuntin' On You (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/0ntJqUFZt7XQmRycj6typz"
-      },
-      "artists": [
-        {
-          "name": "Tyla Yaweh",
-          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 141122,
-      "name": "Stuntin' On You (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/341lTIxmhybbQsgydwJiFx"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/6RXP288ktFUg8VsitQDnqc"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 144619,
       "name": "Dancina",
       "url": "https://open.spotify.com/track/61jdtRg1I7iOUdRul25oc5"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "With Opened Eyes",
-        "url": "https://open.spotify.com/album/5ECjc1swRz9eytd7z1TKkW"
-      },
-      "artists": [
-        {
-          "name": "Vindata",
-          "url": "https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "Good 4 Me",
-      "url": "https://open.spotify.com/track/62gZS4H4ujfLXUSnr5aA85"
     },
     {
       "added_at": "2022-09-30 04:00:00",

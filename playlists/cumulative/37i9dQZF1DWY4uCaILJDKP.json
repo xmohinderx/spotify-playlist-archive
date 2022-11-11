@@ -344,6 +344,24 @@
     },
     {
       "album": {
+        "name": "Hyouriittai (HunterxHunter Ver.)",
+        "url": "https://open.spotify.com/album/0NgnybaNNz1WleLYRIUEro"
+      },
+      "artists": [
+        {
+          "name": "YUZU",
+          "url": "https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336503,
+      "name": "Hyouriittai",
+      "url": "https://open.spotify.com/track/5oTkVrnbUnDQpQ5o7XjWyN"
+    },
+    {
+      "album": {
         "name": "Shinsekai",
         "url": "https://open.spotify.com/album/2R5uRvmQGlvwYDzpl7pK63"
       },
@@ -355,7 +373,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 336619,
       "name": "Hyouriittai",
       "url": "https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd"
@@ -511,7 +529,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 246253,
       "name": "Life is Hard DAME DINERO",
       "url": "https://open.spotify.com/track/5RjnIa5tjhpUDT2Q0brHv5"
@@ -529,7 +547,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 246253,
       "name": "Life Is Hard DAME DINERO",
       "url": "https://open.spotify.com/track/5U403777CGVqKK61XreyEV"
@@ -732,6 +750,24 @@
     },
     {
       "album": {
+        "name": "Yuzuiroha1997-2017",
+        "url": "https://open.spotify.com/album/7p4Dp51xDYSRRE46UIyQec"
+      },
+      "artists": [
+        {
+          "name": "YUZU",
+          "url": "https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303880,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/51ZKt9BFcqugXCVr34kSQy"
+    },
+    {
+      "album": {
         "name": "LAND",
         "url": "https://open.spotify.com/album/6HFINxP6sxXmWkzEVMye3F"
       },
@@ -761,7 +797,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 304320,
       "name": "Reason",
       "url": "https://open.spotify.com/track/4YgEwanzISFU4xa27saTux"

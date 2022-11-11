@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 
 > Minimalism, electronica and modern classical to concentrate to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,341 likes - 73 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,313 likes - 73 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kyle \(Northern Line\)](https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:44 |
 | 2 | [Next](https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [Finding Rain](https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq) | 2:14 |
 | 3 | [At Last, Sunrise](https://open.spotify.com/track/04yKORm7EBZbrdzjf9jD3X) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/07uVGssx4qgJDsJAgepdsO) | 2:02 |
-| 4 | [Borrowed Peace](https://open.spotify.com/track/7CBRVxkndOKeWUEfRclXNK) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Nainsook](https://open.spotify.com/album/22327BzhUptdLP59olNlXK) | 1:45 |
+| 4 | [Borrowed Peace](https://open.spotify.com/track/6S8a2phix2XOZBcTybxP3m) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 1:45 |
 | 5 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 |
 | 6 | [Approaching Dusk](https://open.spotify.com/track/6vwuSjfe1UjY6fn43HZ4CK) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Piano Studies](https://open.spotify.com/album/26pIGdUcRbCfXQ2GcuvvQA) | 1:45 |
 | 7 | [Footprints](https://open.spotify.com/track/3dxvqhGVXEkzBkLUapY1eW) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/07uVGssx4qgJDsJAgepdsO) | 2:19 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 18 | [The Ones Left Behind](https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [The Ones Left Behind](https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh) | 2:28 |
 | 19 | [Still Asleep](https://open.spotify.com/track/7iDgSWnBmHuTY34utvzO1B) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [A Second to Forget](https://open.spotify.com/album/61awMZmOvF8IKVIlSSFA4V) | 2:08 |
 | 20 | [Far Away](https://open.spotify.com/track/0QijsaMELH5n5T012X6LYb) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Far Away](https://open.spotify.com/album/6CIVgXy2Ovk4leXt0tH24S) | 2:19 |
-| 21 | [Reminiscence](https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd) | 2:32 |
+| 21 | [Reminiscence](https://open.spotify.com/track/0S5AjZXXVEeb7adqRBpELt) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [KEEN: Complete Concentration Vol\. 1](https://open.spotify.com/album/6wae1HkPxiUmb3ntigcqXR) | 2:32 |
 | 22 | [Faded](https://open.spotify.com/track/6iPhqRUT1a2JZBzhmHgsuF) | [Omer Bresler](https://open.spotify.com/artist/2VoJu7BIqt6HQDqtyn9yH3) | [Faded](https://open.spotify.com/album/06YRw6CmqnL3I13TK48OnB) | 2:14 |
 | 23 | [Softly, Gently](https://open.spotify.com/track/0wmmFkwOtzaanH4T5vMMLz) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [Softly, Gently](https://open.spotify.com/album/5el3jiphgAIadKL7FcB09G) | 2:00 |
 | 24 | [Red Gold Yesterday](https://open.spotify.com/track/5q4HX5dFrepBt1T4Kjuw6p) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/3xdGge4Qff3JuWeGpIElmZ) | 2:18 |
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 27 | [Serene Solitude](https://open.spotify.com/track/4HPckcgSQmxwMcAFOsJmGY) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Partly Cloudy](https://open.spotify.com/album/7xQ1rPbeUkKIDufhz2JY1B) | 2:14 |
 | 28 | [Daybreak](https://open.spotify.com/track/4LIMo4IqvNMCtYsCE8Pewg) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Daybreak](https://open.spotify.com/album/59WE3TAONWNejSOH1LEBFW) | 2:14 |
 | 29 | [Lost](https://open.spotify.com/track/1zBxAPqR7cAZyRo2XBQFrU) | [Shadow Sirens](https://open.spotify.com/artist/4YSBO6rsLGDqogalXAYJFA) | [Lost](https://open.spotify.com/album/7xHVlsqzstKTkgVrbpgMPH) | 3:27 |
-| 30 | [Somewhere In Between](https://open.spotify.com/track/5kHMqwwwlHCdt24t2e7pEq) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:31 |
-| 31 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/6kvjFChxzePaNR3WOr5krg) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/7HYUrYCfTTILVubFZtXFUf) | 2:06 |
+| 30 | [Somewhere In Between](https://open.spotify.com/track/1dWtAobHBqAxNS4W495gda) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/5ElKIzZRCQYV6AlyLHOmPj) | 2:31 |
+| 31 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/7fd6mJ63YjCPjK7rBNBbIo) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/36RdEKMjHKzSwTbpThbEw0) | 2:06 |
 | 32 | [Nucleus](https://open.spotify.com/track/10VDlhdsvk4DH3jdbGKhwJ) | [Ivy Rue](https://open.spotify.com/artist/48wkAWDOLtRePHhfZA2TTH) | [Mandala](https://open.spotify.com/album/2msxQYAcX6bsWYnXbpGEm5) | 2:48 |
 | 33 | [This Delicate Place \(Scaled Down Version\)](https://open.spotify.com/track/51sciSNx3f1TEXcAmL06j9) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Partly Cloudy](https://open.spotify.com/album/7xQ1rPbeUkKIDufhz2JY1B) | 2:40 |
-| 34 | [Denouement \(Scaled Down Version\)](https://open.spotify.com/track/3vA3SbxqOxYPTooFbfBXKS) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Berceuse](https://open.spotify.com/album/15VZije9stogPCIQ9iVRag) | 2:20 |
+| 34 | [Denouement \(Scaled Down Version\)](https://open.spotify.com/track/47NH3o8N8jfKZXXWwj4okO) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [KEEN: Complete Concentration Vol\. 1](https://open.spotify.com/album/6wae1HkPxiUmb3ntigcqXR) | 2:20 |
 | 35 | [Night Dive](https://open.spotify.com/track/11WOlDMShdSUaqgWY7g0aZ) | [Aro Aro](https://open.spotify.com/artist/3vu7Ij17FpvXQcwn3HlYci) | [Night Dive](https://open.spotify.com/album/1UD8U6n2uHCU823C7JoAxr) | 3:00 |
 | 36 | [Catastrophically in love with you](https://open.spotify.com/track/4CVtPhfKMyA8ST6ZQhJvZY) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [Catastrophically in love with you](https://open.spotify.com/album/5voGDlolvDOOgzmjuJKLBH) | 2:57 |
 | 37 | [Purple Sky](https://open.spotify.com/track/5Oieu8wCXlEtEvXu6fFjBD) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Purple Sky](https://open.spotify.com/album/1A55cYEukwiRbFZtBaFz49) | 2:36 |
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 44 | [Aim For The Stars](https://open.spotify.com/track/0FFLm5zwx2r5lNEeCetS1n) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Aquatic Flow](https://open.spotify.com/album/2a7lLhWw43s2z0RDvLj2JD) | 2:22 |
 | 45 | [Evergreen](https://open.spotify.com/track/633YySlXq6qxSdCLFovXdv) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Evergreen](https://open.spotify.com/album/0znHYudTgnbzsCCfjqCxNj) | 3:45 |
 | 46 | [Beyond The Sun](https://open.spotify.com/track/4cq0zgDNcYj3auhiT6i7Cx) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Beyond The Sun](https://open.spotify.com/album/1ZzfWQIwgAn0AHZVATRg6V) | 2:59 |
-| 47 | [Chasing Cloud Nine](https://open.spotify.com/track/3syIiKL3nOWcphWLsVtMEA) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Chasing Cloud Nine](https://open.spotify.com/album/3EB3bjFZwEXfdMcMFM4eoK) | 2:42 |
+| 47 | [Chasing Cloud Nine](https://open.spotify.com/track/2PNnspLf4w92O4niNRR7lN) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 2:42 |
 | 48 | [Trust](https://open.spotify.com/track/2pjQWze8GykFggjtw6ADiY) | [Martin Herzberg](https://open.spotify.com/artist/0G0i5Fk40ZZ6JylmVT4rsu), [Rubin Henkel](https://open.spotify.com/artist/097BWrWlRc3ADrPFarUVmP) | [Liebe & Tasten](https://open.spotify.com/album/7EBMkyhjrIbB9BY75EDEOd) | 5:25 |
 | 49 | [Her Joy Was Complete](https://open.spotify.com/track/7tUQIhueKYGnKThIseP69M) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Many Beautiful Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02gOHdj3c67CUwXb4s9jzy) | 3:02 |
 | 50 | [Rainbow Child](https://open.spotify.com/track/6gqxXQgdx4rN6Bce3kIZnB) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Early Bird](https://open.spotify.com/album/628TBG979WM6q2v6fphLB3) | 4:10 |
 | 51 | [Prelude](https://open.spotify.com/track/2NzQGuWizwdjAo2cXIyFrD) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Prelude](https://open.spotify.com/album/2mWRvxKjhIG8Xx5QJA494K) | 2:49 |
-| 52 | [Intervention](https://open.spotify.com/track/6MDfWbNJYTqkS7uvJeq0Hq) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [Fractions](https://open.spotify.com/album/4bOm72QuKbzeeo0HBHpD1a) | 2:19 |
+| 52 | [Intervention](https://open.spotify.com/track/4fIU735WMN6QXZKysQkbop) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [KEEN: Soft Piano Vol\. 2](https://open.spotify.com/album/2ZgUoWirpgNlnnEYOKDXpT) | 2:19 |
 | 53 | [The Last Spring](https://open.spotify.com/track/23DarNj68Jdadgb8ETaSV9) | [Elba](https://open.spotify.com/artist/3vyBIFbCPSFdrzamx6G60r) | [The Last Spring](https://open.spotify.com/album/1FQidmEkogespC5aJ6rJe1) | 2:10 |
 | 54 | [African Violet](https://open.spotify.com/track/5vIug0SecVlX2XcfsZnJ3B) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Dark Taupe](https://open.spotify.com/album/4jVtjvaOT1SppdADH8DfQK) | 3:02 |
 | 55 | [Now](https://open.spotify.com/track/2jFfDGcVzMONceohrF4Jre) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [The Giant](https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU) | 3:02 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 72 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 |
 | 73 | [Allisone](https://open.spotify.com/track/43CBnlr309XH9gyu8cIHSl) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Peacefulness](https://open.spotify.com/album/58J3xBeGSPRKHsuNV9mIRF) | 3:31 |
 
-Snapshot ID: `MTY1NzAxMzc0NSwwMDAwMDAwMDEyZjhlNGZiNjkxMjBmZmM3ZTdmNDc5MTljNzY2MTRk`
+Snapshot ID: `MTY1NzAxMzc0NSwwMDAwMDAwMDkzYzIwYmMzNjllMWFmNTRmNDUwZmMwZDY4YTNlZTIx`

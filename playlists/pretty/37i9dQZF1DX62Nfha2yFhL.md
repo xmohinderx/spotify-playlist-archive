@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,962 likes - 61 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,061 likes - 61 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 52 | [all of your love](https://open.spotify.com/track/0E8GYDcN69ahYTUEQMTHNr) | [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [all of your love](https://open.spotify.com/album/3HEGCuxlqu4t5AYrjwLdR8) | 3:38 |
 | 53 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 |
 | 54 | [Intentions](https://open.spotify.com/track/4eI6gfUfYEK7bU6wxPcVIB) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Big Sleepover](https://open.spotify.com/album/7I7LXKjl6oGnHT6GcfsP8Q) | 3:43 |
-| 55 | [Western World](https://open.spotify.com/track/5ddmxLYw9cZ6Chhm4LtwwV) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Cosmic Wind](https://open.spotify.com/album/1Li3XvJ8VzO0QqZnNkKt3k) | 4:13 |
+| 55 | [Western World](https://open.spotify.com/track/0KuppmJTVdK9eW91d2URem) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Western World](https://open.spotify.com/album/6Jx2HJlfd4PhFEaYJlqcZO) | 4:13 |
 | 56 | [Time Alone With You \(feat\. Daniel Caesar\)](https://open.spotify.com/track/04jVEb76Kw5OrmGtlXlHxI) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Time Alone With You \(feat\. Daniel Caesar\)](https://open.spotify.com/album/1pwXpbHvWEMH4nCAlhlwf7) | 4:15 |
 | 57 | [King James](https://open.spotify.com/track/5ri4b7YQp2PWn8tl3MRYgE) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:17 |
 | 58 | [My Side](https://open.spotify.com/track/4DB4pVDQ2JR7EuNmSsO53T) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [To Forgive](https://open.spotify.com/album/08Y2FNHDlpJsK5BPgF4teN) | 3:26 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 60 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
 | 61 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGUwYmM0OTY4OTRiM2Q2ODU1YTc1YzcyOTJkNzNmN2Q3`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGEzYzk5NmQ1NTkzOGQzMjIxOGM5MDc4MTZjNWFhYmFj`

@@ -4,7 +4,7 @@
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-72 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/4dGxVFj5HCMkSll4e0gfQa)
+74 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/4dGxVFj5HCMkSll4e0gfQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [The Auld Triangle](https://open.spotify.com/track/4XvNcfDCh0TqLpMkknMGb9) | [Damien Dempsey](https://open.spotify.com/artist/0bmF1w9eyJrY4CHyjpTQOW), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [It's All Good: The Best of Damien Dempsey \(Deluxe Version\)](https://open.spotify.com/album/19NcknXhRMTVRUmIEue1fq) | 4:17 | 2021-10-12 | 2022-07-29 |
 | [The Bonny Light Horseman](https://open.spotify.com/track/1UDvKubDnJrrBC78bOWGXs) | [Planxty](https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c) | [After The Break](https://open.spotify.com/album/4DQ6OFzBPa242mYB4fn1eW) | 4:33 | 2021-10-12 |  |
 | [The Bonny Light Horseman \- Remastered 2020](https://open.spotify.com/track/73lCAVSmr6nJ9HjKm4oiYn) | [Planxty](https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c) | [After The Break \(Remastered 2020\)](https://open.spotify.com/album/3vtc66Q6QnvqWSaHhn9LlK) | 4:30 | 2022-03-11 | 2022-08-21 |
-| [The Butcher Boy](https://open.spotify.com/track/4A4GkentJ6FWXXM86RwzJI) | [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Songs of Tommy Makem](https://open.spotify.com/album/7sISBfKNQJdWxJRY8vMEm1) | 3:24 | 2022-03-11 |  |
+| [The Butcher Boy](https://open.spotify.com/track/1QLPlGwxxd1xoMLAtKSMGU) | [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Songs of Tommy Makem](https://open.spotify.com/album/7bOc9jb25IV1noFgJjgT5g) | 3:24 | 2022-03-11 |  |
+| [The Butcher Boy](https://open.spotify.com/track/4A4GkentJ6FWXXM86RwzJI) | [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Songs of Tommy Makem](https://open.spotify.com/album/7sISBfKNQJdWxJRY8vMEm1) | 3:24 | 2022-03-11 | 2022-11-11 |
 | [The Butcher Boy](https://open.spotify.com/track/6iQT7r6pow2f9oYku80FSk) | [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Songs of Tommy Makem \(Re\-mastered Expanded Edition\)](https://open.spotify.com/album/67QFFSAjCdf9L94TheWt08) | 3:24 | 2021-10-12 | 2022-07-29 |
 | [The Dawning Of The Day](https://open.spotify.com/track/6jck9J7yqPsa8RDWAPJWyw) | [Tommy Makem & Liam Clancy](https://open.spotify.com/artist/4IJmCHcG1RFC3DubtKa7Df) | [Two For The Early Dew](https://open.spotify.com/album/1yJOb6DmQ3GZvTxL2Qq8su) | 4:03 | 2022-03-11 |  |
 | [The Dawning Of The Day](https://open.spotify.com/track/6oPtLViyL7vkziMsRdB4XA) | [Tommy Makem & Liam Clancy](https://open.spotify.com/artist/4IJmCHcG1RFC3DubtKa7Df) | [Two For The Early Dew](https://open.spotify.com/album/4iAYVCqABXnXtWmtkXQP12) | 4:03 | 2021-10-12 | 2022-07-29 |
@@ -71,7 +72,8 @@
 | [The Turfman From Ardee](https://open.spotify.com/track/1g9ojIWqBvaR1eXqXcEqhI) | [The Mary Wallopers](https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2) | [A Mouthful of The Mary Wallopers](https://open.spotify.com/album/00IPpzD5bAX0vtU6GG3tYz) | 1:52 | 2022-03-07 |  |
 | [The Way Young Lovers Do \- 1999 Remaster](https://open.spotify.com/track/6lFrlUB7dEKJXftFNCCR8A) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 3:17 | 2021-10-12 | 2022-03-08 |
 | [The West Coast Of Clare](https://open.spotify.com/track/51iBStlAJlUriO53s93F6l) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Great Irish Songbook](https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P) | 5:26 | 2021-10-12 |  |
-| [The Wild Rover](https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 10:14 | 2022-03-11 |  |
+| [The Wild Rover](https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 10:14 | 2022-03-11 | 2022-11-11 |
+| [The Wild Rover](https://open.spotify.com/track/1h0T3Lc5K2sj0oTHAzpUCE) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Young People](https://open.spotify.com/album/7uruJbMIWhZ8MjeyC1WZK3) | 10:14 | 2022-03-11 |  |
 | [The Wild Rover](https://open.spotify.com/track/46OM25ic12D0F50xsFHIkx) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4gmZBugeRCmP6Kmkm7DCes) | 10:14 | 2021-10-12 | 2022-07-29 |
 | [The Wind That Shakes the Barley](https://open.spotify.com/track/6LJguzrbZMzXMGN7eoXJ1k) | [Solas](https://open.spotify.com/artist/2CGGUtRYybRjQmuUwXugeP) | [Sunny Spells and Scattered Showers](https://open.spotify.com/album/2QmFrQ39asUCrfrRAXXBtl) | 2:55 | 2021-10-12 | 2022-03-08 |
 | [The Wind That Shakes The Barley/The Reel With The Beryle](https://open.spotify.com/track/76Ux8146OjfnI05femAH4e) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [The Essential Chieftains](https://open.spotify.com/album/11lmhdLYmkVFr5oefCEmJL) | 2:49 | 2021-10-12 |  |

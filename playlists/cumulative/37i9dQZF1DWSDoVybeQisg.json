@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 140146,
       "name": "8:05",
       "url": "https://open.spotify.com/track/58divL3uaZBaxs73jVHisg"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220264,
       "name": "All Kinds of Highs",
       "url": "https://open.spotify.com/track/4Fm5hirlJGMEtcXcd2H7zZ"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 197274,
       "name": "Alone Again Or - 2015 Remaster",
       "url": "https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198640,
       "name": "Cloud Song",
       "url": "https://open.spotify.com/track/1YS9U07NrsMki30xuv2eDY"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 214640,
       "name": "Eight Miles High",
       "url": "https://open.spotify.com/track/2BGNomqCxEDcXyxf8bg27k"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 264960,
       "name": "Five to One",
       "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 247306,
       "name": "I Can See For Miles - Mono Version",
       "url": "https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 224133,
       "name": "I'd Love to Change the World - 2004 Remaster",
       "url": "https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66"
@@ -787,10 +787,28 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 185695,
       "name": "Lazy Sunday (Stereo Version) (2018 Remaster)",
       "url": "https://open.spotify.com/track/6w78eLPBj0fTq6jp3wUIRy"
+    },
+    {
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/6M37Nj9MowWeA3rOqEkCvT"
+      },
+      "artists": [
+        {
+          "name": "The Electric Flag",
+          "url": "https://open.spotify.com/artist/6qyfxCyE6JsPkcGVIOPpyl"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196623,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/6REjqGnJcoT7cOFBUWQLzQ"
     },
     {
       "album": {
@@ -859,7 +877,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240840,
       "name": "Magic Man - Stereo Version",
       "url": "https://open.spotify.com/track/1UnKocC4TFivzN9TSDnui6"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 181026,
       "name": "My Woman's Head",
       "url": "https://open.spotify.com/track/6DZWfBmnJMsHnwzTWTL3iV"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 269106,
       "name": "Nights In White Satin - Single Version / Mono",
       "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231613,
       "name": "Private Sorrow",
       "url": "https://open.spotify.com/track/6xTQTYLIbzC0TLoSe2H4ve"
@@ -1199,6 +1217,24 @@
       "duration_ms": 171426,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4BYGxv4rxSNcTgT3DsFB9o"
+    },
+    {
+      "album": {
+        "name": "Thunder On A Clear Day",
+        "url": "https://open.spotify.com/album/60DV7mFo39JXUL8e3IiaEs"
+      },
+      "artists": [
+        {
+          "name": "Twentieth Century Zoo",
+          "url": "https://open.spotify.com/artist/2YIXlmXZrJoFZfUQFOw4hT"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257306,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/3qCnqSMioCZ7stbXqCorUq"
     },
     {
       "album": {
@@ -1249,7 +1285,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 131133,
       "name": "Rice Is Nice",
       "url": "https://open.spotify.com/track/2Lg0cTxmByzQcozvDcayw0"
@@ -1267,7 +1303,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 177580,
       "name": "Riddles and Fairytales",
       "url": "https://open.spotify.com/track/4Xs7lOyFcLlpaKU0Psu1Rw"
@@ -1339,7 +1375,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 158506,
       "name": "Sand",
       "url": "https://open.spotify.com/track/1ppiFXKUliXgJLpOHJ3Rog"
@@ -1393,7 +1429,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 145960,
       "name": "Shapes of Things - 2015 Remaster",
       "url": "https://open.spotify.com/track/4OjqrdD3QILzxkGwNoMk0c"
@@ -1447,7 +1483,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174840,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
@@ -1501,7 +1537,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 250400,
       "name": "Sunshine Of Your Love",
       "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
@@ -1645,7 +1681,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 352906,
       "name": "The Pusher",
       "url": "https://open.spotify.com/track/29HbMTL672MugzhklYvStz"
@@ -1789,10 +1825,28 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 214026,
       "name": "Time of the Season - Mono Version",
       "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
+    },
+    {
+      "album": {
+        "name": "The Original Studio Recordings, Vol. 4",
+        "url": "https://open.spotify.com/album/0s2PMsWqj8BUaPr5PyhcCu"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214026,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/7Cs1pwjAhDtUms7QfBrwJR"
     },
     {
       "album": {
@@ -1807,7 +1861,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 227853,
       "name": "Under the Rainbow",
       "url": "https://open.spotify.com/track/5GGHGmV00uMekAdhqia3Mt"
@@ -1887,7 +1941,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 276960,
       "name": "We Love You - Single Version/Mono",
       "url": "https://open.spotify.com/track/5dDPFVD26G55XYYaKIexRS"

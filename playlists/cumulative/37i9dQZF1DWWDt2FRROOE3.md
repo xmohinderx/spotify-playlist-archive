@@ -4,12 +4,12 @@
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-63 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
+64 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Another One Bites the Dust \- Instrumental](https://open.spotify.com/track/3LdBtY99z1SVtshxrWd1vk) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 3:21 | 2021-07-28 |  |
-| [Bailando](https://open.spotify.com/track/1NpOGQ6oXcZZrVhtHnf6Ii) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:59 | 2021-07-28 | 2022-11-06 |
+| [Another One Bites the Dust \- Instrumental](https://open.spotify.com/track/3LdBtY99z1SVtshxrWd1vk) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 3:21 | 2021-07-28 | 2022-11-11 |
+| [Bailando](https://open.spotify.com/track/1NpOGQ6oXcZZrVhtHnf6Ii) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:59 | 2021-07-28 |  |
 | [Bloody Tears \(from "Castlevania II: Simon's Quest"\)](https://open.spotify.com/track/7mSGgksZwZfDj3yoCaBymz) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:21 | 2021-07-28 |  |
 | [Bohemian Rhapsody \- Instrumental](https://open.spotify.com/track/1ikHG5XBAjPWxCYlMjkTcN) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 5:48 | 2021-07-28 |  |
 | [California Dreamin'](https://open.spotify.com/track/6EYpYR8PT5jq4y8L6qkbYj) | [Mariachi Los Soñadores](https://open.spotify.com/artist/1N0WkGJo1trgGY1x1hMPJk) | [California Dreamin'](https://open.spotify.com/album/2pBIPtKailH8feE3DLoJVr) | 2:46 | 2021-07-28 |  |
@@ -27,6 +27,7 @@
 | [Don't Stop Believin'](https://open.spotify.com/track/2CfLK1vKlBUZBrVmOeC4cJ) | [Mariachi Tierras Caliente](https://open.spotify.com/artist/7LJyVXr5dlwxoGs9MMuBEC) | [Don't Stop Believin'](https://open.spotify.com/album/4RT4RzWWHrZvmvenGRXH1s) | 3:43 | 2021-07-28 |  |
 | [Don't Stop Me Now](https://open.spotify.com/track/7vwp4fDLYkaLmMABuTQJKz) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:40 | 2021-07-28 | 2022-10-22 |
 | [Don't You Want Me](https://open.spotify.com/track/33lBbfm7wD1lyorChcTqdK) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4) | 3:33 | 2021-07-28 | 2022-10-19 |
+| [Don't You Want Me](https://open.spotify.com/track/7lzJGHFr3LJuKUsM0rtfMJ) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/45yT4fgq16M51hpnsSt5Qm) | 3:33 | 2021-07-28 |  |
 | [Dr\. Wily \- Stage 1 \(from "Mega Man 2"\)](https://open.spotify.com/track/65b6IuBQGi1g3D9bxrlNe9) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:00 | 2021-07-28 |  |
 | [Dragon Roost Island \(from "The Legend of Zelda: Wind Waker"\)](https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:20 | 2021-07-28 |  |
 | [Eleanor Rigby \- Instrumental](https://open.spotify.com/track/7ME99GPDI0U0nGIGqzaJ1t) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 2:27 | 2021-07-28 |  |
@@ -34,7 +35,7 @@
 | [Gerudo Valley \(from "The Legend of Zelda: Ocarina of Time"\)](https://open.spotify.com/track/1Tj2GsPM4kfI5FXU1ODvTk) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:33 | 2021-07-28 |  |
 | [Get Lucky](https://open.spotify.com/track/2bDhqkRWUpEVXHFJzJ780i) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 4:01 | 2021-07-28 |  |
 | [Guardia Millenial Fair \(from "Chrono Trigger"\)](https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:12 | 2021-07-28 |  |
-| [Happy](https://open.spotify.com/track/7oJceYpwUTWEpWWuR88G9z) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:57 | 2021-07-28 |  |
+| [Happy](https://open.spotify.com/track/7oJceYpwUTWEpWWuR88G9z) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:57 | 2021-07-28 | 2022-11-11 |
 | [Have You Ever Seen the Rain](https://open.spotify.com/track/0OMpwg10761Hr1EvwzTGbl) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 2:45 | 2021-07-28 |  |
 | [Here I Go Again](https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Dos](https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb) | 4:25 | 2021-07-28 | 2022-11-08 |
 | [Hotel California](https://open.spotify.com/track/7nfvquB7FYL5LSfaBqf7nd) | [Mariachi Espiritus](https://open.spotify.com/artist/7vAwj7m4gZrNW6QFt1MUO7) | [Hotel California](https://open.spotify.com/album/7Hl79MeDqq31oPTcUl1A6K) | 5:21 | 2021-07-28 |  |

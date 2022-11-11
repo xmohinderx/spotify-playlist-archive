@@ -72,6 +72,24 @@
     },
     {
       "album": {
+        "name": "Hip Hop Millennials",
+        "url": "https://open.spotify.com/album/5XbNM7tm5uidGzfxCQbJ0Q"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210787,
+      "name": "Be Careful",
+      "url": "https://open.spotify.com/track/7GC5lsImioJu5DLUF3Sj0U"
+    },
+    {
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -109,6 +127,24 @@
       "duration_ms": 181623,
       "name": "Bickenhead",
       "url": "https://open.spotify.com/track/17Yq72h0p15OhCbZ5lJ5gd"
+    },
+    {
+      "album": {
+        "name": "Workout Hip-Hop",
+        "url": "https://open.spotify.com/album/1qZeX7Pp3WQTaWF6BygaER"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223712,
+      "name": "Bodak Yellow",
+      "url": "https://open.spotify.com/track/5HJVxXaEPzAyuWaUVrYCs6"
     },
     {
       "album": {

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 211630,
       "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
       "url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 159226,
       "name": "Buddy Holly",
       "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 253733,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
@@ -1521,6 +1521,24 @@
       "duration_ms": 253826,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/4mS1Su5zf50QwNcjYjYzG6"
+    },
+    {
+      "album": {
+        "name": "Mullets Rock!",
+        "url": "https://open.spotify.com/album/2z0xrls1lusYQBe8eWcRIT"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254333,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/58Y6BSkfvYMOlnzHEd4i7W"
     },
     {
       "album": {

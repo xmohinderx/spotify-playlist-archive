@@ -4,7 +4,7 @@
 
 > Dance to the tunes from your favorite Netflix family\-friendly series and movies!
 
-41 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/5mK2jjXIUFXeFFX5xZHznk)
+42 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/5mK2jjXIUFXeFFX5xZHznk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [If It's To Be \- From "Maya And The Three" \- A Netflix Animated Event](https://open.spotify.com/track/72DJZtACE61IsndH6jG8S9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [If It's To Be \(From "Maya And The Three" \- A Netflix Animated Event\)](https://open.spotify.com/album/4a1a5nP1l7nE6jRCQLrHfX) | 3:34 | 2022-07-09 |  |
 | [If You Like Cheese Full](https://open.spotify.com/track/1Vy0lCn8TQUhWAKpQeR9LA) | [Fromage 5](https://open.spotify.com/artist/7wDGHqUKBmyrsDXYC2AWen) | [Waffles + Mochi's Restaurant: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4tf0dtjbNkr5GFOCNWeJCc) | 1:26 | 2022-10-14 |  |
 | [It’s Alright \- From The Netflix Film My Little Pony: A New Generation](https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It's Alright \(From The Netflix Film My Little Pony: A New Generation\)](https://open.spotify.com/album/21gDAoF1n6uNZUIR6iDvC7) | 3:13 | 2022-07-09 |  |
-| [Let’s Move! Dance Party](https://open.spotify.com/track/78VhKIYlWIn72RqRSY85kM) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 3:23 | 2022-07-09 |  |
+| [Let’s Move! Dance Party](https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9) | 3:23 | 2022-10-14 |  |
+| [Let’s Move! Dance Party](https://open.spotify.com/track/78VhKIYlWIn72RqRSY85kM) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 3:23 | 2022-07-09 | 2022-11-11 |
 | [Life Is Better Loud](https://open.spotify.com/track/2MTvq0cuZi6Va3LLxFnNmr) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yVMiCrs3RVjzrYv8QwVZ0) | 2:29 | 2022-07-09 |  |
 | [Life Is Better Loud](https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT) | 2:29 | 2022-07-09 | 2022-10-13 |
 | [My Own Drum](https://open.spotify.com/track/2FmFDDnB387rOvN3hpcXuc) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:22 | 2022-07-09 |  |

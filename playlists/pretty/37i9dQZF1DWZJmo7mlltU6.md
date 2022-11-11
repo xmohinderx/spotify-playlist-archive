@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Lola Marsh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,028 likes - 103 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,139 likes - 103 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [spin you round](https://open.spotify.com/track/2LO5hQnz5rEaRwkGUvZcHN) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [spin you round](https://open.spotify.com/album/3crMTdCiX7xKxIbYvKqOkK) | 2:06 |
-| 2 | [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 |
+| 2 | [Cherry Wine](https://open.spotify.com/track/1AB7asrPCQVH8azO61fnRo) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Conversations with the Moon](https://open.spotify.com/album/7HfLh4wPYNG2T4IrJhfciW) | 2:53 |
 | 3 | [The Only One](https://open.spotify.com/track/102SBZ2snfZMZhWkgrTIWV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The Only One](https://open.spotify.com/album/2T7w6O7kQMd0VcbHqC6hW1) | 3:31 |
 | 4 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 5 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 61 | [EYES](https://open.spotify.com/track/2H3orlSesd9oeKXivsDYkD) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [EYES](https://open.spotify.com/album/2yFi0Lv2ht3OK5gpQ6nc1a) | 2:50 |
 | 62 | [Cosas Invisibles](https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cosas Invisibles](https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf) | 4:00 |
 | 63 | [Just a moment](https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Just a moment](https://open.spotify.com/album/5BPLqZrd0YicrOFMCWLlkv) | 3:22 |
-| 64 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/1L2IdFAsssLzcv2oLTL1kn) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/6hLJGtNPcfDbOPQjGs5XMo) | 2:38 |
+| 64 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/7fMflu8v00rdJAv05WmYKa) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎left 2 ‎right](https://open.spotify.com/album/4AncOIe72qehRNZY5kbzT7) | 2:38 |
 | 65 | [Locuras](https://open.spotify.com/track/2oj1sBh98gGiKrsy67qrVs) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Locuras](https://open.spotify.com/album/7LOIXIJKdgxNxoUC4mWEFZ) | 4:07 |
 | 66 | [Podría Ser Peor](https://open.spotify.com/track/5F4KYrVRCX2Yt9dG3GR8vm) | [Mariana També](https://open.spotify.com/artist/0ug4Nxh6JXe7BQEL6eVvSR) | [Podría Ser Peor](https://open.spotify.com/album/17VVpGKcgErZ9nuF3fKGCq) | 4:18 |
 | 67 | [Sleep Crying](https://open.spotify.com/track/4yxRUP0PKgYHYKzzypQvm0) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [Sleep Crying](https://open.spotify.com/album/1JkSJUTh5tgcJInjayUmmb) | 3:20 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 102 | [Don't worry bout me feat\. Meemi](https://open.spotify.com/track/1bHgPmoycLt2pzOPV0pEnH) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2), [Anna](https://open.spotify.com/artist/5br4h6xtm7ia5hdlAOZNJB), [Meemi](https://open.spotify.com/artist/68MBgAF3KPCjNT4hz6fdHW) | [Don't worry bout me](https://open.spotify.com/album/6zlcxFXv57GuTLV6k50Uhi) | 3:56 |
 | 103 | [Ojos de jade](https://open.spotify.com/track/5Pkj7jOGic8HIMamq1AVbZ) | [Okamiluke](https://open.spotify.com/artist/3wHycgBdgDplw19kvn4VLo) | [Ojos de jade](https://open.spotify.com/album/4rLdYKF6DSvmoSVRExk731) | 4:02 |
 
-Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMDA0YjE3ZTdjOGM2Nzg1YTVlYWJlODkzOGVkZDE0YjVh`
+Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMGJmZGExNTc2MTFkOThhMzZiYmMzZmE5NDdmYTFiYTk5`

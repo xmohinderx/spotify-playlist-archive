@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 60600,
       "name": "A Tonga Da Mironga Do Kabulet\u00ea",
       "url": "https://open.spotify.com/track/5BIsNWsHDfCeU8dYexiCsQ"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 267493,
       "name": "Blue Bossa",
       "url": "https://open.spotify.com/track/30C4zBKFkScobGBxIPCuS1"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 282560,
       "name": "Bossa Antigua",
       "url": "https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 200613,
       "name": "Bossa Nova Cha Cha",
       "url": "https://open.spotify.com/track/2yWmBpgvwr8G5W71mTVwDt"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 298280,
       "name": "Caminhos Cruzados",
       "url": "https://open.spotify.com/track/3hHolrvl7uISYbrLMcmL61"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 240706,
       "name": "Embarcadero",
       "url": "https://open.spotify.com/track/3zDRToKAQvpvyIbb06b4RD"
@@ -1125,10 +1125,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 261453,
       "name": "Half The Perfect World",
       "url": "https://open.spotify.com/track/2Lpy3EwCxTCDnpSoraugYc"
+    },
+    {
+      "album": {
+        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux",
+        "url": "https://open.spotify.com/album/1TRQHKr7uWu387QasBT7S5"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262493,
+      "name": "Half The Perfect World",
+      "url": "https://open.spotify.com/track/1kq4ocVnCIxl1ZwXrlPq2c"
     },
     {
       "album": {
@@ -1789,10 +1807,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 200866,
       "name": "O Morro N\u00e3o Tem Vez",
       "url": "https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW"
+    },
+    {
+      "album": {
+        "name": "Verve Jazz Masters 13: Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/4uFZbUN1TogRO5PTIeDpjr"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205266,
+      "name": "O Morro N\u00e3o Tem Vez",
+      "url": "https://open.spotify.com/track/0BFY4ELzGsvmBEJDqCmkyj"
     },
     {
       "album": {
@@ -1891,7 +1927,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 402506,
       "name": "Once Again (feat. Laurindo Almeida)",
       "url": "https://open.spotify.com/track/61nUmoV7ffSJNjxIt1Uqsg"
@@ -1965,10 +2001,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 113545,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/31qmV57ho2T38s9fB1xiuJ"
+    },
+    {
+      "album": {
+        "name": "The Music of Brazil / Elizeth Cardoso, Vol. 1 / Recordings 1955 - 1957",
+        "url": "https://open.spotify.com/album/2jtHEWxRT5QVF2p872riFt"
+      },
+      "artists": [
+        {
+          "name": "Elizeth Cardoso",
+          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115266,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa"
     },
     {
       "album": {
@@ -2331,7 +2385,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 208893,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/3rijcoxodxiawDIr9K9TYN"
@@ -2445,7 +2499,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 230706,
       "name": "So Nice",
       "url": "https://open.spotify.com/track/383io5N8jcS6SVycxhZdub"
@@ -2481,7 +2535,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 314786,
       "name": "So Nice (Samba de Verao)",
       "url": "https://open.spotify.com/track/4JP5ptajY7ON3UY8q6EMQ8"
@@ -2560,6 +2614,24 @@
     },
     {
       "album": {
+        "name": "Os Sonhos Mais Lindos",
+        "url": "https://open.spotify.com/album/5tfZHb7o4EzwPl7w0nMoR0"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "S\u00f3 Tinha De Ser Com Voce (Com Tom)",
+      "url": "https://open.spotify.com/track/33NLorbVmhAZ0nmgOhWFbY"
+    },
+    {
+      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx"
       },
@@ -2597,7 +2669,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 233544,
       "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
       "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
@@ -2685,7 +2757,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 321826,
       "name": "The Girl From Ipanema",
       "url": "https://open.spotify.com/track/3898C4AbdbptwYet6547e5"
@@ -2747,7 +2819,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 253133,
       "name": "The Theme from \"Black Orpheus\"",
       "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
@@ -2955,7 +3027,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 176906,
       "name": "Wave",
       "url": "https://open.spotify.com/track/2hXBS8q9rGMovfG1S8FB4F"
@@ -2973,7 +3045,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 376226,
       "name": "Wave",
       "url": "https://open.spotify.com/track/74WrcYUQjTFhOecnV2ZwVo"
@@ -3009,7 +3081,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 284426,
       "name": "What Else Can I Do",
       "url": "https://open.spotify.com/track/7vN8crjRMzMcbGLGn0STOn"
@@ -3053,7 +3125,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"

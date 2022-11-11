@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 
 > One in a million! TWICE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,979 likes - 110 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,364 likes - 110 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 | 75 | [SWEET SUMMER DAY](https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:11 |
 | 76 | [Feel Special](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) | 3:26 |
 | 77 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
-| 78 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 |
-| 79 | [TT](https://open.spotify.com/track/60jFaQV7Z4boGC4ob5B5c6) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 3:32 |
+| 78 | [What is Love](https://open.spotify.com/track/54mnwt3kO0uYsy0ceg14JP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [What Is Love](https://open.spotify.com/album/5o5cJ6yZmcyy4y4hK0J6de) | 3:28 |
+| 79 | [TT](https://open.spotify.com/track/1dLmduuScyeYONBTKKu3VG) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 2](https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W) | 3:32 |
 | 80 | [Likey](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicetagram](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) | 3:27 |
 | 81 | [CHEER UP](https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) | 3:28 |
 | 82 | [Dance The Night Away](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:00 |
-| 83 | [YES or YES](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:57 |
+| 83 | [YES or YES](https://open.spotify.com/track/27EUkTy6RrDCCToOoRXiQB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The year of "YES"](https://open.spotify.com/album/0pzmyJftuTK7i4HLjnfq1n) | 3:57 |
 | 84 | [Like Ooh\-Ahh](https://open.spotify.com/track/3c0CJ0DBgsGZ7I79lyx02Z) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Story Begins](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) | 3:35 |
 | 85 | [Heart Shaker](https://open.spotify.com/track/52FCAZn0YEkZfF0BtiAUMW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Merry & Happy](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) | 3:06 |
 | 86 | [Signal](https://open.spotify.com/track/15rX80MpEJ2OqW3dPunQvI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SIGNAL](https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf) | 3:16 |
@@ -109,14 +109,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 | 99 | [One More Time](https://open.spotify.com/track/4DmS8lnz6VbEMWrUcbm8WZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BDZ](https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs) | 3:03 |
 | 100 | [CHILLAX](https://open.spotify.com/track/4TsOQZGMRCVUhS7cNzhdVF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:06 |
 | 101 | [I WANT YOU BACK](https://open.spotify.com/track/54w5JUSWCJu64pnw8alImP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BDZ](https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs) | 3:23 |
-| 102 | [One In A Million](https://open.spotify.com/track/6Nqp4bYrZgdVnAmWc9Ek39) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 2:55 |
+| 102 | [One In A Million](https://open.spotify.com/track/2WWUozUXaj0XY8MKmFHvYp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 2](https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W) | 2:55 |
 | 103 | [Jelly Jelly](https://open.spotify.com/track/7a2QLFestFOeQ03xBBX6E0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 3:30 |
 | 104 | [1 To 10](https://open.spotify.com/track/74oWejX8MG6SEaJiz1334D) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 2:55 |
 | 105 | [RAINBOW](https://open.spotify.com/track/6uy9lTlZ3xaMYQPk6eaJaz) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) | 2:57 |
 | 106 | [The Best Thing I Ever Did](https://open.spotify.com/track/4ZI5oNBcRlYAEicib87I8O) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The year of "YES"](https://open.spotify.com/album/0pzmyJftuTK7i4HLjnfq1n) | 3:30 |
 | 107 | [HAPPY HAPPY](https://open.spotify.com/track/1yPkYnRgZveWLCUSWX16ra) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [HAPPY HAPPY](https://open.spotify.com/album/7L4aQ3NuXn10GinA6Fs2pc) | 3:26 |
-| 108 | [SAY YOU LOVE ME](https://open.spotify.com/track/7fEMfYZnjQ28Cpzi7QnkAC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:32 |
+| 108 | [SAY YOU LOVE ME](https://open.spotify.com/track/0jDOXqTgGkkccDpsLGRWth) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The year of "YES"](https://open.spotify.com/album/0pzmyJftuTK7i4HLjnfq1n) | 3:32 |
 | 109 | [GIRLS LIKE US](https://open.spotify.com/track/2mJAZlRKj2egyDPuOgSaFz) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 2:38 |
 | 110 | [STUCK IN MY HEAD](https://open.spotify.com/track/19rOI8tvgnNUQaNyz0n2TP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 2:56 |
 
-Snapshot ID: `MTY2MTUwNDE2MCwwMDAwMDAwMDJhNzhkOGIwZTI4OTNlYTc0NjQ0OGQ4OWVjMDg0ZmNh`
+Snapshot ID: `MTY2MTUwNDE2MCwwMDAwMDAwMDI3NGY2ZjhmNGY4ZTIwZWE2YzIxZDE3ZDA3MzUzZDE4`

@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Japanese Breakfast.
 
-188 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
+189 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Feels Like We Only Go Backwards \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/51Tb0DkANWOoURN81p4ugm) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Spotify Singles](https://open.spotify.com/album/4PzCTggaYEmBDgzAE3DjtA) | 3:19 | 2021-10-27 |  |
 | [Fire Escape \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Spotify Singles](https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur) | 3:33 | 2021-10-27 |  |
 | [Fire on the Mountain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0VYh7UE0QG71xFfPEI353W) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Spotify Singles](https://open.spotify.com/album/1jairj919ADwCPsOTF0Z1j) | 2:49 | 2021-10-27 |  |
-| [Fountain Of Youth](https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 3:49 | 2021-10-27 |  |
+| [Fountain Of Youth](https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 3:49 | 2021-10-27 | 2022-11-11 |
 | [Four Out Of Five \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 4:34 | 2021-10-27 |  |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2021-10-27 | 2022-07-29 |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 | 2022-03-30 |  |
@@ -194,6 +194,7 @@
 | [When the Night is Over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2omW4OJrifRkLNb1byj0e6) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:10 | 2021-10-27 |  |
 | [Whole Wide World \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Spotify Singles](https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI) | 3:41 | 2021-10-27 |  |
 | [Why Did You Run? \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3oJRLetXV9sNjdT3zrHHDm) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Spotify Singles](https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN) | 6:03 | 2021-10-27 |  |
+| [Wild Flowers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3xVGSGFzuuKjTv7MVgAne3) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Spotify Singles](https://open.spotify.com/album/2DrJsCUBn0mvW2pjvkpruU) | 2:51 | 2022-10-26 |  |
 | [Wild Flowers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7APIPUsbonOjGBUhuNXqM0) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Spotify Singles](https://open.spotify.com/album/2HY1zxQvBup7go6hEWYl31) | 2:51 | 2021-10-27 | 2022-10-07 |
 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 | 2021-10-27 |  |
 

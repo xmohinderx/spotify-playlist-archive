@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-190 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
+191 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 | 2022-06-20 |  |
 | [Amaranth \(FEAT\. DINDIN\)](https://open.spotify.com/track/1edDx0IWDK9HnLsenR6Uss) | [Cho Hyunyoung](https://open.spotify.com/artist/1H2S37zuLm5Sn4PBADR72w), [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Amaranth \(FEAT\. DINDIN\)](https://open.spotify.com/album/0D0b3zqhmAg4EejKihHyI9) | 2:54 | 2022-06-20 | 2022-07-18 |
 | [Another Day](https://open.spotify.com/track/21qVapRmGwg0MKS0R6SaaF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 2:46 | 2022-06-20 | 2022-07-28 |
-| [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-22 |  |
+| [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-22 | 2022-11-11 |
+| [Another Day](https://open.spotify.com/track/6fsrtPKAPL1erRl4oeDnOf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:46 | 2022-10-07 |  |
 | [Ask Me Out](https://open.spotify.com/track/12VxAgB6wsdwxWoTNumEGh) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Dear X Who Doesn't Love Me, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/4jdwECuw0825yQKD5CJCHm) | 4:18 | 2022-08-08 | 2022-08-14 |
 | [babyblue](https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4) | 3:48 | 2022-07-22 |  |
 | [babyblue](https://open.spotify.com/track/3G11VWK4YHumpMmJhs11pY) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/5THYTuiOWFn46iwKVfJjO2) | 3:48 | 2022-06-20 | 2022-07-29 |

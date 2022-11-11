@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 292613,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
@@ -486,6 +486,24 @@
     },
     {
       "album": {
+        "name": "Portfolio",
+        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448000,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V"
+    },
+    {
+      "album": {
         "name": "Every Picture Tells A Story",
         "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
@@ -591,7 +609,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 198305,
       "name": "Music Sounds Better with You",
       "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
@@ -649,6 +667,36 @@
       "duration_ms": 246360,
       "name": "Perkys Calling",
       "url": "https://open.spotify.com/track/05nB8pRwwbKA2fsKK1nOyE"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Danny Boy",
+          "url": "https://open.spotify.com/artist/3Cntpdjm5aq13H1IalBAga"
+        },
+        {
+          "name": "Syke",
+          "url": "https://open.spotify.com/artist/6kXRDOhy73hpUJuIzLLwvm"
+        },
+        {
+          "name": "C-PO",
+          "url": "https://open.spotify.com/artist/4NU1ENV9ADEMnvlgJkExEV"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314906,
+      "name": "Picture Me Rollin'",
+      "url": "https://open.spotify.com/track/71jzSTkT0F0w1v4moZIDyc"
     },
     {
       "album": {

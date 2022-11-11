@@ -855,7 +855,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 124000,
       "name": "Fading Dreams",
       "url": "https://open.spotify.com/track/7xCCrULuI3kbxF5bzYo80f"
@@ -1183,7 +1183,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 438426,
       "name": "I Fall in Love Too Easily",
       "url": "https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213455,
       "name": "I Get Along Without You Very Well (Except Sometimes)",
       "url": "https://open.spotify.com/track/6XZCXx5dOgq7pOJxjVdYAr"
@@ -2051,7 +2051,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 240449,
       "name": "Monk's Mood",
       "url": "https://open.spotify.com/track/5ypkP1XjtQTjVh77833W8J"
@@ -2429,7 +2429,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 237114,
       "name": "Only Trust Your Heart",
       "url": "https://open.spotify.com/track/6YesOn7fGTzg1RF9c9KYdJ"
@@ -2753,7 +2753,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 483280,
       "name": "Seymour Reads the Constitution",
       "url": "https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9"
@@ -3048,6 +3048,24 @@
     },
     {
       "album": {
+        "name": "Sweet Apple",
+        "url": "https://open.spotify.com/album/5g2sMG9I7tK6T5SYraZLTW"
+      },
+      "artists": [
+        {
+          "name": "Moonside Trio",
+          "url": "https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180047,
+      "name": "Sweet Apple",
+      "url": "https://open.spotify.com/track/3oKCY5Fke7GTn0AuLYyqEq"
+    },
+    {
+      "album": {
         "name": "Tammy's Song",
         "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
       },
@@ -3135,6 +3153,24 @@
       "duration_ms": 205400,
       "name": "The Imager",
       "url": "https://open.spotify.com/track/1mfuqzs480Ey1ia2Y7q7MH"
+    },
+    {
+      "album": {
+        "name": "The Masquerade Is Over",
+        "url": "https://open.spotify.com/album/16eMeIsGCIiC1FXUaDjNh3"
+      },
+      "artists": [
+        {
+          "name": "Long Island Quartet",
+          "url": "https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271929,
+      "name": "The Masquerade Is Over",
+      "url": "https://open.spotify.com/track/0dVNnHZ3v5rkmNW16XyUos"
     },
     {
       "album": {
@@ -3521,6 +3557,24 @@
       "duration_ms": 234174,
       "name": "Windows",
       "url": "https://open.spotify.com/track/6ADfA2iC7wIIll0JC99ZH8"
+    },
+    {
+      "album": {
+        "name": "Anyone Can Dream",
+        "url": "https://open.spotify.com/album/773JrMS5ndOwtXxSss6u2m"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192394,
+      "name": "Winter in Munich",
+      "url": "https://open.spotify.com/track/3b9UgzMQmT1DZGgoHNtLTq"
     },
     {
       "album": {

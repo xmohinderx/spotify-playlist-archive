@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,577 likes - 60 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,590 likes - 60 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [See Me Through](https://open.spotify.com/track/7eIGGb2xWI68Sy7FdL6I7S) | [Luke + Anna Hellebronth](https://open.spotify.com/artist/4WUF78qaUIBG0uH1JiDztL) | [See Me Through](https://open.spotify.com/album/01XGogRGWeoexvdA8VRp7T) | 3:31 |
-| 2 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 |
+| 2 | [Counting Every Blessing](https://open.spotify.com/track/2SRk4jVwh5t51JAmiWFCZK) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Happy Mothers Day](https://open.spotify.com/album/0HzA266ajlk8r9EwqYUe1D) | 5:02 |
 | 3 | [Alive \(Breathe On Me\) \- Live](https://open.spotify.com/track/73BDlgL6zIz7zUaMmSV4C7) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Only Jesus \(Live\)](https://open.spotify.com/album/2dUvm3MOU8vX1pg4Y7SotK) | 3:29 |
 | 4 | [Perfect Father](https://open.spotify.com/track/5nrxd3RYpoMfECStDyxk18) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Perfect Father](https://open.spotify.com/album/772m7JkdTvKHLEeGesX44U) | 5:24 |
 | 5 | [Spirit Fall \- Live](https://open.spotify.com/track/0BrMRDuSxaxcXmnK6Bsb8E) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV), [Susie Woodbridge](https://open.spotify.com/artist/7LWsLUT26iv49pBXRBnc4v) | [Spirit Fall \(Live\)](https://open.spotify.com/album/61pd8daetmghBrcQQWt8EF) | 4:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 | 59 | [Fix MY Eyes On You](https://open.spotify.com/track/5Gvsgw6zvvcK73L8mrN9NY) | [InSalvation](https://open.spotify.com/artist/254N4bAbejA5vO4sJGAUdX) | [NEON](https://open.spotify.com/album/1OahG76uAlkwkaKR4OmxK4) | 5:57 |
 | 60 | [Simple Pursuit](https://open.spotify.com/track/7mrbfKEIvwf8rWXBxEtp89) | [Ben Cantelon](https://open.spotify.com/artist/0hG95VUGURuOHoxgts6Br3) | [The Ascent, Vol\. 1](https://open.spotify.com/album/2GvamlBYznzImkPF1ue7E2) | 5:18 |
 
-Snapshot ID: `MTU0MzMzNDc0OCwwMDAwMDAwMDg0NjliNzkyZDQ5MzVjNTU1NWE1YmY2ZjUzN2JlY2Fh`
+Snapshot ID: `MTU0MzMzNDc0OCwwMDAwMDAwMDljNzRmY2IxNGY3N2YzM2UxOWNkNmVkM2YwYTZmNDlk`

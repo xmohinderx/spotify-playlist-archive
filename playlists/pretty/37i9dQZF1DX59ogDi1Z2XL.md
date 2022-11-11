@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Drake, 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,349 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,377 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 |
 | 2 | [Move](https://open.spotify.com/track/5FoSDKPB0QufTlGbOBye0F) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Move](https://open.spotify.com/album/1KaLxqjf1O9xnxS5Z3G1ga) | 3:16 |
-| 3 | [Das U](https://open.spotify.com/track/5d4T6L8Td6bL6iWKhNxe7g) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Das U](https://open.spotify.com/album/1gUvkLRrJ6Q80Va3fpdFVS) | 2:15 |
+| 3 | [Das U](https://open.spotify.com/track/0D5MX5l0VPOxA62A87ONEE) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [You Don't Understand](https://open.spotify.com/album/0QwBq75ljzkUJjO6qcNAVK) | 2:15 |
 | 4 | [Fenty](https://open.spotify.com/track/2jhrlYw2rUsrCtBuIa9Zc5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fenty](https://open.spotify.com/album/7EsSmzg4lNubNUIzEjsV4v) | 2:58 |
 | 5 | [One In The Chamber](https://open.spotify.com/track/0MtO6lNufS0fiQPNFeUCuy) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [One In The Chamber](https://open.spotify.com/album/4MQZ4pMrSHIxi1BdKGGRCL) | 2:51 |
 | 6 | [Vince Carter](https://open.spotify.com/track/7FcxQ0Vo80VLmj2bbI4PDu) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Vince Carter](https://open.spotify.com/album/27Ov0gmzsleAzK9hH2VEUm) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [DUNYA](https://open.spotify.com/track/42cdZDXHmTiB39U7QELRqW) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA), [Young Jin](https://open.spotify.com/artist/5GEcTlDT5qgsxEBBMoKyhY), [Farhad Darya](https://open.spotify.com/artist/0mSLPrqEzM3ep1L8iGSod2) | [DUNYA](https://open.spotify.com/album/1Jz0j04eToddvGbMj7RZcN) | 2:52 |
 | 100 | [Touché](https://open.spotify.com/track/3kjBpFB5bLhWWC1OTJhMMU) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Touché](https://open.spotify.com/album/07Ac7pyVYbY3dHCrAwxbFG) | 2:43 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDE4M2U3Mjk1ZTc5MzJhYjRkOGVlNDhmNDhlYWEwMWIw`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDI1ZGQwYzgwNTYyZmI0NzI5YzRlNDViMGFlYTkwN2U3`

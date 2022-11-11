@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 
 > Summer fun for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,953 likes - 76 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,957 likes - 76 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 7 | [Lemonade Stand](https://open.spotify.com/track/5f6LCqqqP2JJ3LhHiR7SFq) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [A Potluck](https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk) | 2:41 |
 | 8 | [Chillin'](https://open.spotify.com/track/14nJsemfxPFCNfKZ3Pse0o) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Uncle Dox](https://open.spotify.com/artist/2f9WUsP1fUz3QLcbPUkiw9) | [Don't Gotta Be Cool](https://open.spotify.com/album/7Dmkj0ruoRevuG1gKXRpfy) | 3:28 |
 | 9 | [There Is so Much to Explore Outside](https://open.spotify.com/track/34ioa8fm7o4sZ7EjkB7ppK) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Tiger Family Trip](https://open.spotify.com/album/5EC5pB1kwSggef5P44laiU) | 1:17 |
-| 10 | [Mr\. Sun](https://open.spotify.com/track/68oEtRynOZG9E3yeTBWu3k) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 1:16 |
+| 10 | [Mr\. Sun](https://open.spotify.com/track/6n3qzK1msumNEERJI17dWi) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Best Of Raffi](https://open.spotify.com/album/3GaCPXbadjZUQrawtkIZuR) | 1:14 |
 | 11 | [Get Outside](https://open.spotify.com/track/0Mx4DMMD8NccivXrUg0DWU) | [Wendy and DB](https://open.spotify.com/artist/2DA994szci8jCCBDsPFbpM) | [Hey Big World](https://open.spotify.com/album/7qrmKYtBMFrc7iwhe1I5xR) | 3:06 |
 | 12 | [Drawing on the Sidewalk](https://open.spotify.com/track/4p7qP5YsC0P91kM9XRCjjQ) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [I Found It!](https://open.spotify.com/album/10h2NbahLm1oQlkFaqt2m1) | 3:03 |
 | 13 | [Shine On Me](https://open.spotify.com/track/0RZlub2aFqupP1eNR3eFne) | [D\. Jay](https://open.spotify.com/artist/3qU1mBOKKPVLRQVpsC819M) | [Buggy Baloo](https://open.spotify.com/album/24RF5ho1pK6uYr8koWc15p) | 2:21 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 21 | [Ice Cold Lemonade](https://open.spotify.com/track/6hQBlpN06NkcUUJS1iKKfm) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb), [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [Ice Cold Lemonade](https://open.spotify.com/album/5sOKX7TjwqvRW6MnTHALn0) | 2:59 |
 | 22 | [Let's Skateboard](https://open.spotify.com/track/7xSX7YXHDWa8ijoFbVBQY7) | [The Not\-Its!](https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry) | [KidQuake!](https://open.spotify.com/album/1H7T9peQoMiacUDdxi4yvW) | 1:51 |
 | 23 | [There's a Party in My Backyard \(feat\. Grotch the Sasquatch\)](https://open.spotify.com/track/78aqD5FMRbcCCkQHzGVfRt) | [DJ WILLY WOW!](https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY), [Grotch the Sasquatch](https://open.spotify.com/artist/6ynQJFv4NqfOtgNcLGOANV) | [It's All Good in the Naturehood! \(feat\. Grotch the Sasquatch\)](https://open.spotify.com/album/4GEZmb9oHRzVc4SVtArNaU) | 3:11 |
-| 24 | [Another Summertime Jam](https://open.spotify.com/track/4IdkY2v0qHTg3TJkBPTvh4) | [Battlebird](https://open.spotify.com/artist/2pC04M8Mo4SNSMsSEk2FH9) | [Whatever Together](https://open.spotify.com/album/2IkzHq61rWmsXQ77F6EC9A) | 2:49 |
+| 24 | [Another Summertime Jam](https://open.spotify.com/track/3MSW5ilujW2T94eBCn3TnP) | [Battlebird](https://open.spotify.com/artist/2pC04M8Mo4SNSMsSEk2FH9) | [Another Summertime Jam](https://open.spotify.com/album/0utua6zEwOWEU4nDvD7N5B) | 2:49 |
 | 25 | [We're Gonna Get Wet](https://open.spotify.com/track/1znpu2LXtC7IjuGlV1VWDo) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [The 50 Best Summer Songs](https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ) | 2:42 |
 | 26 | [Pool Safely](https://open.spotify.com/track/4ESxF1E8egs2Z8JNCzk8Eu) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Superhero](https://open.spotify.com/album/7FKsCQprYp5p6veybFbXr4) | 2:03 |
 | 27 | [Riding the Waves](https://open.spotify.com/track/5hXDPy8wqd1O9ypkCTjtqa) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Imagination Movers: In a Big Warehouse](https://open.spotify.com/album/2MmbI5cNJ2twmLFWBTUcNq) | 2:14 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 75 | [Let's Go Fly a Kite](https://open.spotify.com/track/0E13OCGuZX4pWcbAttmRpb) | [Wendy and DB](https://open.spotify.com/artist/2DA994szci8jCCBDsPFbpM) | [Hey Big World](https://open.spotify.com/album/7qrmKYtBMFrc7iwhe1I5xR) | 2:05 |
 | 76 | [Summer Sunshine](https://open.spotify.com/track/0QfYy4pgfxQ2Af3ScScLWY) | [Rebecca Frezza & Big Truck](https://open.spotify.com/artist/1SeulqPitSZkVs2NChVAlO) | [Special Kind Of Day](https://open.spotify.com/album/50P0yHZsEryCZ8Uy98b5ET) | 2:42 |
 
-Snapshot ID: `MTY1NDY4OTg4NSwwMDAwMDAwMDk5N2VkYjc0YTA5MDA4YTJlYmNlYmUzYTg4YTUxY2Mw`
+Snapshot ID: `MTY1NDY4OTg4NSwwMDAwMDAwMGYyYzc4M2VhYmRhYjVkMmVlMjdhOTc4NDg2YmVhMTkw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Morgan Evans",
+  "description": "The cream of today's Country crop. Cover: Brad Cox",
   "name": "Fresh Country",
   "published_playlist_ids": [
     "4BrfIt5VuvXM9ZKeooO5jX"
@@ -1206,6 +1206,24 @@
     },
     {
       "album": {
+        "name": "Face In The Crowd",
+        "url": "https://open.spotify.com/album/6IRQx9Mm5W4BJdKBG6m7Nh"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161133,
+      "name": "Face In The Crowd",
+      "url": "https://open.spotify.com/track/4rdl2BHBQ58Q9X4iopHTnx"
+    },
+    {
+      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/532HZrT6uAekC4urDonoXa"
       },
@@ -1485,6 +1503,24 @@
       "duration_ms": 181400,
       "name": "Ghost Story",
       "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
+    },
+    {
+      "album": {
+        "name": "GHOSTED",
+        "url": "https://open.spotify.com/album/5mVRTqoL3PSrmdSai5lqsK"
+      },
+      "artists": [
+        {
+          "name": "Taylor Moss",
+          "url": "https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203810,
+      "name": "GHOSTED",
+      "url": "https://open.spotify.com/track/3FJEkL4zxl9pNg3UAGcLT6"
     },
     {
       "album": {
@@ -2265,6 +2301,24 @@
       "duration_ms": 181990,
       "name": "Last Night Lonely",
       "url": "https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl"
+    },
+    {
+      "album": {
+        "name": "Last Time Last",
+        "url": "https://open.spotify.com/album/3DvNKelL2qwF1ArBNvSec6"
+      },
+      "artists": [
+        {
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217244,
+      "name": "Last Time Last",
+      "url": "https://open.spotify.com/track/7ePwjDCWZSmEtzrUvFCoEy"
     },
     {
       "album": {

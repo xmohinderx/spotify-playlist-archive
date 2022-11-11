@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIeCFU20wRm.md) - [plain]
 
 > Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,778 likes - 42 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,080 likes - 42 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIeCFU20wRm.md) - [plain]
 | 17 | [The Departure](https://open.spotify.com/track/5aaMPcWc1ANkAeqZcTRf90) | [Michael Nyman](https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8) | [Film Music 1980 \- 2001](https://open.spotify.com/album/160KzWMXXdj6cUWaqsb8Yp) | 3:49 |
 | 18 | [The Adam Project](https://open.spotify.com/track/0h2oliFUGdQzHE9TjCpeHe) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Adam Project](https://open.spotify.com/album/3mBBGGBVmBMHMfmrT4s7pH) | 4:55 |
 | 19 | [Aningaaq](https://open.spotify.com/track/5QLoJobHVOWEdodeWghQmS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 5:08 |
-| 20 | [The Consolations of Philosophy](https://open.spotify.com/track/6gllTV2Gyhpn7OwunTAaQH) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Black Mirror \- Nosedive \(Music From The Original TV Series\)](https://open.spotify.com/album/6I3nSno00gBaLTJF4epBQY) | 5:36 |
+| 20 | [The Consolations of Philosophy \- Music From "Black Mirror" TV Series](https://open.spotify.com/track/1eqf3ZsdpqMDJjEgm8D8Hx) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Classical For Revising](https://open.spotify.com/album/15n3JICpoTrlCUwngnhuz9) | 5:36 |
 | 21 | [Truman Sleeps](https://open.spotify.com/track/4N7h4IHWRaJCOo1VFdTMHV) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Truman Show \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uMsRKnaZ0Iy9wVI4F0X8a) | 1:51 |
 | 22 | [All Boundaries Are Conventions](https://open.spotify.com/track/3yVKDuoppFGIrP6u9fv5jy) | [Tom Tykwer](https://open.spotify.com/artist/1YtTF1pj1ZFufjkP0BEfWE), [Johnny Klimek](https://open.spotify.com/artist/35CsFzAi3BR19Ar1wRlPb6), [Reinhold Heil](https://open.spotify.com/artist/4CefZM5UsS1y5rvzq8M8S7) | [Cloud Atlas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6S1Asg9LqgrbnJdD8RaIpf) | 2:38 |
 | 23 | [Ripples in the Sand](https://open.spotify.com/track/1gqCO3x2MO4KbQfN9pGUlH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ) | 5:14 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIeCFU20wRm.md) - [plain]
 | 41 | [Philosophy of Time Travel](https://open.spotify.com/track/279OmEUbE1uSLMT9usR4nb) | [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Donnie Darko \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14YY4AaUCXICymdzNYBUS3) | 2:02 |
 | 42 | [Benno](https://open.spotify.com/track/3XiRUEgCkrXI42GqHaUkZw) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Cosmopolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ZODeTWdmP8gtOKt4j7oOB) | 6:52 |
 
-Snapshot ID: `MTY1ODMwNTI4MSwwMDAwMDAwMGQ3ZmQ0YmFjOGQzZjNhY2NlNmZjOTkwYWMzMjEyYmVl`
+Snapshot ID: `MTY1ODMwNTI4MSwwMDAwMDAwMDRkMmUxZjJiYTg1OTIwN2E0YmIwNDQyMDFhODQ5ZDU5`

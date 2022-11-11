@@ -4,7 +4,7 @@
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-128 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/5uUFbAhLiVNLmtCNfyWc4t)
+130 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/5uUFbAhLiVNLmtCNfyWc4t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Certain Sadness](https://open.spotify.com/track/3vHcprrLUS7hJ7sGljPVgf) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [A Certain Smile, A Certain Sadness \(Expanded Edition\)](https://open.spotify.com/album/1vLQYFvmDj7hTYvlvdMSQ4) | 3:08 | 2022-04-13 |  |
 | [After You've Gone](https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Rhythm Is My Business](https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu) | 4:18 | 2022-04-13 |  |
 | [Autumn Leaves \(with Paul Weston & His Music From Hollywood\)](https://open.spotify.com/track/4WqvEcqLyjXgrWspu7P7Ki) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Day By Day \(with Paul Weston & His Music From Hollywood\)](https://open.spotify.com/album/24BolRWKmaJV85C5tMkmbO) | 3:03 | 2022-04-13 | 2022-08-18 |
-| [Autumn Leaves \- Remastered](https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:40 | 2022-08-17 |  |
+| [Autumn Leaves \- Remastered](https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:40 | 2022-08-17 | 2022-11-11 |
+| [Autumn Leaves \- Remastered](https://open.spotify.com/track/3jXJr5DbxLXQZBfGVWT9KJ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [爵士季: 觉是秋天](https://open.spotify.com/album/3ubDNQjbsAAUTXKADT5kjI) | 2:40 | 2022-11-09 |  |
 | [Baby Won't You Please Come Home](https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Blues, Soul & Ballads](https://open.spotify.com/album/3sFHBeNmI8Z754CicdT2Vp) | 2:07 | 2022-04-13 |  |
 | [Baby, Don't You Cry](https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:34 | 2022-04-13 |  |
 | [Baby, I Don't Cry Over You](https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Billy Kyle and His Trio](https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q) | [The Blues Are Brewin'](https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ) | 3:13 | 2022-04-13 |  |
@@ -114,7 +115,8 @@
 | [The Thrill Is Gone](https://open.spotify.com/track/751SzrAQQ7eVA2niD1twG7) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7), [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [cosy autumn jazz](https://open.spotify.com/album/1N8ifrvGovGJ063efZvpBR) | 4:50 | 2022-09-30 |  |
 | [The Thrill Is Gone](https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7), [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [The Thrill Is Gone](https://open.spotify.com/album/11lw4GDycdDi2CM5mLWVBy) | 4:50 | 2022-04-13 | 2022-10-20 |
 | [There Must Be A Way](https://open.spotify.com/track/67U4IqbrefNGF3f7kSV4Fj) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/19UoBHanqMth4tk0rFw5RJ) | 3:06 | 2022-04-13 | 2022-07-29 |
-| [There Must Be A Way](https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:08 | 2022-06-29 |  |
+| [There Must Be A Way](https://open.spotify.com/track/2s8ITxz8gyXbrU8e54Tobv) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/5bg0svB3kklUxFziXta8it) | 3:06 | 2022-11-09 |  |
+| [There Must Be A Way](https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:08 | 2022-06-29 | 2022-11-11 |
 | [There Will Never Be Another You](https://open.spotify.com/track/1UzvPKVlVgRgkRtvO2hct0) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J) | 4:00 | 2022-04-13 | 2022-05-19 |
 | [There's No Such Thing As Love](https://open.spotify.com/track/2YsnPlou8g7xdKDCguDOYc) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 3:03 | 2022-04-13 | 2022-07-29 |
 | [There's No Such Thing As Love](https://open.spotify.com/track/6F4tYYGkZwRY0yNMHBzlV1) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 3:03 | 2022-06-29 |  |

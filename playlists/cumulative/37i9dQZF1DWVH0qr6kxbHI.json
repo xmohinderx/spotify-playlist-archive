@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica de Siempre",
+        "url": "https://open.spotify.com/album/5eRapx0Noxyn9D0KvQEECn"
+      },
+      "artists": [
+        {
+          "name": "Marisol",
+          "url": "https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179733,
+      "name": "Coraz\u00f3n Contento",
+      "url": "https://open.spotify.com/track/3toNVh3Z8sEjtr7iWTcDTo"
+    },
+    {
+      "album": {
         "name": "De Marisol A Pepa Flores",
         "url": "https://open.spotify.com/album/73Wl1DZw4FCGwGNdATSCIO"
       },
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 180413,
       "name": "Coraz\u00f3n Contento - Remasterizado",
       "url": "https://open.spotify.com/track/5jk6aPg83cKYzT2QoIe3zq"
@@ -427,10 +445,28 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228194,
       "name": "El relicario - Remastered",
       "url": "https://open.spotify.com/track/2DM5vKnZNSepFa7Nn3jAMF"
+    },
+    {
+      "album": {
+        "name": "El Relicario (Remastered)",
+        "url": "https://open.spotify.com/album/6zNaiEgo4rTgCkzdteNsJb"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228194,
+      "name": "El Relicario - Remastered",
+      "url": "https://open.spotify.com/track/5BZZiP3uW35X4g800Vlp5a"
     },
     {
       "album": {
@@ -622,6 +658,28 @@
     },
     {
       "album": {
+        "name": "M\u00fasica de Siempre",
+        "url": "https://open.spotify.com/album/5eRapx0Noxyn9D0KvQEECn"
+      },
+      "artists": [
+        {
+          "name": "Maria Dolores Pradera",
+          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192186,
+      "name": "La Flor de la Canela (with Joaqu\u00edn Sabina)",
+      "url": "https://open.spotify.com/track/228fuuL8StM2fgAmoPg33Q"
+    },
+    {
+      "album": {
         "name": "La Colecci\u00f3n Definitiva",
         "url": "https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg"
       },
@@ -637,7 +695,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 192186,
       "name": "La Flor de la Canela (with Joaqu\u00edn Sabina)",
       "url": "https://open.spotify.com/track/3AvRiaZZqrMe3lznMui3BM"
@@ -733,6 +791,24 @@
     {
       "album": {
         "name": "La Violetera (Remastered)",
+        "url": "https://open.spotify.com/album/39K1OMCrDwY1wT281KmPTe"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222125,
+      "name": "La Violetera - Remastered",
+      "url": "https://open.spotify.com/track/09liSR1OdhexnwtthZIKQu"
+    },
+    {
+      "album": {
+        "name": "La Violetera (Remastered)",
         "url": "https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ"
       },
       "artists": [
@@ -743,7 +819,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 222125,
       "name": "La Violetera - Remastered",
       "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"

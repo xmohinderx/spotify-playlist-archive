@@ -370,6 +370,24 @@
     },
     {
       "album": {
+        "name": "Sad Love Songs 2022",
+        "url": "https://open.spotify.com/album/4HKRfEZt6rkVQ9slM65T36"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218287,
+      "name": "Fuck it I love you",
+      "url": "https://open.spotify.com/track/0LIEkHVgBnY4m81q1TjYhJ"
+    },
+    {
+      "album": {
         "name": "Fuck it I love you",
         "url": "https://open.spotify.com/album/2PJXeyhkb1Z4H0u3alYKHg"
       },
@@ -399,7 +417,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 218287,
       "name": "Fuck it I love you",
       "url": "https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh"
@@ -453,10 +471,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 268000,
       "name": "H2O",
       "url": "https://open.spotify.com/track/4bsA6qZZ5v0EhWfGZKwWgi"
+    },
+    {
+      "album": {
+        "name": "N\u00ba",
+        "url": "https://open.spotify.com/album/1o1DSBFvEnMziUyTYDIFFj"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sokko",
+          "url": "https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "H2O",
+      "url": "https://open.spotify.com/track/54JfaxCpabcZUMte1LCjFo"
     },
     {
       "album": {
@@ -648,6 +684,24 @@
     },
     {
       "album": {
+        "name": "Black Dog: Being a Teacher (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3DMdesDa5tlBdlTX0u5CV0"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254346,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/6iLRZGfLd9W4cCEQNKjSjc"
+    },
+    {
+      "album": {
         "name": "Black Dog: Being a Teacher (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/1XUDf70Z6hdqzjv2eqUfpq"
       },
@@ -659,7 +713,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 254346,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/7K0Cua3mEHtWMWKlMVh8N5"
@@ -905,10 +959,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 272742,
       "name": "Love",
       "url": "https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG"
+    },
+    {
+      "album": {
+        "name": "Get Up And Start To Shine",
+        "url": "https://open.spotify.com/album/7FNHQJwC4r9uZKk6Zd966f"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272742,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/6uGQm999flrd5mB0RIoATp"
     },
     {
       "album": {
@@ -1267,10 +1339,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 241173,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/1zKij1M9oYMTeMCKNErsxe"
+    },
+    {
+      "album": {
+        "name": "Porcelain / Wolf",
+        "url": "https://open.spotify.com/album/6X21qWKM7nogd9N7MMMiwJ"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241173,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/50DMunbxuRK0ucbiDfncvM"
     },
     {
       "album": {
@@ -1481,10 +1571,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 189613,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc"
+    },
+    {
+      "album": {
+        "name": "Breakup Songs",
+        "url": "https://open.spotify.com/album/6ckrkQmWQZhc8dX80L9MGb"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/37hSLIyZ2YBADdtX0Zr4JS"
     },
     {
       "album": {
@@ -1542,6 +1650,24 @@
     },
     {
       "album": {
+        "name": "Homework Playlist",
+        "url": "https://open.spotify.com/album/4lkcUVvSZVdoYUvtIfVhTp"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255205,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/37a8HNIk2d6eFCKN6YKLIM"
+    },
+    {
+      "album": {
         "name": "Silhouettes",
         "url": "https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC"
       },
@@ -1553,7 +1679,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 255205,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko"
@@ -1705,6 +1831,24 @@
     {
       "album": {
         "name": "The Dreamer",
+        "url": "https://open.spotify.com/album/7JV6qaYj4yXUc16ucSexnO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242084,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/2sHwZ5U9tsUOx4JexhyPDe"
+    },
+    {
+      "album": {
+        "name": "The Dreamer",
         "url": "https://open.spotify.com/album/37VmW0nwBAD3cWNI0mSZNT"
       },
       "artists": [
@@ -1733,7 +1877,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 242084,
       "name": "The Dreamer",
       "url": "https://open.spotify.com/track/3NZmHJk7ZTp3mEbi4MNOiT"
@@ -1953,7 +2097,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 236053,
       "name": "Young And Beautiful",
       "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"
@@ -1975,6 +2119,24 @@
       "duration_ms": 236053,
       "name": "Young And Beautiful",
       "url": "https://open.spotify.com/track/5UzTtUZper0CphnqZYvsIu"
+    },
+    {
+      "album": {
+        "name": "Best of Female Pop",
+        "url": "https://open.spotify.com/album/3yM5uy3Lp0SA4ReyOcsMro"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236053,
+      "name": "Young And Beautiful",
+      "url": "https://open.spotify.com/track/5lER9ibonDkzF2J2OYZtBT"
     },
     {
       "album": {

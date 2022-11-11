@@ -504,6 +504,24 @@
     },
     {
       "album": {
+        "name": "Benin",
+        "url": "https://open.spotify.com/album/2PdS8G60pkQEaAwr7LeAbK"
+      },
+      "artists": [
+        {
+          "name": "Elliot Fitch",
+          "url": "https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177637,
+      "name": "Benin",
+      "url": "https://open.spotify.com/track/3lnPWI5DH48A0Fg06uxuAS"
+    },
+    {
+      "album": {
         "name": "Both Of Us",
         "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 415417,
       "name": "Doin Ya Thang",
       "url": "https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 209280,
       "name": "Everybody Everybody (TCTS Remix) - Edit",
       "url": "https://open.spotify.com/track/16LMJP0ci9YHA0kmNUjE1H"
@@ -2857,7 +2875,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 193859,
       "name": "Love Is A State Of Mind (feat. Ramona Renea)",
       "url": "https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6"
@@ -3537,7 +3555,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "On Da Groove",
       "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
@@ -3873,7 +3891,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 410500,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1pMvhKoPZUS2GGsXHWv4C7"
@@ -3899,6 +3917,28 @@
       "duration_ms": 269666,
       "name": "Red Alert - Grant Nelson Remix - Edit",
       "url": "https://open.spotify.com/track/3uYz0ZtiATdgOU8TItF0vD"
+    },
+    {
+      "album": {
+        "name": "The Reset",
+        "url": "https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191053,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA"
     },
     {
       "album": {
@@ -4309,7 +4349,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 327895,
       "name": "So Good",
       "url": "https://open.spotify.com/track/7HyV8OxPAhFEgqXnrHAJmm"
@@ -4941,7 +4981,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 135865,
       "name": "The Spirit",
       "url": "https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I"
@@ -5091,7 +5131,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 310573,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/4at0npP4QkdIUulFZIsYft"

@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 272133,
       "name": "Deux Arabesques, L66: No. 1: Andantino con moto",
       "url": "https://open.spotify.com/track/6nrWWTcOBmoLwcNrLRhY8n"
@@ -718,6 +718,32 @@
     },
     {
       "album": {
+        "name": "The Art of Bach",
+        "url": "https://open.spotify.com/album/0e8yrpux49X2XcsUqn2bWx"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "M\u00e1rta Kurt\u00e1g",
+          "url": "https://open.spotify.com/artist/1S7UUjCyXGTB8L2TYVIhcX"
+        },
+        {
+          "name": "Gy\u00f6rgy Kurt\u00e1g",
+          "url": "https://open.spotify.com/artist/1ygboTdafDwlY7TUYEj37E"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138840,
+      "name": "Gottes Zeit ist die allerbeste Zeit, Sonatina az \"Actus tragicus\"-b\u00f3l, BWV 106",
+      "url": "https://open.spotify.com/track/7G1EFxYUfb4CM4FKCjzH9N"
+    },
+    {
+      "album": {
         "name": "Bach Eternal",
         "url": "https://open.spotify.com/album/3D7QDPIZdKkCbpS1msH6Mw"
       },
@@ -737,7 +763,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 138880,
       "name": "Gottes Zeit ist die allerbeste Zeit, Sonatina az \"Actus tragicus\"-b\u00f3l, BWV 106",
       "url": "https://open.spotify.com/track/4SvoO5lHeDUIVYDpPF5YAO"
@@ -781,7 +807,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199375,
       "name": "Jan\u00e1\u010dek: On an Overgrown Path, Book I: No. 7, Good Night!",
       "url": "https://open.spotify.com/track/5rTOQ1I0Ig9CglsssseeYe"
@@ -990,6 +1016,28 @@
     },
     {
       "album": {
+        "name": "French Piano and Choral Music",
+        "url": "https://open.spotify.com/album/450awPFJQcqiSbgiuRyN2z"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272133,
+      "name": "No. 1: Andantino con moto",
+      "url": "https://open.spotify.com/track/4FwmoVVDZxr1MNhGSEDlfW"
+    },
+    {
+      "album": {
         "name": "Field: Complete Nocturnes",
         "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
       },
@@ -1075,6 +1123,28 @@
       "duration_ms": 433933,
       "name": "Nocturnes, Op. 27: No. 2 in D Flat Major. Lento sostenuto",
       "url": "https://open.spotify.com/track/5gOiyasbWfppG7fkNI6Byl"
+    },
+    {
+      "album": {
+        "name": "Lernen & Konzentration mit klassischer Musik",
+        "url": "https://open.spotify.com/album/3A6sHGAkGqPXPJ0zXrS6ML"
+      },
+      "artists": [
+        {
+          "name": "Leo\u0161 Jan\u00e1\u010dek",
+          "url": "https://open.spotify.com/artist/46xXzoOdtD7SL2PTRq5irp"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199375,
+      "name": "On an Overgrown Path, Book 1: No. 7, Good Night!",
+      "url": "https://open.spotify.com/track/4LY7OVpzOoSQ5G3o470rky"
     },
     {
       "album": {

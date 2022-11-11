@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > <ahref="https://www.instagram.com/homoelectric/?hl=en">Homoelectric</a> is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,706 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,712 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 3 | [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 |
 | 4 | [Plaything](https://open.spotify.com/track/3CRuaG93yRRpSkPjTwsjF9) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Plaything / Like](https://open.spotify.com/album/2PYTm1KTUE0pwZcUoW8jm1) | 6:03 |
 | 5 | [Closing Shot \(Radio Edit\)](https://open.spotify.com/track/2ffZME1OiF4Qlxz8DVHoZl) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD) | 4:28 |
-| 6 | [Cruel Intentions](https://open.spotify.com/track/3SqAKs0U1O8GRnzSxUPFdN) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Anthology: 10 Years of SMD](https://open.spotify.com/album/5PDs76t91ubJ3KJUGUTgiE) | 3:04 |
+| 6 | [Cruel Intentions](https://open.spotify.com/track/2AniSqPm1vYTTNqUEGkgn3) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Temporary Pleasure](https://open.spotify.com/album/0loitStosJM4u6vpb6BfCs) | 3:04 |
 | 7 | [Things That Dreams Are Made Of \- Instrumental / Remix / Remaster 2002](https://open.spotify.com/track/12Oh5ewLqFbcMpfYpqp9Ux) | [The League Unlimited Orchestra](https://open.spotify.com/artist/7G7TTMHdSQFMmYoFmoVQiY), [Martin Rushent](https://open.spotify.com/artist/1fd2blxXQa111coetJPkUI) | [Love And Dancing](https://open.spotify.com/album/0hwRPVBP33XamxIm0Co1hU) | 5:08 |
 | 8 | [Homosapien](https://open.spotify.com/track/7gBZxDfVolYTmpJ8eBCU68) | [Pete Shelley](https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8) | [Homosapien](https://open.spotify.com/album/59sf1CK6QyJ5DDaeru4xqG) | 4:34 |
 | 9 | [Hold It/Control It](https://open.spotify.com/track/7wQdeiZwrwMdJTwuw4syaH) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Crasher](https://open.spotify.com/album/7nhRhJ0XUNWt5malAs9q67) | 6:42 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 18 | [Where's Jason's K](https://open.spotify.com/track/5nUfbXGXSULNLxJyndR5iB) | [Syclops](https://open.spotify.com/artist/1DoyIKYcf1Pw2tMFFy0oEi) | [I've Got My Eye on You](https://open.spotify.com/album/23cDF6i36IrMJmfDZojPgp) | 6:39 |
 | 19 | [Shades of Jae](https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Black Mahogani](https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6) | 6:55 |
 | 20 | [Nini \- Claude Monnet Remix](https://open.spotify.com/track/1HvnSNUGVzGdiWknoN568h) | [Clarisse Muvemba](https://open.spotify.com/artist/3VhZAwL3pwSfh1YgrPB9wr), [Sumo](https://open.spotify.com/artist/68hlYvUTBm1WJXhpO6re7X) | [Nini](https://open.spotify.com/album/6uGbxYqV6n3Nzudd28Ol3A) | 8:13 |
-| 21 | [Another Excuse \- DFA Remix](https://open.spotify.com/track/296fOgdmVRTPZU3zLIAX30) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 7:52 |
+| 21 | [Another Excuse \- Dfa Remix](https://open.spotify.com/track/0oSbSiUnmSbUIDexxH7OPd) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B) | [Nite Versions \(15 Year Anniversary Edition\)](https://open.spotify.com/album/4cGFG2xWOqE09EmRMUMd6t) | 8:00 |
 | 22 | [Perspex Sex \- Ewan's Hi\-NRG Remix](https://open.spotify.com/track/0UuI04fLX0AFGIVqwzTZwZ) | [Freeform Five](https://open.spotify.com/artist/5moj04MGEjXS0834GF3wK5), [Ewan Pearson](https://open.spotify.com/artist/6PQgiQKFKgk7EJElgUPo7y) | [Perspex Sex \(Remixes\)](https://open.spotify.com/album/0nF7cu31srje4db7gbv3wH) | 8:00 |
 | 23 | [Mothership Reconnection \(feat\. Parliament/Funkadelic\) \- \(Daft Punk Remix\)](https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t) | [Scott Grooves](https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe), [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:00 |
 | 24 | [Another Man \- 2012 \- Remaster](https://open.spotify.com/track/33qq1FKftOqTzUMKYed45x) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [The West End Story, Vol\. 2 \(2012 \- Remaster\)](https://open.spotify.com/album/5bYi0lm8inqOHBgx5bWpwd) | 6:56 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 31 | [The Boy Is Mine \- Radio Edit](https://open.spotify.com/track/2rwDzx2nCWfQze7nsR2SOF) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine: 90s R'n'B](https://open.spotify.com/album/58sOAY5xeDAodYOkIGegJM) | 4:00 |
 | 32 | [Greatest Hit](https://open.spotify.com/track/4kox25GnFPcvrZWXvbB3Ar) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [Anniemal](https://open.spotify.com/album/3LN3dGIFGEqTjTDwTFFCj6) | 3:40 |
 | 33 | [Lovertits](https://open.spotify.com/track/3k95pqiCFMJAqr1NZYVbob) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:44 |
-| 34 | [Caught Out There](https://open.spotify.com/track/1ZNOEXFljuBPOf5m0SREdi) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 4:09 |
-| 35 | [Heads High](https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 3:31 |
+| 34 | [Caught Out There \- Single Radio Edit](https://open.spotify.com/track/3anCuIMGHPXLfPdoxZaGPg) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Women Of R&B](https://open.spotify.com/album/6UXnUgKNd8oH238Qkf1mNR) | 4:09 |
+| 35 | [Heads High](https://open.spotify.com/track/0LotB1fTYcGZOWpTlAVtX6) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Trojan Classic Jamaican Sounds Since 1968](https://open.spotify.com/album/2vitRjnvtWLL0Oq840faaE) | 3:24 |
 | 36 | [The Wig](https://open.spotify.com/track/4ponr2KQSDtiXZs0pjrdgM) | [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Wickedness Increase](https://open.spotify.com/album/31AWmv5qMkTzNQra5e94Vk) | 4:05 |
 | 37 | [Battle](https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Lain](https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:00 |
 | 38 | [138 Trek](https://open.spotify.com/track/41rcTbVxz3b2Rv4RngYKj8) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Beats by Design](https://open.spotify.com/album/7fa3b5DjCmd7aejFh1l2Zn) | 5:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 49 | [Like a Prayer \(Churchapella\)](https://open.spotify.com/track/4UX7TUsMu6QVPoBdpBEEqB) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like A Prayer](https://open.spotify.com/album/2qmMKmWqpPbsd6dKrZXgSV) | 6:08 |
 | 50 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 |
 
-Snapshot ID: `MTYyMjY3MDk3NSwwMDAwMDAwMGQ3MjU1YmJjY2ZhNmI0YzRiZjNiMzkwNDYxOWExNzRh`
+Snapshot ID: `MTYyMjY3MDk3NSwwMDAwMDAwMDQ4ZjAyMjU4ZWFlNmMxMWE1ZGYyM2QxZWJjNWY0YjI4`

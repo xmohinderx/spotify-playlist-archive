@@ -6,6 +6,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Def Jam Classics, Vol.1",
+        "url": "https://open.spotify.com/album/3F579i3hQByHOyqIQUa6fq"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209906,
+      "name": "(You Gotta ) Fight For Your Right (To Party)",
+      "url": "https://open.spotify.com/track/5ODVxUulyknEVXwjDaZpkp"
+    },
+    {
+      "album": {
         "name": "Mama Said Knock You Out (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2ljUSR5STBQGeiqjrfWbSe"
       },
@@ -165,10 +183,28 @@
       ],
       "date_added": "2020-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 206693,
       "name": "Da Joint",
       "url": "https://open.spotify.com/track/4opGTspdCCVK9IG1b4k8yp"
+    },
+    {
+      "album": {
+        "name": "Good Morning Music: Hip Hop Bangers",
+        "url": "https://open.spotify.com/album/5yRjtWycg6G2DUOnNGR8bQ"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208040,
+      "name": "Da Joint",
+      "url": "https://open.spotify.com/track/0YrijnoCwibZMUOShvJC9e"
     },
     {
       "album": {
@@ -190,6 +226,28 @@
     },
     {
       "album": {
+        "name": "Def Jam 25: DJ Bring That Back",
+        "url": "https://open.spotify.com/album/6x9b726D8KTyUDZcvQyzxd"
+      },
+      "artists": [
+        {
+          "name": "Boss",
+          "url": "https://open.spotify.com/artist/2ptpFHeJc6Do5z8nyMSwHi"
+        },
+        {
+          "name": "Papa Juggy",
+          "url": "https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237466,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/3bjMwXzCljym8xBC34Rbqs"
+    },
+    {
+      "album": {
         "name": "Def Jam's Greatest Hits - Hardcore",
         "url": "https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR"
       },
@@ -205,7 +263,7 @@
       ],
       "date_added": "2020-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 241560,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK"
@@ -295,7 +353,7 @@
       ],
       "date_added": "2020-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 208653,
       "name": "Fight For Your Right",
       "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
@@ -353,7 +411,7 @@
       ],
       "date_added": "2020-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 286200,
       "name": "He Got Game",
       "url": "https://open.spotify.com/track/48zajk3g8P3BMT7F9BbDoD"
@@ -893,6 +951,24 @@
       "duration_ms": 196373,
       "name": "Throw Ya Gunz",
       "url": "https://open.spotify.com/track/2nCVH8UkoII2jWwx6SYVso"
+    },
+    {
+      "album": {
+        "name": "Greatest Misses",
+        "url": "https://open.spotify.com/album/6ViErzJ80VCeOnrTPvX2nW"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Tie Goes To The Runner",
+      "url": "https://open.spotify.com/track/2TZuNkLb0J6oKLEdlZ0XX3"
     },
     {
       "album": {

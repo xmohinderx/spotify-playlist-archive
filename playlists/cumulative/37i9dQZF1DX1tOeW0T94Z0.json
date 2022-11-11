@@ -408,6 +408,24 @@
     },
     {
       "album": {
+        "name": "Forgotten 90's Alternative",
+        "url": "https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT"
+      },
+      "artists": [
+        {
+          "name": "Dream Warriors",
+          "url": "https://open.spotify.com/artist/0Hh2eQ8oBmRR5iL5NVO1Fk"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304680,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/5B3YiEvNhNPGG5O0dSiev1"
+    },
+    {
+      "album": {
         "name": "The Great Canadian Soundtrack: Summer songs",
         "url": "https://open.spotify.com/album/5aqvbg8RKJWc5HMYIPxFed"
       },
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 304733,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/1xIADUASoF8HEnvH0r37Fj"
@@ -579,10 +597,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 201502,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/5WlbWmsrfhKiDKpZRmneBN"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me Baby (US Top 40 Mix)",
+        "url": "https://open.spotify.com/album/7nICk1ja0WQ3637XO5BlOg"
+      },
+      "artists": [
+        {
+          "name": "Kreesha Turner",
+          "url": "https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/23vxbLPQbgqsBlti0Xn53r"
     },
     {
       "album": {
@@ -1999,10 +2035,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 262480,
       "name": "Smile For Me",
       "url": "https://open.spotify.com/track/525X9t8doCdiFVpsAIScX7"
+    },
+    {
+      "album": {
+        "name": "Massari",
+        "url": "https://open.spotify.com/album/6hA9k65u8PpAM3iLBKfbYz"
+      },
+      "artists": [
+        {
+          "name": "Massari",
+          "url": "https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51"
+        },
+        {
+          "name": "Loon",
+          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262480,
+      "name": "Smile For Me",
+      "url": "https://open.spotify.com/track/6diekKLoLFrDavNOdNmUez"
     },
     {
       "album": {
@@ -2171,7 +2229,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 227066,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/5TridrikuB8m6Cc1Em7mKN"
@@ -2193,6 +2251,24 @@
       "duration_ms": 229066,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/66HIKVRPx41akQmPu6iQ6O"
+    },
+    {
+      "album": {
+        "name": "Best Drinking Songs Ever",
+        "url": "https://open.spotify.com/album/0oUqqKL6tROmngZlEysoF3"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231946,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/2KkXmo1V83sHTfLGTvbzmR"
     },
     {
       "album": {

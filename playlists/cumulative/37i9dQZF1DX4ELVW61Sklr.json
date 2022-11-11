@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 206213,
       "name": "Christmas Morning [from Still Home For The Holidays (An R&B Christmas Album)]",
       "url": "https://open.spotify.com/track/6TyCWrr4aFxYSlMJI4fpV2"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 269866,
       "name": "Deck the Halls / Silent Night",
       "url": "https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 251133,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/5jFiyUs5R6kHuKbAs0ZU2s"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 308640,
       "name": "O Come",
       "url": "https://open.spotify.com/track/18ZMF8U5OqRaLmmwCXsXVC"
@@ -1258,6 +1258,24 @@
     },
     {
       "album": {
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/50UK1YSUTD2zvXKLa3rsBD"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365720,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/29pkrZLRrWK6TMw9egQC1y"
+    },
+    {
+      "album": {
         "name": "Give Love At Christmas",
         "url": "https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP"
       },
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 365720,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 168413,
       "name": "Someday At Christmas",
       "url": "https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 264186,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM"
@@ -1799,6 +1817,28 @@
     {
       "album": {
         "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/1KXfyj4DeQVABeUTKxnBfG"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "Winter Wonderland - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/4tljBHLATQbwuphb5wLO94"
       },
       "artists": [
@@ -1857,7 +1897,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 186098,
       "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"

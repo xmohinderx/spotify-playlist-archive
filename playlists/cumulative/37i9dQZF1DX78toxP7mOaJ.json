@@ -2336,6 +2336,24 @@
     },
     {
       "album": {
+        "name": "Elvis",
+        "url": "https://open.spotify.com/album/0csd5T1V7ziPqic307uK2U"
+      },
+      "artists": [
+        {
+          "name": "Wildermiss",
+          "url": "https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187978,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/4PzCfRj2ujlckhRAThjDsl"
+    },
+    {
+      "album": {
         "name": "Decay",
         "url": "https://open.spotify.com/album/5MfKzK1PNrXOyRkugJGgXq"
       },
@@ -2347,7 +2365,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187978,
       "name": "Decay",
       "url": "https://open.spotify.com/track/5ZBDSjEqPgFVut3KVen0rk"

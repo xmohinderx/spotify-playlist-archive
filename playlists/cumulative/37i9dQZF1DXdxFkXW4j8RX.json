@@ -666,6 +666,24 @@
     },
     {
       "album": {
+        "name": "Rap & Hip Hop Retro",
+        "url": "https://open.spotify.com/album/41HQMj4ysshbjbGt9BqcoB"
+      },
+      "artists": [
+        {
+          "name": "Tiro De Gracia",
+          "url": "https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192293,
+      "name": "El Juego Verdadero",
+      "url": "https://open.spotify.com/track/5Ocoal6p3DNS6EDSzQwdtm"
+    },
+    {
+      "album": {
         "name": "Mix Explota",
         "url": "https://open.spotify.com/album/5iVj73EMo6poonZn9IbbOG"
       },
@@ -677,7 +695,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 192293,
       "name": "El Juego Verdadero",
       "url": "https://open.spotify.com/track/6o2vC4OjOQVC3F0ngQBrW7"
@@ -786,6 +804,44 @@
     },
     {
       "album": {
+        "name": "Empezar Por M\u00ed",
+        "url": "https://open.spotify.com/album/7BXbUnZuxjIh4FvJDeL2jB"
+      },
+      "artists": [
+        {
+          "name": "Liricistas",
+          "url": "https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc"
+        },
+        {
+          "name": "Guille Scherping",
+          "url": "https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq"
+        },
+        {
+          "name": "Rou C",
+          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
+        },
+        {
+          "name": "Bacayo Brass",
+          "url": "https://open.spotify.com/artist/6WOVoiNqsdDZ5sQWrs6FEd"
+        },
+        {
+          "name": "Natalia Valdebenito",
+          "url": "https://open.spotify.com/artist/328NTYn9QWEgcCFXAdXMjz"
+        },
+        {
+          "name": "Utopiko",
+          "url": "https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208870,
+      "name": "Empezar Por M\u00ed",
+      "url": "https://open.spotify.com/track/20ejbI8Q5d0EvAKBMcL9mT"
+    },
+    {
+      "album": {
         "name": "Hip Hope",
         "url": "https://open.spotify.com/album/4keg6ZuJj3Lbp9OWtpd2ld"
       },
@@ -817,7 +873,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209280,
       "name": "Empezar Por M\u00ed",
       "url": "https://open.spotify.com/track/4f2O5yUFilnrP5QgxfLoc9"

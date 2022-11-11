@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 162312,
       "name": "Find You",
       "url": "https://open.spotify.com/track/3YziXpvMKC74a9bVF7EDsY"
@@ -1478,6 +1478,24 @@
     },
     {
       "album": {
+        "name": "Glory I Couldn't See",
+        "url": "https://open.spotify.com/album/4VLvxKQA6Arj5NcZedcmIe"
+      },
+      "artists": [
+        {
+          "name": "Mike Donehey",
+          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246707,
+      "name": "Glory I Couldn't See",
+      "url": "https://open.spotify.com/track/374jAfSnw2f3qlp52ye148"
+    },
+    {
+      "album": {
         "name": "Flourish",
         "url": "https://open.spotify.com/album/15566AOuMlvhL7G03xBkMF"
       },
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 246707,
       "name": "Glory I Couldn't See",
       "url": "https://open.spotify.com/track/40sk27yNfrTlbDi6WhpXng"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 204271,
       "name": "Healing",
       "url": "https://open.spotify.com/track/4EKTLzgEPHij7hKpqjuZH5"
@@ -2153,7 +2171,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 181224,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB"
@@ -2269,7 +2287,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 199760,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5"
@@ -2689,7 +2707,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Love Me Like You - TYE Remix",
       "url": "https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB"
@@ -2863,7 +2881,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174438,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz"
@@ -3151,7 +3169,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174573,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/5VI6AYnjm9yjc9HnhI46n1"
@@ -4042,6 +4060,24 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223402,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/2K9qREh8F90ScEekLq3c9i"
+    },
+    {
+      "album": {
         "name": "Tightrope",
         "url": "https://open.spotify.com/album/4Ux6A6SaLPueWDwfEemqwh"
       },
@@ -4071,7 +4107,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 224693,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc"
@@ -4399,7 +4435,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 246215,
       "name": "Who Says?",
       "url": "https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7"

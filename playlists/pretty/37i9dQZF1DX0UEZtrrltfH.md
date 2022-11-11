@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,652 likes - 61 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,668 likes - 61 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 3 | [Happiness](https://open.spotify.com/track/5S4J5QVt1X0ZACiPOrOCoq) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6) | 4:03 |
 | 4 | [Liquorice](https://open.spotify.com/track/3LmlegS3av5opwiIMVDbgI) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:16 |
 | 5 | [Mean Girls](https://open.spotify.com/track/64n00yB9GuPvH5FJiNtq8F) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [333](https://open.spotify.com/album/38grabLpTHYySHEyG0TyUN) | 2:26 |
-| 6 | [Rainbow \- make it double Oklou Mix](https://open.spotify.com/track/4kE5gZGXZ6kWmsrD8N2n8u) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM) | 4:01 |
+| 6 | [Rainbow \- make it double Oklou Mix](https://open.spotify.com/track/15aZmqDegIlWI0dNJsuhQV) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Rainbow \(make it double Oklou Mix\)](https://open.spotify.com/album/2L1akOUkrYPzFPFkpwUvss) | 4:01 |
 | 7 | [Auto Salon](https://open.spotify.com/track/5Xw5KbzT7LuvTv07LukrOE) | [bodyGaard](https://open.spotify.com/artist/2LBjk8Kcii9JHM18uYW873), [EXODUS1900](https://open.spotify.com/artist/3KBmWkJiBmv1gxLfY4EcoW) | [Auto Salon](https://open.spotify.com/album/4osvPLfw5tgtAbdxO6pp7q) | 2:33 |
 | 8 | [Yeah Yeah \- D Ramirez Vocal Radio Edit](https://open.spotify.com/track/4HVGC52IogHANcKFA0QYiT) | [Bodyrox](https://open.spotify.com/artist/3FVJvsdVNbVmydSuI22Z5v) | [Yeah Yeah](https://open.spotify.com/album/0qIj9p0MyiMJWtw9Bqc5br) | 2:41 |
 | 9 | [Take Me](https://open.spotify.com/track/6YcHYJZq0fyqU41rlpIoh9) | [Boy Sim](https://open.spotify.com/artist/3bfT2u8Dz3hoSDvSZ8KyqH), [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J), [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY) | [Pink Noise](https://open.spotify.com/album/45h2tvlBBKHQe7d5p0uSNU) | 3:20 |
-| 10 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
+| 10 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/4ujKY4DaGQS08wykMsFSEd) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [So Hot You're Hurting My Feelings](https://open.spotify.com/album/3Wwe8sLlDLuEd6d1br8O1P) | 3:03 |
 | 11 | [Girls Night Out](https://open.spotify.com/track/7jspeyAKVWaBYvPGPe6u46) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Girls Night Out](https://open.spotify.com/album/1JAutav4UH5YKUyuixDkRH) | 3:41 |
 | 12 | [Digital Love](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:01 |
 | 13 | [On A Mountain](https://open.spotify.com/track/3BIOgDZVS4iAmtDJ1S6RrD) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:06 |
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 22 | [Cinderella](https://open.spotify.com/track/00I1QKvKaAikK5joEW92Zd) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd) | 3:05 |
 | 23 | [My Purple iPod Nano](https://open.spotify.com/track/0Zp9bIm1BeIyFiYNAof3Sm) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano](https://open.spotify.com/album/3GSIeTBRBAxSji76YI1uHn) | 6:52 |
 | 24 | [I Remember \- Radio Edit](https://open.spotify.com/track/0y8EUU2h9emwmuyLQyQWZP) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [I Remember](https://open.spotify.com/album/5lLoN1Gu1YleKyPm3xyFAj) | 3:20 |
-| 25 | [Cinema](https://open.spotify.com/track/7lpcsfhzWhzbBjg3QopQYb) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/59qMNeLYyUvxNBO3hXgtE5) | 2:06 |
+| 25 | [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 |
 | 26 | [Jam \(Turn It Up\)](https://open.spotify.com/track/6slnz0q9Peo9Pnok7U51so) | [Kim Kardashian](https://open.spotify.com/artist/0VyNiaUWxot9V0efpoi0qt) | [Jam \(Turn It Up\)](https://open.spotify.com/album/2JQLszU7O0xO0CY66mPkwf) | 4:35 |
 | 27 | [gloves](https://open.spotify.com/track/3jYmmtCLIHhBFssuyefhqR) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [gloves](https://open.spotify.com/album/2JrP8q7L4HaN8ql2MaehFx) | 3:30 |
-| 28 | [In Your Eyes](https://open.spotify.com/track/1t5nwfsb90IliczIhOMnpJ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:17 |
+| 28 | [In Your Eyes](https://open.spotify.com/track/1EtSPROvqe5orgFXnkmdtU) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Step Back in Time: The Definitive Collection](https://open.spotify.com/album/3vA84e8wtK3OqVoq7jQs5V) | 3:17 |
 | 29 | [Koi](https://open.spotify.com/track/3Lf4PS3RzFb8VpMyJtkOl4) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Riot Boi](https://open.spotify.com/album/5SofOXwfXjZD3PyQZeED8W) | 3:48 |
 | 30 | [Lightning Lipgloss Life](https://open.spotify.com/track/0n1r0U8DiEcO0ekbPN5jQM) | [Life Sim](https://open.spotify.com/artist/0cS0OQAmAZFTwrcjeBDeYS) | [Lightning Lipgloss Life](https://open.spotify.com/album/6WeQF642L85eIEZlU28bX9) | 5:32 |
 | 31 | [I.D.L.](https://open.spotify.com/track/3Jp0DzyxKUglGi8uvRjV1M) | [Life Sim](https://open.spotify.com/artist/0cS0OQAmAZFTwrcjeBDeYS) | [PC Music, Vol\. 2](https://open.spotify.com/album/2GRIt25aRsrVdnaPacHJoR) | 5:53 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 51 | [egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [The Fool](https://open.spotify.com/album/4n1tg05JN5EY0k7FRRcAir) | 2:18 |
 | 52 | [Luxury](https://open.spotify.com/track/7IzN1BfaQ8fmTHYPRPhNws) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 2:48 |
 | 53 | [Embrace](https://open.spotify.com/track/6BgGIR4gyQr8aetJahZNN6) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Embrace](https://open.spotify.com/album/3i7C7hrizEkge47FgDz5rJ) | 3:34 |
-| 54 | [FTS \- Original Mix](https://open.spotify.com/track/5CLruz22PAlhr07V7ULV5u) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [FTS](https://open.spotify.com/album/0rXON439n3w0JaRaugKasV) | 5:29 |
-| 55 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
+| 54 | [FTS \- Original Mix](https://open.spotify.com/track/389HkjF38H4P5chyGtdtYG) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Today Is Tomorrow](https://open.spotify.com/album/4YzI69AYlN3nDjmNQpWyO8) | 5:29 |
+| 55 | [Teenage Dream](https://open.spotify.com/track/1zqQ0Pja5NwgjipWXKQTUf) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Solo Gang](https://open.spotify.com/album/5E7pBCvEJ6QzXlW8kxDLRO) | 3:47 |
 | 56 | [Tokyo Drift](https://open.spotify.com/track/3DJnEIP8U824ZVEBOgOpqG) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Uninvited](https://open.spotify.com/album/1j1JRQgSgUCTrXSSOd0kIK) | 3:04 |
 | 57 | [5th New Century \- Instrumental version](https://open.spotify.com/track/6xY8dWstE3rFzi3kknT8hH) | [Philipp Gorbachev](https://open.spotify.com/artist/6eY2REoBPKZ4CnJD0sFdfP) | [Unlock The Box](https://open.spotify.com/album/29phuOIOOWD6LOUW7WdbXa) | 6:03 |
 | 58 | [forever](https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:03 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 60 | [FELL](https://open.spotify.com/track/2Vv2boJ8svGFAOA348ApxQ) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [SIREN CALL](https://open.spotify.com/album/3Mozvi21Fv8p7YSjRcRSkg) | 3:03 |
 | 61 | [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 |
 
-Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMDk4NTYwMTdjNTk1NjM4ODhjMzQ2YTMxYzdmYTIyYjFk`
+Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMGVmODU2ZGI4MWQ5MjRmMjAyZmU2ZWRhMDAzYjM3ZWQ5`

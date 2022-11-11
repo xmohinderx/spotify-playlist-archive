@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "Avalon Blues",
+        "url": "https://open.spotify.com/album/5Er6ubiIavSvQNQI5cwXYm"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263306,
+      "name": "Avalon Blues",
+      "url": "https://open.spotify.com/track/2LMHSxhp5CahCt9DJVLX0F"
+    },
+    {
+      "album": {
         "name": "Back on Top",
         "url": "https://open.spotify.com/album/5tpqIo7C4bCdDKh4kZrjwW"
       },
@@ -301,7 +319,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 277733,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 208000,
       "name": "Driftin' Blues - Single Version / Stereo",
       "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
@@ -1541,7 +1559,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 236182,
       "name": "Money Talks",
       "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"

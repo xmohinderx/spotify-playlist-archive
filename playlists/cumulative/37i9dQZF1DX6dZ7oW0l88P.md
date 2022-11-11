@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-96 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/4Vkd1lM4f47tYYTnIGCNNj)
+97 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/4Vkd1lM4f47tYYTnIGCNNj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Late Night Sketch](https://open.spotify.com/track/64APCNQMUudINeHwjcKR0j) | [Kyradeen](https://open.spotify.com/artist/30vDwD43Sj0SGHkXtSPSKo) | [Late Night Sketch](https://open.spotify.com/album/13eXz4mO3b4AH2w9YGKJiv) | 6:40 | 2022-05-11 | 2022-07-29 |
 | [Lenaerts: Fantaisie sur la Bohème de Puccini, Pt\. 1](https://open.spotify.com/track/19ECnW3LhP8fMx35Wqzauw) | [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I) | [Vienna Stories \- Lenaerts: Fantaisie sur la Bohème de Puccini, Pt\. 1](https://open.spotify.com/album/51C9ZkqBv58DZdxNJwqUm9) | 4:27 | 2022-05-11 | 2022-07-29 |
 | [Lenaerts: Fantaisie sur la Bohème de Puccini, Pt\. 1](https://open.spotify.com/track/3j9dQrn1E6TWojRj1BEWxx) | [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I) | [Vienna Stories](https://open.spotify.com/album/4h7nbnfSBW24nzK8iaMATx) | 4:27 | 2022-07-18 |  |
-| [Limerick is Beautiful \- Kilcash](https://open.spotify.com/track/71T51fQHRA9XY7uvkaOyK2) | [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Margie Butler: Carolan's Draught \- Celtic Harp](https://open.spotify.com/album/0Pk1Nevws7Ry5gZ6ghqYbt) | 3:56 | 2022-07-18 |  |
+| [Limerick is Beautiful \- Kilcash](https://open.spotify.com/track/71T51fQHRA9XY7uvkaOyK2) | [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Margie Butler: Carolan's Draught \- Celtic Harp](https://open.spotify.com/album/0Pk1Nevws7Ry5gZ6ghqYbt) | 3:56 | 2022-07-18 | 2022-11-11 |
 | [Limerick Is Beautiful \- Kilcash \(Arr\. M\. Butler\)](https://open.spotify.com/track/0dSau5G5jj9we5Kudvhpvt) | [Scanlon](https://open.spotify.com/artist/7I3H6YaEvjwQW3p0VuJ0Yi), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Margie Butler: Carolan's Draught \- Celtic Harp](https://open.spotify.com/album/5juxWbAu431jd0NqDlklHh) | 3:56 | 2022-05-11 | 2022-07-29 |
 | [Little Flower](https://open.spotify.com/track/5GxaNI9vlgxHnogjQjjZm2) | [Michael Penny](https://open.spotify.com/artist/1rfk3cLafuKhShpgY1xzFq) | [Little Flower](https://open.spotify.com/album/49eMwlV7BaQ6iMVOQb6D4S) | 1:37 | 2022-05-11 |  |
 | [Little Piece For Harp](https://open.spotify.com/track/5ol379cYHwXRapFSrls4pb) | [Nella Vitae](https://open.spotify.com/artist/0Knkt1kQdMiNsArHK1HRBp) | [Little Piece For Harp](https://open.spotify.com/album/5kGckjV2dP7ZcBhUI0IIVc) | 2:02 | 2022-05-11 |  |
@@ -55,6 +55,7 @@
 | [Marsh of Rhudlands](https://open.spotify.com/track/4VcJfNEKOuqWgj32L4yn4u) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Margie Butler: Carolan's Draught \- Celtic Harp](https://open.spotify.com/album/5juxWbAu431jd0NqDlklHh) | 3:11 | 2022-05-11 | 2022-07-29 |
 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 | 2022-05-11 |  |
 | [Maryanne's Song](https://open.spotify.com/track/62EvyXd17LzHEBXPZurMHj) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Maryanne's Song](https://open.spotify.com/album/4C5NJRe1QDXvyKQrP3hbKR) | 1:18 | 2022-05-11 |  |
+| [Medley : Limerick Is Beautiful / Kilcash](https://open.spotify.com/track/3VbAEIOn8oV2BnBimhPbFo) | [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Festival De Musiques Irlandaises Vol\. 3 \(Musiques Celtiques\)](https://open.spotify.com/album/6yyPVxSc8tvq8ZA9l01xZX) | 3:55 | 2022-08-10 |  |
 | [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/1HoCiBasSm8HLDQ6TIyZlL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 2:44 | 2022-08-10 | 2022-08-25 |
 | [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/6Ud2eoIWr1PlHZjBulf0fG) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 2:44 | 2022-08-10 |  |
 | [Music of Spey](https://open.spotify.com/track/0ecznKoNRZ07IK0VUFPIBB) | [Aryeh Frankfurter](https://open.spotify.com/artist/2SJAELt6ygyUmDglWepUoJ) | [Aryeh Frankfurter: Celtic Harp \- Tunes From Ireland, Scotland and Scandinavia](https://open.spotify.com/album/2gUUuHz0ZTGPfV97oZDv7N) | 5:09 | 2022-07-18 |  |

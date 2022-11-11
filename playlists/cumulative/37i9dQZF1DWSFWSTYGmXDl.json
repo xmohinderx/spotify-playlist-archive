@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 182334,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/6XYlGIZ5FJVPcsMEvapuO8"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187874,
       "name": "All Winter",
       "url": "https://open.spotify.com/track/0mVddpW5sHyGLywyKidIwT"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 218889,
       "name": "Baby, It's Cold Outside (feat. Kelly Clarkson)",
       "url": "https://open.spotify.com/track/0cBCE4fJztY5LcB6P7P2io"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 218920,
       "name": "Baby, It's Cold Outside (feat. Kelly Clarkson)",
       "url": "https://open.spotify.com/track/0ImOL4s238XPV8d2DKTJ2D"
@@ -511,10 +511,28 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 205159,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/6PZaNvcth74ko7Ld0vB8Gm"
+    },
+    {
+      "album": {
+        "name": "I Dream Of Christmas (Deluxe)",
+        "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200453,
+      "name": "Christmas Calling (Jolly Jones)",
+      "url": "https://open.spotify.com/track/43hPyoE1vsz3VnvBDupq5B"
     },
     {
       "album": {
@@ -572,6 +590,24 @@
     },
     {
       "album": {
+        "name": "A Very Backstreet Christmas",
+        "url": "https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273395,
+      "name": "Christmas in New York",
+      "url": "https://open.spotify.com/track/56oYlOg8iTHa99Oo6LikDx"
+    },
+    {
+      "album": {
         "name": "A Tyler Shaw Christmas",
         "url": "https://open.spotify.com/album/3ehYajj7zAyk3YdAWoL7CW"
       },
@@ -587,7 +623,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 197254,
       "name": "Christmas in Your Eyes (feat. Everly Shaw)",
       "url": "https://open.spotify.com/track/7mjrzLFZg2RKUuxOIq1O49"
@@ -695,7 +731,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 247532,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/48MV8x16rfzobe0FgRRqsx"
@@ -757,7 +793,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 149510,
       "name": "Christmas With You",
       "url": "https://open.spotify.com/track/46Uone4mIG2wQDMKtqYM9Y"
@@ -782,6 +818,24 @@
     },
     {
       "album": {
+        "name": "Lonely Christmas",
+        "url": "https://open.spotify.com/album/4sZD5pnwOZW8a1h0j7aFTq"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197146,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/1wkMUZExD5GGhh8nikfR3q"
+    },
+    {
+      "album": {
         "name": "Best Christmas Songs",
         "url": "https://open.spotify.com/album/3ZA2dVknJjIziZQVuI1nB9"
       },
@@ -793,7 +847,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 197146,
       "name": "Christmas Without You",
       "url": "https://open.spotify.com/track/2nubqMEBjndKaGDnPQGz1G"
@@ -989,10 +1043,28 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 219169,
       "name": "Cuddle Up, Cozy Down Christmas",
       "url": "https://open.spotify.com/track/6SvzJUQd3FnuOJI1KWl9hq"
+    },
+    {
+      "album": {
+        "name": "dear santa",
+        "url": "https://open.spotify.com/album/5895JDGi3kkWEvkBf8LE7z"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197778,
+      "name": "dear santa",
+      "url": "https://open.spotify.com/track/0kAllljYVZIuntRxyw9KOF"
     },
     {
       "album": {
@@ -1105,7 +1177,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 274546,
       "name": "Feeling Like Christmas",
       "url": "https://open.spotify.com/track/1e7LS0PWP7talj49ML8Q8i"
@@ -1199,10 +1271,28 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 211453,
       "name": "Grown-Up Christmas List",
       "url": "https://open.spotify.com/track/1h9QQ7e222OSr93MRiMqGZ"
+    },
+    {
+      "album": {
+        "name": "Christmas Morning",
+        "url": "https://open.spotify.com/album/1qCOiqv13DWgQwJQ5fIUL4"
+      },
+      "artists": [
+        {
+          "name": "Jordan Smith",
+          "url": "https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211453,
+      "name": "Grown-Up Christmas List",
+      "url": "https://open.spotify.com/track/59C6gsSHjMgecOfuBlXbch"
     },
     {
       "album": {
@@ -1499,7 +1589,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 122186,
       "name": "I Saw Mommy Kissing Santa Claus - Spotify Holiday Single",
       "url": "https://open.spotify.com/track/6CXNzOwENnzLV09gvmqrH1"
@@ -1560,6 +1650,24 @@
     },
     {
       "album": {
+        "name": "Christmas Songs 2022",
+        "url": "https://open.spotify.com/album/1P4kWb5raLjIL6dEdygaiW"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206453,
+      "name": "It's Christmas Time",
+      "url": "https://open.spotify.com/track/2cRherqWYvhkV8wLQ8ZZcP"
+    },
+    {
+      "album": {
         "name": "It's Christmas Time",
         "url": "https://open.spotify.com/album/0VLiXivVPVfEcjP82FJvrx"
       },
@@ -1589,7 +1697,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 206453,
       "name": "It's Christmas Time",
       "url": "https://open.spotify.com/track/75Vdr7hLo14DAapfLIdN77"
@@ -1611,7 +1719,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 203103,
       "name": "It's Christmas Time (with Michael Bolton)",
       "url": "https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN"
@@ -1687,7 +1795,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 248066,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp"
@@ -1911,7 +2019,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 166120,
       "name": "Love Is Christmas",
       "url": "https://open.spotify.com/track/7edfMl8VjYXRMFzy4LQLGs"
@@ -1965,7 +2073,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 250388,
       "name": "Merry Christmas (To The One I Used To Know)",
       "url": "https://open.spotify.com/track/13WZj8waopm2TM2NRtt5UF"
@@ -2027,6 +2135,24 @@
     {
       "album": {
         "name": "Mistletoe",
+        "url": "https://open.spotify.com/album/3iElV1aXLlk9k26SHtzUco"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231613,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l"
+    },
+    {
+      "album": {
+        "name": "Mistletoe",
         "url": "https://open.spotify.com/album/2DZ94ju5IjhT0LjNZ3ZnHP"
       },
       "artists": [
@@ -2055,7 +2181,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 184026,
       "name": "Mistletoe - Recorded at Electric Lady Studios NYC.",
       "url": "https://open.spotify.com/track/7vW6JovXotgbToBedYaznx"
@@ -2135,6 +2261,24 @@
       "duration_ms": 189737,
       "name": "Now I've Got You",
       "url": "https://open.spotify.com/track/75WgIVJyqJjjCish2FPrkW"
+    },
+    {
+      "album": {
+        "name": "I Dream Of Christmas (Deluxe)",
+        "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138893,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/7tiWsq60y3wqRVaD4057a5"
     },
     {
       "album": {
@@ -2282,6 +2426,24 @@
     },
     {
       "album": {
+        "name": "The Holly & The Ivy",
+        "url": "https://open.spotify.com/album/74RfZ8GZ7kwNPDJYU3kBVW"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "River - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/3vkLyqzW60sA3z0qnkX4Fs"
+    },
+    {
+      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/0nu6CXfrJdNcVCvOojAdcW"
       },
@@ -2293,7 +2455,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 208573,
       "name": "River - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/7DNGqrLnd07C2FPpAdn6cc"
@@ -2437,7 +2599,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 242864,
       "name": "Snowflake",
       "url": "https://open.spotify.com/track/0DbGG3nbq1R3TNLkKTx6aZ"
@@ -2625,7 +2787,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 261304,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/25W3eewfp10geV3fzWIGq3"
@@ -2733,7 +2895,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204240,
       "name": "This Year",
       "url": "https://open.spotify.com/track/77DPrad0WcARFV5au5klEx"
@@ -2755,6 +2917,24 @@
       "duration_ms": 166253,
       "name": "True Love",
       "url": "https://open.spotify.com/track/4NRF1B6kriUmtXflcVmed7"
+    },
+    {
+      "album": {
+        "name": "two christmases",
+        "url": "https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM"
+      },
+      "artists": [
+        {
+          "name": "nobody likes you pat",
+          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142658,
+      "name": "two christmases",
+      "url": "https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS"
     },
     {
       "album": {
@@ -2967,7 +3147,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 203093,
       "name": "wishlist",
       "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"

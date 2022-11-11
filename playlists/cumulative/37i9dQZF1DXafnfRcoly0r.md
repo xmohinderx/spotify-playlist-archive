@@ -4,7 +4,7 @@
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-84 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/0eSlqedljXbl1Hpa924LIm)
+86 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/0eSlqedljXbl1Hpa924LIm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [I Love My Puppy](https://open.spotify.com/track/1tsw9GOI5VhnDDuf8SczUz) | [Gummibär](https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G) | [The Gummy Bear Show: Season One Soundtrack](https://open.spotify.com/album/6v3jdPQy3Xl7SZNVCcl00x) | 1:03 | 2022-01-14 |  |
 | [I Wish I Was A Bird](https://open.spotify.com/track/0KFHxfCQm57ko9Q836CRIT) | [John Field](https://open.spotify.com/artist/5c5mns5KPNnQj1QBHJmQIw) | [Animal Songs And Sounds](https://open.spotify.com/album/4HA4r1Jfgnr2o7MqGJeK5z) | 1:54 | 2022-01-14 | 2022-07-29 |
 | [I Wish I Was a Bird](https://open.spotify.com/track/2tVh9fZMUz6Ta7ZzJU6KIz) | [John Field](https://open.spotify.com/artist/5c5mns5KPNnQj1QBHJmQIw) | [Animal Songs and Sounds](https://open.spotify.com/album/1NsVmZhtWkUiOmcXxe02VI) | 1:54 | 2022-07-25 |  |
-| [If I Had a Dog](https://open.spotify.com/track/44krg8Pp6HsYBVGGWvUysV) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6JCPj80o5nfJcHvn4wdvyw) | 2:11 | 2022-07-25 |  |
+| [If I Had a Dog](https://open.spotify.com/track/44krg8Pp6HsYBVGGWvUysV) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6JCPj80o5nfJcHvn4wdvyw) | 2:11 | 2022-07-25 | 2022-11-11 |
 | [If I Had a Dog](https://open.spotify.com/track/76Jn2vL7pqEpr8gTRGKmX3) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6fAkgy3mHYCHSIuLqacj82) | 2:11 | 2022-01-14 | 2022-07-29 |
+| [If I Had a Dog](https://open.spotify.com/track/6v1FlIiWtfQCJOrbXi8zjF) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/0K1YZBKZRNAPBuTeghnPeO) | 2:11 | 2022-07-25 |  |
 | [Kitty Cat Song](https://open.spotify.com/track/4L5ZQzmGbNBVDYja4tNgle) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Kitty Cat Song](https://open.spotify.com/album/2EHRIVjUFBX16EhZp9Qmne) | 2:26 | 2022-01-14 |  |
 | [Let's Get a Dog](https://open.spotify.com/track/2ZFpV9jF2rISyhuet57NDz) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [Let's Get a Dog](https://open.spotify.com/album/0N6mgffw51aY5ObIlWCHWL) | 3:17 | 2022-01-14 |  |
 | [Louie the Dog](https://open.spotify.com/track/1VB0NAjXv24fVwyh4VxG9D) | [Nay Nay](https://open.spotify.com/artist/71a3J9zMxFclkoV020pkHT) | [Hey Hey, Let's Play](https://open.spotify.com/album/4pYtiJ2oO4Vf8QmlsqdYia) | 1:59 | 2022-01-14 |  |
@@ -77,7 +78,8 @@
 | [Run Like The Kitty](https://open.spotify.com/track/6Rc4Qk36Cmv86RFoEVcww7) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [GoNoodle Presents: Awesome Sauce \(Vol\. 1\)](https://open.spotify.com/album/1W9jKPazWvWpQI3pRaAcBK) | 0:56 | 2022-01-14 | 2022-07-29 |
 | [Ten Little Puppy Dogs](https://open.spotify.com/track/668FLAIMmq9GoZDZnQ9APT) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 7: Kids Sing & Learn](https://open.spotify.com/album/3DrqTp4SDht5Guqh1O9WWI) | 2:56 | 2022-01-14 |  |
 | [The Dog Doesn't Listen to Me](https://open.spotify.com/track/3Lzm8p6u2LOMkKo2Squoul) | [David Gibb](https://open.spotify.com/artist/52FYO0le6ZR0UpzqFtxSot) | [Letters Through Your Door](https://open.spotify.com/album/57g2GcvJv5RncHxAwWwg4K) | 3:05 | 2022-01-14 |  |
-| [The Goldfish](https://open.spotify.com/track/2zDAOLe0Z9FJTINDAEZvW9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 3:34 | 2022-07-25 |  |
+| [The Goldfish](https://open.spotify.com/track/2zDAOLe0Z9FJTINDAEZvW9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 3:34 | 2022-07-25 | 2022-11-11 |
+| [The Goldfish](https://open.spotify.com/track/6jNUqXc0iRJx159qMkXGoP) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [唱唱動物園 Animal Nursery Rhymes](https://open.spotify.com/album/5YQr3P7jNWCg3ocUS6oCcN) | 3:34 | 2022-07-25 |  |
 | [The Goldfish](https://open.spotify.com/track/36wdT4QdYZcrMkht0AI5Tn) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/7Je5oIcCgLELjJaBtyZejs) | 3:34 | 2022-01-14 | 2022-07-29 |
 | [The Old Grey Cat](https://open.spotify.com/track/3EH1pIulSHFm5kJWuoTUIN) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Oomba Baroomba](https://open.spotify.com/album/7a4xANzGTlMxczJljG5AgL) | 1:04 | 2022-01-14 |  |
 | [The Puppy Song](https://open.spotify.com/track/6JNY5Tdli77X4vuCE4ixFz) | [Bark Bryan](https://open.spotify.com/artist/0We6ZLwDgnyOSQS8OaTsHw) | [The Puppy Song](https://open.spotify.com/album/43pPNVp9K2KMFmMNVDmYa9) | 2:12 | 2022-01-14 |  |

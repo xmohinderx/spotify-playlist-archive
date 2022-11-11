@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-141 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
+145 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Cassie](https://open.spotify.com/track/3AJAKCETcSZ4QGpehqvySl) | [Elfva](https://open.spotify.com/artist/5kie64trGheZwIDvvwBHF1) | [Cassie](https://open.spotify.com/album/5dJjrW2grnoec37fXIFhsQ) | 3:27 | 2021-12-10 |  |
 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 | 2021-12-10 |  |
 | [Celestial Sonnet](https://open.spotify.com/track/6AEMRuYsKv69womNo3qpmS) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [In The Open](https://open.spotify.com/album/3NNdbGYBf9prwsRHaKHwb1) | 3:23 | 2021-12-10 |  |
-| [Central Park](https://open.spotify.com/track/2ByYM9IxAQYcR6UjGS2bMl) | [N.Y\. Atmosphere](https://open.spotify.com/artist/46gZdK1zqsEEbwUtuXKmUb) | [N.Y\. Atmosphere](https://open.spotify.com/album/3chIewuk3sw5OO43UWwlG9) | 4:22 | 2022-06-29 |  |
+| [Central Park](https://open.spotify.com/track/2ByYM9IxAQYcR6UjGS2bMl) | [N.Y\. Atmosphere](https://open.spotify.com/artist/46gZdK1zqsEEbwUtuXKmUb) | [N.Y\. Atmosphere](https://open.spotify.com/album/3chIewuk3sw5OO43UWwlG9) | 4:22 | 2022-06-29 | 2022-11-11 |
 | [Central Park](https://open.spotify.com/track/4RW3rLdFGTmGWRFe5G6epg) | [N.Y\. Atmosphere](https://open.spotify.com/artist/46gZdK1zqsEEbwUtuXKmUb) | [N.Y\. Atmosphere](https://open.spotify.com/album/7GzZ1PrE5t47Nkm05EsRwQ) | 4:22 | 2021-12-10 | 2022-07-29 |
+| [Central Park](https://open.spotify.com/track/4YxNuvFXpexe20Wendz4aj) | [N.Y\. Atmosphere](https://open.spotify.com/artist/46gZdK1zqsEEbwUtuXKmUb) | [ECO SPA MUSIC, Vol\. 1](https://open.spotify.com/album/0TRZ2ieyLcZuk7MPqqtAbA) | 4:22 | 2022-10-21 |  |
 | [Changes Within](https://open.spotify.com/track/4hdZ8pWXvypfP0FrQTVwCs) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [A Moment of Peace](https://open.spotify.com/album/5tmAu34wwfkAzZrQZZqa3M) | 2:55 | 2021-12-10 |  |
 | [Colors Of The Moon](https://open.spotify.com/track/2m9dwTEyYuMREZTttiFKmF) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Winds Of Fuji](https://open.spotify.com/album/4QKngpNjlNhdHLESKhcbde) | 3:49 | 2022-06-29 |  |
 | [Colors Of The Moon](https://open.spotify.com/track/7oJTS0gsP7c97MrpYOAprd) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Winds Of Fuji](https://open.spotify.com/album/6kIQSKwUKjiE4hxxMyMkBc) | 3:49 | 2021-12-10 | 2022-07-29 |
@@ -88,15 +89,17 @@
 | [Mindful Composition](https://open.spotify.com/track/3nV4LSDVjCjv2hDeeTkvCH) | [Enzo Electronic](https://open.spotify.com/artist/4kyWODlwZxF4tiAe4LblhX) | [Mindful Composition](https://open.spotify.com/album/5WgvNWZyUGSx2MShXGAsN4) | 3:29 | 2021-12-10 |  |
 | [Mitigation](https://open.spotify.com/track/7CTMv3eJZ3mQ618kZWAb6f) | [Lorne Kroos](https://open.spotify.com/artist/6Wk6weno4MPG3dutdTNbDD) | [Mitigation](https://open.spotify.com/album/6CqhHR1DRyQHasTVtE7aHN) | 3:31 | 2021-12-10 |  |
 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 | 2021-12-10 |  |
-| [Monsoon](https://open.spotify.com/track/0FXj7j1qnZ33pPfZJsdYVE) | [Tokyo Atmospheres](https://open.spotify.com/artist/2hoYdIIKopoBO1KV3QvK1r) | [Tokyo Atmospheres](https://open.spotify.com/album/23nI7Is88g5gn0kzKevRmr) | 3:51 | 2022-06-29 |  |
+| [Monsoon](https://open.spotify.com/track/0FXj7j1qnZ33pPfZJsdYVE) | [Tokyo Atmospheres](https://open.spotify.com/artist/2hoYdIIKopoBO1KV3QvK1r) | [Tokyo Atmospheres](https://open.spotify.com/album/23nI7Is88g5gn0kzKevRmr) | 3:51 | 2022-06-29 | 2022-11-11 |
+| [Monsoon](https://open.spotify.com/track/0LCuEeaioqIll290oClCG0) | [Tokyo Atmospheres](https://open.spotify.com/artist/2hoYdIIKopoBO1KV3QvK1r) | [This Is Music For FOCUS \(Vol 2\)](https://open.spotify.com/album/3OFnD0J9lpON2Zl8LRqEya) | 3:51 | 2022-10-21 |  |
 | [Monsoon](https://open.spotify.com/track/7e0gtNaxjn49Mj9rwPCJaC) | [Tokyo Atmospheres](https://open.spotify.com/artist/2hoYdIIKopoBO1KV3QvK1r) | [Tokyo Atmospheres](https://open.spotify.com/album/6ycai16HNU5VpoOq9XILmF) | 3:51 | 2021-12-10 | 2022-07-29 |
 | [Moon Stage](https://open.spotify.com/track/2t4CN8rtDkodRYxYYhAAvL) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Moon Stage](https://open.spotify.com/album/42JKz2NOIzax2Erclm0Mmu) | 3:16 | 2022-05-26 |  |
 | [Moonstone](https://open.spotify.com/track/5VvSeHFi0obsd0Dx1dbsYi) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Moonstone](https://open.spotify.com/album/2O8POj7EMwBTPpnMtuL3MM) | 3:26 | 2021-12-10 |  |
 | [Nature of Life](https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Nature of Life](https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE) | 2:39 | 2022-10-14 |  |
 | [Ocean Park](https://open.spotify.com/track/4PonoWVbvE9hFoCK4ugvRz) | [Hong Kong Atmosphere](https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj) | [Hong Kong Atmosphere](https://open.spotify.com/album/1koomOATdwc9FdybvbcF2g) | 4:42 | 2022-06-29 | 2022-09-15 |
 | [Ocean Park](https://open.spotify.com/track/6PnaH2MuhcqRxXQe7UNQRX) | [Hong Kong Atmosphere](https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj) | [Hong Kong Atmosphere](https://open.spotify.com/album/2LBrlYHFKRYCKdrE6pRdlB) | 4:42 | 2021-12-10 | 2022-07-29 |
-| [Parc Güell](https://open.spotify.com/track/1hOEj6667PNM1Y7a1xXfek) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS) | 3:28 | 2022-06-29 |  |
+| [Parc Güell](https://open.spotify.com/track/1hOEj6667PNM1Y7a1xXfek) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS) | 3:28 | 2022-06-29 | 2022-11-11 |
 | [Parc Güell](https://open.spotify.com/track/1znpMS5QcPwMIkE3cnb6sL) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI) | 3:28 | 2021-12-10 | 2022-07-29 |
+| [Parc Güell](https://open.spotify.com/track/1qSdFNSzlFfHq0dTJCAGjE) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Calm Morning \(Vol 2\)](https://open.spotify.com/album/4euXG3fDA9DV7MtGXX1qeK) | 3:28 | 2022-10-21 |  |
 | [Peaceful Instant](https://open.spotify.com/track/2u4RqOtADvonosxhSdS8eZ) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 2:55 | 2021-12-10 |  |
 | [Peaceful Shore](https://open.spotify.com/track/564sRJoCWNRZhGf0aMnx5Q) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Dreams Within Dreams](https://open.spotify.com/album/4z7X3l4pXbdV4PdVwuyIIW) | 3:06 | 2021-12-10 |  |
 | [Persepolis](https://open.spotify.com/track/1UIoHCfDQC2eszgXMsImpD) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/0gPXYxrGPArkcbUDWUkYYi) | 2:22 | 2021-12-10 | 2022-07-29 |
@@ -146,7 +149,8 @@
 | [Yes/No \- Sanctuary Mix](https://open.spotify.com/track/3PQGFShoKzMowJlPgysF0Y) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [Yes/No](https://open.spotify.com/album/0AuCl70u1UOvujYyoAbMH3) | 3:53 | 2021-12-10 | 2022-07-29 |
 | [Yes/No \- Sanctuary Mix](https://open.spotify.com/track/6btq4xcQtbnDMYgfR7LmAu) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [Yes/No](https://open.spotify.com/album/6hFUbfCDZaaWhnYzMkJs4T) | 3:53 | 2022-06-29 |  |
 | [You Are Loved](https://open.spotify.com/track/0QYlKxVXf0pCnFzHIxNFBl) | [Sam Eber](https://open.spotify.com/artist/5KzipUgM2we3eTM3n2VrLk) | [You Are Loved](https://open.spotify.com/album/0fPrAx93fmY0y7WVlvxjIH) | 2:40 | 2021-12-10 | 2022-07-29 |
-| [You Are Loved](https://open.spotify.com/track/2puyeVYaXabtN2eniDV1sa) | [Sam Eber](https://open.spotify.com/artist/5KzipUgM2we3eTM3n2VrLk) | [You Are Loved](https://open.spotify.com/album/3cIqbLD9m8DHpPVmiZ1SFT) | 2:40 | 2022-06-29 |  |
+| [You Are Loved](https://open.spotify.com/track/2KYxStNwb2T9PqO8l7WQAM) | [Sam Eber](https://open.spotify.com/artist/5KzipUgM2we3eTM3n2VrLk) | [KEEN: Soft Piano Vol\. 2](https://open.spotify.com/album/2ZgUoWirpgNlnnEYOKDXpT) | 2:40 | 2022-10-21 |  |
+| [You Are Loved](https://open.spotify.com/track/2puyeVYaXabtN2eniDV1sa) | [Sam Eber](https://open.spotify.com/artist/5KzipUgM2we3eTM3n2VrLk) | [You Are Loved](https://open.spotify.com/album/3cIqbLD9m8DHpPVmiZ1SFT) | 2:40 | 2022-06-29 | 2022-11-11 |
 | [Zeroes](https://open.spotify.com/track/32MYi4KuEh2z2gdT2XD80r) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Zeroes](https://open.spotify.com/album/1gSPQ3HDP7ffBBpvaPiawI) | 3:14 | 2022-03-03 |  |
 | [zomerochtend](https://open.spotify.com/track/3cYVVPJoyBsDdr5v4GR5wZ) | [Gülay de Wind](https://open.spotify.com/artist/5D0qIsPOnyaBwKc6ICi5A0) | [zomerochtend](https://open.spotify.com/album/1IxIICJCdrCyPJxRITquke) | 3:40 | 2021-12-10 | 2022-10-15 |
 

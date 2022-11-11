@@ -3687,10 +3687,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 137819,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/4P5jSwg9Zx6DxKb5u7TfmG"
+    },
+    {
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/4rxV7w5hW3PxrW5npvzn4O"
+      },
+      "artists": [
+        {
+          "name": "Alavilla Mailla",
+          "url": "https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137819,
+      "name": "Scenery",
+      "url": "https://open.spotify.com/track/6geWKrtpXjDTp32yEDW8cs"
     },
     {
       "album": {

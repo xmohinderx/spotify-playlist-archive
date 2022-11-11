@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر!  <br/> الغلاف: عصام صاصا
 
-110 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
+111 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [مهرجان اخواتى](https://open.spotify.com/track/44p2pP4M0J6ZlEEyIpQu6R) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Zoka](https://open.spotify.com/artist/18foZksTwFHJIDFX9mBO2H), [Shehta Karika](https://open.spotify.com/artist/5D9oikZ4ncJETBXgLhXSdv) | [مهرجان اخواتى](https://open.spotify.com/album/2kUP4HUqHWNslusZ6Ly5w4) | 2:39 | 2021-12-16 | 2022-01-11 |
 | [مهرجان اسكت يا قلبي](https://open.spotify.com/track/3bpMAr3KaaAm7YrAp8K9XD) | [Eslam Nabawy](https://open.spotify.com/artist/4msLeWosAtlqUnbOu7K0bk) | [مهرجان اسكت يا قلبي](https://open.spotify.com/album/3oyReWYuMccCmyqaJMIpGF) | 3:36 | 2021-12-16 | 2022-01-11 |
 | [مهرجان خصمي بكيفو مكتفو](https://open.spotify.com/track/3L8EMN39GeZr6kXTxHTXpz) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [مهرجان خصمي بكيفو مكتفو](https://open.spotify.com/album/7nke7ljG583Vv8lDQbyA6A) | 4:47 | 2022-10-24 |  |
-| [مهرجان غاب الاسد طلعو القرود](https://open.spotify.com/track/0g8KH2qkC7lwfYt1cEqddg) | [i Media](https://open.spotify.com/artist/1PKVWSj5RnhEsVuyJ1AFCo) | [مهرجان غاب الاسد طلعو القرود](https://open.spotify.com/album/1jT4cNu2gl2tV7LVUNKvlZ) | 4:00 | 2022-10-16 |  |
+| [مهرجان غاب الاسد طلعو القرود](https://open.spotify.com/track/0g8KH2qkC7lwfYt1cEqddg) | [i Media](https://open.spotify.com/artist/1PKVWSj5RnhEsVuyJ1AFCo) | [مهرجان غاب الاسد طلعو القرود](https://open.spotify.com/album/1jT4cNu2gl2tV7LVUNKvlZ) | 4:00 | 2022-10-16 | 2022-11-11 |
+| [مهرجان غاب الاسد طلعو القرود \(عنتر مجالى شايل سيفى\) حمو الطيخا \- توزيع كيمو الديب](https://open.spotify.com/track/2bQNy3nPQScyHMoHD4BiLa) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مهرجان غاب الاسد طلعو القرود \(عنتر مجالى شايل سيفى\) حمو الطيخا \- توزيع كيمو الديب](https://open.spotify.com/album/4dQP9XYz589KvRXP7hbFSu) | 4:00 | 2022-10-27 |  |
 | [مهرجان كده خلصت](https://open.spotify.com/track/6CvFpZn8hZQsjZg8e38pSM) | [Shaima El Mghrby](https://open.spotify.com/artist/4ISuS0WVMBbemeaLxNSszD) | [مهرجان كده خلصت](https://open.spotify.com/album/5HImvzUJHxV4n2mBBTUSrT) | 3:15 | 2021-12-16 |  |
 | [موديل باريس](https://open.spotify.com/track/1ezuOtgC76D3bRaDhrqu3S) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [موديل باريس](https://open.spotify.com/album/28rAKLhpEsCkz1A5nK02NG) | 3:17 | 2021-12-16 |  |
 | [ميت انا مش عارفني](https://open.spotify.com/track/0VIJ7iuAGCx9ZBwizKQ0aD) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ميت انا مش عارفني](https://open.spotify.com/album/3BqxinrFu0RiLtOe8URAVT) | 2:43 | 2022-10-16 |  |

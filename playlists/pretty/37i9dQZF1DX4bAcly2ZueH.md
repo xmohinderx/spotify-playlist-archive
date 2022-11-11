@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,460 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,476 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [wait a second](https://open.spotify.com/track/2ikAkH39VoCr9X1Xuf10CZ) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [wait a second](https://open.spotify.com/album/5lMUo3dIPTSojGJfgyOQZv) | 3:22 |
 | 2 | [story about you](https://open.spotify.com/track/2XxJ3ATExZmjEmxHqj1F53) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [story about you](https://open.spotify.com/album/54c5sAtiOXpwzOxWWrPgnx) | 2:56 |
 | 3 | [Horizon](https://open.spotify.com/track/3NNbuvmcBYQiTN1eKL3WVo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Nujabes PRAY Reflections](https://open.spotify.com/album/2twxbqlVdtk1kzg8610aiM) | 4:35 |
-| 4 | [Yuyake](https://open.spotify.com/track/4iuwUV8AvGo5e8rRUvQjoz) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 3:00 |
+| 4 | [YUYAKE](https://open.spotify.com/track/7L0f6RnRJach8g9EaecCOL) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/4ZRfc25OsAg7bvh1TqIYuE) | 3:00 |
 | 5 | [roundabout](https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [roundabout](https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT) | 2:12 |
 | 6 | [Daylight Blows into One Door](https://open.spotify.com/track/4UUK97XIT1y1TyBLgVi6Xc) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/2Bl07S4w2tGi2F9qK346EW) | 3:28 |
 | 7 | [It Hurts to Love You \(it meant a lot\)](https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [It Hurts to Love You \(it meant a lot\)](https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T) | 1:57 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 38 | [Suzune](https://open.spotify.com/track/2QTKEr2KL16Hr8rH0V4JAc) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Mentatea](https://open.spotify.com/album/0Gdtq1ZZ7G1LP1l9DJMWLe) | 3:19 |
 | 39 | [Sushi In Tokyo](https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP) | [DVNA](https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1) | [Sushi In Tokyo](https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx) | 3:31 |
 | 40 | [Ayayai](https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tamale](https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn) | 2:50 |
-| 41 | [twilight](https://open.spotify.com/track/6xoab7Sxd9L2N43Gu9fIBd) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [twilight \(Deluxe Edition\)](https://open.spotify.com/album/35o0PH7bM6n9wjVpYrAzpY) | 8:40 |
+| 41 | [twilight](https://open.spotify.com/track/6rQbjszPzjL2Z11W1iQsSN) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [新しき光](https://open.spotify.com/album/7dIFqMgQwoK5p3znhbGOFt) | 8:39 |
 | 42 | [Beacon of Hope](https://open.spotify.com/track/13XZN3a9C43gOp6qerBqiB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Beacon of Hope](https://open.spotify.com/album/2vd2Y8qzCWMQ3MdEnHiVyo) | 3:40 |
 | 43 | [Blue Notes](https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Max Ribner](https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY) | [Blue Notes](https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf) | 3:18 |
 | 44 | [Purity](https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Purity](https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B) | 4:05 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 69 | [ugotmyheart](https://open.spotify.com/track/3VbVcvK33AjjIC4iTvK0qK) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs), [Miyna Usui](https://open.spotify.com/artist/1TUVadr4tlnrjcvN4SSrqk) | [Nezumi Coo](https://open.spotify.com/album/1aJd14wjwAinjWL1tUMVSH) | 3:15 |
 | 70 | [No Love](https://open.spotify.com/track/3zVqGejJKVPlGUEWRO6ZLk) | [92elm](https://open.spotify.com/artist/5YCia3zgXxdXMKePBNMkJk) | [No Love](https://open.spotify.com/album/0DMtWYAnYSKxRA65AHlODV) | 2:57 |
 | 71 | [The Sea](https://open.spotify.com/track/4kPPj8k1gBxVeC5KxzZvta) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Sea](https://open.spotify.com/album/1UsGJY24SYBJDXRDJe73VP) | 2:45 |
-| 72 | [Arne](https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Grace](https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z) | 3:37 |
+| 72 | [arne](https://open.spotify.com/track/7eq7fc6tWLEGpsagJozBY2) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Schole Collection I](https://open.spotify.com/album/20qYMxPGgww0RK99l7d5Gr) | 3:35 |
 | 73 | [Sleepy Story.](https://open.spotify.com/track/5FL7eUhAFgmV6FzrNYbdUO) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 1:55 |
 | 74 | [Muse](https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE) | [mndbd](https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci), [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Introspect](https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV) | 1:07 |
 | 75 | [Mercy](https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Mercy](https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Good Night](https://open.spotify.com/track/6CTqCqStHM2ji0liLLVJvk) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [Dove](https://open.spotify.com/album/46KM2P8PERBA1CrK5nvIFZ) | 2:37 |
 | 100 | [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 |
 
-Snapshot ID: `MTY2NTUwNDcxMCwwMDAwMDAwMDgxYmMzM2M4YzJmYWQ2ODkyMzdlZGI0NjQ3YzNiNWQ3`
+Snapshot ID: `MTY2NTUwNDcxMCwwMDAwMDAwMDc3Mzg3N2FmN2Q0N2MzNDQ4MGUzNmE5OWFhZWM5ZDMx`

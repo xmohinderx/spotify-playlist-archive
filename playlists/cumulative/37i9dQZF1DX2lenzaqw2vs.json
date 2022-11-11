@@ -2182,6 +2182,24 @@
     },
     {
       "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/64mfvKVchxfSgy2LR9efNc"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216475,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/0gmwrgMCLDdfYGDqsOU1sr"
+    },
+    {
+      "album": {
         "name": "Latinoamericana",
         "url": "https://open.spotify.com/album/3YrHAuESsY9CHStWTb4FdF"
       },
@@ -2229,7 +2247,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 217066,
       "name": "Locura",
       "url": "https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK"
@@ -2600,6 +2618,24 @@
     },
     {
       "album": {
+        "name": "Descanso Dominical / Une Femme Avec Une Femme",
+        "url": "https://open.spotify.com/album/2ZDJqivdYjfPdm2mXISGo5"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245266,
+      "name": "Mujer contra mujer",
+      "url": "https://open.spotify.com/track/06XYi6rHD1MuelKGJHXXou"
+    },
+    {
+      "album": {
         "name": "Ana, Jos\u00e9, Nacho",
         "url": "https://open.spotify.com/album/4WsyYMyCdQf0Rr6g6mr4x9"
       },
@@ -2629,7 +2665,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 247293,
       "name": "Mujer contra mujer",
       "url": "https://open.spotify.com/track/7hmzQ7lRZV8uUnuO77QCbQ"
@@ -2669,7 +2705,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 204998,
       "name": "Nada Es Seguro",
       "url": "https://open.spotify.com/track/2ZP6NbiA4bcMu2n4AuTQmM"
@@ -3381,7 +3417,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 192941,
       "name": "Shutup",
       "url": "https://open.spotify.com/track/4teYxzh9n4jVpwzL9EQlp2"

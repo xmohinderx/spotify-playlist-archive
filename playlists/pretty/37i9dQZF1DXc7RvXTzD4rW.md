@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 宮野真守
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,413 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,426 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [THE ENTERTAINMENT](https://open.spotify.com/track/19jVz4hYk0kaDOMLEGNrGz) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [THE ENTERTAINMENT](https://open.spotify.com/album/5ikHcTlm4IV9j3mNwlOXl9) | 3:26 |
 | 2 | [WINNER](https://open.spotify.com/track/3hRqmUI4Mzh5h0drGk24AF) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [WINNER](https://open.spotify.com/album/2i7pkoWfNRHz9aIrTQ3Lmp) | 3:32 |
 | 3 | [Watashi to Sekai](https://open.spotify.com/track/46u9BAGpdHauFrFRRxkr0C) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Anata to Watashi wo Tsunagumono](https://open.spotify.com/album/5TL5jmTLrfk3KAplSZ4Uph) | 4:23 |
-| 4 | [Kyoutaiaika](https://open.spotify.com/track/3pxftpVRwWGMq1bZchhVLS) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 4:03 |
+| 4 | [Kyoutaiaika](https://open.spotify.com/track/6NnWap955obIpmguOjHwoQ) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Kyoutaiaika](https://open.spotify.com/album/4PIp9Z8g2XHXLQcFoRIhyS) | 4:03 |
 | 5 | [LOVE&MOON](https://open.spotify.com/track/7c9jAu2ln1PFzqF2a2wD2X) | [高野麻里佳](https://open.spotify.com/artist/3d5BMnkKOiXyuPOxxaO50E) | [LOVE&MOON](https://open.spotify.com/album/6hodN3snVIv1TUixHMq6Xf) | 3:40 |
 | 6 | [履き慣れてない靴のままで](https://open.spotify.com/track/7uzF5J8bX6g548Grw5IDGg) | [上田麗奈](https://open.spotify.com/artist/0Ebjc98xSQOvz5kUPIzBWH) | [Atrium](https://open.spotify.com/album/6YHWqToIXhOKMGVqCZO0Eh) | 4:15 |
 | 7 | [PROLOGUE](https://open.spotify.com/track/2leYGEirFsGtl6fuQwXVXT) | [Yuka Iguchi](https://open.spotify.com/artist/2pEoqcvCSXliNrd8peAUiP) | [OPENING THEME FROM TV SERIES ”BIBLIOPHILE PRINCESS”](https://open.spotify.com/album/2qGFHbqCOWEZt5cs4IgiPv) | 4:04 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 24 | [Congrats!!\(with Friends\)](https://open.spotify.com/track/7AauH6WocFaN2tvXEbHl40) | [内田雄馬 with 石川界人, 榎木淳弥, 斉藤壮馬, 畠中祐, 花江夏樹, 八代拓](https://open.spotify.com/artist/5OvhqL1GnYZavu83YiOkDo) | [Congrats!!](https://open.spotify.com/album/3U0KKN2FVOuGAYHDQf9Wwy) | 4:17 |
 | 25 | [シンデレラストーリー](https://open.spotify.com/track/6xPeG3ShxpRou7Uqviw0lj) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP) | [シンデレラストーリー](https://open.spotify.com/album/2BZdbHOGCthR1lmX4h6oTx) | 4:08 |
 | 26 | [adrenaline!!! \- TrySail Live Tour 2021 "Re Bon Voyage"](https://open.spotify.com/track/6O0yjUbqWb4SOjH8VDcab5) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TrySail Live Tour 2021 "Re Bon Voyage"](https://open.spotify.com/album/40AJJY1WOjKdjSf3P9fzgh) | 4:35 |
-| 27 | [Futari Pinocchio](https://open.spotify.com/track/7x7ca3HLIyu6kGyL6e64mA) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Futari Pinocchio](https://open.spotify.com/album/6K1Gm6CcYyM2xfnur1gE58) | 3:42 |
+| 27 | [Futari Pinocchio](https://open.spotify.com/track/0JiuRuxJdzBguh0tH5tKbv) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Futari Pinocchio](https://open.spotify.com/album/4s9gwGsLijOGqPWNXtEPgW) | 3:42 |
 | 28 | [Fight\-oh\-Fight!](https://open.spotify.com/track/5ZxsYi8VpFyklvlmI70U8P) | [SMILE PRINCESS](https://open.spotify.com/artist/2ru6Gg9AH0c3ygsQ0jWJtn) | [SMILE PRINCESS BEST FACE OFF](https://open.spotify.com/album/7Hsm62UNySMmkODq1ZmxwX) | 3:38 |
 | 29 | [インフィニット](https://open.spotify.com/track/0atXJP0z2gQb5ugEeUbard) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [BLOOMING](https://open.spotify.com/album/3VKwasBzLGIlOWoBVAhtQD) | 4:13 |
 | 30 | [THE SHAPE OF](https://open.spotify.com/track/6yLpHWOoiT3lWPnZIXk1la) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [OPENING THEME FROM TV SERIES MADE IN ABYSS ”THE GOLDEN CITY OF THE SCORCHING SUN” THE SHAPE OF](https://open.spotify.com/album/0tbPNaXiTK7G5V4LaZIjBQ) | 3:32 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 39 | [KindanKajitsu](https://open.spotify.com/track/7tQbwkztzZrsY6H3eNeKGq) | [Eri Kitamura](https://open.spotify.com/artist/3IYKCbAUuXkZdkiAeYEKwC) | [IRiDESCENT%V!SION](https://open.spotify.com/album/39UmoCVQLTqseM8uksxdVm) | 3:12 |
 | 40 | [ササクレ](https://open.spotify.com/track/004Q7TsEI92sZ2r5iEiZGt) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [ササクレ](https://open.spotify.com/album/1mGfeVdYbYLNGlRUB6hi1f) | 4:05 |
 | 41 | [僕らだけの鼓動](https://open.spotify.com/track/71A6zeQcqe81pmKOYqfXxP) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [glow](https://open.spotify.com/album/1Rik1MUuJmTUEQSafVhHr0) | 4:04 |
-| 42 | [Adolescence](https://open.spotify.com/track/2OVkxlBoVKBYo3ZjaJSjnz) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Adolescence](https://open.spotify.com/album/7u5BqBGPH70vfUZh6HTjo9) | 3:54 |
+| 42 | [Adolescence](https://open.spotify.com/track/5wiN2xtxIthUK9RokrTRRo) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Nostalgia](https://open.spotify.com/album/2n2Ob4KJu14O6zjSsaK8hl) | 3:54 |
 | 43 | [水鏡の世界](https://open.spotify.com/track/7LWbBngfReWleCxhqFUjsM) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [水鏡の世界](https://open.spotify.com/album/0Mj7Pf1tVbtLIICJGwJQG4) | 4:35 |
 | 44 | [Starry\-eyed Chronicle](https://open.spotify.com/track/5KQ2PPh2ZY6WRMBur4Uvk7) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Starry\-eyed Chronicle](https://open.spotify.com/album/5Pxpgyy9CDEw3zwNwmQxRo) | 4:01 |
-| 45 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 |
+| 45 | [Pokerface](https://open.spotify.com/track/4GveOt59Hk6tKeDIbkG7ae) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/4dELVIOLcAs8JBT0vHGDIN) | 3:55 |
 | 46 | [Deneb and Spica](https://open.spotify.com/track/4mo9mGSuE5qIllkMJWBiR3) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Deneb and Spica](https://open.spotify.com/album/2ZG53H9J7evAJyu9jqdQ7g) | 4:27 |
 | 47 | [イッパイアッテナ](https://open.spotify.com/track/1Dk02TAykLIuwesDG2G2jx) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [イッパイアッテナ](https://open.spotify.com/album/4BLiWKbbYPgtSBN7gMioP2) | 3:56 |
 | 48 | [HOLY TALE](https://open.spotify.com/track/2mM3EpaWr850L0hsZ5enND) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:58 |
 | 49 | [Dgaf \- S\-quad](https://open.spotify.com/track/1Pf3nj0VJyU5Inx71BicLw) | [PRELUDERS](https://open.spotify.com/artist/08GdvK322sPgeFx1xMDQNU) | [Dgaf \(S\-quad\)](https://open.spotify.com/album/25GeWfdU4YzEVh9IiedLSt) | 3:07 |
 | 50 | [CROSS A LINE](https://open.spotify.com/track/4XavZrAn9OxuRDz0mbOidg) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [CROSS A LINE](https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV) | 5:20 |
 
-Snapshot ID: `MTY2NzM2MDc5NiwwMDAwMDAwMGVhNjIwOGIyNWQ5NjdiZTAxZDBhZjkyYWIzZGMzYzhm`
+Snapshot ID: `MTY2NzM2MDc5NiwwMDAwMDAwMDI0OTM2M2E0NDgwM2Q0ODY5MWJjYmJiYmEyZGMwMjVh`

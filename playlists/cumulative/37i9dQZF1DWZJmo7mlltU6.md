@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: Lola Marsh.
 
-458 songs - 1 day 1 hr 27 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
+460 songs - 1 day 1 hr 33 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,8 +58,9 @@
 | [Charmed](https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Charmed](https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax) | 2:38 | 2022-03-28 | 2022-07-09 |
 | [Che sera](https://open.spotify.com/track/41JsNduRhAuFLEU7gy9ckf) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Che sera](https://open.spotify.com/album/4VdWz9znOuVApJnqBcBcbl) | 4:11 | 2022-07-22 |  |
 | [cheerios](https://open.spotify.com/track/3TAvhqb2YtfR4J7ejniBg2) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [postcard from Milan](https://open.spotify.com/album/6m86vj4gewDwcEL95tm2j2) | 3:38 | 2022-01-14 | 2022-02-19 |
+| [Cherry Wine](https://open.spotify.com/track/1AB7asrPCQVH8azO61fnRo) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Conversations with the Moon](https://open.spotify.com/album/7HfLh4wPYNG2T4IrJhfciW) | 2:53 | 2022-10-28 |  |
 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 | 2022-01-14 | 2022-10-13 |
-| [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 | 2022-10-07 |  |
+| [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 | 2022-10-07 | 2022-11-11 |
 | [chino cada martes](https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [CHINO CADA MARTES](https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ) | 2:43 | 2022-09-09 | 2022-10-08 |
 | [Chiro](https://open.spotify.com/track/5Kzd1sHqx6iWuteThnMLlO) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 3:00 | 2022-04-01 | 2022-07-02 |
 | [Chocolat](https://open.spotify.com/track/6Are8wJXglZ9q9QX00xoLV) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [AGUÀ EXTEND'EAU](https://open.spotify.com/album/5fvffbbz0BfUuo42slpV9A) | 3:09 | 2022-06-10 | 2022-07-09 |
@@ -458,8 +459,9 @@
 | [À présent](https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [À présent](https://open.spotify.com/album/4yCghmiyhqVae5mRq402br) | 4:51 | 2022-09-02 | 2022-10-22 |
 | [Чувства](https://open.spotify.com/track/72O1dX3UTDSxOu7Isg7I1K) | [The Just](https://open.spotify.com/artist/47pZ1rUMf4TNeTEpbgcoWe) | [Чувства](https://open.spotify.com/album/7sYnqHpyhF7uJBbB4Ck2TB) | 2:34 | 2022-01-14 | 2022-02-05 |
 | [อิ๊บอยู่ \(Fingers Crossed\)](https://open.spotify.com/track/2b8mCK6lkTlaFLXwEfhxyv) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [อิ๊บอยู่ \(Fingers Crossed\)](https://open.spotify.com/album/75cxwoKlB11QNon32KVYyU) | 3:04 | 2022-03-28 | 2022-09-03 |
-| [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/1L2IdFAsssLzcv2oLTL1kn) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/6hLJGtNPcfDbOPQjGs5XMo) | 2:38 | 2022-10-07 |  |
+| [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/1L2IdFAsssLzcv2oLTL1kn) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/6hLJGtNPcfDbOPQjGs5XMo) | 2:38 | 2022-10-07 | 2022-11-11 |
 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/2z344vvIbh4Sk4oVgbgxFD) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/4239Z8wD4pZdLNYAM8imWe) | 2:38 | 2022-05-30 | 2022-10-13 |
+| [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/7fMflu8v00rdJAv05WmYKa) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎left 2 ‎right](https://open.spotify.com/album/4AncOIe72qehRNZY5kbzT7) | 2:38 | 2022-10-28 |  |
 | [‎whiskey](https://open.spotify.com/track/0bRq2UOu3CNuH0dvwukfMc) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/6Rfaj1WW6a9B1wjjP77fpC) | 2:25 | 2022-08-12 | 2022-10-13 |
 | [‎whiskey](https://open.spotify.com/track/7yH1ewkwvwh2SaKFqXnXYW) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/14JPvukY07RrXQSBAM31eF) | 2:25 | 2022-10-07 |  |
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-18 | 2022-10-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,187 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,260 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 28 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 | 29 | [Whole Lotta Rosie](https://open.spotify.com/track/3gRmX5TE7k74k7yDXzvmoR) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Mixtape Volume 1](https://open.spotify.com/album/2EHVKbkVpBo5InQALrV66h) | 3:31 |
 | 30 | [Give Me One Reason](https://open.spotify.com/track/3psdUK3ZLT8VLl6ZdCyfUc) | [Earl Thomas](https://open.spotify.com/artist/2RXD3UIiRZuEk1hVfKyPK2) | [Unplugged At Caffe Calabria](https://open.spotify.com/album/2WzdzAGB2md2dBKPbpC1oK) | 5:48 |
-| 31 | [Crossroads \- Live](https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:18 |
+| 31 | [Crossroads \- Live](https://open.spotify.com/track/2EWwCzSLaQhqQ9OWJcRtjV) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [NOW Rock Air Guitar Anthems](https://open.spotify.com/album/3yzUFutpvBhRXXiUDnoHGx) | 4:08 |
 | 32 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
 | 33 | [I’ve Been Loving You Too Long \(Live\)](https://open.spotify.com/track/5D0ZRPvZOCbR520eCZ5mCs) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 6:52 |
 | 34 | [Tom Cat Blues](https://open.spotify.com/track/69LGgafa9setHOHVyPQyJK) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Blue Country Heart](https://open.spotify.com/album/4p6mFvVULKm6iU8BXksH6r) | 3:03 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 40 | [99 Year Blues](https://open.spotify.com/track/7GQZYw55Juuq3tntjZJzZt) | [Hot Tuna](https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7) | [Burgers](https://open.spotify.com/album/0NWwuGPSfuj9H0OMUDikws) | 3:59 |
 | 41 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 4:32 |
 | 42 | [A Change Is Gonna Come \- Live](https://open.spotify.com/track/7KxGNaPXmhRwdjio3ttD69) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Live +](https://open.spotify.com/album/5LTErKR4sVxrANiPNLcYI8) | 7:20 |
-| 43 | [A Little Less Conversation](https://open.spotify.com/track/73qNHMPnanBGsxD1cQ2ojn) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [Watch Your Back](https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW) | 4:04 |
+| 43 | [A Little Less Conversation](https://open.spotify.com/track/1MYYiXKFUCm8wOiavDQzyV) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc), [Davis?](https://open.spotify.com/artist/6sKBxlWuvAQF10IOwh73yQ), [Strange](https://open.spotify.com/artist/3suWyF3vJnxk2BpnlvwFye) | [American Blues \- On the Road](https://open.spotify.com/album/7FmiWKajMFHsFyVkS0tmKz) | 4:04 |
 | 44 | [Stop Breaking Down](https://open.spotify.com/track/09eg3FGzsZQbZk8qEXhJIA) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 4:34 |
 | 45 | [Messing With The Blues](https://open.spotify.com/track/09tD5JvaiCrdlmKdmjDATX) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 2:12 |
 | 46 | [Judgement Day](https://open.spotify.com/track/6ZdCKxcNoLgJfQBCncD2SU) | [Wentus Blues Band](https://open.spotify.com/artist/6RS2f6BOaKgqByAkXgpRJ9), [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Too Much Mustard](https://open.spotify.com/album/3qBcJfdrKT98tvXZqcIqsO) | 3:43 |
 | 47 | [Death Letter](https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 4:29 |
 | 48 | [Come Back Baby](https://open.spotify.com/track/6zN2SuJaXhGJYXhb77xPVO) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Stars In My Crown](https://open.spotify.com/album/16vXqLiCvBwbSOPTF1VUwG) | 5:47 |
-| 49 | [Beast of Burden](https://open.spotify.com/track/3MW8e0Lh1d53pVY3Tnd8ac) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 4:50 |
+| 49 | [Beast of Burden](https://open.spotify.com/track/5kZjNerLpU6LeMvKmeV5qJ) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/3jMa523WmWFQLsHBZlzkvg) | 4:50 |
 | 50 | [Born Under A Bad Sign](https://open.spotify.com/track/2uxsnsH0XzOBZkMrSFVmll) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 3:09 |
 | 51 | [Bleeding Heart](https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:58 |
 | 52 | [Stormy Monday Blues](https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 4:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 74 | [Purple Rain](https://open.spotify.com/track/5WqBaZ1VIieP63wl7l18cY) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Move](https://open.spotify.com/album/67G22I1pYApKc9kr3Y5zyq) | 4:18 |
 | 75 | [I Got the Same Old Blues \(feat\. Tom Petty\)](https://open.spotify.com/track/5uIAjyOvC9PjzCpeMRcQo8) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Eric Clapton & Friends \- The Breeze \(An Appreciation of JJ Cale\)](https://open.spotify.com/album/21swqoPE6wszY0IC8sJEYs) | 3:02 |
 
-Snapshot ID: `MTY2NTc2Mjg2MSwwMDAwMDAwMGFhZWU3YjYwMDVkODc0MTQ2NGFlNzRjODM1MzNlMDg4`
+Snapshot ID: `MTY2NTc2Mjg2MSwwMDAwMDAwMDE5Mzc3MGEyOWYwYmUyMjc2ZjcyMWNjMzlmOTQyNzAz`

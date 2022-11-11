@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-927 songs - 2 day 1 hr 18 min - [published](https://open.spotify.com/playlist/6KKu70qbW9cFQ7dsc1y3hw)
+928 songs - 2 day 1 hr 20 min - [published](https://open.spotify.com/playlist/6KKu70qbW9cFQ7dsc1y3hw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-03-27\* | 2021-06-26 |
 | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9) | 2:36 | 2022-07-23 | 2022-07-25 |
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 | 2022-08-08 |
-| [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
+| [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-11-11 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-30 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-09-05 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
@@ -263,6 +263,7 @@
 | [ENZO FERRARI 2](https://open.spotify.com/track/2ZHK4gSu60cnRhPpIYDsJN) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [ENZO FERRARI 2](https://open.spotify.com/album/3I8JvRsTKAsc6NKIKhl5me) | 2:47 | 2021-10-19 | 2022-03-09 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-28 |
 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2021-10-12 | 2021-10-18 |
+| [Evantai](https://open.spotify.com/track/6XYMIIUwcX78OVdqnjKSAk) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Slayer](https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui) | 2:08 | 2022-11-10 |  |
 | [Every Angel is Terrifying](https://open.spotify.com/track/3vJcz8exedHCjQ9ed95NqU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:47 | 2022-01-08 | 2022-01-13 |
 | [Evian](https://open.spotify.com/track/5Ibxha7N01DUemV7b99LH4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [Evian](https://open.spotify.com/album/6puOlWCymDg0gXxs9UW3sq) | 2:27 | 2021-10-26 | 2021-12-12 |
 | [Exorcist \(Bgm\)](https://open.spotify.com/track/3I6v1zLqMFoDUeJWsgjJOO) | [Rajsofficial](https://open.spotify.com/artist/4xDNdyI0CDo5h81bDUwD6n) | [Exorcist \(Bgm\)](https://open.spotify.com/album/6MQfIis9bPmQ7tMH2iMrFu) | 1:11 | 2022-03-25 | 2022-03-27 |
@@ -383,7 +384,7 @@
 | [i n t e r l u d e](https://open.spotify.com/track/2gyYjQWXKxemhAyMPgctIx) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [i n t e r l u d e](https://open.spotify.com/album/0WvwihMfA5E29MrLyNpJYF) | 2:11 | 2021-05-09 | 2021-05-16 |
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2021-05-16 | 2021-05-23 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-25 | 2021-12-05 |
-| [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2022-10-10 | 2022-11-10 |
+| [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2022-10-10 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR) | 3:03 | 2022-08-15 | 2022-10-05 |
 | [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 | 2022-06-09 | 2022-10-15 |
 | [I'M DAT N\*\*\*\*](https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 4:31 | 2022-04-30 | 2022-05-02 |
@@ -406,7 +407,7 @@
 | [INSTA](https://open.spotify.com/track/3ejsINSoEKzT63Ov47NqGN) | [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [CORDIAL](https://open.spotify.com/album/5LpBSwOZaLQfU2mVU3Vyzm) | 2:42 | 2021-12-12 | 2021-12-13 |
 | [Interlude](https://open.spotify.com/track/7eyVvI5RFs54THKhdTK5i5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 COOL 4 SKOOL](https://open.spotify.com/album/3vXKliTwkOYnwDZKh6HgfR) | 0:52 | 2021-12-07 | 2021-12-08 |
 | [Intro](https://open.spotify.com/track/5lVmzrKaqPpPYtF7udoiNq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 0:36 | 2022-06-18 | 2022-06-20 |
-| [Intro](https://open.spotify.com/track/2mzkWDlIwyeb7YyWe4M3zR) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Nonchalant](https://open.spotify.com/album/6OvwfLlUMNYhJovlmnu2Km) | 2:33 | 2022-11-04 |  |
+| [Intro](https://open.spotify.com/track/2mzkWDlIwyeb7YyWe4M3zR) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Nonchalant](https://open.spotify.com/album/6OvwfLlUMNYhJovlmnu2Km) | 2:33 | 2022-11-04 | 2022-11-11 |
 | [Intro](https://open.spotify.com/track/3sUYXrTxaiX1iZehE4OP6b) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [NONCHALANT](https://open.spotify.com/album/0MKn5w2b9Y2YBAP6UJJNOw) | 2:33 | 2022-06-11 | 2022-06-25 |
 | [Investesc](https://open.spotify.com/track/3Bxnm5Alk1jnDXZ3Qv6QVd) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv), [Erique](https://open.spotify.com/artist/6MgUVdFgFohA5SlpdB6I67) | [RMN](https://open.spotify.com/album/0kYZkGelkajt8OufvSU2qm) | 3:08 | 2021-03-27 | 2021-03-31 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-02-13 |

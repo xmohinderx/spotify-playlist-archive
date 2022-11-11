@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204591,
       "name": "Alive",
       "url": "https://open.spotify.com/track/5WBnKCEsPwsvWHUZmLjS3s"
@@ -265,10 +265,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 205482,
       "name": "Backseat Valentine",
       "url": "https://open.spotify.com/track/0QxemWQcwq8AoSmKPc4rcc"
+    },
+    {
+      "album": {
+        "name": "chapter 2",
+        "url": "https://open.spotify.com/album/2PjloAS981jof5y1KEhOPb"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/1HRTFytvp1Bs50ckTlL5qs"
     },
     {
       "album": {
@@ -301,7 +319,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 219638,
       "name": "bad idea!",
       "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
@@ -517,7 +535,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 172307,
       "name": "Call A Friend",
       "url": "https://open.spotify.com/track/2JoNqjOOEn1VsiDMS3BQ85"
@@ -615,6 +633,24 @@
     {
       "album": {
         "name": "Car Crash",
+        "url": "https://open.spotify.com/album/25Uju7HcgGdQVosQJsrgqE"
+      },
+      "artists": [
+        {
+          "name": "Happyalone.",
+          "url": "https://open.spotify.com/artist/07cGsRL23DtuPJnawMKACY"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120187,
+      "name": "Car Crash",
+      "url": "https://open.spotify.com/track/0N3Qzu7f1TgGdFd5ZTDgWK"
+    },
+    {
+      "album": {
+        "name": "Car Crash",
         "url": "https://open.spotify.com/album/5HN1L24YbwQxmS5IB8u2Ul"
       },
       "artists": [
@@ -679,7 +715,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
@@ -985,7 +1021,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 251840,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
@@ -1021,7 +1057,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 323253,
       "name": "Doses & Mimosas",
       "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
@@ -1075,7 +1111,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 194960,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30"
@@ -1327,7 +1363,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 212800,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/3TNz5pqBMHctxlb1fNU95G"
@@ -1525,7 +1561,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 193253,
       "name": "HandClap",
       "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
@@ -1579,7 +1615,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 204446,
       "name": "Heavyweight Champion of the World",
       "url": "https://open.spotify.com/track/2BCOcciJz6LhG3i6HUUJs5"
@@ -1633,7 +1669,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 224840,
       "name": "High And Low",
       "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
@@ -1813,7 +1849,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 165666,
       "name": "Is This What It Feels Like to Feel Like This?",
       "url": "https://open.spotify.com/track/05AXOoZN3bpJh6oXylrfvX"
@@ -1835,6 +1871,24 @@
       "duration_ms": 165666,
       "name": "Is This What It Feels Like to Feel Like This?",
       "url": "https://open.spotify.com/track/2qiYy5k1mDAOpegYqv00wG"
+    },
+    {
+      "album": {
+        "name": "I Think My Mind Has Made Its Mind Up",
+        "url": "https://open.spotify.com/album/1q132A3KkxRLRrEiWZXWqN"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Is This What It Feels Like to Feel Like This?",
+      "url": "https://open.spotify.com/track/3okGmsLsM6Vi3sUOWQONVa"
     },
     {
       "album": {
@@ -2011,7 +2065,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 144921,
       "name": "Love Is An Only Child",
       "url": "https://open.spotify.com/track/2mKXwnyTLDOuZQz8vodLMh"
@@ -2101,7 +2155,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
@@ -2195,7 +2249,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 162338,
       "name": "Oysters In My Pocket",
       "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
@@ -2346,6 +2400,24 @@
     },
     {
       "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/0ZuBYs6IC82qO0cofP1ULZ"
+      },
+      "artists": [
+        {
+          "name": "DIVES",
+          "url": "https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206515,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/32hD3POkNZACMsLv5AknlA"
+    },
+    {
+      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/6VHCF8ykDo3STafE5JfMAs"
       },
@@ -2473,7 +2545,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 169306,
       "name": "She Moves In Her Own Way",
       "url": "https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i"
@@ -2545,7 +2617,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244240,
       "name": "Sister",
       "url": "https://open.spotify.com/track/1zPWMtCrpd6ppFoAZJSIb9"
@@ -2617,7 +2689,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 177373,
       "name": "Speeddance",
       "url": "https://open.spotify.com/track/1gdO3q99cYhaFg3WaP27JQ"
@@ -2815,7 +2887,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 221226,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
@@ -3007,7 +3079,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 116813,
       "name": "Up!",
       "url": "https://open.spotify.com/track/0kOlfVP8Vg17Q41RkWGbWY"
@@ -3140,8 +3212,8 @@
     },
     {
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+        "name": "You Stupid Bitch",
+        "url": "https://open.spotify.com/album/4M2sFHiDlAXasGDTWq6iHA"
       },
       "artists": [
         {
@@ -3154,7 +3226,43 @@
       "date_removed": null,
       "duration_ms": 195951,
       "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/4vFKotukXxQXsjYo8udf37"
+    },
+    {
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
       "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
+    },
+    {
+      "album": {
+        "name": "Learning To Swim",
+        "url": "https://open.spotify.com/album/407nYvGl9gY8MaMpONMSyP"
+      },
+      "artists": [
+        {
+          "name": "snny",
+          "url": "https://open.spotify.com/artist/33QLeK0AvK6Cj5CQ0hp5sa"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138420,
+      "name": "Young Boy",
+      "url": "https://open.spotify.com/track/23JhaDIvOM91A4Xu50UC4K"
     },
     {
       "album": {

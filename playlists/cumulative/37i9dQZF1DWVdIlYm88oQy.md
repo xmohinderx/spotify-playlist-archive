@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 70s! Cover:  José José
 
-95 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/7fjhFJJqBlizYU8Pub0RnC)
+96 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/7fjhFJJqBlizYU8Pub0RnC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 | 2022-01-01 |  |
 | [El Rey](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:37 | 2022-01-01 |  |
 | [El Triste](https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:16 | 2022-01-01 |  |
-| [Entre Dos Aguas](https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Mi Historia: Paco De Lucia](https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid) | 6:00 | 2022-01-01 |  |
+| [Entre Dos Aguas](https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Mi Historia: Paco De Lucia](https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid) | 6:00 | 2022-01-01 | 2022-11-11 |
+| [Entre Dos Aguas](https://open.spotify.com/track/1VvRKrSSsTBctlbilgKHmm) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [El Flamenco es..\. Paco De Lucia](https://open.spotify.com/album/4EtA69YGY0HJdIluqGUKGP) | 6:02 | 2022-08-31 |  |
 | [Entre Dos Aguas \- Instrumental](https://open.spotify.com/track/3Fgk17TfdjXWFroJy29pXH) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Fuente Y Caudal](https://open.spotify.com/album/1qJn2EkYTIIeq3wwvmbf7d) | 6:01 | 2022-01-01 | 2022-07-29 |
 | [Ese Hombre](https://open.spotify.com/track/35kdPvpOeQXH3AD7Yo6vy1) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/71LlTmSoCGEvqbmFijtvrI) | 5:10 | 2022-01-01 | 2022-07-29 |
 | [Ese Hombre](https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh) | 5:11 | 2022-01-01 |  |

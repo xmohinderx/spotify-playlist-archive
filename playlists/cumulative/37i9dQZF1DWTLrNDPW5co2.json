@@ -754,6 +754,32 @@
     },
     {
       "album": {
+        "name": "Human Sound",
+        "url": "https://open.spotify.com/album/0Kh4wcY7TbLk7VIY7SDLYg"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Kai-Isaiah Jamal",
+          "url": "https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw"
+        },
+        {
+          "name": "Obi Franky",
+          "url": "https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326146,
+      "name": "Human Sound",
+      "url": "https://open.spotify.com/track/1BpcVnAhL6LuS8q3l03ONd"
+    },
+    {
+      "album": {
         "name": "Baby, We're Ascending",
         "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
       },
@@ -773,7 +799,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 326146,
       "name": "Human Sound",
       "url": "https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4"

@@ -4,7 +4,7 @@
 
 > Float away to the weightless sound of breakbeat.
 
-81 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/6MjU8sbu7rivCAJe8NSwWV)
+82 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/6MjU8sbu7rivCAJe8NSwWV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Area 39](https://open.spotify.com/track/51xqoC8MD2eo84eweXnG2b) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Joy & Fantasy](https://open.spotify.com/album/1TVmyP0kSZaJpDYoN30wNe) | 3:20 | 2021-10-23 |  |
 | [Beach Simulator 3D](https://open.spotify.com/track/0NEti7J191QYOcYfVD9FfF) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Beach Simulator 3D](https://open.spotify.com/album/6T2Q6fg164JmYS99JbJNxO) | 4:56 | 2021-10-23 |  |
 | [Beam Me Up \- Please Take Me Away Mix](https://open.spotify.com/track/0Y2BqJL1Ya8L4BqUIHZoY6) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Devotion](https://open.spotify.com/album/0XdX6LbFAZU9UaactwqWfA) | 6:22 | 2021-10-23 | 2022-07-29 |
-| [Beam Me Up \- Please Take Me Away Mix](https://open.spotify.com/track/4UgVEhFCKFAqc3VhVWYO5z) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 6:22 | 2021-10-23 |  |
+| [Beam Me Up \- Please Take Me Away Mix](https://open.spotify.com/track/4UgVEhFCKFAqc3VhVWYO5z) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 6:22 | 2021-10-23 | 2022-11-11 |
+| [Beam Me Up \- Please Take Me Away Mix](https://open.spotify.com/track/66ch8pQ1R5qMKRQg9gC6JO) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Back To Mine: Tycho](https://open.spotify.com/album/4XP5VCPLd7dcVVyTt2QDHM) | 6:22 | 2021-10-23 |  |
 | [Best in Me](https://open.spotify.com/track/5f5oCn8eUGl3Elcp5wKrfc) | [March 13](https://open.spotify.com/artist/1HFMq4FxAkAIGOedJoCBDO) | [Best in Me](https://open.spotify.com/album/3imCSMDrH2A9LZJG9v9FPZ) | 5:34 | 2021-10-23 |  |
 | [Blue](https://open.spotify.com/track/3QwTdRlDSUNm8JJtWF0Hc4) | [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Blue](https://open.spotify.com/album/3iJC6zOsnq5nzmFlzPMolJ) | 3:49 | 2021-10-23 |  |
 | [Chasing Shadows](https://open.spotify.com/track/7mIMl6BkmHWGqZz4EXROCG) | [Hugo Massien](https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu) | [Metamorphosis](https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n) | 4:37 | 2021-10-23 |  |

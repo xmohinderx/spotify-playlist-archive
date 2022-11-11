@@ -4,7 +4,7 @@
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-104 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/0zy8b8voSxCSA3RsWKT2B6)
+107 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/0zy8b8voSxCSA3RsWKT2B6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,14 +42,16 @@
 | [Fragment II](https://open.spotify.com/track/7vv4tJIsMFm3XnDHikiwIc) | [Library Tapes](https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7) | [Fragment](https://open.spotify.com/album/7505vXtzFDmbNt4QRKE5by) | 4:00 | 2022-08-11 |  |
 | [From The Same Hill \- Remastered 2005](https://open.spotify.com/track/6KXkRnKRmVes2BfNzN7bnX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 3:00 | 2022-08-09 |  |
 | [Further Away](https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [Glider](https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI) | 5:57 | 2022-08-09 |  |
-| [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 | 2022-08-09 |  |
+| [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 | 2022-08-09 | 2022-11-11 |
+| [Happiness \- 2019 Remaster](https://open.spotify.com/track/369SPXhIIEEwJ6UQKnlwHJ) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps \(2019 Remaster\)](https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz) | 9:19 | 2022-10-04 |  |
 | [Harmony in Blue I](https://open.spotify.com/track/000xQBsBOXGbHzbOwWsTua) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Harmony in Ultraviolet](https://open.spotify.com/album/1U5x6wQtMJtbwM3NZRSvKT) | 1:31 | 2022-08-09 |  |
 | [How Distant Your Heart](https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 4:03 | 2022-08-09 |  |
 | [I Imagine](https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Grinning Cat](https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH) | 2:34 | 2022-08-17 |  |
 | [I Will](https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 5:44 | 2022-08-09 |  |
 | [I'm Dragging a Dead Deer Up a Hill](https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:21 | 2022-08-09 |  |
 | [I'm Too Sleepy...Shall We Swim?](https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3) | [Belong](https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW) | [October Language](https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r) | 5:13 | 2022-08-09 |  |
-| [In McDonalds](https://open.spotify.com/track/0WxZZUJuDXZlxfrWaqp1DG) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 2:07 | 2022-08-11 |  |
+| [In McDonalds](https://open.spotify.com/track/0WxZZUJuDXZlxfrWaqp1DG) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 2:07 | 2022-08-11 | 2022-11-11 |
+| [In McDonalds](https://open.spotify.com/track/2p0JF9yYRnRPxf71Ih7OhD) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Hyperdub 10.3](https://open.spotify.com/album/2VfJkWFzdWOtJzNFQrdhWQ) | 2:07 | 2022-10-04 |  |
 | [Interlude](https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Songs for the Broken Hearted](https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC) | 2:20 | 2022-08-09 |  |
 | [Into Stressa](https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 3:56 | 2022-08-09 |  |
 | [It's About the Size of a House](https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:34 | 2022-08-09 |  |
@@ -110,7 +112,8 @@
 | [Wholesome](https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7) | [Philip Jeck](https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK) | [7](https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3) | 8:26 | 2022-08-09 |  |
 | [Will She Come Back](https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 5:00 | 2022-08-17 |  |
 | [Wind and Snow](https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 4:30 | 2022-08-09 |  |
-| [Woe Is the Transgression I](https://open.spotify.com/track/2zpTolaAqlsIauPX764rMs) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/63Gy5cxnjLWYpxbcjEezgj) | 8:44 | 2022-08-09 |  |
+| [Woe Is the Transgression I](https://open.spotify.com/track/2zpTolaAqlsIauPX764rMs) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/63Gy5cxnjLWYpxbcjEezgj) | 8:44 | 2022-08-09 | 2022-11-11 |
+| [Woe Is the Transgression I](https://open.spotify.com/track/549E9zf4YxHcUQ2R5oLZ1C) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Rifts](https://open.spotify.com/album/4elad9vD5Vz49Qb6ApvQu0) | 8:44 | 2022-10-04 |  |
 | [Your Guts Are Like Mine](https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Telegraphs in Negative / Mouths Trapped in Static](https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka) | 2:15 | 2022-08-09 |  |
 
 \*This playlist was first scraped on 2022-08-11. Prior content cannot be recovered.

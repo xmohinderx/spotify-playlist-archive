@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest out now in Hip Hop...Cover: Cover: Ney and <a href=\"https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r?si=wb2mo_zWR56u3HCKBGrfXw\">Nadia Nakai</a>",
-  "name": "Hip-Hop Circle",
+  "description": "Only the hottest out now in Hip Hop... Cover: <a href=\"https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55?si=ahHSlLIER9uhSN7KxaU8rA\">ANATII</a>",
+  "name": "Hip Hop Circle",
   "published_playlist_ids": [
     "6I6oFpcK7RBFahZIAhJPwX"
   ],
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 328474,
       "name": "150 Bars",
       "url": "https://open.spotify.com/track/1440EDwIRmZeIEFyD9hBnR"
@@ -107,6 +107,28 @@
       "duration_ms": 182325,
       "name": "54321",
       "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
+    },
+    {
+      "album": {
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/1wHEl0itEyhRHNDdIh0UCN"
+      },
+      "artists": [
+        {
+          "name": "ANATII",
+          "url": "https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55"
+        },
+        {
+          "name": "LOOKATUPS",
+          "url": "https://open.spotify.com/artist/3Juf3knCVNci9CIpYraBER"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168256,
+      "name": "Amadlozi",
+      "url": "https://open.spotify.com/track/4pHdZenBKRDOpredaVILeG"
     },
     {
       "album": {
@@ -319,7 +341,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 154285,
       "name": "BET",
       "url": "https://open.spotify.com/track/3TJTvFCoVZaWWTRuaIPkMl"
@@ -671,7 +693,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 146845,
       "name": "DREAMS",
       "url": "https://open.spotify.com/track/0OHBji0Hz8o7W1TPYtk31j"
@@ -828,6 +850,28 @@
     },
     {
       "album": {
+        "name": "GET DRIP",
+        "url": "https://open.spotify.com/album/2MyTYZ1dTvNC6q7Pgk007F"
+      },
+      "artists": [
+        {
+          "name": "BRITE GVNG",
+          "url": "https://open.spotify.com/artist/03SG3QYfweGjoOw26Mgdsv"
+        },
+        {
+          "name": "MY OWN VESSELS",
+          "url": "https://open.spotify.com/artist/6ZyL7I4xf8UsZZcpK9FoOr"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138433,
+      "name": "GET DRIP",
+      "url": "https://open.spotify.com/track/4P57GgKxNDM9VodgJQloR2"
+    },
+    {
+      "album": {
         "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
         "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
       },
@@ -847,7 +891,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 244853,
       "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
       "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
@@ -965,10 +1009,46 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+    },
+    {
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "album": {
@@ -1231,7 +1311,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 145333,
       "name": "MOSHITO",
       "url": "https://open.spotify.com/track/0alylhpp2eVgZYSPfZg9Gi"
@@ -1393,7 +1473,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 187973,
       "name": "Nomathemba",
       "url": "https://open.spotify.com/track/7tn8BQrBebUSW1AIES8svd"
@@ -1437,6 +1517,28 @@
       "duration_ms": 161933,
       "name": "OMEGA FREESTYLE",
       "url": "https://open.spotify.com/track/3kZs4CPU9sP6Yxf6H9W36N"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261543,
+      "name": "On BS",
+      "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
     },
     {
       "album": {
@@ -1485,6 +1587,24 @@
       "duration_ms": 211025,
       "name": "PARTY (feat. Quavo & Takeoff)",
       "url": "https://open.spotify.com/track/3kT6P4hFj0IVr45TjKOLRp"
+    },
+    {
+      "album": {
+        "name": "THE4MULA",
+        "url": "https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61666,
+      "name": "plug call [freestyle]",
+      "url": "https://open.spotify.com/track/7txdJp6dC3U7P4FSxzOOYV"
     },
     {
       "album": {
@@ -1601,10 +1721,32 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 157687,
       "name": "Repeat (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/0l3ED5kPEnls7T2nrTbI7H"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
       "album": {
@@ -1649,7 +1791,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 183750,
       "name": "ronda",
       "url": "https://open.spotify.com/track/4KWaXaEz7aWWfjUuz2fSAR"
@@ -1771,7 +1913,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 253913,
       "name": "Sober (feat. Roddy Ricch & Post Malone)",
       "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
@@ -1807,7 +1949,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 170847,
       "name": "sss",
       "url": "https://open.spotify.com/track/5M8WGkmdlVT5eistT6gWsh"
@@ -1859,7 +2001,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 205146,
       "name": "Start Over (feat. 6LACK)",
       "url": "https://open.spotify.com/track/2d9MYGHDxjUB8P7qAI6bhe"
@@ -2009,6 +2151,44 @@
       "duration_ms": 202225,
       "name": "Therapy pt. 2 [Feat. Mac Miller]",
       "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+    },
+    {
+      "album": {
+        "name": "Thetha Nami",
+        "url": "https://open.spotify.com/album/05tI4GYoVsLhwMEf5YsJ2K"
+      },
+      "artists": [
+        {
+          "name": "No Comply",
+          "url": "https://open.spotify.com/artist/3KZHzrzPWoBR2Osu6SI6Vy"
+        },
+        {
+          "name": "DJ Speedsta",
+          "url": "https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87"
+        },
+        {
+          "name": "DJ Milkshake",
+          "url": "https://open.spotify.com/artist/5WFgLQUnTlt30OkZ33al7a"
+        },
+        {
+          "name": "Majorsteez",
+          "url": "https://open.spotify.com/artist/2QNYVS9uCpV8VeJ3HL7v87"
+        },
+        {
+          "name": "Loki.",
+          "url": "https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD"
+        },
+        {
+          "name": "Mustbedubz",
+          "url": "https://open.spotify.com/artist/5mgakxehZfMH23hQRLcy9p"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233550,
+      "name": "Thetha Nami",
+      "url": "https://open.spotify.com/track/7f9XO1APC9O2o0CSOCcqMJ"
     },
     {
       "album": {

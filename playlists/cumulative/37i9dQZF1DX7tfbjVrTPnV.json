@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 234666,
       "name": "16 Days",
       "url": "https://open.spotify.com/track/3aFMz2anc9vurZw6bPunI6"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Can't Be There Today",
       "url": "https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 228186,
       "name": "Closer to You",
       "url": "https://open.spotify.com/track/3cv5ztdkBxly1hhZGWTcLW"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 269920,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
@@ -771,6 +771,24 @@
       "duration_ms": 270066,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
+    },
+    {
+      "album": {
+        "name": "American Honey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0FqLgj2sag3iodr9f0Zaxd"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270186,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/3tD7lDJ0nhZ11M7xFzVfyL"
     },
     {
       "album": {
@@ -964,6 +982,24 @@
     },
     {
       "album": {
+        "name": "O Brother, Where Art Thou? (Music From The Motion Picture / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/61tm5F4leYEEoPPcqkOblM"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176920,
+      "name": "Down To The River To Pray",
+      "url": "https://open.spotify.com/track/2qPj7bDY4uI1LFwXdrnvmx"
+    },
+    {
+      "album": {
         "name": "A Hundred Miles Or More: A Collection",
         "url": "https://open.spotify.com/album/2i3Fr0qXGyR57MfWNPcMKP"
       },
@@ -975,7 +1011,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 176360,
       "name": "Down To The River To Pray - From \u201cO Brother, Where Art Thou\u201d Soundtrack",
       "url": "https://open.spotify.com/track/3WJ8xIHrNTtP5YsXOqqyml"
@@ -1083,7 +1119,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 227226,
       "name": "Dusty Old Man",
       "url": "https://open.spotify.com/track/5Vi7Nm5Eug5NWvCDzIMqOX"
@@ -1137,7 +1173,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 138706,
       "name": "End Of The End Of The World",
       "url": "https://open.spotify.com/track/5BIk3eHSQMMyCFTOXRo6OF"
@@ -1256,6 +1292,24 @@
     },
     {
       "album": {
+        "name": "I Walk the Line: The Best of Johnny Cash",
+        "url": "https://open.spotify.com/album/1mGrMMlLzrfyyvlYOPueu1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161973,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "url": "https://open.spotify.com/track/4koGzbxBQCQf7hBDTuvLoF"
+    },
+    {
+      "album": {
         "name": "At Folsom Prison",
         "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
       },
@@ -1267,7 +1321,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 162653,
       "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
       "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
@@ -1303,7 +1357,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 221413,
       "name": "Ford Econoline",
       "url": "https://open.spotify.com/track/4YBWRHOXfB3T9B1TKRT1ki"
@@ -1375,7 +1429,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 186920,
       "name": "Garfield's Blackberry Blossom",
       "url": "https://open.spotify.com/track/2H6m033IwS1i0fkHyWP3g8"
@@ -1419,7 +1473,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 219672,
       "name": "Gentle on My Mind",
       "url": "https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o"
@@ -1915,7 +1969,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 237866,
       "name": "I'll Fly Away",
       "url": "https://open.spotify.com/track/4rJtUMlnhJzlzlnxyoc3tb"
@@ -2149,7 +2203,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": null,
       "duration_ms": 212308,
       "name": "Jackson",
       "url": "https://open.spotify.com/track/3Vk2sEPrkjZeQWLTAhi6JM"
@@ -2221,7 +2275,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 136489,
       "name": "Just To Watch Maria Dance",
       "url": "https://open.spotify.com/track/71JN9WNpdHwbr22XSAbwRP"
@@ -2309,6 +2363,24 @@
     {
       "album": {
         "name": "Free State Serenade",
+        "url": "https://open.spotify.com/album/0pqpWAaVRi3Vj26semUglc"
+      },
+      "artists": [
+        {
+          "name": "Chuck Mead",
+          "url": "https://open.spotify.com/artist/65gM2feRQDv9iYZPEnRtfD"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Knee Deep in the Wakarusa River",
+      "url": "https://open.spotify.com/track/0tSSPNytFK5ZpIdGYtID52"
+    },
+    {
+      "album": {
+        "name": "Free State Serenade",
         "url": "https://open.spotify.com/album/2wYy8JcZavYGdVDKpbyoI5"
       },
       "artists": [
@@ -2337,7 +2409,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 246373,
       "name": "Learning How to Live Alone",
       "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
@@ -3251,7 +3323,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 241540,
       "name": "Something Has To Change",
       "url": "https://open.spotify.com/track/6Pfkj4mOwjQ1FwsCEzpvFh"
@@ -3637,7 +3709,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241739,
       "name": "The Damage",
       "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
@@ -3655,7 +3727,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 185000,
       "name": "The Galway Girl",
       "url": "https://open.spotify.com/track/1KnilWyiAb1Jwa9QJXZGMN"
@@ -3779,7 +3851,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 214949,
       "name": "The Midnight Special",
       "url": "https://open.spotify.com/track/0JIUcjcQTRTmxl0jIP9fHW"
@@ -4211,7 +4283,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 170759,
       "name": "Walkin' Back to Georgia",
       "url": "https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y"

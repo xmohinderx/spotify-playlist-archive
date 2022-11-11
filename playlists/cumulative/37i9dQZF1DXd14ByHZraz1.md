@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Dubdogz
 
-93 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
+94 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Beat, Slow, Check](https://open.spotify.com/track/2FvSLbaOuopFsY2ZUaJPX1) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Beat, Slow, Check](https://open.spotify.com/album/3Gb5HF8D2stlV841uR3n0J) | 3:05 | 2021-12-24 |  |
 | [Body Control](https://open.spotify.com/track/1DOiUHIWeuSePVnulxXRdM) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Plastic Robots](https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm) | [Control](https://open.spotify.com/album/4JEt6Wo4ADJAoGi0NND8hm) | 3:50 | 2022-04-08 |  |
 | [Body On My Mind](https://open.spotify.com/track/0tC6DBA0PA8o0LL3M6neZ9) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/1BwEL9Uw8vU3ND0KCaTmdw) | 2:49 | 2021-12-24 | 2022-07-29 |
-| [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 | 2022-07-08 |  |
+| [Body On My Mind](https://open.spotify.com/track/2hKr4BrXEPAsmTCcX8aV5J) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 002](https://open.spotify.com/album/7DwBtsPSp8U1dVFQWtKqjk) | 2:49 | 2022-10-28 |  |
+| [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 | 2022-07-08 | 2022-11-11 |
 | [Bring Me To Life](https://open.spotify.com/track/7y10NhdvokswimTGeYyZ98) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [David Hodges](https://open.spotify.com/artist/7fRabwYwLBgvOudI9GY2Op) | [Bring Me To Life](https://open.spotify.com/album/2yiCoX8tk9OiarK38AmVvT) | 2:21 | 2021-12-24 |  |
 | [Bubbalicious](https://open.spotify.com/track/3ZLROYAeP1y3CouHBYZCg7) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Kess Ross](https://open.spotify.com/artist/5YIZvYKBXqG9ChTtAR4D6G), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Bubbalicious](https://open.spotify.com/album/5ZVI3iLLLBUscQRvesFWoj) | 3:04 | 2022-03-04 |  |
 | [Butterflies \(feat\. Tristan Henry\)](https://open.spotify.com/track/0sUDiNgh3zHqeWPTQqandI) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [FFLORA](https://open.spotify.com/artist/6H4XYByPbHw4cmWEiyoHPE), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Butterflies \(feat\. Tristan Henry\)](https://open.spotify.com/album/1nCFV0Ocfkyfrfmpmv3b6O) | 2:45 | 2021-12-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 
 > Soft acoustic sounds for your massage session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,492 likes - 110 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,593 likes - 110 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 | 25 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 |
 | 26 | [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 |
 | 27 | [here comes the sun](https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [here comes the sun](https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7) | 2:47 |
-| 28 | [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 |
+| 28 | [Landslide](https://open.spotify.com/track/4LukM96ZHxPL8KPhdEARzS) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Landslide](https://open.spotify.com/album/5dUOVCaTo5aaXt1S7zRnzt) | 3:38 |
 | 29 | [The Most Beautiful Girl](https://open.spotify.com/track/02T6721YnHaDUFAr0RxnWG) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [The Most Beautiful Girl](https://open.spotify.com/album/3l6CwgyJgdurhwQeojyAik) | 2:53 |
 | 30 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
 | 31 | [The Impression That I Get](https://open.spotify.com/track/4xU7ycvEAq6FuJFIgsVvpu) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [The Impression That I Get](https://open.spotify.com/album/6kK7PlbkI6DOK1PVZFeVpa) | 3:48 |
@@ -117,6 +117,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 | 107 | [Young at Heart](https://open.spotify.com/track/38YsXodMWMyRBvFyiB8DKz) | [Rachel Barror](https://open.spotify.com/artist/6lMeqgtkZzN6pbR6wzAd4K) | [Young at Heart](https://open.spotify.com/album/2g75DM620XL3naO3zJb1SC) | 3:48 |
 | 108 | [The Valley](https://open.spotify.com/track/0YBApL73BbXpxEJKREFOUF) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [Slowmotionary](https://open.spotify.com/album/3Ral8vi8Cc0uCtp0Zg0A7x) | 2:45 |
 | 109 | [Lightning Crashes](https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Lightning Crashes](https://open.spotify.com/album/45YVxODHqrMEgn8wU9qBaN) | 4:41 |
-| 110 | [Shimmer](https://open.spotify.com/track/02S7iCZmsVUkaWABeU4lhn) | [JFDR](https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ) | [New Dreams](https://open.spotify.com/album/0Ujzw1BOqIfrARwP4IX5ce) | 3:21 |
+| 110 | [Shimmer](https://open.spotify.com/track/3gzHbnSkDpyhMvpvlWhib7) | [JFDR](https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ) | [Shimmer](https://open.spotify.com/album/3tulPmW7Y3vpSRNFTlxGTw) | 3:21 |
 
-Snapshot ID: `MTY2NTc1OTE2NywwMDAwMDAwMGU1ZDAwZjIzNDljMzc0MDJhYmM0MWQ3YTNlNDEzYmIy`
+Snapshot ID: `MTY2NTc1OTE2NywwMDAwMDAwMDczYTNkNjc4NjM4NjVhZjNjMzY2MDI5ZjI0NDlmMzg5`

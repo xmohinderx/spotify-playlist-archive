@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 
 > From joyful jubillance to hushed harmonies – this is some of the best in A Cappella Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,415 likes - 45 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,583 likes - 45 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 | 13 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/4zjQjevGJIUCjAJB2qbThT) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 3:09 |
 | 14 | [The First Noel](https://open.spotify.com/track/6Lu8BYRVgnlgEj65RvpFdH) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Vol\. 3](https://open.spotify.com/album/5msQHy2ZV5LjOdeqbYZl9y) | 2:24 |
 | 15 | [Silent Night](https://open.spotify.com/track/3WP3OIYgTAnfFuiQBvgzgi) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [The Best Of/20th Century Masters: The Christmas Collection](https://open.spotify.com/album/1x6bJdWl3Imquoi2Mu0BsC) | 2:32 |
-| 16 | [Little Drummer Boy](https://open.spotify.com/track/5OGtTiD5plLiLvHdIyPB3C) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Mike Tompkins](https://open.spotify.com/artist/3h3F1qpVfzQDCODlvMCQZm) | [A Hollens Family Christmas](https://open.spotify.com/album/0OsTiVipKPPNi3b2EHwZ8L) | 3:54 |
+| 16 | [Little Drummer Boy](https://open.spotify.com/track/2sjIc08kf7ycfKHxUwB0Ez) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Mike Tompkins](https://open.spotify.com/artist/3h3F1qpVfzQDCODlvMCQZm) | [A Hollens Family Christmas Deluxe](https://open.spotify.com/album/2goJmaqsfCG5qgDQMVMM5N) | 3:54 |
 | 17 | [I'll Be Home For Christmas](https://open.spotify.com/track/7K3i0GUuw4tdIy2BtXVqtW) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Unwrapped \- EP](https://open.spotify.com/album/5UxCYp9ugSxlZtp7TIaJoV) | 3:27 |
 | 18 | [Christmas Time Is Here](https://open.spotify.com/track/5dQRW3FZhhf9aNXujAT4r5) | [Afro Blue](https://open.spotify.com/artist/7BN6dSeHMZJUBap8P4Nxew) | [The Sing\-Off: Songs of the Season](https://open.spotify.com/album/4tmjqrOYzoP6nIn4oFBLlE) | 2:51 |
 | 19 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/6crJeVAyChFwjdI6oo0lwm) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:56 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 | 21 | [Run Run Rudolph](https://open.spotify.com/track/3n9zxQWvIIMVcbkKBXUejX) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [I'll Have Another...Christmas Album](https://open.spotify.com/album/5fAtug9KJE3XhEf010Gkoj) | 2:08 |
 | 22 | [Nativity Medley](https://open.spotify.com/track/6Zb2qnkAXLIDFsOSayqu7h) | [Committed](https://open.spotify.com/artist/0zXJ4RC28rSgZ7tR5XgXdH) | [Home For Christmas](https://open.spotify.com/album/4NP170fPWbNHS2eVQ7TvCS) | 3:25 |
 | 23 | [Let It Go](https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:26 |
-| 24 | [Happy Xmas \(War Is Over\) \[feat\. Jackie Evancho\]](https://open.spotify.com/track/2ujsh7j09COq26oV3xNZE9) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [A Hollens Family Christmas](https://open.spotify.com/album/0OsTiVipKPPNi3b2EHwZ8L) | 3:13 |
+| 24 | [Happy Xmas \(War Is Over\) \[feat\. Jackie Evancho\]](https://open.spotify.com/track/7bcmkOryn8xmOWSDcNGHL9) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [A Hollens Family Christmas Deluxe](https://open.spotify.com/album/2goJmaqsfCG5qgDQMVMM5N) | 3:13 |
 | 25 | [Home For The Holidays](https://open.spotify.com/track/3C5X3TE5feQ482zwMf1tcy) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 2:36 |
 | 26 | [Nutcracker](https://open.spotify.com/track/2QhveJeE3MHOYSDyrbqRBH) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 3:07 |
 | 27 | [Santa and I Know It](https://open.spotify.com/track/4dZ3H2X79C2USvczNl2dVG) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3) | [Peppermint Winter](https://open.spotify.com/album/38sMSmBxWWnErBR7ampOdG) | 2:22 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 | 38 | [Do You Hear What I Hear?](https://open.spotify.com/track/1Wn1FdOVisWKqqQm9ETfVl) | [Eclipse 6](https://open.spotify.com/artist/3vX0Zd001TxIvNH2JBjnLW) | [It's Christmas Time](https://open.spotify.com/album/2vWqw1n1P5bOTyg0yGQsOK) | 3:23 |
 | 39 | [God Rest Ye Merry, Gentlemen](https://open.spotify.com/track/0M8V3c7fPNxohyXFXSpVSD) | [The Whiffenpoofs](https://open.spotify.com/artist/70kYiT1DhBuwkjGzASOeYV) | [The Sing\-Off: Harmonies for the Holidays](https://open.spotify.com/album/4KxLX0Cz1xKJ1GtCfjLB3b) | 2:36 |
 | 40 | [O Little Town Of Bethlehem](https://open.spotify.com/track/6PhCcjaG8cY1oRiNB1QGCL) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [A Rockapella Holiday](https://open.spotify.com/album/1WCdcmjKznIqlpGrSzMKWO) | 3:56 |
-| 41 | [Mary, Did You Know?](https://open.spotify.com/track/45HOyUDpvVRNbC4iGj2tw5) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [A Hollens Family Christmas](https://open.spotify.com/album/0OsTiVipKPPNi3b2EHwZ8L) | 2:42 |
+| 41 | [Mary, Did You Know?](https://open.spotify.com/track/1UQMKneHEnyNxHs7eEKSGp) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [A Hollens Family Christmas Deluxe](https://open.spotify.com/album/2goJmaqsfCG5qgDQMVMM5N) | 2:42 |
 | 42 | [Coldest Winter](https://open.spotify.com/track/7GZ4WYixf0D6DWvvi60yTM) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 2:28 |
 | 43 | [Jingle Bells](https://open.spotify.com/track/0NgU0FRX592LEHGds21pfD) | [VOCA PEOPLE](https://open.spotify.com/artist/0lJU6XXo5bSHEoDV2m4iqQ) | [Life Is Music \(Deluxe Version\)](https://open.spotify.com/album/7spOTs7ChtP9bOU3rlkT5a) | 0:47 |
 | 44 | [Baby, It's Cold Outside \(feat\. Kira Isabella\)](https://open.spotify.com/track/06HNNnj7ID04gJoQs6AqUT) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7), [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Full Of Cheer \(Deluxe\)](https://open.spotify.com/album/2dCAEsjQuYWvcsyaZk5szk) | 2:42 |
 | 45 | [Coventry Carol](https://open.spotify.com/track/64G40fpdMQE95CSIJx9Qr1) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:02 |
 
-Snapshot ID: `MTY0MjE3MjkzMCwwMDAwMDAwMDRkMDk2Y2ZlODI2MzdjZWZhZmFmYjZlZWRjMjc2Mjc2`
+Snapshot ID: `MTY0MjE3MjkzMCwwMDAwMDAwMDJlZWI5NjM5ZTE5NDYyYjc5MDZkY2UyNzlmYjFjN2Zh`

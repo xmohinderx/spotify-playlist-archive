@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Montell Fish
 
-4,407 songs - 10 day 18 hr 53 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,409 songs - 10 day 19 hr 1 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1257,8 +1257,8 @@
 | [Feel You](https://open.spotify.com/track/7q2XN4LJ80HgdbUac3aRi8) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/2REQNxpDxpwIUU7hxoZEsQ) | 6:13 | 2020-07-10 | 2020-08-30 |
 | [Feelin' Low \(F\*ckboy Blues\)](https://open.spotify.com/track/5BWjhvzvz7jv53mkuIDzJE) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Feelin' Low \(F\*ckboy Blues\)](https://open.spotify.com/album/7gfkQfk7VdbzxR9LV5ts4m) | 2:58 | 2019-11-01 | 2019-12-06 |
 | [Feeling Like I Do \- Spotify Singles](https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Spotify Singles](https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN) | 3:56 | 2022-07-01 | 2022-08-13 |
-| [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 | 2022-10-21 | 2022-10-25 |
-| [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 | 2022-10-21 |  |
+| [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 | 2022-10-21 |  |
+| [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 | 2022-10-21 | 2022-11-11 |
 | [Feeling Myself \- Lullaby Version](https://open.spotify.com/track/2wCSCMicQjUV6VeJvDSvQ2) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Feeling Myself \(Lullaby Version\)](https://open.spotify.com/album/2Dm5p6Lgj99nKTCagtLUwA) | 4:12 | 2022-06-24 | 2022-07-23 |
 | [Feelings](https://open.spotify.com/track/4EZdYqckVBQw6Oduj9ra2D) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Feelings](https://open.spotify.com/album/7jaaCkiivIJrVnuQDZfcuE) | 3:10 | 2019-06-21 | 2019-08-13 |
 | [Feelings Meeting](https://open.spotify.com/track/3ZNZlQHZR4SrZf27DVJD0I) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Feelings Meeting](https://open.spotify.com/album/4Wvn9tVWMtVQESSBgfiu6y) | 3:59 | 2022-05-20 | 2022-06-22 |
@@ -3394,7 +3394,8 @@
 | [Slidin' \- EOB Remix](https://open.spotify.com/track/7qCm38KsAwzB0A9INFVNWP) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [EOB](https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG) | [Slidin' \(EOB Remix\)](https://open.spotify.com/album/6i0EU18nKFbeRUtnmTvTyW) | 2:39 | 2021-04-10 | 2021-05-29 |
 | [Slow Down](https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:22 | 2022-05-13 | 2022-06-22 |
 | [Slow Ready](https://open.spotify.com/track/19AXHJvTBkh8n9aRrlRqv6) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Dripfield](https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV) | 5:06 | 2022-06-24 | 2022-07-23 |
-| [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-07 |  |
+| [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-07 | 2022-11-11 |
+| [Slowing Down](https://open.spotify.com/track/4PPodWxVosPAXvwLlqbjyt) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/3Yo08VwO5AZjYxM9XC6IXp) | 5:20 | 2022-10-07 |  |
 | [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-07 | 2022-11-02 |
 | [Slowly](https://open.spotify.com/track/3GGhyTPYDufku46UtvLTPi) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Slowly](https://open.spotify.com/album/2DTKy8cjrG6GIvDO4s3ljv) | 3:07 | 2020-01-31 | 2020-03-27 |
 | [Small Ghosts](https://open.spotify.com/track/6zFqu6VWpbpO36qr9QkH4G) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [5 Songs For The Dysphoric](https://open.spotify.com/album/6ope4Z98ybMP7ayuCSLDNl) | 3:27 | 2021-02-12 | 2021-04-10 |
@@ -4313,6 +4314,7 @@
 | [Wrong Time](https://open.spotify.com/track/2BkLz99O7LSMJb72y5tCr1) | [Lauren Preuss](https://open.spotify.com/artist/33WjXTGX5zErPzZCoBQo1f) | [Wrong Time](https://open.spotify.com/album/37WMECTZVdHYKOkNhZg8e6) | 3:19 | 2022-07-01 | 2022-07-30 |
 | [Wrong with u](https://open.spotify.com/track/476F7Wdh2LQLBbf3guDfIQ) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Wrong with u](https://open.spotify.com/album/7EYr5e6Qg0RBzLHMhWgZul) | 2:32 | 2021-09-18 | 2021-11-06 |
 | [wyd \- Live at Electric Lady](https://open.spotify.com/track/3I43lL4uapeIE9GhppAv5B) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ) | 3:37 | 2022-08-05 | 2022-09-10 |
+| [Wyoming](https://open.spotify.com/track/1KqNlvYcAyPYM4qsWh0P5N) | [Neptune](https://open.spotify.com/artist/5hmJ3DqZwkYDk0qGHsO14N) | [Wyoming](https://open.spotify.com/album/0Z3AjubHuJymflHHHfr2nf) | 2:57 | 2022-11-04 |  |
 | [Xeno Bobby](https://open.spotify.com/track/7KzYye8Ds7YMPFBsQW0P9X) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Reader As Detective](https://open.spotify.com/album/2lX4YW9pxHfxT27lMIoJ4w) | 2:58 | 2019-07-20 | 2019-08-16 |
 | [XO](https://open.spotify.com/track/2gwMQLaqquUZF5dsmRI8c4) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [XO](https://open.spotify.com/album/53901xfQofw8GAjt1dBUxp) | 3:05 | 2022-08-19 | 2022-09-24 |
 | [y](https://open.spotify.com/track/17LSsNemcuxRjWAKJauNm4) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [y](https://open.spotify.com/album/5wtvu7G1IF0xFOCGjDiJ6o) | 2:50 | 2022-06-17 | 2022-07-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,979 likes - 115 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,988 likes - 115 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [告别前要跳舞](https://open.spotify.com/track/3G6sXDX6oRUBu02cAehNxI) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [告别前要跳舞](https://open.spotify.com/album/3G18zvfH4L08e9N4Nxlhk7) | 4:39 |
 | 100 | [六度分離](https://open.spotify.com/track/5lWd6O5SE0F9CLD0Pc2MQu) | [Tingzhi.Hz](https://open.spotify.com/artist/5bRgm42udQG0UHbfIA83bW) | [六度分離](https://open.spotify.com/album/3syiu5ff1utDT4NFAjcmA1) | 4:16 |
 | 101 | [Hidden Pain \- "The Post\-Truth World"Theme Song](https://open.spotify.com/track/712hyUlf98lUI5ajbx5tO3) | [Edward Chen](https://open.spotify.com/artist/0dfSUAJNqVKUe9Zqs2gQoY) | [Hidden Pain \("The Post\-Truth World"Theme Song\)](https://open.spotify.com/album/4W4AVddVY0UFubgOKrmv0A) | 4:21 |
-| 102 | [Better Left Unsaid](https://open.spotify.com/track/0Yb9NW4OcugPmaTkIdcwau) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Reset](https://open.spotify.com/album/1uz1ah9nwO6YjBh3GvloWt) | 3:21 |
+| 102 | [Better Left Unsaid \- "49 Days with a Merman" Soundtrack](https://open.spotify.com/track/5f8fdYhYqCdwGozzLiITJx) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Better Left Unsaid \("49 Days with a Merman" Soundtrack\)](https://open.spotify.com/album/6O3jtbOzvMsmnkZdeVLhdB) | 3:21 |
 | 103 | [水星記](https://open.spotify.com/track/1BIMflGBEZVMoMBYee8b3R) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [水星記](https://open.spotify.com/album/1ewhrl109isjAtzC1GB5gL) | 4:30 |
 | 104 | [万有引力](https://open.spotify.com/track/43cPaj8OJ9LVFkAflNlfJI) | [銀臨](https://open.spotify.com/artist/5yHRdWTdkQFawGrWfKYvLO) | [万有引力\(原创动画《荧惑归途》主题曲\)](https://open.spotify.com/album/1kAnXDgeuK0JnmMdPYKJLO) | 4:48 |
 | 105 | [可以就這樣的話 \- 《我的牙想你》插曲](https://open.spotify.com/track/5wtFSK7an1MKAS9mMV6MTd) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [可以就這樣的話 \(《我的牙想你》插曲\)](https://open.spotify.com/album/44KGXtNg2upIKKRTCFsZCp) | 3:46 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 114 | [You were.](https://open.spotify.com/track/6dnIcqUXm5e0QlDltZy9Z7) | [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [You were.](https://open.spotify.com/album/5fvl9jkqhwu5yypETpmOq2) | 4:18 |
 | 115 | [AMIGO](https://open.spotify.com/track/4mf4RGtnwtAwUREYIZoApr) | [玖壹壹](https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg) | [AMIGO](https://open.spotify.com/album/3UgaMGjNGvXobPMZJJ7qLA) | 3:21 |
 
-Snapshot ID: `MTY2NzgwMTUwNSwwMDAwMDAwMGI3MmE3MTlkNDI5NGNhZjUyZTUzNjdjNjdhMGJkY2Zk`
+Snapshot ID: `MTY2NzgwMTUwNSwwMDAwMDAwMGYwOWU5NmNkMWQ1NTg0NzIzNDQxYzk2MTYxOWMyNDk0`

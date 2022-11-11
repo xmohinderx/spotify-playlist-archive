@@ -4,7 +4,7 @@
 
 > Celebrate Dad with these songs for the whole family.
 
-40 songs - 1 hr 25 min - [published](https://open.spotify.com/playlist/6tl6Ybu4TpCwX9cllSPtj0)
+41 songs - 1 hr 28 min - [published](https://open.spotify.com/playlist/6tl6Ybu4TpCwX9cllSPtj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,9 @@
 | [Love My Daddy, Yes I Do \- 2014 Version](https://open.spotify.com/track/3Xhnm12LeuiPwemRJ7WrQQ) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 1:17 | 2022-04-08 |  |
 | [My Dad Is the Best](https://open.spotify.com/track/5fChnxVxgKVgawPiEY7uFS) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap 15](https://open.spotify.com/album/730ycVX0jx135J8Sp4qCqR) | 2:21 | 2022-04-08 |  |
 | [My Dad, He's There for me](https://open.spotify.com/track/0u7jvhbm2cwcvDwkCYLiqp) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [My Dad, He's There for me](https://open.spotify.com/album/2aKqsNcBlJZCMJ6irRZsGt) | 3:30 | 2022-04-08 |  |
-| [My Daddy Song](https://open.spotify.com/track/1GIiqb0sl5AscLsypZYR0H) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon I Love My Family](https://open.spotify.com/album/3YBvGGVcQfxHWYe3AdlrgU) | 2:52 | 2022-04-08 |  |
+| [My Daddy Song](https://open.spotify.com/track/1GIiqb0sl5AscLsypZYR0H) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon I Love My Family](https://open.spotify.com/album/3YBvGGVcQfxHWYe3AdlrgU) | 2:52 | 2022-04-08 | 2022-11-11 |
 | [My Daddy Song](https://open.spotify.com/track/5qFjL6Hu9Ch3GxBND2I1pJ) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon I Love My Family](https://open.spotify.com/album/50gLIWQWXykOHBORuJaXFK) | 2:52 | 2022-04-08 | 2022-07-29 |
+| [My Daddy Song](https://open.spotify.com/track/7k7cl3NNpxUgcLnUrNcXXP) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [I Love My Daddy](https://open.spotify.com/album/5kHnimhvYsAw8tIiH5lM5w) | 2:52 | 2022-04-08 |  |
 | [My Special Friend Is Daddy \- 2015 Version](https://open.spotify.com/track/23lD80OM6g5MnF1VPQQDrx) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 2:24 | 2022-04-08 |  |
 | [On Father's Day \- 2015 Version](https://open.spotify.com/track/4kYtmbg5O8ClYUt9fEL4ZT) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Father's Day Songs for Preschool and Kindergarten](https://open.spotify.com/album/0Yi2bqgiqSbIoCCdjjPu7z) | 1:35 | 2022-04-08 |  |
 | [Sometimes Dad Says \- 2015 Version](https://open.spotify.com/track/4sLXCebdp5NNNvwn9djEQO) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 1:19 | 2022-04-08 |  |

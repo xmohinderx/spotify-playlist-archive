@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 
 > All jazz every Sunday, curated by Jermaine Dupri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,226 likes - 26 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,235 likes - 26 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 | 4 | [Rush Hour](https://open.spotify.com/track/5QQqHH7Sk0sFGyxELjDb0e) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Time Capsule](https://open.spotify.com/album/7uQhtRHu9XIUVrfIwn3Z8s) | 3:02 |
 | 5 | [What Comes Up](https://open.spotify.com/track/7qGvSZRd9wqpDFGxOJ4E1I) | [Anders Widmark](https://open.spotify.com/artist/4ZgY2pumPsq9z3kNxGTDef) | [Hear Me Talkin'](https://open.spotify.com/album/6WVg7QuomPZPCMHDjziHnX) | 3:36 |
 | 6 | [Prosecco](https://open.spotify.com/track/7pt3SQvLhjpDdHZYzejRfN) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Prosecco](https://open.spotify.com/album/3yfnIuUhfGad79WWAv768J) | 3:41 |
-| 7 | [No Mo'](https://open.spotify.com/track/40ZFcO8L1huMBl7KitreLh) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [No Mo'](https://open.spotify.com/album/16FnBU6gaf9ZYYIJjQ56w2) | 3:58 |
+| 7 | [No Mo'](https://open.spotify.com/track/6qWPO0XWfwbxfk21yi6jBo) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [23](https://open.spotify.com/album/2XcAyv3XkSsI9iNqRUfshI) | 3:58 |
 | 8 | [Here For It All](https://open.spotify.com/track/6e6r6zA2q4LjUJz8s4MKkS) | [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Here For It All](https://open.spotify.com/album/2S8zPeU2nu6JwpY2My2OYT) | 3:14 |
 | 9 | [Dear Old Stockholm \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/1d0NjHhCDKCKZIbws021xD) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 7:48 |
 | 10 | [Misty Dawn](https://open.spotify.com/track/1jBD5HKZtB8iXUrXzEmjAT) | [B0nds](https://open.spotify.com/artist/7ocYXGSTBnpzj74JufFDWB) | [Phantom Versions](https://open.spotify.com/album/5jluEyoiWf0Z6pALjNSx6m) | 2:22 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 | 17 | [First Responders](https://open.spotify.com/track/1ux778Ljln0QEitz2fB4PH) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 4:49 |
 | 18 | [W.O.W.](https://open.spotify.com/track/4pWCOoHPXIApCUoQUlPutI) | [San Juno](https://open.spotify.com/artist/6ySI72iUUVh0BvHG902xKP) | [W.O.W.](https://open.spotify.com/album/5vowc93bQCIz3mw8TDtojH) | 3:31 |
 | 19 | [Reposo](https://open.spotify.com/track/4rvDhlPppQfYkx5AJ3MON9) | [Menzel Mutzke](https://open.spotify.com/artist/5RpllGf1Yud5Czr5yHNQbJ) | [Spring](https://open.spotify.com/album/7xuXMXUWdtsSyNRg39CCmq) | 6:28 |
-| 20 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 |
+| 20 | [Pelota](https://open.spotify.com/track/6zfHMITd04oOvf9V01GtyD) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pelota](https://open.spotify.com/album/6geGd2knOKZtFquPpxizBm) | 2:47 |
 | 21 | [Ao Redor Do Samba](https://open.spotify.com/track/2QtksN2WxxvHj5pMaAo1Tn) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Azymuth JID004](https://open.spotify.com/album/1y3cGiP4R1MCuuLQGK2fvI) | 4:30 |
 | 22 | [I'm Alive](https://open.spotify.com/track/3nIgICd9QMd8B337TtDq14) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I'm Alive](https://open.spotify.com/album/1095r17w02EJWTmkYa4hgz) | 4:16 |
 | 23 | [Ensueño](https://open.spotify.com/track/5snXCd79NWiOvDokJJER0F) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9) | [Godtet](https://open.spotify.com/album/09VZWAXmXb3QmghmslhLBR) | 4:10 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 | 25 | [Monster](https://open.spotify.com/track/679HxTmmDmrbs8BIuZr26f) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller \(Expanded Edition\)](https://open.spotify.com/album/70eLZovtqw7sivCdvooBgk) | 4:00 |
 | 26 | [Bluesen](https://open.spotify.com/track/4q4emoW3IX2eHhY3sVkudj) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven](https://open.spotify.com/album/1a7WanJ8OXUHZsbIlJZLDb) | 2:57 |
 
-Snapshot ID: `MTYwNDA5NDg0MiwwMDAwMDAwMDcyZDk0OWVhOWJhYjRkYWIyZGE1MGY3MjQ0N2QyMGQ4`
+Snapshot ID: `MTYwNDA5NDg0MiwwMDAwMDAwMGYwODgxMDNhNGViY2M3YTg1ZDQ3NmE3ZjNjYjRiOTI1`

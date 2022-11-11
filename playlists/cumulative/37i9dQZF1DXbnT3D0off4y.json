@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Winning London (Music From the Mary-Kate & Ashely Olsen Movie)",
+        "url": "https://open.spotify.com/album/0yHbKnfhOEUT0FoDJQGtzy"
+      },
+      "artists": [
+        {
+          "name": "Plastic Bertrand",
+          "url": "https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178533,
+      "name": "CA Plane Pour Moi",
+      "url": "https://open.spotify.com/track/1z9FAvswI7gpzjUL0JAKJY"
+    },
+    {
+      "album": {
         "name": "Plastic Bertrand",
         "url": "https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 182133,
       "name": "Ca Plane Pour Moi",
       "url": "https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g"

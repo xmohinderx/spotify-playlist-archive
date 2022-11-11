@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ジョジョの歴代関連楽曲が一堂に会した公式プレイリスト！©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,049 likes - 44 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,056 likes - 44 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ファイルーズあい コメント](https://open.spotify.com/track/30bWgKYHsGECq5JbUqSAxQ) | [ファイルーズあい ボイスコメント](https://open.spotify.com/artist/4dlKSVK8ZQL819SWwpEwNt) | [ファイルーズあい ボイスコメント](https://open.spotify.com/album/3ZY4GpMESrino04Mxg3NIQ) | 0:17 |
 | 2 | [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 |
-| 3 | [Distant Dreamer](https://open.spotify.com/track/1uqXrzulcVflfeZDHbyjIs) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 5:05 |
+| 3 | [Distant Dreamer](https://open.spotify.com/track/4VMajpAU5WVMiteA8HclBK) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/2OuWoPMcycxPMJVYc7o76n) | 5:05 |
 | 4 | [Uragirimonono Requiem \- Diavolo Ver.](https://open.spotify.com/track/4CoTazwZS0VXFHgqgmVT85) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.3 Finare](https://open.spotify.com/album/3MYc7n3EUljB6Qq2pwzECI) | 3:44 |
 | 5 | [Modern Crusaders](https://open.spotify.com/track/65fqcmj2M1EiERwDoIflDt) | [Enigma](https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt) | [The Screen Behind The Mirror](https://open.spotify.com/album/7DYEllaK5Cxa2cbcCF1QDV) | 3:50 |
 | 6 | [incursione](https://open.spotify.com/track/0AEG8qKaw6Kj7tHZTuI4Oh) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.2 Intermezzo](https://open.spotify.com/album/4cLP1UgLCeyEenAts75zt3) | 2:25 |
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 | 14 | [Freek'n You](https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 6:19 |
 | 15 | [Diamond is unbreakable \- Main Theme](https://open.spotify.com/track/6GqMQUzxuTG88y5WZ0HYLr) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Diamond is unbreakable O.S.T Vol.1 \-Good Morning Morioh Cho\- Music by Yugo Kanno](https://open.spotify.com/album/047NzKZzhHtLaaedoKi0Cy) | 4:07 |
 | 16 | [STAND PROUD](https://open.spotify.com/track/3OqPSJsqe4LvcaVl7G6vV3) | [Jin Hashimoto](https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0) | [STAND PROUD](https://open.spotify.com/album/4p5qdQrjYGuVwakXJ1hB4k) | 4:38 |
-| 17 | [Walk Like an Egyptian](https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:23 |
+| 17 | [Walk Like an Egyptian](https://open.spotify.com/track/6WvRGRyr64qWaKKIy65IoH) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Divas, Divas, Divas \(50 Songs\)](https://open.spotify.com/album/0epy1rU60GUBXNtT0QjfJh) | 3:23 |
 | 18 | [Stardust Crusaders](https://open.spotify.com/track/1xsExFad0m5ikHaejXZrcA) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \[Departure\]](https://open.spotify.com/album/0eF8omWNFE3HQEcKoZZhDC) | 5:07 |
 | 19 | [JoJo Sonochino Kioku\~end of THE WORLD\~](https://open.spotify.com/track/6x5R5nYhMCwfIJILBi25Ss) | [JO☆STARS 〜TOMMY,Coda,JIN〜](https://open.spotify.com/artist/6l9Y8mTIIt63S8okk7haDk) | [JoJo Sonochino Kioku\~end of THE WORLD\~](https://open.spotify.com/album/2w1cFFSElKsA6VVqxbh6aO) | 4:23 |
-| 20 | [Akuyaku Kyousoukyoku \- Hol Horse&Boingo \- TV edit](https://open.spotify.com/track/5XuNJS2K8eJn4hCK7O5LU4) | [ホルホース](https://open.spotify.com/artist/09FLbWkSkeiHzBQT9dtnMl), [ボインゴ](https://open.spotify.com/artist/1rHmhZwZq6GhjgQGLNrwWH) | [Akuyaku Kyousoukyoku \- Hol Horse&Boingo \(TV edit\)](https://open.spotify.com/album/5jDMmuimKXAUqOfuanQL3z) | 1:36 |
+| 20 | [Akuyaku Kyousoukyoku \- Hol Horse&Boingo \- TV edit](https://open.spotify.com/track/4DcppU8fRbxpisunykVatV) | [ホルホース](https://open.spotify.com/artist/09FLbWkSkeiHzBQT9dtnMl), [ボインゴ](https://open.spotify.com/artist/1rHmhZwZq6GhjgQGLNrwWH) | [Akuyaku Kyousoukyoku \- Hol Horse&Boingo \(TV edit\)](https://open.spotify.com/album/4usndDNRXIiDMkqwhg3uy3) | 1:36 |
 | 21 | [Kouketsunaru Kyoukou](https://open.spotify.com/track/0nA51z4UszHDnVihedcPFQ) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \[Departure\]](https://open.spotify.com/album/0eF8omWNFE3HQEcKoZZhDC) | 2:54 |
 | 22 | [Last Train Home](https://open.spotify.com/track/2O7heTmxheKOe1T0jNBPd1) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Still Life \(Talking\)](https://open.spotify.com/album/5YnUbwAzrorRuvSJ0sCj7n) | 5:38 |
 | 23 | [CRAZY NOISY BIZARRE TOWN](https://open.spotify.com/track/2TsyTag2aNa4wmUNmExzcI) | [THE DU](https://open.spotify.com/artist/6eZor9TE76Mu0P1wVEQQyL) | [CRAZY NOISY BIZARRE TOWN](https://open.spotify.com/album/3IRbWMKkKfhnTETLLsAMxp) | 3:06 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 | 43 | [Koukatsuna Nezumi](https://open.spotify.com/track/7GOcaGMgjXCQtJf8TMAu75) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \~Nightwalk\~](https://open.spotify.com/album/6lzPBA2THFUoWnboi85aQC) | 3:15 |
 | 44 | [Canzoni preferite](https://open.spotify.com/track/5aanhLobXHQ8ODj2LBJ077) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 2:24 |
 
-Snapshot ID: `MTY0MDk2NjIxNSwwMDAwMDAwMDA3MDJjZTFhN2QxYzU5MTczNWFiYTgyNTg3M2MyOWE1`
+Snapshot ID: `MTY0MDk2NjIxNSwwMDAwMDAwMGU5YzIyNGI1NGRmNmZkNWZkNzI5N2JiMjI5N2NkOTkw`

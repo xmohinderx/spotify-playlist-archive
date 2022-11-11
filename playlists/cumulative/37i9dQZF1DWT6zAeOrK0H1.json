@@ -752,6 +752,24 @@
     },
     {
       "album": {
+        "name": "After The Earthquake",
+        "url": "https://open.spotify.com/album/35q8v4dx6e7Iy57Xl2hcSz"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "Easy On Your Own?",
+      "url": "https://open.spotify.com/track/4k4cIhNLdeEVRNwwRL56rF"
+    },
+    {
+      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq"
       },
@@ -763,7 +781,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174627,
       "name": "Easy On Your Own?",
       "url": "https://open.spotify.com/track/2Bh6gPXFkzkqIHLmXyLvle"
@@ -950,6 +968,24 @@
     },
     {
       "album": {
+        "name": "Good Bad Times",
+        "url": "https://open.spotify.com/album/1gMfclOm7dF5otF3Jw5j5s"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Good Bad Times",
+      "url": "https://open.spotify.com/track/1WOm9cjWd1m9MxY5c6YtO8"
+    },
+    {
+      "album": {
         "name": "The Prettiest Curse",
         "url": "https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx"
       },
@@ -961,7 +997,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 198546,
       "name": "Good Bad Times",
       "url": "https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3"
@@ -1260,6 +1296,24 @@
     },
     {
       "album": {
+        "name": "Ready For The High",
+        "url": "https://open.spotify.com/album/6ArkLLoHB2pJwgblP2zvNL"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169213,
+      "name": "If You Ever Leave, I'm Coming with You",
+      "url": "https://open.spotify.com/track/0nKpc6sQltAgsbjotGDSix"
+    },
+    {
+      "album": {
         "name": "Fix Yourself, Not the World",
         "url": "https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1"
       },
@@ -1289,7 +1343,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 169213,
       "name": "If You Ever Leave, I'm Coming with You",
       "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
@@ -2046,6 +2100,24 @@
     },
     {
       "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/1RUlLyZ3fdYI186qFxKdD5"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259858,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/5hkKrz9fRlk5suRAxoV0Co"
+    },
+    {
+      "album": {
         "name": "THE GLOW",
         "url": "https://open.spotify.com/album/1VFTCr2Ht1zGISKB9D4oyC"
       },
@@ -2057,7 +2129,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 259858,
       "name": "Silver",
       "url": "https://open.spotify.com/track/7EOIAHpC5Y4xPbxb16AUQS"
@@ -2407,10 +2479,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 196643,
       "name": "The Walk Home",
       "url": "https://open.spotify.com/track/1f3BDEecxOnr0mdWKR38OB"
+    },
+    {
+      "album": {
+        "name": "ACT II: EXILE",
+        "url": "https://open.spotify.com/album/03lZO49V6jb5MiA0joXo4K"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196643,
+      "name": "The Walk Home",
+      "url": "https://open.spotify.com/track/3qXnXLBFb0WOXWqC8VhfS8"
     },
     {
       "album": {
@@ -3066,6 +3156,24 @@
     },
     {
       "album": {
+        "name": "Wrecked",
+        "url": "https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244004,
+      "name": "Wrecked",
+      "url": "https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl"
+    },
+    {
+      "album": {
         "name": "Mercury - Acts 1 & 2",
         "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
@@ -3077,7 +3185,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 244004,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/6TEftSkmWdTm1EpThnwqh6"

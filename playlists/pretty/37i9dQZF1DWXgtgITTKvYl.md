@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,296 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,327 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 9 | [Zeus in Chains](https://open.spotify.com/track/0uWkdIaPDYuoKE6he7f6J0) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Zeus In Chains](https://open.spotify.com/album/0g71E3gzdQsWuO7wT3Z2dt) | 4:38 |
 | 10 | [Fantastic Corps](https://open.spotify.com/track/7oYcf6HhEAIkUT0sqITjo7) | [Kaleidobolt](https://open.spotify.com/artist/5UbTeitV10l7GIxsXglE9r) | [This One Simple Trick](https://open.spotify.com/album/2nHH8FJgi3ZiBWCgPHCAzK) | 5:25 |
 | 11 | [Alpha Howl](https://open.spotify.com/track/1IAOYhIuzz1O9dJqd2AtFu) | [Moon Tooth](https://open.spotify.com/artist/7ssGZO3qDsbwCaBOBcQ4aA) | [Alpha Howl](https://open.spotify.com/album/6PSB8BuGrQjgkNYy6ipToU) | 3:54 |
-| 12 | [Immunity](https://open.spotify.com/track/5RJGQbnDxqIf5FINlfK1Vq) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [How Do We Want to Live?](https://open.spotify.com/album/248Nx17GVrcWKjDH8JKqGm) | 5:40 |
+| 12 | [Immunity](https://open.spotify.com/track/4vfOgcDgNfKJZZlDyQObPQ) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [Immunity](https://open.spotify.com/album/12uUup39GCE3ZFTUvbp3ob) | 5:40 |
 | 13 | [Eyes](https://open.spotify.com/track/4aiHWfoe3Z3dwIvR7uNAGo) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Radiant Bloom](https://open.spotify.com/album/5ByR2W7N4vZlpsdkZOahIS) | 4:52 |
 | 14 | [Portrait](https://open.spotify.com/track/61OLiZOlb72LJCfl5zVMcG) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Portrait](https://open.spotify.com/album/28dDtNxyObSHx2v0fP3SnO) | 4:03 |
 | 15 | [Deep Waters](https://open.spotify.com/track/4NY0pyyRKObg9S58koRXDz) | [Port Noir](https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR) | [Deep Waters](https://open.spotify.com/album/1rleWJZprZvmlqv1fH8KLZ) | 3:29 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 17 | [Amnesty/Silver](https://open.spotify.com/track/4OsvkGo2tfuPywkdz3W3xK) | [Resilia](https://open.spotify.com/artist/5F5nhe5hMhJSGsULmNPeFW) | [Amnesty/Silver](https://open.spotify.com/album/3fZHaaKXm0PeQg3VhQyWWY) | 5:22 |
 | 18 | [Worlds Beyond \- English version](https://open.spotify.com/track/5MIpqy1hikpfckODOn1E9y) | [Premiata Forneria Marconi](https://open.spotify.com/artist/1MD5pgVzlusqGyuSTcTxvu) | [Worlds Beyond \(English version\)](https://open.spotify.com/album/4zdr9AN102ytgCRNv9umnb) | 3:17 |
 | 19 | [Machines and Men](https://open.spotify.com/track/1lr87YIenNN9zdmQDACsUj) | [Airbag](https://open.spotify.com/artist/0gTqi1zdqD9s6islG2wLKC) | [Machines and Men](https://open.spotify.com/album/55CrAJlqsxryfW0wiscp4v) | 9:54 |
-| 20 | [The Siren](https://open.spotify.com/track/7iZ3bfgcXOfdteVX4q97ro) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [Everything To Everyone](https://open.spotify.com/album/1UL57EhWAkVMPrXXKQupu4) | 7:19 |
+| 20 | [The Siren](https://open.spotify.com/track/7johOBc0316B5vEvbGidf1) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [The Siren](https://open.spotify.com/album/1ORb5QUdzt3oeaaJ9fBTVo) | 7:19 |
 | 21 | [The Dream](https://open.spotify.com/track/6LIIqVZuBG7FjZiQfLJTfz) | [Knight Area](https://open.spotify.com/artist/0fMZgh9eXEgjBq5X9f87NK) | [The Dream](https://open.spotify.com/album/0Vx9BHrCUB2GALTeytL6rN) | 5:00 |
 | 22 | [Blood Moon Night](https://open.spotify.com/track/4Z4RfWMnxsBG7Fs5KvEVGY) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z), [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [ELDOVAR \- A Story of Darkness & Light](https://open.spotify.com/album/2SN8LGMcmauPEAr4BLiT6e) | 11:04 |
 | 23 | [The Great Pretender](https://open.spotify.com/track/1M0efSydvXC2nvnuom88OB) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [The Great Pretender](https://open.spotify.com/album/3oz2p8bwC9E5A4bvmExyAQ) | 6:58 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 37 | [The Cynic](https://open.spotify.com/track/15Nl9URaaW0A3nQdzXZjxS) | [Franklin Zoo](https://open.spotify.com/artist/78uVsW6GyF4JylRifvQtI3) | [The Dandelion Child](https://open.spotify.com/album/3KboReNemDz3MBYjWrgIWK) | 5:53 |
 | 38 | [Harridan](https://open.spotify.com/track/1mnAE4tnyYZaUGTiazDdmR) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [CLOSURE / CONTINUATION](https://open.spotify.com/album/7meXKEI99ccqzh9AtmeeAR) | 8:07 |
 | 39 | [Zest](https://open.spotify.com/track/5KEPWv8U694JUye8sUSWWQ) | [Pelagos](https://open.spotify.com/artist/5791YwmwIl6tp7JMVKHVcn) | [Zest](https://open.spotify.com/album/6potYVC57bz0ScpEf2PeBd) | 4:49 |
-| 40 | [Fountainhead](https://open.spotify.com/track/6keB6agTeQshuQUVQYeLgL) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Escapades](https://open.spotify.com/album/3Q5EIihNcRQbuEFA2vGDGo) | 3:41 |
+| 40 | [Fountainhead](https://open.spotify.com/track/51n85McBXIxLCKCUWvakYc) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Escapades \(Deluxe Edition\)](https://open.spotify.com/album/6IIGmXZ78EtQTakhXh66k0) | 3:41 |
 | 41 | [Somber Aeons](https://open.spotify.com/track/68DepBpNgIzJuCztNn1rGT) | [Craneium](https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK) | [Unknown Heights](https://open.spotify.com/album/5S4nQWwcdVnWQwjjLUBbzX) | 6:12 |
 | 42 | [If You Deserve It, You Deserve It](https://open.spotify.com/track/4yshCbCvJUSPREjR1iAuni) | [The Seafloor Cinema](https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru) | [If You Deserve It, You Deserve It](https://open.spotify.com/album/4TTGDY1fmeNNzDtzDcETzJ) | 3:18 |
 | 43 | [Act Like an Animal](https://open.spotify.com/track/21GyRkGNA6mLudwWvBJWca) | [6:33](https://open.spotify.com/artist/0oBPg2seHzVcAIOpdi1Ojj) | [Act Like an Animal](https://open.spotify.com/album/4qeXRafVd22N0LDAgG4AIa) | 3:51 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 49 | [Shiram](https://open.spotify.com/track/0uGaVwnmp6LyyzVqiwIonY) | [The Brandy Alexanders](https://open.spotify.com/artist/3oavfsOsh6xtZwNAg15zp0) | [Shiram](https://open.spotify.com/album/1eAKIlk3VDOEUF59MkQQz1) | 2:45 |
 | 50 | [Castaway Angels](https://open.spotify.com/track/3Gy5q1K4nTwDVVtyQWYv3t) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Castaway Angels](https://open.spotify.com/album/0DSyIQMgYhiwjeh7PW2IRB) | 4:55 |
 | 51 | [New Obsession](https://open.spotify.com/track/2m5ITPG4RR9A6fdxGw9sau) | [Pure Reason Revolution](https://open.spotify.com/artist/0DauHVRiE8SpGWxW0YINj3) | [Eupnea](https://open.spotify.com/album/4ZLPuhDGLqmycq9zSc8XKv) | 5:07 |
-| 52 | [KING GHOST](https://open.spotify.com/track/1sNEW5TWdN1Et70SwaTi7o) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [THE FUTURE BITES](https://open.spotify.com/album/76hVw7WdMkDylaMlW0X8Ol) | 4:06 |
+| 52 | [KING GHOST](https://open.spotify.com/track/42c46DbtEW7AKJijbfhZmd) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [THE FUTURE BITES \(Deluxe Edition\)](https://open.spotify.com/album/0tHQTsZepeMpMqgtBdaFRx) | 4:06 |
 | 53 | [The Way Out](https://open.spotify.com/track/1sgINNcxXjmv51Urc8Fgm3) | [Vinicius Cavalieri](https://open.spotify.com/artist/2GFH65OfEiNfR6TgZ8b3eL), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [The Way Out](https://open.spotify.com/album/3LG6v76h4WjsbtvgOVjb1g) | 3:53 |
 | 54 | [Punchin'](https://open.spotify.com/track/1VhH0ZimszA3aPx0JiBAvb) | [The Beefs](https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX) | [Punchin'](https://open.spotify.com/album/1Mcvljl7BijHztqsa9xFHL) | 3:04 |
 | 55 | [Seed II](https://open.spotify.com/track/5lAmFZVvhNIPNXZepRV6jj) | [Coridian](https://open.spotify.com/artist/0lR9RQShdwXD9IW4V7veyR) | [Eldur](https://open.spotify.com/album/5dHZIxKULdDDF2QfXGADVN) | 3:20 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 64 | [Demons](https://open.spotify.com/track/5s51DrOIrHf7k8EtoqNUgN) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Demons](https://open.spotify.com/album/7bF7jvKnOsia2OcdNensBe) | 4:33 |
 | 65 | [Break It All](https://open.spotify.com/track/1SdxRh3a4qUs3HJcJvsHjr) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Break It All](https://open.spotify.com/album/4LpRz5IwhznG4gHWeLHcTU) | 4:21 |
 | 66 | [The Grey](https://open.spotify.com/track/2WLsXSExqgXLgh2ZKDahu9) | [Somehow Jo](https://open.spotify.com/artist/0czBYiBCOXAxu8x0kddWM2) | [The Grey](https://open.spotify.com/album/6CsWT8zcuEiZARblpuxZjW) | 3:55 |
-| 67 | [EMINENT SLEAZE](https://open.spotify.com/track/0eAdGn6Eltul066nbNPpua) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [THE FUTURE BITES](https://open.spotify.com/album/76hVw7WdMkDylaMlW0X8Ol) | 3:52 |
+| 67 | [EMINENT SLEAZE](https://open.spotify.com/track/4S9n0DUrSZWzBL3fooRlDD) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [THE FUTURE BITES \(Deluxe Edition\)](https://open.spotify.com/album/0tHQTsZepeMpMqgtBdaFRx) | 3:52 |
 | 68 | [The Heart's Whisper](https://open.spotify.com/track/2zoufCsixCSZ7G9uA0V03Y) | [Our Oceans](https://open.spotify.com/artist/4AEpHs6Dphr48rEfYytk07) | [While Time Disappears](https://open.spotify.com/album/0n3CI3qSwoRyKcKM2ADRwu) | 5:29 |
 | 69 | [In Procession](https://open.spotify.com/track/2VH9QXiavVZgnM9G1U8mvi) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Omens](https://open.spotify.com/album/5bsWvIa3jrWZtWtcn58UBl) | 9:21 |
 | 70 | [Becoming Human](https://open.spotify.com/track/1l4dlmvEmLKgEgpezRrgxH) | [Simon Collins](https://open.spotify.com/artist/7GXoTDCcMmarUIZtrdrTa9) | [Becoming Human](https://open.spotify.com/album/0oLJEU3ZuMqdzp09VdPdoP) | 4:17 |
 | 71 | [This Party's Over](https://open.spotify.com/track/0dDx5YWvL6WmlIOgdA3akc) | [Fish](https://open.spotify.com/artist/6bQfVk5fSJSp3JtGiQZGNI) | [This Party's Over](https://open.spotify.com/album/2xOcgXYuOsJvOIqHACNKtr) | 4:23 |
 | 72 | [Roulette Dares \(The Haunt Of\) \- Unfinished Original Recordings Of De\-Loused In The Comatorium](https://open.spotify.com/track/72n2oDjYMs6kK9jKIIkY5k) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Landscape Tantrums \(Unfinished Original Recordings Of De\-Loused In The Comatorium\)](https://open.spotify.com/album/3X3xy01oWmdpRSJIttm4NT) | 6:37 |
-| 73 | [Right Way Back](https://open.spotify.com/track/3ErQbRuLdafRrhIf8Ceefa) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Discover Crown Lands](https://open.spotify.com/album/2H8QnNAriPg1S0X5R45Itq) | 3:51 |
+| 73 | [Right Way Back](https://open.spotify.com/track/6zbBYMUZHrURYziUfFVgJw) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Love Me & Love Me](https://open.spotify.com/album/7ELqN2yBpbH9ToLbmFVeXA) | 3:51 |
 | 74 | [Unheavenly Creatures](https://open.spotify.com/track/3cExGgQKsI12aa7Fs3FoId) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Unheavenly Creatures](https://open.spotify.com/album/42S0lDJT9wHKCVaMGgqKdm) | 4:13 |
 | 75 | [Inertiatic Esp](https://open.spotify.com/track/16Elz7HJPLZPMylp13ewxv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 4:23 |
 
-Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMDBlZDU5MzlmNzJiZTJhODdmMWM0YWU4ZTVmODI4YTll`
+Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMDE1OWE4ZGM5NWYzNTM1MGFiZjdhZDM3Zjc2MThmMzcy`

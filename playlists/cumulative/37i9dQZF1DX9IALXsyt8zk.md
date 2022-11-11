@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. Cover: SOLE
 
-165 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/2RyxxuUmqg32Cf5UBcyy5A)
+166 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/2RyxxuUmqg32Cf5UBcyy5A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [DON'T](https://open.spotify.com/track/49nzDNR4naSzzFWSxXwYYm) | [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [DON'T](https://open.spotify.com/album/4y7KxLhbH8ca9OOrYoKWZm) | 3:49 | 2021-12-30 | 2022-04-21 |
 | [DOOMCHITA](https://open.spotify.com/track/3gLmJaolKWQGRT5xaS09JN) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [DOOMCHITA](https://open.spotify.com/album/10OdrpNsZ8FGFpWqsz7ujT) | 3:17 | 2022-06-17 |  |
 | [Drama Queen](https://open.spotify.com/track/7gOdGIIztvjxQ7FASL9YF1) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [SILLY : Episode 1](https://open.spotify.com/album/5cJxAnf24jagfHHlrwrdnz) | 3:12 | 2022-10-14 |  |
+| [Draw](https://open.spotify.com/track/7uiuIv8nMYoC4KTd0HoYTG) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [MY TIME](https://open.spotify.com/album/0aSAAIkIJc5lHWeyuypzuE) | 3:17 | 2022-11-10 |  |
 | [Drummin′](https://open.spotify.com/track/078ikJBghCOeTJnz8vmr19) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [WHY NOT??](https://open.spotify.com/album/7AjJ4yD5ljG68XPQvEpN4G) | 3:20 | 2022-07-28 |  |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-30 | 2022-04-08 |
 | [every day good day \(Feat\. BIG Naughty\)](https://open.spotify.com/track/7vefqP96ftCQg7qB6Ha0NJ) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 2:47 | 2022-09-23 |  |
@@ -79,7 +80,7 @@
 | [I Like That](https://open.spotify.com/track/7yAYYeeXf7ip8bK4GYDo2F) | [YuA](https://open.spotify.com/artist/3maet9vdK6Hbp6ZczQtkS6) | [I Like That](https://open.spotify.com/album/1urAHAMdbuZukBXnUG04Se) | 3:23 | 2022-04-18 | 2022-07-05 |
 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-12-30 | 2022-04-21 |
 | [January Embers](https://open.spotify.com/track/6PbP8bAjafVtCy6vDNvrb3) | [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [January Embers](https://open.spotify.com/album/4V9ujG9CA4bccL084ULatG) | 3:33 | 2022-04-20 | 2022-09-06 |
-| [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 | 2022-05-11 |  |
+| [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 | 2022-05-11 | 2022-11-11 |
 | [Late night \(Feat\. Hoody\)](https://open.spotify.com/track/6KiQ48d7ytSeickIGaMPZs) | [PARKHYUNJIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [\_\_\_\_FECT](https://open.spotify.com/album/2hngO3wnEbNBhUBIMxX1lY) | 3:11 | 2022-04-20 | 2022-11-04 |
 | [Lemonade](https://open.spotify.com/track/7J2DJVB6R6c13oywavsmMG) | [Lee Eun Sang](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ) | [Beautiful Sunshine](https://open.spotify.com/album/2CkaMF14e5e1g02pqXkdts) | 3:13 | 2021-12-30 | 2022-04-21 |
 | [Lens \(Feat\. jerd\)](https://open.spotify.com/track/1Av0TO3xaOCXeFLeZvkReq) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA) | [Lens \(Feat\. jerd\)](https://open.spotify.com/album/3ZLCBrW3iLGpdjVOljim5z) | 3:09 | 2022-02-22 | 2022-04-21 |

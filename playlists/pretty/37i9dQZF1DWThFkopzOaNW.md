@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThFkopzOaNW.md) - [plain]
 
 > Celebrate the career of one of the most influential <a href="spotify:artist:1mFX1QlezK1lNPKQJkhwWb">R&B groups</a> of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,583 likes - 46 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,627 likes - 46 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This Is: New Edition](https://open.spotify.com/track/3l3P1AkiC0I9h6032CFE7b) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [This Is: New Edition](https://open.spotify.com/album/2OrMiTfjAt99XeEELEY55a) | 0:16 |
-| 2 | [Mr\. Telephone Man](https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [New Edition](https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc) | 3:59 |
+| 2 | [Mr\. Telephone Man](https://open.spotify.com/track/6vr7QMcdiXb5hisSO2thtB) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Gold](https://open.spotify.com/album/5Dtti56ugdR1CogO5f3Brv) | 3:58 |
 | 3 | [Candy Girl](https://open.spotify.com/track/72OrfuJ9RxfLCoqAMeKHCZ) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Candy Girl](https://open.spotify.com/album/62OvMX7ymbmxO6TKiXDE4v) | 3:55 |
 | 4 | [Count Me Out](https://open.spotify.com/track/0XpJaafBTohHGhhdrp83rJ) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [All For Love](https://open.spotify.com/album/3YCJbBunpZPQOJHrwSdNQ2) | 5:40 |
 | 5 | [Popcorn Love](https://open.spotify.com/track/6IhyDE3JEBalQFcgod5WlZ) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Candy Girl](https://open.spotify.com/album/62OvMX7ymbmxO6TKiXDE4v) | 4:56 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThFkopzOaNW.md) - [plain]
 | 45 | [My, My, My](https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Johnny Gill](https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC) | 5:21 |
 | 46 | [There U Go](https://open.spotify.com/track/2ktjSreVH3T7598zGwBC56) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Favorites](https://open.spotify.com/album/5tUxUjoNFAocBJMJjYc7EO) | 5:15 |
 
-Snapshot ID: `MTUzNjA3NzU2NSwwMDAwMDAwMDk3ODU1MWQ1N2UxOTQ5YzZiOTI5YTg2Y2MwOWI0MWY4`
+Snapshot ID: `MTUzNjA3NzU2NSwwMDAwMDAwMGMyODU5NzI2ODIyNWVlY2ZiMmY3ZWEyMDQ4MWM0NmU2`

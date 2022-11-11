@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,100 likes - 71 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,128 likes - 71 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 14 | [Change Is Coming \- Acoustic Live](https://open.spotify.com/track/1ZTSU2rupKuLXTDLVwWvXQ) | [Winter Woods](https://open.spotify.com/artist/2vtKH5PTmi8s2ABdlgxuVG) | [Change Is Coming \(Acoustic Live\)](https://open.spotify.com/album/1YiePx83xEpTcX7Jodu7Ty) | 5:30 |
 | 15 | [The Things I Regret](https://open.spotify.com/track/2zbVdL6Htw7heJDjbBBEcs) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:26 |
 | 16 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
-| 17 | [Stubborn Love](https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:39 |
+| 17 | [Stubborn Love](https://open.spotify.com/track/5BURnVGzoLmM6fFImT8Yha) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Happy Valentine's Day](https://open.spotify.com/album/0U9X841v85s0yYWk0pEf3l) | 4:39 |
 | 18 | [Brother](https://open.spotify.com/track/1tErORKj41UML6EhV2g63R) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [The Wild](https://open.spotify.com/album/0yuaRX2zpvhm3lq6cppVRI) | 3:28 |
 | 19 | [First Time](https://open.spotify.com/track/6OFKVE2HZdK3n2tbTDMhn3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:44 |
 | 20 | [Why Don't We Start from Here](https://open.spotify.com/track/6dHsDYVp8xo6HLlIVbiBZ2) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N), [The Dunwells](https://open.spotify.com/artist/7D0V1JYNXvhpxHDoP3zu0x) | [Why Don't We Start from Here](https://open.spotify.com/album/1JE0U3utK9qzO5jYghHJRb) | 3:32 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 22 | [The Cave](https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:37 |
 | 23 | [Nothing Stays the Same](https://open.spotify.com/track/2xv9YbPXYQFxIJOFQZ93kJ) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Tornados EP](https://open.spotify.com/album/1sEIDqRXKhMYnTmxtet0E5) | 4:01 |
 | 24 | [All in Time](https://open.spotify.com/track/4BU1eTcGNzrg48Vcd8ab7T) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [We Are Now](https://open.spotify.com/album/4hLgVpR9ZyQHcZOHdq4Hlw) | 2:56 |
-| 25 | [The Wolves](https://open.spotify.com/track/2zKoA5gp5Xaw3mrp45XIrR) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:09 |
+| 25 | [The Wolves](https://open.spotify.com/track/3ScwBuuIwkHvskXeJ263M7) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom \(Deluxe Version\)](https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle) | 5:09 |
 | 26 | [Stomp](https://open.spotify.com/track/2GqgXmOkCYkmnNo4EEz4DU) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 1:50 |
-| 27 | [Cleopatra](https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:21 |
+| 27 | [Cleopatra](https://open.spotify.com/track/3MvtzgklFDhOAC3lQJR09S) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra \(Deluxe\)](https://open.spotify.com/album/5fY8mYgYGkyaJ9XvVOzVQA) | 3:21 |
 | 28 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
 | 29 | [Little Talks](https://open.spotify.com/track/3a2tuvXCHbW5nuUckuHkKT) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 4:26 |
 | 30 | [Caroline](https://open.spotify.com/track/7IuUsxQWHfXGkRDdAT0MLW) | [Animal Years](https://open.spotify.com/artist/2TvIyBTuMGzgGuVLWKWJT1) | [Caroline](https://open.spotify.com/album/6dokqbkGAaQuLxmpfb9g6a) | 3:31 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 43 | [Monsters Calling Home](https://open.spotify.com/track/0on33Ln2E1JXTDfjQlb480) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Run River North](https://open.spotify.com/album/7g3geMNOgXDMeqwBM9zU1n) | 4:10 |
 | 44 | [Under Mountain, Under Ground](https://open.spotify.com/track/5XvS3t5O7c9X8cSoIIp3At) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [The Lighthouse and the Whaler](https://open.spotify.com/album/3MTvSiHcDdqtnip99giaMS) | 4:20 |
 | 45 | [See the Light](https://open.spotify.com/track/4cO4CNCjd5L2utbgmOHvqI) | [Matrimony](https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q) | [See the Light](https://open.spotify.com/album/2BNzc7eo3Q6l6fg9FfXxZZ) | 3:35 |
-| 46 | [Diversity](https://open.spotify.com/track/7IRd3PBKmY3GWxhNNBstql) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:40 |
+| 46 | [Diversity](https://open.spotify.com/track/088pDl3HHbtuTz4NyLwZSG) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Diversity](https://open.spotify.com/album/5zQbFTcpUIslSG6DPHZWBL) | 3:40 |
 | 47 | [Dirty Paws](https://open.spotify.com/track/1hxq7kWQnwdhxgpEugBMGk) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 4:38 |
 | 48 | [Cypress Queen](https://open.spotify.com/track/4E3OQc3NdPIoIlir4aDFbe) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:27 |
 | 49 | [Soundwaves of Gold](https://open.spotify.com/track/2YVGvtfEQall8Grv3CTfgq) | [The Daydream Club](https://open.spotify.com/artist/3U6eCXHFS6wQVuFuqeW09m) | [Found](https://open.spotify.com/album/62sVv3rDFAI0RSpIogB0tU) | 2:56 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 52 | [TV](https://open.spotify.com/track/6xjlNkhv6itr2G0MGJWNj5) | [Whitley](https://open.spotify.com/artist/17C909ZAaDFHCNLhsqsb25) | [Even The Stars Are A Mess](https://open.spotify.com/album/28i0yF7HOyd9XQMccjymLk) | 3:18 |
 | 53 | [The Paper Trench](https://open.spotify.com/track/2xGdzUISpCZSjQ1eproW4Z) | [Admiral Fallow](https://open.spotify.com/artist/2cxi12PeZmsDkSlJi1slRp) | [Tree Bursts In Snow \(Bonus Track Version\)](https://open.spotify.com/album/7mMG7SlopZEy8XGajq4Ins) | 3:31 |
 | 54 | [Trouble with Home](https://open.spotify.com/track/3cRT4Q78S5AnlzqA9YO3nj) | [Friendly Savages](https://open.spotify.com/artist/3Ig26ddcKT3uUPpvLjzMAw) | [O, Joshua!](https://open.spotify.com/album/4tjNIbJuVc8GxqBXAqGZAD) | 3:19 |
-| 55 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 |
+| 55 | [Your Rocky Spine](https://open.spotify.com/track/6SziLJnbdN2FFN5QCWN8Tw) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Side Effects](https://open.spotify.com/album/0AElhItSa06f0ay8ElkvxU) | 3:36 |
 | 56 | [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 |
-| 57 | [She Lit a Fire](https://open.spotify.com/track/0zCckv4tx3KzJ5GGTRbbLf) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:30 |
+| 57 | [She Lit a Fire](https://open.spotify.com/track/7jvRS4mNvjbSwgdiWDG2ZD) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/69kRqmPTFu7xBqsrM47Ko4) | 4:30 |
 | 58 | [Lie with Me \- EP Version](https://open.spotify.com/track/34bGkKfN3W2z2EdA4PjLFH) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/3qddrnnY93q5krHvd3z5BY) | 3:09 |
 | 59 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 |
 | 60 | [Everything You Need](https://open.spotify.com/track/1X4okn3iYFuvrqziSqTXpW) | [The Lonely Wild](https://open.spotify.com/artist/7uG1pvcReIxuBhvpabjdom) | [The Sun as It Comes](https://open.spotify.com/album/6QhBP3TaVPhzhHbEUUV1nS) | 4:35 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 62 | [Six Weeks](https://open.spotify.com/track/060WwU9cva7KOpMhZAJjT6) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 5:34 |
 | 63 | [Sing to the Mountain](https://open.spotify.com/track/5kgMPM2m2sGGuVL4KpHwiO) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [Elephant Revival](https://open.spotify.com/album/1Qyc6kxZYssUHELLcImDnX) | 3:42 |
 | 64 | [Easy To Love](https://open.spotify.com/track/0El2kYoxWlzQKx0BkWSfJC) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [All The Times We Had](https://open.spotify.com/album/0jzTdtbn35qUvZhDJug39x) | 3:36 |
-| 65 | [In the Yard](https://open.spotify.com/track/3drh6PONEJ53pyffCWczy3) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [The Clearing](https://open.spotify.com/album/6BELKxlBUu6H3vUif48OLZ) | 4:07 |
+| 65 | [In the Yard](https://open.spotify.com/track/0IpupiXXFxix8Cm4ZaJLne) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [In the Yard b/w Always an Ear To Bend](https://open.spotify.com/album/3MfNBPqxvY5iscFLdaGrWr) | 4:07 |
 | 66 | [Tree by the River](https://open.spotify.com/track/1lhtOsCUtm0kND96OtDeNw) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Kiss Each Other Clean](https://open.spotify.com/album/4hQrMKUocaKJjrv2jxgI9l) | 3:56 |
 | 67 | [Gold Rush](https://open.spotify.com/track/41HBl0MY8sTTe4ZcpMsm5r) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH) | 3:33 |
 | 68 | [The Ceiling](https://open.spotify.com/track/2jpCeGbbVGYu7utG7O4h4J) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [The Wild Feathers \(Deluxe Version\)](https://open.spotify.com/album/2CJCzXS33sf7jcDNCNDRUv) | 6:18 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 70 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 71 | [Hopeless Wanderer](https://open.spotify.com/track/1FNGW0JOSp7Rbomh80XVYm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:07 |
 
-Snapshot ID: `MTY2MzczOTY0NiwwMDAwMDAwMGE0NDgxYjkwN2RiZWU2NmE2MmM4ZWFmNmE2YTA5Yzdi`
+Snapshot ID: `MTY2MzczOTY0NiwwMDAwMDAwMDgzNmUxZDYyYmRmMjNjZmVlNzM2NDQzNjkzNWM2ZmZh`

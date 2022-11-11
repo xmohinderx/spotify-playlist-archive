@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 
 > Let it simmer with some smooth R&amp;B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,645 likes - 25 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,651 likes - 25 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Feeling](https://open.spotify.com/track/19mZZ1RIVf7lB6DgDAEEVN) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [The Feeling](https://open.spotify.com/album/6fwKAVMsqcYKWjCVUrfFoh) | 3:37 |
 | 2 | [NRG \- Radio Edit](https://open.spotify.com/track/7HwPsSt2Pjs5sKIdBfCSkx) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [NRG](https://open.spotify.com/album/6ZutbrcxBGepaw53OpKJo8) | 3:15 |
 | 3 | [Do What You Like](https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy) | 3:20 |
-| 4 | [Uncle ACE](https://open.spotify.com/track/0Cn4UhpHhgf88eWaS9nn5u) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:16 |
+| 4 | [Uncle ACE](https://open.spotify.com/track/0OnImWGYM4tQUNktj6rOkJ) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Uncle ACE \(Remixes\)](https://open.spotify.com/album/69TdTeE1Ge0sQnJ0BNvtXv) | 4:16 |
 | 5 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
 | 6 | [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/1v0ufp7FLTFcykUGOmFZKa) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:58 |
 | 7 | [Uptight Downtown](https://open.spotify.com/track/0o1WzHAdTdI0jpgghsOm2h) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Trouble In Paradise](https://open.spotify.com/album/5RDoYTf4YYNQby1ECCwR2C) | 4:22 |
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 | 12 | [Harder, Better, Faster, Stronger \- The Neptunes Remix](https://open.spotify.com/track/5a8PsqWOuGh7FR1tC6UKUs) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 5:12 |
 | 13 | [She Came II Give It II U \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0kF6MdXhjQeYhZ2kogCIsx) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [She Came II Give It II U \(feat\. Nicki Minaj\)](https://open.spotify.com/album/3gUHo30KyBxq9lBS2hnGLW) | 4:02 |
 | 14 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 |
-| 15 | [Feelin \- Original Mix](https://open.spotify.com/track/6XLSATCZY8hLodpoQrfx27) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7) | [Foreign Language \(Remixes\)](https://open.spotify.com/album/13vTyQaEtmVgYKrFthfNnx) | 6:16 |
-| 16 | [Maniac](https://open.spotify.com/track/1zczShrEjQLIsXgty7XFFE) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Casablanca Reworks](https://open.spotify.com/album/754XEdGEvq4MzdghPJxBfx) | 4:47 |
-| 17 | [Nighttiming](https://open.spotify.com/track/1jbrKpiTZ5jSblBypybUmV) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Nighttiming](https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg) | 2:48 |
+| 15 | [Feelin' \(Original Mix\)](https://open.spotify.com/track/4O6sQwt16ZOjCebqahe7Y3) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/11XTMSjsddSKvC4vSIQ3n5) | [Foreign Language \(feat\. Jess\) \[10 Year Anniversary\]](https://open.spotify.com/album/7axQOvQN81aJpxwR7YJt0F) | 6:16 |
+| 16 | [Maniac](https://open.spotify.com/track/7qcRswMSwnIOf15DKWgnil) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Casablanca Reworks](https://open.spotify.com/album/5VdwbfSeTPfhbT97peJ0Nz) | 4:47 |
+| 17 | [Nighttiming](https://open.spotify.com/track/5HRF3IaWvsBGkx9bJlF3TE) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Funny People \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sYddjIAxXSdmqOy3137Q3) | 2:48 |
 | 18 | [Too Cool To Dance](https://open.spotify.com/track/72Nl5JkVhoHtmPkNeyLaSy) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Too Cool To Dance](https://open.spotify.com/album/2Ab6Yk3XbReGj62BGl3YN5) | 3:09 |
 | 19 | [Peaches N Cream \(feat\. Charlie Wilson\)](https://open.spotify.com/track/7Fk0zNC7vGdoDwePPgByKh) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Peaches N Cream \(feat\. Charlie Wilson\)](https://open.spotify.com/album/0tKHgjptFpCMWQyKrwThXF) | 4:44 |
 | 20 | [I Won't Let You Down](https://open.spotify.com/track/5v2snXqNEVtKxsJy5YBVfV) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Hungry Ghosts](https://open.spotify.com/album/36WLicHKpbEZ4CDR1KxZEW) | 3:42 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 | 24 | [Fiona Coyne](https://open.spotify.com/track/6XkEIIZs0oMUNwaVwHXSZ0) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv) | 4:09 |
 | 25 | [Go Bang](https://open.spotify.com/track/5bnBF6QS1kZj3WOVZ8KqOB) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang](https://open.spotify.com/album/6Cd6ifsiUF0A2PVr8aJTeX) | 11:04 |
 
-Snapshot ID: `MTUyNTkwMjI5NCwwMDAwMDAwMDk1YzViOTMyODk4YzY1YjdlZjkzODNjMTYyZTcyOGVj`
+Snapshot ID: `MTUyNTkwMjI5NCwwMDAwMDAwMGQwZDdkMDFiY2QyN2U1YzBiN2FjOTdhNTdmZTRmMjNh`

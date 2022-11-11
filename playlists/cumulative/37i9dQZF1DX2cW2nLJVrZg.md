@@ -4,7 +4,7 @@
 
 > Nominees from the 94th annual event celebrating Hollywood's brightest stars.
 
-49 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/7CjEHP2nFY9SLCboWUYZ1B)
+50 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/7CjEHP2nFY9SLCboWUYZ1B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,9 @@
 | [Waltz In F Major](https://open.spotify.com/track/28WUfHlQ8KRdcsKVufwa3Z) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Wolfgang Köhler](https://open.spotify.com/artist/1trugwgFZZlth3e6joLLNa), [Bene Aperdannier](https://open.spotify.com/artist/4Fng7TS6u0rz389XQciiQY) | [Pieces Of A Woman \(Music From The Netflix Film\)](https://open.spotify.com/album/4J7BlA688EifZvL91Dl5zs) | 2:11 | 2021-03-25 | 2022-03-30 |
 | [We Don't Talk About Bruno](https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Adassa](https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh), [Rhenzy Feliz](https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr), [Diane Guerrero](https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:36 | 2022-03-28 |  |
 | [Welcome to Victorville](https://open.spotify.com/track/17RSYIsjVFmNekx5TmvgKf) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Mank \(Original Musical Score\)](https://open.spotify.com/album/4bF6HoSA0B7FbkY1z8uTq5) | 2:15 | 2021-03-25 | 2022-03-30 |
-| [West](https://open.spotify.com/track/061sIdDzLDqmgXmOTaTKgd) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/6hWmVhmirxDxlfZAmtOZah) | 2:32 | 2022-03-28 |  |
+| [West](https://open.spotify.com/track/061sIdDzLDqmgXmOTaTKgd) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/6hWmVhmirxDxlfZAmtOZah) | 2:32 | 2022-03-28 | 2022-11-11 |
 | [West](https://open.spotify.com/track/3ypfBm8PmKIn9UPhBsCVQF) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5RLVzdxmFASWZcFoVYKPv8) | 2:32 | 2022-03-28 | 2022-07-29 |
+| [West](https://open.spotify.com/track/0odKvDO1keLzsV1uhCx6pU) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power of the Dog \(Music from the Netflix Film\) \- Single](https://open.spotify.com/album/3y8FkwLZEdvVatgRhTq9GF) | 2:32 | 2022-03-28 |  |
 | [What A Life \- From the Motion Picture "Another Round"](https://open.spotify.com/track/4DXceUhBu8hVYO1EuT6EOt) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [What A Life \(From the Motion Picture "Another Round"\)](https://open.spotify.com/album/13FUjs5sLETUhC3KaRKZUN) | 2:49 | 2021-03-25 | 2022-03-30 |
 | [What This Mission's About](https://open.spotify.com/track/6gZpNkvDpjsTi02VV1O2WI) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Da 5 Bloods \(Original Motion Picture Score\)](https://open.spotify.com/album/0LarP0xBEosOk39WtkHd2C) | 4:44 | 2021-03-25 | 2022-03-30 |
 

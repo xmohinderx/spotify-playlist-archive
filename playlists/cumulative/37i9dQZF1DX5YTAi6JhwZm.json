@@ -106,6 +106,24 @@
     },
     {
       "album": {
+        "name": "Jazz Dinner",
+        "url": "https://open.spotify.com/album/5f0Nbo8Ih7cOFR15fnprEK"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239533,
+      "name": "Au Privave",
+      "url": "https://open.spotify.com/track/1751FZhDYecAN3xLPXL4BP"
+    },
+    {
+      "album": {
         "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu"
       },
@@ -117,7 +135,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 239533,
       "name": "Au Privave",
       "url": "https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM"
@@ -362,6 +380,24 @@
     },
     {
       "album": {
+        "name": "Concentration Music: Jazz",
+        "url": "https://open.spotify.com/album/5XFrkw8RTzFpiWM5LynHtx"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204173,
+      "name": "Crazy Rhythm",
+      "url": "https://open.spotify.com/track/0OwK9PZq50pOHW5Lm0A0Fx"
+    },
+    {
+      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -373,7 +409,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204173,
       "name": "Crazy Rhythm",
       "url": "https://open.spotify.com/track/5uubONzRpbCDvVK8q5WhTI"
@@ -593,10 +629,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 178533,
       "name": "Four Brothers",
       "url": "https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG"
+    },
+    {
+      "album": {
+        "name": "On Contemporary: Art Pepper",
+        "url": "https://open.spotify.com/album/5BPXepXoJpfXD3gzrUgQOt"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180715,
+      "name": "Four Brothers",
+      "url": "https://open.spotify.com/track/1EXbbgXrb2zK4dwXaejFr6"
     },
     {
       "album": {
@@ -1406,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "Cannonball Adderley's Finest Hour",
+        "url": "https://open.spotify.com/album/5A2yEKeGLhotbTCpugMIEq"
+      },
+      "artists": [
+        {
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279733,
+      "name": "Limehouse Blues",
+      "url": "https://open.spotify.com/track/0IjM1kO4TWfnZwUmbGSMsx"
+    },
+    {
+      "album": {
         "name": "Cannonball Adderley Quintet In Chicago",
         "url": "https://open.spotify.com/album/1ywi5zQMqngyRWrmPUB0um"
       },
@@ -1435,7 +1507,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 280226,
       "name": "Limehouse Blues",
       "url": "https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i"

@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 455641,
+  "num_followers": 455705,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDY1OWI2OWM2MWQ4ODc2YzE4OTRlMTA5NDVhYmIyMjhj",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDFhMWE5YjA0ODliZTliZTU5Mzg5MjBjZGY3YzY4ZDY1",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "What I Got",
-      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "We All Are One: The Best Of Jimmy Cliff",
         "url": "https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5"
       },
@@ -123,42 +107,6 @@
       "duration_ms": 196000,
       "name": "I Can See Clearly Now",
       "url": "https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Ten Cane Row (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "Ten Cane Row (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -179,18 +127,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Peace in a Time of War",
-        "url": "https://open.spotify.com/album/4Wps42vdfVXj2aJW4mf2yn"
+        "name": "Ten Cane Row (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
       "artists": [
         {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 256733,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/2Y9WfjpGt3kzv7cbRl3s3O"
+      "duration_ms": 209586,
+      "name": "Ten Cane Row (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -231,38 +183,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready - Medley",
-      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "The Green",
         "url": "https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6"
       },
@@ -291,6 +211,22 @@
       "duration_ms": 188935,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/28XBIzpPzfgXwrno4B8U1f"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -335,6 +271,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Collie Buddz",
+        "url": "https://open.spotify.com/album/2BGWnHTib774X9f7RPoato"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 221506,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Love Me Easy",
         "url": "https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj"
       },
@@ -355,38 +307,6 @@
       "duration_ms": 170016,
       "name": "Love Me Easy",
       "url": "https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Collie Buddz",
-        "url": "https://open.spotify.com/album/2BGWnHTib774X9f7RPoato"
-      },
-      "artists": [
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 221506,
-      "name": "Come Around",
-      "url": "https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Iron Lion Zion",
-        "url": "https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 202432,
-      "name": "Iron Lion Zion - 7\" Mix",
-      "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -499,22 +419,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Sweet and Dandy",
-        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "The 8 Year Affair",
         "url": "https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA"
       },
@@ -611,22 +515,6 @@
       "duration_ms": 175285,
       "name": "Thy Will",
       "url": "https://open.spotify.com/track/57r0b2RzN5wsslQygPQSpQ"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "The Best of The Maytals",
-        "url": "https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "It Must Be True Love",
-      "url": "https://open.spotify.com/track/1pZcY3kqDfEmJjrQ2CLP3B"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -795,30 +683,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "100 Pound a Kali (feat. Kali Blaxx) - Single",
-        "url": "https://open.spotify.com/album/2gpLJUMuesqNvhRWastDjC"
-      },
-      "artists": [
-        {
-          "name": "Green Lion Crew",
-          "url": "https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m"
-        },
-        {
-          "name": "Cut Stone",
-          "url": "https://open.spotify.com/artist/2n90OvLEoTFhRC0AT0bS48"
-        },
-        {
-          "name": "Kali Blaxx",
-          "url": "https://open.spotify.com/artist/6847AhFVSj1r1KknNDt6uz"
-        }
-      ],
-      "duration_ms": 159705,
-      "name": "100 Pound a Kali",
-      "url": "https://open.spotify.com/track/4ueCKMfynKI8B2SzoPJaTr"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Ups And Downs (Chronixx Presents: Soul Circle Music)",
         "url": "https://open.spotify.com/album/11wUMGuN8BrCaeAdjbriic"
       },
@@ -859,6 +723,30 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "100 Pound a Kali (feat. Kali Blaxx) - Single",
+        "url": "https://open.spotify.com/album/2gpLJUMuesqNvhRWastDjC"
+      },
+      "artists": [
+        {
+          "name": "Green Lion Crew",
+          "url": "https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m"
+        },
+        {
+          "name": "Cut Stone",
+          "url": "https://open.spotify.com/artist/2n90OvLEoTFhRC0AT0bS48"
+        },
+        {
+          "name": "Kali Blaxx",
+          "url": "https://open.spotify.com/artist/6847AhFVSj1r1KknNDt6uz"
+        }
+      ],
+      "duration_ms": 159705,
+      "name": "100 Pound a Kali",
+      "url": "https://open.spotify.com/track/4ueCKMfynKI8B2SzoPJaTr"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Dread & Terrible Project - 5th Anniversary (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3T5KaIlXqSnWUlnM99mOjv"
       },
@@ -875,22 +763,150 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Soundkilla Mindset",
-        "url": "https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K"
+        "name": "Warm & Easy",
+        "url": "https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl"
       },
       "artists": [
         {
-          "name": "Mr. Williamz",
-          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
-        },
-        {
-          "name": "Junior Demus",
-          "url": "https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj"
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Well Excellent",
-      "url": "https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk"
+      "duration_ms": 295333,
+      "name": "Warm & Easy",
+      "url": "https://open.spotify.com/track/2K02J8shfay33u49WhlaZg"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "The Red Room Intro (Yard Gyal Inna Britain)",
+        "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
+      },
+      "artists": [
+        {
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+        }
+      ],
+      "duration_ms": 208860,
+      "name": "Woii",
+      "url": "https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 225384,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/5rCFLQB74RmHwiDe6YL7qx"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Do You See",
+        "url": "https://open.spotify.com/album/2k8B3PeBWVB1y2RQx0ADav"
+      },
+      "artists": [
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        },
+        {
+          "name": "Pop Style",
+          "url": "https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "Do You See",
+      "url": "https://open.spotify.com/track/5YRQDSlUCBFcevXm3CMpr8"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/5tU3ADncFHfdDScnuzWTXa"
+      },
+      "artists": [
+        {
+          "name": "Agent Sasco (Assassin)",
+          "url": "https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        }
+      ],
+      "duration_ms": 273792,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/1wslSV8ppr83jS3fWHHYQT"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Better Must Come Riddim",
+        "url": "https://open.spotify.com/album/5D2lB57hqgT7MHXPk7qltd"
+      },
+      "artists": [
+        {
+          "name": "Pop Style",
+          "url": "https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H"
+        },
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "duration_ms": 232413,
+      "name": "If You Know",
+      "url": "https://open.spotify.com/track/2PMXhooCONyFAJCcepLCph"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "The Best of The Maytals",
+        "url": "https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/65712VnJQ2jx2MrmIZzfhN"
     }
   ],
   "unique_name": "Just Smile",

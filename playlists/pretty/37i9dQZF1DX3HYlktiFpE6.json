@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 94931,
+  "num_followers": 94955,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDhmYTg1MDcyYzA3NWNmYjkwNmZiMzUzZDZkMGEwMThj",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDU1ZDNlYjkwMDMzNzA3ZjFiNWZkOTgyNmVhNDk4ZTBh",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -367,18 +367,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Six Pack: Volume 2",
-        "url": "https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6"
+        "name": "Under the Influence: Holiday Edition",
+        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
       },
       "artists": [
         {
           "name": "Straight No Chaser",
           "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        },
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
         }
       ],
-      "duration_ms": 213880,
-      "name": "Rhythm of Love / Can't Help Falling in Love - EP Version",
-      "url": "https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy"
+      "duration_ms": 160840,
+      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
+      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -451,22 +455,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Under the Influence: Holiday Edition",
-        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
+        "name": "Six Pack: Volume 2",
+        "url": "https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6"
       },
       "artists": [
         {
           "name": "Straight No Chaser",
           "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        },
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
         }
       ],
-      "duration_ms": 160840,
-      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
-      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
+      "duration_ms": 213880,
+      "name": "Rhythm of Love / Can't Help Falling in Love - EP Version",
+      "url": "https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Right Round / Sweet Caroline - Single",
+        "url": "https://open.spotify.com/album/4AH2qX9iAUGb0baGXSozaE"
+      },
+      "artists": [
+        {
+          "name": "Tufts Beelzebubs",
+          "url": "https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq"
+        }
+      ],
+      "duration_ms": 112360,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/6d9F2YMOblua0s4DHc6h5X"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "I Knew You Were Trouble (feat. KRNFX)",
         "url": "https://open.spotify.com/album/5lnK6yv9zcn1TYbZtTZxYS"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 215626,
       "name": "I Knew You Were Trouble (feat. KRNFX)",
       "url": "https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Right Round / Sweet Caroline - Single",
-        "url": "https://open.spotify.com/album/4AH2qX9iAUGb0baGXSozaE"
-      },
-      "artists": [
-        {
-          "name": "Tufts Beelzebubs",
-          "url": "https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq"
-        }
-      ],
-      "duration_ms": 112360,
-      "name": "Sweet Caroline",
-      "url": "https://open.spotify.com/track/6d9F2YMOblua0s4DHc6h5X"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Black & Red",
-        "url": "https://open.spotify.com/album/0pXdLROrVJzxlxtWc77lW1"
+        "name": "Fixate",
+        "url": "https://open.spotify.com/album/0oEzIkczK5Il84fdaxVpfK"
       },
       "artists": [
         {
-          "name": "Twisted Measure",
-          "url": "https://open.spotify.com/artist/3mXcNgD2MC7GIMvIoefa4T"
+          "name": "The Clef Hangers",
+          "url": "https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO"
         }
       ],
-      "duration_ms": 245500,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/5QxAO4f3EuP40hhHkiRcO1"
+      "duration_ms": 263173,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/3bodx5kX7N9H6ReZCq3jfW"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -675,50 +675,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Fixate",
-        "url": "https://open.spotify.com/album/0oEzIkczK5Il84fdaxVpfK"
+        "name": "Full Disclosure",
+        "url": "https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu"
       },
       "artists": [
         {
-          "name": "The Clef Hangers",
-          "url": "https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO"
+          "name": "Cornell Class Notes",
+          "url": "https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF"
         }
       ],
-      "duration_ms": 263173,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/3bodx5kX7N9H6ReZCq3jfW"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Sing On",
-        "url": "https://open.spotify.com/album/5UPAYGrQMGmGO3vPUXF1ou"
-      },
-      "artists": [
-        {
-          "name": "On The Rocks",
-          "url": "https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx"
-        }
-      ],
-      "duration_ms": 276526,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/7EZjj4CRzBfeEAVfQMDqWu"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Peter Hollens",
-        "url": "https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku"
-      },
-      "artists": [
-        {
-          "name": "Peter Hollens",
-          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
-        }
-      ],
-      "duration_ms": 259026,
-      "name": "Misty Mountains",
-      "url": "https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ"
+      "duration_ms": 236708,
+      "name": "Set Fire to the Rain",
+      "url": "https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -739,22 +707,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Full Disclosure",
-        "url": "https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu"
-      },
-      "artists": [
-        {
-          "name": "Cornell Class Notes",
-          "url": "https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF"
-        }
-      ],
-      "duration_ms": 236708,
-      "name": "Set Fire to the Rain",
-      "url": "https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Feelin' It",
         "url": "https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI"
       },
@@ -771,22 +723,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Shut up and Dance",
-      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Voices Only 2011 College A Cappella (Volume 1)",
         "url": "https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe"
       },
@@ -799,22 +735,6 @@
       "duration_ms": 278200,
       "name": "Halo",
       "url": "https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Pand\u00e6monium",
-        "url": "https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b"
-      },
-      "artists": [
-        {
-          "name": "Tufts Beelzebubs",
-          "url": "https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq"
-        }
-      ],
-      "duration_ms": 336693,
-      "name": "Come Sail Away",
-      "url": "https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -851,6 +771,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Pitch Perfect (More Music From The Motion Picture) EP",
         "url": "https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS"
       },
@@ -863,6 +799,22 @@
       "duration_ms": 72906,
       "name": "F**k You",
       "url": "https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Songs of Middle Earth",
+        "url": "https://open.spotify.com/album/0ocEjdrrdGiP4N2JmZj9cJ"
+      },
+      "artists": [
+        {
+          "name": "Peter Hollens",
+          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
+        }
+      ],
+      "duration_ms": 258513,
+      "name": "Misty Mountains - Solo Version",
+      "url": "https://open.spotify.com/track/3fMdTXx79MvNWnB7orsq4d"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -895,22 +847,6 @@
       "duration_ms": 198600,
       "name": "Grace Kelly - Studio Version",
       "url": "https://open.spotify.com/track/4Gq6u5nfls4ACzcUewvATu"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "With a Twist (Deluxe)",
-        "url": "https://open.spotify.com/album/2gtkOsq9ayJeySp8VkzuAt"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/071wmdZJxlDspBpKNtV0HL"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -963,6 +899,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "With a Twist (Deluxe)",
+        "url": "https://open.spotify.com/album/2gtkOsq9ayJeySp8VkzuAt"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/071wmdZJxlDspBpKNtV0HL"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Disney's Broadway Is Back Medley",
         "url": "https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh"
       },
@@ -991,6 +943,54 @@
       "duration_ms": 100026,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/7zcLCtqtovzOjUIr0GMAPh"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "The Sing-Off: Season 3: Episode 1 - Signature Songs",
+        "url": "https://open.spotify.com/album/6QOq1vvaRJxVzDFS1GBN3S"
+      },
+      "artists": [
+        {
+          "name": "University of Rochester YellowJackets",
+          "url": "https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO"
+        }
+      ],
+      "duration_ms": 115706,
+      "name": "Wavin' Flag",
+      "url": "https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "The Sing-Off: Season 3: Episode 7 - Superstar Medleys",
+        "url": "https://open.spotify.com/album/1cb5FqA1gFh91KwvSSujcc"
+      },
+      "artists": [
+        {
+          "name": "The Dartmouth Aires",
+          "url": "https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Medley: Killer Queen / Bohemian Rhapsody / Somebody To Love",
+      "url": "https://open.spotify.com/track/191HHrs8Bwa8VZ4IJ2iG67"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "The Sing-Off: The Best of Season 2",
+        "url": "https://open.spotify.com/album/3Kh7U1zy45wEM6yWGvIFcR"
+      },
+      "artists": [
+        {
+          "name": "Street Corner Symphony",
+          "url": "https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Creep - Studio Version",
+      "url": "https://open.spotify.com/track/0bkEVRYVWuKBCWOX6kY2kT"
     }
   ],
   "unique_name": "All A Cappella",

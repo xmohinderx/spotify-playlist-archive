@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221906,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la"
+    },
+    {
+      "album": {
         "name": "Christmas Song",
         "url": "https://open.spotify.com/album/57QwFfafVAQLKXjBSLQwxC"
       },
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 221906,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/67xmO7UDlUazlQ9Nje9pmb"
@@ -989,10 +1007,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 192420,
       "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
+    },
+    {
+      "album": {
+        "name": "All I want For Christmas Is Music",
+        "url": "https://open.spotify.com/album/0luU2kkKLs5DNYMAy9YEJP"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192420,
+      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7FWvBjQqt9DEDilkq18Mv9"
     },
     {
       "album": {
@@ -1050,6 +1086,24 @@
     },
     {
       "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5NpyKhf0cf8Ta6pgHRJhyd"
+      },
+      "artists": [
+        {
+          "name": "Handsome and Gretyl",
+          "url": "https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220813,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/6RBYORZyAfUGCztCDDFLXv"
+    },
+    {
+      "album": {
         "name": "It's Our Favorite Time of Year",
         "url": "https://open.spotify.com/album/0L9g2oXz83mY783Motpo94"
       },
@@ -1061,7 +1115,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 220813,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/6jOU5yx5hzH9YWEaHb3QV0"
@@ -1750,6 +1804,24 @@
     },
     {
       "album": {
+        "name": "Pinoy Acoustic Christmas",
+        "url": "https://open.spotify.com/album/4m8mW98G6bZUC8urfZDOaO"
+      },
+      "artists": [
+        {
+          "name": "Mason Jennings",
+          "url": "https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129425,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/1IHueUfoxhSPoEjm4b2qwL"
+    },
+    {
+      "album": {
         "name": "This Warm December: Brushfire Holiday's Vol. 1",
         "url": "https://open.spotify.com/album/5edOv7GvKdvwNnqXEACfYQ"
       },
@@ -1761,7 +1833,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 129425,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/3sS5Mr9OJCJXyRuESUNIbM"

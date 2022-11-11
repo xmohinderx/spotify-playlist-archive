@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Chocolate (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1b2eox3IsFoAnAy5KpdHRf"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205626,
+      "name": "Greeting",
+      "url": "https://open.spotify.com/track/3SYVtwoYsmTPO5UjuPZYxG"
+    },
+    {
+      "album": {
         "name": "Chocolate, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 205626,
       "name": "Greeting",
       "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
@@ -473,7 +491,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 250495,
       "name": "I Ain't Over",
       "url": "https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 202434,
       "name": "Knot",
       "url": "https://open.spotify.com/track/0abcdEtyIbdQGNMP9cNmPh"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 189666,
       "name": "Origami",
       "url": "https://open.spotify.com/track/0fGsabqtD3nFtLgrOfvBmV"
@@ -897,7 +915,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 251684,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/0Cz3oUrI37uy1QuFFLXrJh"
@@ -933,7 +951,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199960,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6"
@@ -969,7 +987,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 242826,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/6rCuyj1AxaO78VcbDpCfjZ"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 229031,
       "name": "Unrequited Love",
       "url": "https://open.spotify.com/track/4qCoekl5BaHK9aYc54C2tX"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 219986,
       "name": "Where Love Begins",
       "url": "https://open.spotify.com/track/5lqYdK4KCkhJnng32ef1Qe"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 315506,
       "name": "\ub3d9\uacbd",
       "url": "https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz"
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 191240,
       "name": "\ud560 \ub9d0 Something to say",
       "url": "https://open.spotify.com/track/7gdttvt383pkL2so39JgzX"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 279771,
       "name": "\ud654\ubd84",
       "url": "https://open.spotify.com/track/5nbqTPcYfcr3NbbNrC3AHb"
@@ -1829,7 +1847,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 270680,
       "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
       "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"

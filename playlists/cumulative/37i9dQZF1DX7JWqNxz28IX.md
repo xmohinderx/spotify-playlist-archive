@@ -4,12 +4,13 @@
 
 > 🩹 \(in cover, chiello\)
 
-144 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+147 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(SEMBRA BELLO\)](https://open.spotify.com/track/0VJviTvPozCb9E7jLWLtvJ) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 1:56 | 2022-11-10 |  |
 | [\(SEMBRA BELLO\)](https://open.spotify.com/track/4GrmcHXgRRnXqAaO4XJgqT) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI](https://open.spotify.com/album/707aADY01oMofgUyyX92mC) | 1:56 | 2022-04-21 | 2022-07-29 |
-| [\(SEMBRA BELLO\)](https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 1:56 | 2022-07-28 |  |
+| [\(SEMBRA BELLO\)](https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 1:56 | 2022-07-28 | 2022-11-11 |
 | [14](https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ) | [Jayred](https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [14](https://open.spotify.com/album/7290JgdAoUMQmFzAVztJpk) | 1:50 | 2022-04-21 |  |
 | [Acqua salata](https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Acqua salata](https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv) | 3:49 | 2022-10-10 |  |
 | [ALESSIA](https://open.spotify.com/track/4q0yteddAlr8X9MAv1GDXQ) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [ALESSIA](https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2) | 2:24 | 2022-10-20 |  |
@@ -26,8 +27,9 @@
 | [cento metri](https://open.spotify.com/track/3xfBKb2gdbtcyJdQMwPmPO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [cento metri](https://open.spotify.com/album/393JFt171sEH0GisXy7WeM) | 2:05 | 2022-04-21 |  |
 | [Cicatrici](https://open.spotify.com/track/3M7tOqC4TBFlZKcUwWkEjo) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u), [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [Cicatrici](https://open.spotify.com/album/6Qdg8tGzw265EafPwrrtKT) | 3:11 | 2022-10-06 |  |
 | [Cicatrici](https://open.spotify.com/track/7t8s9YRj6sQwTDECF0lT0d) | [piccoli brividi](https://open.spotify.com/artist/6m5gjMXPUZztfLUomW1n3r), [Jianguar](https://open.spotify.com/artist/4E09DNh6BhvlvyoOlXCHuF), [Kuiper](https://open.spotify.com/artist/4yeIBrzWWNRbnAd1Aq3oLG) | [Cicatrici](https://open.spotify.com/album/4eQOy5tEVq0Ti6hk8CqKfT) | 3:50 | 2022-07-28 |  |
+| [Cicatrici](https://open.spotify.com/track/18xRjW5ARD2ivfMkA807fw) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cicatrici](https://open.spotify.com/album/1ONUeIv6IR6ECQB00q3gLL) | 2:28 | 2022-11-10 |  |
 | [Cicatrici](https://open.spotify.com/track/4RVJ9ftLiCwxSVSVTvQBQm) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cicatrici](https://open.spotify.com/album/3YwKjZZThIr9sFFXS0AXnO) | 2:28 | 2022-04-21 | 2022-07-29 |
-| [Cicatrici \(feat\. Tenth Sky\)](https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Lacrime](https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En) | 2:28 | 2022-07-28 |  |
+| [Cicatrici \(feat\. Tenth Sky\)](https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Lacrime](https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En) | 2:28 | 2022-07-28 | 2022-11-11 |
 | [Clipper](https://open.spotify.com/track/7ipysHNC8Fd5IFFjX25jgF) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT), [Liarr](https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY) | [Fuori di me](https://open.spotify.com/album/2yTYKDFYax66zYRfspKJUP) | 2:46 | 2022-04-21 |  |
 | [Coma](https://open.spotify.com/track/3IDhVUhLK887aXrMPqqABm) | [Kiira](https://open.spotify.com/artist/0kagys5czAPiNwJcRvasF3) | [Coma](https://open.spotify.com/album/2oXhkdZy6gKV0OYrIEAQLN) | 2:29 | 2022-04-21 |  |
 | [Come noi](https://open.spotify.com/track/7zmqrn1vES0c7sTKXEl3P0) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Come noi](https://open.spotify.com/album/0SB9emzbP6YHcagKLZbabG) | 2:09 | 2022-04-21 |  |
@@ -95,6 +97,7 @@
 | [Non pioverà per sempre](https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Non pioverà per sempre](https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm) | 3:09 | 2022-04-21 |  |
 | [Non Sarà Uguale](https://open.spotify.com/track/0JpKsj1vVqq0NqYyNrQQdt) | [Poet](https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs) | [Non Sarà Uguale](https://open.spotify.com/album/5JLlWPE1rQ1sDVEsBjpVlf) | 2:23 | 2022-10-27 |  |
 | [nostalgia](https://open.spotify.com/track/5INaFlBjbZ9lDKCsUkdMbY) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [nostalgia](https://open.spotify.com/album/39DvGGAGYEeXvR1Tvvd7F6) | 3:15 | 2022-04-21 |  |
+| [Notre Dame](https://open.spotify.com/track/6eaGeLT6gaZ5Elz47wET2o) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Notre Dame](https://open.spotify.com/album/19h0scD8R1YD7UWNL75x5B) | 3:12 | 2022-11-10 |  |
 | [Notti Sbagliate](https://open.spotify.com/track/5Nx5sc8gzP2xHckhw3bWSL) | [Delfa](https://open.spotify.com/artist/4RkRi2pyK00Awctep7AkSc) | [Notti Sbagliate](https://open.spotify.com/album/6FkMcHq9A51wDuUlOQCTpg) | 2:10 | 2022-09-29 | 2022-10-14 |
 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 | 2022-09-22 |  |
 | [oggi ho pianto](https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C) | [Outcast.](https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9) | [oggi ho pianto](https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M) | 2:12 | 2022-04-21 |  |

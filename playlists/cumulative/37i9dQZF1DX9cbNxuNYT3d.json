@@ -635,10 +635,28 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 274466,
       "name": "Look",
       "url": "https://open.spotify.com/track/0GVQb2UqgxEUrXidPgklFj"
+    },
+    {
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/6hamK8zsehwexjo0LENuG5"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274466,
+      "name": "Look",
+      "url": "https://open.spotify.com/track/36cHPJs9Ku6MMXaABn15QE"
     },
     {
       "album": {
@@ -697,10 +715,32 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 295693,
       "name": "Lucky Star (feat. Ron Carroll)",
       "url": "https://open.spotify.com/track/3JhAETPmy2RZSLTZ6FmcHp"
+    },
+    {
+      "album": {
+        "name": "Technics : House",
+        "url": "https://open.spotify.com/album/1nz9JHmlpEHVkdhl7QnwQm"
+      },
+      "artists": [
+        {
+          "name": "Superfunk",
+          "url": "https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297598,
+      "name": "Lucky Star - Extended Vocal Edit",
+      "url": "https://open.spotify.com/track/2r1ayKuPDXsJZBm3Jrr5WV"
     },
     {
       "album": {
@@ -1062,6 +1102,32 @@
     },
     {
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/5sFTXfQecW8nbnsaEKrc6e"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne de Cr\u00e9cy",
+          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
+        },
+        {
+          "name": "Alex Gopher",
+          "url": "https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw"
+        },
+        {
+          "name": "Asher Roth",
+          "url": "https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207266,
+      "name": "Smile (Vocal Mix)",
+      "url": "https://open.spotify.com/track/4D8d9UJPgCI3Qgliratgt7"
+    },
+    {
+      "album": {
         "name": "Smile (Vocal Mix)",
         "url": "https://open.spotify.com/album/2O9bUYQmg5qFq3S92w3CNs"
       },
@@ -1081,7 +1147,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 207266,
       "name": "Smile (Vocal Mix)",
       "url": "https://open.spotify.com/track/7p72H4ZpKTjcMBRbdT6vYr"

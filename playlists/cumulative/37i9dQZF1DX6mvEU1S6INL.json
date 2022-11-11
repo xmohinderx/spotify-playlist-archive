@@ -81,7 +81,7 @@
     {
       "album": {
         "name": "Love Gloom",
-        "url": "https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7"
+        "url": "https://open.spotify.com/album/5whkl8fFy5EzX9hpdVyfUl"
       },
       "artists": [
         {
@@ -92,6 +92,24 @@
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 235334,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/2ctKFOH8MrMklqiMlxqZ52"
+    },
+    {
+      "album": {
+        "name": "Love Gloom",
+        "url": "https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7"
+      },
+      "artists": [
+        {
+          "name": "Night Riots",
+          "url": "https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 235334,
       "name": "All For You",
       "url": "https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8"
@@ -278,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Bloodstream",
+        "url": "https://open.spotify.com/album/4Lp3E2QprLyhw99PmPabET"
+      },
+      "artists": [
+        {
+          "name": "Stateless",
+          "url": "https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313800,
+      "name": "Bloodstream",
+      "url": "https://open.spotify.com/track/1Kduitsdcdj9bvcM6SveHj"
+    },
+    {
+      "album": {
         "name": "Stateless",
         "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
       },
@@ -289,7 +325,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 313800,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
@@ -498,6 +534,24 @@
     },
     {
       "album": {
+        "name": "Beneath The Skin (Deluxe)",
+        "url": "https://open.spotify.com/album/1m3D8gkm3nOvIXNR1SvDFA"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243520,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/4nnHOJqInr9r8c7RxuiT9j"
+    },
+    {
+      "album": {
         "name": "Beneath The Skin",
         "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
       },
@@ -509,7 +563,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 243520,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5"
@@ -707,10 +761,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 217000,
       "name": "Dreaming My Dreams",
       "url": "https://open.spotify.com/track/4UTl2IO4zwZkU4KXbShgUg"
+    },
+    {
+      "album": {
+        "name": "No Need To Argue (Remastered 2020)",
+        "url": "https://open.spotify.com/album/7trDIqbox2Fwr6ooFZoATa"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Dreaming My Dreams",
+      "url": "https://open.spotify.com/track/2fO82ij62SsFe8ExYHlYIJ"
     },
     {
       "album": {
@@ -750,6 +822,24 @@
     },
     {
       "album": {
+        "name": "Background Music",
+        "url": "https://open.spotify.com/album/3BjoHdOBBsmQhVNYNrCR1Y"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260413,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/177bSSVWGImti5BL3G0th7"
+    },
+    {
+      "album": {
         "name": "Beneath The Skin",
         "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
       },
@@ -761,7 +851,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 260413,
       "name": "Empire",
       "url": "https://open.spotify.com/track/4M9lfUgDeLHu1fL2ZxZSlu"
@@ -905,10 +995,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 198986,
       "name": "Float",
       "url": "https://open.spotify.com/track/3yt2uGIGep27Q3vtwMXM7d"
+    },
+    {
+      "album": {
+        "name": "Stop Talking",
+        "url": "https://open.spotify.com/album/410taI0aOz4bpwhWn43Ku9"
+      },
+      "artists": [
+        {
+          "name": "Pacific Air",
+          "url": "https://open.spotify.com/artist/3LedjkHgJTjLJfDTM5YgmD"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198986,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/5FytD7jX6YRc7faUkEsTyN"
     },
     {
       "album": {
@@ -941,10 +1049,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 109735,
       "name": "Flowers in Your Hair",
       "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
+    },
+    {
+      "album": {
+        "name": "The Lumineers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31rem78oWvclOVx1KXBAuq"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110560,
+      "name": "Flowers in Your Hair",
+      "url": "https://open.spotify.com/track/0Qi29hMhf8tIzDpa2BH9MV"
     },
     {
       "album": {
@@ -995,10 +1121,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 180213,
       "name": "Free Animal",
       "url": "https://open.spotify.com/track/5nQvUs9YQeg3vshSzydlRw"
+    },
+    {
+      "album": {
+        "name": "For the Light",
+        "url": "https://open.spotify.com/album/3pYZji3loLGN0JJ6lIolJq"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180213,
+      "name": "Free Animal",
+      "url": "https://open.spotify.com/track/6pnD89Q888HUHhcwQUTky8"
     },
     {
       "album": {
@@ -1060,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "Break Up Songs and Tearjerkers",
+        "url": "https://open.spotify.com/album/6DB3MS2ShXjeNJwRIjin0E"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/0eaZV56cVauvA5y1MdYi59"
+    },
+    {
+      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -1071,7 +1233,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
@@ -1096,6 +1258,24 @@
     },
     {
       "album": {
+        "name": "Salon Music",
+        "url": "https://open.spotify.com/album/5IDlk0aG41EzVL9Jn1bncR"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289306,
+      "name": "Gooey",
+      "url": "https://open.spotify.com/track/0fGz0y1lB8wKeBVc1UWsMA"
+    },
+    {
+      "album": {
         "name": "ZABA",
         "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
       },
@@ -1107,7 +1287,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 289306,
       "name": "Gooey",
       "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
@@ -1449,10 +1629,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 160239,
       "name": "I Love You So",
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
+    },
+    {
+      "album": {
+        "name": "Overpass Graffiti - Pop Bangers",
+        "url": "https://open.spotify.com/album/2ZaYPL7c2nf3JgnMInJJb5"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160239,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/6nEho1Nl7M9bTvDwAqMqFT"
     },
     {
       "album": {
@@ -1546,6 +1744,24 @@
     },
     {
       "album": {
+        "name": "Ready For The High",
+        "url": "https://open.spotify.com/album/6ArkLLoHB2pJwgblP2zvNL"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169213,
+      "name": "If You Ever Leave, I'm Coming with You",
+      "url": "https://open.spotify.com/track/0nKpc6sQltAgsbjotGDSix"
+    },
+    {
+      "album": {
         "name": "If You Ever Leave, I'm Coming with You",
         "url": "https://open.spotify.com/album/3VGiUssrBkq8DKNdnbZRBR"
       },
@@ -1593,7 +1809,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 169213,
       "name": "If You Ever Leave, I'm Coming with You",
       "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
@@ -2043,10 +2259,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
+    },
+    {
+      "album": {
+        "name": "Chilled Breakfast",
+        "url": "https://open.spotify.com/album/0BHhuEYiiaI5mR8i9bg1gV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/5rVKEtos8JG9HYISy13KyX"
     },
     {
       "album": {
@@ -2133,7 +2367,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 253601,
       "name": "My Heart's Always Yours",
       "url": "https://open.spotify.com/track/2jOdSehOmeHwPbO4q7c4IP"
@@ -2155,6 +2389,24 @@
       "duration_ms": 253601,
       "name": "My Heart's Always Yours",
       "url": "https://open.spotify.com/track/3SLdLEQ8xz6limRM51RpZ3"
+    },
+    {
+      "album": {
+        "name": "Morning Report (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1UM7iFcI1HXhDQo27U6lWl"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253601,
+      "name": "My Heart's Always Yours",
+      "url": "https://open.spotify.com/track/4nxW2kULPrJAZF10sZpETr"
     },
     {
       "album": {
@@ -2865,10 +3117,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 182973,
       "name": "Swing",
       "url": "https://open.spotify.com/track/3UKIiR93VUGPRcrAmCHU2Y"
+    },
+    {
+      "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/1nB3vRrIRhzVkcQozGEPVQ"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183866,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/3EiZbFxFsv0l8WyEmdurqz"
     },
     {
       "album": {

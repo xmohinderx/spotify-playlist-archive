@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,300 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,317 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 12 | [Lanzarote Howl \(Mano Le Tough Remix\)](https://open.spotify.com/track/4hueWif8Hbm4ITdojekk26) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S), [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [Hotflush On The Floor 5.1](https://open.spotify.com/album/2ddsBWrkyP5VzswJXhHZwr) | 6:03 |
 | 13 | [Feel It \- Narciss Remix](https://open.spotify.com/track/5rqfcWgSa4fEn2vmyIBJSe) | [Basic Instinct](https://open.spotify.com/artist/5ZZgAR1R9ZwDO1Vi1jeX5q), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Angel Dust EP](https://open.spotify.com/album/0L948BIWRLbqm7ev1D7R1M) | 4:56 |
 | 14 | [San Junipero](https://open.spotify.com/track/5LxVXnOROQczYZS2nHqEPR) | [Kassian](https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx) | [Chance Is Our Greatest Ally](https://open.spotify.com/album/29w6ogTuGobiDT2FRNPs2H) | 7:19 |
-| 15 | [Hard Drive Gold \- Maya Jane Coles Remix](https://open.spotify.com/track/36nPdSMOJexTZFGHXrVihF) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [The Dream \(Deluxe\)](https://open.spotify.com/album/58LG7c1GqHKIDtGH1dsDLd) | 5:13 |
+| 15 | [Hard Drive Gold \- Maya Jane Coles Remix](https://open.spotify.com/track/4eCDqqV0iT5mPO05RX8PQZ) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Hard Drive Gold \(Maya Jane Coles Remix\)](https://open.spotify.com/album/4GNWeMhLB2Pl3FDageeupB) | 5:13 |
 | 16 | [Liquid Pressure \- Psyk Remix](https://open.spotify.com/track/4Ym7DIDg1Co6DSM5ulGmLv) | [Shlomi Aber](https://open.spotify.com/artist/3A8XSMPreJlCBlpSZVHU5J), [Psyk](https://open.spotify.com/artist/5OQp6nl0ksrzGTpzlBytZM) | [Liquid Pressure](https://open.spotify.com/album/0qMCSwwzo3v4mlStU4rw9F) | 5:36 |
 | 17 | [White Label](https://open.spotify.com/track/6usPYyj4v3YH3hR3FqTuV2) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Dance Trax, Vol\. 35](https://open.spotify.com/album/2hmRtVP5Y2XwspJOS1682O) | 5:11 |
 | 18 | [Say My Name \- Maya Jane Coles Remix](https://open.spotify.com/track/4FvP0H6Gzk06u3Gek2YiA0) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Say My Name \(Maya Jane Coles Remix\)](https://open.spotify.com/album/12XleozGaOtKw577oHMjtb) | 5:22 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 39 | [Can’t Stand It](https://open.spotify.com/track/0YgkRyRI9TN0rKqwuWsrHK) | [Art Feynman](https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc) | [Blast Off Through the Wicker](https://open.spotify.com/album/5nkVWnfrsHKXJSfqP9IGjI) | 5:41 |
 | 40 | [Three King Fishers](https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 4:48 |
 
-Snapshot ID: `MTY1OTEwNzE0NywwMDAwMDAwMGIzYzZjNjFmZDk2NDEzMjBmYWUxODZjNzJlYjUyZjYw`
+Snapshot ID: `MTY1OTEwNzE0NywwMDAwMDAwMDJmZDJhOTIzNDg0NGFhNzc0ZTAwZDYyNTNhMzhkZmNm`

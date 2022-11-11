@@ -4,7 +4,7 @@
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-75 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/4tyuUu7ygG1hC5zYxQAnHv)
+76 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/4tyuUu7ygG1hC5zYxQAnHv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Crystals](https://open.spotify.com/track/1oHsdvHWOYUz06YLNDWyzp) | [Bob Ose](https://open.spotify.com/artist/2KFktC8T24X7duh0peZZrg), [Norman Beede](https://open.spotify.com/artist/1QjdtCSzyQLBmtnoHyWmxn), [Craig Kupka](https://open.spotify.com/artist/10BujleeZpW0oZ3fDeBRRR) | [Crystals: New Music for Relaxation \# 2](https://open.spotify.com/album/2r8goCcnxJ2CcaeYqd2omy) | 21:18 | 2021-08-20 |  |
 | [El\-Hadra](https://open.spotify.com/track/57Xvgypj0JSo0E5IvnKGgP) | [Klaus Wiese](https://open.spotify.com/artist/2uvdsw07VR5CuNk9NvQ1kr), [Ted De Jong](https://open.spotify.com/artist/4UEGXaYpVtqbZkhFEt0SAJ) | [Sacred Planet \(From women & man to gods & godnesses\)](https://open.spotify.com/album/5CFRiMivWeZdmlTtrAfk1f) | 3:57 | 2021-08-20 |  |
 | [Encounter](https://open.spotify.com/track/03s6eSh8MFevFV6wmMo31b) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Encounter](https://open.spotify.com/album/0471cdD9HGAzu34WkdsLnC) | 3:29 | 2021-08-20 |  |
-| [Equinox](https://open.spotify.com/track/4Xfbsq2VWNYln8kR8nQGQ9) | [Jonathan Goldman](https://open.spotify.com/artist/5KnTqREHfCARDD8im3isVg), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Celestial Reiki](https://open.spotify.com/album/2n3hCih5TcYCYzbwq76bLT) | 23:20 | 2022-06-22 |  |
+| [Equinox](https://open.spotify.com/track/4Xfbsq2VWNYln8kR8nQGQ9) | [Jonathan Goldman](https://open.spotify.com/artist/5KnTqREHfCARDD8im3isVg), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Celestial Reiki](https://open.spotify.com/album/2n3hCih5TcYCYzbwq76bLT) | 23:20 | 2022-06-22 | 2022-11-11 |
+| [Equinox](https://open.spotify.com/track/1qffQn2iLImD2RVW7iknSi) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Lyghte](https://open.spotify.com/artist/7BM1CqDXHL4Yv65Q46Spen) | [Celestial Realms](https://open.spotify.com/album/6f6dlAEjzxDP5QBS6SLEyX) | 23:20 | 2022-10-04 |  |
 | [Equinox](https://open.spotify.com/track/5hUayouy9mD1UOaGVRNerI) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Lyghte](https://open.spotify.com/artist/7BM1CqDXHL4Yv65Q46Spen) | [Celestial Realms](https://open.spotify.com/album/3jwoAyigM9VhV1tiw9TKcn) | 23:20 | 2021-08-20 | 2022-07-29 |
 | [Eternal Sanctuary](https://open.spotify.com/track/3XjLFQKxS3giCNrRz7tdQA) | [David Naegele](https://open.spotify.com/artist/5Nzwg655wLADsxvaAtfZ2C) | [Temple In The Forest](https://open.spotify.com/album/4CZZATqn4j166QuK2tR77T) | 21:32 | 2021-08-20 | 2022-07-29 |
 | [Eternal Sanctuary](https://open.spotify.com/track/6rkQkcYunSvcHtvLLeSOj4) | [David Naegele](https://open.spotify.com/artist/5Nzwg655wLADsxvaAtfZ2C) | [Temple In The Forest](https://open.spotify.com/album/60nXN31mYNdpWr7UezKhdH) | 21:32 | 2022-06-22 |  |

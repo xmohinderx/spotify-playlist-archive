@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > ¡Achis achis los mariachis!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,724 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,750 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 41 | [La Huevona](https://open.spotify.com/track/7BfMKclY3GQ0opA0fK7d9N) | [Mariachi Tepalcatepec De Michoacan](https://open.spotify.com/artist/5mESQ2V39GTGfFbXcAIHJI) | [Puras Rancheritas](https://open.spotify.com/album/55D5G5C78fRVD5pcDKO2Ev) | 2:41 |
 | 42 | [La Ventana Sónica](https://open.spotify.com/track/72GbXDJ7g7sm0iGitCGqC6) | [Eleazar Garcia "Chelelo"](https://open.spotify.com/artist/0VsagfYKzqyBGt6O6tzIHP) | [Tesoros De Coleccion \- Eleazar Garcia "Chelelo"](https://open.spotify.com/album/2X07iqs573O0zHmMbJwtml) | 2:12 |
 | 43 | [El Güiri Güiri](https://open.spotify.com/track/17rmz3Z7kpqQruM9PGbySw) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Rancheras & Mariachi](https://open.spotify.com/album/3ToEMff8iNoGuVuOPQXnMk) | 2:20 |
-| 44 | [Cien Años](https://open.spotify.com/track/1sglM2aQR5DikqDqj2W8N9) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 3:34 |
-| 45 | [El gato Viudo](https://open.spotify.com/track/6bdqRGViPQGT16RNpKFzhh) | [Chava Flores Con Mariachi Azteca Y Grupo La Miel](https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS) | [Exitos De Chava Flores](https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW) | 2:09 |
-| 46 | [Allá en el rancho grande](https://open.spotify.com/track/100M2JP5shca6LGVsoUpfb) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Amorcito corazón](https://open.spotify.com/album/16LwPtwJ2WDTagFq5as6rk) | 3:16 |
+| 44 | [El gato Viudo](https://open.spotify.com/track/6bdqRGViPQGT16RNpKFzhh) | [Chava Flores Con Mariachi Azteca Y Grupo La Miel](https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS) | [Exitos De Chava Flores](https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW) | 2:09 |
+| 45 | [Allá en el rancho grande](https://open.spotify.com/track/100M2JP5shca6LGVsoUpfb) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Amorcito corazón](https://open.spotify.com/album/16LwPtwJ2WDTagFq5as6rk) | 3:16 |
+| 46 | [El gavilán pollero \(feat\. la Banda Estrellas de Sinaloa de Germán Lizárraga\)](https://open.spotify.com/track/7BHcZVdtSGyw1AbD4gi6w7) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV), [Banda Estrellas De Sinaloa De German Lizarraga](https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX) | [Pedro Infante Con Banda](https://open.spotify.com/album/4AB6kzi9s6lBccjhoNcA6s) | 1:56 |
 | 47 | [Copitas De Mezcal](https://open.spotify.com/track/3GFkJIIDEfGrcD9WSeQ9po) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/0l4cuP2KHDTCFYebOBeFLs) | 3:03 |
-| 48 | [El gavilán pollero \(feat\. la Banda Estrellas de Sinaloa de Germán Lizárraga\)](https://open.spotify.com/track/7BHcZVdtSGyw1AbD4gi6w7) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV), [Banda Estrellas De Sinaloa De German Lizarraga](https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX) | [Pedro Infante Con Banda](https://open.spotify.com/album/4AB6kzi9s6lBccjhoNcA6s) | 1:56 |
-| 49 | [La tertulia](https://open.spotify.com/track/0Kt3S2259SxIOfwvM8YV0f) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Rico Vacilón \(16 Tracks\)](https://open.spotify.com/album/39sZRumghk9zw60fJ01fzt) | 3:13 |
-| 50 | [Adiós mis chorreadas](https://open.spotify.com/track/6doE0vQHWZDpg3Yj4NKYjJ) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [57 Aniversario](https://open.spotify.com/album/5NJ4vWaVFLcIpQAxT8t9Lu) | 3:12 |
+| 48 | [Adiós mis chorreadas](https://open.spotify.com/track/6doE0vQHWZDpg3Yj4NKYjJ) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [57 Aniversario](https://open.spotify.com/album/5NJ4vWaVFLcIpQAxT8t9Lu) | 3:12 |
+| 49 | [La tertulia](https://open.spotify.com/track/4WoyGhW8aljvifRtsyqycG) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [55 Aniversario \(Vol\. 3\)](https://open.spotify.com/album/0ca0RzuneXSnvMY06OMg8Q) | 3:13 |
+| 50 | [Cien Años](https://open.spotify.com/track/5137jNQ9nLd2O8Z3ksnS5Y) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Rancheras Con Sentimiento](https://open.spotify.com/album/7DpZO4gbLPjDloVzQIsUmY) | 3:33 |
 
-Snapshot ID: `MTY0MzE1NTI0MiwwMDAwMDAwMDM5NmU3YmI0YzdlOWQ5M2JjYzhhZjRlODc5ZDFjYWNj`
+Snapshot ID: `MTY0MzE1NTI0MiwwMDAwMDAwMDQ4OWUwNjAyZWE1NmU0ZDcyYTc3MWNiNWZhM2I0YmEy`

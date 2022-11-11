@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 
 > Classic and contemporary pioneers of New Age music\. Cover: Pauline Anna Strom
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,729 likes - 72 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,735 likes - 72 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 | 36 | [Tender Side of the Moon](https://open.spotify.com/track/1TQTyI63w5oX6gF3B35EVI) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Sage](https://open.spotify.com/album/5naJLHIAF4UnAIDkIuKBva) | 2:33 |
 | 37 | [The Fire Sower](https://open.spotify.com/track/5Pxm2DfLPXVLo9CLboB3bw) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [Blue Cosmos](https://open.spotify.com/album/6XpGe8ue2wcvkDc0RWpsff) | 8:47 |
 | 38 | [Awakening Light](https://open.spotify.com/track/4ERYmnI5i14EEB0XwF2c6c) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Of Light](https://open.spotify.com/album/0mxryao8IeS1agpJ9XFr0o) | 4:08 |
-| 39 | [Maggi's Flute \- Mary's Watch, Pt\. 1](https://open.spotify.com/track/5NFsVpbB89U3i4Sn2SRDFz) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Healing Music](https://open.spotify.com/album/26ekcwUqvSp8VF3kzaIvXL) | 6:39 |
+| 39 | [Maggi's Flute \- Mary's Watch, Pt\. 1](https://open.spotify.com/track/78MiXBsmHTgAJHtQus02WY) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 6:39 |
 | 40 | [Dancing Shadows](https://open.spotify.com/track/2uQS47oeHcJanbtZQtmYOS) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU), [Gary Miraz](https://open.spotify.com/artist/32puo5NH9sjHN4OMphc8bh) | [Resonance](https://open.spotify.com/album/4iNADa6Esr3HGXxwIBmsCJ) | 3:59 |
 | 41 | [Second Wave](https://open.spotify.com/track/3qRnObhJwVC9OcAtRDYlIQ) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Ambrosial Waves / Tidal Pools](https://open.spotify.com/album/2S9PrrpRshDRs9mcrdFTpb) | 5:16 |
 | 42 | [Ocean of Stars](https://open.spotify.com/track/1ecAL4ungJOaDFgzOt31CV) | [Diane Arkenstone](https://open.spotify.com/artist/7tACdDgcOW9HHM1Z4T3L29) | [The Healing Spirit](https://open.spotify.com/album/1F10bJp6oauVcAYNrFzyzY) | 8:01 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 | 71 | [Requiem](https://open.spotify.com/track/1gayETCFqhIo2HAfgQFOD9) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Solace](https://open.spotify.com/album/5hCRHq9hCkIzpV7dOXNYOp) | 4:01 |
 | 72 | [Walk Softly into the Night](https://open.spotify.com/track/2NSIBktrcGeMsp2AbbDchC) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [Blue Cosmos](https://open.spotify.com/album/6XpGe8ue2wcvkDc0RWpsff) | 6:56 |
 
-Snapshot ID: `MTY2NDg5NDQwNSwwMDAwMDAwMDk4MTY3ZmQ1MjE2NDM5M2Q5MTNhMGE4ZGNlZWM3MDM0`
+Snapshot ID: `MTY2NDg5NDQwNSwwMDAwMDAwMDExYzA5NmUxYmQ0Zjk5YmY3MjBmZmRiMTg5NjUwY2Q5`

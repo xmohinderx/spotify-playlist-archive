@@ -4,7 +4,7 @@
 
 > This Sunday, let's tune out the words.
 
-71 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/0CpRLqW8EkKiQoCSEtTBEq)
+73 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/0CpRLqW8EkKiQoCSEtTBEq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 | 2019-01-04 |  |
 | [Tomorrow's Song](https://open.spotify.com/track/3Cf47MOQsa3ijid90gr5Io) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 2:57 | 2019-01-04 | 2022-07-29 |
 | [Tomorrow's Song](https://open.spotify.com/track/0YPagAr3GhXlRX06E4nUcw) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ) | 3:07 | 2019-01-04 |  |
-| [Truly, Madly, Deeply](https://open.spotify.com/track/3df2e434goqmSUp46nCUrL) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Till The Sun Turns Black](https://open.spotify.com/album/6teArUjXEHY8nEbWiOf1Hq) | 1:52 | 2019-01-04 |  |
+| [Truly, Madly, Deeply](https://open.spotify.com/track/3df2e434goqmSUp46nCUrL) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Till The Sun Turns Black](https://open.spotify.com/album/6teArUjXEHY8nEbWiOf1Hq) | 1:52 | 2019-01-04 | 2022-11-11 |
+| [Truly, Madly, Deeply](https://open.spotify.com/track/6vsa5Um8K7OgW8LhSeYJ8H) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Make It Last](https://open.spotify.com/album/2VPJh4cZrGLhadUXM2s7wS) | 1:52 | 2022-09-27 |  |
 | [Truly, Madly, Deeply](https://open.spotify.com/track/5WuUl9c2VDoiVV3dp5XBeX) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Till The Sun Turns Black](https://open.spotify.com/album/6vV4DeXFZEKUiHN6I4GUTl) | 1:55 | 2019-01-04 | 2022-07-29 |
 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 | 2019-01-04 |  |
 | [Ulla och Åke](https://open.spotify.com/track/0jWzC7ItKrZ3M4eLJNmDBC) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Vilja Bli](https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp) | 3:58 | 2019-01-04 |  |
@@ -77,7 +78,8 @@
 | [Vissel](https://open.spotify.com/track/6Cst3xKupSMS3z1I2EHiS2) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 3:44 | 2019-01-04 |  |
 | [Your Hand In Mine](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 8:16 | 2019-01-04 |  |
 | [Your Hand In Mine](https://open.spotify.com/track/5uWzSBJKqdSKJ3uMrYYUIT) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/1JU4XTyTzADBQE1KpM0Wtx) | 8:16 | 2019-01-04 | 2022-07-29 |
-| [Översiktskarta över Kullahusområdet](https://open.spotify.com/track/0Dp7TRe1s5HO4x030JJhay) | [Jäverling ◇ von Euler](https://open.spotify.com/artist/1VPqh7tyQEXc2W8KBCRPMv) | [Musik inspirerad av Kullahusets Hemlighet \(Sten Eklund, 1971\)](https://open.spotify.com/album/2CK5KTbCcFBF2O2s9IRMvF) | 4:52 | 2019-01-04 |  |
+| [Översiktskarta över Kullahusområdet](https://open.spotify.com/track/02Xo5XF04TVIv9qRZ0nmkC) | [Jäverling ◇ von Euler](https://open.spotify.com/artist/1VPqh7tyQEXc2W8KBCRPMv) | [Översiktskarta över Kullahusområdet](https://open.spotify.com/album/0kgP9QWdFLOMLEGQlCM7AB) | 4:52 | 2022-09-27 |  |
+| [Översiktskarta över Kullahusområdet](https://open.spotify.com/track/0Dp7TRe1s5HO4x030JJhay) | [Jäverling ◇ von Euler](https://open.spotify.com/artist/1VPqh7tyQEXc2W8KBCRPMv) | [Musik inspirerad av Kullahusets Hemlighet \(Sten Eklund, 1971\)](https://open.spotify.com/album/2CK5KTbCcFBF2O2s9IRMvF) | 4:52 | 2019-01-04 | 2022-11-11 |
 | [Översiktskarta över Kullahusområdet](https://open.spotify.com/track/6PrdA5Of8StnkLBRuxSpzi) | [Jäverling ◇ von Euler](https://open.spotify.com/artist/1VPqh7tyQEXc2W8KBCRPMv) | [Översiktskarta över Kullahusområdet](https://open.spotify.com/album/0mwHQDfuiddyd3KIp7XB36) | 4:52 | 2019-01-04 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

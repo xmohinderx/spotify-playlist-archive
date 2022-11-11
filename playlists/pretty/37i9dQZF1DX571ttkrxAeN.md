@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,259 likes - 78 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,302 likes - 78 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 16 | [Vor í Vaglaskógi](https://open.spotify.com/track/2OdpZeTpnbqPqBrclk2pib) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:37 |
 | 17 | [Una](https://open.spotify.com/track/61jbOgZPpaHXKJy0kqGXjt) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 5:14 |
 | 18 | [Tune Kaha](https://open.spotify.com/track/1gWtHDe403RuyZqhvSRcv8) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tune Kaha](https://open.spotify.com/album/1sXF26ED1bQT76rFEvPwaP) | 3:36 |
-| 19 | [Sans Toi](https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers](https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh) | 3:15 |
+| 19 | [Sans toi](https://open.spotify.com/track/5u8kDtg4d2BJUDnNUeyK2X) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water No Flowers part 1](https://open.spotify.com/album/5qAxfGtdSjmTZK56verVeh) | 3:17 |
 | 20 | [Ndokulandela](https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Mangaliso](https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A) | 3:51 |
 | 21 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 |
 | 22 | [Amor De Mis Amores](https://open.spotify.com/track/3USQhrAZXtF69SsUKnB7IJ) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9), [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Amor De Mis Amores](https://open.spotify.com/album/1NVaAOjdIgJVjkpa7QCc1I) | 5:00 |
-| 23 | [Californie](https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC) | 3:25 |
+| 23 | [Californie](https://open.spotify.com/track/2gfvJsAcp368zRMyolr3Th) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Californie \(Acoustique\)](https://open.spotify.com/album/0Qkbmi4iKDNuH5PDjZU4qj) | 3:25 |
 | 24 | [Yimenda\-Papaguneray \(Turtle Song\)](https://open.spotify.com/track/4YzS8T2m9PI1suCJpiACRi) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:30 |
 | 25 | [Danza de Gardenias \(feat\. Los Macorinos\)](https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 4:23 |
 | 26 | [El Frío](https://open.spotify.com/track/3nkA77oKDQcxbz9QLQITwa) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Santa](https://open.spotify.com/album/7kcc8r4mutJi0jtptelGQK) | 4:02 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 31 | [Amwaj \(Waves\)](https://open.spotify.com/track/0SS2q79Zm8IoygBl1ocwmZ) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:40 |
 | 32 | [La solitude](https://open.spotify.com/track/4XxL4kTyeuzHSTPKjsL2Js) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR) | 1:35 |
 | 33 | [Cara Cazador](https://open.spotify.com/track/5Tkq5WV6XRFx4oxxpSWTh7) | [Hola A Todo El Mundo](https://open.spotify.com/artist/5jVipo1CdeIIUw2tDolYLj) | [Estela Castiza](https://open.spotify.com/album/0LDjqZ03jm1ma2jv3ftgQS) | 2:11 |
-| 34 | [Scheef](https://open.spotify.com/track/5sH6MYqb3qjrN8b5V4ioCr) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Nachtlicht](https://open.spotify.com/album/2PSgh7zJPShRNvmC8KxdBU) | 4:54 |
+| 34 | [Scheef](https://open.spotify.com/track/38kZDk46TKMB183mvYfF2h) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Scheef \(Dollkraut Rework\)](https://open.spotify.com/album/0i4EejtVSp8DEq0M4M6IYf) | 4:54 |
 | 35 | [Nous après nous](https://open.spotify.com/track/5BnsjduILegn9lyXBINBh9) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Nous après nous](https://open.spotify.com/album/2n4xhHEEmloZT0tNTJLQai) | 3:55 |
 | 36 | [Correcto](https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a) | [Jero Romero](https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh) | [Cabeza de león](https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J) | 2:34 |
 | 37 | [Amor Papaya en Invierno](https://open.spotify.com/track/4TZ0kv6Elbb4cTsoNXxBZJ) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Amor Papaya](https://open.spotify.com/album/4SedZWefA0qnDU6mnDiXI6) | 3:25 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 54 | [Dich zu lieben ist einfach](https://open.spotify.com/track/6N9jA3Fzwag0D994lMOFrc) | [Gisbert Zu Knyphausen](https://open.spotify.com/artist/2tDVKS41XWT3vvy4A3ZbcV) | [Das Licht dieser Welt](https://open.spotify.com/album/7GwwU77hEG8FOuD4ODfq0P) | 3:33 |
 | 55 | [Pourquoi pas](https://open.spotify.com/track/5lv2YM2F1SktNuv3qwfkAJ) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Promeneur](https://open.spotify.com/album/7lqG5WwLOjyWOF6I8UcNPb) | 3:10 |
 | 56 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 |
-| 57 | [Hexágonos](https://open.spotify.com/track/73bItd39rIZWxIQMAskCXS) | [The Bright](https://open.spotify.com/artist/4hyy9Yw1ZxHW2WndWc92h8) | [Estados](https://open.spotify.com/album/7z1lOolKHAuPV34Z2F2Pu4) | 3:17 |
+| 57 | [Hexágonos](https://open.spotify.com/track/0n4ptp22JDQUx9krANAmCJ) | [The Bright](https://open.spotify.com/artist/4hyy9Yw1ZxHW2WndWc92h8) | [Stereoparty Summer 2013](https://open.spotify.com/album/4UUnVJHVdvzBfXOXet5RyK) | 3:17 |
 | 58 | [Sola](https://open.spotify.com/track/1eSAk6eLmRu7nGjyTx6T83) | [Lovely Luna](https://open.spotify.com/artist/2oiZAAYFPCML72PNdfZqSL) | [Las Cosas Que Nadie Debe Ver](https://open.spotify.com/album/35DW6GCuuzHDMxdEGmbcW7) | 3:17 |
 | 59 | [Half du temps](https://open.spotify.com/track/4b4uzzZAXHlAoEh1ZQ0Myb) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [La 4ième dimension \(Version Longue\)](https://open.spotify.com/album/5B8tJiqykn7ahWsA6gBM0M) | 4:55 |
 | 60 | [Si jamais j'oublie \- Sur la route Live 2015](https://open.spotify.com/track/1KkPVmfNmNND1vm5PhUv5R) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Sur la route](https://open.spotify.com/album/2XjgaeNxdUvGMwggCTSLXn) | 3:28 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 65 | [Les ombres](https://open.spotify.com/track/7Dpg3EFj6JmLK0zym1n3ox) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Innocent](https://open.spotify.com/album/2pr0ED2cGHRLw4SuGemHt1) | 3:49 |
 | 66 | [Eden \- Acoustic](https://open.spotify.com/track/5YLIsfWdeV6Yado1tVAKZZ) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Vous & moi](https://open.spotify.com/album/5pSQDgT8MXpFtgVR9ZFJRJ) | 4:09 |
 | 67 | [Babi'r Eirlys \- Live](https://open.spotify.com/track/4ErU8orOXurNZWpHjSs3Xn) | [9bach](https://open.spotify.com/artist/2NIcUSfuUPORqM5CaXZlIO) | [The Mark Radcliffe Folk Sessions: 9bach](https://open.spotify.com/album/3f4R2egQrunK3KCF9W1Gz4) | 3:02 |
-| 68 | [Voce piccolina](https://open.spotify.com/track/0AOcRnBwUbxziFJBUNx1ii) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/322waMAUtD8oVnHqqp78D1) | 1:43 |
+| 68 | [Voce piccolina](https://open.spotify.com/track/25Z9SXq4u07bbwzlUmOTlz) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/0nRwkAQQdM7xmVDisTIHWY) | 1:43 |
 | 69 | [Paistin Fionn](https://open.spotify.com/track/7pFgfFCjCnUBaXxRDXNp9x) | [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv), [Cormac De Barra](https://open.spotify.com/artist/7CU8rPAwRweVDFew1KHl9L) | [Timeless](https://open.spotify.com/album/6OgHHzJmrZUtZ6I6wT43sR) | 3:28 |
 | 70 | [Lei, Lui, Firenze](https://open.spotify.com/track/7CW5af6NMMuPVuNcWY1a9v) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Vol\. 2 \- Poveri Cristi](https://open.spotify.com/album/6o0SQJf2diRJ02V4Vx1lyh) | 4:20 |
 | 71 | [Me Quiero Enamorar](https://open.spotify.com/track/6NLRl5GwqFQ4JorXChVSZS) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro? \(Deluxe\)](https://open.spotify.com/album/6BVBG97h9uAFn1eOwckiwH) | 3:58 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 77 | [Hora Bruja](https://open.spotify.com/track/3KjUz9upExFV7dxsm9P45R) | [Cuchillo](https://open.spotify.com/artist/4HUoMCRLwJTGvuzcevaLVT) | [Encanto](https://open.spotify.com/album/7ghVkkWsjzTFna6lR0Axt1) | 3:53 |
 | 78 | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/track/6vOpTasDwu8gj7IRbFXNjE) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/album/2PjJMRedxiuCTtQgTkn2wR) | 3:41 |
 
-Snapshot ID: `MTY2NDIwNDI4OSwwMDAwMDAwMGFiNjcxNWIxMjg5ZjVmNGRlM2ExNjIxZmUyM2Y2YTg2`
+Snapshot ID: `MTY2NDIwNDI4OSwwMDAwMDAwMGUzNWMzODI1YjA5OWJmYWJlMmIwNGJlZjkxNGU3N2Y3`

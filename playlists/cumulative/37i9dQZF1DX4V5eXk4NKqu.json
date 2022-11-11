@@ -1125,6 +1125,24 @@
     {
       "album": {
         "name": "Invisible People",
+        "url": "https://open.spotify.com/album/0LQ5gWM3pvpS2iUhppk57p"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151360,
+      "name": "I know It",
+      "url": "https://open.spotify.com/track/5AKALt78WWmtF0KLi8B1QR"
+    },
+    {
+      "album": {
+        "name": "Invisible People",
         "url": "https://open.spotify.com/album/2sS14o33EFyvcUPu2dfPOT"
       },
       "artists": [
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 151360,
       "name": "I know It",
       "url": "https://open.spotify.com/track/6yMus09O66VTFrwaP9UbU5"
@@ -2886,6 +2904,24 @@
     },
     {
       "album": {
+        "name": "Today Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
+      },
+      "artists": [
+        {
+          "name": "Hunters of the Alps",
+          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233750,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/7E4v1Yp9OL5key6GTiH7kL"
+    },
+    {
+      "album": {
         "name": "Tormenta",
         "url": "https://open.spotify.com/album/35c6RFSwT57u84wDbLX4c0"
       },
@@ -2897,7 +2933,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 233750,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/7mHipoaIXyNYiJXwV5TjQw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,846 likes - 124 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,867 likes - 124 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 77 | [Forever Young](https://open.spotify.com/track/73XStpFTSHaY0LCSfkXbQu) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Forever Young](https://open.spotify.com/album/4xZ6GN7EvZeAPcne44y5wb) | 4:16 |
 | 78 | [Don't Drink Whiskey](https://open.spotify.com/track/31kF7HdCkTL4PcjYRHU5EE) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Don't Drink Whiskey](https://open.spotify.com/album/4iLmKTaXTnGxbv0mFBIchD) | 3:38 |
 | 79 | [All or Nothing at All](https://open.spotify.com/track/6gRPUax22F32VxOHu1PPWy) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [The Art of Dreaming](https://open.spotify.com/album/4S6jHcky7OZ13AFsf02kCy) | 3:06 |
-| 80 | [Oklahoma Breakdown](https://open.spotify.com/track/7J1w5qpIoFFE6YA9BJC5sk) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Peso in My Pocket](https://open.spotify.com/album/18AunqcqOhcZYZewF5uQFQ) | 3:31 |
+| 80 | [Oklahoma Breakdown](https://open.spotify.com/track/5RJiZmTaC9o57TSCZN5anN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Oklahoma Breakdown](https://open.spotify.com/album/5Pxx8mNX7bs9U7CeiH26T8) | 3:31 |
 | 81 | [Soft Lights and Hard Country Music](https://open.spotify.com/track/0LExOSWjzvIZ5tVJgemUJA) | [Moe Bandy](https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz) | [Soft Lights and Hard Country Music](https://open.spotify.com/album/72xd3lqNEvYcSUH37DSubJ) | 2:49 |
 | 82 | [Send Me](https://open.spotify.com/track/0Qx26shaWKuHbSqSCtgHrd) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Send Me](https://open.spotify.com/album/3LdFkofh38rBZRBZO7aRw9) | 3:14 |
 | 83 | [Where I Am Today](https://open.spotify.com/track/2QOk1rpS1exoxLCbcQHGW8) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [The Way I Wanna Go](https://open.spotify.com/album/60ev0o8cT8GbqMIYtfIssT) | 3:29 |
-| 84 | [Two Shots](https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Encore](https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51) | 2:50 |
+| 84 | [Two Shots](https://open.spotify.com/track/3oe8IMue6ACADm3oNe4r3e) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Soundtrack To Summer 2021 \(Deluxe Edition\)](https://open.spotify.com/album/1fc9zXrxkl5Jq7ywXtirNY) | 2:50 |
 | 85 | [Blue Bonnet Breeze](https://open.spotify.com/track/0wSRvzs3I0Dig07ejN2jiZ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 5:19 |
 | 86 | [I’ve Gotta Get A Message To You \(feat\. Keith Urban\)](https://open.spotify.com/track/55gWB0E5fwsIVfdGfrydoi) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greenfields: The Gibb Brothers' Songbook \(Vol\. 1\)](https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp) | 3:14 |
 | 87 | [She's Everything to Me](https://open.spotify.com/track/0bHVsXJYoL1vFnIKoW5VCK) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [She's Everything to Me](https://open.spotify.com/album/67BuFJwLDQ3j7nutc1cBQt) | 3:43 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 123 | [Oughta Miss Me by Now](https://open.spotify.com/track/6RcWdxxvdKiEByaJM3WEny) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Tradition Lives](https://open.spotify.com/album/3DMgEWtAZKzePMRCkh34gO) | 3:37 |
 | 124 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MTY2NzUzMDUzMCwwMDAwMDAwMGZjYTVlYzBmZWM5MWI4OGU5ZmY2ODU1NDI0ZDMyODA0`
+Snapshot ID: `MTY2NzUzMDUzMCwwMDAwMDAwMDcyNjFkOTUzMWY0ZTQ3MmI0YzZkNWIzMTA0YjlhNTkz`

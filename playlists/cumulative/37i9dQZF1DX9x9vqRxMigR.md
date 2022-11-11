@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-335 songs - 22 hr 6 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
+338 songs - 22 hr 17 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Are You Ready to Love Me?](https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 3:34 | 2021-02-23 | 2022-04-26 |
 | [As I Lay Dying](https://open.spotify.com/track/5Mkl5AXCLATHbaN7iQZ76a) | [Julia Othmer](https://open.spotify.com/artist/3XOfFAb1cUJ5C64hBuiy7z) | [Sound](https://open.spotify.com/album/3m7iNglvH57XNZitJtpm6d) | 3:13 | 2022-04-25 |  |
 | [As The River Flows](https://open.spotify.com/track/45EPYzt4RjUK1sCBytbKLd) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Woman](https://open.spotify.com/album/7g4MHBTNyltWpBByAvABWi) | 3:46 | 2022-04-25 | 2022-07-29 |
-| [As the River Flows](https://open.spotify.com/track/5ulmigTF4psOkLhwToBkAK) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Woman](https://open.spotify.com/album/6PKfvEiC1FXhm0ylnBRsya) | 3:46 | 2022-04-25 |  |
+| [As the River Flows](https://open.spotify.com/track/5ulmigTF4psOkLhwToBkAK) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Woman](https://open.spotify.com/album/6PKfvEiC1FXhm0ylnBRsya) | 3:46 | 2022-04-25 | 2022-11-11 |
+| [As The River Flows](https://open.spotify.com/track/1LvRSLxKzEWeGTnGLJexLC) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [As The River Flows](https://open.spotify.com/album/5SbuAZ7Klkiz8QuVik3Ptm) | 3:51 | 2022-04-25 |  |
 | [Atlantis](https://open.spotify.com/track/0H7eqbyDYORtJO5kT0woPY) | [Kerryn Fields](https://open.spotify.com/artist/2jegdxLxxGZPsh4z82CZwp) | [Atlantis](https://open.spotify.com/album/06qhhCoujBxJBRZ5zvmswD) | 4:05 | 2021-02-23 | 2022-04-26 |
 | [Awakened Heart](https://open.spotify.com/track/3nNEAQrJAeDEwnXtGuDDel) | [Tenzin Choegyal](https://open.spotify.com/artist/4C4wNUmOrOgXWI3S3twrl4) | [Tibet: Awakened Heart](https://open.spotify.com/album/7r6xUDLQ0NGIGJ8CozL5ON) | 7:35 | 2021-02-23 | 2022-04-26 |
 | [Bad at Love](https://open.spotify.com/track/6tinWEWPP9ePYJFODgp9iA) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Grounding Place, Vol\. I](https://open.spotify.com/album/3Ml0IIzGwp9hkWBQLS37AJ) | 4:51 | 2021-02-23 | 2022-04-26 |
@@ -95,7 +96,8 @@
 | [Encuentros](https://open.spotify.com/track/2gObpoSaEHBQ7a3GXN3hFg) | [Zal Sissokho](https://open.spotify.com/artist/4eUWr7M3K05S95fIOv9IsY) | [Kora Flamenca](https://open.spotify.com/album/6myR9Yce5R64qGI6hW57mM) | 3:54 | 2022-04-25 |  |
 | [Erin\-Go\-Bragh / Rakish Paddy](https://open.spotify.com/track/7JoxTFpjZjTbkO0UZV5GkO) | [Kate Burke & Ruth Hazleton](https://open.spotify.com/artist/1TSPyEkn57ocOLWJ2zGk1M) | [The Bee\-Loud Glade](https://open.spotify.com/album/7knf7ebylad5fMw2ofsWno) | 5:41 | 2021-02-23 | 2022-04-26 |
 | [Eurydice](https://open.spotify.com/track/2DlaXlHWzpleZVbjxHFriJ) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [The Eternal Rocks Beneath](https://open.spotify.com/album/0HHABaGdHHS7aVI6NV4nG5) | 4:37 | 2022-04-25 | 2022-07-29 |
-| [Eurydice](https://open.spotify.com/track/7JiIfHsVGiC4nVyaOoVEoS) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [The Eternal Rocks Beneath](https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS) | 4:37 | 2022-04-25 |  |
+| [Eurydice](https://open.spotify.com/track/2dxq3U31qBd10DmoK2NIaI) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [Eurydice](https://open.spotify.com/album/4qlcqjpeAsuyQgeuXU3FKc) | 4:37 | 2022-04-25 |  |
+| [Eurydice](https://open.spotify.com/track/7JiIfHsVGiC4nVyaOoVEoS) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [The Eternal Rocks Beneath](https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS) | 4:37 | 2022-04-25 | 2022-11-11 |
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 | 2021-02-23 | 2022-04-26 |
 | [Everyday Son](https://open.spotify.com/track/2SavJhC11BAeX063XDMKQ2) | [David Lafleche](https://open.spotify.com/artist/24BdJo2Xu9P9nRx3eiFdO3) | [Everyday Son](https://open.spotify.com/album/0NseF0IssZUdFeDgk1KHgd) | 3:57 | 2022-04-25 |  |
 | [Everything I Wanted](https://open.spotify.com/track/67lBaNakQuxqrWZ3JztjO8) | [Sussex](https://open.spotify.com/artist/2CUvKElMAsqJynUU5CwLH6) | [The Ocean Wide](https://open.spotify.com/album/4lvUIbZ2Lw5bZ6kAxRm5lg) | 3:02 | 2021-02-23 | 2022-04-26 |
@@ -254,8 +256,8 @@
 | [Semilla](https://open.spotify.com/track/2b7SfDE89026Le1vFtPFjb) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [Semilla](https://open.spotify.com/album/5jcRsORq3oQcWK1Zm9c59M) | 3:45 | 2022-04-25 |  |
 | [Shed My Skin](https://open.spotify.com/track/1bGPdyS36XoYjgOr7ElOVX) | [Dan Navarro](https://open.spotify.com/artist/5irRyGwF9biNvCNBkEIZft) | [Shed My Skin](https://open.spotify.com/album/6nil1IIWPZtOF3sYiZ7z3t) | 5:28 | 2021-02-23 |  |
 | [Si l'amour n'existait pas](https://open.spotify.com/track/3SMuAWMPHQlZQW44VOgv5A) | [Kelly Bado](https://open.spotify.com/artist/4pdErC5mMfPEADKzJcxW7o) | [Entre deux](https://open.spotify.com/album/6yruavHnz3c4pwTnPuqR2R) | 3:39 | 2021-02-23 | 2022-04-26 |
-| [Silver Lining](https://open.spotify.com/track/3y2ThkLdQlID0gFvopwnkm) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Bywater Call](https://open.spotify.com/album/0hEimpHPAWWfWs4v55F0Kz) | 4:56 | 2022-04-25 |  |
-| [Silver Lining](https://open.spotify.com/track/6lI6ygpmnhxiVWc2pqsYUq) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Bywater Call](https://open.spotify.com/album/4RshexUVMhQgKZFuLi9GMG) | 4:56 | 2022-04-25 | 2022-07-29 |
+| [Silver Lining](https://open.spotify.com/track/3y2ThkLdQlID0gFvopwnkm) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Bywater Call](https://open.spotify.com/album/0hEimpHPAWWfWs4v55F0Kz) | 4:56 | 2022-04-25 | 2022-11-11 |
+| [Silver Lining](https://open.spotify.com/track/6lI6ygpmnhxiVWc2pqsYUq) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Bywater Call](https://open.spotify.com/album/4RshexUVMhQgKZFuLi9GMG) | 4:56 | 2022-04-25 |  |
 | [Sins We Made](https://open.spotify.com/track/6o0uTd9A3SHfmhyIhnAcp6) | [Harrow Fair](https://open.spotify.com/artist/25SnqefE8tn1TyqvvivBEb) | [Sins We Made](https://open.spotify.com/album/5aRIIWmvdFS8M49sUC2BxR) | 3:06 | 2021-02-23 | 2022-04-26 |
 | [Someone](https://open.spotify.com/track/5r0ixRffPjtVlj2VUbCTcm) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Someone](https://open.spotify.com/album/6OG669baXFkVHumwTUqVfP) | 3:37 | 2022-04-25 |  |
 | [Song of the Lower Classes](https://open.spotify.com/track/0U2mWcxVKSuEWmQDosQhWR) | [Windborne](https://open.spotify.com/artist/6pFQf4TE125UhAKXrt0Pou) | [Recollections \| Revolutions](https://open.spotify.com/album/3h4FdUbcYMCzsGnQIa7hkq) | 3:58 | 2022-04-25 |  |
@@ -281,7 +283,8 @@
 | [The Doffing Mistress](https://open.spotify.com/track/72bZmDzbGMxowdGNyQW7AY) | [Varo](https://open.spotify.com/artist/5kKhaRaOYiUyP2NimolxL5) | [Varo](https://open.spotify.com/album/6tGslHV3epjKaTdtLKPPDn) | 2:11 | 2021-02-23 | 2022-04-26 |
 | [The Flood](https://open.spotify.com/track/2YdU9FRM7fYiZ9B2KOUIpl) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [In Deepest Blue \(Bonus Track Version\)](https://open.spotify.com/album/7nSIlWXzql4FW4JG8v2OcE) | 4:21 | 2021-02-23 | 2022-04-26 |
 | [The It Girl](https://open.spotify.com/track/04Tk8Bp1n4PPRFJGTNCooO) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Woman in Color](https://open.spotify.com/album/7pPR3wabtIfX0k3qN8uGeY) | 2:42 | 2022-04-25 | 2022-11-03 |
-| [The It Girl](https://open.spotify.com/track/3v2Zzn2Dh5QpVCiV2jkHsa) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Woman in Color](https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg) | 2:42 | 2022-04-25 |  |
+| [The It Girl](https://open.spotify.com/track/3v2Zzn2Dh5QpVCiV2jkHsa) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Woman in Color](https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg) | 2:42 | 2022-04-25 | 2022-11-11 |
+| [The It Girl](https://open.spotify.com/track/6tZmwrFzANQW9AoSZBMmb8) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [The It Girl](https://open.spotify.com/album/4qOJiOFQcGwQ97sIONUWXN) | 2:42 | 2022-04-25 |  |
 | [The Killing Times](https://open.spotify.com/track/7InKmSKkQqAFOEZTfvbQ2X) | [Ruth Hazleton](https://open.spotify.com/artist/1PQMtrdmdo7Gi7FXoAAUgt) | [Daisywheel](https://open.spotify.com/album/3hxjJpFxW7JFtFdSryj4Pa) | 4:44 | 2021-02-23 | 2022-04-26 |
 | [The Lick](https://open.spotify.com/track/26vW8FjqRbrYJlS5ttvJRm) | [New Orleans Nightcrawlers](https://open.spotify.com/artist/6gVfJrACKmIeDRXBQV2qrQ) | [Atmosphere](https://open.spotify.com/album/7A7tAQa8C6AWd5NZ0lJavB) | 5:10 | 2021-02-23 | 2022-04-26 |
 | [The Long Way Around](https://open.spotify.com/track/0QrbEUOAudJejbINJ4CrF0) | [Gaelynn Lea](https://open.spotify.com/artist/68zltLWXjBB3dIqHikDXZy) | [The Long Way Around](https://open.spotify.com/album/2WCLjdMsLwL0pJSBL7dHhf) | 4:42 | 2022-04-25 |  |

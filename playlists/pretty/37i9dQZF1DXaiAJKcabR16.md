@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,720 likes - 62 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,802 likes - 62 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 7 | [Methhead](https://open.spotify.com/track/2mLYN7Hz2czFkZugFscrrb) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Off This Mountaintop](https://open.spotify.com/album/5ihcQ3YrAH2Ip9wHUqeQyT) | 3:50 |
 | 8 | [Big Boss Man](https://open.spotify.com/track/6YZm2uEonZWcnOO2Uo2Fyb) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [The Northern South, Vol\. 1](https://open.spotify.com/album/0qvm65mwPYGTQL33VxDJ3X) | 3:45 |
 | 9 | [Walking Back from Willmar](https://open.spotify.com/track/5fe7FqNTsej6UrBWOcP6FO) | [Charlie Parr](https://open.spotify.com/artist/2OOAWkt15smEKXtNNLtaNG) | [Last of the Better Days Ahead](https://open.spotify.com/album/3jxu9hO2uxFldtmzZGXYBv) | 4:18 |
-| 10 | [Thousand Mile Night](https://open.spotify.com/track/4q4F2OEZJ2EQuRNBKytiDr) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/4LkEoMZMHwVWLByjtt4wQf) | 3:55 |
+| 10 | [Thousand Mile Night](https://open.spotify.com/track/34Uf3UWc5oUd5f0NxZ1KJR) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/3NrqvphiHgZq1golNdpyKv) | 3:55 |
 | 11 | [Lead Me Home \- The Walking Dead Soundtrack](https://open.spotify.com/track/2DBFAJgsqhYk5Z1AF7tAMH) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [The Walking Dead \(AMC’s Original Soundtrack – Vol\. 1\)](https://open.spotify.com/album/6m6doB3yM5Fehx4wukSvEs) | 1:57 |
 | 12 | [Whispered Words \(Pretty Lies\)](https://open.spotify.com/track/6KPaX2zvWAOXYZjvhqdQZj) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/2KQn93GMsH7IoOvQ0Hlqzx) | 4:06 |
 | 13 | [On the Road Again](https://open.spotify.com/track/1BQkVDlEOtYKOaotnJuNzz) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Along the Trail of Tears](https://open.spotify.com/album/6IcVeQFhXfXimexDoOYJoy) | 3:43 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 18 | [Heaven Sent](https://open.spotify.com/track/0FbKvqTBo2TsSzhT5ohFI2) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:52 |
 | 19 | [Heaven Bent](https://open.spotify.com/track/0bjTW3zBohWdYy2z1Sf5hJ) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM) | 6:47 |
 | 20 | [Darkwater](https://open.spotify.com/track/6ym2fufsRInM3WzIdIqsOw) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Darkwater](https://open.spotify.com/album/5LZVAYPoQPQDMsMEMXSRmj) | 4:46 |
-| 21 | [She Took a Gamble](https://open.spotify.com/track/0LzMVEtDRKTQ2WlIVUXT8s) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9) | [Way Out I'll Wander](https://open.spotify.com/album/1b6Q0enFSwYs4FiOrbgpEQ) | 3:15 |
+| 21 | [She Took a Gamble](https://open.spotify.com/track/0UoDM2sB2HUAWPbYbv519q) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9) | [Sounds from Scotland , Vol\. 1](https://open.spotify.com/album/4CChRZ07cnoKZHCp1gHHZw) | 3:13 |
 | 22 | [Little Jose](https://open.spotify.com/track/4t8HYOqorDEhyVGHHxCmXw) | [Grey Reverend](https://open.spotify.com/artist/1EbvbxCONeiXZTVIS2Cw0e) | [A Hero's Lie \(Spotify Exclusive Version\)](https://open.spotify.com/album/1aey7yOQZ0QUM5CI3FF1dT) | 1:59 |
 | 23 | [Bloodshot \- Demo](https://open.spotify.com/track/00AVBnaQz7yRv8NTpNlCVU) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Lovers](https://open.spotify.com/album/1pUKusc74fo1nc4reY2S5g) | 2:52 |
 | 24 | [Singing Saw](https://open.spotify.com/track/2f2UMBkyUl8gnEdV0rju4N) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9) | 7:15 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 26 | [Little Red Rooster](https://open.spotify.com/track/06PsyBBc0YCQhGNlfPZ1SS) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Bad for Me \- EP](https://open.spotify.com/album/176IZWTuFw7Ei2n3OtUl4p) | 3:21 |
 | 27 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 |
 | 28 | [Missing At Sea](https://open.spotify.com/track/0xgm9ojDGh01nTsreKg0oL) | [Maggie Bjorklund](https://open.spotify.com/artist/4uk9cWBqeiel7tO1w9MPe0) | [Shaken](https://open.spotify.com/album/4vxZh8neUimC0CcU5LtLQe) | 3:38 |
-| 29 | [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:10 |
+| 29 | [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0TiYwuMsemJ0Q9JLWxTjSx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 6:10 |
 | 30 | [Slow Coming](https://open.spotify.com/track/6GFVx3gX6wY93AuWlQi2Zk) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu) | 4:31 |
-| 31 | [An Honest Man](https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [An Honest Man](https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj) | 4:06 |
+| 31 | [An Honest Man](https://open.spotify.com/track/05cf2i1rTtxo6n9XbIHPKZ) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito Deluxe EP](https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn) | 4:06 |
 | 32 | [Crocodile Tears](https://open.spotify.com/track/63nVPOyNp8vZNblAozzNcP) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 3:55 |
 | 33 | [I Can't Go on Without You](https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 6:17 |
 | 34 | [My Love Will Never Die](https://open.spotify.com/track/5XYmnUaaZ3D9Sqdt9SInEn) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Deluxe\)](https://open.spotify.com/album/7HW03Zew4rnOhy5uwskRSz) | 3:55 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 61 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
 | 62 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
 
-Snapshot ID: `MTYyNzYxNzY2MCwwMDAwMDAwMDlmZWYwODdjMTYwZDgxMDU3NjBhNjc4ZGY0NjJjNmM0`
+Snapshot ID: `MTYyNzYxNzY2MCwwMDAwMDAwMGFiNmQyZDI1ZDFlZTE1NDE5NWRiMzkzMDlmODM5ODdh`

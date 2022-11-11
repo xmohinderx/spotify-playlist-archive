@@ -456,6 +456,24 @@
     },
     {
       "album": {
+        "name": "COVERS",
+        "url": "https://open.spotify.com/album/3WS5vftB6hZY5YphrmMiWh"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182986,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/0ccN3wJBt8r5x6Mi4TOF5E"
+    },
+    {
+      "album": {
         "name": "Lovers on a Trip",
         "url": "https://open.spotify.com/album/3pA1FWte5URT8Vh1eKStV2"
       },
@@ -485,7 +503,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 182986,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD"
@@ -3651,7 +3669,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 228000,
       "name": "Love on Top",
       "url": "https://open.spotify.com/track/2p49O7MazA7DBeS9IS9erq"
@@ -3673,6 +3691,24 @@
       "duration_ms": 228000,
       "name": "Love on Top",
       "url": "https://open.spotify.com/track/61RtRHxYsVQlHgNAFdFVea"
+    },
+    {
+      "album": {
+        "name": "Turn Her Up",
+        "url": "https://open.spotify.com/album/1ybaHdwIqpu3FRr4Lxk06Q"
+      },
+      "artists": [
+        {
+          "name": "Sophie Rose",
+          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Love on Top",
+      "url": "https://open.spotify.com/track/6NcL2bmAnqK6eo28y9UeYK"
     },
     {
       "album": {
@@ -4318,6 +4354,24 @@
     },
     {
       "album": {
+        "name": "NOW That's What I Call Music, Vol. 77",
+        "url": "https://open.spotify.com/album/3P2f6BPhDskUbM5hnvzkLQ"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/4Wd48CF1H2DvhpETlcFrbN"
+    },
+    {
+      "album": {
         "name": "Put Your Records On",
         "url": "https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM"
       },
@@ -4347,7 +4401,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 210463,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"

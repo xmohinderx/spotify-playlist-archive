@@ -4,7 +4,7 @@
 
 > Il meglio del jazz italiano, in una selezione speciale a cura degli <a href="spotify:artist:1rWbZmR5D63aZU60lMtVZx">Studio Murena</a>.
 
-154 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/4ci8LwC6vBaMAmVvAWXsOb)
+155 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/4ci8LwC6vBaMAmVvAWXsOb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Hana\-bi](https://open.spotify.com/track/0905xQkLbHlEl2ThjXUcth) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 1:54 | 2022-09-30 | 2022-11-03 |
 | [Hangover](https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Alchimia](https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po) | 3:45 | 2022-11-02 |  |
 | [Ho Capito Che Ti Amo](https://open.spotify.com/track/2Yh4T6SjI1M7cAq7pFMIr9) | [Tiziana Ghiglioni](https://open.spotify.com/artist/5dGQIc5HNIp7NUZLFbXEye) | [Canta Tenco](https://open.spotify.com/album/18XNWv5F5FcvnCp08CEF8g) | 3:55 | 2022-08-31 | 2022-10-01 |
-| [How Do We Know We're Alive](https://open.spotify.com/track/1zFMvBk0MCRSUU2gxNFlZz) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 3:51 | 2022-11-02 |  |
+| [How Do We Know We're Alive](https://open.spotify.com/track/1zFMvBk0MCRSUU2gxNFlZz) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 3:51 | 2022-11-02 | 2022-11-11 |
+| [How Do We Know We're Alive](https://open.spotify.com/track/2ZU2uV7bH48wu7auFnw2Qy) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [How Do We Know We're Alive](https://open.spotify.com/album/3DaFZoTxOJxdxvFFbO2qZy) | 3:51 | 2022-11-07 |  |
 | [Howls](https://open.spotify.com/track/0h51tz4qtVPvygXm291ceN) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Afrobeat Makers, Vol\. 3 \(The Tony Allen Experiments\)](https://open.spotify.com/album/1GjbremREcqamlsdqM3gEI) | 4:01 | 2022-11-02 |  |
 | [Hula Om](https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz) | [Raul Lovisoni](https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48), [Francesco Messina](https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj) | [Prati Bagnati Del Monte Analogo](https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB) | 9:26 | 2022-09-30 | 2022-11-03 |
 | [Hypermnesia \- \(Album Version\)](https://open.spotify.com/track/2kuj7UgWG37nOOSpvdfybm) | [Kidd Mojo](https://open.spotify.com/artist/6YD6OHFh82LSUzmnbmpwFR) | [Dionysia](https://open.spotify.com/album/5vZuXWCLv1U3uBL6Es50OX) | 2:53 | 2022-11-02 |  |

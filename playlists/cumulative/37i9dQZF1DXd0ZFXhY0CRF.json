@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Female Rockers",
+        "url": "https://open.spotify.com/album/1GXtqtmRnjLjxZVzuzOpGS"
+      },
+      "artists": [
+        {
+          "name": "Flyleaf",
+          "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60"
+        }
+      ],
+      "date_added": "2020-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198466,
+      "name": "All Around Me",
+      "url": "https://open.spotify.com/track/4RgROifXVgxP6c8VETwWSq"
+    },
+    {
+      "album": {
         "name": "Flyleaf (Re-Release)",
         "url": "https://open.spotify.com/album/0XvHcGX9MJXt9Cx1Iml7WS"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 198506,
       "name": "All Around Me",
       "url": "https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y"
@@ -116,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Anarchy",
+        "url": "https://open.spotify.com/album/79cfwYmw0Dv4sRSa9tPwaY"
+      },
+      "artists": [
+        {
+          "name": "Lilith Czar",
+          "url": "https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234797,
+      "name": "Anarchy",
+      "url": "https://open.spotify.com/track/4YAXAwEpTM9MItXnpX8UJo"
+    },
+    {
+      "album": {
         "name": "Created From Filth And Dust",
         "url": "https://open.spotify.com/album/3wrOixk8SLnjk4siR58e8q"
       },
@@ -127,7 +163,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 234797,
       "name": "Anarchy",
       "url": "https://open.spotify.com/track/7hhEE2RYqGIXl5u8rB1G70"
@@ -368,6 +404,24 @@
     },
     {
       "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/1syQ3F5kKN1JdqF6fbDMDc"
+      },
+      "artists": [
+        {
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+        }
+      ],
+      "date_added": "2020-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/05jUpJAbg7xtLzB5lsnm64"
+    },
+    {
+      "album": {
         "name": "Last Splash",
         "url": "https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A"
       },
@@ -379,7 +433,7 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb"
@@ -793,10 +847,28 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 232530,
       "name": "Don't Wanna Fight",
       "url": "https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK"
+    },
+    {
+      "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2020-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232546,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
     },
     {
       "album": {
@@ -854,6 +926,24 @@
     },
     {
       "album": {
+        "name": "Classic Rock",
+        "url": "https://open.spotify.com/album/1dmUuvZpyP7192n2QduYPK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "date_added": "2020-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329413,
+      "name": "Edge of Seventeen - 2016 Remaster",
+      "url": "https://open.spotify.com/track/3zg5K7IokI86JdKjRC1gyp"
+    },
+    {
+      "album": {
         "name": "Bella Donna (2016 Remastered)",
         "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
       },
@@ -865,7 +955,7 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 329413,
       "name": "Edge of Seventeen - 2016 Remaster",
       "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z"
@@ -1193,10 +1283,28 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 171266,
       "name": "Hit Me With Your Best Shot",
       "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
+    },
+    {
+      "album": {
+        "name": "Trending Now Volume 19",
+        "url": "https://open.spotify.com/album/5Slgz8afL8MBypBQzs1Lm6"
+      },
+      "artists": [
+        {
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+        }
+      ],
+      "date_added": "2020-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172133,
+      "name": "Hit Me With Your Best Shot",
+      "url": "https://open.spotify.com/track/1rCMzndNSm36yUAn2uHBPW"
     },
     {
       "album": {
@@ -1791,10 +1899,32 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 253333,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
+    },
+    {
+      "album": {
+        "name": "Bang: The Bert Berns Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4VkQxw6r5SdO4o4yHnNxL9"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2020-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253506,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/3cCUAhulFXxN9CZRr5inpe"
     },
     {
       "album": {
@@ -1953,10 +2083,28 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 181868,
       "name": "Raise Hell",
       "url": "https://open.spotify.com/track/2NPHU2WJaI3rrtCNNuQ8L1"
+    },
+    {
+      "album": {
+        "name": "Helloween Playlist",
+        "url": "https://open.spotify.com/album/2qaST3gWF7UuyMCmfZ6Vc0"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "date_added": "2020-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181868,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/3Mzo0ZldvnfQE2n2Gq7MNK"
     },
     {
       "album": {
@@ -1975,6 +2123,24 @@
       "duration_ms": 157333,
       "name": "Rebel Girl",
       "url": "https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf"
+    },
+    {
+      "album": {
+        "name": "Badass Females",
+        "url": "https://open.spotify.com/album/21YGYYto3r09ftcws57EdL"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2020-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214280,
+      "name": "River",
+      "url": "https://open.spotify.com/track/27DA5qcRz7oH54OVNuhuUr"
     },
     {
       "album": {
@@ -2007,7 +2173,7 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 216133,
       "name": "River",
       "url": "https://open.spotify.com/track/3mRLHiSHYtC8Hk7bzZdUs1"
@@ -2205,7 +2371,7 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 174840,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
@@ -2227,6 +2393,24 @@
       "duration_ms": 178146,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga"
+    },
+    {
+      "album": {
+        "name": "Nipper's Greatests Hits 60's Vol. 1",
+        "url": "https://open.spotify.com/album/20LPP32QEkCQyGIfVdhHbl"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "date_added": "2020-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/6RXfcKPFgi9c6nkqRCEDxZ"
     },
     {
       "album": {
@@ -2374,6 +2558,28 @@
     },
     {
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/2sZru5MnueG8ObyiXD9ZzF"
+      },
+      "artists": [
+        {
+          "name": "Chris Norman",
+          "url": "https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc"
+        },
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237306,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0W2YHPb3GTLrcdHF2LOa20"
+    },
+    {
+      "album": {
         "name": "Stumblin' In (2017 Remaster)",
         "url": "https://open.spotify.com/album/70zwk7XkGn8CRIObD3a40F"
       },
@@ -2389,7 +2595,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 239611,
       "name": "Stumblin' In - 2017 Remaster",
       "url": "https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7"
@@ -2847,10 +3053,28 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 306440,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
+    },
+    {
+      "album": {
+        "name": "Halloween Jams 2020",
+        "url": "https://open.spotify.com/album/1b9RjoKhEo4jZtS3v7aALc"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2020-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307440,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/1ybwx3USZGwoSEtenDcMvd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,391 likes - 70 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,505 likes - 70 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 39 | [Lighthouse \(feat\. Da Capo & Sun\-El Musician\)](https://open.spotify.com/track/35qHKKZbmtFEjhlMTCymIn) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Lighthouse \(feat\. Da Capo & Sun\-El Musician\)](https://open.spotify.com/album/0SJLsjE3ZDpYkwSXZ4IDLL) | 5:35 |
 | 40 | [24Seven \- Enoo Napa Remix](https://open.spotify.com/track/2eDSiPA2s9WPQwO7KvwXWe) | [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Fortune Shumba](https://open.spotify.com/artist/1rSf3cW8isRbjDrqPASrk3) | [24Seven Remixes](https://open.spotify.com/album/4XppKFrcjhme8obIrdPImQ) | 5:45 |
 | 41 | [Jaiva](https://open.spotify.com/track/12Ku1NS3BZXlaav5wxF7us) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1) | [The Landlord](https://open.spotify.com/album/2OafnFHNqwbtUvIXesnSth) | 6:31 |
-| 42 | [I Did It \(Bum Bum\)](https://open.spotify.com/track/0Y1DdSpkxR1YX1lOxk1V6Z) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [I Did It \(Bum Bum\)](https://open.spotify.com/album/7E1fYgJc0JPn19Rj1dOj7G) | 3:43 |
+| 42 | [I Did It \(Bum Bum\)](https://open.spotify.com/track/5BjWsMcUj81j4Ly58yQVP2) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [Lagos to Jozi](https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp) | 3:43 |
 | 43 | [Out of Africa](https://open.spotify.com/track/1LQgm4SnlgeNriEJdEd9AE) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Africa Gets Physical, Vol\. 4](https://open.spotify.com/album/3EYT5rRhfYfz4ttOl2ILEr) | 7:33 |
 | 44 | [Closer](https://open.spotify.com/track/7G4v7DqAAJTOu8PBtE1qsS) | [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Closer / Ma Vie Celeste](https://open.spotify.com/album/3mRuix6vGc5tDkZCao3LiJ) | 6:32 |
 | 45 | [IgamaLami \- Drunky Daniels Remix](https://open.spotify.com/track/5pD7SDdeqQdO9mLCUfax1d) | [Kryptic \(UK\)](https://open.spotify.com/artist/59UMeQA7p4vUyRBrlOWeSJ), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Drunky Daniels](https://open.spotify.com/artist/5cUKEZqKoefSSPTe4hVtBb) | [IgamaLami](https://open.spotify.com/album/0XQDhZlqQt9yDMhc8BQYoS) | 6:28 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 61 | [Ababuyanga](https://open.spotify.com/track/61fo1fYkvovgboDvh96ypB) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte) | [Ababuyanga](https://open.spotify.com/album/7cxge2UzseXMcSs2BMlGrg) | 6:15 |
 | 62 | [Phuze](https://open.spotify.com/track/1kny8eA0I5sU4deUq8dqfi) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H) | [Phuze](https://open.spotify.com/album/4LjhAwYIgU7lqqcM1hUZjv) | 6:06 |
 | 63 | [Higher](https://open.spotify.com/track/0rmFBhKvt0KZI10t2coIYK) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [Higher](https://open.spotify.com/album/4r70J7JF6RgIDNYFUFZjBz) | 8:13 |
-| 64 | [Too Sweet \(O Dun\)](https://open.spotify.com/track/1EX1Pke2k6d2ry5XLbDtqE) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Too Sweet \(O Dun\)](https://open.spotify.com/album/253e0DnC2BETCzs8ukwBkn) | 3:36 |
+| 64 | [Too Sweet \(O Dun\)](https://open.spotify.com/track/2cddUAysuPylQ5wVtdAUWy) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Lagos to Jozi](https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp) | 3:36 |
 | 65 | [uZuma Yi Star](https://open.spotify.com/track/5nODRjipBlMl6SJ4ZQ6oVD) | [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [uZuma Yi Star](https://open.spotify.com/album/7EECsOk0jkqwqkHi8B3Im1) | 6:38 |
 | 66 | [Trip Session](https://open.spotify.com/track/7rUIoOYx3ati9dCRWQdufx) | [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi) | [Trip Session](https://open.spotify.com/album/3WQzxeVf6BkspkAR8FKkMA) | 6:56 |
 | 67 | [Faster](https://open.spotify.com/track/74N8lnMrguCPF0TRVLYG1t) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Faster](https://open.spotify.com/album/2EEZMFcpzSYOklnonD9p3p) | 4:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 69 | [Gijima](https://open.spotify.com/track/4Hmn7cV99LSZvSh2nqEqRX) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [The Landlord](https://open.spotify.com/album/2OafnFHNqwbtUvIXesnSth) | 6:02 |
 | 70 | [Jamii Yetu \- Thandi Draai Rework](https://open.spotify.com/track/7zG9XZJft8wtIg4C1dVvOq) | [Msafiri Zawose](https://open.spotify.com/artist/11ouELfzx4OsUjTQNlOa8w), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Paradise Reworks](https://open.spotify.com/album/1ToafUTjBO6JMd7YuwgGDE) | 5:26 |
 
-Snapshot ID: `MTY1NDI1OTY0OSwwMDAwMDAwMDdmNThlYjg1Y2I0ZmNjNDY4MzdjMDhhNzhlNjllMjYx`
+Snapshot ID: `MTY1NDI1OTY0OSwwMDAwMDAwMDM3OTkxMGIyM2JlMzNiZDU0NmQwYzU5YThhYTE3ZTUz`

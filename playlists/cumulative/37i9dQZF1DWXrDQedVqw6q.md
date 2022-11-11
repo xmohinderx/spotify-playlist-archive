@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-153 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
+154 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Calling](https://open.spotify.com/track/0BY0tUd1MNhONkZwNyMCVg) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling](https://open.spotify.com/album/6DuVMjQuRjgYKmKZNQs1bu) | 2:26 | 2022-03-21 |  |
 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 | 2022-03-21 |  |
 | [Castaway](https://open.spotify.com/track/3BUiTyv4rgWL1GfVoBPwNH) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Endless](https://open.spotify.com/album/6KdAlVq1oJu7uaA8eAYJf6) | 4:15 | 2022-03-21 | 2022-07-29 |
-| [Castaway](https://open.spotify.com/track/6HUD7q1WnnVbZ7W29y0V3c) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 4:15 | 2022-07-08 |  |
+| [Castaway](https://open.spotify.com/track/69zBh0kdUlx0qN0W4trzcp) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Endless](https://open.spotify.com/album/6VPGoZbNiZv3e8Ym7tgMMt) | 4:15 | 2022-10-15 |  |
+| [Castaway](https://open.spotify.com/track/6HUD7q1WnnVbZ7W29y0V3c) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 4:15 | 2022-07-08 | 2022-11-11 |
 | [Cedar Tree](https://open.spotify.com/track/3eGM7i0W651ugxqdKx9kJj) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Cedar Tree](https://open.spotify.com/album/6qOdM0nwzdD6vFt2OiTsZn) | 4:11 | 2022-03-21 |  |
 | [Changes Within](https://open.spotify.com/track/4hdZ8pWXvypfP0FrQTVwCs) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [A Moment of Peace](https://open.spotify.com/album/5tmAu34wwfkAzZrQZZqa3M) | 2:55 | 2022-03-21 |  |
 | [Chromium](https://open.spotify.com/track/2xMdXQxvOJGozOU0Y6gKmw) | [Míper Güel](https://open.spotify.com/artist/6AHriuTXUDvLZWoEMa0SmN) | [Chromium](https://open.spotify.com/album/1ZNEdw4CeZ0kFFBbGDRt1j) | 3:35 | 2022-09-13 |  |

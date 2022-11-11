@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 
 > Elvis Presley's most romantic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,525 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,680 likes - 36 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:38 |
 | 2 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 |
 | 3 | [It's Now or Never](https://open.spotify.com/track/6p8LNHMqJiUMjPXy4rnO5H) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:14 |
-| 4 | [Unchained Melody \- Live at Ann Arbor, MI](https://open.spotify.com/track/0OavtQSojULqejmC4Qbstr) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Moody Blue](https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08) | 2:31 |
-| 5 | [Memories \- Live from the '68 Comeback Special](https://open.spotify.com/track/7rksaFFjea7QqvEXIluPAd) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [NBC\-TV Special \(Live\)](https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX) | 3:20 |
+| 4 | [Unchained Melody \- Live at Ann Arbor, MI](https://open.spotify.com/track/20ecDYYEt63gvOXOEC50IZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis: Hound Dog & Other Hits](https://open.spotify.com/album/3B6LFPHllN9PdGlMY93BRB) | 2:31 |
+| 5 | [Memories \- Second 'Sit\-Down' Show \- Live](https://open.spotify.com/track/64Boppd2W5mvNChiQDKZiV) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | ['68 Comeback Special \(50th Anniversary Edition\) \[Live\]](https://open.spotify.com/album/62CwfDeiM9t81FaFHebuUm) | 3:12 |
 | 6 | [Kentucky Rain](https://open.spotify.com/track/1dIChAQ6MLzIsXWl6vWAqX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 3:15 |
 | 7 | [Pocketful of Rainbows](https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [G.I\. Blues](https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT) | 2:34 |
 | 8 | [Fever](https://open.spotify.com/track/73m8WuJlhzVusTVzJCGaDZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Is Back](https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1) | 3:32 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 18 | [For Ol' Times Sake](https://open.spotify.com/track/7DSUykao1FtU4vfFReDsfd) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Raised On Rock](https://open.spotify.com/album/2ZRE01JESBDtXwXckqGZY6) | 3:36 |
 | 19 | [Hurt](https://open.spotify.com/track/4ugBXQVxTzKLmdCRL7yRRa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis Presley Boulevard, Memphis, Tennessee](https://open.spotify.com/album/6Kc8A5gqFZjDUeq77xSAK6) | 2:07 |
 | 20 | [You Don't Know Me](https://open.spotify.com/track/1EOsMbGG8ej3tTDQ735Ch7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Clambake](https://open.spotify.com/album/6rgQTKAl5UXrWhPUKuIGFN) | 2:29 |
-| 21 | [Crying In the Chapel](https://open.spotify.com/track/2inb1KNU2bGIkldLsuDb83) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [How Great Thou Art](https://open.spotify.com/album/7N1t7WzloZyMj95jk6CSCt) | 2:25 |
-| 22 | [There Goes My Everything](https://open.spotify.com/track/0LoDU83vAUpVxYfJvyxxRc) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Imperials Quartet](https://open.spotify.com/artist/1B1WOhGxd1FFRPVlnUAcOu) | [Elvis Country](https://open.spotify.com/album/5nFIESxbIeBxoREzNMzzbN) | 3:10 |
+| 21 | [Crying In the Chapel](https://open.spotify.com/track/2f0Ecc2xim1koaWNpbKP9a) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis: Hound Dog & Other Hits](https://open.spotify.com/album/3B6LFPHllN9PdGlMY93BRB) | 2:23 |
+| 22 | [There Goes My Everything](https://open.spotify.com/track/6UJVzjoGFszWqIZHmgDIFa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Walk a Mile in My Shoes: The Essential '70s Masters](https://open.spotify.com/album/5mzwE7oF97fP2vxdtgf6HH) | 2:59 |
 | 23 | [And I Love You So](https://open.spotify.com/track/62p6cgUc0cdguS1DttbfKU) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Today \(Legacy Edition\)](https://open.spotify.com/album/1NABHde4P06V7SyuYRRm2x) | 3:39 |
 | 24 | [She Wears My Ring](https://open.spotify.com/track/74qkAezgb0SxD5IWUC7vF5) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis At Stax](https://open.spotify.com/album/3EHxFLhmgSGEBmJ7tFXwRz) | 3:21 |
 | 25 | [You've Lost That Loving Feeling \- Live at The International Hotel, Las Vegas](https://open.spotify.com/track/3Kb4kr3DGzzU5OtYqycWvE) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [That's the Way It Is](https://open.spotify.com/album/5Daouulcid6tWztS39KWhc) | 4:24 |
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 28 | [I'll Never Fall In Love Again](https://open.spotify.com/track/4yT5usLhavd4mzP14LSiPU) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis Presley Boulevard, Memphis, Tennessee](https://open.spotify.com/album/6Kc8A5gqFZjDUeq77xSAK6) | 3:44 |
 | 29 | [Have I Told You Lately That I Love You](https://open.spotify.com/track/788AeYEaCvfFmuIHhb64Wn) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 2:30 |
 | 30 | [Love Me](https://open.spotify.com/track/2DQ5r0crvortwaNRYcninK) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis](https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ) | 2:43 |
-| 31 | [I Want You, I Need You, I Love You](https://open.spotify.com/track/60tEaPHRJLnMzbyOPTeh3A) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:39 |
+| 31 | [I Want You, I Need You, I Love You](https://open.spotify.com/track/5NjPoMOauLidNMnHIVeE9C) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 2nd To None](https://open.spotify.com/album/0p8PgHjOZJ6MrbHUXQ8ENM) | 2:40 |
 | 32 | [Loving You](https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 2:13 |
 | 33 | [It's Midnight](https://open.spotify.com/track/4pKfihh0OKoOfxirI6gmXR) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Promised Land](https://open.spotify.com/album/47pECKZZzoUQ2aug4zJLGv) | 3:21 |
-| 34 | [Surrender](https://open.spotify.com/track/1aECQTfv5SO42lU4fvrdJJ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 1:52 |
+| 34 | [Surrender](https://open.spotify.com/track/1GOZfb8VxBgx5xUyvUqhMq) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [From Nashville To Memphis \- The Essential 60s Masters I](https://open.spotify.com/album/2NQk9PwXk5xL8UPOdEvBVr) | 1:52 |
 | 35 | [\(Let Me Be Your\) Teddy Bear](https://open.spotify.com/track/4FjkmQ9JYaIeh1NxeLEO80) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 1:46 |
 | 36 | [I Can't Stop Loving You \- Live at Convention Center Arena, San Antonio, TX \- April 18, 1972](https://open.spotify.com/track/27UvL4m5Si1QmlXdBIEaVt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis: Close Up](https://open.spotify.com/album/3kBT5ef0KWAuZokS4IWV7C) | 2:25 |
 
-Snapshot ID: `MTY2MTE4NzMwOCwwMDAwMDAwMDAzZTIxMjdlMzIwOTFjN2M5NzFkNGZkZTM4ZTRmOTE1`
+Snapshot ID: `MTY2MTE4NzMwOCwwMDAwMDAwMDdmZjY1NjM2OGUzMzQ5ZmQyM2EzNGU0ZjlmMmQ0NjIx`

@@ -376,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Let You Go EP",
+        "url": "https://open.spotify.com/album/1SiqAx9GPzydcyjRUlIQgt"
+      },
+      "artists": [
+        {
+          "name": "WILDES",
+          "url": "https://open.spotify.com/artist/0ypTT9UqAU5sZpPo5JZmjR"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258948,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/3k6ynBjbzR70nAYoFDXVta"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/47NSsDlBHgoKAdNAYgQQ9F"
       },
@@ -387,7 +405,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 258948,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5myZVX38UJW62XkDZR3N4u"
@@ -1869,10 +1887,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 260225,
       "name": "Our Bones Turn To Stone",
       "url": "https://open.spotify.com/track/2dG6GUKbE9iOwvnekPYqpj"
+    },
+    {
+      "album": {
+        "name": "Our Bones Turn To Stone",
+        "url": "https://open.spotify.com/album/4QeYsU1kwSkhaFy2nTEgPc"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260225,
+      "name": "Our Bones Turn To Stone",
+      "url": "https://open.spotify.com/track/34cEptw4RfQDGFK1IxRIGS"
     },
     {
       "album": {
@@ -2128,6 +2164,24 @@
     },
     {
       "album": {
+        "name": "Chill",
+        "url": "https://open.spotify.com/album/5MFWk9bIGj16LbhAiE02gy"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240129,
+      "name": "Take Me Apart",
+      "url": "https://open.spotify.com/track/2egdJ4zR45FMD4X75DBps9"
+    },
+    {
+      "album": {
         "name": "Take Me Apart",
         "url": "https://open.spotify.com/album/0AKeQGFy4FxMEaE6yS65bY"
       },
@@ -2139,7 +2193,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 240129,
       "name": "Take Me Apart",
       "url": "https://open.spotify.com/track/5Vklvoh0PmgKfekJyVadFs"
@@ -2175,7 +2229,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 195954,
       "name": "Tethered, Wrapped Around",
       "url": "https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ"
@@ -2197,6 +2251,46 @@
       "duration_ms": 195954,
       "name": "Tethered, Wrapped Around",
       "url": "https://open.spotify.com/track/6wFHsAZrmqPBuqIHofO74H"
+    },
+    {
+      "album": {
+        "name": "Mahogany: Chilled Acoustic, Vol. 2",
+        "url": "https://open.spotify.com/album/3lmFDnRg6hkEZKQHEdAe7k"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195954,
+      "name": "Tethered, Wrapped Around",
+      "url": "https://open.spotify.com/track/7y2U9TqgPH6nmfsF0e1Xxl"
+    },
+    {
+      "album": {
+        "name": "Relax de Lujo",
+        "url": "https://open.spotify.com/album/64dnYxJqFy1yyl6BauIAlp"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242289,
+      "name": "The Bottom Line",
+      "url": "https://open.spotify.com/track/0kSiQizAblckIt1kXVMoxg"
     },
     {
       "album": {
@@ -2237,7 +2331,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 242289,
       "name": "The Bottom Line (feat. Josin)",
       "url": "https://open.spotify.com/track/6SWcMCO8k07ptNCxf3Vmij"
@@ -2316,6 +2410,24 @@
     },
     {
       "album": {
+        "name": "Big Joy",
+        "url": "https://open.spotify.com/album/5NKUOGYLG35WcAVaisySTa"
+      },
+      "artists": [
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222891,
+      "name": "This Is Where It Ends",
+      "url": "https://open.spotify.com/track/0wgwdUlMMSWeOKfdZ2X03E"
+    },
+    {
+      "album": {
         "name": "This is Where it Ends",
         "url": "https://open.spotify.com/album/6kyYwC2flZrnoYB7QvQTIc"
       },
@@ -2345,7 +2457,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 222891,
       "name": "This is Where it Ends",
       "url": "https://open.spotify.com/track/58VEaFuQPo9VYXz2775CA3"

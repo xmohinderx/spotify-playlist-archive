@@ -1263,10 +1263,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 232063,
       "name": "Interference",
       "url": "https://open.spotify.com/track/3I40DGI9PpeG99ZDRkiN6K"
+    },
+    {
+      "album": {
+        "name": "Interference",
+        "url": "https://open.spotify.com/album/4WaLea03pYWjTZxcRhICNz"
+      },
+      "artists": [
+        {
+          "name": "Manu Delago",
+          "url": "https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232063,
+      "name": "Interference",
+      "url": "https://open.spotify.com/track/6uSkH1lA8HfcV4XXobZbXu"
     },
     {
       "album": {

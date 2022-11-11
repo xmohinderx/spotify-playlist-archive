@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \b87dance) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \bHeo Hoy Kyung(\ud5c8\ud68c\uacbd)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "published_playlist_ids": [
     "7oIOz55z3nJxu7NnCUP6gQ"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 258420,
       "name": "A Long Dream",
       "url": "https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR"
@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 216232,
       "name": "city snail",
       "url": "https://open.spotify.com/track/6IXYWgfzEP2Raa7E4JK2rB"
@@ -2337,7 +2337,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 185986,
       "name": "Fighting! \uc751\uc6d0\ud574",
       "url": "https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7"
@@ -5359,6 +5359,24 @@
       "duration_ms": 212080,
       "name": "MUSE",
       "url": "https://open.spotify.com/track/0ixKAyXnjZ97RC9RlEpdug"
+    },
+    {
+      "album": {
+        "name": "Memoirs",
+        "url": "https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254852,
+      "name": "My Dear Love",
+      "url": "https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Amsterdam Dance Event takes over Amsterdam with an incredible line\-up of dance & electronic artists this month!
 
-404 songs - 1 day 6 hr 36 min - [published](https://open.spotify.com/playlist/3ZZheCoq2krlIb03B150LK)
+406 songs - 1 day 6 hr 46 min - [published](https://open.spotify.com/playlist/3ZZheCoq2krlIb03B150LK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [In My Head](https://open.spotify.com/track/69uxus0d23ZnTHXi1dVldS) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [In My Head](https://open.spotify.com/album/6nCrDS9ApohnfQvXWHLSEu) | 2:51 | 2022-07-15 | 2022-08-06 |
 | [Infernal Noise](https://open.spotify.com/track/2KL8TfyaV4ZWHSEKhay9ue) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [Space Wizard](https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H) | [Infernal Noises](https://open.spotify.com/album/2XN6XrW387IKmiFzcdBLTb) | 2:40 | 2022-08-30 | 2022-10-14 |
 | [Inside My Head](https://open.spotify.com/track/7x5zEOkuKVqhabPKeQ8ttX) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Inside My Head](https://open.spotify.com/album/2R3Njy2eDzVwiKZtxDSLOD) | 3:47 | 2021-12-15 | 2022-05-17 |
-| [It's Something We Can All Learn From](https://open.spotify.com/track/4o7cSs2ZvZwAFTnJIR3Yph) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Systems Up, Windows Down](https://open.spotify.com/album/1krJI0qspdg43IAO8NJ3FF) | 5:41 | 2022-10-14 |  |
+| [It's Something We Can All Learn From](https://open.spotify.com/track/4FKa9QfCez3WAiN39Uw1WK) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [It's Something We Can All Learn From](https://open.spotify.com/album/3A0l9ph0gpxgqnsaEkJTdO) | 5:41 | 2022-10-17 |  |
+| [It's Something We Can All Learn From](https://open.spotify.com/track/4o7cSs2ZvZwAFTnJIR3Yph) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Systems Up, Windows Down](https://open.spotify.com/album/1krJI0qspdg43IAO8NJ3FF) | 5:41 | 2022-10-14 | 2022-11-11 |
 | [It's You \- San Soda's Panorama Bar Acca Version](https://open.spotify.com/track/4J8SM5PgBnC38kdSbphlfA) | [FCL](https://open.spotify.com/artist/5P1m0YM0AYTKGI5ugWfQwe), [San Soda](https://open.spotify.com/artist/2ZA2y23qlBaOIKOrZa2umN) | [Defected Ibiza 2019](https://open.spotify.com/album/6Y02jJPn93YunFpYUz83gj) | 6:21 | 2022-10-14 |  |
 | [Jack Flip](https://open.spotify.com/track/2yQcHJYJngvxS6L3kH7eRm) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Jack Flip](https://open.spotify.com/album/0Qg4RgceOxpJaLsZ0J3CcU) | 2:35 | 2022-07-15 | 2022-08-06 |
 | [JUNGLE TEKNAH](https://open.spotify.com/track/68TFG76EGGL6WZ5NlSu0fo) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/5CiPiMVy48leoaMEdzz9df) | 4:01 | 2022-10-14 |  |
@@ -264,7 +265,8 @@
 | [Rai](https://open.spotify.com/track/3kQKmyR72imok1PapkpjjE) | [Bambounou](https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX), [Bruce](https://open.spotify.com/artist/538TUK3KiHnDNHkHLF2yrK) | [Final Conference](https://open.spotify.com/album/60NNHQNq1nGCLZkJ6cSOGc) | 5:03 | 2022-10-14 |  |
 | [Rave Alert](https://open.spotify.com/track/6lYvXGenh0QSJWuHRUHMi6) | [LOOPERS](https://open.spotify.com/artist/0Aemly9h57T2sLKpkNq409), [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Rave Alert](https://open.spotify.com/album/3V9nRhbyUI5PWRgv5d5mdP) | 3:25 | 2022-07-25 | 2022-08-06 |
 | [Rayhana](https://open.spotify.com/track/43QVVdaC3R2dYK1HFWtLkc) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN) | [Rayhana](https://open.spotify.com/album/4HsY3R8H0jbKd2PdwXI2cH) | 5:17 | 2022-10-14 |  |
-| [Really Want That](https://open.spotify.com/track/14d8jfNLB5I9Lcxb205VAe) | [Jace XL](https://open.spotify.com/artist/3rZ0D1eTJ7qUfu5LqxXpSM) | [Really Want That](https://open.spotify.com/album/3N3hljU2Y0zEF2vjt7udkQ) | 4:21 | 2022-10-14 |  |
+| [Really Want That](https://open.spotify.com/track/14d8jfNLB5I9Lcxb205VAe) | [Jace XL](https://open.spotify.com/artist/3rZ0D1eTJ7qUfu5LqxXpSM) | [Really Want That](https://open.spotify.com/album/3N3hljU2Y0zEF2vjt7udkQ) | 4:21 | 2022-10-14 | 2022-11-11 |
+| [Really Want That](https://open.spotify.com/track/7aBhTto2U9sncGzR42zOFA) | [Jace XL](https://open.spotify.com/artist/3rZ0D1eTJ7qUfu5LqxXpSM) | [First Light \(Volume 1\)](https://open.spotify.com/album/6cKAIdUZob2xbczyccf8Zj) | 4:21 | 2022-10-17 |  |
 | [Reason For Fighting](https://open.spotify.com/track/5b2asMklnhZCS27vezhozk) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [ERV ELLO](https://open.spotify.com/artist/6uCQQAHmh8iINfwg98z6zn) | [EDC Las Vegas 2022](https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau) | 3:58 | 2022-05-16 | 2022-06-10 |
 | [REDLINE](https://open.spotify.com/track/1RF5o6GuRusEzMNiiaO2z2) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [EDC Las Vegas 2022](https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau) | 2:54 | 2022-05-16 | 2022-06-10 |
 | [Relight My Love](https://open.spotify.com/track/6dKDKwtdZtGlR8e1tZGEYS) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Relight My Love](https://open.spotify.com/album/4nPnujo6paeU0XbRMpYO40) | 2:57 | 2022-07-15 | 2022-08-06 |

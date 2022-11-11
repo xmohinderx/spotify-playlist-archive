@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 189093,
       "name": "Back Down to Earth",
       "url": "https://open.spotify.com/track/6yrxGhTAmFttyujYsfRHIL"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 179600,
       "name": "Clair",
       "url": "https://open.spotify.com/track/1lYJDRaadnotdfcZFp5Izd"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 257839,
       "name": "He Ain't Heavy, He's My Brother",
       "url": "https://open.spotify.com/track/41iPmvB2ogl3dzEHw9EZh0"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255680,
       "name": "I Found a Reason - 2015 Remaster",
       "url": "https://open.spotify.com/track/3AFImoxgt7EmXHgpaGLbLt"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 115293,
       "name": "Junk - 2011 Remaster",
       "url": "https://open.spotify.com/track/4w9Uex2WJC3QCawt8vLM05"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 240986,
       "name": "Listen To What The Man Said - 2014 Remaster",
       "url": "https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 229826,
       "name": "Maybe I\u2019m Amazed - 2011 Remaster",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 184533,
       "name": "My Own Space",
       "url": "https://open.spotify.com/track/6trxmIB7QC2eQqWMMLgFrJ"
@@ -1784,6 +1784,42 @@
     },
     {
       "album": {
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290560,
+      "name": "Peaches And Diesel",
+      "url": "https://open.spotify.com/track/2nqesy7vSlS8QKWE1zgUfE"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Eight",
+        "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "date_added": "2021-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284133,
+      "name": "Pieces Of Eight",
+      "url": "https://open.spotify.com/track/7EWoyfv1zbF9UufIMLrepX"
+    },
+    {
+      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -1939,7 +1975,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 277960,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
@@ -1961,6 +1997,24 @@
       "duration_ms": 278600,
       "name": "Sailing - 2008 Remaster",
       "url": "https://open.spotify.com/track/2krjNGN2eoPy3cfJLtdZMV"
+    },
+    {
+      "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238800,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/36N7FB6SiOxmnjwjfjTcSG"
     },
     {
       "album": {
@@ -2342,6 +2396,24 @@
     },
     {
       "album": {
+        "name": "A Night on the Town (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7nge8Pafna5rU1a0ek7dKN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "date_added": "2021-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269106,
+      "name": "The First Cut Is the Deepest - 2009 Remaster",
+      "url": "https://open.spotify.com/track/5PCwZK8R7BkK9wVOsm52OJ"
+    },
+    {
+      "album": {
         "name": "The Joker",
         "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
@@ -2497,7 +2569,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
@@ -2720,6 +2792,24 @@
     },
     {
       "album": {
+        "name": "Wings Greatest",
+        "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2021-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347253,
+      "name": "With A Little Luck",
+      "url": "https://open.spotify.com/track/4e7HJXoesmfRboLc3pYGTS"
+    },
+    {
+      "album": {
         "name": "London Town (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ye0I2FTRyBCNSbxk5KsTk"
       },
@@ -2731,7 +2821,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 344773,
       "name": "With A Little Luck - Remastered 1993",
       "url": "https://open.spotify.com/track/0wLpW3AwfNicWHef8joJLb"
@@ -2785,10 +2875,28 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 225026,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+    },
+    {
+      "album": {
+        "name": "Complete Clapton",
+        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2021-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Wonderful Tonight - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6is9a0Snbxcsef7xQqZQrQ"
     },
     {
       "album": {
@@ -2807,6 +2915,24 @@
       "duration_ms": 216626,
       "name": "You Make Loving Fun - 2004 Remaster",
       "url": "https://open.spotify.com/track/55mQhobuwtY7lfLAXylg1k"
+    },
+    {
+      "album": {
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "date_added": "2021-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230720,
+      "name": "You Put Something Better Inside Me",
+      "url": "https://open.spotify.com/track/5UGRLxnCVrmG3v1l6krW6V"
     },
     {
       "album": {
@@ -2839,7 +2965,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 268866,
       "name": "You've Got a Friend - 2019 Remaster",
       "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"

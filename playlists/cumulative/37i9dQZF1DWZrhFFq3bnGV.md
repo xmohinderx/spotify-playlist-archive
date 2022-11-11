@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Joey Alexander
 
-77 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/50nx8bYWnlzdoNtPoX5a5I)
+78 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/50nx8bYWnlzdoNtPoX5a5I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Social Abstract](https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Felix Buliks](https://open.spotify.com/artist/5HDeolVBVWUabGnIap2sho), [Ankadiov Subran](https://open.spotify.com/artist/2u0Msra1dmkHl0rRI1bigH), [Denis Junio](https://open.spotify.com/artist/42LqHOacC0AaCbAH9S3B1E) | [Social Abstract](https://open.spotify.com/album/42WoRZI4APMWNomQ7k5bPF) | 3:49 | 2022-09-02 |  |
 | [Stay](https://open.spotify.com/track/2v2RXHwpOZXgPhgtqreHbv) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG) | [Kurun Waktu](https://open.spotify.com/album/3bcdLrLC5hkVxT0TIFDgu6) | 3:55 | 2022-09-02 |  |
 | [Sugar Crush](https://open.spotify.com/track/2XXNCwDytfdMITKw6a9jir) | [newbloodfusion](https://open.spotify.com/artist/6OYpsgVFA2EBkd7H5j4JCk) | [Sugar Crush](https://open.spotify.com/album/2MTjLTwiDDX5FSo8jitJxU) | 5:40 | 2022-09-02 |  |
-| [Swarna Jingga](https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/4WJmpMeNY0dKGGxbt5ovox) | 6:51 | 2022-09-02 |  |
+| [Swarna Jingga](https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/4WJmpMeNY0dKGGxbt5ovox) | 6:51 | 2022-09-02 | 2022-11-11 |
+| [Swarna Jingga](https://open.spotify.com/track/4wLAbniSEi6S0SFn1bNo7l) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Swarna Jingga](https://open.spotify.com/album/3ROsWUDFyKPhZi3C06s219) | 6:51 | 2022-09-22 |  |
 | [Talking to Myself](https://open.spotify.com/track/72hbDZ7MMYjweTu3ItXysl) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Talking to Myself](https://open.spotify.com/album/181Fo4Z0LGLGVTjy2VPm2n) | 3:23 | 2022-09-02 |  |
 | [Terjebak Rasa](https://open.spotify.com/track/1mCbEnBemrfcJlOVBzDKbm) | [Dony Koeswinarno](https://open.spotify.com/artist/2Hayo3Hkb9m2qOcyRKkzFG), [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Terjebak Rasa](https://open.spotify.com/album/1JZnaNG5spkRUh7eV8y99e) | 3:41 | 2022-09-02 |  |
 | [The Way You Make Me Feel](https://open.spotify.com/track/7sncCClNIeE5i54JrkirGI) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7), [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG) | [The Way You Make Me Feel](https://open.spotify.com/album/3RjLQCopcBOikdCe19NVtH) | 3:40 | 2022-09-16 |  |

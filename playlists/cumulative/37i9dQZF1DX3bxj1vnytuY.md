@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-131 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+133 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Mirari](https://open.spotify.com/track/33OHSpGMU23L5QbJ6tz76S) | [Da Fresh](https://open.spotify.com/artist/0BmOEIkxF8hzj1NKUS6gwE), [Noidor](https://open.spotify.com/artist/0tXYl1GWDnDsBoaSPbMnuT) | [Mirari](https://open.spotify.com/album/18bIcMfS7bX3HUIMtskbPI) | 8:15 | 2022-04-13 |  |
 | [Moniety \- Zuma Dionys Remix](https://open.spotify.com/track/429fbNqnI6oPNg3vyMQHe3) | [Nakriz](https://open.spotify.com/artist/7xOnNnEPGiv30dRUzHSgOM), [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Moniety \(Zuma Dionys Remix\)](https://open.spotify.com/album/4TjycR17WTU1NtzroqlGlw) | 7:13 | 2022-04-13 |  |
 | [Mulajia \- Live Album](https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:23 | 2022-05-20 |  |
+| [Mykonos](https://open.spotify.com/track/6xM5J6zi05edZeo06y524g) | [Fantasi](https://open.spotify.com/artist/3hA7JQHjqkT82wssjqG3uK), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF) | [Mykonos](https://open.spotify.com/album/1suGVIujM6SWlo0HktXH23) | 3:46 | 2022-11-10 |  |
 | [Nabad](https://open.spotify.com/track/7wEmAzcAIKXhS1JnKP81Pe) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Helem](https://open.spotify.com/album/6hsfOW3mF5VGwLL3tEpsig) | 6:26 | 2022-04-13 |  |
 | [Nemrut \- Edit](https://open.spotify.com/track/3yYRlfWjWcJReYTAT54I7o) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Nemrut \(Edit\)](https://open.spotify.com/album/59DIyGYgWwT6vo7eSeaae3) | 6:30 | 2022-04-13 |  |
 | [Odin \- atalkingdrum Remix](https://open.spotify.com/track/11LVlokOK5w2h2HWvX1jN1) | [Zone+](https://open.spotify.com/artist/5TyGDxSguO86fVeA8LWQj1), [Bachir Salloum](https://open.spotify.com/artist/1ICH9aTWuJCGa1MQi7hMh9), [atalkingdrum](https://open.spotify.com/artist/5Cy5Nk0jBHN5Z7fxtghBCO) | [Odin Remixes](https://open.spotify.com/album/2FbqUBG0CU0D67DdkFWwuH) | 6:26 | 2022-04-13 |  |
@@ -95,8 +96,9 @@
 | [Rasme Zmune](https://open.spotify.com/track/2nuBil30xSfvm8xgbKHj62) | [Jean Vayat](https://open.spotify.com/artist/6fmbuS3uHI2jXDmTl9d64K), [Mohsen Neshom](https://open.spotify.com/artist/3wqDjOH7IwQHnqdSWgb2jo) | [Rasme Zmune](https://open.spotify.com/album/7eBetateogBdX7nSPynMbD) | 6:58 | 2022-06-15 |  |
 | [Reciprocity \- Main Mix](https://open.spotify.com/track/6ZXwOcG6Fv8o5CqClFR4kw) | [Moon Rocket](https://open.spotify.com/artist/1kSsrlTgiil1smkT4Brc6P), [Paula](https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK) | [Reciprocity](https://open.spotify.com/album/31oNgHxGq2wuAK6GySc5xZ) | 6:43 | 2022-04-13 |  |
 | [Red Tree \- Tebra Remix](https://open.spotify.com/track/4QjUPodE9OOPT9gLsJkziX) | [Tuba Twooz](https://open.spotify.com/artist/7dk54rOVrS7HSNRWRLu8Bt), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Red Tree](https://open.spotify.com/album/0uDsXtAdZXHwYUCp898xqI) | 6:40 | 2022-07-13 |  |
-| [Reshetka](https://open.spotify.com/track/0MmGBtEVw3COl2ElmvJVy3) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Ethno World 2](https://open.spotify.com/album/5pdUgjwzDl9iEOR32qh0YC) | 7:33 | 2022-07-21 |  |
+| [Reshetka](https://open.spotify.com/track/0MmGBtEVw3COl2ElmvJVy3) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Ethno World 2](https://open.spotify.com/album/5pdUgjwzDl9iEOR32qh0YC) | 7:33 | 2022-07-21 | 2022-11-11 |
 | [Reshetka](https://open.spotify.com/track/5OOsTNjddctg0r1N1AtGSi) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Aciga Vurma](https://open.spotify.com/album/5M4YENiQ2zMfMtxyHWVJV7) | 7:33 | 2022-04-13 | 2022-07-29 |
+| [Reshetka](https://open.spotify.com/track/6e4FB9K0gSOV98htH4Fn6k) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Aciga Vurma](https://open.spotify.com/album/1czFwH6AT4vgOvYdDUL3U0) | 7:33 | 2022-11-10 |  |
 | [Sabali](https://open.spotify.com/track/0qGPPBNHicENPAfFKBxii2) | [Professor](https://open.spotify.com/artist/6CVlmc2tvzoff758MgvAT5) | [Aura](https://open.spotify.com/album/1J9KsdksTLNcUCj8xK8MAk) | 5:18 | 2022-05-30 | 2022-07-29 |
 | [Sabali](https://open.spotify.com/track/7pSCO1Uf22BPMvFSzSiFmw) | [Professor](https://open.spotify.com/artist/6CVlmc2tvzoff758MgvAT5) | [Journey](https://open.spotify.com/album/3b5IdXSse2wu3lDfWgHNu8) | 5:18 | 2022-07-21 |  |
 | [Sajanna](https://open.spotify.com/track/42lUfNanMpFhibe2lNGqpA) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Nizami](https://open.spotify.com/album/5dHAWAY4CJ1MWYWjB25rVW) | 7:34 | 2022-04-13 | 2022-07-29 |

@@ -548,6 +548,24 @@
     },
     {
       "album": {
+        "name": "Trending Classic Hits",
+        "url": "https://open.spotify.com/album/1flJw0uicWg1LYNxJiIZ0F"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209520,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/2OUzV6yTNSWmsvkjGHcWuq"
+    },
+    {
+      "album": {
         "name": "The Traveling Wilburys Collection",
         "url": "https://open.spotify.com/album/0VLa5f9BTACR1SQexZaSSD"
       },
@@ -577,7 +595,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 209520,
       "name": "End Of The Line",
       "url": "https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE"
@@ -631,10 +649,28 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 215693,
       "name": "Give Me Love (Give Me Peace On Earth)",
       "url": "https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu"
+    },
+    {
+      "album": {
+        "name": "Let It Roll - Songs Of George Harrison",
+        "url": "https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215266,
+      "name": "Give Me Love (Give Me Peace On Earth) - 2009 Mix",
+      "url": "https://open.spotify.com/track/09VtDFWlxC9v9tyRnmpGPl"
     },
     {
       "album": {
@@ -667,10 +703,28 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 199586,
       "name": "Handle With Care",
       "url": "https://open.spotify.com/track/1vQxicuNSODoBECPMFjHMG"
+    },
+    {
+      "album": {
+        "name": "Happy Soft Rock For Kids",
+        "url": "https://open.spotify.com/album/0Fkuj45yLOf8BcYaTuC56r"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199586,
+      "name": "Handle With Care",
+      "url": "https://open.spotify.com/track/49RDkqyoajMxcejmU09uyU"
     },
     {
       "album": {
@@ -800,6 +854,24 @@
     },
     {
       "album": {
+        "name": "Let It Roll - Songs Of George Harrison",
+        "url": "https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427628,
+      "name": "Isn't It A Pity - 2009 Mix",
+      "url": "https://open.spotify.com/track/3hwezmkHofZ5TAXQiG4VzW"
+    },
+    {
+      "album": {
         "name": "All Things Must Pass (Remastered 2014)",
         "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
@@ -811,7 +883,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 430866,
       "name": "Isn't It A Pity - Remastered 2014",
       "url": "https://open.spotify.com/track/25fDeVbN8AYWRriJfutwaG"
@@ -1178,6 +1250,24 @@
     },
     {
       "album": {
+        "name": "Let It Roll - Songs Of George Harrison",
+        "url": "https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264986,
+      "name": "What Is Life - 2009 Mix",
+      "url": "https://open.spotify.com/track/0oBw6F8Wl5tTbwexgcFV1N"
+    },
+    {
+      "album": {
         "name": "All Things Must Pass (Remastered 2014)",
         "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
@@ -1189,7 +1279,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 264413,
       "name": "What Is Life - Remastered 2014",
       "url": "https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp"

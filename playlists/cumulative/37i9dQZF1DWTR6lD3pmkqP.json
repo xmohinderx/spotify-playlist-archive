@@ -1289,7 +1289,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 221129,
       "name": "Chandler",
       "url": "https://open.spotify.com/track/0xaTg3VQlkaeWmmBuzSKR4"
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 340044,
       "name": "Cigogne",
       "url": "https://open.spotify.com/track/7y2Lj0tT4XdozP3oThtZm3"
@@ -2853,7 +2853,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 261773,
       "name": "Flint",
       "url": "https://open.spotify.com/track/67ryoGDiSRsCZA5bQHOhlx"
@@ -4681,7 +4681,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 258000,
       "name": "LORIMER feat. Savannah Harris",
       "url": "https://open.spotify.com/track/7c0TJhI2JkflNx9RzKR9pa"
@@ -5335,7 +5335,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 402773,
       "name": "Move",
       "url": "https://open.spotify.com/track/3HYCr4XXLZxMBqNQOvFNFR"
@@ -5639,7 +5639,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 387737,
       "name": "New York Stroll",
       "url": "https://open.spotify.com/track/52hrFgOpNZX5pO8JdMjzJK"
@@ -6377,7 +6377,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 585601,
       "name": "Plastic Rain",
       "url": "https://open.spotify.com/track/3tv8osVVtb4OlKJGqsrJjA"
@@ -7209,7 +7209,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 333393,
       "name": "Sensing Not Seeing",
       "url": "https://open.spotify.com/track/7JvzDglhFgutMbQvXLOoxE"
@@ -7374,6 +7374,24 @@
     },
     {
       "album": {
+        "name": "Signal from the Noise",
+        "url": "https://open.spotify.com/album/5Pb3M4EOheUjuTeljIO1Wm"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542749,
+      "name": "Signal from the Noise",
+      "url": "https://open.spotify.com/track/3dKZlQClidfoxn2Xsj5usR"
+    },
+    {
+      "album": {
         "name": "Talk Memory",
         "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
       },
@@ -7385,7 +7403,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 542749,
       "name": "Signal from the Noise",
       "url": "https://open.spotify.com/track/4K6Ns8QEIQJ8UH9QHEoFRS"
@@ -7987,7 +8005,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 386586,
       "name": "Sunfish",
       "url": "https://open.spotify.com/track/7wXFm7V9l7WDL08iyghuPm"
@@ -8181,7 +8199,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 294139,
       "name": "Symphonie Pacifique",
       "url": "https://open.spotify.com/track/1KFhl1VNM6z4bpqAQETzTN"
@@ -9071,7 +9089,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 315199,
       "name": "Triceratops / The Caller",
       "url": "https://open.spotify.com/track/1DXrHK5VDk1GPW5j1aQlrP"
@@ -9683,7 +9701,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 474053,
       "name": "When Will I See You Again?",
       "url": "https://open.spotify.com/track/7Aw96tEdt9BhDBU8PFSgXN"
